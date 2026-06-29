@@ -49,6 +49,11 @@ When a study source file is provided:
 The assistant is responsible for normalizing source content into the site structure.
 The user does not need to pre-separate topics, links, or page architecture beyond placing source files in the content folders.
 
+Layout rule:
+
+- the assistant may adapt source material into the site's page layout and navigation structure
+- but authored study content should not be compressed, paraphrased, or omitted unless explicitly requested
+
 ## Study Page Standard
 
 Each study page should, at minimum:

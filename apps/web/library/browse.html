@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Browse Library | The Way of Scripture</title>
+    <meta
+      name="description"
+      content="Browse studies and passages for The Way of Scripture."
+    />
+    <link rel="stylesheet" href="../styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="site-header">
+        <a class="brand" href="../index.html" aria-label="The Way of Scripture home">
+          <img
+            class="brand-mark"
+            src="../assets/icons/icon.jpg"
+            alt="The Way of Scripture icon"
+          />
+          <div class="brand-copy">
+            <span class="brand-title">The Way of Scripture</span>
+            <span class="brand-subtitle">Returning to the text itself</span>
+          </div>
+        </a>
+        <nav class="site-nav" aria-label="Primary">
+          <a href="../index.html">Home</a>
+          <a href="./index.html">Studies</a>
+          <a href="./passages.html">Passages</a>
+        </nav>
+      </header>
+
+      <main class="kb-shell">
+        <section class="kb-topbar scripture-kb-topbar">
+          <div class="kb-topbar-inner scripture-kb-topbar-inner">
+            <h1 class="kb-title">Browse Library</h1>
+            <input id="librarySearch" class="kb-search" type="search" placeholder="Search studies, passages, books..." />
+            <button id="libraryBrowseBtn" class="kb-browse-btn" aria-expanded="false">Browse</button>
+          </div>
+        </section>
+
+        <section class="kb-layout scripture-kb-layout">
+          <aside class="kb-nav" id="libraryNavDrawer">
+            <div class="kb-nav-controls">
+              <label class="kb-control-label" for="libraryTypeSelect">Content Type</label>
+              <select id="libraryTypeSelect" class="kb-select">
+                <option value="studies">Studies</option>
+                <option value="passages">Passages</option>
+              </select>
+
+              <label class="kb-control-label" for="libraryViewSelect">Browse By</label>
+              <select id="libraryViewSelect" class="kb-select">
+                <option value="az">A-Z</option>
+                <option value="book">By Book</option>
+              </select>
+
+              <div class="kb-nav-actions">
+                <button id="libraryExpandAll" class="kb-nav-action-btn">Expand All</button>
+                <button id="libraryCollapseAll" class="kb-nav-action-btn">Collapse All</button>
+              </div>
+            </div>
+            <div id="libraryNav"></div>
+          </aside>
+          <div id="libraryNavBackdrop" class="kb-nav-backdrop"></div>
+          <article class="kb-content">
+            <div id="libraryResults" class="kb-results"></div>
+            <div id="libraryArticle"></div>
+          </article>
+        </section>
+      </main>
+    </div>
+
+    <script>
+      let LIBRARY_DATA = { studies: [], passages: [] };
+      let activeType = "studies";
+      let activeId = "";
+      let navView = "az";
+      const collapsedGroups = new Set();
+
+      const typeSelectEl = document.getElementById("libraryTypeSelect");
+      const viewSelectEl = document.getElementById("libraryViewSelect");
+      const expandAllEl = document.getElementById("libraryExpandAll");
+      const collapseAllEl = document.getElementById("libraryCollapseAll");
+      const navEl = document.getElementById("libraryNav");
+      const navDrawerEl = document.getElementById("libraryNavDrawer");
+      const navBackdropEl = document.getElementById("libraryNavBackdrop");
+      const browseBtnEl = document.getElementById("libraryBrowseBtn");
+      const articleEl = document.getElementById("libraryArticle");
+      const resultsEl = document.getElementById("libraryResults");
+      const searchEl = document.getElementById("librarySearch");
+      const mobileMq = window.matchMedia("(max-width: 960px)");
+
+      function getCurrentItems() {
+        return LIBRARY_DATA[activeType] || [];
+      }
+
+      function syncQuery() {
+        const url = new URL(window.location.href);
+        url.searchParams.set("type", activeType);
+        window.history.replaceState({}, "", url);
+      }
+
+      function syncViewOptions() {
+        if (activeType === "studies") {
+          viewSelectEl.innerHTML = '<option value="az">A-Z</option>';
+          navView = "az";
+        } else {
+          viewSelectEl.innerHTML = '<option value="book">By Book</option>';
+          navView = "book";
+        }
+      }
+
+      function openDrawer() {
+        if (!mobileMq.matches) return;
+        document.body.classList.add("kb-nav-open");
+        browseBtnEl.setAttribute("aria-expanded", "true");
+      }
+
+      function closeDrawer() {
+        document.body.classList.remove("kb-nav-open");
+        browseBtnEl.setAttribute("aria-expanded", "false");
+      }
+
+      function getGroups() {
+        const items = getCurrentItems();
+        const groups = {};
+        if (activeType === "studies") {
+          items.forEach((item) => {
+            const first = (item.title.trim()[0] || "#").toUpperCase();
+            const letter = /[A-Z]/.test(first) ? first : "#";
+            if (!groups[letter]) groups[letter] = [];
+            groups[letter].push(item);
+          });
+          return Object.keys(groups).sort().map((key) => ({ key, label: key, items: groups[key] }));
+        }
+
+        items.forEach((item) => {
+          const key = item.book || "Other";
+          if (!groups[key]) groups[key] = [];
+          groups[key].push(item);
+        });
+        const order = LIBRARY_DATA.book_order || [];
+        return Object.keys(groups)
+          .sort((a, b) => {
+            const ai = order.indexOf(a);
+            const bi = order.indexOf(b);
+            const ar = ai === -1 ? Number.MAX_SAFE_INTEGER : ai;
+            const br = bi === -1 ? Number.MAX_SAFE_INTEGER : bi;
+            return ar - br || a.localeCompare(b);
+          })
+          .map((key) => ({ key, label: key, items: groups[key] }));
+      }
+
+      function renderNav() {
+        navEl.innerHTML = "";
+        const groups = getGroups();
+        if (!groups.length) {
+          navEl.innerHTML = '<p class="kb-paragraph">No content is available yet.</p>';
+          return;
+        }
+
+        if (!activeId) {
+          activeId = groups[0].items[0] ? groups[0].items[0].id : "";
+        }
+
+        groups.forEach((group, index) => {
+          const key = `${activeType}:${group.key}`;
+          const wrap = document.createElement("section");
+          wrap.className = "kb-nav-group";
+
+          const headerBtn = document.createElement("button");
+          headerBtn.className = "kb-nav-group-toggle";
+          const containsActive = group.items.some((item) => item.id === activeId);
+          const shouldCollapse = collapsedGroups.has(key) && !containsActive;
+          headerBtn.setAttribute("aria-expanded", shouldCollapse ? "false" : "true");
+          headerBtn.innerHTML = `<span>${group.label} (${group.items.length})</span><span class="kb-chevron">${shouldCollapse ? "▸" : "▾"}</span>`;
+          headerBtn.addEventListener("click", () => {
+            if (collapsedGroups.has(key)) {
+              collapsedGroups.delete(key);
+            } else {
+              collapsedGroups.add(key);
+            }
+            renderNav();
+          });
+          wrap.appendChild(headerBtn);
+
+          const list = document.createElement("ul");
+          list.className = "kb-nav-list";
+          if (shouldCollapse) list.style.display = "none";
+          group.items
+            .slice()
+            .sort((a, b) => a.title.localeCompare(b.title))
+            .forEach((item) => {
+              const li = document.createElement("li");
+              li.className = "kb-nav-item";
+              const btn = document.createElement("button");
+              btn.className = item.id === activeId ? "is-active" : "";
+              btn.textContent = item.title;
+              btn.addEventListener("click", () => {
+                activeId = item.id;
+                renderArticle(activeId);
+                renderNav();
+                hideResults();
+                closeDrawer();
+              });
+              li.appendChild(btn);
+              list.appendChild(li);
+            });
+          wrap.appendChild(list);
+          navEl.appendChild(wrap);
+
+          if (index === 0 && !containsActive && !activeId) {
+            activeId = group.items[0] ? group.items[0].id : "";
+          }
+        });
+      }
+
+      function renderStudy(item) {
+        return `
+          <p class="kb-breadcrumb">Library / Studies / ${item.title}</p>
+          <h2 class="kb-article-title">${item.title}</h2>
+          ${item.subtitle ? `<p class="article-subtitle">${item.subtitle}</p>` : ""}
+          <p class="kb-meta">Primary Translation: ${item.translation}</p>
+          <p class="kb-paragraph">${item.summary}</p>
+          <p class="kb-paragraph"><a href="${item.href}">Open study page</a></p>
+        `;
+      }
+
+      function renderPassage(item) {
+        const related = item.related_studies.length
+          ? `<ul class="study-link-list">${item.related_studies.map((study) => `<li><a href="${study.href}">${study.title}</a></li>`).join("")}</ul>`
+          : `<p class="kb-paragraph">No related study page yet.</p>`;
+        return `
+          <p class="kb-breadcrumb">Library / Passages / ${item.book} / ${item.title}</p>
+          <h2 class="kb-article-title">${item.title}</h2>
+          <p class="kb-meta">Default Display Order: LSB, NKJV, NABRE</p>
+          <p class="kb-paragraph">${item.note}</p>
+          <p class="kb-paragraph"><a href="${item.href}">Open passage page</a></p>
+          <h3 class="kb-section-title">Related Studies</h3>
+          ${related}
+        `;
+      }
+
+      function renderArticle(id) {
+        const item = getCurrentItems().find((entry) => entry.id === id) || getCurrentItems()[0];
+        if (!item) {
+          articleEl.innerHTML = '<p class="kb-paragraph">No content is available yet.</p>';
+          return;
+        }
+        activeId = item.id;
+        articleEl.innerHTML = activeType === "studies" ? renderStudy(item) : renderPassage(item);
+      }
+
+      function hideResults() {
+        resultsEl.classList.remove("is-visible");
+        resultsEl.innerHTML = "";
+      }
+
+      function renderResults(query) {
+        const q = query.trim().toLowerCase();
+        if (!q) {
+          hideResults();
+          return;
+        }
+        const hits = getCurrentItems().filter((item) => {
+          const parts = [item.title, item.summary || "", item.subtitle || "", item.book || "", item.note || ""];
+          return parts.join(" ").toLowerCase().includes(q);
+        });
+        resultsEl.classList.add("is-visible");
+        if (!hits.length) {
+          resultsEl.innerHTML = '<div class="kb-result-item"><h4>No results</h4><p>Try searching by study title, passage, or biblical book.</p></div>';
+          return;
+        }
+        resultsEl.innerHTML = hits.map((item) => `
+          <div class="kb-result-item" data-id="${item.id}">
+            <h4>${item.title}</h4>
+            <p>${activeType === "studies" ? "Study" : item.book}</p>
+          </div>
+        `).join("");
+        resultsEl.querySelectorAll(".kb-result-item[data-id]").forEach((el) => {
+          el.addEventListener("click", () => {
+            activeId = el.dataset.id;
+            renderArticle(activeId);
+            renderNav();
+            hideResults();
+            searchEl.value = "";
+            closeDrawer();
+          });
+        });
+      }
+
+      async function initLibrary() {
+        try {
+          const res = await fetch("../assets/library_index.json", { cache: "no-store" });
+          LIBRARY_DATA = await res.json();
+        } catch (e) {
+          LIBRARY_DATA = { studies: [], passages: [], book_order: [] };
+        }
+
+        const params = new URLSearchParams(window.location.search);
+        activeType = params.get("type") === "passages" ? "passages" : "studies";
+        typeSelectEl.value = activeType;
+        syncViewOptions();
+        activeId = getCurrentItems()[0] ? getCurrentItems()[0].id : "";
+        syncQuery();
+        renderNav();
+        renderArticle(activeId);
+
+        typeSelectEl.addEventListener("change", () => {
+          activeType = typeSelectEl.value;
+          collapsedGroups.clear();
+          syncViewOptions();
+          activeId = getCurrentItems()[0] ? getCurrentItems()[0].id : "";
+          searchEl.value = "";
+          hideResults();
+          syncQuery();
+          renderNav();
+          renderArticle(activeId);
+        });
+
+        viewSelectEl.addEventListener("change", () => {
+          navView = viewSelectEl.value;
+          renderNav();
+        });
+
+        browseBtnEl.addEventListener("click", () => {
+          if (document.body.classList.contains("kb-nav-open")) closeDrawer();
+          else openDrawer();
+        });
+
+        navBackdropEl.addEventListener("click", closeDrawer);
+
+        expandAllEl.addEventListener("click", () => {
+          collapsedGroups.clear();
+          renderNav();
+        });
+
+        collapseAllEl.addEventListener("click", () => {
+          collapsedGroups.clear();
+          getGroups().forEach((group) => {
+            collapsedGroups.add(`${activeType}:${group.key}`);
+          });
+          renderNav();
+        });
+
+        searchEl.addEventListener("input", (e) => renderResults(e.target.value));
+      }
+
+      initLibrary();
+    </script>
+  </body>
+</html>

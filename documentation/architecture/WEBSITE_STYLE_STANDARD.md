@@ -119,6 +119,18 @@ Avoid:
 - overly saturated modern marketing colors
 - high-contrast decorative effects that compete with Scripture text
 
+### Dark-Surface Contrast Rule
+
+When text is placed directly on the darker site background rather than inside a light reading panel, it must switch to a light high-contrast treatment.
+
+This applies especially to:
+
+- section headings placed outside cards or panels
+- browse links placed directly on the dark page background
+- library/navigation labels that sit on the page background rather than within a light surface
+
+Do not rely on the default dark body text color for content sitting directly on dark backgrounds.
+
 ## Typography Direction
 
 Typography should feel intentional and readable.
