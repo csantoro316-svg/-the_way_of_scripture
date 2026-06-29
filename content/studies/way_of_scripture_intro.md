@@ -2,7 +2,7 @@
 
 ## Welcome
 
-The name of this channel and site comes from the earliest followers of Jesus, who were not called Christians — they were called followers of **The Way** (Acts 9:2, 19:9, 24:14). That name was not incidental. It described people who had found not just a belief system, but a path — one rooted in the person of Christ, walked out in daily life, and grounded in what God had actually said.
+The name of this site comes from the earliest followers of Jesus, who were not called Christians — they were called followers of **The Way** (Acts 9:2, 19:9, 24:14). That name was not incidental. It described people who had found not just a belief system, but a path — one rooted in the person of Christ, walked out in daily life, and grounded in what God had actually said.
 
 That is what this site is for.
 

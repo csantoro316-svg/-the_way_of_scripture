@@ -1,6 +1,6 @@
 # Website Style Standard
 
-Updated: 2026-06-28
+Updated: 2026-06-29
 
 ## Purpose
 
@@ -101,6 +101,42 @@ Interior pages should rely on:
 - link clarity
 
 not on decorative visual effects.
+
+### Interior Layout Rule
+
+Interior reading pages should use a single full-width content column within the page's reading surface.
+
+Do not use:
+
+- right-side cards
+- right-hand sidebars
+- stacked utility panels beside study or passage content
+- narrow main content columns created by reserving space for secondary cards
+
+The homepage already moved away from this pattern, and the same rule applies everywhere else on the site.
+
+If supporting navigation or relationship data is needed, integrate it into the main content flow or a lower full-width section rather than a right rail.
+
+Content panels should use the full available reading width so long-form explanations and Scripture discussion are not artificially cramped.
+
+### Full-Width Card Rule
+
+Every card-like surface on the site must let its content use the full available inner width of that card.
+
+This applies to:
+
+- homepage intro cards
+- featured study and featured passage cards
+- study and passage hero cards
+- study body panels
+- feedback panels
+- library browse panels
+
+Do not:
+
+- leave inherited text-width limits inside cards
+- allow paragraphs or headings inside cards to remain artificially narrow when the card itself is full width
+- create card layouts that visually clip or underuse the horizontal space available for long-form copy
 
 ## Color Direction
 

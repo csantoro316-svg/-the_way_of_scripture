@@ -234,9 +234,8 @@
         return `
           <p class="kb-breadcrumb">Library / Passages / ${item.book} / ${item.title}</p>
           <h2 class="kb-article-title">${item.title}</h2>
-          <p class="kb-meta">Default Display Order: LSB, NKJV, NABRE</p>
           <p class="kb-paragraph">${item.note}</p>
-          <p class="kb-paragraph"><a href="${item.href}">Open passage page</a></p>
+          <p class="kb-paragraph"><a href="${item.href}" target="_blank" rel="noopener noreferrer">Open passage page</a></p>
           <h3 class="kb-section-title">Related Studies</h3>
           ${related}
         `;

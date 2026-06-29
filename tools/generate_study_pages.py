@@ -9,6 +9,8 @@ from dataclasses import dataclass
 from pathlib import Path
 from collections import defaultdict
 
+from passage_chapter_contexts import CHAPTER_CONTEXTS
+
 
 ROOT = Path("/home/cozwood/Documents/Dev/the_way_of_scripture")
 SOURCE_DIR = ROOT / "content" / "studies"
@@ -82,7 +84,9 @@ class Study:
     slug: str
     source_name: str
     summary: str
+    intro_html: str
     body_html: str
+    body_lines: list[str]
     references: list["PassageReference"]
 
 
@@ -104,6 +108,28 @@ class PassageReference:
 class PassageSource:
     title: str
     href: str
+
+
+@dataclass(frozen=True)
+class PassageVersion:
+    label: str
+    text: str
+
+
+@dataclass(frozen=True)
+class PassageContent:
+    verses: list[PassageVersion]
+    context_lines: list[str]
+    explanation_lines: list[str]
+
+
+@dataclass(frozen=True)
+class MarkdownBlock:
+    kind: str
+    text: str
+
+
+KNOWN_PASSAGE_REFERENCES: set["PassageReference"] = set()
 
 
 def slugify(text: str) -> str:
@@ -128,7 +154,18 @@ def passage_reference(book: str, citation: str) -> PassageReference:
     return PassageReference(book=book, citation=citation)
 
 
-def render_reference_links(text: str) -> str:
+def passage_href(reference: PassageReference, depth: str = "..") -> str:
+    return f"{depth}/passages/{reference.slug}.html"
+
+
+def passage_link_attrs() -> str:
+    return ' target="_blank" rel="noopener noreferrer"'
+
+
+def render_reference_links(
+    text: str,
+    current_reference: PassageReference | None = None,
+) -> str:
     rendered = html.escape(text)
 
     def replace(match: re.Match[str]) -> str:
@@ -136,7 +173,11 @@ def render_reference_links(text: str) -> str:
         citation = match.group(2).strip()
         ref = PassageReference(book=book, citation=citation)
         label = html.escape(f"{book} {citation}")
-        return f'<a href="../passages/{ref.slug}.html">{label}</a>'
+        if current_reference and ref == current_reference:
+            return label
+        if KNOWN_PASSAGE_REFERENCES and ref not in KNOWN_PASSAGE_REFERENCES:
+            return label
+        return f'<a href="{passage_href(ref)}"{passage_link_attrs()}>{label}</a>'
 
     rendered = re.sub(
         r"((?:[1-3]\s)?[A-Z][A-Za-z]+(?:\s[A-Z][A-Za-z]+)*)\s(\d+:\d+(?:-\d+)?)",
@@ -155,10 +196,18 @@ def render_inline(text: str) -> str:
     return rendered
 
 
-def render_blocks(lines: list[str], enable_reference_links: bool = False) -> str:
+def render_blocks(
+    lines: list[str],
+    enable_reference_links: bool = False,
+    current_reference: PassageReference | None = None,
+) -> str:
     output: list[str] = []
     i = 0
-    inline_renderer = render_reference_links if enable_reference_links else render_inline
+    inline_renderer = (
+        (lambda text: render_reference_links(text, current_reference=current_reference))
+        if enable_reference_links
+        else render_inline
+    )
 
     while i < len(lines):
         line = lines[i]
@@ -224,6 +273,254 @@ def render_blocks(lines: list[str], enable_reference_links: bool = False) -> str
         output.append(f"<p>{inline_renderer(paragraph)}</p>")
 
     return "\n              ".join(output)
+
+
+def markdown_blocks(lines: list[str]) -> list[MarkdownBlock]:
+    blocks: list[MarkdownBlock] = []
+    i = 0
+    while i < len(lines):
+        stripped = lines[i].strip()
+        if not stripped:
+            i += 1
+            continue
+        if stripped == "---":
+            i += 1
+            continue
+        if stripped.startswith("### "):
+            blocks.append(MarkdownBlock(kind="heading3", text=stripped[4:].strip()))
+            i += 1
+            continue
+        if stripped.startswith("## "):
+            blocks.append(MarkdownBlock(kind="heading2", text=stripped[3:].strip()))
+            i += 1
+            continue
+        if stripped.startswith("> "):
+            quote_lines: list[str] = []
+            while i < len(lines) and lines[i].strip().startswith("> "):
+                quote_lines.append(lines[i].strip()[2:])
+                i += 1
+            blocks.append(MarkdownBlock(kind="quote", text=" ".join(quote_lines).strip()))
+            continue
+        if stripped.startswith("- "):
+            items: list[str] = []
+            while i < len(lines) and lines[i].strip().startswith("- "):
+                items.append(lines[i].strip()[2:])
+                i += 1
+            blocks.append(MarkdownBlock(kind="list", text="\n".join(items)))
+            continue
+
+        paragraph_lines = [stripped]
+        i += 1
+        while i < len(lines):
+            next_stripped = lines[i].strip()
+            if (
+                not next_stripped
+                or next_stripped == "---"
+                or next_stripped.startswith("## ")
+                or next_stripped.startswith("### ")
+                or next_stripped.startswith("> ")
+                or next_stripped.startswith("- ")
+            ):
+                break
+            paragraph_lines.append(next_stripped)
+            i += 1
+        blocks.append(MarkdownBlock(kind="paragraph", text=" ".join(paragraph_lines)))
+    return blocks
+
+
+def block_mentions_reference(block: MarkdownBlock, reference: PassageReference) -> bool:
+    return reference.label in block.text
+
+
+def extract_lsb_verse_text(reference: PassageReference, studies: list[Study]) -> str | None:
+    heading_marker = f"### {reference.label}"
+    reference_pattern = re.compile(rf"\*\*{re.escape(reference.label)}(?:\*\*|\s*\()")
+    verse_pattern = re.compile(r"(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)")
+    for study in studies:
+        lines = study.body_lines
+        for idx, line in enumerate(lines):
+            stripped = line.strip()
+            if stripped.startswith("> ") and reference_pattern.search(stripped):
+                quote_lines = [stripped[2:]]
+                j = idx + 1
+                while j < len(lines) and lines[j].strip().startswith("> "):
+                    quote_lines.append(lines[j].strip()[2:])
+                    j += 1
+                quote_text = " ".join(quote_lines)
+                matches = verse_pattern.findall(quote_text)
+                if matches:
+                    return max((match.strip() for match in matches), key=len)
+            if stripped == heading_marker:
+                j = idx + 1
+                while j < len(lines) and not lines[j].strip():
+                    j += 1
+                quote_lines: list[str] = []
+                while j < len(lines) and lines[j].strip().startswith("> "):
+                    quote_lines.append(lines[j].strip()[2:])
+                    j += 1
+                if quote_lines:
+                    matches = verse_pattern.findall(" ".join(quote_lines))
+                    if matches:
+                        return max((match.strip() for match in matches), key=len)
+    return None
+
+
+def extract_explanation_lines(reference: PassageReference, studies: list[Study]) -> list[str]:
+    seen: set[str] = set()
+    for study in studies:
+        blocks = markdown_blocks(study.body_lines)
+        gathered: list[str] = []
+
+        exact_heading_indexes = [
+            idx for idx, block in enumerate(blocks)
+            if block.kind in {"heading2", "heading3"} and block.text.strip() == reference.label
+        ]
+        candidate_indexes = exact_heading_indexes or [
+            idx for idx, block in enumerate(blocks) if block_mentions_reference(block, reference)
+        ]
+        for idx in candidate_indexes:
+            block = blocks[idx]
+
+            candidate_texts: list[str] = []
+            if block.kind == "paragraph":
+                candidate_texts.append(block.text)
+
+            capture_count = 0
+            for next_block in blocks[idx + 1:]:
+                if next_block.kind in {"heading2", "heading3"} and capture_count:
+                    break
+                if next_block.kind == "paragraph":
+                    candidate_texts.append(next_block.text)
+                    capture_count += 1
+                elif next_block.kind == "list" and capture_count < 2:
+                    candidate_texts.append("\n".join(f"- {item}" for item in next_block.text.splitlines()))
+                    capture_count += 1
+                elif next_block.kind == "quote":
+                    continue
+                if capture_count >= 2:
+                    break
+
+            for text in candidate_texts:
+                normalized = re.sub(r"\s+", " ", text).strip()
+                if not normalized or normalized in seen:
+                    continue
+                seen.add(normalized)
+                gathered.extend(text.splitlines())
+                gathered.append("")
+            if len(gathered) >= 6:
+                break
+
+        while gathered and not gathered[-1].strip():
+            gathered.pop()
+        if gathered:
+            return gathered
+
+    return []
+
+
+def build_passage_content(reference: PassageReference, linked_studies: list[Study]) -> PassageContent:
+    override = PASSAGE_CONTENT.get(reference)
+    if override:
+        return override
+
+    chapter = reference.citation.split(":", 1)[0]
+    context_lines = CHAPTER_CONTEXTS.get(
+        (reference.book, chapter),
+        [f"{reference.label} should be read within the flow of its chapter and the larger argument of {reference.book}."],
+    )
+    explanation_lines = extract_explanation_lines(reference, linked_studies)
+    verses: list[PassageVersion] = []
+    lsb_text = extract_lsb_verse_text(reference, linked_studies)
+    if lsb_text:
+        verses.append(PassageVersion(label="LSB", text=lsb_text))
+
+    if not explanation_lines:
+        explanation_lines = [
+            f"{reference.label} should be read first within its own scriptural setting rather than as an isolated slogan.",
+            "",
+            "Where this passage is brought into conversation with other texts, its force should still be governed by its immediate chapter flow and the larger argument of the book.",
+        ]
+
+    return PassageContent(
+        verses=verses,
+        context_lines=context_lines,
+        explanation_lines=explanation_lines,
+    )
+
+
+PASSAGE_CONTENT: dict[PassageReference, PassageContent] = {
+    passage_reference("1 John", "5:14-15"): PassageContent(
+        verses=[
+            PassageVersion(
+                label="LSB",
+                text=(
+                    "Now this is the confidence which we have before Him, that if we ask "
+                    "anything according to His will, He hears us. And if we know that He "
+                    "hears us in whatever we ask, we know that we have the requests which "
+                    "we have asked from Him."
+                ),
+            ),
+            PassageVersion(
+                label="NKJV",
+                text=(
+                    "Now this is the confidence that we have in Him, that if we ask "
+                    "anything according to His will, He hears us. And if we know that He "
+                    "hears us, whatever we ask, we know that we have the petitions that we "
+                    "have asked of Him."
+                ),
+            ),
+            PassageVersion(
+                label="NABRE",
+                text=(
+                    "And we have this confidence in him, that if we ask anything according "
+                    "to his will, he hears us. And if we know that he hears us in regard to "
+                    "whatever we ask, we know that what we have asked him for is ours."
+                ),
+            ),
+        ],
+        context_lines=[
+            "**1 John 5:14-15** comes near the close of the letter, where John is drawing "
+            "together his pastoral purpose: that believers may know the life they have in the "
+            "Son and live with confidence before God.",
+            "",
+            "The immediate context matters. In **1 John 5:13**, John says he is writing so "
+            "that believers may know they have eternal life. Then in verses 14-15 he moves "
+            "straight into confidence in prayer, and in verses 16-17 he applies that confidence "
+            "to a concrete case involving prayer for a brother in sin. The passage is therefore "
+            "not an isolated slogan about getting what one wants from God. It sits inside a "
+            "larger argument about abiding in the Son, walking in truth, and praying in a way "
+            "consistent with God's own life and character.",
+            "",
+            "That wider setting also guards against cherry-picking. Throughout **1 John**, John "
+            "contrasts truth and falsehood, obedience and disobedience, love and hatred, life "
+            "and death. By the time chapter 5 arrives, confidence before God is already tied to "
+            "remaining in Him, believing rightly about Christ, and keeping His commandments. "
+            "Verses 14-15 belong inside that whole framework.",
+        ],
+        explanation_lines=[
+            "The promise is conditional at every step. The text does not say, 'ask and you will "
+            "receive' without qualification. It says that **if** we ask according to His will, "
+            "**then** He hears us; and if He hears us, **then** we know we have what we asked.",
+            "",
+            "That means the controlling issue is not sincerity, repetition, or emotional force. "
+            "The controlling issue is alignment with God's will. John places confidence in "
+            "prayer under God's rule, not under human desire.",
+            "",
+            "Read that way, the verse becomes a boundary for other prayer passages. "
+            "**Acts 4:29-31** shows believers asking for boldness so the word of God may go "
+            "forward, and the request is granted. By contrast, **2 Corinthians 12:7-9** and "
+            "**Romans 15:30-32** show that even earnest, specific requests are not granted "
+            "simply because they are heartfelt. The issue remains whether the request serves "
+            "God's purpose rather than personal relief or preference.",
+            "",
+            "The same principle fits naturally with **John 15:7**, where abiding in Christ shapes "
+            "what is desired and asked, and with **Romans 8:26-27**, where the Spirit intercedes "
+            "according to the will of God when believers do not know how to pray as they should. "
+            "Taken together, **1 John 5:14-15** presents prayer as confidence under God's will, "
+            "not leverage for securing personal outcomes.",
+        ],
+    ),
+}
 
 
 def parse_study(path: Path) -> Study:
@@ -297,9 +594,36 @@ def parse_study(path: Path) -> Study:
             continue
         filtered_body.append(line)
 
-    body_lines = filtered_body
-    body_text = "\n".join(body_lines)
-    references = extract_references(body_text)
+    intro_started = False
+    intro_complete = False
+    intro_lines: list[str] = []
+    body_lines: list[str] = []
+
+    for line in filtered_body:
+        stripped = line.strip()
+        if not intro_complete:
+            if stripped == "---":
+                if not intro_started:
+                    intro_started = True
+                    continue
+                intro_complete = True
+                continue
+            if not intro_started:
+                continue
+            if stripped.startswith("## "):
+                intro_complete = True
+                body_lines.append(line)
+                continue
+            intro_lines.append(line)
+            continue
+        body_lines.append(line)
+
+    if not intro_complete and intro_lines:
+        body_lines = []
+
+    study_text = "\n".join(intro_lines + body_lines)
+    references = extract_references(study_text)
+    intro_html = render_blocks(intro_lines, enable_reference_links=True)
     body_html = render_blocks(body_lines, enable_reference_links=True)
     slug = slugify(path.stem.replace("_", "-"))
 
@@ -310,7 +634,9 @@ def parse_study(path: Path) -> Study:
         slug=slug,
         source_name=path.name,
         summary=summary,
+        intro_html=intro_html,
         body_html=body_html,
+        body_lines=body_lines,
         references=references,
     )
 
@@ -365,6 +691,7 @@ def study_page_html(study: Study) -> str:
         if study.subtitle
         else ""
     )
+    intro_html = study.intro_html or f'<p class="lead">{html.escape(study.summary)}</p>'
     return f"""<!DOCTYPE html>
 <html lang="en">
   <head>
@@ -399,7 +726,9 @@ def study_page_html(study: Study) -> str:
           <p class="eyebrow">Study</p>
           <h1>{html.escape(study.title)}</h1>
 {subtitle_html}          <p class="article-meta">Primary Translation: {html.escape(study.translation)}</p>
-          <p class="lead">{html.escape(study.summary)}</p>
+          <div class="article-hero-copy prose">
+            {intro_html}
+          </div>
         </section>
 
         <div class="article-layout">
@@ -408,21 +737,6 @@ def study_page_html(study: Study) -> str:
               {study.body_html}
             </div>
           </article>
-
-          <aside class="sidebar">
-            <section class="sidebar-card">
-              <h2>Library</h2>
-              <ul class="study-link-list">
-                <li><a href="../library/index.html">Featured studies</a></li>
-                <li><a href="../library/studies-all.html">Browse all studies</a></li>
-              </ul>
-            </section>
-
-            <section class="sidebar-card">
-              <h2>Source File</h2>
-              <p>{html.escape(study.source_name)}</p>
-            </section>
-          </aside>
         </div>
 
         <section class="feedback-note" aria-label="Feedback note">
@@ -441,11 +755,57 @@ def study_page_html(study: Study) -> str:
 """
 
 
+def render_passage_versions(versions: list[PassageVersion]) -> str:
+    return "\n".join(
+        f"""          <div class="passage-version">
+            <h2>{html.escape(version.label)}</h2>
+            <blockquote><p>{html.escape(version.text)}</p></blockquote>
+          </div>"""
+        for version in versions
+    )
+
+
+def render_passage_hero(reference: PassageReference) -> str:
+    content = build_passage_content(reference, [])
+    if not content.verses:
+        return """          <p class="lead">Full passage content has not been curated from the study material yet.</p>"""
+
+    return render_passage_versions(content.verses)
+
+
+def render_passage_body_sections(reference: PassageReference, linked_studies: list[Study]) -> str:
+    content = build_passage_content(reference, linked_studies)
+    if not content:
+        return """              <h2>Context</h2>
+              <p>
+                This passage page exists as a navigation target, but its study-derived context
+                and explanation still need to be written.
+              </p>
+
+              <h2>Explanation</h2>
+              <p>
+                This passage still needs its full treatment from the source material.
+              </p>"""
+
+    context_html = render_blocks(
+        content.context_lines,
+        enable_reference_links=True,
+        current_reference=reference,
+    )
+    explanation_html = render_blocks(
+        content.explanation_lines,
+        enable_reference_links=True,
+        current_reference=reference,
+    )
+    return f"""              <h2>Context</h2>
+              {context_html}
+
+              <h2>Explanation</h2>
+              {explanation_html}"""
+
+
 def passage_page_html(reference: PassageReference, linked_studies: list[Study]) -> str:
-    related_studies = "\n".join(
-        f'                <li><a href="../studies/{study.slug}.html">{html.escape(study.title)}</a></li>'
-        for study in linked_studies
-    ) or "                <li>No linked study page yet.</li>"
+    content = build_passage_content(reference, linked_studies)
     return f"""<!DOCTYPE html>
 <html lang="en">
   <head>
@@ -479,49 +839,15 @@ def passage_page_html(reference: PassageReference, linked_studies: list[Study]) 
         <section class="article-hero">
           <p class="eyebrow">Passage</p>
           <h1>{html.escape(reference.label)}</h1>
-          <p class="article-meta">Default Display Order: LSB, NKJV, NABRE</p>
-          <p class="lead">
-            This passage page exists to support study navigation and reciprocal linking. Source translation text and fuller comparison content can be expanded here later.
-          </p>
+{render_passage_versions(content.verses) if content.verses else '          <p class="lead">Full passage text for this reference is not yet quoted in the current local source material.</p>'}
         </section>
 
         <div class="article-layout">
           <article class="article-body">
             <div class="prose">
-              <h2>Passage Reference</h2>
-              <p>{html.escape(reference.label)}</p>
-
-              <h2>Context Note</h2>
-              <p>
-                This is a generated reference page created from study usage. It currently serves as the navigation target for study references and a shared place to accumulate related study links.
-              </p>
-
-              <h2>Translation Standard</h2>
-              <ul class="prose-list">
-                <li><strong>LSB</strong> as the primary study text</li>
-                <li><strong>NKJV</strong> as a broad comparison version</li>
-                <li><strong>NABRE</strong> as a Catholic-familiar comparison version</li>
-              </ul>
+{render_passage_body_sections(reference, linked_studies)}
             </div>
           </article>
-
-          <aside class="sidebar">
-            <section class="sidebar-card">
-              <h2>Related Studies</h2>
-              <ul class="study-link-list">
-{related_studies}
-              </ul>
-            </section>
-
-            <section class="sidebar-card">
-              <h2>Library</h2>
-              <ul class="study-link-list">
-                <li><a href="../library/passages.html">Featured passages</a></li>
-                <li><a href="../library/passages-by-book.html">Browse all passages</a></li>
-                <li><a href="../library/index.html">Featured studies</a></li>
-              </ul>
-            </section>
-          </aside>
         </div>
 
         <section class="feedback-note" aria-label="Feedback note">
@@ -624,9 +950,9 @@ def featured_passages_html(featured_references: list[PassageReference]) -> str:
         cards.append(
             f"""          <article class="study-card passage-card">
             <p class="eyebrow">Featured Passage</p>
-            <h2><a href="../passages/{reference.slug}.html">{html.escape(reference.label)}</a></h2>
+            <h2><a href="{passage_href(reference)}"{passage_link_attrs()}>{html.escape(reference.label)}</a></h2>
             <p>{html.escape(note)}</p>
-            <a class="study-card-link" href="../passages/{reference.slug}.html">Read passage</a>
+            <a class="study-card-link" href="{passage_href(reference)}"{passage_link_attrs()}>Read passage</a>
           </article>"""
         )
 
@@ -925,9 +1251,8 @@ def browse_page_html() -> str:
         return `
           <p class="kb-breadcrumb">Library / Passages / ${item.book} / ${item.title}</p>
           <h2 class="kb-article-title">${item.title}</h2>
-          <p class="kb-meta">Default Display Order: LSB, NKJV, NABRE</p>
           <p class="kb-paragraph">${item.note}</p>
-          <p class="kb-paragraph"><a href="${item.href}">Open passage page</a></p>
+          <p class="kb-paragraph"><a href="${item.href}" target="_blank" rel="noopener noreferrer">Open passage page</a></p>
           <h3 class="kb-section-title">Related Studies</h3>
           ${related}
         `;
@@ -1155,6 +1480,12 @@ def main() -> None:
         reference = passage_reference(book, citation)
         if reference in reference_map:
             featured_references.append(reference)
+
+    KNOWN_PASSAGE_REFERENCES.clear()
+    KNOWN_PASSAGE_REFERENCES.update(reference_map.keys())
+
+    for study in studies:
+        study.body_html = render_blocks(study.body_lines, enable_reference_links=True)
 
     for study in studies:
         output_path = OUTPUT_DIR / f"{study.slug}.html"

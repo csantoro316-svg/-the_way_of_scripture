@@ -21,6 +21,30 @@ Before looking at individual passages, it helps to start with the verse that gov
 
 Notice the structure of the promise. It is not "ask and you will receive." It is conditional at every step: *if* we ask according to His will, *then* He hears us; if we know He hears us, *then* we know we have what we asked. The entire promise depends on alignment with His will, not on the sincerity, persistence, or emotional intensity of the request. This is the lens through which every other prayer passage in Scripture should be read. Whenever a verse seems to promise that God will give us whatever we ask, this conditional clause is already built into it, whether stated explicitly or not.
 
+### What "His Will" Actually Means
+
+The phrase "according to His will" is only as useful as our understanding of what His will actually is. Scripture draws a clear distinction between two categories:
+
+God's revealed will — what He has explicitly stated in Scripture that He desires. This is knowable, because He has told us:
+
+> **1 Timothy 2:3-4 (LSB)**
+> *"This is good and acceptable in the sight of God our Savior, who desires all men to be saved and to come to the knowledge of the truth."*
+
+> **1 Thessalonians 4:3 (LSB)**
+> *"For this is the will of God, your sanctification..."*
+
+> **1 Thessalonians 5:18 (LSB)**
+> *"in everything give thanks; for this is the will of God for you in Christ Jesus."*
+
+> **John 6:39-40 (LSB)**
+> *"This is the will of Him who sent Me, that of all that He has given Me I lose nothing, but raise it up on the last day. For this is the will of My Father, that everyone who beholds the Son and believes in Him will have eternal life."*
+
+God's revealed will centers on the salvation of souls, the sanctification of believers, gratitude in all circumstances, and eternal life for those who believe. These are not mysteries — they are stated plainly and repeatedly throughout Scripture.
+
+God's providential will — His specific purposes for individual circumstances, situations, and events, which we often cannot know in advance. This is what Paul could not see when he asked three times for the thorn to be removed. This is what Abraham tried to engineer in Egypt instead of trusting. It is the path God is clearing that Proverbs 3:5-6 tells us we are not equipped to navigate on our own.
+
+The problem with most outcome-specific prayer is precisely here. Praying for this job, this diagnosis, this timeline, this resolution — these are claims to knowledge of God's providential will, the part we cannot see. Scripture does not give us access to that. What it gives us is His revealed will — and "praying according to His will" means aligning our asking with what He has already made plain, while surrendering everything else with "not as I will, but as You will." The Acts 4 prayer is a model: the early church asked for boldness — a request directly aligned with God's revealed will that His word go forth — and received it immediately. Paul asked for personal relief from suffering, leaning on his own understanding of what would serve God's purposes, and was told no. The difference was not sincerity. It was whether the request aligned with what God had already revealed, or assumed knowledge of what only He can see.
+
 ---
 
 ## 2. The Lord's Prayer — A Model, Not a Formula

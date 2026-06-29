@@ -1,6 +1,6 @@
 # Content Execution Standard
 
-Updated: 2026-06-28
+Updated: 2026-06-29
 
 ## Purpose
 
@@ -59,11 +59,28 @@ Layout rule:
 Each study page should, at minimum:
 
 - present the study title clearly
+- place the source intro or preface content in the top hero card as the main introduction
 - preserve the main teaching flow of the source content
 - inline-link Scripture references to passage pages
 - surface related passages naturally within the study body
 - include a related or referenced passages area when that relationship data exists
 - include the standard page-end feedback and revision note
+
+### Study Intro Rule
+
+The introductory material at the top of a study is hero content, not duplicate body content.
+
+Do:
+
+- render the opening preface or introduction in the top study hero
+- allow the hero introduction to contain multiple paragraphs when the source intro requires it
+- begin the study body at the first actual content section after the intro
+
+Do not:
+
+- repeat the same introduction again as the first body paragraphs
+- collapse a multi-paragraph introduction into a single line if the source clearly uses a fuller preface
+- constrain the hero copy to a narrow column that truncates or weakens the introduction
 
 As the site evolves, study pages may also include:
 
@@ -76,15 +93,68 @@ As the site evolves, study pages may also include:
 
 Each passage page should, at minimum, include:
 
-- the passage reference
-- the approved Bible versions for that passage
-- a short contextual summary or orientation
+- the full passage text in the approved Bible versions for that passage
+- the passage text rendered in the main top `Passage` section of the page, directly under the passage title
+- a `Context` section
+- an `Explanation` section
 - links back to studies that reference the passage
 - a related studies area that points readers back into the study pages using that passage
 - include the standard page-end feedback and revision note
 
 Passage pages are not standalone replacements for full studies.
 They are reference pages that support navigation, comparison, and context.
+
+### Passage Section Rule
+
+The main page-level `Passage` section is where the default translations belong.
+
+Do not:
+
+- create a second internal `Passage` block lower on the page
+- leave placeholder copy about future expansion
+- show administrative labels such as default display-order notes
+- include a `Passage Reference` section that merely repeats the citation already shown in the page title
+- include a `Translation Standard` section that explains version policy to the reader
+
+The reader should encounter the Scripture text itself immediately.
+
+### Context Rule
+
+`Context` means Scripture context, not process context.
+
+The `Context` section should explain:
+
+- where the passage sits in its immediate chapter flow
+- how the surrounding verses shape its meaning
+- what the broader movement of the book or argument is doing
+- why the verse should not be read in isolation
+
+Do not use `Context` to describe:
+
+- that the page was generated
+- that the passage is being used by a study
+- that the page exists for navigation
+- implementation notes about the site
+
+The purpose of `Context` is to guard against cherry-picking and help the reader interpret the passage within Scripture itself.
+
+### Explanation Rule
+
+The `Explanation` section should draw its substance from the repository's source teaching material while speaking directly about the passage.
+
+Do:
+
+- carry forward the actual interpretive reasoning already established in the source content
+- connect the passage to other relevant Scriptures when that comparison is needed
+- link cited passages so the reader can follow the argument
+
+Do not:
+
+- refer to "the study" as an object in the public prose
+- narrate the content-production process
+- write meta commentary about where the explanation came from
+
+Public copy should read as direct teaching and interpretation, not as commentary about internal source documents.
 
 ## Translation Standard
 
@@ -107,6 +177,7 @@ Approved core versions, in default display order:
 - Surface cross-version differences when they materially affect meaning, interpretation, emphasis, or doctrinal discussion.
 - Do not add version comparisons merely for noise or volume.
 - Additional translations may be referenced when explicitly useful, but they are not part of the default standard.
+- On passage pages, render the full text of all three default versions unless the user explicitly directs otherwise.
 
 ## Linking Standard
 
@@ -123,6 +194,7 @@ Reciprocal relationship rule:
 - if a study references a passage, the study should link to the passage page
 - the passage page should also list that study as a related study
 - if a passage later appears in additional studies, that passage page should accumulate those study links rather than being overwritten
+- passage links should open in a new tab so readers can follow supporting references without losing their place
 
 ## Page-End Standard
 

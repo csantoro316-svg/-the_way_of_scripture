@@ -918,6 +918,20 @@
       ]
     },
     {
+      "id": "john-6-39-40",
+      "title": "John 6:39-40",
+      "book": "John",
+      "citation": "6:39-40",
+      "note": "Generated reference page linked from site studies.",
+      "href": "../passages/john-6-39-40.html",
+      "related_studies": [
+        {
+          "title": "Prayer and Faith",
+          "href": "../studies/prayer-and-faith.html"
+        }
+      ]
+    },
+    {
       "id": "john-6-48-51",
       "title": "John 6:48-51",
       "book": "John",
@@ -1454,6 +1468,20 @@
       ]
     },
     {
+      "id": "1-thessalonians-4-3",
+      "title": "1 Thessalonians 4:3",
+      "book": "1 Thessalonians",
+      "citation": "4:3",
+      "note": "Generated reference page linked from site studies.",
+      "href": "../passages/1-thessalonians-4-3.html",
+      "related_studies": [
+        {
+          "title": "Prayer and Faith",
+          "href": "../studies/prayer-and-faith.html"
+        }
+      ]
+    },
+    {
       "id": "1-thessalonians-5-17-18",
       "title": "1 Thessalonians 5:17-18",
       "book": "1 Thessalonians",
@@ -1464,6 +1492,20 @@
         {
           "title": "What Does Prayer Look Like?",
           "href": "../studies/what-does-prayer-look-like.html"
+        }
+      ]
+    },
+    {
+      "id": "1-thessalonians-5-18",
+      "title": "1 Thessalonians 5:18",
+      "book": "1 Thessalonians",
+      "citation": "5:18",
+      "note": "Generated reference page linked from site studies.",
+      "href": "../passages/1-thessalonians-5-18.html",
+      "related_studies": [
+        {
+          "title": "Prayer and Faith",
+          "href": "../studies/prayer-and-faith.html"
         }
       ]
     },
@@ -1492,6 +1534,20 @@
         {
           "title": "Should We Seek Signs From God?",
           "href": "../studies/seek-signs.html"
+        }
+      ]
+    },
+    {
+      "id": "1-timothy-2-3-4",
+      "title": "1 Timothy 2:3-4",
+      "book": "1 Timothy",
+      "citation": "2:3-4",
+      "note": "Generated reference page linked from site studies.",
+      "href": "../passages/1-timothy-2-3-4.html",
+      "related_studies": [
+        {
+          "title": "Prayer and Faith",
+          "href": "../studies/prayer-and-faith.html"
         }
       ]
     },
@@ -1697,6 +1753,7 @@
     "Philippians",
     "Colossians",
     "1 Thessalonians",
+    "1 Timothy",
     "Hebrews",
     "James",
     "1 Peter",
