@@ -70,17 +70,23 @@ Each study page should, at minimum:
 
 The introductory material at the top of a study is hero content, not duplicate body content.
 
+The same substantive introductory content should also drive study-card copy on library surfaces.
+
 Do:
 
 - render the opening preface or introduction in the top study hero
 - allow the hero introduction to contain multiple paragraphs when the source intro requires it
 - begin the study body at the first actual content section after the intro
+- use the same full introductory substance for study-card summary copy instead of reducing it to a thin one-line teaser when the source provides a fuller preface
+- keep study-card intro copy and study-hero intro copy aligned so the card accurately previews what appears at the top of the study page
 
 Do not:
 
 - repeat the same introduction again as the first body paragraphs
 - collapse a multi-paragraph introduction into a single line if the source clearly uses a fuller preface
 - constrain the hero copy to a narrow column that truncates or weakens the introduction
+- use a short teaser on the study card when the page hero is using a fuller intro from the same source
+- let the hero and the study card drift into different intro lengths or mismatched framing for the same study
 
 As the site evolves, study pages may also include:
 
@@ -219,6 +225,12 @@ This note should support the site's posture of:
 If the content workflow changes in a durable way, update:
 
 - `documentation/architecture/CONTENT_EXECUTION_STANDARD.md`
+
+## Completion Rule
+
+For website content-integration work, completion means more than local generation.
+
+When study pages, passage pages, library surfaces, styling, or other public website behavior has been updated and verified, deploy the finished website state to Firebase hosting before considering the task complete, unless the user explicitly says not to deploy.
 
 If implemented site behavior changes, add a change record under:
 

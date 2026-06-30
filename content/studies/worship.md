@@ -44,7 +44,7 @@ Yet over time, many of these distinct words were flattened into one English term
 
 ### Greek Term: *Proskuneō* (PROS-koo-neh-oh)
 
-**προσκυνέω** — to prostrate oneself, bow down before, or kiss toward. In ancient Near Eastern culture this implied physical bowing; in NT usage it sometimes conveyed a figurative act of profound respect, allegiance, or submission — particularly toward those in authority. *Proskuneō* is nearly always rendered "worship" in modern Bibles, leading to significant theological confusion. In many cases the intent was not formal religious worship as we think of it today, but acts of homage, reverence, or recognition of status.
+**προσκυνέω** — to prostrate oneself, bow down before, or kiss toward. In ancient Near Eastern culture this implied physical bowing; in NT usage it sometimes conveyed a figurative act of profound respect, allegiance, or submission — particularly toward those in authority. *Proskuneō* is nearly always rendered "worship" in modern Bibles, leading to significant theological confusion. In many cases the intent was not formal religious worship as we think of it today, but acts of homage, reverence, or recognition of status. A necessary clarification: when *proskuneō* is directed toward Christ or God — as in Matthew 28, Hebrews 1, or Revelation 5 — it is genuinely and fully an act of reverence toward deity. That is not in dispute. What this study examines is what the act actually is: embodied, personal, immediate submission before the one recognized as Lord — not a scheduled corporate music event, and not the vague emotional experience modern Christianity typically calls worship.
 
 **A note from scholarship:** *Proskuneō* is documented as a standard greeting gesture in classical Greek — used when meeting a social superior, a king, or a dignitary. Herodotus records its use among the Persians as a customary form of greeting. When Joseph's brothers bowed before him in Genesis 37:10, they performed *proskuneō* — not religious worship, but a gesture of social deference. This range of usage is essential for reading NT occurrences accurately.
 
@@ -393,7 +393,7 @@ Scholar I. Howard Marshall noted that this sacrificial reinterpretation "reverse
 - **From homes to basilicas:** Churches evolved into public structures with designated worship leaders — and congregants as spectators.
 - **From mutual participation to clergy-dominance:** The priesthood became institutionalized. Worship was no longer "invited contribution" but performance by experts.
 - **From Spirit-led simplicity to ritual complexity:** Sacred spaces required liturgies, furnishings, statues, incense — the language of spectacle crept in.
-- **From biblical devotion to cultural conformity:** Festivals like Christmas (Dec. 25) and Easter took their dates and customs from pagan holidays like Sol Invictus and Eostre. Church leaders used cultural appropriation to ease transitions — but also blurred biblical clarity.
+- **From biblical devotion to cultural conformity:** Festivals like Christmas (Dec. 25) and Easter show significant overlap in timing and customs with pagan holidays like Sol Invictus and Eostre — a connection the historical evidence suggests, even if the precise causal relationship remains debated. Whether the dates were deliberately adopted to ease pagan transition or arrived at independently, the effect was the same: the boundaries between Christian observance and surrounding pagan culture became harder to see.
 
 ### Why It Matters
 
@@ -437,7 +437,7 @@ Drawing together 1 Corinthians 14 and the *allēlōn* data, a practical edificat
 1. **Intelligibility:** *"In the church I desire to speak five words with my mind so that I may instruct others also, rather than ten thousand words in a tongue"* (1 Corinthians 14:19). If the content cannot be understood, it cannot edify.
 2. **Teaching content vs. response content:** Does this element teach truth, or does it primarily generate an emotional response? Both have a place — but the assembly cannot be evaluated primarily on the emotional response it produces.
 3. **The one-another function:** Does this element do something *for* the person beside me — building them up in knowledge, faith, or love — or is it primarily an individual experience?
-4. **Does God need this?** Acts 17:25 — *"nor is He served by human hands, as though He needed anything."* God is not enhanced or elevated by our melodies. The purpose of worship was never to flatter God with sentiment or to satisfy emotional appetites through music.
+4. **Does God need this?** Acts 17:25 — *"nor is He served by human hands, as though He needed anything."* God is not enhanced or elevated by our melodies. The purpose of worship was never to flatter God with sentiment or to satisfy emotional appetites through music. None of this is prescribed in Scripture — and more than that, it actively inverts the NT pattern of mutual edification and every-member participation that 1 Corinthians 14 describes.
 
 **The underlying danger** is this: we have mistaken performance for presence, goosebumps for godliness, and replaced reverence with noise. Worship has been redefined around what it does to me and how it makes me feel, rather than what I offer in reverence to God.
 
@@ -459,11 +459,11 @@ Many churches treat the pulpit and chancel area as holy ground — elevated stag
 
 Jesus condemned the temple system, calling the religious elite "whitewashed tombs" and emphasizing worship in spirit and truth over location or ceremony. Yet we've resurrected the very architecture of sacred space — as if God once again waits for sacrifices brought to an altar.
 
-Modern churches have, in many ways, returned to the very structures Christ fulfilled and set aside. We have reclaimed the altar, turning it into a place of ritualized emotional decision-making — the "altar call." We have elevated the stage, treating it as sacred space and positioning church leaders as intermediaries between God and people, echoing the priesthood Christ rendered obsolete. We have revived emotional persuasion as ritual, prioritizing dramatic responses and fleeting feelings over the slow, faithful path of discipleship.
+Modern churches have, in many ways, rebuilt structures that the NT does not prescribe and the early church did not practice. The altar call has no precedent in Scripture — it is a nineteenth-century invention that often produces decisions driven by emotion and social pressure rather than genuine conversion. The elevated stage positions church leaders as the center of gathered life in a way the NT never describes. These practices are not necessarily contrary to the gospel in the sense that salvation is threatened by them — but they are a clear departure from what Scripture actually shows us, and they produce the very passivity and clericalism the NT warns against.
 
 Though few churches today would fashion idols of wood or stone, idolatry remains deeply rooted in the modern church — not through statues, but through substitutes. We have not bowed to Baal, but we have bowed to buildings, platforms, personalities, experiences, and emotional highs disguised as encounters with God. We have crafted worship around what pleases us, not what honors God. The stage can become a shrine, the pastor a performer, the music a golden calf. When the gathering becomes more about how it moves me than what I bring in reverence, we have entered the realm of idolatry. Jesus tore the veil to remove every barrier between God and His people — yet we rebuild platforms and rituals that quietly restore those very divisions.
 
-Idolatry today is subtle, respectable, and often cloaked in good intentions. But it is no less real — and far more dangerous.
+Idolatry today is subtle, respectable, and often cloaked in good intentions. Not every church that has a stage or a worship team has fallen into idolatry — but the tendency is real, the pattern is documented, and the warning is worth hearing. It is no less real for being dressed in sincerity — and in some ways, far more dangerous.
 
 ---
 

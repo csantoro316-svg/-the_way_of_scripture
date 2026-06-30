@@ -30,7 +30,7 @@ Before getting into examples, it helps to look directly at what the Bible says a
 
 The religious leaders in this story weren't asking for something unreasonable by the world's standards — they wanted proof before they would believe. Jesus doesn't respond by giving them what they asked for. He treats the request itself — "show me something and then I'll believe" — as the problem. That's worth sitting with, because it's the exact opposite of how a lot of popular Christian teaching frames sign-seeking today.
 
-**Observation:** Jesus never responds to a demand for a sign by producing one. The pattern in the Gospels is the reverse — He repeatedly calls the demand for proof a symptom of unbelief, not a step toward faith.
+**Observation:** Jesus never responds to a demand for a sign by producing one. The pattern in the Gospels is the reverse — He repeatedly calls the demand for proof a symptom of unbelief, not a step toward faith. It is also worth noting that Jesus is addressing hardened religious leaders who had already witnessed numerous miracles — not an ordinary believer sincerely asking for God's guidance. The principle still holds, but the context matters: not every request for confirmation in Scripture is condemned. What Scripture consistently condemns is demanding proof before believing, and cultivating the habit of scanning ordinary life for ongoing personal revelation beyond what God has already spoken.
 
 ---
 
@@ -46,7 +46,7 @@ This passage needs to be unpacked, because words like "witchcraft," "divination,
 
 God's instruction to Israel wasn't "do this, but only if it's really Me speaking." It was a flat "don't do this at all" — and the reason given is that this is exactly what the nations around Israel did, and it's described as one of the reasons God removed those nations from the land. This wasn't framed as a minor cultural difference. It was framed as something God finds detestable.
 
-**Observation:** The issue in Deuteronomy 18 isn't that the ancient practices used birds or animal organs specifically — it's the underlying habit of scanning ordinary events for hidden divine messages. That underlying habit is the same one at work whenever someone today looks at a repeating number, an animal encounter, or a strange coincidence and concludes God is communicating through it. The method has changed; the instinct God addressed has not.
+**Observation:** The issue in Deuteronomy 18 isn't that the ancient practices used birds or animal organs specifically — it's the underlying impulse toward seeking hidden revelation from God beyond what He has spoken. That impulse — scanning ordinary events for personal divine messages — closely resembles the mindset behind the pagan omen-reading Scripture warns against, even if the practices themselves differ. The method has changed; the underlying logic has not.
 
 ---
 
@@ -110,7 +110,7 @@ The appeal is understandable — it makes God feel close, personal, and attentiv
 
 Stories circulate, often shared widely online or passed along through friends and family, describing people in other countries — sometimes specifically Muslim-majority nations — having dreams or visions of Jesus that lead them to faith. These stories are often accepted and shared quickly, sometimes with excitement, as evidence of God moving in a specific, current, ongoing way.
 
-It's worth being careful here in both directions. Scripture does record God communicating through dreams to specific people at specific moments tied to His larger plan — Joseph, Daniel, Cornelius in Acts 10, Paul in Acts 16. Those accounts are firsthand, specific, and tied to pivotal moments in the story of redemption — they're not presented as an ongoing, everyday method available to anyone. A secondhand story, repeated through several layers of retelling, that can't be verified, sits in a very different category — even if the underlying claim might be true. *"Examine everything carefully"* (1 Thessalonians 5:21) applies to claims about what God is doing just as much as it applies to doctrines.
+It's worth being careful here in both directions. Scripture does record God communicating through dreams to specific people at specific moments tied to His larger plan — Joseph, Daniel, Cornelius in Acts 10, Paul in Acts 16. Those accounts are firsthand, specific, and tied to pivotal moments in the story of redemption. Whether God continues to communicate through dreams and visions today is a question Christians genuinely debate — Peter's citation of Joel 2 in Acts 2 is a passage continuationists appeal to legitimately, and that debate does not need to be resolved here. What is much easier to defend is this: regardless of one's position on that question, no serious biblical framework treats every dream or impression as reliable divine communication requiring no testing. "Test all things" (1 Thessalonians 5:21) applies equally in either direction. A secondhand story, repeated through several layers of retelling, that can't be verified, sits in a very different category — even if the underlying claim might be true.
 
 ### 5. Looking for Confirmation in Decisions
 
@@ -125,6 +125,24 @@ This one is less spiritual and more just how minds work — but it's a big part 
 ### 7. Prophecy and "Signs of the Times" — A Different Category
 
 Scripture does talk about signs in a different sense — specific, described events tied to the end times and God's redemptive plan (see passages like Matthew 24 and the book of Revelation). These are a separate category from the everyday personal "signs" discussed above. The danger is when the two get blended together — when the existence of real prophetic signs in Scripture gets used to justify treating ordinary daily life as a constant stream of personal omens. Scripture describing specific future events doesn't mean every unusual personal experience today is part of that same category.
+
+---
+
+## How Does God Actually Guide Us?
+
+After spending this much time on what Scripture does not teach, a fair question is: if not signs, feelings, and personal omens, then how does God guide His people in the new covenant?
+
+Scripture gives a clear and consistent answer — not through new ongoing personal revelation, but through means that are already in hand:
+
+**The Word itself.** Psalm 119:105 — "Your word is a lamp to my feet and a light to my path." Scripture is not a static document awaiting supplementation by personal signs. It is living and active (Hebrews 4:12), sufficient to equip the believer for every good work (2 Timothy 3:16-17).
+
+**Prayer and wisdom.** James 1:5 — "But if any of you lacks wisdom, let him ask of God, who gives to all generously and without reproach, and it will be given to him." The gift promised in response to asking is wisdom — the sanctified judgment to navigate circumstances — not a sign pointing to a predetermined answer.
+
+**The counsel of others.** Proverbs 15:22 — "Without consultation, plans are frustrated, but with many counselors they succeed." The community of believers, grounded in the same Word, is itself a means of guidance.
+
+**Providential circumstances, interpreted through Scripture.** God orders events — that is basic Christian doctrine. But the interpretive key for those events is always the Word, not our impressions about their meaning. The difference between providence and personal revelation is the difference between God ordering what happens and God encoding a personal message in it for us to decode. Scripture supports the first. It does not teach the second.
+
+The goal is not a Christianity without guidance — it is a Christianity where guidance comes through the means God has already provided, tested against the standard He has already given.
 
 ---
 
@@ -152,7 +170,7 @@ So I started digging into what the Bible actually says about signs, dreams, and 
 
 And sitting there, studying the exact thing I was now questioning, it hit me: that's exactly what I just did. The dream stories made me uneasy enough to study this — but my own comment about the eagle was the same kind of thing. Smaller, maybe more casual, but the same instinct: looking at something ordinary and reaching for a hidden message in it.
 
-I don't think that was an accident in terms of timing. While I was reading about exactly this issue, that memory surfaced — not before, not after, but right then. That's the Spirit's work. Not loud, not dramatic — just a quiet nudge that made me see my own words clearly, in the middle of writing about someone else's.
+While studying these passages, I remembered my own comment about the eagle — and Scripture exposed the same impulse in me. Whether the timing itself carried any special significance isn't the point, and it would be ironic to assign divine meaning to a moment in a study cautioning against exactly that. The Word of God did what Hebrews 4:12 says it does — it examined my own heart before I finished examining anyone else's.
 
 > **Hebrews 4:12 (LSB)** *"For the word of God is living and active, and sharper than any two-edged sword, even penetrating as far as the division of soul and spirit, of both joints and marrow, and able to judge the thoughts and intentions of the heart."*
 

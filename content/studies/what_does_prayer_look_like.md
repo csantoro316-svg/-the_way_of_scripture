@@ -32,9 +32,9 @@ This is also where Jesus' situation and ours are not quite the same, and the dif
 
 ### What This Means for Us
 
-That is the real model here. It is not permission to ask God for a different outcome. It is permission to be honest about what something costs you, while still trusting — even without knowing the plan the way Jesus did — that His will is the place to land.
+That is the real model here. The emphasis is not on whether asking is wrong — Jesus Himself voices what He wants — but on what governs the asking. He names the cost honestly, and in the same breath surrenders the outcome completely. That combination is the model: bring what is true, then release it entirely to the Father's will.
 
-There is also something worth noticing in the repetition itself. By the second prayer, the wording has already shifted — "if it is possible" becomes "if this cannot pass away unless I drink it." That is not Jesus trying again to change the Father's mind. That is a soul working through grief, in real time, in prayer, until it arrives fully at the Father's will.
+There is also something worth noticing in the repetition itself. He asks three times — and Matthew intentionally tells us so. The repetition is not a failure. Each prayer ends in the same place: Your will be done. What the repetition shows is that continued petition is not inherently contrary to surrender. What matters is not whether asking continues, but whether surrender governs it. By the second prayer the wording has already shifted — "if it is possible" becomes "if this cannot pass away unless I drink it." That is a soul working through grief, in real time, in prayer, arriving fully at the Father's will.
 
 Gethsemane is not a model for asking God to change His plan. What we are watching instead is the cost of surrender being worked out honestly, without pretending the cost wasn't real. Prayer was not separate from that process. Prayer was the process.
 
@@ -48,7 +48,7 @@ What began in the garden did not end there. Three more prayers, spoken from the 
 
 > *'Father, forgive them, for they do not know what they are doing.'*
 
-Notice what this is not. Jesus does not pray "save these soldiers," or "open their eyes right now." He places the men responsible for His death before the Father, in their condition exactly as it is, and releases them entirely into God's mercy. He does not know which of them, if any, will ever believe. That is not given to Him to control, and He does not reach for control. He intercedes, and then He lets go.
+This prayer is itself a petition — He is asking for something on their behalf. But notice the posture. He does not specify the outcome or demand it on a timeline. He places the men responsible for His death before the Father, in their condition exactly as it is, and releases them entirely into God's mercy. He does not know which of them, if any, will ever believe. That is not given to Him to control, and He does not reach for control. He intercedes, and then He lets go.
 
 ### 'My God, Why Have You Forsaken Me' — Matthew 27:46
 
@@ -74,7 +74,7 @@ If Jesus is the perfect model, Paul is proof that the same pattern holds for the
 
 Paul was not a marginal example of weak faith. He is the apostle through whom much of the New Testament was written, and he prayed for relief from real suffering — specifically, and three separate times. God said no all three times. The reason was not arbitrary. The thorn was keeping Paul from pride, and removing it would have undone exactly the work God was doing in him. Paul could not see that purpose from where he stood. God could.
 
-What looks, on the surface, like an unanswered prayer was in fact the answer. Paul did not keep pressing after the third no. He stopped asking, because he understood the grace was already there — the asking itself had been standing in the way of receiving it.
+What looks, on the surface, like an unanswered prayer was in fact the answer. The text records three pleadings and then God's response: My grace is sufficient. Whether Paul continued praying after that is not stated. What the passage shows is that God's answer was not the removal Paul asked for — and that the denial turned out to be the greater gift.
 
 **Illness, hardship, and delay are not proof that God is absent or inattentive. They may be exactly the instrument He is using. We do not always get to know why. He does — and that is meant to be enough.**
 
@@ -121,6 +121,8 @@ Three different letters, three different churches, three different situations �
 **That is what Paul understood intercession to actually be for.**
 
 ---
+
+A note on what this study is and is not arguing: Scripture certainly records faithful people praying for concrete outcomes — healing, deliverance, rain, protection, provision, and more. Those prayers are real, they are in Scripture, and this document does not deny them. The question being examined here is not whether such requests exist, but what the dominant posture of biblical prayer looks like — and what governs the asking when it happens. The answer Scripture consistently gives is surrender, not strategy.
 
 ## 6. Philippians 4:6-7 — Bring Everything, Receive Peace
 
@@ -190,7 +192,7 @@ Everything above points to the same posture, lived out differently in a garden, 
 
 - ☐ **When you pray for others, pray for their formation — not their circumstances.** Strengthen them in the inner man. That they would know the love of Christ. That their love would abound more and more in real knowledge and discernment. That they would be filled with the knowledge of His will, walk worthy of Him, and bear fruit in every good work. That they would be sanctified in truth, kept from the evil one, and one day see His glory. Follow Paul's model — and Jesus' own prayer in John 17 — not your preference for how their situation should turn out.
 
-- ☐ **Bring requests with thanksgiving — and receive peace.** Philippians 4:6-7 says to make your requests known to God — but that means being honest with Him about what is weighing on you, not asking Him to resolve it a certain way. The promise attached to it isn't a particular outcome. It's that His peace will guard your heart and mind, regardless of how the circumstance turns out.
+- ☐ **Bring every request honestly — and release the outcome entirely.** Philippians 4:6-7 says to make your requests known to God. Bring them fully and without editing. But the promise attached is not that the request will be granted as asked — it is that His peace will guard your heart and mind. Bring everything. Hold the outcome loosely. That is Gethsemane and Philippians 4 saying the same thing.
 
 - ☐ **When you have no words — that is enough.** The Spirit intercedes with groanings too deep for words. Sometimes the most powerful prayer is simply showing up, broken, and looking up.
 

@@ -74,6 +74,7 @@ BOOK_ORDER = [
 REFERENCE_PATTERN = re.compile(
     r"(?<![A-Za-z0-9])((?:[1-3]\s)?[A-Z][A-Za-z]+(?:\s[A-Z][A-Za-z]+)*)\s(\d+:\d+(?:-\d+)?)"
 )
+ORDERED_LIST_PATTERN = re.compile(r"^\d+\.\s+")
 
 
 @dataclass
@@ -223,6 +224,11 @@ def render_blocks(
             i += 1
             continue
 
+        if stripped.startswith("#### "):
+            output.append(f"<h4>{inline_renderer(stripped[5:])}</h4>")
+            i += 1
+            continue
+
         if stripped.startswith("### "):
             output.append(f"<h3>{inline_renderer(stripped[4:])}</h3>")
             i += 1
@@ -253,6 +259,17 @@ def render_blocks(
             output.append(f'<ul class="prose-list">{rendered_items}</ul>')
             continue
 
+        if ORDERED_LIST_PATTERN.match(stripped):
+            items: list[str] = []
+            while i < len(lines) and ORDERED_LIST_PATTERN.match(lines[i].strip()):
+                items.append(ORDERED_LIST_PATTERN.sub("", lines[i].strip(), count=1))
+                i += 1
+            rendered_items = "".join(
+                f"<li>{inline_renderer(item)}</li>" for item in items
+            )
+            output.append(f'<ol class="prose-list">{rendered_items}</ol>')
+            continue
+
         paragraph_lines = [stripped]
         i += 1
         while i < len(lines):
@@ -263,8 +280,10 @@ def render_blocks(
                 next_stripped == "---"
                 or next_stripped.startswith("## ")
                 or next_stripped.startswith("### ")
+                or next_stripped.startswith("#### ")
                 or next_stripped.startswith("> ")
                 or next_stripped.startswith("- ")
+                or ORDERED_LIST_PATTERN.match(next_stripped)
             ):
                 break
             paragraph_lines.append(next_stripped)
@@ -284,6 +303,10 @@ def markdown_blocks(lines: list[str]) -> list[MarkdownBlock]:
             i += 1
             continue
         if stripped == "---":
+            i += 1
+            continue
+        if stripped.startswith("#### "):
+            blocks.append(MarkdownBlock(kind="heading4", text=stripped[5:].strip()))
             i += 1
             continue
         if stripped.startswith("### "):
@@ -308,6 +331,13 @@ def markdown_blocks(lines: list[str]) -> list[MarkdownBlock]:
                 i += 1
             blocks.append(MarkdownBlock(kind="list", text="\n".join(items)))
             continue
+        if ORDERED_LIST_PATTERN.match(stripped):
+            items: list[str] = []
+            while i < len(lines) and ORDERED_LIST_PATTERN.match(lines[i].strip()):
+                items.append(ORDERED_LIST_PATTERN.sub("", lines[i].strip(), count=1))
+                i += 1
+            blocks.append(MarkdownBlock(kind="list", text="\n".join(items)))
+            continue
 
         paragraph_lines = [stripped]
         i += 1
@@ -318,14 +348,89 @@ def markdown_blocks(lines: list[str]) -> list[MarkdownBlock]:
                 or next_stripped == "---"
                 or next_stripped.startswith("## ")
                 or next_stripped.startswith("### ")
+                or next_stripped.startswith("#### ")
                 or next_stripped.startswith("> ")
                 or next_stripped.startswith("- ")
+                or ORDERED_LIST_PATTERN.match(next_stripped)
             ):
                 break
             paragraph_lines.append(next_stripped)
             i += 1
         blocks.append(MarkdownBlock(kind="paragraph", text=" ".join(paragraph_lines)))
     return blocks
+
+
+def summarize_blocks(lines: list[str]) -> str:
+    parts: list[str] = []
+    for block in markdown_blocks(lines):
+        if block.kind == "paragraph":
+            text = re.sub(r"\s+", " ", block.text).strip()
+            text = text.replace("**", "").replace("*", "")
+            parts.append(text)
+        elif block.kind == "list":
+            items = [
+                re.sub(r"\s+", " ", item).strip().replace("**", "").replace("*", "")
+                for item in block.text.splitlines()
+            ]
+            parts.extend(item for item in items if item)
+    return " ".join(part for part in parts if part).strip()
+
+
+def hoist_leading_body_intro(body_lines: list[str]) -> tuple[list[str], list[str]]:
+    if not body_lines:
+        return [], body_lines
+
+    i = 0
+    while i < len(body_lines) and not body_lines[i].strip():
+        i += 1
+
+    if i >= len(body_lines):
+        return [], body_lines
+
+    first_heading_index = None
+    if body_lines[i].strip().startswith("## "):
+        first_heading_index = i
+        i += 1
+        while i < len(body_lines) and not body_lines[i].strip():
+            i += 1
+
+    intro_start = i
+    saw_paragraph_content = False
+
+    while i < len(body_lines):
+        stripped = body_lines[i].strip()
+        if not stripped:
+            if saw_paragraph_content:
+                i += 1
+                continue
+            break
+        if (
+            stripped == "---"
+            or stripped.startswith("## ")
+            or stripped.startswith("### ")
+            or stripped.startswith("#### ")
+            or stripped.startswith("> ")
+            or stripped.startswith("- ")
+            or ORDERED_LIST_PATTERN.match(stripped)
+        ):
+            break
+        saw_paragraph_content = True
+        i += 1
+
+    intro_lines = body_lines[intro_start:i]
+    if not summarize_blocks(intro_lines):
+        return [], body_lines
+
+    remove_start = first_heading_index if first_heading_index is not None else intro_start
+    remaining_lines = body_lines[i:]
+    while remaining_lines and not remaining_lines[0].strip():
+        remaining_lines = remaining_lines[1:]
+    if remaining_lines and remaining_lines[0].strip() == "---":
+        remaining_lines = remaining_lines[1:]
+        while remaining_lines and not remaining_lines[0].strip():
+            remaining_lines = remaining_lines[1:]
+
+    return intro_lines, body_lines[:remove_start] + remaining_lines
 
 
 def block_mentions_reference(block: MarkdownBlock, reference: PassageReference) -> bool:
@@ -528,8 +633,8 @@ def parse_study(path: Path) -> Study:
     title = ""
     subtitle = ""
     translation = "Legacy Standard Bible (LSB)"
-    summary = ""
     body_start = 0
+    seen_header_divider = False
 
     for idx, line in enumerate(lines):
         stripped = line.strip()
@@ -537,20 +642,18 @@ def parse_study(path: Path) -> Study:
             title = stripped[2:].strip()
             body_start = idx + 1
             continue
-        if stripped.startswith("## ") and not subtitle:
+        if stripped == "---":
+            seen_header_divider = True
+            continue
+        if stripped.startswith("## ") and not subtitle and not seen_header_divider:
             subtitle = stripped[3:].strip()
             continue
         if stripped.startswith("*Primary Translation:"):
             translation = stripped.strip("*").replace("Primary Translation:", "").strip()
             continue
-        if stripped and not stripped.startswith("#") and stripped != "---" and not summary:
-            if not stripped.startswith("*Primary Translation:"):
-                summary = stripped.strip("*")
-        if title and summary:
-            break
-
     if not subtitle:
         preface_lines: list[str] = []
+        preface_raw_lines: list[str] = []
         in_intro_block = False
         for line in lines[body_start:]:
             stripped = line.strip()
@@ -566,14 +669,15 @@ def parse_study(path: Path) -> Study:
             if stripped.startswith("*Primary Translation:"):
                 continue
             if in_intro_block:
+                preface_raw_lines.append(stripped)
                 preface_lines.append(stripped.strip("*").strip())
 
-        if preface_lines:
+        stylized_preface = bool(preface_raw_lines) and all(
+            raw.startswith("*") and raw.endswith("*") for raw in preface_raw_lines
+        )
+
+        if preface_lines and stylized_preface:
             subtitle = preface_lines[0]
-            if len(preface_lines) > 1:
-                summary = " ".join(preface_lines[1:])
-            else:
-                summary = preface_lines[0]
 
     filtered_body: list[str] = []
     consumed_subtitle = False
@@ -602,6 +706,10 @@ def parse_study(path: Path) -> Study:
     for line in filtered_body:
         stripped = line.strip()
         if not intro_complete:
+            if not stripped:
+                if intro_started and intro_lines:
+                    intro_lines.append(line)
+                continue
             if stripped == "---":
                 if not intro_started:
                     intro_started = True
@@ -621,10 +729,18 @@ def parse_study(path: Path) -> Study:
     if not intro_complete and intro_lines:
         body_lines = []
 
+    if not intro_lines:
+        hoisted_intro_lines, body_lines = hoist_leading_body_intro(body_lines)
+        if hoisted_intro_lines:
+            intro_lines = hoisted_intro_lines
+
     study_text = "\n".join(intro_lines + body_lines)
     references = extract_references(study_text)
     intro_html = render_blocks(intro_lines, enable_reference_links=True)
     body_html = render_blocks(body_lines, enable_reference_links=True)
+    summary = summarize_blocks(intro_lines)
+    if not summary:
+        summary = title or path.stem.replace("_", " ").title()
     slug = slugify(path.stem.replace("_", "-"))
 
     return Study(

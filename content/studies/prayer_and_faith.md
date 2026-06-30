@@ -241,6 +241,14 @@ Praying for a specific outcome assumes that we can see enough of the situation t
 
 ---
 
+## A Note on the Psalms
+
+The Psalter is Scripture's largest collection of prayer and contains abundant petition, lament, and specific requests for concrete outcomes. That is worth acknowledging directly.
+
+However, the Psalms were written within the old covenant — before the torn veil, before the indwelling Spirit, before Christ's once-for-all work removed the barrier between God and man. The psalmists cried out across a distance that no longer exists for the believer in Christ. The new covenant changes the terms of access entirely, and the New Testament consistently models prayer from within that already-established relationship rather than reaching across the distance the Psalms describe. Gethsemane — not the petition psalms — is the model Christ Himself gave us for how a new covenant believer approaches the Father (Matthew 26:36-46).
+
+---
+
 ## Drawing the Pattern Together
 
 Pulling together everything examined above, a consistent pattern emerges, and it is simpler than most people expect. Scripture does not describe prayer as a list of requests we bring to God hoping He grants enough of them. It describes prayer as a relationship in which we submit to Him first and trust Him completely.
@@ -390,7 +398,7 @@ But the full account of Hannah's prayer tells a more complicated and more honest
 
 Three things the passage actually shows:
 
-**First** — Hannah's prayer was not a personal request for personal fulfillment. She vowed to give the child back to God entirely — Samuel would be dedicated to the Lord's service for life. She was asking for a son to give to God. The request was already oriented toward God's purposes, not her own.
+**First** — Hannah's prayer was not a personal request for personal fulfillment. She was asking for a son — the text says so plainly. But notice what she was asking for him for: she vowed to give the child back to God entirely, dedicated to His service for life. The request was real, but it was already oriented around what God could do through the child rather than what the child would do for her.
 
 **Second** — the account itself does not say God answered because she asked persistently or sincerely enough. It says God remembered her — *"the Lord remembered her"* (v.19). The initiative is entirely God's. Samuel's birth was not incidental — Samuel became one of the most significant figures in Israel's history, the prophet who would anoint both Saul and David. God had a plan for Samuel long before Hannah had a prayer. Her asking aligned with what God was already going to do.
 
