@@ -12,4 +12,6 @@ Track repo-level planning docs here.
 
 ## Current Plans
 
-- None yet.
+- No formal active plan doc is open right now.
+- Current execution baseline is driven by the architecture standards and the latest change records under `documentation/changes/`.
+- If a new scoped implementation starts, add it here under `documentation/planning/`.
