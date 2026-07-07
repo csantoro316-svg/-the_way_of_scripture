@@ -1,0 +1,22 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "13:2",
+    "label": "Acts 13:2",
+    "slug": "acts-13-2"
+  },
+  "versions": [
+    {
+      "label": "LSB",
+      "text": "\"While they were ministering to the Lord and fasting, the Holy Spirit said, 'Set apart for Me Barnabas and Saul for the work to which I have called them.'\""
+    }
+  ],
+  "context_lines": [
+    "Acts 13:2 should be read within the flow of its chapter and the larger argument of Acts."
+  ],
+  "explanation_lines": [
+    "The word translated \"ministering\" here is *leitourge\u014d*. Notice the context: the gathered assembly is fasting and seeking God \u2014 not singing, not performing a service. Their ministry is described using priestly vocabulary, directed toward the Lord, and it produces revelation from the Holy Spirit. This is the language of sacred vocation applied to the ordinary gathered assembly. Every believer is a minister in this sense \u2014 not a spectator of ministry performed by others.",
+    "",
+    "The English word \"liturgy\" derives directly from *leitourge\u014d* \u2014 but the original sense was never about scripted ceremony. It was about sacred service rendered on behalf of the community."
+  ]
+}

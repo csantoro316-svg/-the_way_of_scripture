@@ -12,6 +12,5 @@ Track repo-level planning docs here.
 
 ## Current Plans
 
-- No formal active plan doc is open right now.
-- Current execution baseline is driven by the architecture standards and the latest change records under `documentation/changes/`.
-- If a new scoped implementation starts, add it here under `documentation/planning/`.
+- Active: [2026-07-05 Passage Library Foundation Plan](/home/cozwood/Documents/Dev/the_way_of_scripture/documentation/planning/2026-07-05-passage-library-foundation-plan.md)
+- Current execution baseline is driven by the architecture standards, the active planning doc, and the latest change records under `documentation/changes/`.

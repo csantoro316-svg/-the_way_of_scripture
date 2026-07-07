@@ -1,0 +1,29 @@
+{
+  "reference": {
+    "book": "3 John",
+    "citation": "1:5-8",
+    "label": "3 John 1:5-8",
+    "slug": "3-john-1-5-8"
+  },
+  "section_title": "Gaius Commended for Hospitality",
+  "versions": [
+    {
+      "label": "BSB",
+      "text": "Beloved, you are faithful in what you are doing for the brothers, and especially since they are strangers to you. They have testified to the church about your love. You will do well to send them on their way in a manner worthy of God. For they went out on behalf of the Name, accepting nothing from the Gentiles. Therefore we ought to support such men, so that we may be fellow workers for the truth."
+    }
+  ],
+  "context_lines": [
+    "John now commends Gaius for receiving and assisting traveling brothers. The passage shows that hospitality and material support were part of how the early church participated in the spread of the gospel."
+  ],
+  "common_interpretation_lines": [
+    "This section is commonly read as a strong example of practical partnership in ministry. Gaius is not the public messenger here, but by supporting those who go out for the sake of Christ, he shares in the work.",
+    "",
+    "The phrase **\"on behalf of the Name\"** is often understood as shorthand for witness centered on Jesus Himself. The passage ties loyalty to Christ with concrete generosity toward faithful laborers."
+  ],
+  "deeper_study": [
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    }
+  ]
+}

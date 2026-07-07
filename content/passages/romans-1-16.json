@@ -1,0 +1,29 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "1:16",
+    "label": "Romans 1:16",
+    "slug": "romans-1-16"
+  },
+  "section_title": "",
+  "versions": [
+    {
+      "label": "LSB",
+      "text": "\"For I am not ashamed of the gospel, because it is the power of God that brings salvation to everyone who believes: first to the Jew, then to the Gentile.\""
+    }
+  ],
+  "context_lines": [
+    "Romans 1:16 should be read within the flow of its chapter and the larger argument of Romans."
+  ],
+  "common_interpretation_lines": [
+    "Not the power of God that inspires people to be better. The power of God that brings salvation. Salvation from what? From sin and its consequence \u2014 death \u2014 and from separation from God that sin produces. The gospel saves because it announces that what sin demanded has been paid, and that the One who paid it has risen.",
+    "",
+    "Grace. Through faith. Not earned. Not deserved. Not produced by religious effort or moral progress or doctrinal correctness. Given. The gospel is not an achievement. It is a gift."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ]
+}

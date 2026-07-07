@@ -1,0 +1,20 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "3:23",
+    "label": "John 3:23",
+    "slug": "john-3-23"
+  },
+  "versions": [
+    {
+      "label": "LSB",
+      "text": "\"John also was baptizing in Aenon near Salim, because there was much water there; and people were coming and were being baptized.\""
+    }
+  ],
+  "context_lines": [
+    "In **John 3**, John's Gospel brings together new birth, the Spirit, faith, and witness to Christ. Even narrative details in the chapter should be read within that wider testimony to what it means to receive life from above."
+  ],
+  "explanation_lines": [
+    "Much water was needed \u2014 consistent with immersion as the norm. Sprinkling requires no such provision."
+  ]
+}

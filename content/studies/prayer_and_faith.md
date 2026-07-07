@@ -1,8 +1,9 @@
+<!-- governed by project_doctrine.md — see site standards before editing -->
 # Prayer and Faith
 
 ## What Scripture Actually Teaches About How We Approach God
 
-*Primary Translation: Legacy Standard Bible (LSB)*
+*Primary Translation: Berean Standard Bible (BSB)*
 
 ---
 
@@ -16,7 +17,7 @@ This document works through what the Bible actually says prayer is — not what 
 
 Before looking at individual passages, it helps to start with the verse that governs all of them. First John gives the clearest statement in Scripture of the actual condition under which prayer is answered:
 
-> **1 John 5:14-15 (LSB)**
+> **1 John 5:14-15 (BSB)**
 > *Now this is the confidence which we have before Him, that if we ask anything according to His will, He hears us. And if we know that He hears us in whatever we ask, we know that we have the requests which we have asked from Him.*
 
 Notice the structure of the promise. It is not "ask and you will receive." It is conditional at every step: *if* we ask according to His will, *then* He hears us; if we know He hears us, *then* we know we have what we asked. The entire promise depends on alignment with His will, not on the sincerity, persistence, or emotional intensity of the request. This is the lens through which every other prayer passage in Scripture should be read. Whenever a verse seems to promise that God will give us whatever we ask, this conditional clause is already built into it, whether stated explicitly or not.
@@ -27,16 +28,16 @@ The phrase "according to His will" is only as useful as our understanding of wha
 
 God's revealed will — what He has explicitly stated in Scripture that He desires. This is knowable, because He has told us:
 
-> **1 Timothy 2:3-4 (LSB)**
+> **1 Timothy 2:3-4 (BSB)**
 > *"This is good and acceptable in the sight of God our Savior, who desires all men to be saved and to come to the knowledge of the truth."*
 
-> **1 Thessalonians 4:3 (LSB)**
+> **1 Thessalonians 4:3 (BSB)**
 > *"For this is the will of God, your sanctification..."*
 
-> **1 Thessalonians 5:18 (LSB)**
+> **1 Thessalonians 5:18 (BSB)**
 > *"in everything give thanks; for this is the will of God for you in Christ Jesus."*
 
-> **John 6:39-40 (LSB)**
+> **John 6:39-40 (BSB)**
 > *"This is the will of Him who sent Me, that of all that He has given Me I lose nothing, but raise it up on the last day. For this is the will of My Father, that everyone who beholds the Son and believes in Him will have eternal life."*
 
 God's revealed will centers on the salvation of souls, the sanctification of believers, gratitude in all circumstances, and eternal life for those who believe. These are not mysteries — they are stated plainly and repeatedly throughout Scripture.
@@ -49,7 +50,7 @@ The problem with most outcome-specific prayer is precisely here. Praying for thi
 
 ## 2. The Lord's Prayer — A Model, Not a Formula
 
-> **Matthew 6:9-13 (LSB)**
+> **Matthew 6:9-13 (BSB)**
 > *'Pray, then, in this way: "Our Father who is in heaven, hallowed be Your name. Your kingdom come. Your will be done, on earth as it is in heaven. Give us this day our daily bread. And forgive us our debts, as we also have forgiven our debtors. And do not lead us into temptation, but deliver us from evil."'*
 
 Jesus introduces this prayer with an important instruction that is easy to miss: "pray, then, in this way" — not "pray these exact words." He is not handing His disciples a script to recite. He is giving them a structure, a pattern for how a right relationship with God should shape the content and order of prayer. This matters enormously, because the very same chapter, just a few verses earlier, condemns mechanical repetition in prayer (Matthew 6:7) — making it more than a little ironic that this model prayer became, in later church history, the most repeated, recited prayer in all of Christianity. Jesus was not establishing a liturgy. He was teaching His disciples how to think about approaching the Father.
@@ -72,7 +73,7 @@ Because the word is essentially unique to this passage, translators and scholars
 - **'Necessary for existence':** Origen's reading, emphasizing the bare minimum required to live, not comfort or surplus.
 - **'Supersubstantial':** Jerome's translation choice in the Latin Vulgate for this verse specifically — built from *epi* ("above" or "super") and *ousia* ("substance" or "being") — suggesting something above and beyond ordinary physical sustenance.
 
-What is striking is that every one of these readings, despite their differences, points in the same direction: bare sufficiency, or something beyond the merely physical. None of them point toward personal preference, comfort, abundance, or a specific desired outcome. The petition, however it is ultimately understood, was never designed to carry the weight modern prayer requests often place on it.
+What is striking is that every one of these readings, despite their differences, points in the same direction: bare sufficiency, or something beyond the merely physical. None of them point toward personal preference, comfort, abundance, or a specific desired outcome. The petition, however it is ultimately understood, was never designed to carry the weight modern prayer requests often place on it. What it ultimately means is not settled by the Greek word alone — it is settled by what Jesus Himself says about bread in John 6, examined in Section 4.
 
 ---
 
@@ -82,7 +83,7 @@ Here is the problem that has to be addressed honestly. Only fifteen verses after
 
 *Read the full passage in your Bible (Matthew 6:25-34). Key verses are quoted below to walk through the argument.*
 
-> **v.25** *'For this reason I say to you, do not be worried about your life, as to what you will eat or what you will drink; nor for your body, as to what you will put on. Is not life more than food, and the body more than clothing?'*
+> **v.25** *‘Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes?’*
 
 > **vv.26-27** *'Look at the birds of the air, that they do not sow, nor reap nor gather into barns, and yet your heavenly Father feeds them. Are you not worth much more than they? And who of you by being worried can add a single hour to his life?'*
 
@@ -120,7 +121,7 @@ Jesus is doing something very deliberate here. He is taking the manna tradition 
 
 Once this connection is seen, the apparent contradiction between Matthew 6:11 and Matthew 6:25-34 dissolves, because both passages turn out to be saying the same thing from two different directions. "Give us this day our daily bread" is not, at its deepest level, a request for groceries — it is the cry of a soul declaring its dependence on Christ Himself as the only true sustenance. "Seek first His kingdom" in verse 33 is the same instruction stated plainly: seek Him, not provision, and everything else will be added as a consequence. The two passages stop competing once "daily bread" is understood as a request for continued life in Christ rather than a request for physical food.
 
-> **John 15:4-5 (LSB)** *'Abide in Me, and I in you. As the branch cannot bear fruit of itself unless it abides in the vine, so neither can you unless you abide in Me. I am the vine, you are the branches; he who abides in Me and I in him, he bears much fruit, for apart from Me you can do nothing.'*
+> **John 15:4-5 (BSB)** *‘Remain in Me, and I will remain in you. Just as no branch can bear fruit by itself unless it remains in the vine, neither can you bear fruit unless you remain in Me. I am the vine and you are the branches. The one who remains in Me, and I in him, will bear much fruit. For apart from Me you can do nothing.’*
 
 This is the language the daily bread petition is actually speaking. It is the prayer form of abiding — a daily, ongoing cry for continued union with the only source of true life, not a request directed at circumstances or material need.
 
@@ -140,13 +141,13 @@ Both men were not guessing. Working directly from the Greek centuries before thi
 
 Faith is what moves God. Faith is what Jesus credits. Faith is what Scripture consistently points to as the deciding factor when someone comes before Him in need — not the wording of a request, not its frequency, not its eloquence. Throughout the Gospels, it is faith that Jesus names again and again as what saved, what healed, what made whole.
 
-> **Matthew 9:20-22 (LSB)**
+> **Matthew 9:20-22 (BSB)**
 > *"And behold, a woman who had been suffering from a hemorrhage for twelve years, came up behind Him and touched the fringe of His cloak; for she was saying to herself, 'If I only touch His garment, I will get well.' But Jesus turning and seeing her said, 'Daughter, take courage; your faith has healed you.' And at once the woman was healed."*
 
-> **Mark 10:51-52 (LSB)**
+> **Mark 10:51-52 (BSB)**
 > *"And Jesus said to him, 'What do you want Me to do for you?' And the blind man said to Him, 'Rabboni, I want to regain my sight!' And Jesus said to him, 'Go; your faith has made you well.' Immediately he regained his sight and began following Him on the road."*
 
-> **Hebrews 11:6 (LSB)**
+> **Hebrews 11:6 (BSB)**
 > *"And without faith it is impossible to please Him, for he who comes to God must believe that He is and that He is a rewarder of those who seek Him."*
 
 These two accounts are not identical, and the difference is worth naming rather than smoothing over. The woman never spoke a word to Jesus. She reasoned within herself, reached out, and touched His garment — pure faith, with no request voiced at all. The blind man's case is different: Jesus directly asked him, "What do you want Me to do for you?" and he answered specifically, "I want to regain my sight." Here a want was actually spoken aloud, in response to Christ's own question.
@@ -161,7 +162,7 @@ If faith, not the wording of a request, is what Scripture credits, a natural que
 
 ### Paul's Thorn — What Happens When God Says No
 
-> **2 Corinthians 12:7-9 (LSB)**
+> **2 Corinthians 12:7-9 (BSB)**
 > *"Because of the surpassing greatness of the revelations, for this reason, to keep me from exalting myself, there was given to me a thorn in the flesh, a messenger of Satan to torment me — to keep me from exalting myself! Concerning this I implored the Lord three times that it might leave me. And He has said to me, 'My grace is sufficient for you, for power is perfected in weakness.'"*
 
 This passage is instructive precisely because Paul is not a marginal example of weak faith — he is the apostle through whom much of the New Testament was written. He prayed for relief from real suffering, specifically and repeatedly, three times. God said no all three times. The reason was not arbitrary: the thorn served a purpose in Paul's life — keeping him from pride — that its removal would have undone. Paul could not see that purpose from where he stood. God could. The denial turned out to be the greater gift, and Paul received it as such rather than pressing for a different answer.
@@ -170,16 +171,16 @@ This is the deeper point Paul's thorn forces us to confront. If true faith means
 
 ### Romans 15:30-32 — A Second Request, A Second No
 
-> **Romans 15:30-32 (LSB)**
+> **Romans 15:30-32 (BSB)**
 > *"Now I urge you, brothers, through our Lord Jesus Christ and through the love of the Spirit, to strive together with me in your prayers to God for me, that I may be rescued from those who are disobedient in Judea, and that my service for Jerusalem may prove acceptable to the saints; so that I may come to you in joy by the will of God and find refreshing rest in your company."*
 
 Paul asks the Roman church to pray for his personal rescue and a joyful, restful arrival among them. Scripture records what actually happened: Paul was arrested in Jerusalem shortly afterward and arrived in Rome years later, in chains, not in the joy and rest he had asked for. This was Paul's second recorded instance of asking for a personal outcome — and his second recorded denial.
 
-The pattern is the same one the thorn already exposed. In asking specifically to be rescued and to arrive in comfort, Paul was assuming his own desire matched what God intended. It did not. This is precisely what it means to lean on our own understanding rather than trusting the path God has already set — the very failure Proverbs 3:5-6 warns against: *"Trust in Yahweh with all your heart and do not lean on your own understanding. In all your ways acknowledge Him, and He will make your paths straight."* Having faith means trusting God when you say "Your will be done."
+The pattern is the same one the thorn already exposed. In asking specifically to be rescued and to arrive in comfort, Paul was assuming his own desire matched what God intended. It did not. This is precisely what it means to lean on our own understanding rather than trusting the path God has already set — the very failure Proverbs 3:5-6 warns against: *"Trust in the LORD with all your heart and lean not on your own understanding; in all your ways acknowledge Him, and He will make your paths straight."* Having faith means trusting God when you say "Your will be done."
 
 ### Acts 4:29-31 — A Request Rightly Aimed
 
-> **Acts 4:29-31 (LSB)**
+> **Acts 4:29-31 (BSB)**
 > *"And now, Lord, take note of their threats, and grant that Your bond-servants may speak Your word with all confidence, while You extend Your hand to heal, and signs and wonders take place through the name of Your holy servant Jesus. And when they had prayed, the place where they had gathered together was shaken, and they were all filled with the Holy Spirit and began to speak the word of God with boldness."*
 
 This prayer follows real persecution — Peter and John have just been threatened by the religious authorities. Notice what the gathered believers do not ask for: removal of the threat, safety, an end to the persecution. The natural, self-protective request is never made. Instead they ask for boldness to keep preaching despite the threat, and for God's power to be displayed through Jesus' name. The text records the answer immediately, in the same passage: granted.
@@ -192,7 +193,7 @@ The contrast with Paul's two examples is instructive. All three prayers are spec
 
 Paul learned to stop asking and trust a plan he could not see. Genesis gives us the picture of what happens when a man does not.
 
-> **Genesis 12:10-13 (LSB)**
+> **Genesis 12:10-13 (BSB)**
 > *"Now there was a famine in the land; so Abram went down to Egypt to sojourn there, for the famine was severe in the land... and he said to Sarai his wife, 'See now, I know that you are a beautiful woman; and when the Egyptians see you, they will say, "This is his wife"; and they will kill me, but they will let you live. Please say that you are my sister so that it may go well for me because of you.'"*
 
 > **Genesis 12:18-19**
@@ -200,8 +201,8 @@ Paul learned to stop asking and trust a plan he could not see. Genesis gives us 
 
 When the famine came, Abraham did not inquire of God about what to do. He took matters into his own hands, went down to Egypt, and devised a plan built on deception to protect himself — a plan that nearly cost him his wife and ended with a pagan king rebuking the father of faith for his dishonesty. God still intervened and protected Sarah, but the intervention happened in spite of Abraham's lack of trust, not because his plan had worked.
 
-> **Genesis 26:1-2 (LSB) — Isaac's Contrasting Response**
-> *"Now there was a famine in the land... And Yahweh appeared to him and said, 'Do not go down to Egypt; stay in the land of which I shall tell you.'"*
+> **Genesis 26:1-2 (BSB) — Isaac's Contrasting Response**
+> *"Now there was another famine in the land, subsequent to the one that had occurred in Abraham’s time. And Isaac went to Abimelech king of the Philistines at Gerar. The LORD appeared to Isaac and said, ‘Do not go down to Egypt. Settle in the land where I tell you.’"*
 
 Isaac later faces the very same kind of famine. This time, God explicitly instructs him not to go to Egypt, and Isaac obeys. The outcome for Isaac is entirely different from his father's experience. The hardship was comparable in both cases; what differed was whether faith or self-management governed the response.
 
@@ -213,13 +214,13 @@ Praying for a specific outcome while simultaneously engineering that outcome thr
 
 ### Romans 8:26-27 — The Spirit Prays What We Cannot
 
-> **(LSB)** *"In the same way the Spirit also helps our weakness; for we do not know how to pray as we should, but the Spirit Himself intercedes for us with groanings too deep for words; and He who searches the hearts knows what the mind of the Spirit is, because He intercedes for the saints according to the will of God."*
+> **(BSB)** *"In the same way the Spirit also helps our weakness; for we do not know how to pray as we should, but the Spirit Himself intercedes for us with groanings too deep for words; and He who searches the hearts knows what the mind of the Spirit is, because He intercedes for the saints according to the will of God."*
 
 Paul makes a remarkable admission here: believers, on our own, do not know how to pray as we ought. Rather than leaving that gap unfilled, the Spirit Himself intercedes on our behalf, according to God's will rather than our own limited understanding of what we need. This passage suggests that the most honest form of prayer is not always a carefully constructed petition. Sometimes it is simply bringing our weakness and uncertainty before God and trusting the Spirit to do, within us and for us, what we are incapable of articulating ourselves.
 
 ### James 4:2-3 — When Asking Goes Wrong
 
-> **(LSB)** *"You lust and do not have; so you commit murder. And you are envious and cannot obtain; so you fight and quarrel. You do not have because you do not ask. You ask and do not receive, because you ask with wrong motives, so that you may spend it on your pleasures."*
+> **(BSB)** *"You lust and do not have; so you commit murder. And you are envious and cannot obtain; so you fight and quarrel. You do not have because you do not ask. You ask and do not receive, because you ask with wrong motives, so that you may spend it on your pleasures."*
 
 **kakos (KAH-kos)** — the Greek word translated "wrong motives" — meaning wrongly, badly, or harmfully; describing a self-serving root underneath the request itself.
 
@@ -227,7 +228,7 @@ James identifies two separate failures in prayer here. The first is simply not a
 
 ### Proverbs 3:5-6 — Trusting a Plan We Cannot See
 
-> **(LSB)** *"Trust in Yahweh with all your heart and do not lean on your own understanding. In all your ways acknowledge Him, and He will make your paths straight."*
+> **(BSB)** *"Trust in the LORD with all your heart, and lean not on your own understanding; in all your ways acknowledge Him, and He will make your paths straight."*
 
 This Old Testament passage captures, in Hebrew centuries before Christ, the same posture the New Testament models throughout — Gethsemane, Paul's thorn, Abraham's failure and Isaac's obedience, the Spirit's intercession in Romans 8. The Hebrew words behind this verse carry weight worth knowing.
 
@@ -255,15 +256,35 @@ Pulling together everything examined above, a consistent pattern emerges, and it
 
 It begins with His will, not ours. "Your will be done" is not a phrase that gives way to human requests afterward — it governs the entire prayer Jesus gave us (Matthew 6:9-10), from beginning to end. It is asked in keeping with His name and character — *"whatever you ask in My name, that I will do"* (John 14:13) — not a phrase attached to the end of a request to guarantee the outcome we wanted anyway. It is the asking of someone abiding in Him — *"if you abide in Me, and My words abide in you, ask whatever you wish"* (John 15:7) — someone living as He would have us live, not someone asking Him to bless a plan we already made. *"Your Father knows what you need before you ask Him"* (Matthew 6:8) — He is not waiting to be informed or persuaded. Prayer aligned with His will is not a request awaiting a verdict. It is submission itself: *"if we ask anything according to His will, He hears us"* (1 John 5:14).
 
-Specific requests are not forbidden — Acts 4:29-31 shows the early church asking for something particular and receiving it. What governs whether a request is rightly aimed is not whether it names an outcome, but what that outcome serves. Paul asked twice for his own relief — the thorn removed, a safe and joyful arrival in Rome — and was told no both times, because in both cases he was leaning on his own understanding of what was best rather than trusting the path God had already set. The believers in Acts 4 asked for boldness and for God's power to be displayed, regardless of what happened to them personally, and were granted it immediately. Abraham took the outcome into his own hands rather than asking at all, leaning entirely on his own understanding of how to survive the famine, and it nearly destroyed him. Isaac acknowledged God in the same circumstance, waited on His instruction, and was kept safe. The difference across every example was never how hard or how specifically anyone prayed. It was whether the prayer, and the heart behind it, leaned on its own understanding or trusted the One who already sees the whole path — exactly what Proverbs 3:5-6 calls every believer to: *"Trust in Yahweh with all your heart and do not lean on your own understanding. In all your ways acknowledge Him, and He will make your paths straight."*
+Specific requests are not forbidden — Acts 4:29-31 shows the early church asking for something particular and receiving it. What governs whether a request is rightly aimed is not whether it names an outcome, but what that outcome serves. Paul asked twice for his own relief — the thorn removed, a safe and joyful arrival in Rome — and was told no both times, because in both cases he was leaning on his own understanding of what was best rather than trusting the path God had already set. The believers in Acts 4 asked for boldness and for God’s power to be displayed, regardless of what happened to them personally, and were granted it immediately. Abraham took the outcome into his own hands rather than asking at all, leaning entirely on his own understanding of how to survive the famine, and it nearly destroyed him. Isaac acknowledged God in the same circumstance, waited on His instruction, and was kept safe. The difference across every example was never how hard or how specifically anyone prayed. It was whether the prayer, and the heart behind it, leaned on its own understanding or trusted the One who already sees the whole path — exactly what Proverbs 3:5-6 calls every believer to: *"Trust in the LORD with all your heart and lean not on your own understanding; in all your ways acknowledge Him, and He will make your paths straight."*
 
 That is the heart of it. Faith does not demand a particular outcome from God, because faith already trusts that He has one. We do not even know how to ask rightly on our own — *"we do not know how to pray as we should, but the Spirit Himself intercedes for us with groanings too deep for words"* (Romans 8:26) — and the Spirit's intercession is not according to our wishes but *"according to the will of God"* (Romans 8:27). If even our asking has to be carried by the Spirit toward God's will rather than our own, then seeking Him, not outcomes from Him, is the only goal prayer was ever meant to have. Provision, healing, and direction, when they come, are what follows when He is sought first — not what is owed to us because we asked correctly: *"seek first His kingdom and His righteousness, and all these things will be added to you"* (Matthew 6:33).
 
 And lastly, the bread we are taught to ask for daily is not bread at all, but Christ Himself, the only sustenance that was ever truly necessary: *"I am the bread of life; he who comes to Me will not hunger, and he who believes in Me will never thirst"* (John 6:35).
 
-*"Trust in Yahweh with all your heart and do not lean on your own understanding. In all your ways acknowledge Him, and He will make your paths straight."* (Proverbs 3:5-6)
+*"Trust in the LORD with all your heart and lean not on your own understanding; in all your ways acknowledge Him, and He will make your paths straight."* (Proverbs 3:5-6)
 
 That is what prayer is for.
+
+---
+
+## Does God Want You to Ask? The Question Behind the Question
+
+Yes — and that is exactly the point people miss. God does want you to ask. Jesus said ask and it will be given. Scripture says this plainly. The question is what it says He wants you to ask for — because that is the part that gets skipped.
+
+Look at what the passages actually say. Matthew 7:11 — the Father gives what is good, and Luke's parallel names that good thing as the Holy Spirit (Luke 11:13). John 14:13 — whatever you ask in His name, meaning in alignment with His character and purposes. John 15:7 — ask whatever you wish, but only after abiding in Him, which means your desires have already been shaped by His Word and His will. Acts 4 — the early church asks specifically, and what they ask for is boldness to keep preaching regardless of what happens to them personally. In every case, what Scripture models as the content of asking is His kingdom, His purposes, and spiritual formation — not personal earthly outcomes. God wants you to ask. But what He consistently shows His people asking for is what serves His divine purpose. That distinction is everything.
+
+It is also worth addressing directly a position that many thoughtful theologians hold: that material asking is not prohibited by Scripture, that Gethsemane itself contains a request, and that the key is not the absence of asking but surrender governing it. Early church writers including Augustine and Cyprian preserved both a literal and spiritual meaning for daily bread. The argument that is often made is that humble petition offered in genuine submission to God's will is valid Christian prayer.
+
+This document does not claim that asking is sinful. It does not claim that a person who says "Lord, I need provision, Your will be done" has done something wrong. What it claims is something more precise — and more demanding.
+
+If you genuinely believe what Matthew 6:8 says — "your Father knows what you need before you ask Him" — then the question is not whether asking is permitted. The question is what the asking reveals. A Father who already knows does not need to be informed. Does not need to be reminded. Does not need to be convinced. If you truly trust that He knows, that He cares, and that He is already working — what exactly is the request accomplishing? The honest answer is that it may be accomplishing something in you rather than anything in Him. And that is actually how many of the great Christian writers have described prayer: not as changing God's mind, but as bringing ours into alignment with His.
+
+On the question of daily bread specifically: this document holds that "give us this day our daily bread" is a request for Christ Himself — the living bread of John 6, the fulfillment of the manna typology Jesus explicitly invokes. That is the position argued and defended in Section 4, and supported by Origen and Jerome working independently from the Greek. However, even granting that some may believe daily bread is a reference to physical provision — it does not solve the inherent conflict. Jesus says, fifteen verses later in the same chapter: "Do not worry, saying 'What will we eat?' or 'What will we drink?'... your heavenly Father knows that you need all these things" (Matthew 6:31-33). If Jesus models asking for bread and then immediately says do not seek bread because your Father already knows you need it — the reading as literal bread creates its own problem.
+
+The deeper issue is not whether asking is technically permitted. The deeper issue is what genuine faith actually looks like in practice. Tacking "your will be done" onto a list of desired outcomes is not what Jesus modeled in Gethsemane. In Gethsemane the surrender was real. The cup was drunk. The arc of those three prayers is a soul moving through honest expression into complete release — and the release, not the asking, is the model. A person who is already fully there does not need the asking to arrive.
+
+Mature faith asks less for circumstances and more for alignment with Him — not because asking is forbidden, but because genuine trust has already released what faith was never meant to hold onto. The New Testament's own center of gravity confirms this: the recorded prayers of Jesus, Paul, and the early church are overwhelmingly aimed at God's purposes, His kingdom, spiritual formation, boldness to serve Him, and the salvation of others. Not because material needs don't exist, but because a life genuinely oriented toward seeking His kingdom first has already placed those needs in the right hands. "Seek first His kingdom and His righteousness, and all these things will be added to you" (Matthew 6:33). The addition is promised. The seeking is the prayer.
 
 ---
 
@@ -275,11 +296,11 @@ Several passages are regularly lifted out of context to suggest that God is obli
 
 ### Matthew 7:7-11
 
-> **(LSB)** *'Ask, and it shall be given to you; seek, and you shall find; knock, and it shall be opened to you. For everyone who asks receives, and he who seeks finds, and to him who knocks it shall be opened. Or what man is there among you who, when his son asks for a loaf, will give him a stone? Or if he asks for a fish, he will not give him a snake, will he? If you then, being evil, know how to give good gifts to your children, how much more will your Father who is in heaven give what is good to those who ask Him!'*
+> **(BSB)** *‘Ask, and it will be given to you; seek, and you will find; knock, and the door will be opened to you. For everyone who asks receives; he who seeks finds; and to him who knocks, the door will be opened. Which of you, if his son asks for bread, will give him a stone? Or if he asks for a fish, will give him a snake? So if you who are evil know how to give good gifts to your children, how much more will your Father in heaven give good things to those who ask Him!’*
 
 Verses 7-8 are the part people usually remember — ask and it will be given. But verse 11 defines the terms of the promise: the Father gives what is *good*, not necessarily what was specifically requested. "Good" is determined by the Father's judgment, not the asker's preference. A child may ask for something harmful, dressed up as a need. The Father's goodness is precisely what filters the request.
 
-> **Luke 11:13 (LSB) — Luke's parallel account**
+> **Luke 11:13 (BSB) — Luke's parallel account**
 > *'If you then, being evil, know how to give good gifts to your children, how much more will your heavenly Father give the Holy Spirit to those who ask Him?'*
 
 Luke's version is even more pointed. Where Matthew has "good things," Luke specifies the gift as the Holy Spirit. This tells us what Jesus considered the ultimate good gift to be — not material provision or circumstantial change, but the Spirit Himself. The two accounts together suggest that the asking and giving Jesus describes here is ultimately about spiritual gifts, not a blank check for personal requests.
@@ -290,7 +311,7 @@ Luke's version is even more pointed. Where Matthew has "good things," Luke speci
 
 ### John 14:13-14
 
-> **(LSB)** *'Whatever you ask in My name, that I will do, so that the Father may be glorified in the Son. If you ask Me anything in My name, I will do it.'*
+> **(BSB)** *'Whatever you ask in My name, that I will do, so that the Father may be glorified in the Son. If you ask Me anything in My name, I will do it.'*
 
 This verse is frequently treated as an unconditional promise, but the qualifying phrase is "in My name." In biblical usage, to act in someone's name was not to invoke their name as a verbal formula, but to act under their authority and in keeping with their character and purposes — the way an ambassador or legal representative acts on behalf of someone else. An ambassador cannot act contrary to the one who sent him and still claim to be acting in his name. The same logic applies here: asking "in Jesus' name" means the request is already shaped by who He is and what He wills, not a tagline appended to any request to guarantee its fulfillment.
 
@@ -298,7 +319,7 @@ This verse is frequently treated as an unconditional promise, but the qualifying
 
 ### John 15:7
 
-> **(LSB)** *'If you abide in Me, and My words abide in you, ask whatever you wish, and it will be done for you.'*
+> **(BSB)** *'If you abide in Me, and My words abide in you, ask whatever you wish, and it will be done for you.'*
 
 To abide in Christ means to follow His example, to live as He would have you live, to do as He would have you do. In other words, to abide in Him is to live according to His will. That is exactly the condition 1 John 5:14-15 already gave us — ask according to His will, and He hears you. John 15:7 is saying the same thing in different words: abide in Him, and your asking will already be shaped by His will, because that is what abiding means.
 
@@ -308,7 +329,7 @@ In short, abiding in Christ is not a posture you adopt so you can still ask for 
 
 ### James 5:14-16
 
-> **(LSB)** *"Is anyone among you sick? Then he must call for the elders of the church and they are to pray over him, anointing him with oil in the name of the Lord; and the prayer offered in faith will restore the one who is sick, and the Lord will raise him up, and if he has committed sins, they will be forgiven him. Therefore, confess your sins to one another, and pray for one another so that you may be healed. The effective prayer of a righteous man can accomplish much."*
+> **(BSB)** *"Is anyone among you sick? Then he must call for the elders of the church and they are to pray over him, anointing him with oil in the name of the Lord; and the prayer offered in faith will restore the one who is sick, and the Lord will raise him up, and if he has committed sins, they will be forgiven him. Therefore, confess your sins to one another, and pray for one another so that you may be healed. The effective prayer of a righteous man can accomplish much."*
 
 This passage is commonly read as an unconditional promise of physical healing through prayer — pray in faith over the sick, and God will restore them. That reading collapses under the weight of the Greek word James actually uses.
 
@@ -322,7 +343,7 @@ The example James immediately offers confirms this. Elijah did not pray for a pe
 
 ### John 16:23-24
 
-> **(LSB)** *"Truly, truly, I say to you, if you ask the Father for anything in My name, He will give it to you. Until now you have asked for nothing in My name; ask and you will receive, so that your joy may be made full."*
+> **(BSB)** *"Truly, truly, I say to you, if you ask the Father for anything in My name, He will give it to you. Until now you have asked for nothing in My name; ask and you will receive, so that your joy may be made full."*
 
 The surface reading people take from this is straightforward — ask anything, in Jesus' name, and you will receive it, and your joy will be complete. It sounds like the broadest promise in the New Testament on prayer.
 
@@ -336,7 +357,7 @@ The promise "ask and you will receive, so that your joy may be made full" — th
 
 ### Mark 11:24
 
-> **(LSB)** *"Therefore I say to you, all things for which you pray and ask, believe that you have received them, and they will be granted you."*
+> **(BSB)** *"Therefore I say to you, all things for which you pray and ask, believe that you have received them, and they will be granted you."*
 
 This is perhaps the most misused prayer verse in the New Testament — the foundation of prosperity gospel theology and what is commonly called "name it and claim it" teaching. On its surface it sounds like the broadest, most unconditional promise Jesus ever made about prayer. "All things." "Believe that you have received them." "They will be granted you." No qualifications visible. But the context has been almost universally stripped away, and without it the verse cannot be read correctly.
 
@@ -352,7 +373,7 @@ At its core, Mark 11:24 is not about the mechanics of asking — it is about fai
 
 ### Philippians 4:19
 
-> **(LSB)** *"And my God will supply all your needs according to His riches in glory in Christ Jesus."*
+> **(BSB)** *"And my God will supply all your needs according to His riches in glory in Christ Jesus."*
 
 The common assumption is that this is a general prayer promise — bring God your needs, and He will supply them. It gets imported into discussions about prayer as if it were an open-ended guarantee that whatever you genuinely need, God will provide if you ask Him for it.
 
@@ -368,7 +389,7 @@ What this verse cannot mean is demonstrated simply by the rest of the letter. Pa
 
 ### Matthew 18:19-20
 
-> **(LSB)** *"Again I say to you, that if two of you agree on earth about anything that they may ask, it shall be done for them by My Father who is in heaven. For where two or three have gathered together in My name, I am there in their midst."*
+> **(BSB)** *"Again I say to you, that if two of you agree on earth about anything that they may ask, it shall be done for them by My Father who is in heaven. For where two or three have gathered together in My name, I am there in their midst."*
 
 The common assumption is that this is a prayer promise — get two believers to agree on a request, and God is obligated to grant it. The more people agreeing, the more power behind the prayer. This reading has produced entire prayer movements built around "corporate agreement" as a mechanism for guaranteed results.
 
@@ -386,7 +407,7 @@ What this means for prayer is simply that it doesn't mean anything for prayer �
 
 ### 1 Samuel 1:27 — Hannah's Prayer
 
-> **(LSB)** *"For this boy I prayed, and the Lord has given me my petition which I asked of Him."*
+> **(BSB)** *"For this boy I prayed, and the Lord has given me my petition which I asked of Him."*
 
 On the surface this looks like the clearest possible example of outcome-specific prayer working exactly as people assume it should — Hannah wanted a son, she asked God for a son, God gave her a son. Case closed.
 
@@ -410,7 +431,7 @@ Hannah's prayer is not a model of asking for personal outcomes and receiving the
 
 ### Jeremiah 29:11-13
 
-> **(LSB)** *"'For I know the plans that I have for you,' declares the Lord, 'plans for well-being and not for calamity, to give you a future and a hope. Then you will call upon Me and come and pray to Me, and I will listen to you. And you will seek Me and find Me when you search for Me with all your heart.'"*
+> **(BSB)** *"'For I know the plans that I have for you,' declares the Lord, 'plans for well-being and not for calamity, to give you a future and a hope. Then you will call upon Me and come and pray to Me, and I will listen to you. And you will seek Me and find Me when you search for Me with all your heart.'"*
 
 This is arguably the most universally misapplied passage in the entire Bible. It appears on coffee mugs, graduation cards, motivational posters, and church bulletins as a personal promise of prosperity, blessing, and a bright future — addressed to whoever is reading it.
 
@@ -424,7 +445,7 @@ The word "then" in verse 12 is critical — *"Then you will call upon Me."* It p
 
 ### John 11:41-42
 
-> **(LSB)** *"So they removed the stone. Then Jesus raised His eyes and said, 'Father, I thank You that You have heard Me. I knew that You always hear Me; but because of the people standing around I said it, so that they may believe that You sent Me.'"*
+> **(BSB)** *"So they removed the stone. Then Jesus raised His eyes and said, 'Father, I thank You that You have heard Me. I knew that You always hear Me; but because of the people standing around I said it, so that they may believe that You sent Me.'"*
 
 This passage is less commonly misused than the others — but it is worth including because it is one of the most powerful confirmations of everything this study has argued about prayer, and most people read right past it.
 
@@ -440,7 +461,7 @@ John 11:41-42 is not a model of asking God for something and receiving it. It is
 
 ### Luke 18:1-8 — The Persistent Widow
 
-> **(LSB)** *"Now He was telling them a parable to show that at all times they ought to pray and not to lose heart, saying, 'In a certain city there was a judge who did not fear God and did not respect man. There was a widow in that city, and she kept coming to him, saying, "Give me legal protection from my opponent." For a while he was unwilling; but afterward he said to himself, "Even though I do not fear God nor respect man, yet because this widow bothers me, I will give her legal protection, otherwise by continually coming she will wear me out."' And the Lord said, 'Hear what the unrighteous judge said; now, will not God bring about justice for His elect who cry to Him day and night, and will He delay long over them? I tell you that He will bring about justice for them quickly. However, when the Son of Man comes, will He find faith on the earth?'"*
+> **(BSB)** *"Now He was telling them a parable to show that at all times they ought to pray and not to lose heart, saying, 'In a certain city there was a judge who did not fear God and did not respect man. There was a widow in that city, and she kept coming to him, saying, "Give me legal protection from my opponent." For a while he was unwilling; but afterward he said to himself, "Even though I do not fear God nor respect man, yet because this widow bothers me, I will give her legal protection, otherwise by continually coming she will wear me out."' And the Lord said, 'Hear what the unrighteous judge said; now, will not God bring about justice for His elect who cry to Him day and night, and will He delay long over them? I tell you that He will bring about justice for them quickly. However, when the Son of Man comes, will He find faith on the earth?'"*
 
 This is the sharpest challenge to the framework of this study, and it needs to be handled honestly rather than smoothed over, because Jesus explicitly introduces this parable as a teaching on prayer and persistence. "Pray and not lose heart" is His stated purpose. The widow keeps coming, keeps asking, and eventually gets what she needs. On its face this looks like a direct endorsement of persistent, outcome-specific asking.
 

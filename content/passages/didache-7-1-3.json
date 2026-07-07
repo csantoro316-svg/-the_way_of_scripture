@@ -1,0 +1,22 @@
+{
+  "reference": {
+    "book": "Didache",
+    "citation": "7:1-3",
+    "label": "Didache 7:1-3",
+    "slug": "didache-7-1-3"
+  },
+  "versions": [
+    {
+      "label": "LSB",
+      "text": "\"Concerning baptism, baptize in this way. Having said all these things beforehand, baptize in the name of the Father and of the Son and of the Holy Spirit in living water. But if you do not have living water, baptize in other water. And if you are not able to use cold water, use warm water. And if you do not have either, pour water three times on the head in the name of the Father and Son and Holy Spirit.\""
+    }
+  ],
+  "context_lines": [
+    "The **Didache** is an early Christian church document, not part of the biblical canon, but historically useful for seeing how some early believers described practice. Chapter 7 concerns baptismal instruction and therefore belongs in a historical, not scriptural, supporting context."
+  ],
+  "explanation_lines": [
+    "Living water \u2014 **\u1f55\u03b4\u03c9\u03c1 \u03b6\u1ff6\u03bd (*hud\u014dr z\u014dn* (HOO-dor zohn))** \u2014 means flowing water: a river, stream, or spring. This was the clear preference. The hierarchy of options \u2014 flowing water, still water, pouring as a last resort \u2014 confirms that full immersion was the norm. Pouring is offered only when immersion is not possible. The fact that an alternative is needed at all confirms immersion as the default. At the same time the Didache explicitly validates pouring under certain circumstances \u2014 written within living memory of the apostles. This directly challenges any position that declares immersion the only valid mode under all circumstances.",
+    "",
+    "The conclusion the evidence supports is this: immersion is the clear and intended mode of baptism, rooted in the meaning of *baptiz\u014d*, confirmed by the burial and resurrection imagery of Scripture, and reflected in the practice of the earliest church. It should be the mode whenever possible. However Scripture never explicitly declares other modes invalid, and the Didache \u2014 our earliest practical church document \u2014 permits pouring when immersion is not available. The mode matters because of what it represents. What makes baptism valid is not the quantity of water but the genuineness of the faith of the one being baptized."
+  ]
+}

@@ -1,8 +1,9 @@
+<!-- governed by project_doctrine.md — see site standards before editing -->
 # Baptism
 
 ## What It Is, What It Does, and How It Should Be Done
 
-*Primary Translation: Legacy Standard Bible (LSB)*
+*Primary Translation: Berean Standard Bible (BSB)*
 
 ---
 
@@ -10,7 +11,7 @@
 
 Every question about baptism eventually comes back to a single Greek verb, and what it actually meant before any tradition got hold of it.
 
-The Greek word translated "baptize" throughout the New Testament is **βαπτίζω (*baptizō* (bap-TID-zoh))**. Its lexical meaning is to plunge, immerse, or submerge. In classical Greek it was used to describe dyeing cloth — plunging fabric into dye — and the sinking of ships. The word itself establishes full immersion as the original intent and the normative practice of the early church.
+The Greek word translated "baptize" throughout the New Testament is **βαπτίζω (*baptizō* (bap-TID-zoh))**. Its lexical meaning is to plunge, immerse, or submerge. In classical Greek it was used to describe dyeing cloth — plunging fabric into dye — and the sinking of ships. The word itself establishes full immersion as the original intent and the normative practice of the early church. The BSB renders the word consistently as "baptize" throughout — preserving the transliteration rather than the meaning, which is itself a translation choice worth knowing. The Greek is *baptizō* — to immerse or plunge — and the transliteration rather than translation of this word has shaped centuries of theological debate about mode.
 
 This matters because the mode of baptism is not arbitrary. The act of going fully under the water and rising out of it carries the entire theological picture baptism is meant to represent. **The mode is the meaning.**
 
@@ -22,15 +23,15 @@ If the word itself points to immersion, the imagery of Scripture confirms it bey
 
 Full submersion is the preferred and intended mode of baptism because it embodies the death and resurrection of Jesus Christ — the very events that make baptism meaningful.
 
-> **Romans 6:3-4 (LSB)** *"Or do you not know that all of us who have been baptized into Christ Jesus have been baptized into His death? Therefore we have been buried with Him through baptism into death, so that as Christ was raised from the dead through the glory of the Father, so we too might walk in newness of life."*
+> **Romans 6:3-4 (BSB)** *"Or aren’t you aware that all of us who were baptized into Christ Jesus were baptized into His death? We were therefore buried with Him through baptism into death, in order that, just as Christ was raised from the dead through the glory of the Father, we too may walk in newness of life."*
 
 Going under the water is burial with Christ. Coming up out of the water is resurrection with Christ. The imagery only works with full immersion. You cannot bury someone by sprinkling dirt on their head.
 
-> **Acts 8:38-39 (LSB)** *"And he ordered the chariot to stop; and they both went down into the water, Philip as well as the eunuch, and he baptized him. When they came up out of the water, the Spirit of the Lord snatched Philip away."*
+> **Acts 8:38-39 (BSB)** *"And he ordered the chariot to stop; and they both went down into the water, Philip as well as the eunuch, and he baptized him. When they came up out of the water, the Spirit of the Lord snatched Philip away."*
 
 Down into the water. Up out of the water. This is the consistent physical picture of baptism in the NT narrative.
 
-> **John 3:23 (LSB)** *"John also was baptizing in Aenon near Salim, because there was much water there; and people were coming and were being baptized."*
+> **John 3:23 (BSB)** *"John also was baptizing in Aenon near Salim, because there was much water there; and people were coming and were being baptized."*
 
 Much water was needed — consistent with immersion as the norm. Sprinkling requires no such provision.
 
@@ -42,19 +43,19 @@ Baptism is not one thing. It is a single commanded act with multiple simultaneou
 
 ### 1. A Formal Appeal to God
 
-> **1 Peter 3:21 (LSB)** *"Baptism now saves you — not the removal of dirt from the flesh, but an appeal to God for a good conscience — through the resurrection of Jesus Christ."*
+> **1 Peter 3:21 (BSB)** *"Baptism now saves you — not the removal of dirt from the flesh, but an appeal to God for a good conscience — through the resurrection of Jesus Christ."*
 
 The Greek word translated "appeal" is **ἐπερώτημα (*eperōtēma* (eh-peh-ROH-tay-mah))** — a formal pledge or commitment made in a covenantal context. Peter immediately qualifies his statement: it is not the removal of dirt from the flesh. The water has no inherent power. What saves is the appeal — the genuine faith commitment formally enacted — through the resurrection of Jesus Christ. Baptism is the appointed moment at which the inward faith of the believer is formally pledged before God.
 
 ### 2. The Washing Away of Sins
 
-> **Acts 22:16 (LSB)** *"Now why do you delay? Get up and be baptized, and wash away your sins, calling on His name."*
+> **Acts 22:16 (BSB)** *"Now why do you delay? Get up and be baptized, and wash away your sins, calling on His name."*
 
 The Greek word here is **ἀπολούω (*apolouō* (ah-poh-LOO-oh))** — to wash off or wash away thoroughly. This is distinct from **ἄφεσις (*aphesis* (AH-feh-sis))** — the releasing or forgiveness of the debt of sin that occurs at faith. Forgiveness cancels the debt. Baptism washes the person. These are two distinct transactions. Notice also the participle "calling on His name" — the washing is connected to genuine faith, not to the water acting independently.
 
 ### 3. Clothing Yourself with Christ
 
-> **Galatians 3:26-27 (LSB)** *"For you are all sons of God through faith in Christ Jesus. For all of you who were baptized into Christ have clothed yourselves with Christ."*
+> **Galatians 3:26-27 (BSB)** *"For you are all sons of God through faith in Christ Jesus. For all of you who were baptized into Christ have clothed yourselves with Christ."*
 
 Sonship — the saved relationship with God — is established in verse 26 through faith. Baptism in verse 27 describes what follows: clothing yourself with Christ. Putting Him on. The believer is now equipped and commissioned to walk as Christ calls. **Faith saves. Baptism clothes.**
 
@@ -72,17 +73,17 @@ Having established what baptism actually accomplishes, it is just as important t
 
 Salvation is by grace through faith — full stop.
 
-> **Ephesians 2:8-9 (LSB)** *"For by grace you have been saved through faith; and this is not of yourselves, it is the gift of God; not as a result of works, so that no one may boast."*
+> **Ephesians 2:8-9 (BSB)** *"For by grace you have been saved through faith; and this is not of yourselves, it is the gift of God; not as a result of works, so that no one may boast."*
 
-> **Galatians 3:26 (LSB)** *"For you are all sons of God through faith in Christ Jesus."*
+> **Galatians 3:26 (BSB)** *"For you are all sons of God through faith in Christ Jesus."*
 
-> **Romans 10:9 (LSB)** *"That if you confess with your mouth Jesus as Lord, and believe in your heart that God raised Him from the dead, you will be saved."*
+> **Romans 10:9 (BSB)** *"that if you confess with your mouth, ‘Jesus is Lord,’ and believe in your heart that God raised Him from the dead, you will be saved."*
 
 The debt — the wages of sin (Romans 6:23) — is cancelled at faith through the sacrifice of Christ. This is the forgiveness of the debt: *aphesis* — a releasing. Heaven is secured. The Holy Spirit indwells. None of this waits for baptism.
 
 ### 2. The Holy Spirit Is Not Withheld Until Baptism
 
-> **Acts 10:44-48 (LSB)** *"While Peter was still speaking these words, the Holy Spirit fell upon all those who were listening to the message. And all the circumcised believers who came with Peter were amazed, because the gift of the Holy Spirit had been poured out on the Gentiles also. For they were hearing them speaking with tongues and exalting God. Then Peter answered, 'Surely no one can refuse the water for these to be baptized who have received the Holy Spirit just as we did, can he?' And he ordered them to be baptized in the name of Jesus Christ. Then they asked him to stay on for some days."*
+> **Acts 10:44-48 (BSB)** *"While Peter was still speaking these words, the Holy Spirit fell upon all those who were listening to the message. And all the circumcised believers who came with Peter were amazed, because the gift of the Holy Spirit had been poured out on the Gentiles also. For they were hearing them speaking with tongues and exalting God. Then Peter answered, 'Surely no one can refuse the water for these to be baptized who have received the Holy Spirit just as we did, can he?' And he ordered them to be baptized in the name of Jesus Christ. Then they asked him to stay on for some days."*
 
 Cornelius and his household received the Holy Spirit before baptism. Peter's response is telling — he recognizes the Spirit has already come and proceeds to baptize. This passage directly challenges any reading that makes baptism the moment of the Spirit's arrival.
 
@@ -102,7 +103,7 @@ Several passages speak directly to the relationship between baptism and salvatio
 
 ### Acts 2:38
 
-> *(LSB) "Repent and be baptized every one of you in the name of Jesus Christ for the forgiveness of your sins, and you will receive the gift of the Holy Spirit."*
+> *(BSB) "Repent and be baptized every one of you in the name of Jesus Christ for the forgiveness of your sins, and you will receive the gift of the Holy Spirit."*
 
 The Greek preposition **εἰς (*eis* (ays))** — translated "for" — is genuinely flexible, and on its own this verse could be read either way: be baptized in order to obtain forgiveness, or be baptized in connection with forgiveness already granted through repentance and faith. Grammar alone does not settle this verse. What settles it is the rest of Scripture. Acts 10 records the Holy Spirit falling on Cornelius and his household before baptism — Peter responds by baptizing those who already have the Spirit. If receiving the Spirit, and with it the forgiveness and new birth it represents, required baptism first, this sequence could not happen. So whatever Peter means here, it is not a fixed, mechanical formula where nothing spiritual occurs until the water.
 
@@ -110,7 +111,7 @@ The better reading is that Peter is describing the whole conversion event as a s
 
 ### Mark 16:16
 
-> *(LSB) "He who has believed and has been baptized shall be saved; but he who has disbelieved shall be condemned."*
+> *(BSB) "He who has believed and has been baptized shall be saved; but he who has disbelieved shall be condemned."*
 
 *A textual note: Mark 16:9-20 is absent from the oldest and most reliable manuscripts, and most scholarly translations flag this section accordingly. That's worth knowing, but it doesn't need to settle the matter on its own.*
 
@@ -148,11 +149,11 @@ The conclusion the evidence supports is this: immersion is the clear and intende
 
 Whatever theological distinctions are drawn, one conclusion is not in dispute: baptism is commanded throughout the New Testament and was practiced without delay in the early church. There is no category of unbaptized believer in the NT. Belief and baptism were one unified movement.
 
-> **Matthew 28:19 (LSB)** *"Go therefore and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit."*
+> **Matthew 28:19 (BSB)** *"Go therefore and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit."*
 
-> **Acts 2:38 (LSB)** *"Repent and be baptized every one of you in the name of Jesus Christ."*
+> **Acts 2:38 (BSB)** *"Repent and be baptized every one of you in the name of Jesus Christ."*
 
-> **Acts 8:36, 38 (LSB)** *"As they went along the road they came to some water; and the eunuch said, 'Look! Water! What prevents me from being baptized?' ... And he ordered the chariot to stop; and they both went down into the water, Philip as well as the eunuch, and he baptized him."*
+> **Acts 8:36, 38 (BSB)** *"As they went along the road they came to some water; and the eunuch said, 'Look! Water! What prevents me from being baptized?' ... And he ordered the chariot to stop; and they both went down into the water, Philip as well as the eunuch, and he baptized him."*
 
 *A textual note: verse 37, in which the eunuch makes a verbal confession of faith before baptism, is absent from the earliest and most reliable manuscripts and is omitted in most modern translations, including this one. The same caution applied to Mark 16:9-20 applies here.*
 
@@ -186,7 +187,7 @@ This is the pattern of the New Testament. This is what the early church lived. T
 
 Baptism washes away sin and clothes the believer with Christ at the start of the new life — but it is a single event, not a repeatable one. The believer continues to live in a fallen body, in a world still marked by sin, and will continue to sin after baptism. Scripture is honest about this, and provides the mechanism for what happens next.
 
-> **1 John 1:9 (LSB)** *"If we confess our sins, He is faithful and righteous to forgive us our sins and to cleanse us from all unrighteousness."*
+> **1 John 1:9 (BSB)** *"If we confess our sins, He is faithful and righteous to forgive us our sins and to cleanse us from all unrighteousness."*
 
 Two words matter here. Forgive — **ἀφίημι (*aphiēmi* (ah-FEE-ay-mee))**, the same root as *aphesis* — the releasing of the debt. And cleanse — **καθαρίζω (*katharizō* (kah-thah-RID-zoh))** — a purifying word, the same family as the *apolouō* of baptism. Both realities baptism accomplished at the start — cancelling the debt, washing the person — remain available through confession. Not through repeated baptism, but through an ongoing posture of acknowledgment before God.
 
@@ -198,13 +199,13 @@ Notice also who confession is made to. John does not say "to a priest" or requir
 
 Sin that goes unconfessed does not undo salvation. The debt remains cancelled — that was settled once, by faith, and is not revisited. But unconfessed sin does something else: it accumulates. It sits on the believer like a stain that was never washed out.
 
-> **Ephesians 4:30 (LSB)** *"Do not grieve the Holy Spirit of God, by whom you were sealed for the day of redemption."*
+> **Ephesians 4:30 (BSB)** *"Do not grieve the Holy Spirit of God, by whom you were sealed for the day of redemption."*
 
 The Spirit who indwells the believer at salvation is not driven out by sin — but He can be grieved. The word pictures a relationship under strain, not a relationship ended. A believer carrying unconfessed sin is not cut off from God, but their ability to hear, to discern, to walk in step with the Spirit is diminished. The stain does not change their standing before God; it changes their experience of walking with Him.
 
 This is why Scripture so often pairs sin with imagery of darkness, heaviness, and distance — not because God has moved away, but because the believer's own posture has become harder to see through, harder to move freely in.
 
-> **1 John 1:6-7 (LSB)** *"If we say that we have fellowship with Him and yet walk in the darkness, we lie and do not practice the truth; but if we walk in the Light as He Himself is in the Light, we have fellowship with one another, and the blood of Jesus His Son cleanses us from all sin."*
+> **1 John 1:6-7 (BSB)** *"If we say that we have fellowship with Him and yet walk in the darkness, we lie and do not practice the truth; but if we walk in the Light as He Himself is in the Light, we have fellowship with one another, and the blood of Jesus His Son cleanses us from all sin."*
 
 Fellowship — the closeness, the clarity, the active walking with God — is what is at stake here, not salvation itself. Walking in darkness while claiming fellowship is self-deception. Walking in the light — which includes the honesty of confession — is what keeps the relationship close and the cleansing ongoing.
 

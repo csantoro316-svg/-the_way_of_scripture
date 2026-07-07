@@ -1,6 +1,6 @@
 # Session Resume
 
-Updated: 2026-06-29
+Updated: 2026-07-06
 
 ## Canonical Resume Document
 
@@ -46,6 +46,12 @@ Latest navigation correction:
 - the Memory Genie-style left navigation belongs only on the dedicated shared browse page
 - featured landing pages should remain curated and should not use the browse-page left rail
 
+Current browse-page UI baseline:
+- the shared browse page should use one primary page scrollbar rather than separate persistent scrollbars for the nav pane, content pane, and page
+- the left navigation and right content surfaces may stay visually anchored with sticky positioning, but should not each become their own independently scrolling viewport on desktop
+- the passage-structure explainer belongs once on the shared browse page under the `Browse Library` header when `Passages` is active
+- that explainer should not appear inside individual passage pages or inside each selected passage article pane
+
 Current content execution baseline:
 - source study material lives in `content/studies/`
 - `tools/generate_study_pages.py` generates study pages, passage pages, and library relationship data
@@ -62,6 +68,7 @@ Latest verification:
 - `firebase deploy --only hosting`
 
 Latest change docs to review first:
+- `documentation/changes/2026-07-06-browse-library-scroll-and-guide-standard.md`
 - `documentation/changes/2026-06-29-study-content-generation-and-deployment-refresh.md`
 - `documentation/changes/2026-06-29-passage-page-scripture-context-standardization.md`
 - `documentation/changes/2026-06-29-interior-pages-no-right-sidebar-cards.md`

@@ -281,6 +281,10 @@ h2 {
   margin: 0;
 }
 
+.passage-version blockquote p + p {
+  margin-top: 0.9rem;
+}
+
 .content-grid {
   display: grid;
   grid-template-columns: minmax(0, 1.9fr) minmax(17rem, 0.95fr);
@@ -491,6 +495,45 @@ h2 {
   gap: 1.25rem;
 }
 
+.study-spotlight {
+  margin-bottom: 0.25rem;
+  padding: 2rem 2.1rem;
+  color: var(--text);
+  background: linear-gradient(180deg, rgba(236, 227, 207, 0.98), rgba(226, 214, 187, 0.96));
+  border: 1px solid rgba(169, 154, 122, 0.72);
+  border-radius: calc(var(--radius) + 0.1rem);
+  box-shadow: 0 1.2rem 2.4rem rgba(7, 8, 6, 0.24);
+}
+
+.study-spotlight .eyebrow {
+  color: var(--accent);
+}
+
+.study-spotlight h2 {
+  font-size: clamp(2rem, 3.3vw, 2.8rem);
+  margin-bottom: 0.7rem;
+}
+
+.study-spotlight h2 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.study-spotlight-subtitle {
+  margin: 0 0 1rem;
+  color: var(--muted);
+  font-size: 1.08rem;
+}
+
+.study-spotlight p:not(.eyebrow):not(.study-spotlight-subtitle) {
+  max-width: 60rem;
+  font-size: 1.07rem;
+}
+
+.study-spotlight .study-card-link {
+  color: var(--accent-deep);
+}
+
 .book-group {
   background: rgba(236, 227, 207, 0.95);
   border: 1px solid rgba(169, 154, 122, 0.66);
@@ -555,6 +598,19 @@ h2 {
   background: linear-gradient(180deg, rgba(215, 205, 175, 0.96), rgba(236, 227, 207, 0.95));
 }
 
+.kb-guide-note {
+  margin-bottom: 0.5rem;
+  padding: 1.15rem 1.35rem 1.2rem;
+}
+
+.kb-guide-note p {
+  margin: 0;
+}
+
+.kb-guide-note p + p {
+  margin-top: 0.8rem;
+}
+
 .kb-shell {
   display: grid;
   gap: 1.25rem;
@@ -610,6 +666,12 @@ h2 {
   align-items: start;
 }
 
+.scripture-kb-layout .kb-nav,
+.scripture-kb-layout .kb-content {
+  position: sticky;
+  top: 1rem;
+}
+
 .kb-nav,
 .kb-content,
 .kb-results {
@@ -626,6 +688,18 @@ h2 {
 .kb-nav-controls {
   display: grid;
   gap: 0.75rem;
+}
+
+.kb-nav-filter {
+  display: grid;
+  gap: 0.45rem;
+  margin-top: 0.8rem;
+  margin-bottom: 0.7rem;
+}
+
+.kb-nav-search {
+  padding: 0.68rem 0.88rem;
+  font-size: 0.96rem;
 }
 
 .kb-control-label {
@@ -647,7 +721,7 @@ h2 {
 }
 
 .kb-nav-group + .kb-nav-group {
-  margin-top: 0.85rem;
+  margin-top: 0.45rem;
 }
 
 .kb-nav-group-toggle {
@@ -656,11 +730,11 @@ h2 {
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
-  padding: 0.8rem 0.95rem;
+  padding: 0.52rem 0.72rem;
   color: var(--text);
   background: rgba(214, 201, 174, 0.78);
   border: 1px solid rgba(169, 154, 122, 0.66);
-  border-radius: 0.9rem;
+  border-radius: 0.75rem;
   font: inherit;
   font-weight: 700;
   cursor: pointer;
@@ -668,18 +742,56 @@ h2 {
 }
 
 .kb-nav-list {
-  margin: 0.65rem 0 0;
+  margin: 0.45rem 0 0;
   padding: 0;
   list-style: none;
 }
 
+.kb-nav-subgroups {
+  display: grid;
+  gap: 0.24rem;
+}
+
+.kb-nav-subgroup {
+  display: grid;
+  gap: 0.06rem;
+}
+
+.kb-nav-subgroup-toggle {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.02rem 0.04rem 0;
+  color: var(--accent-deep);
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+  text-align: left;
+  letter-spacing: 0.02em;
+}
+
+.kb-nav-subgroup-toggle:hover {
+  color: var(--accent);
+}
+
+.kb-nav-section-list {
+  margin-top: 0;
+  padding-left: 0.28rem;
+  border-left: 1px solid rgba(169, 154, 122, 0.55);
+}
+
 .kb-nav-item + .kb-nav-item {
-  margin-top: 0.35rem;
+  margin-top: 0;
 }
 
 .kb-nav-item button {
   width: 100%;
-  padding: 0.6rem 0.75rem;
+  padding: 0.24rem 0.42rem;
   color: var(--text);
   background: transparent;
   border: none;
@@ -687,6 +799,46 @@ h2 {
   font: inherit;
   cursor: pointer;
   text-align: left;
+  line-height: 1.32;
+}
+
+.kb-section-link {
+  display: grid;
+  grid-template-columns: max-content minmax(0, 1fr);
+  align-items: baseline;
+  gap: 0.34rem;
+}
+
+.kb-section-range {
+  display: inline-grid;
+  grid-template-columns: 0.95rem 0.38rem 1.3rem;
+  align-items: baseline;
+  justify-items: stretch;
+  min-width: calc(0.95rem + 0.38rem + 1.3rem);
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: "tnum" 1;
+  white-space: nowrap;
+}
+
+.kb-section-verse-start {
+  min-width: 0.95rem;
+  text-align: right;
+  padding-right: 0.02rem;
+}
+
+.kb-section-verse-end {
+  min-width: 1.3rem;
+  text-align: left;
+  padding-left: 0.02rem;
+}
+
+.kb-section-range-dash {
+  width: 0.38rem;
+  text-align: center;
+}
+
+.kb-section-title-text {
+  min-width: 0;
 }
 
 .kb-nav-item button:hover,
@@ -806,6 +958,14 @@ h2 {
 
   .kb-nav {
     position: static;
+  }
+
+  .scripture-kb-layout .kb-nav,
+  .scripture-kb-layout .kb-content {
+    position: static;
+    top: auto;
+    max-height: none;
+    overflow-y: visible;
   }
 
   .intro-panel,

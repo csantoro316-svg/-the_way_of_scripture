@@ -1,0 +1,29 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "3:23",
+    "label": "Romans 3:23",
+    "slug": "romans-3-23"
+  },
+  "section_title": "",
+  "versions": [
+    {
+      "label": "LSB",
+      "text": "\"for all have sinned and fall short of the glory of God,\""
+    }
+  ],
+  "context_lines": [
+    "Romans 3:23 should be read within the flow of its chapter and the larger argument of Romans."
+  ],
+  "common_interpretation_lines": [
+    "Every person stands in that sentence. The problem is not that some people need a little improvement while others need a lot. The problem is sin, and all have sinned.",
+    "",
+    "Sin earns death. Eternal life is not earned at all. It is given. That is why the gospel is good news and not advice."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ]
+}

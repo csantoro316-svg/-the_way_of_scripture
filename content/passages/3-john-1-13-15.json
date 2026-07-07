@@ -1,0 +1,29 @@
+{
+  "reference": {
+    "book": "3 John",
+    "citation": "1:13-15",
+    "label": "3 John 1:13-15",
+    "slug": "3-john-1-13-15"
+  },
+  "section_title": "Conclusion",
+  "versions": [
+    {
+      "label": "BSB",
+      "text": "I have many things to write to you, but I would prefer not to do so with pen and ink. Instead, I hope to see you soon and speak with you face to face. Peace to you. The friends here send you greetings. Greet each of our friends there by name."
+    }
+  ],
+  "context_lines": [
+    "John closes by returning from correction to fellowship. Even a sharp letter ends with peace, personal presence, and named relationships among believers."
+  ],
+  "common_interpretation_lines": [
+    "A common reading of the conclusion is that Christian truth is meant to be lived in real fellowship, not reduced to distant correspondence alone. John expects direct presence to finish what the letter begins.",
+    "",
+    "The final greetings are also commonly read as evidence of a relationally connected church life. The faith is carried through known people, not through abstraction."
+  ],
+  "deeper_study": [
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    }
+  ]
+}

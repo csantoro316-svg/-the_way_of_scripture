@@ -8,6 +8,14 @@ That is what this site is for.
 
 ---
 
+## A Note on Our Translation Choice
+
+Every document on this site quotes Scripture from the **Berean Standard Bible (BSB)**.
+
+The Berean Standard Bible was chosen for three reasons. First, it is freely available for ministry use — consistent with this site's commitment to making all reference content free to everyone. Second, it is a modern, generally literal translation designed to stay close to the original Hebrew and Greek while remaining readable in English. Third, its name reflects the Acts 17:11 standard this site is built on: the Bereans who examined the Scriptures daily to see whether these things were so.
+
+---
+
 ## The Problem Is Not the Word
 
 The Bible — the collected books of the Hebrew and Greek Scriptures — is the inerrant Word of God. That is the foundation everything here is built on. Not the inerrant Word of God as filtered through a particular translation, a particular denomination, or a particular era of church history. The original Hebrew and Greek texts: those are what God inspired, and those are what this site goes back to.
@@ -22,7 +30,7 @@ That problem is older than you might think. It begins in Genesis 3.
 
 God's instruction to Adam was plain:
 
-> **Genesis 2:17 (LSB)** *"But from the tree of the knowledge of good and evil you shall not eat, for in the day that you eat from it you will surely die."*
+> **Genesis 2:17 (BSB)** *"but you must not eat from the tree of the knowledge of good and evil; for in the day that you eat of it, you will surely die.”*
 
 By the time Eve encounters the serpent in Genesis 3, something has already shifted. When the serpent asks what God said, Eve responds:
 
@@ -36,9 +44,9 @@ First, addition. Then, contradiction. The plain statement of God — *"you will 
 
 Scripture takes this pattern so seriously that it bookends the entire Bible with the same warning:
 
-> **Deuteronomy 4:2 (LSB)** *"You shall not add to the word which I am commanding you, nor take away from it."*
+> **Deuteronomy 4:2 (BSB)** *"You must not add to or subtract from what I command you, so that you may keep the commandments of the LORD your God that I am giving you."*
 
-> **Revelation 22:18-19 (LSB)** *"I testify to everyone who hears the words of the prophecy of this book: if anyone adds to them, God will add to him the plagues which are written in this book; and if anyone takes away from the words of the book of this prophecy, God will take away his part from the tree of life."*
+> **Revelation 22:18-19 (BSB)** *"I testify to everyone who hears the words of the prophecy of this book: if anyone adds to them, God will add to him the plagues which are written in this book; and if anyone takes away from the words of the book of this prophecy, God will take away his part from the tree of life."*
 
 The warning at the beginning and the warning at the end are the same warning. Do not add. Do not subtract. Do not alter what God said.
 
@@ -72,7 +80,7 @@ This is how it perpetuates.
 
 And it is not a new problem. The believers in Berea understood it two thousand years ago. When Paul himself came to teach them, they did not simply defer to his authority:
 
-> **Acts 17:11 (LSB)** *"Now these were more noble-minded than those in Thessalonica, for they received the word with great eagerness, examining the Scriptures daily to see whether these things were so."*
+> **Acts 17:11 (BSB)** *"Now the Bereans were more noble-minded than the Thessalonians, for they received the message with great eagerness and examined the Scriptures every day to see if these teachings were true."*
 
 They tested what even an apostle said against Scripture itself. That is the standard Scripture holds up as noble — not deference to authority, not trust in tradition, but personal, daily examination of the text. It is the standard this site holds itself to as well. Nothing here is above that examination. Everything here is an invitation to go and check.
 

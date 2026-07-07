@@ -1,0 +1,29 @@
+{
+  "reference": {
+    "book": "Philemon",
+    "citation": "1:23-25",
+    "label": "Philemon 1:23-25",
+    "slug": "philemon-1-23-25"
+  },
+  "section_title": "Additional Greetings",
+  "versions": [
+    {
+      "label": "BSB",
+      "text": "Epaphras, my fellow prisoner in Christ Jesus, sends you greetings, as do Mark, Aristarchus, Demas, and Luke, my fellow workers. The grace of the Lord Jesus Christ be with your spirit."
+    }
+  ],
+  "context_lines": [
+    "The closing reminds the reader that this appeal stands within the shared life of gospel laborers, not merely an isolated exchange between two men."
+  ],
+  "common_interpretation_lines": [
+    "Paul ends by surrounding the letter with names, fellowship, and grace. The reconciliation he seeks is not abstract. It belongs inside the actual network of believers serving Christ together.",
+    "",
+    "The final word is fitting: **grace**. That is the atmosphere of the whole letter, and without it the appeal Paul makes would collapse."
+  ],
+  "deeper_study": [
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    }
+  ]
+}

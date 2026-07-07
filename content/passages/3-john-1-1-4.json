@@ -1,0 +1,29 @@
+{
+  "reference": {
+    "book": "3 John",
+    "citation": "1:1-4",
+    "label": "3 John 1:1-4",
+    "slug": "3-john-1-1-4"
+  },
+  "section_title": "A Greeting from the Elder",
+  "versions": [
+    {
+      "label": "BSB",
+      "text": "The elder, To the beloved Gaius, whom I love in the truth: Beloved, I pray that in every way you may prosper and enjoy good health, as your soul also prospers. For I was overjoyed when the brothers came and testified about your devotion to the truth, in which you continue to walk. I have no greater joy than to hear that my children are walking in the truth."
+    }
+  ],
+  "context_lines": [
+    "In **3 John 1**, John writes to Gaius about faithful conduct, harmful leadership, and the importance of supporting those who labor for the truth. The letter is personal, but its concerns are unmistakably ecclesial."
+  ],
+  "common_interpretation_lines": [
+    "A common interpretation of the opening is that John is not offering a prosperity formula, but expressing pastoral affection and blessing. The emphasis quickly settles on spiritual faithfulness, which is the real measure of joy in the passage.",
+    "",
+    "John's repeated language of **truth** is usually understood as more than sincerity. It points to a shared apostolic reality that governs both relationship and conduct."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ]
+}

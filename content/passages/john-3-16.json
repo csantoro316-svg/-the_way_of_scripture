@@ -1,0 +1,29 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "3:16",
+    "label": "John 3:16",
+    "slug": "john-3-16"
+  },
+  "section_title": "",
+  "versions": [
+    {
+      "label": "LSB",
+      "text": "\"For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.\""
+    }
+  ],
+  "context_lines": [
+    "In **John 3**, John's Gospel brings together new birth, the Spirit, faith, and witness to Christ. Even narrative details in the chapter should be read within that wider testimony to what it means to receive life from above."
+  ],
+  "common_interpretation_lines": [
+    "The gospel in a single sentence. God \u2014 the source. Love \u2014 the motive. The Son \u2014 the means. Belief \u2014 the response. Eternal life \u2014 the gift.",
+    "",
+    "This is the good news. This is the *euangelion*. This is the gospel according to Jesus."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ]
+}

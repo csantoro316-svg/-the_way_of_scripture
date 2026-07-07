@@ -1,8 +1,9 @@
+<!-- governed by project_doctrine.md — see site standards before editing -->
 # Should We Seek Signs From God?
 
 ## A Study on Coincidence, Confirmation, and Faith
 
-*Primary Translation: Legacy Standard Bible (LSB)*
+*Primary Translation: Berean Standard Bible (BSB)*
 
 ---
 
@@ -22,9 +23,9 @@ Before getting into examples, it helps to look directly at what the Bible says a
 
 ### Jesus and the Request for a Sign
 
-> **Matthew 12:38-39 (LSB)** *"Then some of the scribes and Pharisees said to Him, 'Teacher, we want to see a sign from You.' But He answered and said to them, 'An evil and adulterous generation craves for a sign; and yet no sign will be given to it but the sign of Jonah the prophet.'"*
+> **Matthew 12:38-39 (BSB)** *"Then some of the scribes and Pharisees said to Him, 'Teacher, we want to see a sign from You.' But He answered and said to them, 'An evil and adulterous generation craves for a sign; and yet no sign will be given to it but the sign of Jonah the prophet.'"*
 
-> **Matthew 16:1, 4 (LSB)** *"The Pharisees and Sadducees came up, and testing Jesus, they asked Him to show them a sign from heaven... 'An evil and adulterous generation seeks after a sign; and a sign will not be given it, except the sign of Jonah.'"*
+> **Matthew 16:1, 4 (BSB)** *"The Pharisees and Sadducees came up, and testing Jesus, they asked Him to show them a sign from heaven... 'An evil and adulterous generation seeks after a sign; and a sign will not be given it, except the sign of Jonah.'"*
 
 **ἐπιζητέω (*epizēteō* (eh-pee-zay-TAY-oh))** — to seek out, search for, or demand. It describes an active pursuit, not a passive noticing.
 
@@ -36,7 +37,7 @@ The religious leaders in this story weren't asking for something unreasonable by
 
 ### Divination, Omens, and Reading Hidden Messages Into Things
 
-> **Deuteronomy 18:9-12 (LSB)** *"When you enter the land which Yahweh your God gives you, you shall not learn to imitate the detestable things of those nations. There shall not be found among you anyone who makes his son or his daughter pass through the fire, one who uses divination, one who practices witchcraft, or one who interprets omens, or a sorcerer, or one who casts a spell, or a medium, or a spiritist, or one who calls up the dead. For whoever does these things is detestable to Yahweh; and because of these detestable things Yahweh your God will drive them out before you."*
+> **Deuteronomy 18:9-12 (BSB)** *"When you enter the land that the LORD your God is giving you, do not imitate the detestable ways of the nations there. Let no one be found among you who sacrifices his son or daughter in the fire, practices divination or conjury, interprets omens, practices sorcery, casts spells, consults a medium or spiritist, or inquires of the dead. For whoever does these things is detestable to the LORD. And because of these detestable things, the LORD your God is driving out the nations before you."*
 
 **קֹסֵם (*qosem* (KOH-sem))** — the word rendered "divination" or "witchcraft" depending on the translation — someone who reads messages or guidance from the gods through signs, objects, or rituals.
 
@@ -52,9 +53,9 @@ God's instruction to Israel wasn't "do this, but only if it's really Me speaking
 
 ### Faith That Doesn't Require Proof
 
-> **2 Corinthians 5:7 (LSB)** *"for we walk by faith, not by sight."*
+> **2 Corinthians 5:7 (BSB)** *"for we walk by faith, not by sight."*
 
-> **John 20:27-29 (LSB)** *"Then He said to Thomas, 'Reach here with your finger, and see My hands; and reach here your hand and put it into My side; and do not be unbelieving, but believing.' Thomas answered and said to Him, 'My Lord and my God!' Jesus said to him, 'Because you have seen Me, have you believed? Blessed are they who did not see, and yet believed.'"*
+> **John 20:27-29 (BSB)** *"Then He said to Thomas, 'Reach here with your finger, and see My hands; and reach here your hand and put it into My side; and do not be unbelieving, but believing.' Thomas answered and said to Him, 'My Lord and my God!' Jesus said to him, 'Because you have seen Me, have you believed? Blessed are they who did not see, and yet believed.'"*
 
 A note on context: this exchange is sometimes confused with the Beatitudes of the Sermon on the Mount, but it takes place in an entirely different setting — Jesus appearing to the disciples after the resurrection, specifically addressing Thomas's demand to physically see and touch the wounds before he would believe. The principle fits alongside 2 Corinthians 5:7: both describe a faith that does not depend on first receiving physical proof or confirmation.
 
@@ -64,9 +65,9 @@ A note on context: this exchange is sometimes confused with the Beatitudes of th
 
 ### Testing What We're Told
 
-> **1 Thessalonians 5:20-21 (LSB)** *"do not despise prophetic utterances. But examine everything carefully; hold fast to that which is good."*
+> **1 Thessalonians 5:20-21 (BSB)** *"do not despise prophetic utterances. But examine everything carefully; hold fast to that which is good."*
 
-> **2 Corinthians 11:14 (LSB)** *"No wonder, for even Satan disguises himself as an angel of light."*
+> **2 Corinthians 11:14 (BSB)** *"No wonder, for even Satan disguises himself as an angel of light."*
 
 These two passages work together. The first says we're not supposed to dismiss everything out of hand — but we are supposed to test it. The second is a sobering reminder of what the standard for that test can't be: how something feels. Something can feel peaceful, timely, encouraging, and "right" and still not be from God. That means the feeling itself can never be the proof. There has to be something outside the feeling — namely, Scripture — that the experience is tested against.
 
@@ -172,7 +173,7 @@ And sitting there, studying the exact thing I was now questioning, it hit me: th
 
 While studying these passages, I remembered my own comment about the eagle — and Scripture exposed the same impulse in me. Whether the timing itself carried any special significance isn't the point, and it would be ironic to assign divine meaning to a moment in a study cautioning against exactly that. The Word of God did what Hebrews 4:12 says it does — it examined my own heart before I finished examining anyone else's.
 
-> **Hebrews 4:12 (LSB)** *"For the word of God is living and active, and sharper than any two-edged sword, even penetrating as far as the division of soul and spirit, of both joints and marrow, and able to judge the thoughts and intentions of the heart."*
+> **Hebrews 4:12 (BSB)** *"For the word of God is living and active, and sharper than any two-edged sword, even penetrating as far as the division of soul and spirit, of both joints and marrow, and able to judge the thoughts and intentions of the heart."*
 
 That's what it means when it says the Word of God is "living and active" — not just a text to study, but something that studies us back, able to judge "the thoughts and intentions of the heart." I went looking for an answer about someone else's situation, and the Word turned and asked a question about mine.
 

@@ -1,0 +1,20 @@
+{
+  "reference": {
+    "book": "1 John",
+    "citation": "1:6-7",
+    "label": "1 John 1:6-7",
+    "slug": "1-john-1-6-7"
+  },
+  "versions": [
+    {
+      "label": "LSB",
+      "text": "\"If we say that we have fellowship with Him and yet walk in the darkness, we lie and do not practice the truth; but if we walk in the Light as He Himself is in the Light, we have fellowship with one another, and the blood of Jesus His Son cleanses us from all sin.\""
+    }
+  ],
+  "context_lines": [
+    "In **1 John 1**, John opens the letter by grounding fellowship with God in the apostolic witness about the Word of life. The chapter contrasts walking in the light with false claims about sinlessness, so its statements about confession, cleansing, and fellowship must be read within that truth-versus-falsehood framework."
+  ],
+  "explanation_lines": [
+    "Fellowship \u2014 the closeness, the clarity, the active walking with God \u2014 is what is at stake here, not salvation itself. Walking in darkness while claiming fellowship is self-deception. Walking in the light \u2014 which includes the honesty of confession \u2014 is what keeps the relationship close and the cleansing ongoing."
+  ]
+}

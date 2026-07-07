@@ -1,0 +1,40 @@
+{
+  "reference": {
+    "book": "Genesis",
+    "citation": "3:1-7",
+    "label": "Genesis 3:1-7",
+    "slug": "genesis-3-1-7"
+  },
+  "section_title": "The Serpent\u2019s Deception",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Now the serpent was more crafty than any beast of the field that the LORD God had made. And he said to the woman, \u201cDid God really say, \u2018You must not eat from any tree in the garden?\u2019 \u201d",
+        "2 The woman answered the serpent, \u201cWe may eat the fruit of the trees of the garden, 3 but about the fruit of the tree in the middle of the garden, God has said, \u2018You must not eat of it or touch it, or you will die.\u2019 \u201d",
+        "4 \u201cYou will not surely die,\u201d the serpent told her. 5 \u201cFor God knows that in the day you eat of it, your eyes will be opened and you will be like God, knowing good and evil.\u201d",
+        "6 When the woman saw that the tree was good for food and pleasing to the eyes, and that it was desirable for obtaining wisdom, she took the fruit and ate it. She also gave some to her husband who was with her, and he ate it.",
+        "7 And the eyes of both of them were opened, and they knew that they were naked; so they sewed together fig leaves and made coverings for themselves."
+      ]
+    }
+  ],
+  "context_lines": [
+    "In **Genesis 3**, the deception begins before the serpent openly contradicts God. Eve's retelling of the command already differs from the wording given in **Genesis 2:17**, and the denial follows immediately after."
+  ],
+  "common_interpretation_lines": [
+    "A common reading of this section is that the garden pattern unfolds in sequence: God's word is first expanded beyond what He said, and then it is flatly contradicted. The added phrase **\"or touch it\"** is often treated as the first stage of that distortion.",
+    "",
+    "Interpreters frequently read verses 3 and 4 together as the foundational example of why the exact wording of God's word matters. Addition comes first; inversion follows next."
+  ],
+  "current_position_lines": [
+    "This site's current position is that **Genesis 3:1-7** establishes a pattern that runs through the rest of Scripture: first what God said is subtly altered, then what God said is directly denied. The text itself presents Eve's added wording and the serpent's contradiction as a single progression.",
+    "",
+    "For that reason, this passage is not merely about temptation in general. It is also about the danger of mishandling the word of God before outright falsehood ever appears."
+  ],
+  "deeper_study": [
+    {
+      "title": "Is the Bible the Inerrant Word of God?",
+      "href": "../studies/inerrancy.html"
+    }
+  ]
+}

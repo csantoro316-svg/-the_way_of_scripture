@@ -1,0 +1,27 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "7:53-8:11",
+    "label": "John 7:53-8:11",
+    "slug": "john-7-53-8-11"
+  },
+  "section_title": "",
+  "versions": [],
+  "context_lines": [
+    "John 7:53-8:11 should be read within the flow of its chapter and the larger argument of John."
+  ],
+  "common_interpretation_lines": [
+    "What remains is a genuinely small list of notable places where manuscripts differ in a way that affects the reading \u2014 the Comma Johanneum in 1 John 5:7-8 (an explicit Trinitarian formula found only in a handful of late manuscripts), the ending of Mark's Gospel after 16:8, and the story of the woman caught in adultery in John 7:53-8:11. These are worth knowing about, and good study Bibles typically flag them with a footnote. But even here, the core teaching involved \u2014 the Trinity, the resurrection, grace toward sinners \u2014 is affirmed clearly and repeatedly elsewhere in passages no one disputes. No textual variant anywhere in the manuscript tradition puts a single core doctrine of the faith at risk. That claim isn't ours alone \u2014 it's close to a consensus statement among textual critics across the theological spectrum, whatever position they hold on which text family is best.",
+    "",
+    "*(For a genuinely exhaustive, manuscript-by-manuscript treatment of this subject, Berean Patriot's \"Majority Text vs. Critical Text vs. Textus Receptus \u2013 Textual Criticism 101\" is the most complete single resource we've found. It doesn't land firmly on any one camp, but it does the work of walking through the evidence in full. We link it here for anyone who wants to go deeper than this document is trying to.)*"
+  ],
+  "current_position_lines": [
+    "No defined position is stated here yet beyond the common interpretations above. As related study develops, this section will be updated where the text warrants a clearer conclusion."
+  ],
+  "deeper_study": [
+    {
+      "title": "Is There a Source of Truth?",
+      "href": "../studies/is-there-a-source-of-truth.html"
+    }
+  ]
+}

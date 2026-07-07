@@ -1,0 +1,29 @@
+{
+  "reference": {
+    "book": "Jude",
+    "citation": "1:1-2",
+    "label": "Jude 1:1-2",
+    "slug": "jude-1-1-2"
+  },
+  "section_title": "A Greeting from Jude",
+  "versions": [
+    {
+      "label": "BSB",
+      "text": "Jude, a servant of Jesus Christ and a brother of James, To those who are called, loved by God the Father, and kept in Jesus Christ: Mercy, peace, and love be multiplied to you."
+    }
+  ],
+  "context_lines": [
+    "In **Jude 1**, Jude writes a compact but forceful letter warning the church about corrupt intruders while urging believers to remain rooted in the apostolic faith. Because the whole book is one sustained argument, each section should be read in light of both the warning and the call to perseverance."
+  ],
+  "common_interpretation_lines": [
+    "Jude opens by identifying both himself and his readers in relation to Christ. He is **\"a servant of Jesus Christ,\"** and they are **called**, **loved**, and **kept**. The greeting does more than introduce the letter; it establishes a theological footing of identity, security, and covenant mercy before the warning intensifies.",
+    "",
+    "A common reading of this opening is that Jude deliberately anchors the believers' stability in God before addressing false teachers. The church is not called to panic, but to remember who holds them."
+  ],
+  "deeper_study": [
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    }
+  ]
+}

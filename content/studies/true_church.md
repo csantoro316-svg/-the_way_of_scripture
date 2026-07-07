@@ -1,6 +1,7 @@
+<!-- governed by project_doctrine.md — see site standards before editing -->
 # The True Church According to Jesus
 
-*Primary Translation: Legacy Standard Bible (LSB)*
+*Primary Translation: Berean Standard Bible (BSB)*
 
 ---
 
@@ -27,7 +28,7 @@
 
 ## Christ Alone is the Foundation
 
-> **1 Corinthians 3:11 (LSB)** *"For no man can lay a foundation other than the one which is laid, which is Jesus Christ."*
+> **1 Corinthians 3:11 (BSB)** *"For no one can lay a foundation other than the one already laid, which is Jesus Christ."*
 
 The Church Jesus intended is not built on tradition, personality, or human institution, but on the living person of Christ. Paul's declaration affirms that no teaching, title, or structure can replace the bedrock of Jesus Himself. This mirrors early Christian gatherings, which were centered not around clergy or ornate buildings, but around the risen Christ — remembered in homes, by breaking bread, prayer, and mutual encouragement. It is not merely faith in teachings *about* Jesus that forms the foundation, but faith in Jesus as a living Lord, present among His people.
 
@@ -41,7 +42,7 @@ A word on what this document is and is not arguing: the New Testament does descr
 
 ## We Are the Temple
 
-> **1 Corinthians 3:16 (LSB)** *"Do you not know that you are the temple of God and that the Spirit of God dwells in you?"*
+> **1 Corinthians 3:16 (BSB)** *"Do you not know that you yourselves are God’s temple, and that God’s Spirit dwells in you?"*
 
 Where once God's presence dwelt in the physical temple in Jerusalem, now He chooses to dwell in His people. This was a radical shift: worship was no longer geographically bound, but spiritually internal. This reality revolutionized worship in the early Church, which no longer needed altars or priests to mediate God's presence. Every believer is a mobile temple — a dwelling place for God. This calls for reverence not for buildings, but for the life within us. Just as the Spirit filled the tabernacle, He now fills human hearts — ordinary men and women made holy by His indwelling.
 
@@ -53,7 +54,7 @@ To believe we are His temple is not to claim status — it is to embrace respons
 
 ## The Kingdom is Within Us
 
-> **Luke 17:20-21 (LSB)** *"Now having been questioned by the Pharisees as to when the kingdom of God was coming, He answered them and said, 'The kingdom of God is not coming with signs to be observed; nor will they say, "Look, here it is!" or, "There it is!" For behold, the kingdom of God is in your midst.'"*
+> **Luke 17:20-21 (BSB)** *"When asked by the Pharisees when the kingdom of God would come, Jesus replied, ‘The kingdom of God will not come with observable signs. Nor will people say, “Look, here it is,” or “There it is.” For you see, the kingdom of God is in your midst.’"*
 
 Jesus rejected the notion that the kingdom would come with observable pomp or political takeover. Instead, He taught that the kingdom was a spiritual reality, alive within those who receive Him. The early Christians understood this not as escapism but as a reorientation: true power, peace, and authority reside in hearts aligned with God's reign. To live under His rule is to manifest the kingdom in our choices, relationships, and community. The world may still rebel, but within the believer, God reigns.
 
@@ -65,7 +66,7 @@ To live in the kingdom is to surrender the throne of our own hearts and let Chri
 
 ## Love Is Our Proof
 
-> **John 13:34-35 (LSB)** *"A new commandment I give to you, that you love one another, even as I have loved you, that you also love one another. By this all men will know that you are My disciples, if you have love for one another."*
+> **John 13:34-35 (BSB)** *"A new commandment I give you: Love one another. As I have loved you, so you also must love one another. By this everyone will know that you are My disciples, if you love one another."*
 
 Love is the identifying mark — not doctrine alone, not external success, not rituals. The early church shocked the Roman world by its sacrificial love: feeding widows, rescuing abandoned infants, and calling slaves brothers. Jesus' command goes deeper than sentiment — it demands a self-giving, patient, forgiving, inconvenient love. This love does not merely react; it initiates, serves, and sacrifices. When believers embody this love, the world recognizes something divine.
 
@@ -77,7 +78,7 @@ If we want the world to recognize Christ in us, we must recover this scandalous,
 
 ## Every Believer is a Priest
 
-> **1 Peter 2:9 (LSB)** *"But you are a chosen race, a royal priesthood, a holy nation, a people for God's own possession, so that you may proclaim the excellencies of Him who has called you out of darkness into His marvelous light."*
+> **1 Peter 2:9 (BSB)** *"But you are a chosen people, a royal priesthood, a holy nation, a people for God’s own possession, to proclaim the virtues of Him who called you out of darkness into His marvelous light."*
 
 No longer is priesthood reserved for a lineage or a class — Christ has torn the veil. Every believer now has direct access to God and the authority to minister. The early church saw men and women praying, prophesying, healing, and teaching. The NT describes elders, overseers, and deacons — but as functional servant roles filled by spiritually mature believers, always plural, always character-based, and always described as serving among the people rather than presiding over them (1 Peter 5:3). What the NT does not describe is a single pastor as institutional head of a congregation, or a credentialed clergy class with exclusive access to spiritual authority. Spiritual gifts were distributed freely by the Spirit for the common good. This reclaims the dignity and responsibility of every Christian: to intercede, to bless, to proclaim truth. Institutional hierarchy is not what empowers ministry — faith and the Spirit do.
 
@@ -91,7 +92,7 @@ To recover this identity is to awaken the Church from spiritual passivity. It me
 
 ## Worship is in Spirit and Truth
 
-> **John 4:21-24 (LSB)** *"Jesus said to her, 'Woman, believe Me, an hour is coming when neither in this mountain nor in Jerusalem will you worship the Father. You worship what you do not know; we worship what we know, for salvation is from the Jews. But an hour is coming, and now is, when the true worshipers will worship the Father in spirit and truth; for such people the Father seeks to be His worshipers. God is spirit, and those who worship Him must worship in spirit and truth.'"*
+> **John 4:21-24 (BSB)** *"Jesus said to her, 'Woman, believe Me, an hour is coming when neither in this mountain nor in Jerusalem will you worship the Father. You worship what you do not know; we worship what we know, for salvation is from the Jews. But an hour is coming, and now is, when the true worshipers will worship the Father in spirit and truth; for such people the Father seeks to be His worshipers. God is spirit, and those who worship Him must worship in spirit and truth.'"*
 
 Jesus abolished the debate over worship location by revealing a deeper truth: worship is not about where but how. To worship "in spirit" means being moved and led by the Holy Spirit, not mere formality. To worship "in truth" means coming sincerely and in alignment with God's revealed Word. The early Christians worshiped in simplicity: singing hymns, breaking bread, reading letters aloud. There were no performance-driven services, only hearts opened wide to heaven. Today, true worship must return to this: Spirit-filled, Scripture-grounded, God-centered.
 
@@ -103,7 +104,7 @@ The early Church had no fog machines or choirs, no robed clergy or rehearsed ser
 
 ## Discipleship Is Our Mission
 
-> **Matthew 28:18-20 (LSB)** *"And Jesus came up and spoke to them, saying, 'All authority has been given to Me in heaven and on earth. Go therefore and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit, teaching them to observe all that I commanded you; and lo, I am with you always, even to the end of the age.'"*
+> **Matthew 28:18-20 (BSB)** *"And Jesus came up and spoke to them, saying, 'All authority has been given to Me in heaven and on earth. Go therefore and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit, teaching them to observe all that I commanded you; and lo, I am with you always, even to the end of the age.'"*
 
 The Church's goal is not crowds, comfort, or conversions alone, but lifelong learners of Christ. A disciple is one who walks as Jesus walked — learning His heart, His teachings, His priorities. The early church didn't just preach; they taught daily, walked together, and modeled faith. Evangelism was inseparable from discipleship. Today, the Church must reject superficial Christianity and return to this slow, deep, relational process of growing people into Christ's likeness.
 
@@ -115,11 +116,11 @@ The early Church didn't grow by events or campaigns — it grew by radical, rela
 
 ## Holiness Through Grace
 
-> **Romans 6:14 (LSB)** *"For sin shall not be master over you, for you are not under law but under grace."*
+> **Romans 6:14 (BSB)** *"For sin shall not be master over you, for you are not under law but under grace."*
 
 Holiness is not moralism — it is the fruit of grace. When Christ saves, He transforms. We are not saved by works, but neither are we saved to remain in sin. The early believers understood grace as empowerment: the ability to live in purity, to say no to sin, to reflect the character of God. Holiness is not pressure — it is the joy of becoming who we were created to be. And it is possible not through effort alone, but through abiding in the vine:
 
-> **John 15:5 (LSB)** *"I am the vine, you are the branches; he who abides in Me and I in him, he bears much fruit, for apart from Me you can do nothing."*
+> **John 15:5 (BSB)** *"I am the vine and you are the branches. The one who remains in Me, and I in him, will bear much fruit. For apart from Me you can do nothing."*
 
 Today, however, holiness is often misunderstood — either distorted into harsh legalism or dismissed entirely in favor of comfort. In the Catholic tradition, holiness is frequently associated with ascetic practices, monastic ideals, or earning merit through sacraments and penance — making grace feel distant and conditional. Among Protestant traditions, holiness can become synonymous with behavioral conformity, especially in churches that emphasize external rules, dress codes, or denominational distinctives over inner transformation. Meanwhile, many non-denominational churches, in an effort to emphasize God's acceptance and grace, often stop short of calling believers to the deeper work of repentance, self-denial, and obedience. Grace is rightly preached, but without this balance, it becomes a message of comfort rather than transformation.
 
@@ -129,7 +130,7 @@ True holiness is not perfectionism — it is alignment with the heart of God. It
 
 ## We Bear One Another's Burdens
 
-> **Galatians 6:2 (LSB)** *"Bear one another's burdens, and thereby fulfill the law of Christ."*
+> **Galatians 6:2 (BSB)** *"Carry one another’s burdens, and in this way you will fulfill the law of Christ."*
 
 The early church was marked by radical interdependence. They sold possessions to meet each other's needs, wept together, fasted together, and prayed for one another. This wasn't an afterthought — it was the core of their identity. Love wasn't measured in sentiment but in sacrifice. To bear a burden meant sharing someone's struggle — to feel it, share it, and walk with them in it. This kind of mutual care was the living proof of the Gospel at work. It fulfilled what Jesus called the "law of Christ": love in action, sustained by grace and shared in community.
 
@@ -143,7 +144,7 @@ To love as Christ commanded is to enter into each other's pain, not with answers
 
 The true Church, as envisioned by Jesus and practiced by the early believers, is radically different from much of what we see today. It is not defined by structure but by Spirit, not by ritual but by relationship, not by institution but by identity. It is a living body — Christ as the head, every member active and empowered.
 
-It is not built on pulpits, but on a royal priesthood — *"a chosen race, a royal priesthood, a holy nation, a people for God's own possession"* (1 Peter 2:9) — of those willing and faithful to Christ. It is not measured by crowds, but by a love that listens more than it speaks, stays when others leave, and suffers with you when the grief is too heavy to bear. This Church doesn't perform — it carries. It doesn't entertain — it bears witness. It doesn't settle for admiring Jesus from afar — it dares to become like Him, together.
+It is not built on pulpits, but on a royal priesthood — *"a chosen people, a royal priesthood, a holy nation, a people for God’s own possession"* (1 Peter 2:9) — of those willing and faithful to Christ. It is not measured by crowds, but by a love that listens more than it speaks, stays when others leave, and suffers with you when the grief is too heavy to bear. This Church doesn’t perform — it carries. It doesn’t entertain — it bears witness. It doesn’t settle for admiring Jesus from afar — it dares to become like Him, together.
 
 This is the Church Christ died for. This is the Kingdom within us.
 

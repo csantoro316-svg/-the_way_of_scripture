@@ -1,6 +1,6 @@
 # Library Navigation Standard
 
-Updated: 2026-06-28
+Updated: 2026-07-06
 
 ## Purpose
 
@@ -132,9 +132,34 @@ The content library should use two distinct page types:
 The shared browse page should follow this layout pattern:
 
 - a consistent site-level top navigation with `Home`, `Studies`, and `Passages`
+- one static page-level heading area anchored by the `Browse Library` title
 - a left-side navigation panel modeled on the Memory Genie knowledge-base page
 - grouped, collapsible navigation with `Expand All` and `Collapse All`
 - a main content panel showing the selected study or passage
+
+### Passage Guide Placement
+
+The passage-structure explainer belongs to the shared browse page, not to individual passage content.
+
+Current rule:
+
+- when the shared browse page is in `Passages` mode, show one static page-level guide under the main `Browse Library` header
+- do not repeat that explainer inside the selected passage article pane
+- do not repeat that explainer on standalone generated passage pages
+
+The guide is a browsing aid, not passage body content.
+
+### Scroll Behavior Rule
+
+The shared browse page must avoid stacked independent scroll regions.
+
+Current rule:
+
+- use one primary page scrollbar for the browse experience
+- do not give both the navigation pane and the content pane their own persistent interior scrollbars on desktop
+- if the navigation and content columns are visually anchored, prefer sticky positioning without nested `overflow-y: auto` regions
+
+The goal is to keep the selected content in view while preserving a cleaner, single-scroll interaction model.
 
 The featured landing pages should stay simpler:
 

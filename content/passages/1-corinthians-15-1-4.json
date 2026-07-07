@@ -1,0 +1,29 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "15:1-4",
+    "label": "1 Corinthians 15:1-4",
+    "slug": "1-corinthians-15-1-4"
+  },
+  "section_title": "",
+  "versions": [
+    {
+      "label": "LSB",
+      "text": "\"Now I want to make clear for you, brothers and sisters, the gospel I preached to you, which you received, on which you have taken your stand and by which you are being saved, if you hold firmly to the word I preached to you \u2014 unless you believed in vain. For I passed on to you as of first importance what I also received: that Christ died for our sins according to the Scriptures, that he was buried, that he was raised on the third day according to the Scriptures.\""
+    }
+  ],
+  "context_lines": [
+    "1 Corinthians 15:1-4 should be read within the flow of its chapter and the larger argument of 1 Corinthians."
+  ],
+  "common_interpretation_lines": [
+    "Four facts. Of first importance. Not peripheral. Not one consideration among many. *Of first importance.*",
+    "",
+    "Christ died for our sins. He was buried. He was raised on the third day. This fulfilled Scripture."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ]
+}

@@ -1,6 +1,7 @@
+<!-- governed by project_doctrine.md — see site standards before editing -->
 # Worship as the Early Church Knew It
 
-*Primary Translation: Legacy Standard Bible (LSB)*
+*Primary Translation: Berean Standard Bible (BSB)*
 
 ---
 
@@ -39,6 +40,8 @@ This is not a minor observation. It means that the foundation for calling a sche
 By the time of Jesus and the early Church, Greek had become the language of the world — and the language of Scripture. The Holy Spirit chose Koine Greek not only for its reach, but for its precision. Words carried weight. Each term was chosen carefully to convey posture, purpose, and relationship.
 
 Yet over time, many of these distinct words were flattened into one English term: **worship**. What once described bowing, serving, honoring, or revering — actions and attitudes with specific meanings — has been compressed into a single, vague label.
+Note: The BSB renders all of the following Greek terms as “worship” in most contexts — the same flattening this section examines. The analysis below works from the Greek, which is where the distinctions actually live.
+
 
 ---
 
@@ -50,7 +53,7 @@ Yet over time, many of these distinct words were flattened into one English term
 
 #### Matthew 2:11 — The Magi and the Infant Jesus
 
-> *(LSB) "And after coming into the house, they saw the Child with His mother Mary; and they fell down and worshiped Him. Then, opening their treasures, they presented to Him gifts of gold, frankincense, and myrrh."*
+> *(BSB) "And after coming into the house, they saw the Child with His mother Mary; and they fell down and worshiped Him. Then, opening their treasures, they presented to Him gifts of gold, frankincense, and myrrh."*
 
 **Restored reading:** *"...they fell down and bowed in homage before Him."*
 
@@ -58,7 +61,7 @@ The Magi were foreign dignitaries following celestial signs — not disciples wh
 
 #### Matthew 4:9-10 — Satan's Temptation of Jesus
 
-> *(LSB) "and he said to Him, 'All these things I will give You, if You fall down and worship me.' Then Jesus said to him, 'Go, Satan! For it is written, "You shall worship the Lord your God, and serve Him only."'"*
+> *(BSB) "and he said to Him, 'All these things I will give You, if You fall down and worship me.' Then Jesus said to him, 'Go, Satan! For it is written, "You shall worship the Lord your God, and serve Him only."'"*
 
 **Restored reading:** *"...if You fall down and bow in allegiance before me... You shall bow in allegiance to the Lord your God, and serve Him only."*
 
@@ -66,7 +69,7 @@ Satan's temptation centers on allegiance — recognizing his authority, symboliz
 
 #### John 4:21-24 — The Samaritan Woman and Sacred Geography
 
-> *(LSB) "Jesus said to her, 'Woman, believe Me, an hour is coming when neither in this mountain nor in Jerusalem will you worship the Father. You worship what you do not know; we worship what we know, for salvation is from the Jews. But an hour is coming, and now is, when the true worshipers will worship the Father in spirit and truth; for such people the Father seeks to be His worshipers. God is spirit, and those who worship Him must worship in spirit and truth.'"*
+> *(BSB) "Jesus said to her, 'Woman, believe Me, an hour is coming when neither in this mountain nor in Jerusalem will you worship the Father. You worship what you do not know; we worship what we know, for salvation is from the Jews. But an hour is coming, and now is, when the true worshipers will worship the Father in spirit and truth; for such people the Father seeks to be His worshipers. God is spirit, and those who worship Him must worship in spirit and truth.'"*
 
 **Restored reading:** *"...neither in this mountain nor in Jerusalem will you bow in reverence to the Father... the true reverent ones will honor the Father in spirit and truth..."*
 
@@ -74,13 +77,13 @@ This passage is frequently used to define what Christian worship gatherings shou
 
 #### Matthew 8:2 — The Leper's Approach
 
-> *(LSB) "And behold, a leper came to Him and bowed down before Him, saying, 'Lord, if You are willing, You can make me clean.'"*
+> *(BSB) "And behold, a leper came to Him and bowed down before Him, saying, 'Lord, if You are willing, You can make me clean.'"*
 
 The leper's act was not ceremonial worship but a deeply personal plea expressed through physical humility — bowing in recognition of divine authority. His posture reflects *proskuneō* as reverent submission, not religious ritual.
 
 #### John 9:38 — The Man Born Blind
 
-> *(LSB) "And he said, 'Lord, I believe.' And he worshiped Him."*
+> *(BSB) "And he said, 'Lord, I believe.' And he worshiped Him."*
 
 **Restored reading:** *"...he bowed in reverence before Him."*
 
@@ -92,25 +95,25 @@ Following Jesus revealing His identity, the man's response is personal, not ritu
 
 **λατρεύω** — to serve, particularly in the sense of priestly or sacred service. *Latreuō* does not imply singing, church services, or emotional engagement. It means to serve God through offerings, duties, and a life dedicated to His purpose. When rendered "worship," it misleads modern readers into thinking the NT is describing Sunday gatherings. In reality, *latreuō* speaks to a lifestyle of spiritual service, obedience, and sacrificial ministry.
 
-> **Romans 12:1 (LSB)** *"Therefore I urge you, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual service of worship."*
+> **Romans 12:1 (BSB)** *"Therefore I urge you, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual service of worship."*
 
 Note: the LSB renders *latreuō* here as "spiritual service of worship" — preserving both the service dimension and the worship connection. This is the heartbeat of *latreuō*: not singing to God, but living as those commissioned by God to serve Him in the world.
 
 #### Hebrews 9:14 — Serving the Living God
 
-> *(LSB) "how much more will the blood of Christ, who through the eternal Spirit offered Himself without blemish to God, cleanse your conscience from dead works to serve the living God?"*
+> *(BSB) "how much more will the blood of Christ, who through the eternal Spirit offered Himself without blemish to God, cleanse your conscience from dead works to serve the living God?"*
 
 Christ's sacrifice doesn't just forgive — it commissions. Cleansed from sin, the believer is empowered to offer holy service: priestly action from a purified heart, rooted in the new covenant.
 
 #### Acts 24:14 — Paul's Declaration
 
-> *(LSB) "But this I admit to you, that according to the Way which they call a sect I do serve the God of our fathers, believing everything that is in accordance with the Law and that is written in the Prophets."*
+> *(BSB) "But this I admit to you, that according to the Way which they call a sect I do serve the God of our fathers, believing everything that is in accordance with the Law and that is written in the Prophets."*
 
 Paul's *latreuō* here is not about attending gatherings — it is his declaration of loyal service to God expressed through preaching, suffering, and sacrificial ministry. Obedience rooted in truth, not performance rooted in experience.
 
 #### Philippians 3:3 — Service by the Spirit
 
-> *(LSB) "for we are the true circumcision, who worship in the Spirit of God and glory in Christ Jesus and put no confidence in the flesh."*
+> *(BSB) "for we are the true circumcision, who worship in the Spirit of God and glory in Christ Jesus and put no confidence in the flesh."*
 
 **Restored reading:** *"...who serve in the Spirit of God..."*
 
@@ -124,15 +127,14 @@ Paul distinguishes between outward ritual and inward transformation. *Latreuō* 
 
 Unlike *proskuneō*, which involves visible submission, *sebomai* is a sacred *condition* of the heart. It is not something we do — it is something we become.
 
-This awe must not be misunderstood. The world stands in awe of power and influence — but that is not *sebomai*. One can tremble before a tyrant in dread or terror. *Sebomai* is different: reverent awe shaped by recognition of God's holiness, goodness, and majesty. His presence does not provoke panic but repentance. His Word does not terrify — it awakens and humbles.
+> **Proverbs 9:10 (BSB)** *"The fear of the LORD is the beginning of wisdom, and knowledge of the Holy One is understanding."*
 
-> **Proverbs 9:10 (LSB)** *"The beginning of wisdom is the fear of Yahweh, And the knowledge of the Holy One is understanding."*
 
 *Sebomai* is a reverent awe that prepares the soul to receive His holy truth.
 
 #### Matthew 15:9 — Empty Awe Without Obedience
 
-> *(LSB) "'But in vain do they worship Me, teaching as doctrines the commandments of men.'"*
+> *(BSB) "'But in vain do they worship Me, teaching as doctrines the commandments of men.'"*
 
 **Restored reading:** *"...in vain do they hold Me in awe..."*
 
@@ -140,7 +142,7 @@ Jesus quotes Isaiah to confront those who honored God in appearance but not in s
 
 #### Acts 16:14 — Lydia's Heart Was Already in Awe
 
-> *(LSB) "A woman named Lydia, from the city of Thyatira, a seller of purple fabrics, who was a worshiper of God, was listening; and the Lord opened her heart to respond to the things spoken by Paul."*
+> *(BSB) "A woman named Lydia, from the city of Thyatira, a seller of purple fabrics, who was a worshiper of God, was listening; and the Lord opened her heart to respond to the things spoken by Paul."*
 
 **Restored reading:** *"...who held God in awe..."*
 
@@ -148,19 +150,19 @@ Lydia had not yet heard the gospel, yet her heart was already bowed in awe. She 
 
 #### Acts 13:43 — Reverent Souls Drawn Toward Grace
 
-> *(LSB) "Now when the meeting of the synagogue had broken up, many of the Jews and of the God-fearing proselytes followed Paul and Barnabas, who, speaking to them, were urging them to continue in the grace of God."*
+> *(BSB) "Now when the meeting of the synagogue had broken up, many of the Jews and of the God-fearing proselytes followed Paul and Barnabas, who, speaking to them, were urging them to continue in the grace of God."*
 
 The word translated "God-fearing" is a form of *sebomai* — *sebomenōn*. These were Gentiles marked not by ritual or status but by their inner reverence. Their hearts were already bowed, and so when they heard Paul's message, they were drawn further in. God draws near to those who already stand in awe of Him.
 
 #### Acts 17:17 — Reasoning Among the Reverent
 
-> *(LSB) "So he was reasoning in the synagogue with the Jews and the God-fearing Gentiles, and in the marketplace every day with those who happened to be present."*
+> *(BSB) "So he was reasoning in the synagogue with the Jews and the God-fearing Gentiles, and in the marketplace every day with those who happened to be present."*
 
 These were Gentiles already living in reverent awe of Israel's God. *Sebomai* had already turned their hearts in the right direction — and that reverence became fertile ground for truth.
 
 #### Acts 18:7 — A Home Marked by Awe
 
-> *(LSB) "Then he left there and went to the house of a man named Titius Justus, a worshiper of God, whose house was next to the synagogue."*
+> *(BSB) "Then he left there and went to the house of a man named Titius Justus, a worshiper of God, whose house was next to the synagogue."*
 
 **Restored reading:** *"...one who stood in awe of God..."*
 
@@ -174,7 +176,7 @@ Justus's reverence wasn't tied to location — it came from within. His home bec
 
 #### Acts 17:23 — Living Devotion, Misplaced
 
-> *(LSB) "For while I was passing through and examining the objects of your worship, I also found an altar with this inscription, 'TO AN UNKNOWN GOD.' Therefore what you worship in ignorance, this I proclaim to you."*
+> *(BSB) "For while I was passing through and examining the objects of your worship, I also found an altar with this inscription, 'TO AN UNKNOWN GOD.' Therefore what you worship in ignorance, this I proclaim to you."*
 
 **Restored reading:** *"...examining the objects of your devotion... what you revere in ignorance..."*
 
@@ -182,7 +184,7 @@ Paul is speaking to a city overflowing with religious expression. These were not
 
 #### Acts 17:25 — Not Served by Ritual
 
-> *(LSB) "nor is He served by human hands, as though He needed anything, since He Himself gives to all people life and breath and all things."*
+> *(BSB) "nor is He served by human hands, as though He needed anything, since He Himself gives to all people life and breath and all things."*
 
 **Restored reading:** *"nor is He honored by human devotion as though He needed anything..."*
 
@@ -190,7 +192,7 @@ Paul confronts the belief that our acts of piety sustain or impress God. He give
 
 #### 1 Timothy 5:4 — Godly Devotion Begins at Home
 
-> *(LSB) "but if any widow has children or grandchildren, they must first learn to show godliness toward their own household and to give back compensation to their parents; for this is acceptable in the sight of God."*
+> *(BSB) "but if any widow has children or grandchildren, they must first learn to show godliness toward their own household and to give back compensation to their parents; for this is acceptable in the sight of God."*
 
 **Restored reading:** *"...to live in godly devotion at home..."*
 
@@ -202,7 +204,7 @@ Paul confronts the belief that our acts of piety sustain or impress God. He give
 
 **λειτουργέω** — to perform a public service or priestly ministry. In classical Greek it described civic service performed at one's own expense for the public good. In the NT it carries the sense of priestly, sacred service — a duty performed on behalf of others, not for personal benefit.
 
-> **Acts 13:2 (LSB)** *"While they were ministering to the Lord and fasting, the Holy Spirit said, 'Set apart for Me Barnabas and Saul for the work to which I have called them.'"*
+> **Acts 13:2 (BSB)** *"While they were ministering to the Lord and fasting, the Holy Spirit said, 'Set apart for Me Barnabas and Saul for the work to which I have called them.'"*
 
 The word translated "ministering" here is *leitourgeō*. Notice the context: the gathered assembly is fasting and seeking God — not singing, not performing a service. Their ministry is described using priestly vocabulary, directed toward the Lord, and it produces revelation from the Holy Spirit. This is the language of sacred vocation applied to the ordinary gathered assembly. Every believer is a minister in this sense — not a spectator of ministry performed by others.
 
@@ -212,13 +214,12 @@ The English word "liturgy" derives directly from *leitourgeō* — but the origi
 
 ## The Two Fundamental Obligations
 
-Before examining the Hebrew terms, it is worth noting that the Old Testament established two fundamental obligations that defined Israel's worship:
+> **Deuteronomy 16:16 (BSB)** *"Three times a year all your men are to appear before the LORD your God in the place He will choose: at the Feast of Unleavened Bread, the Feast of Weeks, and the Feast of Tabernacles. No one should appear before the LORD empty-handed."*
 
-> **Deuteronomy 16:16 (LSB)** *"Three times a year all your males shall appear before Yahweh your God in the place which He chooses: at the Feast of Unleavened Bread and at the Feast of Weeks and at the Feast of Booths, and they shall not appear before Yahweh empty-handed."*
 
 The first obligation: **gather** before God in the appointed place, at the appointed times.
 
-> **Matthew 4:10 (LSB)** *"Then Jesus said to him, 'Go, Satan! For it is written, "You shall worship the Lord your God, and serve Him only."'"*
+> **Matthew 4:10 (BSB)** *"Then Jesus said to him, 'Go, Satan! For it is written, "You shall worship the Lord your God, and serve Him only."'"*
 
 The second obligation: **bow in allegiance** (*proskuneō*) and **serve** (*latreuō*) God alone.
 
@@ -240,7 +241,7 @@ This matters. When we read "worship" in English we often imagine singing or feel
 
 #### Genesis 22:5 — Abraham Bowed Before Obedience
 
-> *(LSB) "Abraham said to his young men, 'Stay here with the donkey, and I and the lad will go over there; and we will worship and return to you.'"*
+> *(BSB) "Abraham said to his young men, 'Stay here with the donkey, and I and the lad will go over there; and we will worship and return to you.'"*
 
 **Restored reading:** *"...we will bow down in reverence and return to you."*
 
@@ -248,25 +249,26 @@ This is the first use of *shachah* in Scripture. And it's not tied to music or r
 
 #### Psalm 95:6 — The Posture of Reverence
 
-> *(LSB) "Come, let us worship and bow down, Let us kneel before Yahweh our Maker."*
+> *(BSB) "O come, let us worship and bow down; let us kneel before the LORD our Maker."*
 
-**Restored reading:** *"Come, let us bow down and fall prostrate; Let us kneel before Yahweh our Maker."*
+**Restored reading:** *"Come, let us bow down and fall prostrate; Let us kneel before the LORD our Maker."*
+
 
 *Shachah* appears alongside "bow down" and "kneel" — not redundant phrases but reinforcements of the same truth: worship is a posture of the whole self. The people do not stand and observe — they fall and adore. Worship here is not passive; it is participatory.
 
 #### Exodus 34:8 — Moses Fell Facedown Before Glory
 
-> *(LSB) "Moses hurried to bow low toward the ground and worship."*
+> *(BSB) "Moses hurried to bow low toward the ground and worship."*
 
-**Restored reading:** *"Moses hurried to bow low toward the ground and fell prostrate in reverence."*
+After hearing the name of the LORD proclaimed, Moses responds with immediacy. He doesn’t sing. He doesn’t preach. He simply falls down in awe. When confronted with God’s holiness, this is the only fitting response. *Shachah* teaches us that worship is not an event — it is a posture we take when we truly see God.
 
-After hearing the name of Yahweh proclaimed, Moses responds with immediacy. He doesn't sing. He doesn't preach. He simply falls down in awe. When confronted with God's holiness, this is the only fitting response. *Shachah* teaches us that worship is not an event — it is a posture we take when we truly see God.
 
 ---
 
 ### Hebrew Term: *ʿAbad* (ah-VAHD) — עָבַד
 
-To serve — especially in the context of priestly duty, labor, or covenant obedience. *ʿAbad* is the language of devotion through action: to work, labor, and carry out responsibility on behalf of another, particularly God. In the Old Testament it describes both Israel's service to Yahweh and their misplaced service to foreign gods.
+To serve — especially in the context of priestly duty, labor, or covenant obedience. *ʿAbad* is the language of devotion through action: to work, labor, and carry out responsibility on behalf of another, particularly God. In the Old Testament it describes both Israel’s service to the LORD and their misplaced service to foreign gods.
+
 
 Unlike *shachah*, which speaks of posture and reverence, *ʿabad* expresses **purposeful obedience**. It is worship lived out in faithfulness, work, and loyalty.
 
@@ -284,7 +286,7 @@ They didn't need a sanctuary to be sacred. They didn't need a professional class
 
 Paul's writings reinforce this directly:
 
-> **1 Corinthians 14:26 (LSB)** *"What is the outcome then, brothers? When you assemble, each one has a psalm, has a teaching, has a revelation, has a tongue, has an interpretation. All things must be done for edification."*
+> **1 Corinthians 14:26 (BSB)** *"What is the outcome then, brothers? When you assemble, each one has a psalm, has a teaching, has a revelation, has a tongue, has an interpretation. All things must be done for edification."*
 
 This was not a suggestion — it was the framework. Their meetings were interactive, Spirit-led, and purpose-driven. Everything was aimed at **edification** — not emotional uplift, not entertainment, not theological debate — but building one another up in Christ. The Greek word behind "edification" is *oikodomē* (oy-koh-doh-MAY) — the act of building a house. Every element of the gathering was meant to build something: the people of God, one act at a time.
 
@@ -316,19 +318,19 @@ To rebuild any of these four in physical form was to misunderstand what the new 
 
 ### Jesus Ends the Sacred Geography
 
-> **John 4:21-24 (LSB)** *"Jesus said to her, 'Woman, believe Me, an hour is coming when neither in this mountain nor in Jerusalem will you worship the Father. You worship what you do not know; we worship what we know, for salvation is from the Jews. But an hour is coming, and now is, when the true worshipers will worship the Father in spirit and truth; for such people the Father seeks to be His worshipers. God is spirit, and those who worship Him must worship in spirit and truth.'"*
+> **John 4:21-24 (BSB)** *"Jesus said to her, 'Woman, believe Me, an hour is coming when neither in this mountain nor in Jerusalem will you worship the Father. You worship what you do not know; we worship what we know, for salvation is from the Jews. But an hour is coming, and now is, when the true worshipers will worship the Father in spirit and truth; for such people the Father seeks to be His worshipers. God is spirit, and those who worship Him must worship in spirit and truth.'"*
 
 Jesus prophetically ends the debate between Jew and Samaritan about sacred locations. He replaces geography with sincerity, and place with presence. The shift is not subtle — the old covenant temple is being rendered obsolete. The first of Ferguson's four elements — the sacred *location* — has been abolished.
 
 ### We Are the Temple
 
-> **1 Corinthians 3:16-17 (LSB)** *"Do you not know that you are a temple of God and that the Spirit of God dwells in you? If any man destroys the temple of God, God will destroy him, for the temple of God is holy, and that is what you are."*
+> **1 Corinthians 3:16-17 (BSB)** *"Do you not know that you are a temple of God and that the Spirit of God dwells in you? If any man destroys the temple of God, God will destroy him, for the temple of God is holy, and that is what you are."*
 
 This was not written to individuals — Paul uses the plural "you," referring to the gathered community in Corinth. The holiness once reserved for stone walls now applies to the people of God. Every believer is a mobile temple — a dwelling place for God. This calls for reverence not for buildings, but for the life within us.
 
 ### Stephen Declares the End of the Temple
 
-> **Acts 7:48-50 (LSB)** *"However, the Most High does not dwell in houses made by human hands; as the prophet says: 'Heaven is My throne, and earth is the footstool of My feet; what kind of house will you build for Me?' says the Lord, 'or what place is there for My rest? Was it not My hand which made all these things?'"*
+> **Acts 7:48-50 (BSB)** *"However, the Most High does not dwell in houses made by human hands; as the prophet says: 'Heaven is My throne, and earth is the footstool of My feet; what kind of house will you build for Me?' says the Lord, 'or what place is there for My rest? Was it not My hand which made all these things?'"*
 
 Stephen's sermon concludes with this decisive renunciation of temple theology. It is no accident that he is stoned moments later — the religious leaders knew exactly what his words implied.
 
@@ -336,10 +338,10 @@ Stephen's sermon concludes with this decisive renunciation of temple theology. I
 
 The Greek word **ἐκκλησία (*ekklēsia* (ek-klay-SEE-ah))** is translated "church" throughout the NT — but in its original usage it did not refer to a building, denomination, or institution. It meant a called-out assembly of people. *Ekklēsia* was a civic term before it was ever a spiritual one: an assembly of citizens summoned to deliberate or act. The early Christians adopted this term to describe *themselves* — not the location where they met.
 
-> **Acts 11:26 (LSB)** *"...and when he had found him, he brought him to Antioch. And for an entire year they met with the church and taught many people..."*
+> **Acts 11:26 (BSB)** *"...and when he had found him, he brought him to Antioch. And for an entire year they met with the church and taught many people..."*
 > *(Restored: ...they met with the called-out assembly...)*
 
-> **Romans 16:5 (LSB)** *"...also greet the church that is in their house."*
+> **Romans 16:5 (BSB)** *"...also greet the church that is in their house."*
 > *(Restored: ...greet the assembly that is in their house.)*
 
 The early believers didn't say "Let's go to church." They were the church. Their identity was communal and spiritual — not geographical or architectural. When *ekklēsia* was replaced with "church," and "church" gradually became synonymous with a building, the identity that Scripture gives to every believer got transferred to an address.

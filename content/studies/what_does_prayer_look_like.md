@@ -1,8 +1,9 @@
+<!-- governed by project_doctrine.md — see site standards before editing -->
 # What Does Prayer Look Like?
 
 ## What Scripture Models — From Jesus, Paul, and the Early Church
 
-*Primary Translation: Legacy Standard Bible (LSB)*
+*Primary Translation: Berean Standard Bible (BSB)*
 
 ---
 
@@ -70,7 +71,7 @@ His final words are not a request at all. They are pure release — Himself, pla
 
 If Jesus is the perfect model, Paul is proof that the same pattern holds for the rest of us — even an apostle, even someone in real and repeated pain, even someone who knew exactly what he wanted.
 
-> **2 Corinthians 12:7-9 (LSB)** *'Because of the surpassing greatness of the revelations, for this reason, to keep me from exalting myself, there was given to me a thorn in the flesh, a messenger of Satan to torment me — to keep me from exalting myself! Concerning this I implored the Lord three times that it might leave me. And He has said to me, "My grace is sufficient for you, for power is perfected in weakness."'*
+> **2 Corinthians 12:7-9 (BSB)** *'Because of the surpassing greatness of the revelations, for this reason, to keep me from exalting myself, there was given to me a thorn in the flesh, a messenger of Satan to torment me — to keep me from exalting myself! Concerning this I implored the Lord three times that it might leave me. And He has said to me, "My grace is sufficient for you, for power is perfected in weakness."'*
 
 Paul was not a marginal example of weak faith. He is the apostle through whom much of the New Testament was written, and he prayed for relief from real suffering — specifically, and three separate times. God said no all three times. The reason was not arbitrary. The thorn was keeping Paul from pride, and removing it would have undone exactly the work God was doing in him. Paul could not see that purpose from where he stood. God could.
 
@@ -106,15 +107,15 @@ Paul prayed for entire churches by letter, regularly, and a clear pattern shows 
 
 ### Ephesians 3:16-19
 
-> *(LSB) 'That He would grant you, according to the riches of His glory, to be strengthened with power through His Spirit in the inner man, so that Christ may dwell in your hearts through faith; and that you, being rooted and grounded in love, may be strong to comprehend with all the saints what is the width and length and height and depth, and to know the love of Christ which surpasses knowledge, that you may be filled up to all the fullness of God.'*
+> *(BSB) 'That He would grant you, according to the riches of His glory, to be strengthened with power through His Spirit in the inner man, so that Christ may dwell in your hearts through faith; and that you, being rooted and grounded in love, may be strong to comprehend with all the saints what is the width and length and height and depth, and to know the love of Christ which surpasses knowledge, that you may be filled up to all the fullness of God.'*
 
 ### Philippians 1:9-11
 
-> *(LSB) 'And this I pray, that your love may abound still more and more in real knowledge and all discernment, so that you may approve the things that are excellent, in order to be sincere and blameless until the day of Christ; having been filled with the fruit of righteousness which comes through Jesus Christ, to the glory and praise of God.'*
+> *(BSB) 'And this I pray, that your love may abound still more and more in real knowledge and all discernment, so that you may approve the things that are excellent, in order to be sincere and blameless until the day of Christ; having been filled with the fruit of righteousness which comes through Jesus Christ, to the glory and praise of God.'*
 
 ### Colossians 1:9-11
 
-> *(LSB) 'For this reason also, since the day we heard of it, we have not ceased to pray for you and to ask that you may be filled with the knowledge of His will in all spiritual wisdom and understanding, so that you will walk in a manner worthy of the Lord, to please Him in all respects, bearing fruit in every good work and increasing in the knowledge of God; strengthened with all power, according to His glorious might, for the attaining of all steadfastness and patience.'*
+> *(BSB) 'For this reason also, since the day we heard of it, we have not ceased to pray for you and to ask that you may be filled with the knowledge of His will in all spiritual wisdom and understanding, so that you will walk in a manner worthy of the Lord, to please Him in all respects, bearing fruit in every good work and increasing in the knowledge of God; strengthened with all power, according to His glorious might, for the attaining of all steadfastness and patience.'*
 
 Three different letters, three different churches, three different situations — and the same pattern every time. Paul never once asks God to fix a circumstance. He asks that people would know God more deeply, love more fully, and walk in a way that honors Him.
 
@@ -126,7 +127,7 @@ A note on what this study is and is not arguing: Scripture certainly records fai
 
 ## 6. Philippians 4:6-7 — Bring Everything, Receive Peace
 
-> *(LSB) 'Be anxious for nothing, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all comprehension, will guard your hearts and minds in Christ Jesus.'*
+> *(BSB) 'Be anxious for nothing, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all comprehension, will guard your hearts and minds in Christ Jesus.'*
 
 This passage does say to make your requests known to God — that much is plain, and there's no need to read around it. What it doesn't say is that the promise attached to those requests is a specific result you had in mind. Every request still falls under the same condition established at the start of this study — asked according to His will (1 John 5:14) — so nothing new is being introduced here. What is new is the promise Paul attaches to it: *"the peace of God, which surpasses all comprehension, will guard your hearts and minds in Christ Jesus."* The peace is the promise.
 
@@ -134,7 +135,7 @@ This passage does say to make your requests known to God — that much is plain,
 
 ## 7. Pray Without Ceasing — 1 Thessalonians 5:17-18
 
-> *(LSB) 'Pray without ceasing. In everything give thanks, for this is the will of God in Christ Jesus for you.'*
+> *(BSB) 'Pray without ceasing. In everything give thanks, for this is the will of God in Christ Jesus for you.'*
 
 If prayer were primarily a matter of asking for things, praying without ceasing would be an absurd command — no one can spend every waking moment making requests. But if prayer is relational communion, an ongoing orientation toward God, an awareness of His presence running underneath everything else in the day, then praying without ceasing is simply what it looks like to live in that posture.
 
@@ -162,7 +163,7 @@ This is the early church's answer to hardship — not "Lord, remove this," but "
 
 ## 9. Romans 8:26-27 — When Words Fail
 
-> *(LSB) 'In the same way the Spirit also helps our weakness; for we do not know how to pray as we should, but the Spirit Himself intercedes for us with groanings too deep for words; and He who searches the hearts knows what the mind of the Spirit is, because He intercedes for the saints according to the will of God.'*
+> *(BSB) 'In the same way the Spirit also helps our weakness; for we do not know how to pray as we should, but the Spirit Himself intercedes for us with groanings too deep for words; and He who searches the hearts knows what the mind of the Spirit is, because He intercedes for the saints according to the will of God.'*
 
 Paul admits something remarkable here — we do not know how to pray as we ought. That is not a failure to be ashamed of. It is an honest acknowledgment of human limitation. And rather than leaving that gap unfilled, the Spirit Himself steps into it, interceding according to God's will rather than our own limited understanding of what we need.
 
@@ -175,6 +176,24 @@ There are moments in life when words fail completely. Not because there is nothi
 During an extremely difficult time in my life, I got in my car and drove down to the water. When I got there, nobody was around. I walked out onto the sand, and I dropped to my knees — not as a religious act, not with a prayer prepared — just completely defeated. I had nothing left. I looked up to God with tears in my eyes. That was it. No words. No petition. No request. Just a broken man on his knees, looking up. Then an overwhelming presence came over me. I broke into tears — but at the same moment I was comforted. I knew God was letting me know he was there and it would be ok.
 
 That is Romans 8:26. The Spirit interceding with groanings too deep for words — meeting a soul that had no words left to give. I did not know how to pray in that moment. I did not need to. He already knew. And what He gave back was not an answer to a petition. It was His presence. And His presence was enough.
+
+---
+
+## Does God Want You to Ask? The Question Behind the Question
+
+Yes — and that is exactly the point people miss. God does want you to ask. Jesus said ask and it will be given. Scripture says this plainly. The question is what it says He wants you to ask for.
+
+Look at what the passages actually say. Matthew 7:11 — the Father gives what is good, and Luke's parallel names that good thing as the Holy Spirit (Luke 11:13). John 14:13 — whatever you ask in His name, meaning in alignment with His character and purposes. John 15:7 — ask whatever you wish, but only after abiding in Him, which means your desires have already been shaped by His Word and His will. Acts 4 — the early church asks specifically for boldness to keep preaching regardless of what happens to them personally. In every case, what Scripture models as the content of asking is His kingdom, His purposes, and spiritual formation — not personal earthly outcomes. God wants you to ask. What He consistently shows His people asking for is what serves His divine purpose. That distinction is everything.
+
+It is worth addressing directly a position that many thoughtful theologians hold: that material asking is not prohibited by Scripture, that Gethsemane itself contains a request, and that the key is not the absence of asking but surrender governing it. This document does not claim that asking is sinful. What it claims is something more precise — and more demanding.
+
+If you genuinely believe what Matthew 6:8 says — "your Father knows what you need before you ask Him" — then the question is not whether asking is permitted. The question is what the asking reveals. A Father who already knows does not need to be informed. Does not need to be reminded. Does not need to be convinced. If you truly trust that He knows, that He cares, and that He is already working — what exactly is the request accomplishing? The honest answer is that it may be accomplishing something in you rather than anything in Him.
+
+Even granting that some may read daily bread as physical provision — it does not solve the inherent conflict. Jesus says in the same chapter: "Do not worry, saying 'What will we eat?' or 'What will we drink?'... your heavenly Father knows that you need all these things. But seek first His kingdom and His righteousness, and all these things will be added to you" (Matthew 6:31-33). The Father already knows. The provision is promised to those who seek Him — not as the result of asking for it, but as the natural consequence of the seeking.
+
+The deeper issue is what genuine faith actually looks like in practice. Tacking "your will be done" onto a list of desired outcomes is not what Jesus modeled in Gethsemane. In Gethsemane the surrender was real. The cup was drunk. The arc of those three prayers is a soul moving through honest expression into complete release — and the release, not the asking, is the model. A person who is already fully there does not need the asking to arrive.
+
+Mature faith asks less for circumstances and more for alignment with Him — not because asking is forbidden, but because genuine trust has already released what faith was never meant to hold onto. The recorded prayers of Jesus, Paul, and the early church confirm it: overwhelmingly aimed at God's purposes, His kingdom, spiritual formation, boldness to serve Him, and the salvation of others. A life genuinely oriented toward seeking His kingdom first has already placed its needs in the right hands. "Seek first His kingdom and His righteousness, and all these things will be added to you" (Matthew 6:33). The addition is promised. The seeking is the prayer.
 
 ---
 
@@ -200,7 +219,7 @@ Everything above points to the same posture, lived out differently in a garden, 
 
 - ☐ **Trust that hardship may be the answer.** We do not know God's plan, and what looks like a setback in the moment may be exactly the door He is using. The car breaks down on the side of the road, and what feels like nothing but delay and frustration becomes the very reason someone stops, notices the cross around your neck, and asks a question that opens the door to share Christ. The cross itself is the ultimate proof of this — the worst thing that has ever happened was the very thing God used to save the world. His no, or His delay, is not absence. It is often the greater gift.
 
-- ☐ **Do not lean on your own understanding of what the outcome should be.** Abraham and Sarah were promised a son, but when the child did not come in the time they expected, they decided to make it happen themselves. Abraham took Hagar, and Ishmael was the result — not the promise, and not God's plan (Genesis 16:1-2). The waiting felt like nothing was happening. It wasn't. God's timing was never late. Their understanding just couldn't see that yet. Trust in Yahweh with all your heart, and do not lean on your own understanding (Proverbs 3:5-6) — He was never moving too slowly. He was moving exactly on time. Just not on theirs.
+- ☐ **Do not lean on your own understanding of what the outcome should be.** Abraham and Sarah were promised a son, but when the child did not come in the time they expected, they decided to make it happen themselves. Abraham took Hagar, and Ishmael was the result — not the promise, and not God’s plan (Genesis 16:1-2). The waiting felt like nothing was happening. It wasn’t. God’s timing was never late. Their understanding just couldn’t see that yet. Trust in the LORD with all your heart, and do not lean on your own understanding (Proverbs 3:5-6) — He was never moving too slowly. He was moving exactly on time. Just not on theirs.
 
 ---
 

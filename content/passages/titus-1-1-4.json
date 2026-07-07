@@ -1,0 +1,29 @@
+{
+  "reference": {
+    "book": "Titus",
+    "citation": "1:1-4",
+    "label": "Titus 1:1-4",
+    "slug": "titus-1-1-4"
+  },
+  "section_title": "Paul's Greeting to Titus",
+  "versions": [
+    {
+      "label": "BSB",
+      "text": "Paul, a servant of God and an apostle of Jesus Christ for the faith of God’s elect and their knowledge of the truth that leads to godliness, in the hope of eternal life, which God, who cannot lie, promised before time began. In His own time He has made His word evident in the proclamation entrusted to me by the command of God our Savior. To Titus, my true child in our common faith: Grace and peace from God the Father and Christ Jesus our Savior."
+    }
+  ],
+  "context_lines": [
+    "Titus opens by joining apostolic authority to truth, godliness, and hope. Before Paul addresses church order or correction, he roots the letter in the character of God and the gospel proclamation entrusted to him."
+  ],
+  "common_interpretation_lines": [
+    "A common interpretation of this greeting is that Paul is defining the whole letter's frame from the outset: truth is not abstract information, but truth **\"that leads to godliness.\"** Doctrine and life are not separated.",
+    "",
+    "The opening also stresses the reliability of God's promise. Interpreters commonly note that Paul anchors ministry and obedience in the God **\"who cannot lie,\"** making the letter's later commands flow from a trustworthy gospel rather than from mere administration."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ]
+}

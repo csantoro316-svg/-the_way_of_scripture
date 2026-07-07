@@ -1,6 +1,7 @@
+<!-- governed by project_doctrine.md — see site standards before editing -->
 # I Am a Disciple
 
-*Primary Translation: Legacy Standard Bible (LSB)*
+*Primary Translation: Berean Standard Bible (BSB)*
 
 ---
 
@@ -18,31 +19,31 @@ A learner, student, or follower — one who is enrolled in the way of life of th
 
 ## Scripture References
 
-> **Matthew 28:19 (LSB)** *"Go therefore and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit."*
+> **Matthew 28:19 (BSB)** *"Go therefore and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit."*
 
 The command is **μαθητεύσατε (*mathēteusate* (mah-thay-TYOO-sah-teh))** — to enroll others in the way of life you yourself are living in Christ.
 
 ---
 
-> **Ephesians 2:8-9 (LSB)** *"For by grace you have been saved through faith; and this is not of yourselves, it is the gift of God; not as a result of works, so that no one may boast."*
+> **Ephesians 2:8-9 (BSB)** *"For by grace you have been saved through faith; and this is not of yourselves, it is the gift of God; not as a result of works, so that no one may boast."*
 
 Salvation is by **χάρις (*charis* (KAH-ris))** — grace — through faith. God's gift, not earned by works or performance.
 
 ---
 
-> **1 Peter 3:15 (LSB)** *"But sanctify Christ as Lord in your hearts, always being ready to make a defense to everyone who asks you to give an account for the hope that is in you, yet with gentleness and reverence."*
+> **1 Peter 3:15 (BSB)** *"But sanctify Christ as Lord in your hearts, always being ready to make a defense to everyone who asks you to give an account for the hope that is in you, yet with gentleness and reverence."*
 
 The Greek **ἀπολογία (*apologia* (ah-pol-oh-GEE-ah))** — a reasoned defense. Bearing witness means being prepared to explain, not just display.
 
 ---
 
-> **John 13:35 (LSB)** *"By this all men will know that you are My disciples, if you have love for one another."*
+> **John 13:35 (BSB)** *"By this everyone will know that you are My disciples, if you love one another."*
 
 **ἀγάπη (*agapē* (ah-GAH-pay))** — love — is the identifying mark of a disciple. Not title, not performance, but self-giving love in action.
 
 ---
 
-> **Romans 10:9 (LSB)** *"that if you confess with your mouth Jesus as Lord, and believe in your heart that God raised Him from the dead, you will be saved."*
+> **Romans 10:9 (BSB)** *"that if you confess with your mouth, ‘Jesus is Lord,’ and believe in your heart that God raised Him from the dead, you will be saved."*
 
 Salvation rests on **ὁμολογέω (*homologeō* (hoh-mol-oh-GEH-oh))** — confession — and **πιστεύω (*pisteuō* (pis-TYOO-oh))** — belief. These are the foundation from which discipleship flows.
 
@@ -50,7 +51,7 @@ Salvation rests on **ὁμολογέω (*homologeō* (hoh-mol-oh-GEH-oh))** — 
 
 ## The Great Commission
 
-> **Matthew 28:19 (LSB)** *"Go therefore and make disciples of all the nations."*
+> **Matthew 28:19 (BSB)** *"Go therefore and make disciples of all the nations."*
 
 The Great Commission is often presented as a program — a call to organized outreach, door-knocking, or evangelistic campaigns. But the Greek grammar tells a different story. Of the four verbs in Matthew 28:19-20, only one is an imperative — a command: *mathēteusate*, make disciples. The other three — go, baptize, teach — are participles describing how that happens. A more faithful rendering would be: *as you go*, make disciples. The going is assumed. It is the natural movement of a life already in motion.
 

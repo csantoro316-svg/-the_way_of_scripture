@@ -1,0 +1,29 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "7:8-9",
+    "label": "Mark 7:8-9",
+    "slug": "mark-7-8-9"
+  },
+  "section_title": "",
+  "versions": [
+    {
+      "label": "LSB",
+      "text": "\"You have let go of the commands of God and are holding on to human traditions.\" And he continued, \"You have a fine way of setting aside the commands of God in order to observe your own traditions!\""
+    }
+  ],
+  "context_lines": [
+    "Mark 7:8-9 should be read within the flow of its chapter and the larger argument of Mark."
+  ],
+  "common_interpretation_lines": [
+    "The religious leaders Jesus was addressing were not careless people. They were serious, devoted, learned men who had inherited a vast tradition of interpretation and practice. The problem was that the tradition had accumulated layer upon layer over centuries until it had effectively replaced the thing it was meant to serve. They were holding the tradition. They had let go of the command.",
+    "",
+    "This pattern did not end in the first century. It is the default trajectory of any human institution \u2014 including the church. The word *ekkl\u0113sia* becomes \"church.\" The assembly of believers becomes a building. The priesthood of all believers becomes a clergy class. The Lord's Supper becomes a ritual sacrifice. Each step is small enough to seem reasonable. Each generation inherits what the previous one established. And after enough generations, the tradition is so deeply embedded that questioning it feels like heresy \u2014 even when the text has been saying something different all along."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ]
+}

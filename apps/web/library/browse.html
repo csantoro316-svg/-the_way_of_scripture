@@ -40,6 +40,21 @@
           </div>
         </section>
 
+        <section id="browsePassageGuide" class="feedback-note kb-guide-note" aria-label="Passage structure note" hidden>
+          <p>
+            <strong>Context</strong> explains where the passage sits in its chapter and larger scriptural setting so it is not read in isolation.
+          </p>
+          <p>
+            <strong>Common Interpretations</strong> summarizes the main ways the passage is commonly understood. This section is descriptive, not declarative, and does not imply the site agrees with every reading listed there.
+          </p>
+          <p>
+            <strong>Current Position</strong> states where this site currently lands, if a defined position has been reached. If not, the page says so plainly and leaves the matter open.
+          </p>
+          <p>
+            <strong>Deeper Study</strong> points to fuller studies connected to the passage, especially where the broader argument or supporting reasoning has already been developed.
+          </p>
+        </section>
+
         <section class="kb-layout scripture-kb-layout">
           <aside class="kb-nav" id="libraryNavDrawer">
             <div class="kb-nav-controls">
@@ -51,7 +66,7 @@
 
               <label class="kb-control-label" for="libraryViewSelect">Browse By</label>
               <select id="libraryViewSelect" class="kb-select">
-                <option value="az">A-Z</option>
+                <option value="alpha">Alphabetical</option>
                 <option value="book">By Book</option>
               </select>
 
@@ -59,6 +74,10 @@
                 <button id="libraryExpandAll" class="kb-nav-action-btn">Expand All</button>
                 <button id="libraryCollapseAll" class="kb-nav-action-btn">Collapse All</button>
               </div>
+            </div>
+            <div class="kb-nav-filter">
+              <label class="kb-control-label" for="libraryNavSearch">Filter Navigation</label>
+              <input id="libraryNavSearch" class="kb-search kb-nav-search" type="search" placeholder="Study, topic, book, chapter..." />
             </div>
             <div id="libraryNav"></div>
           </aside>
@@ -75,13 +94,15 @@
       let LIBRARY_DATA = { studies: [], passages: [] };
       let activeType = "studies";
       let activeId = "";
-      let navView = "az";
+      let navView = "alpha";
+      let navFilter = "";
       const collapsedGroups = new Set();
 
       const typeSelectEl = document.getElementById("libraryTypeSelect");
       const viewSelectEl = document.getElementById("libraryViewSelect");
       const expandAllEl = document.getElementById("libraryExpandAll");
       const collapseAllEl = document.getElementById("libraryCollapseAll");
+      const navSearchEl = document.getElementById("libraryNavSearch");
       const navEl = document.getElementById("libraryNav");
       const navDrawerEl = document.getElementById("libraryNavDrawer");
       const navBackdropEl = document.getElementById("libraryNavBackdrop");
@@ -89,26 +110,134 @@
       const articleEl = document.getElementById("libraryArticle");
       const resultsEl = document.getElementById("libraryResults");
       const searchEl = document.getElementById("librarySearch");
+      const passageGuideEl = document.getElementById("browsePassageGuide");
       const mobileMq = window.matchMedia("(max-width: 960px)");
+
+      function getStudyTopic(item) {
+        return item.topic || "Other Studies";
+      }
+
+      function compareStudyTitles(a, b) {
+        return (a.title || "").localeCompare(b.title || "");
+      }
 
       function getCurrentItems() {
         return LIBRARY_DATA[activeType] || [];
       }
 
+      function normalizeBookLabel(value) {
+        return (value || "").replace(/^[1-3]\s+/, "").trim().toLowerCase();
+      }
+
+      function compactSectionLabel(value) {
+        return (value || "").replace(/\s+and\s+/g, " & ");
+      }
+
+      function parseCitation(citation) {
+        const match = /^(\d+):(\d+)(?:-(?:(\d+):)?(\d+))?$/.exec(citation || "");
+        if (!match) {
+          return {
+            startChapter: Number.MAX_SAFE_INTEGER,
+            startVerse: Number.MAX_SAFE_INTEGER,
+            endChapter: Number.MAX_SAFE_INTEGER,
+            endVerse: Number.MAX_SAFE_INTEGER,
+          };
+        }
+        const startChapter = Number(match[1]);
+        const startVerse = Number(match[2]);
+        const endChapter = Number(match[3] || match[1]);
+        const endVerse = Number(match[4] || match[2]);
+        return { startChapter, startVerse, endChapter, endVerse };
+      }
+
+      function buildPassageBooks() {
+        const byBook = new Map();
+        getCurrentItems().forEach((item) => {
+          const book = item.book || "Other";
+          const parsed = parseCitation(item.citation);
+          const chapterKey = String(parsed.startChapter);
+          if (!byBook.has(book)) {
+            byBook.set(book, { key: book, label: book, items: [], chapters: new Map() });
+          }
+          const bookEntry = byBook.get(book);
+          bookEntry.items.push(item);
+          if (!bookEntry.chapters.has(chapterKey)) {
+            bookEntry.chapters.set(chapterKey, {
+              key: chapterKey,
+              label: `Chapter ${parsed.startChapter}`,
+              chapterNumber: parsed.startChapter,
+              items: [],
+            });
+          }
+          bookEntry.chapters.get(chapterKey).items.push({
+            ...item,
+            parsedCitation: parsed,
+          });
+        });
+
+        const canonicalOrder = LIBRARY_DATA.book_order || [];
+        return Array.from(byBook.values())
+          .sort((a, b) => {
+            if (navView === "book") {
+              const ai = canonicalOrder.indexOf(a.key);
+              const bi = canonicalOrder.indexOf(b.key);
+              const ar = ai === -1 ? Number.MAX_SAFE_INTEGER : ai;
+              const br = bi === -1 ? Number.MAX_SAFE_INTEGER : bi;
+              return ar - br || normalizeBookLabel(a.label).localeCompare(normalizeBookLabel(b.label)) || a.label.localeCompare(b.label);
+            }
+            return normalizeBookLabel(a.label).localeCompare(normalizeBookLabel(b.label)) || a.label.localeCompare(b.label);
+          })
+          .map((bookEntry) => ({
+            ...bookEntry,
+            chapters: Array.from(bookEntry.chapters.values())
+              .sort((a, b) => a.chapterNumber - b.chapterNumber)
+              .map((chapter) => ({
+                ...chapter,
+                items: chapter.items.slice().sort((a, b) => {
+                  return a.parsedCitation.startVerse - b.parsedCitation.startVerse
+                    || a.parsedCitation.endVerse - b.parsedCitation.endVerse
+                    || a.title.localeCompare(b.title);
+                }),
+              })),
+          }));
+      }
+
       function syncQuery() {
         const url = new URL(window.location.href);
         url.searchParams.set("type", activeType);
+        url.searchParams.set("view", navView);
         window.history.replaceState({}, "", url);
       }
 
       function syncViewOptions() {
         if (activeType === "studies") {
-          viewSelectEl.innerHTML = '<option value="az">A-Z</option>';
-          navView = "az";
+          viewSelectEl.innerHTML = '<option value="alpha">Alphabetical</option><option value="topic">By Topic</option>';
+          if (navView !== "alpha" && navView !== "topic") {
+            navView = "alpha";
+          }
         } else {
-          viewSelectEl.innerHTML = '<option value="book">By Book</option>';
-          navView = "book";
+          viewSelectEl.innerHTML = '<option value="book">By Book</option><option value="alpha">Alphabetical</option>';
+          if (navView !== "book" && navView !== "alpha") {
+            navView = "book";
+          }
         }
+        viewSelectEl.value = navView;
+      }
+
+      function syncNavFilterPlaceholder() {
+        navSearchEl.placeholder = activeType === "studies"
+          ? (navView === "topic" ? "Study title or topic..." : "Study title...")
+          : "Book, chapter, verse...";
+      }
+
+      function syncNavActionVisibility() {
+        const showActions = activeType === "passages" || (activeType === "studies" && navView === "topic");
+        expandAllEl.style.display = showActions ? "" : "none";
+        collapseAllEl.style.display = showActions ? "" : "none";
+      }
+
+      function syncPassageGuideVisibility() {
+        passageGuideEl.hidden = activeType !== "passages";
       }
 
       function openDrawer() {
@@ -124,44 +253,226 @@
 
       function getGroups() {
         const items = getCurrentItems();
-        const groups = {};
-        if (activeType === "studies") {
+        if (activeType === "passages") {
+          return buildPassageBooks();
+        }
+        if (activeType === "studies" && navView === "alpha") {
+          return [
+            {
+              key: "all-studies",
+              label: "All Studies",
+              items: items.slice().sort(compareStudyTitles),
+            },
+          ];
+        }
+        if (activeType === "studies" && navView === "topic") {
+          const groups = new Map();
           items.forEach((item) => {
-            const first = (item.title.trim()[0] || "#").toUpperCase();
-            const letter = /[A-Z]/.test(first) ? first : "#";
-            if (!groups[letter]) groups[letter] = [];
-            groups[letter].push(item);
+            const topic = getStudyTopic(item);
+            if (!groups.has(topic)) groups.set(topic, []);
+            groups.get(topic).push(item);
           });
-          return Object.keys(groups).sort().map((key) => ({ key, label: key, items: groups[key] }));
+          const topicOrder = LIBRARY_DATA.study_topic_order || [];
+          return Array.from(groups.entries())
+            .sort((a, b) => {
+              const ai = topicOrder.indexOf(a[0]);
+              const bi = topicOrder.indexOf(b[0]);
+              const ar = ai === -1 ? Number.MAX_SAFE_INTEGER : ai;
+              const br = bi === -1 ? Number.MAX_SAFE_INTEGER : bi;
+              return ar - br || a[0].localeCompare(b[0]);
+            })
+            .map(([key, groupedItems]) => ({
+              key,
+              label: key,
+              items: groupedItems.slice().sort(compareStudyTitles),
+            }));
         }
 
+        const groups = {};
         items.forEach((item) => {
-          const key = item.book || "Other";
+          const key = activeType === "passages"
+            ? (item.book || "Other")
+            : item.title;
           if (!groups[key]) groups[key] = [];
           groups[key].push(item);
         });
-        const order = LIBRARY_DATA.book_order || [];
+        const order = activeType === "passages" && navView === "book"
+          ? (LIBRARY_DATA.book_order || [])
+          : [];
         return Object.keys(groups)
           .sort((a, b) => {
             const ai = order.indexOf(a);
             const bi = order.indexOf(b);
             const ar = ai === -1 ? Number.MAX_SAFE_INTEGER : ai;
             const br = bi === -1 ? Number.MAX_SAFE_INTEGER : bi;
-            return ar - br || a.localeCompare(b);
+            return ar - br || normalizeBookLabel(a).localeCompare(normalizeBookLabel(b)) || a.localeCompare(b);
           })
           .map((key) => ({ key, label: key, items: groups[key] }));
       }
 
+      function filterGroups(groups) {
+        const query = navFilter.trim().toLowerCase();
+        if (!query) return groups;
+
+        if (activeType === "passages") {
+          return groups
+            .map((book) => {
+              const bookMatches = book.label.toLowerCase().includes(query);
+              const chapters = book.chapters
+                .map((chapter) => {
+                  const chapterMatches = `${chapter.chapterNumber}`.includes(query) || chapter.label.toLowerCase().includes(query);
+                  const items = chapter.items.filter((item) => {
+                    const parts = [
+                      item.title,
+                      item.section_title || "",
+                      item.citation || "",
+                      `${item.book} ${item.citation}`,
+                    ];
+                    return parts.join(" ").toLowerCase().includes(query);
+                  });
+                  if (bookMatches || chapterMatches) {
+                    return chapter;
+                  }
+                  if (!items.length) return null;
+                  return { ...chapter, items };
+                })
+                .filter(Boolean);
+              if (bookMatches) return book;
+              if (!chapters.length) return null;
+              const items = chapters.flatMap((chapter) => chapter.items);
+              return { ...book, items, chapters };
+            })
+            .filter(Boolean);
+        }
+
+        return groups
+          .map((group) => {
+            const groupMatches = group.label.toLowerCase().includes(query);
+            if (groupMatches) return group;
+            const items = group.items.filter((item) => {
+              const parts = [item.title, item.subtitle || "", item.summary || ""];
+              return parts.join(" ").toLowerCase().includes(query);
+            });
+            if (!items.length) return null;
+            return { ...group, items };
+          })
+          .filter(Boolean);
+      }
+
       function renderNav() {
         navEl.innerHTML = "";
-        const groups = getGroups();
+        const groups = filterGroups(getGroups());
         if (!groups.length) {
-          navEl.innerHTML = '<p class="kb-paragraph">No content is available yet.</p>';
+          navEl.innerHTML = '<p class="kb-paragraph">No navigation matches that filter.</p>';
           return;
         }
 
         if (!activeId) {
           activeId = groups[0].items[0] ? groups[0].items[0].id : "";
+        }
+
+        if (activeType === "studies" && navView === "alpha") {
+          const items = groups[0].items.slice().sort(compareStudyTitles);
+          const list = document.createElement("ul");
+          list.className = "kb-nav-list kb-nav-flat-list";
+          items.forEach((item) => {
+            const li = document.createElement("li");
+            li.className = "kb-nav-item";
+            const btn = document.createElement("button");
+            btn.className = item.id === activeId ? "is-active" : "";
+            btn.textContent = item.title;
+            btn.addEventListener("click", () => {
+              activeId = item.id;
+              renderArticle(activeId);
+              renderNav();
+              hideResults();
+              closeDrawer();
+            });
+            li.appendChild(btn);
+            list.appendChild(li);
+          });
+          navEl.appendChild(list);
+          return;
+        }
+
+        if (activeType === "passages") {
+          groups.forEach((book) => {
+            const bookKey = `${activeType}:book:${book.key}`;
+            const bookWrap = document.createElement("section");
+            bookWrap.className = "kb-nav-group";
+
+            const bookBtn = document.createElement("button");
+            bookBtn.className = "kb-nav-group-toggle";
+            const bookCollapsed = navFilter ? false : collapsedGroups.has(bookKey);
+            bookBtn.setAttribute("aria-expanded", bookCollapsed ? "false" : "true");
+            bookBtn.innerHTML = `<span>${book.label}</span><span class="kb-chevron">${bookCollapsed ? "▸" : "▾"}</span>`;
+            bookBtn.addEventListener("click", () => {
+              if (collapsedGroups.has(bookKey)) collapsedGroups.delete(bookKey);
+              else collapsedGroups.add(bookKey);
+              renderNav();
+            });
+            bookWrap.appendChild(bookBtn);
+
+            const chapterList = document.createElement("div");
+            chapterList.className = "kb-nav-list kb-nav-subgroups";
+            if (bookCollapsed) chapterList.style.display = "none";
+
+            book.chapters.forEach((chapter) => {
+              const chapterKey = `${activeType}:chapter:${book.key}:${chapter.chapterNumber}`;
+              const chapterWrap = document.createElement("section");
+              chapterWrap.className = "kb-nav-subgroup";
+
+              const chapterBtn = document.createElement("button");
+              chapterBtn.className = "kb-nav-subgroup-toggle";
+              const chapterCollapsed = navFilter ? false : collapsedGroups.has(chapterKey);
+              chapterBtn.setAttribute("aria-expanded", chapterCollapsed ? "false" : "true");
+              chapterBtn.innerHTML = `<span>${chapter.label}</span><span class="kb-chevron">${chapterCollapsed ? "▸" : "▾"}</span>`;
+              chapterBtn.addEventListener("click", () => {
+                if (collapsedGroups.has(chapterKey)) collapsedGroups.delete(chapterKey);
+                else collapsedGroups.add(chapterKey);
+                renderNav();
+              });
+              chapterWrap.appendChild(chapterBtn);
+
+              const sectionList = document.createElement("ul");
+              sectionList.className = "kb-nav-list kb-nav-section-list";
+              if (chapterCollapsed) sectionList.style.display = "none";
+
+              chapter.items.forEach((item) => {
+                const li = document.createElement("li");
+                li.className = "kb-nav-item";
+                const btn = document.createElement("button");
+                btn.className = `kb-section-link${item.id === activeId ? " is-active" : ""}`;
+                const isSingleVerse = item.parsedCitation.startVerse === item.parsedCitation.endVerse
+                  && item.parsedCitation.startChapter === item.parsedCitation.endChapter;
+                btn.innerHTML = `
+                  <span class="kb-section-range" aria-hidden="true">
+                    <span class="kb-section-verse-start">${item.parsedCitation.startVerse}</span>
+                    <span class="kb-section-range-dash">${isSingleVerse ? "" : "-"}</span>
+                    <span class="kb-section-verse-end">${isSingleVerse ? "" : item.parsedCitation.endVerse}</span>
+                  </span>
+                  <span class="kb-section-title-text">${compactSectionLabel(item.section_title || item.title)}</span>
+                `;
+                btn.setAttribute("aria-label", `${item.title}${item.section_title ? ` — ${item.section_title}` : ""}`);
+                btn.addEventListener("click", () => {
+                  activeId = item.id;
+                  renderArticle(activeId);
+                  renderNav();
+                  hideResults();
+                  closeDrawer();
+                });
+                li.appendChild(btn);
+                sectionList.appendChild(li);
+              });
+
+              chapterWrap.appendChild(sectionList);
+              chapterList.appendChild(chapterWrap);
+            });
+
+            bookWrap.appendChild(chapterList);
+            navEl.appendChild(bookWrap);
+          });
+          return;
         }
 
         groups.forEach((group, index) => {
@@ -171,10 +482,9 @@
 
           const headerBtn = document.createElement("button");
           headerBtn.className = "kb-nav-group-toggle";
-          const containsActive = group.items.some((item) => item.id === activeId);
-          const shouldCollapse = collapsedGroups.has(key) && !containsActive;
+          const shouldCollapse = navFilter ? false : collapsedGroups.has(key);
           headerBtn.setAttribute("aria-expanded", shouldCollapse ? "false" : "true");
-          headerBtn.innerHTML = `<span>${group.label} (${group.items.length})</span><span class="kb-chevron">${shouldCollapse ? "▸" : "▾"}</span>`;
+          headerBtn.innerHTML = `<span>${group.label}</span><span class="kb-chevron">${shouldCollapse ? "▸" : "▾"}</span>`;
           headerBtn.addEventListener("click", () => {
             if (collapsedGroups.has(key)) {
               collapsedGroups.delete(key);
@@ -210,10 +520,26 @@
           wrap.appendChild(list);
           navEl.appendChild(wrap);
 
-          if (index === 0 && !containsActive && !activeId) {
+          if (index === 0 && !activeId) {
             activeId = group.items[0] ? group.items[0].id : "";
           }
         });
+      }
+
+      function collapseAllGroups() {
+        collapsedGroups.clear();
+        if (activeType === "passages") {
+          getGroups().forEach((book) => {
+            collapsedGroups.add(`${activeType}:book:${book.key}`);
+            book.chapters.forEach((chapter) => {
+              collapsedGroups.add(`${activeType}:chapter:${book.key}:${chapter.chapterNumber}`);
+            });
+          });
+        } else if (activeType === "studies" && navView === "topic") {
+          getGroups().forEach((group) => {
+            collapsedGroups.add(`${activeType}:${group.key}`);
+          });
+        }
       }
 
       function renderStudy(item) {
@@ -228,16 +554,38 @@
       }
 
       function renderPassage(item) {
-        const related = item.related_studies.length
-          ? `<ul class="study-link-list">${item.related_studies.map((study) => `<li><a href="${study.href}">${study.title}</a></li>`).join("")}</ul>`
-          : `<p class="kb-paragraph">No related study page yet.</p>`;
+        const displayLabel = (label) => label === "BSB" ? "Berean Standard Bible" : label;
+        const renderVersionParagraphs = (version) => {
+          const paragraphs = Array.isArray(version.paragraphs) && version.paragraphs.length
+            ? version.paragraphs
+            : (version.text ? [version.text] : []);
+          return paragraphs.map((paragraph) => `<p>${paragraph}</p>`).join("");
+        };
+        const versions = item.versions && item.versions.length
+          ? item.versions.map((version) => `
+              <div class="passage-version">
+                <h2>${displayLabel(version.label)}</h2>
+                <blockquote>${renderVersionParagraphs(version)}</blockquote>
+              </div>
+            `).join("")
+          : `<p class="kb-paragraph">Full passage text for this reference is not yet quoted in the current local source material.</p>`;
+        const deeperStudy = item.deeper_study && item.deeper_study.length
+          ? `<ul class="study-link-list">${item.deeper_study.map((study) => `<li><a href="${study.href}">${study.title}</a></li>`).join("")}</ul>`
+          : `<p class="kb-paragraph">No deeper study linked yet.</p>`;
         return `
           <p class="kb-breadcrumb">Library / Passages / ${item.book} / ${item.title}</p>
           <h2 class="kb-article-title">${item.title}</h2>
-          <p class="kb-paragraph">${item.note}</p>
-          <p class="kb-paragraph"><a href="${item.href}" target="_blank" rel="noopener noreferrer">Open passage page</a></p>
-          <h3 class="kb-section-title">Related Studies</h3>
-          ${related}
+          ${item.section_title ? `<p class="article-subtitle">${item.section_title}</p>` : ""}
+          ${item.note ? `<p class="kb-paragraph">${item.note}</p>` : ""}
+          ${versions}
+          <h3 class="kb-section-title">Context</h3>
+          ${item.context_html}
+          <h3 class="kb-section-title">Common Interpretations</h3>
+          ${item.common_interpretations_html}
+          <h3 class="kb-section-title">Current Position</h3>
+          ${item.current_position_html}
+          <h3 class="kb-section-title">Deeper Study</h3>
+          ${deeperStudy}
         `;
       }
 
@@ -299,9 +647,15 @@
 
         const params = new URLSearchParams(window.location.search);
         activeType = params.get("type") === "passages" ? "passages" : "studies";
+        const requestedView = params.get("view");
+        navView = requestedView === "az" ? "alpha" : (requestedView || (activeType === "passages" ? "book" : "alpha"));
         typeSelectEl.value = activeType;
         syncViewOptions();
+        syncNavFilterPlaceholder();
+        syncNavActionVisibility();
+        syncPassageGuideVisibility();
         activeId = getCurrentItems()[0] ? getCurrentItems()[0].id : "";
+        collapseAllGroups();
         syncQuery();
         renderNav();
         renderArticle(activeId);
@@ -309,10 +663,15 @@
         typeSelectEl.addEventListener("change", () => {
           activeType = typeSelectEl.value;
           collapsedGroups.clear();
+          navView = activeType === "passages" ? "book" : "alpha";
           syncViewOptions();
+          syncNavFilterPlaceholder();
+          syncNavActionVisibility();
+          syncPassageGuideVisibility();
           activeId = getCurrentItems()[0] ? getCurrentItems()[0].id : "";
           searchEl.value = "";
           hideResults();
+          collapseAllGroups();
           syncQuery();
           renderNav();
           renderArticle(activeId);
@@ -320,6 +679,17 @@
 
         viewSelectEl.addEventListener("change", () => {
           navView = viewSelectEl.value;
+          collapsedGroups.clear();
+          syncNavFilterPlaceholder();
+          syncNavActionVisibility();
+          syncPassageGuideVisibility();
+          syncQuery();
+          collapseAllGroups();
+          renderNav();
+        });
+
+        navSearchEl.addEventListener("input", (e) => {
+          navFilter = e.target.value || "";
           renderNav();
         });
 
@@ -336,10 +706,7 @@
         });
 
         collapseAllEl.addEventListener("click", () => {
-          collapsedGroups.clear();
-          getGroups().forEach((group) => {
-            collapsedGroups.add(`${activeType}:${group.key}`);
-          });
+          collapseAllGroups();
           renderNav();
         });
 
