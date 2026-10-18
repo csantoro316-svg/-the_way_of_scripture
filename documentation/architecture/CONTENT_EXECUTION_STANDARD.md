@@ -1,6 +1,6 @@
 # Content Execution Standard
 
-Updated: 2026-06-29
+Updated: 2026-10-18
 
 ## Purpose
 
@@ -99,10 +99,12 @@ As the site evolves, study pages may also include:
 
 Each passage page should, at minimum, include:
 
-- the full passage text in the approved Bible versions for that passage
+- the full passage text in the Berean Standard Bible (BSB), following the master doctrine and translation standard
 - the passage text rendered in the main top `Passage` section of the page, directly under the passage title
 - a `Context` section
-- an `Explanation` section
+- a `Common Interpretations` section describing major readings
+- a `Current Position` section stating a developed position or explicitly leaving the question open
+- a `Deeper Study` section linking developed treatments when available
 - links back to studies that reference the passage
 - a related studies area that points readers back into the study pages using that passage
 - include the standard page-end feedback and revision note
@@ -112,7 +114,7 @@ They are reference pages that support navigation, comparison, and context.
 
 ### Passage Section Rule
 
-The main page-level `Passage` section is where the default translations belong.
+The main page-level `Passage` section is where the full BSB passage text belongs.
 
 Do not:
 
@@ -144,9 +146,11 @@ Do not use `Context` to describe:
 
 The purpose of `Context` is to guard against cherry-picking and help the reader interpret the passage within Scripture itself.
 
-### Explanation Rule
+### Interpretation and Position Rule
 
-The `Explanation` section should draw its substance from the repository's source teaching material while speaking directly about the passage.
+The current renderer separates `Common Interpretations`, `Current Position`, and `Deeper Study`, as described in the [active passage-library plan](../planning/2026-07-05-passage-library-foundation-plan.md). Draw reviewed interpretation from source teaching material while speaking directly about the passage. Describe major readings without implying that each is the site's position. State a defined current position only when supported by developed study; otherwise leave the question open.
+
+Source records use `common_interpretation_lines`, optional `current_position_lines`, and `deeper_study`. Legacy `explanation_lines` remains a compatibility fallback in validation, not a requirement to restore an `Explanation` page section.
 
 Do:
 
@@ -164,26 +168,21 @@ Public copy should read as direct teaching and interpretation, not as commentary
 
 ## Translation Standard
 
-Approved core versions, in default display order:
-
-1. `LSB`
-2. `NKJV`
-3. `NABRE`
-
-### Translation Roles
-
-- `LSB`: primary teaching and doctrinal baseline
-- `NKJV`: broad mainstream comparison version
-- `NABRE`: Catholic-familiar comparison version
+The [master doctrine and standards](PROJECT_DOCTRINE_AND_STANDARDS.md) governs translation choices. BSB is the primary public English translation; original Hebrew and Greek remain the interpretive benchmark. LSB is an internal comparison reference and is not cited on the site under that standard.
 
 ### Usage Rules
 
-- Default to these three versions on passage pages.
-- Use `LSB` as the lead reference in normal teaching flow unless a comparison note is needed.
+- Include full BSB text on passage pages and use BSB as the public English baseline in study content.
+- Define and examine significant original-language terms according to the master standard.
 - Surface cross-version differences when they materially affect meaning, interpretation, emphasis, or doctrinal discussion.
 - Do not add version comparisons merely for noise or volume.
-- Additional translations may be referenced when explicitly useful, but they are not part of the default standard.
-- On passage pages, render the full text of all three default versions unless the user explicitly directs otherwise.
+- Other public translation comparisons require a specific editorial purpose and must follow the master standard; the old LSB/NKJV/NABRE three-version requirement is superseded.
+
+### Known Implementation Debt
+
+The current generator still contains LSB extraction, an LSB study-header default, and an audit expecting LSB/NKJV/NABRE. The current source validation instead warns on missing BSB. These legacy implementation paths have not been reconciled in this documentation session. They must be reviewed against the master standard before content regeneration; a passing structural check alone does not establish translation or editorial compliance.
+
+The Prayer and Faith HTML also contains an authored revision absent from its Markdown source. Reconcile that source before regeneration, as recorded in [the backup change record](../changes/2026-10-18-prayer-and-faith-git-backup.md).
 
 ## Linking Standard
 

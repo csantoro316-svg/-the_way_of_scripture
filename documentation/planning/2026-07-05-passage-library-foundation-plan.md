@@ -2,6 +2,15 @@
 
 Status: Active
 Started: 2026-07-05
+Reviewed: 2026-10-18
+
+## Verified Execution State
+
+The plan remains active. The documentation audit confirmed that `tools/validate_passages.py` and `tools/check_repo.py` already exist; creating validation tooling is no longer an outstanding first step. The renderer already provides `Context`, `Common Interpretations`, `Current Position`, and `Deeper Study`, and source records support section titles and the corresponding content fields.
+
+The source corpus contains 970 non-audit JSON records. Philemon has four source sections spanning verses 1-25. These observations confirm implemented structure, not completed editorial review or full acceptance of every phase.
+
+`python3 tools/check_repo.py` passes with 0 errors and 401 warnings. The warning breakdown and the remaining source/generator issues are recorded in [the documentation audit evidence](../testing/2026-10-18-session-documentation-audit.md). Foundation hardening and schema consolidation remain active; no book-expansion work was performed during this audit.
 
 ## Objective
 
@@ -179,8 +188,8 @@ Structural failures should block progress. Editorial gaps should surface as warn
 
 ## Immediate Next Steps
 
-1. Create and document validation tooling.
-2. Run validation against the current passage source corpus.
-3. Review and fix any structural failures.
-4. Continue Phase 1 hardening against the active proof of concept.
-5. Move into book-by-book completion for study-linked books once the foundation is stable.
+1. Reconcile the Prayer and Faith HTML revision into its Markdown source before running the generator.
+2. Reconcile legacy generator translation defaults and the source audit with the master BSB standard.
+3. Review the 401 current validation warnings, including missing section titles, missing BSB blocks, and overlapping ranges; preserve zero structural errors.
+4. Complete editorial and navigation review of the Philemon proof of concept and document the normalized section schema.
+5. Continue book-by-book completion for study-linked books after the foundation and schema checks are satisfied.

@@ -63,6 +63,13 @@ Current content execution baseline:
 - `tools/generate_study_pages.py` generates study pages, passage pages, and library relationship data
 - study hero intros and library study-card copy should stay aligned without repeating the same intro again in the study body
 - passage pages should place full default translation text in the top `Passage` section, treat `Context` as Scripture context, and link supporting passage references in new tabs
+- the current passage renderer separates `Common Interpretations`, `Current Position`, and `Deeper Study`; BSB is the public translation baseline under the master doctrine
+
+Current follow-up work (documentation audit, 2026-10-18):
+- reconcile the Prayer and Faith authored HTML revision into `content/studies/prayer_and_faith.md` before regeneration
+- reconcile generator LSB defaults and the legacy three-version audit with the master BSB standard; this implementation work is still open
+- continue the active passage-library foundation/schema plan; validation tooling already exists, and the current 970 source records pass with 0 errors and 401 warnings
+- review the validation warning breakdown and implementation limits in `documentation/testing/2026-10-18-session-documentation-audit.md`
 
 Current interior layout baseline:
 - study and passage reading pages should use a single full-width content column
@@ -80,6 +87,7 @@ Earlier site generation/deployment verification (historical; use the certificate
 - `firebase deploy --only hosting`
 
 Latest change docs to review first:
+- `documentation/changes/2026-10-18-session-documentation-audit.md`
 - `documentation/changes/2026-10-18-keyless-session-and-deployment-documentation.md`
 - `documentation/changes/2026-10-18-scripture-keyless-hosting-access.md`
 - `documentation/changes/2026-10-18-keyless-cloud-operations-correction.md`
