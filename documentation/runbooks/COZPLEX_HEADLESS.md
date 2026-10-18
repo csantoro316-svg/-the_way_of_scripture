@@ -40,17 +40,16 @@ python3 tools/check_repo.py
 
 The current baseline passes with 0 errors and 401 existing passage warnings.
 
-The managed Codex server already includes Node `22.23.2` in its PATH. Plain noninteractive SSH commands instead select system Node 18, which cannot run the installed Firebase CLI. For Firebase commands in such a shell, select the existing compatible runtime explicitly:
+The managed Codex server already includes Node `22.23.2` in its PATH. Routine cloud commands use the existing host-local certificate wrappers, which select the isolated Firebase toolchain and compatible runtime:
 
 ```bash
-export PATH="$HOME/.nvm/versions/node/v22.23.2/bin:$PATH"
-firebase --version
+~/.local/bin/mg-cloud-firebase apps:list --project the-way-of-scripture --json
 ```
 
-This runtime is installed locally on CozPlex; no runtime installation or global shell change was needed.
+Always pass the Scripture project explicitly: these shared wrappers default to Memory Genie. See [Keyless Cloud Operations](CLOUD_OPERATIONS.md) for the required route and checks. Bare Firebase CLI or interactive user authentication is not the routine deployment path.
 
 ## Deployment Follow-up
 
-Firebase CLI `15.9.0` runs with Node 22, but the saved Firebase authentication requires reauthentication. Deployment access to `the-way-of-scripture` is not yet verified. Refresh the Firebase login on CozPlex using the intended project account before deploying. Do not copy credentials from CozDev or use another project's service account as a workaround.
+Both hosts' existing operator certificates passed Memory Genie project and Firebase checks on 2026-10-18. The same operator, `local-cloud-operator@memory-genie-ai.iam.gserviceaccount.com`, was denied Scripture project access on both hosts. The remaining deployment prerequisite is establishing the intended certificate-backed operator route for Scripture's separate project, followed by the Scripture-specific checks and Hosting dry run in the cloud operations runbook. An expired legacy Firebase user session does not establish a need to sign in again.
 
 The Prayer and Faith HTML revision currently differs from its Markdown source. Follow `documentation/changes/2026-10-18-prayer-and-faith-git-backup.md` before regenerating pages.

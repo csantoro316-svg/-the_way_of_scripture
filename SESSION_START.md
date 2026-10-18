@@ -18,6 +18,7 @@ Session continuity should come from change docs in:
 3. Read `documentation/runbooks/SESSION_RESUME.md` for baseline repo context.
 4. Read the newest relevant change docs to recover the latest state.
 5. Verify local status before changing implementation behavior.
+6. Before Firebase or Google Cloud work, follow `documentation/runbooks/CLOUD_OPERATIONS.md` and verify the executing host's certificate route against `the-way-of-scripture`.
 
 ## Documentation Rules
 

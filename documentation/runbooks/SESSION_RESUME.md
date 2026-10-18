@@ -26,7 +26,8 @@ Current repo connections:
 Headless work host (verified 2026-10-18):
 - CozPlex has a local checkout at `/home/cozwood/Documents/Dev/the_way_of_scripture` with independent GitHub SSH access and an existing signed-in Codex installation
 - use `documentation/runbooks/COZPLEX_HEADLESS.md` for access, machine handoff, and runtime details
-- Firebase authentication on CozPlex needs refreshing before deployment access can be verified
+- routine Firebase/Google Cloud operations use each host's existing `mg-cloud-*` X.509 certificate wrappers with the explicit `the-way-of-scripture` project; follow `documentation/runbooks/CLOUD_OPERATIONS.md`
+- both certificates work for Memory Genie, but Scripture project access is currently denied on both hosts; resolve project IAM access before verifying deployment readiness
 
 Current implemented website surfaces:
 - homepage: `apps/web/index.html`
@@ -73,6 +74,7 @@ Latest verification:
 - `firebase deploy --only hosting`
 
 Latest change docs to review first:
+- `documentation/changes/2026-10-18-keyless-cloud-operations-correction.md`
 - `documentation/changes/2026-10-18-cozplex-headless-readiness.md`
 - `documentation/changes/2026-10-18-prayer-and-faith-git-backup.md`
 - `documentation/changes/2026-07-06-browse-library-scroll-and-guide-standard.md`

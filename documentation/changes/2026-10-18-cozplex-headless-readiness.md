@@ -16,9 +16,9 @@ Scope: repository operations
 
 - CozPlex: `python3 tools/check_repo.py` passed with 0 errors and the same 401 existing passage warnings observed on CozDev.
 - CozPlex: Firebase CLI 15.9.0 runs under the installed Node 22.23.2 runtime.
-- Firebase project listing failed; authentication diagnostics indicate reauthentication is required. Hosting deployment access remains unverified.
+- The initial bare Firebase project listing failed, but that command used an obsolete interactive-user path. The reauthentication diagnosis was incorrect; see `2026-10-18-keyless-cloud-operations-correction.md` for certificate checks and the actual project-access blocker.
 - No site generation or deployment was performed.
 
 ## Follow-up
 
-Refresh Firebase authentication on CozPlex before deployment work. Editing, local checks, and Git synchronization are available independently of CozDev.
+Use the existing certificate wrappers and resolve Scripture project IAM access before deployment work, as described in `../runbooks/CLOUD_OPERATIONS.md`. Editing, local checks, and Git synchronization are available independently of CozDev.
