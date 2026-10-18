@@ -15,7 +15,7 @@ The source operating policy is in the sibling repository:
 
 ## Readiness
 
-Before cloud work, run both checks on the host that will execute the work:
+At session start, run both read-only checks on the active host. Repeat them on another host before its first cloud operation when switching hosts:
 
 ```bash
 ~/.local/bin/mg-cloud-gcloud projects describe the-way-of-scripture \
@@ -24,6 +24,8 @@ Before cloud work, run both checks on the host that will execute the work:
 ```
 
 The first check must return exactly `the-way-of-scripture`, and the second must succeed. Wrapper existence, CLI version, or a successful check against Memory Genie does not prove access to this project.
+
+Record the executing host, target project, and both outcomes in the session assessment. A failed check is a readiness issue to investigate through the failure-handling section below, not a reason to refresh an obsolete user login. These checks do not publish a release.
 
 After project access passes, validate a deployment from this repository without publishing:
 

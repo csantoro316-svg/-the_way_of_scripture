@@ -232,6 +232,24 @@ For website content-integration work, completion means more than local generatio
 
 When study pages, passage pages, library surfaces, styling, or other public website behavior has been updated and verified, deploy the finished website state to Firebase hosting before considering the task complete, unless the user explicitly says not to deploy.
 
+### Required Cloud Route
+
+Follow [Keyless Cloud Operations](../runbooks/CLOUD_OPERATIONS.md) for every Firebase or Google Cloud operation. Use the executing host's certificate wrappers on either CozDev or CozPlex and explicitly target `the-way-of-scripture`. Readiness checks must pass on that host before cloud work.
+
+After content and local verification are complete, validate Hosting without publishing:
+
+```bash
+~/.local/bin/mg-cloud-firebase deploy --only hosting --project the-way-of-scripture --dry-run
+```
+
+For a live release within the user's authorized scope, run:
+
+```bash
+~/.local/bin/mg-cloud-firebase deploy --only hosting --project the-way-of-scripture
+```
+
+Use the host-local wrapper rather than a bare Firebase CLI or interactive user login. The wrapper selects its certificate and compatible runtime. Record the executing host, project, and verification/deployment outcome in the change record. Documentation-only work does not require site generation or a Hosting deployment.
+
 If implemented site behavior changes, add a change record under:
 
 - `documentation/changes/`

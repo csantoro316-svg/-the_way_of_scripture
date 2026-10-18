@@ -80,6 +80,7 @@ Earlier site generation/deployment verification (historical; use the certificate
 - `firebase deploy --only hosting`
 
 Latest change docs to review first:
+- `documentation/changes/2026-10-18-keyless-session-and-deployment-documentation.md`
 - `documentation/changes/2026-10-18-scripture-keyless-hosting-access.md`
 - `documentation/changes/2026-10-18-keyless-cloud-operations-correction.md`
 - `documentation/changes/2026-10-18-cozplex-headless-readiness.md`
@@ -94,7 +95,8 @@ Latest change docs to review first:
 1. Check the latest relevant change docs.
 2. Confirm the target scope for the session: repo, content, or website.
 3. Verify any implementation or content assumptions before changing structure.
-4. Capture follow-up items in a change doc if behavior or workflow changed.
+4. Read `CLOUD_OPERATIONS.md`, run both Scripture readiness checks on the active host, and record the host/project/results. Use the host's certificate wrappers for every cloud operation.
+5. Capture follow-up items in a change doc if behavior or workflow changed.
 
 ## If You Want Codex To Resume Fast
 

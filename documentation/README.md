@@ -16,6 +16,14 @@ This is the single documentation tree for the repository.
 
 Use this as the default handoff/start file for sessions.
 
+## Operational Entry Points
+
+- [Session start](../SESSION_START.md): required startup reading and active-host keyless readiness checks.
+- [Keyless cloud operations](runbooks/CLOUD_OPERATIONS.md): canonical Firebase/Google Cloud route, explicit Scripture project selection, verification commands, and failure handling.
+- [CozPlex headless work](runbooks/COZPLEX_HEADLESS.md): independent host checkout, access, and machine handoff.
+- [Content execution standard](architecture/CONTENT_EXECUTION_STANDARD.md): source generation, verification, and certificate-backed Hosting deployment.
+- [Git workflow](../SESSION_GIT.md): repository sync, commit, and push.
+
 ## Scope Boundary
 
 - Planning and workflow docs stay under `documentation/...`.
