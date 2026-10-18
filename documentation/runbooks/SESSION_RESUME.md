@@ -1,6 +1,6 @@
 # Session Resume
 
-Updated: 2026-07-06
+Updated: 2026-10-18
 
 ## Canonical Resume Document
 
@@ -22,6 +22,11 @@ Current repo connections:
 - Firebase project for this repo is `the-way-of-scripture`
 - Firebase default hosting URL is `https://the-way-of-scripture.web.app`
 - custom apex domain setup for `thewayofscripture.com` is in progress
+
+Headless work host (verified 2026-10-18):
+- CozPlex has a local checkout at `/home/cozwood/Documents/Dev/the_way_of_scripture` with independent GitHub SSH access and an existing signed-in Codex installation
+- use `documentation/runbooks/COZPLEX_HEADLESS.md` for access, machine handoff, and runtime details
+- Firebase authentication on CozPlex needs refreshing before deployment access can be verified
 
 Current implemented website surfaces:
 - homepage: `apps/web/index.html`
@@ -68,6 +73,8 @@ Latest verification:
 - `firebase deploy --only hosting`
 
 Latest change docs to review first:
+- `documentation/changes/2026-10-18-cozplex-headless-readiness.md`
+- `documentation/changes/2026-10-18-prayer-and-faith-git-backup.md`
 - `documentation/changes/2026-07-06-browse-library-scroll-and-guide-standard.md`
 - `documentation/changes/2026-06-29-study-content-generation-and-deployment-refresh.md`
 - `documentation/changes/2026-06-29-passage-page-scripture-context-standardization.md`
