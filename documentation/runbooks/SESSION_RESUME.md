@@ -27,7 +27,7 @@ Headless work host (verified 2026-10-18):
 - CozPlex has a local checkout at `/home/cozwood/Documents/Dev/the_way_of_scripture` with independent GitHub SSH access and an existing signed-in Codex installation
 - use `documentation/runbooks/COZPLEX_HEADLESS.md` for access, machine handoff, and runtime details
 - routine Firebase/Google Cloud operations use each host's existing `mg-cloud-*` X.509 certificate wrappers with the explicit `the-way-of-scripture` project; follow `documentation/runbooks/CLOUD_OPERATIONS.md`
-- both certificates work for Memory Genie, but Scripture project access is currently denied on both hosts; resolve project IAM access before verifying deployment readiness
+- the owner granted the existing operator Firebase Hosting Admin on Scripture's project; certificate-backed Scripture project/app reads and Hosting deployment dry runs pass on both hosts
 
 Current implemented website surfaces:
 - homepage: `apps/web/index.html`
@@ -68,12 +68,19 @@ Current interior layout baseline:
 - study and passage reading pages should use a single full-width content column
 - right-side cards and right rails are not part of the current interior page standard
 
-Latest verification:
+Latest verification (2026-10-18, both CozDev and CozPlex):
+- `~/.local/bin/mg-cloud-gcloud projects describe the-way-of-scripture --project the-way-of-scripture --format='value(projectId)'`
+- `~/.local/bin/mg-cloud-firebase apps:list --project the-way-of-scripture --json`
+- `~/.local/bin/mg-cloud-firebase deploy --only hosting --project the-way-of-scripture --dry-run`
+- no live Hosting release was published during these checks
+
+Earlier site generation/deployment verification (historical; use the certificate wrappers for current cloud operations):
 - `python3 -m py_compile tools/generate_study_pages.py`
 - `python3 tools/generate_study_pages.py`
 - `firebase deploy --only hosting`
 
 Latest change docs to review first:
+- `documentation/changes/2026-10-18-scripture-keyless-hosting-access.md`
 - `documentation/changes/2026-10-18-keyless-cloud-operations-correction.md`
 - `documentation/changes/2026-10-18-cozplex-headless-readiness.md`
 - `documentation/changes/2026-10-18-prayer-and-faith-git-backup.md`

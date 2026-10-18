@@ -48,8 +48,10 @@ The managed Codex server already includes Node `22.23.2` in its PATH. Routine cl
 
 Always pass the Scripture project explicitly: these shared wrappers default to Memory Genie. See [Keyless Cloud Operations](CLOUD_OPERATIONS.md) for the required route and checks. Bare Firebase CLI or interactive user authentication is not the routine deployment path.
 
-## Deployment Follow-up
+## Deployment Readiness
 
-Both hosts' existing operator certificates passed Memory Genie project and Firebase checks on 2026-10-18. The same operator, `local-cloud-operator@memory-genie-ai.iam.gserviceaccount.com`, was denied Scripture project access on both hosts. The remaining deployment prerequisite is establishing the intended certificate-backed operator route for Scripture's separate project, followed by the Scripture-specific checks and Hosting dry run in the cloud operations runbook. An expired legacy Firebase user session does not establish a need to sign in again.
+The owner granted the existing operator, `local-cloud-operator@memory-genie-ai.iam.gserviceaccount.com`, Firebase Hosting Admin on `the-way-of-scripture`. On 2026-10-18, Scripture project reads, Firebase app-list requests, and Hosting deployment dry runs passed from both CozDev and CozPlex using their independent host certificates. No live release was published during verification.
+
+CozPlex can perform repository work and authorized Hosting deployments independently of CozDev. Use its local `mg-cloud-firebase` wrapper with `--project the-way-of-scripture` and follow the cloud runbook. The separate Firebase project/account remains in place; no recurring interactive Firebase login is required by this route.
 
 The Prayer and Faith HTML revision currently differs from its Markdown source. Follow `documentation/changes/2026-10-18-prayer-and-faith-git-backup.md` before regenerating pages.

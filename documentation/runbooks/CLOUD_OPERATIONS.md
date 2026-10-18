@@ -50,14 +50,15 @@ Observed on 2026-10-18:
 | --- | --- | --- |
 | Memory Genie project describe through operator certificate | Passed | Passed |
 | Memory Genie Firebase app list through operator certificate | Passed | Passed |
-| Scripture project describe through operator certificate | Permission denied | Permission denied |
-| Scripture Firebase app list through operator certificate | Failed | Failed |
+| Scripture project describe through operator certificate | Passed | Passed |
+| Scripture Firebase app list through operator certificate | Passed | Passed |
+| Scripture Hosting deployment dry run | Passed | Passed |
 
-Both host certificates work for Memory Genie. The shared effective operator is `local-cloud-operator@memory-genie-ai.iam.gserviceaccount.com`. Its visible project list does not include `the-way-of-scripture`. Scripture deployment readiness remains blocked on project access, not an expired interactive login. No IAM grants, new credentials, or deployments were made during these checks.
+The owner granted `local-cloud-operator@memory-genie-ai.iam.gserviceaccount.com` the `roles/firebasehosting.admin` role on `the-way-of-scripture`. Both hosts subsequently returned the exact Scripture project ID and successful Firebase app-list responses. Both app-list requests returned empty lists successfully. Hosting dry runs passed on both hosts. No live Hosting release was published during verification.
 
-The [original account-separation record](../changes/2026-06-28-github-firebase-account-separation-and-domain-setup.md) deliberately places Scripture in a separate Firebase account. Do not assume Memory Genie's operator grants cover Scripture or extend those grants without establishing the intended project identity and authority.
+The [original account-separation record](../changes/2026-06-28-github-firebase-account-separation-and-domain-setup.md) deliberately places Scripture in a separate Firebase account. That project and its ownership remain separate. The approved project-level Hosting role lets the existing operator certificates manage this site's Hosting resources. It does not grant this operator project Owner or IAM administration in Scripture.
 
-Use an existing keyless administrator for this project to inspect its IAM and establish the approved certificate-backed operator access. If Scripture already has a separate operator, use that project's route rather than assuming the shared identity must be granted access. Do not create or copy service-account keys or refresh an old user login to pass readiness. Once the intended project route is established, repeat both project checks and the Hosting dry run on each host.
+Reuse the existing host-local certificate wrappers with explicit Scripture project selection. No new certificate setup, copied credentials, or interactive Firebase login is needed for the verified route. Other Firebase products or project administration require their own task-specific access assessment.
 
 ## Failure Handling
 
