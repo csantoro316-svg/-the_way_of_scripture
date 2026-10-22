@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "19:1-10",
+    "label": "Luke 19:1-10",
+    "slug": "luke-19-1-10"
+  },
+  "section_title": "What changes when Jesus comes to Zacchaeus’ house?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Then Jesus entered Jericho and was passing through. 2 And there was a man named Zacchaeus, a chief tax collector, who was very wealthy. 3 He was trying to see who Jesus was, but could not see over the crowd because he was small in stature. 4 So he ran on ahead and climbed a sycamore tree to see Him, since Jesus was about to pass that way.",
+        "5 When Jesus came to that place, He looked up and said, “Zacchaeus, hurry down, for I must stay at your house today.” 6 So Zacchaeus hurried down and welcomed Him joyfully. 7 And all who saw this began to grumble, saying, “He has gone to be the guest of a sinful man!”",
+        "8 But Zacchaeus stood up and said to the Lord, “Look, Lord, half of my possessions I give to the poor, and if I have cheated anyone, I will repay it fourfold.” 9 Jesus said to him, “Today salvation has come to this house, because this man too is a son of Abraham. 10 For the Son of Man came to seek and to save the lost.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus enters Jericho after the roadside healing. Zacchaeus is a wealthy chief tax collector who wants to see Him, but his height and the crowd prevent it. He runs ahead and climbs a sycamore tree.",
+    "",
+    "Jesus calls him by name and says He must stay at his house that day. Zacchaeus comes down quickly and receives Him with joy. The people who see it grumble that Jesus has become the guest of a sinful man.",
+    "",
+    "Zacchaeus publicly speaks of giving half his possessions to the poor and repaying four times anything he has taken by cheating. His response brings the use of his wealth and his treatment of other people into view.",
+    "",
+    "The Law provides different kinds of restitution for different wrongs. Exodus requires four sheep for a sheep stolen and sold or slaughtered, but gives other amounts in other cases. Leviticus requires returning property obtained by fraud or extortion with an added fifth. Zacchaeus’ fourfold commitment should not be described as the universal minimum for every theft. ([Exodus 22:1–4](https://biblehub.com/bsb/exodus/22.htm); [Leviticus 6:1–7](https://biblehub.com/bsb/leviticus/6.htm))",
+    "",
+    "Jesus announces salvation for this house, identifies Zacchaeus too as a son of Abraham and describes the Son of Man’s mission as seeking and saving the lost. The encounter follows the wealthy ruler’s sadness in the previous chapter and supplies a different response from another man with substantial possessions."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly recognize repentance, generosity and a changed use of wealth in Zacchaeus’ response. The Catholic bishops’ notes contrast him with the ruler who was unable to part with his possessions; Calvin stresses faith and understands the changed conduct as evidence of God’s saving work. ([USCCB notes on Luke 19:1–10](https://bible.usccb.org/bible/luke/19); [Calvin on Luke 19:9](https://biblehub.com/commentaries/calvin/luke/19.htm))",
+    "",
+    "The description son of Abraham receives different emphases. Wesley points to Zacchaeus’ Jewish identity and his place among those first offered salvation. Calvin emphasizes Abraham’s faith, while the Catholic bishops’ notes describe the repentant Zacchaeus as an heir of God’s promises. These are the explanations given by those sources, rather than a single official interpretation shared by all their readers. ([Wesley on Luke 19:9](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [Calvin on Luke 19:9](https://biblehub.com/commentaries/calvin/luke/19.htm); [USCCB note on Luke 19:9](https://bible.usccb.org/bible/luke/19))"
+  ],
+  "god_plan_lines": [
+    "Ezekiel describes God searching for His scattered flock, seeking the lost and appointing one shepherd from David’s line. Jesus’ description of His mission here is a supported connection with that shepherd picture: God’s saving care reaches a person whom the crowd regards as an unsuitable guest. ([Ezekiel 34:11–16, 23–24](https://biblehub.com/bsb/ezekiel/34.htm))",
+    "",
+    "Galatians identifies people of faith as Abraham’s children and explains that the promised blessing reaches the nations through Christ. Romans likewise speaks of Abraham as father of believers, both circumcised and uncircumcised. These passages place Abraham’s family within God’s larger purpose of bringing people into the blessing through faith, without erasing Zacchaeus’ own Jewish identity. ([Galatians 3:7–9, 26–29](https://biblehub.com/bsb/galatians/3.htm); [Romans 4:9–12](https://biblehub.com/bsb/romans/4.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/19.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-nineteen-opening-review.md"
+  }
+}

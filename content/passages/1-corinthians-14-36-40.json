@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "14:36-40",
+    "label": "1 Corinthians 14:36-40",
+    "slug": "1-corinthians-14-36-40"
+  },
+  "section_title": "What shows that a claim to spiritual authority is trustworthy?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "36 Did the word of God originate with you? Or are you the only ones it has reached? 37 If anyone considers himself a prophet or spiritual person, let him acknowledge that what I am writing you is the Lord’s command. 38 But if anyone ignores this, he himself will be ignored. 39 So, my brothers, be eager to prophesy, and do not forbid speaking in tongues. 40 But everything must be done in a proper and orderly manner."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul asks whether God’s word began with the Corinthians or reached only them. Their congregation is accountable to what it has received, rather than free to make its own preference the standard for everyone else.",
+    "",
+    "Anyone claiming to be a prophet or spiritual person must acknowledge his written instruction as the Lord’s command. A claim to inspiration is to be tested by obedience, rather than used as a reason to avoid correction.",
+    "",
+    "His closing instructions combine eagerness and restraint: be eager to prophesy, do not forbid tongues, and do everything properly and in order. The corrections are not a simple prohibition of all gifts, nor permission to use them without regard for the gathering.",
+    "",
+    "The BSB’s warning in verse 38 states that the one who ignores this will himself be ignored. Paul’s authority is serious; it should not be borrowed by a modern speaker to treat every disagreement with that speaker as disobedience to God."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the conclusion as requiring spiritual claims to submit to apostolic instruction and the good order of the church. [Calvin’s comment on verse 37](https://biblehub.com/commentaries/calvin/1_corinthians/14.htm) stresses Paul’s apostolic authority while warning that not every speaker may make that claim for himself. [Wesley’s notes on verses 36–40](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) likewise connect recognition of spiritual gifting with receiving the instruction and acting considerately together."
+  ],
+  "god_plan_lines": [
+    "In [Matthew 28:18–20](https://biblehub.com/bsb/matthew/28.htm), the risen Jesus sends His disciples to make disciples of the nations and teach them to obey what He commanded. Instruction and obedience belong within the mission, alongside the promise of His presence.",
+    "",
+    "Paul’s correction fits that purpose: churches are being formed as communities accountable to the same Lord. Gifts serve His work when they help people receive His truth and live together faithfully, rather than establish a private authority beyond correction."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/14.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-fourteen-closing-review.md"
+  }
+}

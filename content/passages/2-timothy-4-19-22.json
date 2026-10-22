@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "2 Timothy",
+    "citation": "4:19-22",
+    "label": "2 Timothy 4:19-22",
+    "slug": "2-timothy-4-19-22"
+  },
+  "section_title": "How does Paul close a letter written in difficult circumstances?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "19 Greet Prisca and Aquila, as well as the household of Onesiphorus. 20 Erastus has remained at Corinth, and Trophimus I left sick in Miletus. 21 Make every effort to come to me before winter. Eubulus sends you greetings, as do Pudens, Linus, Claudia, and all the brothers. 22 The Lord be with your spirit. Grace be with you all."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The letter closes with greetings, coworkers’ locations and another request for Timothy to come before winter. Prisca and Aquila are remembered along with the household of Onesiphorus. Others send greetings from where Paul is.",
+    "",
+    "Paul reports that Erastus remained at Corinth and that he left Trophimus sick in Miletus. These are real limits and needs within the life of the mission, rather than a picture in which every faithful worker is always healthy and always together.",
+    "",
+    "The last words turn again to the Lord’s presence and grace. The personal appeal to Timothy is held within a blessing that includes them all."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-timothy/) reads Trophimus’s illness as a reminder that the apostles did not work miracles whenever they chose; their exercise depended on God. The verse itself reports the illness without naming its cause or later outcome.",
+    "",
+    "The closing greetings and request for a visit are generally read as ordinary expressions of fellowship and practical care. They complete the letter’s call to faithfulness with dependence on the Lord and His grace."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_timothy/4.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-timothy-four-review.md"
+  }
+}

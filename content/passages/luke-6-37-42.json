@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "6:37-42",
+    "label": "Luke 6:37-42",
+    "slug": "luke-6-37-42"
+  },
+  "section_title": "How can we help others without overlooking our own faults?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "37 Do not judge, and you will not be judged. Do not condemn, and you will not be condemned. Forgive, and you will be forgiven. 38 Give, and it will be given to you. A good measure, pressed down, shaken together, and running over will be poured into your lap. For with the measure you use, it will be measured back to you.”",
+        "39 Jesus also told them a parable: “Can a blind man lead a blind man? Will they not both fall into a pit? 40 A disciple is not above his teacher, but everyone who is fully trained will be like his teacher.",
+        "41 Why do you look at the speck in your brother’s eye but fail to notice the beam in your own eye? 42 How can you say, ‘Brother, let me take the speck out of your eye,’ while you yourself fail to see the beam in your own eye? You hypocrite! First take the beam out of your own eye, and then you will see clearly to remove the speck from your brother’s eye."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The call to be merciful continues in instructions about judging, condemning, forgiving and giving. Jesus describes a generous measure that is filled beyond the brim, then says the measure people use will be measured back to them. The saying belongs within this discussion of mercy and how we treat others.",
+    "",
+    "He follows with pictures about sight and learning. A blind guide puts both himself and his follower in danger. A disciple who is fully trained becomes like the teacher. These sayings ask His hearers to consider the guidance they receive and the people they are becoming.",
+    "",
+    "The speck and beam make the danger of hypocrisy easy to see. Someone is trying to correct a small fault while overlooking a much larger obstruction in himself. Jesus tells him to deal with his own obstruction first, so he can then see clearly enough to help his brother."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand the warning as a call to merciful, honest self-examination when dealing with others’ faults. Calvin reads it as correcting harsh condemnation and hypocrisy, while the instruction to remove one’s own beam leaves a place for clear-sighted help afterward. ([Calvin on Matthew 7:1–5 and Luke 6:37–42](https://biblehub.com/commentaries/calvin/luke/6.htm); [Luke 6:41–42](https://biblehub.com/bsb/luke/6.htm))"
+  ],
+  "god_plan_lines": [
+    "Paul gives a closely related pattern for the life of Christ’s people: restore someone caught in wrongdoing with gentleness, watch yourself, and carry one another’s burdens. This is a thematic connection with the sight Jesus calls for here. Help for another person and honest attention to oneself belong together. ([Galatians 6:1–5](https://biblehub.com/bsb/galatians/6.htm))",
+    "",
+    "James likewise joins mercy with the command to love one’s neighbor and warns against judgment without mercy. Across these teachings, the community God is forming is to reflect His mercy in the way its members deal with need and failure. ([James 2:8–17](https://biblehub.com/bsb/james/2.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/6.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-six-closing-review.md"
+  }
+}

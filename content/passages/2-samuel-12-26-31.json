@@ -1,0 +1,52 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "12:26-31",
+    "label": "2 Samuel 12:26-31",
+    "slug": "2-samuel-12-26-31"
+  },
+  "section_title": "How does the campaign against Rabbah finally end?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "26 Meanwhile, Joab fought against Rabbah of the Ammonites and captured the royal fortress. 27 Then Joab sent messengers to David to say, “I have fought against Rabbah and have captured the water supply of the city. 28 Now, therefore, assemble the rest of the troops, lay siege to the city, and capture it. Otherwise I will capture the city, and it will be named after me.”",
+        "29 So David assembled all the troops and went to Rabbah; and he fought against it and captured it. 30 Then he took the crown from the head of their king. It weighed a talent of gold and was set with precious stones, and it was placed on David’s head. And David took a great amount of plunder from the city. 31 David brought out the people who were there and put them to work with saws, iron picks, and axes, and he made them work at the brick kilns. He did the same to all the Ammonite cities. Then David and all his troops returned to Jerusalem."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Joab captures Rabbah’s royal fortress and water supply, then calls David to bring the rest of the troops and complete the capture. He warns that if he takes the city himself, the credit and its name will belong to him.",
+    "",
+    "David comes, captures the city and takes its crown and plunder. The BSB describes the people being put to work with saws, picks and axes and at brick kilns, and says David does the same in the other Ammonite cities. He and his troops then return to Jerusalem."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) reads Joab’s message as an opportunity for David to receive the honor of the final capture. The narrative returns to the campaign introduced before the account of Bathsheba and Uriah, bringing that unfinished battle to its close.",
+    "",
+    "The treatment of the captives has been read in different ways. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/), following wording about placing people under saws and through a kiln, understands severe executions and criticizes David’s cruelty. [Gill](https://biblehub.com/commentaries/gill/2_samuel/12.htm) discusses that reading but also accepts a translation describing compulsory labor. The BSB follows the labor reading, and [Henry](https://biblehub.com/commentaries/mhc/2_samuel/12.htm) calls the result slavery and criticizes its severity.",
+    "",
+    "The difference matters: these readings describe different acts, even though both involve the harsh exercise of power over defeated people. The passage should be explained with its translation questions visible rather than made into a simple claim that everything in the victory was merciful."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/12.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-twelve-review.md"
+  }
+}

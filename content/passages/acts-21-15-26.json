@@ -1,0 +1,69 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "21:15-26",
+    "label": "Acts 21:15-26",
+    "slug": "acts-21-15-26"
+  },
+  "section_title": "Why does Paul join the purification after meeting James and the elders?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 After these days, we packed up and went on to Jerusalem. 16 Some of the disciples from Caesarea accompanied us, and they took us to stay at the home of Mnason the Cypriot, an early disciple. 17 When we arrived in Jerusalem, the brothers welcomed us joyfully. 18 The next day Paul went in with us to see James, and all the elders were present. 19 Paul greeted them and recounted one by one the things that God had done among the Gentiles through his ministry.",
+        "20 When they heard this, they glorified God. Then they said to Paul, “You see, brother, how many thousands of Jews have believed, and all of them are zealous for the law. 21 But they are under the impression that you teach all the Jews who live among the Gentiles to forsake Moses, telling them not to circumcise their children or observe our customs. 22 What then should we do? They will certainly hear that you have come. 23 Therefore do what we advise you. There are four men with us who have taken a vow. 24 Take these men, purify yourself along with them, and pay their expenses so they can have their heads shaved. Then everyone will know that there is no truth to these rumors about you, but that you also live in obedience to the law. 25 As for the Gentile believers, we have written to them our decision that they must abstain from food sacrificed to idols, from blood, from the meat of strangled animals, and from sexual immorality.”",
+        "26 So the next day Paul took the men and purified himself along with them. Then he entered the temple to give notice of the date when their purification would be complete and the offering would be made for each of them."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The travelers go up to Jerusalem and are welcomed by the believers. On the next day Paul meets James with all the elders present. He recounts what God has done among the Gentiles through his ministry, and they glorify God.",
+    "",
+    "The leaders then explain a concern among many Jewish believers who remain zealous for the law. They have heard that Paul tells Jews living among the Gentiles to abandon Moses, circumcision and their customs. Luke reports the concern as something people have been told, not as a complete and settled summary of Paul’s teaching.",
+    "",
+    "The leaders advise Paul to join four men who have made a vow, undergo purification with them and pay their expenses so they can shave their heads. They intend this public action to counter the reports about him. They also restate the earlier decision concerning Gentile believers. Paul follows the advice and enters the temple to give notice of when the purification and offerings will be complete.",
+    "",
+    "[Numbers 6:13–21](https://biblehub.com/bsb/numbers/6.htm) provides the background for offerings and cutting the hair at the completion of a Nazirite vow. It includes several kinds of offering, including a sin offering. Acts does not spell out every ritual detail or say that Paul himself takes a new vow and shaves his own head."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly recognize the leaders’ aim of preserving fellowship and answering damaging reports. Interpreters differ over whether the chosen action is a wise use of freedom or a concession that obscures it.",
+    "",
+    "The Catholic [USCCB notes on 21:17–26](https://bible.usccb.org/bible/acts/21) understand Acts as allowing Jewish Christians to retain these practices while Gentile believers remain under the earlier agreed requirements. These are the published notes’ explanation of the scene, rather than an instruction that Christians today must perform its temple rites.",
+    "",
+    "[Calvin on verse 26](https://biblehub.com/commentaries/calvin/acts/21.htm) rejects the claim that Paul’s later trouble proves God is punishing him for hypocrisy. He sees a voluntary accommodation for the good of others, although he questions aspects of the leaders’ advice. [Wesley on verses 23–26](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) is more critical: he thinks Paul yields too far and risks appearing to treat the Mosaic law as still binding. Those are individual teachers’ judgments of the event, not official verdicts that every Reformed or Wesleyan Christian must share."
+  ],
+  "god_plan_lines": [
+    "[Romans 15:7–9](https://biblehub.com/bsb/romans/15.htm) calls believers to welcome one another and connects Christ’s service to Israel’s promises with the Gentiles glorifying God for mercy. That larger purpose helps explain why fellowship between Jewish and Gentile believers matters so deeply here.",
+    "",
+    "In [1 Corinthians 9:19–23](https://biblehub.com/bsb/1_corinthians/9.htm), Paul explains his willingness to adapt in order to reach others, while distinguishing that service from being outside God’s authority. This provides a relevant framework for the question of accommodation. It does not by itself settle every disputed judgment about the particular action in Jerusalem."
+  ],
+  "current_position_lines": [
+    "Who Shepherds the Church? directly discusses Acts 21:18 alongside the earlier Jerusalem meeting. Its position is that James has recognized personal standing while the elders continue to function together. Paul visits James with all the elders present; the study does not read this as a scene in which one man has replaced their shared responsibility. "
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/21.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twenty-one-review.md",
+    "position_source_detail": "Who Shepherds the Church?: But Wasn’t James the Head of the Church? directly uses Acts21:18, James with all elders."
+  }
+}

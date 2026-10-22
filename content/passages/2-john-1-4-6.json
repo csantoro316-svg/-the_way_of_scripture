@@ -5,30 +5,50 @@
     "label": "2 John 1:4-6",
     "slug": "2-john-1-4-6"
   },
-  "section_title": "Walking in the Truth",
+  "section_title": "What does walking in love look like?",
   "versions": [
     {
       "label": "BSB",
-      "text": "I was overjoyed to find some of your children walking in the truth, just as the Father has commanded us. And now I urge you, dear lady—not as a new commandment to you, but one we have had from the beginning—that we love one another. And this is love, that we walk according to His commandments. This is the very commandment you have heard from the beginning, that you must walk in love."
+      "paragraphs": [
+        "4 I was overjoyed to find some of your children walking in the truth, just as the Father has commanded us. 5 And now I urge you, dear lady—not as a new commandment to you, but one we have had from the beginning—that we love one another. 6 And this is love, that we walk according to His commandments. This is the very commandment you have heard from the beginning, that you must walk in love."
+      ]
     }
   ],
   "context_lines": [
-    "John moves quickly from greeting to exhortation. The emphasis here is practical: truth is walked in, and love is defined by obedience rather than by feeling alone."
+    "The elder rejoices that some of the children are walking in the truth. Walking describes the way they live. His joy comes from seeing the Father’s command expressed in their conduct.",
+    "",
+    "He then returns to the command they have already received: love one another. Verse 6 connects that love with walking according to God’s commandments. Truth, obedience and love belong together throughout the letter.",
+    "",
+    "The reference to some children tells us whom he has found walking faithfully. By itself it does not tell us the conduct of every other member of the family or community."
   ],
   "common_interpretation_lines": [
-    "This section is commonly read as one of the clearest New Testament statements that love and obedience belong together. John does not oppose commandment-keeping to love; he treats obedience as the shape love takes.",
-    "",
-    "The repeated phrase **\"from the beginning\"** is usually understood as a reminder that John is not innovating. He is calling the church back to the apostolic pattern they already received."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-epistle-of-st-john/) and the [USCCB notes](https://bible.usccb.org/bible/2john/1) connect love with obedience expressed in daily life. They recognize the call to love as teaching already received. This passage gives a practical description of love through conduct rather than treating the command as a claim that warm feelings alone fulfill it."
+  ],
+  "god_plan_lines": [
+    "Jesus gives His disciples the command to love one another as He has loved them in [John 13:34–35](https://biblehub.com/bsb/john/13.htm). He says that their love will identify them as His disciples. The letter carries that purpose into community life: obedience and love make allegiance to Jesus visible."
   ],
   "current_position_lines": [
-    "This site's current position is that **2 John 1:4-6** cuts directly against modern attempts to detach discipleship from obedience. John defines love by walking according to God's commandments, not by sincere feeling alone.",
-    "",
-    "A disciple is therefore not merely someone who admires Jesus, but someone who keeps walking in the truth He gave from the beginning."
+    "Our study [I Am a Disciple](https://thewayofscripture.com/studies/i-am-a-disciple.html) describes discipleship as learning from Jesus and following His way of life. It identifies self-giving love in action as the mark of a disciple. We therefore read this call to walk in love as something to practice through obedience, rather than simply a statement of admiration for Jesus."
   ],
   "deeper_study": [
     {
       "title": "I Am a Disciple",
       "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_john/1.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-short-john-review.md",
+    "position_source_detail": "I Am a Disciple, opening definition (line8) and John13:35explanation(lines40–42): learner follows Christ in conduct; self-giving love in action. No imported grammar/translation claims."
+  }
 }

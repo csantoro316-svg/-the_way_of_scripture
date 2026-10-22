@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Nehemiah",
+    "citation": "8:1-8",
+    "label": "Nehemiah 8:1-8",
+    "slug": "nehemiah-8-1-8"
+  },
+  "section_title": "Why do the people ask to hear the Law explained?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 At that time all the people gathered together in the square before the Water Gate, and they asked Ezra the scribe to bring out the Book of the Law of Moses, which the LORD had commanded for Israel. 2 On the first day of the seventh month, Ezra the priest brought the Law before the assembly of men and women and all who could listen and understand. 3 So Ezra read it aloud from daybreak until noon as he faced the square before the Water Gate, in front of the men and women and those who could understand. And all the people listened attentively to the Book of the Law. 4 Ezra the scribe stood on a high wooden platform built for this occasion. At his right side stood Mattithiah, Shema, Anaiah, Uriah, Hilkiah, and Maaseiah, and at his left were Pedaiah, Mishael, Malchijah, Hashum, Hash-baddanah, Zechariah, and Meshullam.",
+        "5 Ezra opened the book in full view of all the people, since he was standing above them all, and as he opened it, all the people stood up. 6 Then Ezra blessed the LORD, the great God, and with their hands uplifted, all the people said, “Amen, Amen!” Then they bowed down and worshiped the LORD with their faces to the ground. 7 The Levites—Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, and Pelaiah—instructed the people in the Law as they stood in their places. 8 So they read from the Book of the Law of God, explaining it and giving insight, so that the people could understand what was being read."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The people gather at the Water Gate and ask Ezra to bring out the Law of Moses. On the first day of the seventh month, men, women and all who can understand listen from daybreak until noon.",
+    "",
+    "Ezra stands on a wooden platform with others beside him. When he opens the book, the people stand; they praise God, lift their hands and bow in worship. The Levites help them understand what is being read.",
+    "",
+    "The setting recalls [Deuteronomy 31:9–13](https://biblehub.com/bsb/deuteronomy/31.htm), where Moses commands a public reading of the Law at the Feast of Tabernacles in the year of debt release, so that the people and their children may learn to follow God. Here, attention is given to understanding as well as hearing.",
+    "",
+    "One word used for the reading comes from Hebrew [פָּרַשׁ, parash](https://biblehub.com/hebrew/6567.htm), pronounced pah-RAHSH. Brown–Driver–Briggs gives the sense of making something distinct or clear and lists this verse under that use. The aim in the passage is that the people grasp what the Law is saying."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/nehemiah/8.htm) emphasizes that teachers should explain Scripture so that its hearers understand it, and that explanations should themselves be tested by Scripture. [Gill](https://biblehub.com/commentaries/gill/nehemiah/8.htm) discusses whether the reading involved translating Hebrew into the language the returnees used. He favors clear, distinct reading followed by explanation, rather than treating translation as necessary here. Both understand the scene as making God’s instruction intelligible to the people."
+  ],
+  "god_plan_lines": [
+    "The theme of Scripture being opened to understanding continues in [Luke 24:25–27, 44–49](https://biblehub.com/bsb/luke/24.htm). Jesus explains what Moses and the Prophets wrote about Him, then opens His disciples’ minds to understand the Scriptures.",
+    "",
+    "Luke brings that understanding to a definite focus: Christ’s suffering and resurrection, and the proclamation of repentance and forgiveness to all nations in His name. Hearing Scripture serves God’s purpose when people come to understand what He has made known and respond to it."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "Returning to the Word",
+      "href": "../studies/returning-to-the-word.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/nehemiah/8.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-nehemiah-eight-nine-review.md"
+  }
+}

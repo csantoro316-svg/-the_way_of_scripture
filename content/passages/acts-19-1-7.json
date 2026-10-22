@@ -1,0 +1,70 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "19:1-7",
+    "label": "Acts 19:1-7",
+    "slug": "acts-19-1-7"
+  },
+  "section_title": "What do these disciples need to understand about Jesus and the Holy Spirit?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 While Apollos was at Corinth, Paul passed through the interior and came to Ephesus. There he found some disciples 2 and asked them, “Did you receive the Holy Spirit when you became believers?” “No,” they answered, “we have not even heard that there is a Holy Spirit.” 3 “Into what, then, were you baptized?” Paul asked. “The baptism of John,” they replied. 4 Paul explained: “John’s baptism was a baptism of repentance. He told the people to believe in the One coming after him, that is, in Jesus.”",
+        "5 On hearing this, they were baptized into the name of the Lord Jesus. 6 And when Paul laid his hands on them, the Holy Spirit came upon them, and they spoke in tongues and prophesied. 7 There were about twelve men in all."
+      ]
+    }
+  ],
+  "context_lines": [
+    "While Apollos is in Corinth, Paul reaches Ephesus and meets some disciples. His questions uncover a gap in their understanding: they know John’s baptism but say they have not heard that there is a Holy Spirit. Paul explains that John called people to repentance and directed them to believe in the One coming after him, Jesus.",
+    "",
+    "On hearing this, they are baptized into the name of the Lord Jesus. Paul lays his hands on them, the Holy Spirit comes upon them, and they speak in tongues and prophesy. Luke gives their number as about twelve. He does not say that Apollos taught or baptized them, nor describe a command for everyone to reproduce each step in exactly this order.",
+    "",
+    "The word disciples tells us they are learners or followers, but the questions and explanation matter for understanding whom they follow and what they know. The account moves from John’s preparation for the Messiah to an explicit response to Jesus and the gift of the Spirit."
+  ],
+  "common_interpretation_lines": [
+    "Christians agree that John points beyond himself to Jesus. They differ over the disciples’ earlier spiritual condition and how this sequence relates to Christian life today.",
+    "",
+    "The Catholic Church’s [Catechism, paragraph 1288](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_2/i_confirmation_in_the_economy_of_salvation.index.html), understands the apostles’ laying on of hands as the origin of confirmation, which strengthens and completes the grace given in baptism. [Its summary in 1315–1316](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_2/in_brief.index.html) explicitly uses the related account in Acts 8.",
+    "",
+    "The Reformed [Westminster Confession, chapter 12](https://www.opc.org/wcf.html), says those God receives as His children receive the Spirit. A [1978 Orthodox Presbyterian committee report, section I](https://opc.org/GA/giftsHS.html), reads Ephesus as one stage in the Spirit’s coming to the church, involving previously unreached disciples of John. It says every believer shares in baptism with the Spirit through belonging to Christ from the time they come to faith. The report explains a Reformed reading; it is not itself a confession binding all Reformed churches.",
+    "",
+    "The Pentecostal Assemblies of God’s [Fundamental Truths 7–8](https://ag.org/Beliefs/Statement-of-Fundamental-Truths) teach baptism in the Holy Spirit as an empowering experience distinct from and following the beginning of Christian life, with speaking in tongues as its first outward evidence. That teaching distinguishes this experience from salvation; it does not say a person earns salvation by producing a sign.",
+    "",
+    "Individual interpreters also differ about verse 5. [Calvin](https://biblehub.com/commentaries/calvin/acts/19.htm) understands it as baptism with the Spirit rather than another water baptism. [Wesley’s note on verse 5](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) understands a new baptism in water, distinct from John’s. Neither individual reading should be assigned automatically to every member of a denomination."
+  ],
+  "god_plan_lines": [
+    "John’s ministry was preparation for Jesus, and the promised gift of the Spirit belongs to the risen Lord’s work. The speaking in tongues and prophecy here recalls [Acts 2:1–4](https://biblehub.com/bsb/acts/2.htm) and [10:44–48](https://biblehub.com/bsb/acts/10.htm). This is a supported parallel in Luke’s account, not a claim that these twelve men replace the twelve apostles.",
+    "",
+    "[1 Corinthians 12:4–13](https://biblehub.com/bsb/1_corinthians/12.htm) connects the Spirit’s varied gifts with the common good and one body made up of different people. The wider purpose is a people belonging to Christ and equipped to serve together, rather than a contest over who has the most impressive experience."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    },
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/19.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-nineteen-review.md"
+  }
+}

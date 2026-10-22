@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "10:1-4",
+    "label": "Romans 10:1-4",
+    "slug": "romans-10-1-4"
+  },
+  "section_title": "Why does sincere zeal still need the truth?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Brothers, my heart’s desire and prayer to God for the Israelites is for their salvation. 2 For I testify about them that they are zealous for God, but not on the basis of knowledge. 3 Because they were ignorant of God’s righteousness and sought to establish their own, they did not submit to God’s righteousness. 4 For Christ is the end of the law, to bring righteousness to everyone who believes."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul continues the concern for Israel expressed at the start of chapter 9. He prays for their salvation and acknowledges their zeal for God. His criticism is not that they care too little, but that their pursuit does not recognize the righteousness God gives.",
+    "",
+    "He describes an effort to establish their own righteousness instead of submitting to God’s. Verse 4 places Christ at the center: He is the end of the law for righteousness to everyone who believes. The promise is directed to the believer, rather than to a particular ancestry.",
+    "",
+    "The Greek word for end is telos (TEH-loss), τέλος. Its range includes an ending and an aim or goal; see [Thayer’s entry](https://biblehub.com/greek/5056.htm). The word’s range helps explain the readings below, but the dictionary alone cannot decide how all of God’s law relates to Christian life."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read the passage as directing confidence toward Christ rather than one’s own religious achievement. Readers differ over the emphasis of end in verse 4.",
+    "",
+    "[Wesley’s note on verse 4](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-romans/) emphasizes Christ as the law’s goal. [Calvin’s comment](https://biblehub.com/commentaries/calvin/romans/10.htm) similarly speaks of completion and the law leading people to righteousness in Christ. The [Catholic bishops’ Bible notes](https://bible.usccb.org/bible/romans/10) emphasize the end of the Mosaic law as the basis for a right relationship with God, while also recognizing the goal reading and the possibility of both meanings. These are explanations of the verse, rather than a simple division in which every denomination has only one view."
+  ],
+  "god_plan_lines": [
+    "[Galatians 3:23–29](https://biblehub.com/bsb/galatians/3.htm) gives a related explanation: the law served as a guardian leading to Christ, and those who belong to Christ are heirs of the promise to Abraham. Paul connects the arrival of faith with a new standing as God’s children.",
+    "",
+    "This places the question of righteousness within the larger movement from promise to its fulfillment in Christ. The same passage joins Jews and Greeks in belonging to Him, matching the invitation to everyone who believes in Romans 10."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/10.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-ten-review.md"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "20:35-43",
+    "label": "1 Kings 20:35-43",
+    "slug": "1-kings-20-35-43"
+  },
+  "section_title": "How does a disguised prophet lead Ahab to judge his own action?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "35 Meanwhile, by the word of the LORD, one of the sons of the prophets said to his companion, “Strike me, please!” But the man refused to strike him. 36 Then the prophet said to him, “Because you have not obeyed the voice of the LORD, as soon as you depart from me a lion will kill you.” And when he left, a lion found him and killed him. 37 Then the prophet found another man and said, “Strike me, please!” So the man struck him and wounded him, 38 and the prophet went and waited on the road for the king, disguising himself with a bandage over his eyes.",
+        "39 As the king passed by, he cried out to the king: “Your servant had marched out into the middle of the battle, when suddenly a man came over with a captive and told me, ‘Guard this man! If he goes missing for any reason, your life will be exchanged for his life, or you will weigh out a talent of silver.’ 40 But while your servant was busy here and there, the man disappeared.” And the king of Israel said to him, “So shall your judgment be; you have pronounced it on yourself.” 41 Then the prophet quickly removed the bandage from his eyes, and the king of Israel recognized him as one of the prophets. 42 And the prophet said to the king, “This is what the LORD says: ‘Because you have let slip from your hand the man I had devoted to destruction, your life will be exchanged for his life, and your people for his people.’” 43 Sullen and angry, the king of Israel went home to Samaria."
+      ]
+    }
+  ],
+  "context_lines": [
+    "By the LORD’s word, a member of the prophetic company asks a companion to strike him. When the man refuses, a warning follows and he is killed by a lion. Another man does strike and wound the prophet, who disguises himself with a bandage.",
+    "",
+    "He then tells Ahab a story about losing a captive he had been ordered to guard, under a penalty of his own life or a talent of silver. Ahab pronounces judgment on the careless guard.",
+    "",
+    "The prophet removes the disguise and delivers the application: Ahab has released the man God had devoted to destruction, and his own life and people will bear the consequence. The king returns to Samaria sullen and angry."
+  ],
+  "common_interpretation_lines": [
+    "[Gill](https://biblehub.com/commentaries/gill/1_kings/20.htm) compares the story’s method with Nathan confronting David: the king first judges another person’s case, then discovers its bearing on himself. [Henry](https://biblehub.com/commentaries/mhc/1_kings/20.htm) likewise reads it as a parable designed to expose Ahab’s failure.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) connects the initial refusal and the later royal decision as acts judged by the specific command of God. The scene concerns more than whether sparing someone appears generous; the prophet identifies what Ahab was responsible to do in this case.",
+    "",
+    "The narrative gives the closing verdict without recording every earlier instruction about Ben-hadad. Its clear emphasis is that Ahab cannot treat the victory as permission to set God’s word aside."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/20.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-twenty-review.md"
+  }
+}

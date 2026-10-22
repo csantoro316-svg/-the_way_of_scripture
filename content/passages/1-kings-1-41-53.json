@@ -1,0 +1,66 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "1:41-53",
+    "label": "1 Kings 1:41-53",
+    "slug": "1-kings-1-41-53"
+  },
+  "section_title": "What becomes of Adonijah’s claim to the throne?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "41 Now Adonijah and all his guests were finishing their feast when they heard the sound of the ram’s horn. “Why is the city in such a loud uproar?” asked Joab. 42 As he was speaking, suddenly Jonathan the son of Abiathar the priest arrived. “Come in,” said Adonijah, “for you are a man of valor. You must be bringing good news.” 43 “Not at all,” Jonathan replied. “Our lord King David has made Solomon king. 44 And with Solomon, the king has sent Zadok the priest, Nathan the prophet, and Benaiah son of Jehoiada, along with the Cherethites and Pelethites, and they have set him on the king’s mule. 45 Zadok the priest and Nathan the prophet have anointed him king at Gihon, and they have gone up from there with rejoicing that rings out in the city. That is the noise you hear. 46 Moreover, Solomon has taken his seat on the royal throne. 47 The king’s servants have also gone to congratulate our lord King David, saying, ‘May your God make the name of Solomon more famous than your own name, and may He make his throne greater than your throne.’ And the king has bowed in worship on his bed, 48 saying, ‘Blessed be the LORD, the God of Israel! Today He has provided one to sit on my throne, and my eyes have seen it.’”",
+        "49 At this, all the guests of Adonijah arose in terror and scattered. 50 But Adonijah, in fear of Solomon, got up and went to take hold of the horns of the altar. 51 It was reported to Solomon: “Behold, Adonijah fears King Solomon, and he has taken hold of the horns of the altar, saying, ‘Let King Solomon first swear to me not to put his servant to the sword.’” 52 And Solomon replied, “If he is a man of character, not a single hair of his will fall to the ground. But if evil is found in him, he will die.” 53 So King Solomon summoned Adonijah down from the altar, and he came and bowed down before King Solomon, who said to him, “Go to your home.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The noise reaches Adonijah’s feast. Jonathan, Abiathar’s son, reports that David has made Solomon king. He recounts the anointing, Solomon’s place on the throne and David’s thanksgiving that he has lived to see his successor.",
+    "",
+    "Adonijah’s guests scatter in terror. Adonijah takes hold of the altar’s horns and asks Solomon to swear that he will not put him to death.",
+    "",
+    "Solomon spares him on the condition that he proves a man of character, warning that further evil will bring death. Adonijah is brought down, bows before Solomon and is sent home. The immediate contest ends with Solomon’s authority recognized."
+  ],
+  "common_interpretation_lines": [
+    "[Gill](https://biblehub.com/commentaries/gill/1_kings/1.htm) understands Adonijah’s action at the altar as seeking refuge. He notes that the text does not identify exactly which altar is meant.",
+    "",
+    "Gill reads Solomon’s answer as pardon tied to future conduct as a subject. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) understands the instruction to go home as a direction to live privately and stop interfering in the kingdom’s affairs.",
+    "",
+    "Adonijah is given his life, but not a share in the throne. His bow acknowledges the king he had tried to displace. The account records that outward submission without claiming to disclose everything in his heart."
+  ],
+  "god_plan_lines": [
+    "Solomon’s restraint raises the wider biblical theme of mercy toward people who have opposed the king. The terms of this political pardon are specific to Adonijah’s situation.",
+    "",
+    "God’s mercy in Christ goes further. [Ephesians 2:1–9](https://biblehub.com/bsb/ephesians/2.htm) describes people formerly living in disobedience being made alive with Christ because of God’s great love. Salvation is received by grace through faith as God’s gift.",
+    "",
+    "The comparison helps us recognize mercy without making the two situations identical. Solomon conditions continued safety on Adonijah’s conduct; Paul expressly says that salvation is not earned by works."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/1.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-one-review.md"
+  }
+}

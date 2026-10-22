@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "5:21-26",
+    "label": "Matthew 5:21-26",
+    "slug": "matthew-5-21-26"
+  },
+  "section_title": "Anger and Reconciliation",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "21 You have heard that it was said to the ancients, ‘Do not murder’ and ‘Anyone who murders will be subject to judgment.’ 22 But I tell you that anyone who is angry with his brother will be subject to judgment. Again, anyone who says to his brother, ‘Raca,’ will be subject to the Sanhedrin. But anyone who says, ‘You fool!’ will be subject to the fire of hell.",
+        "23 So if you are offering your gift at the altar and there remember that your brother has something against you, 24 leave your gift there before the altar. First go and be reconciled to your brother; then come and offer your gift.",
+        "25 Reconcile quickly with your adversary, while you are still on the way to court. Otherwise, he may hand you over to the judge, and the judge may hand you over to the officer, and you may be thrown into prison. 26 Truly I tell you, you will not get out until you have paid the last penny."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus now gives the first example of the righteousness He has been describing. The command against murder comes from [Exodus 20:13](https://biblehub.com/bsb/exodus/20.htm) and [Deuteronomy 5:17](https://biblehub.com/bsb/deuteronomy/5.htm). His teaching reaches into the anger and contempt that damage a relationship before any physical attack takes place.",
+    "",
+    "Raca represents an Aramaic insult. The Greek text writes it as ῥακά, *rhaka* (rah-KAH); [Thayer's Greek Lexicon](https://biblehub.com/greek/4469.htm) explains it as calling someone empty-headed. Jesus names words that treat another person with contempt and places them under the seriousness of God's judgment. The concern is the heart and speech behind the insult, as well as the violence the command forbids. The Sanhedrin is the Jewish council named in the warning; [the US Catholic bishops' note on verse 22](https://bible.usccb.org/bible/matthew/5) explains the sequence of judgments.",
+    "",
+    "This concern also appears in the earlier Law. [Leviticus 19:17–18](https://biblehub.com/bsb/leviticus/19.htm) forbids harboring hatred, seeking revenge, and bearing a grudge, and calls for love of one's neighbor. Jesus' command is rooted in God's concern for how people regard and treat one another.",
+    "",
+    "The first illustration turns the teaching into action. Someone preparing an offering remembers that a brother has a grievance against him. Jesus tells him to seek reconciliation first, then return to the offering. The direction is active: recognizing a broken relationship calls for an effort to put it right.",
+    "",
+    "The second illustration urges the same promptness through a court dispute. A person should settle with the adversary before the case reaches the judge and the consequences become unavoidable. The warning ends with the full debt still owed. It presses the hearer to act while reconciliation remains possible."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand this passage as condemning destructive anger and contempt, and as making reconciliation a matter of obedience to God. [Wesley's notes on Matthew 5:22–24](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) emphasize both the treatment of the other person and the importance of putting the relationship right before bringing an offering.",
+    "",
+    "The court illustration has been read in different ways. [Baptist commentator John Gill on Matthew 5:25–26](https://biblehub.com/commentaries/gill/matthew/5.htm) takes it as practical counsel to settle a debt dispute before the case goes to court, rather than reading it as a detailed picture of God's judgment. [Wesley on the same verses](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) understands the warning to include the prospect of God's judgment and a debt the sinner cannot finally discharge. Both readings call for a prompt response; they differ over how directly the courtroom picture describes final judgment."
+  ],
+  "god_plan_lines": [
+    "Reconciliation belongs to God's saving work as well as to the conduct Jesus requires. [2 Corinthians 5:17–21](https://biblehub.com/bsb/2_corinthians/5.htm) describes God reconciling people to Himself through Christ and giving them a message of reconciliation. The peace God brings is meant to shape the relationships of the people He makes new.",
+    "",
+    "[Ephesians 4:29–32](https://biblehub.com/bsb/ephesians/4.htm) connects changed speech, the removal of bitterness, and kindness with the forgiveness God has given in Christ. [1 John 3:11–18](https://biblehub.com/bsb/1_john/3.htm) likewise moves from condemning hatred to Jesus laying down His life and His followers showing love in action. These passages show the wider purpose: God's rescue forms people whose words and actions protect one another rather than express contempt."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/5.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-anger-and-lust-review.md"
+  }
+}

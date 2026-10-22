@@ -1,0 +1,13 @@
+# John 12:20–36 live
+
+Two pages explain the seed and much fruit, costly discipleship, Jesus' coming hour and victory through the cross. Primary sources fairly describe different readings of the Greek visitors and the drawing of people to Christ. Romans5andColossians2give supported big-picture connections. Both positions remain open.
+
+[Evidence](../testing/2026-10-19-john-twelve-cross-review.md). Fresh BSB, eight tests,zero errors /327warnings,preservation/coverage/navigation/idempotence,390pxreader/standalone/actualNext,Hostingdryrun/deployment and six matching livefilespassed.
+
+John:73reviewedpages /571actualBSBverses /73plans /28studypositions /45open;82sources /9unreviewedlegacyreferences. Continue12:37–43/44–50. WholePDFthrough437read(13lesson425–437);438onwardunread. Closingdata/writerprepared/tmp/john-twelve-closing-data.py and/tmp/draft-john-twelve-closing.py,notrunyet/source-snapshotsnotcaptured.
+
+Currentclosingprimaryresearchactuallyread:fullBSB12now;Isa6whole/Isa53:1–3/Acts28:23–28/Rom11:1–6;WesleywholeXII;USCCB12notes37–50/38–41/41;Calvin38/39/40relevantexcerpts,39remainderread,41full,42first4200characters,44/45/46/47/48/49relevantexcerpts,50full. Aninitialbroadoutputtruncatedpartsof42/44—specific42readingrecoveredfirst4200only;don'tclaimall. WCF5.6directlyread:God'sjudicialhardeningforformersinsandpeoplehardenthemselves. Calvin39andWesley39bothaffirmjudgmentonpersistentunbelief;don'tinventafalsecontrast. USCCBnoteaffirmspropheticfulfillmentwithoutnegatingfreeresponse. Calvin42describesrealbutweakfaith/publicconfessionfailure,notblanketdenialallbelievers42werefalse. Noexistingstudyspecificposition;allremainopen.
+
+For12hardeningplanActs28andRomans11supplyactualNTconnectionswithoutbaselinefullcovenantnationalclock. NoGodabandonedallIsrael/notoneJewbelieved;42explicitmanyleadersbelieve. Noexactlaterfateforindividuals.NohistoricalanatomicTempleexplanationneeded. For44–50baseline425–428read;noexactnewday/templelocationbecauseJohntextdoesn'tstateit. PubliccanfollowWesley'ssummaryreadingwithoutfixedchronology.
+
+NextJohn13baseline425–437readsofar. ExcludeexactWednesdayApril21AD34,alllocalfamilies10persons,mealfinishedbeforetwilight,JesuschangedPassovercalendar/ateearlylambnotfulfillingLaw,allunbelieversnecessarilypossessed,allPeterprotestsecretselfpromotion,oruniversalritualwashing/baptismverdict. VerifyprimarytraditionreadingsandactualExodus12ifneeded;ownerpositionnotoriginated.

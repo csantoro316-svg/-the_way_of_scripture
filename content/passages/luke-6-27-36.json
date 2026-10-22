@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "6:27-36",
+    "label": "Luke 6:27-36",
+    "slug": "luke-6-27-36"
+  },
+  "section_title": "What does it mean to love people who mistreat us?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "27 But to those of you who will listen, I say: Love your enemies, do good to those who hate you, 28 bless those who curse you, pray for those who mistreat you. 29 If someone strikes you on one cheek, turn to him the other also. And if someone takes your cloak, do not withhold your tunic as well. 30 Give to everyone who asks you, and if anyone takes what is yours, do not demand it back. 31 Do to others as you would have them do to you.",
+        "32 If you love those who love you, what credit is that to you? Even sinners love those who love them. 33 If you do good to those who do good to you, what credit is that to you? Even sinners do the same. 34 And if you lend to those from whom you expect repayment, what credit is that to you? Even sinners lend to sinners, expecting to be repaid in full. 35 But love your enemies, do good to them, and lend to them, expecting nothing in return. Then your reward will be great, and you will be sons of the Most High; for He is kind to the ungrateful and wicked. 36 Be merciful, just as your Father is merciful."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After speaking about rejection because of the Son of Man, Jesus tells His hearers how to respond to enemies. Love is expressed in action: doing good, blessing, praying and giving. His examples concern people who cause harm or take advantage, making the instruction demanding and concrete.",
+    "",
+    "The direction to treat others as we would want to be treated applies even when they have treated us badly. Jesus then asks what distinguishes His followers if they love, help or lend only when they expect the same in return.",
+    "",
+    "The Father’s kindness supplies the reason for a different response. He is kind to the ungrateful and wicked, and His children are to show the family likeness through mercy. The passage reaches its summary in the call to be merciful as their Father is merciful."
+  ],
+  "common_interpretation_lines": [
+    "Christian traditions commonly call for love of enemies, prayer for those who mistreat us and the surrender of personal revenge. They differ over what that requires when violence and protection of others are involved.",
+    "",
+    "The Catholic Church permits proportionate defense and teaches that protecting someone entrusted to one’s care can be a duty. Reformed teaching in the Westminster Confession permits a public role for Christians in restraining wrongdoing, including force on just and necessary occasions. These readings distinguish personal vengeance from protective or public responsibility. ([Catechism 2263–2265](https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_two/article_5/i_respect_for_human_life.html); [Westminster Confession 23.1–2](https://www.opc.org/wcf.html))",
+    "",
+    "Mennonite Church USA’s confession instead calls believers to resist evil without violence, including in the face of warfare, and rejects military participation. Its position also opposes abuse and injustice and calls for active peacemaking. This reading understands nonviolence as a way of pursuing justice and reconciliation. ([Confession of Faith, article 22](https://www.mennoniteusa.org/who-are-mennonites/what-we-believe/confession-of-faith/peace-justice-and-nonresistance/))"
+  ],
+  "god_plan_lines": [
+    "Paul explains God’s mercy through Christ’s death for people who were still sinners and enemies. The love Jesus commands reflects the love through which God brings enemies into reconciliation with Himself. The cross gives the larger saving setting for the Father’s kindness described here. ([Romans 5:6–11](https://biblehub.com/bsb/romans/5.htm))",
+    "",
+    "Romans also carries this teaching into the life of believers: bless persecutors, give food and drink to an enemy in need, leave vengeance with God, and overcome evil with good. Mercy becomes a visible response to the mercy already received. ([Romans 12:14–21](https://biblehub.com/bsb/romans/12.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/6.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-six-closing-review.md"
+  }
+}

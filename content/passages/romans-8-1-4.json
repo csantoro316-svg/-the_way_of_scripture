@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "8:1-4",
+    "label": "Romans 8:1-4",
+    "slug": "romans-8-1-4"
+  },
+  "section_title": "What has God done that the law could not do?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Therefore, there is now no condemnation for those who are in Christ Jesus. 2 For in Christ Jesus the law of the Spirit of life set you free from the law of sin and death. 3 For what the law was powerless to do in that it was weakened by the flesh, God did by sending His own Son in the likeness of sinful man, as an offering for sin. He thus condemned sin in the flesh, 4 so that the righteous standard of the law might be fulfilled in us, who do not walk according to the flesh but according to the Spirit."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul moves from the cry for rescue in chapter 7 to the announcement that there is now no condemnation for those in Christ Jesus. The answer is found in belonging to Him, not in finally producing a flawless record through one’s own strength.",
+    "",
+    "The Spirit’s life in Christ brings freedom from the rule of sin and death. The law could identify what was right but could not overcome the weakness of sinful human nature. God acts by sending His own Son as an offering for sin and condemning sin in His flesh.",
+    "",
+    "The purpose includes a changed life: the righteous standard of the law is fulfilled in people who walk according to the Spirit. Paul places release from condemnation beside the Spirit’s work in the way people live. The gift does not make God’s concern for righteousness disappear."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand these verses as a strong assurance centered on Christ and the Spirit, joined to a call to new life. The law’s inability to rescue does not mean it is evil; God supplies through His Son and Spirit what sinful people cannot achieve by knowing the command alone."
+  ],
+  "god_plan_lines": [
+    "[Ezekiel 36:25–27](https://biblehub.com/bsb/ezekiel/36.htm) promises cleansing, a new heart and God’s Spirit within His people, causing them to walk in His ways. That promise provides a wider scriptural setting for the life Paul describes: God brings the inward renewal that makes obedience possible. This is a connection in the theme of God-given renewal, rather than a claim that Paul directly quotes Ezekiel here."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/8.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-eight-opening-review.md"
+  }
+}

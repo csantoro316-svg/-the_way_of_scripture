@@ -5,25 +5,62 @@
     "label": "Exodus 15:22-27",
     "slug": "exodus-15-22-27"
   },
-  "section_title": "The Waters of Marah",
+  "section_title": "What were the people learning at the bitter water?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "22 Then Moses led Israel from the Red Sea, and they went out into the Desert of Shur. For three days they walked in the desert without finding water. 23 And when they came to Marah, they could not drink the water there because it was bitter. (That is why it was named Marah.)",
-        "24 So the people grumbled against Moses, saying, \u201cWhat are we to drink?\u201d 25 And Moses cried out to the LORD, and the LORD showed him a log. And when he cast it into the waters, they were sweetened.",
-        "There the LORD made for them a statute and an ordinance, and there He tested them, 26 saying, \u201cIf you will listen carefully to the voice of the LORD your God, and do what is right in His eyes, and pay attention to His commands, and keep all His statutes, then I will not bring on you any of the diseases I inflicted on the Egyptians. For I am the LORD who heals you.\u201d",
+        "22 Then Moses led Israel from the Red Sea, and they went out into the Desert of Shur. For three days they walked in the desert without finding water. 23 And when they came to Marah, they could not drink the water there because it was bitter. (That is why it was named Marah.) 24 So the people grumbled against Moses, saying, “What are we to drink?” 25 And Moses cried out to the LORD, and the LORD showed him a log. And when he cast it into the waters, they were sweetened. There the LORD made for them a statute and an ordinance, and there He tested them, 26 saying, “If you will listen carefully to the voice of the LORD your God, and do what is right in His eyes, and pay attention to His commands, and keep all His statutes, then I will not bring on you any of the diseases I inflicted on the Egyptians. For I am the LORD who heals you.”",
         "27 Then they came to Elim, where there were twelve springs of water and seventy palm trees, and they camped there by the waters."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 15**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "Three days after leaving the sea, Israel has found no water. The first water they reach is bitter and undrinkable, giving Marah its name. Their question to Moses comes as a complaint, and Moses brings the need to the LORD. God shows him a log; when he throws it into the water, it becomes drinkable.",
+    "",
+    "The account joins this provision to a test. God calls the people to listen carefully, do what is right in His eyes and keep His commands. He promises that, if they listen, He will not bring on them the diseases He inflicted on Egypt. The people who have seen His power against their oppressors now need to learn to live under His direction.",
+    "",
+    "The Hebrew verb רָפָא, *rapha* (rah-FAH), means to heal. [Brown–Driver–Briggs](https://biblehub.com/hebrew/7495.htm) includes both bodily healing and the restoration of a people in its range of uses. Here the LORD identifies Himself as Israel’s healer while supplying water and explaining how they are to live before Him.",
+    "",
+    "The next stop, Elim, has twelve springs and seventy palm trees. They camp beside the water. The passage moves from undrinkable water to water made sweet, and then to a place where they can rest with a plentiful supply. Rescue from Egypt has begun a journey in which dependence on God must be learned in daily needs."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Waters of Marah** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Calvin](https://biblehub.com/commentaries/calvin/exodus/15.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) read the incident as God meeting Israel’s need while teaching obedience. Both connect the warning about disease with the judgments the people have just seen in Egypt.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 15** remains the first control on meaning."
+    "The role of the wood is explained in different ways. Calvin thinks it may have had a natural property that God made effective beyond its ordinary power. Wesley leaves open whether the wood had such a property or served as a sign of God’s action. The account names God’s direction and the changed water without identifying the kind of wood.",
+    "",
+    "The Baptist teacher [John Gill](https://biblehub.com/commentaries/gill/exodus/15.htm) also offers a spiritual comparison: as the wood sweetens bitter water, Christ brings comfort amid His people’s bitter afflictions. This is a devotional application he draws from the event, rather than an explicit New Testament identification of the log with the cross."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "God’s provision in the wilderness is part of teaching His people to depend on Him. [Deuteronomy 8:1–5](https://biblehub.com/bsb/deuteronomy/8.htm) later describes the wilderness years as a time of humbling, testing and learning to live by God’s word. It compares His discipline to a father’s care for his son. That wider explanation helps place Marah within the journey from being rescued to learning to follow.",
+    "",
+    "[James 1:2–5](https://biblehub.com/bsb/james/1.htm) develops the same theme for believers facing trials: tested faith produces perseverance, and those needing wisdom can ask God. The parallel concerns what trials can teach and how people turn to God within them. The particular promise about Egypt’s diseases belongs to the words God gives Israel here."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/15.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-fifteen-review.md"
+  }
 }

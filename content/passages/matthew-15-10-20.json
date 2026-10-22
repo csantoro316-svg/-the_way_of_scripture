@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "15:10-20",
+    "label": "Matthew 15:10-20",
+    "slug": "matthew-15-10-20"
+  },
+  "section_title": "What Makes a Person Unclean?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 Jesus called the crowd to Him and said, “Listen and understand. 11 A man is not defiled by what enters his mouth, but by what comes out of it.”",
+        "12 Then the disciples came to Him and said, “Are You aware that the Pharisees were offended when they heard this?” 13 But Jesus replied, “Every plant that My heavenly Father has not planted will be pulled up by its roots. 14 Disregard them! They are blind guides. If a blind man leads a blind man, both will fall into a pit.”",
+        "15 Peter said to Him, “Explain this parable to us.” 16 “Do you still not understand?” Jesus asked. 17 “Do you not yet realize that whatever enters the mouth goes into the stomach and then is eliminated?",
+        "18 But the things that come out of the mouth come from the heart, and these things defile a man. 19 For out of the heart come evil thoughts, murder, adultery, sexual immorality, theft, false testimony, and slander. 20 These are what defile a man, but eating with unwashed hands does not defile him.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus calls the crowd to listen and says that what comes out of the mouth defiles a person. The disciples report that the Pharisees are offended. Jesus responds with pictures of an uprooted plant and blind guides, warning against following guidance that leads people into danger.",
+    "",
+    "Peter asks for an explanation. Jesus contrasts the ordinary path of food through the body with words and actions that come from the heart. He names evil thoughts, murder, adultery, sexual immorality, theft, false testimony, and slander. The problem He exposes is moral corruption within a person.",
+    "",
+    "The verb for defile is κοινόω, *koinoō* (koy-NOH-oh), to make unclean or profane. [Thayer's entry](https://biblehub.com/greek/2840.htm) includes these verses. The discussion begins with unwashed hands, but Jesus uses the language of uncleanness to bring the hearers face to face with the evil expressed in their lives.",
+    "",
+    "He closes by returning to the original complaint: eating with unwashed hands does not defile someone. [Mark 7:17–23](https://biblehub.com/bsb/mark/7.htm) gives the related explanation and its implications for food. In Matthew, the list of harmful thoughts and deeds makes clear why outward religious practices cannot substitute for a changed heart."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as teaching that moral uncleanness comes from the heart and appears in a person's thoughts, words, and deeds. [Wesley on Matthew 15:19](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) follows that movement from evil thoughts into the sins Jesus lists. The [US Catholic bishops' note on 15:1–20](https://bible.usccb.org/bible/matthew/15) likewise emphasizes the inner source of defilement and the return to the handwashing question. The warning calls people to examine their lives more deeply than outward observance alone."
+  ],
+  "god_plan_lines": [
+    "God's promise of cleansing reaches the heart. In [Ezekiel 36:22–28](https://biblehub.com/bsb/ezekiel/36.htm), He promises Israel cleansing, a new heart, and His Spirit enabling obedience. That is a related promise of God addressing what His people cannot repair merely by maintaining appearances.",
+    "",
+    "[James 1:21–25](https://biblehub.com/bsb/james/1.htm) calls people to receive the planted word and put it into practice. God's renewing work is meant to shape what a person does. The larger biblical answer to the heart's corruption includes both His gift of renewal and the life of obedience that grows from it."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/15.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-fifteen-review.md"
+  }
+}

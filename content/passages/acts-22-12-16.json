@@ -1,0 +1,69 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "22:12-16",
+    "label": "Acts 22:12-16",
+    "slug": "acts-22-12-16"
+  },
+  "section_title": "What does Ananias call Paul to receive and do?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "12 There a man named Ananias, a devout observer of the law who was highly regarded by all the Jews living there, 13 came and stood beside me. ‘Brother Saul,’ he said, ‘receive your sight.’ And at that moment I could see him. 14 Then he said, ‘The God of our fathers has appointed you to know His will and to see the Righteous One and to hear His voice. 15 You will be His witness to everyone of what you have seen and heard. 16 And now what are you waiting for? Get up, be baptized, and wash your sins away, calling on His name.’"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul describes Ananias as a devout observer of the law, respected by the Jewish people living in Damascus. This helps his Jerusalem hearers understand that the person who received him was not presented as an enemy of their people. Ananias addresses him as a brother, and his sight returns.",
+    "",
+    "Ananias tells him that the God of their fathers has appointed him to know His will, see the Righteous One and hear His voice. Paul is to witness to what he has seen and heard. The response now urged is immediate: be baptized, wash away sins and call on His name.",
+    "",
+    "The washing word is **ἀπολούω** (*apolouō*, ah-poh-LOO-oh), to wash off or away. [Thayer’s entry](https://biblehub.com/greek/628.htm) identifies the figurative cleansing from sins in this verse. Restored eyesight is not the whole change being described; the language concerns Paul’s standing before God and the life he is now called to live."
+  ],
+  "common_interpretation_lines": [
+    "Christians agree that Ananias calls Paul to be baptized and to call on the Lord. They differ over how baptism’s washing relates to forgiveness and faith.",
+    "",
+    "The Catholic Church’s [Catechism 1213](https://www.vatican.va/archive/ENG0015/__P3G.HTM) teaches that through baptism God frees people from sin and gives new life. The Lutheran [Large Catechism, Baptism 14–17, 28–31 and 41](https://bookofconcord.cph.org/en/large-catechism/part_4/), likewise presents forgiveness as a gift brought in baptism. It joins the water with God’s word and promise, received through faith, rather than attributing the gift to water’s natural qualities.",
+    "",
+    "The Reformed [Westminster Confession 28:5–6](https://www.opc.org/wcf.html) says the Holy Spirit truly gives the promised grace to those for whom it is intended, in God’s appointed time. It rejects both the claim that salvation is impossible without baptism and the claim that every baptized person has certainly received new life. It also says baptism’s effect is not tied to the precise moment of the ceremony.",
+    "",
+    "The Reformed Baptist [1689 Confession 29:1–2](https://www.the1689confession.com/1689/chapter-29) describes baptism as a sign of fellowship with Christ in His death and resurrection, forgiveness of sins and a new life given to God. It expressly cites Acts 22:16 and identifies those who profess repentance and faith as its recipients.",
+    "",
+    "The Methodist [Articles XVI–XVII](https://www.umc.org/en/content/articles-of-religion) describe the sacraments as signs through which God works and baptism as a sign of the new life He gives. [Wesley’s note on verse 16](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) describes baptism for people who have truly turned to God as both a means and a seal of pardon. That is his explanation of the verse; the Articles do not prescribe every detail of one reading of its grammar."
+  ],
+  "god_plan_lines": [
+    "[Titus 3:4–7](https://biblehub.com/bsb/titus/3.htm) connects salvation with God’s kindness, mercy, washing and renewal by the Holy Spirit, leading to the hope of eternal life. The cleansing language belongs within that larger work of God, rather than being detached as a human achievement that earns His favor.",
+    "",
+    "Paul is being prepared to witness to what he has seen and heard. Restored sight and cleansing lead into a changed life of service. [1 Timothy 1:12–16](https://biblehub.com/bsb/1_timothy/1.htm) later holds up the mercy shown to this former persecutor as an example of Christ’s patience toward those who will believe."
+  ],
+  "current_position_lines": [
+    "Baptism directly discusses Acts 22:16. The study distinguishes forgiveness received through faith from the washing of the believer in baptism, and joins that washing with calling on Jesus’ name. It therefore treats baptism as a commanded response of genuine faith, not as water acting independently of faith or the Lord."
+  ],
+  "deeper_study": [
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/22.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twenty-two-review.md",
+    "position_source_detail": "Baptism: III.2 The Washing Away of Sins, direct Acts22:16; genuine faith/calling and washing distinguished from forgiveness."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "12:7-14",
+    "label": "2 Samuel 12:7-14",
+    "slug": "2-samuel-12-7-14"
+  },
+  "section_title": "What happens when Nathan names David’s wrongdoing?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 Then Nathan said to David, “You are that man! This is what the LORD, the God of Israel, says: ‘I anointed you king over Israel, and I delivered you from the hand of Saul. 8 I gave your master’s house to you and your master’s wives into your arms. I gave you the house of Israel and Judah, and if that was not enough, I would have given you even more. 9 Why then have you despised the command of the LORD by doing evil in His sight? You put Uriah the Hittite to the sword and took his wife as your own. You have slain him with the sword of the Ammonites. 10 Now, therefore, the sword will never depart from your house, because you have despised Me and have taken the wife of Uriah the Hittite to be your own.’",
+        "11 This is what the LORD says: ‘I will raise up adversity against you from your own house. Before your very eyes I will take your wives and give them to another, and he will lie with them in broad daylight. 12 You have acted in secret, but I will do this thing in broad daylight before all Israel.’” 13 Then David said to Nathan, “I have sinned against the LORD.” “The LORD has taken away your sin,” Nathan replied. “You will not die. 14 Nevertheless, because by this deed you have shown utter contempt for the word of the LORD, the son born to you will surely die.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Nathan identifies David as the man. He speaks the LORD’s reminder of what David has received: kingship, rescue from Saul and rule over Israel and Judah. David has despised God’s command by killing Uriah through the Ammonites and taking his wife.",
+    "",
+    "The announced consequences reach David’s household. Violence will remain within it, and wrongdoing he tried to hide will be answered by public calamity. David confesses that he has sinned against the LORD. Nathan announces that God has taken away his sin and that David will not die, then says that the child will die.",
+    "",
+    "Forgiveness and the announced consequences appear together. The text does not describe the child’s death as a payment David must make to obtain forgiveness; Nathan has already announced that his sin has been taken away."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/12.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) emphasize David’s confession without an attempt to excuse himself. They also distinguish pardon from the painful consequences that follow. Being forgiven does not make Uriah’s death or the harm to the household disappear.",
+    "",
+    "The reference to Saul’s wives has prompted questions about what David received. [Gill](https://biblehub.com/commentaries/gill/2_samuel/12.htm) understands it as their being placed under David’s authority, noting that the narrative does not describe him marrying Saul’s wives. The BSB retains the word wives. The statement concerns the abundance given to David and exposes how little excuse he had for taking Uriah’s wife."
+  ],
+  "god_plan_lines": [
+    "The need to confess rather than conceal sin continues in [1 John 1:8–10](https://biblehub.com/bsb/1_john/1.htm). God calls people into truth about themselves and promises forgiveness and cleansing, rather than inviting them to maintain an appearance of innocence.",
+    "",
+    "[1 John 2:1–2](https://biblehub.com/bsb/1_john/2.htm) identifies Jesus Christ as the advocate before the Father and the atoning sacrifice for sins. That gives the larger story its saving center: our hope for forgiveness rests in Christ.",
+    "",
+    "This is a connection through the biblical theme of confession and mercy, not a claim that John directly explains Nathan’s visit. David’s child is not assigned Jesus’ saving role. The account’s painful consequences should not obscure where the New Testament places the work that brings forgiveness."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/12.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-twelve-review.md"
+  }
+}

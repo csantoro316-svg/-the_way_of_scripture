@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Colossians",
+    "citation": "1:15-20",
+    "label": "Colossians 1:15-20",
+    "slug": "colossians-1-15-20"
+  },
+  "section_title": "Why is Christ at the center of creation and reconciliation?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 The Son is the image of the invisible God, the firstborn over all creation. 16 For in Him all things were created, things in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities. All things were created through Him and for Him. 17 He is before all things, and in Him all things hold together.",
+        "18 And He is the head of the body, the church; He is the beginning and firstborn from among the dead, so that in all things He may have preeminence. 19 For God was pleased to have all His fullness dwell in Him, 20 and through Him to reconcile to Himself all things, whether things on earth or things in heaven, by making peace through the blood of His cross."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul has just described rescue into the kingdom of God’s beloved Son. He now turns to who the Son is: the image of the invisible God, before all things, the One through whom and for whom all things were created.",
+    "",
+    "The word firstborn is prototokos (proh-TOH-toh-koss). [Thayer’s lexicon](https://biblehub.com/greek/4416.htm) discusses both birth priority and uses associated with supreme rank. The title needs its context. Here the following verses place all created things in relation to the Son as their creator, goal and sustainer. In [Psalm 89:24–29](https://biblehub.com/bsb/psalms/89.htm), God also uses firstborn for the exalted position He gives His appointed king.",
+    "",
+    "The paragraph then names Christ as the head of the church and firstborn from the dead. Creation and the church are held together under His preeminence. The fullness dwells in Him, and peace comes through the blood of His cross.",
+    "",
+    "The scope extends to things on earth and in heaven. Paul immediately brings this vast account of reconciliation into the Colossians’ own story in the following verses: they too were alienated and have been reconciled through Christ’s death."
+  ],
+  "common_interpretation_lines": [
+    "The major historic Catholic, Reformed and Wesleyan traditions share the reading that the Son is truly God, before creation, rather than one created being among others. Their own statements include the Catholic [Catechism, paragraphs 464–469](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/artcile_3.html), the [Westminster Confession, chapter 8](https://www.opc.org/wcf.html), and the Methodist [Articles of Religion, article II](https://www.umc.org/en/content/articles-of-religion). Within that shared reading, this paragraph declares Christ’s supremacy and His work of reconciliation through the cross."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 1:9–10](https://biblehub.com/bsb/ephesians/1.htm) describes God’s purpose to bring all things in heaven and on earth together in Christ. It is a close parallel to the scope named here: God’s purpose reaches the creation, with Christ at its center.",
+    "",
+    "[1 Corinthians 15:20–28](https://biblehub.com/bsb/1_corinthians/15.htm) connects Christ’s resurrection with the resurrection of His people, His reign and the defeat of death. The One called firstborn from the dead leads His people into that promised life. Creation’s Lord is also the Lord who brings God’s restoring purpose to its goal."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/colossians/1.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-colossians-one-opening-review.md"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "27:3-10",
+    "label": "Matthew 27:3-10",
+    "slug": "matthew-27-3-10"
+  },
+  "section_title": "Judas Returns the Silver, and the Potter’s Field Is Bought",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "3 When Judas, who had betrayed Him, saw that Jesus was condemned, he was filled with remorse and returned the thirty pieces of silver to the chief priests and elders. 4 “I have sinned by betraying innocent blood,” he said. “What is that to us?” they replied. “You bear the responsibility.” 5 So Judas threw the silver into the temple and left. Then he went away and hanged himself.",
+        "6 The chief priests picked up the pieces of silver and said, “It is unlawful to put this into the treasury, since it is blood money.” 7 After conferring together, they used the money to buy the potter’s field as a burial place for foreigners. 8 That is why it has been called the Field of Blood to this day.",
+        "9 Then what was spoken through Jeremiah the prophet was fulfilled: “They took the thirty pieces of silver, the price set on Him by the people of Israel, 10 and they gave them for the potter’s field, as the Lord had commanded me.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "When Judas sees that Jesus has been condemned, he returns the thirty pieces of silver and acknowledges that he has sinned by betraying innocent blood. The chief priests and elders refuse responsibility. He throws the money into the temple, leaves, and takes his own life.",
+    "",
+    "The word translated filled with remorse comes from μεταμέλομαι, *metamelomai* (meh-tah-MEH-loh-my), to regret or change one's mind afterward. [Thayer's entry](https://biblehub.com/greek/3338.htm) includes this verse as well as Matthew 21:29 and 32, where a change of mind can lead to a right response. It cautions against an absolute word-based division between emotional regret and real repentance. Judas' response must therefore be understood from the account as a whole, rather than decided by the Greek word alone.",
+    "",
+    "The chief priests call the money blood money and say it cannot go into the treasury. They use it to buy a potter's field for burying foreigners, which Matthew says became known as the Field of Blood. Their concern about the money's proper use stands beside Judas' acknowledgment that an innocent man has been betrayed.",
+    "",
+    "Matthew explicitly relates the silver and field to prophetic fulfillment, naming Jeremiah. The thirty pieces and silver thrown in the temple closely recall [Zechariah 11:12–13](https://biblehub.com/bsb/zechariah/11.htm). The naming of Jeremiah requires explanation; it should neither be silently changed to Zechariah nor passed over as though the wording raised no question."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly see both the tragedy of Judas' guilt and the leaders' refusal to face their own wrongdoing. [Calvin on 27:3](https://biblehub.com/commentaries/calvin/matthew/27.htm) distinguishes Judas' distress from a return to God, while [Wesley on 27:4–7](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) emphasizes the contrast between the leaders' concern about the treasury and their treatment of innocent blood.",
+    "",
+    "Readers differ over the reference to Jeremiah. The [US Catholic bishops' note on 27:9–10](https://bible.usccb.org/bible/matthew/27) describes an explanation in which Matthew combines Zechariah's silver with Jeremiah's potter, field, and burial-place passages. [Calvin on 27:9](https://biblehub.com/commentaries/calvin/matthew/27.htm) instead thought Jeremiah's name had been written by mistake in place of Zechariah's. These are explanations offered by particular sources; the text quoted above retains Jeremiah as the BSB gives it.",
+    "",
+    "Readers also compare Matthew's hanging and the priests' purchase of the field with the fatal fall and Judas' acquisition of a field in [Acts 1:18–19](https://biblehub.com/bsb/acts/1.htm). [Walvoord on 27:3–10](https://walvoord.com/article/221) treats Acts as adding details to the death Matthew describes; the [US Catholic bishops' note on 27:5–8](https://bible.usccb.org/bible/matthew/27) treats them as different traditions about his death. Neither account states that a rope broke, so that familiar reconstruction should be recognized as a proposed way of joining the accounts rather than a recorded event."
+  ],
+  "god_plan_lines": [
+    "The connection to the prophets brings Jesus' rejection into a larger pattern of refusing God's shepherding care. [Zechariah 11:10–13](https://biblehub.com/bsb/zechariah/11.htm) portrays the shepherd's work met with a contemptuous payment, while [Jeremiah 19:1–13](https://biblehub.com/bsb/jeremiah/19.htm) joins a potter's vessel, innocent blood, judgment, and burial. These provide supported connections, rather than a reason to make every detail of Judas' story a prediction with only one possible explanation.",
+    "",
+    "[Acts 1:15–20](https://biblehub.com/bsb/acts/1.htm) also relates Judas, the field, and the loss of his place among the apostles to Scripture. The disciples must face the betrayal within their own circle as they prepare to continue the work entrusted to them. Human failure is taken seriously without making it the end of God's mission."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/27.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-seven-opening-review.md"
+  }
+}

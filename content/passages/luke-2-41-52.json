@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "2:41-52",
+    "label": "Luke 2:41-52",
+    "slug": "luke-2-41-52"
+  },
+  "section_title": "What does Jesus reveal about His Father?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "41 Every year His parents went to Jerusalem for the Feast of the Passover. 42 And when He was twelve years old, they went up according to the custom of the Feast. 43 When those days were over and they were returning home, the boy Jesus remained behind in Jerusalem, but His parents were unaware He had stayed. 44 Assuming He was in their company, they traveled on for a day before they began to look for Him among their relatives and friends. 45 When they could not find Him, they returned to Jerusalem to search for Him.",
+        "46 Finally, after three days they found Him in the temple courts, sitting among the teachers, listening to them and asking them questions. 47 And all who heard Him were astounded at His understanding and His answers. 48 When His parents saw Him, they were astonished. “Child, why have You done this to us?” His mother asked. “Your father and I have been anxiously searching for You.” 49 “Why were you looking for Me?” He asked. “Did you not know that I had to be in My Father’s house?” 50 But they did not understand the statement He was making to them.",
+        "51 Then He went down to Nazareth with them and was obedient to them. But His mother treasured up all these things in her heart. 52 And Jesus grew in wisdom and stature, and in favor with God and man."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus’ parents go to Jerusalem each year for Passover. When He is twelve, He stays behind as their traveling company leaves. His parents assume He is with the group, search among relatives and friends, and return to Jerusalem when they cannot find Him.",
+    "",
+    "After three days they find Him among the teachers in the temple courts, listening and asking questions. Those who hear Him are amazed at His understanding and answers. Luke describes His exceptional understanding without giving the teachers’ names or saying that every question is a test meant to expose them.",
+    "",
+    "Mary speaks of their anxious search. Jesus answers by pointing to His Father’s house. The BSB footnote also allows the sense of being about His Father’s business. His special relationship and obligation to His Father are central in either wording. ([BSB footnote to verse 49](https://biblehub.com/bsb/luke/2.htm))",
+    "",
+    "His parents do not understand the statement. He nevertheless goes home with them and remains obedient, while Mary keeps these things in her heart. Luke closes by recording growth in wisdom, stature, and favor. The claim about His Father stands alongside genuine human growth and family life."
+  ],
+  "common_interpretation_lines": [
+    "Christian traditions commonly understand this scene as revealing Jesus’ unique relationship with His Father while affirming His real humanity and obedience at home. Catholic teaching explicitly connects His growth with genuine human knowledge and experience, and the Reformed confession likewise affirms that the eternal Son takes a complete human nature without ceasing to be God. ([Catechism 472–474](https://www.vatican.va/archive/ENG0015/__P1J.HTM); [Catechism 531–534](https://www.vatican.va/archive/ENG0015/__P1L.HTM); [Westminster 8.2](https://www.opc.org/wcf.html))"
+  ],
+  "god_plan_lines": [
+    "Jesus’ relationship to His Father’s house continues in His adult ministry. John records Him calling the temple His Father’s house, then speaking of His own body as the temple that will be raised after death. That later account explicitly connects His words with resurrection and the disciples’ growing understanding. The childhood scene introduces a relationship and purpose that will unfold through the rest of His life. ([John 2:13–22](https://biblehub.com/bsb/john/2.htm))",
+    "",
+    "His true humanity also belongs to His work as the Son who helps His people. Hebrews describes Him as a high priest able to sympathize with human weakness, yet without sin, and calls believers to approach God confidently for mercy and help. The Gospel’s account of His human life helps us understand the Savior who knows the life of those He serves. ([Hebrews 4:14–16](https://biblehub.com/bsb/hebrews/4.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-two-closing-review.md"
+  }
+}

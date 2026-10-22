@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "7:1-8",
+    "label": "Acts 7:1-8",
+    "slug": "acts-7-1-8"
+  },
+  "section_title": "Why does Stephen begin his answer with Abraham?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Then the high priest asked Stephen, “Are these charges true?” 2 And Stephen declared: “Brothers and fathers, listen to me! The God of glory appeared to our father Abraham while he was still in Mesopotamia, before he lived in Haran, 3 and told him, ‘Leave your country and your kindred and go to the land I will show you.’ 4 So Abraham left the land of the Chaldeans and settled in Haran. After his father died, God brought him out of that place and into this land where you are now living. 5 He gave him no inheritance here, not even a foot of ground. But God promised to give possession of the land to Abraham and his descendants, even though he did not yet have a child.",
+        "6 God told him that his descendants would be foreigners in a strange land, and that they would be enslaved and mistreated four hundred years. 7 ‘But I will punish the nation that enslaves them,’ God said, ‘and afterward they will come forth and worship Me in this place.’ 8 Then God gave Abraham the covenant of circumcision, and Abraham became the father of Isaac and circumcised him on the eighth day. And Isaac became the father of Jacob, and Jacob of the twelve patriarchs."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The high priest asks whether the charges against Stephen are true. Stephen answers by recounting God’s dealings with Israel, beginning with Abraham. He addresses the council respectfully and speaks of the God of glory who took the initiative to call their father.",
+    "",
+    "God’s appearance comes in Mesopotamia, before Abraham settles in Haran or enters the promised land. The promise of land and descendants comes before Abraham has a child, and its fulfillment is still ahead. Stephen’s opening makes God’s work larger than one location or one moment in Israel’s history.",
+    "",
+    "The account includes the promised descendants’ suffering, God’s judgment of their oppressor, their future worship, and the covenant of circumcision. Isaac, Jacob and the twelve patriarchs belong to the story of God keeping His word through generations."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the opening as a respectful account of God’s promises that also prepares Stephen’s answer about the temple and the law. [Wesley’s discussion of verse 2](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) emphasizes the sequence: God was at work before the law was given or the temple built, and His presence was not confined to the place where the council now sits."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 11:8–16](https://biblehub.com/bsb/hebrews/11.htm) also describes Abraham and his family living by faith while the fullness of the promise remains ahead. Their life as strangers is joined to hope in the city God prepares. The delay in receiving everything promised does not mean God has forgotten His word.",
+    "",
+    "[Galatians 3:16, 29](https://biblehub.com/bsb/galatians/3.htm) connects the promise to Abraham’s offspring with Christ and with those who belong to Him. Stephen begins with a family story whose reach the wider New Testament explains through the promised Messiah."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/7.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-seven-opening-review.md"
+  }
+}

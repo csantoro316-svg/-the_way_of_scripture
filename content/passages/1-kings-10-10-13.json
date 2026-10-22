@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "10:10-13",
+    "label": "1 Kings 10:10-13",
+    "slug": "1-kings-10-10-13"
+  },
+  "section_title": "What do the royal gifts add to the account?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 Then she gave the king 120 talents of gold, a great quantity of spices, and precious stones. Never again were spices in such abundance brought in as those the queen of Sheba gave to King Solomon. 11 (The fleet of Hiram that brought gold from Ophir also brought from Ophir a great cargo of almug wood and precious stones. 12 The king made the almug wood into steps for the house of the LORD and for the king’s palace, and into lyres and harps for the singers. Never before had such almug wood been brought in, nor has such been seen again to this day.) 13 King Solomon gave the queen of Sheba all she desired—whatever she asked—besides what he had given her out of his royal bounty. Then she left and returned to her own country, along with her servants."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The queen gives Solomon a hundred twenty talents of gold, precious stones and an extraordinary quantity of spices. The narrator pauses to mention another rich supply: Hiram’s fleet brings gold, almug wood and precious stones from Ophir.",
+    "",
+    "Solomon uses the wood for steps at the temple and palace and for musical instruments. The queen, in turn, receives what she asks for as well as gifts from Solomon’s royal generosity, then returns home with her servants.",
+    "",
+    "These exchanges place the visit within the wider account of Solomon’s international connections. Wisdom brings people to his court, and their arrival is accompanied by remarkable gifts."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/10.htm) sees the queen’s gift as a generous response to her visit and draws a lesson about gratitude. [Gill](https://biblehub.com/commentaries/gill/1_kings/10.htm) distinguishes the things she requests from what Solomon gives freely in addition.",
+    "",
+    "The narrative describes mutual generosity without recording the terms of a commercial treaty. Its brief account should not be expanded into a detailed agreement that it does not supply."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/10.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-ten-review.md"
+  }
+}

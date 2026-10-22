@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "24:1-9",
+    "label": "Acts 24:1-9",
+    "slug": "acts-24-1-9"
+  },
+  "section_title": "What accusations does Tertullus bring against Paul?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Five days later the high priest Ananias came down with some elders and a lawyer named Tertullus, who presented to the governor their case against Paul. 2 When Paul had been called in, Tertullus opened the prosecution: “Because of you, we have enjoyed a lasting peace, and your foresight has brought improvements to this nation. 3 In every way and everywhere, most excellent Felix, we acknowledge this with all gratitude. 4 But in order not to delay you any further, I beg your indulgence to hear us briefly.",
+        "5 We have found this man to be a pestilence, stirring up dissension among the Jews all over the world. He is a ringleader of the sect of the Nazarenes, 6 and he even tried to desecrate the temple; so we seized him. 8 By examining him yourself, you will be able to learn the truth about all our charges against him.” 9 The Jews concurred, asserting that these charges were true."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Five days after Paul’s transfer to Caesarea, the high priest Ananias arrives with some elders and Tertullus, a lawyer presenting their case. Tertullus begins by praising Felix for peace and improvements, then asks for a brief hearing. Luke records the speech as an appeal to the governor; it is not a separate endorsement of every claim about Felix’s government.",
+    "",
+    "The charges portray Paul as a plague to society, a source of unrest among Jews across the world, a leader of the Nazarenes and someone who attempted to desecrate the temple. The accompanying accusers affirm the charges. Calling him a pestilence is an insult, not a claim that he carries a literal disease.",
+    "",
+    "The word sect is **αἵρεσις** (*hairesis*, HAI-reh-sis). [Thayer’s entry](https://biblehub.com/greek/139.htm) includes a party or school and lists its use for Sadducees, Pharisees and the followers of Jesus. Here the label is used against Paul. The word alone does not establish whether the accusations are true.",
+    "",
+    "The BSB’s main text moves from verse 6 to verse 8. Its footnote preserves a longer wording found in some Bibles, including verse 7, about Lysias taking Paul from his accusers. That difference explains the verse-number gap; Acts 21 gives the fuller account of the arrest."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read the speech as a prosecution that seeks to turn disputes about Paul’s message and the temple into a case requiring the governor’s action. The charges must be distinguished from what has been demonstrated. The defense in the following verses challenges both the description of his conduct and the lack of the original accusers."
+  ],
+  "god_plan_lines": [
+    "In [Luke 21:12–13](https://biblehub.com/bsb/luke/21.htm), Jesus describes His followers being brought before governors and rulers, with these situations becoming opportunities to testify. Paul’s appearance before Felix fits that pattern. An accusation meant to stop the messenger brings the message before another audience."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/24.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twenty-four-review.md"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "James",
+    "citation": "1:22-25",
+    "label": "James 1:22-25",
+    "slug": "james-1-22-25"
+  },
+  "section_title": "What is the difference between hearing and doing?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "22 Be doers of the word, and not hearers only. Otherwise, you are deceiving yourselves. 23 For anyone who hears the word but does not carry it out is like a man who looks at his face in a mirror, 24 and after observing himself goes away and immediately forgets what he looks like. 25 But the one who looks intently into the perfect law of freedom, and continues to do so—not being a forgetful hearer, but an effective doer—he will be blessed in what he does."
+      ]
+    }
+  ],
+  "context_lines": [
+    "James follows the call to receive the word with a call to act on it. Hearing without doing can leave a person deceived about the state of his or her life.",
+    "",
+    "The mirror illustrates that failure. Someone looks, walks away and forgets; the encounter changes nothing. The contrasting person looks intently, continues and acts. The blessing is connected with putting the teaching into practice.",
+    "",
+    "The perfect law of freedom belongs within this picture of attentive, continuing obedience. James does not present freedom as permission to ignore what God says. The next verses make its demands concrete in speech, care for vulnerable people and personal conduct."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/james/1.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-general-epistle-of-st-james/) both understand genuine reception of God’s word to bear fruit in conduct. Calvin describes God’s teaching written on the heart by the Spirit, while Wesley calls it the law of love established by faith; both connect freedom with a changed life."
+  ],
+  "god_plan_lines": [
+    "Jesus makes a close parallel in [Matthew 7:24–27](https://biblehub.com/bsb/matthew/7.htm). Two people hear His words, but only one acts on them; the difference appears when the storm comes. Read beside James, that picture brings the chapter back to perseverance: a life grounded in Jesus’ teaching must actually be lived."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/james/1.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-james-one-review.md"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "16:21-23",
+    "label": "Romans 16:21-23",
+    "slug": "romans-16-21-23"
+  },
+  "section_title": "Who joins Paul in sending these greetings?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "21 Timothy, my fellow worker, sends you greetings, as do Lucius, Jason, and Sosipater, my fellow countrymen. 22 I, Tertius, who wrote down this letter, greet you in the Lord. 23 Gaius, who has hosted me and all the church, sends you greetings. Erastus, the city treasurer, sends you greetings, as does our brother Quartus."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The greetings now come from people with Paul. Timothy is named as a fellow worker, followed by Lucius, Jason and Sosipater. Tertius then identifies himself as the person who wrote down the letter and adds his greeting in the Lord.",
+    "",
+    "Gaius is remembered as host to Paul and the church. Erastus, the city treasurer, and Quartus also send greetings. Writing, hospitality, shared work and personal relationships all appear in the final exchanges."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a glimpse of the people supporting and sharing Paul’s ministry. Tertius’s part in writing down the letter and Gaius’s hospitality show practical contributions alongside the work of those more widely known. The names should not be assigned detailed biographies beyond what can be established."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/16.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-sixteen-review.md"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "2 Timothy",
+    "citation": "1:6-7",
+    "label": "2 Timothy 1:6-7",
+    "slug": "2-timothy-1-6-7"
+  },
+  "section_title": "How is Timothy to use the gift God has given him?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 For this reason I remind you to fan into flame the gift of God, which is in you through the laying on of my hands. 7 For God has not given us a spirit of fear, but of power, love, and self-control."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Because Paul recognizes Timothy’s sincere faith, he urges him to put God’s gift fully to use. He recalls the laying on of his hands and uses the picture of a fire stirred into flame. [Thayer’s entry](https://biblehub.com/greek/329.htm) confirms the sense of kindling or rekindling. The picture calls for active care; it does not tell us exactly how far Timothy’s zeal had declined.",
+    "",
+    "Power belongs with love and self-control. Courage in ministry is not permission to become harsh or reckless. The word translated self-control includes moderation and disciplined judgment ([Thayer](https://biblehub.com/greek/4995.htm)). Verse 8 will show what this strength is for: bearing witness without shame and enduring suffering for the gospel."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/2_timothy/1.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-timothy/) read the fire image as a call to exercise God’s gifts rather than let them lie unused. Both connect courage with love and a disciplined life. Calvin particularly emphasizes God’s Spirit equipping ministers for their calling; Wesley applies the encouragement to Christians more broadly.",
+    "",
+    "Traditions explain the laying on of hands differently. The Catholic Church describes apostolic laying on of hands as transmitting the Spirit’s gift in ordination ([Catechism 1556](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_three/article_6/iii_the_three_degrees_of_the_sacrament_of_holy_orders.index.html)). The Baptist [1689 Confession 26.9](https://www.the1689confession.com/1689/chapter-26) describes setting apart a minister already fitted and gifted by the Spirit. Both recognize a calling from God and a public act of setting someone apart."
+  ],
+  "god_plan_lines": [
+    "[Acts 4:23–31](https://biblehub.com/bsb/acts/4.htm) gives a related picture of believers facing threats. They turn to God, ask for boldness and speak His word through the Holy Spirit’s power. Their courage serves the spread of the message.",
+    "",
+    "In [1 Corinthians 12:4–7](https://biblehub.com/bsb/1_corinthians/12.htm), the Spirit’s varied gifts are given for the common good. Timothy’s gift belongs within that purpose: God equips people so that others can be helped and the church built up."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_timothy/1.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-timothy-one-review.md"
+  }
+}

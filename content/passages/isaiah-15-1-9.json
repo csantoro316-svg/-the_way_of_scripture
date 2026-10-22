@@ -5,57 +5,50 @@
     "label": "Isaiah 15:1-9",
     "slug": "isaiah-15-1-9"
   },
-  "section_title": "The Burden against Moab",
+  "section_title": "Why does the prophet grieve over Moab’s ruin?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 This is the burden against Moab:",
-        "Ar in Moab is ruined,",
-        "destroyed in a night!",
-        "Kir in Moab is devastated,",
-        "destroyed in a night!",
-        "2 Dibon goes up to its temple",
-        "to weep at its high places.",
-        "Moab wails over Nebo,",
-        "as well as over Medeba.",
-        "Every head is shaved,",
-        "every beard is cut off.",
-        "3 In its streets they wear sackcloth;",
-        "on the rooftops and in the public squares",
-        "they all wail, falling down weeping.",
-        "4 Heshbon and Elealeh cry out;",
-        "their voices are heard as far as Jahaz.",
-        "Therefore the soldiers of Moab cry out;",
-        "their souls tremble within.",
-        "5 My heart cries out over Moab;",
-        "her fugitives flee as far as Zoar,",
-        "as far as Eglath-shelishiyah.",
-        "With weeping they ascend the slope of Luhith;",
-        "they lament their destruction on the road to Horonaim.",
-        "6 The waters of Nimrim are dried up,",
-        "and the grass is withered;",
-        "the vegetation is gone,",
-        "and the greenery is no more.",
-        "7 So they carry their wealth and belongings",
-        "over the Brook of the Willows.",
-        "8 For their outcry echoes to the border of Moab.",
-        "Their wailing reaches Eglaim;",
-        "it is heard in Beer-elim.",
-        "9 The waters of Dimon are full of blood,",
-        "but I will bring more upon Dimon\u2014",
-        "a lion upon the fugitives of Moab",
-        "and upon the remnant of the land."
+        "1 This is the burden against Moab: Ar in Moab is ruined, destroyed in a night! Kir in Moab is devastated, destroyed in a night! 2 Dibon goes up to its temple to weep at its high places. Moab wails over Nebo, as well as over Medeba. Every head is shaved, every beard is cut off. 3 In its streets they wear sackcloth; on the rooftops and in the public squares they all wail, falling down weeping. 4 Heshbon and Elealeh cry out; their voices are heard as far as Jahaz. Therefore the soldiers of Moab cry out; their souls tremble within.",
+        "5 My heart cries out over Moab; her fugitives flee as far as Zoar, as far as Eglath-shelishiyah. With weeping they ascend the slope of Luhith; they lament their destruction on the road to Horonaim. 6 The waters of Nimrim are dried up, and the grass is withered; the vegetation is gone, and the greenery is no more. 7 So they carry their wealth and belongings over the Brook of the Willows. 8 For their outcry echoes to the border of Moab. Their wailing reaches Eglaim; it is heard in Beer-elim. 9 The waters of Dimon are full of blood, but I will bring more upon Dimon— a lion upon the fugitives of Moab and upon the remnant of the land."
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 15**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "This message concerns Moab, and it continues into chapter 16. The opening announces the sudden ruin of Ar and Kir. The sound that follows is mourning: people weep at their places of worship, wear sackcloth in the streets and cry out from rooftops and public squares.",
+    "",
+    "The shaved heads and cut beards belong to the scene of grief, as the [NABRE notes](https://bible.usccb.org/bible/isaiah/15) explain. Even the soldiers tremble. The repeated place names let the reader hear distress spreading across the country.",
+    "",
+    "The speaker’s own heart cries out over Moab while fugitives escape with their belongings. Water dries up, vegetation disappears, and wealth must be carried away. The disaster affects the homes, food and security on which ordinary life depends.",
+    "",
+    "The closing warning announces still more danger for those who escape. Yet the passage does not celebrate their suffering: the voice that announces the judgment also laments what is happening to them."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Burden against Moab** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/isaiah/15.htm) understands the grief as compassion for people who, though enemies of Israel, remain fellow human beings. [Gill](https://biblehub.com/commentaries/gill/isaiah/15.htm) likewise reads verse 5 as the prophet pitying Moab, while noting that other interpreters understand it as the Moabites voicing their own sorrow.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 15** remains the first control on meaning."
+    "The final lion is read in more than one way. [Wesley](https://biblehub.com/commentaries/wes/isaiah/15.htm) understands actual lions finding those who escaped the invading army. Gill includes that reading but also reports the interpretation of a further conquering king. The shared warning is that fleeing the first disaster will not necessarily bring safety."
   ],
-  "deeper_study": []
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/15.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-fifteen-seventeen-review.md"
+  }
 }

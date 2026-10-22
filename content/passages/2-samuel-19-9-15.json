@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "19:9-15",
+    "label": "2 Samuel 19:9-15",
+    "slug": "2-samuel-19-9-15"
+  },
+  "section_title": "How does David invite Judah to receive him again?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "9 And all the people throughout the tribes of Israel were arguing, “The king rescued us from the hand of our enemies and delivered us from the hand of the Philistines, but now he has fled the land because of Absalom. 10 But Absalom, the man we anointed over us, has died in battle. So why do you say nothing about restoring the king?”",
+        "11 Then King David sent this message to Zadok and Abiathar, the priests: “Say to the elders of Judah, ‘Why should you be the last to restore the king to his palace, since the talk of all Israel has reached the king at his quarters? 12 You are my brothers, my own flesh and blood. So why should you be the last to restore the king?’ 13 And say to Amasa, ‘Aren’t you my flesh and blood? May God punish me, and ever so severely, if from now on you are not the commander of my army in place of Joab!’” 14 So he swayed the hearts of all the men of Judah as though they were one man, and they sent word to the king: “Return, you and all your servants.” 15 So the king returned, and when he arrived at the Jordan, the men of Judah came to Gilgal to meet him and escort him across the Jordan."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Across Israel the people debate what to do after Absalom’s death. They remember David’s deliverance of the nation and ask why nothing is being done to bring him back. The defeat of the rebellion has not yet produced an orderly restoration.",
+    "",
+    "David sends the priests to Judah’s elders, appealing to them as his own flesh and blood. He also promises Amasa command of the army in place of Joab. The message wins Judah’s support, and the people invite David and his servants to return. They come to Gilgal to escort him across the Jordan."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) and [Gill](https://biblehub.com/commentaries/gill/2_samuel/19.htm) understand the offer to Amasa as both a way of bringing former opponents into David’s support and a way of replacing Joab after his offenses. The offer is a significant act toward the commander of the defeated side.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/19.htm) emphasizes the movement of the people toward receiving their king. The invitation is not only imposed by David: verses 9–10 already report discussion of his return among Israel, before his message to Judah.",
+    "",
+    "Winning support and securing lasting unity are different tasks. The favorable response here is real, but the chapter’s closing quarrel will show how much remains unsettled."
+  ],
+  "god_plan_lines": [
+    "David’s return offers a limited comparison with the biblical hope of the coming King. His people call him back after a rebellion; Christians look forward to the return of the One whose kingship will endure.",
+    "",
+    "[Luke 1:32–33](https://biblehub.com/bsb/luke/1.htm) identifies Jesus as the heir of David’s throne whose kingdom has no end. In [Revelation 22:12–20](https://biblehub.com/bsb/revelation/22.htm), Jesus promises His coming, and the response is a call for Him to come.",
+    "",
+    "This is a comparison of welcome and hope, not a timetable drawn from each step of David’s journey. Jesus’ promised return rests on His own word. The disputes that remain under David also keep our hope looking beyond the limits of an earthly restoration."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/19.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-nineteen-review.md"
+  }
+}

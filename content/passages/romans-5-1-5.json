@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "5:1-5",
+    "label": "Romans 5:1-5",
+    "slug": "romans-5-1-5"
+  },
+  "section_title": "How can peace with God belong alongside suffering?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Therefore, since we have been justified through faith, we have peace with God through our Lord Jesus Christ, 2 through whom we have gained access by faith into this grace in which we stand. And we rejoice in the hope of the glory of God.",
+        "3 Not only that, but we also rejoice in our sufferings, because we know that suffering produces perseverance; 4 perseverance, character; and character, hope. 5 And hope does not disappoint us, because God has poured out His love into our hearts through the Holy Spirit, whom He has given us."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul now describes what follows from being justified through faith: peace with God through Jesus Christ, access to grace and hope of sharing God’s glory. These gifts rest on the relationship Christ has opened.",
+    "",
+    "Peace with God does not mean that life has become free of trouble. Paul immediately speaks of suffering, endurance, character and hope. The peace concerns the relationship with God; it should not be reduced to a test of whether someone feels calm every moment.",
+    "",
+    "Hope is grounded in God’s love poured into believers’ hearts through the Holy Spirit. Paul does not ask them to manufacture confidence from their own strength. He points to the God who has given Himself to them and continues His work amid hardship.",
+    "",
+    "The BSB follows the reading we have peace in verse 1 and notes let us have as an alternative found in the manuscript tradition. The passage still places this peace through Jesus, not in human achievement."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read these verses as encouragement that suffering does not by itself mean God has rejected a believer. [Calvin on verse 3](https://biblehub.com/commentaries/calvin/romans/5.htm) explicitly distinguishes hope amid trouble from feeling no grief or bitterness. Endurance can grow within real distress; rejoicing does not require pretending pain is pleasant."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 2:13–18](https://biblehub.com/bsb/ephesians/2.htm) connects Christ’s blood, peace, reconciliation and access to the Father through one Spirit. It also places Jewish and Gentile believers together within that access. Peace with God belongs to a larger work of bringing people near and together in Christ.",
+    "",
+    "The hope ahead is described in [Romans 8:18–25](https://biblehub.com/bsb/romans/8.htm), where present suffering stands beside the coming glory, creation’s freedom and the redemption of believers’ bodies. Present trouble has not canceled that future."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-five-review.md"
+  }
+}

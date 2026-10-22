@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "14:66-72",
+    "label": "Mark 14:66-72",
+    "slug": "mark-14-66-72"
+  },
+  "section_title": "What happens when Peter’s confidence gives way?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "66 While Peter was in the courtyard below, one of the servant girls of the high priest came down 67 and saw him warming himself there. She looked at Peter and said, “You also were with Jesus the Nazarene.” 68 But he denied it. “I do not know or even understand what you are talking about,” he said. Then he went out to the gateway, and the rooster crowed.",
+        "69 There the servant girl saw him and again said to those standing nearby, “This man is one of them.” 70 But he denied it again. After a little while, those standing nearby said once more to Peter, “Surely you are one of them, for you too are a Galilean.” 71 But he began to curse and swear, “I do not know this man of whom you speak!” 72 And immediately the rooster crowed a second time. Then Peter remembered the word that Jesus had spoken to him: “Before the rooster crows twice, you will deny Me three times.” And he broke down and wept."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Mark returns to Peter in the courtyard while Jesus is being questioned. A servant girl identifies him as someone who was with Jesus. He denies understanding what she means and moves toward the gateway. She repeats the identification to others, and he denies it again.",
+    "",
+    "When bystanders press him about being a Galilean, Peter begins to curse and swear that he does not know the man they mean. At the rooster’s second crow, he remembers Jesus’ prediction and breaks down in tears. The one who promised to die with Jesus has now denied even knowing Him.",
+    "",
+    "The two scenes belong together: Jesus acknowledges who He is before those condemning Him, while Peter denies his connection with Him in the courtyard. Luke adds that Jesus turns and looks at Peter before he leaves weeping. Neither account tells us every thought behind that look or every feeling Peter experiences. ([Luke 22:54–62](https://biblehub.com/bsb/luke/22.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Peter’s denial as a serious failure that exposes the weakness of his earlier confidence, with his tears showing recognition of what he has done. The Gospels also place this failure within a story that includes his return and restoration; it is not the final scene of his life with Christ. ([Luke 22:31–34](https://biblehub.com/bsb/luke/22.htm); [John 21:15–19](https://biblehub.com/bsb/john/21.htm))"
+  ],
+  "god_plan_lines": [
+    "Jesus has already promised to meet His followers after His resurrection. John later shows Him giving Peter responsibility to care for His sheep. Acts then shows Peter publicly announcing Jesus’ resurrection and, filled with the Holy Spirit, speaking before the authorities. The man who denies Jesus here becomes a witness through the risen Lord’s restoring work. ([John 21:15–19](https://biblehub.com/bsb/john/21.htm); [Acts 2:14–24, 37–41](https://biblehub.com/bsb/acts/2.htm); [Acts 4:8–13](https://biblehub.com/bsb/acts/4.htm))",
+    "",
+    "First Peter later joins humility, dependence on God, and vigilance against temptation with the promise that God strengthens His suffering people. That is a fitting connection to this scene: confidence in God’s grace belongs together with taking weakness and temptation seriously. ([1 Peter 5:6–10](https://biblehub.com/bsb/1_peter/5.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/14.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-fourteen-closing-review.md"
+  }
+}

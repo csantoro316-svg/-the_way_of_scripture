@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "11:20-22",
+    "label": "Hebrews 11:20-22",
+    "slug": "hebrews-11-20-22"
+  },
+  "section_title": "How did their faith look beyond their own lifetimes?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "20 By faith Isaac blessed Jacob and Esau concerning the future. 21 By faith Jacob, when he was dying, blessed each of Joseph’s sons and worshiped as he leaned on the top of his staff. 22 By faith Joseph, when his end was near, spoke about the exodus of the Israelites and gave instructions about his bones."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The final examples from the patriarchs concern blessings and instructions given near the end of life. Isaac blessed Jacob and Esau concerning the future. Jacob blessed Joseph’s sons and worshiped. Joseph spoke of Israel’s coming departure from Egypt and gave instructions about his bones.",
+    "",
+    "These actions treated God’s promise as something that would continue beyond the speaker’s lifetime. Joseph’s instructions in [Genesis 50:24–25](https://biblehub.com/bsb/genesis/50.htm) are especially clear: God would attend to His people and bring them from Egypt to the land He had promised.",
+    "",
+    "Hebrews draws together Jacob’s blessings in [Genesis 48](https://biblehub.com/bsb/genesis/48.htm) and his worship near death. There is a wording difference to notice: [Genesis 47:31](https://biblehub.com/bsb/genesis/47.htm) in the BSB describes the head of his bed, while Hebrews describes the top of his staff. The common emphasis is his worship, with his hope turned toward God’s continuing promise."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/11.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) understand these blessings and burial instructions as faith looking beyond present possession. The fathers did not control the future, but they trusted the God who had promised it.",
+    "",
+    "Calvin emphasizes Joseph’s instructions as encouragement to his people to expect deliverance from Egypt, rather than a belief that one burial location had power in itself. Wesley likewise connects the bones with the land of promise. The point is the testimony to God’s promise, rather than a new rule about where every believer must be buried."
+  ],
+  "god_plan_lines": [
+    "[Exodus 13:19](https://biblehub.com/bsb/exodus/13.htm) records Moses carrying Joseph’s bones when Israel left Egypt. The instruction given in faith becomes part of the later account of God’s deliverance.",
+    "",
+    "[Galatians 3:16, 29](https://biblehub.com/bsb/galatians/3.htm) connects the promise to Abraham with Christ and those who belong to Him. God’s purpose extends beyond one generation’s experience: later people share in the promise on which earlier believers relied."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/11.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-eleven-closing-review.md"
+  }
+}

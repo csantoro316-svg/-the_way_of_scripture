@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "6:31-38",
+    "label": "1 Kings 6:31-38",
+    "slug": "1-kings-6-31-38"
+  },
+  "section_title": "How is the temple brought to completion?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "31 For the entrance to the inner sanctuary, Solomon constructed doors of olive wood with five-sided doorposts. 32 The double doors were made of olive wood, and he carved into them cherubim, palm trees, and open flowers and overlaid the cherubim and palm trees with hammered gold. 33 In the same way he made four-sided doorposts of olive wood for the sanctuary entrance. 34 The two doors were made of cypress wood, and each had two folding panels. 35 He carved into them cherubim, palm trees, and open flowers, and he overlaid them with gold hammered evenly over the carvings. 36 Solomon built the inner courtyard with three rows of dressed stone and one row of trimmed cedar beams.",
+        "37 The foundation of the house of the LORD was laid in the fourth year of Solomon’s reign, in the month of Ziv. 38 In the eleventh year, in the month of Bul, the eighth month, the temple was finished in every detail and according to every specification. So he built the temple in seven years."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Olive-wood doors lead into the inner sanctuary, while folding cypress doors mark the other sanctuary entrance. The carved cherubim, palm trees and flowers continue on the doors, covered with gold.",
+    "",
+    "The inner courtyard is built with dressed stone and trimmed cedar. The account ends by returning to the dates: the foundation was laid in Solomon’s fourth year, in the second month, and the work was finished in his eleventh year, in the eighth month.",
+    "",
+    "The concluding summary says that Solomon built the temple in seven years and that it was completed in every detail according to its specifications."
+  ],
+  "common_interpretation_lines": [
+    "[Gill](https://biblehub.com/commentaries/gill/1_kings/6.htm) understands the seven years as a rounded account of the period. The more detailed dates extend from the second month of one year to the eighth month seven years later.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) emphasizes the scale and care of the whole project when explaining why it took time. The notice is about sustained work brought to completion.",
+    "",
+    "The final attention to details and dates closes the description of the building itself. The next chapter will turn to other royal construction and the temple’s furnishings."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/6.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-six-review.md"
+  }
+}

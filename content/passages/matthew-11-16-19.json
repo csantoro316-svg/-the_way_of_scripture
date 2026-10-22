@@ -1,0 +1,47 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "11:16-19",
+    "label": "Matthew 11:16-19",
+    "slug": "matthew-11-16-19"
+  },
+  "section_title": "Rejecting Both John and Jesus",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "16 To what can I compare this generation? They are like children sitting in the marketplaces and calling out to others: 17 ‘We played the flute for you, and you did not dance; we sang a dirge, and you did not mourn.’",
+        "18 For John came neither eating nor drinking, and they say, ‘He has a demon!’ 19 The Son of Man came eating and drinking, and they say, ‘Look at this glutton and drunkard, a friend of tax collectors and sinners!’ But wisdom is vindicated by her actions.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus compares His generation to children complaining in a marketplace. A joyful tune gets no dance, and a sad song gets no mourning. The picture exposes an unwillingness to respond, whichever kind of approach is offered.",
+    "",
+    "John and Jesus give the example. John's restrained way of life brings an accusation that he has a demon. Jesus eats and drinks with people, and His opponents accuse Him of excess and criticize His friendships. Their contrasting ways of living both become reasons for rejection.",
+    "",
+    "The accusation about Jesus being a glutton and drunkard is what His critics say, not Matthew's judgment about His conduct. His meals with tax collectors and sinners have already raised objections in [Matthew 9:9–13](https://biblehub.com/bsb/matthew/9.htm), where He explains His mission through mercy and the need of sinners.",
+    "",
+    "The closing saying turns attention from the accusations to wisdom's results. The question is whether the work of God is being recognized in what John and Jesus actually do. A person can keep finding reasons to dismiss the messengers while avoiding the message they bring."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as exposing an unwillingness to receive God's message, despite the different approaches of John and Jesus. [Wesley on Matthew 11:16–19](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) describes people who will not be pleased with either approach; the [US Catholic bishops' notes on 11:16–19](https://bible.usccb.org/bible/matthew/11) likewise connect the illustration with rejecting John's restraint and Jesus' meals with outsiders."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/11.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-eleven-review.md"
+  }
+}

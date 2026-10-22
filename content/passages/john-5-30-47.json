@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "5:30-47",
+    "label": "John 5:30-47",
+    "slug": "john-5-30-47"
+  },
+  "section_title": "What do the witnesses and the Scriptures say about Jesus?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "30 I can do nothing by Myself; I judge only as I hear. And My judgment is just, because I do not seek My own will, but the will of Him who sent Me. 31 If I testify about Myself, My testimony is not valid. 32 There is another who testifies about Me, and I know that His testimony about Me is valid. 33 You have sent to John, and he has testified to the truth. 34 Even though I do not accept human testimony, I say these things so that you may be saved. 35 John was a lamp that burned and gave light, and you were willing for a season to bask in his light.",
+        "36 But I have testimony more substantial than that of John. For the works that the Father has given Me to accomplish—the very works I am doing—testify about Me that the Father has sent Me. 37 And the Father who sent Me has Himself testified about Me. You have never heard His voice nor seen His form, 38 nor does His word abide in you, because you do not believe the One He sent. 39 You pore over the Scriptures because you presume that by them you possess eternal life. These are the very words that testify about Me, 40 yet you refuse to come to Me to have life.",
+        "41 I do not accept glory from men, 42 but I know you, that you do not have the love of God within you. 43 I have come in My Father’s name, and you have not received Me; but if someone else comes in his own name, you will receive him. 44 How can you believe if you accept glory from one another, yet do not seek the glory that comes from the only God? 45 Do not think that I will accuse you before the Father. Your accuser is Moses, in whom you have put your hope. 46 If you had believed Moses, you would believe Me, because he wrote about Me. 47 But since you do not believe what he wrote, how will you believe what I say?”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus continues by saying that His judgment is just because He seeks the will of the One who sent Him. He then turns to the testimony supporting His mission: John’s witness, the works the Father gives Him, the Father’s own testimony and the Scriptures.",
+    "",
+    "His opponents have searched the Scriptures expecting life, yet refuse to come to the One to whom those Scriptures point. He also challenges their willingness to receive approval from one another while failing to seek God’s approval.",
+    "",
+    "The chapter closes with Moses. They place their hope in him, but Jesus says that Moses wrote about Him. Their response to Jesus exposes a failure to receive what they claim to honor in Moses’ writings."
+  ],
+  "common_interpretation_lines": [
+    "Christian readers commonly understand this as Jesus pointing to converging testimony about His identity, with Scripture study meant to lead people to receive Him. Calvin and Wesley both emphasize that refusing Christ misses the purpose of those writings. ([Calvin on John 5:39–40](https://biblehub.com/commentaries/calvin/john/5.htm); [Wesley on John 5:39–40](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/))",
+    "",
+    "Wesley reads verse 39 as an instruction to search the Scriptures. The BSB presents it as a statement that His hearers already pore over them. Either way, the surrounding rebuke concerns their refusal to come to the One the Scriptures reveal; it does not make careful reading itself the problem. ([Wesley on John 5:39](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/); [John 5:39–40 BSB](https://biblehub.com/bsb/john/5.htm))"
+  ],
+  "god_plan_lines": [
+    "Moses promises a prophet through whom God will speak and whom the people must hear. In Acts, Peter directly applies that promise to Jesus and calls his hearers to turn back to God. This gives a specific New Testament connection between Moses’ writings and the mission of Christ. ([Deuteronomy 18:15–19](https://biblehub.com/bsb/deuteronomy/18.htm); [Acts 3:18–23](https://biblehub.com/bsb/acts/3.htm))",
+    "",
+    "Peter also places that mission within God’s promise to Abraham that all families of the earth will be blessed, describing the blessing as God’s Servant turning people from wickedness. The goal of the testimony is therefore life with God and a changed direction, extending beyond the first hearers. ([Acts 3:24–26](https://biblehub.com/bsb/acts/3.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-five-review.md"
+  }
+}

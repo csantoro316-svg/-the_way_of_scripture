@@ -1,0 +1,68 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "8:40-56",
+    "label": "Luke 8:40-56",
+    "slug": "luke-8-40-56"
+  },
+  "section_title": "What do the woman and Jairus learn about trusting Jesus?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "40 When Jesus returned, the crowd welcomed Him, for they had all been waiting for Him. 41 Just then a synagogue leader named Jairus came and fell at Jesus’ feet. He begged Him to come to his house, 42 because his only daughter, who was about twelve, was dying. As Jesus went with him, the crowds pressed around Him,",
+        "43 including a woman who had suffered from bleeding for twelve years. She had spent all her money on physicians, but no one was able to heal her. 44 She came up behind Jesus and touched the fringe of His cloak, and immediately her bleeding stopped. 45 “Who touched Me?” Jesus asked. But they all denied it. “Master,” said Peter, “the people are crowding and pressing against You.” 46 But Jesus declared, “Someone touched Me, for I know that power has gone out from Me.” 47 Then the woman, seeing that she could not escape notice, came trembling and fell down before Him. In the presence of all the people, she explained why she had touched Him and how she had immediately been healed. 48 “Daughter,” said Jesus, “your faith has healed you. Go in peace.”",
+        "49 While He was still speaking, someone arrived from the house of the synagogue leader. “Your daughter is dead,” he told Jairus. “Do not bother the Teacher anymore.” 50 But Jesus overheard them and said to Jairus, “Do not be afraid; just believe, and she will be healed.”",
+        "51 When He entered the house, He did not allow anyone to go in with Him except Peter, John, James, and the child’s father and mother. 52 Meanwhile, everyone was weeping and mourning for her. But Jesus said, “Stop weeping; she is not dead but asleep.” 53 And they laughed at Him, knowing that she was dead. 54 But Jesus took her by the hand and called out, “Child, get up!” 55 Her spirit returned, and at once she got up. And He directed that she be given something to eat. 56 Her parents were astounded, but Jesus ordered them not to tell anyone what had happened."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jairus, a synagogue leader, asks Jesus to come because his only daughter, about twelve years old, is dying. As Jesus goes with him through the crowd, another person in desperate need approaches from behind: a woman who has suffered bleeding for twelve years.",
+    "",
+    "She touches the fringe of His cloak, and her bleeding immediately stops. The Law’s instructions about prolonged bleeding help explain the significance of being made clean, as well as the burden this condition could carry. Luke focuses on her healing and her encounter with Jesus. ([Leviticus 15:25–30](https://biblehub.com/bsb/leviticus/15.htm))",
+    "",
+    "Jesus asks who touched Him and says He knows power has gone out from Him. The woman comes forward trembling and publicly explains what happened. He addresses her as daughter, credits her faith and sends her in peace.",
+    "",
+    "During this exchange, news arrives that Jairus’ daughter has died. Jesus tells Jairus to believe and continues to the house. He takes the girl’s hand, calls her to get up, and her spirit returns. The instruction to give her food shows His care continuing after the extraordinary act.",
+    "",
+    "Jesus’ description of death as sleep is also found in John’s account of Lazarus, where the Gospel explicitly explains that He is speaking about death. Here, too, the girl’s return to life displays His authority over what has happened. ([John 11:11–15](https://biblehub.com/bsb/john/11.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly see the two intertwined encounters as displays of Jesus’ power to heal and restore life, with trust in Him central to both. The Catholic Catechism includes Jairus’ spoken plea and the woman’s silent approach as expressions of faith brought to Jesus, while Luke shows Him answering fear with reassurance and restoration. ([Catechism 2616](https://www.vatican.va/content/catechism/en/part_four/section_one/chapter_one/article_2/in_the_fullness_of_time.html); [USCCB note on Luke 8:40–56](https://bible.usccb.org/bible/luke/8))"
+  ],
+  "god_plan_lines": [
+    "When Jesus speaks with Martha about her brother’s death, He identifies Himself as the resurrection and the life and promises life to those who believe in Him. The restoration of Jairus’ daughter is an early display of that authority. It directs attention to the person in whom the hope of life is found. ([John 11:25–27](https://biblehub.com/bsb/john/11.htm))",
+    "",
+    "The final hope goes beyond these particular recoveries. Revelation describes God dwelling with His people and bringing an end to death, mourning and pain. Jesus’ care for the woman and the child gives a glimpse of the restoration His saving work leads toward. ([Revelation 21:1–5](https://biblehub.com/bsb/revelation/21.htm))"
+  ],
+  "current_position_lines": [
+    "For the woman’s healing, Prayer and Faith draws from the parallel Matthew 9:20–22 to emphasize trust in Jesus over the wording of a request. She reaches out before making a spoken request for healing, and Jesus credits her faith. Luke also records her later explanation to Him, so the point concerns how she approaches Him for healing. We have not developed a separate position on Jairus’ part of the passage."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/8.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-luke-eight-closing-review.md",
+    "position_source_detail": "Prayer and Faith — section 5, Faith, Not Petition, Is What Scripture Emphasizes; Matthew 9:20–22"
+  }
+}

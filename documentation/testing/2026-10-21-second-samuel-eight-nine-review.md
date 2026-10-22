@@ -1,0 +1,32 @@
+# Second Samuel 8–9 passage review — 2026-10-21
+
+Four new groups; all31BSBverses. Entire baseline lesson98–114actuallyread;wholePDF1–114read,115+unread. WholeBSB8+9/WesVIII+IX/Henry8+9actualread;Gill8:2,18+9:1,7,11,13actualcompletecommentsread. USCCB8actualnotesread;9HTTPerrornotread/used. BDB3548targetheader/section1explicit2Sam8:18actuallyread;notwholeentry. BDB2617header/I.1–2relevanthuman-kindnessand2Sam9citesactuallyread;notwholeentry. Initialcombinedlexoutputtruncated, targetedboundedrereadcompletedrelevantparts. No signedTopicalLexiconused. ActualBSB1Chr18:1,4,8,12–17/Isa9:6–7/Eph2:4–10/Luke22:28–30read. Luke1:32–33and1Sam20:12–17actualpreviousresearchread. No owner8/9/Mephibosheth/Metheg-ammahaddressingreferencesfound. No ownerstudyedits/newpositions/publicbaselinewordingorname.
+
+## 8:1–6
+
+Plan section: omitted, because none apply. Victories interpreted without assigning everywaractapprovalasChrist'sbehavior. Christ'srighteousruleconnectionreserved8:15–18.
+Position source: none.
+FLAGGED FOR REVIEW: Baselineheightadultstestandunusualmercybecauseancientwaralwayskillseveryoneunverified. ActualHenry/Gill/USCCBproportiondifferencesattributed;BSBlinearrangementretained. NoMoabkilledDavidparentshistoricalfactfromlatertradition, norevengetextunstated. OriginalGathparallelactual1Chr18:1withoutdefiniteMetheg-ammahetologymountainmap. BSBtroops4=1000chariots7000charioteers20000foot;noNASB1700copied. No disablehorsesclinicallyguaranteedmerciful/no painclaim. No exactEgypt500yrworldsuperpowerhistorywithoutindependentcheck. No exactchronologicalmoverchapter7lateproof.
+
+## 8:7–14
+
+Plan section: omitted, because none apply. Dedication/preparationinterpreted;avoidrepetitiveforcedmaterials=spiritualvicesallegory.
+Position source: none.
+FLAGGED FOR REVIEW: BSB8:12Edomand13Edomitesactual;notolderAramreadingincorporatedsilently. 1Chr18:12Abishaiactualrolecompared,notunreportedexactsimultaneousnorth/southcampaignstory. No claim everytextualdifferenceeasilyresolved/allSamuelworsterrors/alwaysrecovereverywordcertainty. USCCB8differentattributionnotapologyforinventedcopyistscenario. ToiJoramactualnotnecessarypeacecovenantterms. Goldshieldsnotdefinitelysolid/plated. DedicatedbronzeSolomonactual1Chr18:8;noallgiftscertainfixedfutureearmarkdetailbeyondtext.
+
+## 8:15–18
+
+Plan section: included, because (b)/(c). RighteousDavidicgovernmentconnectedIsa9:6–7andactualLuke1:32–33Jesus,notautomaticallyeveryofficialantitype. Davidsummaryofjustice notsinlesslifebeyondnarrative.
+Position source: none.
+FLAGGED FOR REVIEW: BSB8:18priestlyleaderskept. ActualBDB3548section1priests/chiefswithreligiousfunctionsversusGill18seniorofficialreadingfair. Actual1Chr18:17chiefatking'sside. No assertsonsLeviticalpriestscertainorunbrokenAdamMelchizedekoffice. BDBonlytargetsectionreadnotwhole. Cherethite/Pelethiteoriginsdifferinprimarycomments;noallcertainCretanimmigrants/foreignersloyaltacticalprincipleunverified.
+
+## 9:1–13
+
+Plan section: included, because (b)/(c). HenrylimitedgracecomparisonwithactualEph2:4–10;tablewelcomeparallelactualLuke22:28–30Jesusaddressdisciples,notallreaderspromisedtwelvetribejudges. No directNTexplanationofMephiboshethclaim;disabilitynotspiritualinferiority.
+Position source: none.
+FLAGGED FOR REVIEW: BaselineDavidJonathancovenantill-advisedsin/Godwantedcancellednotverifiedandnotnarratorstated. Davidkeepsloyalpromiseactual1Sam20and9;noallSaulsonsdead/Mephiboshethsolemaleheir(9:12Micaalreadycontradicts). NoJonathan'sdeathnecessarytosaveMephiboshethjustifiesatonementparallel;promisealreadycoverslivingJonathan. No exactMephibosheth20age/entireanatomyroyalunfitness/guiltfromdisability. Dead-dogselfdescriptionnotnarratorworthlessnessverdict. Disabilityremainsafterwelcomeactual9:13,nothealingcondition.
+FLAGGED FOR REVIEW: ActualBDB2617goodness/kindness/I.1humanfavorslists9:1,3,7. Notalwaysformalcovenanttechnicalword;contextestablishespromiseconnection. Pronunciationplainaid. No dogworstcreatureJewishcultureuniversally/mandatoryeverycovenantmeal/alwayskilleveryrivalhistoricalclaimswithoutindependentverification. ZibaservantSaulnotinitialDavidcourtofficialdemoted;15sons20servantsactual. No politicalhostagehiddenmotivesasfact, noprecise propertytitleconfiscationmechanism. Everyreadergraceparallelnotforcedfivesteppredictionsorautomaticprosperity.
+
+## Validation
+
+Passed direct BSB verification, repository checks (0errors /253warnings), preservation, continuous coverage through9:13, idempotence, eight mobile views, actual Next8:1–6→7–14 with heading focus/top187.5, Hosting dry run, deployment and LIVE MATCH8(exit0). Cumulative26groups218verses13plans26open; intentional omissions globally88. Prefix /tmp/scripture-second-samuel-eight-nine-.

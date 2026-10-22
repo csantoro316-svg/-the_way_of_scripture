@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "22:63-65",
+    "label": "Luke 22:63-65",
+    "slug": "luke-22-63-65"
+  },
+  "section_title": "What does the mockery of Jesus reveal?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "63 The men who were holding Jesus began to mock Him and beat Him. 64 They blindfolded Him and kept demanding, “Prophesy! Who hit You?” 65 And they said many other blasphemous things against Him."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The men holding Jesus mock and beat Him. After blindfolding Him, they demand that He identify who struck Him. Their challenge turns the language of prophecy into a means of humiliation.",
+    "",
+    "Luke describes their other words as blasphemous. The Greek verb is βλασφημέω, blasphēmeō (blas-fay-MEH-oh). Thayer explains it as speaking abusively or reviling, and also as speech that dishonors God or sacred things; Luke 22:65 is specifically listed. Here the speech accompanies the physical abuse of Jesus. ([Thayer, Greek 987](https://biblehub.com/greek/987.htm))",
+    "",
+    "Luke places this abuse between Peter’s denial and the council gathering at daybreak. The short account keeps attention on what the captive Jesus suffers, without supplying the private thoughts of either Him or His captors."
+  ],
+  "common_interpretation_lines": [
+    "Christian readers commonly understand this scene as part of the innocent suffering and humiliation Jesus endures. Wesley also notices the irony: those who reject His identity dishonor Him with their own words, which Luke calls blasphemous. The passage exposes the conduct of these men without extending guilt to every member of their people. ([Wesley on Luke 22:64–65](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))"
+  ],
+  "god_plan_lines": [
+    "Isaiah’s obedient Servant offers His back to those who strike Him and does not hide His face from contempt. That is a supported scriptural parallel with the abuse Jesus suffers here. Isaiah also looks to God for help and vindication, so the suffering is not the whole story. ([Isaiah 50:4–9](https://biblehub.com/bsb/isaiah/50.htm))",
+    "",
+    "Peter later describes Christ enduring abuse without retaliation and entrusting Himself to the One who judges justly. He connects that suffering both with Christ bearing our sins and with an example for His followers. The humiliation therefore belongs within His saving self-giving and the pattern of faithful endurance He leaves His people. ([1 Peter 2:21–25](https://biblehub.com/bsb/1_peter/2.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/22.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-twenty-two-closing-review.md"
+  }
+}

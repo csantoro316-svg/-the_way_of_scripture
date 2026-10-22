@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "4:1-5",
+    "label": "Romans 4:1-5",
+    "slug": "romans-4-1-5"
+  },
+  "section_title": "What did Abraham receive by believing God?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 What then shall we say that Abraham, our forefather according to the flesh, has discovered? 2 If Abraham was indeed justified by works, he had something to boast about, but not before God. 3 For what does the Scripture say? “Abraham believed God, and it was credited to him as righteousness.”",
+        "4 Now the wages of the worker are not credited as a gift, but as an obligation. 5 However, to the one who does not work, but believes in Him who justifies the ungodly, his faith is credited as righteousness."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul turns to Abraham to show that the message he has announced is witnessed by Scripture. If Abraham had been justified by works, he could boast in his achievement. Instead, Genesis says that he believed God and that this was credited to him as righteousness.",
+    "",
+    "The setting is [Genesis 15:1–6](https://biblehub.com/bsb/genesis/15.htm). Abram has no child to be his heir, and God promises an heir from his own body and descendants as numerous as the stars. Abram trusts the Lord who gives the promise.",
+    "",
+    "The word behind credited is logizomai (loh-GID-zoh-my), λογίζομαι, meaning to reckon, count or take into account; see [Thayer’s entry](https://biblehub.com/greek/3049.htm). Paul uses the same word when speaking of wages in verse 4. The difference between wages and a gift comes from the situation he describes, rather than from the word credited by itself.",
+    "",
+    "A worker receives wages as something owed. Paul contrasts that with trusting the God who justifies the ungodly. The person comes with a need for God’s mercy, rather than a claim that God owes them a favorable verdict."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read Abraham’s example as showing that a right relationship with God begins in His grace and is received through faith, rather than earned as wages. Abraham’s trust rests on the One who promises, not on a record that makes mercy unnecessary."
+  ],
+  "god_plan_lines": [
+    "Paul reaches back to Genesis to show that faith is not a late replacement for an earlier way of earning God’s acceptance. The promise and Abram’s response are already part of the scriptural story the gospel fulfills.",
+    "",
+    "[Hebrews 11:8–12](https://biblehub.com/bsb/hebrews/11.htm) also describes Abraham and Sarah living by trust in the God who promises. That trust leads to action and endurance. The contrast with earning wages does not make faith a life of doing nothing; it identifies the One on whom the life depends."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/4.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-four-review.md"
+  }
+}

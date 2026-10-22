@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "3:23-38",
+    "label": "Luke 3:23-38",
+    "slug": "luke-3-23-38"
+  },
+  "section_title": "Why trace Jesus’ family back to Adam?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "23 Jesus Himself was about thirty years old when He began His ministry. He was regarded as the son of Joseph, the son of Heli, 24 the son of Matthat, the son of Levi, the son of Melchi, the son of Jannai, the son of Joseph, 25 the son of Mattathias, the son of Amos, the son of Nahum, the son of Esli, the son of Naggai, 26 the son of Maath, the son of Mattathias, the son of Semein, the son of Josech, the son of Joda, 27 the son of Joanan, the son of Rhesa, the son of Zerubbabel, the son of Shealtiel, the son of Neri,",
+        "28 the son of Melchi, the son of Addi, the son of Cosam, the son of Elmadam, the son of Er, 29 the son of Joshua, the son of Eliezer, the son of Jorim, the son of Matthat, the son of Levi, 30 the son of Simeon, the son of Judah, the son of Joseph, the son of Jonam, the son of Eliakim, 31 the son of Melea, the son of Menna, the son of Mattatha, the son of Nathan, the son of David, 32 the son of Jesse, the son of Obed, the son of Boaz, the son of Sala, the son of Nahshon, 33 the son of Amminadab, the son of Admin, the son of Arni, the son of Hezron, the son of Perez, the son of Judah,",
+        "34 the son of Jacob, the son of Isaac, the son of Abraham, the son of Terah, the son of Nahor, 35 the son of Serug, the son of Reu, the son of Peleg, the son of Eber, the son of Shelah, 36 the son of Cainan, the son of Arphaxad, the son of Shem, the son of Noah, the son of Lamech, 37 the son of Methuselah, the son of Enoch, the son of Jared, the son of Mahalalel, the son of Cainan, 38 the son of Enosh, the son of Seth, the son of Adam, the son of God."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Luke places the family list after the Father’s declaration about Jesus and before the wilderness testing. Jesus is about thirty when He begins His ministry. The account identifies Him as regarded as Joseph’s son while preserving what it has already said about His conception through the Holy Spirit. ([Luke 1:26–35](https://biblehub.com/bsb/luke/1.htm))",
+    "",
+    "The list moves backward through David and Abraham, then beyond Israel’s founding family to Adam and God. It roots Jesus within Israel’s story and also within the wider human family. The scope fits the salvation for Israel and the nations already announced in Luke.",
+    "",
+    "Matthew’s list begins with Abraham and moves toward Jesus. The names between Joseph and David differ: Matthew follows David’s son Solomon, while Luke follows Nathan. The difference is visible in the texts themselves and should be acknowledged when the lists are read together. ([Matthew 1:1–17](https://biblehub.com/bsb/matthew/1.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the family lists as connecting Jesus with God’s promises to David and Abraham and affirming His place in real human history. They differ over how the two lists fit together.",
+    "",
+    "Wesley explains Luke as tracing Mary’s family, with Heli understood as Joseph’s father-in-law, while Matthew traces Joseph’s line. An early Christian writer, Julius Africanus, offered another explanation: both lists trace Joseph, one through birth and the other through a family’s legal line after a childless relative’s death. These are proposed explanations; Luke does not spell out either reconstruction. ([Wesley on Luke 3:23](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [Africanus preserved in Eusebius, Church History 1.7](https://www.newadvent.org/fathers/250101.htm))"
+  ],
+  "god_plan_lines": [
+    "Tracing the line to Adam has a supported connection with Paul’s explicit comparison of Adam and Christ. Romans describes sin and death entering through Adam, then contrasts that with the grace and life that come through Christ’s obedience. Jesus’ place in the human story matters to His work of bringing life to people caught under sin and death. ([Romans 5:12–21](https://biblehub.com/bsb/romans/5.htm))",
+    "",
+    "Paul also calls Christ the last Adam and connects His resurrection with the future resurrection of His people. The one who shares our humanity brings a new future beyond the death inherited in Adam. Luke’s family list does not explain every part of that teaching, but its reach back to Adam gives a fitting setting for the Son’s obedient life and saving work. ([1 Corinthians 15:20–28, 42–49](https://biblehub.com/bsb/1_corinthians/15.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/3.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-three-closing-review.md"
+  }
+}

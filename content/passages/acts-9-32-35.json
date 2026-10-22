@@ -1,0 +1,52 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "9:32-35",
+    "label": "Acts 9:32-35",
+    "slug": "acts-9-32-35"
+  },
+  "section_title": "Who does Peter say is healing Aeneas?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "32 As Peter traveled throughout the area, he went to visit the saints in Lydda. 33 There he found a man named Aeneas who had been paralyzed and bedridden for eight years. 34 “Aeneas,” Peter said to him, “Jesus Christ heals you! Get up and put away your mat.” Immediately Aeneas got up, 35 and all who lived in Lydda and Sharon saw him and turned to the Lord."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Luke turns from Saul to Peter’s visits among the believers. In Lydda he finds Aeneas, who has been paralyzed and bedridden for eight years. Peter names Jesus Christ as the One healing him and tells him to get up and put away his mat.",
+    "",
+    "Aeneas rises immediately. The people in Lydda and Sharon see him and turn to the Lord. The result Luke stresses is not only a change in one man’s condition, but a response to the Lord among those who see him."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the healing as Christ’s work through Peter, with the apostle directing attention to Jesus rather than claiming independent power. The event leads its witnesses to the Lord."
+  ],
+  "god_plan_lines": [
+    "This continues the pattern already visible in [Acts 3:12–16](https://biblehub.com/bsb/acts/3.htm): Peter refuses personal credit for a healing and directs people to the risen Jesus. Acts shows Jesus’ work continuing through His witnesses after His ascension, with the healing serving the spread of the message."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/9.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-nine-review.md"
+  }
+}

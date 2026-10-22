@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "19:41-44",
+    "label": "Luke 19:41-44",
+    "slug": "luke-19-41-44"
+  },
+  "section_title": "Why does Jesus weep as He approaches Jerusalem?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "41 As Jesus approached Jerusalem and saw the city, He wept over it 42 and said, “If only you had known on this day what would bring you peace! But now it is hidden from your eyes. 43 For the days will come upon you when your enemies will barricade you and surround you and hem you in on every side. 44 They will level you to the ground—you and the children within your walls. They will not leave one stone on another, because you did not recognize the time of your visitation from God.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The joyful approach is followed by Jesus’ tears over Jerusalem. He speaks of the peace the city has failed to recognize and describes a coming siege: enemies surrounding it, its people hemmed in and devastating destruction.",
+    "",
+    "Jesus connects this warning with the city’s failure to recognize the time of God’s visitation. The Greek word is ἐπισκοπή, episkopē (eh-pih-skoh-PAY), meaning a visitation or inspection. Thayer explains its use here as God graciously offering salvation through Christ. The word therefore points to an opportunity to receive God’s help, not merely the arrival of an army. ([Thayer, Greek 1984](https://biblehub.com/greek/1984.htm))",
+    "",
+    "The tears matter alongside the warning. Jesus’ announcement of judgment is spoken with grief over what the city has missed."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly connect the warning with Jerusalem’s destruction under the Romans. The Catholic bishops’ notes identify the disaster of AD 70 as its historical setting; Wesley likewise connects the siege with Titus, while Calvin emphasizes Christ’s compassion as He grieves over the city’s coming ruin. ([USCCB notes on Luke 19:41–44](https://bible.usccb.org/bible/luke/19); [Wesley on Luke 19:42–44](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [Calvin on Luke 19:41–42](https://biblehub.com/commentaries/calvin/luke/19.htm))",
+    "",
+    "Josephus independently describes Roman siege works, the capture of Jerusalem and the burning of its neighborhoods. That is checkable historical background for this reading, rather than an added description of every person’s individual guilt. ([Josephus, Jewish War 6.8.1–5](https://penelope.uchicago.edu/josephus/war-6.html))"
+  ],
+  "god_plan_lines": [
+    "Luke’s account does not end with this warning. After the resurrection, Jesus commissions repentance and forgiveness to be proclaimed to the nations beginning at Jerusalem. The city over which He weeps is also the starting place of the announced mission of forgiveness. ([Luke 24:44–48](https://biblehub.com/bsb/luke/24.htm))",
+    "",
+    "Romans holds warning and mercy together: Paul says God has not rejected His people, warns Gentile believers against boasting over broken branches and speaks of God’s enduring call and purpose of mercy. That wider teaching keeps this lament within a Scriptural account of judgment and mercy, rather than making it a reason for contempt toward Jewish people. ([Romans 11:1–2, 17–22, 28–32](https://biblehub.com/bsb/romans/11.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/19.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-nineteen-closing-review.md"
+  }
+}

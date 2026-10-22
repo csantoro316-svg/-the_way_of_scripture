@@ -1,0 +1,49 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "1:1-4",
+    "label": "1 Kings 1:1-4",
+    "slug": "1-kings-1-1-4"
+  },
+  "section_title": "Why is Abishag brought to care for David?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Now King David was old and well along in years, and though they covered him with blankets, he could not keep warm. 2 So his servants said to him, “Let us search for a young virgin for our lord the king, to attend to him and care for him and lie by his side to keep him warm.” 3 Then they searched throughout Israel for a beautiful girl, and they found Abishag the Shunammite and brought her to the king. 4 The girl was unsurpassed in beauty; she cared for the king and served him, but he had no relations with her."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Kings begins with David still on the throne but physically weak. Even under blankets he cannot keep warm. His servants seek a young woman to attend him and lie beside him for warmth.",
+    "",
+    "Abishag the Shunammite is brought to him and cares for him. The narrator expressly says that David has no sexual relations with her. The scene establishes the king’s frailty before turning to the question of who will succeed him."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) and [Gill](https://biblehub.com/commentaries/gill/1_kings/1.htm) understand Abishag’s place in the household as that of a wife, while recognizing that the relationship is not consummated. Their reading also looks ahead to the dispute over marrying her in chapter 2.",
+    "",
+    "The present account emphasizes her care and David’s weakness. It names no particular disease and gives no marriage ceremony. Those details should be distinguished from the explanations readers may draw from the wider story."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/1.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-one-review.md"
+  }
+}

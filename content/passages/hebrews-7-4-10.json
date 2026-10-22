@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "7:4-10",
+    "label": "Hebrews 7:4-10",
+    "slug": "hebrews-7-4-10"
+  },
+  "section_title": "Why does Abraham’s gift matter to this comparison?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "4 Consider how great Melchizedek was: Even the patriarch Abraham gave him a tenth of the plunder. 5 Now the law commands the sons of Levi who become priests to collect a tenth from the people—that is, from their brothers—though they too are descended from Abraham. 6 But Melchizedek, who did not trace his descent from Levi, collected a tenth from Abraham and blessed him who had the promises. 7 And indisputably, the lesser is blessed by the greater.",
+        "8 In the case of the Levites, mortal men collect the tenth; but in the case of Melchizedek, it is affirmed that he lives on. 9 And so to speak, Levi, who collects the tenth, paid the tenth through Abraham. 10 For when Melchizedek met Abraham, Levi was still in the loin of his ancestor."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The writer asks the readers to consider Melchizedek’s greatness. Even Abraham, the patriarch who held God’s promises, gave him a tenth and received his blessing. The account is used to compare the standing of the two priesthoods.",
+    "",
+    "Levitical priests collect tithes from people who, like themselves, descend from Abraham. Melchizedek’s place in the comparison does not depend on that Levitical family line. Abraham’s receiving his blessing recognizes a greater priestly standing.",
+    "",
+    "Levi is then described as paying the tenth through Abraham, before Levi’s birth. The writer signals the representative way he is speaking. Abraham’s act shows the later priestly line acknowledging a priesthood beyond its own."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/7.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) both read the gift and blessing as recognizing Melchizedek’s higher priestly standing. Calvin distinguishes this priestly blessing from ordinary believers praying blessings for one another. The statement is about this relationship and office.",
+    "",
+    "They understand Levi’s payment through Abraham as a way of describing the descendant through the ancestor. The [USCCB note](https://bible.usccb.org/bible/hebrews/7) likewise takes it as acknowledgment by the later priestly line. The purpose here is the comparison of priesthoods, rather than a new set of giving instructions for the readers."
+  ],
+  "god_plan_lines": [
+    "[John 8:56–58](https://biblehub.com/bsb/john/8.htm) also places Abraham within a larger story fulfilled in Christ: Abraham rejoices at His day, and Jesus speaks of His existence before Abraham. Honoring Abraham does not require treating him as the highest point of God’s purpose.",
+    "",
+    "[Acts 3:25–26](https://biblehub.com/bsb/acts/3.htm) connects the promise to Abraham with God’s blessing through His servant Jesus. Hebrews’ priesthood comparison similarly directs the heirs of the promises toward the One who brings that purpose to completion."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/7.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-seven-review.md"
+  }
+}

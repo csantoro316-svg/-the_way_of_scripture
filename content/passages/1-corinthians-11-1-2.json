@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "11:1-2",
+    "label": "1 Corinthians 11:1-2",
+    "slug": "1-corinthians-11-1-2"
+  },
+  "section_title": "What kind of example and teaching should the church follow?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 You are to imitate me, just as I imitate Christ. 2 Now I commend you for remembering me in everything and for maintaining the traditions, just as I passed them on to you."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul’s invitation to imitate him finishes the thought at the end of chapter 10. He has described setting aside personal advantage for the good of others and their salvation. Christ is the standard behind that example: Paul asks people to follow him as he follows Christ.",
+    "",
+    "He then commends the Corinthians for remembering him and maintaining what he passed on. This praise introduces a discussion of practices in their worship, some of which will need correction. It does not mean every part of their life together already has Paul’s approval.",
+    "",
+    "The word traditions translates paradosis (pah-RAH-doh-sis), παράδοσις: teaching or instruction handed on; see [Thayer’s entry](https://biblehub.com/greek/3862.htm). The word itself does not mean an empty custom or a human addition to God’s commands. Here Paul is speaking positively about instruction he delivered. What was handed on, and whether it is faithful, matter more than simply labeling something traditional."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Paul’s example as accountable to Christ and his instruction as something the church should preserve. [Calvin’s comment on verse 1](https://biblehub.com/commentaries/calvin/1_corinthians/11.htm) identifies the verse with the preceding discussion and stresses Christ as the pattern. [Wesley’s note on verse 2](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) recognizes the genuine praise without treating it as approval of everyone’s conduct."
+  ],
+  "god_plan_lines": [
+    "In [John 13:12–17](https://biblehub.com/bsb/john/13.htm), Jesus washes His disciples’ feet and gives them an example of serving one another. His authority as Lord leads them into service, not into competing for importance.",
+    "",
+    "Paul’s imitation of Christ belongs within that same calling. The teaching passed from one generation of believers to another is meant to shape a people whose life reflects their Lord. A leader’s example helps only as it leads people toward Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/11.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-eleven-opening-review.md"
+  }
+}

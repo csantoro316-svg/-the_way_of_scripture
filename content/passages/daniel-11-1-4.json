@@ -1,0 +1,49 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "11:1-4",
+    "label": "Daniel 11:1-4",
+    "slug": "daniel-11-1-4"
+  },
+  "section_title": "What will become of the mighty kings who follow?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 “And I, in the first year of Darius the Mede, stood up to strengthen and protect him. 2 Now then, I will tell you the truth: Three more kings will arise in Persia, and then a fourth, who will be far richer than all the others. By the power of his wealth, he will stir up everyone against the kingdom of Greece. 3 Then a mighty king will arise, who will rule with great authority and do as he pleases. 4 But as soon as he is established, his kingdom will be broken up and parceled out toward the four winds of heaven. It will not go to his descendants, nor will it have the authority with which he ruled, because his kingdom will be uprooted and given to others."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The messenger continues the explanation begun in chapter 10. After recalling his support in Darius’s first year, he speaks of further Persian kings. A wealthy fourth king will stir up opposition to Greece.",
+    "",
+    "A mighty king then rises and rules with great authority. At the height of his establishment, his kingdom is broken and divided toward the four winds. It does not pass to his descendants with the authority he had exercised.",
+    "",
+    "This develops the pattern already shown through the ram and goat in chapter 8. The greatness of a ruler does not secure either the permanence of his kingdom or his family’s possession of it."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/daniel/11.htm) identifies the wealthy Persian king as Xerxes and the mighty king as Alexander. He notes that the passage’s selected Persian kings do not constitute a complete list of everyone who ruled Persia."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/11.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-eleven-review.md"
+  }
+}

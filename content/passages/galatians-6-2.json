@@ -5,18 +5,53 @@
     "label": "Galatians 6:2",
     "slug": "galatians-6-2"
   },
+  "section_title": "What does carrying one another’s burdens look like?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"Bear one another's burdens, and thereby fulfill the law of Christ.\""
+      "label": "BSB",
+      "paragraphs": [
+        "2 Carry one another’s burdens, and in this way you will fulfill the law of Christ."
+      ]
     }
   ],
   "context_lines": [
-    "In **Galatians 6**, Paul turns to the practical life that should flow from the gospel he has defended throughout the letter. The chapter stresses mutual burden-bearing, humility, sowing and reaping, and life in the new creation."
-  ],
-  "explanation_lines": [
-    "The early church was marked by radical interdependence. They sold possessions to meet each other's needs, wept together, fasted together, and prayed for one another. This wasn't an afterthought \u2014 it was the core of their identity. Love wasn't measured in sentiment but in sacrifice. To bear a burden meant sharing someone's struggle \u2014 to feel it, share it, and walk with them in it. This kind of mutual care was the living proof of the Gospel at work. It fulfilled what Jesus called the \"law of Christ\": love in action, sustained by grace and shared in community.",
+    "This verse belongs to [Galatians 6:1–5](https://thewayofscripture.com/passages/galatians-6-1-5.html), where Paul tells believers to restore someone caught in sin with gentleness and to watch their own vulnerability to temptation.",
     "",
-    "Today, churches often function more like events than families \u2014 gatherings with smiles and sermons, but little room for vulnerability. In the Catholic tradition, spiritual community is often mediated through clergy or formal parish structures, making deep, personal burden-sharing rare outside of small, intentional groups. In many Protestant settings, fellowship is often structured around programs or teaching rather than shared life, making it easy to hide behind theological knowledge while carrying secret pain. In non-denominational churches, community is frequently built around affinity groups, light social connection, or serving teams \u2014 but rarely around confession, grief, or sustained presence through hardship. What passes for fellowship is often friendly distance. But biblical burden-bearing is costly, slow, and deeply human."
-  ]
+    "Carrying another person’s burdens gives practical shape to the love described in 5:13–14. It helps explain what fulfilling the law of Christ looks like in shared life.",
+    "",
+    "The surrounding warning against pride matters. The helper must examine his own work, and each person remains responsible for his own conduct. Paul brings mutual help and personal responsibility into the same paragraph."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the law of Christ here as the call to love expressed through practical help. [Wesley’s note on verse 2](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-galatians/) describes sympathy and assistance in weaknesses and trials, and the [USCCB note on verse 2](https://bible.usccb.org/bible/galatians/6) connects it with serving one another through love."
+  ],
+  "god_plan_lines": [
+    "[John 13:34–35](https://biblehub.com/bsb/john/13.htm) connects love among Jesus’ disciples with His own love for them. [1 John 3:16–18](https://biblehub.com/bsb/1_john/3.htm) makes the connection concrete: Jesus laid down His life for us, and love for others is to take shape in action, including help for a brother in need.",
+    "",
+    "These passages show how mutual burden-sharing belongs to God’s larger work through His Son. The love shown in Christ’s self-giving becomes visible in a family that cares for its members. Helping one another is part of making that love known."
+  ],
+  "current_position_lines": [
+    "Our study [What Is the True Church?](https://thewayofscripture.com/studies/true-church.html), in its section on bearing one another’s burdens, understands this as costly, practical care within God’s family. Sharing a burden means walking with someone through the struggle, offering sustained presence and help. The study treats that shared life as love in action, made possible by grace."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/galatians/6.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-galatians-six-review.md",
+    "position_source_detail": "What Is the True Church? — We Bear One Another’s Burdens; content/studies/true_church.md:131–141, direct6:2 quotation. Limited to practical mutual care, without importing unchecked claims about entire denominations."
+  }
 }

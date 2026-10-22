@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "Nehemiah",
+    "citation": "11:25-36",
+    "label": "Nehemiah 11:25-36",
+    "slug": "nehemiah-11-25-36"
+  },
+  "section_title": "How do the surrounding towns belong to the restored community?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "25 As for the villages with their fields, some of the people of Judah lived in Kiriath-arba, Dibon, Jekabzeel, and their villages; 26 in Jeshua, Moladah, and Beth-pelet; 27 in Hazar-shual; in Beersheba and its villages; 28 in Ziklag; in Meconah and its villages; 29 in En-rimmon, Zorah, Jarmuth, 30 Zanoah, Adullam, and their villages; in Lachish and its fields; and in Azekah and its villages. So they settled from Beersheba all the way to the Valley of Hinnom.",
+        "31 The descendants of Benjamin from Geba lived in Michmash, Aija, and Bethel with its villages; 32 in Anathoth, Nob, Ananiah, 33 Hazor, Ramah, Gittaim, 34 Hadid, Zeboim, Neballat, 35 Lod, and Ono; and in the Valley of the Craftsmen. 36 And some divisions of the Levites of Judah settled in Benjamin."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The account turns from Jerusalem to the villages and fields where other people live. It names settlements associated with Judah and then those associated with Benjamin, and notes Levite divisions settling in Benjamin.",
+    "",
+    "The list describes an inhabited region around the city, with households living on their land. The restoration includes these towns and their fields as well as Jerusalem and its temple.",
+    "",
+    "The two settings belong together: chapter 10 describes produce coming from the towns to support temple service, while chapter 11 records both the people living in Jerusalem and those established beyond its walls."
+  ],
+  "common_interpretation_lines": [
+    "[Gill](https://biblehub.com/commentaries/gill/nehemiah/11.htm) understands the Levites’ distribution among the people as helping provide instruction. [Henry](https://biblehub.com/commentaries/mhc/nehemiah/11.htm) emphasizes faithfulness and usefulness in differing places. Their readings bring attention to the people outside Jerusalem as participants in the community’s life, with their own homes and responsibilities."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/nehemiah/11.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-nehemiah-ten-eleven-review.md"
+  }
+}

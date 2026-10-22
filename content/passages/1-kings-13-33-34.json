@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "13:33-34",
+    "label": "1 Kings 13:33-34",
+    "slug": "1-kings-13-33-34"
+  },
+  "section_title": "Do these warnings change Jeroboam’s course?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "33 Even after these events, Jeroboam did not repent of his evil ways, but again he appointed priests for the high places from every class of people. He ordained anyone who desired to be a priest of the high places. 34 And this was the sin of the house of Jeroboam that led to its extermination and destruction from the face of the earth."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The account returns to Jeroboam after the events surrounding the two prophets. Despite what has happened, he does not turn from his evil ways.",
+    "",
+    "He continues appointing priests for the high places from every class of people, accepting anyone who wants the role. The narrator identifies this sin as the course that leads to the destruction of his royal house.",
+    "",
+    "The contrast with the opening promise to Jeroboam is sharp. He had been offered an enduring dynasty with faithfulness to God; he persists in the worship arrangements created to secure his rule."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) and [Gill](https://biblehub.com/commentaries/gill/1_kings/13.htm) read the closing notice as continued refusal despite repeated warning. [Henry](https://biblehub.com/commentaries/mhc/1_kings/13.htm) draws attention to the failure of Jeroboam’s plan: the sinful means intended to preserve his family’s throne become the cause of its ruin.",
+    "",
+    "The healing and signs have not produced the repentance the narrative calls for. Receiving help and changing direction remain distinct responses."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/13.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-thirteen-review.md"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "22:15-22",
+    "label": "Matthew 22:15-22",
+    "slug": "matthew-22-15-22"
+  },
+  "section_title": "What Belongs to Caesar and What Belongs to God?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 Then the Pharisees went out and conspired to trap Jesus in His words. 16 They sent their disciples to Him along with the Herodians. “Teacher,” they said, “we know that You are honest and that You teach the way of God in accordance with the truth. You seek favor from no one, because You pay no attention to external appearance. 17 So tell us what You think: Is it lawful to pay taxes to Caesar or not?”",
+        "18 But Jesus knew their evil intent and said, “You hypocrites, why are you testing Me? 19 Show Me the coin used for the tax.” And they brought Him a denarius. 20 “Whose image is this,” He asked, “and whose inscription?” 21 “Caesar’s,” they answered. So Jesus told them, “Give to Caesar what is Caesar’s, and to God what is God’s.” 22 And when they heard this, they were amazed. So they left Him and went away."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After the parable, the Pharisees plan to trap Jesus through His words. Their disciples come with the Herodians, praise His honesty and impartiality, and ask whether God's law permits paying taxes to Caesar. Matthew tells us their purpose before recording the question, so their praise must be read in light of the trap.",
+    "",
+    "Jesus recognizes their intent and asks for the tax coin. They bring a denarius. He asks whose image and inscription it bears, and they answer that it is Caesar's. His reply joins giving Caesar his due with giving God His due. They are amazed and leave.",
+    "",
+    "The verb behind give is ἀποδίδωμι, *apodidōmi* (ah-poh-DID-oh-mee), which can mean to repay or give what is owed. [Thayer's entry](https://biblehub.com/greek/591.htm) places this verse among payments due to government. Jesus moves beyond the choice His questioners have set before Him and brings their duty to God into the answer."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as recognizing duties to civil government while preserving the higher claim of God. [Wesley on 22:17–21](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) explains the trap and both obligations; the Catholic [Catechism, 2240–2242](https://www.vatican.va/archive/ENG0015/__P7W.HTM), joins the duty to pay taxes with the duty to refuse commands contrary to God's demands."
+  ],
+  "god_plan_lines": [
+    "The coin's image can be placed beside a wider biblical truth: human beings bear God's image ([Genesis 1:26–28](https://biblehub.com/bsb/genesis/1.htm)). This is a parallel, rather than something Jesus spells out in this scene. It helps bring the closing words home: our obligation to God reaches into who we are and how we live.",
+    "",
+    "[Romans 12:1–2](https://biblehub.com/bsb/romans/12.htm) calls believers to offer their lives to God in response to His mercy. [Romans 13:1–7](https://biblehub.com/bsb/romans/13.htm) then describes responsible conduct toward governing authorities, including taxes. [Acts 5:27–32](https://biblehub.com/bsb/acts/5.htm) shows the apostles obeying God when authorities forbid their witness to Jesus. God's people are called to serve Him faithfully within society, with their whole lives belonging to Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/22.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-two-review.md"
+  }
+}

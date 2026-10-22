@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "7:15-16",
+    "label": "1 Corinthians 7:15-16",
+    "slug": "1-corinthians-7-15-16"
+  },
+  "section_title": "What if the unbelieving spouse leaves?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 But if the unbeliever leaves, let him go. The believing brother or sister is not bound in such cases. God has called you to live in peace. 16 How do you know, wife, whether you will save your husband? Or how do you know, husband, whether you will save your wife?"
+      ]
+    }
+  ],
+  "context_lines": [
+    "If the unbelieving spouse leaves, Paul says to let that person go. The believing brother or sister is not bound in such cases, and God has called His people to peace. This follows the instruction to continue a marriage when the unbelieving spouse is willing to remain.",
+    "",
+    "The question about saving a spouse recognizes something the believer cannot know or control. Hope for a spouse’s salvation matters, but it is not a guarantee that the marriage will continue or that the other person will believe. Paul does not tell the believer to preserve cohabitation at any cost."
+  ],
+  "common_interpretation_lines": [
+    "Christians recognize Paul’s permission to let the departing unbeliever go, but differ over the scope of the resulting freedom and when another marriage is permitted.",
+    "",
+    "The Catholic Church’s [canons 1143–1147](https://www.vatican.va/archive/cod-iuris-canonici/eng/documents/cic_lib4-cann998-1165_en.html) describe the Pauline privilege: a marriage initially entered by two unbaptized people can be dissolved in favor of the faith when one receives baptism and the other departs or refuses peaceful life together under the stated conditions. This can permit a new marriage through the church’s prescribed process; it is a different case from a consummated sacramental marriage between baptized spouses.",
+    "",
+    "The Reformed [Westminster Confession 24.6](https://www.opc.org/wcf.html) recognizes willful desertion that cannot be remedied by the church or civil authorities as a ground for dissolving a marriage. In his own reading of verse 15, Baptist commentator [John Gill](https://biblehub.com/commentaries/gill/1_corinthians/7.htm) permits remarriage after efforts at reconciliation have failed in the circumstances he describes. These explanations should not be reduced to a rule that any disagreement or departure automatically authorizes another marriage."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/7.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-seven-middle-review.md"
+  }
+}

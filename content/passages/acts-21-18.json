@@ -5,22 +5,49 @@
     "label": "Acts 21:18",
     "slug": "acts-21-18"
   },
-  "section_title": "",
-  "versions": [],
+  "section_title": "Why does Luke mention James and all the elders together?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "18 The next day Paul went in with us to see James, and all the elders were present."
+      ]
+    }
+  ],
   "context_lines": [
-    "Acts 21:18 should be read within the flow of its chapter and the larger argument of Acts."
+    "Paul has arrived in Jerusalem and received a warm welcome. The next day he meets James, and all the elders are present. He reports what God has done among the Gentiles, and the gathered leaders glorify God before discussing the concerns about his teaching.",
+    "",
+    "The verse names James without removing the elders from the scene. The advice that follows is presented within this gathered leadership. Reading only James’s name and leaving out the rest of the verse would give an incomplete picture of the meeting."
   ],
   "common_interpretation_lines": [
-    "James, the Lord's brother, clearly carries real weight in Jerusalem. Paul names him among the \"pillars\" of the church (Galatians 2:9). At the Jerusalem council, James speaks last and delivers the summary judgment: \"Therefore my judgment is that we should not trouble those of the Gentiles who turn to God\" (Acts 15:19). When Paul later returns to Jerusalem, he goes to see James, and \"all the elders were present\" (Acts 21:18).",
-    "",
-    "So did Jerusalem have a head bishop, decades before the office supposedly developed?",
-    "",
-    "Look closer at how the text actually presents it. The Jerusalem council's decision is never James acting alone \u2014 it comes from \"the apostles and the elders, with the whole church\" (Acts 15:22), and the resulting letter is sent in the name of \"the brothers, both the apostles and the elders\" (Acts 15:23). James speaks with recognized authority, but the decision and the letter are corporate. And when Paul visits in Acts 21, James is never alone \u2014 the elders are present with him, functioning as a body, every time Scripture puts James in a leadership scene."
+    "Christians commonly recognize James’s prominence in Jerusalem and the presence of a group of elders. Traditions differ over how this relates to later church offices. The Catholic [Catechism 1562–1567](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_three/article_6/iii_the_three_degrees_of_the_sacrament_of_holy_orders.index.html) describes bishops with priests as their coworkers. The Reformed Baptist [1689 Confession 26:8–9](https://www.the1689confession.com/1689/chapter-26) describes bishops or elders as the same local office. These wider accounts of leadership shape how readers understand James’s standing; this single verse does not describe every later arrangement."
+  ],
+  "god_plan_lines": [
+    "Paul’s report brings the Gentile mission before the Jerusalem believers, who respond by glorifying God. [Romans 15:7–9](https://biblehub.com/bsb/romans/15.htm) connects welcome between believers with God’s promises to Israel and mercy shown among the Gentiles. Their shared praise belongs to that larger concern for one people welcoming those God has received."
+  ],
+  "current_position_lines": [
+    "Who Shepherds the Church? directly discusses Acts 21:18 alongside the earlier Jerusalem meeting. Its position is that James has recognized personal standing while the elders continue to function together. Paul visits James with all the elders present; the study does not read this as a scene in which one man has replaced their shared responsibility. "
   ],
   "deeper_study": [
     {
       "title": "Who Shepherds the Church?",
       "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/21.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twenty-one-review.md",
+    "position_source_detail": "Who Shepherds the Church?: direct Acts21:18, James and all elders."
+  }
 }

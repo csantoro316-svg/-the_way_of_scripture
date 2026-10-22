@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "2:13-17",
+    "label": "Mark 2:13-17",
+    "slug": "mark-2-13-17"
+  },
+  "section_title": "Jesus Calls Levi and Eats with Sinners",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 Once again Jesus went out beside the sea. All the people came to Him, and He taught them there. 14 As He was walking along, He saw Levi son of Alphaeus sitting at the tax booth. “Follow Me,” He told him, and Levi got up and followed Him.",
+        "15 While Jesus was dining at Levi’s house, many tax collectors and sinners were eating with Him and His disciples—for there were many who followed Him. 16 When the scribes who were Pharisees saw Jesus eating with these people, they asked His disciples, “Why does He eat with tax collectors and sinners?” 17 On hearing this, Jesus told them, “It is not the healthy who need a doctor, but the sick. I have not come to call the righteous, but sinners.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus teaches beside the sea, then calls Levi son of Alphaeus from his tax booth. Levi gets up and follows Him. In the [parallel account, Matthew 9:9–13](https://biblehub.com/bsb/matthew/9.htm), the tax collector is called Matthew; Christians have traditionally understood these as two names for the same man. Mark does not describe a change of name.",
+    "",
+    "The next scene brings Jesus and His disciples to a meal with many tax collectors and sinners. [Luke 5:27–32](https://biblehub.com/bsb/luke/5.htm) explains that Levi hosts the banquet at his own house. Some scribes who are Pharisees question why Jesus eats with these people. Their objection brings the purpose of His ministry into focus: whom has He come to call?",
+    "",
+    "Jesus answers with the picture of a doctor going to sick people. Their need is the reason for His presence. Eating with sinners does not mean declaring their conduct harmless: Luke's account explicitly says He calls them to repentance. Levi's response gives the scene a concrete example of that change—he gets up to follow Jesus."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand Jesus' meal as mercy toward sinners and a call to change, rather than approval of sin. [Calvin on Matthew 9:12–13](https://biblehub.com/commentaries/calvin/mark/2.htm) and the [US Catholic bishops' note on Mark 2:17](https://bible.usccb.org/bible/mark/2) understand the healthy people in His comparison as those who consider themselves righteous, rather than a separate group with no need of God's help."
+  ],
+  "god_plan_lines": [
+    "In [Matthew 9:13](https://biblehub.com/bsb/matthew/9.htm), Jesus explains this same meal by pointing to [Hosea 6:6](https://biblehub.com/bsb/hosea/6.htm), where God puts mercy and knowing Him ahead of empty religious observance. Jesus' welcome does not abandon God's earlier purpose; it shows that purpose at work among people others want to keep at a distance.",
+    "",
+    "The need reaches beyond the people around this table. [Romans 3:9–26](https://biblehub.com/bsb/romans/3.htm) includes both Jews and Gentiles under sin, then describes the grace and redemption God gives through Jesus Christ. The doctor picture helps us see why Jesus' saving work is needed by everyone, including people with a respectable religious life."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-two-closing-review.md"
+  }
+}

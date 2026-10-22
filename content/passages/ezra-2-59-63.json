@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Ezra",
+    "citation": "2:59-63",
+    "label": "Ezra 2:59-63",
+    "slug": "ezra-2-59-63"
+  },
+  "section_title": "What happens when a family cannot establish its priestly descent?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "59 The following came up from Tel-melah, Tel-harsha, Cherub, Addan, and Immer, but they could not prove that their families were descended from Israel: 60 the descendants of Delaiah, the descendants of Tobiah, and the descendants of Nekoda, 652 in all.",
+        "61 And from among the priests: the descendants of Hobaiah, the descendants of Hakkoz, and the descendants of Barzillai (who had married a daughter of Barzillai the Gileadite and was called by their name). 62 These men searched for their family records, but they could not find them and so were excluded from the priesthood as unclean. 63 The governor ordered them not to eat the most holy things until there was a priest to consult the Urim and Thummim."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Some returning groups cannot prove that their families descend from Israel. The account then identifies priestly families who search for their records but cannot find them.",
+    "",
+    "Those unable to establish priestly descent are excluded from the priesthood and from eating the most holy things while the matter remains unresolved. The governor directs them to wait for a priest who can consult the Urim and Thummim.",
+    "",
+    "The stated restriction concerns priestly standing and its privileges. The passage does not say that everyone with missing ancestry records is expelled from the returning population, nor does it describe how the Urim and Thummim would provide an answer."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-ezra/) and [Gill](https://biblehub.com/commentaries/gill/ezra/2.htm) understand the decision as protecting the requirements of priestly service until the question can be settled. [Henry](https://biblehub.com/commentaries/mhc/ezra/2.htm) also draws a spiritual lesson about needing a true relationship with God rather than merely claiming its privileges. That is his application beyond the immediate issue of the families’ records."
+  ],
+  "god_plan_lines": [
+    "The importance of descent for this priesthood provides background for the different basis of Jesus’ priesthood in [Hebrews 7:11–28](https://biblehub.com/bsb/hebrews/7.htm). Hebrews explicitly says He belongs to Judah, a tribe from which Moses did not appoint priests, and grounds His permanent priesthood in God’s oath and His enduring life.",
+    "",
+    "This is a wider connection, not a claim that Ezra directly predicts Jesus in the missing records. It helps explain why the New Testament gives careful attention to how Jesus can serve as high priest and why people draw near to God through Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezra/2.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezra-one-two-review.md"
+  }
+}

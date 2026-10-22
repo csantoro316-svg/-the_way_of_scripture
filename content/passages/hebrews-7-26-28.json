@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "7:26-28",
+    "label": "Hebrews 7:26-28",
+    "slug": "hebrews-7-26-28"
+  },
+  "section_title": "Why is one offering from this high priest enough?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "26 Such a high priest truly befits us—One who is holy, innocent, undefiled, set apart from sinners, and exalted above the heavens. 27 Unlike the other high priests, He does not need to offer daily sacrifices, first for His own sins and then for the sins of the people; He sacrificed for sin once for all when He offered up Himself. 28 For the law appoints as high priests men who are weak; but the oath, which came after the law, appointed the Son, who has been made perfect forever."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The chapter closes by describing the priest people need: holy, innocent, undefiled and exalted above the heavens. Jesus’ freedom from sin distinguishes Him from priests who must first offer for sins of their own.",
+    "",
+    "He offers Himself once for all. His sacrifice is not another turn in a cycle of repeated offerings. The oath appoints the Son, whose priestly work reaches its lasting completion.",
+    "",
+    "His being set apart from sinners describes His purity and exalted place, not an unwillingness to help them. The chapter has just explained His continuing intercession for those who approach God through Him."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/7.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) both understand Christ’s sinlessness and once-for-all self-offering as the answer to the limitations of the earlier priests. His continuing intercession does not require another death for sins.",
+    "",
+    "Traditions differ over how this sacrifice is related to the Eucharist, or Lord’s Supper. The Catholic [Catechism, 1366–1367](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_3/v_the_sacramental_sacrifice_thanksgiving_memorial_presence.index.html), teaches that the celebration makes Christ’s one sacrifice present, with a different manner of offering. The Reformed [Westminster Confession, 29.1–2](https://www.opc.org/wcf.html), understands the Supper as commemorating the one offering and rejects a sacrificial offering for sins in it. The difference should be described without saying Catholics believe Christ is crucified again."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 10:11–14](https://biblehub.com/bsb/hebrews/10.htm) develops the contrast between repeated priestly offerings and Christ sitting after His one sacrifice. The chapter’s conclusion here prepares that fuller explanation of what His offering accomplishes.",
+    "",
+    "[Ephesians 5:1–2](https://biblehub.com/bsb/ephesians/5.htm) joins Christ’s self-giving offering with the call for His people to walk in love. His completed saving work becomes the ground and pattern of a grateful life, without making their acts additional atonement for sin."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/7.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-seven-review.md"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "7:13-14",
+    "label": "Daniel 7:13-14",
+    "slug": "daniel-7-13-14"
+  },
+  "section_title": "Who receives the kingdom that will never end?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 In my vision in the night I continued to watch, and I saw One like the Son of Man coming with the clouds of heaven. He approached the Ancient of Days and was led into His presence. 14 And He was given dominion, glory, and kingship, that the people of every nation and language should serve Him. His dominion is an everlasting dominion that will not pass away, and His kingdom is one that will never be destroyed."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Daniel sees One like the Son of Man coming with heaven’s clouds. He approaches the Ancient of Days and is brought into His presence.",
+    "",
+    "He receives dominion, glory and kingship, so that people of every nation and language serve Him. His kingdom will never be destroyed. The human-like figure stands in contrast to the beasts whose dominion has just been judged.",
+    "",
+    "The direction of movement matters: the figure comes before the Ancient of Days and receives authority. The vision centers on a kingdom granted from heaven, with a reach and permanence beyond any of the earlier powers."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/daniel/7.htm) identifies the figure as the Messiah and connects His reception of authority with Christ’s ascension. [Gaebelein](https://biblehub.com/commentaries/gaebelein/daniel/7.htm) emphasizes Christ’s second coming and the kingdom He then receives.",
+    "",
+    "[Cambridge](https://biblehub.com/commentaries/cambridge/daniel/7.htm) understands the figure in the vision as representing God’s glorified people, connecting it with the saints receiving the kingdom later in the chapter. The [USCCB notes](https://bible.usccb.org/bible/daniel/7) discuss both individual and collective readings. These questions about the original vision are distinct from the Gospels’ clear application of its language to Jesus."
+  ],
+  "god_plan_lines": [
+    "Jesus directly takes up this language in [Mark 14:60–65](https://biblehub.com/bsb/mark/14.htm). Asked whether He is the Christ, He speaks of the Son of Man seated at the right hand of Power and coming with heaven’s clouds.",
+    "",
+    "The One being condemned before a human court identifies Himself with the figure who receives heavenly authority. This connection brings Daniel’s everlasting kingdom into the revelation of Jesus Himself: the accused and rejected Messiah is also the One whose authority human judgment cannot remove."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Who is The Angel of the Lord?",
+      "href": "../studies/angel-of-the-lord.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/7.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-seven-review.md"
+  }
+}

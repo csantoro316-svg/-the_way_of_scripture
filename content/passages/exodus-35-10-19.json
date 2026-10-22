@@ -5,34 +5,55 @@
     "label": "Exodus 35:10-19",
     "slug": "exodus-35-10-19"
   },
-  "section_title": "The Skilled Craftsmen",
+  "section_title": "Who will turn these gifts into a place of worship?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "10 Let every skilled craftsman among you come and make everything that the LORD has commanded:",
-        "11 the tabernacle with its tent and covering, its clasps and frames, its crossbars, posts, and bases;",
-        "12 the ark with its poles and mercy seat, and the veil to shield it;",
-        "13 the table with its poles, all its utensils, and the Bread of the Presence;",
-        "14 the lampstand for light with its accessories and lamps and oil for the light;",
-        "15 the altar of incense with its poles;",
-        "the anointing oil and fragrant incense;",
-        "the curtain for the doorway at the entrance to the tabernacle;",
-        "16 the altar of burnt offering with its bronze grate, its poles, and all its utensils;",
-        "the basin with its stand;",
-        "17 the curtains of the courtyard with its posts and bases, and the curtain for the gate of the courtyard;",
-        "18 the tent pegs for the tabernacle and for the courtyard, along with their ropes;",
-        "19 and the woven garments for ministering in the holy place\u2014both the holy garments for Aaron the priest and the garments for his sons to serve as priests.\u201d"
+        "10 Let every skilled craftsman among you come and make everything that the LORD has commanded: 11 the tabernacle with its tent and covering, its clasps and frames, its crossbars, posts, and bases; 12 the ark with its poles and mercy seat, and the veil to shield it; 13 the table with its poles, all its utensils, and the Bread of the Presence; 14 the lampstand for light with its accessories and lamps and oil for the light;",
+        "15 the altar of incense with its poles; the anointing oil and fragrant incense; the curtain for the doorway at the entrance to the tabernacle; 16 the altar of burnt offering with its bronze grate, its poles, and all its utensils; the basin with its stand; 17 the curtains of the courtyard with its posts and bases, and the curtain for the gate of the courtyard; 18 the tent pegs for the tabernacle and for the courtyard, along with their ropes; 19 and the woven garments for ministering in the holy place—both the holy garments for Aaron the priest and the garments for his sons to serve as priests.”"
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 35**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "The appeal now moves from materials to skilled work. Moses invites the craftsmen to make everything God has commanded: the structure, furnishings, curtains, courtyard, utensils, and priestly garments. Giving supplies is only part of the task; people must also use their abilities to make and assemble them.",
+    "",
+    "The list includes both prominent objects, such as the ark, and easily overlooked necessities, such as pegs and ropes. All belong to the same work. It also distinguishes the garments for Aaron and his sons from the other equipment, keeping the priestly service within the larger preparation of God’s dwelling."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Skilled Craftsmen** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 35** remains the first control on meaning."
+    "Skilled work is itself part of Israel’s service to God. [Calvin’s discussion of the craftsmen](https://biblehub.com/commentaries/calvin/exodus/31.htm) treats ordinary practical abilities as God’s gifts, which are to be used gratefully."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The shared work helps illustrate a wider biblical pattern. [Romans 12:3–8](https://biblehub.com/bsb/romans/12.htm) describes people who belong to one another in Christ while serving through different gifts—teaching, practical service, giving, leadership, encouragement, and mercy. Paul’s point is not that everyone has the same function, but that each should use what God has given.",
+    "",
+    "The craftsmen are not a hidden list of those New Testament gifts. Their work provides a useful parallel: God’s purpose brings different contributions together. A community needs more than people who can supply resources; it also needs people who faithfully put their abilities to work for others."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/exodus/35.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-exodus-thirty-five-review.md"
+  }
 }

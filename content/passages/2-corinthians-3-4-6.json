@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "2 Corinthians",
+    "citation": "3:4-6",
+    "label": "2 Corinthians 3:4-6",
+    "slug": "2-corinthians-3-4-6"
+  },
+  "section_title": "Where does the ability to serve the new covenant come from?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "4 Such confidence before God is ours through Christ. 5 Not that we are competent in ourselves to claim that anything comes from us, but our competence comes from God. 6 And He has qualified us as ministers of a new covenant, not of the letter but of the Spirit; for the letter kills, but the Spirit gives life."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul follows the picture of a letter from Christ with a statement about confidence. His confidence is before God through Christ. He and his companions cannot claim that their ability or the fruit of their work comes from themselves.",
+    "",
+    "God has qualified them to serve a new covenant: a new relationship established by His promise. Paul contrasts the letter that kills with the Spirit who gives life. The next verses identify the stone-engraved law and its condemning effect as the setting of that contrast.",
+    "",
+    "The point is not that careful reading is harmful or that the Spirit makes the words of Scripture unimportant. Paul is explaining the difference between a written command that exposes and condemns sin and the life God gives through His Spirit."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as dependence on God for ministry and as a contrast between the Mosaic covenant and the life-giving work of the Spirit. [Wesley’s notes on verses 4–6](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-the-corinthians/) identify the letter with the law written on the tablets. The [USCCB notes on verses 4–6](https://bible.usccb.org/bible/2corinthians/3) connect new covenant with Jeremiah’s promise. Neither explanation makes the passage an instruction to stop studying Scripture."
+  ],
+  "god_plan_lines": [
+    "[Jeremiah 31:31–34](https://biblehub.com/bsb/jeremiah/31.htm) promises a new covenant with Israel and Judah: God’s law written on hearts, a people who know Him, and sins forgiven. Paul’s language belongs within that promised renewal.",
+    "",
+    "The goal is a relationship in which God is known and His people live as His own. His life-giving work supplies what people cannot produce by presenting their own qualifications. The promise joins inward change and forgiveness rather than treating them as unrelated needs."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_corinthians/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-corinthians-three-review.md"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "1:15-21",
+    "label": "Ezekiel 1:15-21",
+    "slug": "ezekiel-1-15-21"
+  },
+  "section_title": "Why do the wheels move together with the living creatures?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 When I looked at the living creatures, I saw a wheel on the ground beside each creature with its four faces. 16 The workmanship of the wheels looked like the gleam of beryl, and all four had the same likeness. Their workmanship looked like a wheel within a wheel. 17 As they moved, they went in any of the four directions, without pivoting as they moved. 18 Their rims were high and awesome, and all four rims were full of eyes all around.",
+        "19 So as the living creatures moved, the wheels moved beside them, and when the creatures rose from the ground, the wheels also rose. 20 Wherever the spirit would go, they would go, and the wheels would rise alongside them, because the spirit of the living creatures was in the wheels. 21 When the creatures moved, the wheels moved; when the creatures stood still, the wheels stood still; and when the creatures rose from the ground, the wheels rose alongside them, because the spirit of the living creatures was in the wheels."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Ezekiel sees a wheel on the ground beside each living creature. All four have the same appearance, gleaming like beryl, and their construction looks like a wheel within a wheel.",
+    "",
+    "They move in any of four directions without pivoting. Their high, awesome rims are covered with eyes. When the creatures move, stop or rise, the wheels do the same beside them.",
+    "",
+    "The repeated explanation is that the spirit of the living creatures is in the wheels. The description stresses a single, coordinated movement, with the wheels and creatures acting together rather than independently."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezekiel/1.htm) and [Wesley](https://biblehub.com/commentaries/wes/ezekiel/1.htm) understand the wheels as a picture of God’s wise rule over events in the world. The creatures serve Him, and the movement of the wheels expresses the ordering of events under His direction.",
+    "",
+    "Both connect the many eyes with His wisdom and watchful care. What looks complex or difficult to follow from a human viewpoint is still governed by His purpose.",
+    "",
+    "The [USCCB notes](https://bible.usccb.org/bible/ezekiel/1) emphasize the difficulty of describing the divine world in ordinary language. The repeated directions and movements contribute to the mystery of the vision. These explanations keep attention on the meaning of the movement rather than requiring a complete mechanical drawing."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/1.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-one-review.md"
+  }
+}

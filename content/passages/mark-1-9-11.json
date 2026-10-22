@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "1:9-11",
+    "label": "Mark 1:9-11",
+    "slug": "mark-1-9-11"
+  },
+  "section_title": "Jesus Is Baptized and the Father Speaks",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "9 In those days Jesus came from Nazareth in Galilee and was baptized by John in the Jordan. 10 As soon as Jesus came up out of the water, He saw the heavens breaking open and the Spirit descending on Him like a dove. 11 And a voice came from heaven: “You are My beloved Son; in You I am well pleased.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The One John has been announcing now arrives from Nazareth in Galilee and is baptized in the Jordan. As Jesus comes up from the water, He sees the heavens breaking open, the Spirit descending on Him like a dove, and hears the voice identifying Him as the beloved Son in whom God delights.",
+    "",
+    "Breaking open comes from σχίζω, *schizō* (SKHEE-zoh), meaning to tear or split apart. [Thayer's entry](https://biblehub.com/greek/4977.htm) explicitly lists the heavens in this verse. Mark uses vivid language for God's disclosure of His Son.",
+    "",
+    "Mark keeps the scene brief. [Matthew 3:13–17](https://the-way-of-scripture.web.app/passages/matthew-3-13-17.html) also records John's hesitation and Jesus' answer about fulfilling righteousness. [John 1:29–34](https://biblehub.com/bsb/john/1.htm) explains that the Spirit descending and remaining was the sign John had been given to recognize the One who baptizes with the Holy Spirit.",
+    "",
+    "The Father speaks, the Son is baptized, and the Spirit descends. The scene follows John's promise of the coming One's greater work and comes immediately before Jesus' testing in the wilderness."
+  ],
+  "common_interpretation_lines": [
+    "The major Christian traditions understand this as the public revelation of Jesus as God's beloved Son and the beginning of His ministry, rather than His admission of personal sin. The Catholic [Catechism, 535–536](https://www.vatican.va/archive/ENG0015/__P1L.HTM), and [Calvin on the parallel Matthew 3:13–17](https://biblehub.com/commentaries/calvin/mark/1.htm), both emphasize His willing obedience to the Father and His action for others; no denominational breakdown is needed for that shared understanding."
+  ],
+  "god_plan_lines": [
+    "The Father's words bring together themes found in [Psalm 2:6–9](https://biblehub.com/bsb/psalms/2.htm), where God speaks of His royal Son, and [Isaiah 42:1–7](https://biblehub.com/bsb/isaiah/42.htm), where He delights in His servant and places His Spirit on Him. These are scriptural parallels: Mark does not introduce the voice as a direct quotation of either passage. Together they help us see the coming ministry as both the work of God's King and the service of the One He has chosen.",
+    "",
+    "John's testimony in [John 1:29–34](https://biblehub.com/bsb/john/1.htm) joins this identification with Jesus' work as the Lamb who takes away the world's sin. He comes among those receiving John's baptism, while His own calling is to deal with their sin. The scene points forward to the saving work of the Son whom the Father loves, not to Jesus becoming God's Son for the first time."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/1.htm",
+    "plan_basis": [
+      "a",
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-one-baptism-review.md"
+  }
+}

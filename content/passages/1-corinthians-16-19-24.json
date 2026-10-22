@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "16:19-24",
+    "label": "1 Corinthians 16:19-24",
+    "slug": "1-corinthians-16-19-24"
+  },
+  "section_title": "What holds distant churches together while they await the Lord?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "19 The churches in the province of Asia send you greetings. Aquila and Prisca greet you warmly in the Lord, and so does the church that meets at their house. 20 All the brothers here send you greetings. Greet one another with a holy kiss. 21 This greeting is in my own hand—Paul.",
+        "22 If anyone does not love the Lord, let him be under a curse. Come, O Lord! 23 The grace of the Lord Jesus be with you. 24 My love be with all of you in Christ Jesus. Amen."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul passes on greetings from the churches in the province of Asia, from Aquila and Prisca and the church in their house, and from the brothers with him. The Corinthians’ local troubles have not separated them from the wider family of believers.",
+    "",
+    "The instruction to greet one another with a holy kiss expresses fellowship within that family. Paul then identifies the greeting written in his own hand. He does not say here who wrote the rest of the letter.",
+    "",
+    "His closing words combine a solemn warning about not loving the Lord, a plea for the Lord to come, the grace of Jesus and Paul’s love for them all. The warning should not erase the grace and affection with which this difficult letter ends.",
+    "",
+    "The plea translated Come, O Lord! carries an Aramaic expression into the Greek letter; see [Thayer’s entry](https://biblehub.com/greek/3134.htm). The [USCCB note on verse 22](https://bible.usccb.org/bible/1corinthians/16) explains the prayer reading followed by the BSB, while noting that dividing the expression differently gives another reading. The main text is kept as the BSB presents it."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly recognize the greetings as an expression of shared belonging and the closing appeal as looking toward the Lord. [Wesley’s note on verse 22](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) explains the Aramaic expression in terms of the Lord’s coming; the [USCCB note](https://bible.usccb.org/bible/1corinthians/16) explains it as a prayer for Him to come. Those explanations share the focus on the Lord while describing the wording differently."
+  ],
+  "god_plan_lines": [
+    "[Revelation 22:20–21](https://biblehub.com/bsb/revelation/22.htm) also closes with a plea for the Lord Jesus to come and with His grace. The hope reaches beyond the resolution of one congregation’s problems to the Lord Himself.",
+    "",
+    "The greetings and that shared expectation belong together. Believers in different homes and regions look toward the same Lord and depend on His grace. Paul’s final love for the Corinthians includes the whole troubled congregation he has been working to restore."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/16.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-sixteen-review.md"
+  }
+}

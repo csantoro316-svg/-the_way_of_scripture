@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "15:36-41",
+    "label": "Acts 15:36-41",
+    "slug": "acts-15-36-41"
+  },
+  "section_title": "What happens when Paul and Barnabas disagree about Mark?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "36 Some time later Paul said to Barnabas, “Let us go back and visit the brothers in every town where we proclaimed the word of the Lord, to see how they are doing.” 37 Barnabas wanted to take John, also called Mark. 38 But Paul thought it best not to take him, because he had deserted them in Pamphylia and had not accompanied them in the work. 39 Their disagreement was so sharp that they parted company. Barnabas took Mark and sailed for Cyprus, 40 but Paul chose Silas and left, commended by the brothers to the grace of the Lord. 41 And he traveled through Syria and Cilicia, strengthening the churches."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul proposes revisiting the believers in the towns where they have preached. Barnabas wants to take John Mark, but Paul objects because Mark had left them in Pamphylia and not continued in the work. Luke identifies the earlier departure as the issue between them.",
+    "",
+    "The disagreement becomes sharp enough for them to separate. Barnabas takes Mark to Cyprus; Paul chooses Silas and leaves with the brothers’ commendation to the Lord’s grace. He travels through Syria and Cilicia, strengthening the churches.",
+    "",
+    "The account does not describe a disagreement about the gospel they have just defended together. It records a painful division over who should accompany the work. Both routes continue outward, though Luke now follows Paul and Silas."
+  ],
+  "common_interpretation_lines": [
+    "Commentators differ over how to assess the conduct of the two men. [Wesley on verse 39](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) regards Paul as right and places the sharpness chiefly with Barnabas. [Calvin’s discussion of Barnabas’s proposal](https://biblehub.com/commentaries/calvin/acts/15.htm) also takes Paul’s concern seriously, but allows that both men may have gone too far and that a reasonable accommodation was possible.",
+    "",
+    "Luke states the reason for Paul’s objection and the resulting separation without giving a full judgment on every motive or emotion. These assessments belong to the commentators, rather than a unanimous Christian verdict that one partner’s entire ministry is discredited."
+  ],
+  "god_plan_lines": [
+    "Mark’s earlier departure and this disagreement are not the end of his service. [Philemon 24](https://biblehub.com/bsb/philemon/1.htm) lists Mark among Paul’s coworkers, and [2 Timothy 4:11](https://biblehub.com/bsb/2_timothy/4.htm) records Paul asking for him because he is useful in ministry.",
+    "",
+    "The later references show room for renewed service after a damaged partnership. They do not make the painful separation harmless, but they keep this incident from becoming the final word on Mark or the work God continues through His servants."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/15.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-fifteen-review.md"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "1 Timothy",
+    "citation": "1:1-2",
+    "label": "1 Timothy 1:1-2",
+    "slug": "1-timothy-1-1-2"
+  },
+  "section_title": "What is the foundation of Paul’s charge to Timothy?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Paul, an apostle of Christ Jesus by the command of God our Savior and of Christ Jesus our hope, 2 To Timothy, my true child in the faith: Grace, mercy, and peace from God the Father and Christ Jesus our Lord."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul introduces himself as an apostle of Christ Jesus by the command of God our Savior and Christ Jesus our hope. His authority to give the coming charge rests in the Lord who appointed him.",
+    "",
+    "Timothy is addressed as Paul’s true child in the faith. This describes their close relationship in the gospel. Paul wishes him grace, mercy and peace from God the Father and Christ Jesus the Lord.",
+    "",
+    "The following verses explain Timothy’s immediate responsibility in Ephesus. This greeting places that work within a relationship of faith and dependence on God’s saving care."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as Paul affirming his commission and encouraging Timothy in their shared faith. [Wesley’s notes on verses 1–2](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-timothy/) connect Christ with the ground of their hope and mercy with the needs of the person serving. The greeting gives the coming instructions a setting of grace, mercy and peace."
+  ],
+  "god_plan_lines": [
+    "[Acts 9:10–16](https://biblehub.com/bsb/acts/9.htm) describes the Lord appointing Paul to carry His name before Gentiles, kings and Israel. Timothy’s work belongs within the mission Paul received, rather than a private project detached from the spread of Christ’s message.",
+    "",
+    "[Titus 2:11–14](https://biblehub.com/bsb/titus/2.htm) connects God’s saving grace and the hope of Christ’s appearing with a people He redeems and forms for good works. The Savior and hope named in the greeting point toward that larger purpose for the community Timothy serves."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_timothy/1.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-timothy-one-opening-review.md"
+  }
+}

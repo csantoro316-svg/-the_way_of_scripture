@@ -5,28 +5,54 @@
     "label": "Exodus 1:1-7",
     "slug": "exodus-1-1-7"
   },
-  "section_title": "The Israelites Multiply in Egypt",
+  "section_title": "How did Jacob’s family become a people in Egypt?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 These are the names of the sons of Israel who went to Egypt with Jacob, each with his family:",
-        "2 Reuben, Simeon, Levi, and Judah;",
-        "3 Issachar, Zebulun, and Benjamin;",
-        "4 Dan and Naphtali;",
-        "Gad and Asher.",
-        "5 The descendants of Jacob numbered seventy in all, including Joseph, who was already in Egypt.",
+        "1 These are the names of the sons of Israel who went to Egypt with Jacob, each with his family: 2 Reuben, Simeon, Levi, and Judah; 3 Issachar, Zebulun, and Benjamin; 4 Dan and Naphtali; Gad and Asher. 5 The descendants of Jacob numbered seventy in all, including Joseph, who was already in Egypt.",
         "6 Now Joseph and all his brothers and all that generation died, 7 but the Israelites were fruitful and increased rapidly; they multiplied and became exceedingly numerous, so that the land was filled with them."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 1**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "Exodus begins by naming the sons of Israel who came to Egypt with Jacob. It picks up the family story told in Genesis, where Joseph was already living in Egypt and his relatives joined him during the famine.",
+    "",
+    "The opening count is seventy, with Joseph already in Egypt. The story then moves beyond that generation: Joseph, his brothers and their contemporaries die, while their descendants become numerous and fill the land.",
+    "",
+    "The repeated descriptions of fruitfulness and increase make growth the main event in these verses. The small family has become a people. That growth will soon trouble Egypt’s new king, setting up the conflict that follows."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Israelites Multiply in Egypt** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 1** remains the first control on meaning."
+    "The shared emphasis is God’s faithfulness to His promises about Abraham’s family. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) understands the increase as the result of the promise made to the fathers. The Catholic [USCCB notes](https://bible.usccb.org/bible/exodus/1) also connect it with those promises and with the language of blessing and multiplication in Genesis. These explanations share the passage’s movement from one family to a growing people."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "In [Genesis 46:2–4](https://biblehub.com/bsb/genesis/46.htm), God told Jacob not to fear going to Egypt because He would make him a great nation there. The growth at the opening of Exodus belongs directly with that promise. Egypt is part of the story God has already begun with this family.",
+    "",
+    "Stephen makes the connection explicit in [Acts 7:17](https://biblehub.com/bsb/acts/7.htm): the people increased as the time approached for God to fulfill His promise to Abraham. That promise reaches back to [Genesis 12:1–3](https://biblehub.com/bsb/genesis/12.htm), where the making of a great nation belongs within God’s purpose to bless all the families of the earth."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/1.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-opening-review.md"
+  }
 }

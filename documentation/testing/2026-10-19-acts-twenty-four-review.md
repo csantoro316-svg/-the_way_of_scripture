@@ -1,0 +1,41 @@
+# Acts 24 editorial review
+
+Four groups:1–9,10–21,22–27 and preserved14. Two existing-study positions from Worship and Returning to the Word, limited to24:14loyalservice/nameWay/lifegroundedScripture. Other two exact required open wording. Whole baseline PDF read through381:24lesson370–380complete;25–26opening381read ahead. Public prose independently composed.
+
+## Sources actually read
+
+Actual BSB24all26mainversesandfootnotes1/6/18/20 read at https://biblehub.com/bsb/acts/24.htm . Actualmainset1–27except7confirmed. Footnote6preservesTR6b–8aextendedwordingincluding7. No footnotequoteinsertedintomainBiblequotation;freshcustomverifierwillassertactualsetandexacttext. ActualfreshLuke21:12–13;2Cor5:9–11;John16:8–11;Titus2:11–14;John5:28–29read. EarlierActs21/22/23mainwholeaccountalreadyread/publishedandusedforcasecontext.
+
+Actual Thayer3000/139/3061wholeentriesreadbeforeTopical: https://biblehub.com/greek/3000.htm ; https://biblehub.com/greek/139.htm ; https://biblehub.com/greek/3061.htm .3000broadreligiousservice/worshipincluding24:14andstrictritualuseselsewhere;notproofwordexcludeseveryritual.139party/sectschool,reproachherebutwordnotitselfproofoffalsehood,alsoSadducees/Pharisees.3061explicitmetaphoricalpest/plaguein24:5,baselineclaimsomewhatliteralnotadopted. Public139/3000Greek/transliteration/pronunciation/plainmeaningprovided.
+
+Actual Calvin24:14first1700,15first1200,25first1600read at https://biblehub.com/commentaries/calvin/acts/24.htm . Scripturehope/conscience,judgmentandSpiritconvictionuseful;claimsFelixprivateentertainment/wifepsychology/polemicalhereticlanguage notadopted. Actual USCCB24notes5–27read at https://bible.usccb.org/bible/acts/24 .6b–8amanuscriptdifference,10–21continuity,24–25Drusillamarriagehistoryleadnotcheckedagainstindependentprimaryandnotpublic. No preciseFestusdates takenfromnoteswithoutindependentcheck. NoChristianitywasuniformlylegalempirewideclaimfromcommentary.
+
+ExistingWorship101–123actuallyread,direct24:14loyalserviceexpressedministry;ReturningWord9–28read,direct24:14TheWayname/pathrootedChristandScripture. Publicpositionsreportthoseprincipleswithoutturninglatreuoallusagesintoexclusivenonritualdefinition. ReturningWordolderphrasefollowersnotcalledChristiansnotcopiedasabsolute:Acts11:26explicitChristiansalreadyknown;TheWayoneattestedname. No newownerpositiononFelixeternalfate/resurrectiontimetable or mandatoryrituals. Source studyolderBSB24quote differsmodernwordingandnotcopiedasverifiedmainquote.
+
+## Acts 24:1–9
+Plan section: included, because (a)/(b)/(c):Luke21:12–13explicitdisciplesbeforegovernorsopportunitywitness,supportedpatternhearingFelix.
+Position source: none.
+FLAGGED FOR REVIEW: TertullusGreeknamethereforeGentile/strictRomanprocedures/Ananiasexacttravelmethodnotverified;omitted. FelixPaxRomanarecord/historyrobbersprofitsharing/Britainrankingnotchecked,flatteryrecordedspeakersclaimnotnarratormoralendorsement. Pestmetaphoractuallexiconchecked,notliteraldisease. Legalchargeattempttempledesecrationnotproofentry;noallJewishpeopleformalendorsementbeyondattendingaccusers. No severeRomanpenaltyforabsentaccusersassertedwithoutprimarylaw. Verse7footnoteonlyverified;publicbriefgapexplanationhelpsreader,doesnotinventscribalmotive.
+
+## Acts 24:10–21
+Plan section: included, because (a)/(c):John5:28–29resurrectionlife/judgment;2Cor5:9–11comingjudgmentshapespleasingChrist/conscience/persuasion.
+Position source: Worship as the Early Church Knew It, direct24:14;Returning to the Word, direct24:14.
+FLAGGED FOR REVIEW: Twelve-daytimelinePaulargumentnotinventedexactdatedchronology;notblanketproofimpossibilityofanycrime. NocrowdnotproofnoGentileanywhere;Trophimusentryassumptionfrom21keptclear. No everyaccuserwaspersonallySadducee/deniedresurrection;Paulclaimsbroaderhopewithcontext23division. 3000canincluderitualreligiousservice,publicbroadallegiancecarefulnotlexicalexclusionmusic. Passageprovidesnoendtimedetailedtimetable;commongeneralresurrectioncorewithoutforcedeschatologycatalog. TheWaynotonlynameforeverorChristiansneverused. NoacquittalinferredfromPaul'sdefensealone.
+
+## Acts 24:22–27
+Plan section: included, because (a)/(c):John16Spiritconvictionsin/righteousness/judgmentrelatedtheme(notidenticalthreewordswithselfcontrol);Titus2:11–14gracetrainsuprightlife/awaitChrist.
+Position source: none.
+FLAGGED FOR REVIEW: NoexplicitLysiasvisitdoesnotproveFelixneversummonedhimorliecertainlyknown. Felixwellinformednotexhaustivetheologicalmastery. Drusillaformerhusband/Herodfamily/sonVesuviusdeath/dateFelixrecall/motiveNerocomplaintsnotindependentlyverified;omitted. BaselinePhilippians1writtenCaesareanotestablished,notpresentedfact. Fearnotautomaticconversion/universalreprobationverdict;Lukeprovidesbribehope/politicalfavorandtwo-yearcustody. No Paul'sprecisecontentmentpsychology,unreportedbribeofferoronlycorrectprisonresponserule. John16sinnotidenticalselfcontrollist;publicthemeconnectionproperlyqualifiedwithouttechnicalreadout.
+
+## Acts 24:14 legacy
+Plan section: included, because (a)/(c):sameJohn5/2Cor5resurrectionandpresentconscienceconnectionfromfullhearing.
+Position source: Worship as the Early Church Knew It;Returning to the Word, bothdirect24:14.
+FLAGGED FOR REVIEW: Only14quoted,charges/hope/conscienceexplainedfromsurroundings. Broadserviceonlynotwordexcludesspecificgatheringacts;studypositionlimitedtofaithfulservice/livedScripture. All10–21limitsapply.
+
+## Validation
+
+Pending fresh BSB checks, repository/navigation/mobile audit and publication.
+
+## Completed validation
+
+FourfreshBSBchecks/eighttestspass;zeroerrors284knownwarnings.126reviewed/870verses/125plans/52studypositions/74open;126sources/zero unreviewedlegacy. Allfour390pxreader/standalonechecks pass. ActualNext reaches24:10–21 withheadingfocusedat188.5px. Source/index/standalone,preservation,canonicalnavigation,coverage/idempotencepass. Hostingdryrun/actualdeployexit0;eightaffectedandsixwholechapterlivefilesmatch.

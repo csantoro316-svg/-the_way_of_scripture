@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "12:4",
+    "label": "Daniel 12:4",
+    "slug": "daniel-12-4"
+  },
+  "section_title": "Why is Daniel told to seal the book?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "4 But you, Daniel, shut up these words and seal the book until the time of the end. Many will roam to and fro, and knowledge will increase.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Daniel is told to shut up the words and seal the book until the time of the end. The message has been entrusted to him, but its appointed fulfillment lies ahead.",
+    "",
+    "The verse then speaks of many roaming to and fro and knowledge increasing. In the setting of a revelation that Daniel has struggled to understand, the relationship between seeking and understanding becomes an important question.",
+    "",
+    "The instruction directs Daniel to preserve what he has received. The truth of the message does not depend on his being able to explain every detail immediately."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/daniel/12.htm) understands the movement to and fro as diligent searching of the prophecies, leading to fuller understanding. [Cambridge](https://biblehub.com/commentaries/cambridge/daniel/12.htm) also presents this as a search within the book for knowledge of God’s purposes."
+  ],
+  "god_plan_lines": [
+    "[Revelation 22:6–17](https://biblehub.com/bsb/revelation/22.htm) deliberately brings a different instruction: John is told not to seal the words because the time is near. The prophecy calls its hearers to keep its words, and Jesus promises His coming and reward.",
+    "",
+    "This contrast links the books through the unfolding of God’s purpose. A message preserved for its appointed time gives way to an urgent call to hear and respond. Revelation closes with the invitation to come and receive the water of life freely, placing prophecy within the hope and invitation centered on Jesus."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/12.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-twelve-review.md"
+  }
+}

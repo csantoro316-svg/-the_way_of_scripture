@@ -5,15 +5,55 @@
     "label": "Matthew 7:11",
     "slug": "matthew-7-11"
   },
-  "versions": [],
-  "context_lines": [
-    "In **Matthew 7**, Jesus continues the Sermon on the Mount by calling His hearers to discernment, persistence, obedience, and a life built on His words. Promises about asking are framed by the Father's goodness and by the wider demands of kingdom life."
+  "section_title": "The Father's Good Gifts",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "11 So if you who are evil know how to give good gifts to your children, how much more will your Father in heaven give good things to those who ask Him!"
+      ]
+    }
   ],
-  "explanation_lines": [
-    "Look at what the passages actually say. Matthew 7:11 \u2014 the Father gives what is good, and Luke's parallel names that good thing as the Holy Spirit (Luke 11:13). John 14:13 \u2014 whatever you ask in His name, meaning in alignment with His character and purposes. John 15:7 \u2014 ask whatever you wish, but only after abiding in Him, which means your desires have already been shaped by His Word and His will. Acts 4 \u2014 the early church asks specifically, and what they ask for is boldness to keep preaching regardless of what happens to them personally. In every case, what Scripture models as the content of asking is His kingdom, His purposes, and spiritual formation \u2014 not personal earthly outcomes. God wants you to ask. But what He consistently shows His people asking for is what serves His divine purpose. That distinction is everything.",
+  "context_lines": [
+    "This verse completes the asking, seeking, and knocking teaching in [Matthew 7:7–11](https://biblehub.com/bsb/matthew/7.htm). Jesus has used bread, fish, a stone, and a snake to compare a parent's response to a child with the Father's response to His people. The comparison directs attention to the giver's goodness.",
     "",
-    "It is also worth addressing directly a position that many thoughtful theologians hold: that material asking is not prohibited by Scripture, that Gethsemane itself contains a request, and that the key is not the absence of asking but surrender governing it. Early church writers including Augustine and Cyprian preserved both a literal and spiritual meaning for daily bread. The argument that is often made is that humble petition offered in genuine submission to God's will is valid Christian prayer.",
+    "Jesus describes His hearers as evil while acknowledging that they know how to give good gifts. His reasoning moves from imperfect human parents to the greater goodness of the Father. His character is the reason for confidence in approaching Him.",
     "",
-    "This document does not claim that asking is sinful. It does not claim that a person who says \"Lord, I need provision, Your will be done\" has done something wrong. What it claims is something more precise \u2014 and more demanding."
-  ]
+    "Matthew describes the Father's gifts as good things. The related saying in [Luke 11:9–13](https://biblehub.com/bsb/luke/11.htm) specifically names the Holy Spirit. Both accounts direct the hearer's confidence toward the generous Father.",
+    "",
+    "The Father is also the One whose will Jesus has taught His followers to seek in [Matthew 6:9–13](https://biblehub.com/bsb/matthew/6.htm). Confidence in His good gifts belongs with that relationship of trust and submission."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read these verses as encouragement to keep praying with confidence in the Father's goodness. [Wesley on Matthew 7:7–11](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/), the Reformed [Westminster Larger Catechism, questions 184–185](https://www.opc.org/lc.html), and the Catholic [Compendium, question 575](https://press.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_en.html), all direct asking toward God's will and the good He gives, rather than treating Him as a means of obtaining whatever the person wants."
+  ],
+  "god_plan_lines": [
+    "The promise of the Spirit in [Luke 11:13](https://biblehub.com/bsb/luke/11.htm) points toward the gift that brings God's children into a lived relationship with Him. [Romans 8:14–17](https://biblehub.com/bsb/romans/8.htm) describes the Spirit leading them, enabling their cry to the Father, and bearing witness that they belong to His family.",
+    "",
+    "[Ephesians 1:13–14](https://biblehub.com/bsb/ephesians/1.htm) also connects the Spirit with the future inheritance God promises. The Father's good gift reaches beyond a single circumstance: He gives His people His presence and a hope that extends to their final redemption."
+  ],
+  "current_position_lines": [
+    "Our study Prayer and Faith understands the Father's good things in the light of Luke's explicit promise of the Holy Spirit. It reads the passage as directing faith toward God's presence, power, and purposes, rather than guaranteeing a preferred possession or circumstance. Our companion study What Does Prayer Look Like? develops the same focus while distinguishing surrender from a rule that asking is sinful."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/7.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "position_source_detail": "Prayer and Faith — Does God Want You to Ask? and Matthew 7:7–11; What Does Prayer Look Like? — final discussion of asking, surrender, and Spirit",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-fathers-good-gifts-review.md"
+  }
 }

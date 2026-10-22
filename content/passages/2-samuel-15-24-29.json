@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "15:24-29",
+    "label": "2 Samuel 15:24-29",
+    "slug": "2-samuel-15-24-29"
+  },
+  "section_title": "Why does David send the ark back to Jerusalem?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "24 Zadok was also there, and all the Levites with him were carrying the ark of the covenant of God. And they set down the ark of God, and Abiathar offered sacrifices until all the people had passed out of the city. 25 Then the king said to Zadok, “Return the ark of God to the city. If I find favor in the eyes of the LORD, He will bring me back and let me see both it and His dwelling place again. 26 But if He should say, ‘I do not delight in you,’ then here I am; let Him do to me whatever seems good to Him.” 27 The king also said to Zadok the priest, “Are you not a seer? Return to the city in peace—you with your son Ahimaaz, and Abiathar with his son Jonathan. 28 See, I will wait at the fords of the wilderness until word comes from you to inform me.” 29 So Zadok and Abiathar returned the ark of God to Jerusalem and stayed there."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Zadok, Abiathar and the Levites are present with the ark as the people leave the city. David orders the ark returned. If he finds favor with the LORD, he trusts that God can bring him back to see it and its dwelling place again.",
+    "",
+    "David also acknowledges that the outcome belongs to God even if it is not what he wants. He arranges for the priests and their sons to provide news while he waits near the wilderness. Zadok and Abiathar return the ark to Jerusalem and remain there."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/15.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) emphasize David’s concern for the ark and his willingness to submit his own future to God. He does not insist that the sacred object must follow his flight in order for God to help him.",
+    "",
+    "The practical arrangement also matters: the priests’ sons can carry information to David. Trust in God’s decision does not keep him from making careful preparations."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/15.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-fifteen-review.md"
+  }
+}

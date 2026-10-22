@@ -1,0 +1,71 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "7:23-39",
+    "label": "1 Kings 7:23-39",
+    "slug": "1-kings-7-23-39"
+  },
+  "section_title": "What are the great Sea and the ten smaller basins for?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "23 He also made the Sea of cast metal. It was circular in shape, measuring ten cubits from rim to rim, five cubits in height, and thirty cubits in circumference. 24 Below the rim, ornamental buds encircled it, ten per cubit all the way around the Sea, cast in two rows as a part of the Sea. 25 The Sea stood on twelve oxen, three facing north, three facing west, three facing south, and three facing east. The Sea rested on them, with all their hindquarters toward the center. 26 It was a handbreadth thick, and its rim was fashioned like the brim of a cup, like a lily blossom. It could hold two thousand baths.",
+        "27 In addition, he made ten movable stands of bronze, each four cubits long, four cubits wide, and three cubits high. 28 This was the design of the stands: They had side panels attached to uprights, 29 and on the panels between the uprights were lions, oxen, and cherubim. On the uprights was a pedestal above, and below the lions and oxen were wreaths of beveled work. 30 Each stand had four bronze wheels with bronze axles and a basin resting on four supports, with wreaths at each side. 31 The opening to each stand inside the crown at the top was one cubit deep, with a round opening like the design of a pedestal, a cubit and a half wide. And around its opening were engravings, but the panels of the stands were square, not round. 32 There were four wheels under the panels, and the axles of the wheels were attached to the stand; each wheel was a cubit and a half in diameter. 33 The wheels were made like chariot wheels; their axles, rims, spokes, and hubs were all of cast metal.",
+        "34 Each stand had four handles, one for each corner, projecting from the stand. 35 At the top of each stand was a circular band half a cubit high. The supports and panels were cast as a unit with the top of the stand. 36 He engraved cherubim, lions, and palm trees on the surfaces of the supports and panels, wherever each had space, with wreaths all around. 37 In this way he made the ten stands, each with the same casting, dimensions, and shape. 38 He also made ten bronze basins, each holding forty baths and measuring four cubits across, one basin for each of the ten stands. 39 He set five stands on the south side of the temple and five on the north, and he put the Sea on the south side, at the southeast corner of the temple."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Huram makes a large circular bronze reservoir called the Sea, supported by twelve bronze oxen facing the four directions. Its rim has the shape of a lily blossom.",
+    "",
+    "Its capacity is given as two thousand baths. A bath is an ancient liquid measure, as [Brown–Driver–Briggs](https://biblehub.com/hebrew/1324.htm) explains; the number describes how much water the vessel holds.",
+    "",
+    "Ten smaller bronze basins stand on decorated wheeled supports, five on each side of the temple. [2 Chronicles 4:6](https://biblehub.com/bsb/2_chronicles/4.htm) explains their uses: the offering portions are rinsed in the smaller basins, while the priests use the Sea for washing."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) distinguishes the cleansing of the priests from the washing associated with sacrifices. The vessels serve the work of worship, rather than being ornaments alone.",
+    "",
+    "The parallel account gives the Sea’s capacity as three thousand baths in [2 Chronicles 4:5](https://biblehub.com/bsb/2_chronicles/4.htm). [Gill](https://biblehub.com/commentaries/gill/1_kings/7.htm) proposes that two thousand describes an ordinary filling and three thousand the full capacity. That is a possible explanation; the accounts do not expressly state that distinction.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/7.htm) draws a further comparison between the washing arrangements and the cleansing people need before God. The New Testament gives the basis for developing that theme."
+  ],
+  "god_plan_lines": [
+    "The washing arrangements belong to a wider biblical concern with being clean for God’s service. [Hebrews 9:13–14](https://biblehub.com/bsb/hebrews/9.htm) distinguishes outward cleansing under the old order from what Christ’s offering accomplishes for the conscience.",
+    "",
+    "Its emphasis is not merely on being washed on the outside. Christ offers Himself so that people can be cleansed from works of death and serve the living God.",
+    "",
+    "This is a broader connection with the worship system, not a claim that Hebrews assigns a separate meaning to every wheel or bronze ox. The goal of cleansing comes into focus through the work of Jesus."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/7.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-seven-review.md"
+  }
+}

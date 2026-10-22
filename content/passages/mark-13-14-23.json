@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "13:14-23",
+    "label": "Mark 13:14-23",
+    "slug": "mark-13-14-23"
+  },
+  "section_title": "Why does Jesus tell people to flee?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 So when you see the abomination of desolation standing where it should not be (let the reader understand), then let those who are in Judea flee to the mountains. 15 Let no one on the housetop go back inside to retrieve anything from his house. 16 And let no one in the field return for his cloak. 17 How miserable those days will be for pregnant and nursing mothers! 18 Pray that this will not occur in the winter.",
+        "19 For those will be days of tribulation unseen from the beginning of God’s creation until now, and never to be seen again. 20 If the Lord had not cut short those days, nobody would be saved. But for the sake of the elect, whom He has chosen, He has cut them short.",
+        "21 At that time if anyone says to you, ‘Look, here is the Christ!’ or ‘There He is!’ do not believe it. 22 For false Christs and false prophets will appear and perform signs and wonders to deceive even the elect, if that were possible. 23 So be on your guard; I have told you everything in advance."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus describes a desecration so serious that people in Judea must flee immediately. Someone on a roof must not go inside for belongings, and someone in a field must not return for a cloak. His concern for pregnant and nursing mothers, and His instruction to pray about winter, draw attention to the human cost of escape.",
+    "",
+    "The expression about an abomination that brings desolation comes from Daniel, where it concerns the profaning of worship and the interruption of sacrifice. Mark urges the reader to understand but does not spell out every detail of the event’s identity here. The command to flee is clear even where readers differ over its fulfillment. ([Daniel 9:26–27](https://biblehub.com/bsb/daniel/9.htm); [Daniel 11:31–35](https://biblehub.com/bsb/daniel/11.htm))",
+    "",
+    "The distress will be severe, yet the Lord limits it for the sake of His chosen people. Jesus then warns against false messiahs and prophets whose signs appear convincing. A display of power cannot overturn what He has already told His followers. His advance warning is meant to help them remain alert rather than chase another claimed rescuer."
+  ],
+  "common_interpretation_lines": [
+    "One reading connects the desecration and flight with Rome’s assault on Jerusalem and its temple. The US Catholic bishops’ study notes identify the profaning power as Roman and read the instructions as a warning to flee rather than defend the city through a mistaken expectation of deliverance. These are study notes, not a requirement that every Catholic interpret each detail identically. ([USCCB, note on Mark 13:3–37](https://bible.usccb.org/bible/mark/13))",
+    "",
+    "Another reading places the central crisis in a future period of tribulation before Christ’s return. Dallas Theological Seminary’s statement connects Daniel’s final week with judgment on the earth and its latter half with the great tribulation, after an earlier gathering of the church into heaven. This is the seminary’s stated position; it does not represent every Protestant church. ([Dallas Theological Seminary, Articles XVIII–XIX](https://www.dts.edu/why-dts/doctrinal-statement))"
+  ],
+  "god_plan_lines": [
+    "Daniel joins extraordinary distress with God’s deliverance and the hope of resurrection. That wider setting keeps the warning from ending in despair: the people’s future rests with God, whose power reaches beyond death. Mark’s account will likewise move from distress to the Son of Man gathering His people. ([Daniel 12:1–3](https://biblehub.com/bsb/daniel/12.htm); [Mark 13:24–27](https://biblehub.com/bsb/mark/13.htm))",
+    "",
+    "Paul also warns about deceptive signs and a figure who exalts himself in God’s temple, but says that Jesus will bring that figure’s power to an end. This is a supported connection between passages about false worship and Christ’s victory. It does not require adding a location for every image or assigning a date that these verses do not provide. ([2 Thessalonians 2:1–12](https://biblehub.com/bsb/2_thessalonians/2.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/13.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-thirteen-closing-review.md"
+  }
+}

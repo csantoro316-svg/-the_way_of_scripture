@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "23:6-11",
+    "label": "Acts 23:6-11",
+    "slug": "acts-23-6-11"
+  },
+  "section_title": "Why does Paul speak about resurrection, and how is he reassured afterward?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 Then Paul, knowing that some of them were Sadducees and the others Pharisees, called out in the Sanhedrin, “Brothers, I am a Pharisee, the son of a Pharisee. It is because of my hope in the resurrection of the dead that I am on trial.” 7 As soon as he had said this, a dispute broke out between the Pharisees and Sadducees, and the assembly was divided. 8 For the Sadducees say that there is neither a resurrection nor angels nor spirits, but the Pharisees acknowledge them all. 9 A great clamor arose, and some scribes from the party of the Pharisees got up and contended sharply, “We find nothing wrong with this man. What if a spirit or an angel has spoken to him?”",
+        "10 The dispute grew so violent that the commander was afraid they would tear Paul to pieces. He ordered the soldiers to go down and remove him by force and bring him into the barracks. 11 The following night the Lord stood near Paul and said, “Take courage! As you have testified about Me in Jerusalem, so also you must testify in Rome.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul knows the council includes Pharisees and Sadducees. He identifies his Pharisaic background and says he is on trial because of his hope in the resurrection of the dead. Luke explains the division: the Sadducees deny resurrection, angels and spirits, while the Pharisees acknowledge them.",
+    "",
+    "The council divides, and some Pharisaic scribes say they find nothing wrong with him, asking whether a spirit or angel may have spoken to him. That is not the same as all of them confessing faith in the risen Jesus. Their response exposes a disagreement within the council.",
+    "",
+    "The dispute becomes so violent that the commander fears Paul will be torn apart and orders soldiers to remove him. The following night the Lord stands near Paul, tells him to take courage and says he must testify in Rome as he has in Jerusalem. The assurance concerns the continuation of his witness, not an immediate end to all trouble."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand resurrection as a real issue in Paul’s message, even though the immediate accusations also concern the law, the people and the temple. [Calvin on verse 6](https://biblehub.com/commentaries/calvin/acts/23.htm) acknowledges the tactical effect while maintaining that Paul’s statement is true. The Lord’s reassurance then turns attention from the council’s division to the work still entrusted to Paul."
+  ],
+  "god_plan_lines": [
+    "[1 Corinthians 15:12–23](https://biblehub.com/bsb/1_corinthians/15.htm) explains why resurrection is central: without Christ raised, the preaching and faith would be empty; because He is raised, those who belong to Him have a future beyond death. Paul’s hope is therefore more than a point useful for dividing his judges.",
+    "",
+    "The Lord explicitly joins Jerusalem and Rome in Paul’s continuing witness. What Paul had intended in [Acts 19:21](https://biblehub.com/bsb/acts/19.htm) is now confirmed by a direct promise. The journey ahead remains difficult, but its purpose has not disappeared in the violence of the hearing."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/23.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twenty-three-review.md"
+  }
+}

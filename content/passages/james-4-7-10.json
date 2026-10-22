@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "James",
+    "citation": "4:7-10",
+    "label": "James 4:7-10",
+    "slug": "james-4-7-10"
+  },
+  "section_title": "What does returning to God look like?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 Submit yourselves, then, to God. Resist the devil, and he will flee from you. 8 Draw near to God, and He will draw near to you. Cleanse your hands, you sinners, and purify your hearts, you double-minded. 9 Grieve, mourn, and weep. Turn your laughter to mourning, and your joy to gloom. 10 Humble yourselves before the Lord, and He will exalt you."
+      ]
+    }
+  ],
+  "context_lines": [
+    "God’s grace to the humble leads to a series of direct calls: submit to God, resist the devil, draw near, cleanse the hands and purify the heart. The turn involves both outward conduct and the desires beneath it.",
+    "",
+    "To resist is to [stand against or oppose](https://biblehub.com/greek/436.htm). The command belongs with submission to God, rather than confidence in an independent spiritual power of one’s own.",
+    "",
+    "The mourning concerns the sin and divided loyalty James has exposed. It calls for taking that failure seriously, rather than treating it lightly. Humbling oneself before the Lord leaves the lifting up to Him."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/james/4.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-general-epistle-of-st-james/) both understand this as a call to repentance, humble dependence and resistance to evil. Calvin explicitly connects sorrow with turning from sin, while Wesley connects drawing near with prayer; the passage does not make permanent misery the goal of Christian life."
+  ],
+  "god_plan_lines": [
+    "[Philippians 2:5–11](https://biblehub.com/bsb/philippians/2.htm) calls believers to the mind of Christ and describes His humility, obedience and exaltation. This is a useful parallel in direction: life before God is not a competition to lift oneself above others. Jesus’ unique exaltation as Lord is not a promise that every humble person receives His place, but His self-giving life supplies the pattern for His people."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/james/4.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-james-four-review.md"
+  }
+}

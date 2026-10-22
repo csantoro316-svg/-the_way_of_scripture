@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Ezra",
+    "citation": "7:1-10",
+    "label": "Ezra 7:1-10",
+    "slug": "ezra-7-1-10"
+  },
+  "section_title": "What kind of teacher is Ezra?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Many years later, during the reign of Artaxerxes king of Persia, Ezra son of Seraiah, the son of Azariah, the son of Hilkiah, 2 the son of Shallum, the son of Zadok, the son of Ahitub, 3 the son of Amariah, the son of Azariah, the son of Meraioth, 4 the son of Zerahiah, the son of Uzzi, the son of Bukki, 5 the son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the chief priest— 6 this Ezra came up from Babylon. He was a scribe skilled in the Law of Moses, which the LORD, the God of Israel, had given. The king had granted Ezra all his requests, for the hand of the LORD his God was upon him.",
+        "7 So in the seventh year of King Artaxerxes, he went up to Jerusalem with some of the Israelites, including priests, Levites, singers, gatekeepers, and temple servants. 8 Ezra arrived in Jerusalem in the fifth month of the seventh year of the king. 9 He had begun the journey from Babylon on the first day of the first month, and he arrived in Jerusalem on the first day of the fifth month, for the gracious hand of his God was upon him. 10 For Ezra had set his heart to study the Law of the LORD, to practice it, and to teach its statutes and ordinances in Israel."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The account moves many years beyond the temple’s completion and introduces Ezra during the reign of Artaxerxes. His family line is traced back to Aaron, and he is described as a scribe skilled in the Law of Moses.",
+    "",
+    "Ezra travels from Babylon with Israelites and people associated with temple service. He arrives in Jerusalem in the fifth month of the king’s seventh year, and the account repeatedly gives God credit for the favor and help he receives.",
+    "",
+    "His purpose is stated in verse 10: he has set his heart to study the LORD’s Law, practice it and teach its instructions in Israel. Knowing, doing and teaching belong together in his preparation for the task."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-ezra/) and [Gill](https://biblehub.com/commentaries/gill/ezra/7.htm) emphasize the order: Ezra seeks to understand God’s word, lives by it and then teaches others. [Henry](https://biblehub.com/commentaries/mhc/ezra/7.htm) also emphasizes the favor God gives him for the journey and service. His expertise is presented alongside his commitment to obey, rather than as knowledge alone."
+  ],
+  "god_plan_lines": [
+    "The connection between hearing and doing continues in [James 1:19–27](https://biblehub.com/bsb/james/1.htm), which warns against hearing the word without acting on it. In [Matthew 28:16–20](https://biblehub.com/bsb/matthew/28.htm), Jesus commissions His disciples to teach people to obey what He has commanded.",
+    "",
+    "[2 Timothy 3:14–17](https://biblehub.com/bsb/2_timothy/3.htm) places Scripture’s teaching, correction and training within salvation through faith in Christ and preparation for good works. These are broader connections with Ezra’s pattern of study and obedience, not a claim that every believer holds Ezra’s particular office."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Returning to the Word",
+      "href": "../studies/returning-to-the-word.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezra/7.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezra-seven-eight-review.md"
+  }
+}

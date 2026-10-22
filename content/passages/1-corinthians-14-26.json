@@ -5,16 +5,53 @@
     "label": "1 Corinthians 14:26",
     "slug": "1-corinthians-14-26"
   },
+  "section_title": "What should every contribution to a gathering accomplish?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"What is the outcome then, brothers? When you assemble, each one has a psalm, has a teaching, has a revelation, has a tongue, has an interpretation. All things must be done for edification.\""
+      "label": "BSB",
+      "paragraphs": [
+        "26 What then shall we say, brothers? When you come together, everyone has a psalm or a teaching, a revelation, a tongue, or an interpretation. All of these must be done to build up the church."
+      ]
     }
   ],
   "context_lines": [
-    "In **1 Corinthians 14**, Paul is correcting disorder in the gathered church. The whole chapter is governed by intelligibility, order, and edification, so individual instructions in the chapter must be read within that larger concern for building up the body."
+    "This verse moves Paul’s discussion from the value of understandable speech to the practical conduct of a gathering. Different people have different contributions, but all are directed toward building up the church.",
+    "",
+    "The following instructions in [1 Corinthians 14:26–33](https://thewayofscripture.com/library/passages.html?passage=1-corinthians-14-26-33) show that participation includes taking turns, interpretation, testing and knowing when to be silent. Having something to offer does not mean insisting on offering it in any manner one chooses.",
+    "",
+    "The list is not a requirement that every person perform each activity at every meeting. Paul’s concern is that the variety of what is brought should help the gathered people grow."
   ],
-  "explanation_lines": [
-    "*This document is part of an ongoing biblical reference project. All content is subject to revision as study continues. Every believer is encouraged to examine these things in Scripture for themselves \u2014 \"let all things be done for edification\" (1 Corinthians 14:26).*"
-  ]
+  "common_interpretation_lines": [
+    "Christians commonly read the verse as directing the church’s different contributions toward a shared benefit. [Calvin’s note on verse 26](https://biblehub.com/commentaries/calvin/1_corinthians/14.htm) stresses using each gift for everyone’s good, while the [USCCB note on verses 26–33](https://bible.usccb.org/bible/1corinthians/14) identifies building up as the governing test."
+  ],
+  "god_plan_lines": [
+    "[1 Peter 4:8–11](https://biblehub.com/bsb/1_peter/4.htm) similarly calls each person to use what has been received to serve others as a steward of God’s varied grace. Speaking and serving are to depend on what God supplies so He is glorified through Jesus Christ.",
+    "",
+    "That places the gathering within a life of shared service. A contribution matters because it helps people and honors the God whose grace made it possible."
+  ],
+  "current_position_lines": [
+    "In [Worship as the Early Church Knew It](https://thewayofscripture.com/studies/worship.html), we understand this verse as the framework for mutual participation in the assembly. Believers bring what God has given them to build one another up in Christ. The purpose is shared growth, rather than a gathering evaluated mainly as a performance or a personal emotional experience."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/14.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-fourteen-closing-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It — content/studies/worship.md lines 285–297, direct 1 Corinthians 14:26 discussion and shared-participation conclusion."
+  }
 }

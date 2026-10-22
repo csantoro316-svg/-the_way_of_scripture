@@ -1,0 +1,11 @@
+# John 5 complete and live
+
+Four pages cover the healing at Bethesda, Sabbath conflict, Son’s life-giving authority, and supporting witnesses. The BSB main text has46verses;verse4appears in a footnote and the reader receives a brief explanation of the numbering. Archaeological context is independently supported. Warning about sin is distinguished from a rule blaming every illness on personal sin. Primary-source differences on continuing faith are fairly stated; all four positions remain open.
+
+[Evidence](../testing/2026-10-19-john-five-review.md). Four fresh BSB comparisons with explicit omission check, eight tests, zero errors /337 existing warnings, preservation/coverage/navigation/idempotence and390pxreader/standalone/actualNext passed. Hosting dry run/deploy exited zero; eight affected and all six chapter/index/reader files match live.
+
+John1–5:30reviewedpages /212actualBSBverses /30plans /11studypositions /19open;49sources /19legacyreferences. ContinueJohn6:1–15/16–21. WholePDFthrough206read:full6A180–200;6B201–206read,207onwardunread. No6drafts. Needcomplete6Bbeforewalkingwaterdraft. NoJohn6primaryresearchbegunbeyondexistingJohn5Moses/Acts3/Phil2crossreferences. Chapter6hasmanylegacybreadreferences;preserveallURLsandreviewwithremainingbreadgroups afteropening.
+
+Baseline6Aflags: no exactone-yearintervalfromunnamedJohn5feast,onlymiracleallfourwithoutresurrectionqualification,unknowntravelroute/sailingtime/modern$40,000equivalent,exactboyage/foodpeddling/anchovyidentity,universal5grace/7completioncode,all5000mennecessarily5000familiesandexact30,000crowd. KeepJesusfeedingrealphysicalneed;do notoriginatepolicyforbiddingcharity/hospitals/universitiesfromthisaccount. Grass/Ps23andPassover/Moses/mannaparallelsmaybesupportedwithScriptureandlabeled.Noassumptionleftoversprovetheywerebeggingforclericalsalaryoronlyapostlesateleftovers.
+
+6Bflagssofar: sourceconfusesBethesda/BethsaidaandassertstwoBethsaidaswithoutverification;noforcedgeographicharmonization.Noeverydarknightimpliesdisciplesunregenerate,unverifiedsurface-tensionmechanismforwalking,exactrowingtimes/sailingwindsortransportphysics.SpeculationaboutSpiritchangingwaternotpublicfact;onlyactualmiracleandScripture-supportedsea-authorityparallels.

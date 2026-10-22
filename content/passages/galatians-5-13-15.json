@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Galatians",
+    "citation": "5:13-15",
+    "label": "Galatians 5:13-15",
+    "slug": "galatians-5-13-15"
+  },
+  "section_title": "What is freedom meant to produce among us?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 For you, brothers, were called to freedom; but do not use your freedom as an opportunity for the flesh. Rather, serve one another in love. 14 The entire law is fulfilled in a single decree: “Love your neighbor as yourself.” 15 But if you keep on biting and devouring one another, watch out, or you will be consumed by one another."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul returns to the freedom announced at the start of the chapter and explains how it is to be used. The flesh must not turn that freedom into an opening for self-indulgence. Love moves the believers to serve one another.",
+    "",
+    "He sums up the law through the command to love one’s neighbor as oneself, quoting [Leviticus 19:18](https://biblehub.com/bsb/leviticus/19.htm). The command already appears in the law; Paul brings it forward to describe the kind of life the community is called to share.",
+    "",
+    "His warning about biting and devouring one another shows what is at stake. Conflict can become mutually destructive. The freedom Christ gives is to be expressed in care for others, including how believers treat one another when tensions rise."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand these verses as joining freedom with loving service and warning against destructive conflict. [Wesley’s notes on verses 13–15](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-galatians/) and the [USCCB notes on verses 13–15](https://bible.usccb.org/bible/galatians/5) both emphasize love of neighbor as the direction of a life freed through Christ."
+  ],
+  "god_plan_lines": [
+    "In [Mark 10:42–45](https://biblehub.com/bsb/mark/10.htm), Jesus teaches His disciples to serve and grounds that calling in His own coming to serve and give His life for many. In [John 13:34–35](https://biblehub.com/bsb/john/13.htm), He makes love patterned after His own the identifying mark of His disciples.",
+    "",
+    "These connections place the Galatians’ freedom within the life Jesus calls His people to share. Their service is shaped by the Son who gave Himself for them, and their love makes their belonging to Him visible."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/galatians/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-galatians-five-review.md"
+  }
+}

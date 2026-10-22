@@ -5,23 +5,47 @@
     "label": "Judges 10:1-2",
     "slug": "judges-10-1-2"
   },
-  "section_title": "Tola",
+  "section_title": "What are we told about Tola?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 After the time of Abimelech, a man of Issachar, Tola son of Puah, the son of Dodo, rose up to save Israel. He lived in Shamir, in the hill country of Ephraim.",
-        "2 Tola judged Israel twenty-three years, and when he died, he was buried in Shamir."
+        "1 After the time of Abimelech, a man of Issachar, Tola son of Puah, the son of Dodo, rose up to save Israel. He lived in Shamir, in the hill country of Ephraim. 2 Tola judged Israel twenty-three years, and when he died, he was buried in Shamir."
       ]
     }
   ],
   "context_lines": [
-    "In **Judges 10**, this section should be read within the flow of the chapter and the larger movement of Judges."
+    "After Abimelech’s violent rule, Tola rises to save Israel. He is from Issachar and lives in Shamir, in the hill country of Ephraim. He judges Israel for twenty-three years, then dies and is buried in Shamir.",
+    "",
+    "The notice gives his family, location, purpose, and length of service. It records no particular battle, speech, or dramatic sign. His place in the account shows that the work of a judge can be summarized as years of service, rather than only a single military victory."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Tola** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Judges 10** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-judges/) understands Tola’s saving work chiefly as wise government that checks disorder and oppression. [Henry](https://biblehub.com/commentaries/mhc/judges/10.htm) reads the brief accounts of Tola and Jair as useful, peaceable service that provides fewer dramatic events to recount. These are explanations of the short notice; the text does not give a detailed record of Tola’s administration."
   ],
-  "deeper_study": []
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/judges/10.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-judges-ten-review.md"
+  }
 }

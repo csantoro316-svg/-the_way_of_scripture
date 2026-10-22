@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "9:1-5",
+    "label": "Hebrews 9:1-5",
+    "slug": "hebrews-9-1-5"
+  },
+  "section_title": "Why does the writer describe the tabernacle’s rooms?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Now the first covenant had regulations for worship and also an earthly sanctuary. 2 A tabernacle was prepared. In its first room were the lampstand, the table, and the consecrated bread. This was called the Holy Place.",
+        "3 Behind the second curtain was a room called the Most Holy Place, 4 containing the golden altar of incense and the gold-covered ark of the covenant. Inside the ark were the gold jar of manna, Aaron’s staff that had budded, and the stone tablets of the covenant. 5 Above the ark were the cherubim of glory, overshadowing the mercy seat. But we cannot discuss these things in detail now."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The writer turns from the promise of a new covenant to the sanctuary used under the first. He describes the wilderness tabernacle, with its furnishings and its two rooms: the Holy Place and the Most Holy Place behind the second curtain.",
+    "",
+    "The lampstand, table and consecrated bread belonged to the first room. The description then names the golden incense altar, the ark, its sacred contents and the cherubim above the mercy seat. The mercy seat was the ark’s gold covering, where blood was sprinkled on the Day of Atonement; see [Leviticus 16:14–15](https://biblehub.com/bsb/leviticus/16.htm).",
+    "",
+    "The writer expressly sets aside a detailed explanation of these objects. The arrangement matters because it prepares the next question: who could enter, and what could their service accomplish? Reading the rooms in that larger comparison helps us follow the point without assigning an invented meaning to every furnishing."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/9.htm), [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) and the [USCCB notes](https://bible.usccb.org/bible/hebrews/9) read this description as preparation for the comparison with Christ’s ministry. Its purpose is larger than cataloguing sacred objects.",
+    "",
+    "They differ over the golden incense object in verse 4. Wesley reads it as a censer, a vessel used to carry burning incense. Calvin and the USCCB notes read it as the incense altar, as the BSB does. The [Greek word](https://biblehub.com/greek/2369.htm) can be used for either. The altar reading raises a placement question, because [Exodus 30:6](https://biblehub.com/bsb/exodus/30.htm) places that altar in front of the curtain. This discussion should be acknowledged without replacing the passage’s main contrast with a confident reconstruction."
+  ],
+  "god_plan_lines": [
+    "[John 1:14](https://biblehub.com/bsb/john/1.htm) announces that the Word became flesh and dwelt among us. God’s presence with His people, pictured in Israel’s sanctuary, becomes personal in the coming of Christ.",
+    "",
+    "[Hebrews 10:19–22](https://biblehub.com/bsb/hebrews/10.htm) later describes the access believers have through Jesus and connects the curtain with His body. Hebrews itself makes that connection. It does not require us to turn every object in the earlier room into a separate prediction."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/9.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-nine-review.md"
+  }
+}

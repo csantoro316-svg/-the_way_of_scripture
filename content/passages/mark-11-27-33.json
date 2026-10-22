@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "11:27-33",
+    "label": "Mark 11:27-33",
+    "slug": "mark-11-27-33"
+  },
+  "section_title": "Where Does Jesus’ Authority Come From?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "27 After their return to Jerusalem, Jesus was walking in the temple courts, and the chief priests, scribes, and elders came up to Him. 28 “By what authority are You doing these things?” they asked. “And who gave You the authority to do them?” 29 “I will ask you one question,” Jesus replied, “and if you answer Me, I will tell you by what authority I am doing these things. 30 John’s baptism—was it from heaven or from men? Answer Me!”",
+        "31 They deliberated among themselves what they should answer: “If we say, ‘From heaven,’ He will ask, ‘Why then did you not believe him?’ 32 But if we say, ‘From men’...” they were afraid of the people, for they all held that John truly was a prophet. 33 So they answered, “We do not know.” And Jesus replied, “Neither will I tell you by what authority I am doing these things.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Back in Jerusalem, Jesus walks in the temple courts. The chief priests, scribes, and elders ask by what authority He acts and who gave it to Him. Their question follows His disruption of the temple trade and His teaching about God's house.",
+    "",
+    "Jesus responds with a question about John's baptism: was it from heaven or from human beings? The issue reaches beyond the act of washing to the source of John's ministry. [Mark 1:2–11](https://biblehub.com/bsb/mark/1.htm) has already introduced John as the messenger preparing the Lord's way and placed Jesus' baptism within the Father's declaration about His Son.",
+    "",
+    "The leaders consider the consequences of each answer. If they say John's ministry came from heaven, Jesus can ask why they did not believe him. If they say it came from people, they fear the crowd, who regard John as a prophet. They answer that they do not know, and Jesus declines to answer their question directly.",
+    "",
+    "Mark lets us hear their discussion. Their concern with the cost of answering explains the stalemate. The account does not give a detailed first-century licensing system for rabbis or identify each speaker's school; its focus is their response to God's messenger and their challenge to Jesus."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand Jesus' question as exposing the leaders' unwillingness to face the implications of John's ministry. [Calvin on this exchange](https://biblehub.com/commentaries/calvin/mark/11.htm) connects recognizing John with recognizing the One he announced; the [USCCB note on Mark 11:27–33](https://bible.usccb.org/bible/mark/11) places the challenge within the mounting rejection of God's messengers."
+  ],
+  "god_plan_lines": [
+    "[John 1:6–13,29–34](https://biblehub.com/bsb/john/1.htm) explains that the Baptizer was sent from God to bear witness to the Light. He identifies Jesus as the Lamb who takes away the world's sin and testifies that He is the Son of God. The question about where John's authority came from therefore reaches into God's work of making His Son known so that people may believe and become His children.",
+    "",
+    "[Acts 13:23–33](https://biblehub.com/bsb/acts/13.htm) later gathers John's preparation, Jesus as the promised Savior, His rejection and death, and His resurrection into one proclamation of salvation. The disagreement in the temple is part of that larger story: human resistance does not prevent God from fulfilling His promise, but the question of how people respond to His witness remains real."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/11.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-eleven-closing-review.md"
+  }
+}

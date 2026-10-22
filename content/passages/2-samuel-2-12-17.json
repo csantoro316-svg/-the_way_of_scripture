@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "2:12-17",
+    "label": "2 Samuel 2:12-17",
+    "slug": "2-samuel-2-12-17"
+  },
+  "section_title": "How does a contest become a deadly battle?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "12 One day Abner son of Ner and the servants of Ish-bosheth son of Saul marched out from Mahanaim to Gibeon. 13 So Joab son of Zeruiah and the servants of David marched out and met them by the pool of Gibeon. And the two groups took up positions on opposite sides of the pool. 14 Then Abner said to Joab, “Let us have the young men get up and compete before us.” “Let them get up,” Joab replied. 15 So they got up and were counted off—twelve for Benjamin and Ish-bosheth son of Saul, and twelve for David. 16 Then each man grabbed his opponent by the head and thrust his sword into his opponent’s side, and they all fell together. So this place, which is in Gibeon, is called Helkath-hazzurim. 17 The battle that day was intense, and Abner and the men of Israel were defeated by the servants of David."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Abner and Ish-bosheth’s servants come from Mahanaim to Gibeon, where Joab and David’s servants meet them. The groups take positions on opposite sides of the pool. The competing claims to the kingdom now bring their forces face to face.",
+    "",
+    "Abner proposes that the young men compete, and Joab agrees. Twelve men from each side are counted off. Each seizes an opponent by the head and drives a sword into his side, and they all fall together. What follows is an intense battle in which Abner’s side is defeated.",
+    "",
+    "The Hebrew verb behind compete is sahaq (sah-KHAHK). [Brown–Driver–Briggs](https://biblehub.com/hebrew/7832.htm) includes making sport and specifically lists this contest. The word helps explain the disturbing contrast: something spoken of as a display or game ends in people killing one another."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/), [Henry](https://biblehub.com/commentaries/mhc/2_samuel/2.htm) and [Gill](https://biblehub.com/commentaries/gill/2_samuel/2.htm) criticize the treatment of bloodshed as sport. They read Abner’s proposal as a challenge that opens the way to battle. Joab’s agreement also belongs to the sequence; the deaths do not happen without leaders accepting the contest.",
+    "",
+    "[Gill](https://biblehub.com/commentaries/gill/2_samuel/2.htm) takes all twenty-four men as falling together, consistent with the BSB wording. The [USCCB Bible notes](https://bible.usccb.org/bible/2samuel/2) caution that the precise nature of the contest is unclear. The violence is explicit even where its intended rules are not.",
+    "",
+    "The account does not describe twelve separate rounds or say that the winning side was promised the right to rule all Israel. It shows the encounter turning from the chosen men’s deaths into a wider clash."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/2.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-two-review.md"
+  }
+}

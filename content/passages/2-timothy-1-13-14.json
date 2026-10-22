@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "2 Timothy",
+    "citation": "1:13-14",
+    "label": "2 Timothy 1:13-14",
+    "slug": "2-timothy-1-13-14"
+  },
+  "section_title": "How should Timothy guard the teaching he has received?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 Hold on to the pattern of sound teaching you have heard from me, with the faith and love that are in Christ Jesus. 14 Guard the treasure entrusted to you, with the help of the Holy Spirit who dwells in us."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul moves from confidence in God’s keeping to Timothy’s responsibility to keep what he has received. Timothy is to hold onto the pattern of sound teaching he heard from Paul, with the faith and love found in Christ Jesus.",
+    "",
+    "He is not left to guard it by determination alone. The Holy Spirit who dwells in them supplies the help. The teaching is a treasure to preserve and live by, rather than material to reshape for convenience or popularity."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/2_timothy/1.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-timothy/) understand the trust here as faithful teaching to be preserved. Calvin emphasizes keeping its substance and faithful form, rather than distorting it; Wesley describes a pattern of wholesome doctrine. Both take Paul’s instruction as care for the truth received, with faith, love and God’s help."
+  ],
+  "god_plan_lines": [
+    "[2 Timothy 2:1–2](https://biblehub.com/bsb/2_timothy/2.htm) explains how the message is to continue: Timothy is to pass it on to reliable people who can teach others. Guarding serves that future transmission; it is more than keeping something private.",
+    "",
+    "[Ephesians 4:11–16](https://biblehub.com/bsb/ephesians/4.htm) describes the wider goal of teaching and speaking truth in love: a whole body growing toward maturity in Christ. Faithful teaching is entrusted to the church for that shared growth."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_timothy/1.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-timothy-one-review.md"
+  }
+}

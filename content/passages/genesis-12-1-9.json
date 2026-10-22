@@ -10,7 +10,7 @@
     {
       "label": "BSB",
       "paragraphs": [
-        "1 Then the LORD said to Abram, \u201cLeave your country, your kindred, and your father\u2019s household, and go to the land I will show you.",
+        "1 Then the LORD said to Abram, “Leave your country, your kindred, and your father’s household, and go to the land I will show you.",
         "2 I will make you into a great nation,",
         "and I will bless you;",
         "I will make your name great,",
@@ -18,22 +18,42 @@
         "3 I will bless those who bless you",
         "and curse those who curse you;",
         "and all the families of the earth",
-        "will be blessed through you.\u201d",
+        "will be blessed through you.”",
         "4 So Abram departed, as the LORD had directed him, and Lot went with him. Abram was seventy-five years old when he left Haran. 5 And Abram took his wife Sarai, his nephew Lot, and all the possessions and people they had acquired in Haran, and set out for the land of Canaan.",
         "When they came to the land of Canaan, 6 Abram traveled through the land as far as the site of the Oak of Moreh at Shechem. And at that time the Canaanites were in the land.",
-        "7 Then the LORD appeared to Abram and said, \u201cI will give this land to your offspring.\u201d So Abram built an altar there to the LORD, who had appeared to him.",
+        "7 Then the LORD appeared to Abram and said, “I will give this land to your offspring.” So Abram built an altar there to the LORD, who had appeared to him.",
         "8 From there Abram moved on to the hill country east of Bethel and pitched his tent, with Bethel to the west and Ai to the east. There he built an altar to the LORD, and he called on the name of the LORD.",
         "9 And Abram journeyed on toward the Negev."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 12**, the Lord's call and promise to Abram begin the covenant story in earnest, yet the chapter also records Abram's failure under pressure in Egypt. Its movement from promise to fear to divine preservation shows both God's faithfulness and human weakness."
+    "God's call follows the account of Terah's family, their move from Ur to Haran, and Sarai's inability to have children. Abram is told to leave the familiar life of his country and father's household for a land God will show him. The promises answer the uncertainty of that departure: God will give him a future, make him a great nation, and make him a blessing to others.",
+    "",
+    "The promise reaches beyond Abram's household to all the families of the earth. This follows the scattering of the nations in chapters 10–11. Where Babel's builders sought to make their own name great, God promises to make Abram's name great so that blessing will reach others. One family now becomes central to a story that still concerns the whole human family.",
+    "",
+    "Abram leaves Haran at seventy-five with Sarai, Lot, their possessions, and the people with them. In Canaan, the presence of the Canaanites reminds us that receiving a promise is different from already possessing its fulfillment. God promises the land to Abram's offspring, while Abram lives in tents, builds altars, and calls on the LORD. His journey becomes a life of worship while he waits."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Call of Abram** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 12** remains the first control on meaning."
+    "Christians commonly read Abram's departure as a response of faith to God's call and the promise as blessing that will reach beyond his descendants. [Wesley's notes on Genesis 12:1–8](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) emphasize his trust and obedience, while the Catholic Church's [Catechism, 59–60](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_1/ii_the_stages_of_revelation.index.html), describes the call of Abraham as part of God's purpose to gather scattered humanity."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "god_plan_lines": [
+    "[Galatians 3:8–14](https://biblehub.com/bsb/galatians/3.htm) explicitly connects the promise of blessing for the nations with the good news: through Christ, the blessing promised to Abraham reaches people of other nations, and they receive the Spirit through faith. Abram's call is therefore more than the beginning of Israel's family history. It belongs to the unfolding of God's rescue reaching people from every nation.",
+    "",
+    "[Hebrews 11:8–10](https://biblehub.com/bsb/hebrews/11.htm) also explains Abram's journey as an act of faith. He went without knowing where he was going and lived as a stranger while looking for the city God would build. The tents and altars help us picture that kind of life: acting on what God has said, worshiping Him in the present, and trusting Him for a future not yet in view."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-18",
+    "quote_source": "https://biblehub.com/bsb/genesis/12.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-18-genesis-call-and-separation-review.md"
+  }
 }

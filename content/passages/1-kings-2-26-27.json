@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "2:26-27",
+    "label": "1 Kings 2:26-27",
+    "slug": "1-kings-2-26-27"
+  },
+  "section_title": "Why does Solomon spare Abiathar but remove him from the priesthood?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "26 Then the king said to Abiathar the priest, “Go back to your fields in Anathoth. Even though you deserve to die, I will not put you to death at this time, since you carried the ark of the Lord GOD before my father David, and you suffered through all that my father suffered.” 27 So Solomon banished Abiathar from the priesthood of the LORD and thus fulfilled the word that the LORD had spoken at Shiloh against the house of Eli."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Solomon sends Abiathar back to his fields at Anathoth. He says that Abiathar deserves death, but remembers his service with David: he carried the ark and shared David’s hardships.",
+    "",
+    "Abiathar’s life is spared, but his priestly office is taken away. The narrator expressly identifies this removal as fulfillment of the LORD’s earlier word against Eli’s house at Shiloh."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/2.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) see mercy joined with judgment. Abiathar’s recent conduct is addressed without erasing the help he gave David in earlier years.",
+    "",
+    "[Gill](https://biblehub.com/commentaries/gill/1_kings/2.htm) connects the removal with [1 Samuel 2:27–36](https://biblehub.com/bsb/1_samuel/2.htm), where Eli’s house is warned about losing its place. The fulfillment is stated by Kings itself, rather than supplied only by a later commentator."
+  ],
+  "god_plan_lines": [
+    "The earlier warning includes God’s promise to raise up a faithful priest in [1 Samuel 2:35](https://biblehub.com/bsb/1_samuel/2.htm). This chapter will name Zadok in Abiathar’s place. Within Israel’s story, that change answers the failure of Eli’s house.",
+    "",
+    "The wider biblical hope of faithful priesthood reaches further. [Hebrews 7:23–28](https://biblehub.com/bsb/hebrews/7.htm) contrasts priests limited by weakness and death with Jesus, whose priesthood is permanent and whose offering is complete.",
+    "",
+    "Hebrews does not identify Abiathar’s dismissal as a direct prediction of Jesus. The connection is the larger need for faithful priestly service and the final confidence Christians place in the living High Priest."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/2.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-two-review.md"
+  }
+}

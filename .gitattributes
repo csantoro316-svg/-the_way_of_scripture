@@ -1,0 +1,2 @@
+# Preserve internal reference PDFs as binary assets.
+*.pdf binary

@@ -10,19 +10,32 @@
     {
       "label": "BSB",
       "paragraphs": [
-        "12 This is the account of Abraham\u2019s son Ishmael, whom Hagar the Egyptian, Sarah\u2019s maidservant, bore to Abraham. 13 These are the names of the sons of Ishmael in the order of their birth: Nebaioth the firstborn of Ishmael, then Kedar, Adbeel, Mibsam, 14 Mishma, Dumah, Massa, 15 Hadad, Tema, Jetur, Naphish, and Kedemah.",
-        "16 These were the sons of Ishmael, and these were their names by their villages and encampments\u2014twelve princes of their tribes. 17 Ishmael lived a total of 137 years. Then he breathed his last and died, and was gathered to his people.",
-        "18 Ishmael\u2019s descendants settled from Havilah to Shur, which is near the border of Egypt as you go toward Asshur. And they lived in hostility toward all their brothers."
+        "12 This is the account of Abraham’s son Ishmael, whom Hagar the Egyptian, Sarah’s maidservant, bore to Abraham. 13 These are the names of the sons of Ishmael in the order of their birth: Nebaioth the firstborn of Ishmael, then Kedar, Adbeel, Mibsam, 14 Mishma, Dumah, Massa, 15 Hadad, Tema, Jetur, Naphish, and Kedemah.",
+        "16 These were the sons of Ishmael, and these were their names by their villages and encampments—twelve princes of their tribes. 17 Ishmael lived a total of 137 years. Then he breathed his last and died, and was gathered to his people.",
+        "18 Ishmael’s descendants settled from Havilah to Shur, which is near the border of Egypt as you go toward Asshur. And they lived in hostility toward all their brothers."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 25**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "Genesis briefly follows Ishmael's family before returning to Isaac. It identifies Ishmael as Abraham's son through Hagar, names his twelve sons, and describes them as princes of their tribes. Their villages and encampments show a family that has grown into distinct communities.",
+    "",
+    "The twelve leaders recall God's promise in [Genesis 17:20](https://biblehub.com/bsb/genesis/17.htm), where He said He would bless Ishmael, multiply his descendants, and make him the father of twelve rulers. That promise is remembered even though the covenant line is traced through Isaac. Being outside that particular line does not mean being outside every kindness God has shown.",
+    "",
+    "Ishmael dies at 137. The account describes his descendants' territory in relation to Egypt and Asshur and, in the BSB, their hostility toward their brothers. It closes this branch of the family history without requiring us to assign the character of these communities to every later person who claims descent from Ishmael."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Descendants of Ishmael** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 25** remains the first control on meaning."
+    "A common Christian reading sees the twelve princes as fulfillment of God's promise to Ishmael, while the main story continues through Isaac. [Wesley's notes on Genesis 25:11, 17](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) treat Ishmael's growing family and long life as signs of God's care for him."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/25.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-inheritance-and-twins-review.md"
+  }
 }

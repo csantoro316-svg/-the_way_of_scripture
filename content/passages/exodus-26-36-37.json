@@ -5,22 +5,50 @@
     "label": "Exodus 26:36-37",
     "slug": "exodus-26-36-37"
   },
-  "section_title": "The Curtain for the Entrance",
+  "section_title": "How was the entrance to the tent made?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "36 For the entrance to the tent, you are to make a curtain embroidered with blue, purple, and scarlet yarn, and finely spun linen. 37 Make five posts of acacia wood for the curtain, overlay them with gold hooks, and cast five bronze bases for them."
+        "36 For the entrance to the tent, you are to make a curtain embroidered with blue, purple, and scarlet yarn, and finely spun linen. 37 Make five posts of acacia wood for the curtain, overlay them with gold, use hooks of gold, and cast five bronze bases for them."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 26**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "A second curtain forms the entrance to the tent. It uses blue, purple and scarlet yarn with finely spun linen and embroidered work. Five gold-covered acacia posts support it with gold hooks and bronze bases.",
+    "",
+    "This is the doorway into the Holy Place, distinct from the inner veil that separates the Most Holy Place. The entrance has five posts on bronze bases; the inner veil has four on silver bases. The instructions complete the enclosed tent while keeping the two places of entry distinct."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Curtain for the Entrance** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 26** remains the first control on meaning."
+    "The usual reading is that this curtain serves as the tent’s entrance screen. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) distinguishes the priests’ regular passage through this entrance from the restricted approach beyond the inner veil. [Calvin](https://biblehub.com/commentaries/calvin/exodus/26.htm) sees both curtains as teaching reverence in approaching God, while recognizing their different places in the sanctuary."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The entrance offers a useful parallel with Jesus’ description of Himself as the gate for the sheep in [John 10:7–18](https://biblehub.com/bsb/john/10.htm). His actual setting is a sheepfold, rather than an explanation of this embroidered curtain. He brings His sheep into life and safety, lays down His life for them and gathers them into one flock.",
+    "",
+    "The larger theme is access through the one God provides. In [John 14:1–6](https://biblehub.com/bsb/john/14.htm), Jesus promises a place with Him and says that people come to the Father through Him. The comparison helps place the sanctuary’s ordered entrance within the broader story of God bringing His people near, as a clearly labeled comparison."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/26.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-twenty-six-review.md"
+  }
 }

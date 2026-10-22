@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "3:12-15",
+    "label": "Hebrews 3:12-15",
+    "slug": "hebrews-3-12-15"
+  },
+  "section_title": "How can we help one another keep trusting Christ?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "12 See to it, brothers, that none of you has a wicked heart of unbelief that turns away from the living God. 13 But exhort one another daily, as long as it is called today, so that none of you may be hardened by sin’s deceitfulness. 14 We have come to share in Christ if we hold firmly to the end the assurance we had at first.",
+        "15 As it has been said: “Today, if you hear His voice, do not harden your hearts, as you did in the rebellion.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The wilderness warning becomes a direct appeal to the readers. They are to watch against an unbelieving heart that turns away from the living God. Sin is deceptive: it can make a damaging direction appear harmless until the heart grows resistant.",
+    "",
+    "The instruction is also practical and shared. They are to encourage and urge one another daily while there is still opportunity to respond. Each person’s perseverance matters to the community; faith is not treated as a private concern that no one else should care about.",
+    "",
+    "The writer connects sharing in Christ with holding firmly to the assurance they had at first. He then repeats the warning to hear God today. The passage keeps together Christ, enduring trust and the help believers give one another."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/3.htm) applies the warning to those who have received Christian teaching and stresses mutual encouragement as help every believer needs. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) emphasizes the condition: continuing to share in Christ’s benefits calls for continuing in faith. Neither reduces the passage to concern only for other people.",
+    "",
+    "Traditions explain the danger of falling away differently. The Reformed [Westminster Confession, chapter 17](https://www.opc.org/wcf.html), teaches that God preserves those truly called through to the end, while recognizing serious falls into sin. The Methodist [Articles of Religion, Article XII](https://www.umc.org/en/content/articles-of-religion), allow departure from grace and restoration through repentance. The [Catholic Catechism, paragraph 162](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_three/article_1/iii_the_characteristics_of_faith.html), also warns that the gift of faith can be lost. These differences should be stated without making the warning trivial or claiming that continued faith earns salvation."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 10:19–25](https://biblehub.com/bsb/hebrews/10.htm) joins access to God through Jesus with holding firmly to hope and encouraging one another toward love and good deeds. Daily encouragement belongs to a people whom Christ has brought near to God.",
+    "",
+    "[Ephesians 4:11–16](https://biblehub.com/bsb/ephesians/4.htm) describes the whole body growing toward maturity through truth and love as each part contributes. The shared care commanded here serves that larger purpose: a community growing together in Christ, rather than merely occupying the same room."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-three-review.md"
+  }
+}

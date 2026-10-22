@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "11:14-25",
+    "label": "1 Kings 11:14-25",
+    "slug": "1-kings-11-14-25"
+  },
+  "section_title": "How do old conflicts return to trouble Solomon?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 Then the LORD raised up against Solomon an adversary, Hadad the Edomite, from the royal line of Edom. 15 Earlier, when David was in Edom, Joab the commander of the army had gone to bury the dead and had struck down every male in Edom. 16 Joab and all Israel had stayed there six months, until he had killed every male in Edom. 17 But Hadad, still just a young boy, had fled to Egypt, along with some Edomites who were servants of his father. 18 Hadad and his men set out from Midian and went to Paran. They took men from Paran with them and went to Egypt, to Pharaoh king of Egypt, who gave Hadad a house and land and provided him with food. 19 There Hadad found such great favor in the sight of Pharaoh that he gave to him in marriage the sister of Queen Tahpenes, his own wife. 20 And the sister of Tahpenes bore Hadad a son named Genubath. Tahpenes herself weaned him in Pharaoh’s palace, and Genubath lived there among the sons of Pharaoh.",
+        "21 When Hadad heard in Egypt that David had rested with his fathers and that Joab, the commander of the army, was dead, he said to Pharaoh, “Let me go, that I may return to my own country.” 22 But Pharaoh asked him, “What have you lacked here with me that you suddenly want to go back to your own country?” “Nothing,” Hadad replied, “but please let me go.” 23 And God raised up against Solomon another adversary, Rezon the son of Eliada, who had fled from his master, Hadadezer king of Zobah, 24 and had gathered men to himself. When David killed the Zobaites, Rezon captained a band of raiders and went to Damascus, where they settled and gained control. 25 Rezon was Israel’s enemy throughout the days of Solomon, adding to the trouble caused by Hadad. So Rezon ruled over Aram with hostility toward Israel."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The LORD raises up two adversaries against Solomon. Hadad is an Edomite prince who escaped to Egypt as a child during Joab’s campaign in Edom. Pharaoh provides for him, and he marries into the Egyptian royal household. After hearing that David and Joab have died, Hadad asks to return to his country.",
+    "",
+    "Rezon has fled from Hadadezer king of Zobah, gathered a band of raiders and gained control in Damascus. His hostility adds to the trouble caused by Hadad.",
+    "",
+    "The Hebrew word for adversary is satan, pronounced sah-TAHN. [Brown–Driver–Briggs](https://biblehub.com/hebrew/7854.htm) specifically lists these verses under its ordinary meaning of a personal or national opponent. The account is naming human enemies, whose histories reach back into David’s reign."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/11.htm) and [Gill](https://biblehub.com/commentaries/gill/1_kings/11.htm) understand the rise of these opponents as God’s correction of Solomon. Human conflicts become part of the consequences the LORD has announced.",
+    "",
+    "Gill places their active opposition in the period following Solomon’s turn to idolatry, reading it alongside the earlier description of peace. The [USCCB notes](https://bible.usccb.org/bible/1kings/11) emphasize that the enemies’ histories go back to the beginning of his reign and question how complete that earlier picture of peace was.",
+    "",
+    "The difference concerns the timing and extent of the opposition. In both readings, these accounts qualify the picture of an untroubled kingdom and show that Solomon’s power cannot keep every threat at bay."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/11.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-eleven-review.md"
+  }
+}

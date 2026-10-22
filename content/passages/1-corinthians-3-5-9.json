@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "3:5-9",
+    "label": "1 Corinthians 3:5-9",
+    "slug": "1-corinthians-3-5-9"
+  },
+  "section_title": "Who makes the church grow?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 What then is Apollos? And what is Paul? They are servants through whom you believed, as the Lord has assigned to each his role. 6 I planted the seed and Apollos watered it, but God made it grow. 7 So neither he who plants nor he who waters is anything, but only God, who makes things grow. 8 He who plants and he who waters are one in purpose, and each will be rewarded according to his own labor. 9 For we are God’s fellow workers; you are God’s field, God’s building."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul and Apollos are servants through whom the Corinthians believed, each carrying out a role the Lord assigned. Paul pictures himself planting and Apollos watering. Their work differs, but the growth comes from God.",
+    "",
+    "This does not make their labor pointless. Paul immediately speaks of each worker receiving a reward according to that worker’s labor. Dependence on God leaves room for diligent service while removing the claim that the servant is the source of life.",
+    "",
+    "The two workers share one purpose rather than competing for ownership of the crop. The believers are God’s field and God’s building. These pictures prepare for Paul’s next warning about the responsibility of those who build, and they remind the church whose people they are."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand planting and watering as complementary service, with God giving the growth. [Wesley’s note on verse 8](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) emphasizes faithful labor rather than apparent success as the measure of the worker’s reward; the servants’ different tasks are no reason to divide the community."
+  ],
+  "god_plan_lines": [
+    "In [John 4:35–38](https://biblehub.com/bsb/john/4.htm), Jesus describes sowing and reaping as work in which different people contribute and rejoice together. His disciples enter a harvest for which others have labored.",
+    "",
+    "This is a helpful parallel to Paul’s picture. God’s work is larger than one person’s contribution or one stage of ministry. A servant can work faithfully without claiming the whole harvest, and can value the work of someone whose task is different."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/3.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-three-review.md"
+  }
+}

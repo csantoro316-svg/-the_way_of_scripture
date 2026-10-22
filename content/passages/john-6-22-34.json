@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "6:22-34",
+    "label": "John 6:22-34",
+    "slug": "john-6-22-34"
+  },
+  "section_title": "What bread should the crowd be seeking?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "22 The next day, the crowd that had remained on the other side of the sea realized that only one boat had been there, and that Jesus had not boarded it with His disciples, but they had gone away alone. 23 However, some boats from Tiberias landed near the place where the people had eaten the bread after the Lord had given thanks. 24 So when the crowd saw that neither Jesus nor His disciples were there, they got into the boats and went to Capernaum to look for Him. 25 When they found Him on the other side of the sea, they asked Him, “Rabbi, when did You get here?”",
+        "26 Jesus replied, “Truly, truly, I tell you, it is not because you saw these signs that you are looking for Me, but because you ate the loaves and had your fill. 27 Do not work for food that perishes, but for food that endures to eternal life, which the Son of Man will give you. For on Him God the Father has placed His seal of approval.” 28 Then they inquired, “What must we do to perform the works of God?” 29 Jesus replied, “The work of God is this: to believe in the One He has sent.”",
+        "30 So they asked Him, “What sign then will You perform, so that we may see it and believe You? What will You do? 31 Our fathers ate the manna in the wilderness, as it is written: ‘He gave them bread from heaven to eat.’” 32 Jesus said to them, “Truly, truly, I tell you, it was not Moses who gave you the bread from heaven, but it is My Father who gives you the true bread from heaven. 33 For the bread of God is He who comes down from heaven and gives life to the world.” 34 “Sir,” they said, “give us this bread at all times.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The day after the feeding, the crowd realizes Jesus did not leave in the disciples’ boat. Other boats arrive, and the people go to Capernaum to find Him. They ask when He got there.",
+    "",
+    "Jesus addresses why they are looking for Him: they ate and were filled. He directs them toward the food that endures to eternal life, which the Son of Man gives. When they ask what God requires them to do, He calls them to believe in the One God has sent.",
+    "",
+    "They ask for a sign and recall their ancestors receiving manna. Jesus corrects the focus on Moses: the Father gives the true bread from heaven, the One who gives life to the world. Their request for that bread leads into His explanation that He Himself is the bread of life."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand Jesus as turning the crowd’s attention from another meal toward faith in the One sent by God. Calvin and Wesley both read the work named in verse 29 as believing in Christ, with that faith directing the rest of life rather than making a list of achievements the basis for receiving Him. ([Calvin on John 6:29](https://biblehub.com/commentaries/calvin/john/6.htm); [Wesley on John 6:27–29](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/))"
+  ],
+  "god_plan_lines": [
+    "Deuteronomy explains that manna taught Israel to depend on every word from God, rather than bread alone. Jesus quotes that teaching during His own wilderness temptation. The movement from food toward trusting God’s word therefore has a clear scriptural background, including Jesus’ own use of it. ([Deuteronomy 8:2–3](https://biblehub.com/bsb/deuteronomy/8.htm); [Matthew 4:1–4](https://biblehub.com/bsb/matthew/4.htm))",
+    "",
+    "Paul also reads Israel’s wilderness experience in relation to Christ. He describes their spiritual food and drink and identifies the accompanying rock with Christ. That gives a further New Testament connection between God’s earlier provision and the One who now offers lasting life. ([1 Corinthians 10:1–4](https://biblehub.com/bsb/1_corinthians/10.htm))"
+  ],
+  "current_position_lines": [
+    "Our study Prayer and Faith reads the true bread from heaven as Christ Himself, whom the Father gives for life. It connects this passage with daily dependence on Him as the source of lasting life, rather than treating bread only as material provision."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/6.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-john-six-bread-and-promise-review.md",
+    "position_source_detail": "Prayer and Faith: Section4 The Missing Link — Christ as the Living Bread; developed John6:32–58 discussion and quoted32–33/35/48–51/58. Limited to identity of bread/faith/dependence, without originating a Eucharistic or election position."
+  }
+}

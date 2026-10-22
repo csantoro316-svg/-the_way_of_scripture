@@ -11,18 +11,39 @@
       "label": "BSB",
       "paragraphs": [
         "25 When Methuselah was 187 years old, he became the father of Lamech. 26 And after he had become the father of Lamech, Methuselah lived 782 years and had other sons and daughters. 27 So Methuselah lived a total of 969 years, and then he died.",
-        "28 When Lamech was 182 years old, he had a son. 29 And he named him Noah, saying, \u201cMay this one comfort us in the labor and toil of our hands caused by the ground that the LORD has cursed.\u201d 30 And after he had become the father of Noah, Lamech lived 595 years and had other sons and daughters. 31 So Lamech lived a total of 777 years, and then he died.",
+        "28 When Lamech was 182 years old, he had a son. 29 And he named him Noah, saying, “May this one comfort us in the labor and toil of our hands caused by the ground that the LORD has cursed.” 30 And after he had become the father of Noah, Lamech lived 595 years and had other sons and daughters. 31 So Lamech lived a total of 777 years, and then he died.",
         "32 After Noah was 500 years old, he became the father of Shem, Ham, and Japheth."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 5**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "After Enoch's unusual ending, the repeated death notices return. Methuselah lives 969 years, the longest lifespan listed in this chapter, and still dies. His son Lamech also dies. The names and numbers lead toward Noah, the man whose family will carry the narrative through the flood.",
+    "",
+    "This Lamech expresses hope that his son will bring comfort from the painful work caused by the cursed ground. His words reach back to [Genesis 3:17–19](https://biblehub.com/bsb/genesis/3.htm). They show how heavily that burden weighs on life outside Eden. The text reports the father's expectation; it does not say that Noah himself will remove every consequence of the fall.",
+    "",
+    "The final verse names Noah's three sons and prepares for the family that enters the ark. It need not mean all three were born at once or that their order here settles every question about their ages. The focus is the family through which the account continues."
   ],
   "common_interpretation_lines": [
-    "A common reading of **From Methuselah to Noah** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 5** remains the first control on meaning."
+    "Christians commonly read this as the transition from the early family record to Noah, with the father's hope set against the repeated reality of death. [Wesley's notes on verses 25–32](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) likewise connect the family record with Noah's coming role; the promises and judgments in the following chapters show how that role unfolds."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "god_plan_lines": [
+    "[Hebrews 11:7](https://biblehub.com/bsb/hebrews/11.htm) explains Noah's part in God's purpose through his response to a warning: he trusts God, builds the ark, and becomes an heir of righteousness by faith. The family introduced here will be preserved through a real judgment. Noah's significance depends on God's warning and provision, not on human longevity alone.",
+    "",
+    "The hope for relief from the cursed ground also remains larger than Noah's lifetime. After the flood, [Genesis 9:1–17](https://biblehub.com/bsb/genesis/9.htm) describes God's covenant with the surviving family and living creatures. The complete end of the curse appears in [Revelation 22:3](https://biblehub.com/bsb/revelation/22.htm). Noah has a place in that unfolding story, while the final restoration rests with God."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-18",
+    "quote_source": "https://biblehub.com/bsb/genesis/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-18-genesis-cain-to-noah-review.md"
+  }
 }

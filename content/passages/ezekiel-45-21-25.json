@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "45:21-25",
+    "label": "Ezekiel 45:21-25",
+    "slug": "ezekiel-45-21-25"
+  },
+  "section_title": "What is provided for the Passover and the seventh-month feast?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "21 On the fourteenth day of the first month you are to observe the Passover, a feast of seven days, during which unleavened bread shall be eaten. 22 On that day the prince shall provide a bull as a sin offering for himself and for all the people of the land. 23 Each day during the seven days of the feast, he shall provide seven bulls and seven rams without blemish as a burnt offering to the LORD, along with a male goat for a sin offering. 24 He shall also provide as a grain offering an ephah for each bull and an ephah for each ram, along with a hin of olive oil for each ephah of grain.",
+        "25 During the seven days of the feast that begins on the fifteenth day of the seventh month, he is to make the same provision for sin offerings, burnt offerings, grain offerings, and oil.’"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The Passover is observed on the fourteenth day of the first month, with a seven-day feast and unleavened bread. The prince provides a sin offering for himself and the people, together with the burnt offerings and grain and oil prescribed for the week.",
+    "",
+    "The passage also directs the same provision for the seven-day feast beginning on the fifteenth day of the seventh month. It describes worship in which the ruler bears responsibility along with the people.",
+    "",
+    "The language about an offering for the prince himself matters when considering who he is. The scene includes him among those for whom the offering is provided, rather than treating his office as independent of the Lord’s requirements."
+  ],
+  "common_interpretation_lines": [
+    "[Cambridge](https://biblehub.com/commentaries/cambridge/ezekiel/45.htm) identifies the seventh-month feast as the Feast of Tabernacles, also called Booths. [Henry](https://biblehub.com/commentaries/mhc/ezekiel/45.htm) reads the Passover through Christ’s sacrifice and the Christian life of sincerity and truth.",
+    "",
+    "The broader difference over the temple vision remains: some readers expect these to be future physical observances, while others understand the restored worship through Christ and His people. The named feasts do not by themselves establish that every unmentioned observance is forbidden."
+  ],
+  "god_plan_lines": [
+    "[First Corinthians 5:6–8](https://biblehub.com/bsb/1_corinthians/5.htm) directly joins Passover and unleavened-bread language to Christ and the church’s life. Christ is the sacrificed Passover lamb, and Paul calls for the removal of malice and wickedness in favor of sincerity and truth.",
+    "",
+    "This connection concerns the Passover pattern across Scripture; Paul does not identify Ezekiel’s festival instructions as his source. It shows the larger purpose moving beyond a calendar observance to a people whose life reflects the deliverance Christ has accomplished."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/45.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-forty-four-five-review.md"
+  }
+}

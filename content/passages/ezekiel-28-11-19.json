@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "28:11-19",
+    "label": "Ezekiel 28:11-19",
+    "slug": "ezekiel-28-11-19"
+  },
+  "section_title": "Is the lament about Tyre’s king, Satan, or both?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "11 Again the word of the LORD came to me, saying, 12 “Son of man, take up a lament for the king of Tyre and tell him that this is what the Lord GOD says: ‘You were the seal of perfection, full of wisdom and perfect in beauty. 13 You were in Eden, the garden of God. Every kind of precious stone adorned you: ruby, topaz, and diamond, beryl, onyx, and jasper, sapphire, turquoise, and emerald. Your mountings and settings were crafted in gold, prepared on the day of your creation. 14 You were anointed as a guardian cherub, for I had ordained you. You were on the holy mountain of God; you walked among the fiery stones. 15 From the day you were created you were blameless in your ways— until wickedness was found in you.",
+        "16 By the vastness of your trade, you were filled with violence, and you sinned. So I drove you in disgrace from the mountain of God, and I banished you, O guardian cherub, from among the fiery stones. 17 Your heart grew proud of your beauty; you corrupted your wisdom because of your splendor; so I cast you to the earth; I made you a spectacle before kings. 18 By the multitude of your iniquities and the dishonesty of your trading you have profaned your sanctuaries. So I made fire come from within you, and it consumed you. I reduced you to ashes on the ground in the eyes of all who saw you. 19 All the nations who know you are appalled over you. You have come to a horrible end and will be no more.’”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The Lord introduces a lament for the king of Tyre. Its opening describes extraordinary beauty and wisdom through the language of Eden, precious stones, a guardian cherub and the holy mountain of God.",
+    "",
+    "The turning point is wickedness found in one who had been blameless. Trade is filled with violence, beauty leads to pride, wisdom is corrupted, and dishonest dealings profane sanctuaries. The gifts that marked splendor have become part of the account of ruin.",
+    "",
+    "The king is cast down, consumed by fire and exposed before others as an object of horror. This follows the larger movement of the Tyre chapters: apparent perfection and security give way to judgment. How the Eden and cherub language relates to the human king is the major question in interpreting the passage."
+  ],
+  "common_interpretation_lines": [
+    "An early Christian reading appears in [Tertullian’s Against Marcion, book II, chapter 10](https://www.newadvent.org/fathers/03122.htm). He sees the devil described through the person of Tyre’s ruler, reasoning that the original goodness, heavenly privilege and subsequent corruption reach beyond an ordinary human king. This is an interpretation with an early history, rather than a view introduced by one recent teacher.",
+    "",
+    "[Wesley](https://biblehub.com/commentaries/wes/ezekiel/28.htm) reads the language as a portrayal of the human ruler’s privilege, self-importance and downfall, with the cherub picture expressing royal dignity and protection. The [USCCB notes](https://bible.usccb.org/bible/ezekiel/28) likewise describe Tyre’s leader through imagery recalling Genesis 2–3. [Cambridge](https://biblehub.com/commentaries/cambridge/ezekiel/28.htm) develops that reading through the fall and expulsion from the garden.",
+    "",
+    "Where these readings differ is whether the lament reaches behind the human ruler to Satan, or uses the garden and heavenly imagery to expose the ruler himself. The different titles for ruler and king do not settle that question on their own; Cambridge notes their interchangeable use. The passage names the king of Tyre and does not explicitly name Satan."
+  ],
+  "god_plan_lines": [
+    "[Colossians 1:15–20](https://biblehub.com/bsb/colossians/1.htm) places every throne, dominion, ruler and authority under the Son: all were created through Him and for Him. It also places God’s purpose of reconciliation in the peace made through the blood of His cross.",
+    "",
+    "[Colossians 2:13–15](https://biblehub.com/bsb/colossians/2.htm) joins forgiveness through the cross with the disarming and public defeat of rulers and authorities. This supplies a wider biblical answer to intimidating power, human or spiritual. It does not explicitly interpret Ezekiel 28 or decide the debated identity in the lament. The New Testament directs hope toward Christ’s authority and saving victory."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/28.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-twenty-eight-review.md"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "9:20-23",
+    "label": "Daniel 9:20-23",
+    "slug": "daniel-9-20-23"
+  },
+  "section_title": "What answer reaches Daniel while he is still praying?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "20 While I was speaking, praying, confessing my sin and that of my people Israel, and presenting my petition before the LORD my God concerning His holy mountain— 21 while I was still praying, Gabriel, the man I had seen in the earlier vision, came to me in swift flight about the time of the evening sacrifice. 22 He instructed me and spoke with me, saying: “O Daniel, I have come now to give you insight and understanding. 23 At the beginning of your petitions, an answer went out, and I have come to tell you, for you are highly precious. So consider the message and understand the vision:"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Daniel is still confessing his sin and the sin of his people when Gabriel arrives. He recognizes the messenger from the earlier vision. The time is that of the evening sacrifice.",
+    "",
+    "Gabriel says that an answer went out at the beginning of Daniel’s petitions. Daniel is highly precious, and the messenger has come to give him insight and understanding.",
+    "",
+    "The response is more than an announcement that the prayer was heard. Daniel is called to consider a message about his people and Jerusalem that reaches beyond the immediate ruins for which he has been praying."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/daniel/9.htm) sees the answer as opening a larger prospect of redemption. [Gaebelein](https://biblehub.com/commentaries/gaebelein/daniel/9.htm) emphasizes that God hears Daniel from the beginning of his prayer. Gabriel’s message supplies understanding that Daniel could not produce for himself."
+  ],
+  "god_plan_lines": [
+    "Gabriel appears again in [Luke 1:11–20 and 26–38](https://biblehub.com/bsb/luke/1.htm). He tells Zechariah that his prayer has been heard and announces John’s role in preparing people for the Lord. He then tells Mary that Jesus will receive David’s throne and reign without end.",
+    "",
+    "This is a connection through the messenger and the unfolding purpose he announces. In Daniel he brings understanding about Jerusalem’s future; in Luke he announces the birth of the King whose kingdom will never end. God’s answer reaches into a purpose larger than the immediate circumstances of those receiving it."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/9.htm",
+    "plan_basis": [
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-nine-review.md"
+  }
+}

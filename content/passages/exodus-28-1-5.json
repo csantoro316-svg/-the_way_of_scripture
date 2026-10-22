@@ -5,23 +5,56 @@
     "label": "Exodus 28:1-5",
     "slug": "exodus-28-1-5"
   },
-  "section_title": "Garments for the Priests",
+  "section_title": "Why did God appoint Aaron and give him special garments?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 \u201cNext, have your brother Aaron brought to you from among the Israelites, along with his sons Nadab, Abihu, Eleazar, and Ithamar, to serve Me as priests. 2 Make holy garments for your brother Aaron, to give him glory and splendor.",
-        "3 You are to instruct all the skilled craftsmen, whom I have filled with a spirit of wisdom, to make garments for Aaron\u2019s consecration, so that he may serve Me as priest. 4 These are the garments that they shall make: a breastpiece, an ephod, a robe, a woven tunic, a turban, and a sash. They are to make these holy garments for your brother Aaron and his sons, so that they may serve Me as priests. 5 They shall use gold, along with blue, purple, and scarlet yarn, and fine linen."
+        "1 “Next, have your brother Aaron brought to you from among the Israelites, along with his sons Nadab, Abihu, Eleazar, and Ithamar, to serve Me as priests. 2 Make holy garments for your brother Aaron, to give him glory and splendor. 3 You are to instruct all the skilled craftsmen, whom I have filled with a spirit of wisdom, to make garments for Aaron’s consecration, so that he may serve Me as priest. 4 These are the garments that they shall make: a breastpiece, an ephod, a robe, a woven tunic, a turban, and a sash. They are to make these holy garments for your brother Aaron and his sons, so that they may serve Me as priests. 5 They shall use gold, along with blue, purple, and scarlet yarn, and fine linen."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 28**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "After describing the sanctuary and its service, God names the family who will serve Him as priests: Aaron and his sons Nadab, Abihu, Eleazar and Ithamar. The appointment comes from God, and Moses is to bring them forward from among Israel.",
+    "",
+    "The garments are holy because they are set apart for this service. The Hebrew verb קָדַשׁ, *qadash* (kah-DAHSH), used for their consecration, means to set apart or dedicate as sacred ([Brown–Driver–Briggs](https://biblehub.com/hebrew/6942.htm)). Skilled craftsmen, whom God has equipped with wisdom for the task, are to make them. Their glory and splendor express the dignity of serving before Him.",
+    "",
+    "The list introduces the breastpiece, ephod, robe, tunic, turban and sash, with instructions for their materials. The chapter will describe Aaron’s special garments and then those of his sons. Their clothing marks the responsibility they receive within Israel’s covenant worship."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Garments for the Priests** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 28** remains the first control on meaning."
+    "The usual reading is that both God’s appointment and the garments set the priests apart for their task. [Calvin](https://biblehub.com/commentaries/calvin/exodus/28.htm) emphasizes that Aaron does not claim the office for himself. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) understands the garments’ beauty as impressing the dignity of the service on both the priests and the people, and sees the craftsmen’s skill as a gift to be used for God."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[Hebrews 5:1–10](https://biblehub.com/bsb/hebrews/5.htm) explicitly uses Aaron’s calling to explain that a high priest is appointed by God. It then speaks of Christ being appointed by the Father, with an everlasting priesthood in the order of Melchizedek. Jesus’ priesthood belongs to God’s saving purpose and is not a role He simply claims for Himself.",
+    "",
+    "[Hebrews 2:14–18](https://biblehub.com/bsb/hebrews/2.htm) also explains why He shares our humanity: He becomes a merciful and faithful high priest who makes atonement and helps those who are tempted. The office introduced here leads into the larger biblical account of the Son who represents people before God and brings them the help they need."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/28.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-twenty-eight-review.md"
+  }
 }

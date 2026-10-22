@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "11:28-37",
+    "label": "John 11:28-37",
+    "slug": "john-11-28-37"
+  },
+  "section_title": "Why does Jesus weep when He knows what He will do?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "28 After Martha had said this, she went back and called her sister Mary aside to tell her, “The Teacher is here and is asking for you.” 29 And when Mary heard this, she got up quickly and went to Him. 30 Now Jesus had not yet entered the village, but was still at the place where Martha had met Him. 31 When the Jews who were in the house consoling Mary saw how quickly she got up and went out, they followed her, supposing she was going to the tomb to mourn there. 32 When Mary came to Jesus and saw Him, she fell at His feet and said, “Lord, if You had been here, my brother would not have died.”",
+        "33 When Jesus saw her weeping, and the Jews who had come with her also weeping, He was deeply moved in spirit and troubled. 34 “Where have you put him?” He asked. “Come and see, Lord,” they answered. 35 Jesus wept. 36 Then the Jews said, “See how He loved him!” 37 But some of them asked, “Could not this man who opened the eyes of the blind also have kept Lazarus from dying?”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Martha returns and privately tells Mary that the Teacher is asking for her. Mary goes quickly. The people consoling her follow because they think she is going to the tomb, but she goes to Jesus, who is still outside the village. She falls at His feet and speaks the same words Martha used about His presence and her brother’s death.",
+    "",
+    "Jesus sees her weeping and the others weeping with her. John describes Him as deeply moved and troubled, then records His tears. His knowledge of the coming raising does not make Him distant from the grief before Him. The story holds His power and His love together.",
+    "",
+    "The Greek word behind deeply moved is ἐμβριμάομαι, embrimaomai (em-brim-AH-oh-my). [Thayer’s lexicon](https://biblehub.com/greek/1690.htm) describes strong indignation and directly cites this scene. The word for troubled [can describe deep inward distress or sorrow](https://biblehub.com/greek/5015.htm). These words show the force of His response; they do not, by themselves, identify one exact object of anger or rule out compassion.",
+    "",
+    "The observers respond in different ways. Some recognize His love for Lazarus; others ask why the One who opened the blind man’s eyes did not prevent this death. Their question brings the earlier sign into the present loss. John records it without giving us every questioner’s private motive or the full content of Jesus’ thoughts."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly see Jesus’ tears as showing real compassion and His sharing in human sorrow. [Wesley on verse 35](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) and [Calvin on verse 33](https://biblehub.com/commentaries/calvin/john/11.htm) connect His response both with the mourners before Him and with the wider misery of humanity.",
+    "",
+    "The stronger wording also leads some interpreters to emphasize His response to death itself. The [Catholic bishops’ note on verse 33](https://bible.usccb.org/bible/john/11) suggests anger at evil’s presence in death. That is an interpretation of the scene; the text shows His profound response without stating every reason for it."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 4:14–16](https://biblehub.com/bsb/hebrews/4.htm) describes Jesus as the great high priest who can sympathize with our weakness and through whom we approach God for mercy. His tears here help us see that sympathy in a particular human loss. The One who brings life does not do so as a distant observer: He enters our suffering and brings His care to the people He has come to save."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/11.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-eleven-opening-review.md"
+  }
+}

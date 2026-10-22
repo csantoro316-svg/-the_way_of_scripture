@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "4:31-37",
+    "label": "Luke 4:31-37",
+    "slug": "luke-4-31-37"
+  },
+  "section_title": "Why do the unclean spirits obey Jesus?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "31 Then He went down to Capernaum, a town in Galilee, and on the Sabbath He began to teach the people. 32 They were astonished at His teaching, because His message had authority. 33 In the synagogue there was a man possessed by the spirit of an unclean demon. He cried out in a loud voice, 34 “Ha! What do You want with us, Jesus of Nazareth? Have You come to destroy us? I know who You are—the Holy One of God!”",
+        "35 But Jesus rebuked the demon. “Be silent!” He said. “Come out of him!” At this, the demon threw the man down before them all and came out without harming him. 36 All the people were overcome with amazement and asked one another, “What is this message? With authority and power He commands the unclean spirits, and they come out!” 37 And the news about Jesus spread throughout the surrounding region."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus teaches in Capernaum on the Sabbath, and the people are struck by the authority of His message. The account then shows that authority in action when an unclean spirit speaks through a man in the synagogue.",
+    "",
+    "The spirit recognizes Jesus as the Holy One of God and asks whether He has come to destroy them. Jesus silences it and commands it to leave. It throws the man down but comes out without harming him. The man’s release shows the effect of Jesus’ command.",
+    "",
+    "The people’s response joins His message with His authority and power: His words bring about what He commands. News spreads through the surrounding region. This continues the ministry of release announced in Nazareth, now seen in a particular person’s rescue. ([Luke 4:18–21](https://biblehub.com/bsb/luke/4.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian traditions commonly read this as Jesus exercising authority over a real evil spirit and freeing the man from its power. The Catholic Catechism connects such acts with the coming of God’s kingdom and the defeat of Satan, while the Gospel itself emphasizes the authority of Jesus’ command. ([Catechism 547–550](https://www.vatican.va/archive/ENG0015/__P1L.HTM); [Mark 1:21–28](https://biblehub.com/bsb/mark/1.htm))"
+  ],
+  "god_plan_lines": [
+    "Jesus later explicitly connects driving out demons with God’s kingdom coming upon people. He describes the victory through the picture of someone stronger overcoming an armed man. The release in Capernaum belongs within that wider work of overcoming evil’s hold. ([Luke 11:14–23](https://biblehub.com/bsb/luke/11.htm))",
+    "",
+    "The New Testament carries this purpose toward the cross. John says the Son of God was revealed to destroy the devil’s works, and Paul describes the powers and authorities being disarmed through Christ’s cross. The command in the synagogue is an early expression of the authority of the Savior whose victory reaches beyond this one encounter. ([1 John 3:8](https://biblehub.com/bsb/1_john/3.htm); [Colossians 2:9–15](https://biblehub.com/bsb/colossians/2.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/4.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-four-closing-review.md"
+  }
+}

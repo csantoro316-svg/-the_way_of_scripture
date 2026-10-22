@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "Ezra",
+    "citation": "2:36-58",
+    "label": "Ezra 2:36-58",
+    "slug": "ezra-2-36-58"
+  },
+  "section_title": "Who will serve in the restored temple community?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "36 The priests: The descendants of Jedaiah (through the house of Jeshua), 973; 37 the descendants of Immer, 1,052; 38 the descendants of Pashhur, 1,247; 39 and the descendants of Harim, 1,017. 40 The Levites: the descendants of Jeshua and Kadmiel (through the line of Hodaviah), 74. 41 The singers: the descendants of Asaph, 128. 42 The gatekeepers: the descendants of Shallum, the descendants of Ater, the descendants of Talmon, the descendants of Akkub, the descendants of Hatita, and the descendants of Shobai, 139 in all.",
+        "43 The temple servants: the descendants of Ziha, the descendants of Hasupha, the descendants of Tabbaoth, 44 the descendants of Keros, the descendants of Siaha, the descendants of Padon, 45 the descendants of Lebanah, the descendants of Hagabah, the descendants of Akkub, 46 the descendants of Hagab, the descendants of Shalmai, the descendants of Hanan, 47 the descendants of Giddel, the descendants of Gahar, the descendants of Reaiah, 48 the descendants of Rezin, the descendants of Nekoda, the descendants of Gazzam, 49 the descendants of Uzza, the descendants of Paseah, the descendants of Besai, 50 the descendants of Asnah, the descendants of Meunim, the descendants of Nephusim, 51 the descendants of Bakbuk, the descendants of Hakupha, the descendants of Harhur, 52 the descendants of Bazluth, the descendants of Mehida, the descendants of Harsha, 53 the descendants of Barkos, the descendants of Sisera, the descendants of Temah, 54 the descendants of Neziah, and the descendants of Hatipha.",
+        "55 The descendants of the servants of Solomon: the descendants of Sotai, the descendants of Hassophereth, the descendants of Peruda, 56 the descendants of Jaala, the descendants of Darkon, the descendants of Giddel, 57 the descendants of Shephatiah, the descendants of Hattil, the descendants of Pochereth-hazzebaim, and the descendants of Ami. 58 The temple servants and descendants of the servants of Solomon numbered 392 in all."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The register turns from the general population to groups associated with temple service. Four priestly family groups are listed, followed by Levites, singers, gatekeepers and temple servants.",
+    "",
+    "Descendants of Solomon’s servants are listed as another group. Together with the temple servants, they number 392. The passage preserves distinctions between the groups rather than treating everyone as a priest.",
+    "",
+    "The rebuilding needs more than royal permission or a supply of gold. A community must return with people able to carry out the worship and service for which the temple exists."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-ezra/) and [Gill](https://biblehub.com/commentaries/gill/ezra/2.htm) read these as the various groups needed for the restored worship. They discuss possible origins of the temple servants, but the passage itself is clearest about their place in the returning community. The main point is the return of people with distinct responsibilities, not a definition of offices in a later Christian church."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezra/2.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezra-one-two-review.md"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "28:11-15",
+    "label": "Matthew 28:11-15",
+    "slug": "matthew-28-11-15"
+  },
+  "section_title": "The Guards Are Paid to Tell a Different Story",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "11 While the women were on their way, some of the guards went into the city and reported to the chief priests all that had happened. 12 And after the chief priests had met with the elders and formed a plan, they gave the soldiers a large sum of money 13 and instructed them: “You are to say, ‘His disciples came by night and stole Him away while we were asleep.’ 14 If this report reaches the governor, we will satisfy him and keep you out of trouble.” 15 So the guards took the money and did as they were instructed. And this account has been circulated among the Jews to this very day."
+      ]
+    }
+  ],
+  "context_lines": [
+    "While the women go to tell the disciples, some guards enter the city and report to the chief priests. The priests meet with the elders, pay the soldiers a large sum, and give them a story to repeat: the disciples stole Jesus' body while they slept. They promise to deal with the governor if the report reaches him.",
+    "",
+    "This follows the deliberate securing of the tomb in [Matthew 27:62–66](https://the-way-of-scripture.web.app/passages/matthew-27-62-66.html). The people who asked for protection against a stolen-body claim now pay the guards to spread that very claim. Matthew contrasts it with the women's encounter with Jesus and says the account was still circulating when he wrote.",
+    "",
+    "The passage describes these officials and soldiers making this arrangement. It does not assign their actions or motives to every Jewish person, either then or in later generations. Jesus, His disciples, and the women bringing the resurrection news were themselves Jewish."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand this as Matthew's account of an organized attempt to explain away the empty tomb. [Wesley on 28:13](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) points to the problem of sleeping guards claiming to know who took the body, while the [US Catholic bishops' note on 28:11–15](https://bible.usccb.org/bible/matthew/28) describes the dispute as being over why the tomb was empty; no denominational breakdown is needed for that shared reading."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/28.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-eight-review.md"
+  }
+}

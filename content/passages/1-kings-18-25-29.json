@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "18:25-29",
+    "label": "1 Kings 18:25-29",
+    "slug": "1-kings-18-25-29"
+  },
+  "section_title": "What happens when Baal’s prophets call for an answer?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "25 Then Elijah said to the prophets of Baal, “Since you are so numerous, choose for yourselves one bull and prepare it first. Then call on the name of your god, but do not light the fire.” 26 And they took the bull that was given them, prepared it, and called on the name of Baal from morning until noon, shouting, “O Baal, answer us!” But there was no sound, and no one answered as they leaped around the altar they had made. 27 At noon Elijah began to taunt them, saying, “Shout louder, for he is a god! Perhaps he is deep in thought, or occupied, or on a journey. Perhaps he is sleeping and must be awakened!” 28 So they shouted louder and cut themselves with knives and lances, as was their custom, until the blood gushed over them. 29 Midday passed, and they kept on raving until the time of the evening sacrifice. But there was no response; no one answered, no one paid attention."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The prophets of Baal choose their bull and prepare it without lighting the wood. From morning until noon they call for an answer and move around the altar, but there is no response.",
+    "",
+    "Elijah taunts them with possibilities that expose the absence of an answer: perhaps their god is occupied, away or asleep. They cry louder and cut themselves, continuing until the time of the evening sacrifice.",
+    "",
+    "The narrator closes the scene with repeated silence. Their effort has not produced a voice, an answer or attention from the god they call upon."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) and [Gill](https://biblehub.com/commentaries/gill/1_kings/18.htm) read the escalating cries and actions as unsuccessful attempts to obtain a response. [Henry](https://biblehub.com/commentaries/mhc/1_kings/18.htm) contrasts them with the prayer Elijah will offer for God’s glory and the people’s good.",
+    "",
+    "The account makes the absence of an answer the central fact. The number of worshippers, the intensity of their efforts and the length of the ceremony cannot establish Baal’s power."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/18.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-eighteen-review.md"
+  }
+}

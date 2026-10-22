@@ -5,25 +5,49 @@
     "label": "Romans 10:13",
     "slug": "romans-10-13"
   },
-  "section_title": "",
+  "section_title": "Who is invited to call on the Lord?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"for, 'Everyone who calls on the name of the Lord will be saved.'\""
+      "label": "BSB",
+      "paragraphs": [
+        "13 for, “Everyone who calls on the name of the Lord will be saved.”"
+      ]
     }
   ],
   "context_lines": [
-    "In **Romans 10**, Paul is explaining righteousness by faith, the nearness of the word, and the necessity of confession and belief in Christ. The chapter belongs to his larger argument about the gospel, Israel, and salvation through faith rather than law."
+    "Paul quotes Joel after saying that there is no difference between Jew and Greek: the same Lord is Lord of all and gives richly to those who call on Him. Everyone in this promise makes its welcome clear.",
+    "",
+    "The surrounding verses connect calling with believing in Christ and hearing the good news. Calling on the Lord is an expression of reliance on Him, within the message Paul has just described through belief and confession."
   ],
   "common_interpretation_lines": [
-    "This is the response: repent, believe, confess Jesus as Lord, and call on Him. Salvation is not inherited from family, achieved by moral effort, or secured by religious activity. It is received by turning to Jesus Christ in faith and trusting entirely in what He has done through His death and resurrection.",
-    "",
-    "If today is the day you are ready to do that, then call on Him. There is no magic wording that saves a person. The Lord is not listening for a formula. He is looking at the heart. But if you do not know how to begin, a prayer like this expresses what Scripture calls for:"
+    "Christians commonly understand this verse as an invitation that crosses the distinction between Jew and Gentile. No ancestry gives someone a separate Lord or a different source of salvation. The verse calls people to trust Him; it does not say that salvation occurs without any response to Him."
+  ],
+  "god_plan_lines": [
+    "[Joel 2:28–32](https://biblehub.com/bsb/joel/2.htm) places this promise within the outpouring of God’s Spirit and deliverance associated with the day of the Lord. Paul brings that promise into his announcement of the risen Jesus and the shared welcome to Jews and Gentiles. Calling on the Lord belongs to God’s promised rescue, reaching beyond inherited religious standing."
+  ],
+  "current_position_lines": [
+    "The Gospel According to Jesus uses this verse to invite people to turn to Jesus in faith and call on Him. The study emphasizes a response of the heart rather than a formula: trusting the Lord who saves, instead of trying to secure salvation through ancestry, moral achievement or religious activity."
   ],
   "deeper_study": [
     {
       "title": "The Gospel According to Jesus",
       "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/10.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-romans-ten-review.md",
+    "position_source_detail": "The Gospel According to Jesus (content/studies/the_gospel_according_to_jesus.md, lines 149–155)"
+  }
 }

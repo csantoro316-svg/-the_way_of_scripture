@@ -5,22 +5,53 @@
     "label": "Exodus 30:17-21",
     "slug": "exodus-30-17-21"
   },
-  "section_title": "The Bronze Basin",
+  "section_title": "Why did the priests wash their hands and feet before serving?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "17 And the LORD said to Moses, 18 \u201cYou are to make a bronze basin with a bronze stand for washing. Set it between the Tent of Meeting and the altar, and put water in it, 19 with which Aaron and his sons are to wash their hands and feet. 20 Whenever they enter the Tent of Meeting or approach the altar to minister by presenting an offering made by fire to the LORD, they must wash with water so that they will not die. 21 Thus they are to wash their hands and feet so that they will not die; this shall be a permanent statute for Aaron and his descendants for the generations to come.\u201d"
+        "17 And the LORD said to Moses, 18 “You are to make a bronze basin with a bronze stand for washing. Set it between the Tent of Meeting and the altar, and put water in it, 19 with which Aaron and his sons are to wash their hands and feet. 20 Whenever they enter the Tent of Meeting or approach the altar to minister by presenting a food offering to the LORD, they must wash with water so that they will not die. 21 Thus they are to wash their hands and feet so that they will not die; this shall be a permanent statute for Aaron and his descendants for the generations to come.”"
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 30**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "A bronze basin on a bronze stand is placed between the courtyard altar and the Tent of Meeting. It holds the water Aaron and his sons use to wash their hands and feet whenever they enter the tent or approach the altar to minister.",
+    "",
+    "This is a repeated requirement during their service, distinct from the washing at their initial ordination in Exodus 29. God attaches a severe warning: they must wash so that they do not die. Their approach to His holy service calls for the care and purity He prescribes."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Bronze Basin** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 30** remains the first control on meaning."
+    "The basin is generally understood as providing ritual washing and teaching the need for purity before God. [Calvin](https://biblehub.com/commentaries/calvin/exodus/30.htm) connects hands and feet with actions and the whole course of life. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) emphasizes that the priests need continuing cleansing as they serve, and draws an application of renewed repentance and reliance on Christ. These are spiritual applications of the repeated washing, alongside its actual role in sanctuary service."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The wider biblical theme of cleansing reaches its greater expression in Christ. [Ephesians 5:25–27](https://biblehub.com/bsb/ephesians/5.htm) describes His love for the church, His giving Himself for her and His cleansing work so that she may be holy and blameless. The focus is the people He makes ready for Himself.",
+    "",
+    "[1 John 1:5–10](https://biblehub.com/bsb/1_john/1.htm) likewise joins fellowship with God to walking in the light, acknowledging sin and receiving His cleansing. These passages carry the theme into an ongoing life with God, rather than treating purity as something His people can simply put behind them after an initial ceremony."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/30.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-thirty-review.md"
+  }
 }

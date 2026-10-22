@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "13:8-10",
+    "label": "Romans 13:8-10",
+    "slug": "romans-13-8-10"
+  },
+  "section_title": "Why is love a debt that remains?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "8 Be indebted to no one, except to one another in love. For he who loves his neighbor has fulfilled the law. 9 The commandments “Do not commit adultery,” “Do not murder,” “Do not steal,” “Do not covet,” and any other commandments, are summed up in this one decree: “Love your neighbor as yourself.” 10 Love does no wrong to its neighbor. Therefore love is the fulfillment of the law."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul moves from paying what is owed in society to the continuing obligation to love one another. A bill can be settled; the call to seek another person’s good does not reach a point where it has been paid off for the rest of life.",
+    "",
+    "He names commandments concerning adultery, murder, theft and coveting, then gathers them under the command to love one’s neighbor as oneself. The summary gives love concrete moral content: love does not wrong the neighbor.",
+    "",
+    "Calling love the fulfillment of the law therefore does not make the neighbor’s life, marriage or possessions unimportant. Love seeks the good those commands protect, rather than using religious language to excuse harm."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand love here as an ongoing obligation expressed in how people treat their neighbors. It is more than affection or a general good intention: it refuses to harm another person and actively seeks their good. Paul’s summary connects moral conduct with the purpose of the commandments."
+  ],
+  "god_plan_lines": [
+    "Jesus places love for God and love for the neighbor at the center of the Law and Prophets in [Matthew 22:34–40](https://biblehub.com/bsb/matthew/22.htm). Paul’s summary follows that same concern for the purpose running through God’s commands.",
+    "",
+    "[Galatians 5:13–15](https://biblehub.com/bsb/galatians/5.htm) joins Christian freedom to serving one another in love and repeats the command to love one’s neighbor. Freedom in Christ is directed toward the good of others, rather than becoming permission for desires and rivalry to injure them."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/13.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-thirteen-review.md"
+  }
+}

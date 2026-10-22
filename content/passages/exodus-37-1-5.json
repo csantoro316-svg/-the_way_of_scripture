@@ -5,7 +5,7 @@
     "label": "Exodus 37:1-5",
     "slug": "exodus-37-1-5"
   },
-  "section_title": "Constructing the Ark",
+  "section_title": "Why does the furniture begin with the ark?",
   "versions": [
     {
       "label": "BSB",
@@ -15,12 +15,44 @@
     }
   ],
   "context_lines": [
-    "In **Exodus 37**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "With the dwelling’s structure made, the account turns to its furnishings. Bezalel makes the ark from acacia wood, overlays it with gold inside and out, and provides rings and gold-covered poles for carrying it. This is the chest God instructed Moses to make for the covenant testimony in [Exodus 25:10–16](https://biblehub.com/bsb/exodus/25.htm).",
+    "",
+    "The ark belongs in the innermost room, behind the veil. The next passage describes its golden cover and cherubim. Keeping the ark and its cover together helps us understand their purpose: the testimony of God’s covenant is kept where He promises to meet with His people."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Constructing the Ark** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 37** remains the first control on meaning."
+    "[Calvin](https://biblehub.com/commentaries/calvin/exodus/37.htm) reads the close match between the command and the finished ark as a testimony to faithful obedience. [Gill](https://biblehub.com/commentaries/gill/exodus/37.htm) understands Bezalel’s name as identifying the craftsman directing the work, without requiring the conclusion that he made every part alone."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[Hebrews 9:1–5, 23–28](https://biblehub.com/bsb/hebrews/9.htm) recalls the ark within the earthly sanctuary, then directs attention to Christ entering heaven itself to appear before God on our behalf. The carefully made furnishings belong to an earlier pattern of worship that points beyond itself to His completed work.",
+    "",
+    "The covenant testimony also belongs within God’s larger purpose for His people. [Hebrews 8:8–12](https://biblehub.com/bsb/hebrews/8.htm) describes the new covenant in terms of God’s laws written in minds and hearts, knowing Him, and receiving forgiveness. God’s aim reaches into the people themselves: His word shapes a people who belong to Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/exodus/37.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-exodus-thirty-seven-review.md"
+  }
 }

@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "6:12-16",
+    "label": "Luke 6:12-16",
+    "slug": "luke-6-12-16"
+  },
+  "section_title": "Why does Jesus choose twelve apostles?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "12 In those days Jesus went out to the mountain to pray, and He spent the night in prayer to God. 13 When daylight came, He called His disciples to Him and chose twelve of them, whom He also designated as apostles:",
+        "14 Simon, whom He named Peter, and his brother Andrew; James and John; Philip and Bartholomew; 15 Matthew and Thomas; James son of Alphaeus and Simon called the Zealot; 16 Judas son of James, and Judas Iscariot, who became a traitor."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus spends the night on the mountain in prayer to God. At daylight He calls His disciples and chooses twelve from among them. Luke places the choice within His life of prayer, then gives the names of those chosen.",
+    "",
+    "These twelve come from the larger group of disciples. The Greek word ἀπόστολος, apostolos (ah-POS-toh-loss), means a messenger or someone sent with a commission. Here it names the twelve Jesus selects for a particular role alongside Him. ([Thayer, G652](https://biblehub.com/greek/652.htm))",
+    "",
+    "The list begins with Simon, whom Jesus named Peter, and ends with Judas Iscariot, identified as the one who became a traitor. Luke introduces these men before the teaching that follows, allowing readers to see both their appointment and the instruction through which Jesus prepares them."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly see the choice as Jesus appointing a particular group to share in His mission and later bear witness to Him. The number twelve is connected with Israel’s twelve tribes, a connection Jesus later makes explicit when speaking of their place in His kingdom. ([USCCB note on Luke 6:13](https://bible.usccb.org/bible/luke/6); [Luke 22:28–30](https://biblehub.com/bsb/luke/22.htm))"
+  ],
+  "god_plan_lines": [
+    "Jesus later speaks to these disciples about His kingdom and the twelve tribes of Israel. The choice of twelve therefore belongs within His purposes for God’s people, with a connection to Israel that Scripture itself makes. At the same meal, He teaches that leadership among them must take the form of service, following His own example. ([Luke 22:24–30](https://biblehub.com/bsb/luke/22.htm))",
+    "",
+    "Paul describes God’s household as built on the foundation of apostles and prophets, with Christ as the cornerstone. Revelation’s picture of the holy city joins gates bearing the tribes’ names with foundations bearing the apostles’ names. Together these passages show the appointment reaching into the building of God’s people around Christ. ([Ephesians 2:17–22](https://biblehub.com/bsb/ephesians/2.htm); [Revelation 21:9–14](https://biblehub.com/bsb/revelation/21.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/6.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-six-opening-review.md"
+  }
+}

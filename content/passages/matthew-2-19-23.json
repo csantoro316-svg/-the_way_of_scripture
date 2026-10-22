@@ -1,0 +1,50 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "2:19-23",
+    "label": "Matthew 2:19-23",
+    "slug": "matthew-2-19-23"
+  },
+  "section_title": "The Return to Nazareth",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "19 After Herod died, an angel of the Lord appeared in a dream to Joseph in Egypt. 20 “Get up!” he said. “Take the Child and His mother and go to the land of Israel, for those seeking the Child’s life are now dead.” 21 So Joseph got up, took the Child and His mother, and went to the land of Israel.",
+        "22 But when he learned that Archelaus was reigning in Judea in place of his father Herod, he was afraid to go there. And having been warned in a dream, he withdrew to the district of Galilee, 23 and he went and lived in a town called Nazareth. So was fulfilled what was spoken through the prophets: “He will be called a Nazarene.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Herod's death brings another message to Joseph in Egypt: take the child and His mother back to the land of Israel. Joseph obeys, but the news that Archelaus now rules Judea makes him afraid to settle there. A further warning in a dream directs the family toward Galilee, and they make their home in Nazareth.",
+    "",
+    "The repeated pattern is instruction followed by action. Joseph does not know the whole route in advance; he responds to the warning he has received. The danger has changed with Herod's death, but it has not disappeared simply because one ruler is gone.",
+    "",
+    "Matthew ends by connecting Nazareth with the prophets. Unlike the earlier quotations from Micah, Hosea, and Jeremiah, the sentence about being called a Nazarene has no exact matching sentence in the Old Testament. Matthew refers to the prophets in the plural. The [US Catholic bishops' note on Matthew 2:23](https://bible.usccb.org/bible/matthew/2) recognizes the difficulty and discusses possible connections. The wording calls for care rather than inventing a missing verse."
+  ],
+  "common_interpretation_lines": [
+    "Christian interpreters agree that Matthew presents the home in Nazareth as part of God's purpose, but differ over the prophetic connection. [Jerome, Letter 57, section 7](https://www.newadvent.org/fathers/3001057.htm), relates the name to the branch from Jesse in Isaiah 11:1. The Hebrew word is נֵצֶר, *netser* (NEH-tser), a shoot or sprout, as [Brown–Driver–Briggs](https://biblehub.com/hebrew/5342.htm) confirms. The proposed connection is a play on a similar sound, not a claim that the word for branch literally names the town.",
+    "",
+    "[Wesley's note on Matthew 2:23](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) instead understands a summary of the prophets' picture of a rejected Messiah, with Nazareth carrying associations of contempt. [John 1:45–46](https://biblehub.com/bsb/john/1.htm) shows Nathanael questioning whether anything good can come from there. Another historical reading, in [Calvin's commentary on 2:23](https://biblehub.com/commentaries/calvin/matthew/2.htm), connects the language with the Nazirite, a person specially dedicated to God. These are identified teachers' explanations, not uniform positions binding every church in their traditions."
+  ],
+  "god_plan_lines": [
+    "The return instruction has a close parallel in [Exodus 4:19–20](https://biblehub.com/bsb/exodus/4.htm): Moses is told to return because those seeking his life are dead, and he sets out with his family. Matthew uses closely corresponding language for Joseph and Jesus. The two accounts invite comparison, while the larger New Testament identifies an important difference: [Hebrews 3:1–6](https://biblehub.com/bsb/hebrews/3.htm) honors Moses as a faithful servant and Christ as the Son over God's house. The parallel points toward Jesus' greater work without making every journey detail a prediction.",
+    "",
+    "Nazareth also leads into the setting of Jesus' public ministry. In [Matthew 4:12–16](https://biblehub.com/bsb/matthew/4.htm), His move within Galilee is connected with Isaiah's promise of light for people in darkness. This quiet family settlement belongs to the path toward that public announcement. God's purpose moves forward through ordinary places as well as through Jerusalem and its rulers."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/2.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-magi-and-egypt-review.md"
+  }
+}

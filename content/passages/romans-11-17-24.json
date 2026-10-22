@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "11:17-24",
+    "label": "Romans 11:17-24",
+    "slug": "romans-11-17-24"
+  },
+  "section_title": "Why must the grafted branches stay humble?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 Now if some branches have been broken off, and you, a wild olive shoot, have been grafted in among the others to share in the nourishment of the olive root, 18 do not boast over those branches. If you do, remember this: You do not support the root, but the root supports you. 19 You will say then, “Branches were broken off so that I could be grafted in.” 20 That is correct: They were broken off because of unbelief, but you stand by faith. Do not be arrogant, but be afraid. 21 For if God did not spare the natural branches, He will certainly not spare you either.",
+        "22 Take notice, therefore, of the kindness and severity of God: severity to those who fell, but kindness to you, if you continue in His kindness. Otherwise you also will be cut off. 23 And if they do not persist in unbelief, they will be grafted in, for God is able to graft them in again. 24 For if you were cut from a wild olive tree, and contrary to nature were grafted into one that is cultivated, how much more readily will these, the natural branches, be grafted into their own olive tree!"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul pictures Gentile believers as a wild olive shoot grafted into a cultivated tree. Some natural branches have been broken off, while the newcomers share the root’s nourishment among the others. The picture contains a continuing tree and shared dependence.",
+    "",
+    "He directly forbids boasting over the branches. The root supports the grafted shoot, not the other way around. Broken branches are connected with unbelief, while the Gentile hearers stand by faith. Their proper response is humility and reverence.",
+    "",
+    "The warning includes continuing in God’s kindness and the possibility of being cut off. The hope includes God’s ability to graft natural branches in again if they do not persist in unbelief. Both warning and hope belong to the picture."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly recognize the warning against Gentile arrogance and the dependence of all believers on God’s grace. Readings differ over how the warning about being cut off applies.",
+    "",
+    "In [Calvin’s comments on verse 22](https://biblehub.com/commentaries/calvin/romans/11.htm), Paul addresses the Gentile community’s privileged standing; Calvin also treats the warning as necessary for humbling believers. He does not read it as the final loss of those God has elected to salvation. This agrees with the [Westminster Confession’s teaching on perseverance, chapter 17](https://www.opc.org/wcf.html).",
+    "",
+    "[Wesley’s notes on verses 20–22](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-romans/) take continued faith as a real condition and the warning as including a believer’s final falling away. Both readings retain the call to humility; they differ over whether a true believer can finally lose that standing."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 2:11–22](https://biblehub.com/bsb/ephesians/2.htm) gives a related picture of Gentiles once far from the covenants of promise being brought near through Christ. Jews and Gentiles are reconciled to God in one body through the cross and share access to the Father by the Spirit.",
+    "",
+    "The pictures are different, but the shared theme is clear: welcome into God’s people removes grounds for hostility and pride. In Romans, the grafted branch depends on the root; in Ephesians, those brought near become members of God’s household through Christ’s work."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/11.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-eleven-review.md"
+  }
+}

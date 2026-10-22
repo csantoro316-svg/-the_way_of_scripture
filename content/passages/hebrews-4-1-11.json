@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "4:1-11",
+    "label": "Hebrews 4:1-11",
+    "slug": "hebrews-4-1-11"
+  },
+  "section_title": "What is the rest God still invites His people to enter?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Therefore, while the promise of entering His rest still stands, let us be careful that none of you be deemed to have fallen short of it. 2 For we also received the good news just as they did; but the message they heard was of no value to them, since they did not share the faith of those who comprehended it.",
+        "3 Now we who have believed enter that rest. As for the others, it is just as God has said: “So I swore on oath in My anger, ‘They shall never enter My rest.’” And yet His works have been finished since the foundation of the world. 4 For somewhere He has spoken about the seventh day in this manner: “And on the seventh day God rested from all His works.” 5 And again, as He says in the passage above: “They shall never enter My rest.”",
+        "6 Since, then, it remains for some to enter His rest, and since those who formerly heard the good news did not enter because of their disobedience, 7 God again designated a certain day as “Today,” when a long time later He spoke through David as was just stated: “Today, if you hear His voice, do not harden your hearts.” 8 For if Joshua had given them rest, God would not have spoken later about another day.",
+        "9 There remains, then, a Sabbath rest for the people of God. 10 For whoever enters God’s rest also rests from his own work, just as God did from His. 11 Let us, therefore, make every effort to enter that rest, so that no one will fall by following the same pattern of disobedience."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The promise of entering God’s rest remains, so the readers must take care not to repeat the wilderness generation’s unbelief. Both groups heard good news. Hearing alone did not benefit those who failed to receive it in faith.",
+    "",
+    "The writer brings together three parts of Scripture’s story: God resting after creation, Israel’s failure in the wilderness, and Psalm 95’s later invitation to hear God today. Joshua’s bringing Israel into the land did not exhaust the promise, because the psalm still spoke of another opportunity long afterward.",
+    "",
+    "The word [translated Sabbath rest](https://biblehub.com/greek/4520.htm) is connected with keeping Sabbath. Here Hebrews uses it for the rest that remains for God’s people, related to God’s own rest. The earlier seventh day and the promised land help explain it, while neither exhausts what is offered.",
+    "",
+    "The readers are therefore urged to make every effort to enter. That call belongs alongside the statement that believers enter through faith. The passage urges attentive trust and perseverance, rather than confidence that merely hearing the promise is enough."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/4.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) understand the promised rest as greater than possession of Canaan. Calvin describes a rest begun through turning from our own ways to live for God, with its fullness still ahead. Wesley places particular emphasis on the eternal rest in heaven. Both connect entering with faith and take the warning against disobedience seriously.",
+    "",
+    "Christians differ over how the Sabbath relates to weekly practice. [Seventh-day Adventist belief 20](https://adventist.org/en/beliefs) joins rest in Christ with continued seventh-day observance as a sign and foretaste of redemption. The Reformed [Westminster Confession, 21.7](https://www.opc.org/wcf.html), teaches a continuing weekly Sabbath on the Lord’s Day. The [Catholic Catechism, 2174–2176](https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_one/article_3/ii_the_lords_day.index.html), understands Sunday as fulfilling the Sabbath’s spiritual meaning. Recognizing those differences helps keep the letter’s call to God’s rest distinct from an assumption that every Christian tradition draws the same calendar conclusion."
+  ],
+  "god_plan_lines": [
+    "[Genesis 2:1–3](https://biblehub.com/bsb/genesis/2.htm) describes rest at the completion of God’s good creation. Hebrews itself brings that rest into its promise for God’s people. The goal involves sharing in what God provides, rather than treating rest only as relief from an exhausting week.",
+    "",
+    "[Revelation 21:1–5](https://biblehub.com/bsb/revelation/21.htm) gives a further picture of God dwelling with His people in a renewed creation, where death, grief and pain are gone. This is a related picture of the promised completion, not a quotation Hebrews makes here. God’s saving purpose reaches toward life with Him, beyond the wilderness and the harms of the present world."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/4.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-four-review.md"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "9:18-26",
+    "label": "Matthew 9:18-26",
+    "slug": "matthew-9-18-26"
+  },
+  "section_title": "A Daughter Restored and a Woman Healed",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "18 While Jesus was saying these things, a synagogue leader came and knelt before Him. “My daughter has just died,” he said. “But come and place Your hand on her, and she will live.” 19 So Jesus got up and went with him, along with His disciples.",
+        "20 Suddenly a woman who had suffered from bleeding for twelve years came up behind Him and touched the fringe of His cloak. 21 She said to herself, “If only I touch His cloak, I will be healed.” 22 Jesus turned and saw her. “Take courage, daughter,” He said, “your faith has healed you.” And the woman was healed from that very hour.",
+        "23 When Jesus entered the house of the synagogue leader, He saw the flute players and the noisy crowd. 24 “Go away,” He told them. “The girl is not dead, but asleep.” And they laughed at Him. 25 After the crowd had been put outside, Jesus went in and took the girl by the hand, and she got up. 26 And the news about this spread throughout that region."
+      ]
+    }
+  ],
+  "context_lines": [
+    "While Jesus is still speaking, a synagogue leader kneels before Him and asks Him to come to his daughter. The man believes that Jesus' touch can bring her life. Jesus goes with him, but the account pauses on the way for another person in need: a woman who has suffered from bleeding for twelve years.",
+    "",
+    "The woman touches the fringe of His cloak, trusting that she will be healed. Jesus turns toward her, calls her daughter, and credits her faith. [Leviticus 15:25–30](https://biblehub.com/bsb/leviticus/15.htm) describes the uncleanness associated with a prolonged discharge of blood and the cleansing that follows its end. Her restoration matters within that setting as well as bringing relief from the illness itself.",
+    "",
+    "[Mark 5:21–43](https://biblehub.com/bsb/mark/5.htm) and [Luke 8:40–56](https://biblehub.com/bsb/luke/8.htm) name the father Jairus and provide more detail. Matthew presents his plea with the daughter's death already in view. Mark and Luke begin with her dying and report news of her death arriving while Jesus is still speaking to the woman. Jesus tells the father not to fear but to believe. Both accounts also tell us that the girl is about twelve years old.",
+    "",
+    "At the house, Matthew describes flute players and a noisy crowd. Jesus' statement that the girl is asleep is met with laughter, but He takes her hand and she rises. Luke explicitly says the people know she is dead and that her spirit returns when Jesus calls her. The sleep image prepares for her awakening at His word; the account describes life restored, rather than merely an error about whether she had died.",
+    "",
+    "The two encounters bring different forms of helplessness before Jesus. One person approaches after years of suffering; another cannot approach at all, and her father pleads for her. Jesus attends to both. Their place together in the story shows that helping one person does not exhaust His power to help the other."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand these intertwined encounters as revealing Jesus' power to heal and raise the dead, with faith in Him emphasized throughout. [Wesley on Matthew 9:22–25](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) discusses Jesus' encouragement of the woman and the girl's restoration to life, while the Catholic [Catechism, 2616](https://www.vatican.va/content/catechism/en/part_four/section_one/chapter_one/article_2/in_the_fullness_of_time.html), names both Jairus' spoken plea and the woman's silent approach as examples of faith brought to Jesus."
+  ],
+  "god_plan_lines": [
+    "The girl's return to life gives a concrete glimpse of the authority Jesus describes in [John 5:21–29](https://biblehub.com/bsb/john/5.htm). The Son gives life, and the dead will hear His voice and rise. John's account states the larger promise; Matthew's encounter shows that death does not place this child beyond Jesus' reach.",
+    "",
+    "Her return to ordinary life is not yet the final defeat of death. [1 Corinthians 15:42–55](https://biblehub.com/bsb/1_corinthians/15.htm) describes the resurrection in which the dead are raised beyond decay and mortality. That is the greater hope to which His power points: God's purpose is not only to give temporary relief, but to overcome death through Christ."
+  ],
+  "current_position_lines": [
+    "On the woman's healing in verses 20–22, Prayer and Faith emphasizes that she reaches toward Jesus in trust without first voicing a request to Him. Jesus credits her faith. The study's position is that the focus belongs on trust in Him, rather than on the wording, frequency, or eloquence of a request."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/9.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-nine-completion-review.md",
+    "position_source_detail": "Prayer and Faith — section 5, Faith, Not Petition, Is What Scripture Emphasizes; Matthew 9:20–22 only"
+  }
+}

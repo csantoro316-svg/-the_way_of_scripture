@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "26:57-68",
+    "label": "Matthew 26:57-68",
+    "slug": "matthew-26-57-68"
+  },
+  "section_title": "Before Caiaphas: False Witnesses and the Son of Man’s Answer",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "57 Those who had arrested Jesus led Him away to the house of Caiaphas the high priest, where the scribes and elders had gathered. 58 But Peter followed Him at a distance, right up to the courtyard of the high priest. And he went in and sat down with the guards to see the outcome. 59 Now the chief priests and the whole Sanhedrin were seeking false testimony against Jesus in order to put Him to death. 60 But they did not find any, though many false witnesses came forward. Finally two came forward 61 and declared, “This man said, ‘I am able to destroy the temple of God and rebuild it in three days.’”",
+        "62 So the high priest stood up and asked Him, “Have You no answer? What are these men testifying against You?” 63 But Jesus remained silent. Then the high priest said to Him, “I charge You under oath by the living God: Tell us if You are the Christ, the Son of God.” 64 “You have said it yourself,” Jesus answered. “But I say to all of you, from now on you will see the Son of Man sitting at the right hand of Power and coming on the clouds of heaven.”",
+        "65 At this, the high priest tore his clothes and declared, “He has blasphemed! Why do we need any more witnesses? Look, now you have heard the blasphemy. 66 What do you think?” “He deserves to die,” they answered. 67 Then they spit in His face and struck Him. Others slapped Him 68 and said, “Prophesy to us, Christ! Who hit You?”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus is brought to Caiaphas, where the scribes and elders are assembled. Peter follows at a distance and sits with the guards in the courtyard to see what will happen. Matthew then moves between Jesus inside the hearing and Peter outside.",
+    "",
+    "The chief priests and the council seek false testimony that can lead to Jesus' death. After many witnesses, two accuse Him of saying He can destroy God's temple and rebuild it in three days. [John 2:18–22](https://biblehub.com/bsb/john/2.htm) records Jesus' temple saying and explains that He spoke about His body and resurrection. Matthew reports the accusation here without treating the witnesses' version as Jesus' own explanation.",
+    "",
+    "Jesus remains silent before the testimony. When the high priest charges Him under oath to say whether He is the Christ, God's Son, He answers and speaks of the Son of Man at the right hand of Power and coming on heaven's clouds. His reply directs attention beyond their judgment of Him to His own coming authority.",
+    "",
+    "The high priest tears his clothes and calls the answer blasphemy. The others declare that Jesus deserves death, and He is spat on, struck, slapped, and mocked with a demand to identify who hit Him. The scene brings false accusation, a claim of authority, and humiliation together as the account moves toward the cross."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand Jesus' answer as affirming His identity and pointing toward His vindication and authority, rather than confessing wrongdoing. The [US Catholic bishops' note on 26:64](https://bible.usccb.org/bible/matthew/26) and [Walvoord on 26:57–68](https://walvoord.com/article/220) both connect His words with Psalm 110:1 and Daniel 7:13."
+  ],
+  "god_plan_lines": [
+    "[Psalm 110:1](https://biblehub.com/bsb/psalms/110.htm) pictures the Lord seated at God's right hand, while [Daniel 7:13–14](https://biblehub.com/bsb/daniel/7.htm) describes the Son of Man receiving enduring dominion and the service of all peoples. Jesus brings these pictures into His answer at the moment when His hearers are preparing to condemn Him. The One being judged claims a place in God's lasting rule.",
+    "",
+    "The suffering also recalls [Isaiah 50:5–9](https://biblehub.com/bsb/isaiah/50.htm), where the servant endures blows and spitting while trusting the Lord who vindicates him. This is a supported parallel, not a reason to add unrecorded details to Matthew's scene. [Hebrews 12:1–3](https://biblehub.com/bsb/hebrews/12.htm) explicitly places Jesus' endurance of the cross and shame beside His seat at God's right hand, encouraging His people not to lose heart. Humiliation does not have the final word in God's purpose."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/26.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-six-closing-review.md"
+  }
+}

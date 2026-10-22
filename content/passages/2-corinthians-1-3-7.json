@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "2 Corinthians",
+    "citation": "1:3-7",
+    "label": "2 Corinthians 1:3-7",
+    "slug": "2-corinthians-1-3-7"
+  },
+  "section_title": "How can the comfort we receive help someone else?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "3 Blessed be the God and Father of our Lord Jesus Christ, the Father of compassion and the God of all comfort, 4 who comforts us in all our troubles, so that we can comfort those in any trouble with the comfort we ourselves have received from God.",
+        "5 For just as the sufferings of Christ overflow to us, so also through Christ our comfort overflows. 6 If we are afflicted, it is for your comfort and salvation; if we are comforted, it is for your comfort, which accomplishes in you patient endurance of the same sufferings we experience. 7 And our hope for you is sure, because we know that just as you share in our sufferings, so also you will share in our comfort."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul turns from greeting the Corinthians to praising God as the Father of compassion and the source of all comfort. He does not begin by pretending the troubles are small. He gives thanks for the help God provides within them.",
+    "",
+    "The verb behind comforts is parakaleō (pah-rah-kah-LEH-oh), παρακαλέω. In this use it includes consoling and encouraging someone, helping them find strength; see [Thayer’s entry](https://biblehub.com/greek/3870.htm). It is care that helps a person endure, not merely a request to stop feeling upset.",
+    "",
+    "Comfort received has an outward purpose: it equips Paul and his companions to comfort others in trouble. He connects both their sufferings and their comfort with Christ. The Corinthians’ endurance matters to him, and their shared experience gives him hope for them.",
+    "",
+    "Paul is describing how God’s help can be passed on. He does not require people to have experienced an identical loss before they can care for someone, nor does he say that continuing grief proves God has failed to comfort them."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as God’s comfort reaching people through their fellowship with Christ and then strengthening others. [Wesley’s notes on verses 3–7](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-the-corinthians/) emphasize comfort during and after affliction and endurance through shared suffering. The [USCCB notes on verses 3–7](https://bible.usccb.org/bible/2corinthians/1) likewise connect suffering and encouragement with union with Christ."
+  ],
+  "god_plan_lines": [
+    "[Romans 8:17–25](https://biblehub.com/bsb/romans/8.htm) places suffering with Christ alongside the hope of sharing His glory. It also describes creation’s groaning and believers’ waiting for the redemption of their bodies.",
+    "",
+    "That wider hope gives present comfort its setting. God’s purpose reaches beyond helping people survive one crisis to the life He will bring to completion in Christ. In the meantime, care received becomes care given, helping others endure while they wait."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_corinthians/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-corinthians-one-opening-review.md"
+  }
+}

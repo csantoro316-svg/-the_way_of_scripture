@@ -1,0 +1,49 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "10:1-5",
+    "label": "2 Samuel 10:1-5",
+    "slug": "2-samuel-10-1-5"
+  },
+  "section_title": "How does an offer of kindness become a public humiliation?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Some time later, the king of the Ammonites died and was succeeded by his son Hanun. 2 And David said, “I will show kindness to Hanun son of Nahash, just as his father showed kindness to me.” So David sent some of his servants to console Hanun concerning his father. But when they arrived in the land of the Ammonites, 3 the princes of the Ammonites said to Hanun their lord, “Just because David has sent you comforters, do you really believe he is showing respect for your father? Has not David instead sent his servants to explore the city, spy it out, and overthrow it?” 4 So Hanun took David’s servants, shaved off half of each man’s beard, cut off their garments at the hips, and sent them away. 5 When this was reported to David, he sent messengers to meet the men, since they had been thoroughly humiliated. The king told them, “Stay in Jericho until your beards have grown back, and then return.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "After the Ammonite king dies, his son Hanun succeeds him. David sends servants to console him, intending to return the kindness his father Nahash had shown him. Hanun’s advisers interpret the visit as a plan to spy out the city and overthrow it.",
+    "",
+    "Hanun accepts that suspicion and humiliates the messengers: he has half of each man’s beard shaved and their clothes cut at the hips. David responds to their shame by allowing them to remain in Jericho until their beards grow back. His concern reaches the men themselves, not only the insult to his royal standing."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/10.htm) reads the episode as an example of goodwill being distorted by suspicion. The advisers’ accusation is reported as their reasoning; the narrator has introduced David’s purpose as kindness and consolation.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) and [Gill](https://biblehub.com/commentaries/gill/2_samuel/10.htm) emphasize the disgrace intended by the treatment of the men. [Henry](https://biblehub.com/commentaries/mhc/2_samuel/10.htm) also highlights David’s care for them afterward. The account describes a deliberate insult and a considerate response without requiring a full reconstruction of the messengers’ clothing or a universal rule about ancient grooming."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/10.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-ten-eleven-review.md"
+  }
+}

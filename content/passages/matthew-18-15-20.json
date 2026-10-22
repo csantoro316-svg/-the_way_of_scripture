@@ -5,15 +5,61 @@
     "label": "Matthew 18:15-20",
     "slug": "matthew-18-15-20"
   },
-  "versions": [],
-  "context_lines": [
-    "In **Matthew 18**, Jesus teaches His disciples about humility, stumbling, restoration, forgiveness, and life together in His kingdom. Its language about agreement, witnesses, and gathered presence belongs to this communal and disciplinary context, not to isolated proof-texting."
+  "section_title": "Seeking Restoration Together in Jesus’ Name",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 If your brother sins against you, go and confront him privately. If he listens to you, you have won your brother over. 16 But if he will not listen, take one or two others along, so that ‘every matter may be established by the testimony of two or three witnesses.’ 17 If he refuses to listen to them, tell it to the church. And if he refuses to listen even to the church, regard him as you would a pagan or a tax collector.",
+        "18 Truly I tell you, whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven. 19 Again, I tell you truly that if two of you on the earth agree about anything you ask for, it will be done for you by My Father in heaven. 20 For where two or three gather together in My name, there am I with them.”"
+      ]
+    }
   ],
-  "explanation_lines": [
-    "*Read the full passage \u2014 Matthew 18:15-20.* Jesus is not teaching on prayer. He is teaching on church discipline \u2014 specifically, the process for addressing sin between believers. Verse 15: go to your brother alone. Verse 16: take two or three witnesses. Verse 17: bring it before the church. Verse 18: whatever you bind or loose on earth will be bound or loosed in heaven. Verse 19 follows directly from that sequence \u2014 the \"agreeing\" is the gathered church making a unified judgment in a matter of discipline, not two friends agreeing on a prayer request.",
+  "context_lines": [
+    "The shepherd's search for a stray is followed by instructions about a brother who sins. Jesus begins with a private conversation, aiming to win the brother over. If he will not listen, one or two others come along; if he still refuses, the matter goes before the church. Continued refusal changes how the community relates to him.",
     "",
-    "The \"two or three\" language is a direct echo of Deuteronomy 19:15 \u2014 *\"A single witness shall not rise up against a man on account of any iniquity or any sin... on the evidence of two or three witnesses a matter shall be confirmed.\"* Jesus is applying the Old Testament standard for legal testimony to the process of church discipline. He is not establishing a prayer formula.",
+    "The witnesses come from [Deuteronomy 19:15](https://biblehub.com/bsb/deuteronomy/19.htm), where a charge must be established by more than one person's testimony. The surrounding law also requires careful investigation of false accusations. Jesus' instructions give a path for addressing sin with the aim of gaining a brother.",
     "",
-    "\"Where two or three have gathered together in My name, I am there in their midst\" is similarly misread. It is not saying that small prayer groups have a special power unavailable to individuals. It is saying that when the church gathers in His name to exercise the authority He has given it \u2014 including the difficult work of discipline and restoration \u2014 He is present in that process, authorizing and confirming what is done faithfully."
+    "Church here is ἐκκλησία, *ekklēsia* (ek-klay-SEE-ah), an assembly or gathered community. [Thayer's entry](https://biblehub.com/greek/1577.htm) includes this verse among its uses for a local company of Christ's followers. The matter is brought to people who share life together.",
+    "",
+    "Jesus connects the decisions described as binding and loosing with heaven, then speaks about agreement in asking and His presence among two or three gathered in His name. These sayings follow the steps involving witnesses and the community. Peter's question about forgiveness in verse 21 continues the concern with restoring relationships."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the process as correction that seeks restoration, with exclusion from fellowship as the final step when someone refuses to listen. Traditions differ over how the church exercises the authority Jesus describes.",
+    "",
+    "The Catholic Church connects binding and loosing with the apostles' authority to reconcile sinners with both God and the Church, expressed in the sacrament of Penance and Reconciliation ([Catechism, 1440–1449](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_two/article_4/vi_the_sacrament_of_penance_and_reconciliation.html)). The Reformed [Westminster Confession, chapter 30](https://www.opc.org/wcf.html), assigns church officers responsibility for correction, suspension, and exclusion, with bringing the person back among its purposes. The [1689 Baptist Confession, 26.7–8](https://www.the1689confession.com/1689/chapter-26), places authority for worship and discipline in each gathered church, with its officers and members.",
+    "",
+    "There is also a difference over the reach of verses 19–20. Some readers keep them closely within the work of correction and restoration. [Wesley on 18:18–20](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) extends them to united prayer and worship more generally, and the [US Catholic bishops' notes on 18:19–20](https://bible.usccb.org/bible/matthew/18) likewise favor a broader prayer setting. These are readings of the passage, rather than a single interpretation shared by every Christian."
+  ],
+  "current_position_lines": [
+    "Prayer and Faith reads these verses within Jesus' instructions about church discipline and restoration. The two-or-three language belongs to the witnesses and the gathered community seeking to act faithfully in His name. His presence supports that work.",
+    "",
+    "The study therefore understands verses 19–20 as assurance within that setting. Agreement between people does not turn their wishes into God's will or provide a formula for guaranteed prayer results. The fuller reasoning appears in Prayer and Faith."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/18.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-eighteen-review.md",
+    "position_source_detail": "Prayer and Faith, Matthew 18:19–20 section (content/studies/prayer_and_faith.md:390–406)."
+  },
+  "god_plan_lines": [
+    "The work of restoration continues in the life of the church. [Galatians 6:1–2](https://biblehub.com/bsb/galatians/6.htm) directs believers to restore someone caught in sin gently, watching themselves and carrying one another's burdens. Helping a brother return requires humility from those doing the helping.",
+    "",
+    "[2 Corinthians 2:5–11](https://biblehub.com/bsb/2_corinthians/2.htm) shows the other side of correction: Paul urges the community to forgive, comfort, and reaffirm love when punishment has been sufficient, so the person is not overwhelmed by sorrow. Together these passages show how care for the flock includes both taking sin seriously and making room for restoration."
   ]
 }

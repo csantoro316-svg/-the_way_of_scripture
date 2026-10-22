@@ -5,7 +5,7 @@
     "label": "Exodus 33:7-11",
     "slug": "exodus-33-7-11"
   },
-  "section_title": "The Tent of Meeting",
+  "section_title": "Why is the meeting tent outside the camp?",
   "versions": [
     {
       "label": "BSB",
@@ -16,12 +16,47 @@
     }
   ],
   "context_lines": [
-    "In **Exodus 33**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "Moses pitches the meeting tent at a distance outside the camp. After the calf, that distance makes the broken relationship visible, yet it also leaves a place where people can seek the LORD. In the book’s narrative, the account of constructing the tabernacle still lies ahead; here the emphasis is on meeting God and hearing Him.",
+    "",
+    "The people watch Moses go out, see the cloud at the entrance, and worship from their own tent doors. God continues speaking with Moses, and Joshua remains at the tent when Moses returns to the camp. The passage does not condemn the people’s worship or explain their private motives.",
+    "",
+    "God speaks with Moses as a person speaks with a friend. This describes direct, familiar communication. Later in this same chapter, God tells Moses that he cannot see His face and live. Those two statements need to be read together: close conversation is not the same thing as an unrestricted sight of God’s glory. [Numbers 12:5–8](https://biblehub.com/bsb/numbers/12.htm) likewise contrasts the clarity of God’s communication with Moses with the dreams and riddles given to other prophets."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Tent of Meeting** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "Readers differ over which tent this is. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) treats it as a meeting place used before the later tabernacle; [Gill](https://biblehub.com/commentaries/gill/exodus/33.htm) considers Moses’ own tent or another earlier place of worship. [Calvin](https://biblehub.com/commentaries/calvin/exodus/33.htm) rejects the private-tent explanation and identifies it as God’s sacred sanctuary, reading the arrangement of these events differently. All three see its distance from the camp as a sign of separation after the calf.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 33** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) emphasizes the friendship and kindness in God’s speech to Moses; [Calvin](https://biblehub.com/commentaries/calvin/exodus/33.htm) also distinguishes such close revelation from seeing God in His fullness. The phrase about speaking face to face need not be turned into a contradiction with verse 20."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "God’s clear communication with Moses serves the people, not Moses alone. [Numbers 12:5–8](https://biblehub.com/bsb/numbers/12.htm) describes him as faithful in God’s house. [Hebrews 3:1–6](https://biblehub.com/bsb/hebrews/3.htm) takes up that description and points beyond him: Moses serves within God’s household, while Christ is the Son over it. His faithful service belongs to a larger story whose center is Jesus.",
+    "",
+    "The New Testament also describes a greater nearness for God’s people together. Through Christ, Jews and Gentiles have access to the Father by one Spirit and are being built into a dwelling for God ([Ephesians 2:13–22](https://biblehub.com/bsb/ephesians/2.htm)). This does not make every detail of the outside tent a prediction. It shows the wider direction of God’s work: bringing His people near to Himself."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/exodus/33.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-exodus-thirty-three-review.md"
+  }
 }

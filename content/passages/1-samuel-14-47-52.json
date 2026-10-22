@@ -5,24 +5,52 @@
     "label": "1 Samuel 14:47-52",
     "slug": "1-samuel-14-47-52"
   },
-  "section_title": "Saul\u2019s Victories",
+  "section_title": "What does the summary of Saul’s reign tell us?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "47 After Saul had assumed the kingship over Israel, he fought against all his enemies on every side\u2014the Moabites, the Ammonites, the Edomites, the kings of Zobah, and the Philistines. Wherever he turned, he routed them. 48 He fought valiantly and defeated the Amalekites, delivering Israel from the hands of its plunderers.",
-        "49 Now the sons of Saul were Jonathan, Ishvi, and Malchishua. His two daughters were named Merab (his firstborn) and Michal (his younger daughter). 50 His wife\u2019s name was Ahinoam daughter of Ahimaaz. The name of the commander of his army was Abner, the son of Saul\u2019s uncle Ner. 51 Saul\u2019s father Kish and Abner\u2019s father Ner were sons of Abiel.",
-        "52 And the war with the Philistines was fierce for all the days of Saul. So whenever he noticed any strong or brave man, Saul would enlist him."
+        "47 After Saul had assumed the kingship over Israel, he fought against all his enemies on every side—the Moabites, the Ammonites, the Edomites, the kings of Zobah, and the Philistines. Wherever he turned, he routed them. 48 He fought valiantly and defeated the Amalekites, delivering Israel from the hands of its plunderers.",
+        "49 Now the sons of Saul were Jonathan, Ishvi, and Malchishua. His two daughters were named Merab (his firstborn) and Michal (his younger daughter). 50 His wife’s name was Ahinoam daughter of Ahimaaz. The name of the commander of his army was Abner, the son of Saul’s uncle Ner. 51 Saul’s father Kish and Abner’s father Ner were sons of Abiel. 52 And the war with the Philistines was fierce for all the days of Saul. So whenever he noticed any strong or brave man, Saul would enlist him."
       ]
     }
   ],
   "context_lines": [
-    "In **1 Samuel 14**, this section should be read within the flow of the chapter and the larger movement of 1 Samuel."
+    "The chapter closes with a summary of Saul’s wars and household. It names enemies on several sides and credits him with fighting valiantly, defeating Amalekites and rescuing Israel from plunderers. His failings in the preceding scenes do not erase the military help the narrator records.",
+    "",
+    "The summary then names sons, daughters, his wife and the army commander Abner. These names prepare readers for people who will matter later. The list need not be treated as a statement that Saul has no other children anywhere in the wider narrative.",
+    "",
+    "War with the Philistines remains fierce throughout his reign. Saul continues to recruit strong and brave men. The closing picture combines genuine deliverance with continuing conflict; it does not describe a kingdom that has reached lasting peace."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Saul\u2019s Victories** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/1_samuel/14.htm) reads the summary as a view of Saul’s court and camp, emphasizing how little ease royal status brings him. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-samuel/) and [Gill](https://biblehub.com/commentaries/gill/1_samuel/14.htm) connect the son named Ishvi with Abinadab in later lists, rather than treating every list as naming an entirely different family. Their explanations show why care is needed before declaring the present names an exhaustive account.",
     "",
-    "Where interpreters differ on details, the immediate setting in **1 Samuel 14** remains the first control on meaning."
+    "Saul has brought real help to Israel, yet the war is far from over. That mixed picture matters as his story continues. Success in battle has not settled the deeper question of whether he will listen to God."
   ],
-  "deeper_study": []
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_samuel/14.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-samuel-fourteen-review.md"
+  }
 }

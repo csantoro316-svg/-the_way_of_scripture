@@ -11,20 +11,41 @@
       "label": "BSB",
       "paragraphs": [
         "1 Now the whole world had one language and a common form of speech. 2 And as people journeyed eastward, they found a plain in the land of Shinar and settled there.",
-        "3 And they said to one another, \u201cCome, let us make bricks and bake them thoroughly.\u201d So they used brick instead of stone, and tar instead of mortar.",
-        "4 \u201cCome,\u201d they said, \u201clet us build for ourselves a city with a tower that reaches to the heavens, that we may make a name for ourselves and not be scattered over the face of all the earth.\u201d",
-        "5 Then the LORD came down to see the city and the tower that the sons of men were building. 6 And the LORD said, \u201cIf they have begun to do this as one people speaking the same language, then nothing they devise will be beyond them. 7 Come, let Us go down and confuse their language, so that they will not understand one another\u2019s speech.\u201d",
+        "3 And they said to one another, “Come, let us make bricks and bake them thoroughly.” So they used brick instead of stone, and tar instead of mortar.",
+        "4 “Come,” they said, “let us build for ourselves a city with a tower that reaches to the heavens, that we may make a name for ourselves and not be scattered over the face of all the earth.”",
+        "5 Then the LORD came down to see the city and the tower that the sons of men were building. 6 And the LORD said, “If they have begun to do this as one people speaking the same language, then nothing they devise will be beyond them. 7 Come, let Us go down and confuse their language, so that they will not understand one another’s speech.”",
         "8 So the LORD scattered them from there over the face of all the earth, and they stopped building the city. 9 That is why it is called Babel, for there the LORD confused the language of the whole world, and from that place the LORD scattered them over the face of all the earth."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 11**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "Chapter 10 described peoples spread across their lands and languages. This passage steps back to explain the scattering. The builders settle in Shinar, make bricks, and plan a city and tower. They tell us what they want: a lasting name for themselves and protection against being scattered. Their determination to stay together stands against God's earlier direction to fill the earth in Genesis 9:1, 7.",
+    "",
+    "Their repeated invitation to act together is answered by God's own decision to come down and confuse their speech. They can no longer understand one another, the work stops, and the scattering they tried to prevent takes place. The description of the LORD coming down to inspect their great tower also puts its supposed greatness in perspective.",
+    "",
+    "The ending uses a Hebrew wordplay. The verb בָּלַל, *bālal* (bah-LAHL), means to mix or confuse; [Brown–Driver–Briggs](https://biblehub.com/hebrew/1101.htm) identifies confusing speech as its use here. The similar sound links Babel with what God does there. [Brown–Driver–Briggs on Babel](https://biblehub.com/hebrew/894.htm) also identifies Babel as Babylon. The point is that the place where people sought lasting fame becomes remembered for confusion and scattering."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Tower of Babel** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 11** remains the first control on meaning."
+    "A common Christian reading sees pride and resistance to God in the builders' attempt to secure their own greatness and unity. [Wesley's notes on Genesis 11:3–9](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) and the [US Catholic bishops' note on Genesis 11:1–9](https://bible.usccb.org/bible/genesis/11) both emphasize that pride and God's overturning of the project."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "god_plan_lines": [
+    "There is a striking contrast with [Genesis 12:1–3](https://biblehub.com/bsb/genesis/12.htm). The builders try to make their own name great; God promises to make Abram's name great and make him a blessing to all families. The movement is from people securing a name for themselves to a man receiving a promise whose blessing reaches others.",
+    "",
+    "Pentecost offers a helpful parallel. At Babel, confusion of speech ends the shared project and scatters the people. In [Acts 2:5–12](https://biblehub.com/bsb/acts/2.htm), people from many places hear God's wonderful works in their own languages. Acts does not call this a direct fulfillment of Babel, and the languages do not disappear. The contrast helps us picture God gathering people through a message they can understand. [Revelation 7:9–10](https://biblehub.com/bsb/revelation/7.htm) carries that picture further: many peoples and languages united in worship before God and the Lamb."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-18",
+    "quote_source": "https://biblehub.com/bsb/genesis/11.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-18-genesis-nations-and-babel-review.md"
+  }
 }

@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "10:5-13",
+    "label": "Romans 10:5-13",
+    "slug": "romans-10-5-13"
+  },
+  "section_title": "What does it mean to believe and call on the Lord?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 For concerning the righteousness that is by the law, Moses writes: “The man who does these things will live by them.” 6 But the righteousness that is by faith says: “Do not say in your heart, ‘Who will ascend into heaven?’ (that is, to bring Christ down) 7 or, ‘Who will descend into the Abyss?’ (that is, to bring Christ up from the dead).” 8 But what does it say? “The word is near you; it is in your mouth and in your heart,” that is, the word of faith we are proclaiming:",
+        "9 that if you confess with your mouth, “Jesus is Lord,” and believe in your heart that God raised Him from the dead, you will be saved. 10 For with your heart you believe and are justified, and with your mouth you confess and are saved. 11 It is just as the Scripture says: “Anyone who believes in Him will never be put to shame.” 12 For there is no difference between Jew and Greek: The same Lord is Lord of all, and gives richly to all who call on Him, 13 for, “Everyone who calls on the name of the Lord will be saved.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul draws on Moses’ words to contrast righteousness approached through doing the law with righteousness received by faith. He applies the picture of a word near the mouth and heart to the message about Christ that he proclaims.",
+    "",
+    "No one needs to bring Christ down from heaven or raise Him from the dead. God has already acted. Paul joins belief in the heart with confession of Jesus as Lord, centering that belief on God raising Him from the dead.",
+    "",
+    "The invitation reaches both Jew and Greek. The same Lord gives richly to all who call on Him. Paul ends with Joel’s promise of salvation to everyone who calls on the Lord’s name. The emphasis is on whom people trust and confess, rather than on religious ancestry or a difficult journey to find Him."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand these verses as joining genuine faith in the risen Jesus with openly acknowledging Him as Lord. Heart and mouth belong together: confession is more than repeating words, and faith is more than knowing that a claim exists. The invitation includes both Jews and Gentiles."
+  ],
+  "god_plan_lines": [
+    "In [Deuteronomy 30:11–20](https://biblehub.com/bsb/deuteronomy/30.htm), Moses describes God’s command as near, calling Israel to love the Lord, listen and hold fast to Him. Paul draws on that language and applies it to the proclaimed message about Christ. He is making a connection within the history of God addressing His people, rather than quoting a statement that originally named Jesus.",
+    "",
+    "[Joel 2:28–32](https://biblehub.com/bsb/joel/2.htm) places calling on the Lord within a promise of the Spirit’s outpouring and deliverance. Paul uses its invitation while naming Jesus as Lord and affirming that the same Lord is Lord of both Jew and Greek. The good news he proclaims grows from promises already present in Scripture."
+  ],
+  "current_position_lines": [
+    "The Gospel According to Jesus understands these verses as a call to turn to Jesus in faith, confess Him as Lord and call on Him. Salvation is received through Him, not earned through moral effort or religious activity. The study emphasizes that there is no special wording that saves; the response is trust in the risen Lord and a turning of the heart toward Him."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/10.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-romans-ten-review.md",
+    "position_source_detail": "The Gospel According to Jesus (content/studies/the_gospel_according_to_jesus.md, lines 105–113 and 149–155)"
+  }
+}

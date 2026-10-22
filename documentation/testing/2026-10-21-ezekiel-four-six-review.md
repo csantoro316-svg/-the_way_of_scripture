@@ -1,0 +1,61 @@
+# Ezekiel 4–6 passage review — 2026-10-21
+
+Eight new groups /48 actual BSB verses /four supported plans /four intentional omissions /eight exact open positions. Canonical continuation of3. Preserve all other content and neighboring navigation. No owner studies edited.
+
+## Actually read sources
+
+Supplied624page Ezekiel PDF actuallyread1–91inclusive. Whole4lesson58–72,5lesson73–82,6lesson83–91 complete.92onwardunread. All mainBSB4/5/6 read17/17/14verses. Henry/Wes4/5/6 wholeactualexpositionsread;Henry6:1–7 has periodafterrange and was separatelyrereadwhenoldregexmissedfirstparagraph. USCCB4wholeactualnotesread;5/6HTTPerrorunused. No Gillthesechapters. BDB5771avon/3843lebenah/1116bamah/1544gilulimwholeactualentriesread. Publicuses5771and1116 only. No ownerposition found by4/5/6studysearch.
+
+Actual BSB support read2Kings24:10–17/25:1–12;Lev26:23–33/39–45;Rev6:1–8;Rom2:17–24/11:1–6;Luke19:41–44;1Cor10:14–22;Heb10:23–31. Deut28,Rev18,1Pet4cachedUNREADthisbatchandunused. ActualMetHanukkahMenorahexhibitionoverviewread:temple rededication164BC;baseline156BCMaccabeanindependenceexact430-yearproofunsupportedandnotadopted. USCCB1Macc13HTTP403onlysearchsnippetNOTprimaryread;no142dateclaimedchecked. PublicdoesnotneednewMaccabeanchronology.
+
+## 4:1–8
+
+Plan section: omitted, because none apply. Historicalsiege/iniquityaccountingalreadyexplained;notforcedChristatonementtypologyorenddate.
+Position source: none.
+FLAGGED FOR REVIEW: BDB5771actualguilt/punishmentwithEzek4supportsburden;notEzekielpersonallyatoningforIsrael'ssinoridenticalChristsalvationmechanism. BDB3843brick/tiletruebutnohistoricalstandard2x1ftsizeclaimverified. Actual2Kingssequenceexilethenfinalsiege/templeburnread;noextrabiblicalassertionexactly3documentedsiegesover19years/605confirmedconquestneeded. Baseline430yearsends156BCMaccindependencenotverified;Metactualrededication164BCdiffers,no156publiccalculation. USCCBdatesperiodsexiles/WesSolomonJosiahconjecturesattributedreadingsnotverifiedtimelinedates. No letter-numbergematriaassertion adoptedfromUSCCBnote390phrase. Leftsiderightmustfaceexactnorthsouthwithoverallphysicalpositionnotgiven;no exact24/7durationphysicalinference,3publiccausalbookchapter4labelsignenough. No unlimiteddayforYearprophecyrule. No ownerposition.
+
+## 4:9–17
+
+Plan section: omitted, because none apply. Rationingscarcityandconcessionalreadyexplained;noforcedNTmealparallel (Rev6fourjudgmentsreserved5:13–17).
+Position source: none.
+FLAGGED FOR REVIEW: BSBwheatbarleybeanslentilsmilletSPELTpreservednotKJVfitches;nocalories720/8–9slicesorweightlostmeasurementclaimindependentlychecked. No medicaldiet/cookinghealthguidance/supernaturalEzekielbreadnutritionendorsement. MainrationquantitiesnotconvertedusingconflictingWes6ounceshinvsUSCCBquart. Fuelnotingredient,avoidfalseclaimsGodcommandseatingfeces. No unverifiedallwoodburnedthereforefuelhistoricaldetail. ConcessionspecificnotGodguaranteednevergivesmorethanhandle/unansweredprayerproveslaziness/nohumanspiritmorethanlimitmentalillnessclaim. No ownerposition.
+
+## 5:1–4
+
+Plan section: omitted, because none apply. Signandfewsurvivorsalreadyexplained;remnantwiderPlanreserved6:8–10.
+Position source: none.
+FLAGGED FOR REVIEW: No robehemalwaysmeansauthorityorallhairstuckedshareEzekiel'spersonalsavingfaithsymbolasfact. No everyremnantmeansspirituallyregeneratevsphysicalsurvivoruniformrule. Morehairburnedpreservesseverity,noallkeptguaranteedsafe;no exactpopulationcensuspercentproofneed. BaselineJer42EgyptfugitivesBEFOREfinalsiege chronologyincorrect(occurafterfall/Gedaliah);notadopt. No independentJeremiahfinaldeathlocationcertainty. PriestlyshavingprohibitionpracticaldisqualificationnotaddedwithoutLev21primarycheck;hereactiontext. No ownerposition.
+
+## 5:5–12
+
+Plan section: included, because (b)/(c). Rom2:17–24knowledgeLaw/responsibilityGodnameamongGentiles;Luke19:41–44JesusweepsandsiegewarningparallelclearlynotEzek5directquote.
+Position source: none.
+FLAGGED FOR REVIEW: JerusalemcenterofnationsnotproofgeometricalcenterEarth/allmaps. Ezek5:9severeuniquejudgmentnotclaimedempiricallyworstquantifiableworlddisasterofallhistory. Jesuslaterwarningnotassertsame586eventoruniquelyliteralEzekiel5fulfillment. No futurepersecutionallJewssufferbecauseguiltoftheirancestors/modernstateblanketapprovalorblame. Cannibalismexplicittextnotsoftenedfalseparaphraseorpracticalviolenceinstruction;noadditionalunsupportedclinicalhistoricaldetails. No ownerposition.
+
+## 5:13–17
+
+Plan section: included, because (b)/(c). Rev6:8samefourjudgmentswithLambopeningseals6:1–8;recurringpatternalsoEzek14notclaimonlyEzek5quoted.
+Position source: none.
+FLAGGED FOR REVIEW: PreserveLordzealspoke/recognizednotGodneedscrueltyforpleasuremechanism. No everywar/plaguepresentGodspecificpunishmentdiagnosis. CommonWeslookingforwardRomanJewishnation'fullend'notadoptedasglobaleternalethnicrejection. NoGodvengeancelicensemodernreligiousviolenceorbesiegingnonbelievers. No NTuniquesourceclaimhorsemenonly5ratherthanotherOTbackgrounds. No ownerposition.
+
+## 6:1–7
+
+Plan section: included, because (c). 1Cor10:14–22undividedLordtable/body/ChristandfleeidolatryactualNTcontext;notEzek6quotation.
+Position source: none.
+FLAGGED FOR REVIEW: BDB1116allhighplacesnotbydefinitionpagan(firstSamuelDavidYahwehworshiprecorded);publicHEREidolshrinescontextcorrect. BaselineDancreatedfirsthighplace/Canaaniteallstructures/paganprostitutionuniversalpracticehistoricalclaimsnotverifiednotadopted. BDB1544gilulimderivationmultipleproposals(logsblocks/shapelessthings/dungy)doesnotverifyliteralonly'dunggod';no falseetymbodywastedconsumptionmetaphor. Noallordinaryjoys/comfortoutsideprayerclosetautomaticallyidolsoralltherapeutichelpfaithfailure. No namedpresent-dayethnicgroupviolencelicense. No moderniconpolicyinvented;explicitfalsegodsnotCatholicsworshipwoodcaricature. No ownerposition.
+
+## 6:8–10
+
+Plan section: included, because (c). Lev26:39–45exileconfessioncovenantnotdestroy;Rom11:1–6Godhasnotrejectedpeople/remnantgrace(ElijahquotednotEzek6),explicitlabeltheme.
+Position source: none.
+FLAGGED FOR REVIEW: BSB9grievedbyadulterousheartsretained;notforcedlexicaldamageGodbodymechanism. Repentantremorsenotselfharmrecommendation/morallabelclinicaldepression. No blanketallJewsneveragainidolatryafterexile/wherevertheyexistfaithfulTorahclaim;unverifiedcontradictionsnotpublic. No canonicalpresenttotalconversionguaranteeor everyphysicalsurvivor=electregenerate. ActualRom11grace—notmerit—andnoethnicconceit. No ownerposition.
+
+## 6:11–14
+
+Plan section: omitted, because none apply. Gestures/judgment/knowledgeofLordexplained,NTjudgmentparallelwouldrepeat5:13–17.
+Position source: none.
+FLAGGED FOR REVIEW: HenryWessorrowcompassionactual,clap/stampnotpartyoverdeath. BSB14fromwildernessTODiblahnotNASBmoredesolatethanwildernessTOWARDDiblah;preserveactualrangeanddon'tassertprecisemodernlocation. NoWesstatementpresentCanaanmostdesolateasmodernfact. No exact65KnowLordformulaoccurrencesclaimwithoutcount. No GodcouldonlymaintainIsraelbysacrificingexacttwoThirdsnecessarycounterfactualnottext. No universalHeb10meansallChristiansillnesspunishmentorassumedsalvationposition;Heb10readbutnotneedforcedadditionalPlan. No ownerposition.
+
+## Validation
+
+Focused generation, direct BSB, repository (0 errors /393 warnings), preservation, continuous coverage, idempotence, sixteen mobile views and physical Next passed. Hosting dry run, deployment and LIVE MATCH 12 each observed exit 0. Prefix /tmp/scripture-ezekiel-four-six-.

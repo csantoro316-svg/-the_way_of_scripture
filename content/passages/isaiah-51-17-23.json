@@ -5,53 +5,48 @@
     "label": "Isaiah 51:17-23",
     "slug": "isaiah-51-17-23"
   },
-  "section_title": "God\u2019s Fury Removed",
+  "section_title": "Who can help Jerusalem when her own children cannot?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "17 Awake, awake!",
-        "Rise up, O Jerusalem,",
-        "you who have drunk from the hand of the LORD",
-        "the cup of His fury;",
-        "you who have drained the goblet to the dregs\u2014",
-        "the cup that makes men stagger.",
-        "18 Among all the sons she bore,",
-        "there is no one to guide her;",
-        "among all the sons she brought up,",
-        "there is no one to take her hand.",
-        "19 These pairs have befallen you:",
-        "devastation and destruction,",
-        "famine and sword.",
-        "Who will grieve for you?",
-        "Who can comfort you?",
-        "20 Your sons have fainted;",
-        "they lie at the head of every street,",
-        "like an antelope in a net.",
-        "They are full of the wrath of the LORD,",
-        "the rebuke of your God.",
-        "21 Therefore now hear this, you afflicted one,",
-        "drunken, but not with wine.",
-        "22 Thus says your Lord, the LORD,",
-        "even your God, who defends His people:",
-        "\u201cSee, I have removed from your hand",
-        "the cup of staggering.",
-        "From that goblet, the cup of My fury,",
-        "you will never drink again.",
-        "23 I will place it in the hands of your tormentors,",
-        "who told you: \u2018Lie down, so we can walk over you,\u2019",
-        "so that you made your back like the ground,",
-        "like a street to be traversed.\u201d"
+        "17 Awake, awake! Rise up, O Jerusalem, you who have drunk from the hand of the LORD the cup of His fury; you who have drained the goblet to the dregs— the cup that makes men stagger. 18 Among all the sons she bore, there is no one to guide her; among all the sons she brought up, there is no one to take her hand. 19 These pairs have befallen you: devastation and destruction, famine and sword. Who will grieve for you? Who can comfort you? 20 Your sons have fainted; they lie at the head of every street, like an antelope in a net. They are full of the wrath of the LORD, the rebuke of your God.",
+        "21 Therefore now hear this, you afflicted one, drunken, but not with wine. 22 Thus says your Lord, the LORD, even your God, who defends His people: “See, I have removed from your hand the cup of staggering. From that goblet, the cup of My fury, you will never drink again. 23 I will place it in the hands of your tormentors, who told you: ‘Lie down, so we can walk over you,’ so that you made your back like the ground, like a street to be traversed.”"
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 51**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "The call to awake is now addressed to Jerusalem. She is pictured as a woman who has drained a cup that leaves her staggering. The cup represents the Lord’s fury, and the devastation, famine and sword describe the judgment she has experienced.",
+    "",
+    "None of her children can take her hand and guide her. They have collapsed in the streets themselves. The picture makes the depth of her helplessness clear: the people who might have supported her are caught in the same disaster.",
+    "",
+    "The Lord then speaks as the One who defends His people. He promises to remove the cup from her hand and put it into the hands of her tormentors. Those who treated her like a road beneath their feet will face judgment themselves."
   ],
   "common_interpretation_lines": [
-    "A common reading of **God\u2019s Fury Removed** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/isaiah/51.htm) and [Wesley](https://biblehub.com/commentaries/wes/isaiah/51.htm) understand the drunkenness as the effect of severe affliction, as the passage itself distinguishes it from drinking wine. The helpless children show that Jerusalem cannot supply her own deliverance.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 51** remains the first control on meaning."
+    "Both emphasize the reversal: the God whose judgment she has experienced now takes up her cause. Her oppressors do not gain a permanent right to humiliate her. The promise holds together His judgment, His mercy and His defense of the afflicted."
   ],
-  "deeper_study": []
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/51.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-fifty-one-three-review.md"
+  }
 }

@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "1:15-26",
+    "label": "Acts 1:15-26",
+    "slug": "acts-1-15-26"
+  },
+  "section_title": "Why is Matthias chosen to join the eleven?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 In those days Peter stood up among the brothers (a gathering of about a hundred and twenty) and said, 16 “Brothers, the Scripture had to be fulfilled that the Holy Spirit foretold through the mouth of David concerning Judas, who became a guide for those who arrested Jesus. 17 He was one of our number and shared in this ministry.” 18 (Now with the reward for his wickedness Judas bought a field; there he fell headlong and burst open in the middle, and all his intestines spilled out. 19 This became known to all who lived in Jerusalem, so they called that field in their own language Akeldama, that is, Field of Blood.) 20 “For it is written in the book of Psalms: ‘May his place be deserted; let there be no one to dwell in it,’ and, ‘May another take his position.’",
+        "21 Therefore it is necessary to choose one of the men who have accompanied us the whole time the Lord Jesus went in and out among us, 22 beginning from John’s baptism until the day Jesus was taken up from us. For one of these must become a witness with us of His resurrection.” 23 So they proposed two men: Joseph called Barsabbas (also known as Justus) and Matthias.",
+        "24 And they prayed, “Lord, You know everyone’s heart. Show us which of these two You have chosen 25 to take up this ministry and apostleship, which Judas abandoned to go to his rightful place.” 26 Then they cast lots, and the lot fell to Matthias. So he was added to the eleven apostles."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Peter stands among about 120 believers and addresses the place left by Judas. Judas had shared the apostles’ ministry but became a guide to those who arrested Jesus. Peter reads his betrayal and the need for a replacement in the light of the Psalms.",
+    "",
+    "Luke also describes Judas’s death and the Field of Blood. [Matthew 27:3–10](https://biblehub.com/bsb/matthew/27.htm) tells of his hanging and of the priests buying a field with the returned betrayal money. Acts emphasizes the money connected with his wickedness and his terrible death. Neither account supplies every step connecting those details.",
+    "",
+    "The replacement is to be someone who accompanied the disciples from John’s baptism to Jesus’s ascension and can join them as a witness to His resurrection. They propose Joseph called Barsabbas and Matthias, pray for the Lord to make His choice known, and cast lots. Matthias is added to the eleven.",
+    "",
+    "These are the stated requirements for filling this place among the Twelve. The passage should not be turned into a claim that every later use of the word apostle must describe someone who meets these exact conditions."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the choosing of Matthias as restoring the number of the Twelve and maintaining the witness to Jesus’s ministry and resurrection. [Wesley on verses 21–23](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) emphasizes the witnesses’ qualifications and their appeal to God where their own decision reaches its limit. [Calvin on verse 24](https://biblehub.com/commentaries/calvin/acts/1.htm) emphasizes God’s knowledge of the heart and the need for prayer in choosing people for ministry.",
+    "",
+    "Explanations of Judas’s death differ. Wesley’s note on verse 18 proposes a broken rope to connect the fall with the hanging. [The USCCB’s note on verse 18](https://bible.usccb.org/bible/acts/1) instead describes the accounts as differing traditions. A reconstruction such as a broken rope is a proposed explanation, not an additional event stated in either passage."
+  ],
+  "god_plan_lines": [
+    "Peter directly connects this moment with [Psalm 69:25](https://biblehub.com/bsb/psalms/69.htm) and [Psalm 109:8](https://biblehub.com/bsb/psalms/109.htm): the betrayer’s place is left desolate, and another takes his position. The betrayal does not bring God’s purposes or the apostles’ witness to an end.",
+    "",
+    "The prayer also places the decision in the hands of the Lord who knows hearts. The next stage of the mission begins with witnesses to the resurrection, Scripture guiding their understanding, and dependence on God rather than confidence that they can see everything about a candidate."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-one-review.md"
+  }
+}

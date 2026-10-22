@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "19:38-42",
+    "label": "John 19:38-42",
+    "slug": "john-19-38-42"
+  },
+  "section_title": "How is Jesus buried?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "38 Afterward, Joseph of Arimathea, who was a disciple of Jesus (but secretly for fear of the Jews), asked Pilate to let him remove the body of Jesus. Pilate gave him permission, so he came and removed His body. 39 Nicodemus, who had previously come to Jesus at night, also brought a mixture of myrrh and aloes, about seventy-five pounds. 40 So they took the body of Jesus and wrapped it in linen cloths with the spices, according to the Jewish burial custom.",
+        "41 Now there was a garden in the place where Jesus was crucified, and in the garden a new tomb in which no one had yet been laid. 42 And because it was the Jewish day of Preparation and the tomb was nearby, they placed Jesus there."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Joseph of Arimathea, whom John identifies as a secret disciple because of fear, asks Pilate for Jesus’ body and receives permission. Nicodemus joins him with myrrh and aloes. John recalls that Nicodemus first came to Jesus at night, linking this act with the earlier conversation in [John 3](https://biblehub.com/bsb/john/3.htm).",
+    "",
+    "They wrap the body in linen with the spices according to the burial custom John describes. The account concerns a body taken down and prepared for burial. It does not describe Jesus merely recovering from His injuries.",
+    "",
+    "A new tomb stands in a nearby garden, and no one has yet been laid in it. Because it is the day of Preparation and the tomb is close, they place Him there. These details establish the setting in which the next chapter’s empty-tomb account begins."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the burial as confirming the reality of Jesus’ death and preparing for the account of His resurrection. [Wesley on verses 38–42](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) also emphasizes Joseph and Nicodemus stepping forward to identify themselves with Him. Their action is significant without requiring a later legend about their travels or an imagined account of what happened to their careers."
+  ],
+  "god_plan_lines": [
+    "The burial has a connection with [Isaiah 53:9](https://biblehub.com/bsb/isaiah/53.htm), which places the innocent sufferer with a rich man in death. [Matthew 27:57–60](https://biblehub.com/bsb/matthew/27.htm) identifies Joseph as wealthy and describes his placing Jesus in his own new tomb. This is a supported parallel in the Gospel accounts.",
+    "",
+    "The burial also belongs to the central Gospel message. [1 Corinthians 15:3–4](https://biblehub.com/bsb/1_corinthians/15.htm) places Christ’s death for sins, His burial and His resurrection together. The tomb is part of the story of real death overcome by the life of the risen Lord."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/19.htm",
+    "plan_basis": [
+      "a",
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-nineteen-review.md"
+  }
+}

@@ -1,0 +1,27 @@
+# 2 Corinthians 8:1–9 — editorial evidence (2026-10-20)
+
+## Sources checked
+
+Complete baseline7C&8A(PDF224–231),8B(232–240),8C(241–249) and8D(250–258) actually read. Total actual PDF reading1–258. Truncated portions of232footer,237prefix and241prefix were separately reread. The relevant textual leads are grace, poverty and joy together, willing participation, giving oneself to the Lord, Titus completing the work, and Christ's self-giving. Public prose does not copy the extensive personal fundraising anecdotes or institutional/history digressions.
+
+Whole actual BSB8 and all four footnotes read: https://biblehub.com/bsb/2_corinthians/8.htm . Main7 retains the love we inspired in you; the alternative your love for us stays a footnote.15 explicitly references Exodus16:18;19 links1Corinthians16:3–4;23 notes apostles as an alternative for messengers. Whole WesleyVIII and all USCCB8 notes read: https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-the-corinthians/ ; https://bible.usccb.org/bible/2corinthians/8 . A note's possible collection-letter editing theory is not a formal church doctrine or used to alter the actual text.
+
+Fresh actual Philippians2:5–11 read. Earlier actually checked Acts4:32–35,Romans15:25–27 and1Corinthians16:1–4 reused. These establish care for Jerusalem and the Jewish/Gentile sharing connection; the collection is not silently turned into a local building/staff campaign. No unnecessary Greek vocabulary lesson is introduced where the ordinary wording explains the point. Search found no direct chapter8 owner position; related study links do not create one.
+
+## 2 Corinthians 8:1–5
+
+Plan section: included, because (a)/(c):Acts4:32–35 explicitly describes shared resources meeting the early congregation's needs;Romans15:26–27 explicitly relates the Jerusalem collection to Gentile/Jewish sharing of spiritual and material blessings.
+Position source: none.
+FLAGGED FOR REVIEW: Grace, joy and poverty overflow into generosity in the sentence; the baseline's reversed claim that giving first caused a mathematically increasing joy is not asserted as Paul's stated sequence. The text does not narrate replacement money arriving after every gift or a divine command to exhaust essential funds. Beyond ability is their voluntary extraordinary response, not a universal percentage or pressure rule. Deep poverty is not made a precisely verified starvation census. The unverified combined Greek definitions and root expansions are not used. Wesley's detailed plundering/persecution reconstruction is not adopted as independently checked history.
+
+The baseline's claims of a separate mandatory local-fellowship tithe, all other charity never meeting that obligation, a ban on all public support/debt, never supporting outsiders until all internal need ends, and a guaranteed positive financial return were not established by this passage; later8:12–14 explicitly preserves means and avoids burdening givers.1Corinthians16 andRomans15 identify the collection for people in another community. The history of full-time paid ministry as only50–60years old, every apostle's exact employment, elder/deacon age assignments, scientific focus percentages, the north-star/earth-moving explanation, and all modern church failure causes were not independently verified and are omitted. The passage is not used to make another person's loss a proof of neglected church attendance. The teacher's personal financial experience and self-reported timing of a building opportunity are not independent evidence of a guaranteed divine mechanism. Fixed23.3%/three-tithe arithmetic and an exclusive New-Testament-giving-reference list are not asserted. These remain private unchecked leads rather than public common interpretations.
+
+## 2 Corinthians 8:6–9
+
+Plan section: included, because (a)/(c):Philippians2:5–11 explicitly joins Christ's servant-form, self-giving death and exaltation with the mindset believers are called to share, placing generosity within God's forming of a people shaped by His Son.
+Position source: none.
+FLAGGED FOR REVIEW: Paul says his appeal here is not a command; no invented fixed giving rate or matching-sacrifice equation is substituted. The text does not say every gift activates grace, guarantees a financial miracle, requires testing God or obliges a person to choose giving over basic necessities. A gift from surplus is not declared inherently worthless;8:14 explicitly speaks of surplus supplying need. Christ's poverty is not presented as a contract promising every believer material wealth. The saving-self-giving explanation is supported by the checked Wesley9/USCCB9 and Philippians2, without treating every detail of one commentator's incarnation/earthly-life emphasis as unanimous. God owing humanity an offset, pre-Christ grace being a merely minimal failed plan, and every individual feeling exactly the same joy are not asserted. No new owner position on ministry funding or giving mechanics is originated.
+
+## Validation
+
+Passed: fresh BibleHub BSB verification, repository checks (eight tests), selected preservation and whole-book coverage/navigation audit, 390px reader/standalone checks, actual Next navigation with heading focus, and selected generation idempotence. Hosting dry run and deployment exited zero; all six affected live files match local hashes. Warnings remain264, including nine intentional optional-plan omissions and the contextual6:14–7:1 crosschapter range.

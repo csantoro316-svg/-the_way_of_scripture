@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "5:19-29",
+    "label": "John 5:19-29",
+    "slug": "john-5-19-29"
+  },
+  "section_title": "What does the Son’s voice bring: life or judgment?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "19 So Jesus replied, “Truly, truly, I tell you, the Son can do nothing by Himself, unless He sees the Father doing it. For whatever the Father does, the Son also does. 20 The Father loves the Son and shows Him all He does. And to your amazement, He will show Him even greater works than these. 21 For just as the Father raises the dead and gives them life, so also the Son gives life to whom He wishes. 22 Furthermore, the Father judges no one, but has assigned all judgment to the Son, 23 so that all may honor the Son just as they honor the Father. Whoever does not honor the Son does not honor the Father who sent Him.",
+        "24 Truly, truly, I tell you, whoever hears My word and believes Him who sent Me has eternal life and will not come under judgment. Indeed, he has crossed over from death to life. 25 Truly, truly, I tell you, the hour is coming and has now come when the dead will hear the voice of the Son of God, and those who hear will live. 26 For as the Father has life in Himself, so also He has granted the Son to have life in Himself. 27 And He has given Him authority to execute judgment, because He is the Son of Man.",
+        "28 Do not be amazed at this, for the hour is coming when all who are in their graves will hear His voice 29 and come out—those who have done good to the resurrection of life, and those who have done evil to the resurrection of judgment."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus explains His work in relation to the Father who loves Him. The Son acts in complete unity with the Father, gives life and receives authority to judge. Honoring the Son is inseparable from honoring the Father who sent Him.",
+    "",
+    "He promises that the person who hears His word and believes the One who sent Him has eternal life and has crossed from death to life. He speaks both of an hour already arriving when the dead hear His voice and of a coming hour when everyone in the graves will come out.",
+    "",
+    "The final distinction is between resurrection to life for those who have done good and resurrection to judgment for those who have done evil. The passage keeps present life through faith and future resurrection and judgment together."
+  ],
+  "common_interpretation_lines": [
+    "Christian traditions commonly read the Son’s unity with the Father as consistent with His divine authority, rather than His being a separate, competing god. They also affirm a future resurrection and judgment: the Catholic Catechism and Westminster Confession both teach that people will answer to Christ for their lives. ([Wesley on John 5:19–23](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/); [Catechism §§1038–1040](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_three/article_12/v_the_last_judgment.index.html); [Westminster Confession 33.1–2](https://www.opc.org/wcf.html))",
+    "",
+    "Readers differ over how the promise of life relates to continuing faith. Reformed teaching in the Westminster Confession says that those truly received by God will be kept to the end, despite serious failures. Wesley reads verse 24’s assurance with the condition that a person does not abandon faith. Both locate life in Christ, while differing over whether a believer can finally fall away. ([Westminster Confession 17.1–3](https://www.opc.org/wcf.html); [Wesley on John 5:24](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/))",
+    "",
+    "Calvin reads the good works in verse 29 as the fruit that identifies believers, while insisting that their acceptance rests on God’s mercy. This is his explanation of how that verse relates to the promise of life through faith. ([Calvin on John 5:29](https://biblehub.com/commentaries/calvin/john/5.htm))"
+  ],
+  "god_plan_lines": [
+    "Daniel sees one like a son of man receiving enduring authority, glory and a kingdom whose rule reaches every people. Jesus’ words about the Son of Man’s authority to judge belong alongside that scriptural picture. This is a supported connection between the passages; John does not quote Daniel’s vision here. ([Daniel 7:13–14](https://biblehub.com/bsb/daniel/7.htm))",
+    "",
+    "Philippians describes the Son’s humble obedience through death and His exaltation, when every knee bows and every tongue confesses Him as Lord to the Father’s glory. Honoring the Son and honoring the Father belong together within God’s purpose. ([Philippians 2:5–11](https://biblehub.com/bsb/philippians/2.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/5.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-five-review.md"
+  }
+}

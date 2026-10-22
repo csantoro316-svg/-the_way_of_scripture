@@ -1,0 +1,50 @@
+{
+  "reference": {
+    "book": "Nehemiah",
+    "citation": "7:66-73",
+    "label": "Nehemiah 7:66-73",
+    "slug": "nehemiah-7-66-73"
+  },
+  "section_title": "How does the register conclude the story of the first return?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "66 The whole assembly numbered 42,360, 67 in addition to their 7,337 menservants and maidservants, as well as their 245 male and female singers. 68 They had 736 horses, 245 mules, 69 435 camels, and 6,720 donkeys.",
+        "70 Some of the heads of the families contributed to the project. The governor gave to the treasury 1,000 darics of gold, 50 bowls, and 530 priestly garments. 71 And some of the heads of the families gave to the treasury for the project 20,000 darics of gold and 2,200 minas of silver. 72 The rest of the people gave a total of 20,000 darics of gold, 2,000 minas of silver, and 67 priestly garments. 73 So the priests, Levites, gatekeepers, singers, and temple servants, along with some of the people and the rest of the Israelites, settled in their own towns. And by the seventh month the Israelites had settled in their towns."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The register gives a total assembly of 42,360, along with servants, singers and animals. It then records gifts for the work from the governor, heads of families and the rest of the people. The contributions include gold, silver and priests’ garments.",
+    "",
+    "The priests, Levites and other returning people settle in their towns. The closing notice that the Israelites are in their towns by the seventh month prepares for the next scene, where the people gather to hear the Law.",
+    "",
+    "These totals and gifts conclude the register Nehemiah found. They belong with its account of the earlier return rather than describing a new migration of that size under Nehemiah."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/nehemiah/7.htm) emphasizes both the willingness to return and the gifts supporting the work. [Gill](https://biblehub.com/commentaries/gill/nehemiah/7.htm) compares the closing figures and contributions with Ezra’s account. The register closes by showing the returning community established in its towns, with resources given toward the shared undertaking."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/nehemiah/7.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-nehemiah-six-seven-review.md"
+  }
+}

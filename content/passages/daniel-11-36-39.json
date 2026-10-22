@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "11:36-39",
+    "label": "Daniel 11:36-39",
+    "slug": "daniel-11-36-39"
+  },
+  "section_title": "What happens when a ruler magnifies himself above every god?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "36 Then the king will do as he pleases and will exalt and magnify himself above every god, and he will speak monstrous things against the God of gods. He will be successful until the time of wrath is completed, for what has been decreed must be accomplished. 37 He will show no regard for the gods of his fathers, nor for the one desired by women, nor for any other god, because he will magnify himself above them all. 38 And in their place, he will honor a god of fortresses—a god his fathers did not know—with gold, silver, precious stones, and riches. 39 He will attack the strongest fortresses with the help of a foreign god and will greatly honor those who acknowledge him, making them rulers over many and distributing the land for a price."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The king acts as he pleases, magnifies himself above every god and speaks against the God of gods. His success continues until the decreed period of wrath is completed.",
+    "",
+    "He disregards inherited gods and the one desired by women, while honoring a god of fortresses with great wealth. He rewards those who acknowledge him with authority and land.",
+    "",
+    "The emphasis falls on self-exaltation supported by force, wealth and patronage. Even this ruler’s apparent freedom remains bounded by what has been decreed."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/daniel/11.htm) understands Antiochus as the primary subject, with a further application to antichrist. [Gaebelein](https://biblehub.com/commentaries/gaebelein/daniel/11.htm) sees a change at verse 36 to a future Antichrist. The [USCCB notes](https://bible.usccb.org/bible/daniel/11) retain Antiochus and interpret the one desired by women as Tammuz.",
+    "",
+    "The ruler’s identity and the detailed references are disputed. His opposition to God and his time-limited success are central to the description."
+  ],
+  "god_plan_lines": [
+    "[2 Thessalonians 2:3–12](https://biblehub.com/bsb/2_thessalonians/2.htm) presents a clear parallel: a lawless ruler exalts himself above every god or object of worship, uses deception and is destroyed by the Lord Jesus at His appearing.",
+    "",
+    "The shared pattern helps explain the wider warning against power that claims God’s place. Paul names the ultimate answer in Christ’s authority. The hope reaches beyond identifying a dangerous ruler to trusting the Lord who will bring deception to its end."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/11.htm",
+    "plan_basis": [
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-eleven-review.md"
+  }
+}

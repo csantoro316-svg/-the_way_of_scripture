@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "1:4-9",
+    "label": "1 Corinthians 1:4-9",
+    "slug": "1-corinthians-1-4-9"
+  },
+  "section_title": "Why does Paul give thanks before correcting them?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "4 I always thank my God for you because of the grace He has given you in Christ Jesus. 5 For in Him you have been enriched in every way, in all speech and all knowledge, 6 because our testimony about Christ was confirmed in you.",
+        "7 Therefore you do not lack any spiritual gift as you eagerly await the revelation of our Lord Jesus Christ. 8 He will sustain you to the end, so that you will be blameless on the day of our Lord Jesus Christ. 9 God, who has called you into fellowship with His Son Jesus Christ our Lord, is faithful."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul gives thanks for grace God has already given the Corinthians in Christ. Their ability to speak and their knowledge are gifts, rather than achievements that make one group better than another. His gratitude prepares the ground for corrections about how they use those gifts.",
+    "",
+    "The church does not lack spiritual gifts while it waits for Christ to be revealed. Paul is addressing the community; he is not saying every member has every gift. Later, in [1 Corinthians 12:12–27](https://biblehub.com/bsb/1_corinthians/12.htm), he explains how different members contribute to one body.",
+    "",
+    "Paul directs their hope to the One who sustains them and to God’s faithfulness. The coming day of Christ gives their present life a destination. God has called them into fellowship with His Son, so their confidence has a deeper basis than their abilities, personalities or current level of maturity."
+  ],
+  "common_interpretation_lines": [
+    "Christians recognize these verses as strong encouragement to rely on God’s faithfulness while awaiting Christ. Where traditions differ is whether someone truly brought into grace can finally turn away from it.",
+    "",
+    "The Reformed teaching in [Westminster Confession 17.1–3](https://www.opc.org/wcf.html) holds that those God has truly accepted in Christ will be preserved to the end, although they can fall into serious sin. The [Methodist Articles, Article XII](https://www.umc.org/en/content/articles-of-religion), allow that a believer can depart from grace and can be restored through God’s grace. [Wesley’s note on verse 8](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) reads Paul’s assurance with the need to continue relying on God. These readings agree that perseverance depends on His help; they differ over whether final falling away remains possible."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 1:9–14](https://biblehub.com/bsb/ephesians/1.htm) places believers’ hope within God’s purpose to bring all things in heaven and on earth together in Christ. The promised Spirit is a pledge of the inheritance still to come.",
+    "",
+    "The Corinthians’ waiting therefore belongs to something larger than the improvement of their own congregation. God’s present gifts sustain His people as they look toward the fulfillment of His purposes in Christ."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/1.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-first-corinthians-one-review.md"
+  }
+}

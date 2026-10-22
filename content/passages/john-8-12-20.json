@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "8:12-20",
+    "label": "John 8:12-20",
+    "slug": "john-8-12-20"
+  },
+  "section_title": "What does it mean to follow the light of the world?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "12 Once again, Jesus spoke to the people and said, “I am the light of the world. Whoever follows Me will never walk in the darkness, but will have the light of life.”",
+        "13 So the Pharisees said to Him, “You are testifying about Yourself; Your testimony is not valid.” 14 Jesus replied, “Even if I testify about Myself, My testimony is valid, because I know where I came from and where I am going. But you do not know where I came from or where I am going. 15 You judge according to the flesh; I judge no one. 16 But even if I do judge, My judgment is true, because I am not alone; I am with the Father who sent Me. 17 Even in your own Law it is written that the testimony of two men is valid. 18 I am One who testifies about Myself, and the Father, who sent Me, also testifies about Me.”",
+        "19 “Where is Your Father?” they asked Him. “You do not know Me or My Father,” Jesus answered. “If you knew Me, you would know My Father as well.” 20 He spoke these words while teaching in the temple courts, near the treasury. Yet no one seized Him, because His hour had not yet come."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus is still teaching publicly in the temple. The discussion turns from the woman brought before Him to His own identity: He offers the light of life to those who follow Him. Verse 20 places this teaching near the treasury and explains why He is not arrested: His hour has not yet come. John does not give a new date for this exchange.",
+    "",
+    "The setting gives the picture of light added depth. The Feast of Tabernacles has framed the visit since John 7, and [Mishnah Sukkah 5:2](https://www.sefaria.org/Mishnah_Sukkah.5.2?lang=bi) describes large golden lamps in the temple courtyard during the celebration. That is useful background, but John does not say that Jesus spoke while lamps were being lit or after they had gone dark. His claim reaches beyond a festival display: He offers a way out of darkness and into life.",
+    "",
+    "The Pharisees challenge the validity of His testimony because He is speaking about Himself. The Law required more than one witness to establish a charge ([Deuteronomy 19:15](https://biblehub.com/bsb/deuteronomy/19.htm)). Jesus answers that He knows His own origin and destination, and that the Father also testifies about Him. His earlier teaching identifies His works and the Scriptures as witnesses to the Father’s sending Him ([John 5:31–40](https://biblehub.com/bsb/john/5.htm)). The issue is not simply how many voices can be counted, but whether His listeners recognize the One who sent Him.",
+    "",
+    "Jesus also contrasts their judgment according to the flesh with His relationship to the Father. Read verses 15 and 16 together: His statement that He judges no one is immediately followed by His assurance that any judgment He makes is true. This passage does not cancel His authority to judge, which John has already described in [John 5:22–30](https://biblehub.com/bsb/john/5.htm). Knowing the Father and recognizing the Son belong together."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the light as the life and truth Jesus brings, calling for people to follow Him rather than merely admire His teaching. [John Wesley’s notes on verse 12](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) and [John Calvin’s commentary on verse 12](https://biblehub.com/commentaries/calvin/john/8.htm) both connect His light with rescue from spiritual darkness.",
+    "",
+    "The main difference here concerns how to explain verse 15. Wesley relates it to the saving purpose of Jesus’ first coming. Calvin focuses on this encounter, where Jesus teaches rather than taking the role of judge against His accusers. The [Catholic bishops’ Bible note on verse 15](https://bible.usccb.org/bible/john/8) emphasizes that His judgment does not follow outward, human standards. These are differences of emphasis in the cited explanations; none requires treating verse 15 as a denial of His authority in verse 16."
+  ],
+  "god_plan_lines": [
+    "Light has already marked God’s guidance and saving purpose. In [Exodus 13:21–22](https://biblehub.com/bsb/exodus/13.htm), the LORD leads Israel with a pillar of fire by night. That is a helpful parallel to following Jesus out of darkness, though John does not explicitly identify this saying as a fulfillment of the pillar of fire.",
+    "",
+    "The scope also widens beyond one people or one place. [Isaiah 49:6](https://biblehub.com/bsb/isaiah/49.htm) describes God’s Servant bringing His salvation to the nations, and [Revelation 21:22–27](https://biblehub.com/bsb/revelation/21.htm) pictures the nations walking by the light of God’s glory, with the Lamb as the city’s lamp. These passages trace a larger theme: God brings people into His light through Christ. The promise here begins with following Him now and points toward life in God’s presence."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/8.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-eight-light-review.md"
+  }
+}

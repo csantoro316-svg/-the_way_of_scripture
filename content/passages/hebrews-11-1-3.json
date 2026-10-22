@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "11:1-3",
+    "label": "Hebrews 11:1-3",
+    "slug": "hebrews-11-1-3"
+  },
+  "section_title": "How does faith help us trust what we cannot yet see?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Now faith is the assurance of what we hope for and the certainty of what we do not see. 2 This is why the ancients were commended.",
+        "3 By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Chapter 11 continues the call to enduring faith at the end of chapter 10. The writer describes confidence in what God promises and certainty about realities beyond our present sight. The people who follow illustrate that trust through their choices.",
+    "",
+    "The word [translated assurance](https://biblehub.com/greek/5287.htm) can describe firm confidence. The word [translated certainty](https://biblehub.com/greek/1650.htm) can express proof or conviction. Here they describe reliance on God, rather than a wish made true by the strength of a person’s feelings.",
+    "",
+    "The first example concerns creation: by faith we understand that the universe was formed at God’s command. Faith concerns more than the future alone; this verse also looks back to an act of God the readers did not witness. The visible world depends on Him.",
+    "",
+    "This introduction is followed by people who acted on God’s word, waited for His promises and sometimes suffered for trusting Him. The chapter’s concern is faith that endures through those circumstances."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/11.htm), [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) and the [USCCB notes](https://bible.usccb.org/bible/hebrews/11) read these verses in connection with the endurance the readers need. Faith shapes their response to God’s promises before the final outcome is visible.",
+    "",
+    "There is a difference in how Calvin and Wesley explain the last part of verse 3. Wesley emphasizes God creating without first needing any existing material, then forming the world. Calvin instead understands the visible creation as displaying God’s invisible power and character. The BSB retains the wording that what is seen was not made out of what was visible; the commentators’ explanations should be distinguished from the translation itself."
+  ],
+  "god_plan_lines": [
+    "[Colossians 1:15–20](https://biblehub.com/bsb/colossians/1.htm) connects creation with Christ and then with reconciliation through His cross. [Hebrews 1:1–3](https://biblehub.com/bsb/hebrews/1.htm) likewise joins God speaking through the Son with His creating and sustaining work.",
+    "",
+    "The God whose promise invites faith is the God who made and sustains the world. Creation and redemption belong within His purpose, giving the chapter’s hope a foundation beyond the changing circumstances of its readers."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/11.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-eleven-opening-review.md"
+  }
+}

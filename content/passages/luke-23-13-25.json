@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "23:13-25",
+    "label": "Luke 23:13-25",
+    "slug": "luke-23-13-25"
+  },
+  "section_title": "Why is Barabbas released while Jesus is condemned?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 Then Pilate called together the chief priests, the rulers, and the people, 14 and said to them, “You brought me this man as one who was inciting the people to rebellion. I have examined Him here in your presence and found Him not guilty of your charges against Him. 15 Neither has Herod, for he sent Him back to us. As you can see, He has done nothing deserving of death. 16 Therefore I will punish Him and release Him.”",
+        "18 But they all cried out in unison: “Away with this man! Release Barabbas to us!” 19 (Barabbas had been imprisoned for an insurrection in the city, and for murder.) 20 Wanting to release Jesus, Pilate addressed them again, 21 but they kept shouting, “Crucify Him! Crucify Him!” 22 A third time he said to them, “What evil has this man done? I have found in Him no offense worthy of death. So after I punish Him, I will release Him.”",
+        "23 But they were insistent, demanding with loud voices for Jesus to be crucified. And their clamor prevailed. 24 So Pilate sentenced that their demand be met. 25 As they had requested, he released the one imprisoned for insurrection and murder, and he handed Jesus over to their will."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Pilate gathers the leaders and people and again states that he has found Jesus innocent of the charges. He also points to Herod returning Him without a finding that deserves death. Yet Pilate proposes to punish Jesus before releasing Him, even while declaring Him innocent.",
+    "",
+    "The crowd demands Barabbas instead. Luke identifies him as a prisoner involved in insurrection and murder. Pilate wants to release Jesus and speaks again, but the demand for crucifixion continues. His third declaration that Jesus has done nothing deserving death does not stop the pressure.",
+    "",
+    "Pilate finally grants their demand, releases Barabbas and hands Jesus over. Luke’s contrast is direct: the man imprisoned for rebellion and murder goes free, while the man declared innocent is delivered to death. Pilate makes the decision; his statements about innocence do not remove his part in the outcome.",
+    "",
+    "The BSB places verse 17, about releasing a prisoner at the feast, in a footnote rather than its main text. The numbering here follows that text. ([BSB footnote](https://biblehub.com/bsb/luke/23.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly see both Jesus’ innocence and the injustice of the decision. Wesley highlights Pilate’s three declarations that Jesus is innocent, and the USCCB’s notes likewise identify this repeated finding as a major feature of Luke’s account. The scene does not present the released prisoner’s later beliefs or actions. ([Wesley on Luke 23:16–22](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [USCCB note on Luke 23:1–5, 13–25](https://bible.usccb.org/bible/luke/23))"
+  ],
+  "god_plan_lines": [
+    "Peter later recalls this very contrast: Jesus was rejected before Pilate and a murderer was requested in His place. He then proclaims that God raised the Author of life from the dead and calls his hearers to repent so their sins may be wiped away. The injustice is named honestly, and the message still opens the way to forgiveness. ([Acts 3:13–21](https://biblehub.com/bsb/acts/3.htm))",
+    "",
+    "The innocent Jesus condemned while a guilty prisoner goes free also provides a striking parallel with Peter’s teaching that Christ suffered for sins, the righteous for the unrighteous, to bring people to God. That wider teaching explains His saving purpose. The parallel does not tell us whether Barabbas personally came to faith; Luke does not answer that question. ([1 Peter 3:17–18](https://biblehub.com/bsb/1_peter/3.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/23.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-twenty-three-opening-review.md"
+  }
+}

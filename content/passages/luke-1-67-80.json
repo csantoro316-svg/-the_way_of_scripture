@@ -1,0 +1,68 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "1:67-80",
+    "label": "Luke 1:67-80",
+    "slug": "luke-1-67-80"
+  },
+  "section_title": "What salvation does Zechariah celebrate?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "67 Then his father Zechariah was filled with the Holy Spirit and prophesied: 68 “Blessed be the Lord, the God of Israel, because He has visited and redeemed His people. 69 He has raised up a horn of salvation for us in the house of His servant David, 70 as He spoke through His holy prophets, those of ages past, 71 salvation from our enemies and from the hand of all who hate us, 72 to show mercy to our fathers and to remember His holy covenant, 73 the oath He swore to our father Abraham, to grant us 74 deliverance from hostile hands, that we may serve Him without fear, 75 in holiness and righteousness before Him all the days of our lives.",
+        "76 And you, child, will be called a prophet of the Most High; for you will go on before the Lord to prepare the way for Him, 77 to give to His people the knowledge of salvation through the forgiveness of their sins, 78 because of the tender mercy of our God, by which the Dawn will visit us from on high, 79 to shine on those who live in darkness and in the shadow of death, to guide our feet into the path of peace.” 80 And the child grew and became strong in spirit; and he lived in the wilderness until the time of his public appearance to Israel."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Filled with the Holy Spirit, Zechariah praises the God of Israel for visiting and redeeming His people. His words begin with the promised Savior from David’s house, rather than with his own son. John’s family belongs to Aaron’s line; the coming child announced to Mary is the King linked with David. ([Luke 1:5, 27, 32–33](https://biblehub.com/bsb/luke/1.htm))",
+    "",
+    "The image of a horn of salvation speaks of strength to rescue. The Greek word is κέρας, keras (KEH-ras), a horn, used here as a picture of a mighty deliverer. Psalm 18 uses the same image when praising God as protector and rescuer. Zechariah is celebrating God’s saving power. ([Thayer’s lexicon](https://biblehub.com/greek/2768.htm); [Psalm 18:1–3](https://biblehub.com/bsb/psalms/18.htm))",
+    "",
+    "The prophecy connects rescue with God’s covenant and oath to Abraham. Its purpose includes a changed life: serving God without fear, in holiness and righteousness. Then Zechariah addresses John as the prophet who will prepare the Lord’s way by making salvation known through forgiveness of sins.",
+    "",
+    "The closing picture is dawn bringing light to people in darkness and the shadow of death, guiding them toward peace. The chapter ends with John growing strong in spirit and living in the wilderness until his public appearance. The promised ministry lies ahead."
+  ],
+  "common_interpretation_lines": [
+    "Christian traditions commonly understand the song as praise for God’s promised salvation through Christ, with John preparing His way. The references to David, Abraham, forgiveness, and holy service place the child’s future work within God’s faithfulness to His people. ([USCCB notes on Luke 1:68–79](https://bible.usccb.org/bible/luke/1); [Wesley on Luke 1:67–78](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))",
+    "",
+    "Readings differ over how the promises of rescue and restoration unfold. Wesley emphasizes deliverance from Satan and sin so that people can love and serve God in holiness. Dallas Theological Seminary also expects a future restoration of Israel and fulfillment of the nation’s covenant promises at Christ’s return. These emphases affect how readers connect the song’s present gift of forgiveness with the promised future. ([Wesley on Luke 1:74–75](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [Dallas statement, Article XX](https://www.dts.edu/why-dts/doctrinal-statement))"
+  ],
+  "god_plan_lines": [
+    "The oath to Abraham included blessing reaching all nations through his offspring. Paul explicitly connects the promised offspring with Christ and explains that people who belong to Him share in the inheritance. Zechariah’s praise for remembered mercy therefore belongs to a purpose whose reach extends to the nations. ([Genesis 22:15–18](https://biblehub.com/bsb/genesis/22.htm); [Galatians 3:6–18, 26–29](https://biblehub.com/bsb/galatians/3.htm))",
+    "",
+    "The dawn picture has a supported connection with Isaiah’s promise of light for people in darkness and the shadow of death. Matthew explicitly applies that prophecy to Jesus’ ministry in Galilee. This is a related prophetic picture, not a claim that every detail in Zechariah’s song comes from that single passage. ([Isaiah 9:1–7](https://biblehub.com/bsb/isaiah/9.htm); [Matthew 4:12–17](https://biblehub.com/bsb/matthew/4.htm))",
+    "",
+    "God’s mercy also forms a people who live differently. Ephesians describes salvation by grace leading into good works, and Jews and Gentiles brought near to God together through Christ. Its account of peace and shared access to the Father shows how rescue can lead into the holy service and life with God celebrated here. ([Ephesians 2:1–22](https://biblehub.com/bsb/ephesians/2.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/1.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-one-closing-review.md"
+  }
+}

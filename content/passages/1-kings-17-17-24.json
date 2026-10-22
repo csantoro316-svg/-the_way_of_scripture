@@ -1,0 +1,71 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "17:17-24",
+    "label": "1 Kings 17:17-24",
+    "slug": "1-kings-17-17-24"
+  },
+  "section_title": "What happens when the widow’s son dies?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 Later, the son of the woman who owned the house became ill, and his sickness grew worse and worse, until no breath remained in him. 18 “O man of God,” said the woman to Elijah, “what have you done to me? Have you come to remind me of my iniquity and cause the death of my son?” 19 But Elijah said to her, “Give me your son.” So he took him from her arms, carried him to the upper room where he was staying, and laid him on his own bed. 20 Then he cried out to the LORD, “O LORD my God, have You also brought tragedy on this widow who has opened her home to me, by causing her son to die?”",
+        "21 Then he stretched himself out over the child three times and cried out to the LORD, “O LORD my God, please let this boy’s life return to him!” 22 And the LORD listened to the voice of Elijah, and the child’s life returned to him, and he lived. 23 Then Elijah took the child, brought him down from the upper room into the house, and gave him to his mother. “Look, your son is alive,” Elijah declared. 24 Then the woman said to Elijah, “Now I know that you are a man of God and that the word of the LORD from your mouth is truth.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "After the household has been sustained through the famine, the widow’s son becomes gravely ill and dies. In her grief she asks whether Elijah has come to bring her sin to remembrance and cause her son’s death. Those are her anguished questions, not a separate explanation supplied by the narrator.",
+    "",
+    "Elijah carries the boy to his room and cries out to the LORD. He stretches himself over the child three times and asks that the boy’s life return. The LORD hears, and the child lives.",
+    "",
+    "Elijah gives him back to his mother. Her final response brings the chapter’s focus into view: she now knows that he is a man of God and that the LORD’s word from his mouth is true."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) emphasizes that faithful service does not prevent severe affliction. [Henry](https://biblehub.com/commentaries/mhc/1_kings/17.htm) likewise begins by acknowledging that faith and obedience do not exclude suffering and death.",
+    "",
+    "[Gill](https://biblehub.com/commentaries/gill/1_kings/17.htm) reads the event as an actual return from death and the widow’s closing words as renewed certainty about Elijah’s message. The account locates the power in the LORD hearing prayer; it gives no instruction to turn Elijah’s posture or the number three into a technique for controlling life and death."
+  ],
+  "god_plan_lines": [
+    "A closely related scene appears in [Luke 7:11–17](https://biblehub.com/bsb/luke/7.htm). Jesus meets a widow whose only son has died, acts with compassion, raises the young man and gives him back to his mother. The people recognize a great prophet and praise God for visiting His people.",
+    "",
+    "The parallel connects care for a grieving widow with God’s power over death. It also brings Jesus’ authority into view: Elijah pleads with the LORD, while Jesus directly commands the young man to rise. The earlier account prepares readers to recognize both the compassion and the greater authority shown in Jesus."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/17.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-seventeen-review.md"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "reference": {
+    "book": "James",
+    "citation": "4:11-12",
+    "label": "James 4:11-12",
+    "slug": "james-4-11-12"
+  },
+  "section_title": "What happens when we set ourselves up as judges of one another?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "11 Brothers, do not slander one another. Anyone who speaks against his brother or judges him speaks against the law and judges it. And if you judge the law, you are not a practitioner of the law, but a judge of it. 12 There is only one Lawgiver and Judge, the One who is able to save and destroy. But who are you to judge your neighbor?"
+      ]
+    }
+  ],
+  "context_lines": [
+    "James returns to harmful speech between believers. Slandering a brother or sister sets the speaker against the law that calls for love of neighbor. Instead of doing that law, the person assumes a position over it.",
+    "",
+    "The contrast is with the one Lawgiver and Judge, who can save and destroy. The speaker must remember his or her own place before God, rather than treat a personal verdict about another person as the final authority."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/james/4.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-general-epistle-of-st-james/) both read the warning as a rejection of presumptuous condemnation and speech that places the speaker above God’s law. Calvin distinguishes judging by personal preference from submitting to what God actually commands."
+  ],
+  "god_plan_lines": [
+    "[Romans 14:1–4, 10–13](https://biblehub.com/bsb/romans/14.htm) applies a similar concern to disputed practices: believers belong to the Lord and each will give an account to God. [1 Corinthians 4:3–5](https://biblehub.com/bsb/1_corinthians/4.htm) adds that the Lord will expose hidden motives. The church’s life is therefore shaped by His authority and knowledge, rather than claims to know everything about another person’s heart."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/james/4.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-james-four-review.md"
+  }
+}

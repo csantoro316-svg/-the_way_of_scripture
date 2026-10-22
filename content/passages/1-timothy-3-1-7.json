@@ -1,0 +1,68 @@
+{
+  "reference": {
+    "book": "1 Timothy",
+    "citation": "3:1-7",
+    "label": "1 Timothy 3:1-7",
+    "slug": "1-timothy-3-1-7"
+  },
+  "section_title": "What should we look for in someone who cares for the church?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 This is a trustworthy saying: If anyone aspires to be an overseer, he desires a noble task. 2 An overseer, then, must be above reproach, the husband of but one wife, temperate, self-controlled, respectable, hospitable, able to teach, 3 not dependent on wine, not violent but gentle, peaceable, and free of the love of money.",
+        "4 An overseer must manage his own household well and keep his children under control, with complete dignity. 5 For if someone does not know how to manage his own household, how can he care for the church of God? 6 He must not be a recent convert, or he may become conceited and fall under the same condemnation as the devil. 7 Furthermore, he must have a good reputation with outsiders, so that he will not fall into disgrace and into the snare of the devil."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul calls the work of an overseer a noble task. He then describes the character and readiness that must accompany the desire to serve.",
+    "",
+    "The Greek word is episkopos (ep-ISS-koh-poss). [Thayer’s lexicon](https://biblehub.com/greek/1985.htm) explains it as an overseer or someone charged with watching over others. Here the duty is care for the church, made explicit in verse 5.",
+    "",
+    "The list joins public and private life: faithfulness in marriage, self-control, hospitality and the ability to teach, together with gentleness and freedom from greed. The person must not be dependent on wine or violent.",
+    "",
+    "Care in the household provides a test of readiness to care for the church. Paul also warns against appointing a recent convert and requires a good reputation with outsiders. The concern is a person’s tested life and capacity for the work, not aspiration alone."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this list as requiring tested character, faithful conduct and the ability to teach. They differ in how the office is related to other church offices.",
+    "",
+    "The Baptist [1689 Confession, 26.8–9](https://www.the1689confession.com/1689/chapter-26), identifies bishops or elders and deacons as the church’s appointed officers. The Catholic [Catechism, paragraph 1554](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_three/article_6/iii_the_three_degrees_of_the_sacrament_of_holy_orders.index.html), describes bishops, priests and deacons as three degrees of ordained ministry. The shared call to character stands within different accounts of church order.",
+    "",
+    "The marriage phrase also needs careful application. The [BSB footnote](https://biblehub.com/bsb/1_timothy/3.htm) offers faithful to his wife. [Wesley’s note on verse 2](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-timothy/) reads it as excluding unfaithful marriage practices, rather than requiring every overseer to marry or banning every second marriage. Catholic practice likewise does not require marriage: [Catechism 1579–1580](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_three/article_6/vi_who_can_receive_this_sacrament.html) describes the Latin Church’s normal celibacy rule and the different Eastern practice of ordaining married men. These examples do not settle every church’s rules about divorce, remarriage or selection."
+  ],
+  "god_plan_lines": [
+    "[Acts 20:17, 28–32](https://biblehub.com/bsb/acts/20.htm) connects the elders’ oversight with care for the church God obtained, protection from harmful teaching and the word of grace that builds His people and gives an inheritance. The qualifications here serve that larger care for a people belonging to Him.",
+    "",
+    "[1 Peter 5:1–4](https://biblehub.com/bsb/1_peter/5.htm) places the elders’ service under Christ the Chief Shepherd, with His appearing ahead. Leaders are to be willing examples, rather than ruling for greed or control. Their work prepares and cares for His people in light of that future."
+  ],
+  "current_position_lines": [
+    "In [Who Shepherds the Church?](https://thewayofscripture.com/studies/who-shepherds-the-church.html), we emphasize that rejecting a titled hierarchy does not mean rejecting qualified teaching. Those caring for the church must be able to explain Scripture and correct teaching that departs from it. Shared leadership needs people equipped to keep the community’s study anchored in the text."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_timothy/3.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-first-timothy-three-opening-review.md",
+    "position_source_detail": "Who Shepherds the Church?, lines 82–92, especially direct 1 Timothy 3:2 at line 88: qualified teachers who explain Scripture and correct error; shared leadership is not a leaderless discussion."
+  }
+}

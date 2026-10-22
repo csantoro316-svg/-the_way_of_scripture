@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "1:21-28",
+    "label": "Mark 1:21-28",
+    "slug": "mark-1-21-28"
+  },
+  "section_title": "Jesus Teaches and Commands an Unclean Spirit",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "21 Then Jesus and His companions went to Capernaum, and right away Jesus entered the synagogue on the Sabbath and began to teach. 22 The people were astonished at His teaching, because He taught as one who had authority, and not as the scribes.",
+        "23 Suddenly a man with an unclean spirit cried out in the synagogue: 24 “What do You want with us, Jesus of Nazareth? Have You come to destroy us? I know who You are—the Holy One of God!” 25 But Jesus rebuked the spirit. “Be silent!” He said. “Come out of him!” 26 At this, the unclean spirit threw the man into convulsions and came out with a loud shriek.",
+        "27 All the people were amazed and began to ask one another, “What is this? A new teaching with authority! He commands even the unclean spirits, and they obey Him!” 28 And the news about Jesus spread quickly through the whole region of Galilee."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus and His companions enter Capernaum, and He teaches in the synagogue on the Sabbath. The people are astonished by His authority. Mark then shows that authority in action: an unclean spirit recognizes Him, fears destruction, and must obey His command to leave the man.",
+    "",
+    "Authority is ἐξουσία, *exousia* (ex-oo-SEE-ah). [Thayer's entry](https://biblehub.com/greek/1849.htm) includes the power and weight of Jesus' teaching in verses 22 and 27. The crowd's response joins His words and His action: He teaches with authority, and the spirits obey Him.",
+    "",
+    "The spirit calls Him the Holy One of God. Jesus silences it and orders it out. The man is thrown into convulsions, the spirit departs with a cry, and the news spreads through Galilee. Mark describes a personal confrontation and release, rather than merely reporting an impressive lecture.",
+    "",
+    "This follows Jesus' announcement that God's kingdom is near and His call of the fishermen. They now accompany Him as His teaching and power become known. The account will move from this public setting to care for someone in Simon and Andrew's home."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand this as Jesus demonstrating authority over evil spirits, with His action confirming the authority heard in His teaching. [Wesley on Mark 1:26–34](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-mark/) distinguishes the spirits from disease, and the Catholic [Catechism, 550](https://www.vatican.va/archive/ENG0015/__P1L.HTM), describes Jesus' freeing people from demons as a sign of God's kingdom overcoming Satan's power."
+  ],
+  "god_plan_lines": [
+    "The connection between this release and God's kingdom is made explicit in Jesus' later teaching. In [Luke 11:14–23](https://biblehub.com/bsb/luke/11.htm), He says that His driving out demons by God's power shows the kingdom has come upon His hearers. In [Mark 3:22–27](https://biblehub.com/bsb/mark/3.htm), He describes overpowering a strong man before taking what he holds. The rescue in the synagogue gives an early picture of that victory.",
+    "",
+    "[1 John 3:7–10](https://biblehub.com/bsb/1_john/3.htm) says that the Son of God was revealed to destroy the devil's works, in a passage calling God's children toward righteousness and love. Jesus' authority is directed toward freeing people from evil and restoring a life that belongs to God. The scene belongs within that larger saving purpose."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-one-healing-review.md"
+  }
+}

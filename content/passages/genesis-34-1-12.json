@@ -5,25 +5,40 @@
     "label": "Genesis 34:1-12",
     "slug": "genesis-34-1-12"
   },
-  "section_title": "The Defiling of Dinah",
+  "section_title": "The Assault on Dinah",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 Now Dinah, the daughter Leah had borne to Jacob, went out to visit the daughters of the land. 2 When Shechem son of Hamor the Hivite, the prince of the region, saw her, he took her and lay with her by force. 3 And his soul was drawn to Dinah, the daughter of Jacob. He loved the young girl and spoke to her tenderly. 4 So Shechem told his father Hamor, \u201cGet me this girl as a wife.\u201d",
-        "5 Jacob heard that Shechem had defiled his daughter Dinah, but since his sons were with his livestock in the field, he remained silent about it until they returned. 6 Meanwhile, Shechem\u2019s father Hamor came to speak with Jacob. 7 When Jacob\u2019s sons heard what had happened, they returned from the field. They were filled with grief and fury, because Shechem had committed an outrage in Israel by lying with Jacob\u2019s daughter\u2014a thing that should not be done.",
-        "8 But Hamor said to them, \u201cMy son Shechem longs for your daughter. Please give her to him as his wife. 9 Intermarry with us; give us your daughters, and take our daughters for yourselves. 10 You may settle among us, and the land will be open to you. Live here, move about freely, and acquire your own property.\u201d",
-        "11 Then Shechem said to Dinah\u2019s father and brothers, \u201cGrant me this favor, and I will give you whatever you ask. 12 Demand a high dowry and an expensive gift, and I will give you whatever you ask. Only give me the girl as my wife!\u201d"
+        "1 Now Dinah, the daughter Leah had borne to Jacob, went out to visit the daughters of the land. 2 When Shechem son of Hamor the Hivite, the prince of the region, saw her, he took her and lay with her by force. 3 And his soul was drawn to Dinah, the daughter of Jacob. He loved the young girl and spoke to her tenderly. 4 So Shechem told his father Hamor, “Get me this girl as a wife.”",
+        "5 Jacob heard that Shechem had defiled his daughter Dinah, but since his sons were with his livestock in the field, he remained silent about it until they returned. 6 Meanwhile, Shechem’s father Hamor came to speak with Jacob. 7 When Jacob’s sons heard what had happened, they returned from the field. They were filled with grief and fury, because Shechem had committed an outrage in Israel by lying with Jacob’s daughter—a thing that should not be done.",
+        "8 But Hamor said to them, “My son Shechem longs for your daughter. Please give her to him as his wife. 9 Intermarry with us; give us your daughters and take our daughters for yourselves. 10 You may settle among us, and the land will be open to you. Live here, move about freely, and acquire your own property.”",
+        "11 Then Shechem said to Dinah’s father and brothers, “Grant me this favor, and I will give you whatever you ask. 12 Demand a high dowry and an expensive gift, and I will give you whatever you ask. Only give me the girl as my wife!”"
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 34**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "Dinah, Leah and Jacob's daughter, goes out to visit the local women. Shechem, the regional prince and Hamor's son, sees her, takes her, and forces sexual relations on her. Her visit supplies the setting; Shechem is the person the account describes as using force.",
+    "",
+    "The Hebrew verb behind the violation is עָנָה, *ʿānâ* (ah-NAH). [Brown–Driver–Briggs](https://biblehub.com/hebrew/6031.htm) includes mistreatment and, specifically in Genesis 34:2, sexual humiliation. The BSB's wording makes the force explicit. Shechem's subsequent affection and tender speech do not undo what he has done.",
+    "",
+    "Shechem asks his father to obtain Dinah as his wife. Jacob hears what happened and waits until his sons return from the fields. They are grieved and furious, and the account calls the act an outrage that should not be done. Dinah's own words and wishes are not reported.",
+    "",
+    "Hamor proposes a marriage alliance between the communities, access to the land, and the opportunity to settle and trade. Shechem offers whatever payment the family demands. The negotiations move quickly toward what the men want, while the harm done to Dinah remains unresolved. Her brothers' answer in the next passage will turn the proposal into a plan for revenge."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Defiling of Dinah** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 34** remains the first control on meaning."
+    "Christians commonly read the scene as a serious violation followed by a marriage proposal that cannot erase the wrong. The [US Catholic bishops' note on Genesis 34](https://bible.usccb.org/bible/genesis/34) identifies the event as rape and reads it together with the violent and unresolved response that follows."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/34.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-return-and-reckoning-review.md"
+  }
 }

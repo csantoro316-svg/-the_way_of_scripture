@@ -1,0 +1,51 @@
+# Exodus 28 editorial review
+
+Reviewed2026-10-20,passage-v1. Fourexistinggroups/43actualBSBversesretained;allplans,nopositionoriginated. Baselineunnamedpublicly;plainprose,questionheadings,andnecessarytermsdefined.
+
+## Sources actually read
+
+- Baseline `content/assets/reference/stephen_armstrong/old-testament/02-exodus.pdf`:whole27–28lesson409–430actuallyreadbeforedraft. Cumulative1–430read;431+unread. The lesson itself rejects the rope/bells legend;notmisrepresentedassupportingit.
+- https://biblehub.com/bsb/exodus/28.htm — all43versesreadbeforeuse. FourgroupURLsretained:1–5/6–14/15–30/31–43.
+- https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/ — entireXXVIII11871charactersreadin0–4500/4500–9000/8900–endoverlap. Aaroncalling/craftskill;namesonshouldersandheart;uncertaintyUrim;bellprayerapplication;holyplate/Christacceptanceactuallychecked.
+- https://biblehub.com/commentaries/calvin/exodus/28.htm —18140–21000callingthroughopeninggarments;30462–32800names;33049–33820fullUrimparagraph;33820–35845fullrobecomment;35845–39628fullplatecommentread. Commentary'sclaimedpaganuniversalelection/Josephushistory/gemsnotindependentlyverifiedorused.
+- https://www.sefaria.org/Rashi_on_Exodus.28.30?lang=bi — fullEnglishcommentsreadviaAPI;writtenGodnameinsidefoldsinterpretation. SecondTemplehistoricalabsenceclaimnotindependentlyverifiedorpubliclyadopted. NotclaimthisvieweveryJewishreader.
+- https://biblehub.com/hebrew/6942.htm — actualBDBheadingthrough2400,includingPiel1.cpriestsEx28:3,41read;setapart/dedicateassacred. Publicqadashmeaningverified.
+- https://biblehub.com/hebrew/224.htm — wholeactualBDBUrimentryread,includingmechanismproposalsandsparseevidence;openingStrong/NASalsoread. https://biblehub.com/hebrew/8550.htm —openingStrong/NASread;noBDBentryonthatpage. NoBDB8550claimmade;publicdoesnotpresenttraditionalnameetymologiesascertainmechanism. NoTopicalmaterialusedforclaims.
+
+ActualBSBrangesreadatcorrespondingBibleHubchapterURLs:Heb5:1–10;Heb4:14–16;Heb2:14–18;Heb1:1–4;Rev21:9–21;Rev22:1–5;1Pet2:4–10;Num27:18–23;1Sam28:5–7;Ezra2:61–63;Neh7:63–65;Lev16:2–4;Gen3:7–10,21;Isa49:14–16;Rom12:1–2;Heb11:6. PreviousactualHeb7:23–28/Heb9:11–24read27/24batchesreusedonlywithinthat scope. UnusedLuke15/otherchaptersectionsfetchednotcredited.
+
+OwnstudiessearchedforEx28/Urim/Thummim/ephod/breastpiece/garments/holyinscription;nopassage-specificpositionfound. Prayer/Church/Worship/Signsrelatedlinksprovidefurtherstudyonly;nocurrentclericaldressorordinationpolicyinvented. Noownerstudyedited.
+
+## Exodus28:1–5
+
+Plan section: included,because(a)/(c). Heb5explicitAaroncalling→Christappointedpriest;Heb2humanity/atonement/helpdevelopssavingpurpose.
+Position source: none.
+FLAGGED FOR REVIEW: Noallearlierpatriarchsalwaysfamilypriestsorallpagansappointedpriestsbyambitionhistoryfromcommentators. Appointmentandcraftskillactual;nowardrobeautomaticallymakesanywearersinless. Qadashmeanssetapartforholyservice,notproofpriestcannotcommitanysin. AaronfamilypriestdutiesnotallLevites;previousNum18guardstillapplies. NoallmodernchurchleadersmustwearEx28clothingorinheritAaronicoffice.
+
+## Exodus28:6–14
+
+Plan section: included,because(b)/(c). Wes/CalvinexplicitChristcarryingpeopleparallelwithHeb7/9representation;Isa49Godrememberspeopleinscribedhandsbroaderthemeofcare,notliteralChristwearingAaronstones.
+Position source: none.
+FLAGGED FOR REVIEW: Ephod/breastpieceattachedbychainsandcords,notidenticalsingleitem. Actualbirth-orderstonesretained;noinventedname-by-nameassignmentortribelistfromanothercontext. Noetymologyprovesonlyonenarrowmodernvestcut;oldcommentarytailoringnotsettledfact. BearingnamesdoesnotmeanGodforgetfuloronlypriestsvaluable. Representation/intercessionactualNT;noownerpositiononwhoseatonementlimited/unlimitedoriginated.
+
+## Exodus28:15–30
+
+Plan section: included,because(b)/(c). Heb1Sonrevelation/purification;Rev21namedtribegates/apostolicjeweledfoundationssupportedparallelwithdistinctarrangements,God'speopleinpromisedcity. NodirectNTUrimdecodingclaim.
+Position source: none.
+FLAGGED FOR REVIEW: Twoexactstones/blackwhite/yesnoonly/castingorglowinglettersnotdescribedinEx28. RashiGodnameinscriptionvsCalvinsignsofguidance/integrityvsWespossibilitiesfromownprimaries,notconsensusobjectreconstruction. Standardlexiconlistslimitedevidence;traditionalUrimlights/Thummimperfectionsnotusedasproofofmechanism. ActualNum27guidanceand1Sam28nonanswerchecked;nofoolproofalwaysgetananswerclaim.
+
+FLAGGED FOR REVIEW: ArkandbreastpiecelostforeverexactBabylontimelinenotindependentlyestablished. Ezra2/Neh7awaitingpriestwithUrimdoesnotproveeveryartifact'sfate,norallglowingjewelslosttogether. Rashi'sdifferentSecondTempleclaimnotuncriticallyadopted. Modernprecisegemidentities/ordercorrespondenceRev21notasserted;Biblelistsretained. Tribalnamesongates/apostlesonfoundationsnotcollapsedintotribes=apostlesorsamesetof12stones. Noneweschatologicalreplacementorlandpolicyimposed.
+
+## Exodus28:31–43
+
+Plan section: included,because(b)/(c). Heb4sympatheticsinlessHighPriest;1Pet2acceptablesacrificesthroughChrist/sharedpriesthood;Rev22Godnameforeheadandserviceface-to-facecontinuesbelongingtheme.
+Position source: none.
+FLAGGED FOR REVIEW: BlueouterrobevsDayAtonementlinenLev16distinguished. Baselineitselfrejectsropelegend;notattributedassupported. Quotedthreefeet-thickveil/mazemakingdraggingimpossiblearchitectureunverified,excluded. Pomegranateclothaswindweightnotstated/independentlyestablished. Bellsasprayernotification(Wes)orGospelproclamation(Calvin)attributedapplications,notliteraltext'sdeclaredsolepurpose. Noactualscentoffabricpomegranates/fixedbellcountsinference.
+
+FLAGGED FOR REVIEW: HolyLORDplate/iniquityofgifts/acceptanceactual. Noinscriptionmagicallyremovesallguiltorpriestpersonallysinless. NTacceptancethroughJesusdirect1Pet2;foreheadnameRev22parallellabeled,nouniversalidenticalphysicalgoldplateforallChristians. Modestcoveringactual,nobroadmodernclothingrule/personalshameadvice. Outerblueclothfibertype/not-allpriestgarmentcolorsmodernexactmatchasserted.
+
+FLAGGED FOR REVIEW: Gen3:21actuallyclothesofskin,notexplicitfirstanimaldeath/bloodsacrificeGodperformedspecificatonementprocedure. Thosebaselineextensionsnotpromotedasfact. Noanimalphysiology/sin-geneticsruleexplainingChrist'ssinlessnessbecauseHolySpiritbirthorautomaticAdamcursenottransmitted. HebrewsstatesHisrealhumanity/sinlessness/atonement;publicusesactualtext. Rom12/Heb11checkedaswiderholyselfoffering/faiththeme,notallphysicalgarmentsmagicalspiritualcovering.
+
+## Validation
+
+Passed,observedexit0:focusedBSB/repository0errors219warnings/preservation/continuouscoverage28:43;unchangedfocusedrepeatgeneration;eight390pxreader/standalonechecks;actualNext28:1–5→28:6–14withtitlefocus/top188.515625px;explicit-projectHostingdry-run/deploy/live8MATCH. Cumulative78groups804actualBSBverses76plans6existing-studypositions72open;globalintentionalreviewedplanomissions53.

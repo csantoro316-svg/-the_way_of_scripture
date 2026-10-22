@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "7:9-12",
+    "label": "Daniel 7:9-12",
+    "slug": "daniel-7-9-12"
+  },
+  "section_title": "What happens when heaven’s court sits in judgment?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "9 As I continued to watch, thrones were set in place, and the Ancient of Days took His seat. His clothing was white as snow, and the hair of His head was like pure wool. His throne was flaming with fire, and its wheels were all ablaze. 10 A river of fire was flowing, coming out from His presence. Thousands upon thousands attended Him, and myriads upon myriads stood before Him. The court was convened, and the books were opened.",
+        "11 Then I kept watching because of the arrogant words the horn was speaking. As I continued to watch, the beast was slain, and its body was destroyed and thrown into the blazing fire. 12 As for the rest of the beasts, their dominion was removed, but they were granted an extension of life for a season and a time."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The vision turns from the beasts to a heavenly court. Thrones are set in place, the Ancient of Days takes His seat, and countless attendants stand before Him. Fire surrounds the throne, and the books are opened.",
+    "",
+    "The arrogant horn continues speaking, but its speech cannot prevent judgment. Daniel sees the fourth beast killed and its body destroyed by fire. The other beasts lose their dominion, though they are granted life for a further appointed period.",
+    "",
+    "The court changes the perspective of the vision. What appeared on earth as unchecked power is answerable to a Judge above it. The beasts’ rule has limits, and the decision about its end belongs to heaven."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/daniel/7.htm) connects the scene with the judgment of powers opposed to Christ. [Gaebelein](https://biblehub.com/commentaries/gaebelein/daniel/7.htm) places it at Christ’s return before the thousand-year reign, distinguishing it from Revelation’s final judgment.",
+    "",
+    "[Cambridge](https://biblehub.com/commentaries/cambridge/daniel/7.htm) explains the court and opened books as God judging the rulers’ deeds. The common center is divine judgment; the readers differ over how the scene fits into the sequence of later events."
+  ],
+  "god_plan_lines": [
+    "A related judgment scene appears in [Revelation 20:11–15](https://biblehub.com/bsb/revelation/20.htm): a throne, opened books and judgment according to deeds. There the dead themselves stand before the throne, and even Death and Hades are brought to their end.",
+    "",
+    "This is a parallel in the way judgment is pictured, without settling whether the passages describe the same occasion. Revelation extends the horizon beyond the downfall of a kingdom to the final accounting of human life and the end of death’s rule."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/7.htm",
+    "plan_basis": [
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-seven-review.md"
+  }
+}

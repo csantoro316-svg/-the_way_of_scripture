@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "4:39-42",
+    "label": "John 4:39-42",
+    "slug": "john-4-39-42"
+  },
+  "section_title": "How does one person’s witness lead others to Jesus?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "39 Many of the Samaritans from that town believed in Jesus because of the woman’s testimony, “He told me everything I ever did.” 40 So when the Samaritans came to Him, they asked Him to stay with them, and He stayed two days. 41 And many more believed because of His message. 42 They said to the woman, “We now believe not only because of your words; we have heard for ourselves, and we know that this man truly is the Savior of the world.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Many people from the Samaritan town believe because of the woman’s testimony about Jesus knowing her life. When they come to Him, they ask Him to stay, and He remains for two days.",
+    "",
+    "More people believe as they hear His own message. They tell the woman that their faith now rests on having heard for themselves, and they recognize Him as the Savior of the world. Her witness brings them to Jesus; His message deepens their own recognition of Him."
+  ],
+  "common_interpretation_lines": [
+    "Christian readers commonly see the woman’s witness and Jesus’ own teaching working together to bring people to faith. The confession that He is the Savior of the world recognizes a salvation reaching beyond one people, as Wesley also emphasizes in his note on verse 42. ([Wesley on John 4:42](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/))"
+  ],
+  "god_plan_lines": [
+    "After His resurrection, Jesus names Samaria among the places where His followers will bear witness in the Spirit’s power. Acts later records Philip proclaiming Christ in a Samaritan city, with people listening and great joy following. The welcome in this chapter is a parallel with the wider mission that carries His message beyond its first Jewish setting. ([Acts 1:8](https://biblehub.com/bsb/acts/1.htm); [Acts 8:4–8](https://biblehub.com/bsb/acts/8.htm))",
+    "",
+    "Paul describes the same connection between being sent, speaking, hearing and believing. God uses the witness of others so that people can hear Christ’s message for themselves. The woman’s part in this encounter gives a concrete example of that larger pattern. ([Romans 10:13–17](https://biblehub.com/bsb/romans/10.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/4.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-four-closing-review.md"
+  }
+}

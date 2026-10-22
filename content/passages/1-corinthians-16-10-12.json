@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "16:10-12",
+    "label": "1 Corinthians 16:10-12",
+    "slug": "1-corinthians-16-10-12"
+  },
+  "section_title": "How should believers receive people who serve the Lord?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 If Timothy comes, see to it that he has nothing to fear while he is with you, for he is doing the work of the Lord, just as I am. 11 No one, then, should treat him with contempt. Send him on his way in peace so that he can return to me, for I am expecting him along with the brothers.",
+        "12 Now about our brother Apollos: I strongly urged him to go to you with the brothers. He was not at all inclined to go now, but he will go when he has the opportunity."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul asks the Corinthians to make sure Timothy can be among them without fear. Timothy is doing the Lord’s work, as Paul is, and should not be treated with contempt. They are to send him on his way in peace.",
+    "",
+    "Paul also explains that he strongly encouraged Apollos to visit with the brothers. Apollos was not inclined to come at that time and would come when he had an opportunity. Paul does not give his reason.",
+    "",
+    "The letter began by challenging factions associated with teachers’ names. These travel arrangements show cooperation rather than a contest for an audience: Paul supports Timothy’s work and has encouraged Apollos to visit."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read these instructions as a call to receive faithful workers with respect rather than judging them by personal preference. [Calvin’s note on verse 12](https://biblehub.com/commentaries/calvin/1_corinthians/16.htm) points out that Paul himself encouraged Apollos to come. The text should not be made to say that Paul kept a rival away, or that it reveals Apollos’s private reason for delaying."
+  ],
+  "god_plan_lines": [
+    "[Philippians 2:19–24](https://biblehub.com/bsb/philippians/2.htm) describes Timothy’s genuine concern for others and his tested service with Paul in the gospel. That is the kind of work the Corinthians are being asked to welcome.",
+    "",
+    "Christ’s mission is carried forward through people who put His concerns ahead of their own status. Receiving such a worker well helps the wider work; it also resists the habit of turning servants into competing celebrities."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/16.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-sixteen-review.md"
+  }
+}

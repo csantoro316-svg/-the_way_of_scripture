@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "12:1-2",
+    "label": "Romans 12:1-2",
+    "slug": "romans-12-1-2"
+  },
+  "section_title": "What does worship look like in everyday life?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Therefore I urge you, brothers, on account of God’s mercy, to offer your bodies as living sacrifices, holy and pleasing to God, which is your spiritual service of worship. 2 Do not be conformed to this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what is the good, pleasing, and perfect will of God."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul turns from his explanation of God’s mercy to the life that responds to it. His appeal begins with what God has given, then calls believers to offer their bodies as living sacrifices. Daily, embodied life belongs within their service to God.",
+    "",
+    "The word translated service of worship is latreia (lah-TRAY-ah), λατρεία. It concerns service or worship of God; see [Thayer’s entry](https://biblehub.com/greek/2999.htm). Paul uses the language of sacrifice for people offering themselves while alive. Worship here reaches into what they do with their lives.",
+    "",
+    "The next verse joins that offering to a changed way of thinking. Believers are not to take their shape from the surrounding world’s patterns, but to be transformed through renewal of the mind. That renewal enables them to recognize and approve what pleases God. The call reaches inward to judgment and desires as well as outward to conduct."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand these verses as a call to wholehearted service in response to God’s mercy. Worship includes the way people live, and transformation includes the renewal of how they think. The appeal is grounded in God’s gift rather than a claim that an impressive sacrifice can place Him in someone’s debt."
+  ],
+  "god_plan_lines": [
+    "[1 Peter 2:4–10](https://biblehub.com/bsb/1_peter/2.htm) describes believers as a spiritual house and holy priesthood, offering sacrifices acceptable to God through Jesus Christ. Their new belonging grows from receiving mercy. This provides a wider setting for Paul’s picture of people offering themselves in response to God.",
+    "",
+    "[Hebrews 13:15–16](https://biblehub.com/bsb/hebrews/13.htm) names praise, doing good and sharing as sacrifices pleasing to God through Jesus. Together, these passages show sacrificial language reaching into the life of God’s people—their words, care for others and service—because of Christ’s work."
+  ],
+  "current_position_lines": [
+    "Worship as the Early Church Knew It understands this passage as calling believers to offer their lives in service to God. Worship reaches beyond a gathering or a song into obedience, sacrifice and care for others. The study connects the believer’s living sacrifice with the wider New Testament picture of God’s people serving Him through Christ."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/12.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-romans-twelve-opening-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It (content/studies/worship.md, lines 94–104 and 303–318)"
+  }
+}

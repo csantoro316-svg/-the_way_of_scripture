@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "17:22-23",
+    "label": "Matthew 17:22-23",
+    "slug": "matthew-17-22-23"
+  },
+  "section_title": "Jesus Again Announces His Death and Resurrection",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "22 When they gathered together in Galilee, Jesus told them, “The Son of Man is about to be delivered into the hands of men. 23 They will kill Him, and on the third day He will be raised to life.” And the disciples were deeply grieved."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Gathered in Galilee, the disciples again hear Jesus say that the Son of Man will be delivered into human hands, killed, and raised on the third day. This follows the announcement in chapter 16 and the mountain conversation about His resurrection. He continues preparing them for what is coming.",
+    "",
+    "The word for delivered is παραδίδωμι, *paradidōmi* (pah-rah-DID-oh-mee), to hand over or give into another's power. [Thayer's entry](https://biblehub.com/greek/3860.htm) includes this verse. Jesus describes the danger ahead plainly, while also naming resurrection as part of the same coming events.",
+    "",
+    "Matthew records the disciples' deep grief. The related account in [Mark 9:30–32](https://biblehub.com/bsb/mark/9.htm) also describes their lack of understanding and fear of asking Him. Hearing the prediction is not yet the same as understanding how death and resurrection belong within His mission."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as Jesus repeating the necessary preparation for His suffering, death, and resurrection. [Wesley on Matthew 16:21](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) describes the disciples learning that the Messiah enters glory through suffering, while the Catholic [Catechism, 554](https://www.vatican.va/archive/ENG0015/__P1L.HTM), likewise places that difficult announcement at the heart of their instruction."
+  ],
+  "god_plan_lines": [
+    "Peter later proclaims that Jesus' death happened within God's purpose while those who put Him to death were responsible for their actions ([Acts 2:22–24](https://biblehub.com/bsb/acts/2.htm)). He also announces that God raised Him. The suffering the disciples now grieve over will become central to the message they bring.",
+    "",
+    "[Romans 4:23–25](https://biblehub.com/bsb/romans/4.htm) connects Jesus being delivered to death with our sins, and His resurrection with our being put right with God. The prediction is therefore more than advance information about a tragedy. It points toward the saving work through which God brings people to faith and life."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/17.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-seventeen-completion-review.md"
+  }
+}

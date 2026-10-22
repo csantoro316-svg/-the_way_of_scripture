@@ -10,19 +10,39 @@
     {
       "label": "BSB",
       "paragraphs": [
-        "22 Now Joseph and his father\u2019s household remained in Egypt, and Joseph lived to the age of 110. 23 He saw Ephraim\u2019s sons to the third generation, and indeed the sons of Machir son of Manasseh were brought up on Joseph\u2019s knees.",
-        "24 Then Joseph said to his brothers, \u201cI am about to die, but God will surely visit you and bring you up from this land to the land He promised on oath to Abraham, Isaac, and Jacob.\u201d 25 And Joseph made the sons of Israel take an oath and said, \u201cGod will surely attend to you, and then you must carry my bones up from this place.\u201d",
+        "22 Now Joseph and his father’s household remained in Egypt, and Joseph lived to the age of 110. 23 He saw Ephraim’s sons to the third generation, and indeed the sons of Machir son of Manasseh were brought up on Joseph’s knees.",
+        "24 Then Joseph said to his brothers, “I am about to die, but God will surely visit you and bring you up from this land to the land He promised on oath to Abraham, Isaac, and Jacob.” 25 And Joseph made the sons of Israel take an oath and said, “God will surely attend to you, and then you must carry my bones up from this place.”",
         "26 So Joseph died at the age of 110. And they embalmed his body and placed it in a coffin in Egypt."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 50**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "Joseph remains in Egypt with his father's household and lives to 110. He sees later generations of Ephraim's family and receives the children of Machir, Manasseh's son, on his knees. The account closes his life with the growing family around him.",
+    "",
+    "As death approaches, he tells his brothers that God will attend to them and bring them to the land sworn to Abraham, Isaac, and Jacob. The promise does not depend on Joseph remaining alive to protect them. God will continue the work after the generation that came to Egypt has died.",
+    "",
+    "Joseph requires an oath that his bones be carried up when that deliverance comes. He is embalmed and placed in a coffin in Egypt. Unlike Jacob's immediate burial in Canaan, his burial there must wait for the family's departure. Genesis ends with a body in Egypt and a promise pointing beyond it."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Death of Joseph** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 50** remains the first control on meaning."
+    "Christians commonly understand Joseph's instructions as confidence in God's promise beyond his own death. [Wesley's notes on Genesis 50:24–26](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) emphasize that Egypt is not the family's final home and that Joseph's remains become a testimony to the return he expects."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 11:22](https://biblehub.com/bsb/hebrews/11.htm) directly names this as an act of faith: Joseph speaks of the coming exodus and gives instructions about his bones. His final concern reaches beyond the achievements of his own life to what God has promised the people.",
+    "",
+    "The later narrative follows through. [Exodus 13:19](https://biblehub.com/bsb/exodus/13.htm) records Moses taking Joseph's bones when Israel leaves Egypt, and [Joshua 24:32](https://biblehub.com/bsb/joshua/24.htm) records their burial at Shechem. The coffin at Genesis' close therefore looks toward deliverance and inheritance. The book ends with expectation of God's continuing faithfulness."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/50.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-blessings-and-hope-review.md"
+  }
 }

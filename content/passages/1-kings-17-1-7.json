@@ -1,0 +1,67 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "17:1-7",
+    "label": "1 Kings 17:1-7",
+    "slug": "1-kings-17-1-7"
+  },
+  "section_title": "Who sustains Elijah when the rain stops?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Now Elijah the Tishbite, who was among the settlers of Gilead, said to Ahab, “As surely as the LORD, the God of Israel, lives, before whom I stand, there will be neither dew nor rain in these years except at my word!”",
+        "2 Then a revelation from the LORD came to Elijah: 3 “Leave here, turn eastward, and hide yourself by the Brook of Cherith, east of the Jordan. 4 And you are to drink from the brook, and I have commanded the ravens to feed you there.” 5 So Elijah did what the LORD had told him, and he went and lived by the Brook of Cherith, east of the Jordan. 6 The ravens would bring him bread and meat in the morning and evening, and he would drink from the brook. 7 Some time later, however, the brook dried up because there had been no rain in the land."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Elijah the Tishbite appears before Ahab and announces that neither dew nor rain will come except at his word. He speaks as a servant of the living LORD, the God of Israel, in the setting of Ahab’s turn to Baal.",
+    "",
+    "The drought fits the warning in [Deuteronomy 11:16–17](https://biblehub.com/bsb/deuteronomy/11.htm): turning to other gods would bring the shutting of the heavens and the loss of the land’s produce.",
+    "",
+    "The LORD then sends Elijah into hiding beside the Brook of Cherith, east of the Jordan. Ravens bring bread and meat morning and evening, and he drinks from the brook. Eventually it dries up too. God’s servant is being sustained within the same drought he has announced."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) and [Gill](https://biblehub.com/commentaries/gill/1_kings/17.htm) connect Elijah’s announcement with his prayer, drawing on James’ later account. They read his words as service to God’s purpose, rather than independent control of the weather.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/17.htm) emphasizes the unexpected provision through ravens and the need for continuing dependence when the brook dries. The supply comes as God directs it, and Elijah must continue following His word as circumstances change."
+  ],
+  "god_plan_lines": [
+    "[James 5:16–18](https://biblehub.com/bsb/james/5.htm) explicitly returns to Elijah’s prayer. James stresses that Elijah was a person like other believers, yet his earnest prayer was effective: rain stopped, and later prayer accompanied its return.",
+    "",
+    "The New Testament therefore presents the episode as encouragement to pray, with the power resting in God. Elijah’s place in the story is that of a servant whose prayer matters within what God is doing, not a man possessing a power separate from Him."
+  ],
+  "current_position_lines": [
+    "Our [Prayer and Faith](../studies/prayer-and-faith.html) study reads Elijah’s prayer as a response to God’s declared purposes, rather than a way of producing whatever outcome a person wants. The drought belongs to God’s warning about idolatry; Elijah serves the word of the God to whom he prays."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/17.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-seventeen-review.md",
+    "position_source_detail": "Prayer and Faith, section James 5:14-16, paragraph on Elijah (content/studies/prayer_and_faith.md:340)."
+  }
+}

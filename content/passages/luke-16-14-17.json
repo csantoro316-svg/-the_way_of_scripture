@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "16:14-17",
+    "label": "Luke 16:14-17",
+    "slug": "luke-16-14-17"
+  },
+  "section_title": "What changes with the kingdom’s announcement, and what does not fail?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 The Pharisees, who were lovers of money, heard all of this and were scoffing at Jesus. 15 So He said to them, “You are the ones who justify yourselves before men, but God knows your hearts. For what is prized among men is detestable before God.",
+        "16 The Law and the Prophets were proclaimed until John. Since that time, the gospel of the kingdom of God is being preached, and everyone is forcing his way into it. 17 But it is easier for heaven and earth to pass away than for a single stroke of a pen to drop out of the Law."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The Pharisees hear Jesus’ teaching about money and scoff. Luke identifies them as lovers of money, and Jesus answers that God knows the hearts beneath the righteousness they present to other people.",
+    "",
+    "He then speaks about the Law and the Prophets being proclaimed until John, followed by the preaching of God’s kingdom and people forcing their way into it. John marks a turning point in the announcement.",
+    "",
+    "The next sentence guards against treating that turning point as the failure of God’s word. Jesus says it is easier for heaven and earth to pass away than for a single stroke to drop out of the Law. The new proclamation stands beside confidence in what God has already spoken."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly recognize both a turning point with John and the continuing reliability of God’s word. The Catholic bishops’ notes describe the movement from promise toward fulfillment, while Wesley says the gospel does not destroy the Law and understands the entry language as people receiving the message with great earnestness. ([USCCB note on Luke 16:16](https://bible.usccb.org/bible/luke/16); [Wesley on Luke 16:16–17](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))"
+  ],
+  "god_plan_lines": [
+    "Romans describes God’s righteousness being revealed through faith in Jesus Christ, while the Law and the Prophets bear witness to it. What God is accomplishing through Christ is therefore presented as the fulfillment toward which His earlier revelation points. ([Romans 3:21–26](https://biblehub.com/bsb/romans/3.htm))",
+    "",
+    "After the resurrection, Jesus explains the Scriptures concerning Himself, including His suffering, resurrection and the proclamation of repentance and forgiveness to the nations. Luke’s account moves from the kingdom’s announcement here toward that fuller understanding of what God has promised and brought about. ([Luke 24:25–27, 44–47](https://biblehub.com/bsb/luke/24.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/16.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-sixteen-closing-review.md"
+  }
+}

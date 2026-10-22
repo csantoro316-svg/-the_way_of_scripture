@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "2:42-47",
+    "label": "Acts 2:42-47",
+    "slug": "acts-2-42-47"
+  },
+  "section_title": "What does life together look like after Pentecost?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "42 They devoted themselves to the apostles’ teaching and to the fellowship, to the breaking of bread and to prayer. 43 A sense of awe came over everyone, and the apostles performed many wonders and signs.",
+        "44 All the believers were together and had everything in common. 45 Selling their possessions and goods, they shared with anyone who was in need. 46 With one accord they continued to meet daily in the temple courts and to break bread from house to house, sharing their meals with gladness and sincerity of heart, 47 praising God and enjoying the favor of all the people. And the Lord added to their number daily those who were being saved."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Luke turns from the large response to Peter’s message to the community’s continuing life. The believers devote themselves to the apostles’ teaching, fellowship, breaking bread and prayer. Their commitment continues beyond the excitement of one day.",
+    "",
+    "The verb translated devoted themselves is προσκαρτερέω, proskartereō (prohs-kar-teh-REH-oh). [Thayer’s lexicon](https://biblehub.com/greek/4342.htm) explains it as continuing steadfastly or giving constant attention, specifically including Acts 2:42. This describes sustained devotion rather than an occasional interest.",
+    "",
+    "Luke describes awe at the apostles’ signs, practical sharing with those in need, daily gathering in the temple courts, meals in homes and praise of God. The Lord continues adding those being saved. Teaching, prayer and care for people appear as parts of the same shared life."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this passage as a picture of the early believers’ devotion and mutual care. [Calvin on verse 42](https://biblehub.com/commentaries/calvin/acts/2.htm) emphasizes all four practices, including fellowship expressed in practical help. [Wesley on verse 45](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) sees the sharing as an expression of love that should continue to matter for the church.",
+    "",
+    "The breaking of bread receives more than one explanation. Calvin understands verse 42 as referring to the Lord’s Supper, while reading verse 46 as ordinary meals together. Wesley connects the breaking of bread in both places with the Lord’s Supper, while also recognizing their shared meals. The text places worship and everyday fellowship close together.",
+    "",
+    "The sharing also raises questions about possessions. The Reformed [Westminster Confession, chapter 26](https://www.opc.org/wcf.html), requires believers to help one another according to their abilities and needs while affirming that fellowship does not abolish each person’s ownership of goods. Wesley’s emphasis is that the measure of love shown here should continue. Neither explanation makes indifference to a neighbor’s need the point of the passage."
+  ],
+  "god_plan_lines": [
+    "The Spirit’s gift is followed by people learning, praying, praising God and caring for one another. The new community is more than an audience for miracles. Its shared life makes the message visible in ordinary relationships.",
+    "",
+    "[Hebrews 13:15–16](https://biblehub.com/bsb/hebrews/13.htm) similarly joins praise of God with doing good and sharing, describing both as sacrifices pleasing to Him. That wider connection helps us see the temple gatherings and home life here as parts of a life offered to God, rather than unrelated religious and practical activities."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/2.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-two-closing-review.md"
+  }
+}

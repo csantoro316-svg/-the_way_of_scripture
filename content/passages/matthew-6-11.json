@@ -5,17 +5,57 @@
     "label": "Matthew 6:11",
     "slug": "matthew-6-11"
   },
-  "versions": [],
-  "context_lines": [
-    "In **Matthew 6**, part of the Sermon on the Mount, Jesus contrasts hypocritical religion with true life before the Father. The chapter moves through giving, prayer, fasting, treasure, anxiety, and kingdom-seeking, so every individual saying must be read inside that unified call to trust the Father and seek His will first."
+  "section_title": "Our Daily Bread",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "11 Give us this day our daily bread."
+      ]
+    }
   ],
-  "explanation_lines": [
-    "Once this connection is seen, the apparent contradiction between Matthew 6:11 and Matthew 6:25-34 dissolves, because both passages turn out to be saying the same thing from two different directions. \"Give us this day our daily bread\" is not, at its deepest level, a request for groceries \u2014 it is the cry of a soul declaring its dependence on Christ Himself as the only true sustenance. \"Seek first His kingdom\" in verse 33 is the same instruction stated plainly: seek Him, not provision, and everything else will be added as a consequence. The two passages stop competing once \"daily bread\" is understood as a request for continued life in Christ rather than a request for physical food.",
+  "context_lines": [
+    "This request follows the petitions for God's name, kingdom, and will in [Matthew 6:9–13](https://biblehub.com/bsb/matthew/6.htm). The person praying depends on the Father to give what sustains life. The request is for us, drawing others into that dependence, and for this day, rather than claiming control of the whole future.",
     "",
-    "This is the language the daily bread petition is actually speaking. It is the prayer form of abiding \u2014 a daily, ongoing cry for continued union with the only source of true life, not a request directed at circumstances or material need.",
+    "The word translated daily is ἐπιούσιος, *epiousios* (eh-pee-OO-see-oss). [Thayer's Greek Lexicon](https://biblehub.com/greek/1967.htm) discusses necessary sustenance and the coming day among its explanations. The term is unusual, and its formation has been debated. It should not be made to prove a whole interpretation by itself.",
     "",
-    "- **Jerome (c. 347-420 AD):** Jerome, translating the Gospels into Latin roughly a century and a half after Origen, made an unusual choice. In Luke's version of the Lord's Prayer he translated *epiousios* (eh-pee-OOH-see-os) with the ordinary Latin word for \"daily.\" But in Matthew's version of the same Greek word, he instead coined a new Latin word that did not previously exist \u2014 *supersubstantialem*, \"supersubstantial.\" Jerome explained his own reasoning directly: he understood this bread as bread \"above all other substances, more excellent than all creatures\" \u2014 and he identified it specifically with the body of the Lord. In other words, Jerome's choice of word was not a translation difficulty he stumbled into by accident. It was a deliberate theological judgment that the bread Jesus had in mind in Matthew 6:11 was not ordinary food at all, but Christ Himself. Like Origen before him, Jerome arrived at the same conclusion this document reaches through John 6 \u2014 working from the Greek text itself, more than a thousand years before anyone had reason to argue the point for any other purpose.",
+    "The ordinary word for bread can also mean food more broadly. [Thayer's entry for bread](https://biblehub.com/greek/740.htm) lists that use in Matthew 6:11 and separately explains Jesus' description of Himself as the bread of life in John 6. Bread therefore has an ordinary use for food and a use as a picture of life in Christ. The context matters in deciding how it is being used.",
     "",
-    "Both men were not guessing. Working directly from the Greek centuries before this study began, Origen and Jerome independently reached the same conclusion reached here through John 6 \u2014 that \"daily bread\" was never meant to be a request for food. This reading is not a modern reinterpretation forced onto the text. It predates the tradition that later flattened the verse into a simple request for material provision. Returning to the original language and the earliest readers does not introduce something new into the text \u2014 it recovers what was already there before tradition obscured it."
-  ]
+    "[Luke 11:1–4](https://biblehub.com/bsb/luke/11.htm) places a similar daily request within Jesus' teaching on prayer. Later in Matthew 6, Jesus speaks of the Father's knowledge of food and clothing needs and calls His hearers to seek God's kingdom instead of being ruled by anxiety. Readers bring that surrounding teaching to the different understandings below."
+  ],
+  "common_interpretation_lines": [
+    "In the Reformed tradition, the [Westminster Larger Catechism, question 193](https://www.opc.org/lc.html), understands the request as asking God for sufficient provision for this life, with contentment and a right use of what He gives.",
+    "",
+    "Catholic teaching includes bodily nourishment, God's Word, and Christ in the Eucharist (the Lord's Supper); see the [Compendium, questions 592–593](https://press.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_en.html). [Wesley's note on Matthew 6:11](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) also includes the needs of soul and body, the bread of the Lord's Supper, and God's grace. These readings share dependence on God while differing over how the petition includes spiritual nourishment."
+  ],
+  "god_plan_lines": [
+    "Bread and dependence have a larger place in Scripture. In [Exodus 16:4–5,14–21](https://biblehub.com/bsb/exodus/16.htm), God provides manna, and Israel gathers what is needed day by day. That account gives a useful parallel for receiving life and provision from God rather than treating them as independently secured.",
+    "",
+    "In [John 6:26–35,47–58](https://biblehub.com/bsb/john/6.htm), Jesus explicitly compares the wilderness manna with the life He gives. The manna's recipients still died; the life He gives lasts beyond death. This connection moves from God's sustaining people in the wilderness to His Son giving life to the world. This is a comparison with the prayer's theme of dependence; John does not directly explain Matthew 6:11."
+  ],
+  "current_position_lines": [
+    "Our study Prayer and Faith connects this petition with Jesus' teaching in John 6 about Himself as the bread of life. It understands daily bread as dependence on Christ for continued life in Him, rather than a request for physical food. In that reading, the request remains centered on seeking Him and living in His will. The study develops the connection with abiding in Christ in John 15."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/6.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-model-prayer-and-forgiveness-review.md",
+    "position_source_detail": "Prayer and Faith — Christ as the Living Bread, How This Resolves the Tension"
+  }
 }

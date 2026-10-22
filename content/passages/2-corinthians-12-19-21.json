@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "2 Corinthians",
+    "citation": "12:19-21",
+    "label": "2 Corinthians 12:19-21",
+    "slug": "2-corinthians-12-19-21"
+  },
+  "section_title": "Why does Paul’s love include a call to repent?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "19 Have you been thinking all along that we were making a defense to you? We speak before God in Christ, and all of this, beloved, is to build you up.",
+        "20 For I am afraid that when I come, I may not find you as I wish, and you may not find me as you wish. I fear that there may be quarreling, jealousy, rage, rivalry, slander, gossip, arrogance, and disorder. 21 I am afraid that when I come again, my God will humble me before you, and I will be grieved over many who have sinned earlier and have not repented of their acts of impurity, sexual immorality, and debauchery."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul explains the purpose of all he has been saying. He speaks before God in Christ, and his concern is to build up the people he calls beloved. His defense serves their good.",
+    "",
+    "He fears that his arrival may expose a community neither he nor they want to see. He names quarreling, jealousy, rage, rivalry, slander, gossip, arrogance and disorder. These are problems affecting how people live together.",
+    "",
+    "He also fears grief over those who have continued in impurity, sexual immorality and debauchery without repenting. His concern reaches beyond settling the dispute about his reputation to the life of the congregation itself.",
+    "",
+    "The warning gives them opportunity to respond before he arrives. Building them up includes facing conduct that harms their faithfulness to Christ and their care for one another."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a loving but serious appeal for repentance. The [USCCB notes on verses 19–21](https://bible.usccb.org/bible/2corinthians/12) connect Paul’s concern for building the community with its unresolved moral disorders. [Wesley’s note on verse 19](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-the-corinthians/) likewise emphasizes that he speaks for their sake."
+  ],
+  "god_plan_lines": [
+    "[Colossians 3:1–17](https://biblehub.com/bsb/colossians/3.htm) places changed conduct within life shared with the risen Christ. It describes the new self being renewed in the Creator’s image, then calls believers to compassion, forgiveness, love and peace as one body.",
+    "",
+    "That wider purpose helps explain why the disorders at Corinth matter. God is forming a people whose common life reflects Christ. Turning from destructive conduct belongs to that renewal and makes room for the love and unity He calls them to practice."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_corinthians/12.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-corinthians-twelve-closing-review.md"
+  }
+}

@@ -1,0 +1,42 @@
+# Acts 4 editorial review
+
+Five groups:1–12/13–22/retained23–31/retained29–31/32–37. Two prayer positions from existing developed studies; three open. WholeActsPDFthrough62read,includingalllesson4(42–52)and5A(53–62). Page46tail/47and59openingrecoveredaftertruncatedcalls. No baseline teacher/ministry name,borrowed outlineorunsupportedpolemic publicly.
+
+## Sources actually read
+
+ActualBibleHubBSB4all37versesread. DirectBSBActs23:8/5:4,Ps118:22–23,Ps2all12,Luke12:11–12/21:12–15,Deut15:4–11,1John3:16–18,Eph6:18–20read in freshlyfetchedchapterpages. SadduceeresurrectionbeliefsupportedbyActs23itself,notblankettemplehistory. Psalm2explicitapplicationretainedwithoutrestrictingtoonlyfutureTribulation. Mosespovertyparallelclearlylabeled,including15:11continuingpovertyinstead ofunconditionalprosperityformula.
+
+WholeWesleyIV5598charsread https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/ .4cumulative5000,6Annas/Caiaphas,12healingtosalvation,13ordinarynotexclusivelyilliterate,24–31prayer/freshfilling,32–37sharingchecked. Socratesquote/history,Leviteestategeography,size andprivateintentnotadopted. ActualCalvin4 https://biblehub.com/commentaries/calvin/acts/4.htm read12first2600chars,19secondheadingfirst1800chars,31corewhole(plusprintedadjacentverseblocks)and34first1800chars.12Christsource/greaterhealing,19Godauthority,31prayerboldness,34needsbasedsalesratherthaneverythingallverified. No antiCatholicrhetoricorJosephonyfieldspeculationcopied. ActualUSCCB4allnotesread https://bible.usccb.org/bible/acts/4 ;emperorhistory,templehierarchy,GrecoRomanearthquakesnotindependentlyverifiedorpubliclyasserted.
+
+ActualThayer3954fulllexicalentrybeforeTopicalread https://biblehub.com/greek/3954.htm :freedomspeech/boldness,explicit4:13/29/31. PublicGreeknotnecessarythisbatch;ordinaryboldnesssufficient. EarlierJohn18JosephusAnnas/Caiaphasread remains historicalbackground,notneededtonewdictatehighpriestlaworclaimsimultaneouslegitimateofficeholders.
+
+Actualexistingstudiesread: content/studies/what_does_prayer_look_like.mdsection8(146–162),content/studies/prayer_and_faith.mdActs4:29–31(181–190). Positive developed prioritiesboldnessandGod'sworkused. WhatDoesPrayerclaimaskonlyonethingoverlookshealing/signs;notcopied. ActualpassageandPrayerFaithbothincludepower/healing. No universalreliefrequestprohibitionnewlyoriginated. StudyquotesareoldernonBSBwording;allpassageversionsusefreshactualBSB. AllActs4studyreferencehitssearched;no directdevelopedpositionfoundforopeningorclosinggroups.
+
+## Acts4:1–12
+Plan section: included, because (a):explicitPs118cornerstoneapplicationandLuke12promisedSpirithelpbeforeauthorities.
+Position source: none.
+FLAGGED FOR REVIEW: No priestsallonegroup/24Sadduceechiefpriests/captainexactrank/lawprohibitsanyunlicensedteachingorallnighttrialsindependentlyconfirmed;omit. No 5000newplus3000equals8000count;BSBcumulativemenabout5000. No persecutionalwaysmaximalgrowth/pruningguaranteehistoricalclaim. No modernordination/denominationsallSadduceescorruptcaricature. No twolegitimatehighpriestsruleorAnnasactualofficecontemporaneouslegalverdict. No healedmanarrestedcertainlyorleadersprivatemotivesbeyondnarrative. No healingmeansallfaithfulpersonalrequestguarantee. No JesusuniqueSaviorconvertedintoownerpositionondeathsofunheardgroups.
+
+## Acts4:13–22
+Plan section: included, because (a)/(c):Luke21predictedarrestaswitnessopportunity.
+Position source: none.
+FLAGGED FOR REVIEW: Unschoolednotproofilliteracyoralllearningbad. No Godleftdisabledexact40yearssolelytoproveauthenticityclaim;4:22saysover40anddoesnotgiveexclusivereason. No allsocietyunquestioninglyobeyedleaders. No universaleverylawdisobeyedbasedonpersonalfeeling;specificcommandagainstGod'scommissionretained. No nameJesusunpronounceablebyallauthoritiesrule. No Socrateshistoricalparallelwithoutprimarychecking. Publicdoesnotrelatecurrentlegaladviceorpartisanapplication.
+
+## Acts4:23–31
+Plan section: included, because (a)/(c):explicitPs2MessiahoppositionandEph6prayerforboldwitnessinchains.
+Position source: Prayer and Faith; What Does Prayer Look Like?
+FLAGGED FOR REVIEW: No take-notelexicallynecessarilyrevengeclaim;notestablished. No allcommunitypersecutionunthinkable/Spiritnewlyconnectedprivateemotioncertainty. No oneandonlyrequestclaim;healing/signsretained. No shakingearthquakemeasurementorallprayersmustshakebuildings/fillingsameasnewconversion. No Godauthorssin/humansinnocentsystemimposed;prayerretainsactualplanandopposition. No Psalm2onlyfuturethusnopastapplicationclaim. Existingstudyreliefcomparisonsnotextendedbeyondpositivepurposehere.
+
+## Acts4:29–31 legacy
+Plan section: included, because (a)/(c):samePsalm2/Ephesiansmissionconnectionwithinfullprayercontext.
+Position source: Prayer and Faith; What Does Prayer Look Like?
+FLAGGED FOR REVIEW: Same23–31limits;originalURLpreserved. Nospecialguaranteeeveryrequestedmodernmiraclebecauseofapostolicexample.
+
+## Acts4:32–37
+Plan section: included, because (b)/(c):labeledDeut15openhand/no-needyparallel,1John3materiallove.
+Position source: none.
+FLAGGED FOR REVIEW: No allapostlesaloneeverymiracle/allgiftsceasewhenlastdiedclaimhere. No Jerusalemexact8000size/economicrecordswithoutindependentchecks. No equalizedincomesocialsystemdeducedfromneedbaseddistribution. No Greekprovesexactpartialproceedsforall;Calvininterpretationattributedplainly. No allpropertyownershipabolished;Acts5:4readandkeptinbackground. No Barnabascertainlyoneof500risenwitnesses;1Cor15doesnotnamehim. No largeCyprusestateproven,boundaryLeviteownershipviolation,ormotiveonlyvirtue. BarnabaslaterMarkcousin/Paulcollaborationnotneededforexactcurrentcontext;notusedasuncheckedbiography.
+
+## Validation
+
+FivefreshBSBchecks/eighttestspass;zeroerrors309knownwarnings. Coverage/source/index/preservation/navigation/idempotencepass. Allfive390pxreaderandstandalonechecks pass;actualNext13–22to23–31focusedtitle188px. Dryrun/actualHostingexit0;nineaffectedandsevenwholechapterlivefilesmatch. Acts18reviewedpages/136actualBSBverses/18plans/5studypositions/13open;41sources/23unreviewedlegacyreferences.

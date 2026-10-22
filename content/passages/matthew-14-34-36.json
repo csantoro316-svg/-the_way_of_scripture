@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "14:34-36",
+    "label": "Matthew 14:34-36",
+    "slug": "matthew-14-34-36"
+  },
+  "section_title": "Healing at Gennesaret",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "34 When they had crossed over, they landed at Gennesaret. 35 And when the men of that place recognized Jesus, they sent word to all the surrounding region. People brought all the sick to Him 36 and begged Him just to let them touch the fringe of His cloak. And all who touched Him were healed."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After crossing the lake, Jesus and the disciples land at Gennesaret. People recognize Him and send word through the surrounding region. They bring the sick and ask that they might touch even the fringe of His cloak. Matthew closes by saying that all who touch Him are healed.",
+    "",
+    "The Greek word for fringe is κράσπεδον, *kraspedon* (KRAS-peh-don), an edge, fringe, or tassel on a garment. [Thayer's entry](https://biblehub.com/greek/2899.htm) connects this usage with the tassels prescribed in [Numbers 15:37–41](https://biblehub.com/bsb/numbers/15.htm). Those tassels reminded Israel to remember and obey God's commands.",
+    "",
+    "The scene recalls the woman who touches Jesus' garment in [Matthew 9:20–22](https://biblehub.com/bsb/matthew/9.htm), but now many sick people are brought to Him. The focus remains on Jesus and the healing people receive from Him. Matthew does not record a separate conversation with each person."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as another account of Jesus' healing power and people coming to Him with confidence that He can help. The garment recalls the earlier woman's approach, while the spread of the news brings the need of a whole region into view. Matthew describes the healings without giving a separate explanation of each person's understanding or motives."
+  ],
+  "god_plan_lines": [
+    "A possible parallel connects these healings with [Malachi 4:2](https://biblehub.com/bsb/malachi/4.htm), which pictures healing coming with the rising sun of righteousness. The Hebrew word for wings is כָּנָף, *kānāph* (kah-NAHF). [Brown–Driver–Briggs](https://biblehub.com/hebrew/3671.htm) gives both wing and garment corner among its meanings, while identifying the Malachi image with the sun's wings.",
+    "",
+    "[Matthew Poole's commentary on Malachi 4:2](https://biblehub.com/commentaries/poole/malachi/4.htm) suggests that the verse may also point toward people being healed as they touch Christ's garment. That is a possible parallel, not a connection Matthew explicitly announces. It helps us consider the promised healing alongside what Jesus brings, without assuming the crowd had worked out that connection for themselves."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/14.htm",
+    "plan_basis": [
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-fourteen-review.md"
+  }
+}

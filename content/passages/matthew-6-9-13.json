@@ -5,16 +5,63 @@
     "label": "Matthew 6:9-13",
     "slug": "matthew-6-9-13"
   },
+  "section_title": "The Prayer Jesus Teaches",
   "versions": [
     {
-      "label": "LSB",
-      "text": "'Pray, then, in this way: \"Our Father who is in heaven, hallowed be Your name. Your kingdom come. Your will be done, on earth as it is in heaven. Give us this day our daily bread. And forgive us our debts, as we also have forgiven our debtors. And do not lead us into temptation, but deliver us from evil.\"'"
+      "label": "BSB",
+      "paragraphs": [
+        "9 So then, this is how you should pray: ‘Our Father in heaven, hallowed be Your name. 10 Your kingdom come, Your will be done, on earth as it is in heaven.",
+        "11 Give us this day our daily bread. 12 And forgive us our debts, as we also have forgiven our debtors. 13 And lead us not into temptation, but deliver us from the evil one.’"
+      ]
     }
   ],
   "context_lines": [
-    "In **Matthew 6**, part of the Sermon on the Mount, Jesus contrasts hypocritical religion with true life before the Father. The chapter moves through giving, prayer, fasting, treasure, anxiety, and kingdom-seeking, so every individual saying must be read inside that unified call to trust the Father and seek His will first."
+    "After warning against prayer for public attention and empty word counts, Jesus gives His followers a prayer addressed to their Father. Its opening requests seek honor for God's name, the coming of His kingdom, and the doing of His will. Hallowed means honored as holy; see [Thayer's explanation of the verb in Matthew 6:9](https://biblehub.com/greek/37.htm). The Father is approached with both trust and reverence.",
+    "",
+    "The prayer then asks for bread, forgiveness, and protection. These requests remain addressed to the Father whose will has just been sought. The repeated our and us place the speaker among other people who share these needs. Prayer reaches beyond the concerns of one isolated person.",
+    "",
+    "The word translated daily is ἐπιούσιος, *epiousios* (eh-pee-OO-see-oss). [Thayer's Greek Lexicon](https://biblehub.com/greek/1967.htm) discusses explanations involving necessary sustenance and the coming day. Its exact formation is debated. The word alone does not settle whether a reader should understand the bread as physical provision, spiritual nourishment, or both; those readings are explained below.",
+    "",
+    "The debts of verse 12 represent sins. [Thayer's Greek Lexicon](https://biblehub.com/greek/3783.htm) identifies that use of the debt word here, and [Luke 11:1–4](https://biblehub.com/bsb/luke/11.htm) gives a related prayer that explicitly asks forgiveness of sins. Jesus connects asking for mercy with forgiving others, then returns to that connection in Matthew 6:14–15.",
+    "",
+    "The final request asks for protection from temptation and the evil one. [James 1:12–17](https://biblehub.com/bsb/james/1.htm) distinguishes enduring a trial from being drawn into sin and says God does not tempt people to evil. In [Matthew 26:41](https://biblehub.com/bsb/matthew/26.htm), Jesus likewise tells His disciples to watch and pray so that they do not enter into temptation. The request expresses dependence on God for protection and faithfulness."
   ],
-  "explanation_lines": [
-    "Jesus introduces this prayer with an important instruction that is easy to miss: \"pray, then, in this way\" \u2014 not \"pray these exact words.\" He is not handing His disciples a script to recite. He is giving them a structure, a pattern for how a right relationship with God should shape the content and order of prayer. This matters enormously, because the very same chapter, just a few verses earlier, condemns mechanical repetition in prayer (Matthew 6:7) \u2014 making it more than a little ironic that this model prayer became, in later church history, the most repeated, recited prayer in all of Christianity. Jesus was not establishing a liturgy. He was teaching His disciples how to think about approaching the Father."
-  ]
+  "common_interpretation_lines": [
+    "Christians commonly use this prayer as a guide to approaching God with trust, reverence, and dependence. [Wesley on Matthew 6:9](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) and the Reformed [Westminster Larger Catechism, question 187](https://www.opc.org/lc.html), also allow its actual words to be prayed sincerely; they distinguish that use from a mechanical formula.",
+    "",
+    "Readers differ in how fully they understand the bread to include spiritual nourishment. The [Westminster Larger Catechism, question 193](https://www.opc.org/lc.html), explains the request as God's provision for the needs of this life. Catholic teaching includes food, God's Word, and Christ received in the Eucharist (the Lord's Supper); see its [Compendium, questions 592–593](https://press.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_en.html). [Wesley on verse 11](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) likewise includes needs of both body and soul, including the bread of the Lord's Supper and God's grace.",
+    "",
+    "The connection between receiving and extending forgiveness is also understood within different accounts of the Christian life. The Reformed [Westminster Confession, 11.5](https://www.opc.org/wcf.html), distinguishes God's continuing acceptance of those He has declared righteous through Christ from His disapproval and the damaged relationship that require repentance. Catholic teaching says mercy cannot enter a heart that refuses forgiveness; see its [Compendium, questions 594–595](https://press.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_en.html). These readings both take the warning seriously, while explaining the believer's need for renewed forgiveness in different ways."
+  ],
+  "god_plan_lines": [
+    "The prayer brings God's purpose and His people's dependence together. [Ephesians 1:7–10](https://biblehub.com/bsb/ephesians/1.htm) places forgiveness through Christ's blood within God's plan to bring all things together in Him. The requests for God's reign and for mercy belong within the same saving purpose.",
+    "",
+    "The Father also makes people His children through the Son and gives them His Spirit. [Galatians 4:4–7](https://biblehub.com/bsb/galatians/4.htm) describes that work and the resulting cry to God as Father. [Romans 8:26–27](https://biblehub.com/bsb/romans/8.htm) adds the Spirit's help when they do not know how to pray. God's rescue creates the relationship expressed in this prayer and provides help for living within it."
+  ],
+  "current_position_lines": [
+    "Our study Prayer and Faith understands the prayer as a pattern of communion with God and submission to His will. It reads the entire prayer under that purpose, rather than treating the opening petitions as a preface to seeking whatever outcome we prefer.",
+    "",
+    "For the bread petition, the study connects Matthew 6:11 with Jesus as the bread of life in John 6. It understands the request as daily dependence on Christ for continued life in Him, rather than a request for material provision. That is the study's reading of the connection between these passages."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/6.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-model-prayer-and-forgiveness-review.md",
+    "position_source_detail": "Prayer and Faith — The Lord's Prayer, The Prayer Never Shifts to Us, Christ as the Living Bread"
+  }
 }

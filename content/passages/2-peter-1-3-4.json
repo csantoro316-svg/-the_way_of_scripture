@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "2 Peter",
+    "citation": "1:3-4",
+    "label": "2 Peter 1:3-4",
+    "slug": "2-peter-1-3-4"
+  },
+  "section_title": "What has God given us for a life that reflects Him?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "3 His divine power has given us everything we need for life and godliness through the knowledge of Him who called us by His own glory and excellence. 4 Through these He has given us His precious and magnificent promises, so that through them you may become partakers of the divine nature, now that you have escaped the corruption in the world caused by evil desires."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Before calling the readers to make every effort, the letter begins with what God has already given. His divine power supplies what they need for life and godliness through knowing the One who called them by His glory and excellence.",
+    "",
+    "His precious promises are connected with sharing in the divine nature and escaping the corruption caused by evil desires. The contrast is practical as well as hopeful: life received from God is set against the desires that ruin life in the world.",
+    "",
+    "The next paragraph will describe the character that should grow from this gift. The readers’ effort responds to God’s provision; it is not the starting point from which they must somehow create His power."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/2_peter/1.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-epistle-general-of-st-peter/) connect sharing in the divine nature with renewal in God’s image and life in fellowship with Him. Calvin expressly rejects the idea that people become part of God’s very being. The Catholic [Catechism, 460](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/artcile_3.html), likewise relates this passage to the Son becoming human so that people may share His life as God’s children.",
+    "",
+    "They differ somewhat over the scope of life in verse 3. Calvin focuses on the new spiritual life and what is needed for godliness. Wesley includes God’s provision for ordinary life as well as growth in spiritual life. Both place the gift before the call to diligent growth."
+  ],
+  "god_plan_lines": [
+    "In [John 17:20–26](https://biblehub.com/bsb/john/17.htm), Jesus prays for later believers to share in life with the Father and Son, to know the Father’s love and to be with Him in His glory. That prayer helps place Peter’s promise within God’s purpose to draw people into life with Himself through Christ.",
+    "",
+    "[Romans 8:29–30](https://biblehub.com/bsb/romans/8.htm) describes God’s purpose in terms of making His people like His Son and bringing them to glory. Sharing God’s life includes being changed to reflect the One to whom they now belong."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_peter/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-peter-opening-review.md"
+  }
+}

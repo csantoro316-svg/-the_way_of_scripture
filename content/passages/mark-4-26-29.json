@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "4:26-29",
+    "label": "Mark 4:26-29",
+    "slug": "mark-4-26-29"
+  },
+  "section_title": "The Seed Grows While the Farmer Sleeps",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "26 Jesus also said, “The kingdom of God is like a man who scatters seed on the ground. 27 Night and day he sleeps and wakes, and the seed sprouts and grows, though he knows not how. 28 All by itself the earth produces a crop—first the stalk, then the head, then grain that ripens within. 29 And as soon as the grain is ripe, he swings the sickle, because the harvest has come.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus gives another seed picture for God's kingdom. A man scatters seed, then goes through his ordinary nights and days. The seed sprouts and grows, though he does not know how. The story turns our attention from the different soils to growth the farmer cannot make happen by command.",
+    "",
+    "The earth produces the crop in stages: stalk, head, and ripe grain. The phrase all by itself uses αὐτόματος, *automatos* (ow-TOH-mah-toss). [Thayer's lexicon](https://biblehub.com/greek/844.htm) includes plants growing without human cultivation and specifically names this verse. The point is the growth beyond the farmer's direct control, not a claim that God has no part in it.",
+    "",
+    "The farmer still has work to do. He sows, and when the grain is ripe he harvests. The picture holds patient trust together with action at the proper time. The growth has a goal: a harvest rather than endless waiting."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly emphasize growth that the person sowing cannot produce or control. [Calvin on Mark 4:26](https://biblehub.com/commentaries/calvin/mark/4.htm) applies this to teachers who need patience when results are not immediately visible, while the [US Catholic bishops' note on 4:26–29](https://bible.usccb.org/bible/mark/4) emphasizes God's kingdom growing toward its final establishment and judgment."
+  ],
+  "god_plan_lines": [
+    "[1 Corinthians 3:5–9](https://biblehub.com/bsb/1_corinthians/3.htm) gives a closely related picture. Paul plants and Apollos waters, but God gives the growth. Their service matters, yet neither servant is the source of life. The parable encourages trust in God's work beyond what a teacher can see or manage.",
+    "",
+    "Harvest also appears in Scripture's account of God's final judgment. [Joel 3:12–14](https://biblehub.com/bsb/joel/3.htm) joins the ripe harvest and sickle with the nations brought before Him. This is a scriptural parallel rather than a separate explanation Jesus supplies here. It helps us see why the story ends with completion: God's kingdom moves toward a purpose He will bring about."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/4.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-four-closing-review.md"
+  }
+}

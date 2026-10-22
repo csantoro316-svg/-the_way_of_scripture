@@ -1,0 +1,31 @@
+# Matthew 24 opening editorial review
+
+Status: Complete, published, and live-verified.
+
+Two coherent new groups cover24:1–3 and4–8. Both have supported plans and exact open-position notices. No existing24sources. Wholechapter24notcomplete.
+
+## Research
+
+All relevant baseline24A1128–1139 and24B1140–1148 actually read;24C onward unread. Previous23review read24A1128–1133, then remaining1134–1139 and24B completed as advance24research. Strong leads retained: temple warning and questions; discernment/fear; birth-pain metaphor; hope grounded in Christ/resurrection; witness alongside study of future events. Baseline timetable and contemporary-disaster proof claims checked critically rather than copied. No public ministry identity/close outline/teacher polemic.
+
+Actual BibleHub BSB24:1–14 read; selected full1–8 main quotations sourced from actualchapterHTML. Supporting actually read: Mark13:1–8;Luke21:5–11;Acts1:6–11;John2:13–22;Eph2:13–22;Rom8:18–30;1Pet1:3–9;1Thess4:13–18. Cross-references to uncovered1Thess are permitted; no newpassageeditingforuncoveredbook. Faithful paraphrases, no unverified supporting Bible quotations. ActualThayer3952entry read, presence/arrival and specificallyMatt24return; introduced with script/transliteration/pronunciation/plain meaning/directlexicon.165/5604 fetched but not needed or claimed read. No TopicalLexicon.
+
+Actual Wesley24:1–6 andUSCCB24:1–8 notes read. Wesleydistinguishesquestiongroupsandfirstcenturywarningswhileallowingfuturemoreextensiveevents. Catholicbishops'notes distinguish templeprediction/finalcoming and setcalamitiesbeforeend. Their verse-specific readings represented as their owncommentaries, not wholesaleallMethodists/Catholicsclaims. No full later end-timescontroversy claimed settled by openingpassage. No invented Reformed/Orthodox/Lutheran institutionalexegesis fromconfessionsthatdon'tsupplyit. Public wording keeps interpretivedifferencesclearwithouttechnicalschoollabels. ExistingSigns-study topic not automaticauthority; no developedpassage-specificpositionfound. Both remainopen.
+
+Independent check ofbaselineearthquakestatistics: directly read actualUSGS FAQ [Why are we having so many (or so few) earthquakes?](https://www.usgs.gov/faqs/why-are-we-having-so-many-or-so-few-earthquakes-has-naturally-occurring-earthquake-activity). It explains natural fluctuations, improvedinstruments/reporting increasingcatalogcounts, and long-termmajor-earthquakeaverages. This does not support turning rawrecordcountsinto a simple unprecedentednaturalquakeincrease or a prophecyclock. No currentscientificclaim appears inpublicpages; findings recordedforreview ratherthan an unrelatedtechnicaldiversion. JosephusWar6, Catholicreturnpage, Hebrewschapters fetched but unread/notused. Fetch≠read. URLmap `/tmp/scripture-matthew-twenty-four-opening-research-urls.json`;cache `/tmp/scripture-research-cache/`.
+
+## 24:1–3
+
+- Plan section: included, because (a)/(c). John2explicitly connects templewithJesus'body/resurrection;Eph2peopleasGod'sdwelling. Acts1explicitreturn/witness/timesunderFather addsmissionperspective.
+- Position source: none. Exact approved notice.
+- FLAGGED FOR REVIEW: baselinepreciseTuesdayAD28/36hourroute/disciplesalwayssleepwithLazarus/modernlargest-everproject/certaincompletionyear/certainfour-yeargapnotindependentlychecked. Nopublictemplearchitecturalquantity/dateclaimneeded. Wesley's preciseTitusfoundation/TurnusRufusploughchronology not copiedwithoutindependenthistory;actualnarrativepredictionenough. Luke/MarknotamalgamatedintoMatthew'squotation orcertainfour-questionthenanswer4,3,1,1A,2outlinesystemasfact. Presence/arrivalmeaningdoesnotproveeverycomingnecessarilydistinctreturnstimetable. No claim everydisagreementcausedbyignoranceorrefusaltochangemind. StudyoffutureeventsencouragedwithactualActs1calltowitness, notfalseoppositionBiblecareversusevangelism.
+
+## 24:4–8
+
+- Plan section: included, because (b)/(c). Rom8birth-painrenewalexplicitlyrelatedparallel, notidenticaltimetable;1Pet1/1Thess4resurrectionhopeandencouragement addsGod'ssavingpurpose.
+- Position source: none. Exact approved notice.
+- FLAGGED FOR REVIEW: no certain605BCstartfortheage/technicalAgeofGentileslabelasJesus'exactwords;notestablishedfromthespecifictext/lexicon. Nationagainstnation+kingdomagainstkingdom notindependentlyverifiedasarabbinicidiomuniquelymeaning20thcenturyworldwars;actualBiblicalphrasingnotdatecoded. Unverified88%/95%warparticipation/1914firstgloballyinvolvedconflict/whichfutureworldwarcount notused. ActualUSGSFAQcontradictsunqualifiedcatalogincreaseequalsnaturalincrease;baseline110/150/165majorquakecountsand43%comparisonlackdefineddataset/magnitude/regionandnotadopted. Oklahoma/Arkansasunexplainedscientistsstumpednotcheckedindependently/notpublished. Globalfamine/plaguefrequencyeverworseclaimsnotindependentlyverified;nonepublic. No2020coronavirusproofKingdomrightaroundcorner/specificcontemporarygenerationprophecyclock. Birthpainsnotmedicaldataquantification/guaranteedrecurrenceintensityalgorithm. NotextsaysdisastersarenotproblemsweshouldhelpaddressorallfearmeanswrongBibleinterpretation; hopeandfaithfulsteadinessretainedwithouttrivializing suffering. No blanketclaimnootherreligionhasfalsemessiahclaimants.1Thessencouragementquotedonlyasparaphraseofactualtext;noextra secret-return/precisetribulationsequencedrawnfrom1–8. No newsitepositionoriginated.
+
+## Validation
+
+Two direct BSB checks/eight tests/zero errors366legacywarnings passed. Two new pages,1,177 unaffected website files preserved; neighbor prose/all nonselected index entries preserved. Source/index/standalone quotation/sections align; all156 reviewed navigation blocks and actualBSBcoverage through24:8 checked (818verses). Focusedgenerationidempotent at1,182files. Local390reader/eightversecoverage/twoselectorentries/fiveheadings/openpositions/nooverflowpassed;plan screenshot visuallyinspected;actualPrevious→24:1–3 titlefocus/top188pxpassed. Standalone1–3hascorrectparousia/plan/openposition/neighbors/nooverflow. CozPlex explicit-project Hosting dryrun/deploysuccessfullycompleted. Six final releasefilesbyte-matchedlive (`/tmp/scripture-matthew-twenty-four-opening-live.json`);live3904–8fiveheadings/openposition/Rom8plan/nooverflowpassed. Wholechapter24remainsinprogress; nooutstandingdeployment.

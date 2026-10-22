@@ -5,56 +5,61 @@
     "label": "Isaiah 5:1-7",
     "slug": "isaiah-5-1-7"
   },
-  "section_title": "The Song of the Vineyard",
+  "section_title": "What went wrong with the carefully tended vineyard?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 I will sing for my beloved a song of his vineyard:",
-        "My beloved had a vineyard",
-        "on a very fertile hill.",
-        "2 He dug it up and cleared the stones",
-        "and planted the finest vines.",
-        "He built a watchtower in the middle",
-        "and dug out a winepress as well.",
-        "He waited for the vineyard to yield good grapes,",
-        "but the fruit it produced was sour!",
-        "3 \u201cAnd now, O dwellers of Jerusalem",
-        "and men of Judah,",
-        "I exhort you to judge",
-        "between Me and My vineyard.",
-        "4 What more could I have done for My vineyard",
-        "than I already did for it?",
-        "Why, when I expected sweet grapes,",
-        "did it bring forth sour fruit?",
-        "5 Now I will tell you what I am about to do to My vineyard:",
-        "I will take away its hedge,",
-        "and it will be consumed;",
-        "I will tear down its wall,",
-        "and it will be trampled.",
-        "6 I will make it a wasteland,",
-        "neither pruned nor cultivated,",
-        "and thorns and briers will grow up.",
-        "I will command the clouds",
-        "that rain shall not fall on it.\u201d",
-        "7 For the vineyard of the LORD of Hosts",
-        "is the house of Israel,",
-        "and the men of Judah",
-        "are the plant of His delight.",
-        "He looked for justice,",
-        "but saw bloodshed;",
-        "for righteousness,",
-        "but heard a cry of distress."
+        "1 I will sing for my beloved a song of his vineyard: My beloved had a vineyard on a very fertile hill. 2 He dug it up and cleared the stones and planted the finest vines. He built a watchtower in the middle and dug out a winepress as well. He waited for the vineyard to yield good grapes, but the fruit it produced was sour!",
+        "3 “And now, O dwellers of Jerusalem and men of Judah, I exhort you to judge between Me and My vineyard. 4 What more could have been done for My vineyard than I have done for it? Why, when I expected sweet grapes, did it bring forth sour fruit? 5 Now I will tell you what I am about to do to My vineyard: I will take away its hedge, and it will be consumed; I will tear down its wall, and it will be trampled. 6 I will make it a wasteland, neither pruned nor cultivated, and thorns and briers will grow up. I will command the clouds that rain shall not fall on it.”",
+        "7 For the vineyard of the LORD of Hosts is the house of Israel, and the men of Judah are the plant of His delight. He looked for justice, but saw bloodshed; for righteousness, but heard a cry of distress."
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 5**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "Isaiah sings of a beloved owner who gives his vineyard everything needed to flourish: fertile ground, cleared stones, choice vines, a watchtower and a winepress. Yet it produces sour fruit instead of the good grapes expected.",
+    "",
+    "The word behind that disappointing fruit is Hebrew [בְּאֻשִׁים, beushim](https://biblehub.com/hebrew/891.htm), pronounced beh-oo-SHEEM. Brown–Driver–Briggs describes stinking or worthless things and lists the wild grapes of this vineyard. The image stresses the fruit’s bad quality after such careful attention.",
+    "",
+    "The owner invites Jerusalem and Judah to judge the matter. He then announces that he will remove the vineyard’s protection and care, leaving it trampled, overgrown and without rain.",
+    "",
+    "The final verse explains the song: the vineyard is Israel, and the people of Judah are the planting God delights in. The fruit He sought was justice and righteousness; what appeared was bloodshed and the cry of those in distress. The problem is exposed through the difference between His care and their conduct."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Song of the Vineyard** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/isaiah/5.htm) and [Wesley](https://biblehub.com/commentaries/wes/isaiah/5.htm) understand the careful planting as the advantages and instruction God gave His people, and the bad fruit as their failure to respond faithfully. [Gill](https://biblehub.com/commentaries/gill/isaiah/5.htm) likewise connects the expected grapes with justice and care for the vulnerable.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 5** remains the first control on meaning."
+    "The song gives its own explanation rather than leaving the reader to invent a meaning for every item. Its central charge is that a people so carefully provided for have produced the opposite of the justice God seeks."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "Jesus’ parable of the tenants draws on the same vineyard picture in [Matthew 21:33–46](https://biblehub.com/bsb/matthew/21.htm) and [Mark 12:1–12](https://biblehub.com/bsb/mark/12.htm): an owner plants a vineyard, provides its wall, winepress and tower, and seeks its fruit.",
+    "",
+    "Jesus brings the account to the tenants’ rejection of the owner’s servants and finally his beloved son. The leaders recognize that He is speaking about them. This is a strong connection through shared imagery, with the New Testament bringing the question of faithfulness to its climax in the response to the Son. Responsibility for God’s gifts calls for the fruit He seeks."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/5.htm",
+    "plan_basis": [
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-four-five-review.md"
+  }
 }

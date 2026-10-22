@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "2 Timothy",
+    "citation": "3:1-5",
+    "label": "2 Timothy 3:1-5",
+    "slug": "2-timothy-3-1-5"
+  },
+  "section_title": "What makes these difficult times spiritually dangerous?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 But understand this: In the last days terrible times will come. 2 For men will be lovers of themselves, lovers of money, boastful, arrogant, abusive, disobedient to their parents, ungrateful, unholy, 3 unloving, unforgiving, slanderous, without self-control, brutal, without love of good, 4 traitorous, reckless, conceited, lovers of pleasure rather than lovers of God, 5 having a form of godliness but denying its power. Turn away from such as these!"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul has just instructed Timothy to teach patiently while refusing quarrels. He now warns of terrible times marked by people’s conduct: self-centeredness, greed, pride, broken relationships, cruelty and a love of pleasure that displaces love for God.",
+    "",
+    "The warning reaches into religion itself. A person can maintain the appearance of godliness while denying its power. Timothy is told to turn away from such people, rather than be drawn into their pattern of life.",
+    "",
+    "The description is meant to help him recognize danger. Verse 6 immediately points to people already acting this way, so Paul is not speaking only of a remote future Timothy could never encounter."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/2_timothy/3.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-timothy/) understand the last days as the era of the gospel and the church, rather than only a brief final interval. Both apply the warning to people who can be found within the religious community. Outward claims to godliness do not excuse a life that contradicts it.",
+    "",
+    "They read the list as a reason for vigilance and faithful conduct. It does not supply a date for Christ’s return or turn every troubling event into a separate prediction to decode."
+  ],
+  "god_plan_lines": [
+    "In [Matthew 7:15–23](https://biblehub.com/bsb/matthew/7.htm), Jesus warns that impressive religious claims can conceal a life that does not do His Father’s will. The fruit of a life matters when claims of belonging to Him are tested.",
+    "",
+    "[Romans 12:1–2](https://biblehub.com/bsb/romans/12.htm) describes the positive direction for God’s people: lives offered to Him and minds renewed so they can discern what pleases Him. Paul’s warning belongs within that purpose of forming people whose worship and conduct agree."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_timothy/3.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-timothy-three-review.md"
+  }
+}

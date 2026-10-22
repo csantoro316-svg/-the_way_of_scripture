@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "15:1-12",
+    "label": "2 Samuel 15:1-12",
+    "slug": "2-samuel-15-1-12"
+  },
+  "section_title": "How does Absalom turn popular approval into a rebellion?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Some time later, Absalom provided for himself a chariot with horses and fifty men to run ahead of him. 2 He would get up early and stand beside the road leading to the city gate. Whenever anyone had a grievance to bring before the king for a decision, Absalom would call out and ask, “What city are you from?” And if he replied, “Your servant is from one of the tribes of Israel,” 3 Absalom would say, “Look, your claims are good and right, but the king has no deputy to hear you.” 4 And he would add, “If only someone would appoint me judge in the land, then everyone with a grievance or dispute could come to me, and I would give him justice.” 5 Also, when anyone approached to bow down to him, Absalom would reach out his hand, take hold of him, and kiss him. 6 Absalom did this to all the Israelites who came to the king for justice. In this way he stole the hearts of the men of Israel.",
+        "7 After four years had passed, Absalom said to the king, “Please let me go to Hebron to fulfill a vow I have made to the LORD. 8 For your servant made a vow while dwelling in Geshur of Aram, saying: ‘If indeed the LORD brings me back to Jerusalem, I will worship the LORD in Hebron.’” 9 “Go in peace,” said the king. So Absalom got up and went to Hebron. 10 Then Absalom sent spies throughout the tribes of Israel with this message: “When you hear the sound of the horn, you are to say, ‘Absalom reigns in Hebron!’” 11 Two hundred men from Jerusalem accompanied Absalom. They had been invited as guests and they went along innocently, for they knew nothing about the matter. 12 While Absalom was offering the sacrifices, he sent for Ahithophel the Gilonite, David’s counselor, to come from his hometown of Giloh. So the conspiracy gained strength, and Absalom’s following kept increasing."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Absalom surrounds himself with a chariot, horses and fifty runners, then positions himself where people come with cases for the king. He approves their claims, says no royal deputy will hear them, and promises that he would give them justice. Warm gestures accompany the criticism of David’s administration.",
+    "",
+    "The narrator describes the result as stealing the hearts of Israel. After four years, Absalom asks to go to Hebron to fulfill a vow to the LORD. With David’s permission he leaves, but he has arranged for messengers to announce him as king when the horn sounds.",
+    "",
+    "Two hundred invited men go with him without knowing the plot. Absalom also summons Ahithophel, David’s counselor. Sacrifices and a stated religious purpose provide the setting for a conspiracy that continues to gain support."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) reads Absalom’s treatment of petitioners as a calculated way of winning allegiance. His promise that everyone will receive justice from him is part of his campaign; the narrator does not independently confirm every accusation he makes against David’s government.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/15.htm) emphasizes the misuse of an appearance of devotion and the danger of drawing unsuspecting people into wrongdoing. The invited men’s ignorance matters: being present with Absalom does not prove that all two hundred knowingly joined the rebellion.",
+    "",
+    "The BSB gives four years. [Gill](https://biblehub.com/commentaries/gill/2_samuel/15.htm) discusses that reading alongside the forty years in older translations and the attempts to explain the longer number. The translation difference need not obscure the movement of the story: Absalom has patiently cultivated support before announcing a rival claim to the throne."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/15.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-fifteen-review.md"
+  }
+}

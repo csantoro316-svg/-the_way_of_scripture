@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "17:14-20",
+    "label": "Matthew 17:14-20",
+    "slug": "matthew-17-14-20"
+  },
+  "section_title": "Jesus Rescues the Boy and Teaches About Faith",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 When they came to the crowd, a man came up to Jesus and knelt before Him. 15 “Lord, have mercy on my son,” he said. “He has seizures and is suffering terribly. He often falls into the fire or into the water. 16 I brought him to Your disciples, but they could not heal him.”",
+        "17 “O unbelieving and perverse generation!” Jesus replied. “How long must I remain with you? How long must I put up with you? Bring the boy here to Me.” 18 Then Jesus rebuked the demon, and it came out of the boy, and he was healed from that moment.",
+        "19 Afterward the disciples came to Jesus privately and asked, “Why couldn’t we drive it out?” 20 “Because you have so little faith,” He answered. “For truly I tell you, if you have faith the size of a mustard seed, you can say to this mountain, ‘Move from here to there,’ and it will move. Nothing will be impossible for you.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Returning to the crowd, Jesus meets a father who kneels and asks for mercy for his son. The boy suffers terribly and repeatedly falls into fire or water. The father has brought him to the disciples, but they have been unable to heal him.",
+    "",
+    "Jesus rebukes the generation's unbelief, calls for the boy, and drives out the demon. The boy is healed at once. [Mark 9:14–29](https://biblehub.com/bsb/mark/9.htm) gives more of the conversation: the father acknowledges both belief and unbelief, asks for help, and receives it from Jesus.",
+    "",
+    "The disciples ask privately why they could not drive the demon out. Jesus points to their little faith and speaks of mustard-seed faith moving a mountain. Faith is πίστις, *pistis* (PIS-tiss), belief or trust. [Thayer's entry](https://biblehub.com/greek/4102.htm) includes trust in God and confidence in Christ among its uses. The disciples need to rely on the One whose authority they have been given.",
+    "",
+    "The small seed and the mountain put a great contrast before them. What seems beyond their power is within God's power. In Mark's account, Jesus also directs them toward prayer. [BibleHub's BSB footnote](https://biblehub.com/bsb/matthew/17.htm) places the prayer-and-fasting saying numbered verse 21 in the manuscript note rather than the main text; [Mark 9:29](https://biblehub.com/bsb/mark/9.htm) includes prayer in its main text."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a lesson in relying on God's power rather than assuming spiritual authority works independently of Him. [Wesley on Matthew 17:20](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) understands the faith in view as confidence that God will work through someone in that moment, and the [US Catholic bishops' note on 17:14–20](https://bible.usccb.org/bible/matthew/17) likewise emphasizes the disciples' need for faith."
+  ],
+  "god_plan_lines": [
+    "The Son's authority over evil belongs within the purpose described in [1 John 3:8](https://biblehub.com/bsb/1_john/3.htm): He appears to destroy the devil's works. The rescue of this suffering boy is a concrete display of that authority. Jesus brings help where the disciples have been unable to do so.",
+    "",
+    "[Luke 10:17–20](https://biblehub.com/bsb/luke/10.htm) places the disciples' service within the same larger struggle. The returning messengers rejoice that demons submit in Jesus' name, but He directs their deepest joy toward belonging to God, with their names recorded in heaven. The purpose of their mission reaches beyond experiencing power to sharing the Savior's work and life with Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/17.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-seventeen-completion-review.md"
+  }
+}

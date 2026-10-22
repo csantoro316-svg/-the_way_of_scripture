@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "12:20-25",
+    "label": "Acts 12:20-25",
+    "slug": "acts-12-20-25"
+  },
+  "section_title": "What happens to Herod while God’s word continues to spread?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "20 Now Herod was in a furious dispute with the people of Tyre and Sidon, and they convened before him. Having secured the support of Blastus, the king’s chamberlain, they asked for peace, because their region depended on the king’s country for food. 21 On the appointed day, Herod donned his royal robes, sat on his throne, and addressed the people. 22 And they began to shout, “This is the voice of a god, not a man!” 23 Immediately, because Herod did not give glory to God, an angel of the Lord struck him down, and he was eaten by worms and died.",
+        "24 But the word of God continued to spread and multiply. 25 When Barnabas and Saul had fulfilled their mission to Jerusalem, they returned, bringing with them John, also called Mark."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Herod is in a dispute with Tyre and Sidon. Their region depends on his country for food, so representatives gain the support of Blastus, a royal official, and ask for peace. Luke does not explain every step of the dispute or say exactly how they secure his support.",
+    "",
+    "On the appointed day, Herod addresses the people in royal clothing. They acclaim his voice as divine, and he does not give glory to God. Luke describes an angel striking him, his being eaten by worms and his death.",
+    "",
+    "[Josephus, Antiquities 19.8.2](https://penelope.uchicago.edu/Josephus/ant-19.html), independently describes Agrippa receiving divine acclaim at Caesarea, not rejecting it, becoming severely ill and dying after five days. His account adds the silver garment and abdominal pain; it does not supply Luke’s statement about worms. The two accounts have points of contact without being identical.",
+    "",
+    "Luke then returns attention to God’s word, which continues to spread and multiply. Barnabas and Saul complete their mission and return with John Mark. The king who harmed the church has died, while the message and the work continue."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read Herod’s death as judgment upon accepting glory that belongs to God. The contrast with the continuing spread of the word shows the limits of the king’s power without requiring a medical diagnosis of his illness."
+  ],
+  "god_plan_lines": [
+    "[Daniel 4:28–37](https://biblehub.com/bsb/daniel/4.htm) provides a biblical parallel in the humbling of a ruler who takes glory to himself. The outcomes differ: Nebuchadnezzar is restored and praises God, while Herod dies. The comparison concerns the limits of human rule under God, not a claim that every detail or outcome must match.",
+    "",
+    "The closing report about the word carries that theme into the church’s witness. A ruler’s opposition can bring real harm, as James’s death has shown, but the ruler does not control the future of God’s message."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/12.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twelve-review.md"
+  }
+}

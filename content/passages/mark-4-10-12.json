@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "4:10-12",
+    "label": "Mark 4:10-12",
+    "slug": "mark-4-10-12"
+  },
+  "section_title": "Why Does Jesus Teach in Parables?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 As soon as Jesus was alone with the Twelve and those around Him, they asked Him about the parable. 11 He replied, “The mystery of the kingdom of God has been given to you, but to those on the outside everything is expressed in parables, 12 so that, ‘they may be ever seeing but never perceiving, and ever hearing but never understanding; otherwise they might turn and be forgiven.’”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "When Jesus is apart from the crowd, the Twelve and others around Him ask about the parable. The group receiving His explanation is therefore larger than the Twelve alone. Their question also shows that being close to Him does not mean they already understand everything.",
+    "",
+    "Jesus describes knowledge of God's kingdom as something given to them. The word μυστήριον, *mystērion* (moos-TAY-ree-on), can describe a hidden purpose God makes known; [Thayer's lexicon](https://biblehub.com/greek/3466.htm) specifically includes this verse. Mystery here concerns what God reveals, rather than a puzzle people solve by being clever enough.",
+    "",
+    "His words about seeing without perceiving and hearing without understanding recall [Isaiah 6:9–10](https://biblehub.com/bsb/isaiah/6.htm). In Isaiah's commission, the people encounter God's message yet remain hardened. Mark has already described opposition to Jesus and the accusation against His works in chapter 3. Against that background, this is a serious statement about revelation, resistance, and judgment—not simply a claim that stories make teaching easier.",
+    "",
+    "The passage holds together the gift of understanding and the danger of failing to receive what Jesus says. He continues by explaining the parable to those asking Him. Christian interpreters differ in how they describe God's action and the hearers' responsibility in the contrast."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin on the parallel Matthew 13:11–15](https://biblehub.com/commentaries/calvin/mark/4.htm) emphasizes God's gracious choice in revealing His kingdom, while also holding resistant hearers responsible for their blindness. [Wesley's notes on Mark 4:11–12](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-mark/) emphasize judgment on people who had already chosen not to see: God gives them over to the blindness they have resisted leaving.",
+    "",
+    "These are different emphases in the two teachers' explanations, rather than a reason to say either denies God's grace or human responsibility. Both treat the saying as a warning about persistent resistance, while recognizing that understanding is God's gift."
+  ],
+  "god_plan_lines": [
+    "Jesus explicitly brings Isaiah's commission into His own ministry. The same word can be heard without being welcomed, and being present when God speaks is not the same as receiving Him. This connection places the parables within Scripture's longer account of God addressing His people.",
+    "",
+    "Hiddenness is not the last word about God's purpose. [Romans 16:25–27](https://biblehub.com/bsb/romans/16.htm) describes the mystery once concealed and now made known through the prophetic writings, leading the nations toward the obedience of faith. [1 Corinthians 2:7–14](https://biblehub.com/bsb/1_corinthians/2.htm) describes God's Spirit revealing what human wisdom could not uncover. The larger purpose is the saving truth made known in Christ, not secrecy for its own sake."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/4.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-four-opening-review.md"
+  }
+}

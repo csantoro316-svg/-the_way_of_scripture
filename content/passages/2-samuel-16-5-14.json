@@ -1,0 +1,67 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "16:5-14",
+    "label": "2 Samuel 16:5-14",
+    "slug": "2-samuel-16-5-14"
+  },
+  "section_title": "Why does David refuse to strike back at Shimei?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 As King David approached Bahurim, a man from the family of the house of Saul was just coming out. His name was Shimei son of Gera, and as he approached, he kept yelling out curses. 6 He threw stones at David and at all the servants of the king, though the troops and all the mighty men were on David’s right and left. 7 And as he yelled curses, Shimei said, “Get out, get out, you worthless man of bloodshed! 8 The LORD has paid you back for all the blood of the house of Saul, in whose place you have reigned, and the LORD has delivered the kingdom into the hand of your son Absalom. See, you have come to ruin because you are a man of bloodshed!”",
+        "9 Then Abishai son of Zeruiah said to the king, “Why should this dead dog curse my lord the king? Let me go over and cut off his head!” 10 But the king replied, “What have I to do with you, O sons of Zeruiah? If he curses me because the LORD told him, ‘Curse David,’ who can ask, ‘Why did you do this?’” 11 Then David said to Abishai and to all his servants, “Behold, my own son, my own flesh and blood, seeks my life. How much more, then, this Benjamite! Leave him alone and let him curse me, for the LORD has told him so. 12 Perhaps the LORD will see my affliction and repay me with good for the cursing I receive today.” 13 So David and his men proceeded along the road as Shimei went along the ridge of the hill opposite him. As Shimei went, he yelled curses, threw stones, and flung dust at David. 14 Finally, the king and all the people with him arrived, exhausted. And there he refreshed himself."
+      ]
+    }
+  ],
+  "context_lines": [
+    "At Bahurim, Shimei, a man from Saul’s family, curses David and throws stones at him and his servants. He calls David a man of bloodshed and interprets Absalom’s rise as the LORD repaying him for the blood of Saul’s house.",
+    "",
+    "Abishai offers to kill Shimei, but David refuses. With his own son seeking his life, he will not answer this abuse by another immediate killing. He speaks of accepting what the LORD has allowed and hopes that God will see his affliction and repay him with good.",
+    "",
+    "Shimei continues alongside them, cursing and throwing stones and dust. David and his people eventually stop to recover from exhaustion. The refusal to retaliate does not make the treatment painless or cause it to stop at once."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/16.htm) contrasts David’s patience under abuse with his readiness to believe Ziba’s flattering report. David is capable of responding well to an openly hostile man even after making a rash judgment about an absent friend.",
+    "",
+    "Which events Shimei means by Saul’s blood is not settled by the speech. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) discusses Abner and Ish-bosheth as well as Saul’s descendants in chapter 21; the [USCCB Bible notes](https://bible.usccb.org/bible/2samuel/16) favor the latter connection. Shimei is giving his interpretation of David’s troubles, not delivering a new prophetic verdict endorsed by the narrator.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) and [Gill](https://biblehub.com/commentaries/gill/2_samuel/16.htm) understand David’s statement about the LORD telling Shimei to curse in terms of God’s rule over the circumstances, while keeping responsibility for the wrongdoing with Shimei. They distinguish what God allows and uses from a command making the abuse morally right."
+  ],
+  "god_plan_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/16.htm) compares David’s restraint with Christ’s response to those who mistreated Him. The fuller account appears in [1 Peter 2:21–25](https://biblehub.com/bsb/1_peter/2.htm): Jesus does not retaliate under abuse, but entrusts Himself to the One who judges justly.",
+    "",
+    "The comparison has an important limit. David has wrongs of his own to face; Peter expressly describes Jesus as sinless and speaks of Him bearing our sins. Christ’s patience belongs to His saving work as well as providing an example for His followers.",
+    "",
+    "This is a supported parallel, not a rule that anyone being abused has caused it through their own sin. It points to trust in God’s judgment rather than the desire to make every insult end in vengeance."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/16.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-sixteen-seventeen-review.md"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "23:15",
+    "label": "Matthew 23:15",
+    "slug": "matthew-23-15"
+  },
+  "section_title": "What Kind of Disciple Are We Making?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 Woe to you, scribes and Pharisees, you hypocrites! You traverse land and sea to win a single convert, and when he becomes one, you make him twice as much a son of hell as you are."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The next woe follows the warning about shutting the kingdom against others. Jesus describes leaders traveling over land and sea to win a convert, then making that person even more deserving of judgment than themselves. Great effort and a growing following do not by themselves show that someone is guiding people rightly.",
+    "",
+    "The charge is about what the convert becomes under their guidance. The leaders reproduce the very wrongdoing Jesus is exposing throughout the chapter. The question is therefore deeper than whether they have persuaded someone: where has their teaching led that person?"
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as a warning against spreading a religious allegiance that forms people in the teacher's wrongdoing. The [US Catholic bishops' note on 23:15](https://bible.usccb.org/bible/matthew/23) understands the convert's greater zeal as one possible reason for the stronger condemnation; Jesus' criticism concerns the harmful result of that conversion."
+  ],
+  "god_plan_lines": [
+    "Jesus later gives His followers a different mission in [Matthew 28:18–20](https://biblehub.com/bsb/matthew/28.htm): to make disciples of all nations, baptizing them and teaching them to obey Him. The aim is a life shaped by His teaching under His authority, with His presence among them. That purpose provides a clear contrast to winning a convert only to reproduce the leader's wrongdoing."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/23.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-three-review.md"
+  }
+}

@@ -1,0 +1,7 @@
+# Luke13 complete
+
+Threeclosinggroups18–21/22–30/31–35finishchapter.Kingdomgrowth,narrowdoorandJerusalemlamentincludeverifiedlargerplanconnectionsandfairlyattributedreadings.Allthreepositionsremainopen.
+
+Luke1–13complete/live:94reviewedgroups/all660BSBverses,94plans/ninestudypositions/85open;98sources/fourlegacyunreviewed.Evidence [closingreview](../testing/2026-10-19-luke-thirteen-closing-review.md).ExactBSB/eighttests/0errors348warnings/preservation/coverage/nav/idempotence/390pxreader+standalone/actualNext/Hosting/sevenaffectedlivebytes/alleightchapterfilespassed.Nooutstandingdeployment.
+
+ContinueLuke14:1–14.Proposed1–6/7–11/12–14,allpositionsnoneabsentexactstudyconclusion.Full14A628–641read;14B642firstpageread;entirePDFthrough642read,643onwardunread.No14drafts.ActualBSB14:1–14andfootnotes,Prov25:6–7,Phil2:3–11,1Pet5:5–6,1Cor1:26–31,Col2:16–17,Heb4:9–11read.USCCB14notesandWesleyXIV1–14read.Calvin14excerptsofarintroScripturenotactualexposition;donotclaimread.Mustcheckactualbeforeusing.Thayer5203actualdropsyentryread;MedlinePlus https://medlineplus.gov/edema.html directlyopened,lines43/76supportdropsy=edema/swellingfluid.Noexactheart/kidneydiagnosisneeded.BSB14:5sonoroxretainednotTRdonkey.Noallguestssecretlydisciples,ekklesia=invitedguestswordfallacy,U-shapedtablepreciseseats,allPhariseesalwaysmaliciousmeal,mansurelyplantedastrap,poorpeoplemorallyleastdeservingorfinalweddingrankingmapasfact.

@@ -10,23 +10,44 @@
     {
       "label": "BSB",
       "paragraphs": [
-        "9 \u201cWhere is your wife Sarah?\u201d they asked.",
-        "\u201cThere, in the tent,\u201d he replied.",
-        "10 Then the LORD said, \u201cI will surely return to you at this time next year, and your wife Sarah will have a son!\u201d",
-        "Now Sarah was behind him, listening at the entrance to the tent. 11 And Abraham and Sarah were already old and well along in years; Sarah had passed the age of childbearing. 12 So she laughed to herself, saying, \u201cAfter I am worn out and my master is old, will I now have this pleasure?\u201d",
-        "13 And the LORD asked Abraham, \u201cWhy did Sarah laugh and say, \u2018Can I really bear a child when I am old?\u2019 14 Is anything too difficult for the LORD? At the appointed time I will return to you\u2014in about a year\u2014and Sarah will have a son.\u201d",
-        "15 But Sarah was afraid, so she denied it and said, \u201cI did not laugh.\u201d",
-        "\u201cNo,\u201d replied the LORD, \u201cbut you did laugh.\u201d"
+        "9 “Where is your wife Sarah?” they asked.",
+        "“There, in the tent,” he replied.",
+        "10 Then the LORD said, “I will surely return to you at this time next year, and your wife Sarah will have a son!”",
+        "Now Sarah was behind him, listening at the entrance to the tent. 11 And Abraham and Sarah were already old and well along in years; Sarah had passed the age of childbearing. 12 So she laughed to herself, saying, “After I am worn out and my master is old, will I now have this pleasure?”",
+        "13 And the LORD asked Abraham, “Why did Sarah laugh and say, ‘Can I really bear a child when I am old?’ 14 Is anything too difficult for the LORD? At the appointed time I will return to you—in about a year—and Sarah will have a son.”",
+        "15 But Sarah was afraid, so she denied it and said, “I did not laugh.”",
+        "“No,” replied the LORD, “but you did laugh.”"
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 18**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "The visitors ask for Sarah, who is listening at the tent entrance. The LORD promises that she will have a son at the appointed time. The account then tells us why the promise seems impossible to her: both she and Abraham are old, and she is past the age of childbearing.",
+    "",
+    "Sarah laughs inwardly at the prospect. The LORD knows and asks why she laughed, putting the issue plainly: is anything too difficult for Him? The promise is repeated with its time of fulfillment. Sarah denies laughing because she is afraid, but the LORD corrects her. The scene brings her private response into the conversation instead of leaving the promise as something only Abraham hears.",
+    "",
+    "The question about what is too difficult comes from the Hebrew verb פָּלָא, *pālāʾ* (pah-LAH). [Brown–Driver–Briggs](https://biblehub.com/hebrew/6381.htm) places Genesis 18:14 among uses for something beyond a person's power or difficult to do. Here the question directs Sarah from the limits she knows in herself to the power of the One making this particular promise."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Sarah Laughs at the Promise** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 18** remains the first control on meaning."
+    "Christians commonly read Sarah's laughter as a response to the apparent impossibility of bearing a child at her age, and the LORD's answer as a call to trust His promise. [Wesley's notes on Genesis 18:12](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) describe her doubt about what could happen in the ordinary course of nature; the passage answers that difficulty by directing her to God."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 11:11–12](https://biblehub.com/bsb/hebrews/11.htm) explicitly remembers Sarah as receiving the ability to conceive through faith because she considered the One who promised faithful. Genesis records her hesitation and correction; Hebrews remembers the faith through which she receives what God has promised. Her story includes growth beyond the first startled response.",
+    "",
+    "There is also a helpful parallel with [Luke 1:34–38](https://biblehub.com/bsb/luke/1.htm). Mary hears of Elizabeth's pregnancy in old age and is assured that God's word will not fail as she receives the announcement of Jesus' birth. Sarah's conception in old age and Mary's virginal conception are different events, but both announcements turn attention from human inability to God's faithful power. The promised child advances a purpose larger than the immediate household."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-18",
+    "quote_source": "https://biblehub.com/bsb/genesis/18.htm",
+    "plan_basis": [
+      "a",
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-18-genesis-hagar-sign-and-visitors-review.md"
+  }
 }

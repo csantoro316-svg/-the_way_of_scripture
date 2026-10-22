@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "40:38-47",
+    "label": "Ezekiel 40:38-47",
+    "slug": "ezekiel-40-38-47"
+  },
+  "section_title": "What are the tables and priestly chambers for?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "38 There was a chamber with a doorway by the portico in each of the inner gateways. There the burnt offering was to be washed. 39 Inside the portico of the gateway were two tables on each side, on which the burnt offerings, sin offerings, and guilt offerings were to be slaughtered. 40 Outside, as one goes up to the entrance of the north gateway, there were two tables on one side and two more tables on the other side of the gate’s portico. 41 So there were four tables inside the gateway and four outside—eight tables in all—on which the sacrifices were to be slaughtered. 42 There were also four tables of dressed stone for the burnt offering, each a cubit and a half long, a cubit and a half wide, and a cubit high. On these were placed the utensils used to slaughter the burnt offerings and the other sacrifices. 43 The double-pronged hooks, each a handbreadth long, were fastened all around the inside of the room, and the flesh of the offering was to be placed on the tables.",
+        "44 Outside the inner gate, within the inner court, were two chambers, one beside the north gate and facing south, and another beside the south gate and facing north. 45 Then the man said to me: “The chamber that faces south is for the priests who keep charge of the temple, 46 and the chamber that faces north is for the priests who keep charge of the altar. These are the sons of Zadok, the only Levites who may approach the LORD to minister before Him.” 47 Next he measured the court. It was square, a hundred cubits long and a hundred cubits wide. And the altar was in front of the temple."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The vision now explains work carried out near the gateways. A chamber is used to wash burnt offerings, and tables provide places for slaughtering burnt offerings, sin offerings and guilt offerings. Other stone tables hold the utensils.",
+    "",
+    "Two chambers in the inner court serve the priests: one for those keeping charge of the temple and another for those keeping charge of the altar. The sons of Zadok are identified as the Levites who may approach the Lord to minister.",
+    "",
+    "The court is a square, a hundred cubits on each side, with the altar in front of the temple. The measurements now give way to purpose: this is a place of worship, priestly responsibility and offerings."
+  ],
+  "common_interpretation_lines": [
+    "[Gaebelein](https://biblehub.com/commentaries/gaebelein/ezekiel/40.htm) reads the final vision as a future temple with real arrangements for worship. [Henry](https://biblehub.com/commentaries/mhc/ezekiel/40.htm) directs Christian readers to Christ as both altar and sacrifice. The [USCCB notes](https://bible.usccb.org/bible/ezekiel/40) understand the vision as a picture of restored holy life rather than a requirement that every architectural detail be built.",
+    "",
+    "These approaches differ over the form of fulfillment. The question of how the offerings relate to Christ’s sacrifice must also be considered; the more detailed instructions come in chapters 43–46."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 10:1–18](https://biblehub.com/bsb/hebrews/10.htm) explains that repeated animal offerings could remind people of sin but could not take it away. Christ’s offering of Himself is once for all, and forgiveness does not require another offering for sin.",
+    "",
+    "This gives an essential New Testament foundation for reading the sacrificial language in Ezekiel. The tables belong to the vision as described, while Hebrews locates the lasting cleansing of God’s people in Christ’s completed offering. A proposed reading of future worship must account for that completed work."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/40.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-forty-two-review.md"
+  }
+}

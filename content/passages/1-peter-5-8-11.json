@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "1 Peter",
+    "citation": "5:8-11",
+    "label": "1 Peter 5:8-11",
+    "slug": "1-peter-5-8-11"
+  },
+  "section_title": "How can we stand firm when faith is under pressure?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "8 Be sober-minded and alert. Your adversary the devil prowls around like a roaring lion, seeking someone to devour. 9 Resist him, standing firm in your faith and in the knowledge that your brothers throughout the world are undergoing the same kinds of suffering.",
+        "10 And after you have suffered for a little while, the God of all grace, who has called you to His eternal glory in Christ, will Himself restore you, secure you, strengthen you, and establish you. 11 To Him be the power forever and ever. Amen."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Trust in God’s care goes together with sober attention. Peter pictures the devil as a prowling lion seeking someone to devour. His instruction is to resist by standing firm in faith.",
+    "",
+    "The readers are not alone: believers throughout the world face the same kinds of suffering. Their hardship belongs to a shared struggle, rather than proving they have been singled out and forgotten.",
+    "",
+    "The final emphasis falls on the God of all grace. He has called them to eternal glory in Christ and will restore, secure, strengthen and establish them after their suffering. Peter answers the picture of danger with confidence in God’s power and purpose."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/1_peter/5.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-epistle-general-of-st-peter/) both join watchfulness with resistance through faith and dependence on God’s grace. They read the little while of suffering beside the lasting glory to which God calls His people.",
+    "",
+    "Both emphasize God’s work in sustaining the believer. The call to resist is active, while confidence rests in His ability to strengthen and establish them, rather than in personal toughness alone."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 6:10–18](https://biblehub.com/bsb/ephesians/6.htm) likewise calls believers to stand against the devil’s schemes in the Lord’s strength. Faith, God’s word and persevering prayer belong together in that resistance.",
+    "",
+    "[Romans 8:35–39](https://biblehub.com/bsb/romans/8.htm) puts real persecution and danger beside the assurance that nothing in creation can separate believers from God’s love in Christ. That lasting relationship gives them a reason to keep going."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_peter/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-peter-five-review.md"
+  }
+}

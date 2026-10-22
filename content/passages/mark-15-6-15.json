@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "15:6-15",
+    "label": "Mark 15:6-15",
+    "slug": "mark-15-6-15"
+  },
+  "section_title": "Why is Barabbas released while Jesus is condemned?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 Now it was Pilate’s custom at the feast to release to the people a prisoner of their choosing. 7 And a man named Barabbas was imprisoned with the rebels who had committed murder during the insurrection. 8 So the crowd went up and began asking Pilate to keep his custom. 9 “Do you want me to release to you the King of the Jews?” Pilate asked. 10 For he knew it was out of envy that the chief priests had handed Jesus over. 11 But the chief priests stirred up the crowd to have him release Barabbas to them instead.",
+        "12 So Pilate asked them again, “What then do you want me to do with the One you call the King of the Jews?” 13 And they shouted back, “Crucify Him!” 14 “Why?” asked Pilate. “What evil has He done?” But they shouted all the louder, “Crucify Him!” 15 And wishing to satisfy the crowd, Pilate released Barabbas to them. But he had Jesus flogged, and handed Him over to be crucified."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Mark describes Pilate’s custom of releasing a prisoner at the feast. Barabbas is held with rebels involved in murder during an insurrection. The crowd asks for the customary release, and Pilate puts Jesus before them as the King of the Jews.",
+    "",
+    "Pilate recognizes envy in the chief priests’ actions, but they stir the crowd to ask for Barabbas instead. When Pilate asks what Jesus has done wrong, the response is a louder demand for crucifixion. Mark gives the governor’s reason for yielding: he wants to satisfy the crowd. Barabbas is released, and Jesus is flogged and handed over for execution.",
+    "",
+    "The responsibility in this scene is specific: the leaders stir the crowd, those present demand crucifixion, and Pilate orders the outcome. Mark does not identify every person in the crowd or say they are all the same people who welcomed Jesus into Jerusalem. The passage does not transfer their actions to every Jewish person."
+  ],
+  "common_interpretation_lines": [
+    "Christian readers generally see an unjust exchange: a prisoner associated with violent rebellion is freed while Jesus is sent to death. Wesley stresses Pilate’s failure to uphold justice under public pressure; recognizing the wrong does not prevent the governor from authorizing it. ([Wesley, notes on Mark 15:7–9](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-mark/))"
+  ],
+  "god_plan_lines": [
+    "The release of Barabbas offers a striking parallel with Christ’s saving work: a guilty man goes free while the innocent Jesus faces death. Mark does not tell us that Barabbas became a believer or explain him as a detailed picture of every sinner. The wider connection is stated clearly in 1 Peter: Christ, the righteous One, suffered for the unrighteous to bring them to God. ([1 Peter 3:18](https://biblehub.com/bsb/1_peter/3.htm))",
+    "",
+    "Paul develops the same saving purpose through reconciliation and new life. The sinless Christ bears what belongs to sinners so that people may be made right with God in Him; those who receive that life are called to live for the One who died and rose for them. The purpose extends beyond release from a human sentence to restored relationship with God and a changed life. ([2 Corinthians 5:14–21](https://biblehub.com/bsb/2_corinthians/5.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/15.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-fifteen-opening-review.md"
+  }
+}

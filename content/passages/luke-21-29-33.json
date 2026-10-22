@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "21:29-33",
+    "label": "Luke 21:29-33",
+    "slug": "luke-21-29-33"
+  },
+  "section_title": "What does the lesson of the trees tell us to trust?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "29 Then Jesus told them a parable: “Look at the fig tree and all the trees. 30 When they sprout leaves, you can see for yourselves and know that summer is near. 31 So also, when you see these things happening, know that the kingdom of God is near. 32 Truly I tell you, this generation will not pass away until all these things have happened. 33 Heaven and earth will pass away, but My words will never pass away."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus points to the fig tree and all the trees. New leaves tell observers that summer is near. In the same way, the events He describes are to make His followers recognize the nearness of God’s kingdom.",
+    "",
+    "He then says that this generation will not pass away until all these things have happened and that His words will outlast heaven and earth. Which generation is meant and how the events fit together are important questions in the readings below.",
+    "",
+    "The Greek word is γενεά, genea (geh-neh-AH), translated generation. Thayer includes the people living at the same time among its meanings. The word helps identify the question, but its meaning alone does not decide which group or time Jesus is referring to in this teaching. ([Thayer, Greek 1074](https://biblehub.com/greek/1074.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Readers differ over this generation. Wesley understands the statement in relation to the destruction of Jerusalem and the earlier events in the discourse. The NET study notes describe another reading in which it is the generation that sees the final signs, with the remaining events following within that generation. The notes also discuss other possibilities, so neither source should be treated as proof that there is only one Christian reading. ([Wesley on Luke 21:32](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [NET notes on Luke 21:32](https://classic.net.bible.org/verse.php?book=Luk&chapter=21&verse=32))",
+    "",
+    "The tree illustration itself concerns recognizing a season from visible growth, and Luke includes all the trees alongside the fig tree. The certainty of Jesus’ words remains part of the saying across these different readings."
+  ],
+  "god_plan_lines": [
+    "Isaiah contrasts human life and splendor with God’s word, which stands forever. First Peter repeats that Scripture and applies it to the enduring word through which believers have received new birth and heard the good news. This gives a broader Scriptural setting for Jesus’ assurance that His words will not pass away: God’s people receive life and hope from a message that remains when human strength and visible glory fade. ([Isaiah 40:6–11](https://biblehub.com/bsb/isaiah/40.htm); [1 Peter 1:22–25](https://biblehub.com/bsb/1_peter/1.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/21.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-twenty-one-closing-review.md"
+  }
+}

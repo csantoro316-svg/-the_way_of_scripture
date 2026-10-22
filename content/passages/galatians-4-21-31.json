@@ -1,0 +1,70 @@
+{
+  "reference": {
+    "book": "Galatians",
+    "citation": "4:21-31",
+    "label": "Galatians 4:21-31",
+    "slug": "galatians-4-21-31"
+  },
+  "section_title": "Why does Paul compare two mothers and two sons?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "21 Tell me, you who want to be under the law, do you not understand what the law says? 22 For it is written that Abraham had two sons, one by the slave woman and the other by the free woman. 23 His son by the slave woman was born according to the flesh, but his son by the free woman was born through the promise. 24 These things serve as illustrations, for the women represent two covenants. One covenant is from Mount Sinai and bears children into slavery: This is Hagar.",
+        "25 Now Hagar stands for Mount Sinai in Arabia and corresponds to the present-day Jerusalem, because she is in slavery with her children. 26 But the Jerusalem above is free, and she is our mother. 27 For it is written: “Rejoice, O barren woman, who bears no children; break forth and cry aloud, you who have never travailed; because more are the children of the desolate woman than of her who has a husband.” 28 Now you, brothers, like Isaac, are children of promise.",
+        "29 At that time, however, the son born by the flesh persecuted the son born by the Spirit. It is the same now. 30 But what does the Scripture say? “Expel the slave woman and her son, for the slave woman’s son will never share in the inheritance with the free woman’s son.” 31 Therefore, brothers, we are not children of the slave woman, but of the free woman."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul addresses those who want to be under the law by asking them to listen to what it says. He turns to Abraham’s family in [Genesis 16](https://biblehub.com/bsb/genesis/16.htm) and [Genesis 21](https://biblehub.com/bsb/genesis/21.htm): one son was born to Hagar, a slave woman, and the other to Sarah, a free woman. Paul contrasts birth according to the flesh with birth through God’s promise.",
+    "",
+    "He then explains the comparison he is making. The women represent two covenants. Hagar corresponds to Mount Sinai and the present Jerusalem, which he describes as in slavery with her children. The Jerusalem above is free and is the mother of those he addresses.",
+    "",
+    "Paul brings in [Isaiah 54:1](https://biblehub.com/bsb/isaiah/54.htm), where a barren woman is called to rejoice over the many children she will have. He applies this promise-shaped picture to the Galatians: like Isaac, they are children of promise.",
+    "",
+    "The comparison also addresses opposition. Paul says that the son born according to the flesh persecuted the son born according to the Spirit, and that something similar is happening now. He then cites the expulsion of Hagar and her son to explain that the inheritance does not pass through the slave woman’s son.",
+    "",
+    "His conclusion prepares for the next chapter’s call to stand in freedom. The Galatians belong with the free woman. The comparison challenges their wish to place themselves under the law after receiving the promise through Christ."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley’s notes on verses 21–31](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-galatians/) and the [USCCB notes on verses 21–31](https://bible.usccb.org/bible/galatians/4) both read Paul’s comparison as supporting his earlier teaching about promise and freedom. They connect the inheritance with God’s promise and understand the Galatians to be included among its children.",
+    "",
+    "The comparison follows the connections Paul himself identifies in this passage. It does not require treating every detail of Abraham’s family as a hidden code, and it gives no basis for treating Jewish people with contempt."
+  ],
+  "god_plan_lines": [
+    "Paul explicitly brings [Isaiah 54:1](https://biblehub.com/bsb/isaiah/54.htm) into this account. In its wider setting, verses 1–10 promise renewed life, an expanding family and God’s enduring compassion to a woman pictured as desolate. Paul uses its opening promise to help explain the family God is bringing into being.",
+    "",
+    "[Hebrews 12:18–24](https://biblehub.com/bsb/hebrews/12.htm) also sets Sinai alongside the heavenly Jerusalem. It describes believers approaching that city, the gathered people of God, and Jesus, the mediator of a new covenant. This is an explicit New Testament connection between the heavenly city and the welcome made possible through Jesus.",
+    "",
+    "Together these passages place Paul’s family comparison within the larger hope of God gathering His people through His promise and His Son. The connections are stated in Scripture; they do not depend on inventing an additional meaning for every person or place in the Genesis account."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/galatians/4.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-galatians-four-review.md"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "5:12-14",
+    "label": "Romans 5:12-14",
+    "slug": "romans-5-12-14"
+  },
+  "section_title": "Why does Paul turn from Jesus to Adam?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "12 Therefore, just as sin entered the world through one man, and death through sin, so also death was passed on to all men, because all sinned. 13 For sin was in the world before the law was given; but sin is not taken into account when there is no law. 14 Nevertheless, death reigned from Adam until Moses, even over those who did not sin in the way that Adam transgressed. He is a pattern of the One to come."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul begins a comparison that will explain the reach of Christ’s work. Through one man sin entered the world, and death through sin. Death then spread to all because all sinned. Adam’s act belongs to the story of the human condition, not only to a private failure without consequences for others.",
+    "",
+    "Sin and death were present before the Law of Moses. Even people who did not transgress in the same way Adam did were under death’s reign. Paul is explaining why the arrival of the law did not create the need for rescue.",
+    "",
+    "He explicitly calls Adam a pattern of the One to come, Christ. The next verses will develop both the comparison and the difference. The damage associated with one man prepares the reader to consider the far greater gift through another."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Paul as connecting humanity’s plight with Adam’s sin and its rescue with Christ. Where traditions differ is how they describe what people inherit from Adam.",
+    "",
+    "The Reformed [Westminster Confession 6.2–4](https://www.opc.org/wcf.html) and [1689 Baptist Confession 6.2–3](https://www.the1689confession.com/1689/chapter-6) teach that Adam’s guilt is counted to his descendants and a corrupted nature is passed on. This is often described as Adam representing humanity: his act has consequences for those he represents.",
+    "",
+    "The Catholic Church describes original sin as an inherited fallen state, deprived of original holiness, rather than an act personally committed by each descendant. The [Catechism, paragraphs 404–405](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_one/article_1/paragraph_7_the_fall.html), says it does not have the character of a personal fault in Adam’s descendants, while affirming the need for Christ’s healing grace.",
+    "",
+    "The Methodist [Article VII](https://www.umc.org/en/content/articles-of-religion) describes a corrupted human nature inclined toward evil. [Wesley’s note on verse 12](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-romans/) also understands humanity as having sinned in Adam. His account should be distinguished from treating original sin as only the bad example of someone long ago.",
+    "",
+    "The [Orthodox Church in America’s explanation](https://www.oca.org/questions/teaching/original-sin) emphasizes inherited consequences, especially death, while distinguishing them from Adam and Eve’s own guilt. This presents an Orthodox account in its own terms; the traditions should not be reduced to a claim that some recognize human sin and others do not."
+  ],
+  "god_plan_lines": [
+    "The connection between Adam and Christ is Paul’s own, explicitly stated in verse 14. [1 Corinthians 15:20–28](https://biblehub.com/bsb/1_corinthians/15.htm) develops it through the resurrection: death comes through a man, resurrection comes through a man, and death itself is named as an enemy to be destroyed.",
+    "",
+    "In 1 Corinthians 15:45–49 Paul also contrasts the first Adam with the last Adam, Christ. The promise reaches beyond changing a verdict to the life and likeness of the risen Lord. This is a connection the New Testament makes, rather than a hidden parallel supplied by a later teacher."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-five-review.md"
+  }
+}

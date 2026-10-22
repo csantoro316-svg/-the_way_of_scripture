@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "12:13-17",
+    "label": "Mark 12:13-17",
+    "slug": "mark-12-13-17"
+  },
+  "section_title": "What Belongs to Caesar and What Belongs to God?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 Later, they sent some of the Pharisees and Herodians to catch Jesus in His words. 14 “Teacher,” they said, “we know that You are honest and seek favor from no one. Indeed, You are impartial and teach the way of God in accordance with the truth. Is it lawful to pay taxes to Caesar or not? Should we pay them or not?” 15 But Jesus saw through their hypocrisy and said, “Why are you testing Me? Bring Me a denarius to inspect.” 16 So they brought it, and He asked them, “Whose image is this? And whose inscription?” “Caesar’s,” they answered. 17 Then Jesus told them, “Give to Caesar what is Caesar’s, and to God what is God’s.” And they marveled at Him."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Some Pharisees and Herodians are sent to catch Jesus in His words. They begin by praising His honesty and impartiality, then ask whether it is lawful to pay taxes to Caesar. Mark identifies their purpose and says Jesus recognizes their hypocrisy; the flattering introduction does not describe an honest search for instruction.",
+    "",
+    "Jesus asks for a denarius and directs attention to its image and inscription. They identify Caesar, and He tells them to give Caesar what belongs to Caesar and God what belongs to God. His answer refuses to let the tax question erase the more searching question of what they owe God.",
+    "",
+    "The verb translated give is [ἀποδίδωμι (apodidomi, ah-poh-DEE-doh-mee)](https://biblehub.com/greek/591.htm), which can mean to give back or pay what is due. Thayer specifically includes this passage's payment of government dues. The wording concerns an obligation, while the second half of the answer preserves God's claim.",
+    "",
+    "Mark does not identify the person who supplies the coin or transcribe its inscription. The account gives enough for Jesus' question and answer without requiring us to name a particular surviving coin as the one He held. Those questioning Him are left marveling at His reply."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand the answer as recognizing responsibilities to civil government while preserving God's higher claim. The Catholic [Catechism 2240–2242](https://www.vatican.va/archive/ENG0015/__P7W.HTM) joins paying taxes with refusing commands that contradict God's demands; [Westminster 23.4](https://www.opc.org/wcf.html) likewise calls for obedience to lawful commands. [Calvin on this answer](https://biblehub.com/commentaries/calvin/mark/12.htm) explains that civil obligations do not displace the supreme authority of God."
+  ],
+  "god_plan_lines": [
+    "The coin's image has a wider biblical parallel in [Genesis 1:26–28](https://biblehub.com/bsb/genesis/1.htm): human beings bear God's image. Jesus does not spell out that comparison in this scene, so it should be identified as a parallel. It gives depth to the closing obligation: what belongs to God reaches beyond a payment into the whole person.",
+    "",
+    "[Romans 12:1–2](https://biblehub.com/bsb/romans/12.htm) calls believers to offer their lives to God in response to His mercy, and [Romans 13:1–7](https://biblehub.com/bsb/romans/13.htm) places duties to governing authorities, including taxes, within that life. [1 Peter 2:13–17](https://biblehub.com/bsb/1_peter/2.htm) likewise brings doing good, serving God, and honoring the ruler together.",
+    "",
+    "The distinction remains important in [Acts 5:27–32](https://biblehub.com/bsb/acts/5.htm), where the apostles obey God when authorities forbid their witness to the risen Jesus. God's saving work forms people who serve faithfully within society while giving Him their ultimate loyalty. The passage's larger lesson is not exhausted by deciding who receives a coin."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/12.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-twelve-opening-review.md"
+  }
+}

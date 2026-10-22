@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "42:15-20",
+    "label": "Ezekiel 42:15-20",
+    "slug": "ezekiel-42-15-20"
+  },
+  "section_title": "What does the wall around the whole area mark?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 Now when the man had finished measuring the interior of the temple area, he led me out by the gate that faced east, and he measured the area all around: 16 With a measuring rod he measured the east side to be five hundred cubits long. 17 He measured the north side to be five hundred cubits long. 18 He measured the south side to be five hundred cubits long. 19 And he came around and measured the west side to be five hundred cubits long. 20 So he measured the area on all four sides. It had a wall all around, five hundred cubits long and five hundred cubits wide, to separate the holy from the common."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After measuring the interior, the guide takes Ezekiel out through the east gate and measures all four sides of the surrounding area. In the BSB, each side measures five hundred cubits.",
+    "",
+    "The enclosing wall has a stated purpose: to separate the holy from the common. The tour ends this stage by returning to the boundary around the whole sanctuary area.",
+    "",
+    "The distinction explains the arrangement the reader has followed through gates, courts, rooms and places of service. Some spaces and tasks are set apart for approaching and serving the Lord."
+  ],
+  "common_interpretation_lines": [
+    "[Cambridge](https://biblehub.com/commentaries/cambridge/ezekiel/42.htm) explains the difference between translations that give five hundred reeds and those that give five hundred cubits. It favors cubits in light of the Greek wording and the other measurements in the vision. The BSB also uses cubits.",
+    "",
+    "[Wesley](https://biblehub.com/commentaries/wes/ezekiel/42.htm) follows the larger measurement in his translation and draws a further picture of the church’s worldwide extent. That is his application of the vision; the verse itself states the wall’s purpose as separating the holy from the common. Cambridge explains this distinction in terms of spaces with different degrees of access."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/42.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-forty-two-review.md"
+  }
+}

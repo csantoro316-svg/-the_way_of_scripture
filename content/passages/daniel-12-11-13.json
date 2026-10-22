@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "12:11-13",
+    "label": "Daniel 12:11-13",
+    "slug": "daniel-12-11-13"
+  },
+  "section_title": "What final promise does Daniel receive?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "11 And from the time the daily sacrifice is abolished and the abomination of desolation set up, there will be 1,290 days. 12 Blessed is he who waits and reaches the end of the 1,335 days.",
+        "13 But as for you, go on your way until the end. You will rest, and then you will arise to your inheritance at the end of the days.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The closing words give further periods of days: 1,290 from the removal of the daily sacrifice and establishment of the abomination of desolation, followed by a blessing on the one who waits and reaches 1,335 days.",
+    "",
+    "The text does not explain each event within those periods. It ends by addressing Daniel personally: he is to go on his way, rest, and then arise to his inheritance at the end of the days.",
+    "",
+    "This final promise brings the long revelation back to the man who has received it. He will not personally control the history he has been shown, but his own future is held within God’s purpose. The book closes with the assurance of rest and a place in the promised inheritance."
+  ],
+  "common_interpretation_lines": [
+    "[Gaebelein](https://biblehub.com/commentaries/gaebelein/daniel/12.htm) reads the numbers as literal days, including a period beyond the final tribulation before full kingdom blessing. The [USCCB notes](https://bible.usccb.org/bible/daniel/12) interpret them as successive calculations of the expected end during the persecution. [Cambridge](https://biblehub.com/commentaries/cambridge/daniel/12.htm) acknowledges uncertainty about the added days.",
+    "",
+    "[Wesley](https://biblehub.com/commentaries/wes/daniel/12.htm) reads Daniel’s personal promise as rest in death followed by resurrection and his appointed portion. The assurance given to Daniel is clearer than the disputed details of the calendar."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 11:13–16 and 39–40](https://biblehub.com/bsb/hebrews/11.htm) describes faithful people who died while still looking toward what God had promised. They sought a better country, and God prepared a city for them. His purpose brings them and later believers toward a shared completion.",
+    "",
+    "This is the larger theme of inheritance beyond a faithful person’s lifetime. Daniel can finish his service without seeing everything fulfilled because God’s promise includes his future. Christian hope rests in the God who brings His people into what He has prepared, even when their present part is to wait."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/12.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-twelve-review.md"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Ezra",
+    "citation": "1:5-11",
+    "label": "Ezra 1:5-11",
+    "slug": "ezra-1-5-11"
+  },
+  "section_title": "Who responds, and what goes back to Jerusalem?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 So the family heads of Judah and Benjamin, along with the priests and Levites—everyone whose spirit God had stirred—prepared to go up and rebuild the house of the LORD in Jerusalem. 6 And all their neighbors supported them with articles of silver and gold, with goods and livestock, and with valuables, in addition to all their freewill offerings.",
+        "7 King Cyrus also brought out the articles belonging to the house of the LORD that Nebuchadnezzar had carried away from Jerusalem and placed in the temple of his gods. 8 Cyrus king of Persia had them brought out by the hand of Mithredath the treasurer, who counted them out to Sheshbazzar the prince of Judah. 9 This was the inventory: 30 gold dishes, 1,000 silver dishes, 29 silver utensils, 10 30 gold bowls, 410 matching silver bowls, and 1,000 other articles. 11 In all, there were 5,400 gold and silver articles. Sheshbazzar brought all these along when the exiles went up from Babylon to Jerusalem."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Family heads from Judah and Benjamin, together with priests and Levites, prepare to return. They are described as people whose spirit God has stirred to rebuild His house. Their neighbors provide silver, gold, goods, livestock and freewill offerings.",
+    "",
+    "Cyrus also returns temple articles that Nebuchadnezzar had taken from Jerusalem. Mithredath the treasurer counts them out to Sheshbazzar, the prince of Judah, who brings them with the returning exiles.",
+    "",
+    "The return includes both people and the objects associated with their worship. What had been carried away in conquest is being brought back for the rebuilding work."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezra/1.htm) and [Gill](https://biblehub.com/commentaries/gill/ezra/1.htm) see God’s initiative in both the decision to return and the provision for the work. They also note that the temple articles have been preserved through the captivity.",
+    "",
+    "Some details remain debated. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-ezra/) and [Gill](https://biblehub.com/commentaries/gill/ezra/1.htm) identify Sheshbazzar with Zerubbabel, while the [USCCB study notes](https://bible.usccb.org/bible/ezra/1) discuss a different possible identification and regard it as uncertain. Gill takes the stated total of 5,400 articles to include items not separately listed; the USCCB editors consider a copying problem in one or more of the figures possible. The passage does not explain the difference between the listed amounts and the total."
+  ],
+  "god_plan_lines": [
+    "The return has a clear parallel with the departure from Egypt. In [Exodus 12:35–36](https://biblehub.com/bsb/exodus/12.htm), the Israelites leave with silver, gold and clothing provided by their neighbors. Here, too, those leaving captivity receive material support.",
+    "",
+    "[Exodus 35:20–29](https://biblehub.com/bsb/exodus/35.htm) then describes willing people whose hearts are stirred bringing gifts for the tabernacle. The parallel connects freedom from captivity with restored worship and willing participation. It does not make every later building project a promise of unlimited funding."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezra/1.htm",
+    "plan_basis": [
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezra-one-two-review.md"
+  }
+}

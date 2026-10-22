@@ -5,13 +5,51 @@
     "label": "2 Peter 1:21",
     "slug": "2-peter-1-21"
   },
-  "versions": [],
-  "context_lines": [
-    "2 Peter 1:21 should be read within the flow of its chapter and the larger argument of 2 Peter."
+  "section_title": "What does it mean to be carried along by the Spirit?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "21 For no such prophecy was ever brought forth by the will of man, but men spoke from God as they were carried along by the Holy Spirit."
+      ]
+    }
   ],
-  "explanation_lines": [
-    "Notice what these passages claim. The claim in 2 Timothy 3:16 is about origin \u2014 God breathed out the Scriptures. The claim in 2 Peter 1:21 is about the mechanism \u2014 the Holy Spirit carried men along as they wrote. Neither passage makes a claim about English translations produced 1,500 to 2,000 years later by committees working under political, institutional, and theological pressures.",
+  "context_lines": [
+    "This sentence explains the preceding statement about scriptural prophecy. It contrasts human will as the source of a message with people speaking from God under the Holy Spirit’s direction.",
     "",
-    "Inerrancy applies to the **autographs** \u2014 the original manuscripts as God inspired them. This does not leave us without confidence. It means we must be honest about what we are holding in our hands when we pick up any English Bible: a translation, not the autograph. A faithful representation in most respects \u2014 but a human work nonetheless, subject to the limitations and, in some cases, the agendas of those who produced it."
-  ]
+    "The [Greek word behind carried along](https://biblehub.com/greek/5342.htm) can describe being moved or prompted. The speakers are human, and the directing action is God’s. Peter offers this as a reason to take the prophetic word seriously."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/2_peter/1.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-epistle-general-of-st-peter/) both emphasize the Spirit’s initiative. Calvin expressly says the speakers did not lose the use of their minds. The Catholic [Catechism, 106](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/ii_inspiration_and_truth_of_sacred_scripture.html), likewise describes God working through people who use their human faculties as actual authors. These explanations keep the message’s divine source and its human speakers in view."
+  ],
+  "god_plan_lines": [
+    "[2 Timothy 3:14–17](https://biblehub.com/bsb/2_timothy/3.htm) gives the purpose alongside the source: Scripture makes people wise for salvation through faith in Christ and trains them for lives of good work.",
+    "",
+    "God’s speaking is directed toward a people who know His Son and are equipped to live faithfully. The authority described here supports that saving and forming work."
+  ],
+  "current_position_lines": [
+    "Our study [Is the Bible the Inerrant Word of God?](https://thewayofscripture.com/studies/inerrancy.html) understands this passage as describing Scripture’s origin in God: His Spirit carried the human speakers as they spoke from Him. The study applies inerrancy to the original texts as God inspired them. English translations are human works that must be examined against those texts; this passage does not promise that every translation choice is without error."
+  ],
+  "deeper_study": [
+    {
+      "title": "Is the Bible the Inerrant Word of God?",
+      "href": "../studies/inerrancy.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_peter/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-second-peter-one-closing-review.md",
+    "position_source_detail": "Is the Bible the Inerrant Word of God? — inerrancy.md40–50; divine origin/Spirit-carried human speakers, original-text inerrancy distinguished from translations. No imported historical numbers or universal translation-bias accusations."
+  }
 }

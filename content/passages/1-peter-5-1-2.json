@@ -5,20 +5,55 @@
     "label": "1 Peter 5:1-2",
     "slug": "1-peter-5-1-2"
   },
-  "section_title": "",
-  "versions": [],
+  "section_title": "What work is entrusted to the elders?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 As a fellow elder, a witness of Christ’s sufferings, and a partaker of the glory to be revealed, I appeal to the elders among you: 2 Be shepherds of God’s flock that is among you, watching over them not out of compulsion, but willingly, as God would have you; not out of greed, but out of eagerness;"
+      ]
+    }
+  ],
   "context_lines": [
-    "1 Peter 5:1-2 should be read within the flow of its chapter and the larger argument of 1 Peter."
+    "After encouraging believers to entrust themselves to God while doing good, Peter addresses their elders. He speaks as a fellow elder, sharing both the reality of Christ’s sufferings and the hope of His revealed glory.",
+    "",
+    "The [word for fellow elder](https://biblehub.com/greek/4850.htm) identifies a shared responsibility. The task is to shepherd God’s flock among them, watching over people willingly and eagerly. Compulsion and greed are set against the motives that fit this care.",
+    "",
+    "The following verses clarify how the work is carried out: by example, under Christ the Chief Shepherd. The people remain God’s flock rather than a leader’s possession."
   ],
   "common_interpretation_lines": [
-    "Elder, shepherd, overseer \u2014 again the same men, the same task, described three ways. Not a hierarchy. A job, seen from three angles: age and maturity (elder), responsibility for watching over souls (overseer), and the actual daily work of tending people (shepherd).",
+    "[Calvin](https://biblehub.com/commentaries/calvin/1_peter/5.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-epistle-general-of-st-peter/) understand the charge as active care through faithful teaching and conduct, offered willingly rather than for gain.",
     "",
-    "And notice something else in every one of these passages: the word is always plural. Elders. Overseers. Never a solitary bishop over a region. Every church Paul planted got a plurality of men recognized for this work \u2014 not one man elevated above the rest."
+    "The Reformed Baptist [1689 Confession, 26.8–9](https://www.the1689confession.com/1689/chapter-26), treats bishop and elder as names for the same office. The Catholic [Catechism, 1554–1558](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_three/article_6/iii_the_three_degrees_of_the_sacrament_of_holy_orders.html), distinguishes bishops, priests and deacons within ordained ministry. The shared call to shepherd is therefore read within different accounts of church leadership."
+  ],
+  "god_plan_lines": [
+    "[John 21:15–19](https://biblehub.com/bsb/john/21.htm) shows the risen Jesus entrusting care of His sheep to Peter. Here that responsibility is shared with the elders as they care for people who belong to God.",
+    "",
+    "[Acts 20:17, 28–35](https://biblehub.com/bsb/acts/20.htm) gives the same joined description of elders, oversight and shepherding, with protection and generosity directed toward the people Christ has gathered."
+  ],
+  "current_position_lines": [
+    "Our study [Who Shepherds the Church?](https://thewayofscripture.com/studies/who-shepherds-the-church.html) understands elder, overseer and shepherd here as descriptions of the same work: mature, qualified believers caring for the people among whom they serve. It reads this alongside Acts 20 and Titus 1 as a pattern of plural leadership, rather than separate ranks of spiritual standing."
   ],
   "deeper_study": [
     {
       "title": "Who Shepherds the Church?",
       "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_peter/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-first-peter-five-review.md",
+    "position_source_detail": "Who Shepherds the Church? — who_shepherds_the_church.md16–40; common elder/overseer/shepherd function and plural qualified leadership. No universal historical claim or new age threshold."
+  }
 }

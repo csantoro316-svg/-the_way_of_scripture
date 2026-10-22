@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "6:20-23",
+    "label": "2 Samuel 6:20-23",
+    "slug": "2-samuel-6-20-23"
+  },
+  "section_title": "Why do David and Michal see the celebration so differently?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "20 When David returned home to bless his own household, Saul’s daughter Michal came out to meet him. “How the king of Israel has distinguished himself today!” she said. “He has uncovered himself today in the sight of the maidservants of his subjects, like a vulgar person would do.” 21 But David said to Michal, “I was dancing before the LORD, who chose me over your father and all his house when He appointed me ruler over the LORD’s people Israel. I will celebrate before the LORD, 22 and I will humiliate and humble myself even more than this. Yet I will be honored by the maidservants of whom you have spoken.” 23 And Michal the daughter of Saul had no children to the day of her death."
+      ]
+    }
+  ],
+  "context_lines": [
+    "David returns to bless his household, but Michal greets him with sarcasm. She accuses him of exposing himself before the maidservants in a way unworthy of a king. He answers that his celebration was before the LORD, who appointed him to rule Israel.",
+    "",
+    "David is willing to lower himself further rather than protect his royal dignity at the expense of honoring God. He expects honor from the very women Michal has mentioned. The account closes by saying that Michal had no children to the day of her death."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) and [Gill](https://biblehub.com/commentaries/gill/2_samuel/6.htm) read Michal’s accusation in relation to David laying aside royal clothing, rather than as proof that he was literally naked. The [USCCB Bible notes](https://bible.usccb.org/bible/2samuel/6) likewise connect the dispute with her expectations of how a king should behave.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/6.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) understand her childlessness as judgment for despising David’s worship. That is their reading of the closing note. The BSB states the outcome without explaining its physical cause or saying whether David and Michal continued marital relations.",
+    "",
+    "We can recognize the contrast between David’s joy and Michal’s contempt without turning this account into a general explanation of why someone cannot have children. The passage describes this particular household; it gives us no basis for judging other people’s faith from their fertility."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/6.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-six-review.md"
+  }
+}

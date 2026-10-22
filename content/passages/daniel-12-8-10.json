@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "12:8-10",
+    "label": "Daniel 12:8-10",
+    "slug": "daniel-12-8-10"
+  },
+  "section_title": "What is Daniel told when he still does not understand?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "8 I heard, but I did not understand. So I asked, “My lord, what will be the outcome of these things?” 9 “Go on your way, Daniel,” he replied, “for the words are closed up and sealed until the time of the end. 10 Many will be purified, made spotless, and refined, but the wicked will continue to act wickedly. None of the wicked will understand, but the wise will understand."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Daniel hears the answer but does not understand it. He asks what the outcome will be and is told to go on his way: the words remain closed and sealed until the time of the end.",
+    "",
+    "The reply does describe the different responses of people living through the testing. Many will be purified and refined, while the wicked continue in wickedness. The wise will understand.",
+    "",
+    "The passage distinguishes receiving a true message from having immediate understanding of every part. Daniel is called to trust what has been given. The wisdom in view is tied to faithfulness through testing, rather than simply possessing more information than others."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/daniel/12.htm) emphasizes that the events will bring clearer understanding. [Cambridge](https://biblehub.com/commentaries/cambridge/daniel/12.htm) connects the wise with the faithful teachers already described in chapter 11, whose insight shows in the course they choose under pressure. Both connect understanding with a faithful response to God."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/12.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-twelve-review.md"
+  }
+}

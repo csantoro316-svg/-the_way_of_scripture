@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "1:8-15",
+    "label": "Romans 1:8-15",
+    "slug": "romans-1-8-15"
+  },
+  "section_title": "Why does Paul want to visit believers who already have faith?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "8 First, I thank my God through Jesus Christ for all of you, because your faith is being proclaimed all over the world. 9 God, whom I serve with my spirit in preaching the gospel of His Son, is my witness how constantly I remember you 10 in my prayers at all times, asking that now at last by God’s will I may succeed in coming to you. 11 For I long to see you so that I may impart to you some spiritual gift to strengthen you, 12 that is, that you and I may be mutually encouraged by each other’s faith.",
+        "13 I do not want you to be unaware, brothers, how often I planned to come to you (but have been prevented from visiting until now), in order that I might have a harvest among you, just as I have had among the other Gentiles. 14 I am obligated both to Greeks and non-Greeks, both to the wise and the foolish. 15 That is why I am so eager to preach the gospel also to you who are in Rome."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul thanks God through Jesus Christ because the Roman believers’ faith is widely known. He constantly remembers them in prayer and asks that, by God’s will, he may finally visit. This is a relationship he values before meeting the whole community in person.",
+    "",
+    "He wants to share a spiritual gift that will strengthen them, then immediately describes the benefit as mutual: their faith will encourage him, and his will encourage them. His authority as an apostle does not remove his need for the faith and company of other believers.",
+    "",
+    "Paul has often planned a visit but has been prevented. Later, [Romans 15:18–24](https://biblehub.com/bsb/romans/15.htm) explains that his work of taking the gospel to places where Christ was not known has delayed the journey. The letter does not tell us that the Romans resent him or that his thanksgiving is an attempt to repair an insult.",
+    "",
+    "His obligation reaches Greeks and non-Greeks, the wise and the foolish. He is eager to preach in Rome as well. Their existing faith is a reason to strengthen them, not a reason to regard the gospel as something they have outgrown."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read these verses as an example of prayerful planning, care for fellow believers and encouragement that flows both ways. Paul’s desired visit serves their growth as well as his continuing mission.",
+    "",
+    "Commentators differ over the spiritual gift he hopes to share. [Calvin on verse 11](https://biblehub.com/commentaries/calvin/romans/1.htm) includes teaching, encouragement and prophecy among the gifts Paul could use for them. [Wesley on verse 11](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-romans/) places greater emphasis on gifts associated with an apostle’s personal ministry and laying on of hands. These are individual explanations; both must be read with Paul’s own emphasis on mutual encouragement in verse 12."
+  ],
+  "god_plan_lines": [
+    "Paul’s obligation to people across cultural and educational boundaries fits the commission to the nations in verses 5–6. The gospel is not reserved for people with a particular background or level of learning. His travel plans serve that wider calling.",
+    "",
+    "[Acts 28:14–16](https://biblehub.com/bsb/acts/28.htm) later shows Roman believers coming out to meet Paul. He thanks God and takes courage at the sight of them. His arrival is under guard, yet the encouragement he desires in this letter becomes visible through their welcome. God’s work through an apostle includes the support he receives from others."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-opening-review.md"
+  }
+}

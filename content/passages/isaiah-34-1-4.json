@@ -5,37 +5,57 @@
     "label": "Isaiah 34:1-4",
     "slug": "isaiah-34-1-4"
   },
-  "section_title": "Judgment on the Nations",
+  "section_title": "Why are all nations called to hear this warning?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 Come near, O nations, to listen;",
-        "pay attention, O peoples.",
-        "Let the earth hear, and all that fills it,",
-        "the world and all that springs from it.",
-        "2 The LORD is angry with all the nations",
-        "and furious with all their armies.",
-        "He will devote them to destruction;",
-        "He will give them over to slaughter.",
-        "3 Their slain will be left unburied,",
-        "and the stench of their corpses will rise;",
-        "the mountains will flow with their blood.",
-        "4 All the stars of heaven will be dissolved.",
-        "The skies will be rolled up like a scroll,",
-        "and all their stars will fall",
-        "like withered leaves from the vine,",
-        "like foliage from the fig tree."
+        "1 Come near, O nations, to listen; pay attention, O peoples. Let the earth hear, and all that fills it, the world and all that springs from it. 2 The LORD is angry with all the nations and furious with all their armies. He will devote them to destruction; He will give them over to slaughter. 3 Their slain will be left unburied, and the stench of their corpses will rise; the mountains will flow with their blood. 4 All the stars of heaven will be dissolved. The skies will be rolled up like a scroll, and all their stars will fall like withered leaves from the vine, like foliage from the fig tree."
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 34**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "The audience expands to the nations, the peoples and the whole inhabited world. The warning concerns the Lord’s anger against their armies. No ruler or military force is outside the reach of His judgment.",
+    "",
+    "The images are deliberately overwhelming: bodies left unburied, mountains flowing with blood, stars dissolving and the sky rolling up like a scroll. The falling stars are compared with withered leaves and foliage dropping from a fig tree.",
+    "",
+    "These opening verses establish the wide scope before the chapter turns specifically to Edom. Read beside chapter 35, they form the dark side of a larger movement from judgment to the restoration of God’s people."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Judgment on the Nations** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/isaiah/34.htm) and [Wesley](https://biblehub.com/commentaries/wes/isaiah/34.htm) understand the warning as reaching beyond one attacking army to the enemies of God’s people more broadly. Wesley explains the collapsing sky as the kind of prophetic language used to describe devastating upheaval.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 34** remains the first control on meaning."
+    "The [USCCB notes](https://bible.usccb.org/bible/isaiah/34) read chapters 34–35 together as a collection moving from the defeat of Zion’s enemies to Zion’s restoration. Their explanation keeps the worldwide opening connected with the particular judgment on Edom that follows.",
+    "",
+    "These readings emphasize the scale of the warning and its relationship to deliverance. The terrifying language brings earthly strength into perspective before the Lord."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[Revelation 6:12–17](https://biblehub.com/bsb/revelation/6.htm) takes up the same striking images: stars fall like figs shaken from a tree, and the sky recedes like a rolled scroll. Kings, commanders and people of every station seek shelter from the One on the throne and from the wrath of the Lamb.",
+    "",
+    "This use of Isaiah’s imagery places the warning within the New Testament’s account of judgment. The Lamb is the One whose seal is opened; human rank and power cannot make people secure against Him.",
+    "",
+    "The connection is clear in the images themselves. It does not require assigning a separate modern event to each falling star or leaf. The larger claim is that God’s judgment reaches powers that appear beyond challenge."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/34.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-thirty-four-six-review.md"
+  }
 }

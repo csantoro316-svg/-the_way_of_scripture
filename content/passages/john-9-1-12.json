@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "9:1-12",
+    "label": "John 9:1-12",
+    "slug": "john-9-1-12"
+  },
+  "section_title": "Why does Jesus give sight to a man born blind?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Now as Jesus was passing by, He saw a man blind from birth, 2 and His disciples asked Him, “Rabbi, who sinned, this man or his parents, that he was born blind?” 3 Jesus answered, “Neither this man nor his parents sinned, but this happened so that the works of God would be displayed in him. 4 While it is daytime, we must do the works of Him who sent Me. Night is coming, when no one can work. 5 While I am in the world, I am the light of the world.”",
+        "6 When Jesus had said this, He spit on the ground, made some mud, and applied it to the man’s eyes. 7 Then He told him, “Go, wash in the Pool of Siloam” (which means “Sent”). So the man went and washed, and came back seeing.",
+        "8 At this, his neighbors and those who had formerly seen him begging began to ask, “Isn’t this the man who used to sit and beg?” 9 Some claimed that he was, but others said, “No, he just looks like him.” But the man kept saying, “I am the one.” 10 “How then were your eyes opened?” they asked. 11 He answered, “The man they call Jesus made some mud and anointed my eyes, and He told me to go to Siloam and wash. So I went and washed and received my sight.” 12 “Where is He?” they asked. “I do not know,” he answered."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The disciples see a man blind from birth and ask whose sin caused his blindness. Their question offers two explanations, both built around blame. Jesus rejects those explanations for this man’s condition and directs them instead to what God is about to do. He is not declaring that the man and his parents have never sinned; He is answering the question about why he was born blind.",
+    "",
+    "Jesus again identifies Himself as the light of the world and speaks of doing the Father’s work while there is opportunity. He makes mud, puts it on the man’s eyes and sends him to wash in Siloam. John translates the pool’s name as Sent. That wording sits alongside Jesus’ reference to the Father who sent Him, but the account does not explain a hidden meaning for every part of the healing.",
+    "",
+    "The man goes, washes and returns able to see. John does not tell us that his eyes were already healed underneath the mud or describe the exact moment his sight returned. The emphasis is on Jesus’ action and the man doing what He tells him. We should not turn this particular way of healing into a technique that every sick person must repeat.",
+    "",
+    "The neighbors’ questions establish that the change is real and surprising. Some doubt that he is the same man, but he keeps identifying himself and tells them what happened. His knowledge is still limited: he knows Jesus’ name and what He did, but does not know where He is. The rest of the chapter will follow his growing understanding."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Jesus’ answer as rejecting a direct link between this man’s blindness and a particular sin by him or his parents, while showing God’s work through his healing. [Calvin on verse 3](https://biblehub.com/commentaries/calvin/john/9.htm), [Wesley on verse 3](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) and the [Catholic bishops’ note on verse 2](https://bible.usccb.org/bible/john/9) agree on that central point.",
+    "",
+    "The details have also invited symbolic readings. [Augustine, Tractate 44, section 2](https://www.newadvent.org/fathers/1701044.htm), connects the mud with the Word becoming flesh and the washing with baptism in Christ. Calvin, in his explanation of verse 7, declines the mud-as-incarnation reading and emphasizes Christ’s power to work through physical things. These are the named teachers’ explanations; the text itself directly records the healing and John’s translation of Siloam."
+  ],
+  "god_plan_lines": [
+    "[Isaiah 35:4–6](https://biblehub.com/bsb/isaiah/35.htm) places the opening of blind eyes within the hope of God coming to save His people. This healing fits that larger picture of restoration: God’s work reaches an actual person whose need has been present from birth.",
+    "",
+    "Jesus Himself gives the story a further meaning in [John 9:39–41](https://biblehub.com/bsb/john/9.htm), where seeing and blindness also describe people’s response to Him. The physical healing is real; it also helps us understand His work of bringing people into the light. The man who begins by receiving sight will come to confess faith in the One who healed him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/9.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-nine-review.md"
+  }
+}

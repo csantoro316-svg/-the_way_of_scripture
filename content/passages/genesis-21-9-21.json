@@ -10,21 +10,47 @@
     {
       "label": "BSB",
       "paragraphs": [
-        "9 But Sarah saw that the son whom Hagar the Egyptian had borne to Abraham was mocking her son, 10 and she said to Abraham, \u201cExpel the slave woman and her son, for the slave woman\u2019s son will never share in the inheritance with my son Isaac!\u201d",
-        "11 Now this matter distressed Abraham greatly because it concerned his son Ishmael. 12 But God said to Abraham, \u201cDo not be distressed about the boy and your maidservant. Listen to everything that Sarah tells you, for through Isaac your offspring will be reckoned. 13 But I will also make a nation of the slave woman\u2019s son, because he is your offspring.\u201d",
-        "14 Early in the morning, Abraham got up, took bread and a skin of water, put them on Hagar\u2019s shoulders, and sent her away with the boy. She left and wandered in the Wilderness of Beersheba. 15 When the water in the skin was gone, she left the boy under one of the bushes. 16 Then she went off and sat down nearby, about a bowshot away, for she said, \u201cI cannot bear to watch the boy die!\u201d And as she sat nearby, she lifted up her voice and wept.",
-        "17 Then God heard the voice of the boy, and the angel of God called to Hagar from heaven, \u201cWhat is wrong, Hagar? Do not be afraid, for God has heard the voice of the boy where he lies. 18 Get up, lift up the boy, and take him by the hand, for I will make him into a great nation.\u201d 19 Then God opened her eyes, and she saw a well of water. So she went and filled the skin with water and gave the boy a drink.",
+        "9 But Sarah saw that the son whom Hagar the Egyptian had borne to Abraham was mocking her son, 10 and she said to Abraham, “Expel the slave woman and her son, for the slave woman’s son will never share in the inheritance with my son Isaac!”",
+        "11 Now this matter distressed Abraham greatly because it concerned his son Ishmael. 12 But God said to Abraham, “Do not be distressed about the boy and your maidservant. Listen to everything that Sarah tells you, for through Isaac your offspring will be reckoned. 13 But I will also make a nation of the slave woman’s son, because he is your offspring.”",
+        "14 Early in the morning, Abraham got up, took bread and a skin of water, put them on Hagar’s shoulders, and sent her away with the boy. She left and wandered in the Wilderness of Beersheba. 15 When the water in the skin was gone, she left the boy under one of the bushes. 16 Then she went off and sat down nearby, about a bowshot away, for she said, “I cannot bear to watch the boy die!” And as she sat nearby, she lifted up her voice and wept.",
+        "17 Then God heard the voice of the boy, and the angel of God called to Hagar from heaven, “What is wrong, Hagar? Do not be afraid, for God has heard the voice of the boy where he lies. 18 Get up, lift up the boy, and take him by the hand, for I will make him into a great nation.” 19 Then God opened her eyes, and she saw a well of water. So she went and filled the skin with water and gave the boy a drink.",
         "20 And God was with the boy, and he grew up and settled in the wilderness and became a great archer. 21 And while he was dwelling in the Wilderness of Paran, his mother got a wife for him from the land of Egypt."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 21**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "At the time of Isaac's celebration, Sarah sees Ishmael mocking and insists that he must not share the inheritance with Isaac. Abraham is deeply distressed because Ishmael is his son too. God tells him to listen to Sarah while distinguishing two promises: the covenant line will be reckoned through Isaac, and Ishmael will also become a nation because he is Abraham's offspring.",
+    "",
+    "Abraham sends Hagar and Ishmael away with bread and water. In the wilderness the water runs out, and Hagar leaves the boy beneath a bush, then sits at a distance because she cannot bear to watch him die. The account stays with her grief rather than treating the departure as a tidy solution to a household dispute.",
+    "",
+    "God hears the boy, and the angel of God addresses Hagar, tells her not to fear, and renews the promise of a great nation. God opens her eyes to a well, and she gives the boy water. The ending says that God is with him as he grows, becomes an archer, lives in Paran, and takes a wife from Egypt through his mother's arrangement. The promised line through Isaac is kept distinct, while Ishmael is cared for."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Sarah Turns against Hagar** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 21** remains the first control on meaning."
+    "A common Christian reading distinguishes Isaac's place in the covenant promise from God's continuing mercy toward Ishmael. [Wesley's notes on Genesis 21:9, 13, 17](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) connect the mocking with Galatians and caution against assuming that exclusion from this particular covenant role means exclusion from every mercy of God."
   ],
-  "deeper_study": []
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "god_plan_lines": [
+    "[Galatians 4:21–31](https://biblehub.com/bsb/galatians/4.htm) explicitly takes up this separation. Paul uses the slave woman and free woman, their sons, and the inheritance dispute to explain slavery under the law and the freedom of children of promise. He addresses people wanting to be under the law and points believers to the freedom given through Christ in [Galatians 5:1](https://biblehub.com/bsb/galatians/5.htm). This is Paul's stated connection, rather than a hidden meaning inferred from every object Hagar carries.",
+    "",
+    "Genesis also keeps God's earlier word to Hagar in view. In chapter 16 He heard her affliction and promised a future for her child; here He hears the boy and provides water. God's particular purpose through Isaac and His compassion for Hagar and Ishmael belong in the same story. The distinction between the sons is not a reason to overlook the suffering or the care described here."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/21.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-lot-and-isaac-review.md"
+  }
 }

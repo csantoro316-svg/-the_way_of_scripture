@@ -1,0 +1,52 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "46:19-24",
+    "label": "Ezekiel 46:19-24",
+    "slug": "ezekiel-46-19-24"
+  },
+  "section_title": "Why are there separate places for preparing the offerings?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "19 Then the man brought me through the entrance at the side of the gate into the holy chambers facing north, which belonged to the priests, and he showed me a place there at the far western end 20 and said to me, “This is the place where the priests shall boil the guilt offering and the sin offering, and where they shall bake the grain offering, so that they do not bring them into the outer court and transmit holiness to the people.”",
+        "21 Then he brought me into the outer court and led me around to its four corners, and I saw a separate court in each of its corners. 22 In the four corners of the outer court there were enclosed courts, each forty cubits long and thirty cubits wide. Each of the four corner areas had the same dimensions. 23 Around the inside of each of the four courts was a row of masonry with ovens built at the base of the walls on all sides. 24 And he said to me, “These are the kitchens where those who minister at the temple will cook the sacrifices offered by the people.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The guide shows Ezekiel a place at the western end of the priests’ holy chambers. Here they boil the sin and guilt offerings and bake the grain offerings, keeping them from being carried into the outer court and transmitting holiness to the people.",
+    "",
+    "He then shows four enclosed courts, one at each corner of the outer court. Each has masonry with ovens where the temple servants cook the sacrifices offered by the people.",
+    "",
+    "The vision includes these ordinary tasks of preparing food as part of ordered sanctuary life. It distinguishes offerings belonging to the priests’ holy service from preparation for the people."
+  ],
+  "common_interpretation_lines": [
+    "[Cambridge](https://biblehub.com/commentaries/cambridge/ezekiel/46.htm) understands the first kitchens as serving the priests’ portions and the corner kitchens as serving the people’s offerings. [Wesley](https://biblehub.com/commentaries/wes/ezekiel/46.htm) likewise explains the smaller courts and the structures used for cooking.",
+    "",
+    "The separation follows the distinction between holy service and common access already stated in chapters 42 and 44. The passage does not describe cooking arrangements as a way of hiding visible supernatural light."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/46.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-forty-six-eight-review.md"
+  }
+}

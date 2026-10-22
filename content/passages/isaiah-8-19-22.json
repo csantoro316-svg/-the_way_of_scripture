@@ -5,23 +5,52 @@
     "label": "Isaiah 8:19-22",
     "slug": "isaiah-8-19-22"
   },
-  "section_title": "Darkness and Light",
+  "section_title": "Where should people turn for guidance when fear and darkness grow?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "19 When men tell you to consult the spirits of the dead and the spiritists who whisper and mutter, shouldn\u2019t a people consult their God instead? Why consult the dead on behalf of the living? 20 To the law and to the testimony! If they do not speak according to this word, they have no light of dawn.",
+        "19 When men tell you to consult mediums and spiritists who whisper and mutter, shouldn’t a people consult their God instead? Why consult the dead on behalf of the living? 20 To the law and to the testimony! If they do not speak according to this word, they have no light of dawn.",
         "21 They will roam the land, dejected and hungry. When they are famished, they will become enraged; and looking upward, they will curse their king and their God. 22 Then they will look to the earth and see only distress and darkness and the gloom of anguish. And they will be driven into utter darkness."
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 8**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "The passage anticipates pressure to consult mediums and spiritists. Its answer is a pair of questions: should a people not consult their God, and why seek the dead on behalf of the living?",
+    "",
+    "The call to the law and testimony directs the hearers back to God’s instruction. The same concern appears in [Deuteronomy 18:9–14](https://biblehub.com/bsb/deuteronomy/18.htm), which forbids consulting mediums, spiritists and the dead.",
+    "",
+    "The chapter closes with hunger, anger and cursing of king and God. Looking upward or down to the earth brings no relief, only distress and darkness. These verses describe the grim outcome of turning away from the light of God’s word, before the next chapter’s announcement of light in the darkness."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Darkness and Light** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/isaiah/8.htm) and [Wesley](https://biblehub.com/commentaries/wes/isaiah/8.htm) read the appeal to the law and testimony as the answer to seeking guidance from forbidden spiritual sources. Their emphasis is on God’s revealed instruction as the standard by which counsel is tested.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 8** remains the first control on meaning."
+    "The closing distress gives the warning its urgency. The issue is where people place their confidence when hardship exposes the failure of the guidance they have chosen."
   ],
-  "deeper_study": []
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "Returning to the Word",
+      "href": "../studies/returning-to-the-word.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/8.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-eight-review.md"
+  }
 }

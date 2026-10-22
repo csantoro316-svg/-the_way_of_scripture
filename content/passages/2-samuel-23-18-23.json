@@ -1,0 +1,67 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "23:18-23",
+    "label": "2 Samuel 23:18-23",
+    "slug": "2-samuel-23-18-23"
+  },
+  "section_title": "How are Abishai and Benaiah honored for their service?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "18 Now Abishai, the brother of Joab and son of Zeruiah, was chief of the Three, and he wielded his spear against three hundred men, killed them, and won a name along with the Three. 19 Was he not more honored than the Three? And he became their commander, even though he was not included among the Three.",
+        "20 And Benaiah son of Jehoiada was a man of valor from Kabzeel, a man of many exploits. He struck down two champions of Moab, and on a snowy day he went down into a pit and killed a lion. 21 He also struck down an Egyptian, a huge man. Although the Egyptian had a spear in his hand, Benaiah went against him with a club, snatched the spear from his hand, and killed the Egyptian with his own spear. 22 These were the exploits of Benaiah son of Jehoiada, who won a name along with the three mighty men. 23 He was most honored among the Thirty, but he did not become one of the Three. And David appointed him over his guard."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Abishai is remembered for killing three hundred men and becoming a commander, while remaining distinct from the Three previously named. His reputation and position are recorded together.",
+    "",
+    "Benaiah is remembered for overcoming two Moabite champions, killing a lion in a pit on a snowy day and defeating an Egyptian with the man’s own spear. David appoints him over his guard.",
+    "",
+    "The account recognizes both men’s achievements without making them identical. Each has a name, a record of service and a particular responsibility."
+  ],
+  "common_interpretation_lines": [
+    "[Gill](https://biblehub.com/commentaries/gill/2_samuel/23.htm) distinguishes the first group of three from the men discussed afterward. He understands Benaiah’s appointment as command of David’s bodyguard.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) likewise reads the distinctions as differences in military honor and ability. The text remembers more than one level of recognition within the group of warriors.",
+    "",
+    "The passage gives the basis for their reputation in concrete deeds. It does not supply a complete chart explaining every rank in the army."
+  ],
+  "god_plan_lines": [
+    "Recognition of faithful service also appears in Jesus’ parable in [Luke 19:11–27](https://biblehub.com/bsb/luke/19.htm). A returning ruler calls his servants to account, and faithful servants receive further responsibility.",
+    "",
+    "That offers a limited comparison with David recognizing men who served and entrusting them with command. The larger biblical lesson is that service matters to the King and carries responsibility.",
+    "",
+    "Luke does not present David’s military list as a map of future offices. The comparison encourages faithfulness without turning each warrior’s place into a prediction about a Christian’s rank."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/23.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-twenty-three-review.md"
+  }
+}

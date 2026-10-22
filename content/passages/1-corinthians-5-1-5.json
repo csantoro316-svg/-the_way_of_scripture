@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "5:1-5",
+    "label": "1 Corinthians 5:1-5",
+    "slug": "1-corinthians-5-1-5"
+  },
+  "section_title": "Why does Paul tell the church to act?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 It is actually reported that there is sexual immorality among you, and of a kind that is intolerable even among pagans: A man has his father’s wife. 2 And you are proud! Shouldn’t you rather have been stricken with grief and have removed from your fellowship the man who did this?",
+        "3 Although I am absent from you in body, I am present with you in spirit, and I have already pronounced judgment on the one who did this, just as if I were present. 4 When you are assembled in the name of our Lord Jesus and I am with you in spirit, along with the power of the Lord Jesus, 5 hand this man over to Satan for the destruction of the flesh, so that his spirit may be saved on the Day of the Lord."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul has received a report of a man having a sexual relationship with his father’s wife. He describes the behavior as intolerable even among pagans. Yet the church has responded with pride rather than grief, and has failed to remove the man from its fellowship.",
+    "",
+    "The correction is directed at the community as well as the offender. Paul has already reached a judgment about the reported conduct. He calls for the church to act when assembled in the name and power of the Lord Jesus, rather than leaving the matter as a private disagreement between individuals.",
+    "",
+    "Handing the man over to Satan is severe language for the action Paul requires. The stated goal reaches beyond immediate punishment: that his spirit may be saved on the Day of the Lord. The passage calls for a response to serious wrongdoing while keeping the person’s ultimate good in view. It does not report what later happened to him."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as serious church discipline aimed at the offender’s good and the community’s holiness. The Reformed [Westminster Confession 30.3–4](https://www.opc.org/wcf.html), for example, describes correction and exclusion as serving the recovery of offenders as well as protecting the church.",
+    "",
+    "Interpreters differ over the destruction of the flesh. [Wesley’s note on verse 5](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) understands bodily pain or sickness, with repentance able to avert the threatened destruction. [Calvin’s comment](https://biblehub.com/commentaries/calvin/1_corinthians/5.htm) instead emphasizes exclusion from the church and a severe but temporary judgment intended for salvation. These are their readings of the warning, rather than a single detailed explanation held by all Christians."
+  ],
+  "god_plan_lines": [
+    "[1 Timothy 1:18–20](https://biblehub.com/bsb/1_timothy/1.htm) also speaks of handing people over to Satan, there with the stated purpose of teaching them not to blaspheme. The parallel shows correction directed toward a changed response to God.",
+    "",
+    "In [2 Corinthians 2:5–11](https://biblehub.com/bsb/2_corinthians/2.htm), Paul urges forgiveness, comfort and reaffirmed love when a punishment has been sufficient. That passage does not name its offender, so it need not be treated as a certain account of this man’s later history. It does show why discipline must keep restoration in view rather than become a reason to prolong someone’s despair."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/5.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-five-review.md"
+  }
+}

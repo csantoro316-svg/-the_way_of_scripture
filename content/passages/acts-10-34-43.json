@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "10:34-43",
+    "label": "Acts 10:34-43",
+    "slug": "acts-10-34-43"
+  },
+  "section_title": "What good news does Peter announce to the household?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "34 Then Peter began to speak: “I now truly understand that God does not show favoritism, 35 but welcomes those from every nation who fear Him and do what is right. 36 He has sent this message to the people of Israel, proclaiming the gospel of peace through Jesus Christ, who is Lord of all. 37 You yourselves know what has happened throughout Judea, beginning in Galilee with the baptism that John proclaimed: 38 how God anointed Jesus of Nazareth with the Holy Spirit and with power, and how Jesus went around doing good and healing all who were oppressed by the devil, because God was with Him.",
+        "39 We are witnesses of all that He did, both in the land of the Jews and in Jerusalem. And although they put Him to death by hanging Him on a tree, 40 God raised Him up on the third day and caused Him to be seen— 41 not by all the people, but by the witnesses God had chosen beforehand, by us who ate and drank with Him after He rose from the dead. 42 And He commanded us to preach to the people and to testify that He is the One appointed by God to judge the living and the dead. 43 All the prophets testify about Him that everyone who believes in Him receives forgiveness of sins through His name.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Peter begins with what he now understands: God does not show favoritism toward one nation over another. He welcomes those who fear Him and do what is right. Peter immediately directs the gathered household to Jesus Christ, whom he identifies as Lord of all.",
+    "",
+    "The message follows Jesus’ ministry, His death and His resurrection. Peter speaks as a witness to His work and to the risen Jesus, with whom the chosen witnesses ate and drank. Jesus’ appointment as judge of the living and the dead gives the message weight for everyone hearing it.",
+    "",
+    "The speech ends with forgiveness through Jesus’ name for everyone who believes in Him. The absence of national favoritism does not make the message about Jesus unnecessary: it is the message Peter has been sent to announce to this Gentile gathering."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read the speech as announcing the same Lord and forgiveness to Gentiles as to Jews. Readers differ over the wider implications of verse 35 for people who have not yet heard about Christ.",
+    "",
+    "[Wesley on verse 35](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) understands acceptance through Christ as possible even where a person does not yet know Him, while treating the fuller knowledge brought by Peter as a great blessing. The Reformed [Westminster Confession, chapter 10, paragraph 4](https://www.opc.org/wcf.html), rejects salvation by another way for people who do not profess the Christian faith; its broader teaching places salvation in Christ’s call and grace.",
+    "",
+    "The Catholic Church’s [Catechism, paragraphs 847–848](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_three/article_9/paragraph_3_the_church_is_one,_holy,_catholic,_and_apostolic.html), teaches that those ignorant of the gospel through no fault of their own may attain salvation when moved by grace to seek and obey God. It also insists that the church must still proclaim the gospel. These are different accounts of how Christ’s salvation reaches people, rather than a shared claim that Jesus is unnecessary."
+  ],
+  "god_plan_lines": [
+    "[Deuteronomy 10:17–19](https://biblehub.com/bsb/deuteronomy/10.htm) already describes God as showing no partiality and loving the foreigner. Peter’s realization does not introduce a previously unloving God who has now changed His character. The news about Jesus reaches across the national boundary in keeping with God’s justice and care.",
+    "",
+    "Peter later refers to this Gentile hearing in [Acts 15:7–11](https://biblehub.com/bsb/acts/15.htm). He says God made no distinction between the groups, cleansing their hearts by faith, and places their salvation together in the grace of Jesus. That is the New Testament’s own explanation of this episode’s importance."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/10.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-ten-review.md"
+  }
+}

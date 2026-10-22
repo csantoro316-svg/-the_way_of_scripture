@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "13:4-12",
+    "label": "Acts 13:4-12",
+    "slug": "acts-13-4-12"
+  },
+  "section_title": "What happens when Elymas tries to turn a hearer from the message?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "4 So Barnabas and Saul, sent forth by the Holy Spirit, went down to Seleucia and sailed from there to Cyprus. 5 When they arrived at Salamis, they proclaimed the word of God in the Jewish synagogues. And John was with them as their helper. 6 They traveled through the whole island as far as Paphos, where they found a Jewish sorcerer and false prophet named Bar-Jesus, 7 an attendant of the proconsul, Sergius Paulus. The proconsul, a man of intelligence, summoned Barnabas and Saul because he wanted to hear the word of God. 8 But Elymas the sorcerer (for that is what his name means) opposed them and tried to turn the proconsul from the faith.",
+        "9 Then Saul, who was also called Paul, filled with the Holy Spirit, looked directly at Elymas 10 and said, “O child of the devil and enemy of all righteousness, you are full of all kinds of deceit and trickery! Will you never stop perverting the straight ways of the Lord? 11 Now look, the hand of the Lord is against you, and for a time you will be blind and unable to see the light of the sun.” Immediately mist and darkness came over him, and he groped about, seeking someone to lead him by the hand. 12 When the proconsul saw what had happened, he believed, for he was astonished at the teaching about the Lord."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Barnabas and Saul, sent by the Holy Spirit, travel through Seleucia to Cyprus. They proclaim God’s word in the Jewish synagogues at Salamis, with John as their helper, and continue across the island to Paphos.",
+    "",
+    "There Sergius Paulus, the proconsul, asks to hear God’s word. A sorcerer and false prophet named Bar-Jesus, also called Elymas, opposes the messengers and tries to turn the proconsul from the faith. Luke presents a hearer seeking the message and another person trying to obstruct his hearing.",
+    "",
+    "Saul, whom Luke also identifies as Paul, confronts Elymas while filled with the Holy Spirit. He exposes his deceit and announces temporary blindness. Elymas immediately needs someone to lead him by the hand. The proconsul believes, astonished at the teaching about the Lord.",
+    "",
+    "Luke’s wording introduces Paul as another name Saul already has; it does not describe a new name given at his conversion. [The USCCB’s note on verse 9](https://bible.usccb.org/bible/acts/13) likewise distinguishes the double name from a conversion-related renaming."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read the blindness as judgment on deliberate obstruction of the message, with the result directing the proconsul to the Lord’s teaching. [Calvin on verse 12](https://biblehub.com/commentaries/calvin/acts/13.htm) connects the sign with the hearer taking that teaching seriously, rather than treating the miracle as a substitute for it."
+  ],
+  "god_plan_lines": [
+    "There is a notable parallel with [Acts 9:1–19](https://biblehub.com/bsb/acts/9.htm). Saul had opposed Jesus’ people, become blind and needed to be led by the hand; now Elymas meets temporary blindness while opposing the message. The resemblance is clear, but Luke does not say that Elymas afterward comes to faith as Saul did.",
+    "",
+    "The journey also shows the witness moving among different hearers: people in Jewish synagogues and a Roman official who wants to hear. The message remains God’s word about the Lord, even as the setting changes and opposition takes another form."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/13.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-thirteen-opening-review.md"
+  }
+}

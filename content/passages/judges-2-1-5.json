@@ -5,24 +5,58 @@
     "label": "Judges 2:1-5",
     "slug": "judges-2-1-5"
   },
-  "section_title": "Israel Rebuked at Bochim",
+  "section_title": "Why does the messenger call Israel to account?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 Now the angel of the LORD went up from Gilgal to Bochim and said, \u201cI brought you up out of Egypt and led you into the land that I had promised to your fathers, and I said, \u2018I will never break My covenant with you, 2 and you are not to make a covenant with the people of this land, but you shall tear down their altars.\u2019",
-        "Yet you have not obeyed My voice. What is this you have done? 3 So now I tell you that I will not drive out these people before you; they will be thorns in your sides, and their gods will be a snare to you.\u201d",
+        "1 Now the angel of the LORD went up from Gilgal to Bochim and said, “I brought you up out of Egypt and led you into the land that I had promised to your fathers, and I said, ‘I will never break My covenant with you, 2 and you are not to make a covenant with the people of this land, but you shall tear down their altars.’ Yet you have not obeyed My voice. What is this you have done? 3 So now I tell you that I will not drive out these people before you; they will be thorns in your sides, and their gods will be a snare to you.”",
         "4 When the angel of the LORD had spoken these words to all the Israelites, the people lifted up their voices and wept. 5 So they called that place Bochim and offered sacrifices there to the LORD."
       ]
     }
   ],
   "context_lines": [
-    "In **Judges 2**, this section should be read within the flow of the chapter and the larger movement of Judges."
+    "The opening chapter described the tribes’ mixed progress. Now the angel of the LORD explains the covenant issue. Speaking in God’s first person, the messenger recalls the rescue from Egypt, the gift of the land, and the promise not to break His covenant. Israel, however, has not obeyed the command against covenants with the inhabitants or the command to tear down their altars.",
+    "",
+    "The announced consequence fits that failure: God will no longer drive the people out before Israel, and their gods will become a snare. This brings the surrounding worship practices into the center of the problem. The people have left a danger in place that will draw them away from the LORD.",
+    "",
+    "The people weep and offer sacrifices. The place name Bochim recalls their weeping. This response is serious, but the rest of the chapter will show that grief over consequences and lasting obedience are not automatically the same thing."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Israel Rebuked at Bochim** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "Readers differ over the messenger’s identity. The Jewish commentator [Rashi](https://www.sefaria.org/Rashi_on_Judges.2.1?lang=bi) identifies him as Phinehas, recalling an earlier Jewish teaching. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-judges/), [Henry](https://biblehub.com/commentaries/mhc/judges/2.htm), and [Gill](https://biblehub.com/commentaries/gill/judges/2.htm) instead understand him as the divine Son appearing before His birth as Jesus. They see the first-person claims about delivering Israel and making the covenant as pointing to God Himself.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Judges 2** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-judges/) also reads the people’s tears as having different possible motives: some mourn their sin, while others fear the trouble ahead. The passage records weeping and sacrifice; the continuing story supplies the test of whether their response becomes faithfulness."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "God’s faithfulness remains central as the Bible’s story unfolds. [Second Timothy 2:11–13](https://biblehub.com/bsb/2_timothy/2.htm) joins promises of life and reigning with Christ to a warning about denying Him, then declares that He remains faithful. Both the assurance and the warning belong to Paul’s teaching.",
+    "",
+    "[Hebrews 12:5–11](https://biblehub.com/bsb/hebrews/12.htm) describes the Father’s discipline as part of His loving purpose: His children are to share His holiness and learn a life of righteousness and peace. God’s purpose includes restoring and forming His people, while taking their unfaithfulness seriously."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who is The Angel of the Lord?",
+      "href": "../studies/angel-of-the-lord.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/judges/2.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-judges-two-review.md"
+  }
 }

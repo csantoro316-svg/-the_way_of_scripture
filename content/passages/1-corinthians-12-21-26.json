@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "12:21-26",
+    "label": "1 Corinthians 12:21-26",
+    "slug": "1-corinthians-12-21-26"
+  },
+  "section_title": "Why can’t stronger members dismiss those who seem weaker?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "21 The eye cannot say to the hand, “I do not need you.” Nor can the head say to the feet, “I do not need you.” 22 On the contrary, the parts of the body that seem to be weaker are indispensable, 23 and the parts we consider less honorable, we treat with greater honor. And our unpresentable parts are treated with special modesty, 24 whereas our presentable parts have no such need. But God has composed the body and has given greater honor to the parts that lacked it,",
+        "25 so that there should be no division in the body, but that its members should have mutual concern for one another. 26 If one part suffers, every part suffers with it; if one part is honored, every part rejoices with it."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The picture now addresses the opposite mistake. The eye cannot tell the hand it is unnecessary, and the head cannot dismiss the feet. Having a conspicuous or respected part does not make someone self-sufficient.",
+    "",
+    "Paul goes further: the parts that seem weaker are indispensable. The body’s less presentable parts receive particular care and covering. The comparison challenges the way a community assigns honor, rather than inviting it to identify people as permanently embarrassing or inferior.",
+    "",
+    "God’s arrangement aims at mutual care instead of division. Paul describes sharing both suffering and honor: another member’s pain is not irrelevant to the rest, and another’s recognition is a reason for joy rather than resentment.",
+    "",
+    "The passage does not require an exact church role for every physical organ. Its practical force is clear without that chart. Members who can offer help still need others, and those needing care are people to honor, rather than burdens whose absence would improve the church."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as a call to reject contempt and care for members who might otherwise be overlooked. [Wesley’s notes on verses 21–24](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) connect Paul’s comparison with the special care given to vulnerable parts of a body. The emphasis falls on belonging and mutual concern, not ranking people by usefulness."
+  ],
+  "god_plan_lines": [
+    "[Philippians 2:1–11](https://biblehub.com/bsb/philippians/2.htm) connects concern for others with the mind of Christ. He takes the form of a servant, humbles Himself in obedience, and is exalted by God. The community’s pattern of honor is shaped by Him.",
+    "",
+    "That connection gives mutual care a deeper setting than practical teamwork. God’s people are being formed to reflect the Lord who gave Himself for others. Making room for the vulnerable and sharing another’s suffering are part of a life shaped by His humility and love."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/12.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-twelve-middle-review.md"
+  }
+}

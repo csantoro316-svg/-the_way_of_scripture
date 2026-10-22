@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "18:35-43",
+    "label": "Luke 18:35-43",
+    "slug": "luke-18-35-43"
+  },
+  "section_title": "What happens when the man beside the road calls to Jesus?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "35 As Jesus drew near to Jericho, a blind man was sitting beside the road, begging. 36 When he heard the crowd going by, he asked what was happening. 37 “Jesus of Nazareth is passing by,” they told him. 38 So he called out, “Jesus, Son of David, have mercy on me!” 39 Those who led the way admonished him to be silent, but he cried out all the louder, “Son of David, have mercy on me!”",
+        "40 Jesus stopped and directed that the man be brought to Him. When he had come near, Jesus asked him, 41 “What do you want Me to do for you?” “Lord,” he said, “let me see again.” 42 “Receive your sight!” Jesus replied. “Your faith has healed you.” 43 Immediately he received his sight and followed Jesus, glorifying God. And all the people, when they saw it, gave praise to God."
+      ]
+    }
+  ],
+  "context_lines": [
+    "As Jesus draws near to Jericho, a blind man hears the passing crowd and asks what is happening. When told that Jesus of Nazareth is passing by, he calls to Him as Son of David and asks for mercy.",
+    "",
+    "People leading the way try to silence him, but he continues calling. Jesus stops, has him brought near and asks what he wants. The man asks to see again. Jesus grants his sight and connects the healing with his faith.",
+    "",
+    "The response extends beyond the healing itself. The man follows Jesus and glorifies God, and the people who witness it also praise God. Coming after the disciples’ lack of understanding, the account provides a striking narrative contrast: this man at the roadside calls to Jesus, receives sight and follows Him."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly recognize a real act of healing, an appeal of faith and the man’s response in following Jesus and praising God. The Catholic bishops’ notes understand Son of David as a title connected with Jesus’ role as Messiah and link the healing with the salvation He brings. ([USCCB notes on Luke 18:38–42](https://bible.usccb.org/bible/luke/18))"
+  ],
+  "god_plan_lines": [
+    "At the beginning of Luke, Gabriel promises that Jesus will receive David’s throne and reign in an unending kingdom. The man’s appeal to the Son of David connects this roadside scene with that larger royal promise. ([Luke 1:31–33](https://biblehub.com/bsb/luke/1.htm))",
+    "",
+    "Isaiah pictures God coming to save, with blind eyes opened and other afflictions relieved. This healing is a supported parallel to that picture of restoration. The account also shows how mercy becomes a witness: the person restored follows Jesus, and those who see what happened give praise to God. ([Isaiah 35:4–6](https://biblehub.com/bsb/isaiah/35.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/18.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-eighteen-closing-review.md"
+  }
+}

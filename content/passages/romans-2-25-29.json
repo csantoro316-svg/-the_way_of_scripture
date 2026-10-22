@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "2:25-29",
+    "label": "Romans 2:25-29",
+    "slug": "romans-2-25-29"
+  },
+  "section_title": "Why does Paul speak of circumcision of the heart?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "25 Circumcision has value if you observe the law, but if you break the law, your circumcision has become uncircumcision. 26 If a man who is not circumcised keeps the requirements of the law, will not his uncircumcision be regarded as circumcision? 27 The one who is physically uncircumcised yet keeps the law will condemn you who, even though you have the written code and circumcision, are a lawbreaker.",
+        "28 A man is not a Jew because he is one outwardly, nor is circumcision only outward and physical. 29 No, a man is a Jew because he is one inwardly, and circumcision is a matter of the heart, by the Spirit, not by the written code. Such a man’s praise does not come from men, but from God."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Circumcision is the physical covenant sign given to Abraham and his descendants in [Genesis 17](https://biblehub.com/bsb/genesis/17.htm). Paul says the sign has value in connection with observing the law. It does not shield a lawbreaker from the consequences of disobedience.",
+    "",
+    "He then reverses the assumed advantage. A physically uncircumcised person who keeps the law exposes the failure of someone who has both the written code and circumcision yet breaks the law. The outward sign cannot do the work of an obedient heart.",
+    "",
+    "Paul’s conclusion moves inward: circumcision is a matter of the heart, by the Spirit. He is describing an inward work, rather than a physical procedure on the heart. The approval that matters comes from God, who sees what outward observers cannot.",
+    "",
+    "This prepares the next question in chapter 3 about the advantage of being Jewish. Paul’s warning against relying on outward identity should therefore be read within the argument he continues to develop, rather than treated as the last sentence he will say about Israel."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read these verses as a contrast between outward religious identity and the inward response God seeks. The sign is not condemned simply for being physical; the confidence placed in it apart from obedience is challenged. The emphasis on the Spirit and God’s approval also prevents the inward response from becoming merely another way to impress other people."
+  ],
+  "god_plan_lines": [
+    "The heart language is already present in Israel’s Scriptures. [Deuteronomy 10:16](https://biblehub.com/bsb/deuteronomy/10.htm) calls the people to circumcise their hearts and stop being stubborn. [Deuteronomy 30:6](https://biblehub.com/bsb/deuteronomy/30.htm) promises that God will circumcise their hearts so that they love Him and live. Paul’s inward emphasis continues that concern.",
+    "",
+    "[Colossians 2:11–13](https://biblehub.com/bsb/colossians/2.htm) also describes a circumcision performed by Christ rather than human hands, connecting it with being made alive in Him. These passages direct attention to God’s work in people, beyond the possession of an outward mark. That connection does not by itself settle every later question about Israel and the church."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-two-review.md"
+  }
+}

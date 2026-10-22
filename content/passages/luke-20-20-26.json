@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "20:20-26",
+    "label": "Luke 20:20-26",
+    "slug": "luke-20-20-26"
+  },
+  "section_title": "What do we owe Caesar, and what do we owe God?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "20 So they watched Him closely and sent spies who pretended to be sincere. They were hoping to catch Him in His words in order to hand Him over to the rule and authority of the governor. 21 “Teacher,” they inquired, “we know that You speak and teach correctly. You show no partiality but teach the way of God in accordance with the truth. 22 Is it lawful for us to pay taxes to Caesar or not?”",
+        "23 But Jesus saw through their duplicity and said to them, 24 “Show Me a denarius. Whose image and inscription are on it?” “Caesar’s,” they answered. 25 So Jesus told them, “Give to Caesar what is Caesar’s, and to God what is God’s.” 26 And they were unable to trap Him in His words before the people. And amazed at His answer, they fell silent."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The leaders now send spies who pretend to be sincere. Luke states their purpose: to catch Jesus in something He says and hand Him over to the governor’s authority. Their flattering introduction leads to a question about paying taxes to Caesar.",
+    "",
+    "Jesus recognizes the deception and asks to see a denarius. The question about its image and inscription brings Caesar’s claim into view. Jesus then tells them to give Caesar what belongs to Caesar and God what belongs to God.",
+    "",
+    "The Greek verb behind give is ἀποδίδωμι, apodidōmi (ah-poh-DEE-doh-mee). Thayer explains its use here as paying or discharging what is due, including taxes. It can also mean give back, but that meaning does not make this a refusal to pay what is owed. ([Thayer, Greek 591](https://biblehub.com/greek/591.htm))",
+    "",
+    "The spies cannot trap Him before the people. They are amazed and fall silent. His answer addresses both the civil obligation they have raised and the obligation to God that their question has left aside."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly recognize a real duty toward civil authority while keeping God’s claim above human authority. The Catholic Catechism teaches paying taxes and refusing directives contrary to God’s moral order; the Westminster Confession likewise requires tribute and obedience to lawful commands. ([Catechism §§2240–2242](https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_two/article_4/v_the_authorities_in_civil_society.html); [Westminster Confession 23.4](https://www.opc.org/wcf.html))"
+  ],
+  "god_plan_lines": [
+    "Genesis supplies a useful Scriptural parallel to the image on the coin: human beings bear God’s image. Romans then calls believers to offer their whole lives to Him in response to His mercy. Read together, these passages point to a claim that reaches beyond money to the people we are and the lives we live. ([Genesis 1:26–27](https://biblehub.com/bsb/genesis/1.htm); [Romans 12:1–2](https://biblehub.com/bsb/romans/12.htm))",
+    "",
+    "The apostles later teach both paying what is due to governing authorities and obeying God when a human command conflicts with His commission. These texts show how service to God shapes life within civil society without making earthly rulers the highest authority. ([Romans 13:1–7](https://biblehub.com/bsb/romans/13.htm); [Acts 5:27–29](https://biblehub.com/bsb/acts/5.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/20.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-twenty-closing-review.md"
+  }
+}

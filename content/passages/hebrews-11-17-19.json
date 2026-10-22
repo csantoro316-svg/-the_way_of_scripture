@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "11:17-19",
+    "label": "Hebrews 11:17-19",
+    "slug": "hebrews-11-17-19"
+  },
+  "section_title": "How could Abraham trust God when Isaac’s life was at stake?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 By faith Abraham, when he was tested, offered up Isaac on the altar. He who had received the promises was ready to offer his one and only son, 18 even though God had said to him, “Through Isaac your offspring will be reckoned.” 19 Abraham reasoned that God could raise the dead, and in a sense, he did receive Isaac back from death."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The account returns to Abraham’s test in [Genesis 22:1–18](https://biblehub.com/bsb/genesis/22.htm). Isaac was the son through whom God had promised descendants, yet Abraham was asked to offer him. The tension concerned God’s own promise, as well as Abraham’s love for his son.",
+    "",
+    "The word [translated one and only](https://biblehub.com/greek/3439.htm) can describe someone unique or the only one of a kind. Abraham also had Ishmael; here Isaac’s unique place as the promised heir is in view. The phrase does not erase the earlier account of his family.",
+    "",
+    "Hebrews supplies Abraham’s reasoning: God could raise the dead. His trust did not depend on knowing how God would resolve the test. It depended on God being able to keep His promise even beyond death.",
+    "",
+    "Isaac was not actually killed. God stopped Abraham and provided a ram instead. Hebrews describes receiving Isaac back as, in a sense, a return from death. The [word behind that expression](https://biblehub.com/greek/3850.htm) can describe a comparison or figure; it has prompted the readings below."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/11.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) emphasize that Isaac’s rescue was like receiving him back from death, although he had not literally died. Both understand Abraham’s trust in resurrection as the key to the test.",
+    "",
+    "The [USCCB note](https://bible.usccb.org/bible/hebrews/11) takes the picture further by understanding Isaac’s return as a symbol of Christ’s resurrection, while acknowledging the reading that it simply describes Isaac’s rescue figuratively. Calvin allows a connection with Christ but distinguishes that broader parallel from what he takes as this phrase’s immediate meaning."
+  ],
+  "god_plan_lines": [
+    "A supported parallel connects the beloved son in this account with God giving His Son. [Romans 8:32](https://biblehub.com/bsb/romans/8.htm) describes God not sparing His own Son but giving Him for us. [John 10:17–18](https://biblehub.com/bsb/john/10.htm) describes Jesus willingly laying down His life and taking it up again.",
+    "",
+    "The difference matters alongside the likeness: Isaac was spared, while Jesus actually died and rose. Hebrews explicitly states Abraham’s trust in God’s power to raise the dead; the father-and-son connection is a parallel drawn alongside that statement. It does not establish every detail of Isaac’s age, thoughts or response."
+  ],
+  "current_position_lines": [
+    "Our related study [Who is The Angel of the Lord?](https://thewayofscripture.com/studies/angel-of-the-lord.html) reads the Angel who stops Abraham in Genesis 22 as the eternal Son acting before His earthly life as Jesus. That is the study’s conclusion about the Genesis account behind these verses. Hebrews itself concentrates here on Abraham trusting God’s promise and His power to raise the dead."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Who is The Angel of the Lord?",
+      "href": "../studies/angel-of-the-lord.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/11.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-eleven-middle-review.md",
+    "position_source_detail": "Who is The Angel of the Lord? — content/studies/angel_of_the_lord.md:57–65 and107–117/139–147; explicit Genesis22 account and identity conclusion, carefully distinguished from Hebrews immediate statement."
+  }
+}

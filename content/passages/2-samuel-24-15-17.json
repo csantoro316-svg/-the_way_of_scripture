@@ -1,0 +1,72 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "24:15-17",
+    "label": "2 Samuel 24:15-17",
+    "slug": "2-samuel-24-15-17"
+  },
+  "section_title": "What does David ask when he sees the people suffering?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 So the LORD sent a plague upon Israel from that morning until the appointed time, and seventy thousand of the people from Dan to Beersheba died. 16 But when the angel stretched out his hand to destroy Jerusalem, the LORD relented from the calamity and said to the angel who was destroying the people, “Enough! Withdraw your hand now!” At that time the angel of the LORD was by the threshing floor of Araunah the Jebusite. 17 When David saw the angel striking down the people, he said to the LORD, “Surely I, the shepherd, have sinned and acted wickedly. But these sheep, what have they done? Please, let Your hand fall upon me and my father’s house.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The plague kills seventy thousand people across Israel. As the angel stretches out his hand toward Jerusalem, the LORD stops the destruction. The angel is beside Araunah’s threshing floor.",
+    "",
+    "The Hebrew verb behind relented is naham, pronounced nah-KHAHM. [Brown–Driver–Briggs](https://biblehub.com/hebrew/5162.htm) includes this verse among uses concerning calamity brought on others. In the account, the LORD’s response is made clear by His command to withdraw the destroying hand.",
+    "",
+    "David then appeals to the LORD, identifying himself as the shepherd who sinned and the people as sheep. He asks that the judgment fall on him and his father’s house. The king takes responsibility and pleads for the people under his care."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/24.htm) understands the LORD’s relenting as a change in the judgment being carried out, rather than God repenting of moral wrongdoing. The narrative presents mercy in the midst of severe judgment.",
+    "",
+    "[Gill](https://biblehub.com/commentaries/gill/2_samuel/24.htm) reads David’s appeal as an expression of affection and sympathy for his people. David is absorbed with his own guilt. The opening verse also speaks of anger against Israel, so his question about the sheep should be heard as his plea, rather than a complete explanation of every person’s standing before God."
+  ],
+  "god_plan_lines": [
+    "Henry and Gill both see a shepherd comparison here. David is willing to bear the consequence rather than see his people destroyed. In [John 10:11–18](https://biblehub.com/bsb/john/10.htm), Jesus identifies Himself as the good shepherd who lays down His life for the sheep.",
+    "",
+    "The difference gives the comparison its force. David is confessing his own wrongdoing and asking to bear judgment; Jesus gives His life for others. [1 Peter 2:21–24](https://biblehub.com/bsb/1_peter/2.htm) describes Him as without sin and as bearing our sins.",
+    "",
+    "This is a supported parallel between shepherds, not a claim that John directly identifies David’s prayer as a prediction. It directs hope beyond the failure of an earthly shepherd to the saving work of Christ."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Angel of the LORD",
+      "href": "../studies/angel-of-the-lord.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/24.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-twenty-four-review.md"
+  }
+}

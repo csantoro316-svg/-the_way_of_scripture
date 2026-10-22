@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "2:14-18",
+    "label": "Hebrews 2:14-18",
+    "slug": "hebrews-2-14-18"
+  },
+  "section_title": "Why did Jesus share our flesh, suffering and temptation?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 Now since the children have flesh and blood, He too shared in their humanity, so that by His death He might destroy him who holds the power of death, that is, the devil, 15 and free those who all their lives were held in slavery by their fear of death. 16 For surely it is not the angels He helps, but the descendants of Abraham.",
+        "17 For this reason He had to be made like His brothers in every way, so that He might become a merciful and faithful high priest in service to God, in order to make atonement for the sins of the people. 18 Because He Himself suffered when He was tempted, He is able to help those who are being tempted."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus shares the flesh and blood of the people He saves. By becoming truly human, He can undergo death and break the power of the devil, freeing people from slavery to the fear of death.",
+    "",
+    "The word [translated destroy](https://biblehub.com/greek/2673.htm) can mean to deprive something of its power or effect. The point here is the defeat of the devil’s power through Christ’s death. The sentence does not say that the devil immediately ceased to exist, nor that Christians stopped experiencing physical death.",
+    "",
+    "The help described is for Abraham’s descendants, rather than angels. Jesus had to become like His brothers so that He could be their merciful and faithful high priest. Making atonement means dealing with their sins before God; He does more than offer encouragement from a distance.",
+    "",
+    "His suffering and temptation also explain the help He gives now. He knows human trials from within human life. People facing temptation can come to a Savior who has suffered and is able to help."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/2.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) both read these verses as affirming Christ’s real humanity, His saving death and His ability to help those who are tested. Calvin expressly understands the devil’s destruction here as the breaking of his power over those Christ saves, while still recognizing that the enemy is active.",
+    "",
+    "Both connect the high-priest language with dealing with sin and bringing people to God. Jesus’ shared humanity is essential to that work. It does not imply He sinned; [Hebrews 4:15](https://biblehub.com/bsb/hebrews/4.htm) explicitly says He was tempted without sin."
+  ],
+  "god_plan_lines": [
+    "[Colossians 2:13–15](https://biblehub.com/bsb/colossians/2.htm) also brings forgiveness and victory together: God deals with the debt of sin and disarms hostile powers through the cross. [1 Corinthians 15:54–57](https://biblehub.com/bsb/1_corinthians/15.htm) looks toward death’s final defeat and gives thanks for victory through Jesus. Hebrews’ freedom from fear rests on what Christ accomplishes, rather than a promise that suffering has already disappeared.",
+    "",
+    "The same purpose continues in [Hebrews 4:14–16](https://biblehub.com/bsb/hebrews/4.htm): because Jesus is a sympathetic high priest, His people can approach God for mercy and timely help. His coming among us, His death and His present care form one saving work."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-two-review.md"
+  }
+}

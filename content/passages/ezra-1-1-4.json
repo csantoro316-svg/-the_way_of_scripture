@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Ezra",
+    "citation": "1:1-4",
+    "label": "Ezra 1:1-4",
+    "slug": "ezra-1-1-4"
+  },
+  "section_title": "How does the return from exile begin?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 In the first year of Cyrus king of Persia, to fulfill the word of the LORD spoken through Jeremiah, the LORD stirred the spirit of Cyrus king of Persia to send a proclamation throughout his kingdom and to put it in writing as follows: 2 “This is what Cyrus king of Persia says: ‘The LORD, the God of heaven, who has given me all the kingdoms of the earth, has appointed me to build a house for Him at Jerusalem in Judah. 3 Whoever among you belongs to His people, may his God be with him, and may he go to Jerusalem in Judah and build the house of the LORD, the God of Israel; He is the God who is in Jerusalem. 4 And let every survivor, wherever he lives, be assisted by the men of that region with silver, gold, goods, and livestock, along with a freewill offering for the house of God in Jerusalem.’”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Ezra opens with a proclamation from Cyrus king of Persia permitting God’s people to return to Jerusalem and rebuild the temple. The opening sentence explains the event through God’s action: He stirs Cyrus’s spirit to fulfill the word spoken through Jeremiah.",
+    "",
+    "The Hebrew verb behind this stirring is [עוּר, ur](https://biblehub.com/hebrew/5782.htm), pronounced OOR. Brown–Driver–Briggs explains its use here as rousing someone to action. The same verb appears when God stirs the returning people in verse 5: both the royal permission and the people’s response belong to the beginning of the restoration.",
+    "",
+    "Cyrus invites those who belong to God’s people to go, and directs their neighbors to provide practical support. The aim is specific: rebuilding the house of the LORD in Jerusalem, rather than simply allowing a change of residence."
+  ],
+  "common_interpretation_lines": [
+    "The main reading is straightforward: the proclamation is presented as God fulfilling His promise through a Persian ruler. [Henry](https://biblehub.com/commentaries/mhc/ezra/1.htm) and [Gill](https://biblehub.com/commentaries/gill/ezra/1.htm) emphasize God moving the king to act, while [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-ezra/) connects the opening with the promised end of captivity. The passage does not describe how Cyrus first learned of that promise."
+  ],
+  "god_plan_lines": [
+    "[Jeremiah 29:10–14](https://biblehub.com/bsb/jeremiah/29.htm) promises a return after Babylon’s seventy years and calls the exiles to seek God. Ezra explicitly identifies the proclamation as a fulfillment of Jeremiah’s word.",
+    "",
+    "The same larger purpose appears in [Isaiah 44:24–28](https://biblehub.com/bsb/isaiah/44.htm) and [45:1–7](https://biblehub.com/bsb/isaiah/45.htm), where Cyrus is named in connection with Jerusalem and the temple. God’s purposes for His people can advance through a ruler who does not yet know Him. The return therefore begins with His faithfulness, not with a claim that the Persian king has become Israel’s promised savior."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezra/1.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezra-one-two-review.md"
+  }
+}

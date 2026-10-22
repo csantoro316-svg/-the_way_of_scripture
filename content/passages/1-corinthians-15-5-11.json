@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "15:5-11",
+    "label": "1 Corinthians 15:5-11",
+    "slug": "1-corinthians-15-5-11"
+  },
+  "section_title": "Why does Paul name the people who saw the risen Christ?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 and that He appeared to Cephas and then to the Twelve. 6 After that, He appeared to more than five hundred brothers at once, most of whom are still living, though some have fallen asleep. 7 Then He appeared to James, then to all the apostles.",
+        "8 And last of all He appeared to me also, as to one of untimely birth. 9 For I am the least of the apostles and am unworthy to be called an apostle, because I persecuted the church of God. 10 But by the grace of God I am what I am, and His grace to me was not in vain. No, I worked harder than all of them—yet not I, but the grace of God that was with me. 11 Whether, then, it was I or they, this is what we preach, and this is what you believed."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul continues the gospel summary by listing appearances of the risen Christ: to Cephas, the Twelve, more than five hundred at once, James, all the apostles, and finally himself. The BSB identifies Cephas as Peter. The list presents resurrection as something witnessed, rather than a symbol for the disciples feeling hopeful again.",
+    "",
+    "Paul says most of the larger group were still alive when he wrote, although some had died. He does not give the location of that appearance or describe what Jesus said there. The Twelve is the group’s recognized name; it need not mean that exactly twelve people attended every appearance.",
+    "",
+    "He describes his own appearance as an untimely birth and explains his sense of unworthiness by recalling his persecution of the church. He credits God’s grace for what he has become. That grace has led to strenuous work, yet he still gives God the credit rather than treating effort as something achieved independently of Him.",
+    "",
+    "The final sentence returns to shared testimony: whether Paul or the other apostles preached, the message was the same one the Corinthians believed. His personal story supports the common proclamation rather than replacing it."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the list as testimony to Christ’s resurrection and Paul’s account as a confession of undeserved grace at work in his service. [Wesley’s notes on verses 9–11](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) and the [USCCB note on verses 9–11](https://bible.usccb.org/bible/1corinthians/15) both connect his past persecution, his calling and the work God enabled."
+  ],
+  "god_plan_lines": [
+    "[Galatians 1:13–24](https://biblehub.com/bsb/galatians/1.htm) gives Paul’s own account of God revealing His Son to him so he might proclaim Him among the Gentiles. Churches that had known him as a persecutor glorified God when they heard what had happened.",
+    "",
+    "That makes his appearance in the witness list more than a personal achievement. God’s grace turns an enemy of the church into a servant of the message he tried to destroy, and the benefit reaches other people. The gospel’s advance displays the mercy Paul confesses."
+  ],
+  "current_position_lines": [
+    "On James’s place in verse 7, [Who Shepherds the Church?](https://thewayofscripture.com/studies/who-shepherds-the-church.html) sees his witness to the risen Jesus and service among the elders as likely factors in his recognized standing. The study distinguishes that personal standing from a transferable title making one person the institutional head of every church. This is our conclusion about the use of James’s example, rather than a new position on every detail of Paul’s witness list."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/15.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-fifteen-opening-review.md",
+    "position_source_detail": "Who Shepherds the Church? — content/studies/who_shepherds_the_church.md lines 64–76, But Wasn’t James the Head of the Church?, explicit 1 Corinthians 15:7 reference and distinction between standing and institutional office; limited to verse 7."
+  }
+}

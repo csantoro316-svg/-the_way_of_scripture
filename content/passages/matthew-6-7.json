@@ -5,15 +5,56 @@
     "label": "Matthew 6:7",
     "slug": "matthew-6-7"
   },
-  "versions": [],
-  "context_lines": [
-    "In **Matthew 6**, part of the Sermon on the Mount, Jesus contrasts hypocritical religion with true life before the Father. The chapter moves through giving, prayer, fasting, treasure, anxiety, and kingdom-seeking, so every individual saying must be read inside that unified call to trust the Father and seek His will first."
+  "section_title": "Words That Mean Something",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 And when you pray, do not babble on like pagans, for they think that by their many words they will be heard."
+      ]
+    }
   ],
-  "explanation_lines": [
-    "Jesus introduces this prayer with an important instruction that is easy to miss: \"pray, then, in this way\" \u2014 not \"pray these exact words.\" He is not handing His disciples a script to recite. He is giving them a structure, a pattern for how a right relationship with God should shape the content and order of prayer. This matters enormously, because the very same chapter, just a few verses earlier, condemns mechanical repetition in prayer (Matthew 6:7) \u2014 making it more than a little ironic that this model prayer became, in later church history, the most repeated, recited prayer in all of Christianity. Jesus was not establishing a liturgy. He was teaching His disciples how to think about approaching the Father.",
+  "context_lines": [
+    "This verse belongs to Jesus' teaching about prayer in [Matthew 6:5–13](https://biblehub.com/bsb/matthew/6.htm). He has just warned against praying to gain an audience's admiration. He now warns against another mistake: supposing that using many words is what makes God listen.",
     "",
-    "The structure of the prayer is not arbitrary, and it does not actually divide into a movement toward God followed by a movement toward us. The whole prayer stays oriented toward God's will from beginning to end. Verses 9 and 10 establish this directly: His name is to be honored, His kingdom is what we long for, and His will \u2014 not ours \u2014 is what we want done. What follows in verses 11 through 13 is not a shift toward human concerns. It is the same orientation continued: bread that is Christ Himself, forgiveness that restores us to Him, and deliverance from temptation that keeps us walking in His will rather than away from it. Every line of this prayer asks for what God already wills for us \u2014 never for something outside it.",
+    "The verb for babbling is βαττολογέω, *battologeō* (bat-toh-loh-GEH-oh). [Thayer's Greek Lexicon](https://biblehub.com/greek/945.htm) explains it here as using many idle words or repeating things emptily. The end of the verse explains the problem. The speakers trust the amount they say as the reason they will be heard.",
     "",
-    "This means the prayer never actually gives room for personal requests detached from His will. There is no point in the model where Jesus turns from \"Your will be done\" to \"now ask for what you want.\" A prayer life built around personal concerns is not simply out of order \u2014 it is asking for something the prayer itself was never designed to provide."
-  ]
+    "Jesus is not setting a maximum prayer length or treating every repeated request as meaningless. In [Matthew 26:39–44](https://biblehub.com/bsb/matthew/26.htm), He returns to the same request in prayer, always submitting to His Father's will. [Luke 18:1–8](https://biblehub.com/bsb/luke/18.htm) calls for persistence. A person can return sincerely to a need without treating repetition as a way to force God's hand.",
+    "",
+    "The next verse says the Father already knows what is needed. The model prayer that follows is direct and purposeful. God's name, kingdom, and will guide the requests; the person praying depends on Him for provision, forgiveness, and protection."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand these verses as rejecting prayer offered for show or as an empty stream of words. [Wesley on Matthew 6:6–9](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/), the Catholic [Catechism, 2700–2704](https://www.vatican.va/content/catechism/en/part_four/section_one/chapter_three/article_1/expressions_of_prayer.index.html), and the Reformed [Westminster Larger Catechism, question 187](https://www.opc.org/lc.html), all emphasize prayer that is meant from the heart; they allow sincere use of the Lord's Prayer while rejecting words used without understanding or faith."
+  ],
+  "god_plan_lines": [
+    "God's help in prayer reaches into human weakness. [Romans 8:26–27](https://biblehub.com/bsb/romans/8.htm) says people do not know how to pray as they should, yet the Spirit helps and intercedes according to God's will. The passage places their hope in His help, not in an ability to produce impressive speech.",
+    "",
+    "[Hebrews 4:14–16](https://biblehub.com/bsb/hebrews/4.htm) gives another reason for confidence: Jesus is the great High Priest who understands human weakness. Through Him, believers can approach God's grace for mercy and help. God's saving provision opens the way for sincere prayer even when the person praying struggles to find words."
+  ],
+  "current_position_lines": [
+    "Our study Prayer and Faith rejects treating prayer as a formula for obtaining the result we want. It understands Jesus' model as teaching dependence on God and submission to His will. The warning against mechanical repetition fits that reading: a quantity of words cannot replace trust in the Father.",
+    "",
+    "Our companion study What Does Prayer Look Like? points to Jesus' repeated prayer in Gethsemane and explains that continued asking can remain consistent with surrender. It is the Father's will that must govern the asking."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/6.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "existing-study",
+    "position_source_detail": "Prayer and Faith — opening, Governing Principle, and Lord's Prayer: communion, submission, prior knowledge, model rather than formula; What Does Prayer Look Like? — Gethsemane, continued petition consistent with surrender",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-sincere-prayer-review.md"
+  }
 }

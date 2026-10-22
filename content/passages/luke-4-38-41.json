@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "4:38-41",
+    "label": "Luke 4:38-41",
+    "slug": "luke-4-38-41"
+  },
+  "section_title": "How does Jesus care for the sick in Capernaum?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "38 After Jesus had left the synagogue, He went to the home of Simon, whose mother-in-law was suffering from a high fever. So they appealed to Jesus on her behalf, 39 and He stood over her and rebuked the fever, and it left her. And she got up at once and began to serve them.",
+        "40 At sunset, all who were ill with various diseases were brought to Jesus, and laying His hands on each one, He healed them. 41 Demons also came out of many people, shouting, “You are the Son of God!” But He rebuked the demons and would not allow them to speak, because they knew He was the Christ."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After leaving the synagogue, Jesus enters Simon’s home. Simon’s mother-in-law has a high fever, and the people appeal to Him on her behalf. He stands over her, rebukes the fever, and it leaves her.",
+    "",
+    "She gets up at once and serves them. The action shows how immediate and complete her recovery is. Luke shows her returning to ordinary activity right away. He tells us she had a fever without identifying a particular disease.",
+    "",
+    "At sunset, people bring others with various illnesses. Jesus lays His hands on each one and heals them. Demons also come out of many, identifying Him as the Son of God, but He silences them. The account distinguishes illness and demonic oppression while showing His authority over both. ([Mark 1:29–34](https://biblehub.com/bsb/mark/1.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian traditions commonly see these healings as expressions of Jesus’ compassion and authority, with Simon’s mother-in-law’s immediate activity showing her restoration. They also understand His works as signs of the saving mission He has begun. ([Catechism 547–549](https://www.vatican.va/archive/ENG0015/__P1L.HTM); [Matthew 8:14–17](https://biblehub.com/bsb/matthew/8.htm))"
+  ],
+  "god_plan_lines": [
+    "Matthew explicitly connects the healings in this same scene with Isaiah’s servant carrying infirmities and diseases. The help given to these suffering people belongs to the promised servant’s saving work. It also fits Peter’s later description of Jesus going about doing good and healing in the power of the Spirit. ([Matthew 8:14–17](https://biblehub.com/bsb/matthew/8.htm); [Acts 10:34–43](https://biblehub.com/bsb/acts/10.htm))",
+    "",
+    "The Bible’s wider hope reaches toward the complete removal of suffering. Revelation describes God dwelling with His people, wiping away tears, and bringing an end to death and pain in the new creation. These particular acts of restoration give a glimpse of the goodness of the Savior whose work leads toward that promised future. ([Revelation 21:1–5](https://biblehub.com/bsb/revelation/21.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/4.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-four-closing-review.md"
+  }
+}

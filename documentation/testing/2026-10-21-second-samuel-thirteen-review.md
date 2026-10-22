@@ -1,0 +1,31 @@
+# Second Samuel 13 passage review — 2026-10-21
+
+Fournewgroups39BSBverses. Entire lesson13PDF148–163read;lesson14PDF164–175readincludesall13:23–39and14opening1–17. WholePDF1–175actuallyread;176+unread. WholeBSB13/WesXIII/Henry13read;Gill13:13,20,21,32,39completecommentsactuallyread;USCCB13notesread. ActualBSBLev18:9/20:17/1Cor13:4–7/Ps34:18/2Cor1:3–4/Rom12:17–21checked. Noowner13/Amnon/Jonadab/Tamaraddressingstudyfound. Noownerstudyedits/newposition. Individualcommentariesnotformaltraditionconsensus. No baselineattribution/wording/structurepubliclycopied.
+
+## 13:1–14
+
+Plan section: included, because (c). Genuinecarecontrastactual1Cor13:4–7patientkind/notself-seeking/notrejoicingevil. NotdirectPaulinterpretsAmnonclaim.
+Position source: none.
+FLAGGED FOR REVIEW: Amnonforces/narratorTamarrefusesactualrape,notconsensualromance. TamarobeysDavidnotconsent. No exactages20s/teens/universalwomenonlycooking/no unmarriedsexencountercustomwithoutindependentcheck. Jonadabcleveractualnotsecretpoliticalbothsidesroyalsuccessionplotguarantee. No allpolygamyfamilymemberautomaticallyperpetrator/victimblameinheritanceclaim. Lev18/20actualprohibitfather/motherdaughtersex/marriage. Wesexpectsroyalexception/Gillseveralreadingsincludingdelayfair,noTamaractuallyadvocateslegaluniversalvictimmarryrapistrule. No universalroyalpoweroverridesGod'slawassertion.
+
+## 13:15–22
+
+Plan section: included, because (c). ActualPs34Godnearbrokenheartedand2Cor1compassion/comfortthroughcommunityaddsGod'scarebeyondthefailedfamilyresponses. NotclaimrapeGod'sapprovedlesson.
+Position source: none.
+FLAGGED FOR REVIEW: Tamarworthnotonlyvirginity/nohonorableprospectsforever/womanuselessafterassault notcopiedfrombaselineoroldcommentators. Ashes/tornrobe/cryingactualnotclinicalhystericsorhopelessforeverdiagnosis. BSBrobeMANYCOLORSnotbaselineonlylongsleeves;quoteexact. No physicalouterrobeconcealedevidenceassumption. AbsalomkeepquietischaracterstatementnotGod'sinstructiontovictims. DavidfuriousmainBSB21,notvariantbecauseAmnonfirstbornsilentlyinserted. Wes/Henry/Gillnotreportedpunishmentcriticismfair;noautomaticcertaintyDavidalreadyknewdesireormotiveseveryoneknown. No mentalillness/demonicdiagnosisexplainsperpetratororvictim.
+
+## 13:23–29
+
+Plan section: included, because (c). ActualRom12privatevengeancenotrepayevilovercomewithgood;doesnoteraseearlierneedjusticeorrequirevictimtrustabuser.
+Position source: none.
+FLAGGED FOR REVIEW: Twoyearsactual;notexactsheepshearingseveraltimesyear/universalfeastingcustom/14milesindependenthistoryomitted. Amnonmerrywineactualnotlateeveningexhaustionnecessary. MurderorderedAbsalomnotbaselineAmnonplanmislabel. NoCharlesemotionalcondition/divinenarratorapprovalofallservantsobeyingroyalorders. NoDavidmustprivatelyprotectAmnonthroughouttwoyearsorallotherbrotherssharedrevengeplot. Claimonlywayjusticeautomaticmurdernotcopied.
+
+## 13:30–39
+
+Plan section: omitted, because none apply. Misinformationgriefanddivisioninterpreted;noadditionconnectionbeyondprecedinggroupsneeded.
+Position source: none.
+FLAGGED FOR REVIEW: Firstreportallsonsfalseactualnextarrivalconfirms. No one14mile2hourrunnermessengerorigin/overheardconspiracyproventiminginvented. JonadabpriorknowledgeGillhypothesisnotfact;Henrycallsfalsefriendactualbutnofullsecretsecondplotguarantee. No God'sspeciallyengineeredfalsealarmtoprovokeprayer/unreportedDavidprayeremotionsasanarratorclaim. GeshurTalmai3yearsactual;notexactmodernmaporsecondsonChileabdeadforever/automaticheirAbsalomclaim. BSB39Davidlonged/consoled,notbaselineDavidRELIEVEDmurderusefuljustice. Gill39reportsceasepursuitversionsdifferentreadingfair;notseparatelexclaim. No allmourningmeansapprovalorcomfortmeansjoyatdeath.
+
+## Validation
+
+Passed direct BSB verification, repository checks (0errors /259warnings), preservation, continuous coverage through13:39, idempotence, eight mobile views, actual Next13:1–14→15–22 with heading focus/top187.5, Hosting dry run, deployment and LIVE MATCH8(exit0). Cumulative41groups334verses22plans41open; intentional omissions globally94. Prefix /tmp/scripture-second-samuel-thirteen-.

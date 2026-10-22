@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "14:15-24",
+    "label": "Luke 14:15-24",
+    "slug": "luke-14-15-24"
+  },
+  "section_title": "What happens when invited guests keep making excuses?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 When one of those reclining with Him heard this, he said to Jesus, “Blessed is everyone who will eat at the feast in the kingdom of God.” 16 But Jesus replied, “A certain man prepared a great banquet and invited many guests. 17 When it was time for the banquet, he sent his servant to tell those who had been invited, ‘Come, for everything is now ready.’ 18 But one after another they all began to make excuses. The first one said, ‘I have bought a field, and I need to go see it. Please excuse me.’ 19 Another said, ‘I have bought five yoke of oxen, and I am going to try them out. Please excuse me.’ 20 Still another said, ‘I have married a wife, so I cannot come.’",
+        "21 The servant returned and reported all this to his master. Then the owner of the house became angry and said to his servant, ‘Go out quickly into the streets and alleys of the city, and bring in the poor, the crippled, the blind, and the lame.’ 22 ‘Sir,’ the servant replied, ‘what you ordered has been done, and there is still room.’ 23 So the master told his servant, ‘Go out to the highways and hedges and compel them to come in, so that my house will be full. 24 For I tell you, not one of those men who were invited will taste my banquet.’”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "A guest responds to Jesus’ words about resurrection by praising the blessing of eating in God’s kingdom. Jesus answers with a story about a great banquet whose invited guests refuse to come when everything is ready.",
+    "",
+    "Their excuses concern a field, oxen and a marriage. Each turns from the prepared meal toward another concern. The host then sends his servant into the city to bring in the poor and people with disabilities.",
+    "",
+    "There is still room, so the invitation goes farther, to the highways and hedges. The host wants his house filled, yet warns that those who refused will not taste his banquet.",
+    "",
+    "The story follows Jesus’ instruction to welcome people who cannot repay an invitation. It now places that generous welcome beside the seriousness of refusing the host’s call."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly recognize both the warning against refusing God’s invitation and His welcome reaching beyond those who assume their place is secure. The Catholic bishops’ notes read the city’s new guests as Israel’s needy hearers and the further invitation as reaching Gentiles. Wesley emphasizes how ordinary, lawful activities can become excuses for refusing. ([USCCB note on Luke 14:15–24](https://bible.usccb.org/bible/luke/14); [Wesley on Luke 14:18](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))",
+    "",
+    "The command to compel people has received differing applications. Wesley understands it as an urgent appeal through love and God’s word. Calvin emphasizes earnest appeals too, but also approved civil laws compelling religious worship. That is his historical position, not a statement that every Reformed church teaches it. ([Wesley on Luke 14:23](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [Calvin on Luke 14:23](https://biblehub.com/commentaries/calvin/luke/14.htm))",
+    "",
+    "The Westminster Confession as published by the Orthodox Presbyterian Church says civil rulers must not interfere in matters of faith and must protect people from religious violence. The Catholic Church’s Declaration on Religious Freedom likewise rejects forcing people to act against their religious beliefs. These official statements distinguish those churches’ teaching from Calvin’s historical application. ([Westminster Confession 23.3](https://www.opc.org/wcf.html); [Declaration on Religious Freedom §2](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_en.html))"
+  ],
+  "god_plan_lines": [
+    "Isaiah pictures the Lord preparing a banquet for all peoples and bringing death and tears to an end. That promise supplies a wider Scriptural setting for the kingdom feast the guest praises and Jesus’ parable describes. ([Isaiah 25:6–9](https://biblehub.com/bsb/isaiah/25.htm))",
+    "",
+    "Ephesians describes people once far away being brought near through Christ and made members of God’s household. Romans likewise connects salvation reaching Gentiles with mercy that still holds hope for Israel. The widening invitation can be read alongside this gathering through Christ, without turning the story into a claim that God has abandoned His people. ([Ephesians 2:11–22](https://biblehub.com/bsb/ephesians/2.htm); [Romans 11:11–15](https://biblehub.com/bsb/romans/11.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/14.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-fourteen-closing-review.md"
+  }
+}

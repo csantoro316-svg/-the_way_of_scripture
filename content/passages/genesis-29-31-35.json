@@ -10,20 +10,40 @@
     {
       "label": "BSB",
       "paragraphs": [
-        "31 When the LORD saw that Leah was unloved, He opened her womb; but Rachel was barren. 32 And Leah conceived and gave birth to a son, and she named him Reuben, for she said, \u201cThe LORD has seen my affliction. Surely my husband will love me now.\u201d",
-        "33 Again she conceived and gave birth to a son, and she said, \u201cBecause the LORD has heard that I am unloved, He has given me this son as well.\u201d So she named him Simeon.",
-        "34 Once again Leah conceived and gave birth to a son, and she said, \u201cNow at last my husband will become attached to me, because I have borne him three sons.\u201d So he was named Levi.",
-        "35 And once more she conceived and gave birth to a son and said, \u201cThis time I will praise the LORD.\u201d So she named him Judah. Then Leah stopped having children."
+        "31 When the LORD saw that Leah was unloved, He opened her womb; but Rachel was barren. 32 And Leah conceived and gave birth to a son, and she named him Reuben, for she said, “The LORD has seen my affliction. Surely my husband will love me now.”",
+        "33 Again she conceived and gave birth to a son, and she said, “Because the LORD has heard that I am unloved, He has given me this son as well.” So she named him Simeon.",
+        "34 Once again Leah conceived and gave birth to a son, and she said, “Now at last my husband will become attached to me, because I have borne him three sons.” So he was named Levi.",
+        "35 And once more she conceived and gave birth to a son and said, “This time I will praise the LORD.” So she named him Judah. Then Leah stopped having children."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 29**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "The LORD sees that Leah is unloved and enables her to have children, while Rachel remains unable to conceive. The account begins with God's notice of Leah's distress, rather than with the sisters' competition. Her place in the household has not made her invisible to Him.",
+    "",
+    "The sons' names give voice to her experience. With Reuben she speaks of the LORD seeing her affliction and hopes Jacob will love her. With Simeon she acknowledges that God has heard she is unloved. With Levi she hopes her husband will become attached to her after the birth of a third son.",
+    "",
+    "At Judah's birth her words turn to praising the LORD. The name is יְהוּדָה, *Yĕhûdâ* (yeh-hoo-DAH); [Brown–Driver–Briggs](https://biblehub.com/hebrew/3063.htm) notes the account's connection with Leah's words of praise. The sequence joins her longing for her husband's affection with recognition of God's attention and generosity. It does not say that every hurt in the marriage has now been resolved."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Reuben, Simeon, Levi, and Judah** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 29** remains the first control on meaning."
+    "Christians commonly read these births as God's care for Leah in her distress, while the names reveal both her longing for love and her gratitude. [Wesley's notes on Genesis 29:31–35](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) emphasize God's comfort for the less-loved wife and the turn toward praise."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "god_plan_lines": [
+    "Two of these sons become especially important in the Bible's account of worship and salvation. Levi's descendants serve in Israel's priesthood, while Jesus comes from Judah's line. [Hebrews 7:11–14](https://biblehub.com/bsb/hebrews/7.htm) explicitly distinguishes the older Levitical priesthood from the priesthood of the Lord who descended from Judah.",
+    "",
+    "Leah cannot yet see that future in the children she holds. Yet the woman who longs to be valued in her own home becomes an ancestor within the history leading to Christ. God's care in her present pain and His purpose extending across generations belong together; the family's preference for Rachel does not determine whose life matters to Him."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/29.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-jacob-household-review.md"
+  }
 }

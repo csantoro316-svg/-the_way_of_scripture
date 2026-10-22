@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "16:25-27",
+    "label": "Romans 16:25-27",
+    "slug": "romans-16-25-27"
+  },
+  "section_title": "What does God make known through the gospel?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "25 Now to Him who is able to strengthen you by my gospel and by the proclamation of Jesus Christ, according to the revelation of the mystery concealed for ages past 26 but now revealed and made known through the writings of the prophets by the command of the eternal God, in order to lead all nations to the obedience that comes from faith — 27 to the only wise God be glory forever through Jesus Christ! Amen."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The letter closes by praising the God who can strengthen believers through the gospel and the proclamation of Jesus Christ. The emphasis returns to God’s power and the message on which their faith rests.",
+    "",
+    "The mystery once concealed is now revealed and made known through the prophetic writings by God’s command. Its reach is all nations, and its purpose is the obedience that comes from faith.",
+    "",
+    "These themes recall the letter’s opening: gospel, Jesus Christ, the Scriptures, the nations and the response of faith. Paul’s argument ends in glory to the only wise God through Jesus Christ."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as praise for God making His saving purpose known in Christ and strengthening His people through that message. Revelation moves toward a response of faith and obedience among the nations. The ending gathers the letter’s teaching into worship of the God whose wisdom and mercy it has described."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 3:4–6](https://biblehub.com/bsb/ephesians/3.htm) gives an explicit explanation of the revealed mystery in Christ: through the gospel, Gentiles share the inheritance, the body and the promise with God’s people. What was hidden is now made known by the Spirit.",
+    "",
+    "That connection brings Romans’ long discussion of Jews and Gentiles into its closing purpose. God makes Christ known so that people from the nations belong to Him in faith. The letter ends where its mission points: a people strengthened by His gospel, responding to Him and giving Him glory through Jesus."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/16.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-sixteen-review.md"
+  }
+}

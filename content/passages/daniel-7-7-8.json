@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "7:7-8",
+    "label": "Daniel 7:7-8",
+    "slug": "daniel-7-7-8"
+  },
+  "section_title": "What makes the fourth beast especially terrifying?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 After this, as I watched in my vision in the night, suddenly a fourth beast appeared, and it was terrifying—dreadful and extremely strong—with large iron teeth. It devoured and crushed; then it trampled underfoot whatever was left. It was different from all the beasts before it, and it had ten horns. 8 While I was contemplating the horns, suddenly another horn, a little one, came up among them, and three of the first horns were uprooted before it. This horn had eyes like those of a man and a mouth that spoke words of arrogance."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The fourth beast is dreadful and exceptionally strong. Its iron teeth crush and devour, and its feet trample what remains. Unlike the earlier beasts, it is not compared with a familiar animal.",
+    "",
+    "It has ten horns. As Daniel watches, another, smaller horn rises among them and uproots three. This horn has human-like eyes and a mouth speaking arrogantly.",
+    "",
+    "The later explanation identifies the horns as kings. These opening details draw attention to both the violence of the kingdom and the particular ruler whose boastful speech will become a central concern."
+  ],
+  "common_interpretation_lines": [
+    "Readings differ over the ruler in view. [Henry](https://biblehub.com/commentaries/mhc/daniel/7.htm) connects the little horn with papal Rome. [Gaebelein](https://biblehub.com/commentaries/gaebelein/daniel/7.htm) expects a future ruler of a revived Roman Empire. The [USCCB notes](https://bible.usccb.org/bible/daniel/7) identify the fourth kingdom with the Greek empire and the horn with Antiochus IV, the king who persecuted the Jews.",
+    "",
+    "These are different identifications of the symbols; they should not be treated as one agreed Christian reading."
+  ],
+  "god_plan_lines": [
+    "[Revelation 13:1–10](https://biblehub.com/bsb/revelation/13.htm) takes up Daniel’s imagery: a beast rises from the sea with ten horns and features of a leopard, bear and lion. It speaks against God and wages war on His people.",
+    "",
+    "John places the beast’s authority in opposition to the Lamb and calls the saints to perseverance and faith. The connection carries Daniel’s warning about violent, self-exalting power into the church’s witness to Jesus. The response God seeks from His people is faithful endurance, even when the opposition appears overwhelming."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/7.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-seven-review.md"
+  }
+}

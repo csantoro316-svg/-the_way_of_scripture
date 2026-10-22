@@ -1,0 +1,52 @@
+{
+  "reference": {
+    "book": "2 Corinthians",
+    "citation": "9:1-5",
+    "label": "2 Corinthians 9:1-5",
+    "slug": "2-corinthians-9-1-5"
+  },
+  "section_title": "Why prepare a promised gift ahead of time?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Now about the service to the saints, there is no need for me to write to you. 2 For I know your eagerness to help, and I have been boasting to the Macedonians that since last year you in Achaia were prepared to give. And your zeal has stirred most of them to do likewise.",
+        "3 But I am sending the brothers in order that our boasting about you in this matter should not prove empty, but that you will be prepared, just as I said. 4 Otherwise, if any Macedonians come with me and find you unprepared, we—to say nothing of you—would be ashamed of having been so confident. 5 So I thought it necessary to urge the brothers to visit you beforehand and make arrangements for the generous gift you had promised. This way, your gift will be prepared generously and not begrudgingly."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul continues the collection discussion from chapter 8. He knows the Corinthians’ eagerness and has told the Macedonians that the believers in Achaia were ready to give a year earlier. Their enthusiasm has encouraged others to act.",
+    "",
+    "Now he is sending the brothers ahead to help turn that eagerness into a prepared gift. He wants the confidence he has expressed in them to be supported by what actually happens. An unprepared collection would bring embarrassment if Macedonians arrived with him.",
+    "",
+    "Paul explains why the advance visit matters: the generous gift they promised should be ready as a willing contribution. Preparing it beforehand gives their generosity room to take practical shape instead of becoming a reluctant response at the last moment.",
+    "",
+    "The paragraph joins confidence in their goodwill with concrete arrangements. Paul both recognizes their desire to help and takes steps so they can follow through."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as preparation for a promised collection, with willing generosity as the goal. [Wesley’s notes on verses 1–5](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-the-corinthians/) connect the brothers’ advance visit with the earlier promise and distinguish the gift from money extracted through persistent pressure."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_corinthians/9.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-corinthians-nine-review.md"
+  }
+}

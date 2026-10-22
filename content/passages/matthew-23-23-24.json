@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "23:23-24",
+    "label": "Matthew 23:23-24",
+    "slug": "matthew-23-23-24"
+  },
+  "section_title": "Careful with the Small Things, Neglecting What Matters Most",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "23 Woe to you, scribes and Pharisees, you hypocrites! You pay tithes of mint, dill, and cumin. But you have disregarded the weightier matters of the law: justice, mercy, and faithfulness. You should have practiced the latter, without neglecting the former. 24 You blind guides! You strain out a gnat but swallow a camel."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus turns from oaths to tithing. The leaders carefully give a tenth of small garden herbs while neglecting justice, mercy, and faithfulness. He says they should practice the weightier matters without neglecting the others. His correction brings their priorities into view rather than declaring that small acts of obedience are worthless.",
+    "",
+    "Faithfulness is πίστις, *pistis* (PISS-tiss), a word that can describe faith or trust, and also the reliability of someone who can be depended on. [Thayer's entry](https://biblehub.com/greek/4102.htm) specifically places Matthew 23:23 under that latter meaning. The charge includes a failure to live faithfully, alongside failures of justice and mercy.",
+    "",
+    "The gnat and camel make the mismatch vivid. [Leviticus 11:4, 41–45](https://biblehub.com/bsb/leviticus/11.htm) places the camel and small crawling creatures among prohibited foods. Jesus pictures careful removal of something tiny alongside swallowing something enormous. Their scruples in small matters have not stopped a much greater wrong."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as a warning against meticulous religious observance that neglects justice, mercy, and trustworthy conduct. [Wesley on 23:23–24](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) explains the practical meaning of faithfulness; the [US Catholic bishops' note on 23:23](https://bible.usccb.org/bible/matthew/23) likewise places the criticism on neglected priorities."
+  ],
+  "god_plan_lines": [
+    "The prophets had already joined worship with the life God seeks. [Micah 6:6–8](https://biblehub.com/bsb/micah/6.htm) answers questions about offerings with a call to justice, mercy, and humility. [Hosea 6:4–6](https://biblehub.com/bsb/hosea/6.htm) places mercy and knowing God above empty sacrifice. Jesus' warning continues that concern for a faithful people.",
+    "",
+    "The New Testament also connects God's saving mercy with changed conduct. [Titus 3:3–8](https://biblehub.com/bsb/titus/3.htm) describes salvation through His mercy and the Spirit's renewal, then calls believers to devote themselves to good deeds. God does not merely create an outwardly careful religious community; His work bears fruit in how people live and care for others."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/23.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-three-review.md"
+  }
+}

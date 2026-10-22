@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "9:24",
+    "label": "Daniel 9:24",
+    "slug": "daniel-9-24"
+  },
+  "section_title": "What is to be accomplished in the seventy weeks?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "24 Seventy weeks are decreed for your people and your holy city to stop their transgression, to put an end to sin, to make atonement for iniquity, to bring in everlasting righteousness, to seal up vision and prophecy, and to anoint the Most Holy Place."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Gabriel announces seventy weeks decreed for Daniel’s people and holy city. The stated purposes concern ending transgression and sin, making atonement for iniquity, bringing everlasting righteousness, sealing vision and prophecy, and anointing the Most Holy Place.",
+    "",
+    "The Hebrew שָׁבוּעַ, shabua (shah-BOO-ah), means a period of seven. [Brown–Driver–Briggs](https://biblehub.com/hebrew/7620.htm) recognizes periods of seven years in Daniel 9. This is why readers commonly speak of seventy sevens or weeks of years.",
+    "",
+    "The answer moves beyond counting the years of exile. The future of the city is placed within God’s purpose to deal with sin and establish lasting righteousness. How the periods are counted and when all the purposes are fulfilled are questions on which interpretations differ."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/daniel/9.htm) and [Wesley](https://biblehub.com/commentaries/wes/daniel/9.htm) connect these purposes with Christ’s redemption. [Gaebelein](https://biblehub.com/commentaries/gaebelein/daniel/9.htm) stresses their completion for Israel and Jerusalem at the future kingdom. The [USCCB notes](https://bible.usccb.org/bible/daniel/9) read the seventy weeks as a symbolic span of years reaching the crisis under Antiochus rather than an exact calendar calculation."
+  ],
+  "god_plan_lines": [
+    "The purpose of dealing with sin finds a clear New Testament expression in [Hebrews 9:24–28](https://biblehub.com/bsb/hebrews/9.htm). Christ appears before God on our behalf and has offered Himself once to take away sin. He will appear again to bring salvation to those awaiting Him.",
+    "",
+    "This connection in theme does not settle every detail of Daniel’s timetable. It shows where the New Testament directs hope for atonement and lasting deliverance: to Christ’s completed offering and His promised appearing. God’s answer to sin reaches further than rebuilding a ruined city."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/9.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-nine-review.md"
+  }
+}

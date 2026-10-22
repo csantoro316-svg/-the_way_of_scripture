@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "11:9-13",
+    "label": "1 Kings 11:9-13",
+    "slug": "1-kings-11-9-13"
+  },
+  "section_title": "What judgment does Solomon face, and what mercy remains?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "9 Now the LORD grew angry with Solomon, because his heart had turned away from the LORD, the God of Israel, who had appeared to him twice. 10 Although He had warned Solomon explicitly not to follow other gods, Solomon did not keep the LORD’s command. 11 Then the LORD said to Solomon, “Because you have done this and have not kept My covenant and My statutes, which I have commanded you, I will tear the kingdom away from you and give it to your servant. 12 Nevertheless, for the sake of your father David, I will not do it during your lifetime; I will tear it out of the hand of your son. 13 Yet I will not tear the whole kingdom away from him. I will give one tribe to your son for the sake of My servant David and for the sake of Jerusalem, which I have chosen.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The LORD’s anger is directed at Solomon because his heart has turned away. God had appeared to him twice and explicitly warned him not to follow other gods, but he has not kept that command.",
+    "",
+    "The consequence is the tearing away of the kingdom and its transfer to a servant. Yet the judgment has limits: for David’s sake it will happen in the next generation, and Solomon’s son will retain a tribe for the sake of David and Jerusalem.",
+    "",
+    "The same announcement holds together the seriousness of Solomon’s failure and the LORD’s continuing regard for His earlier promise."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) and [Gill](https://biblehub.com/commentaries/gill/1_kings/11.htm) connect the mercy shown for David’s sake with God’s promise to him. The delay and the remaining royal rule are not presented as rewards for Solomon’s idolatry.",
+    "",
+    "Gill discusses several ways of understanding the reference to one tribe alongside Judah and Benjamin. The central point of the announcement is clear without settling every detail of that count: much of the kingdom will be taken away, while David’s royal house will continue."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/11.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-eleven-review.md"
+  }
+}

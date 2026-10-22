@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "11:28-31",
+    "label": "Hebrews 11:28-31",
+    "slug": "hebrews-11-28-31"
+  },
+  "section_title": "What joined the Passover, the sea crossing and Rahab’s rescue?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "28 By faith he kept the Passover and the sprinkling of blood, so that the destroyer of the firstborn would not touch Israel’s own firstborn. 29 By faith the people passed through the Red Sea as on dry land; but when the Egyptians tried to follow, they were drowned.",
+        "30 By faith the walls of Jericho fell, after the people had marched around them for seven days. 31 By faith the prostitute Rahab, because she welcomed the spies in peace, did not perish with those who were disobedient."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The examples move through Israel’s departure from Egypt and entrance into the promised land. Moses kept the Passover in reliance on God’s word about the firstborn. The people then passed through the Red Sea, while the pursuing Egyptians drowned.",
+    "",
+    "At Jericho, the people followed God’s instructions before the walls fell. [Joshua 6:1–5](https://biblehub.com/bsb/joshua/6.htm) records the promise and the unusual marching instructions. The result is credited to faith in God, rather than to the strength of their siege methods.",
+    "",
+    "Rahab supplies a personal example from within the city facing judgment. [Joshua 2:8–14](https://biblehub.com/bsb/joshua/2.htm) records her confession that Israel’s God rules heaven and earth, and her appeal for mercy for her family. She protected the spies, and [Joshua 6:22–25](https://biblehub.com/bsb/joshua/6.htm) records her rescue.",
+    "",
+    "These events join trust with response: people acted on God’s word before seeing the outcome. Rahab’s inclusion also shows that the chapter’s account of faith reaches beyond Israel’s leaders and patriarchs."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/11.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) understand these events as faith expressed through action. Calvin distinguishes the immediate point about the Passover—trusting God’s promised protection—from the further connection with Christ. He accepts that connection while keeping the writer’s immediate example in view.",
+    "",
+    "Both recognize Rahab’s faith in her welcome of the spies. Calvin emphasizes the grace shown to an outsider whose former life did not make her an obvious candidate for honor. The chapter commends her trust and response without offering a blanket judgment that every action in her history was right."
+  ],
+  "god_plan_lines": [
+    "[1 Corinthians 5:7](https://biblehub.com/bsb/1_corinthians/5.htm) explicitly identifies Christ as the Passover lamb. [1 Corinthians 10:1–6](https://biblehub.com/bsb/1_corinthians/10.htm) likewise connects the sea crossing with Israel’s relationship to Moses and uses that history to instruct Christians. These connections come from the New Testament itself.",
+    "",
+    "Rahab is also named in [Matthew 1:5](https://biblehub.com/bsb/matthew/1.htm), within the family line leading to Jesus. [James 2:25–26](https://biblehub.com/bsb/james/2.htm) names her protection of the messengers when explaining faith expressed in action. Her rescue belongs within the larger account of God’s mercy and the people He gathers."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/11.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-eleven-closing-review.md"
+  }
+}

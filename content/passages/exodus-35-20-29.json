@@ -5,27 +5,56 @@
     "label": "Exodus 35:20-29",
     "slug": "exodus-35-20-29"
   },
-  "section_title": "The People Offer Gifts",
+  "section_title": "How do willing hearts become practical generosity?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "20 Then the whole congregation of Israel withdrew from the presence of Moses. 21 And everyone whose heart stirred him and whose spirit prompted him came and brought an offering to the LORD for the work on the Tent of Meeting, for all its services, and for the holy garments.",
-        "22 So all who had willing hearts, both men and women, came and brought brooches and earrings, rings and necklaces, and all kinds of gold jewelry. And they all presented their gold as a wave offering to the LORD.",
-        "23 Everyone who had blue, purple, or scarlet yarn, or fine linen, goat hair, ram skins dyed red, or articles of fine leather, brought them. 24 And all who could present an offering of silver or bronze brought it as a contribution to the LORD. Also, everyone who had acacia wood for any part of the service brought it.",
-        "25 Every skilled woman spun with her hands and brought what she had spun: blue, purple, or scarlet yarn, or fine linen. 26 And all the skilled women whose hearts were stirred spun the goat hair.",
-        "27 The leaders brought onyx stones and gemstones to mount on the ephod and breastpiece, 28 as well as spices and olive oil for the light, for the anointing oil, and for the fragrant incense.",
-        "29 So all the men and women of the Israelites whose hearts prompted them brought a freewill offering to the LORD for all the work that the LORD through Moses had commanded them to do."
+        "20 Then the whole congregation of Israel withdrew from the presence of Moses. 21 And everyone whose heart stirred him and whose spirit prompted him came and brought an offering to the LORD for the work on the Tent of Meeting, for all its services, and for the holy garments. 22 So all who had willing hearts, both men and women, came and brought brooches and earrings, rings and necklaces, and all kinds of gold jewelry. And they all presented their gold as a wave offering to the LORD. 23 Everyone who had blue, purple, or scarlet yarn, or fine linen, goat hair, ram skins dyed red, or articles of fine leather, brought them. 24 And all who could present an offering of silver or bronze brought it as a contribution to the LORD. Also, everyone who had acacia wood for any part of the service brought it.",
+        "25 Every skilled woman spun with her hands and brought what she had spun: blue, purple, or scarlet yarn, or fine linen. 26 And all the skilled women whose hearts were stirred spun the goat hair. 27 The leaders brought onyx stones and gemstones to mount on the ephod and breastpiece, 28 as well as spices and olive oil for the light, for the anointing oil, and for the fragrant incense. 29 So all the men and women of the Israelites whose hearts prompted them brought a freewill offering to the LORD for all the work that the LORD through Moses had commanded them to do."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 35**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "The congregation leaves Moses, and people return with their contributions. Both men and women bring jewelry and materials. Skilled women spin yarn and goat hair, while the leaders bring stones, spices, and oil. The response includes possessions, practical skill, and time; it is not confined to people able to supply the most expensive items.",
+    "",
+    "The repeated descriptions of willing hearts and stirred spirits show the character of the response. Verse 29 calls it a freewill offering. The Hebrew noun נְדָבָה, *nedavah* (neh-dah-VAH), means a voluntary offering; [Brown–Driver–Briggs](https://biblehub.com/hebrew/5071.htm) specifically includes the gifts for the dwelling in this verse. This is different from a fixed levy.",
+    "",
+    "The passage describes those whose hearts prompted them to give. It should not be turned into a census proving that every individual in Israel contributed. What the account makes clear is that willing people brought what was needed, including work made by their own hands."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The People Offer Gifts** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 35** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) sees willing giving rooted in love for God, gratitude, and desire for His presence. [Calvin](https://biblehub.com/commentaries/calvin/exodus/35.htm) likewise emphasizes a sincere, voluntary response and explains God’s grace as working within the will rather than dragging an unwilling person. The vocabulary describes willing generosity; it is not, by itself, a complete account of every question about human freedom."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[Second Corinthians 9:6–15](https://biblehub.com/bsb/2_corinthians/9.htm) carries the theme into Christian giving. Paul asks each person to give from a settled decision rather than regret or compulsion. God supplies what is needed for good works, and generosity becomes more than the transfer of goods: it produces thanksgiving to God and care between His people.",
+    "",
+    "That purpose helps us see what matters in the different gifts listed here. The contribution serves God’s work and other people, while the willing response honors the God who provides. Paul’s vision is a growing harvest of righteousness and generosity, not merely a larger collection."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/exodus/35.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-exodus-thirty-five-review.md"
+  }
 }

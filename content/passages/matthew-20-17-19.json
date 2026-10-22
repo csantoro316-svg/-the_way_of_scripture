@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "20:17-19",
+    "label": "Matthew 20:17-19",
+    "slug": "matthew-20-17-19"
+  },
+  "section_title": "Jesus Announces the Cross and Resurrection Again",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 As Jesus was going up to Jerusalem, He took the twelve disciples aside and said, 18 “Look, we are going up to Jerusalem, and the Son of Man will be delivered over to the chief priests and scribes. They will condemn Him to death 19 and will deliver Him over to the Gentiles to be mocked and flogged and crucified. And on the third day He will be raised to life.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "On the way up to Jerusalem, Jesus takes the Twelve aside and tells them what is coming. The Son of Man will be handed over to the chief priests and scribes, condemned, delivered to the Gentiles, mocked, flogged, and crucified. The announcement ends with His being raised on the third day.",
+    "",
+    "This follows His earlier announcements in Matthew 16:21 and 17:22–23, now with more detail about the suffering. The disciples have been hearing about the kingdom and its rewards; Jesus keeps bringing them back to the path He will take to Jerusalem.",
+    "",
+    "[Luke 18:31–34](https://biblehub.com/bsb/luke/18.htm) records the same prediction and says the disciples did not understand it. The request for places of honor that follows in Matthew shows how much they still need to learn about greatness and Jesus' mission."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as Jesus preparing His disciples for His death and resurrection. The [US Catholic bishops' note on 20:17–19](https://bible.usccb.org/bible/matthew/20) identifies it as the third and most detailed prediction, while the related Catholic [Catechism, 557](https://www.vatican.va/archive/ENG0015/__P1L.HTM), describes His deliberate journey toward Jerusalem with knowledge of what awaits Him."
+  ],
+  "god_plan_lines": [
+    "Jesus' suffering belongs within the saving purpose He later explains from Scripture. After His resurrection, He opens the disciples' understanding and connects His death and resurrection with the message of repentance and forgiveness going to all nations ([Luke 24:44–49](https://biblehub.com/bsb/luke/24.htm)). What they struggle to understand on the road will become the message they are sent to proclaim.",
+    "",
+    "Peter's preaching in [Acts 2:22–24](https://biblehub.com/bsb/acts/2.htm) brings those events together: Jesus was delivered up within God's purpose, people were responsible for putting Him to death, and God raised Him. The cross and resurrection stand at the heart of the gospel the disciples will carry."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/20.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-review.md"
+  }
+}

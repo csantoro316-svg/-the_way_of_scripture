@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "11:22-25",
+    "label": "Ezekiel 11:22-25",
+    "slug": "ezekiel-11-22-25"
+  },
+  "section_title": "How does the vision of Jerusalem come to an end?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "22 Then the cherubim, with the wheels beside them, spread their wings, and the glory of the God of Israel was above them. 23 And the glory of the LORD rose up from within the city and stood over the mountain east of the city. 24 And the Spirit lifted me up and carried me back to Chaldea, to the exiles in the vision given by the Spirit of God. After the vision had gone up from me, 25 I told the exiles everything the LORD had shown me."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The cherubim spread their wings with the wheels beside them. The Lord’s glory rises from within Jerusalem and stands over the mountain east of the city.",
+    "",
+    "The movement completes this vision’s account of departure from the temple and city. It follows both the exposure of Jerusalem’s wrongdoing and the promise that the scattered people have not been abandoned.",
+    "",
+    "The Spirit brings Ezekiel back to the exiles in Chaldea, the vision ends, and he tells them everything the Lord has shown him. The people who have been dismissed as far from God are the ones who now receive this report of His judgment and promises."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezekiel/11.htm) and [Wesley](https://biblehub.com/commentaries/wes/ezekiel/11.htm) identify the eastern mountain as the Mount of Olives. They understand the glory’s movement as the Lord’s withdrawal from the city after its persistent rejection of Him.",
+    "",
+    "Henry also connects the scene with Christ’s ascension from that mountain. That is a Christian reading of the parallel; Ezekiel’s immediate account concerns the glory departing and the prophet returning to report to the exiles."
+  ],
+  "god_plan_lines": [
+    "The departure is not the end of Ezekiel’s account of God’s presence. In [Ezekiel 43:1–9](https://biblehub.com/bsb/ezekiel/43.htm), he sees the glory coming from the east and entering the temple through the east gate. The earlier departure and later return form a clear connection within the book itself.",
+    "",
+    "[Acts 1:9–12](https://biblehub.com/bsb/acts/1.htm) describes Jesus being taken up, a cloud hiding Him from view, and the promise that He will return. The disciples then go back to Jerusalem from the Mount of Olives.",
+    "",
+    "The shared setting and movement provide a meaningful parallel, as Henry notes. Acts does not say that Ezekiel 11 predicts every detail of the ascension, and neither account supplies a timetable for how long the glory remained over the mountain. The wider hope is God’s promised presence with His people, rather than abandonment as the last word."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/11.htm",
+    "plan_basis": [
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-ten-eleven-review.md"
+  }
+}

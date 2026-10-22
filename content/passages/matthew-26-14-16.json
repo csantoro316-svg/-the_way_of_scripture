@@ -1,0 +1,52 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "26:14-16",
+    "label": "Matthew 26:14-16",
+    "slug": "matthew-26-14-16"
+  },
+  "section_title": "Judas Agrees to Hand Jesus Over for Silver",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 Then one of the Twelve, the one called Judas Iscariot, went to the chief priests 15 and asked, “What are you willing to give me if I hand Him over to you?” And they set out for him thirty pieces of silver. 16 So from then on Judas looked for an opportunity to betray Jesus."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Judas, one of the Twelve, goes to the chief priests and asks what they will give him to hand Jesus over. They set out thirty pieces of silver, and he begins looking for an opportunity. Matthew follows the costly gift at Bethany with a sharply different use of money: an agreement to betray the One who received it.",
+    "",
+    "The phrase one of the Twelve makes the betrayal especially painful. This is someone within Jesus' close circle. [Luke 22:1–6](https://biblehub.com/bsb/luke/22.htm) adds that Satan entered Judas and that he sought an opportunity away from the crowd, connecting his offer with the leaders' fear of public reaction.",
+    "",
+    "[John 12:4–6](https://biblehub.com/bsb/john/12.htm) has already described Judas stealing from the shared money bag. That supplies a further picture of his conduct, but neither account gives us a complete account of every thought behind his decision. Here, Matthew states the offer, the payment, and the search for a moment to act."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand this as a deliberate betrayal, with Matthew bringing the payment into focus. [Wesley on 26:15](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) and the [US Catholic bishops' note on 26:15](https://bible.usccb.org/bible/matthew/26) both connect the thirty pieces with the compensation for a slave killed by an ox in Exodus 21:32; the bishops also connect it with the rejected shepherd's payment in Zechariah 11:12–13."
+  ],
+  "god_plan_lines": [
+    "The price becomes part of a larger scriptural connection. In [Zechariah 11:10–13](https://biblehub.com/bsb/zechariah/11.htm), a rejected shepherd receives thirty pieces of silver, which are then thrown in the house of the LORD. [Matthew 27:3–10](https://biblehub.com/bsb/matthew/27.htm) returns to Judas' silver, the temple, and the purchase of the potter's field, explicitly describing the events in relation to prophetic fulfillment. Matthew's later account cites Jeremiah; the wording also recalls Zechariah. The fuller explanation belongs with that later passage rather than treating the payment here as an isolated coincidence.",
+    "",
+    "The New Testament's wider account does not let betrayal have the final word. [Acts 2:22–24](https://biblehub.com/bsb/acts/2.htm) proclaims the crucified Jesus raised by God while still calling His killing lawless. God's saving purpose works through this history without turning Judas' bargain into an act of faithfulness."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/26.htm",
+    "plan_basis": [
+      "a",
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-six-opening-review.md"
+  }
+}

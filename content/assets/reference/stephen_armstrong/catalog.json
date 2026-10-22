@@ -1,0 +1,441 @@
+{
+  "supplied_on": "2026-10-18",
+  "file_count": 36,
+  "book_count": 37,
+  "page_count": 12367,
+  "files": [
+    {
+      "title": "Genesis",
+      "books": [
+        "Genesis"
+      ],
+      "canonical_order": 1,
+      "path": "old-testament/01-genesis.pdf",
+      "original_filename": "genesis-combined-lessons.pdf",
+      "pages": 941,
+      "bytes": 8277016,
+      "sha256": "2c2ebfe3440d4c5aec4f6881dcc2e02751c0401383172e66bd0eb3a461c7c02d"
+    },
+    {
+      "title": "Exodus",
+      "books": [
+        "Exodus"
+      ],
+      "canonical_order": 2,
+      "path": "old-testament/02-exodus.pdf",
+      "original_filename": "exodus-combined-lessons.pdf",
+      "pages": 547,
+      "bytes": 4335730,
+      "sha256": "f8ec361ad2affb61c2398ba3d6dbe6952752fbabf48c6397483e08660f5f1d5c"
+    },
+    {
+      "title": "Judges",
+      "books": [
+        "Judges"
+      ],
+      "canonical_order": 7,
+      "path": "old-testament/07-judges.pdf",
+      "original_filename": "judges-combined-lessons.pdf",
+      "pages": 461,
+      "bytes": 4840697,
+      "sha256": "c7e6713a140e90d11e7fba1ab008f3b6ca50ec847087a8d95a5d3befa4b74f39"
+    },
+    {
+      "title": "Ruth",
+      "books": [
+        "Ruth"
+      ],
+      "canonical_order": 8,
+      "path": "old-testament/08-ruth.pdf",
+      "original_filename": "the-book-of-ruth-combined-lessons.pdf",
+      "pages": 113,
+      "bytes": 818070,
+      "sha256": "f5504ddd6737d06df083ae775bbbe2c179d0583bfd9c33c59ce9504b959061cd"
+    },
+    {
+      "title": "1 Samuel",
+      "books": [
+        "1 Samuel"
+      ],
+      "canonical_order": 9,
+      "path": "old-testament/09-1-samuel.pdf",
+      "original_filename": "1samuel-combined-lessons.pdf",
+      "pages": 323,
+      "bytes": 2135769,
+      "sha256": "7662b7e93db101bcb067b7e3f15fa28b74d345a4c04a74e5c30e7777f62905b6"
+    },
+    {
+      "title": "2 Samuel",
+      "books": [
+        "2 Samuel"
+      ],
+      "canonical_order": 10,
+      "path": "old-testament/10-2-samuel.pdf",
+      "original_filename": "2-samuel-combined-lessons.pdf",
+      "pages": 338,
+      "bytes": 2843241,
+      "sha256": "971d511b00cf3306e29180bb3ccb905f25ab39a72f3dea32421f790384299b67"
+    },
+    {
+      "title": "1 Kings",
+      "books": [
+        "1 Kings"
+      ],
+      "canonical_order": 11,
+      "path": "old-testament/11-1-kings.pdf",
+      "original_filename": "1-kings-combined-lessons.pdf",
+      "pages": 295,
+      "bytes": 2162762,
+      "sha256": "342d2244a61d3f5efd060ab3916fa54c6a40720dd3522163dc282ff63b22b98a"
+    },
+    {
+      "title": "Ezra",
+      "books": [
+        "Ezra"
+      ],
+      "canonical_order": 15,
+      "path": "old-testament/15-ezra.pdf",
+      "original_filename": "ezra-combined-lessons.pdf",
+      "pages": 75,
+      "bytes": 492059,
+      "sha256": "0603e6faf63de39ade1005c5eb82ee1d29f180cbca447097c7507a56e648a66f"
+    },
+    {
+      "title": "Nehemiah",
+      "books": [
+        "Nehemiah"
+      ],
+      "canonical_order": 16,
+      "path": "old-testament/16-nehemiah.pdf",
+      "original_filename": "nehemiah-combined-lessons.pdf",
+      "pages": 112,
+      "bytes": 719439,
+      "sha256": "3819049f4223978e26fec03e4406b90e485c995520d18288764f83068f39c650"
+    },
+    {
+      "title": "Isaiah",
+      "books": [
+        "Isaiah"
+      ],
+      "canonical_order": 23,
+      "path": "old-testament/23-isaiah.pdf",
+      "original_filename": "isaiah-combined-lessons.pdf",
+      "pages": 414,
+      "bytes": 3739053,
+      "sha256": "dbb0324930fecc568ac775b5cbc60487838f56de8a583b15268d340d67942c04"
+    },
+    {
+      "title": "Ezekiel",
+      "books": [
+        "Ezekiel"
+      ],
+      "canonical_order": 26,
+      "path": "old-testament/26-ezekiel.pdf",
+      "original_filename": "ezekiel-combined-lessons.pdf",
+      "pages": 624,
+      "bytes": 5298473,
+      "sha256": "9774da1d66dcbfc5363837337c52b9297cbb51bab738f87cd091c9cc4ae11c5d"
+    },
+    {
+      "title": "Daniel",
+      "books": [
+        "Daniel"
+      ],
+      "canonical_order": 27,
+      "path": "old-testament/27-daniel.pdf",
+      "original_filename": "daniel-combined-lessons.pdf",
+      "pages": 220,
+      "bytes": 1512675,
+      "sha256": "684b2146f9e3ee77795c8542ecab888a1f751bb1199f00ce9d34b3d29abfb499"
+    },
+    {
+      "title": "Jonah",
+      "books": [
+        "Jonah"
+      ],
+      "canonical_order": 32,
+      "path": "old-testament/32-jonah.pdf",
+      "original_filename": "the-book-of-jonah-combined-lessons.pdf",
+      "pages": 53,
+      "bytes": 374195,
+      "sha256": "c1b6354990df00e5633829bc68e74b865badc5aa1da9077068286fca3037f5da"
+    },
+    {
+      "title": "Matthew",
+      "books": [
+        "Matthew"
+      ],
+      "canonical_order": 40,
+      "path": "new-testament/40-matthew.pdf",
+      "original_filename": "gospel-of-matthew-combined-lessons.pdf",
+      "pages": 1436,
+      "bytes": 10698414,
+      "sha256": "aa1cb9e4555fce3bafddf6f3b27cfb7e29eec0c35849623fa1d64bb06ecf2516"
+    },
+    {
+      "title": "Mark",
+      "books": [
+        "Mark"
+      ],
+      "canonical_order": 41,
+      "path": "new-testament/41-mark.pdf",
+      "original_filename": "mark-combined-lessons.pdf",
+      "pages": 932,
+      "bytes": 13134695,
+      "sha256": "77fe2751c624d922f8eb4cbb5c2986f6fbbb174765e38962c536cedde8ad1364"
+    },
+    {
+      "title": "Luke",
+      "books": [
+        "Luke"
+      ],
+      "canonical_order": 42,
+      "path": "new-testament/42-luke.pdf",
+      "original_filename": "the-book-of-luke-combined-lessons.pdf",
+      "pages": 1043,
+      "bytes": 11389823,
+      "sha256": "88d167c87f162a88b98806ada66c20c612ee8b83ff72014c9f87b14c2903ac62"
+    },
+    {
+      "title": "John",
+      "books": [
+        "John"
+      ],
+      "canonical_order": 43,
+      "path": "new-testament/43-john.pdf",
+      "original_filename": "the-gospel-of-john-combined-lessons.pdf",
+      "pages": 636,
+      "bytes": 9559240,
+      "sha256": "dcaf96a47a81a17330d8b57c6acb4a66be253fca34cf4bfd63437b8c85026707"
+    },
+    {
+      "title": "Acts",
+      "books": [
+        "Acts"
+      ],
+      "canonical_order": 44,
+      "path": "new-testament/44-acts.pdf",
+      "original_filename": "acts-of-the-apostles-combined-lessons.pdf",
+      "pages": 416,
+      "bytes": 4589698,
+      "sha256": "45f1d0d071ef0d10dcb7253eff554ab8ecbd425da9c006f9394902e03c29f53f"
+    },
+    {
+      "title": "Romans",
+      "books": [
+        "Romans"
+      ],
+      "canonical_order": 45,
+      "path": "new-testament/45-romans.pdf",
+      "original_filename": "romans-combined-lessons.pdf",
+      "pages": 344,
+      "bytes": 2315945,
+      "sha256": "77ad6f8da26b132139ca7824d45047cade6444b0939312d4812238910a93dedd"
+    },
+    {
+      "title": "1 Corinthians",
+      "books": [
+        "1 Corinthians"
+      ],
+      "canonical_order": 46,
+      "path": "new-testament/46-1-corinthians.pdf",
+      "original_filename": "first-corinthians-combined-lessons.pdf",
+      "pages": 360,
+      "bytes": 3851087,
+      "sha256": "076501e9ffc4f3e66932a8bef0cc3f1bad788abc43adb02b93bc29aa303e6df2"
+    },
+    {
+      "title": "2 Corinthians",
+      "books": [
+        "2 Corinthians"
+      ],
+      "canonical_order": 47,
+      "path": "new-testament/47-2-corinthians.pdf",
+      "original_filename": "2-corinthians-combined-lessons.pdf",
+      "pages": 425,
+      "bytes": 3556845,
+      "sha256": "f91c522287dfd4e8d64d84571257469b5322bda268625f22630a5e07f26a8d96"
+    },
+    {
+      "title": "Galatians",
+      "books": [
+        "Galatians"
+      ],
+      "canonical_order": 48,
+      "path": "new-testament/48-galatians.pdf",
+      "original_filename": "galatians-combined-lessons.pdf",
+      "pages": 97,
+      "bytes": 634455,
+      "sha256": "066b5277da15237ca28e7973d2b98b7fe0b5ad9f87478f4f50810ac2f1e6f423"
+    },
+    {
+      "title": "Ephesians",
+      "books": [
+        "Ephesians"
+      ],
+      "canonical_order": 49,
+      "path": "new-testament/49-ephesians.pdf",
+      "original_filename": "ephesians-combined-lessons.pdf",
+      "pages": 262,
+      "bytes": 1931415,
+      "sha256": "30f7e56327a9d20117cc551bd39be37ea24073430190a1c4e466e9a20d9ccf00"
+    },
+    {
+      "title": "Philippians",
+      "books": [
+        "Philippians"
+      ],
+      "canonical_order": 50,
+      "path": "new-testament/50-philippians.pdf",
+      "original_filename": "philippians-combined-lessons.pdf",
+      "pages": 147,
+      "bytes": 1383946,
+      "sha256": "45f8c93a2759eac5523cbe3c18d702ca8d6b012be80492672aceb78389a5e648"
+    },
+    {
+      "title": "Colossians",
+      "books": [
+        "Colossians"
+      ],
+      "canonical_order": 51,
+      "path": "new-testament/51-colossians.pdf",
+      "original_filename": "the-book-of-colossians-combined-lessons.pdf",
+      "pages": 44,
+      "bytes": 450746,
+      "sha256": "7cf65736a33772013e5ae2eba04a45663b5046a68640fb7b86cc4288fda0adaa"
+    },
+    {
+      "title": "1 Timothy",
+      "books": [
+        "1 Timothy"
+      ],
+      "canonical_order": 54,
+      "path": "new-testament/54-1-timothy.pdf",
+      "original_filename": "1timothy-combined-lessons.pdf",
+      "pages": 125,
+      "bytes": 885012,
+      "sha256": "f9a335a35a5211236587229e218f494b9f1206422db33c0335b1433cc67f7452"
+    },
+    {
+      "title": "2 Timothy",
+      "books": [
+        "2 Timothy"
+      ],
+      "canonical_order": 55,
+      "path": "new-testament/55-2-timothy.pdf",
+      "original_filename": "2timothy-combined-lessons.pdf",
+      "pages": 106,
+      "bytes": 682206,
+      "sha256": "3d3b41515e9c77ccbc5e501eb193b241a4fed8f7cdfd19a29ce0d2df2af6a7da"
+    },
+    {
+      "title": "Titus",
+      "books": [
+        "Titus"
+      ],
+      "canonical_order": 56,
+      "path": "new-testament/56-titus.pdf",
+      "original_filename": "titus-combined-lessons.pdf",
+      "pages": 93,
+      "bytes": 1208170,
+      "sha256": "700ba58b5c4adc085ff1680495f9aacffcf521a60ee52ffda0e1ef93e41b5eb1"
+    },
+    {
+      "title": "Philemon",
+      "books": [
+        "Philemon"
+      ],
+      "canonical_order": 57,
+      "path": "new-testament/57-philemon.pdf",
+      "original_filename": "philemon-combined-lessons.pdf",
+      "pages": 64,
+      "bytes": 487590,
+      "sha256": "c8c7f774e3cff0fe5db59464e32137b1df17e1bc5bfa3a97d2f98eacb4cf80ed"
+    },
+    {
+      "title": "Hebrews",
+      "books": [
+        "Hebrews"
+      ],
+      "canonical_order": 58,
+      "path": "new-testament/58-hebrews.pdf",
+      "original_filename": "hebrews-combined-lessons.pdf",
+      "pages": 294,
+      "bytes": 2417702,
+      "sha256": "2279ecc01d4403695301e4c0b3235de64912e2c44d448388481ba110f501a6dc"
+    },
+    {
+      "title": "James",
+      "books": [
+        "James"
+      ],
+      "canonical_order": 59,
+      "path": "new-testament/59-james.pdf",
+      "original_filename": "the-book-of-james-combined-lessons.pdf",
+      "pages": 106,
+      "bytes": 806452,
+      "sha256": "fa257edb6b84a1d5a7122bc835223cd7b2b005b3080053c62bf91701269bf813"
+    },
+    {
+      "title": "1 Peter",
+      "books": [
+        "1 Peter"
+      ],
+      "canonical_order": 60,
+      "path": "new-testament/60-1-peter.pdf",
+      "original_filename": "the-book-of-first-peter-combined-lessons.pdf",
+      "pages": 115,
+      "bytes": 1762202,
+      "sha256": "2230621ff6d4ef7fec7fd06a3bdf095e685fce34ca96f902122d9333fd9c8139"
+    },
+    {
+      "title": "2 Peter",
+      "books": [
+        "2 Peter"
+      ],
+      "canonical_order": 61,
+      "path": "new-testament/61-2-peter.pdf",
+      "original_filename": "2-peter-combined-lessons.pdf",
+      "pages": 201,
+      "bytes": 1495511,
+      "sha256": "3b2cb1bc5f976b1da74c6e14fe1e03ecc4f8340e959e32a10308175e1992e1d8"
+    },
+    {
+      "title": "2 John and 3 John",
+      "books": [
+        "2 John",
+        "3 John"
+      ],
+      "canonical_order": 63,
+      "path": "new-testament/63-2-john-and-3-john.pdf",
+      "original_filename": "2john-3john-combined-lessons.pdf",
+      "pages": 28,
+      "bytes": 182537,
+      "sha256": "f89a01569bb3139896be89bc0dc49928274a0520820092c14136e5d290231620"
+    },
+    {
+      "title": "Jude",
+      "books": [
+        "Jude"
+      ],
+      "canonical_order": 65,
+      "path": "new-testament/65-jude.pdf",
+      "original_filename": "letter-of-jude-combined-lessons.pdf",
+      "pages": 63,
+      "bytes": 478930,
+      "sha256": "c9cb0931ee0cc20f4eb8695bfe88099212ebc4bfacf1feb64ec9759691d2ed9d"
+    },
+    {
+      "title": "Revelation",
+      "books": [
+        "Revelation"
+      ],
+      "canonical_order": 66,
+      "path": "new-testament/66-revelation.pdf",
+      "original_filename": "revelation-2020-combined-lessons.pdf",
+      "pages": 514,
+      "bytes": 5725697,
+      "sha256": "2ac2c0507cfb52ce65ae2a1d5f89ca98cdb17b5bc7d464bb100c75dd1f4815ed"
+    }
+  ]
+}

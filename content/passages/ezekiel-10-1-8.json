@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "10:1-8",
+    "label": "Ezekiel 10:1-8",
+    "slug": "ezekiel-10-1-8"
+  },
+  "section_title": "Why is fire taken from among the cherubim?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 And I looked and saw above the expanse, above the heads of the cherubim, the likeness of a throne of sapphire. 2 And the LORD said to the man clothed in linen, “Go inside the wheelwork beneath the cherubim. Fill your hands with burning coals from among the cherubim and scatter them over the city.” And as I watched, he went in. 3 Now when the man went in, the cherubim were standing on the south side of the temple, and a cloud filled the inner court. 4 Then the glory of the LORD rose from above the cherubim and stood over the threshold of the temple. The temple was filled with the cloud, and the court was filled with the brightness of the glory of the LORD. 5 The sound of the wings of the cherubim could be heard as far as the outer court, like the voice of God Almighty when He speaks.",
+        "6 When the LORD commanded the man clothed in linen, saying, “Take fire from within the wheelwork, from among the cherubim,” the man went in and stood beside a wheel. 7 Then one of the cherubim reached out his hand and took some of the fire that was among them. And he put it into the hands of the man clothed in linen, who received it and went out. 8 (The cherubim appeared to have the form of human hands under their wings.)"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The temple vision continues. Above the cherubim, Ezekiel sees the likeness of a sapphire throne. The man in linen who marked people for protection now receives another command: take burning coals from beneath the cherubim and scatter them over Jerusalem.",
+    "",
+    "The cherubim stand on the south side of the temple. A cloud fills the inner court, while the Lord’s glory rises to the threshold. Brightness fills the court, and the sound of the wings reaches the outer court.",
+    "",
+    "One of the cherubim uses a hand beneath its wings to place fire into the man’s hands. He receives it and goes out. The same divine presence before which some were marked for preservation now supplies the fire of judgment against the city."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezekiel/10.htm) and [Wesley](https://biblehub.com/commentaries/wes/ezekiel/10.htm) understand the coals as a sign of the Lord’s judgment on Jerusalem. The city’s coming destruction is presented as something God has commanded, rather than an event that has escaped His control.",
+    "",
+    "Wesley also reads the man in linen as Christ. That identification is an interpretation of the figure; Ezekiel names his clothing, task and obedience without explicitly naming him as the Messiah. The connection between the coals and judgment is clear without settling the figure’s identity."
+  ],
+  "god_plan_lines": [
+    "[Revelation 8:3–6](https://biblehub.com/bsb/revelation/8.htm) presents a related scene: an angel offers incense with the saints’ prayers, then fills a censer with fire from the altar and throws it to the earth before the trumpet judgments.",
+    "",
+    "This is a biblical parallel, rather than an explicit quotation. Both visions connect judgment on the earth with God’s holy presence. Revelation also brings the prayers of God’s people into the scene, showing that the evil they endure has not gone unnoticed by Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/10.htm",
+    "plan_basis": [
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-ten-eleven-review.md"
+  }
+}

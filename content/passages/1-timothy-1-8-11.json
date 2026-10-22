@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "1 Timothy",
+    "citation": "1:8-11",
+    "label": "1 Timothy 1:8-11",
+    "slug": "1-timothy-1-8-11"
+  },
+  "section_title": "What does it mean to use the law rightly?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "8 Now we know that the law is good, if one uses it legitimately. 9 We realize that law is not enacted for the righteous, but for the lawless and rebellious, for the ungodly and sinful, for the unholy and profane, for killers of father or mother, for murderers, 10 for the sexually immoral, for homosexuals, for slave traders and liars and perjurers, and for anyone else who is averse to sound teaching 11 that agrees with the glorious gospel of the blessed God, with which I have been entrusted."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul has criticized people who want to teach the law without understanding it. He immediately affirms that the law is good when used legitimately. His criticism concerns what the teachers are doing with it.",
+    "",
+    "He explains its relation to lawlessness by naming serious wrongs: violence, sexual sin, slave trading, lying and false testimony. The list ends broadly with whatever else is opposed to sound teaching.",
+    "",
+    "That sound teaching agrees with the glorious gospel entrusted to Paul. The paragraph places the proper use of the law alongside the gospel, while exposing wrongdoing rather than supplying a stage for a teacher’s confident self-display."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Paul as defending the law’s goodness and its exposure of wrongdoing while rejecting its misuse. [Wesley’s notes on verses 8–11](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-timothy/) describe the moral law as exposing sin and guiding believers in holy living. The Reformed [Westminster Confession, 19.5–7](https://www.opc.org/wcf.html), similarly distinguishes guidance in God’s will from using the law as the basis of a person’s acceptance or condemnation before Him. These readings do not treat the gospel as permission for the conduct Paul condemns."
+  ],
+  "god_plan_lines": [
+    "[Romans 3:19–26](https://biblehub.com/bsb/romans/3.htm) connects the law’s knowledge of sin with God’s gift of righteousness through faith in Jesus Christ. The law’s exposure of wrong belongs within a message that points sinners to God’s grace.",
+    "",
+    "[Galatians 3:23–29](https://biblehub.com/bsb/galatians/3.htm) places the law within the movement toward Christ and the promise shared by God’s children in Him. This provides a wider setting for its good purpose without turning moral instruction into a way to earn that inheritance."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_timothy/1.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-timothy-one-opening-review.md"
+  }
+}

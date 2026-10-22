@@ -1,0 +1,52 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "16:15-20",
+    "label": "1 Kings 16:15-20",
+    "slug": "1-kings-16-15-20"
+  },
+  "section_title": "Why does Zimri’s reign last only seven days?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 In the twenty-seventh year of Asa’s reign over Judah, Zimri reigned in Tirzah for seven days. Now the troops were encamped against Gibbethon of the Philistines, 16 and the people in the camp heard that Zimri had conspired against the king and struck him down. So there in the camp that very day, all Israel proclaimed Omri, the commander of the army, king over Israel. 17 Then Omri and all the Israelites marched up from Gibbethon and besieged Tirzah.",
+        "18 When Zimri saw that the city was captured, he entered the citadel of the royal palace and burned it down upon himself. So he died 19 because of the sins he had committed, doing evil in the sight of the LORD and following the example of Jeroboam and the sin he had committed and had caused Israel to commit. 20 As for the rest of the acts of Zimri and the treason he committed, are they not written in the Book of the Chronicles of the Kings of Israel?"
+      ]
+    }
+  ],
+  "context_lines": [
+    "News of Zimri’s coup reaches the army encamped at Gibbethon. The troops proclaim their commander Omri king, then march with him against Tirzah.",
+    "",
+    "When Zimri sees that the city has fallen, he enters the palace citadel and burns it down upon himself. His reign has lasted seven days.",
+    "",
+    "The narrator connects his end with his own sin and his continuation of Jeroboam’s example. Taking the throne by violence has not given him either lasting security or a different direction for the kingdom."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) and [Gill](https://biblehub.com/commentaries/gill/1_kings/16.htm) understand the reference to Zimri’s sins as reaching beyond the few days of his reign. They consider his earlier life and his support of the existing worship part of the assessment.",
+    "",
+    "Their reading explains why a short reign still receives a moral evaluation. The narrative’s central concern is not how long he possesses power, but the course he follows with it."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/16.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-sixteen-review.md"
+  }
+}

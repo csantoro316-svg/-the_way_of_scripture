@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "3:9-15",
+    "label": "John 3:9-15",
+    "slug": "john-3-9-15"
+  },
+  "section_title": "Why does Jesus compare Himself with the lifted snake?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "9 “How can this be?” Nicodemus asked. 10 “You are Israel’s teacher,” said Jesus, “and you do not understand these things? 11 Truly, truly, I tell you, we speak of what we know, and we testify to what we have seen, and yet you people do not accept our testimony. 12 If I have told you about earthly things and you do not believe, how will you believe if I tell you about heavenly things?",
+        "13 No one has ascended into heaven except the One who descended from heaven—the Son of Man. 14 Just as Moses lifted up the snake in the wilderness, so the Son of Man must be lifted up, 15 that everyone who believes in Him may have eternal life."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Nicodemus asks how this new birth can happen. Jesus challenges him as a teacher of Israel who has not understood, and speaks of testimony that has not been received. The conversation moves from the Spirit’s work to the authority of the Son of Man, who has come from heaven.",
+    "",
+    "Jesus then recalls a wilderness event. After the Israelites sinned and were bitten by deadly snakes, God told Moses to mount a bronze snake on a pole. Those who were bitten could look at it and live. Jesus says the Son of Man must likewise be lifted up, so that everyone who believes in Him may have eternal life. ([Numbers 21:4–9](https://biblehub.com/bsb/numbers/21.htm))",
+    "",
+    "The comparison concerns God’s provision of life for people facing death. The text does not ask us to assign a separate hidden meaning to every detail of the pole, the metal or the snake."
+  ],
+  "common_interpretation_lines": [
+    "The familiar Christian reading connects being lifted up with Jesus’ crucifixion: people receive life by trusting the One God provides. Wesley explains the wilderness event as a comparison between looking at the snake and looking to Christ in faith. Later in this Gospel, being lifted up is explicitly connected with the way Jesus would die. ([Wesley on John 3:14–15](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/); [John 12:32–33](https://biblehub.com/bsb/john/12.htm))",
+    "",
+    "Calvin takes the emphasis here differently: he reads the lifting up as Christ being set before everyone through the preaching of the gospel. This is a difference between commentators over the comparison’s immediate emphasis, rather than a church-wide division over whether Jesus died for salvation. ([Calvin on John 3:14](https://biblehub.com/commentaries/calvin/john/3.htm))"
+  ],
+  "god_plan_lines": [
+    "This connection is made by Jesus Himself. The wilderness rescue points beyond survival from snakebite to eternal life through the Son of Man. God provides the means of rescue in both accounts, and those in danger are called to respond to what He provides. ([Numbers 21:8–9](https://biblehub.com/bsb/numbers/21.htm); [John 3:14–15](https://biblehub.com/bsb/john/3.htm))",
+    "",
+    "The later explanation of Jesus being lifted up places His death within that saving purpose. The Gospel joins the cross with His being glorified and drawing people to Himself; the apparent defeat of His death belongs to His work of bringing life. ([John 12:23–33](https://biblehub.com/bsb/john/12.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/3.htm",
+    "plan_basis": [
+      "a",
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-three-opening-review.md"
+  }
+}

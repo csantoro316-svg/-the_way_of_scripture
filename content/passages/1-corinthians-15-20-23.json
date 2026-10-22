@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "15:20-23",
+    "label": "1 Corinthians 15:20-23",
+    "slug": "1-corinthians-15-20-23"
+  },
+  "section_title": "Why does Christ’s resurrection give hope for ours?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "20 But Christ has indeed been raised from the dead, the firstfruits of those who have fallen asleep. 21 For since death came through a man, the resurrection of the dead comes also through a man. 22 For as in Adam all die, so in Christ all will be made alive. 23 But each in his own turn: Christ the firstfruits; then at His coming, those who belong to Him."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After tracing what would follow if resurrection were false, Paul firmly states what he proclaims: Christ has been raised. His resurrection is the firstfruits of those who have died, the beginning of a harvest that will include others.",
+    "",
+    "The word firstfruits is aparchē (ah-par-KHAY), ἀπαρχή, the first portion of a harvest offered to God; see [Thayer’s entry](https://biblehub.com/greek/536.htm). [Leviticus 23:9–14](https://biblehub.com/bsb/leviticus/23.htm) describes bringing the first sheaf before using the harvest. Paul applies that picture directly to Christ: His resurrection points forward to the life of those who belong to Him.",
+    "",
+    "The comparison with Adam explains why one person’s action can matter for many. Death came through a man, and resurrection also comes through a man. Paul places the human condition in Adam alongside the new hope found in Christ.",
+    "",
+    "He then gives an order: Christ first, followed at His coming by those who belong to Him. Their future is connected to His victory. The passage is not merely saying that Jesus survived while everyone else’s death remains unchanged."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand firstfruits as connecting Christ’s resurrection with the resurrection of His people. [Wesley’s note on verse 20](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) describes it as the assurance of what follows; the [USCCB notes on verses 20–22](https://bible.usccb.org/bible/1corinthians/15) likewise emphasize that His resurrection reaches beyond Himself to those who share His life."
+  ],
+  "god_plan_lines": [
+    "[Romans 8:11, 18–23](https://biblehub.com/bsb/romans/8.htm) connects the Spirit who raised Jesus with life for believers’ mortal bodies, their future glory and the redemption of creation. Those who already have the Spirit still wait for the redemption of their bodies.",
+    "",
+    "God’s purpose therefore includes more than release from guilt or survival as a memory. He is bringing His children into a life that shares in Christ’s victory over death. Paul’s harvest picture gives their waiting a foundation: the firstfruits have already appeared."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/15.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-fifteen-middle-review.md"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "2:28-35",
+    "label": "1 Kings 2:28-35",
+    "slug": "1-kings-2-28-35"
+  },
+  "section_title": "Why does the altar not protect Joab from judgment?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "28 When the news reached Joab, who had conspired with Adonijah but not with Absalom, he fled to the tent of the LORD and took hold of the horns of the altar. 29 It was reported to King Solomon: “Joab has fled to the tent of the LORD and is now beside the altar.” So Solomon sent Benaiah son of Jehoiada, saying, “Go, strike him down!” 30 And Benaiah entered the tent of the LORD and said to Joab, “The king says, ‘Come out!’” But Joab replied, “No, I will die here.” So Benaiah relayed the message to the king, saying, “This is how Joab answered me.”",
+        "31 And the king replied, “Do just as he says. Strike him down and bury him, and so remove from me and from the house of my father the innocent blood that Joab shed. 32 The LORD will bring his bloodshed back upon his own head, for without the knowledge of my father David he struck down two men more righteous and better than he when he put to the sword Abner son of Ner, commander of Israel’s army, and Amasa son of Jether, commander of Judah’s army. 33 Their blood will come back upon the heads of Joab and his descendants forever; but for David, his descendants, his house, and his throne, there shall be peace from the LORD forever.” 34 So Benaiah son of Jehoiada went up, struck down Joab, and killed him. He was buried at his own home in the wilderness. 35 And the king appointed Benaiah son of Jehoiada in Joab’s place over the army, and he appointed Zadok the priest in Abiathar’s place."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After the news reaches him, Joab flees to the tent of the LORD and takes hold of the altar’s horns. He refuses Benaiah’s instruction to come out, saying that he will die there.",
+    "",
+    "Solomon tells Benaiah to carry out the sentence and bury him. He names the innocent blood of Abner and Amasa and says that Joab’s guilt must be removed from David’s house.",
+    "",
+    "Benaiah kills Joab, who is buried at his own home in the wilderness. Solomon appoints Benaiah over the army and Zadok in Abiathar’s place. The two senior offices are now held by men who supported Solomon."
+  ],
+  "common_interpretation_lines": [
+    "The law gives a relevant distinction in [Exodus 21:12–14](https://biblehub.com/bsb/exodus/21.htm): someone who deliberately schemes to kill a neighbor may be taken even from God’s altar to face death. Seeking the altar does not make a planned killing cease to matter.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/2.htm) reads Joab’s case in light of that limit on refuge. [Gill](https://biblehub.com/commentaries/gill/1_kings/2.htm) sees the judgment as addressing bloodshed that David’s administration had left unresolved.",
+    "",
+    "The account connects Joab’s death with both the earlier murders and Solomon’s consolidation of power. Military usefulness and long service do not erase the deaths of Abner and Amasa."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/2.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-two-review.md"
+  }
+}

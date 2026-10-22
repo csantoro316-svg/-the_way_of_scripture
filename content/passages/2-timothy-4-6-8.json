@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "2 Timothy",
+    "citation": "4:6-8",
+    "label": "2 Timothy 4:6-8",
+    "slug": "2-timothy-4-6-8"
+  },
+  "section_title": "What hope does Paul have as his death approaches?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 For I am already being poured out like a drink offering, and the time of my departure is at hand. 7 I have fought the good fight, I have finished the race, I have kept the faith. 8 From now on there is laid up for me the crown of righteousness, which the Lord, the righteous Judge, will award to me on that day—and not only to me, but to all who crave His appearing."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul gives urgency to Timothy’s charge by speaking of his own approaching departure. He pictures his life being poured out like a drink offering. His service has reached its closing stage, and he looks back on the fight, the race and keeping the faith.",
+    "",
+    "He also looks ahead. The Lord is a righteous Judge, and Paul expects the crown of righteousness on that day. The hope is shared with all who long for Christ’s appearing; it is not reserved for Paul alone.",
+    "",
+    "The confidence is spoken by someone still in chains. His assessment of a faithful life reaches beyond how successful or secure it looks at its end."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/2_timothy/4.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-timothy/) read Paul’s departure as approaching death and his crown as a future gift from the Lord. Calvin explicitly joins God’s gracious acceptance with the rewarding of faithful service. Wesley describes a righteousness God has both credited to Paul and worked within him. Both hold out the same hope to others who look for Christ’s appearing."
+  ],
+  "god_plan_lines": [
+    "The drink-offering picture draws on worship in which an offering is poured out to God, as in [Numbers 28:1–8](https://biblehub.com/bsb/numbers/28.htm). It is a comparison for Paul’s life given in service, rather than a claim that his death supplies another atoning sacrifice.",
+    "",
+    "Paul uses the same image in [Philippians 2:17–18](https://biblehub.com/bsb/philippians/2.htm), joining his possible death with the Philippians’ faithful service and shared joy. [1 Corinthians 15:50–58](https://biblehub.com/bsb/1_corinthians/15.htm) places steadfast work within resurrection hope: labor in the Lord has a future because death does not have the final word."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_timothy/4.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-timothy-four-review.md"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "27:1-2",
+    "label": "Matthew 27:1-2",
+    "slug": "matthew-27-1-2"
+  },
+  "section_title": "Jesus Is Handed Over to Pilate",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 When morning came, all the chief priests and elders of the people conspired against Jesus to put Him to death. 2 They bound Him, led Him away, and handed Him over to Pilate the governor."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Morning comes after Jesus' hearing before Caiaphas and Peter's denials. The chief priests and elders confer about putting Jesus to death, bind Him, and hand Him over to Pilate, the governor. The account now moves from the religious leaders' hearing to the governor's examination.",
+    "",
+    "[John 18:28–32](https://biblehub.com/bsb/john/18.htm) gives a fuller account of this handover. The leaders say they are not permitted to execute anyone, and John connects what follows with Jesus' words about the kind of death He would die. Matthew briefly interrupts the scene with Judas' response before returning to Pilate's questions."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand this as the step that brings Jesus before the governor for the death His opponents seek. [Walvoord on 27:1–2](https://walvoord.com/article/221) and the [US Catholic bishops' note on 27:1](https://bible.usccb.org/bible/matthew/27) both relate the handover to the leaders' inability to carry out the execution themselves, as stated in John 18:31."
+  ],
+  "god_plan_lines": [
+    "The New Testament later looks back on these events as human opposition taken up within God's saving purpose. In [Acts 4:23–31](https://biblehub.com/bsb/acts/4.htm), believers pray about rulers gathering against the Lord and His Anointed, then name Herod, Pilate, Gentiles, and the people of Israel in what happened to Jesus. They also affirm that God's purpose was being carried out.",
+    "",
+    "Their response is to ask for boldness to continue speaking His word. The handover leads toward the cross, yet the risen Jesus' mission continues through witnesses who themselves face pressure. God's purpose does not make the wrongdoing good; it gives His people confidence that opposition cannot finally defeat His work."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/27.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-seven-opening-review.md"
+  }
+}

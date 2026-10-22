@@ -1,0 +1,45 @@
+# Isaiah 21–22 passage review — 2026-10-21
+
+Five retained groups /42 actual BSB verses. Three supported plan sections /two omissions /five exact open positions. No owner study changed; existing deeper links retained.
+
+## Actually read sources
+
+Whole baseline21–22lessonPDF160–174 actually read; cumulativePDF1–181 including23–25lesson175–181 begun. Whole actual BSB21/22mainverses17+25;Henry21/22 andWesley21/22expositionread. Henry21:11,12 separate actual reread after regex missed comma label. USCCB21notesread;22HTTPerrorunused. Gill21selected1,2,5,8–14,16,17all28315chars andGill22selected1,2,8,11,13,14,16,18,20–25all29149chars actuallyread. Cambridge22ONLY25expositionread, notwholechapter. BDB1746pagehasNOactualBrownDriverBriggsentry, no independentlexicalDumahclaimused.
+
+Primary doctrinal sources: BenedictXVI29June2012homily ONLYkeyssection6398:9898actuallyread;CCC881–883wholeparagraphsread;WCFwhole25and30read;1689Baptist26ONLYparagraph4withfootnotesread (notwholechapter). Distinguish CatholicdoctrineofficialCatechism/Popehomilyillustration from each named Protestantconfession, nofalseone-to-oneversecommentaryclaim. NouniversalallBaptistsdefinition.
+
+Actual BSBsupportRev3:7–13;1Cor15:12–19,29–34;Matt16:13–20;2Kings18:17–18read. Rev18:2–8alreadyactuallyreadin13–14batch andusedagain. NoapplicableownerpositionfoundbyIsaiah21/22/keyDavidsearch.
+
+## 21:1–10
+
+Plan section: included, because (a). Revelation18:2 takesup fallannouncement21:9 andfurther warnsGodpeopleavoidsharingBabylon'ssins.
+Position source: none.
+FLAGGED FOR REVIEW: BSB21:8lookoutshoutednotKJVlion;noCyruslionwordproofChrist. BSB21:5carpetnotwatchtowerinsertedfromotherversion. Watchmanperspective21:10afflictedIsraelHenry/GillversusBabylonWesactuallydiffers,disclosed. No Xenophonpairs=uniquelyPersianformationclaim withoutprimaryXenophontargetverification;omitted. No exactbattleplan/drainedriver/deadbodydetailspresentedindependentlyverified. Shieldoilingnotautomaticarrowproofreligiousmeaning. TitleDesertbySeaexplainedincontextthroughnamedBabylon,notunverifiedgeophysicalmap. No every Babylonreferent identicalcityandtime bydictum. LargerRevconnectiondirecteveniflocationdebated.
+
+## 21:11–12
+
+Plan section: omitted, because the short exchange does not establish a distinct Christ connection beyond speculative mapping.
+Position source: none.
+FLAGGED FOR REVIEW: DumahnotautomaticallyIdumeaidenticalHebwordproveseternalsilence;BDB1746actualentrymissing, nolexicalclaim. EdomSeirconnectionWesandUSCCBdirectchecked;Arabianoasisalternativeaccuratelyreported. Baselinewholeverse12switchestoAramaicnotindependentlychecked andnotused. NoonepreciseJesusreturnmorning/Edompermanenthellnighttimeline;primaryWesordinarychangingfortunes/Henryrepentance/Gillbroaderallegoriesdistinguishedselectively. No unverifiedHerodethnicstatuspolicy/“secondmostdespisednation”ranking. Mic2fold=Bozrahpropername=Petra,uniqueHebwordandexactfutureJewishrefugeunestablishedandnotneededhere,omitted. NoAramaicimperativeimmediatelyequalscommandJewsreturnZionafter3.5years. NoGodnevercaresallEdomitesstereotype.
+
+## 21:13–17
+
+Plan section: omitted, because a generic refuge/food connection would repeat the context without distinct warranted development.
+Position source: none.
+FLAGGED FOR REVIEW: No modernArabiaalltribesoneSauditribeethnographypresentedasfact;ancientnamesretained. No exactconquestyearorsecretone-yearmoderncountdown. Caravansandwaterexplicittext,butdetailedancienttrade-routeclaimsnotindependentlycheckedomitted. Food/waterasappealtohelpactualBSBnotoldpreteritepasted. No prosperityguaranteeorallmodernrefugeesidentifiedasthisprophecy. No extralaterEdomdestructionforcedintoArabia.
+
+## 22:1–14
+
+Plan section: included, because (a). 1Cor15:32quotes22:13. Wider15:12–19Christresurrectionessentialtofaithandhope;15:33–34conductapplicationexplicit.
+Position source: none.
+FLAGGED FOR REVIEW: BSBJerusalemnamed22:9–10supportssetting;nofalsecapitalactuallyvalleygeographyfromname. BabyloniancampaignWesversusAssyrianGillactualdiffers,notsettledownerposition. Elam/KirnotbothidenticalBabylonbyworddefinition;noclaimtheyprovideunambiguouscampaigndate. Deathnotbattletextdoesnotitselfproveeveryvictimstarved;Henryalternativesfear/famineomittedasdiagnosticfact. Walls/waterpreparationsnotuniversallyforbidden;GillactualdistinguishesfailuretolookGod. No verbatimnewBSBquoteunverified;allmainversesfreshverified. Verse14warningretained,noautomaticpurgingafterdeathdoctrineoruniversalnooneevercanrepentChristianpolicy. NTresurrectionlinknotclaimall22:13speakerhelddevelopedNTdoctrinealready.
+
+## 22:15–25
+
+Plan section: included, because (a). Revelation3:7explicitkeyDavid/open/shut,3:8–13keptword/lastingplaceGodtemple.
+Position source: none.
+FLAGGED FOR REVIEW: Shebnacertainstranger/idolatryleader/AssyriancapturewithGabrielgateclosure/torturehistorynotindependentlyestablished, omitted. Actual2Kings18:18rolesconfirmschange,notfullbiography. No exactarchaeologicaltombidentification. EliakimpriestAzariahidentificationandnameetymologydeathresurrectionproofunverified,omitted. Historicalkeyshoulderhookritualnotindependentlyverifiedandnotasserted. FinalpegWes/GillShebnavsCambridgeEliakimhouseactualdiffers. No baselinedefinitefinalcutpeg=Christcrucifixion/entireIsraelcutoffuntilreturnasNTstated. PublicplanusesactualRev3ratherthanforcedobjectcode. Catholicreadinghomilyisownprimaryexample;doctrinePeter/PopefromCCC881–882actual. WCF30officersand25.6/1689Baptist26.4papalheadrejectionactual,notclaimtheseconfessionsallofferverse-by-verseIsa22explanationorallProtestantsteachidentically. NoidentificationcontemporarychurchastheAntichristfrompolemicalhistoricalwording;publicfairplainparaphrasesauthoritydifference. Relatedchurchleadershipstudylinksnotpassage-specificownerposition.
+
+## Validation
+
+All checks passed: direct BSB; repository (0 errors /374 warnings); preservation; continuous coverage through22:25; unchanged repeat generation; ten mobile views; physical Next; Hosting dry run, deployment and LIVE MATCH9; each observed exit0. Cumulative43 reviewed groups /423 actual verses /30 plans /13 omissions /one existing-study position /42 open.

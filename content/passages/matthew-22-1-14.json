@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "22:1-14",
+    "label": "Matthew 22:1-14",
+    "slug": "matthew-22-1-14"
+  },
+  "section_title": "The Invitation to the Wedding Feast",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Once again, Jesus spoke to them in parables: 2 “The kingdom of heaven is like a king who prepared a wedding banquet for his son. 3 He sent his servants to call those he had invited to the banquet, but they refused to come. 4 Again, he sent other servants and said, ‘Tell those who have been invited that I have prepared my dinner. My oxen and fattened cattle have been killed, and everything is ready. Come to the wedding banquet.’",
+        "5 But they paid no attention and went away, one to his field, another to his business. 6 The rest seized his servants, mistreated them, and killed them. 7 The king was enraged, and he sent his troops to destroy those murderers and burn their city. 8 Then he said to his servants, ‘The wedding banquet is ready, but those I invited were not worthy. 9 Go therefore to the crossroads and invite to the banquet as many as you can find.’ 10 So the servants went out into the streets and gathered everyone they could find, both evil and good, and the wedding hall was filled with guests.",
+        "11 But when the king came in to see the guests, he spotted a man who was not dressed in wedding clothes. 12 ‘Friend,’ he asked, ‘how did you get in here without wedding clothes?’ But the man was speechless. 13 Then the king told the servants, ‘Tie him hand and foot, and throw him into the outer darkness, where there will be weeping and gnashing of teeth.’ 14 For many are called, but few are chosen.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus continues speaking in parables after the vineyard tenants have rejected the owner's son. Now He describes a king preparing a wedding feast for his son. Those already invited refuse to come. Some turn to their ordinary work; others mistreat and kill the servants. The king judges the murderers and sends servants to invite people from the roads.",
+    "",
+    "The hall fills with guests, both evil and good. Yet the story does not end with their arrival. The king finds a guest without wedding clothes, questions him, and has him removed. Jesus closes with a warning about the difference between being called and being chosen.",
+    "",
+    "The invitation is generous, and rejecting it is serious. The final scene also challenges those who have come: being among the guests does not put someone beyond the king's judgment. The story itself does not say who supplied the clothes or explain how the man came to be without them."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the feast as God's invitation into His kingdom through His Son, with a warning against both rejecting the invitation and assuming that outward membership is enough. Readers differ over what the clothing and the closing words emphasize.",
+    "",
+    "The Catholic Church's [Catechism, 546](https://www.vatican.va/archive/ENG0015/__P1L.HTM), says the kingdom's invitation calls for a changed life. The [US Catholic bishops' note on 22:11](https://bible.usccb.org/bible/matthew/22) understands the garment as repentance continued in good deeds. [Wesley on 22:12–14](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) describes Christ's righteousness both credited to believers and taking shape within them; hearing the invitation is different from believing it.",
+    "",
+    "Reformed churches following the [Westminster Confession, chapter 10](https://www.opc.org/wcf.html), and Baptists following the [1689 Confession, chapter 10](https://www.the1689confession.com/1689/chapter-10), distinguish the invitation people hear from God's inward work that brings His chosen people freely to faith. In this reading, the closing distinction points to more than an outward response.",
+    "",
+    "Wesley's emphasis is that many hear but few believe. The Methodist [Articles of Religion, VIII–X](https://www.umc.org/en/content/articles-of-religion), teach that God's grace must first enable a response, that people are accepted through Christ by faith, and that good works follow living faith. Catholic teaching likewise makes grace God's free initiative while affirming a person's free response ([Catechism, 1996–2002](https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_three/article_2/ii_grace.html)). These traditions explain the relationship between God's choice and the hearer's response differently; none of these statements treats salvation as earned by attending a gathering."
+  ],
+  "god_plan_lines": [
+    "The feast belongs within a larger biblical picture of salvation shared with God's people. [Isaiah 25:6–9](https://biblehub.com/bsb/isaiah/25.htm) describes the LORD preparing a banquet for all peoples, swallowing up death, and wiping away tears. The wedding feast provides a parallel to that hope: God's purpose brings people into the joy of His saving work.",
+    "",
+    "[Revelation 19:6–9](https://biblehub.com/bsb/revelation/19.htm) uses the picture of the Lamb's wedding and blesses those invited to His supper. Its bride receives fine linen, which the passage identifies with the saints' righteous acts. This is a related picture of salvation, readiness, and joy; it does not make every detail of the two scenes identical."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/22.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-two-review.md"
+  }
+}

@@ -5,58 +5,60 @@
     "label": "Isaiah 44:21-28",
     "slug": "isaiah-44-21-28"
   },
-  "section_title": "Jerusalem to Be Restored",
+  "section_title": "Why does God tell the people He has redeemed to return to Him?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "21 Remember these things, O Jacob,",
-        "for you are My servant, O Israel.",
-        "I have made you, and you are My servant;",
-        "O Israel, I will never forget you.",
-        "22 I have blotted out your transgressions like a cloud,",
-        "and your sins like a mist.",
-        "Return to Me, for I have redeemed you.",
-        "23 Sing for joy, O heavens, for the LORD has done this;",
-        "shout aloud, O depths of the earth.",
-        "Break forth in song, O mountains,",
-        "you forests and all your trees.",
-        "For the LORD has redeemed Jacob,",
-        "and revealed His glory in Israel.",
-        "24 Thus says the LORD,",
-        "your Redeemer who formed you from the womb:",
-        "\u201cI am the LORD,",
-        "who has made all things,",
-        "who alone stretched out the heavens,",
-        "who by Myself spread out the earth,",
-        "25 who foils the signs of false prophets",
-        "and makes fools of diviners,",
-        "who confounds the wise",
-        "and turns their knowledge into nonsense,",
-        "26 who confirms the message of His servant",
-        "and fulfills the counsel of His messengers,",
-        "who says of Jerusalem,",
-        "\u2018She will be inhabited,\u2019",
-        "and of the cities of Judah,",
-        "\u2018They will be rebuilt, and I will restore their ruins,\u2019",
-        "27 who says to the depths of the sea,",
-        "\u2018Be dry, and I will dry up your currents,\u2019",
-        "28 who says of Cyrus,",
-        "\u2018My shepherd will fulfill all that I desire,\u2019",
-        "who says of Jerusalem,",
-        "\u2018She will be rebuilt,\u2019",
-        "and of the temple,",
-        "\u2018Let its foundation be laid.\u2019 \u201d"
+        "21 Remember these things, O Jacob, for you are My servant, O Israel. I have made you, and you are My servant; O Israel, I will never forget you. 22 I have blotted out your transgressions like a cloud, and your sins like a mist. Return to Me, for I have redeemed you. 23 Sing for joy, O heavens, for the LORD has done this; shout aloud, O depths of the earth. Break forth in song, O mountains, you forests and all your trees. For the LORD has redeemed Jacob, and revealed His glory in Israel.",
+        "24 Thus says the LORD, your Redeemer who formed you from the womb: “I am the LORD, who has made all things, who alone stretched out the heavens, who by Myself spread out the earth, 25 who foils the signs of false prophets and makes fools of diviners, who confounds the wise and turns their knowledge into nonsense, 26 who confirms the message of His servant and fulfills the counsel of His messengers, who says of Jerusalem, ‘She will be inhabited,’ and of the cities of Judah, ‘They will be rebuilt, and I will restore their ruins,’ 27 who says to the depths of the sea, ‘Be dry, and I will dry up your currents,’ 28 who says of Cyrus, ‘My shepherd will fulfill all that I desire,’ who says of Jerusalem, ‘She will be rebuilt,’ and of the temple, ‘Let its foundation be laid.’”"
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 44**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "The Lord calls Jacob and Israel to remember the contrast with idols. He formed them as His servant and will not forget them. Their sins are pictured as a cloud and mist He has removed, and His redemption is the reason for the call to return.",
+    "",
+    "The invitation brings a summons to creation itself: heavens, earth, mountains, forest and trees are called to rejoice because the Lord has redeemed Jacob and revealed His glory in Israel.",
+    "",
+    "The Creator then contrasts His action with the failed signs of false prophets and diviners. He confirms His servant’s message, promises that Jerusalem will be inhabited and Judah’s ruined cities rebuilt, and removes the obstacles before that purpose.",
+    "",
+    "The final verse names Cyrus as His shepherd, the one who will carry out His desire concerning Jerusalem and the temple’s foundation. The announcement moves from pardon and praise to a named instrument of restoration."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Jerusalem to Be Restored** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/isaiah/44.htm), [Wesley](https://biblehub.com/commentaries/wes/isaiah/44.htm) and [Gill](https://biblehub.com/commentaries/gill/isaiah/44.htm) understand the cloud and mist as pictures of sins removed through forgiveness. The call to return is grounded in God’s redeeming action and willingness to receive His people.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 44** remains the first control on meaning."
+    "For Cyrus, Henry and Wesley emphasize the Lord’s power to employ a ruler in the service of His people. Gill connects the shepherd title with leading them out of captivity and making their return possible.",
+    "",
+    "They differ over some details of the dried waters. Wesley stresses God’s power to remove obstacles, while Gill discusses both the Babylonian river explanation and the earlier crossings of the sea and Jordan. The stated outcome is the rebuilding God announces."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The restoration begins to take visible form in [Ezra 1:1–4](https://biblehub.com/bsb/ezra/1.htm), where Cyrus authorizes return and the rebuilding of the Lord’s house. Ezra attributes the proclamation to the Lord stirring the king’s spirit.",
+    "",
+    "The Bible’s larger shepherd theme reaches a greater rescue in [John 10:11–18, 27–30](https://biblehub.com/bsb/john/10.htm). Jesus lays down His life for the sheep, gathers them to hear His voice and gives them eternal life.",
+    "",
+    "This is a connection through the shared theme of God gathering and preserving His people, not an identification of Cyrus with Jesus. The political ruler serves a particular restoration; the saving Shepherd gives His own life and brings a security that reaches beyond that return."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/44.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-forty-four-five-review.md"
+  }
 }

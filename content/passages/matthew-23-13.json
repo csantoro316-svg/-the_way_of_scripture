@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "23:13",
+    "label": "Matthew 23:13",
+    "slug": "matthew-23-13"
+  },
+  "section_title": "When Religious Guides Block the Way",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 Woe to you, scribes and Pharisees, you hypocrites! You shut the kingdom of heaven in men’s faces. You yourselves do not enter, nor will you let in those who wish to enter."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus has warned His disciples against seeking honor and placing burdens on others. He now addresses the scribes and Pharisees directly with a series of woes. The first charges them with shutting the kingdom against people: they do not enter, and they obstruct others who want to enter.",
+    "",
+    "Woe is οὐαί, *ouai* (oo-EYE), an expression of grief or denunciation. [Thayer's entry](https://biblehub.com/greek/3759.htm) includes the warnings in this chapter. Here the word introduces a grave charge about the damage religious leaders do to those they guide. [Luke 11:52](https://biblehub.com/bsb/luke/11.htm) gives a related warning about taking away the key to knowledge and hindering those entering.",
+    "",
+    "The BSB places the words numbered 23:14 in some translations in a footnote. Its main text moves from verse 13 to verse 15. That note points to the warning about exploiting widows and making long prayers in [Mark 12:40](https://biblehub.com/bsb/mark/12.htm) and [Luke 20:47](https://biblehub.com/bsb/luke/20.htm); this page follows the BSB's main-text numbering."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a warning that religious teaching can become an obstacle to entering God's kingdom. [Wesley on 23:13](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) connects the barrier with a refusal of humility; the [US Catholic bishops' note](https://bible.usccb.org/bible/matthew/23) emphasizes authority used to obstruct entry."
+  ],
+  "god_plan_lines": [
+    "Jesus' purpose is to bring people into life. In [John 10:7–10](https://biblehub.com/bsb/john/10.htm), He describes Himself as the gate through whom people enter and are saved, contrasting His life-giving work with destruction. [Ephesians 2:13–22](https://biblehub.com/bsb/ephesians/2.htm) describes people brought near through His death, sharing access to the Father and a place in God's household. Leadership that closes the way stands against that gathering purpose."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/23.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-three-review.md"
+  }
+}

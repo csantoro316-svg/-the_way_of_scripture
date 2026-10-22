@@ -5,33 +5,48 @@
     "label": "Isaiah 21:13-17",
     "slug": "isaiah-21-13-17"
   },
-  "section_title": "The Burden against Arabia",
+  "section_title": "What happens when the caravans themselves need refuge?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "13 This is the burden against Arabia:",
-        "In the thickets of Arabia you must lodge,",
-        "O caravans of Dedanites.",
-        "14 Bring water for the thirsty,",
-        "O dwellers of Tema;",
-        "meet the refugees with food.",
-        "15 For they flee from the sword\u2014",
-        "the sword that is drawn\u2014",
-        "from the bow that is bent,",
-        "and from the stress of battle.",
-        "16 For this is what the Lord says to me: \u201cWithin one year, as a hired worker would count it, all the glory of Kedar will be gone. 17 The remaining archers, the warriors of Kedar, will be few.\u201d",
-        "For the LORD, the God of Israel, has spoken."
+        "13 This is the burden against Arabia: In the thickets of Arabia you must lodge, O caravans of Dedanites. 14 Bring water for the thirsty, O dwellers of Tema; meet the refugees with food. 15 For they flee from the sword— the sword that is drawn— from the bow that is bent, and from the stress of battle.",
+        "16 For this is what the Lord says to me: “Within one year, as a hired worker would count it, all the glory of Kedar will be gone. 17 The remaining archers, the warriors of Kedar, will be few.” For the LORD, the God of Israel, has spoken."
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 21**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "The message concerns Arabia and addresses caravans of Dedanites forced to lodge in thickets. The people of Tema are called to bring water and food to those fleeing the sword, the drawn bow and the pressure of battle.",
+    "",
+    "The scene moves from travelers’ vulnerability to a definite warning about Kedar. Within one year, carefully counted as a hired worker counts time, its glory will fail and only a few of its warriors will remain.",
+    "",
+    "The final assurance is that the Lord, the God of Israel, has spoken. The strength of archers cannot guarantee safety against the judgment announced, and people on the move need practical help with food and water."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Burden against Arabia** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/isaiah/21.htm), [Wesley](https://biblehub.com/commentaries/wes/isaiah/21.htm) and [Gill](https://biblehub.com/commentaries/gill/isaiah/21.htm) understand the passage as a warning of war bringing loss and flight among the Arabian peoples. Wesley and Gill connect the threat with Assyrian invasion, while treating the year as a definite limit.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 21** remains the first control on meaning."
+    "Henry emphasizes how quickly wealth and military strength can fail. The call to feed the refugees keeps the warning grounded in human need: those who appear secure may find themselves depending on the kindness of others."
   ],
-  "deeper_study": []
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/21.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-twenty-one-two-review.md"
+  }
 }

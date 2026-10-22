@@ -5,23 +5,51 @@
     "label": "1 Samuel 31:7-10",
     "slug": "1-samuel-31-7-10"
   },
-  "section_title": "The Philistines Possess the Towns",
+  "section_title": "How does the defeat spread beyond the battlefield?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "7 When the Israelites along the valley and those on the other side of the Jordan saw that the army of Israel had fled and that Saul and his sons had died, they abandoned their cities and ran away. So the Philistines came and occupied their cities.",
-        "8 The next day, when the Philistines came to strip the dead, they found Saul and his three sons fallen on Mount Gilboa. 9 They cut off Saul\u2019s head, stripped off his armor, and sent messengers throughout the land of the Philistines to proclaim the news in the temples of their idols and among their people. 10 They put his armor in the temple of the Ashtoreths and hung his body on the wall of Beth-shan."
+        "7 When the Israelites along the valley and those on the other side of the Jordan saw that the army of Israel had fled and that Saul and his sons had died, they abandoned their cities and ran away. So the Philistines came and occupied their cities. 8 The next day, when the Philistines came to strip the dead, they found Saul and his three sons fallen on Mount Gilboa. 9 They cut off Saul’s head, stripped off his armor, and sent messengers throughout the land of the Philistines to proclaim the news in the temples of their idols and among their people. 10 They put his armor in the temple of the Ashtoreths and hung his body on the wall of Beth-shan."
       ]
     }
   ],
   "context_lines": [
-    "In **1 Samuel 31**, this section should be read within the flow of the chapter and the larger movement of 1 Samuel."
+    "People along the valley and across the Jordan see Israel’s flight and learn that Saul and his sons are dead. They abandon their cities, and the Philistines occupy them. The defeat brings displacement as well as death.",
+    "",
+    "The next day the Philistines find Saul and his sons among the fallen. They cut off Saul’s head, strip his armor and send news of the victory through their land and the temples of their idols. They place his armor in the temple of the Ashtoreths and hang his body on Beth-shan’s wall.",
+    "",
+    "The treatment turns a military victory into public humiliation of Israel’s king and celebration before Philistine gods. It also prepares for the response of people who remember Saul for more than his final defeat."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Philistines Possess the Towns** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-samuel/) understands the display as the Philistines crediting their gods with victory. [1 Chronicles 10:8–10](https://biblehub.com/bsb/1_chronicles/10.htm) adds that Saul’s head was hung in Dagon’s temple. Both accounts show the defeat being proclaimed as a triumph for their worship.",
     "",
-    "Where interpreters differ on details, the immediate setting in **1 Samuel 31** remains the first control on meaning."
+    "[Henry](https://biblehub.com/commentaries/mhc/1_samuel/31.htm) distinguishes what happens to bodies from what can be known about souls. Public honor or humiliation after death cannot by itself settle a person’s standing before God. Here the account makes the earthly consequences painfully visible."
   ],
-  "deeper_study": []
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_samuel/31.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-samuel-twenty-seven-thirty-one-review.md"
+  }
 }

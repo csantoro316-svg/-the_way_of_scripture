@@ -1,0 +1,52 @@
+{
+  "reference": {
+    "book": "Jonah",
+    "citation": "4:5-9",
+    "label": "Jonah 4:5-9",
+    "slug": "jonah-4-5-9"
+  },
+  "section_title": "What does God teach Jonah through the shade he gains and loses?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 Then Jonah left the city and sat down east of it, where he made himself a shelter and sat in its shade to see what would happen to the city. 6 So the LORD God appointed a vine, and it grew up to provide shade over Jonah’s head to ease his discomfort, and Jonah was greatly pleased with the plant.",
+        "7 When dawn came the next day, God appointed a worm that attacked the plant so that it withered. 8 As the sun was rising, God appointed a scorching east wind, and the sun beat down on Jonah’s head so that he grew faint and wished to die, saying, “It is better for me to die than to live.” 9 Then God asked Jonah, “Have you any right to be angry about the plant?” “I do,” he replied. “I am angry enough to die!”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jonah leaves the city, makes a shelter east of it and waits to see what will happen. God appoints a vine to give him shade, and he is greatly pleased.",
+    "",
+    "The next morning God appoints a worm that attacks the plant, then a scorching east wind. Without the shade, Jonah grows faint and again says he would rather die.",
+    "",
+    "The repeated word appointed belongs to מָנָה, manah (mah-NAH), which in these passages means appoint or assign; see [Brown–Driver–Briggs](https://biblehub.com/hebrew/4487.htm). The fish, plant, worm and wind serve God’s purpose in the story. Through the comfort Jonah welcomes and the loss he resents, God brings his misplaced concern into the open.",
+    "",
+    "Asked whether he has a right to be angry about the plant, Jonah insists that he does. His response prepares the comparison with Nineveh in God’s closing words."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/jonah/4.htm) and [Wesley](https://biblehub.com/commentaries/wes/jonah/4.htm) understand the plant and its loss as a lesson in the fragility of personal comforts and Jonah’s need for greater mercy. The question about his anger exposes how deeply his own discomfort affects him."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/jonah/4.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-jonah-review.md"
+  }
+}

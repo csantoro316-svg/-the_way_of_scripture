@@ -5,20 +5,51 @@
     "label": "Luke 11:13",
     "slug": "luke-11-13"
   },
+  "section_title": "What gift does Jesus name when He speaks of the Father’s goodness?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "'If you then, being evil, know how to give good gifts to your children, how much more will your heavenly Father give the Holy Spirit to those who ask Him?'"
+      "label": "BSB",
+      "paragraphs": [
+        "13 So if you who are evil know how to give good gifts to your children, how much more will your Father in heaven give the Holy Spirit to those who ask Him!”"
+      ]
     }
   ],
   "context_lines": [
-    "In **Luke 11**, Jesus teaches on prayer and then explains the Father's goodness in giving what is truly needed. The chapter's promise language is framed by the Lord's Prayer, persistence in seeking, and the climactic gift of the Holy Spirit."
+    "This verse concludes Jesus’ teaching about prayer in Luke 11:1–13. After giving the disciples a prayer and the midnight-friend story, Jesus compares the Father’s giving with the ordinary care of earthly parents.",
+    "",
+    "Even sinful people can recognize a child’s need and give something good. Jesus directs the disciples’ confidence toward their Father in heaven, whose goodness is greater, and identifies the Holy Spirit as His gift.",
+    "",
+    "The verse is best read with the whole exchange, including the call to ask, seek and knock. [Read Luke 11:5–13](https://the-way-of-scripture.web.app/passages/luke-11-5-13.html)."
   ],
-  "explanation_lines": [
-    "Look at what the passages actually say. Matthew 7:11 \u2014 the Father gives what is good, and Luke's parallel names that good thing as the Holy Spirit (Luke 11:13). John 14:13 \u2014 whatever you ask in His name, meaning in alignment with His character and purposes. John 15:7 \u2014 ask whatever you wish, but only after abiding in Him, which means your desires have already been shaped by His Word and His will. Acts 4 \u2014 the early church asks specifically, and what they ask for is boldness to keep preaching regardless of what happens to them personally. In every case, what Scripture models as the content of asking is His kingdom, His purposes, and spiritual formation \u2014 not personal earthly outcomes. God wants you to ask. But what He consistently shows His people asking for is what serves His divine purpose. That distinction is everything.",
-    "",
-    "It is also worth addressing directly a position that many thoughtful theologians hold: that material asking is not prohibited by Scripture, that Gethsemane itself contains a request, and that the key is not the absence of asking but surrender governing it. Early church writers including Augustine and Cyprian preserved both a literal and spiritual meaning for daily bread. The argument that is often made is that humble petition offered in genuine submission to God's will is valid Christian prayer.",
-    "",
-    "This document does not claim that asking is sinful. It does not claim that a person who says \"Lord, I need provision, Your will be done\" has done something wrong. What it claims is something more precise \u2014 and more demanding."
-  ]
+  "common_interpretation_lines": [
+    "Christian readings commonly recognize the Father’s generous care and the importance of the Holy Spirit as His gift to those who ask. Wesley emphasizes the greatness of that gift, and the Catholic bishops’ note likewise places the gift of the Spirit at the conclusion of Jesus’ teaching on prayer. ([Wesley on Luke 11:13](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [USCCB note on Luke 11:13](https://bible.usccb.org/bible/luke/11))"
+  ],
+  "god_plan_lines": [
+    "Galatians describes the Father sending His Son to redeem and then sending the Spirit of His Son into the hearts of His children. Romans likewise connects the Spirit with belonging to God’s family. The gift named here is part of God bringing people into a life of relationship with Him through Christ. ([Galatians 4:4–7](https://biblehub.com/bsb/galatians/4.htm); [Romans 8:14–17](https://biblehub.com/bsb/romans/8.htm))"
+  ],
+  "current_position_lines": [
+    "Prayer and Faith and What Does Prayer Look Like? use this verse to emphasize what Jesus names as the Father’s gift: the Holy Spirit. They understand mature prayer as seeking God’s purposes, His presence and His work of forming us, with trust in His goodness governing what we ask."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/11.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-luke-eleven-prayer-review.md",
+    "position_source_detail": "Prayer and Faith and What Does Prayer Look Like?, respective Does God Want You to Ask? discussions explicitly treating Luke 11:13."
+  }
 }

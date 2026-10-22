@@ -1,0 +1,68 @@
+{
+  "reference": {
+    "book": "Revelation",
+    "citation": "12:1-6",
+    "label": "Revelation 12:1-6",
+    "slug": "revelation-12-1-6"
+  },
+  "section_title": "Who are the woman, the child and the dragon?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 And a great sign appeared in heaven: a woman clothed in the sun, with the moon under her feet and a crown of twelve stars on her head. 2 She was pregnant and crying out in the pain and agony of giving birth.",
+        "3 Then another sign appeared in heaven: a huge red dragon with seven heads, ten horns, and seven royal crowns on his heads. 4 His tail swept a third of the stars from the sky, hurling them to the earth. And the dragon stood before the woman who was about to give birth, ready to devour her child as soon as she gave birth.",
+        "5 And she gave birth to a son, a male child, who will rule all the nations with an iron scepter. And her child was caught up to God and to His throne. 6 And the woman fled into the wilderness, where God had prepared a place for her to be nourished for 1,260 days."
+      ]
+    }
+  ],
+  "context_lines": [
+    "John sees two great signs: a pregnant woman clothed in the sun, with the moon beneath her feet and twelve stars on her head, and a red dragon with seven heads, ten horns and seven royal crowns. The scene presents a conflict around the birth of her child.",
+    "",
+    "The dragon sweeps a third of the stars from the sky and waits to devour the child. The attempt fails. The woman gives birth to a son destined to rule the nations with an iron scepter, and he is caught up to God and His throne. The language of royal rule echoes [Psalm 2:7–9](https://biblehub.com/bsb/psalms/2.htm).",
+    "",
+    "The woman then escapes into the wilderness, where God has prepared a place to nourish her for 1,260 days. The passage moves quickly from the threatened birth to the child’s place with God and the woman’s protection. Its purpose is to show the conflict and God’s provision, rather than retell every event in the child’s life.",
+    "",
+    "The dragon’s identity is made explicit later in the chapter: he is the devil and Satan. The woman’s identity is expressed through pictures that readers connect with other biblical passages, and that is where the main differences in interpretation arise."
+  ],
+  "common_interpretation_lines": [
+    "[Walvoord](https://swartzentrover.com/cotor/E-Books/holiness/Walvoord/Revelation/Rev_12.htm) understands the woman as Israel, from whom the Messiah comes, and the child as Christ. He connects her sun, moon and stars with Joseph’s family in Genesis 37. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-revelation-of-jesus-christ/) understands her as the church rooted in Israel and enlarged through Gentile believers; he reads the child especially in terms of Christ’s kingdom.",
+    "",
+    "The [USCCB notes](https://bible.usccb.org/bible/revelation/12) understand the woman as God’s people across the Old and New Testaments. In Catholic teaching, a further connection is made with Mary. [Benedict XVI](https://www.vatican.va/content/benedict-xvi/en/audiences/2006/documents/hf_ben-xvi_aud_20060823.html) explains the woman as representing both the mother of the Redeemer and the whole church. In that reading, the personal and community meanings belong together.",
+    "",
+    "The central difference is therefore not simply whether someone notices that Jesus was born to Mary. It concerns how the woman’s whole story—giving birth, fleeing and having other children—represents Mary, Israel and the church. The readings should be compared on that wider basis rather than reduced to a choice between a real woman and a symbol."
+  ],
+  "god_plan_lines": [
+    "The heavenly lights recall [Genesis 37:9–11](https://biblehub.com/bsb/genesis/37.htm), where Joseph dreams of the sun, moon and stars, and Jacob recognizes a reference to his family. This is a genuine biblical parallel behind the connection with Israel. It supplies context for the picture without, on its own, answering every question about the woman’s meaning.",
+    "",
+    "The conflict between the dragon, the woman and her child also recalls [Genesis 3:14–15](https://biblehub.com/bsb/genesis/3.htm), with its hostility between the serpent and the woman and between their offspring. Revelation identifies its dragon as the ancient serpent and presents the child as the ruler promised in Psalm 2. Read together, these passages connect the vision with the larger biblical story of opposition to God’s purpose and the triumph of His appointed ruler."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/revelation/12.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-revelation-twelve-review.md"
+  }
+}

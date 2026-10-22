@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "2:1-7",
+    "label": "Luke 2:1-7",
+    "slug": "luke-2-1-7"
+  },
+  "section_title": "Why is Jesus born in Bethlehem?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Now in those days a decree went out from Caesar Augustus that a census should be taken of the whole empire. 2 This was the first census to take place while Quirinius was governor of Syria. 3 And everyone went to his own town to register. 4 So Joseph also went up from Nazareth in Galilee to Judea, to the city of David called Bethlehem, since he was from the house and line of David. 5 He went there to register with Mary, who was pledged to him in marriage and was expecting a child.",
+        "6 While they were there, the time came for her Child to be born. 7 And she gave birth to her firstborn, a Son. She wrapped Him in swaddling cloths and laid Him in a manger, because there was no room for them in the inn."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Luke places the birth within the rule of Caesar Augustus and a registration connected with Quirinius. Joseph travels from Nazareth to Bethlehem because he belongs to David’s house and line. Mary, pledged to him and expecting a child, goes with him.",
+    "",
+    "While they are there, Mary gives birth, wraps her Son in cloths, and lays Him in a manger—a feeding trough. Luke tells us there is no room in the lodging place. He does not give the time of night, say the birth happens immediately on their arrival, or describe an innkeeper refusing them.",
+    "",
+    "The Greek word translated inn is κατάλυμα, kataluma (kat-AL-oo-mah), meaning a lodging place or room. Luke uses the same word for the guest room where Jesus will eat the Passover. This helps explain why readers picture different settings for the birth; the word does not by itself identify a particular building or household. ([Thayer’s lexicon](https://biblehub.com/greek/2646.htm); [Luke 22:11](https://biblehub.com/bsb/luke/22.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian traditions commonly understand this as the birth of the promised Savior in humble circumstances, with His connection to David important to the account. The Catholic Catechism and Wesley both emphasize the lowly setting rather than worldly rank or comfort. ([Catechism 525–526](https://www.vatican.va/archive/ENG0015/__P1L.HTM); [Wesley on Luke 2:6–7](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))",
+    "",
+    "The census date is harder to establish. Josephus describes Quirinius’s registration after the removal of Archelaus, later than Herod the Great’s reign, while Luke opens his birth narrative during Herod’s time. The BSB offers an alternative reading of verse 2 that places this census before Quirinius’s governorship. The USCCB’s study notes suggest Luke may have combined events from different times; researcher David Armitage examines ways Luke and Josephus might fit together, while acknowledging that no proposed solution can be proved. These are explanations under discussion, not an agreed date supplied by the surviving records. ([Josephus, Antiquities 18.1.1](https://penelope.uchicago.edu/josephus/ant-18.html); [Luke 1:5](https://biblehub.com/bsb/luke/1.htm); [BSB verse 2 footnote](https://biblehub.com/bsb/luke/2.htm); [USCCB notes](https://bible.usccb.org/bible/luke/2); [David Armitage on the census](https://tyndalehouse.com/2022/12/21/was-luke-wrong-about-the-census/))"
+  ],
+  "god_plan_lines": [
+    "Bethlehem connects the birth with the promised ruler from David’s people. Matthew explicitly links Jesus’ birthplace with Micah’s prophecy of a ruler who will shepherd Israel. Luke’s account of the journey places Jesus in that same town of promise, even as the story unfolds amid the decisions of earthly rulers. ([Micah 5:2–4](https://biblehub.com/bsb/micah/5.htm); [Matthew 2:1–6](https://biblehub.com/bsb/matthew/2.htm))",
+    "",
+    "The humble arrival also has a supported connection with Paul’s description of Christ taking a servant’s place and becoming obedient to death before His exaltation. Paul gives that account to call believers away from selfish ambition and toward caring for others. The birth’s lowliness belongs to a life of self-giving whose meaning reaches into the way His people live together. ([Philippians 2:1–11](https://biblehub.com/bsb/philippians/2.htm))",
+    "",
+    "Paul makes a related connection when he speaks of Christ becoming poor for others’ sake while encouraging generous care for people in need. The response to His grace includes practical generosity, not simply admiration for a humble birth scene. ([2 Corinthians 8:8–15](https://biblehub.com/bsb/2_corinthians/8.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/2.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-two-opening-review.md"
+  }
+}

@@ -5,15 +5,55 @@
     "label": "Ephesians 6:19-20",
     "slug": "ephesians-6-19-20"
   },
-  "versions": [],
-  "context_lines": [
-    "In **Ephesians 6**, Paul closes with the armor of God and a call to persevering prayer in the midst of spiritual conflict. The chapter treats prayer as part of steadfast gospel warfare, endurance, and bold witness."
+  "section_title": "Why does Paul ask others to pray for his courage?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "19 Pray also for me, that whenever I open my mouth, words may be given me so that I will boldly make known the mystery of the gospel, 20 for which I am an ambassador in chains. Pray that I may proclaim it fearlessly, as I should."
+      ]
+    }
   ],
-  "explanation_lines": [
-    "This is the early church's answer to hardship \u2014 not \"Lord, remove this,\" but \"Lord, make us faithful in it.\" Paul asks for the same thing from prison years later: not release, not relief from his chains, but boldness to keep proclaiming the gospel in spite of them (Ephesians 6:19-20). The pattern holds from the first chapters of Acts to the last of Paul's letters \u2014 when believers are under real pressure, what they consistently ask for is not an exit from the pressure, but the courage to remain faithful inside it.",
+  "context_lines": [
+    "Paul has just called for persevering prayer for all God’s people. He now asks the readers to include him, naming his need for words and boldness to proclaim the gospel.",
     "",
-    "Paul admits something remarkable here \u2014 we do not know how to pray as we ought. That is not a failure to be ashamed of. It is an honest acknowledgment of human limitation. And rather than leaving that gap unfilled, the Spirit Himself steps into it, interceding according to God's will rather than our own limited understanding of what we need.",
+    "He is an ambassador in chains: a messenger of Christ whose imprisonment is real. His request concerns how he will speak within that situation. The need for prayer is shared by the messenger and the community he serves."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as a call to persistent prayer for fellow believers and for the clear, courageous proclamation of the gospel. [Wesley’s notes on verses 18–20](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-ephesians/) explain prayer in the Spirit through the Spirit’s influence and emphasize intercession. The [USCCB note on 6:10–20](https://bible.usccb.org/bible/ephesians/6) also gives prayer a central place in the call to stand firm. The passage names both the broad concern for all God’s people and Paul’s particular request."
+  ],
+  "god_plan_lines": [
+    "[Acts 4:23–31](https://biblehub.com/bsb/acts/4.htm) also connects opposition, shared prayer and bold gospel witness. The believers ask for courage as well as God’s work of healing and signs, and the account ends with Spirit-filled proclamation.",
     "",
-    "**Sometimes the most honest prayer is no words at all** \u2014 just bringing your weakness and your brokenness before Him, and trusting the Spirit to do what you cannot articulate yourself."
-  ]
+    "This provides a supported parallel to Paul’s request. God’s people take part in the spread of the gospel through their dependence on Him and their prayers for those who speak."
+  ],
+  "current_position_lines": [
+    "Our study [What Does Prayer Look Like?](https://thewayofscripture.com/studies/what-does-prayer-look-like.html) uses Paul’s request here as an example of prayer for faithfulness under pressure. He asks for words and courage to make the gospel known while in chains. The study emphasizes seeking God’s strength to carry out His purposes in the circumstances we face."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/ephesians/6.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-ephesians-six-closing-review.md",
+    "position_source_detail": "What Does Prayer Look Like?, lines 148–160, especially direct passage discussion at 160."
+  }
 }

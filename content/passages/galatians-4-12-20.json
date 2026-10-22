@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "Galatians",
+    "citation": "4:12-20",
+    "label": "Galatians 4:12-20",
+    "slug": "galatians-4-12-20"
+  },
+  "section_title": "What does Paul want to see take shape in them?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "12 I beg you, brothers, become like me, for I became like you. You have done me no wrong. 13 You know that it was because of an illness that I first preached the gospel to you. 14 And although my illness was a trial to you, you did not despise or reject me. Instead, you welcomed me as if I were an angel of God, as if I were Christ Jesus Himself. 15 What then has become of your blessing? For I can testify that, if it were possible, you would have torn out your eyes and given them to me. 16 Have I now become your enemy by telling you the truth?",
+        "17 Those people are zealous for you, but not in a good way. Instead, they want to isolate you from us, so that you may be zealous for them. 18 Nevertheless, it is good to be zealous if it serves a noble purpose—at any time, and not only when I am with you. 19 My children, for whom I am again in the pains of childbirth until Christ is formed in you, 20 how I wish I could be with you now and change my tone, because I am perplexed about you."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul’s appeal becomes personal. He asks the Galatians to become like him, reminding them that he became like them. This follows his defense of living through faith in Christ and his concern about their desire to come under the law.",
+    "",
+    "He recalls the illness that led to his first preaching among them. Although his condition was a trial to them, they received him with extraordinary welcome. He remembers their willingness, if possible, to give him their own eyes. The passage describes both illness and affection, but it never names the illness.",
+    "",
+    "Now he asks whether telling them the truth has made him their enemy. Other people are eagerly pursuing them, but Paul says their purpose is to isolate the Galatians so that their loyalty will turn toward those teachers.",
+    "",
+    "Paul does not condemn enthusiasm itself. He welcomes zeal directed toward a good purpose, whether he is present or absent. The question is what that eagerness is producing.",
+    "",
+    "He calls them his children and compares his concern to the pains of childbirth. What he longs for is Christ being formed in them. His wish to be present and change his tone reveals how troubled he is about their condition."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a deeply personal appeal from a teacher concerned for people he loves. [Wesley’s notes on verses 12–20](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-galatians/) and the [USCCB notes on verses 12–20](https://bible.usccb.org/bible/galatians/4) both connect the memories of their first welcome with Paul’s distress over the influence now pulling them away. The goal stated in verse 19 is their growth in Christ."
+  ],
+  "god_plan_lines": [
+    "[Romans 8:29](https://biblehub.com/bsb/romans/8.htm) describes God’s purpose as His people being conformed to the image of His Son, who is the firstborn among many brothers. That gives a wider setting for Paul’s desire to see Christ formed in the Galatians.",
+    "",
+    "The aim of his care reaches beyond gaining a hearing or restoring personal loyalty. Their lives are to take the shape of the Son in whose family they belong. Paul’s labor serves that larger purpose."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/galatians/4.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-galatians-four-review.md"
+  }
+}

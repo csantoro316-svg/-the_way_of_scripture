@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "15:42-49",
+    "label": "1 Corinthians 15:42-49",
+    "slug": "1-corinthians-15-42-49"
+  },
+  "section_title": "What does Paul mean by a spiritual body?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "42 So will it be with the resurrection of the dead: What is sown is perishable; it is raised imperishable. 43 It is sown in dishonor; it is raised in glory. It is sown in weakness; it is raised in power. 44 It is sown a natural body; it is raised a spiritual body. If there is a natural body, there is also a spiritual body.",
+        "45 So it is written: “The first man Adam became a living being”; the last Adam a life-giving spirit. 46 The spiritual, however, was not first, but the natural, and then the spiritual. 47 The first man was of the dust of the earth, the second man from heaven. 48 As was the earthly man, so also are those who are of the earth; and as is the heavenly man, so also are those who are of heaven. 49 And just as we have borne the likeness of the earthly man, so also shall we bear the likeness of the heavenly man."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul now applies the illustrations to resurrection itself. What is buried in decay, dishonor and weakness is raised to life that cannot decay or die, in glory and power. The contrast is a transformation of human life, not merely a return to the same condition of vulnerability and death.",
+    "",
+    "The word translated natural is psychikos (psoo-khee-KOSS), ψυχικός, referring here to ordinary human life; see [Thayer’s entry](https://biblehub.com/greek/5591.htm). Paul connects it with Adam becoming a living being. Calling the raised body spiritual does not mean he has stopped talking about a body: it belongs to the new life Christ gives.",
+    "",
+    "His citation of [Genesis 2:7](https://biblehub.com/bsb/genesis/2.htm) introduces Adam as the first man, formed from the earth. Christ is the last Adam and the life-giving one from heaven. Paul contrasts the life received in the first with the life given through the second.",
+    "",
+    "The promise reaches to identity as well as survival: as people have borne the likeness of the earthly man, they will bear the likeness of the heavenly man. The point is the future Christ gives, rather than a detailed specification of a new material or a denial that the person raised is the person who died."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as real bodily transformation through Christ, rather than simply leaving embodied life behind. The Reformed [Westminster Confession 32.2–3](https://www.opc.org/wcf.html) affirms the raising of the same persons’ bodies with changed qualities, and [Wesley’s note on verse 45](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) connects Christ’s life-giving work with the resurrection of their bodies."
+  ],
+  "god_plan_lines": [
+    "[Genesis 1:26–28](https://biblehub.com/bsb/genesis/1.htm) gives humanity the calling to bear God’s image within His creation. Paul’s description of bearing Christ’s likeness places the hope of resurrection within God’s purpose for human life.",
+    "",
+    "[Philippians 3:20–21](https://biblehub.com/bsb/philippians/3.htm) explicitly promises that the Lord will transform His people’s lowly bodies to be like His glorious body. Their future is shaped by Him. Salvation’s goal includes people made fit for the life He gives, rather than the permanent defeat of their human existence by death."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/15.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-fifteen-closing-review.md"
+  }
+}

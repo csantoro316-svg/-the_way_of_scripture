@@ -10,19 +10,39 @@
     {
       "label": "BSB",
       "paragraphs": [
-        "16 Later, they set out from Bethel, and while they were still some distance from Ephrath, Rachel began to give birth, and her labor was difficult. 17 During her severe labor, the midwife said to her, \u201cDo not be afraid, for you are having another son.\u201d",
-        "18 And with her last breath\u2014for she was dying\u2014she named him Ben-oni. But his father called him Benjamin.",
-        "19 So Rachel died and was buried on the way to Ephrath (that is, Bethlehem). 20 Jacob set up a pillar on her grave; it marks Rachel\u2019s tomb to this day."
+        "16 Later, they set out from Bethel, and while they were still some distance from Ephrath, Rachel began to give birth, and her labor was difficult. 17 During her severe labor, the midwife said to her, “Do not be afraid, for you are having another son.”",
+        "18 And with her last breath—for she was dying—she named him Ben-oni. But his father called him Benjamin.",
+        "19 So Rachel died and was buried on the way to Ephrath (that is, Bethlehem). 20 Jacob set up a pillar on her grave; it marks Rachel’s tomb to this day."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 35**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "On the journey from Bethel toward Ephrath, Rachel goes into difficult labor. The midwife tells her that she is having another son, but the birth is followed by her death. The account places a new life and a profound loss together without explaining a medical cause.",
+    "",
+    "Rachel calls the child Ben-oni, בֶּן־אוֹנִי, *Ben-ʾônî* (ben-oh-NEE), son of my sorrow. Jacob calls him Benjamin, בִּנְיָמִין, *Binyāmîn* (bin-yah-MEEN), son of the right hand. [Brown–Driver–Briggs on Ben-oni](https://biblehub.com/hebrew/1126.htm) and [Benjamin](https://biblehub.com/hebrew/1144.htm) records these meanings. The two names preserve different responses to the same birth.",
+    "",
+    "Rachel is buried on the way to Ephrath, identified here as Bethlehem, and Jacob sets a pillar on her grave. Like the pillar he set up after God's appearance, this stone preserves a memory, now marked by grief. God's promises to the family continue, but the narrative does not hide the losses they experience along the way."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Benjamin Born, Rachel Dies** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 35** remains the first control on meaning."
+    "A common Christian reading recognizes the sorrow of Rachel's death alongside the birth of the final son in Jacob's family. [Wesley's notes on Genesis 35:17–20](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) draw attention to grief, the naming of the child, and the memorial Jacob leaves."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "god_plan_lines": [
+    "Rachel later becomes a figure of a mother's grief over her people. [Jeremiah 31:15–17](https://biblehub.com/bsb/jeremiah/31.htm) pictures her weeping for her children, then speaks of hope and their return. [Matthew 2:16–18](https://biblehub.com/bsb/matthew/2.htm) takes up Jeremiah's words when Herod kills the children around Bethlehem.",
+    "",
+    "Matthew uses Jeremiah's picture of Rachel to express the grief of later mothers. The connection carries her memory into the story of Christ's coming and the suffering surrounding it. Scripture can hold God's promised future and a family's terrible grief together, giving space to lament rather than treating loss as evidence that the promise has failed."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/35.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-return-and-reckoning-review.md"
+  }
 }

@@ -5,25 +5,53 @@
     "label": "Romans 10:9-10",
     "slug": "romans-10-9-10"
   },
-  "section_title": "",
+  "section_title": "How do belief and confession belong together?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"if you confess with your mouth, 'Jesus is Lord,' and believe in your heart that God raised Him from the dead, you will be saved. For with your heart you believe and are justified, and with your mouth you confess and are saved.\""
+      "label": "BSB",
+      "paragraphs": [
+        "9 that if you confess with your mouth, “Jesus is Lord,” and believe in your heart that God raised Him from the dead, you will be saved. 10 For with your heart you believe and are justified, and with your mouth you confess and are saved."
+      ]
     }
   ],
   "context_lines": [
-    "In **Romans 10**, Paul is explaining righteousness by faith, the nearness of the word, and the necessity of confession and belief in Christ. The chapter belongs to his larger argument about the gospel, Israel, and salvation through faith rather than law."
+    "Paul describes the response to the message of faith: confessing Jesus as Lord and believing that God raised Him from the dead. Verse 9 moves from mouth to heart; verse 10 moves from heart to mouth, connecting belief with justification and confession with salvation.",
+    "",
+    "The two verses belong to Paul’s use of Deuteronomy’s language about the word being near, in the mouth and heart. He is explaining a response to the risen Jesus, not giving people a way to produce His saving work by their own effort."
   ],
   "common_interpretation_lines": [
-    "This is the response: repent, believe, confess Jesus as Lord, and call on Him. Salvation is not inherited from family, achieved by moral effort, or secured by religious activity. It is received by turning to Jesus Christ in faith and trusting entirely in what He has done through His death and resurrection.",
-    "",
-    "If today is the day you are ready to do that, then call on Him. There is no magic wording that saves a person. The Lord is not listening for a formula. He is looking at the heart. But if you do not know how to begin, a prayer like this expresses what Scripture calls for:"
+    "Christians commonly read belief and confession here as belonging together in a real response to Christ. Faith involves trusting the risen Lord, and confession acknowledges Him. Repeating a statement without that trust does not capture the relationship between heart and mouth that Paul describes."
+  ],
+  "god_plan_lines": [
+    "In verses 12–13 Paul connects this confession with [Joel 2:32](https://biblehub.com/bsb/joel/2.htm), the promise that everyone calling on the Lord’s name will be saved. The confession of Jesus belongs within the scriptural promise of deliverance and Paul’s insistence that the same Lord is Lord of Jew and Greek."
+  ],
+  "current_position_lines": [
+    "The Gospel According to Jesus and I Am a Disciple understand belief in the risen Jesus and confession of Him as Lord as the foundation of responding to the gospel and following Him. The Gospel study describes that response as turning toward Jesus and entrusting oneself to Him, with no special wording that works as a saving formula."
   ],
   "deeper_study": [
     {
       "title": "The Gospel According to Jesus",
       "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/10.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-romans-ten-review.md",
+    "position_source_detail": "The Gospel According to Jesus (content/studies/the_gospel_according_to_jesus.md, lines 105–113 and 149–155); I Am a Disciple (content/studies/i_am_a_disciple.md, lines 44–48)"
+  }
 }

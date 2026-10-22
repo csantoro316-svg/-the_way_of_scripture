@@ -1,0 +1,47 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "7:36-38",
+    "label": "1 Corinthians 7:36-38",
+    "slug": "1-corinthians-7-36-38"
+  },
+  "section_title": "Is choosing to marry a failure to follow Paul’s counsel?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "36 However, if someone thinks he is acting inappropriately toward his betrothed, and if she is beyond her youth and they ought to marry, let him do as he wishes; he is not sinning; they should get married. 37 But the man who is firmly established in his heart and under no constraint, with control over his will and resolve in his heart not to marry the virgin, he will do well. 38 So then, he who marries the virgin does well, but he who does not marry her does even better."
+      ]
+    }
+  ],
+  "context_lines": [
+    "In the BSB, Paul describes a man considering his responsibility toward his betrothed. If marriage is appropriate, they should marry; he is not sinning. If the man is settled in his decision, under no pressure and able to remain unmarried, Paul says he does well.",
+    "",
+    "The comparison between doing well and doing better continues the chapter’s counsel about circumstances, gifts and freedom to serve. Paul does not turn his preference into a declaration that marriage is disobedience. This particular decision must be made honestly rather than as a way of appearing more spiritual."
+  ],
+  "common_interpretation_lines": [
+    "Readers differ over the relationship Paul describes. The BSB presents an engaged couple, while [Wesley’s notes on verses 36–38](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) and [Calvin’s comment on verse 36](https://biblehub.com/commentaries/calvin/1_corinthians/7.htm) understand a father considering his unmarried daughter’s marriage. The [USCCB note](https://bible.usccb.org/bible/1corinthians/7) acknowledges both possibilities. Both approaches preserve the central reassurance that choosing marriage is not a sin, while Paul continues to commend the advantages of remaining unmarried."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/7.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-seven-closing-review.md"
+  }
+}

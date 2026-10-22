@@ -5,25 +5,53 @@
     "label": "1 Samuel 24:16-22",
     "slug": "1-samuel-24-16-22"
   },
-  "section_title": "David\u2019s Oath to Saul",
+  "section_title": "What changes when Saul sees that David has spared him?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "16 When David had finished saying these things, Saul called back, \u201cIs that your voice, David my son?\u201d",
-        "Then Saul wept aloud 17 and said to David, \u201cYou are more righteous than I, for you have rewarded me with good, though I have rewarded you with evil. 18 And you have shown this day how well you have dealt with me; for when the LORD delivered me into your hand, you did not kill me. 19 When a man finds his enemy, does he let him go away unharmed? May the LORD reward you with good for what you have done for me this day.",
-        "20 Now I know for sure that you will be king, and that the kingdom of Israel will be established in your hands. 21 So now, swear to me by the LORD that you will not cut off my descendants or wipe out my name from my father\u2019s house.\u201d",
-        "22 So David gave his oath to Saul. Then Saul returned home, but David and his men went up to the stronghold."
+        "16 When David had finished saying these things, Saul called back, “Is that your voice, David my son?” Then Saul wept aloud 17 and said to David, “You are more righteous than I, for you have rewarded me with good, though I have rewarded you with evil. 18 And you have declared this day how you have treated me well, for when the LORD delivered me into your hand, you did not kill me. 19 When a man finds his enemy, does he let him go away unharmed? May the LORD reward you with good for what you have done for me this day. 20 Now I know for sure that you will be king and that the kingdom of Israel will be established in your hands. 21 So now, swear to me by the LORD that you will not cut off my descendants or wipe out my name from my father’s house.” 22 So David gave his oath to Saul. Then Saul returned home, but David and his men went up to the stronghold."
       ]
     }
   ],
   "context_lines": [
-    "In **1 Samuel 24**, this section should be read within the flow of the chapter and the larger movement of 1 Samuel."
+    "Saul answers David with tears and calls him his son. He acknowledges that David has treated him well while he has treated David badly. He recognizes the mercy of being spared and asks the LORD to reward David for it.",
+    "",
+    "He also says that David will surely become king and that Israel’s kingdom will be established in his hands. He asks David to swear that he will not destroy Saul’s descendants or erase his family’s name. David gives his oath.",
+    "",
+    "The encounter ends peacefully, but the two men go separate ways: Saul returns home, and David and his men go to the stronghold. The chapter records a real acknowledgment of David’s righteousness without presenting a return to their former life together."
   ],
   "common_interpretation_lines": [
-    "A common reading of **David\u2019s Oath to Saul** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-samuel/) emphasizes Saul being moved by David’s kindness and acknowledging both David’s integrity and his own wrong. [Henry](https://biblehub.com/commentaries/mhc/1_samuel/24.htm) and [Gill](https://biblehub.com/commentaries/gill/1_samuel/24.htm) stress the difference between being deeply affected and showing lasting repentance. Their caution concerns whether this recognition will change Saul’s conduct.",
     "",
-    "Where interpreters differ on details, the immediate setting in **1 Samuel 24** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-samuel/) and [Gill](https://biblehub.com/commentaries/gill/1_samuel/24.htm) explain David’s return to the stronghold as caution learned from Saul’s earlier changes of mind. Mercy does not require him to assume the danger is over. The peaceful parting leaves room for both the oath and that practical caution.",
+    "",
+    "The promise concerns Saul’s descendants and the preservation of his family’s name. [Gill](https://biblehub.com/commentaries/gill/1_samuel/24.htm) relates it to David’s later care for members of Saul’s house. It asks whether the future king will show mercy once he has power, continuing a concern already raised in David’s covenant with Jonathan."
   ],
-  "deeper_study": []
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_samuel/24.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-samuel-twenty-three-four-review.md"
+  }
 }

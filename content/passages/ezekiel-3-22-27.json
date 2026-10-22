@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "3:22-27",
+    "label": "Ezekiel 3:22-27",
+    "slug": "ezekiel-3-22-27"
+  },
+  "section_title": "Who decides when Ezekiel may speak?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "22 And there the hand of the LORD was upon me, and He said to me, “Get up, go out to the plain, and there I will speak with you.” 23 So I got up and went out to the plain, and behold, the glory of the LORD was present there, like the glory I had seen by the River Kebar, and I fell facedown. 24 Then the Spirit entered me and set me on my feet. He spoke with me and said, “Go, shut yourself inside your house.",
+        "25 And you, son of man, they will tie with ropes, and you will be bound so that you cannot go out among the people. 26 I will make your tongue stick to the roof of your mouth, and you will be silent and unable to rebuke them, though they are a rebellious house. 27 But when I speak with you, I will open your mouth, and you are to tell them, ‘This is what the Lord GOD says.’ Whoever listens, let him listen; and whoever refuses, let him refuse, for they are a rebellious house."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The Lord sends Ezekiel out to the plain, where he sees the same glory he saw by the Kebar. He falls facedown again, and the Spirit enters him and sets him on his feet.",
+    "",
+    "The instructions now restrict his movement and speech. He is to shut himself in his house; bonds will prevent him going among the people, and the Lord will make him unable to rebuke them.",
+    "",
+    "When the Lord speaks, however, He will open Ezekiel’s mouth. The prophet must then deliver the message in His name. The account again leaves the hearers with the responsibility to listen or refuse.",
+    "",
+    "The commission ends with Ezekiel dependent on the Lord for both silence and speech. His authority lies in the word he receives, rather than unrestricted freedom to address the people whenever he chooses."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezekiel/3.htm) emphasizes the bold delivery of the message when the Lord opens Ezekiel’s mouth. The hearers are then confronted with the choice set before them.",
+    "",
+    "[Wesley](https://biblehub.com/commentaries/wes/ezekiel/3.htm) connects the confinement with the coming confinement of Jerusalem and stresses that Ezekiel speaks when God enables him. The [USCCB notes](https://bible.usccb.org/bible/ezekiel/3) likewise explain his inability to speak as direct divine intervention during the period connected with the city’s siege.",
+    "",
+    "The shared emphasis is that the prophetic message arrives under God’s authority. The restrictions are part of Ezekiel’s particular calling and preparation."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/3.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-two-three-review.md"
+  }
+}

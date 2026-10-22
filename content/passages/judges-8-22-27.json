@@ -5,27 +5,62 @@
     "label": "Judges 8:22-27",
     "slug": "judges-8-22-27"
   },
-  "section_title": "Gideon\u2019s Ephod",
+  "section_title": "Why does the ephod become a snare?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "22 Then the Israelites said to Gideon, \u201cRule over us\u2014you and your son and grandson\u2014for you have saved us from the hand of Midian.\u201d",
-        "23 But Gideon replied, \u201cI will not rule over you, nor will my son. The LORD shall rule over you.\u201d",
-        "24 Then he added, \u201cLet me make a request of you, that each of you give me an earring from his plunder.\u201d (For the enemies had gold earrings because they were Ishmaelites.)",
-        "25 \u201cWe will give them gladly,\u201d they replied.",
-        "So they spread out a garment, and each man threw an earring from his plunder onto it. 26 The weight of the gold earrings he had requested was 1,700 shekels, in addition to the crescent ornaments, the pendants, the purple garments of the kings of Midian, and the chains from the necks of their camels.",
-        "27 From all this Gideon made an ephod, which he placed in Ophrah, his hometown. But soon all Israel prostituted themselves by worshiping it there, and it became a snare to Gideon and his household."
+        "22 Then the Israelites said to Gideon, “Rule over us—you and your son and grandson—for you have saved us from the hand of Midian.” 23 But Gideon replied, “I will not rule over you, nor will my son. The LORD shall rule over you.”",
+        "24 Then he added, “Let me make a request of you, that each of you give me an earring from his plunder.” (For the enemies had gold earrings because they were Ishmaelites.) 25 “We will give them gladly,” they replied. So they spread out a garment, and each man threw an earring from his plunder onto it. 26 The weight of the gold earrings he had requested was 1,700 shekels, in addition to the crescent ornaments, the pendants, the purple garments of the kings of Midian, and the chains from the necks of their camels. 27 From all this Gideon made an ephod, which he placed in Ophrah, his hometown. But soon all Israel prostituted themselves by worshiping it there, and it became a snare to Gideon and his household."
       ]
     }
   ],
   "context_lines": [
-    "In **Judges 8**, this section should be read within the flow of the chapter and the larger movement of Judges."
+    "The Israelites offer Gideon a line of hereditary rulers: he, his son, and his grandson. Their reason credits him with saving them from Midian. He refuses the offer and says that the LORD will rule over them. His words bring the source of their rescue back into view.",
+    "",
+    "Gideon then requests earrings from the plunder. The people give willingly, and he uses the wealth to make an ephod, which he places in Ophrah. The Hebrew אֵפוֹד, *ephod* (ay-FOHD), is associated with priestly clothing and religious consultation. [Brown–Driver–Briggs](https://biblehub.com/hebrew/646.htm) discusses those uses and the uncertainty about the exact form of Gideon’s object.",
+    "",
+    "The account is clearer about the result than about its construction: Israel worships it, and it becomes a snare to Gideon and his household. The man who tore down Baal’s altar has now made something that draws people into unfaithful worship. Whatever his original intention, the text identifies the outcome as harmful."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Gideon\u2019s Ephod** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-judges/) reads Gideon’s refusal of kingship positively, but sees his ephod as an unauthorized religious arrangement that draws people away from the worship God had appointed. [Henry](https://biblehub.com/commentaries/mhc/judges/8.htm) and [Gill](https://biblehub.com/commentaries/gill/judges/8.htm) also discuss the possibility of a memorial or an object for seeking divine answers. They recognize that even a respected deliverer can introduce something that misleads others.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Judges 8** remains the first control on meaning."
+    "The precise shape and intended use remain matters of interpretation. The passage does not say that Gideon wore the ephod or supply a complete account of his reasons for making it. The common concern in these readings is the worship that develops around it and the danger it creates for his own household."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The offer of power after a rescue raises a question the Bible will continue to explore: what kind of ruler do God’s people need? Jesus answers His disciples’ desire for status by describing greatness as service. The Son of Man Himself comes to serve and to give His life as a ransom for many ([Matthew 20:25–28](https://biblehub.com/bsb/matthew/20.htm)).",
+    "",
+    "The larger story leads to a Savior whose authority is expressed through giving Himself for others. His example also shapes the people who follow Him: leadership is to serve, rather than become a way to claim honor and power for oneself."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Worship",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/judges/8.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-judges-eight-review.md"
+  }
 }

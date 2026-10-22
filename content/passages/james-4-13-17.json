@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "James",
+    "citation": "4:13-17",
+    "label": "James 4:13-17",
+    "slug": "james-4-13-17"
+  },
+  "section_title": "How should we make plans when we do not control tomorrow?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 Come now, you who say, “Today or tomorrow we will go to this or that city, spend a year there, carry on business, and make a profit.” 14 You do not even know what will happen tomorrow! What is your life? You are a mist that appears for a little while and then vanishes. 15 Instead, you ought to say, “If the Lord is willing, we will live and do this or that.” 16 As it is, you boast in your proud intentions. All such boasting is evil.",
+        "17 Anyone, then, who knows the right thing to do, yet fails to do it, is guilty of sin."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The merchants’ confident announcement covers a destination, a year of business and a profit. James challenges the assumption beneath it: they do not even know what tomorrow will bring, and their own lives are brief.",
+    "",
+    "Acknowledging the Lord’s will changes the posture of planning. Both being alive and carrying out a plan depend on Him. The problem is arrogant confidence in control, rather than the ordinary act of preparing for the future.",
+    "",
+    "The final sentence brings knowledge back to action: knowing the good and failing to do it is sin. The readers cannot treat an acknowledgment of God as a substitute for living accordingly."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/james/4.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-general-epistle-of-st-james/) read this as a warning against planning as though life were in one’s own hands. Calvin explicitly distinguishes the attitude from a rule that every sentence about the future must include a particular phrase; the point is real dependence on God."
+  ],
+  "god_plan_lines": [
+    "[Proverbs 27:1](https://biblehub.com/bsb/proverbs/27.htm) already warns against boasting about tomorrow. James carries that wisdom into the plans of people who confess the Lord.",
+    "",
+    "[Luke 12:47–48](https://biblehub.com/bsb/luke/12.htm) connects knowing the Master’s will with responsibility to act on it. The future’s uncertainty gives weight to present faithfulness, rather than excusing inaction until everything can be known."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/james/4.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-james-four-review.md"
+  }
+}

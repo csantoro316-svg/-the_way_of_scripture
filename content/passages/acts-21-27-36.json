@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "21:27-36",
+    "label": "Acts 21:27-36",
+    "slug": "acts-21-27-36"
+  },
+  "section_title": "How does an assumption about Trophimus lead to violence against Paul?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "27 When the seven days were almost over, some Jews from the province of Asia saw Paul at the temple. They stirred up the whole crowd and seized him, 28 crying out, “Men of Israel, help us! This is the man who teaches everyone everywhere against our people and against our law and against this place. Furthermore, he has brought Greeks into the temple and defiled this holy place.” 29 For they had previously seen Trophimus the Ephesian with him in the city, and they assumed that Paul had brought him into the temple. 30 The whole city was stirred up, and the people rushed together. They seized Paul and dragged him out of the temple, and at once the gates were shut.",
+        "31 While they were trying to kill him, the commander of the Roman regiment received a report that all Jerusalem was in turmoil. 32 Immediately he took some soldiers and centurions and ran down to the crowd. When the people saw the commander and the soldiers, they stopped beating Paul. 33 The commander came up and arrested Paul, ordering that he be bound with two chains. Then he asked who he was and what he had done. 34 Some in the crowd were shouting one thing, and some another. And since the commander could not get at the truth because of the uproar, he ordered that Paul be brought into the barracks. 35 When Paul reached the steps, he had to be carried by the soldiers because of the violence of the mob. 36 For the crowd that followed him kept shouting, “Away with him!”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "As the seven days near their end, some Jews from Asia see Paul in the temple and stir up the crowd. They accuse him of teaching against the people, the law and the temple, and of bringing Greeks into the holy place. Luke explains the basis of the last accusation: they had seen Trophimus with Paul in the city and assumed Paul had brought him into the temple.",
+    "",
+    "A surviving temple warning helps explain the seriousness of that accusation. The [University of Michigan’s record of the Greek inscription](https://image-database.nes.lsa.umich.edu/items/show/141) describes a notice warning non-Jews not to pass the restricted entrance, on pain of death. This supplies background for the charge, not evidence that Trophimus actually crossed the boundary.",
+    "",
+    "The crowd seizes Paul, drags him out and tries to kill him. Roman soldiers arrive, and the beating stops. The commander arrests Paul and orders two chains, but cannot establish the facts amid contradictory shouting. The soldiers have to carry Paul because of the crowd’s violence as they bring him toward the barracks.",
+    "",
+    "The accusations must remain distinct from the narrator’s explanation. Seeing two people together in the city did not establish that one had taken the other into a restricted temple area. Nor does the arrest itself prove the crowd’s charges true."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a violent attack driven by accusation and an untested assumption. The Roman intervention preserves Paul’s life while also placing him in custody. The text does not present the crowd’s anger as a reliable judgment about his guilt."
+  ],
+  "god_plan_lines": [
+    "The charges about the law and the holy place recall those brought against Stephen in [Acts 6:13–14](https://biblehub.com/bsb/acts/6.htm). This is a supported parallel in how the witness is opposed, not proof that every detail of the two events is identical.",
+    "",
+    "Paul once took part in the persecution surrounding Stephen’s death; he is now the one suffering for Jesus’ name. [Acts 9:15–16](https://biblehub.com/bsb/acts/9.htm) joins his commission with that suffering. His arrest becomes part of the continuing witness rather than the end of the calling, though Luke does not ask us to call the violence good or the accusations true."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/21.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twenty-one-review.md"
+  }
+}

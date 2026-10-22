@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "26:19-21",
+    "label": "Ezekiel 26:19-21",
+    "slug": "ezekiel-26-19-21"
+  },
+  "section_title": "What does Tyre’s descent to the Pit mean?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "19 For this is what the Lord GOD says: ‘When I make you a desolate city like other deserted cities, and when I raise up the deep against you so that the mighty waters cover you, 20 then I will bring you down with those who descend to the Pit, to the people of antiquity. I will make you dwell in the earth below like the ancient ruins, with those who descend to the Pit, so that you will no longer be inhabited or set in splendor in the land of the living. 21 I will make you an object of horror, and you will be no more. You will be sought, but will never be found,’ declares the Lord GOD.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The final picture is of overwhelming waters and a city descending among the dead. The loss of Tyre is described as the end of a life: it joins those who went down long ago and loses its place in the land of the living.",
+    "",
+    "The Hebrew word בּוֹר, bor (bore), can refer to a pit or cistern. [Brown–Driver–Briggs](https://biblehub.com/hebrew/953.htm) also identifies its use for the grave or the realm of the dead, specifically including this passage. The setting, rather than every possible meaning of the word, explains the picture here.",
+    "",
+    "The Lord’s closing announcement removes the hope that Tyre’s former life can simply be recovered by searching for it. The city that expected to be filled through Jerusalem’s loss is pictured as absent from the living world."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/ezekiel/26.htm) and [Cambridge](https://biblehub.com/commentaries/cambridge/ezekiel/26.htm) understand the descent through the language of death and the grave. The [USCCB notes](https://bible.usccb.org/bible/ezekiel/26) connect the Pit with the dead dwelling in Sheol.",
+    "",
+    "Wesley’s further comment about glory restored to Israel follows the positive wording of his translation at the end of verse 20. The BSB instead continues the negative statement about Tyre no longer being set in splendor among the living. Cambridge discusses both readings. The wording matters when deciding what this particular verse promises."
+  ],
+  "god_plan_lines": [
+    "[John 5:24–29](https://biblehub.com/bsb/john/5.htm) moves the larger question of death and judgment toward the Son. Jesus gives eternal life to those who hear and believe, and says that those in the graves will hear His voice and come out to resurrection.",
+    "",
+    "Ezekiel’s description is not an explicit prediction of that teaching. The wider connection is that neither prosperity nor death removes a person from God’s authority. [Revelation 20:11–15](https://biblehub.com/bsb/revelation/20.htm) pictures the dead, great and small, brought before His judgment, with the sea and Hades giving up their dead. The final word belongs to God, whose Son offers life."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/26.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-twenty-six-seven-review.md"
+  }
+}

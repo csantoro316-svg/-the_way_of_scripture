@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "2 Peter",
+    "citation": "1:12-15",
+    "label": "2 Peter 1:12-15",
+    "slug": "2-peter-1-12-15"
+  },
+  "section_title": "Why do we need reminders of what we already know?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "12 Therefore I will always remind you of these things, even though you know them and are established in the truth you now have. 13 I think it is right to refresh your memory as long as I live in the tent of my body, 14 because I know that this tent will soon be laid aside, as our Lord Jesus Christ has made clear to me. 15 And I will make every effort to ensure that after my departure, you will be able to recall these things at all times."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Peter turns from the call to growth to why he keeps repeating it. The readers already know the truth and are established in it, yet he considers reminders necessary. Knowing something once does not make continued attention unnecessary.",
+    "",
+    "He describes his body as a tent that will soon be laid aside. Jesus has made his approaching departure clear to him. The concern is how best to use the time he has left, so that the readers can remember these things after he is gone.",
+    "",
+    "The letter itself serves that purpose. The message is to remain available beyond the life of the person teaching it, supporting the readers as they continue in faith."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/2_peter/1.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-epistle-general-of-st-peter/) understand the reminders as ongoing care for believers, rather than evidence that the readers have never learned the truth. Both read the tent and departure language as referring to Peter’s coming death.",
+    "",
+    "They differ over how the notice from Jesus relates to [John 21:18–19](https://biblehub.com/bsb/john/21.htm). Wesley connects it with that prediction while allowing a further indication that the time was near. Calvin emphasizes a disclosure of the approaching time. Neither reading requires inventing the details of an unrecorded conversation."
+  ],
+  "god_plan_lines": [
+    "[Matthew 28:16–20](https://biblehub.com/bsb/matthew/28.htm) joins making disciples with teaching them to obey what Jesus commanded. Peter’s effort to leave lasting reminders belongs within that continuing work of teaching.",
+    "",
+    "[2 Timothy 2:1–2](https://biblehub.com/bsb/2_timothy/2.htm) similarly calls for the message to be entrusted to faithful people who can teach others. God’s work of forming His people continues as the apostolic teaching is preserved and passed on."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_peter/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-peter-one-closing-review.md"
+  }
+}

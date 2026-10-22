@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "25:15-17",
+    "label": "Ezekiel 25:15-17",
+    "slug": "ezekiel-25-15-17"
+  },
+  "section_title": "Can ancient hostility make the Philistines’ revenge right?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 This is what the Lord GOD says: ‘Because the Philistines acted in vengeance, taking vengeance with malice of soul to destroy Judah with ancient hostility, 16 therefore this is what the Lord GOD says: Behold, I will stretch out My hand against the Philistines, and I will cut off the Cherethites and destroy the remnant along the coast. 17 I will execute great vengeance against them with furious reproof. Then they will know that I am the LORD, when I lay My vengeance upon them.’”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The final announcement in the chapter concerns the Philistines. Their old hostility has become a malicious desire to destroy Judah.",
+    "",
+    "The Lord will stretch out His hand against them, cut off the Cherethites and destroy the remnant along the coast. [Brown–Driver–Briggs](https://biblehub.com/hebrew/3774.htm) identifies Cherethites as a name for the Philistines or a part of them; the verse is not introducing an unrelated enemy.",
+    "",
+    "The chapter ends as its earlier announcements have: the people will know that He is the Lord when His judgment comes. Longstanding hatred supplies the accusation, not a justification for the revenge."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezekiel/25.htm) reads stored-up hatred and the search for an opportunity to act on it as accumulating guilt before God. [Wesley](https://biblehub.com/commentaries/wes/ezekiel/25.htm) understands the announcement as directed against Israel’s hostile coastal neighbors.",
+    "",
+    "The chapter has confronted contempt, dismissive pride and revenge. Its closing announcement shows that a grievance carried for generations still answers to the Lord."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/25.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-twenty-five-review.md"
+  }
+}

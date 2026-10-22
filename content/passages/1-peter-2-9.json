@@ -5,24 +5,57 @@
     "label": "1 Peter 2:9",
     "slug": "1-peter-2-9"
   },
+  "section_title": "What does it mean to share in a royal priesthood?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"But you are a chosen race, a royal priesthood, a holy nation, a people for God's own possession, so that you may proclaim the excellencies of Him who has called you out of darkness into His marvelous light.\""
+      "label": "BSB",
+      "paragraphs": [
+        "9 But you are a chosen people, a royal priesthood, a holy nation, a people for God’s own possession, to proclaim the virtues of Him who called you out of darkness into His marvelous light."
+      ]
     }
   ],
   "context_lines": [
-    "In **1 Peter 2**, Peter explains what it means for believers to come to Christ as living stones and to be formed into a holy people. The chapter emphasizes identity, priesthood, witness, and conduct before the world, so its key images describe the church's corporate calling under Christ."
+    "This verse follows the picture of believers as living stones built together around Christ. The description is addressed to the people who believe: their calling is to belong to God, serve Him and proclaim His virtues.",
+    "",
+    "The titles recall [Exodus 19:4–6](https://biblehub.com/bsb/exodus/19.htm), where God calls the people He delivered His treasured possession, a kingdom of priests and a holy nation. Verse 10 immediately adds the mercy through which they have become His people."
   ],
-  "explanation_lines": [
-    "No longer is priesthood reserved for a lineage or a class \u2014 Christ has torn the veil. Every believer now has direct access to God and the authority to minister. The early church saw men and women praying, prophesying, healing, and teaching. The NT describes elders, overseers, and deacons \u2014 but as functional servant roles filled by spiritually mature believers, always plural, always character-based, and always described as serving among the people rather than presiding over them (1 Peter 5:3). What the NT does not describe is a single pastor as institutional head of a congregation, or a credentialed clergy class with exclusive access to spiritual authority. Spiritual gifts were distributed freely by the Spirit for the common good. This reclaims the dignity and responsibility of every Christian: to intercede, to bless, to proclaim truth. Institutional hierarchy is not what empowers ministry \u2014 faith and the Spirit do.",
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/1_peter/2.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-epistle-general-of-st-peter/) apply this priesthood to the believing people, whose lives and words are to declare God’s goodness. It gives the whole community a calling before Him.",
     "",
-    "Today, however, this truth has been largely abandoned or obscured. In the Catholic tradition, the priesthood remains highly stratified, restricted to celibate men, and seen as mediators between God and man \u2014 despite the torn veil at Calvary. The laity are often passive recipients, watching rather than participating. Many Protestant traditions, though rejecting the formal priesthood, still uphold an implicit divide through professional clergy systems, seminary credentialing, and rigid pulpit control. Many non-denominational churches, for all their informality, center spiritual authority in charismatic figures or worship teams, while the congregation remains largely disengaged. In each case, the radical, Spirit-led empowerment of the early Church has been replaced by structured control. But the biblical priesthood is not a title \u2014 it's a calling shared by all who are in Christ.",
+    "The Catholic [Catechism, 1546–1547](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_three/article_6/ii_the_sacrament_of_holy_orders_in_the_economy_of_salvation.index.html), affirms this common priesthood while also teaching a distinct ordained priesthood serving it in Christ. Reformed churches also assign particular responsibilities to ministers, as in [Westminster Confession, 27.4](https://www.opc.org/wcf.html), on baptism and the Lord’s Supper. These differences concern the form of ministry within the people, rather than whether the people have any priestly calling."
+  ],
+  "god_plan_lines": [
+    "[Isaiah 43:20–21](https://biblehub.com/bsb/isaiah/43.htm) connects the people God forms for Himself with declaring His praise. Peter carries that purpose into the life of believers who have been called from darkness into light.",
     "",
-    "It is not built on pulpits, but on a royal priesthood \u2014 *\"a chosen race, a royal priesthood, a holy nation, a people for God's own possession\"* (1 Peter 2:9) \u2014 of those willing and faithful to Christ. It is not measured by crowds, but by a love that listens more than it speaks, stays when others leave, and suffers with you when the grief is too heavy to bear. This Church doesn't perform \u2014 it carries. It doesn't entertain \u2014 it bears witness. It doesn't settle for admiring Jesus from afar \u2014 it dares to become like Him, together.",
-    "",
-    "This is the Church Christ died for. This is the Kingdom within us.",
-    "",
-    "*The understanding presented here reflects our best study of God's Word at this time. Scripture calls us to come together as the ekkl\u0113sia \u2014 the called-out assembly \u2014 and let all things be done for edification (1 Corinthians 14:26). Your thoughts, questions, and insights are not just welcome \u2014 they are part of this process. Iron sharpens iron. If the Word leads us to a deeper or clearer understanding through your contribution, this site will be updated to reflect it. Your voice matters here. This is not a finished work. It is a table we are all sitting at together.*"
-  ]
+    "The next verse’s reference to mercy belongs with [Hosea 2:23](https://biblehub.com/bsb/hosea/2.htm), also used in [Romans 9:24–26](https://biblehub.com/bsb/romans/9.htm) for God’s calling from Jews and Gentiles. Their privilege is a reason for grateful witness rooted in received mercy."
+  ],
+  "current_position_lines": [
+    "Our study [Returning to the Word](https://thewayofscripture.com/studies/returning-to-the-word.html) identifies the church as the people in whom God’s Spirit dwells and the priesthood as a calling shared by every believer. [Who Shepherds the Church?](https://thewayofscripture.com/studies/who-shepherds-the-church.html) connects that shared life with direct access to God through Christ, without a necessary human mediating class between Him and His people."
+  ],
+  "deeper_study": [
+    {
+      "title": "Returning to the Word",
+      "href": "../studies/returning-to-the-word.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_peter/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-first-peter-two-opening-review.md",
+    "position_source_detail": "Returning to the Word — returning_to_the_word.md68–74; Who Shepherds the Church? — who_shepherds_the_church.md52–60. Limited to shared priesthood/access, not election or future-Israel questions."
+  }
 }

@@ -1,0 +1,52 @@
+{
+  "reference": {
+    "book": "James",
+    "citation": "3:1-2",
+    "label": "James 3:1-2",
+    "slug": "james-3-1-2"
+  },
+  "section_title": "Why should teaching be approached with care?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Not many of you should become teachers, my brothers, because you know that we who teach will be judged more strictly. 2 We all stumble in many ways. If anyone is never at fault in what he says, he is a perfect man, able to control his whole body."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The discussion of faith expressed in deeds now turns to words. James warns against many people becoming teachers because those who teach face stricter judgment. Speaking about God’s ways brings responsibility for what others are taught.",
+    "",
+    "He immediately places that warning beside human weakness: we all stumble in many ways. Control of speech would mark a person able to govern the whole life. The warning gives teachers reason for humility, rather than a basis for treating themselves as above those they teach."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-general-epistle-of-st-james/) reads this as a warning against pressing into the teaching role without God’s call. [Calvin](https://biblehub.com/commentaries/calvin/james/3.htm) notes that this is the usual reading but proposes a different emphasis: people setting themselves up as harsh judges of everyone else’s conduct. Both readings take seriously the danger of claiming authority over others while failing to govern one’s own words."
+  ],
+  "god_plan_lines": [
+    "Jesus connects greater responsibility with what a person has been entrusted in [Luke 12:47–48](https://biblehub.com/bsb/luke/12.htm). Teaching belongs within that accountability to the Master. Knowledge is a trust to use faithfully, rather than a title that places someone beyond examination."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/james/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-james-three-review.md"
+  }
+}

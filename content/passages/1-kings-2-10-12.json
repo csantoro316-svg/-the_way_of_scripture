@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "2:10-12",
+    "label": "1 Kings 2:10-12",
+    "slug": "1-kings-2-10-12"
+  },
+  "section_title": "What does David’s death mean for the promise to his house?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 Then David rested with his fathers and was buried in the City of David. 11 The length of David’s reign over Israel was forty years—seven years in Hebron and thirty-three years in Jerusalem. 12 So Solomon sat on the throne of his father David, and his kingdom was firmly established."
+      ]
+    }
+  ],
+  "context_lines": [
+    "David dies and is buried in the City of David. The account summarizes his forty-year reign: seven years in Hebron and thirty-three in Jerusalem.",
+    "",
+    "Solomon sits on his father’s throne, and his kingdom is described as firmly established. David’s life ends, but the story of the house God promised him continues."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/), in his comments on David’s approaching death, emphasizes that even kings and prophets share humanity’s mortality. Their position does not exempt them from death.",
+    "",
+    "The short notice closes one reign and opens another. It asks the reader to hold together the death of the king and the continuation of his line."
+  ],
+  "god_plan_lines": [
+    "The New Testament expressly draws attention to David’s death and burial. In [Acts 13:32–39](https://biblehub.com/bsb/acts/13.htm), Paul says that David served God’s purpose in his generation, died and underwent decay.",
+    "",
+    "He contrasts David with Jesus, whom God raised from the dead and who did not undergo decay. Paul connects that resurrection with God’s promises and the forgiveness proclaimed through Jesus.",
+    "",
+    "The lasting hope therefore reaches beyond a succession of kings who eventually die. David’s son Solomon continues the line; the risen Jesus brings the promised salvation that death cannot end."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/2.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-two-review.md"
+  }
+}

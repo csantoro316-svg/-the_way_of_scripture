@@ -5,23 +5,64 @@
     "label": "John 7:53-8:11",
     "slug": "john-7-53-8-11"
   },
-  "section_title": "",
-  "versions": [],
+  "section_title": "How does Jesus meet accusation with mercy and a call to change?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7:53 Then each went to his own home.",
+        "8:1 But Jesus went to the Mount of Olives. 8:2 Early in the morning He went back into the temple courts. All the people came to Him, and He sat down to teach them.",
+        "8:3 The scribes and Pharisees, however, brought to Him a woman caught in adultery. They made her stand before them 8:4 and said, “Teacher, this woman was caught in the act of adultery. 8:5 In the Law Moses commanded us to stone such a woman. So what do You say?” 8:6 They said this to test Him, in order to have a basis for accusing Him. But Jesus bent down and began to write on the ground with His finger.",
+        "8:7 When they continued to question Him, He straightened up and said to them, “Let him who is without sin among you be the first to cast a stone at her.” 8:8 And again He bent down and wrote on the ground. 8:9 When they heard this, they began to go away one by one, beginning with the older ones, until only Jesus was left, with the woman standing there. 8:10 Then Jesus straightened up and asked her, “Woman, where are your accusers? Has no one condemned you?” 8:11 “No one, Lord,” she answered. “Then neither do I condemn you,” Jesus declared. “Now go and sin no more.”"
+      ]
+    }
+  ],
   "context_lines": [
-    "John 7:53-8:11 should be read within the flow of its chapter and the larger argument of John."
+    "The BSB includes this account and notes that some early manuscripts do not contain John 7:53–8:11. That manuscript difference is worth knowing about as we read the passage. ([BSB note on John 7:52](https://biblehub.com/bsb/john/7.htm))",
+    "",
+    "After the people return home, Jesus goes to the Mount of Olives and returns to teach in the temple courts the next morning. Scribes and Pharisees bring a woman accused of adultery and ask Him to rule on stoning her. The account explicitly says they are testing Him to find grounds for an accusation.",
+    "",
+    "Moses’ law names both the man and the woman as liable for adultery; only the woman is brought here, and the account does not explain what happened to the man. Deuteronomy also gives a death-penalty instruction requiring witnesses and placing their hands first in carrying it out. These details help explain the setting of the challenge. ([Leviticus 20:10](https://biblehub.com/bsb/leviticus/20.htm); [Deuteronomy 22:22–24](https://biblehub.com/bsb/deuteronomy/22.htm); [Deuteronomy 17:6–7](https://biblehub.com/bsb/deuteronomy/17.htm))",
+    "",
+    "Jesus bends down and writes on the ground; the account does not tell us what He writes. When pressed, He challenges the person without sin to cast the first stone. The accusers leave, beginning with the older ones. He tells the woman that He does not condemn her and calls her to leave sin behind."
   ],
   "common_interpretation_lines": [
-    "What remains is a genuinely small list of notable places where manuscripts differ in a way that affects the reading \u2014 the Comma Johanneum in 1 John 5:7-8 (an explicit Trinitarian formula found only in a handful of late manuscripts), the ending of Mark's Gospel after 16:8, and the story of the woman caught in adultery in John 7:53-8:11. These are worth knowing about, and good study Bibles typically flag them with a footnote. But even here, the core teaching involved \u2014 the Trinity, the resurrection, grace toward sinners \u2014 is affirmed clearly and repeatedly elsewhere in passages no one disputes. No textual variant anywhere in the manuscript tradition puts a single core doctrine of the faith at risk. That claim isn't ours alone \u2014 it's close to a consensus statement among textual critics across the theological spectrum, whatever position they hold on which text family is best.",
+    "Christian readings commonly hold together Jesus’ mercy and His call to turn from sin. Pope Francis’s letter on mercy, Wesley’s notes and Calvin’s commentary all connect the woman’s release with the possibility and responsibility of a changed life. ([Misericordia et misera §1](https://www.vatican.va/content/francesco/en/apost_letters/documents/papa-francesco-lettera-ap_20161120_misericordia-et-misera.html); [Wesley on John 8:11](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/); [Calvin on John 8:11](https://biblehub.com/commentaries/calvin/john/8.htm))",
     "",
-    "*(For a genuinely exhaustive, manuscript-by-manuscript treatment of this subject, Berean Patriot's \"Majority Text vs. Critical Text vs. Textus Receptus \u2013 Textual Criticism 101\" is the most complete single resource we've found. It doesn't land firmly on any one camp, but it does the work of walking through the evidence in full. We link it here for anyone who wants to go deeper than this document is trying to.)*"
+    "Commentators differ over the precise force of the challenge to the accusers. Wesley focuses on a witness being guilty of the same or a closely related sin. Calvin reads it as a broader challenge to hypocritical accusers to examine themselves, while saying it does not abolish every duty to judge wrongdoing. These are their explanations of the scene, rather than a single official rule held by every Christian tradition. ([Wesley on John 8:7](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/); [Calvin on John 8:7](https://biblehub.com/commentaries/calvin/john/8.htm))"
+  ],
+  "god_plan_lines": [
+    "Romans places mercy within God’s wider rescue of sinners: all have sinned, and God freely puts people right through the redemption in Jesus. Christ’s self-giving shows God’s righteousness while opening forgiveness to those who trust Him. The mercy in this scene belongs alongside that larger scriptural account of grace. ([Romans 3:21–26](https://biblehub.com/bsb/romans/3.htm))",
+    "",
+    "Ephesians connects forgiveness through Christ’s blood with God’s purpose to bring all things together in Him. Mercy aims toward restored life with God under Christ, giving the call to leave sin its place within that larger hope. ([Ephesians 1:7–10](https://biblehub.com/bsb/ephesians/1.htm))"
   ],
   "current_position_lines": [
-    "No defined position is stated here yet beyond the common interpretations above. As related study develops, this section will be updated where the text warrants a clearer conclusion."
+    "Our study Is There a Source of Truth? identifies this passage as one of the places where manuscript copies differ. It argues that readers should know about the difference, while recognizing that Scripture’s teaching about grace toward sinners is clearly established elsewhere."
   ],
   "deeper_study": [
     {
       "title": "Is There a Source of Truth?",
       "href": "../studies/is-there-a-source-of-truth.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/8.htm",
+    "quote_sources": [
+      "https://biblehub.com/bsb/john/7.htm",
+      "https://biblehub.com/bsb/john/8.htm"
+    ],
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "position_source_detail": "Is There a Source of Truth?: The Variants, Honestly Counted, paragraph explicitly naming John7:53–8:11. Limited to transparency about manuscript differences and grace toward sinners established elsewhere; no original-author, complete legal or conversion-history ruling originated.",
+    "evidence_file": "documentation/testing/2026-10-19-john-adulterous-woman-review.md"
+  }
 }

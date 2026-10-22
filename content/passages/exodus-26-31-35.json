@@ -5,7 +5,7 @@
     "label": "Exodus 26:31-35",
     "slug": "exodus-26-31-35"
   },
-  "section_title": "The Veil",
+  "section_title": "What did the inner veil separate?",
   "versions": [
     {
       "label": "BSB",
@@ -16,12 +16,48 @@
     }
   ],
   "context_lines": [
-    "In **Exodus 26**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "A veil made from the colored yarn and fine linen, worked with cherubim, divides the sanctuary into two rooms. Four gold-covered acacia posts on silver bases support it. The ark and mercy seat are placed behind it in the Most Holy Place.",
+    "",
+    "The table remains outside the veil on the north side of the Holy Place, with the lampstand opposite it to the south. The separation orders the approach to God’s presence. [Hebrews 9:6–7](https://biblehub.com/bsb/hebrews/9.htm) describes the distinction: priests serve regularly in the first room, while the high priest alone enters the second on the yearly occasion, bringing sacrificial blood."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Veil** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 26** remains the first control on meaning."
+    "Christian commentators commonly understand the veil as marking the restricted approach under the first covenant and pointing toward the access Christ opens. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/), [Calvin](https://biblehub.com/commentaries/calvin/exodus/26.htm) and [Gill](https://biblehub.com/commentaries/gill/exodus/26.htm) connect it with the New Testament’s account of Christ. Gill particularly emphasizes the connection with His body in Hebrews 10:20. Their further explanations of individual colors or materials go beyond that explicit connection."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[Hebrews 10:19–25](https://biblehub.com/bsb/hebrews/10.htm) directly speaks of the new and living way into the Most Holy Place through Jesus’ blood and the curtain of His body. Believers are called to draw near in faith, hold to their hope and encourage one another in love and good deeds. The access Christ gives is meant to shape a faithful, caring community.",
+    "",
+    "[Matthew 27:45–54](https://biblehub.com/bsb/matthew/27.htm) reports the later temple’s veil being torn from top to bottom at Jesus’ death. It is the temple veil in that account, rather than the original wilderness fabric. Read alongside Hebrews, the scene brings the significance of the separation into focus: Christ’s saving work opens the way for people to approach God."
+  ],
+  "current_position_lines": [
+    "As explained in [The True Church According to Jesus](https://thewayofscripture.com/studies/true-church.html), Christ’s torn veil means that every believer now has direct access to God and a calling to minister. That existing conclusion guides our application here: access to God through Christ is shared by His people."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/26.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-twenty-six-review.md",
+    "position_source_detail": "The True Church According to Jesus, content/studies/true_church.md:83; explicit torn-veil/direct-access and shared ministry conclusion."
+  }
 }

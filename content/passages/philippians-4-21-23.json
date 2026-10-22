@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Philippians",
+    "citation": "4:21-23",
+    "label": "Philippians 4:21-23",
+    "slug": "philippians-4-21-23"
+  },
+  "section_title": "What do these final greetings tell us about life in Christ?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "21 Greet all the saints in Christ Jesus. The brothers who are with me send you greetings. 22 All the saints send you greetings, especially those from the household of Caesar. 23 The grace of the Lord Jesus Christ be with your spirit."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul closes with greetings to all the saints in Christ Jesus. The brothers with him and the wider group of believers send greetings in return. The letter ends by connecting people who are apart but belong to the same Lord.",
+    "",
+    "Those sending greetings include people from Caesar’s household. The [USCCB note on verse 22](https://bible.usccb.org/bible/philippians/4) explains that the expression can include imperial employees, slaves and freed people. It does not require that Caesar’s relatives or Caesar himself had become believers.",
+    "",
+    "Paul finishes with the grace of the Lord Jesus Christ. The opening of the letter wished grace and peace to these believers; the ending returns them to the grace of the Lord whose example, strength and coming have shaped the whole letter."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this closing as an expression of fellowship among believers and a blessing of Christ’s grace. The [USCCB notes](https://bible.usccb.org/bible/philippians/4) emphasize the breadth of the greetings. The closing addresses saints in Christ as a living community; it does not use the term only for a few unusually distinguished believers."
+  ],
+  "god_plan_lines": [
+    "The greetings from Caesar’s household stand alongside Paul’s earlier report that his imprisonment has helped advance the gospel in [Philippians 1:12–14](https://biblehub.com/bsb/philippians/1.htm). The closing gives another glimpse of believers in places associated with imperial power, without explaining how each came to faith.",
+    "",
+    "[Ephesians 2:13–22](https://biblehub.com/bsb/ephesians/2.htm) describes Christ making people who were far apart into members of God’s household and a dwelling for His Spirit. That larger purpose helps explain why these simple greetings matter: people in different places belong together in Him. This is a parallel in their shared belonging to Christ."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/philippians/4.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-philippians-four-closing-review.md"
+  }
+}

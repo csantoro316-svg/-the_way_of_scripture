@@ -1,0 +1,8 @@
+# Acts 24 complete
+
+
+## Acts 24 complete — 2026-10-19
+
+126reviewedpagescover870actualBSBversescontinuouslythrough24:27:125plans/52studypositions/74open.126sources/zero unreviewedlegacy. All existing Acts sources now reviewed;25–28stillneednewpages. FourfreshBSBchecksandeighttestspass;zeroerrors284knownwarnings. Main24:7footnoteonlyfreshverified(and6b–8aonlyfootnote). Source/index/standalone,preservation,canonicalnavigation,coverage,idempotence,allfour390pxreader/standaloneandactualNextpass. Hostingdryrun/actualdeployexit0;eightaffectedandsixwholechapterlivefilesmatch.
+
+WholebaselinePDFreadthrough391:24lesson370–380complete;25–26lesson381–391through26:15read,392onwardunread. ActualBSB25:1–27read;26notyetread. Calvin25:11first1500read;USCCB25allnotesread. Calvin26/USCCB26fetchednotread. All-studysearch25/26none;allpositionsopen. Proposed25groups1–12/13–22/23–27,26groups1–11/12–18/19–23/24–32. No25draft. Needcompletecombinedbaselinefirst. BaselineCaesarappealuniversalrightestablished509BCanachronismnotverifieddonotcopy;noautomaticcourtstructure/fullRomanprocedure,motivePaulsavedFelixsoulsbeforeappeal,allHerodsnonJews/wickedlineage/kingAgrippaheldJudea/FestusincapablelegallyreleasingPaulwithoutchargesblanketclaim. Primaryactualcaseonlysafemostlegalclaims. 25:19coreJesusdeadPaulsaysalivegoodresurrectionplan;25:23kinggovernorpublicaudienceconnects9:15–16/JesusLuke21:12–13. NeednotforceGreekforstraightforwardlegalstory. Telegramnormalmode;continuewithoutstopping.

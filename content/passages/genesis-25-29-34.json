@@ -10,21 +10,43 @@
     {
       "label": "BSB",
       "paragraphs": [
-        "29 One day, while Jacob was cooking some stew, Esau came in from the field and was famished. 30 He said to Jacob, \u201cLet me eat some of that red stew, for I am famished.\u201d (That is why he was also called Edom.)",
-        "31 \u201cFirst sell me your birthright,\u201d Jacob replied.",
-        "32 \u201cLook,\u201d said Esau, \u201cI am about to die, so what good is a birthright to me?\u201d",
-        "33 \u201cSwear to me first,\u201d Jacob said.",
+        "29 One day, while Jacob was cooking some stew, Esau came in from the field and was famished. 30 He said to Jacob, “Let me eat some of that red stew, for I am famished.” (That is why he was also called Edom.)",
+        "31 “First sell me your birthright,” Jacob replied.",
+        "32 “Look,” said Esau, “I am about to die, so what good is a birthright to me?”",
+        "33 “Swear to me first,” Jacob said.",
         "So Esau swore to Jacob and sold him the birthright. 34 Then Jacob gave some bread and lentil stew to Esau, who ate and drank and then got up and went away. Thus Esau despised his birthright."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 25**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "Esau comes in from the field exhausted and hungry while Jacob is cooking stew. He asks for the red food, and the account connects that request with his other name, Edom. Jacob responds with a demand: sell the birthright first. A familiar need for a meal becomes a decision with lasting consequences.",
+    "",
+    "The birthright is the right belonging to the firstborn. The Hebrew noun is בְּכֹרָה, *bĕkōrâ* (beh-khoh-RAH), which [Brown–Driver–Briggs](https://biblehub.com/hebrew/1062.htm) identifies as the right of the firstborn, including its uses in this exchange. It concerns Esau's privileged place in the family, not merely whether he will receive another serving of food.",
+    "",
+    "Esau speaks as though his immediate need makes that future worthless. Jacob requires an oath, Esau swears, and the account explicitly says that he sells the birthright. He receives bread and lentil stew, eats and drinks, gets up, and leaves. The final sentence gives the narrator's assessment: he has despised his birthright.",
+    "",
+    "The verb is בָּזָה, *bāzâ* (bah-ZAH), meaning despise or regard with contempt; [Brown–Driver–Briggs](https://biblehub.com/hebrew/959.htm) specifically cites this verse. Esau's actions have treated a lasting privilege as worth less than immediate relief. The chapter does not describe every food source available in the camp or settle every question about Jacob's motives."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Esau Sells His Birthright** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 25** remains the first control on meaning."
+    "Christians commonly read this as a warning about treating a lasting privilege as less valuable than immediate satisfaction. [Wesley's note on Genesis 25:31](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) condemns Esau's disregard while also criticizing Jacob for taking advantage of his brother's need; recognizing Esau's failure does not require treating every part of Jacob's bargain as admirable."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 12:14–17](https://biblehub.com/bsb/hebrews/12.htm) explicitly uses Esau's sale as a warning to its readers. In a call to pursue peace and holiness and not fall short of God's grace, it points to the man who sold his birthright for one meal. A decision that appeared to satisfy the moment led to a loss he later could not simply reverse with tears.",
+    "",
+    "The chapter then describes the believers' privilege of coming to the heavenly Jerusalem, the assembly of the firstborn, and Jesus, the mediator of the new covenant ([Hebrews 12:22–24](https://biblehub.com/bsb/hebrews/12.htm)). The warning therefore concerns how people value what God has placed before them. The promised future is worth taking seriously while today's appetites and pressures feel urgent."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/25.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-inheritance-and-twins-review.md"
+  }
 }

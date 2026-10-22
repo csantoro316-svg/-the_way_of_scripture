@@ -5,15 +5,54 @@
     "label": "Matthew 6:33",
     "slug": "matthew-6-33"
   },
-  "versions": [],
-  "context_lines": [
-    "In **Matthew 6**, part of the Sermon on the Mount, Jesus contrasts hypocritical religion with true life before the Father. The chapter moves through giving, prayer, fasting, treasure, anxiety, and kingdom-seeking, so every individual saying must be read inside that unified call to trust the Father and seek His will first."
+  "section_title": "Seek His Kingdom First",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "33 But seek first the kingdom of God and His righteousness, and all these things will be added unto you."
+      ]
+    }
   ],
-  "explanation_lines": [
-    "That is the heart of it. Faith does not demand a particular outcome from God, because faith already trusts that He has one. We do not even know how to ask rightly on our own \u2014 *\"we do not know how to pray as we should, but the Spirit Himself intercedes for us with groanings too deep for words\"* (Romans 8:26) \u2014 and the Spirit's intercession is not according to our wishes but *\"according to the will of God\"* (Romans 8:27). If even our asking has to be carried by the Spirit toward God's will rather than our own, then seeking Him, not outcomes from Him, is the only goal prayer was ever meant to have. Provision, healing, and direction, when they come, are what follows when He is sought first \u2014 not what is owed to us because we asked correctly: *\"seek first His kingdom and His righteousness, and all these things will be added to you\"* (Matthew 6:33).",
+  "context_lines": [
+    "This verse gives the positive direction at the center of [Matthew 6:25–34](https://biblehub.com/bsb/matthew/6.htm). Jesus has named the worries of food, drink, and clothing, pointed to God's care in creation, and reminded His hearers that their Father knows their needs. Seeking His kingdom comes within that invitation to trust.",
     "",
-    "And lastly, the bread we are taught to ask for daily is not bread at all, but Christ Himself, the only sustenance that was ever truly necessary: *\"I am the bread of life; he who comes to Me will not hunger, and he who believes in Me will never thirst\"* (John 6:35).",
+    "The verb is ζητέω, *zēteō* (zay-TEH-oh). [Thayer's Greek Lexicon](https://biblehub.com/greek/2212.htm) explains its use here as aiming at or striving after something. The instruction concerns what directs the life. God's reign and righteousness are to take first place.",
     "",
-    "*\"Trust in Yahweh with all your heart and do not lean on your own understanding. In all your ways acknowledge Him, and He will make your paths straight.\"* (Proverbs 3:5-6)"
-  ]
+    "All these things refers back to the food, drink, and clothing already discussed. Earlier in the chapter Jesus warned against storing up earthly treasure and trying to serve both God and money. The promise is about the Father's care within a life directed toward Him.",
+    "",
+    "The next verse acknowledges the trouble each day brings. Giving God's kingdom first place provides a direction for facing life, while the Father's knowledge gives a reason for trust."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this verse as calling for God's reign and righteousness to guide life ahead of anxious pursuit of material security. [Wesley's note on Matthew 6:33](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) describes God reigning in the heart and filling the life with righteousness, while the Catholic [Catechism, 305](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_one/article_1/paragraph_4_the_creator.html), places the words within a child's trust in the Father's care."
+  ],
+  "god_plan_lines": [
+    "God's kingdom changes life from within. When discussing disputes about food, [Romans 14:17–19](https://biblehub.com/bsb/romans/14.htm) describes its priorities as righteousness, peace, and joy in the Holy Spirit, then calls believers to pursue peace and build one another up. Seeking His reign has visible consequences in how His people treat each other.",
+    "",
+    "The Father also delights to give His people the kingdom. [Luke 12:29–34](https://biblehub.com/bsb/luke/12.htm) connects seeking it with that assurance and with generosity toward the poor. God's care and gift become reasons for an openhanded life, whose hope reaches beyond possessions."
+  ],
+  "current_position_lines": [
+    "Our study Prayer and Faith reads this verse as a call to seek God and His will, rather than demanding outcomes from Him. It understands provision as following the Father's care, not as something owed because a request was worded correctly. Our companion study What Does Prayer Look Like? develops the same emphasis on surrender and trust while recognizing that asking is not itself sinful."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/6.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-treasure-and-trust-review.md",
+    "position_source_detail": "Prayer and Faith — Matthew 6:33 application; What Does Prayer Look Like? — final discussion of material asking and kingdom first"
+  }
 }

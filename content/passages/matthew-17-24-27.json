@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "17:24-27",
+    "label": "Matthew 17:24-27",
+    "slug": "matthew-17-24-27"
+  },
+  "section_title": "The Son Pays the Temple Contribution",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "24 After they had arrived in Capernaum, the collectors of the two-drachma tax came to Peter and asked, “Does your Teacher pay the two drachmas?” 25 “Yes,” he answered. When Peter entered the house, Jesus preempted him. “What do you think, Simon?” He asked. “From whom do the kings of the earth collect customs and taxes: from their own sons, or from others?” 26 “From others,” Peter answered. “Then the sons are exempt,” Jesus said to him.",
+        "27 “But so that we may not offend them, go to the sea, cast a hook, and take the first fish you catch. When you open its mouth, you will find a four-drachma coin. Take it and give it to them for My tax and yours.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "In Capernaum, collectors ask Peter whether his teacher pays the two-drachma contribution, and Peter says yes. This is the payment associated with the Jerusalem temple. The historian [Josephus, Jewish War 7.6.6](https://penelope.uchicago.edu/Josephus/war-7.html), later recalls the annual two-drachma amount that had been paid to the temple.",
+    "",
+    "A two-drachma coin is δίδραχμον, *didrachmon* (dee-DRAKH-mon), according to [Thayer's entry](https://biblehub.com/greek/1323.htm). [Exodus 30:11–16](https://biblehub.com/bsb/exodus/30.htm) provides the earlier half-shekel contribution for the sanctuary in connection with a census. That command gives the scriptural background for the temple contribution.",
+    "",
+    "When Peter enters the house, Jesus speaks first. He asks whether kings collect taxes from their own sons or from others. Peter answers that they collect from others, and Jesus declares the sons free. The family comparison brings His sonship into the question of supporting His Father's house.",
+    "",
+    "Jesus nevertheless chooses to avoid giving offense. He tells Peter to catch a fish and take the coin he will find in its mouth to pay for them both. The coin is a στατήρ, *statēr* (stah-TARE), which [Thayer's entry](https://biblehub.com/greek/4715.htm) identifies here with four drachmas, enough for two contributions. The scene ends with Jesus' instruction and promised provision."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly see both Jesus' freedom as the Son and His willingness to pay for the sake of others. [Wesley on Matthew 17:26–27](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) emphasizes the Son's relation to His Father's house and choosing peace and love, while the [US Catholic bishops' notes on 17:26–27](https://bible.usccb.org/bible/matthew/17) likewise connect the freedom of the sons with the decision to avoid offense."
+  ],
+  "god_plan_lines": [
+    "The language of the Son and His Father's family belongs within the wider gospel story. [Galatians 4:4–7](https://biblehub.com/bsb/galatians/4.htm) describes God sending His Son, born under the law, to redeem those under it so that they receive adoption. The Son's work brings others into the family, with His Spirit teaching them to call God Father.",
+    "",
+    "Freedom can also be used to serve. In [1 Corinthians 9:19–23](https://biblehub.com/bsb/1_corinthians/9.htm), Paul describes setting aside rights and adapting his conduct for the sake of reaching people with the gospel. That is a related example of freedom shaped by love and God's saving purpose, rather than a demand to insist on every right."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/17.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-seventeen-completion-review.md"
+  }
+}

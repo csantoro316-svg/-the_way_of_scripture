@@ -1,0 +1,46 @@
+# Revelation 18 passage review — 2026-10-20
+
+Three new groups cover24actualBSBverses. WholebaselinePDFlesson18pages323–340READ,cumulativePDF1–340read,341onwardunread. WholeactualBSB18/Wesley18(7929chars)/USCCB18notes/Walvoord18originalreproduction27473charsread. Gill18fetched55012UNREADnotused. ActualThayer5590whole6257characterentryread. FreshactualBSB Jer51:5–9,45–50,61–64;Isa47:7–9;Isa13:19–22;Ezek27:12–14,27–36read. PrioractualRev6:9–11/21:1–4reused. No wholecrossreferencechapterclaim.
+
+This batch also simplifies one previously published sentence each in16:1–11and17:15–18, retaining their explanations of God’s judgment and purpose while removing unnecessary warnings about hypothetical reader conduct. Source snapshots precede those edits. No scripture, position or interpretation changed in those two groups.
+
+Sources:
+- https://biblehub.com/bsb/revelation/18.htm
+- https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-revelation-of-jesus-christ/
+- https://bible.usccb.org/bible/revelation/18
+- https://swartzentrover.com/cotor/E-Books/holiness/Walvoord/Revelation/Rev_18.htm
+- https://biblehub.com/greek/5590.htm
+- https://biblehub.com/bsb/jeremiah/51.htm
+- https://biblehub.com/bsb/isaiah/47.htm
+- https://biblehub.com/bsb/isaiah/13.htm
+- https://biblehub.com/bsb/ezekiel/27.htm
+
+Copyrightedpublic/privatepersourceunder200words,noverbatim;BSB/WesleyPD. No baseline namepublic. ExistingrelatedstudiesdonotsettleBabylonidentityorfulfillment,all3newpositionsnone.
+
+## Revelation 18:1–8
+
+Plan section: included, because (b)/(c). ActualJer51leaveBabylon/heaven-highsinsandIsa47queen/Isa13desolationparallelsgroundlargerjudgment-and-separationtheme.
+Position source: none.
+FLAGGED FOR REVIEW: AncientRome/laterRome/futurepolitical-commercialsettingandliteraldeparture-versusmoral-separationreadingscheckedinownprimarydocuments. NoallCatholicsorMethodiststaughtoneexclusivecityidentification. RebuiltBabylonpossibilitynotestablishedasrequiredfuturegeography. NoGod’speopleequatesonlyunbelievingJewsasownerposition. NoallothercitiesgoneonlyJerusalemremainsreconstructedrouteoralltelecommunicationgonefromancientcourierimagery.
+
+FLAGGED FOR REVIEW: Baselineincorrect“metahoutehoutos”formnotpublic. Afterthisdoesnotlexicallyentailcause-effectorcompletechronologicalsystem. John17wildernessnotexplicitlyheavenasbaselinesays. ActualBSB18:2uncleanbirdsANDbeastsretained,baseline“Revelationmentionsnoanimals”incorrect. Animalsnotuniversalcodefordemonsthemselves;citydesolationtextkept. Demonsgeographicallyconfinedthereentiremillenniumnotdirectstatementhere. Angel’sgreatpowerdoesnotbyitselfprovearchangelorChristidentity.
+
+FLAGGED FOR REVIEW: CyrusdivertedEuphrates/sleepingfeast/iron-gates/bloodlesscapturehistorynotindependentlychecked,notusedasfactprovingonlyfuturefulfillment. Psalm137:7EdomreferenceandIsa47mislabelledRev8:7innotesnotrepeated. AllprophetsEdomidentifiedIsa37/Ezek34unclearreferencesnotpublic. Doublepaymentidiom/fullrecompenseversusnumericaldoublehasvaryinginterpretations;publicrecordsrepaymentwithoutownerarithmetictheory. No party assigned as modernGodjudgmentexecutors.
+
+## Revelation 18:9–20
+
+Plan section: included, because (b)/(c). ActualEzek27goods/slave-trade/sailors/griefparallel;Rev6martyrs’appealconnectsheavenrejoicingwithjusticeforthesuffering.
+Position source: none.
+FLAGGED FOR REVIEW: ActualBSB“bodiesandsoulsofslaves”kept,notreplacedwithothertranslationquote. Thayer5590specificallyRev18:13enslavedpersons/lives,alsoEzek27:13,checkedsupportsexplanation;notuniversaldenialwordcanmeanimmaterialsoul. Humanbeingsinthecargolistplain,notanargumentallhumanactivity/tradeintrinsicallysin. Merchantstatedlostmarketreasonnotunverifiedpsychologicalclaimallindividualsfeelnohumanconcernatall. Religiouscommercialreadingattributedtoteacher,notindependenthistoricalclaimaboutcurrentpeople.
+
+FLAGGED FOR REVIEW: KingssamenortherncoupforcesormodernRussia/Turkey/Armenialistnotgivenin18. BaselineJer50/51armiesnecessarilymodernfuture10kingdomsdetailedroutingnotestablishedintext. “Until”17:17doesnotrequirekingschangeheartinexactstagewithcityunguarded. No universaloldweaponsinprophecyprovesallmoderntechnologydestroyed. No newsrelaymeanscommunicationsshutdownproof. RejoicingoverGod’sjudgmentnotcelebratingordinaryworkers’privationasaimitself.
+
+## Revelation 18:21–24
+
+Plan section: included, because (b)/(c). ActualJer51stone-scrollcastintoriversignexplicitlyparalleled;Rev21holycity/lifewithGodcontrastaddsfinalpurposebeyonddestruction.
+Position source: none.
+FLAGGED FOR REVIEW: Millstoneimagefinalitynotreportarchaeologicalclaimphysicalstonecouldneverberecovered. Noexacttimeclockmathematicalonehourmilitarycampaignschedulefromemphasisonsuddenness. BiblefinalbloodchargekeptwithoutusingunverifiedWesley15millionInquisition/70,000massacretollsasindependenthistory. Noinheritcorporateguiltforindividualpresentdenominationalmembers. NoSatanphysicalthroneinmodernMesopotamiaconclusionfromliteraryBabylonimagery. NewJerusalemcontrastlabelled,doesnotforceowner16greatcityidentification.
+
+## Validation
+
+Allpassed:focusedgenerationof5selectedgroups(3new,2copyclarifications),freshBSBverification,repo0errors220warnings,independentpreservation,continuouscoverage through18:24 (48reviewedpages/320actualBSBverses/47plans/5existing-studypositions/43open),byte-identicalregeneration,ten390pxreader/standalone checks exacttitles/5or7sections/nooverflow/norawMarkdown. ActualNext18:1–8→18:9–20 confirmed URL/title/focus/top188.171875. Actualexplicit-projectdry-run/deployment/live8filebyteauditexit0,allMATCH. Twolegacy22pagesretainedunreviewed;intentionalplanomissionsremain25.

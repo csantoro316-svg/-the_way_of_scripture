@@ -5,44 +5,62 @@
     "label": "Isaiah 32:1-8",
     "slug": "isaiah-32-1-8"
   },
-  "section_title": "A Righteous King",
+  "section_title": "What would leadership that truly shelters people look like?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 Behold, a king will reign in righteousness,",
-        "and princes will rule with justice.",
-        "2 Each will be like a shelter from the wind,",
-        "a refuge from the storm,",
-        "like streams of water in a dry land,",
-        "like the shadow of a great rock in an arid land.",
-        "3 Then the eyes of those who see will no longer be closed,",
-        "and the ears of those who hear will listen.",
-        "4 The mind of the rash will know and understand,",
-        "and the stammering tongue will speak clearly and fluently.",
-        "5 No longer will a fool be called noble,",
-        "nor a scoundrel be respected.",
-        "6 For a fool speaks foolishness;",
-        "his mind plots iniquity.",
-        "He practices ungodliness",
-        "and speaks falsely about the LORD;",
-        "he leaves the hungry empty",
-        "and deprives the thirsty of drink.",
-        "7 The weapons of the scoundrel are destructive;",
-        "he hatches plots to destroy the poor with lies,",
-        "even when the plea of the needy is just.",
-        "8 But a noble man makes honorable plans;",
-        "he stands up for worthy causes."
+        "1 Behold, a king will reign in righteousness, and princes will rule with justice. 2 Each will be like a shelter from the wind, a refuge from the storm, like streams of water in a dry land, like the shadow of a great rock in an arid land. 3 Then the eyes of those who see will no longer be closed, and the ears of those who hear will listen. 4 The mind of the rash will know and understand, and the stammering tongue will speak clearly and fluently.",
+        "5 No longer will a fool be called noble, nor a scoundrel be respected. 6 For a fool speaks foolishness; his mind plots iniquity. He practices ungodliness and speaks falsely about the LORD; he leaves the hungry empty and deprives the thirsty of drink. 7 The weapons of the scoundrel are destructive; he hatches plots to destroy the poor with lies, even when the plea of the needy is just. 8 But a noble man makes honorable plans; he stands up for worthy causes."
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 32**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "After warnings about leaders who trust the wrong protection, the chapter opens with a king reigning in righteousness and princes ruling with justice. Their rule is compared with shelter in a storm, water in dry country and shade in a weary land. People receive protection rather than being exposed to harm.",
+    "",
+    "The change also reaches understanding and judgment. Eyes and ears become responsive, rash minds understand, and speech becomes clear. A fool will no longer pass for a noble person simply because people give him an honorable name.",
+    "",
+    "The contrast is shown in conduct. The fool speaks falsely about the Lord and leaves the hungry and thirsty without help. The scoundrel uses lies to destroy poor people even when their plea is just. The noble person makes honorable plans and stands up for worthy causes."
   ],
   "common_interpretation_lines": [
-    "A common reading of **A Righteous King** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Wesley](https://biblehub.com/commentaries/wes/isaiah/32.htm) reads the king first as Hezekiah and then as a picture of Christ. He understands the princes as rulers whose conduct protects the people, with the promised change fully realized through Christ.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 32** remains the first control on meaning."
+    "[Henry](https://biblehub.com/commentaries/mhc/isaiah/32.htm) identifies the righteous king with Christ and connects the shelter and refreshment with His protection. [Gill](https://biblehub.com/commentaries/gill/isaiah/32.htm) likewise centers the king on Christ, while identifying the princes with ministers who must lead according to His word.",
+    "",
+    "The readings differ over how the reign begins in Judah’s history and how the princes are identified. They share an emphasis on righteous rule that benefits people and exposes the difference between honorable titles and actual conduct."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "Jesus addresses a similar failure of leadership when His disciples dispute which of them is greatest in [Luke 22:24–30](https://biblehub.com/bsb/luke/22.htm). He contrasts rulers who dominate while calling themselves benefactors with His own presence among them as One who serves.",
+    "",
+    "He then speaks of the kingdom His Father has given Him and a place for His disciples at His table. This provides a clear theme alongside Isaiah’s righteous king and just princes: authority under God is meant to serve His purpose and care for people, not to provide an honorable name for self-interest.",
+    "",
+    "The contrast is especially sharp beside Isaiah’s hungry people and falsely accused poor. In the larger biblical picture, the character of the King shapes what leadership among His people should look like."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/32.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-thirty-one-three-review.md"
+  }
 }

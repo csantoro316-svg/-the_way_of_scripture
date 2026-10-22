@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "22:17-21",
+    "label": "Acts 22:17-21",
+    "slug": "acts-22-17-21"
+  },
+  "section_title": "Why does Paul say he was sent away from Jerusalem to the Gentiles?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 Later, when I had returned to Jerusalem and was praying at the temple, I fell into a trance 18 and saw the Lord saying to me, ‘Hurry! Leave Jerusalem quickly, because the people here will not accept your testimony about Me.’ 19 ‘Lord,’ I answered, ‘they know very well that in one synagogue after another I imprisoned and beat those who believed in You. 20 And when the blood of Your witness Stephen was shed, I stood there giving my approval and watching over the garments of those who killed him.’ 21 Then He said to me, ‘Go! I will send you far away to the Gentiles.’ ”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul recalls a later visit to Jerusalem when he was praying in the temple and saw the Lord in a trance. The Lord told him to leave quickly because people there would not accept his testimony. The setting matters for the present defense: Paul’s account includes prayer in the temple he has been accused of opposing.",
+    "",
+    "Paul points to his former imprisonment and beating of believers and his approval when Stephen was killed. His hearers knew that past. But the Lord directs him to go, sending him far away to the Gentiles. His mission is presented as a commission from the Lord, not a private decision to abandon the people among whom he was raised.",
+    "",
+    "The passage gives the substance of this exchange without telling us every thought Paul had about persuading his former associates. It should not be turned into a claim that he thought his own reputation could control everyone’s response."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read the Gentile mission here as a calling from Jesus that Paul is explaining to his Jewish hearers. His remembered involvement in Stephen’s death shows how far his life has changed. The command to go beyond Jerusalem does not mean every Jewish person is rejected by God."
+  ],
+  "god_plan_lines": [
+    "[Isaiah 49:6](https://biblehub.com/bsb/isaiah/49.htm) sets the Servant’s work in relation to both Israel and the nations. [Acts 13:46–47](https://biblehub.com/bsb/acts/13.htm) explicitly uses that promise when Paul and Barnabas explain the mission to the Gentiles. The direction Paul receives here belongs to that wider purpose of bringing God’s salvation to the nations.",
+    "",
+    "His encounter and commission do not end with private assurance. What he has seen and heard becomes testimony for people beyond his former circle. The crowd’s reaction in the next verses makes clear that this wider mercy is also a point of conflict."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/22.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twenty-two-review.md"
+  }
+}

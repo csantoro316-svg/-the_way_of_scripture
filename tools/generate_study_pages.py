@@ -2,10 +2,11 @@
 
 from __future__ import annotations
 
+import argparse
 import html
 import json
 import re
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
 from collections import defaultdict
 
@@ -20,21 +21,31 @@ OUTPUT_DIR = WEB_DIR / "studies"
 LIBRARY_DIR = WEB_DIR / "library"
 PASSAGES_DIR = WEB_DIR / "passages"
 PASSAGE_AUDIT_PATH = PASSAGE_SOURCE_DIR / "_audit.json"
-SKIP_FILES = {"way_of_scripture_intro.md"}
-PASSAGE_SOURCE_FILES = {"way_of_scripture_intro.md"}
-FEATURED_STUDY_LIMIT = 7
-FEATURED_STUDY_ORDER = [
-    "the_gospel_according_to_jesus.md",
-    "prayer_and_faith.md",
-    "what_does_prayer_look_like.md",
-    "seek_signs.md",
-    "true_church.md",
-    "baptism.md",
-    "angel_of_the_lord.md",
+GUIDED_STUDY_STEPS = [
+    ("returning-to-the-word", "See why Scripture's words and context matter before learning how to test claims."),
+    ("the-berean-standard", "Learn to examine every teaching against Scripture, including the claims on this site."),
+    ("inerrancy", "Consider what Scripture's authority means when we read translations of ancient texts."),
+    ("is-there-a-source-of-truth", "Examine the manuscripts and the question of whether the text can be trusted."),
+    ("the-gospel-according-to-jesus", "Hear the central message of Jesus, His death and resurrection, and our response."),
+    ("angel-of-the-lord", "Trace the Angel of the Lord in the Old Testament and consider what these passages reveal about Christ."),
+    ("i-am-a-disciple", "Move from hearing the gospel to following Jesus in daily life."),
+    ("baptism", "Study the response of baptism and the meaning of being buried and raised with Christ."),
+    ("prayer-and-faith", "Consider how faith, trust, and surrender shape our approach to God."),
+    ("what-does-prayer-look-like", "Watch how Jesus, Paul, and the early church actually pray."),
+    ("seek-signs", "Test experiences, signs, and guidance against the pattern Scripture gives."),
+    ("true-church", "See how disciples belong together as Christ's people."),
+    ("who-shepherds-the-church", "Consider responsibility, teaching, and leadership within the gathered church."),
+    ("worship", "Explore worship and participation in the life of the early church."),
 ]
+GUIDED_STUDY_COPY = (
+    "Work through a connected series of studies, beginning with why we return to Scripture's "
+    "words and context, then how to examine every teaching against the text. Continue through "
+    "the gospel, discipleship, prayer, and life together as Christ’s people. "
+    "Each study builds on what came before. Take your time, examine the passages, and continue when you’re ready."
+)
 
 STUDY_TOPIC_MAP = {
-    "way_of_scripture_intro.md": "Foundations",
+    "returning_to_the_word.md": "Foundations",
     "the_berean_standard.md": "Foundations",
     "is_there_a_source_of_truth.md": "Foundations",
     "inerrancy.md": "Foundations",
@@ -53,26 +64,13 @@ STUDY_TOPIC_MAP = {
 STUDY_TOPIC_ORDER = [
     "Foundations",
     "Gospel & Salvation",
+    "Christ In The Old Testament",
+    "Identity & Discipleship",
     "Prayer & Discernment",
     "Church & Worship",
-    "Identity & Discipleship",
-    "Christ In The Old Testament",
 ]
-FEATURED_PASSAGE_ORDER = [
-    ("1 John", "5:14-15"),
-    ("Matthew", "26:39"),
-    ("Proverbs", "3:5-6"),
-    ("Acts", "17:11"),
-    ("Hebrews", "4:12"),
-    ("1 Corinthians", "3:16"),
-    ("1 Peter", "2:9"),
-    ("Romans", "8:26-27"),
-    ("Romans", "6:3-4"),
-    ("John", "13:34-35"),
-    ("Deuteronomy", "4:2"),
-    ("1 Corinthians", "14:26"),
-]
-FEATURED_PASSAGE_NOTES = {
+
+PASSAGE_INTRO_NOTES = {
     ("1 John", "5:14-15"): "The governing principle of prayer: we approach God on His terms, not ours.",
     ("Matthew", "26:39"): "Gethsemane and surrendered faith: not as I will, but as You will.",
     ("Proverbs", "3:5-6"): "Trust that runs through prayer, baptism, faith, and the site’s entire posture.",
@@ -157,6 +155,23 @@ class PassageContent:
     current_position_lines: list[str]
     deeper_study: list[PassageSource]
     section_title: str = ""
+    god_plan_lines: list[str] = field(default_factory=list)
+    editorial_review: dict[str, object] = field(default_factory=dict)
+
+
+NO_PASSAGE_POSITION = "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+
+
+def passage_section_headings(content: PassageContent) -> dict[str, str]:
+    if content.editorial_review.get("standard") == "passage-v1":
+        return {
+            "context": "What is the context?",
+            "common": "How is this passage commonly understood?",
+            "plan": "Where does this fit in God's plan?",
+            "position": "What is our position?",
+            "deeper": "Where can I study this further?",
+        }
+    return {"context": "Context", "common": "Common Interpretations", "plan": "Where does this fit in God's plan?", "position": "Current Position", "deeper": "Deeper Study"}
 
 
 @dataclass(frozen=True)
@@ -176,6 +191,308 @@ def slugify(text: str) -> str:
 def sort_key_without_numeric_prefix(text: str) -> tuple[str, str]:
     normalized = re.sub(r"^[1-3]\s+", "", text).strip().lower()
     return normalized, text.lower()
+
+
+def passage_sort_key(reference: PassageReference) -> tuple:
+    """Order books canonically and ranges by numeric start, then numeric end."""
+    match = re.fullmatch(r"(\d+):(\d+)(?:-(?:(\d+):)?(\d+))?", reference.citation)
+    if not match:
+        raise ValueError(f"Cannot order passage: {reference.label}")
+    chapter, verse, end_chapter, end_verse = match.groups()
+    return (
+        BOOK_ORDER.index(reference.book) if reference.book in BOOK_ORDER else len(BOOK_ORDER),
+        reference.book,
+        int(chapter),
+        int(verse),
+        int(end_chapter or chapter),
+        int(end_verse or verse),
+    )
+
+
+def render_passage_navigation(previous: dict | None, following: dict | None) -> str:
+    links = []
+    for direction, item in (("previous", previous), ("next", following)):
+        if item is None:
+            continue
+        label = "← Previous passage" if direction == "previous" else "Next passage →"
+        relation = "prev" if direction == "previous" else "next"
+        subtitle = (
+            f'\n                <span class="passage-navigation-title">{html.escape(item["section_title"])}</span>'
+            if item.get("section_title") else ""
+        )
+        links.append(f'''              <a class="passage-navigation-link passage-navigation-{direction}" href="{html.escape(item["href"], quote=True)}" rel="{relation}">
+                <span class="passage-navigation-label">{label}</span>
+                <strong>{html.escape(item["title"])}</strong>{subtitle}
+              </a>''')
+    if not links:
+        return ""
+    return ('            <nav class="passage-navigation" aria-label="Passage navigation">\n'
+            + "\n".join(links) + '\n            </nav>\n')
+
+
+def insert_passage_navigation(page: str, navigation: str) -> str:
+    """Replace only navigation, preserving all authored passage HTML."""
+    page = re.sub(
+        r'            <nav class="passage-navigation" aria-label="Passage navigation">.*?            </nav>\n',
+        "", page, flags=re.DOTALL,
+    )
+    marker = "          </article>"
+    if page.count(marker) != 1:
+        raise ValueError("Expected one passage article; refusing to change page")
+    return page.replace(marker, navigation + marker, 1)
+
+
+def refresh_passage_navigation() -> None:
+    """Refresh navigation from the published library without regenerating prose."""
+    index_path = WEB_DIR / "assets" / "library_index.json"
+    data = json.loads(index_path.read_text(encoding="utf-8"))
+    passages = sorted(data["passages"], key=lambda item: passage_sort_key(
+        PassageReference(item["book"], item["citation"])
+    ))
+    updates = []
+    for position, item in enumerate(passages):
+        path = PASSAGES_DIR / f'{item["id"]}.html'
+        page = path.read_text(encoding="utf-8")
+        navigation = render_passage_navigation(
+            passages[position - 1] if position else None,
+            passages[position + 1] if position + 1 < len(passages) else None,
+        )
+        updates.append((path, insert_passage_navigation(page, navigation)))
+    data["passages"] = passages
+    # Prepare all pages before writing so a missing page or marker fails safely.
+    updates.append((index_path, json.dumps(data, ensure_ascii=True, indent=2)))
+    updates.append((LIBRARY_DIR / "passages.html", passages_page_html()))
+    updates.append((LIBRARY_DIR / "browse.html", legacy_browse_html()))
+    updates.append((LIBRARY_DIR / "passages-by-book.html", browse_redirect_html("./passages.html")))
+    for path, text in updates:
+        path.write_text(text, encoding="utf-8")
+
+
+def studies_page_html(studies_by_slug: dict[str, dict]) -> str:
+    """Make the complete guided path the canonical Studies page."""
+    cards = []
+    for position, (slug, description) in enumerate(GUIDED_STUDY_STEPS, start=1):
+        study = studies_by_slug[slug]
+        cards.append(f'''          <li class="guided-step">
+            <span class="guided-step-number">{position:02d}</span>
+            <div>
+              <h2><a href="../studies/{slug}.html">{html.escape(study["title"])}</a></h2>
+              <p>{html.escape(description)}</p>
+            </div>
+            <a class="guided-step-action" href="../studies/{slug}.html">Read study →</a>
+          </li>''')
+    topics = list(dict.fromkeys(studies_by_slug[slug]["topic"] for slug, _ in GUIDED_STUDY_STEPS))
+    topic_options = '\n'.join(
+        f'              <option value="{html.escape(topic, quote=True)}">{html.escape(topic)}</option>'
+        for topic in topics
+    )
+    topic_groups = []
+    for topic in topics:
+        items = []
+        for position, (slug, description) in enumerate(GUIDED_STUDY_STEPS, start=1):
+            study = studies_by_slug[slug]
+            if study["topic"] != topic:
+                continue
+            items.append(f'''              <li class="topic-study-card">
+                <div>
+                  <span class="topic-study-position">Study {position} of {len(GUIDED_STUDY_STEPS)}</span>
+                  <h3><a href="../studies/{slug}.html">{html.escape(study["title"])}</a></h3>
+                  <p>{html.escape(description)}</p>
+                </div>
+                <a href="../studies/{slug}.html">Read study →</a>
+              </li>''')
+        topic_groups.append(f'''          <section class="topic-group" data-topic="{html.escape(topic, quote=True)}" aria-label="{html.escape(topic, quote=True)}">
+            <h2>{html.escape(topic)}</h2>
+            <ul class="topic-study-list">
+{chr(10).join(items)}
+            </ul>
+          </section>''')
+    script = """    <script>
+      const viewButtons = [...document.querySelectorAll('[data-study-view]')];
+      const pathView = document.getElementById('guidedPathView');
+      const topicsView = document.getElementById('studyTopicsView');
+      const topicSelect = document.getElementById('studyTopicSelect');
+      const topicGroups = [...document.querySelectorAll('.topic-group')];
+      const topicCount = document.getElementById('topicCount');
+      const params = new URLSearchParams(location.search);
+
+      function showView(view, updateUrl = true) {
+        const showTopics = view === 'topics';
+        pathView.hidden = showTopics;
+        topicsView.hidden = !showTopics;
+        viewButtons.forEach((button) => {
+          button.setAttribute('aria-pressed', String(button.dataset.studyView === (showTopics ? 'topics' : 'path')));
+        });
+        if (updateUrl) {
+          const url = new URL(location.href);
+          if (showTopics) {
+            url.searchParams.set('view', 'topics');
+            if (topicSelect.value !== 'all') url.searchParams.set('topic', topicSelect.value);
+          }
+          else {
+            url.searchParams.delete('view');
+            url.searchParams.delete('topic');
+          }
+          history.replaceState(null, '', url);
+        }
+      }
+
+      function filterTopics(updateUrl = true) {
+        const selected = topicSelect.value;
+        let count = 0;
+        topicGroups.forEach((group) => {
+          const visible = selected === 'all' || group.dataset.topic === selected;
+          group.hidden = !visible;
+          if (visible) count += group.querySelectorAll('.topic-study-card').length;
+        });
+        topicCount.textContent = `Showing ${count} ${count === 1 ? 'study' : 'studies'}${selected === 'all' ? ' across all topics' : ''}.`;
+        if (updateUrl) {
+          const url = new URL(location.href);
+          if (selected === 'all') url.searchParams.delete('topic');
+          else url.searchParams.set('topic', selected);
+          history.replaceState(null, '', url);
+        }
+      }
+
+      viewButtons.forEach((button) => button.addEventListener('click', () => showView(button.dataset.studyView)));
+      topicSelect.addEventListener('change', () => filterTopics());
+      if ([...topicSelect.options].some((option) => option.value === params.get('topic'))) {
+        topicSelect.value = params.get('topic');
+      }
+      filterTopics(false);
+      showView(params.get('view') === 'topics' ? 'topics' : 'path', false);
+    </script>"""
+    return f'''<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Studies | The Way of Scripture</title>
+    <meta name="description" content="Follow all {len(GUIDED_STUDY_STEPS)} studies in a guided path or explore them by topic." />
+    <link rel="stylesheet" href="../styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="site-header">
+        <a class="brand" href="../index.html" aria-label="The Way of Scripture home">
+          <img class="brand-mark" src="../assets/icons/icon.jpg" alt="The Way of Scripture icon" />
+          <div class="brand-copy">
+            <span class="brand-title">The Way of Scripture</span>
+            <span class="brand-subtitle">Returning to the text itself</span>
+          </div>
+        </a>
+{primary_nav("studies")}
+      </header>
+
+      <main>
+        <section class="article-hero">
+          <p class="eyebrow">Studies · {len(GUIDED_STUDY_STEPS)} steps</p>
+          <h1>Foundations: A Guided Study</h1>
+          <p class="lead">{html.escape(GUIDED_STUDY_COPY)}</p>
+          <div class="guided-actions">
+            <a class="guided-button" href="../studies/{GUIDED_STUDY_STEPS[0][0]}.html">Begin the first study →</a>
+          </div>
+        </section>
+
+        <div class="study-view-switch" role="group" aria-label="Choose how to explore studies">
+          <button type="button" data-study-view="path" aria-pressed="true" aria-controls="guidedPathView">Guided path</button>
+          <button type="button" data-study-view="topics" aria-pressed="false" aria-controls="studyTopicsView">Explore by topic</button>
+        </div>
+
+        <section id="guidedPathView" aria-label="Guided study path">
+          <ol class="guided-step-list" aria-label="Guided study order">
+{chr(10).join(cards)}
+          </ol>
+        </section>
+
+        <section id="studyTopicsView" aria-label="Studies by topic" hidden>
+          <div class="topic-filter-bar">
+            <label for="studyTopicSelect">Filter by topic</label>
+            <select id="studyTopicSelect">
+              <option value="all">All topics</option>
+{topic_options}
+            </select>
+            <p id="topicCount" role="status" aria-live="polite">Showing {len(GUIDED_STUDY_STEPS)} studies across all topics.</p>
+          </div>
+          <div class="topic-group-list">
+{chr(10).join(topic_groups)}
+          </div>
+        </section>
+      </main>
+    </div>
+{script}
+  </body>
+</html>
+'''
+
+
+def guided_study_inserts(slug: str, studies_by_slug: dict[str, dict]) -> tuple[str, str]:
+    steps = [name for name, _ in GUIDED_STUDY_STEPS]
+    position = steps.index(slug)
+    previous = studies_by_slug[steps[position - 1]] if position else None
+    following = studies_by_slug[steps[position + 1]] if position + 1 < len(steps) else None
+    top = f'''          <div class="guided-study-top">
+            <span>Study {position + 1} of {len(steps)} in Foundations</span>
+            <a href="../library/index.html">View the guided path</a>
+          </div>'''
+    links = []
+    if previous:
+        links.append(f'''          <a class="guided-navigation-link" href="../studies/{previous["id"]}.html" rel="prev"><span>← Previous study</span><strong>{html.escape(previous["title"])}</strong></a>''')
+    if following:
+        links.append(f'''          <a class="guided-navigation-link guided-navigation-next" href="../studies/{following["id"]}.html" rel="next"><span>Continue with Study {position + 2} of {len(steps)} →</span><strong>{html.escape(following["title"])}</strong></a>''')
+    else:
+        links.append('''          <a class="guided-navigation-link guided-navigation-next" href="../library/index.html"><span>You've completed the path</span><strong>See the complete path →</strong></a>''')
+    next_context = (
+        f'          <p class="guided-next-context">Next: {html.escape(GUIDED_STUDY_STEPS[position + 1][1])}</p>\n'
+        if following else f'          <p class="guided-next-context">You have reached the end of the {len(steps)}-study foundation path.</p>\n'
+    )
+    bottom = f'''        <nav class="guided-study-navigation" aria-label="Guided study navigation">
+          <p class="eyebrow">Foundations · Study {position + 1} of {len(steps)}</p>
+          <h2>Keep studying</h2>
+          <div class="guided-navigation-links">
+{chr(10).join(links)}
+          </div>
+{next_context}          <a class="guided-path-link" href="../library/index.html">View the complete path</a>
+        </nav>'''
+    return top, bottom
+
+
+def insert_guided_study_blocks(page: str, top: str, bottom: str) -> str:
+    """Update guidance only, leaving the published study prose intact."""
+    for block in ("top", "bottom"):
+        page = re.sub(
+            rf'        <!-- guided-study-{block}:start -->.*?        <!-- guided-study-{block}:end -->\n',
+            "", page, flags=re.DOTALL,
+        )
+    hero_marker = '          <div class="article-hero-copy prose">'
+    footer_marker = '        <section class="feedback-note" aria-label="Feedback note">'
+    if page.count(hero_marker) != 1 or page.count(footer_marker) != 1:
+        raise ValueError("Expected one study hero and feedback note; refusing to change page")
+    page = page.replace(hero_marker, f'        <!-- guided-study-top:start -->\n{top}\n        <!-- guided-study-top:end -->\n{hero_marker}', 1)
+    return page.replace(footer_marker, f'        <!-- guided-study-bottom:start -->\n{bottom}\n        <!-- guided-study-bottom:end -->\n{footer_marker}', 1)
+
+
+def refresh_guided_study() -> None:
+    """Refresh the path and page navigation without regenerating study content."""
+    index_path = WEB_DIR / "assets" / "library_index.json"
+    index = json.loads(index_path.read_text(encoding="utf-8"))
+    studies_by_slug = {study["id"]: study for study in index["studies"]}
+    slugs = [slug for slug, _ in GUIDED_STUDY_STEPS]
+    if len(slugs) != len(set(slugs)) or set(slugs) != set(studies_by_slug):
+        raise ValueError("Guided study order must include every published study exactly once")
+    updates = []
+    for slug in slugs:
+        path = OUTPUT_DIR / f"{slug}.html"
+        top, bottom = guided_study_inserts(slug, studies_by_slug)
+        updates.append((path, insert_guided_study_blocks(path.read_text(encoding="utf-8"), top, bottom)))
+    index["studies"] = [studies_by_slug[slug] for slug in slugs]
+    index["study_topic_order"] = STUDY_TOPIC_ORDER
+    updates.append((index_path, json.dumps(index, ensure_ascii=True, indent=2)))
+    updates.append((LIBRARY_DIR / "index.html", studies_page_html(studies_by_slug)))
+    updates.append((LIBRARY_DIR / "guided-study.html", browse_redirect_html("./index.html")))
+    updates.append((LIBRARY_DIR / "studies-all.html", browse_redirect_html("./index.html?view=topics")))
+    for path, page in updates:
+        path.write_text(page, encoding="utf-8")
 
 
 def extract_references(text: str) -> list[PassageReference]:
@@ -664,9 +981,7 @@ def derive_passage_content(reference: PassageReference, linked_studies: list[Stu
         verses=verses,
         context_lines=context_lines,
         common_interpretation_lines=common_interpretation_lines,
-        current_position_lines=[
-            "No defined position is stated here yet beyond the common interpretations above. As related study develops, this section will be updated where the text warrants a clearer conclusion.",
-        ],
+        current_position_lines=[NO_PASSAGE_POSITION],
         deeper_study=[
             PassageSource(title=study.title, href=f"../studies/{study.slug}.html")
             for study in linked_studies
@@ -703,6 +1018,10 @@ def serialize_passage_content(reference: PassageReference, content: PassageConte
             for item in content.deeper_study
         ],
     }
+    if any(line.strip() for line in content.god_plan_lines):
+        payload["god_plan_lines"] = content.god_plan_lines
+    if content.editorial_review:
+        payload["editorial_review"] = content.editorial_review
     return json.dumps(payload, ensure_ascii=True, indent=2) + "\n"
 
 
@@ -733,21 +1052,13 @@ def load_passage_source_content(reference: PassageReference) -> PassageContent |
                 paragraphs=paragraphs,
             )
         )
-    context_lines = [
-        str(line) for line in payload.get("context_lines", []) if str(line).strip()
-    ]
+    context_lines = [str(line) for line in payload.get("context_lines", [])]
     raw_common_lines = payload.get("common_interpretation_lines", payload.get("explanation_lines", []))
-    common_interpretation_lines = [
-        str(line) for line in raw_common_lines if str(line).strip()
-    ]
+    common_interpretation_lines = [str(line) for line in raw_common_lines]
     raw_current_position_lines = payload.get("current_position_lines", [])
-    current_position_lines = [
-        str(line) for line in raw_current_position_lines if str(line).strip()
-    ]
-    if not current_position_lines:
-        current_position_lines = [
-            "No defined position is stated here yet beyond the common interpretations above. As related study develops, this section will be updated where the text warrants a clearer conclusion.",
-        ]
+    current_position_lines = [str(line) for line in raw_current_position_lines]
+    if not any(line.strip() for line in current_position_lines):
+        current_position_lines = [NO_PASSAGE_POSITION]
     deeper_study = [
         PassageSource(title=str(item.get("title", "")).strip(), href=str(item.get("href", "")).strip())
         for item in payload.get("deeper_study", [])
@@ -760,6 +1071,8 @@ def load_passage_source_content(reference: PassageReference) -> PassageContent |
         current_position_lines=current_position_lines,
         deeper_study=deeper_study,
         section_title=str(payload.get("section_title", "")).strip(),
+        god_plan_lines=[str(line) for line in payload.get("god_plan_lines", [])],
+        editorial_review=payload.get("editorial_review", {}),
     )
 
 
@@ -1056,25 +1369,6 @@ def primary_nav(current: str, depth: str = "..") -> str:
         </nav>"""
 
 
-def library_rail(current: str) -> str:
-    return f"""        <aside class="library-rail" aria-label="Library navigation">
-          <p class="eyebrow">Library</p>
-          <nav class="library-rail-nav">
-            <a href="./index.html"{" aria-current=\"page\"" if current == "studies-featured" else ""}>Featured Studies</a>
-            <a href="./studies-all.html"{" aria-current=\"page\"" if current == "studies-all" else ""}>Browse All Studies</a>
-            <a href="./passages.html"{" aria-current=\"page\"" if current == "passages-featured" else ""}>Featured Passages</a>
-            <a href="./passages-by-book.html"{" aria-current=\"page\"" if current == "passages-by-book" else ""}>Browse All Passages</a>
-          </nav>
-        </aside>"""
-
-
-def library_heading(title: str, browse_label: str, browse_href: str) -> str:
-    return f"""          <div class="library-heading">
-            <h2>{html.escape(title)}</h2>
-            <a class="library-heading-link" href="{browse_href}">{html.escape(browse_label)}</a>
-          </div>"""
-
-
 def browse_redirect_html(target: str) -> str:
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -1201,6 +1495,23 @@ def render_passage_hero(reference: PassageReference) -> str:
     return render_passage_versions(content.verses)
 
 
+def render_passage_lines(lines: list[str], reference: PassageReference) -> str:
+    """Render source citations separately so Scripture auto-links cannot nest anchors."""
+    citations: list[str] = []
+
+    def protect(match: re.Match[str]) -> str:
+        label, href = match.groups()
+        token = f"\ue000citation{len(citations)}\ue001"
+        citations.append(f'<a href="{html.escape(href, quote=True)}"{passage_link_attrs()}>{render_inline(label)}</a>')
+        return token
+
+    protected = [re.sub(r"\[([^\]\n]+)\]\((https?://[^\s)]+)\)", protect, line) for line in lines]
+    rendered = render_blocks(protected, enable_reference_links=True, current_reference=reference)
+    for index, citation in enumerate(citations):
+        rendered = rendered.replace(f"\ue000citation{index}\ue001", citation)
+    return rendered
+
+
 def render_passage_body_sections(reference: PassageReference, linked_studies: list[Study]) -> str:
     content = build_passage_content(reference, linked_studies)
     if not content:
@@ -1225,20 +1536,14 @@ def render_passage_body_sections(reference: PassageReference, linked_studies: li
                 No deeper study linked yet.
               </p>"""
 
-    context_html = render_blocks(
-        content.context_lines,
-        enable_reference_links=True,
-        current_reference=reference,
-    )
-    common_interpretations_html = render_blocks(
-        content.common_interpretation_lines,
-        enable_reference_links=True,
-        current_reference=reference,
-    )
-    current_position_html = render_blocks(
-        content.current_position_lines,
-        enable_reference_links=True,
-        current_reference=reference,
+    headings = passage_section_headings(content)
+    context_html = render_passage_lines(content.context_lines, reference)
+    common_interpretations_html = render_passage_lines(content.common_interpretation_lines, reference)
+    current_position_html = render_passage_lines(content.current_position_lines, reference)
+    plan_html = (
+        f"\n              <h2>{html.escape(headings['plan'])}</h2>\n"
+        f"              {render_passage_lines(content.god_plan_lines, reference)}\n"
+        if any(line.strip() for line in content.god_plan_lines) else ""
     )
     deeper_study_html = (
         "<ul class=\"study-link-list\">"
@@ -1250,16 +1555,16 @@ def render_passage_body_sections(reference: PassageReference, linked_studies: li
         if content.deeper_study
         else "<p>No deeper study linked yet.</p>"
     )
-    return f"""              <h2>Context</h2>
+    return f"""              <h2>{html.escape(headings['context'])}</h2>
               {context_html}
 
-              <h2>Common Interpretations</h2>
+              <h2>{html.escape(headings['common'])}</h2>
               {common_interpretations_html}
-
-              <h2>Current Position</h2>
+{plan_html}
+              <h2>{html.escape(headings['position'])}</h2>
               {current_position_html}
 
-              <h2>Deeper Study</h2>
+              <h2>{html.escape(headings['deeper'])}</h2>
               {deeper_study_html}"""
 
 
@@ -1271,7 +1576,7 @@ def passage_payload(reference: PassageReference, linked_studies: list[Study]) ->
         "section_title": content.section_title,
         "book": reference.book,
         "citation": reference.citation,
-        "note": FEATURED_PASSAGE_NOTES.get((reference.book, reference.citation), ""),
+        "note": PASSAGE_INTRO_NOTES.get((reference.book, reference.citation), ""),
         "href": f"../passages/{reference.slug}.html",
         "versions": [
             {
@@ -1281,21 +1586,11 @@ def passage_payload(reference: PassageReference, linked_studies: list[Study]) ->
             }
             for version in content.verses
         ],
-        "context_html": render_blocks(
-            content.context_lines,
-            enable_reference_links=True,
-            current_reference=reference,
-        ),
-        "common_interpretations_html": render_blocks(
-            content.common_interpretation_lines,
-            enable_reference_links=True,
-            current_reference=reference,
-        ),
-        "current_position_html": render_blocks(
-            content.current_position_lines,
-            enable_reference_links=True,
-            current_reference=reference,
-        ),
+        "section_headings": passage_section_headings(content),
+        "context_html": render_passage_lines(content.context_lines, reference),
+        "common_interpretations_html": render_passage_lines(content.common_interpretation_lines, reference),
+        "god_plan_html": render_passage_lines(content.god_plan_lines, reference),
+        "current_position_html": render_passage_lines(content.current_position_lines, reference),
         "deeper_study": [
             {
                 "title": item.title,
@@ -1311,7 +1606,7 @@ def passage_page_html(reference: PassageReference, linked_studies: list[Study]) 
     subtitle_parts = []
     if content.section_title:
         subtitle_parts.append(f'          <p class="article-subtitle">{html.escape(content.section_title)}</p>')
-    note = FEATURED_PASSAGE_NOTES.get((reference.book, reference.citation), "").strip()
+    note = PASSAGE_INTRO_NOTES.get((reference.book, reference.citation), "").strip()
     if note:
         subtitle_parts.append(f'          <p class="lead">{html.escape(note)}</p>')
     subtitle_html = "\n".join(subtitle_parts) + ("\n" if subtitle_parts else "")
@@ -1376,185 +1671,61 @@ def passage_page_html(reference: PassageReference, linked_studies: list[Study]) 
 
 
 def studies_all_html(studies: list[Study]) -> str:
-    return browse_redirect_html("./browse.html?type=studies")
+    return browse_redirect_html("./index.html?view=topics")
 
 
 def library_index_html(studies: list[Study]) -> str:
-    featured = studies[:FEATURED_STUDY_LIMIT]
-    spotlight = next(
-        (study for study in featured if study.source_name == "the_gospel_according_to_jesus.md"),
-        None,
-    )
-    cards = []
-    for study in featured:
-        if spotlight and study.source_name == spotlight.source_name:
-            continue
-        subtitle = (
-            f'\n            <p class="study-card-subtitle">{html.escape(study.subtitle)}</p>'
-            if study.subtitle
-            else ""
-        )
-        cards.append(
-            f"""          <article class="study-card">
-            <p class="eyebrow">Featured Study</p>
-            <h2><a href="../studies/{study.slug}.html">{html.escape(study.title)}</a></h2>
-{subtitle}
-            <p>{html.escape(study.summary)}</p>
-            <a class="study-card-link" href="../studies/{study.slug}.html">Read study</a>
-          </article>"""
-        )
-
-    spotlight_html = ""
-    if spotlight:
-        spotlight_subtitle = (
-            f'\n            <p class="study-spotlight-subtitle">{html.escape(spotlight.subtitle)}</p>'
-            if spotlight.subtitle
-            else ""
-        )
-        spotlight_html = f"""
-        <article class="study-card study-spotlight">
-          <p class="eyebrow">Central Study</p>
-          <h2><a href="../studies/{spotlight.slug}.html">{html.escape(spotlight.title)}</a></h2>{spotlight_subtitle}
-          <p>{html.escape(spotlight.summary)}</p>
-          <a class="study-card-link" href="../studies/{spotlight.slug}.html">Read study</a>
-        </article>"""
-
-    return f"""<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Library | The Way of Scripture</title>
-    <meta
-      name="description"
-      content="Featured studies and central library navigation for The Way of Scripture."
-    />
-    <link rel="stylesheet" href="../styles.css" />
-  </head>
-  <body>
-    <div class="page-shell">
-      <header class="site-header">
-        <a class="brand" href="../index.html" aria-label="The Way of Scripture home">
-          <img
-            class="brand-mark"
-            src="../assets/icons/icon.jpg"
-            alt="The Way of Scripture icon"
-          />
-          <div class="brand-copy">
-            <span class="brand-title">The Way of Scripture</span>
-            <span class="brand-subtitle">Returning to the text itself</span>
-          </div>
-        </a>
-{primary_nav("studies")}
-      </header>
-
-      <main>
-        <section class="article-hero">
-          <p class="eyebrow">Studies</p>
-          <h1>Featured Studies</h1>
-          <p class="lead">
-            A focused starting point for the studies that sit closest to the heart of this site.
-          </p>
-        </section>
-
-        <section class="library-panel">
-{library_heading("Featured Studies", "Browse all studies", "./browse.html?type=studies")}
-{spotlight_html}
-          <div class="study-card-grid">
-{chr(10).join(cards)}
-          </div>
-          <p class="library-browse-link">
-            <a href="./browse.html?type=studies">Browse all studies</a>
-          </p>
-        </section>
-      </main>
-    </div>
-  </body>
-</html>
-"""
-
-
-def featured_passages_html(featured_references: list[PassageReference]) -> str:
-    cards = []
-    for reference in featured_references:
-        note = FEATURED_PASSAGE_NOTES.get((reference.book, reference.citation), "Featured passage.")
-        cards.append(
-            f"""          <article class="study-card passage-card">
-            <p class="eyebrow">Featured Passage</p>
-            <h2><a href="{passage_href(reference)}"{passage_link_attrs()}>{html.escape(reference.label)}</a></h2>
-            <p>{html.escape(note)}</p>
-            <a class="study-card-link" href="{passage_href(reference)}"{passage_link_attrs()}>Read passage</a>
-          </article>"""
-        )
-
-    return f"""<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Featured Passages | The Way of Scripture</title>
-    <meta
-      name="description"
-      content="Featured passage pages for The Way of Scripture."
-    />
-    <link rel="stylesheet" href="../styles.css" />
-  </head>
-  <body>
-    <div class="page-shell">
-      <header class="site-header">
-        <a class="brand" href="../index.html" aria-label="The Way of Scripture home">
-          <img
-            class="brand-mark"
-            src="../assets/icons/icon.jpg"
-            alt="The Way of Scripture icon"
-          />
-          <div class="brand-copy">
-            <span class="brand-title">The Way of Scripture</span>
-            <span class="brand-subtitle">Returning to the text itself</span>
-          </div>
-        </a>
-{primary_nav("passages")}
-      </header>
-
-      <main>
-        <section class="article-hero">
-          <p class="eyebrow">Passages</p>
-          <h1>Featured Passages</h1>
-          <p class="lead">
-            Foundational references that shape the site’s teaching posture, study standards, and core doctrinal arguments.
-          </p>
-        </section>
-
-        <section class="library-panel">
-{library_heading("Featured Passages", "Browse all passages", "./browse.html?type=passages")}
-          <div class="study-card-grid">
-{chr(10).join(cards)}
-          </div>
-          <p class="library-browse-link">
-            <a href="./browse.html?type=passages">Browse all passages</a>
-          </p>
-        </section>
-      </main>
-    </div>
-  </body>
-</html>
-"""
+    by_slug = {
+        study.slug: {
+            "id": study.slug,
+            "title": study.title,
+            "topic": STUDY_TOPIC_MAP.get(study.source_name, "Other Studies"),
+        }
+        for study in studies
+    }
+    return studies_page_html(by_slug)
 
 
 def passages_by_book_html(grouped_references: dict[str, list[PassageReference]]) -> str:
-    return browse_redirect_html("./browse.html?type=passages")
+    return browse_redirect_html("./passages.html")
 
 
-def browse_page_html() -> str:
+def legacy_browse_html() -> str:
+    """Send old shared-library URLs to the canonical study or passage page."""
     return """<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Browse Library | The Way of Scripture</title>
+    <title>Redirecting | The Way of Scripture</title>
+    <script>
+      const params = new URLSearchParams(location.search);
+      if (params.get("type") === "passages") {
+        params.delete("type");
+        const query = params.toString();
+        location.replace("./passages.html" + (query ? "?" + query : ""));
+      } else {
+        location.replace("./index.html?view=topics");
+      }
+    </script>
+  </head>
+  <body>
+    <p><a href="./passages.html">Continue to Passages</a> or <a href="./index.html?view=topics">explore Studies by topic</a>.</p>
+  </body>
+</html>
+"""
+
+
+def passages_page_html() -> str:
+    return """<!DOCTYPE html>
+<html lang="en" class="library-reader-page">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Passages | The Way of Scripture</title>
     <meta
       name="description"
-      content="Browse studies and passages for The Way of Scripture."
+      content="Read the Scripture passages currently available in The Way of Scripture library."
     />
     <link rel="stylesheet" href="../styles.css" />
   </head>
@@ -1575,20 +1746,43 @@ def browse_page_html() -> str:
         <nav class="site-nav" aria-label="Primary">
           <a href="../index.html">Home</a>
           <a href="./index.html">Studies</a>
-          <a href="./passages.html">Passages</a>
+          <a href="./passages.html" aria-current="page">Passages</a>
         </nav>
       </header>
 
       <main class="kb-shell">
         <section class="kb-topbar scripture-kb-topbar">
           <div class="kb-topbar-inner scripture-kb-topbar-inner">
-            <h1 class="kb-title">Browse Library</h1>
-            <input id="librarySearch" class="kb-search" type="search" placeholder="Search studies, passages, books..." />
-            <button id="libraryBrowseBtn" class="kb-browse-btn" aria-expanded="false">Browse</button>
+            <div class="kb-topbar-copy">
+              <h1 class="kb-title">Passages</h1>
+              <p>Explore the passages currently available in the library. Choose a book, chapter, and passage to read.</p>
+            </div>
+            <input id="librarySearch" class="kb-search" type="search" placeholder="Search passages or books..." />
           </div>
         </section>
 
-        <section id="browsePassageGuide" class="feedback-note kb-guide-note" aria-label="Passage structure note" hidden>
+        <section id="readerToolbar" class="reader-toolbar" aria-label="Library reading controls">
+          <div id="passageJumpControls" class="reader-jump-controls" hidden>
+            <label class="reader-field" for="passageBookSelect">
+              <span>Book</span>
+              <select id="passageBookSelect" class="kb-select"></select>
+            </label>
+            <label class="reader-field" for="passageChapterSelect">
+              <span>Chapter</span>
+              <select id="passageChapterSelect" class="kb-select"></select>
+            </label>
+            <label class="reader-field reader-passage-field" for="passageSectionSelect">
+              <span>Passage</span>
+              <select id="passageSectionSelect" class="kb-select"></select>
+            </label>
+          </div>
+          <span id="readerStudyLabel" class="reader-study-label">Study library</span>
+          <button id="libraryBrowseBtn" class="kb-browse-btn" aria-haspopup="dialog" aria-controls="libraryNavDrawer" aria-expanded="false">Browse Library</button>
+        </section>
+
+        <details id="browsePassageGuide" class="feedback-note kb-guide-note" hidden>
+          <summary>About these sections</summary>
+          <div class="kb-guide-copy">
           <p>
             <strong>Context</strong> explains where the passage sits in its chapter and larger scriptural setting so it is not read in isolation.
           </p>
@@ -1596,22 +1790,23 @@ def browse_page_html() -> str:
             <strong>Common Interpretations</strong> summarizes the main ways the passage is commonly understood. This section is descriptive, not declarative, and does not imply the site agrees with every reading listed there.
           </p>
           <p>
-            <strong>Current Position</strong> states where this site currently lands, if a defined position has been reached. If not, the page says so plainly and leaves the matter open.
+            <strong>Where does this fit in God's plan?</strong> appears only where Scripture supports a connection beyond the interpretation already given.
+          </p>
+          <p>
+            <strong>Our Position</strong> states where our study has reached a supported conclusion. If no position has been developed, the page leaves the matter open.
           </p>
           <p>
             <strong>Deeper Study</strong> points to fuller studies connected to the passage, especially where the broader argument or supporting reasoning has already been developed.
           </p>
-        </section>
+          </div>
+        </details>
 
-        <section class="kb-layout scripture-kb-layout">
-          <aside class="kb-nav" id="libraryNavDrawer">
+          <dialog class="kb-nav kb-drawer" id="libraryNavDrawer" aria-labelledby="libraryDrawerTitle">
+            <div class="kb-drawer-header">
+              <h2 id="libraryDrawerTitle">Browse Library</h2>
+              <button id="libraryCloseBtn" class="kb-nav-action-btn" type="button" autofocus>Close</button>
+            </div>
             <div class="kb-nav-controls">
-              <label class="kb-control-label" for="libraryTypeSelect">Content Type</label>
-              <select id="libraryTypeSelect" class="kb-select">
-                <option value="studies">Studies</option>
-                <option value="passages">Passages</option>
-              </select>
-
               <label class="kb-control-label" for="libraryViewSelect">Browse By</label>
               <select id="libraryViewSelect" class="kb-select">
                 <option value="alpha">Alphabetical</option>
@@ -1625,11 +1820,12 @@ def browse_page_html() -> str:
             </div>
             <div class="kb-nav-filter">
               <label class="kb-control-label" for="libraryNavSearch">Filter Navigation</label>
-              <input id="libraryNavSearch" class="kb-search kb-nav-search" type="search" placeholder="Study, topic, book, chapter..." />
+              <input id="libraryNavSearch" class="kb-search kb-nav-search" type="search" placeholder="Book, chapter, passage..." />
             </div>
             <div id="libraryNav"></div>
-          </aside>
-          <div id="libraryNavBackdrop" class="kb-nav-backdrop"></div>
+          </dialog>
+
+        <section class="kb-layout scripture-kb-layout">
           <article class="kb-content">
             <div id="libraryResults" class="kb-results"></div>
             <div id="libraryArticle"></div>
@@ -1640,26 +1836,38 @@ def browse_page_html() -> str:
 
     <script>
       let LIBRARY_DATA = { studies: [], passages: [] };
-      let activeType = "studies";
+      let activeType = "passages";
       let activeId = "";
       let navView = "alpha";
       let navFilter = "";
+      let returnDrawerFocus = true;
       const collapsedGroups = new Set();
 
-      const typeSelectEl = document.getElementById("libraryTypeSelect");
       const viewSelectEl = document.getElementById("libraryViewSelect");
       const expandAllEl = document.getElementById("libraryExpandAll");
       const collapseAllEl = document.getElementById("libraryCollapseAll");
       const navSearchEl = document.getElementById("libraryNavSearch");
       const navEl = document.getElementById("libraryNav");
       const navDrawerEl = document.getElementById("libraryNavDrawer");
-      const navBackdropEl = document.getElementById("libraryNavBackdrop");
+      const closeBtnEl = document.getElementById("libraryCloseBtn");
       const browseBtnEl = document.getElementById("libraryBrowseBtn");
       const articleEl = document.getElementById("libraryArticle");
       const resultsEl = document.getElementById("libraryResults");
       const searchEl = document.getElementById("librarySearch");
       const passageGuideEl = document.getElementById("browsePassageGuide");
-      const mobileMq = window.matchMedia("(max-width: 960px)");
+      const readerToolbarEl = document.getElementById("readerToolbar");
+      const jumpControlsEl = document.getElementById("passageJumpControls");
+      const studyLabelEl = document.getElementById("readerStudyLabel");
+      const bookSelectEl = document.getElementById("passageBookSelect");
+      const chapterSelectEl = document.getElementById("passageChapterSelect");
+      const passageSelectEl = document.getElementById("passageSectionSelect");
+
+      // Keep selected headings below the sticky controls at every screen size.
+      new ResizeObserver(() => {
+        document.documentElement.style.setProperty(
+          "--reader-toolbar-height", `${readerToolbarEl.getBoundingClientRect().height}px`
+        );
+      }).observe(readerToolbarEl);
 
       function getStudyTopic(item) {
         return item.topic || "Other Studies";
@@ -1752,8 +1960,11 @@ def browse_page_html() -> str:
 
       function syncQuery() {
         const url = new URL(window.location.href);
-        url.searchParams.set("type", activeType);
-        url.searchParams.set("view", navView);
+        url.searchParams.delete("type");
+        if (navView === "book") url.searchParams.delete("view");
+        else url.searchParams.set("view", navView);
+        if (activeType === "passages" && activeId) url.searchParams.set("passage", activeId);
+        else url.searchParams.delete("passage");
         window.history.replaceState({}, "", url);
       }
 
@@ -1788,15 +1999,51 @@ def browse_page_html() -> str:
         passageGuideEl.hidden = activeType !== "passages";
       }
 
-      function openDrawer() {
-        if (!mobileMq.matches) return;
-        document.body.classList.add("kb-nav-open");
-        browseBtnEl.setAttribute("aria-expanded", "true");
+      function syncPassageSelectors(item) {
+        const isPassage = activeType === "passages";
+        jumpControlsEl.hidden = !isPassage;
+        studyLabelEl.hidden = isPassage;
+        if (!isPassage) return;
+        const passages = LIBRARY_DATA.passages || [];
+        const setOptions = (select, options, value) => {
+          select.replaceChildren(...options.map(([label, id]) => new Option(label, id)));
+          select.value = value || "";
+          select.disabled = !options.length;
+        };
+        const books = [...new Set(passages.map((entry) => entry.book))];
+        setOptions(bookSelectEl, books.map((book) => [book, book]), item?.book);
+        const bookPassages = passages.filter((entry) => entry.book === item?.book);
+        const chapters = [...new Set(bookPassages.map((entry) => parseCitation(entry.citation).startChapter))];
+        const chapter = item ? parseCitation(item.citation).startChapter : "";
+        setOptions(chapterSelectEl, chapters.map((number) => [String(number), String(number)]), String(chapter));
+        const sections = bookPassages.filter((entry) => parseCitation(entry.citation).startChapter === chapter);
+        setOptions(passageSelectEl, sections.map((entry) => [
+          `${entry.citation}${entry.section_title ? ` · ${entry.section_title}` : ""}`, entry.id,
+        ]), item?.id);
       }
 
-      function closeDrawer() {
+      function openDrawer() {
+        if (navDrawerEl.open) return;
+        returnDrawerFocus = true;
+        browseBtnEl.focus({ preventScroll: true });
+        navDrawerEl.showModal();
+        document.body.classList.add("kb-nav-open");
+        browseBtnEl.setAttribute("aria-expanded", "true");
+        navEl.querySelector(".is-active")?.scrollIntoView({ block: "nearest", behavior: "instant" });
+      }
+
+      function closeDrawer(restoreFocus = true) {
+        if (!navDrawerEl.open) return;
+        returnDrawerFocus = restoreFocus !== false;
+        navDrawerEl.close();
+        finishClosingDrawer();
+      }
+
+      function finishClosingDrawer() {
+        if (navDrawerEl.open) return;
         document.body.classList.remove("kb-nav-open");
         browseBtnEl.setAttribute("aria-expanded", "false");
+        if (returnDrawerFocus) browseBtnEl.focus({ preventScroll: true });
       }
 
       function getGroups() {
@@ -1930,11 +2177,7 @@ def browse_page_html() -> str:
             btn.className = item.id === activeId ? "is-active" : "";
             btn.textContent = item.title;
             btn.addEventListener("click", () => {
-              activeId = item.id;
-              renderArticle(activeId);
-              renderNav();
-              hideResults();
-              closeDrawer();
+              selectLibraryItem(item.id);
             });
             li.appendChild(btn);
             list.appendChild(li);
@@ -2003,11 +2246,7 @@ def browse_page_html() -> str:
                 `;
                 btn.setAttribute("aria-label", `${item.title}${item.section_title ? ` — ${item.section_title}` : ""}`);
                 btn.addEventListener("click", () => {
-                  activeId = item.id;
-                  renderArticle(activeId);
-                  renderNav();
-                  hideResults();
-                  closeDrawer();
+                  selectLibraryItem(item.id);
                 });
                 li.appendChild(btn);
                 sectionList.appendChild(li);
@@ -2056,11 +2295,7 @@ def browse_page_html() -> str:
               btn.className = item.id === activeId ? "is-active" : "";
               btn.textContent = item.title;
               btn.addEventListener("click", () => {
-                activeId = item.id;
-                renderArticle(activeId);
-                renderNav();
-                hideResults();
-                closeDrawer();
+                selectLibraryItem(item.id);
               });
               li.appendChild(btn);
               list.appendChild(li);
@@ -2101,6 +2336,53 @@ def browse_page_html() -> str:
         `;
       }
 
+      function escapeHtml(value) {
+        return String(value || "").replace(/[&<>"']/g, (character) => ({
+          "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;",
+        }[character]));
+      }
+
+      function renderPassageNavigation(item) {
+        // The library index uses canonical book and numeric chapter/verse order.
+        // Use the complete sequence, regardless of the current search or view.
+        const passages = LIBRARY_DATA.passages || [];
+        const position = passages.findIndex((entry) => entry.id === item.id);
+        if (position === -1) return "";
+        const link = (entry, direction) => {
+          if (!entry) return "";
+          const label = direction === "previous" ? "← Previous passage" : "Next passage →";
+          const relation = direction === "previous" ? "prev" : "next";
+          return `<a class="passage-navigation-link passage-navigation-${direction}" href="${escapeHtml(entry.href)}" rel="${relation}" data-passage-id="${escapeHtml(entry.id)}">
+            <span class="passage-navigation-label">${label}</span>
+            <strong>${escapeHtml(entry.title)}</strong>
+            ${entry.section_title ? `<span class="passage-navigation-title">${escapeHtml(entry.section_title)}</span>` : ""}
+          </a>`;
+        };
+        const links = link(passages[position - 1], "previous") + link(passages[position + 1], "next");
+        return links ? `<nav class="passage-navigation" aria-label="Passage navigation">${links}</nav>` : "";
+      }
+
+      function navigatePassage(id) {
+        if (!(LIBRARY_DATA.passages || []).some((item) => item.id === id)) return;
+        // Reveal the destination even when the previous passage was filtered.
+        navFilter = "";
+        navSearchEl.value = "";
+        selectLibraryItem(id);
+      }
+
+      function selectLibraryItem(id) {
+        if (!getCurrentItems().some((item) => item.id === id)) return;
+        searchEl.value = "";
+        hideResults();
+        renderArticle(id);
+        renderNav();
+        closeDrawer(false);
+        const heading = articleEl.querySelector(".kb-article-title");
+        heading.setAttribute("tabindex", "-1");
+        heading.focus({ preventScroll: true });
+        heading.scrollIntoView({ block: "start", behavior: "instant" });
+      }
+
       function renderPassage(item) {
         const displayLabel = (label) => label === "BSB" ? "Berean Standard Bible" : label;
         const renderVersionParagraphs = (version) => {
@@ -2126,25 +2408,43 @@ def browse_page_html() -> str:
           ${item.section_title ? `<p class="article-subtitle">${item.section_title}</p>` : ""}
           ${item.note ? `<p class="kb-paragraph">${item.note}</p>` : ""}
           ${versions}
-          <h3 class="kb-section-title">Context</h3>
+          <h3 class="kb-section-title">${item.section_headings?.context || "Context"}</h3>
           ${item.context_html}
-          <h3 class="kb-section-title">Common Interpretations</h3>
+          <h3 class="kb-section-title">${item.section_headings?.common || "Common Interpretations"}</h3>
           ${item.common_interpretations_html}
-          <h3 class="kb-section-title">Current Position</h3>
+          ${item.god_plan_html ? `<h3 class="kb-section-title">${item.section_headings?.plan || "Where does this fit in God's plan?"}</h3>${item.god_plan_html}` : ""}
+          <h3 class="kb-section-title">${item.section_headings?.position || "Current Position"}</h3>
           ${item.current_position_html}
-          <h3 class="kb-section-title">Deeper Study</h3>
+          <h3 class="kb-section-title">${item.section_headings?.deeper || "Deeper Study"}</h3>
           ${deeperStudy}
+          ${renderPassageNavigation(item)}
         `;
       }
 
       function renderArticle(id) {
         const item = getCurrentItems().find((entry) => entry.id === id) || getCurrentItems()[0];
+        syncPassageSelectors(item);
         if (!item) {
+          activeId = "";
           articleEl.innerHTML = '<p class="kb-paragraph">No content is available yet.</p>';
+          syncQuery();
           return;
         }
         activeId = item.id;
         articleEl.innerHTML = activeType === "studies" ? renderStudy(item) : renderPassage(item);
+        if (activeType === "passages") {
+          const parsed = parseCitation(item.citation);
+          collapsedGroups.delete(`passages:book:${item.book}`);
+          collapsedGroups.delete(`passages:chapter:${item.book}:${parsed.startChapter}`);
+          articleEl.querySelectorAll(".passage-navigation a").forEach((link) => {
+            link.addEventListener("click", (event) => {
+              if (event.button !== 0 || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
+              event.preventDefault();
+              navigatePassage(link.dataset.passageId);
+            });
+          });
+        }
+        syncQuery();
       }
 
       function hideResults() {
@@ -2168,19 +2468,14 @@ def browse_page_html() -> str:
           return;
         }
         resultsEl.innerHTML = hits.map((item) => `
-          <div class="kb-result-item" data-id="${item.id}">
-            <h4>${item.title}</h4>
-            <p>${activeType === "studies" ? "Study" : item.book}</p>
-          </div>
+          <button class="kb-result-item" type="button" data-id="${escapeHtml(item.id)}">
+            <strong>${escapeHtml(item.title)}</strong>
+            <span>${activeType === "studies" ? "Study" : escapeHtml(item.book)}</span>
+          </button>
         `).join("");
         resultsEl.querySelectorAll(".kb-result-item[data-id]").forEach((el) => {
           el.addEventListener("click", () => {
-            activeId = el.dataset.id;
-            renderArticle(activeId);
-            renderNav();
-            hideResults();
-            searchEl.value = "";
-            closeDrawer();
+            selectLibraryItem(el.dataset.id);
           });
         });
       }
@@ -2194,36 +2489,20 @@ def browse_page_html() -> str:
         }
 
         const params = new URLSearchParams(window.location.search);
-        activeType = params.get("type") === "passages" ? "passages" : "studies";
+        activeType = "passages";
         const requestedView = params.get("view");
         navView = requestedView === "az" ? "alpha" : (requestedView || (activeType === "passages" ? "book" : "alpha"));
-        typeSelectEl.value = activeType;
         syncViewOptions();
         syncNavFilterPlaceholder();
         syncNavActionVisibility();
         syncPassageGuideVisibility();
-        activeId = getCurrentItems()[0] ? getCurrentItems()[0].id : "";
+        activeId = getCurrentItems().some((item) => item.id === params.get("passage")) && activeType === "passages"
+          ? params.get("passage")
+          : (getCurrentItems()[0] ? getCurrentItems()[0].id : "");
         collapseAllGroups();
         syncQuery();
-        renderNav();
         renderArticle(activeId);
-
-        typeSelectEl.addEventListener("change", () => {
-          activeType = typeSelectEl.value;
-          collapsedGroups.clear();
-          navView = activeType === "passages" ? "book" : "alpha";
-          syncViewOptions();
-          syncNavFilterPlaceholder();
-          syncNavActionVisibility();
-          syncPassageGuideVisibility();
-          activeId = getCurrentItems()[0] ? getCurrentItems()[0].id : "";
-          searchEl.value = "";
-          hideResults();
-          collapseAllGroups();
-          syncQuery();
-          renderNav();
-          renderArticle(activeId);
-        });
+        renderNav();
 
         viewSelectEl.addEventListener("change", () => {
           navView = viewSelectEl.value;
@@ -2246,7 +2525,26 @@ def browse_page_html() -> str:
           else openDrawer();
         });
 
-        navBackdropEl.addEventListener("click", closeDrawer);
+        closeBtnEl.addEventListener("click", closeDrawer);
+        navDrawerEl.addEventListener("close", finishClosingDrawer);
+        navDrawerEl.addEventListener("click", (event) => {
+          if (event.target !== navDrawerEl) return;
+          const bounds = navDrawerEl.getBoundingClientRect();
+          if (event.clientX < bounds.left || event.clientX > bounds.right
+            || event.clientY < bounds.top || event.clientY > bounds.bottom) closeDrawer();
+        });
+
+        bookSelectEl.addEventListener("change", () => {
+          const destination = (LIBRARY_DATA.passages || []).find((item) => item.book === bookSelectEl.value);
+          if (destination) navigatePassage(destination.id);
+        });
+        chapterSelectEl.addEventListener("change", () => {
+          const destination = (LIBRARY_DATA.passages || []).find((item) =>
+            item.book === bookSelectEl.value && parseCitation(item.citation).startChapter === Number(chapterSelectEl.value)
+          );
+          if (destination) navigatePassage(destination.id);
+        });
+        passageSelectEl.addEventListener("change", () => navigatePassage(passageSelectEl.value));
 
         expandAllEl.addEventListener("click", () => {
           collapsedGroups.clear();
@@ -2293,7 +2591,7 @@ def library_index_data(
 
     passages_payload = []
     for book in ordered_books:
-        refs = sorted(grouped_references[book], key=lambda ref: ref.label)
+        refs = sorted(grouped_references[book], key=passage_sort_key)
         for ref in refs:
             passages_payload.append(passage_payload(ref, reference_map.get(ref, [])))
 
@@ -2321,6 +2619,102 @@ def studies_redirect_html() -> str:
 """
 
 
+def refresh_reviewed_passages(slugs: list[str]) -> None:
+    """Publish reviewed sources, admitting new groups without rewriting other prose."""
+    index_path = WEB_DIR / "assets" / "library_index.json"
+    data = json.loads(index_path.read_text(encoding="utf-8"))
+    passages = data["passages"]
+    by_slug = {item["id"]: index for index, item in enumerate(passages)}
+    if len(by_slug) != len(passages):
+        raise ValueError("Duplicate published passage IDs")
+    old_navigation = {
+        item["id"]: render_passage_navigation(
+            passages[i - 1] if i else None,
+            passages[i + 1] if i + 1 < len(passages) else None,
+        )
+        for i, item in enumerate(passages)
+    }
+    KNOWN_PASSAGE_REFERENCES.clear()
+    KNOWN_PASSAGE_REFERENCES.update(PassageReference(item["book"], item["citation"]) for item in passages)
+    STUDY_LINKS.clear()
+    STUDY_LINKS.update({item["title"]: item["id"] for item in data["studies"]})
+    selected = []
+    for slug in dict.fromkeys(slugs):
+        is_new = slug not in by_slug
+        if is_new:
+            if not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", slug):
+                raise ValueError(f"Invalid passage ID: {slug}")
+            source_path = PASSAGE_SOURCE_DIR / f"{slug}.json"
+            if not source_path.is_file():
+                raise ValueError(f"Passage source is missing: {slug}")
+            raw_reference = json.loads(source_path.read_text(encoding="utf-8")).get("reference", {})
+            reference = PassageReference(raw_reference.get("book", ""), raw_reference.get("citation", ""))
+            if reference.book not in BOOK_ORDER or reference.slug != slug:
+                raise ValueError(f"Source reference does not match a canonical passage ID: {slug}")
+            passage_sort_key(reference)  # Reject malformed ranges before preparing output.
+        else:
+            item = passages[by_slug[slug]]
+            reference = PassageReference(item["book"], item["citation"])
+        content = load_passage_source_content(reference)
+        if not content or content.editorial_review.get("standard") != "passage-v1":
+            raise ValueError(f"Reviewed passage-v1 source is required: {slug}")
+        if [version.label for version in content.verses] != ["BSB"]:
+            raise ValueError(f"Only a verified BSB source may be published: {slug}")
+        path = PASSAGES_DIR / f"{slug}.html"
+        if not is_new and not path.exists():
+            raise ValueError(f"Published page is missing: {slug}")
+        selected.append((path, reference))
+        if is_new:
+            by_slug[slug] = len(passages)
+            passages.append({"id": slug, "book": reference.book, "citation": reference.citation})
+            KNOWN_PASSAGE_REFERENCES.add(reference)
+    # Prepare every reference before rendering so links and neighbor descriptions
+    # are independent of input order, including when the batch adds a new book.
+    for _, reference in selected:
+        position = by_slug[reference.slug]
+        passages[position] = {**passages[position], **passage_payload(reference, [])}
+    additions = set(by_slug) - set(old_navigation)
+    if additions:
+        passages.sort(key=lambda item: passage_sort_key(PassageReference(item["book"], item["citation"])))
+        books = set(data.get("book_order", [])) | {item["book"] for item in passages}
+        data["book_order"] = sorted(books, key=lambda book: (
+            BOOK_ORDER.index(book) if book in BOOK_ORDER else len(BOOK_ORDER), book,
+        ))
+        by_slug = {item["id"]: position for position, item in enumerate(passages)}
+    # Neighbor descriptions must come from the complete updated batch, even
+    # when a neighbor is selected later in the input order.
+    updates = []
+    for path, reference in selected:
+        position = by_slug[reference.slug]
+        page = passage_page_html(reference, [])
+        navigation = render_passage_navigation(
+            passages[position - 1] if position else None,
+            passages[position + 1] if position + 1 < len(passages) else None,
+        )
+        updates.append((path, insert_passage_navigation(page, navigation)))
+    selected_ids = {reference.slug for _, reference in selected}
+    for position, item in enumerate(passages):
+        slug = item["id"]
+        if slug in selected_ids or slug not in old_navigation:
+            continue
+        navigation = render_passage_navigation(
+            passages[position - 1] if position else None,
+            passages[position + 1] if position + 1 < len(passages) else None,
+        )
+        if navigation == old_navigation[slug]:
+            continue
+        path = PASSAGES_DIR / f"{slug}.html"
+        # Existing neighbors receive navigation only, for changed destinations
+        # or descriptions. A missing/malformed neighbor fails preparation before
+        # any published file is written, even for a batch without new groups.
+        updates.append((path, insert_passage_navigation(path.read_text(encoding="utf-8"), navigation)))
+    updates.append((index_path, json.dumps(data, ensure_ascii=True, indent=2)))
+    updates.append((LIBRARY_DIR / "passages.html", passages_page_html()))
+    # Prepare the complete batch first; failures above leave published files intact.
+    for path, text in updates:
+        path.write_text(text, encoding="utf-8")
+
+
 def main() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     LIBRARY_DIR.mkdir(parents=True, exist_ok=True)
@@ -2328,17 +2722,17 @@ def main() -> None:
     PASSAGE_SOURCE_DIR.mkdir(parents=True, exist_ok=True)
     studies = []
     for path in sorted(SOURCE_DIR.glob("*.md")):
-        if path.name in SKIP_FILES:
-            continue
         studies.append(parse_study(path))
 
-    featured_rank = {name: index for index, name in enumerate(FEATURED_STUDY_ORDER)}
-    studies.sort(
-        key=lambda study: (
-            featured_rank.get(study.source_name, 10_000),
-            study.title.lower(),
+    guided_rank = {slug: index for index, (slug, _) in enumerate(GUIDED_STUDY_STEPS)}
+    source_slugs = {study.slug for study in studies}
+    if len(guided_rank) != len(GUIDED_STUDY_STEPS) or source_slugs != set(guided_rank):
+        raise ValueError(
+            "Guided study order must cover every source study exactly once; "
+            f"missing={sorted(source_slugs - set(guided_rank))}, "
+            f"unknown={sorted(set(guided_rank) - source_slugs)}"
         )
-    )
+    studies.sort(key=lambda study: guided_rank[study.slug])
 
     reference_map: dict[PassageReference, list[Study]] = defaultdict(list)
     grouped_references: dict[str, list[PassageReference]] = defaultdict(list)
@@ -2347,15 +2741,6 @@ def main() -> None:
             reference_map[reference].append(study)
             if reference not in grouped_references[reference.book]:
                 grouped_references[reference.book].append(reference)
-
-    for source_name in PASSAGE_SOURCE_FILES:
-        source_path = SOURCE_DIR / source_name
-        if not source_path.exists():
-            continue
-        for reference in extract_references(source_path.read_text(encoding="utf-8")):
-            if reference not in grouped_references[reference.book]:
-                grouped_references[reference.book].append(reference)
-            reference_map.setdefault(reference, [])
 
     source_references = set(standalone_passage_references())
     for reference in source_references:
@@ -2377,14 +2762,6 @@ def main() -> None:
             grouped_references[reference.book] = [
                 item for item in grouped_references[reference.book] if item != reference
             ]
-
-    featured_references = []
-    for book, citation in FEATURED_PASSAGE_ORDER:
-        reference = passage_reference(book, citation)
-        if reference in reference_map:
-            featured_references.append(reference)
-        elif reference in alias_map and alias_map[reference] not in featured_references:
-            featured_references.append(alias_map[reference])
 
     KNOWN_PASSAGE_REFERENCES.clear()
     KNOWN_PASSAGE_REFERENCES.update(reference_map.keys())
@@ -2432,12 +2809,8 @@ def main() -> None:
         )
 
     (LIBRARY_DIR / "index.html").write_text(library_index_html(studies), encoding="utf-8")
-    (LIBRARY_DIR / "browse.html").write_text(browse_page_html(), encoding="utf-8")
     (LIBRARY_DIR / "studies-all.html").write_text(studies_all_html(studies), encoding="utf-8")
-    (LIBRARY_DIR / "passages.html").write_text(
-        featured_passages_html(featured_references),
-        encoding="utf-8",
-    )
+    (LIBRARY_DIR / "passages.html").write_text(passages_page_html(), encoding="utf-8")
     (LIBRARY_DIR / "passages-by-book.html").write_text(
         passages_by_book_html(grouped_references),
         encoding="utf-8",
@@ -2447,7 +2820,32 @@ def main() -> None:
         encoding="utf-8",
     )
     (OUTPUT_DIR / "index.html").write_text(studies_redirect_html(), encoding="utf-8")
+    refresh_passage_navigation()
+    refresh_guided_study()
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description="Generate study and passage pages")
+    parser.add_argument(
+        "--navigation-only", action="store_true",
+        help="Refresh passage navigation, library ordering and the passage reader without regenerating content",
+    )
+    parser.add_argument(
+        "--guided-only", action="store_true",
+        help="Refresh guided study pages and navigation without regenerating content",
+    )
+    parser.add_argument(
+        "--passages-only", nargs="+", metavar="SLUG",
+        help="Refresh only named, reviewed passage-v1 sources and the reader",
+    )
+    args = parser.parse_args()
+    if sum(bool(value) for value in (args.navigation_only, args.guided_only, args.passages_only)) > 1:
+        parser.error("Choose only one focused refresh")
+    if args.passages_only:
+        refresh_reviewed_passages(args.passages_only)
+    elif args.guided_only:
+        refresh_guided_study()
+    elif args.navigation_only:
+        refresh_passage_navigation()
+    else:
+        main()

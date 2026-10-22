@@ -1,0 +1,66 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "22:31-34",
+    "label": "Luke 22:31-34",
+    "slug": "luke-22-31-34"
+  },
+  "section_title": "What does Jesus promise before Peter fails?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "31 Simon, Simon, Satan has asked to sift all of you like wheat. 32 But I have prayed for you, Simon, that your faith will not fail. And when you have turned back, strengthen your brothers.”",
+        "33 “Lord,” said Peter, “I am ready to go with You even to prison and to death.” 34 But Jesus replied, “I tell you, Peter, the rooster will not crow today until you have denied three times that you know Me.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus addresses Simon Peter immediately after promising the disciples a place in His kingdom. That promise does not mean the coming hours will be easy. Satan has asked to shake their faith, and Peter will discover how little he understands his own weakness.",
+    "",
+    "The first warning concerns all the disciples: the BSB makes this clear by translating all of you. Jesus then speaks personally to Simon about His prayer for him and the help he is to give his brothers after turning back. The move from the whole group to Peter is also noted in the USCCB’s explanation of the Greek pronouns. ([Luke 22:31–32 notes](https://bible.usccb.org/bible/luke/22))",
+    "",
+    "Peter declares himself ready for prison and death. Jesus answers with a specific warning: before the rooster crows, Peter will deny three times that he knows Him. Jesus’ prayer and the command to strengthen others come before Peter’s failure, rather than after Peter has proved himself strong."
+  ],
+  "common_interpretation_lines": [
+    "Christian readers commonly see both a warning against self-confidence and hope for a disciple who fails. Wesley reads Jesus’ prayer as preserving Peter’s faith from complete collapse, and his return as preparing him to help others whose faith is weak. ([Wesley on Luke 22:31–34](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))",
+    "",
+    "Traditions differ over whether this commission also supports a continuing office of authority in the church. The Catholic Church applies the command to strengthen the brothers to the pope’s role as Peter’s successor. Vatican II cites this verse when explaining protection from error in definitive teaching on faith or morals by the pope as shepherd of the whole church. That defined teaching role is distinct from a claim that every personal remark or action is without error. ([Lumen Gentium 25 and note 166](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html))",
+    "",
+    "Wesley’s notes focus instead on Peter returning from his failure and strengthening fellow believers. His reading does not draw the same conclusion about a continuing papal office. This is Wesley’s interpretation, rather than a claim that every Protestant explains every detail identically. ([Wesley on Luke 22:32](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))"
+  ],
+  "god_plan_lines": [
+    "Jesus’ prayer for a disciple facing failure belongs within the wider New Testament teaching about His care for His people. Hebrews says that He lives to intercede for those who draw near to God through Him, and Romans describes the risen Christ speaking on their behalf at God’s right hand. Peter’s hope rests on the One praying for him, beyond Peter’s confidence in his own loyalty. ([Hebrews 7:23–28](https://biblehub.com/bsb/hebrews/7.htm); [Romans 8:31–34](https://biblehub.com/bsb/romans/8.htm))",
+    "",
+    "After the resurrection, John records Jesus entrusting His sheep to Peter’s care. This is a supported connection with the task of strengthening his brothers: the disciple who will deny Jesus is still called to follow Him and care for His people. Failure is taken seriously, and restoration leads back into service. ([John 21:15–19](https://biblehub.com/bsb/john/21.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/22.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-twenty-two-warning-review.md"
+  }
+}

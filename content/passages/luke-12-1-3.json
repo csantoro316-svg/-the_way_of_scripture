@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "12:1-3",
+    "label": "Luke 12:1-3",
+    "slug": "luke-12-1-3"
+  },
+  "section_title": "Why does Jesus warn His disciples about hypocrisy?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 In the meantime, a crowd of many thousands had gathered, so that they were trampling one another. Jesus began to speak first to His disciples: “Beware of the leaven of the Pharisees, which is hypocrisy. 2 There is nothing concealed that will not be disclosed, and nothing hidden that will not be made known. 3 What you have spoken in the dark will be heard in the daylight, and what you have whispered in the inner rooms will be proclaimed from the housetops."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The chapter begins with a crowd so large that people are trampling one another. Jesus speaks first to His disciples, immediately after the confrontation with religious leaders at the end of chapter 11.",
+    "",
+    "He warns them about the leaven of the Pharisees and identifies what He means: hypocrisy. In this setting, the concern is the gap between the religious appearance someone presents and the reality concealed beneath it.",
+    "",
+    "The warning reaches the disciples themselves. Jesus says that what is hidden will be disclosed and what is whispered privately will become publicly known. They cannot build their life with Him on the assumption that appearances will hide the truth forever."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand the passage as a call to honesty before God and courage in public witness. Wesley connects the following sayings with resisting the pressure to conceal what Jesus has commissioned the disciples to make known, while the Catholic bishops’ notes place them within fearless acknowledgment of His mission. ([Wesley on Luke 12:1–4](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [USCCB note on Luke 12:2–9](https://bible.usccb.org/bible/luke/12))"
+  ],
+  "god_plan_lines": [
+    "Galatians later gives a concrete example of hypocrisy spreading through a community. Peter withdraws from eating with Gentile believers out of fear of another group, and even Barnabas is carried along. Paul confronts the behavior because it does not match the truth of the gospel. The warning Jesus gives can therefore speak to His own followers, rather than leaving them to inspect only someone else’s failures. ([Galatians 2:11–14](https://biblehub.com/bsb/galatians/2.htm))",
+    "",
+    "Paul also describes the Lord’s coming as the time when hidden things and the motives of hearts will be exposed. Faithful service is lived before that final judgment, not merely the judgment of an audience in the present. ([1 Corinthians 4:1–5](https://biblehub.com/bsb/1_corinthians/4.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/12.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-twelve-opening-review.md"
+  }
+}

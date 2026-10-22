@@ -5,7 +5,7 @@
     "label": "Judges 3:31",
     "slug": "judges-3-31"
   },
-  "section_title": "Shamgar",
+  "section_title": "What are we told about Shamgar?",
   "versions": [
     {
       "label": "BSB",
@@ -15,12 +15,39 @@
     }
   ],
   "context_lines": [
-    "In **Judges 3**, this section should be read within the flow of the chapter and the larger movement of Judges."
+    "One verse records Shamgar son of Anath striking down six hundred Philistines with an oxgoad and saving Israel. An oxgoad is a tool for directing oxen; [Brown–Driver–Briggs](https://biblehub.com/hebrew/4451.htm) identifies the Hebrew word מַלְמֵד, *malmed* (mahl-MAID), as an oxgoad. The striking detail is that an agricultural tool serves in this rescue.",
+    "",
+    "The account gives no length for Shamgar’s leadership, no account of his call, and no detailed battle scene. He appears again in Deborah’s song, which recalls the insecurity of travel in his days ([Judges 5:6–8](https://biblehub.com/bsb/judges/5.htm)). Those few details are worth keeping distinct from reconstructions of his background."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Shamgar** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-judges/) and [Henry](https://biblehub.com/commentaries/mhc/judges/3.htm) draw attention to God accomplishing rescue through an unlikely means. They compare the oxgoad with Samson’s later use of a donkey’s jawbone: an ordinary object is sufficient when God supplies the strength. Their suggestions that Shamgar had just been plowing explain how the tool might have been at hand, but the verse itself does not describe what he was doing before the encounter.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Judges 3** remains the first control on meaning."
+    "[Gill](https://biblehub.com/commentaries/gill/judges/3.htm) acknowledges how little is known of Shamgar’s family and tribe. He also discusses different possibilities for fitting his service into the surrounding accounts. The brief notice establishes that he saved Israel; it leaves his full life story and the exact timing unstated."
   ],
-  "deeper_study": []
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/judges/3.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-judges-three-review.md"
+  }
 }

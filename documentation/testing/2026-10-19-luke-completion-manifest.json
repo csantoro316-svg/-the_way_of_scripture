@@ -1,0 +1,2332 @@
+{
+  "book": "Luke",
+  "reviewed_on": "2026-10-19",
+  "chapters": 24,
+  "reviewed_groups": 164,
+  "actual_bsb_verses": 1149,
+  "traditional_numbered_verses": 1151,
+  "footnote_only_verses": {
+    "17": [
+      36
+    ],
+    "23": [
+      17
+    ]
+  },
+  "plan_sections": 164,
+  "study_positions": 17,
+  "open_positions": 147,
+  "baseline_pdf_pages_read": 1043,
+  "fresh_biblehub_chapters_checked": 24,
+  "groups": [
+    {
+      "slug": "luke-1-1-4",
+      "citation": "1:1-4",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "0309c3dac042764a6ff1035a50af8483fcc7fcbae138a70be0b726d9fc254f14",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "f959d92ddcb0acc332ff93dc23124cd68d23b93ddfbe33da55de6d49b283db62",
+      "html_sha256": "caa602abda7a686ba6388d8a3135846b4e086d438efcc5b6b9cd0821bc5fb8b6",
+      "evidence_file": "documentation/testing/2026-10-19-luke-one-opening-review.md"
+    },
+    {
+      "slug": "luke-1-18-25",
+      "citation": "1:18-25",
+      "actual_bsb_verses": 8,
+      "bsb_sha256": "baae3dc643f987acf6c5a9e7a2bcc65e292a4ededda4b3e69c03d8f08857225c",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "b8b916c173e022e2b1a88948fdd1b780feaedcdc792cd3374525e639caa5c5d2",
+      "html_sha256": "4f10f2aa1cfa4dd5d0e231df9d4f3ef8f0a290597f14158957200aaf643af833",
+      "evidence_file": "documentation/testing/2026-10-19-luke-one-opening-review.md"
+    },
+    {
+      "slug": "luke-1-26-38",
+      "citation": "1:26-38",
+      "actual_bsb_verses": 13,
+      "bsb_sha256": "795483de75cc038186271ffd5bc4ede3a931dbdd3373f55825eb8169c6cb7254",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "6662bf9b11633acaeef24e9d92c55fa0505480ede10b01098d4d08501cf11e69",
+      "html_sha256": "f10995bc94f0ab2f6f81b12c371b7200fd406f1898a3eb6218e9e135a563fa03",
+      "evidence_file": "documentation/testing/2026-10-19-luke-one-mary-review.md"
+    },
+    {
+      "slug": "luke-1-39-45",
+      "citation": "1:39-45",
+      "actual_bsb_verses": 7,
+      "bsb_sha256": "2e6530c3f9fc2b0e5bb2098ac096a8d985ea0587c3d51aaf3f6a95b595a06395",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "51f5c9cac1936ec7fb50f779e8020fafa44df05142a5e58d215b4276fc0bee14",
+      "html_sha256": "0794eb8ed6cf34184d0b5d17ed1f52f129d0cdc32d697032e77b4506daf79a2f",
+      "evidence_file": "documentation/testing/2026-10-19-luke-one-mary-review.md"
+    },
+    {
+      "slug": "luke-1-46-56",
+      "citation": "1:46-56",
+      "actual_bsb_verses": 11,
+      "bsb_sha256": "77d3de492fb2d7fb29804a48a2008fadfa921110d028b4a28409176f1a84ad29",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "23f60a3c78fe36e758ecf36d067195077ef356e37be659f398dece534c81fa8e",
+      "html_sha256": "c9bb6968f8c82cd2876da90be94e8d187736ee65356dcd50084d83f5c82903d1",
+      "evidence_file": "documentation/testing/2026-10-19-luke-one-mary-review.md"
+    },
+    {
+      "slug": "luke-1-5-17",
+      "citation": "1:5-17",
+      "actual_bsb_verses": 13,
+      "bsb_sha256": "85d5a33e7dfc7ea65c1035d74f0c9327424123fd256f937f45a76177401a3d2d",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "6bcda43196e8c3ff01baa97223af0d4d1e80be4cd50af404767c54ee312f28ec",
+      "html_sha256": "6093b08e61bd2e9cc66b37fd5d86a89f9042055b0cf9e3f227ee243b1140f6db",
+      "evidence_file": "documentation/testing/2026-10-19-luke-one-opening-review.md"
+    },
+    {
+      "slug": "luke-1-57-66",
+      "citation": "1:57-66",
+      "actual_bsb_verses": 10,
+      "bsb_sha256": "e1dbee2721054f8620f438c23a583645c89b1c4b8d074c9e3360acf37a4d9bf9",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "3321f7399b45fd356f229fc3d882b06c4806f46efe74fa3c064c3d5e5766b5ee",
+      "html_sha256": "2a46c6dbc20cc841e88239b1267669873b206c7f2871fc6437406212bc103d70",
+      "evidence_file": "documentation/testing/2026-10-19-luke-one-closing-review.md"
+    },
+    {
+      "slug": "luke-1-67-80",
+      "citation": "1:67-80",
+      "actual_bsb_verses": 14,
+      "bsb_sha256": "71773d21a8ca5d8acfe4c395683e11b4af79658a938fa81e1eacf42d3f9bbbaa",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "4a3dc33d9f2bd8dda7b4dd8c6f32844635a678bf8858761016881d6937f3e7ef",
+      "html_sha256": "146c4ad1f41480b77c61ef56c8dbe83d593519991b78823b5e1e3af2e9e10628",
+      "evidence_file": "documentation/testing/2026-10-19-luke-one-closing-review.md"
+    },
+    {
+      "slug": "luke-10-1-12",
+      "citation": "10:1-12",
+      "actual_bsb_verses": 12,
+      "bsb_sha256": "7e7df29ce32eee95645b0dc798f338869552d9bb27c73fdc75d55fcd4f43c5a2",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "f5938b13a47876aa705a5fb5816623338279f3a75b3cbbde04116fb667881c31",
+      "html_sha256": "bffd9db353e6f476c9872aa60037f4f5b40307c1f132aaab620602fa93bf9993",
+      "evidence_file": "documentation/testing/2026-10-19-luke-ten-review.md"
+    },
+    {
+      "slug": "luke-10-13-16",
+      "citation": "10:13-16",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "775a2e256bc2afbc8abcab51107a287cbdc9a6f22823fc41c3bc835f24223a94",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "469619e0f1a984933389c4f6cb0df6dc745806b69eac328482fd48429a5b1afe",
+      "html_sha256": "dd5699ca0cd0b102da599be74ccdbadd9dbeae24ad25ebea5d4ceaa7ee94bfd2",
+      "evidence_file": "documentation/testing/2026-10-19-luke-ten-review.md"
+    },
+    {
+      "slug": "luke-10-17-20",
+      "citation": "10:17-20",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "ed2b5cdf9f7f4b6cee72698bc38eb7a9fb1ccbdb5f0aedb576da23801bd30357",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "f09ee2eb303c1d767d356d7fe9b689a3883ee53556c1dd672f651b7c8e77fd46",
+      "html_sha256": "a3e0d322f461826d6f6d3982efc1e930a21f8280d016eac0c16a3dcf09c96c08",
+      "evidence_file": "documentation/testing/2026-10-19-luke-ten-review.md"
+    },
+    {
+      "slug": "luke-10-21-24",
+      "citation": "10:21-24",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "51d616596f4c2b751fde9654fbfae15abc7bb5ca644bd31e7c8030851ee1bb6c",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "3f714c8af9ebc64d440eb6b0e6f689487c4cc3ca1862c1b246ae9842c349176e",
+      "html_sha256": "2b3b6c515de68ec6e9ea11b490a320ed28aeb515e10eeb35fc465d783887a179",
+      "evidence_file": "documentation/testing/2026-10-19-luke-ten-review.md"
+    },
+    {
+      "slug": "luke-10-25-37",
+      "citation": "10:25-37",
+      "actual_bsb_verses": 13,
+      "bsb_sha256": "2b7de403617e34f6d14b0a4ac0b9cd05a4ff1acbc1302a740d8f27c7e5d6895b",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "ef50bd885166542976cd249222ff7c313cf13cd46ef02f918a6f4cdc068b355d",
+      "html_sha256": "01467238cb543ca083d60767ca727e770482f4ada59911a56505e84d13d81a5b",
+      "evidence_file": "documentation/testing/2026-10-19-luke-ten-review.md"
+    },
+    {
+      "slug": "luke-10-38-42",
+      "citation": "10:38-42",
+      "actual_bsb_verses": 5,
+      "bsb_sha256": "d58e042ed2c69a8aacf70bb3a74412d094a16aa5c8d62ff8c11864879715ba54",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "b2db4700dd78042588a1070cde7d58f81d3677ffd68cfb31f6647169c15f0a2b",
+      "html_sha256": "7921a23646a8389ec8a1f569103ec4686f4d0dc1e7f39d98419ac31fbf3b919f",
+      "evidence_file": "documentation/testing/2026-10-19-luke-ten-review.md"
+    },
+    {
+      "slug": "luke-11-1-4",
+      "citation": "11:1-4",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "711fd49b2677df0049547f02f39eaf07908a2483e017b8562a7ac7fa64498c0d",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "2f4496c1e3d274b26fcd102a203df688778570b9b36ec3cbc3277f7f5d713995",
+      "html_sha256": "a033fd1262994ec094f9ad38146c98281109cd16635f650d3e69c96cea75aa75",
+      "evidence_file": "documentation/testing/2026-10-19-luke-eleven-prayer-review.md"
+    },
+    {
+      "slug": "luke-11-13",
+      "citation": "11:13",
+      "actual_bsb_verses": 1,
+      "bsb_sha256": "d68b3039b9f5348d1468e9155d8561806234bda69a01ee2f446cd0b2330ac180",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "864c163eb8a0ffd431874055309aa639e8c08e1efd82c16f2b2993314df77b32",
+      "html_sha256": "8e07955d97be2349b7b7aac298a882dc12ebdfbbfd8fd5817451ce22331ea63e",
+      "evidence_file": "documentation/testing/2026-10-19-luke-eleven-prayer-review.md"
+    },
+    {
+      "slug": "luke-11-14-23",
+      "citation": "11:14-23",
+      "actual_bsb_verses": 10,
+      "bsb_sha256": "781c6d0070168ceab94264933ed29d1e062c7131b4e4f838d803880a385cf59f",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "affa323d251995a3f8ee8093e39befa9cabbc168138400676110e68409030be6",
+      "html_sha256": "d5aa044887032f9c9c7843d828c37d2c0b79dac014b123518f8dd0eeddc7c58b",
+      "evidence_file": "documentation/testing/2026-10-19-luke-eleven-response-review.md"
+    },
+    {
+      "slug": "luke-11-24-26",
+      "citation": "11:24-26",
+      "actual_bsb_verses": 3,
+      "bsb_sha256": "e3d45bd262d22f97411f9ce63f71eaca7d5d326648ea36130556c47bb24368ac",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "2c088c6dd8ae11e130c36c06c042a8301431232566ea569da79095dfe63853cd",
+      "html_sha256": "4263878d1539d2ccb792a4ad97ee59b80933c7f872d354855a7a04d113a5737e",
+      "evidence_file": "documentation/testing/2026-10-19-luke-eleven-response-review.md"
+    },
+    {
+      "slug": "luke-11-27-28",
+      "citation": "11:27-28",
+      "actual_bsb_verses": 2,
+      "bsb_sha256": "787addce1f2d2f2b60ab8878abed04426e7c9bb024af21b7d7ad625fd24f18fc",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "cafb506f4a0e591696db4e90c7c00eb4a55206f551cf580f371a5714d47cde97",
+      "html_sha256": "ad4a24e886362d72989cf8225ea6f31b7c05f363efb70914613c22f22d5727dc",
+      "evidence_file": "documentation/testing/2026-10-19-luke-eleven-response-review.md"
+    },
+    {
+      "slug": "luke-11-29-32",
+      "citation": "11:29-32",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "a22d556f8acb4a8a05b158d59642e1ec52e53e1d00fdfa3659c86ac2b320bf03",
+      "plan_basis": [
+        "a"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "46a744da65c0aaa9c6451646176a039c0e825db059258ecefbbae8ec347ac8b3",
+      "html_sha256": "bf52f05d8432fc5b84092105d551af3788611c6c3a482044d0d34483a879018e",
+      "evidence_file": "documentation/testing/2026-10-19-luke-eleven-response-review.md"
+    },
+    {
+      "slug": "luke-11-33-36",
+      "citation": "11:33-36",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "7c32184d74a9cea39621c1bac3a0da5d66900fa26790d6e41fc982f7d4121c61",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "b6f67561bcf17d3f417d4a16f45072d442f32bd0ec40a8e88927aabb2f357187",
+      "html_sha256": "c9db0485542d6ae5a97631f54503b8d1257bfa13da5aa2b055f08dfe7d94e319",
+      "evidence_file": "documentation/testing/2026-10-19-luke-eleven-response-review.md"
+    },
+    {
+      "slug": "luke-11-37-44",
+      "citation": "11:37-44",
+      "actual_bsb_verses": 8,
+      "bsb_sha256": "faf0bacd73629076e40221b59a0b1c2c9ae3493d9be911cf4f87a2e9c0fa39fd",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "abcf4527d1c5f82698fb9ec7a10f1d5535bfb53eb804682500ca60b01bab7342",
+      "html_sha256": "f4acc0fa587729fd2e753e83c8fcf2584a5cf6f611066126c80da51fee792c47",
+      "evidence_file": "documentation/testing/2026-10-19-luke-eleven-closing-review.md"
+    },
+    {
+      "slug": "luke-11-45-54",
+      "citation": "11:45-54",
+      "actual_bsb_verses": 10,
+      "bsb_sha256": "fb990b3bd90f4b76d7c2d17bfdfc433e528ad9fe504468b3f8ab3ace48bcf931",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "c0bd924cfea397ca7d94d1a560cc007b9df338f9f2c626bc5b9e0505db0dd2e9",
+      "html_sha256": "f2b5dac1fc459bda5fb49fbdba1c4b80d5fb00b301c25d2312948edd34b6ad0a",
+      "evidence_file": "documentation/testing/2026-10-19-luke-eleven-closing-review.md"
+    },
+    {
+      "slug": "luke-11-5-13",
+      "citation": "11:5-13",
+      "actual_bsb_verses": 9,
+      "bsb_sha256": "fe1d26f256a5fbaee87b4be020ef4f2d47a2b7b9d9158db6d28d5c57943e43c5",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "7845075074711a6526278210e8347d039c80dd7733e188c4f6b3daf73c843297",
+      "html_sha256": "88aa49046cca03556edcfec46357344494ca7c9fa88254b0fd4da181a469b09f",
+      "evidence_file": "documentation/testing/2026-10-19-luke-eleven-prayer-review.md"
+    },
+    {
+      "slug": "luke-12-1-3",
+      "citation": "12:1-3",
+      "actual_bsb_verses": 3,
+      "bsb_sha256": "651e7a4d0d69467dac9cf71e929576c4b164fb44397607fae822b51cde496b0a",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "7157e18831c6d8cb000b2ad8f386e61c0ca320c21dcaf5b799bccd1c64183dda",
+      "html_sha256": "065170468519ce5cca943d66c38cf2c5b64db82594f4ac2b8aca35bb89e9cab6",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twelve-opening-review.md"
+    },
+    {
+      "slug": "luke-12-13-21",
+      "citation": "12:13-21",
+      "actual_bsb_verses": 9,
+      "bsb_sha256": "b5c33ad5ef94166d0dc0c0442bca77141df04c0f7729df2fe2de2953b519f1f8",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "a2be92eeabf397fc484415d9a81f1a19262a42212d3d960c380ed2e7f323ec04",
+      "html_sha256": "b104a1c0211a7e57ebd90a75b387caae69689dfed3fac3bead3fe59afe7ec8b0",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twelve-wealth-review.md"
+    },
+    {
+      "slug": "luke-12-22-31",
+      "citation": "12:22-31",
+      "actual_bsb_verses": 10,
+      "bsb_sha256": "ddd9b86b031d538f42e280fc6b0be1e7e1613a4c794035027c9f0cb1fc1e43c8",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "6ae38f66818e00fd696050f8f7815f37b305c7e51e60539223a6b8be98846894",
+      "html_sha256": "dc23de729f8ab78c9f35eca6cdd1557e5845a7832192f05089f76e0f831ab525",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twelve-wealth-review.md"
+    },
+    {
+      "slug": "luke-12-32-34",
+      "citation": "12:32-34",
+      "actual_bsb_verses": 3,
+      "bsb_sha256": "7f63857830968d935f471d8d3ffcde69b1ae4d87b4bf164e66b005a8ac250a46",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "4a5fc5e76060f1bfd387291b7cd3aa3be70d8b2d92b8f7e1070e9f5ccde24180",
+      "html_sha256": "2483eb6f22a758a9991eba2cf955fd81dd7ba608cf97b9026ff0409203a58a68",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twelve-wealth-review.md"
+    },
+    {
+      "slug": "luke-12-35-40",
+      "citation": "12:35-40",
+      "actual_bsb_verses": 6,
+      "bsb_sha256": "72724c92fe776d5646131a7f16075e4cb2fcb97582560788ec47812878c3c587",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "ce8ba31960bb3897f02487bdb42c5375098d34676debbf636f9938a2c71814b0",
+      "html_sha256": "39e6c89217430c24c0bff66a671555739f3592aa7406e1a10bd2516d0eabe2dd",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twelve-closing-review.md"
+    },
+    {
+      "slug": "luke-12-4-7",
+      "citation": "12:4-7",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "87fac2c538b6e71b4814629d1b6f6c454026ef7dec6b673d79cf9626c21d7a59",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "4180799d953749bd774db328e87043f076e85edd683f6def3cccac706a196bb6",
+      "html_sha256": "00cad2ca459db400e49fc79fbcc3a2366de546e663b4ecc600356204d788aad3",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twelve-opening-review.md"
+    },
+    {
+      "slug": "luke-12-41-48",
+      "citation": "12:41-48",
+      "actual_bsb_verses": 8,
+      "bsb_sha256": "8014de9ec67f7f97b5890b362f5fbab3731fe82b07c752ddb13645c962c9db73",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "e2abf2de538217d563208aca0d755fb7cc58d9869cbdfa7be2c9307cfae5aeb3",
+      "html_sha256": "efa806014e9997de59e72318f93561a895579ac3d38d791aaca8215b29d2a46f",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twelve-closing-review.md"
+    },
+    {
+      "slug": "luke-12-49-53",
+      "citation": "12:49-53",
+      "actual_bsb_verses": 5,
+      "bsb_sha256": "a2541d3d94fe09ae2bee368b2754c3fd64ba3d93ca99fb7be20d7e11dbfea31a",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "ed770f575258190e76d7f97dd64f03ebb37bf8860da4cea2fa0f196363718ce2",
+      "html_sha256": "d9971e89f18874a21d29ed132232fccc5ef071072f74ff9baa2920e5debf408a",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twelve-closing-review.md"
+    },
+    {
+      "slug": "luke-12-54-59",
+      "citation": "12:54-59",
+      "actual_bsb_verses": 6,
+      "bsb_sha256": "6221941faa4c07dc7499a273be7c88a70f56786be8ef6527a898c833689b70f5",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "1c708a209f745116dbbb351123b9130123853ae30fc7a1526691715ce5c1cfd4",
+      "html_sha256": "67c0bab32e9b9e5b5640d41cffbb93dac780d52c6eba0aa32b26e31bd312a797",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twelve-closing-review.md"
+    },
+    {
+      "slug": "luke-12-8-12",
+      "citation": "12:8-12",
+      "actual_bsb_verses": 5,
+      "bsb_sha256": "90654de632745c58c35a7fbaaa2a53287fcdc65e8af9e1e42a9b45d8ea333152",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "e263b1c8da1e7d2accecee139fb025859ac2872f839e862c9b400d06e51c01ac",
+      "html_sha256": "9ecc89a2e9fea116a31c391a9f2f1390a24a8c9735042a440216f727729663cd",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twelve-opening-review.md"
+    },
+    {
+      "slug": "luke-13-1-5",
+      "citation": "13:1-5",
+      "actual_bsb_verses": 5,
+      "bsb_sha256": "02d4e2c3342ccb069c9920caf1b6ed36e9b9ff155581ca8eb7a52625e3834d1d",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "34307d7cfe6243f8f339108920607de71e3ca30b6e4fedfc8e8132b5052db459",
+      "html_sha256": "b37a92585e7400e4880c2c4c7c041a2ac7853e87f4807930d3d46407cc03da7b",
+      "evidence_file": "documentation/testing/2026-10-19-luke-thirteen-opening-review.md"
+    },
+    {
+      "slug": "luke-13-10-17",
+      "citation": "13:10-17",
+      "actual_bsb_verses": 8,
+      "bsb_sha256": "4ae8a1564ec210e8f8e56a183ecd04ffe56af51e820ca480b3727a9ba3ae3a9c",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "0ded199611c725b4dfb605d0dd6f07dc9c7cf9e1cd468ac184350179153c2ab2",
+      "html_sha256": "9efa8e612d2e3982d64d74a389f69ab3f182c90b4335f93589a1eaf853d87127",
+      "evidence_file": "documentation/testing/2026-10-19-luke-thirteen-opening-review.md"
+    },
+    {
+      "slug": "luke-13-18-21",
+      "citation": "13:18-21",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "63dcc95d0b3e3ece1c151c664e92e6edf0729280724f34bd1eb411e4d61d7cd2",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "78adf3386f45c83ec5d6f0ac0787e0ffdb4ef9cbd809d73396052a7f5f5b864a",
+      "html_sha256": "5ba08ad3f2a13c4cecc38726e8e10692180c7ac2c4e99f9a4ff0e3e19d3bd40a",
+      "evidence_file": "documentation/testing/2026-10-19-luke-thirteen-closing-review.md"
+    },
+    {
+      "slug": "luke-13-22-30",
+      "citation": "13:22-30",
+      "actual_bsb_verses": 9,
+      "bsb_sha256": "16ea83b9c69b4e368662aa66cc1713075731959436167ab439dbed310a5d29c3",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "03d3574cda7152b2d0334e67dcefd422eb8cb8c6c49066489ae40d1217e0a064",
+      "html_sha256": "ff8c675ac16bf1692faa8039c0fa89dc489c47a53c91dc2521b6e84e6aad5dd5",
+      "evidence_file": "documentation/testing/2026-10-19-luke-thirteen-closing-review.md"
+    },
+    {
+      "slug": "luke-13-31-35",
+      "citation": "13:31-35",
+      "actual_bsb_verses": 5,
+      "bsb_sha256": "fa9aac691df69c80d0a10f9f03ffd4dfb65777f5879333f56d3f67691ea1cdbe",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "575a48c3bb304d17562c43de32570e512a248a422c634eb527e36f8c88ea6be3",
+      "html_sha256": "0315fd2c32294cceba9856e01d69e068fc3912d02d7c28fb6eee09fc164daafd",
+      "evidence_file": "documentation/testing/2026-10-19-luke-thirteen-closing-review.md"
+    },
+    {
+      "slug": "luke-13-6-9",
+      "citation": "13:6-9",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "e7e618adb7edaef4bd45b25d7e7984267cb267fe4bf0ffe572f89898bfe7fda8",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "eb6355534572058185931ca93a089e3ba4aa3ee41fe2d5d82cb287020863360a",
+      "html_sha256": "b29d5ee463addb99668c6ad186f5a325a9ef8007fd382c088d4b8fb5567fffa9",
+      "evidence_file": "documentation/testing/2026-10-19-luke-thirteen-opening-review.md"
+    },
+    {
+      "slug": "luke-14-1-6",
+      "citation": "14:1-6",
+      "actual_bsb_verses": 6,
+      "bsb_sha256": "7927ea219ff7b2825504aefa13c9be457e0a922f6d3536cc4eae4100c99ff4d4",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "5b63e1c89dfb6ccafe84c25e8d35e40ebe5814e7d220253fc8a131720393ad5f",
+      "html_sha256": "0c6d5e48003d491d2f89859130ba45f22408897cf91e3778b50df9043cad5a34",
+      "evidence_file": "documentation/testing/2026-10-19-luke-fourteen-opening-review.md"
+    },
+    {
+      "slug": "luke-14-12-14",
+      "citation": "14:12-14",
+      "actual_bsb_verses": 3,
+      "bsb_sha256": "ad06921a5b9231035f85078270ea88dc43949cf9d09fea2c182fa60a5fd363a3",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "f7d539d1cb29bc8d5d78c85d7604cb72b82327527c25a7456565e0307954f614",
+      "html_sha256": "1c2b273b4aa82489f7ca7bd6c9cc360bcef56556e996002437ce850fcbd94f66",
+      "evidence_file": "documentation/testing/2026-10-19-luke-fourteen-opening-review.md"
+    },
+    {
+      "slug": "luke-14-15-24",
+      "citation": "14:15-24",
+      "actual_bsb_verses": 10,
+      "bsb_sha256": "22565da76060459bdc1af7af06b70eeafb9ac4b4aeb302a902a5631c1f3b9dcb",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "14b5bb940a48b09883ece8c11127082a96f855d191d4d1db144a0e8b40079b98",
+      "html_sha256": "7ae507abadc698274da45211bce0b42318c744f209240f91f26723fd7da578fa",
+      "evidence_file": "documentation/testing/2026-10-19-luke-fourteen-closing-review.md"
+    },
+    {
+      "slug": "luke-14-25-33",
+      "citation": "14:25-33",
+      "actual_bsb_verses": 9,
+      "bsb_sha256": "dced8812d7b3ad2d42102f29d2bec4c903f7d7832a42557ed8408a896471b16b",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "bd20d4340fab48aaddd8a40684de1d056af4ad90e021159df8bae75918e6fb3d",
+      "html_sha256": "243fca7a90d62d7be0222176110ba55c7c215a496c4549e52d2b9e9f7b207f78",
+      "evidence_file": "documentation/testing/2026-10-19-luke-fourteen-closing-review.md"
+    },
+    {
+      "slug": "luke-14-34-35",
+      "citation": "14:34-35",
+      "actual_bsb_verses": 2,
+      "bsb_sha256": "59bd7b423153c900e608e4e151b2889b7c7e4217df0008152c7568ea4d1a2f12",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "c3848909001b26cb8299dee738e44ba743becce8048d9660dbe9cc4d642fef0b",
+      "html_sha256": "395d357e7ad91f13ee23aa624967e132c48b3326703e96f4bf3a25266c883ace",
+      "evidence_file": "documentation/testing/2026-10-19-luke-fourteen-closing-review.md"
+    },
+    {
+      "slug": "luke-14-7-11",
+      "citation": "14:7-11",
+      "actual_bsb_verses": 5,
+      "bsb_sha256": "42f4ca3f245401d4af84dff24850928b5e8c3928766c817f38bfc5090d23517a",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "de520a63c520186b7161ed3f7d9ddd074b2cc34bae6ee94d7fa4ed2de16de531",
+      "html_sha256": "40747e09bee7271532faf0733747fa32af037d5db50421000357faaa4a87f1fa",
+      "evidence_file": "documentation/testing/2026-10-19-luke-fourteen-opening-review.md"
+    },
+    {
+      "slug": "luke-15-1-7",
+      "citation": "15:1-7",
+      "actual_bsb_verses": 7,
+      "bsb_sha256": "cd44847fc5acdb8098e65f813a040c764b5736a345d31eb06a02397943a6f140",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "967556883c92523bf7e82d694f636940516f22791599146063d02eaad2c3fe87",
+      "html_sha256": "91c62feae569f3a674a5e3ecb4bf1410f1d7518e23ddbec27d49300126d34626",
+      "evidence_file": "documentation/testing/2026-10-19-luke-fifteen-review.md"
+    },
+    {
+      "slug": "luke-15-11-32",
+      "citation": "15:11-32",
+      "actual_bsb_verses": 22,
+      "bsb_sha256": "71bca2fa852d35c416e19cdfac6ee86b05d708fcb3ffdd8085a1604a18ddbd61",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "99b37448e8316d3ecd259b937a2faca884e8f88deab259523bb454f3e6469934",
+      "html_sha256": "b34a1bc40075a6328fd50b1f9b06211975b5bc65d3e5fff6ce7bebe706afe671",
+      "evidence_file": "documentation/testing/2026-10-19-luke-fifteen-review.md"
+    },
+    {
+      "slug": "luke-15-8-10",
+      "citation": "15:8-10",
+      "actual_bsb_verses": 3,
+      "bsb_sha256": "560eab05ac5a6ccae35d32d0205809fe10b93cbfc9d284a1c3e18a254766c50b",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "b7296326733884b52e62a5b903ea8f396718de7a1cb1aabad22fa800f982f21f",
+      "html_sha256": "825b01a88715a34bc3a4fee0c8b95058f3f7d4a6106aaf068ecb42317b53728d",
+      "evidence_file": "documentation/testing/2026-10-19-luke-fifteen-review.md"
+    },
+    {
+      "slug": "luke-16-1-9",
+      "citation": "16:1-9",
+      "actual_bsb_verses": 9,
+      "bsb_sha256": "a72d6da4a85e63532dce381040b804f9a1e7e9be8f315fc7559bd3c74a1ac238",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "f0c1590e6c2b6cf2456d665c01d07d0b75f40d90869ef369c164c8c14d53d7cd",
+      "html_sha256": "bb75fd7863af723aeee3f546d0a8050e3c30d378b0a06b8be81f2252e3962af2",
+      "evidence_file": "documentation/testing/2026-10-19-luke-sixteen-opening-review.md"
+    },
+    {
+      "slug": "luke-16-10-13",
+      "citation": "16:10-13",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "3e6d0d91c15e4c4a441bc359e20cf1b80379f055a2d653717549f16123352743",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "1960ea7a950096755ef6a1a66b0427e41bd2edf4b9149570f76df564e7a9c80a",
+      "html_sha256": "562c28656debe130a2b1607cefe865a178074f7209af12fe772372f701efd5a5",
+      "evidence_file": "documentation/testing/2026-10-19-luke-sixteen-opening-review.md"
+    },
+    {
+      "slug": "luke-16-14-17",
+      "citation": "16:14-17",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "0729488e19aec46564949ef98c2151b6e191d11f3ef48dc066c9c83282bfb441",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "c269b5517f356db7a2d831f50d700c598abea9c6c40ffa094e5befe480026272",
+      "html_sha256": "97bd59d37bcef636fb583bbed1bd18e57ef0bf2f3edb33cbdb3394e15d291027",
+      "evidence_file": "documentation/testing/2026-10-19-luke-sixteen-closing-review.md"
+    },
+    {
+      "slug": "luke-16-18",
+      "citation": "16:18",
+      "actual_bsb_verses": 1,
+      "bsb_sha256": "ae391ae818484bd91616ae658bf48df4be4befd1c5fdad9604e76d21bc9a11e9",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "ba55dfac5c6cf4156237de27306fbdbe676dbcbb3d93d6b13c19c217baaae7fd",
+      "html_sha256": "173299a5e442a352f51a53042bd4ba691bcc9cded6955b236d5d406dc9056141",
+      "evidence_file": "documentation/testing/2026-10-19-luke-sixteen-closing-review.md"
+    },
+    {
+      "slug": "luke-16-19-31",
+      "citation": "16:19-31",
+      "actual_bsb_verses": 13,
+      "bsb_sha256": "bfed27bdef4737fbf5ad03c1078bf45814923fa707c8a6aeef1f5e2a6a27c0a3",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "9eac059d6dd2aac133859e039df173a1735e9e29d44a59e9ebf40e48b2098e3b",
+      "html_sha256": "cda68c4715baed363483035e65a9927cec373eac19831e06461ba314b60d75c7",
+      "evidence_file": "documentation/testing/2026-10-19-luke-sixteen-closing-review.md"
+    },
+    {
+      "slug": "luke-17-1-4",
+      "citation": "17:1-4",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "96f3279f7c56f44792e2b4966b19b7f67cb19b4e5a15f4341f721ffcc5ef43b3",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "07318791400b51f73738f9ce4099ed5ed819a866bd896334cc4f9cb3c0c8b8f1",
+      "html_sha256": "4493e286a0d52b33cd30745f2e2bb2c5849714f73cd7781ad5d22ab9b61acf03",
+      "evidence_file": "documentation/testing/2026-10-19-luke-seventeen-opening-review.md"
+    },
+    {
+      "slug": "luke-17-11-19",
+      "citation": "17:11-19",
+      "actual_bsb_verses": 9,
+      "bsb_sha256": "f0fd907fc6a8b68fbf5ffcb4d85bcfa08647b9b2fb511c399765fe9400a0322b",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "61dc72d51dde70023da7ca6834c4afa4de5193dafa3e6bde7fbc7bbf6998bfb0",
+      "html_sha256": "39c10fbe65608cb36b8c83b26fb128e3fc4dbbd9fb57bd57b71308558d4dad61",
+      "evidence_file": "documentation/testing/2026-10-19-luke-seventeen-closing-review.md"
+    },
+    {
+      "slug": "luke-17-20-21",
+      "citation": "17:20-21",
+      "actual_bsb_verses": 2,
+      "bsb_sha256": "8836cfc19109aaea7989388964a35b7383675b262272f5d293afc6594202d3ca",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "e3bc439a0be24b2e400e9bc06101b8b57da181df0ab6a1dd3fd009b046dd0b9e",
+      "html_sha256": "ee403fe2e70456ec5b383de7dcf5d62093effdd281d21cb6d574eb29c7466ec1",
+      "evidence_file": "documentation/testing/2026-10-19-luke-seventeen-closing-review.md"
+    },
+    {
+      "slug": "luke-17-22-37",
+      "citation": "17:22-37",
+      "actual_bsb_verses": 15,
+      "bsb_sha256": "06e5042c8da587c69fe8bca85af6b511c29ecfd401541a9eb51b0ab52e4565d1",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "390e17d3569eae60228b3198d9e5d57d775ef314f60f42c3f318cff0efa94447",
+      "html_sha256": "03398bed13ebb187d793de3da91fea899785df448a23f1c41f5a9ee5ff2a8251",
+      "evidence_file": "documentation/testing/2026-10-19-luke-seventeen-closing-review.md"
+    },
+    {
+      "slug": "luke-17-5-6",
+      "citation": "17:5-6",
+      "actual_bsb_verses": 2,
+      "bsb_sha256": "2c75f7451e0da1db6135e877534d81c23f1b282d2bc8d603ddc892bbae584d14",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "26c1835fb36372d2840d2cc7faafeadd3e593bf491101a07833185301d425bfc",
+      "html_sha256": "1a72ed9fb0a24416f6d3f14c9263b573d24dee97f5ff017dcb564b0d8a69a76b",
+      "evidence_file": "documentation/testing/2026-10-19-luke-seventeen-opening-review.md"
+    },
+    {
+      "slug": "luke-17-7-10",
+      "citation": "17:7-10",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "447e2023420450446086f0e52d7cfad379840bb63642f29c2db4601a51556b93",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "c3970607ed83d0a9d6cd6cd5acad166a15fc8ccbaedb58e97dcbeb9daa1201c7",
+      "html_sha256": "6825b6df8797ae35f7aa7d188082b1a92237bbbd516dcd846e949a1a71a5a367",
+      "evidence_file": "documentation/testing/2026-10-19-luke-seventeen-opening-review.md"
+    },
+    {
+      "slug": "luke-18-1-8",
+      "citation": "18:1-8",
+      "actual_bsb_verses": 8,
+      "bsb_sha256": "074d31cff9e875bb149af7ff0cfcfcab786723cbb94fe643bbb0e770f78f2217",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "344a568ad74475a2e272079cc4201799805896ba45d6440f25f2a466af7c8fd2",
+      "html_sha256": "c3fa73c1d65aa91a1f1daa8bb108e019ed3a634fcf26816160da68be33e10dd6",
+      "evidence_file": "documentation/testing/2026-10-19-luke-eighteen-opening-review.md"
+    },
+    {
+      "slug": "luke-18-15-17",
+      "citation": "18:15-17",
+      "actual_bsb_verses": 3,
+      "bsb_sha256": "ae4517f3f4ce934031b5673a747bd778265f567c1a58f34120fdddd415c951f0",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "2edb976f55e78689f9941e09a46fcd452e3fdac6b104a8d62a17bee8f96a5b64",
+      "html_sha256": "306f986f28821d1c36cfd45954a24755cad51697d6fc08f133e1101075dc0847",
+      "evidence_file": "documentation/testing/2026-10-19-luke-eighteen-closing-review.md"
+    },
+    {
+      "slug": "luke-18-18-30",
+      "citation": "18:18-30",
+      "actual_bsb_verses": 13,
+      "bsb_sha256": "83d16ad40e40efea5611f5f07bd6d33d0f6af63d9faae506c71591e03c74deb5",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "d2bd71137c68411340b810410f5ee3ad5a3f4ec0a45a8e42532270e4060f3163",
+      "html_sha256": "49a5544588d01e9831f1ce6bddc17596158c7db3f16026048e8853327ecdebdf",
+      "evidence_file": "documentation/testing/2026-10-19-luke-eighteen-closing-review.md"
+    },
+    {
+      "slug": "luke-18-31-34",
+      "citation": "18:31-34",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "0c6a0ae2c52a89befd1f0d815a2ad65f5a5d33e510332863cf7a234c0512cc57",
+      "plan_basis": [
+        "a"
+      ],
+      "position_source": "none",
+      "source_sha256": "60ce9a124239343237f1956ea3995317b1d3960a1d481f76383d49a16e0439fc",
+      "html_sha256": "031d449619d22fbe37dbcbcd2e2e0c002d3cd17a69293904a70628de013403a0",
+      "evidence_file": "documentation/testing/2026-10-19-luke-eighteen-closing-review.md"
+    },
+    {
+      "slug": "luke-18-35-43",
+      "citation": "18:35-43",
+      "actual_bsb_verses": 9,
+      "bsb_sha256": "6bcd60d0a2c561f9df4337bd807ea2f2b523531bc83b723697293e54bb0a2301",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "487b6f82dcd2bcf510ebe5b7988fbbac2c9bf252b96bde78b9d792b8cd8afea2",
+      "html_sha256": "d783061a79d6ef35fec5ab8e58b0756aaf61934d43ff6fe67ed133f2256e60f3",
+      "evidence_file": "documentation/testing/2026-10-19-luke-eighteen-closing-review.md"
+    },
+    {
+      "slug": "luke-18-9-14",
+      "citation": "18:9-14",
+      "actual_bsb_verses": 6,
+      "bsb_sha256": "728f03154660fc225b2bed74b061b472c8df436c1819eb69b46d2f3c6ce9e82e",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "8b89683391468988489e29c671a6ec8e66d884fd869f1fa713be44a7106b58bd",
+      "html_sha256": "8708c32ae5296b5b31e6138d7b6bf21c421804c4c374e18a746bf8195eb29f39",
+      "evidence_file": "documentation/testing/2026-10-19-luke-eighteen-opening-review.md"
+    },
+    {
+      "slug": "luke-19-1-10",
+      "citation": "19:1-10",
+      "actual_bsb_verses": 10,
+      "bsb_sha256": "34b4a6f8713dd10d479fdc48681939333f32fb1514aeb929465c5a6f8a2fe1cd",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "551d7126d20b59b3092ef24c82c1d162c106df4832887b967cad1b74d3d83ac8",
+      "html_sha256": "fa6852b8419ba0f8d80e642542ca33f54f3b719c12281bfd34b8a26abc4578e5",
+      "evidence_file": "documentation/testing/2026-10-19-luke-nineteen-opening-review.md"
+    },
+    {
+      "slug": "luke-19-11-27",
+      "citation": "19:11-27",
+      "actual_bsb_verses": 17,
+      "bsb_sha256": "28acc89109f402df9b48f74bccf4add436c9d392b187976459675085a5b407e0",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "67a4623c45d42667e3be2942ba9c6a5a5b8d20a045f418006bfee8619eb9aa94",
+      "html_sha256": "e8b7cffd611df4550cd105c4a09f1addea6c6663206698c14ca6daa5943e7a73",
+      "evidence_file": "documentation/testing/2026-10-19-luke-nineteen-opening-review.md"
+    },
+    {
+      "slug": "luke-19-28-40",
+      "citation": "19:28-40",
+      "actual_bsb_verses": 13,
+      "bsb_sha256": "44e6d1e836a821f5fa0f8ca24b4ac615a692fdba44887bb6878d8d97f98a55fb",
+      "plan_basis": [
+        "a",
+        "b"
+      ],
+      "position_source": "none",
+      "source_sha256": "9c14e57637d9ad13fd8e8f47c4e9d0b0fc0971c1074ba7536cd4465e7c824b31",
+      "html_sha256": "1094006325883a9965c3e9c564e6e78b32c6cf5f2cd1e449d10e4eea7636c2b2",
+      "evidence_file": "documentation/testing/2026-10-19-luke-nineteen-closing-review.md"
+    },
+    {
+      "slug": "luke-19-41-44",
+      "citation": "19:41-44",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "81287692106ab8362cbc3b4ff0f5e8bb6598dc04f3e1911b5bef7882263f53bb",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "343c599c84ff0dc1479851dbe87e7c01bee97b8ee952e8f43f916554de3af90e",
+      "html_sha256": "f1005caf50f0d0f65501e84f372e1e01efcbf80bbe1ea47aadbe57326b0b7a6f",
+      "evidence_file": "documentation/testing/2026-10-19-luke-nineteen-closing-review.md"
+    },
+    {
+      "slug": "luke-19-45-48",
+      "citation": "19:45-48",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "640b18a9122ea128a270358dd18c57baae0c35f47197ece7b2f77658440c6dd4",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "315e9e3f62a336fd366d49371ec06c08ee2ef47ff636c227a262240840fce0a6",
+      "html_sha256": "365ff6b34f7f2e31547531fa491c6c70987d4916e2a1a0aab07e8e56c398f2dd",
+      "evidence_file": "documentation/testing/2026-10-19-luke-nineteen-closing-review.md"
+    },
+    {
+      "slug": "luke-2-1-7",
+      "citation": "2:1-7",
+      "actual_bsb_verses": 7,
+      "bsb_sha256": "f2b7064ac2eec5389fe2071904b94690b72928feeef685e8671ccf2178a6aef6",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "6d28075c9fe7e087763999fc377d2df2db076e77f0e3b2951d25080b572a96fe",
+      "html_sha256": "32071c52193205dd16fadc7742e91bf67d29ac8602471ca8411b5e11787f0592",
+      "evidence_file": "documentation/testing/2026-10-19-luke-two-opening-review.md"
+    },
+    {
+      "slug": "luke-2-15-20",
+      "citation": "2:15-20",
+      "actual_bsb_verses": 6,
+      "bsb_sha256": "a2dfae5e14f126c6121ed52844b5afc2b2684a9a639837fe91aafeb1b9b7987b",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "d1682fa64b9e82a45bea57b1e8ef5ed37926c45404aa100741c7da611e892582",
+      "html_sha256": "97ed633cbe778cea86a0cc46fc2305506558137a5bcb6bf34ee8e7e82d982318",
+      "evidence_file": "documentation/testing/2026-10-19-luke-two-opening-review.md"
+    },
+    {
+      "slug": "luke-2-21-24",
+      "citation": "2:21-24",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "c30b5e50b8517a0b80d0f94fb5824fe2dd18f1636a6472a4813d3cea7820eee2",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "064ebc900e17236e5c1d0cd043336624f8985b34a95f0d47c77065aa31267f4c",
+      "html_sha256": "142993ea052598735497bfee10f508322939e4a49476bac4bbf0837a137bdbce",
+      "evidence_file": "documentation/testing/2026-10-19-luke-two-closing-review.md"
+    },
+    {
+      "slug": "luke-2-25-35",
+      "citation": "2:25-35",
+      "actual_bsb_verses": 11,
+      "bsb_sha256": "25573eaa9e9af866005034648f7ba09c57846ab1abff0c41349f91569b46faf9",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "c3dcbdadc81b0ac48936f796b8da8834c4877468754c82da802088ee9e99ccee",
+      "html_sha256": "d40348e80431c22637741e9b40331c487b711e9ac8226c64f372a333ee103355",
+      "evidence_file": "documentation/testing/2026-10-19-luke-two-closing-review.md"
+    },
+    {
+      "slug": "luke-2-36-40",
+      "citation": "2:36-40",
+      "actual_bsb_verses": 5,
+      "bsb_sha256": "cb5d33c35ebe08285bb140ff9868b7672d9825b8c2929f15472a63fe975bcb7d",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "f5e5e8ebaafe5120859a9e2fed4ce7f042a874d3f16af3cec5916384aeb10d98",
+      "html_sha256": "8c4c8ae2fb1ce9d7f1002ed7f5634efc4a8e3758d1eabfaafc306464e0097e8f",
+      "evidence_file": "documentation/testing/2026-10-19-luke-two-closing-review.md"
+    },
+    {
+      "slug": "luke-2-41-52",
+      "citation": "2:41-52",
+      "actual_bsb_verses": 12,
+      "bsb_sha256": "119c2e4ffe0710fb7983b77f9c2f920a1e434c4eb0a2554c7db8699e1c02b215",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "7c870f960d99f5e6219bfdf53f35e3644b8deb43fb2300bea30381bb6cb86d72",
+      "html_sha256": "22cc7ce5254c0b0c528a1cbe022cc511f54c439b711a3ee1963f592754fde3fa",
+      "evidence_file": "documentation/testing/2026-10-19-luke-two-closing-review.md"
+    },
+    {
+      "slug": "luke-2-8-14",
+      "citation": "2:8-14",
+      "actual_bsb_verses": 7,
+      "bsb_sha256": "2ca5bae821586fccc95449392dea6b0ccb9914cd8fe32948adb16e0af9b63433",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "7b03ca115145c8a9285c35a436cbade73c9fdd3ca3785e6f4c11e6c4e4e3f47b",
+      "html_sha256": "f91d985f253c4625a1ad4c7968aed82cdf6b71bf6d6dc4573bfae650122ce4a1",
+      "evidence_file": "documentation/testing/2026-10-19-luke-two-opening-review.md"
+    },
+    {
+      "slug": "luke-20-1-8",
+      "citation": "20:1-8",
+      "actual_bsb_verses": 8,
+      "bsb_sha256": "92c1d7d6296dd66ea6c7e3dc55fa0c13bac1dbf40ba30dd7c15542231154f233",
+      "plan_basis": [
+        "a"
+      ],
+      "position_source": "none",
+      "source_sha256": "273c2d0e31716fe744901ede10b8cca242e718b1a155d9d90cfba5f1c73fa3ff",
+      "html_sha256": "03997259b432432f4e1c1eb1be205713092800c73208d14c935ab51cb5848da7",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-opening-review.md"
+    },
+    {
+      "slug": "luke-20-20-26",
+      "citation": "20:20-26",
+      "actual_bsb_verses": 7,
+      "bsb_sha256": "6c7d280467536147fe0eec7adcd910db364862c69ea48a05db7b77c95ea5cdfe",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "cbfefa8e283236d40315cc961f4e429a6beb298a077dfbef10917c7c37674151",
+      "html_sha256": "344bfb41574d2839996289d1f1f98ed6020f2fa8966ea263e87e4e3bd4550f50",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-closing-review.md"
+    },
+    {
+      "slug": "luke-20-27-40",
+      "citation": "20:27-40",
+      "actual_bsb_verses": 14,
+      "bsb_sha256": "7a5a315c7e96cf3f6ea4ebee399d14d847d1381492cc431fc9a11e7cdb614c85",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "7b247c91e03bfbce0b32ed0ee20f8ede5ea582f69d116ceed19d55c115527b9e",
+      "html_sha256": "6e311e048e016feac0e00e98ec7da422d4c29f571ef626f756c452af3af10d51",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-closing-review.md"
+    },
+    {
+      "slug": "luke-20-41-44",
+      "citation": "20:41-44",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "4551cffa914cd04c160fb77118abc4b662c7f5f3a57c3b98ac054235c769c643",
+      "plan_basis": [
+        "a"
+      ],
+      "position_source": "none",
+      "source_sha256": "72ea0b62ef5d1ed4f5fbe4374f3023a7fe68288616fa6b4d1f83374e83293fbd",
+      "html_sha256": "034b9d92902694cd8447505831f259e545e62d040aea597872cdd0a6e5ebf71d",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-closing-review.md"
+    },
+    {
+      "slug": "luke-20-45-47",
+      "citation": "20:45-47",
+      "actual_bsb_verses": 3,
+      "bsb_sha256": "0b57f2b631d138da663792615df83fa4631b866fc73ca0888f7b5966b0df106b",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "0ee88040e8e8ab83d630d58fd467423f73ac73307ccc9b7db03867cc40c7a79d",
+      "html_sha256": "0c4411d7d30636cd5c79609af24035ff75944d60005464473fd662c371d0a015",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-closing-review.md"
+    },
+    {
+      "slug": "luke-20-9-19",
+      "citation": "20:9-19",
+      "actual_bsb_verses": 11,
+      "bsb_sha256": "f066d92cd95c55101deb0b7286e23daf98382aefeb9b7a207c0f82a1b78d5122",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "281513473cbbf1822f54e99d2def643eb95063ef413870808654d735cbbcd302",
+      "html_sha256": "fa076caa3e58ac691b00e4359384c88cf37659388cc35be54944f1bf9099d0a1",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-opening-review.md"
+    },
+    {
+      "slug": "luke-21-1-4",
+      "citation": "21:1-4",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "bd23768fe2f3fa72366a4261513e780b03a564bbc9415d79ebbc3c443e01240a",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "3654e0fbb7f005d796468f641adcfe94c44dfdc4b6aae7ae68347fc1f3e664dd",
+      "html_sha256": "b41ee38417030db3de8558cb3db2e9e04dbf67eb2f66200a7d0065563b4dab1d",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-one-opening-review.md"
+    },
+    {
+      "slug": "luke-21-12-19",
+      "citation": "21:12-19",
+      "actual_bsb_verses": 8,
+      "bsb_sha256": "9f222b9d24d68c6a4b69b3bacb7fe6a05ddefb988e602ad8cd8c926104161759",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "23d10993645f1cbbee1c4b2ac626993dd402ccc3be2191535671aacf8bc78467",
+      "html_sha256": "c4a919463111e48a5cafef9536c1e045dfe5728004bcb78c02c7c80f0c91482e",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-one-opening-review.md"
+    },
+    {
+      "slug": "luke-21-20-24",
+      "citation": "21:20-24",
+      "actual_bsb_verses": 5,
+      "bsb_sha256": "aef39074e0de6b6141783af273f233252e73f5a868554a57d97fbaee84841b12",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "3364efb27698002117ac4c4cd91d3f0a08aef49d99732287eecc3a0651262e41",
+      "html_sha256": "7449e7dd4745bf37e908e80e50c23de2db81c63a75ba45af42a5d44fbbddb881",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-one-closing-review.md"
+    },
+    {
+      "slug": "luke-21-25-28",
+      "citation": "21:25-28",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "81b657abd23d17ec4e6986f3f151d2b7f2ac7191c35f3dfa67aac82e3fdaa54f",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "cf7a242f5157002ecdf363f93ae40052f080b281bceca72711472e86e767f00a",
+      "html_sha256": "f3df281e35548adffcb61ff08240f409c0d7491cc13a7555995345ad407c840c",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-one-closing-review.md"
+    },
+    {
+      "slug": "luke-21-29-33",
+      "citation": "21:29-33",
+      "actual_bsb_verses": 5,
+      "bsb_sha256": "018f1c1d5587e820fae1886051d00d6b2f1272bf08e4b076c18ef64272c5dd6c",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "6480a31ffb1f1f4b0f243762b473fd56de80d537d81808a5ec794925fc225159",
+      "html_sha256": "9ed960ccd1ccec0eb048193aa2156ee4ba64dc667301738e8c2f13ef7935829e",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-one-closing-review.md"
+    },
+    {
+      "slug": "luke-21-34-38",
+      "citation": "21:34-38",
+      "actual_bsb_verses": 5,
+      "bsb_sha256": "1e24ead5c622ea37f29ddcc620ebd3299876b100611a5d60b830fcfae2a4ae26",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "c57c3ef15d9eb3262a18cac1b950250a3e870e2436c5da6dd75aa6acc9f5197c",
+      "html_sha256": "f57e9912ac574efd8af1265b5bfaa1e9d6528449841633f4daf5dc57bee664ff",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-one-closing-review.md"
+    },
+    {
+      "slug": "luke-21-5-11",
+      "citation": "21:5-11",
+      "actual_bsb_verses": 7,
+      "bsb_sha256": "76c94e47a6d13a7689ecdeb63206a4c2b34ca01e37ee65ecf3f6afcab1f8d42d",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "da3e058a0b8eddb2477ec6f4e476758239243c2ddc369c3cf89fac0ca375ae80",
+      "html_sha256": "43fc62ef826db5afd35504031fb1398dc1a1088c29d0ce53dc7436da9f234edd",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-one-opening-review.md"
+    },
+    {
+      "slug": "luke-22-1-6",
+      "citation": "22:1-6",
+      "actual_bsb_verses": 6,
+      "bsb_sha256": "af9b47362d83fdc6bfeb7f1fe9429de8e44346d92ef8e5ef0f96085528dea45c",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "5da7f184042702ab251dbc4b9a1fe94c5462fb019658497db03f56bc258b6a73",
+      "html_sha256": "9239366e2f4ead6415bb8a909dd201d073150e5f76eda847b8ec7df9a15254eb",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-two-opening-review.md"
+    },
+    {
+      "slug": "luke-22-14-23",
+      "citation": "22:14-23",
+      "actual_bsb_verses": 10,
+      "bsb_sha256": "d1f313085ff05c7cb37e16d157abdd6be2983f24e5debdacb896c9db8d29f482",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "a07949979a665937b0d3a335a06db0acc28d1b05d5c15313b506af8bd8a0a881",
+      "html_sha256": "1ce931155f3f42cdd233ecece0e9c84de8e616676ca2a304ab684390afeb50c4",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-two-table-review.md"
+    },
+    {
+      "slug": "luke-22-24-30",
+      "citation": "22:24-30",
+      "actual_bsb_verses": 7,
+      "bsb_sha256": "fa87afb93e5fba792f9fccd9c757748de6d3a6b3706ff8540acc298704509de9",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "e6838605e753eea45dc969cd98aec145f1cda7f8185dfb26e3ce9a18bcab1eec",
+      "html_sha256": "9ecfa2c9660caf620d4c50922321d2ccc0eca4522c8a6d5e432e8a0670fcc39f",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-two-table-review.md"
+    },
+    {
+      "slug": "luke-22-31-34",
+      "citation": "22:31-34",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "3dea29493a5c0b617cabb7f5652f900e4c4203ee3f73740821249ceb1a0baf0a",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "d8e0221cdce950fbf40797a5b44f9e61be24a12466b1b79a5095f36d9c98ad6f",
+      "html_sha256": "f9db0732348666625422a34c543f51d8958c33084577c4b6bb18ce725761d975",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-two-warning-review.md"
+    },
+    {
+      "slug": "luke-22-35-38",
+      "citation": "22:35-38",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "5c94ee4ebe72470f17b027d379e3a02941501508b5b9e2137a00af815d66f91d",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "afaa3c468ddc161dfadc9604e5a963ac64d9352367682807615a6e4ba90ac9bc",
+      "html_sha256": "2b22c158d8f8b049a05fb32141a6b2d516e2afd250d093570ec264ebd645b3c3",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-two-warning-review.md"
+    },
+    {
+      "slug": "luke-22-39-46",
+      "citation": "22:39-46",
+      "actual_bsb_verses": 8,
+      "bsb_sha256": "d3618d9a42cad48d7cd2854efa86a5ce6579540f1469610454ee0c4b07c1aa70",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "52fb7ccbf87b9a60909712638a9105fa1fbb083eb12d0cc7bea4e517daf97929",
+      "html_sha256": "43af0c17ac6955616ccac97d2003ee8cfc4befee122bb06d282599e826395f81",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-two-garden-review.md"
+    },
+    {
+      "slug": "luke-22-47-53",
+      "citation": "22:47-53",
+      "actual_bsb_verses": 7,
+      "bsb_sha256": "778e6ceede1e456bae5dc9863e1fa8740363b1c79c4f81126b2b4fcc5e3ad656",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "2c8d84ba1ae6c254442fbd85c955d9b997d359e23d91d3de2178099e39e9fdb1",
+      "html_sha256": "a9a857577f92593d6a893f3e6cb6d34f9c6650872b6eb9a0fa4d98691a964998",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-two-garden-review.md"
+    },
+    {
+      "slug": "luke-22-54-62",
+      "citation": "22:54-62",
+      "actual_bsb_verses": 9,
+      "bsb_sha256": "e88f732dc87adef0026b7427cfd51e403cfac18ff5488caee1086ea5095144de",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "b6e28fa99dc5133d2216b48ad2f9156e2724c96cfc687e74aaa529bc6acd7e38",
+      "html_sha256": "1068e70d9b63e85932b46783b45c14916fdaf619ae134256b51c2a00a8d25e65",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-two-closing-review.md"
+    },
+    {
+      "slug": "luke-22-63-65",
+      "citation": "22:63-65",
+      "actual_bsb_verses": 3,
+      "bsb_sha256": "1f5ca8ea4909364a6ea112c853c3b4ed48127efef207349b42bac755757c0bb6",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "1a0824b80075b0384d1839498f6aaf984c94b30c295e43bd5fc87b5429291013",
+      "html_sha256": "6db9194bef1a7b38cff16a17cb0a7b2c857851d175c89d55123e176e330430b0",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-two-closing-review.md"
+    },
+    {
+      "slug": "luke-22-66-71",
+      "citation": "22:66-71",
+      "actual_bsb_verses": 6,
+      "bsb_sha256": "acb7eb12f56c06ce2506cb7a2265b6c26e8a5ff482f50dd3dcc49740af1ebaef",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "718d82ec53fcf860f15db253ef04ed33d750c87a1ca41b85a6121732ebcf0849",
+      "html_sha256": "c231f28b4abacd078c8987335ccf352d7642424693374168d351ce9287fd3688",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-two-closing-review.md"
+    },
+    {
+      "slug": "luke-22-7-13",
+      "citation": "22:7-13",
+      "actual_bsb_verses": 7,
+      "bsb_sha256": "7ed50ea0b7ad0ec626a5cda1d335c75933095b592ae2cd4435cf7eb232588a33",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "b86487861247811b3e83ce77a62c7247d45e99e211e211964887dbf257f3d0e9",
+      "html_sha256": "b87061ffbe5ee522e3331776c8f1887273982b347201e461a00273e727099873",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-two-opening-review.md"
+    },
+    {
+      "slug": "luke-23-1-5",
+      "citation": "23:1-5",
+      "actual_bsb_verses": 5,
+      "bsb_sha256": "76a87e7cef9ac23bdb52ce89c41aa33921555dd6375f766337105d7e35c4716e",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "2fbcc52b3d9ce6498ddc553419de6773235a9d3b95215e2f7d2a16ed55054f32",
+      "html_sha256": "d333d7523a03eb8a77c80f68e79df499f40eadd49b88874d874f8964f6704bad",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-three-opening-review.md"
+    },
+    {
+      "slug": "luke-23-13-25",
+      "citation": "23:13-25",
+      "actual_bsb_verses": 12,
+      "bsb_sha256": "4432b44d709344160b00936bb016a92274f07018b5de23c355423ec3a1c2acac",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "e4c57470449921dd1a3eede7652a4cc71231f70bc5c1c666582121264cf8211b",
+      "html_sha256": "2ce791acb3ee02410e24832312d94a0963367e0c6d77e21b4cf0ff6fa42e43c1",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-three-opening-review.md"
+    },
+    {
+      "slug": "luke-23-26-31",
+      "citation": "23:26-31",
+      "actual_bsb_verses": 6,
+      "bsb_sha256": "b712f99061089ec76d5d179597d0e4b7fe467c03ae91e0258240bff7fc77052f",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "abd807f78d79f624cd1a6b1690d56c0ab14b94c858941769f7f3227d7a536805",
+      "html_sha256": "c64117054bac34d93761f3c67cf1abdb5ffb3304bbea5cd126e192db81594e18",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-three-cross-review.md"
+    },
+    {
+      "slug": "luke-23-32-38",
+      "citation": "23:32-38",
+      "actual_bsb_verses": 7,
+      "bsb_sha256": "6c4f9d537e5ca33b59484605abecac3beaae17278e4dfa5e6a91d9448fb434df",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "9c3a40d4cff99950ef4eccd4b2b93e1d979408e026f8c792230bef01c0ec8e6e",
+      "html_sha256": "5ef8caa5d679296206f9b86f71c60a6fc5c4461ffd6acfa33a52d0adbbd6a201",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-three-cross-review.md"
+    },
+    {
+      "slug": "luke-23-34",
+      "citation": "23:34",
+      "actual_bsb_verses": 1,
+      "bsb_sha256": "61ec373f4bb22f90238a1d422346ecdd45c0c5b54a103496e4379faf3f046184",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "ec82d61b2cd47506152925e6561508345daf91cf438cd221a0fb24faaba1cfeb",
+      "html_sha256": "2be19d2c90fa6f3cf144e49aff4d54f996875cd9b57c40851b1a4a5c13d61bdd",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-three-cross-review.md"
+    },
+    {
+      "slug": "luke-23-39-43",
+      "citation": "23:39-43",
+      "actual_bsb_verses": 5,
+      "bsb_sha256": "ceaac2a21328618ee035a604c1dc7d17f0b3188f42eba5b586cf00e5afd81ac7",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "2b434129d4502f9e0864d6824d6a6a5ee2f53a40ef7373f9ce30821a3907b4ae",
+      "html_sha256": "2ba6b6e816ea075972c0326d2b19e30a9c30a1c7bda8a54261a05925234321fc",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-three-closing-review.md"
+    },
+    {
+      "slug": "luke-23-44-49",
+      "citation": "23:44-49",
+      "actual_bsb_verses": 6,
+      "bsb_sha256": "a52105a19b5a3358e25ef080c3bd673aa08e5b5570d4d7797bcd3a129cc592f8",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "9983b334563fead42dbb832dc22be82dbc1d713b3b05385cfdc6f98881c7a458",
+      "html_sha256": "383709585aca9c293266982f8c5afdf994ad8cd1236c8e49f5c19fb173e1c671",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-three-closing-review.md"
+    },
+    {
+      "slug": "luke-23-46",
+      "citation": "23:46",
+      "actual_bsb_verses": 1,
+      "bsb_sha256": "e0900c4f5a63be1d303e4d47bd9dce27633ccd6bdc78d2b6ea76a02f4aa76d2b",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "2fc1d6a7f9685017ac4840e1be35705aed27f08c50503d8b09ec82ece1b785f8",
+      "html_sha256": "9df8f0269711ea919ed29d25113c9aafc57d600e75cbab834061bf9c806cbf11",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-three-closing-review.md"
+    },
+    {
+      "slug": "luke-23-50-56",
+      "citation": "23:50-56",
+      "actual_bsb_verses": 7,
+      "bsb_sha256": "6bae10f36745273d1651bb947846748d22bde67b239d058ec4d6b6c11c219aa5",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "df1af849ccbe4605afb3f92961833f013e5a2c71e1a2df0fd03aa8b9afca991e",
+      "html_sha256": "ead33846ed051608101a8eb46b8389123d504d5697439fa6af8a9ca762fa5183",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-three-closing-review.md"
+    },
+    {
+      "slug": "luke-23-6-12",
+      "citation": "23:6-12",
+      "actual_bsb_verses": 7,
+      "bsb_sha256": "a0f3fe307871dd43ab78db8fca120587d0ed4dd335fdb273eea5605f1681575e",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "ecef865c73e0c8d5ba8a20e217e643d17ab1cdb7d206790fd64a1ab5aeb74bb8",
+      "html_sha256": "532160e2c4713b5bd164e69f97c331fefa1e13a22c986fc057eae76cdb034f8c",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-three-opening-review.md"
+    },
+    {
+      "slug": "luke-24-1-12",
+      "citation": "24:1-12",
+      "actual_bsb_verses": 12,
+      "bsb_sha256": "698c9a0ccf1d12749527d610150dfb3962da3ba85f92a3a844e5ba21ee028cc7",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "4e3df3e84450c455f872f582c577396343f858949469037be87803bdc887b164",
+      "html_sha256": "e247ecca4283d314d1ac09e9b6228b1ab859c7e81fd65af8ac60714155592957",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-four-review.md"
+    },
+    {
+      "slug": "luke-24-13-35",
+      "citation": "24:13-35",
+      "actual_bsb_verses": 23,
+      "bsb_sha256": "9bfd11e6d4140956d48073c87059a9141787281c005614f72db97f41bec6f1ae",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "7fe15e89768996e4dc1fcd6153c795ba75afc9aad62ba408649f9e2ccec71fc7",
+      "html_sha256": "b9f645b3324d707423ab6613cf4f6ac952461774da74ca2b6bc36a9241088769",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-four-review.md"
+    },
+    {
+      "slug": "luke-24-36-43",
+      "citation": "24:36-43",
+      "actual_bsb_verses": 8,
+      "bsb_sha256": "d7776621cea253a02ec32b0f6112a781ff18b64510e49d893700edbeb11b4a6d",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "f60472b947f9019ce9d07a8a084dd2a945f2eba9e8cf2df05bf4a0a3cfed743e",
+      "html_sha256": "8e2f375efb2745acc27f177d33af3163c1224c552099a8c7c2075d3475222542",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-four-review.md"
+    },
+    {
+      "slug": "luke-24-44-49",
+      "citation": "24:44-49",
+      "actual_bsb_verses": 6,
+      "bsb_sha256": "399a59d20008a353eeed16b8110cab4f0faf5f7e4fb86ebedad9db670cba7fc8",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "2496b6e914e73817e47b961b03d37029dca58a1ab8e0d1e962fff7c7e86ef451",
+      "html_sha256": "be9e062838498906a209b97674f88c3af858554acf8332b8d0cd7f848b2fd8e7",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-four-review.md"
+    },
+    {
+      "slug": "luke-24-50-53",
+      "citation": "24:50-53",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "4bd9fc70f5840bd3196b54fe776c969ba42aa366fcd7497cde1df4e770acb87e",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "24e1923250c0e23b32d1acc184ee158fb2d89dc5aae6c46b944a85ba5866288b",
+      "html_sha256": "ad912e705134bf19cce391814474b70d3dafcc0c52e0520356811c08a05894ba",
+      "evidence_file": "documentation/testing/2026-10-19-luke-twenty-four-review.md"
+    },
+    {
+      "slug": "luke-3-1-6",
+      "citation": "3:1-6",
+      "actual_bsb_verses": 6,
+      "bsb_sha256": "84b7e28b4e0a561daadb5de71389d10d6ce76fd714384bfb68f0e288d151140d",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "e0ff06f7ed49fc8b8e37d88283fdaed1873f216d930ca7baf71e3fea34e3f925",
+      "html_sha256": "99e061be1e776a95241051a781861ee905947ab38a7982fe626523c514e8d9e3",
+      "evidence_file": "documentation/testing/2026-10-19-luke-three-opening-review.md"
+    },
+    {
+      "slug": "luke-3-15-20",
+      "citation": "3:15-20",
+      "actual_bsb_verses": 6,
+      "bsb_sha256": "673b35ddf558b91442375a65f71ca06c59219f677c7a802a7f5923261d2daf1b",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "1d568fa12ea95fe4ba1a079865b8f410f6010d356d0afc0da39cb2e17a4c953a",
+      "html_sha256": "51d6c8c8ae511672bb0ec020cd6c95d81d99af20cb6e5808d9953633fc0e1e2e",
+      "evidence_file": "documentation/testing/2026-10-19-luke-three-opening-review.md"
+    },
+    {
+      "slug": "luke-3-21-22",
+      "citation": "3:21-22",
+      "actual_bsb_verses": 2,
+      "bsb_sha256": "2d1aae93ff01cca57ed231e1954ca76c1230beb8656ca036a101a1bf6ea9eef8",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "ea1eae3dab75cc619d89708a10f2128d27be8c65fa7d5ad4094a377bd87cfbb3",
+      "html_sha256": "53eca9b352cb070cdd88bf8c40c579de1210dc3739d88eb79b3a1f873a9d86cb",
+      "evidence_file": "documentation/testing/2026-10-19-luke-three-closing-review.md"
+    },
+    {
+      "slug": "luke-3-23-38",
+      "citation": "3:23-38",
+      "actual_bsb_verses": 16,
+      "bsb_sha256": "6c07de6010a16da4d2501d6e2830842af21e458157d38a349b114b2395357de6",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "5ab47d883e5720f5f3d178bad840140c0243ad159a21c8a3e0d9130f6887daa2",
+      "html_sha256": "99a34bb0622ca6703c0bbf734c59237ab8d46cf6aa80036c43c9662c8909c310",
+      "evidence_file": "documentation/testing/2026-10-19-luke-three-closing-review.md"
+    },
+    {
+      "slug": "luke-3-7-14",
+      "citation": "3:7-14",
+      "actual_bsb_verses": 8,
+      "bsb_sha256": "b8fe287ba5389551dea1db5db6dcf11aa684ab6960183a7d87a95eb059876687",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "f2b201e7d38096f8e56c100ceda084cf89dbdf3d24875526bd83cd4d17215e00",
+      "html_sha256": "a0ae49c4f5089b54f3c5d44b5d282d10af7979e785b2fd5805d88f0b4f7ffd0b",
+      "evidence_file": "documentation/testing/2026-10-19-luke-three-opening-review.md"
+    },
+    {
+      "slug": "luke-4-1-13",
+      "citation": "4:1-13",
+      "actual_bsb_verses": 13,
+      "bsb_sha256": "0144b68a9c57b4e3d505f559b6416b95e7f4cc6a4f1f3aa8622f5f9f4bf2b949",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "6f9982f9f555c947b8ab2ef9f5f232ee7129221a68bdda8c8cbc6d27daf18d74",
+      "html_sha256": "244667bad781f5e7bb759be36c3a46f30c8b23f75dca223bbf300c7fedde4997",
+      "evidence_file": "documentation/testing/2026-10-19-luke-four-testing-review.md"
+    },
+    {
+      "slug": "luke-4-14-30",
+      "citation": "4:14-30",
+      "actual_bsb_verses": 17,
+      "bsb_sha256": "54737612f4d3db3f5b620f56a120b0cb9ca06d11d132a975921f8fb0929efcc2",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "4ee12b764ca7806a9a24b09085d3142d60e8a564b73d7ad8c465a1997b9cccc6",
+      "html_sha256": "d87b80aedd4c2f8289d3942bb4d92135996e60398e47a09c457bb020086ecd21",
+      "evidence_file": "documentation/testing/2026-10-19-luke-four-nazareth-review.md"
+    },
+    {
+      "slug": "luke-4-31-37",
+      "citation": "4:31-37",
+      "actual_bsb_verses": 7,
+      "bsb_sha256": "78ffbc09e93815e3ac707f6a2a2f013558fa9bbdabca5658fc50c1a6680cac7e",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "c2b5b12f77e2936ad24564bde202f2e5094f63dcde388ca47fcf195858da0886",
+      "html_sha256": "411fbca4c095eef3df26dc46ede1d2f11a639bc22b11c5c94473d6257f7b77a1",
+      "evidence_file": "documentation/testing/2026-10-19-luke-four-closing-review.md"
+    },
+    {
+      "slug": "luke-4-38-41",
+      "citation": "4:38-41",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "228c551dd9377298c91d0ff3b7ec003b267653bfc037118b6879f2bf9403148b",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "a1437928fe34afd5570a1df9a7d4bd5615131b89c20f9f21ef154011e3112e52",
+      "html_sha256": "be84ba2497b6eb6941b3fa5815b68e3b90a9d3c5f8dc3e31448bee50d28ed197",
+      "evidence_file": "documentation/testing/2026-10-19-luke-four-closing-review.md"
+    },
+    {
+      "slug": "luke-4-42-44",
+      "citation": "4:42-44",
+      "actual_bsb_verses": 3,
+      "bsb_sha256": "2a36188df2591e0d0c264b275b59dce7be43861ac38f843ef5cf2dfdf92ec530",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "c482728ca58f4ceec4e8c8ea6cff361fbdc8f7deb14cff02fe27dae2d2719469",
+      "html_sha256": "eb5736b7b8295553b635d7edaa3de3ed4129997aa188d9ccbed0827ec2498192",
+      "evidence_file": "documentation/testing/2026-10-19-luke-four-closing-review.md"
+    },
+    {
+      "slug": "luke-5-1-11",
+      "citation": "5:1-11",
+      "actual_bsb_verses": 11,
+      "bsb_sha256": "ac835e761623b1e005e03b7f79b1e2d5c7cf46eb132296ec95489176dc0b6366",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "03ae645d43ee9df709b349d0390425e5945e06ee3f40207792329ea9c5b5ae32",
+      "html_sha256": "a1de6926e3fba60b07b95b255a2a3acd67ad885fdcb8ca099b9863d3f025ace8",
+      "evidence_file": "documentation/testing/2026-10-19-luke-five-review.md"
+    },
+    {
+      "slug": "luke-5-12-16",
+      "citation": "5:12-16",
+      "actual_bsb_verses": 5,
+      "bsb_sha256": "1f42c6e668aea5585a4923ed749769ab36bbac81978905d66ea52729f78e65da",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "1519a8e2fb9c70c84c882c64c9f204b1ef29963fd0d5144859848ad67ff97ff3",
+      "html_sha256": "3f28a83db5b9a54a3ba255ca9f35df5c57863b0bf998dc437910a7b22445e5a1",
+      "evidence_file": "documentation/testing/2026-10-19-luke-five-review.md"
+    },
+    {
+      "slug": "luke-5-17-26",
+      "citation": "5:17-26",
+      "actual_bsb_verses": 10,
+      "bsb_sha256": "de1854c279cf855b16b5bca2fb1526bab3d1ffc829aa44b785ebecfd1eaeeb45",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "e4698a8d7e2ad3f201d2e7ce7e8cf8acdba07d6889568de27ac8c67537c2099f",
+      "html_sha256": "db635ab7a84dc55d0544388245e96a6e5799148717d418e34035d898ca6e4b1b",
+      "evidence_file": "documentation/testing/2026-10-19-luke-five-review.md"
+    },
+    {
+      "slug": "luke-5-27-32",
+      "citation": "5:27-32",
+      "actual_bsb_verses": 6,
+      "bsb_sha256": "aa4a67c41f41896c9e2486c51b284f67d92a2a547673c36e86ad7ffd0f008ef9",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "fc613bcf335bbd97888754e24b274bb2dbaa3211e5bd62651db38846e0be8820",
+      "html_sha256": "3a5ab658b67194b47509b9f706176735238b0c80bfd5696d57f4b4f42df14ad7",
+      "evidence_file": "documentation/testing/2026-10-19-luke-five-review.md"
+    },
+    {
+      "slug": "luke-5-33-39",
+      "citation": "5:33-39",
+      "actual_bsb_verses": 7,
+      "bsb_sha256": "fcac51e4e1a97b08b4ca5f11ef59725ed27e54fa4070a4a679c0ecb416aa7ace",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "0d854e265b69e74c8dbdeeb7871d10ac8454cc5263aa3f9b33c1c035f0c65d23",
+      "html_sha256": "0a96a58b8495e915a97edfcc972b27cd2013d864c7b1d4cf8cc7415b9ce698fb",
+      "evidence_file": "documentation/testing/2026-10-19-luke-five-review.md"
+    },
+    {
+      "slug": "luke-6-1-5",
+      "citation": "6:1-5",
+      "actual_bsb_verses": 5,
+      "bsb_sha256": "b34477888adfa9074b1221efd3f67bf2f0a3deb2978189ac1ddbd9f7f5f4d972",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "3a5536248d0a3d447067a50e01616c3138364e641098f6df76ebfe62b81d9d9d",
+      "html_sha256": "3b8dea2211e0c5d2cfcca7f53a5f1183b190cedf038952fd7159d5c89cd18132",
+      "evidence_file": "documentation/testing/2026-10-19-luke-six-opening-review.md"
+    },
+    {
+      "slug": "luke-6-12-16",
+      "citation": "6:12-16",
+      "actual_bsb_verses": 5,
+      "bsb_sha256": "1f2c1e2bb9177ae6487c56f09f29a31c193f41379ddc4f6a16be7d1a5bb74d4a",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "0c466e270bb328f8f8a7cc8a1284d105e82fe4c585b4d11f8c9b19ddfd963e3f",
+      "html_sha256": "be87890ed88f3bca4889790ac1c76f99aab5227e0f030ce83f89afce922a9b61",
+      "evidence_file": "documentation/testing/2026-10-19-luke-six-opening-review.md"
+    },
+    {
+      "slug": "luke-6-17-26",
+      "citation": "6:17-26",
+      "actual_bsb_verses": 10,
+      "bsb_sha256": "67fbec12d67037066c55393ff3f013d3db063e58ce02c42cee0b89c48eaab11a",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "da7751d491873c38aaf73a7d9295fc0d69fba9e980034a0a63d70661bb76ff2e",
+      "html_sha256": "1c09fa3c972322ca770bd7fd6365ed606536ab1863d348fa692ff18d49c3d238",
+      "evidence_file": "documentation/testing/2026-10-19-luke-six-closing-review.md"
+    },
+    {
+      "slug": "luke-6-27-36",
+      "citation": "6:27-36",
+      "actual_bsb_verses": 10,
+      "bsb_sha256": "4ebd251e382cdc9e20cc5b35b5836d2b438f20348d4ec97e2190a54fd83f5847",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "b5e12c351eaf59ea98ac0539601cdcc4a3645f7695d2898f629cc616f21229e3",
+      "html_sha256": "4c04b47011b9202a93881f3f0bc2da2916762886cbc4447ad2b19d09a47650e7",
+      "evidence_file": "documentation/testing/2026-10-19-luke-six-closing-review.md"
+    },
+    {
+      "slug": "luke-6-37-42",
+      "citation": "6:37-42",
+      "actual_bsb_verses": 6,
+      "bsb_sha256": "32988891db0bd6df91e4f51a08d0da0659b492e5c7ed992109f7b631864b63c7",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "6fcf1c6f47955fcfd70f9bb766eb1dbcb75e742e68dba42d36008c2af0cd5198",
+      "html_sha256": "0f1d5e2cdc862f9a575f4c6168a27b560f0b9e91189dab0bd31f2c49772fe782",
+      "evidence_file": "documentation/testing/2026-10-19-luke-six-closing-review.md"
+    },
+    {
+      "slug": "luke-6-43-45",
+      "citation": "6:43-45",
+      "actual_bsb_verses": 3,
+      "bsb_sha256": "b75127e037686ea6897c02f3f389459c87786166b654e089d1daf61229789d3f",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "74adc88f465853c003748bc3e1c0a360ea0203ff2d987be33fd6e568f20da940",
+      "html_sha256": "e75a6f6e943abf61e0cb8aba8e0a9966bd97e2c973ede4efcdd1ee8aea5652c8",
+      "evidence_file": "documentation/testing/2026-10-19-luke-six-closing-review.md"
+    },
+    {
+      "slug": "luke-6-46-49",
+      "citation": "6:46-49",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "bf0a238f9344bc07367982e88cca6289101475dd36e064a8cf5d8b5923afd2df",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "242936b613267d5a33300b69bec0ca80c8fc2285b8c4eab97d7625d25c63e199",
+      "html_sha256": "4544ad78bc3e4e083b16bb0fef885d232b559f03293f3fb242f66002bf5f84b2",
+      "evidence_file": "documentation/testing/2026-10-19-luke-six-closing-review.md"
+    },
+    {
+      "slug": "luke-6-6-11",
+      "citation": "6:6-11",
+      "actual_bsb_verses": 6,
+      "bsb_sha256": "acde77d423065ba874558edd9a9bbf109d447c1802dffcafa519cfec401300d1",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "cb2fa421f8ad9283fc4642618e6b0b7fa74267f9d23dbd0e7c5e1f16ca02d0de",
+      "html_sha256": "7301900fe5c715bb132ebd1758e754e9798dfe4c3e551c775ea700ca827913bb",
+      "evidence_file": "documentation/testing/2026-10-19-luke-six-opening-review.md"
+    },
+    {
+      "slug": "luke-7-1-10",
+      "citation": "7:1-10",
+      "actual_bsb_verses": 10,
+      "bsb_sha256": "1d2fe9ec674aea02ea4e41ce0f14694823ee20683b4fb43ed73535249303a542",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "13ebf99f06ae5711d7daa9075230794c8bee080f11581c4d656fa7b0c19c93be",
+      "html_sha256": "db0577061d374095939ea90fa907c3a19c12938c22a202cb3308c7b5aba86cef",
+      "evidence_file": "documentation/testing/2026-10-19-luke-seven-opening-review.md"
+    },
+    {
+      "slug": "luke-7-11-17",
+      "citation": "7:11-17",
+      "actual_bsb_verses": 7,
+      "bsb_sha256": "2d9503163c7c372ffe1e98eb963e9fafa2c7ae2c2c3c16e5ad3386dc7ea52010",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "4d07a8851d472e627b82ea77e25b68234a4a0f58fd682346d822bd364be114d8",
+      "html_sha256": "abf3d50c8923bc108ac0701316173ba38c59ea7c6b80d554f02c333a6f6cd38d",
+      "evidence_file": "documentation/testing/2026-10-19-luke-seven-opening-review.md"
+    },
+    {
+      "slug": "luke-7-18-23",
+      "citation": "7:18-23",
+      "actual_bsb_verses": 6,
+      "bsb_sha256": "cb75bf13e940c9a239d27046da816af4d755ed5983aeaa44965213599ae1902e",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "e844e22401d1341aa6fe0090b2dbb8cbaf4ad8edccf088dc913f96eb5e6075c9",
+      "html_sha256": "d83bc2df24671490800da6f9a63396e48eb063d6cf8bfd930cd053333cd63cc8",
+      "evidence_file": "documentation/testing/2026-10-19-luke-seven-opening-review.md"
+    },
+    {
+      "slug": "luke-7-24-30",
+      "citation": "7:24-30",
+      "actual_bsb_verses": 7,
+      "bsb_sha256": "e0a3e29a6ceb78abe34290333f8cdd6046faf48fc2ebd5eee4756f6400711f73",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "504a4c33ffdc4911a77f28a98c12dec09880bfba05846f94fd823ee8c1afd862",
+      "html_sha256": "43ca1086c874c510b3eb5b9ce33193bf57a8c17563ed05b6dbc0e9f76db40f58",
+      "evidence_file": "documentation/testing/2026-10-19-luke-seven-closing-review.md"
+    },
+    {
+      "slug": "luke-7-31-35",
+      "citation": "7:31-35",
+      "actual_bsb_verses": 5,
+      "bsb_sha256": "62ef7ca911cf2a2402420225dae12a96d1f2cc7882cdff241ed5aa6143d848fa",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "fa2ec8c7bfbbeb63c51299f71da39de200312ff6e435ab78645cee08d475dd7e",
+      "html_sha256": "2d41e3403accef84a550e1db4f2623cb6aac474290904da5b41ea21e54e08e9a",
+      "evidence_file": "documentation/testing/2026-10-19-luke-seven-closing-review.md"
+    },
+    {
+      "slug": "luke-7-36-50",
+      "citation": "7:36-50",
+      "actual_bsb_verses": 15,
+      "bsb_sha256": "30c16c394a868ab6103050852e0b33ea0386f6ab1d051eca12252f88f65e77f2",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "a4d6f6e225a2b6cec5cedc7764925e48d2eeaf009ad71866b03fa3ec2b30fd54",
+      "html_sha256": "cca92417c5df78e870db4cb35ea11d2ee120f88c4c802675545827b5ebce43e6",
+      "evidence_file": "documentation/testing/2026-10-19-luke-seven-closing-review.md"
+    },
+    {
+      "slug": "luke-8-1-3",
+      "citation": "8:1-3",
+      "actual_bsb_verses": 3,
+      "bsb_sha256": "4bdc8e5a205111214ba38cfde101d102895079d7f74c9bbe01b74f41e6044354",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "1cbcfdf8cdbee67310d04cea23e99b9d70ba13b27a5b82afe25da9ab2f295423",
+      "html_sha256": "5c85eaee21a3c238d0b070daa4dcc8cd277ba9ac905fd9e591d3dfd9f59b6eaa",
+      "evidence_file": "documentation/testing/2026-10-19-luke-eight-opening-review.md"
+    },
+    {
+      "slug": "luke-8-16-18",
+      "citation": "8:16-18",
+      "actual_bsb_verses": 3,
+      "bsb_sha256": "923604a9c26b9ce592a5321edf8fd1dcfaaec2ca620cdf551b7984a7f771a5ed",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "0561bc6f5373fdbefc128af39b30b6682d098e49328ab4f7ab026de1604fcca4",
+      "html_sha256": "2ea0777e69095c02bc887e51aa8655be3e0ede520f7e9daf493272315b668725",
+      "evidence_file": "documentation/testing/2026-10-19-luke-eight-opening-review.md"
+    },
+    {
+      "slug": "luke-8-19-21",
+      "citation": "8:19-21",
+      "actual_bsb_verses": 3,
+      "bsb_sha256": "44e6f215ae6aeeb12905b267b1ededba8d531f1636d094c31252fe68704f03e5",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "0974c22ff07195110daf917455a4d47871a5cead4b7237f48061928d94529502",
+      "html_sha256": "415eb81e523bfbdf4ace6942f968307f3e78b0a4cc15f6f0cc4b1e75cb730607",
+      "evidence_file": "documentation/testing/2026-10-19-luke-eight-opening-review.md"
+    },
+    {
+      "slug": "luke-8-22-25",
+      "citation": "8:22-25",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "36ded5212fd340a5e3fed73d21882dfc8bf4ee982583ba3be5e64fb9694cdbe9",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "99362de8a1cb546913b7252121f2e451533b00e703f43293a8a92ae63e91d5bb",
+      "html_sha256": "0aea8e51dbf09ffadb78179d3bb8428291dbccb2cbc582687685d8c8d8a9af92",
+      "evidence_file": "documentation/testing/2026-10-19-luke-eight-closing-review.md"
+    },
+    {
+      "slug": "luke-8-26-39",
+      "citation": "8:26-39",
+      "actual_bsb_verses": 14,
+      "bsb_sha256": "9483fad55b766e691b12b5f895e72d5a12a2c2d2a2b6e6f95d6b78752db38e59",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "4346cfae7f2853fc5bf51c95a40d21a8d0afa16e34b9e2d9681be955979eb2e5",
+      "html_sha256": "f775a09305f5b4a64c312790dcd33e3e448519d457d73619865cbecf01f07680",
+      "evidence_file": "documentation/testing/2026-10-19-luke-eight-closing-review.md"
+    },
+    {
+      "slug": "luke-8-4-15",
+      "citation": "8:4-15",
+      "actual_bsb_verses": 12,
+      "bsb_sha256": "20d99e17daee299d674982fac0d501e1b4c3a2a1d27c2a9dfc420a0765b95f86",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "bca8b09a7da1d52e85dee64bce40689823481ae339ae9985ffa3f99aa67f6ff9",
+      "html_sha256": "b9a6010eb12b857c075120db7c5564a154f4a4b7523eaa2fc24901c37487e1b1",
+      "evidence_file": "documentation/testing/2026-10-19-luke-eight-opening-review.md"
+    },
+    {
+      "slug": "luke-8-40-56",
+      "citation": "8:40-56",
+      "actual_bsb_verses": 17,
+      "bsb_sha256": "4d0f6fadcb89a0492e7259682650d39d6781099592ad823defe12e6fae504fcd",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "2adb29889dde0fc53252a2bc14eac5856b03e913f274e266b71d81c609ea3048",
+      "html_sha256": "67082af8a58f8ab2d9a65522fd0ea26e4399a7f779b3aa1be21dd1aef1f99b8e",
+      "evidence_file": "documentation/testing/2026-10-19-luke-eight-closing-review.md"
+    },
+    {
+      "slug": "luke-9-1-6",
+      "citation": "9:1-6",
+      "actual_bsb_verses": 6,
+      "bsb_sha256": "d556e950db1f5f4aaa147dd283db09b49537a221d02da5534c97e726d2b89b35",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "e78afb888cdfd3295065d1b7cee5fefeedde73a3098d385dd3a6508f262deee4",
+      "html_sha256": "a2cba3b9f75d1111d614326203639c089268ebdad83d731baba084407dbf30bd",
+      "evidence_file": "documentation/testing/2026-10-19-luke-nine-opening-review.md"
+    },
+    {
+      "slug": "luke-9-10-17",
+      "citation": "9:10-17",
+      "actual_bsb_verses": 8,
+      "bsb_sha256": "82c557074a6cf50071880cd3e56e4bb127abf0a8082868441122424e48aff169",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "b07e5d9d5cc7f1b21f5c8f810a70ad54c144014134bab76975aec62ec8f4ca52",
+      "html_sha256": "3245a78d8c03778130ddc19ddd89cefa3ffbaed10797ab24405de4a407f2d6f7",
+      "evidence_file": "documentation/testing/2026-10-19-luke-nine-opening-review.md"
+    },
+    {
+      "slug": "luke-9-18-22",
+      "citation": "9:18-22",
+      "actual_bsb_verses": 5,
+      "bsb_sha256": "6f0da04b02eed6c662044b2945390da4f72982c7dfcf0ef34c4be2e467208323",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "4f600b33d9b2d74bd6b896c85eac43a38d44106dc7a5cb075ccf15c295ed534c",
+      "html_sha256": "4c481b306ce552a92cc0518dd3b075e25c9754ddaa6518d3e51cf4208dd9d5d4",
+      "evidence_file": "documentation/testing/2026-10-19-luke-nine-opening-review.md"
+    },
+    {
+      "slug": "luke-9-23-27",
+      "citation": "9:23-27",
+      "actual_bsb_verses": 5,
+      "bsb_sha256": "516bd167bc24ec658d9bef004f0e9104caf2f49a52d9d20c91f149a7aba9250f",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "1fa9c88b94f7d080f1ac7102abc4a5b0e1f8dc2f2012d84ae7745f8cbe023a2e",
+      "html_sha256": "3763f33c8092f04b3f9a2da55e77900e992686e8303e024a6d7259774c560f1d",
+      "evidence_file": "documentation/testing/2026-10-19-luke-nine-glory-review.md"
+    },
+    {
+      "slug": "luke-9-28-36",
+      "citation": "9:28-36",
+      "actual_bsb_verses": 9,
+      "bsb_sha256": "f9f1f7ff844240f81a90c4caba9631a527ac46b338447d73ea62a039c2aac3b9",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "b8b03960908b27859aadd97c620021981c78dae48180ed63ee4ecc0870c8a7db",
+      "html_sha256": "fa154685a5b71e00d0f717427065cae77cd29fe071b50abbb3c9c93825ea3f53",
+      "evidence_file": "documentation/testing/2026-10-19-luke-nine-glory-review.md"
+    },
+    {
+      "slug": "luke-9-37-45",
+      "citation": "9:37-45",
+      "actual_bsb_verses": 9,
+      "bsb_sha256": "7c014e25d657dc085effbd7d0853de2919150accbe2f034429c90a7dd2daae09",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "1ec6aa94ad9e507a795950add863b7301a0e12542378236d07745b0928c5f92b",
+      "html_sha256": "a28610bee62e4fa692a3206cceac2472df7d0d9b994760eeafce8b568947d8f5",
+      "evidence_file": "documentation/testing/2026-10-19-luke-nine-closing-review.md"
+    },
+    {
+      "slug": "luke-9-46-48",
+      "citation": "9:46-48",
+      "actual_bsb_verses": 3,
+      "bsb_sha256": "17fe3a2e6b38486556672d9c837f0bbfc321ff11c24cce7c0f2cdaf930ba242f",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "d47b7f5dd0dc5e770f498ea315977d38ed9adb0d63694cd712669dd57470c678",
+      "html_sha256": "cd31840478e4037468075b0f5db72a6bf184747ff0e83cabdb697f9f9042b2b1",
+      "evidence_file": "documentation/testing/2026-10-19-luke-nine-closing-review.md"
+    },
+    {
+      "slug": "luke-9-49-50",
+      "citation": "9:49-50",
+      "actual_bsb_verses": 2,
+      "bsb_sha256": "9c61e596412b32ce1cf9ab108e0e753a2825f24c2479b08dc143118b8ef5d23e",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "cf0cfaee8d95bd0583f11f30f1833f30e716379a82f68e404080cce94aaeac1b",
+      "html_sha256": "5865da9d26d53a4629463ff5348d2b0c435cc1dbc3e8ec7228d01dc41c975fa9",
+      "evidence_file": "documentation/testing/2026-10-19-luke-nine-closing-review.md"
+    },
+    {
+      "slug": "luke-9-51-56",
+      "citation": "9:51-56",
+      "actual_bsb_verses": 6,
+      "bsb_sha256": "75bf0eb301c382e47679939ed39a7e178fb123954972f309c7538992947d2cda",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "dc35e4870f221a17e019b8df8a073f6c3aad42db14eb4a2298a54a357ebf44a9",
+      "html_sha256": "6f539602af2586f1c5840ad1e9b96f2f8ea5bd963a420688365882a55ff269e1",
+      "evidence_file": "documentation/testing/2026-10-19-luke-nine-closing-review.md"
+    },
+    {
+      "slug": "luke-9-57-62",
+      "citation": "9:57-62",
+      "actual_bsb_verses": 6,
+      "bsb_sha256": "3bbcdacbf90fd1e6c97cb10b384c461e09a78274efbc6e03c475a12002ba95be",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "9ad8e2184155eaf5468928c0f4641a4d62b9023b103204ca17db76a4d9c68b6b",
+      "html_sha256": "9dc9552cc5937e0b1bdced1a153bc36681d9a622cfa42be66e48d7375bb02406",
+      "evidence_file": "documentation/testing/2026-10-19-luke-nine-closing-review.md"
+    },
+    {
+      "slug": "luke-9-7-9",
+      "citation": "9:7-9",
+      "actual_bsb_verses": 3,
+      "bsb_sha256": "b5b2c84614b8a5b37f276d3ac67049a392a3e0a403fca4d16219982c4871a035",
+      "plan_basis": [
+        "a"
+      ],
+      "position_source": "none",
+      "source_sha256": "8d580ad8017c042b82eb6b382a1dd360fc677db29e2a021b10129a039aa0f489",
+      "html_sha256": "94ab69920c981081920b2c33a095b16452146545d6a2bdfde3b33599c727116d",
+      "evidence_file": "documentation/testing/2026-10-19-luke-nine-opening-review.md"
+    }
+  ]
+}

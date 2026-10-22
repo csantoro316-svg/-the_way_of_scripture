@@ -5,25 +5,57 @@
     "label": "Exodus 24:12-18",
     "slug": "exodus-24-12-18"
   },
-  "section_title": "Moses on the Mountain",
+  "section_title": "Why did Moses go further into the cloud?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "12 Then the LORD said to Moses, \u201cCome up to Me on the mountain and stay here, so that I may give you the tablets of stone, with the law and commandments I have written for their instruction.\u201d",
-        "13 So Moses set out with Joshua his attendant and went up on the mountain of God. 14 And he said to the elders, \u201cWait here for us until we return to you. Aaron and Hur are here with you. Whoever has a dispute can go to them.\u201d",
-        "15 When Moses went up on the mountain, the cloud covered it, 16 and the glory of the LORD settled on Mount Sinai. For six days the cloud covered it, and on the seventh day the LORD called to Moses from within the cloud. 17 And the sight of the glory of the LORD was like a consuming fire on the mountaintop in the eyes of the Israelites.",
-        "18 Moses entered the cloud as he went up on the mountain, and he remained on the mountain forty days and forty nights."
+        "12 Then the LORD said to Moses, “Come up to Me on the mountain and stay here, so that I may give you the tablets of stone, with the law and commandments I have written for their instruction.” 13 So Moses set out with Joshua his attendant and went up on the mountain of God. 14 And he said to the elders, “Wait here for us until we return to you. Aaron and Hur are here with you. Whoever has a dispute can go to them.”",
+        "15 When Moses went up on the mountain, the cloud covered it, 16 and the glory of the LORD settled on Mount Sinai. For six days the cloud covered it, and on the seventh day the LORD called to Moses from within the cloud. 17 And the sight of the glory of the LORD was like a consuming fire on the mountaintop in the eyes of the Israelites. 18 Moses entered the cloud as he went up on the mountain, and he remained on the mountain forty days and forty nights."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 24**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "God calls Moses to remain on the mountain and receive stone tablets bearing the law and commandments for Israel’s instruction. Moses sets out with Joshua as his attendant, while Aaron and Hur are available to hear disputes among the people. The work of caring for the community continues during his absence.",
+    "",
+    "The cloud covers the mountain for six days. On the seventh day, God calls Moses from within it. The glory of the LORD looks like a consuming fire to the Israelites, and Moses enters the cloud at God’s invitation. He remains on the mountain forty days and forty nights. That extended absence prepares for both the sanctuary instructions in the following chapters and the people’s response while he is away.",
+    "",
+    "The Hebrew word for glory here is כָּבוֹד, *kavod* (kah-VOHD). It can mean honor or splendor; here it describes the visible display of God’s presence ([Brown–Driver–Briggs](https://biblehub.com/hebrew/3519.htm)). The cloud, fire and summons make clear that Moses is approaching the God who has spoken to Israel."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Moses on the Mountain** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 24** remains the first control on meaning."
+    "The passage is usually read as confirming Moses’ special responsibility to receive instruction from God. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) sees the cloud as both revealing God’s presence and concealing what human beings cannot fully grasp. [Calvin](https://biblehub.com/commentaries/calvin/exodus/24.htm) emphasizes that the visible glory also gives the people assurance about the source of the law Moses receives. The scene calls for trust in God’s word and reverence before Him."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[Hebrews 12:18–29](https://biblehub.com/bsb/hebrews/12.htm) returns to Sinai’s fire and fear, then describes believers coming to heavenly Zion and to Jesus, the mediator of a new covenant. It ends by calling for gratitude, reverence and faithful attention to the God who speaks. Access through Christ brings confidence while preserving the seriousness of listening to God.",
+    "",
+    "The tablets also belong to a larger movement in the Bible. [2 Corinthians 3:1–6](https://biblehub.com/bsb/2_corinthians/3.htm) describes Christ’s people as a letter written by the Spirit of the living God on human hearts, rather than on stone tablets. God’s purpose includes His word taking effect within His people, giving them life through the Spirit. The law received on the mountain is part of the story that leads to that new-covenant work."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/24.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-twenty-four-review.md"
+  }
 }

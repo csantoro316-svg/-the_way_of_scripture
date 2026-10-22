@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "6:1-10",
+    "label": "1 Kings 6:1-10",
+    "slug": "1-kings-6-1-10"
+  },
+  "section_title": "How is the temple’s main structure built?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 In the four hundred and eightieth year after the Israelites had come out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month of Ziv, the second month, he began to build the house of the LORD. 2 The house that King Solomon built for the LORD was sixty cubits long, twenty cubits wide, and thirty cubits high. 3 The portico at the front of the main hall of the temple was twenty cubits long, extending across the width of the temple and projecting out ten cubits in front of the temple. 4 He also had narrow windows framed high in the temple.",
+        "5 Against the walls of the temple and the inner sanctuary, Solomon built a chambered structure around the temple, in which he constructed the side rooms. 6 The bottom floor was five cubits wide, the middle floor six cubits, and the third floor seven cubits. He also placed offset ledges around the outside of the temple, so that nothing would be inserted into its walls. 7 The temple was constructed using finished stones cut at the quarry, so that no hammer or chisel or any other iron tool was heard in the temple while it was being built. 8 The entrance to the bottom floor was on the south side of the temple. A stairway led up to the middle level, and from there to the third floor. 9 So Solomon built the temple and finished it, roofing it with beams and planks of cedar. 10 He built chambers all along the temple, each five cubits high and attached to the temple with beams of cedar."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Solomon begins the temple in his fourth year, in Ziv, the second month. The narrator also dates the work from Israel’s departure from Egypt: four hundred and eighty years earlier. The new house belongs within the story of the people God brought out of slavery.",
+    "",
+    "The main building measures sixty by twenty by thirty cubits. Using the approximate measurements given in the [BSB notes](https://biblehub.com/bsb/1_kings/6.htm), that is about ninety feet long, thirty feet wide and forty-five feet high. A porch stands at the front, and rooms are arranged in three levels along the sides.",
+    "",
+    "Ledges support the side structure so that its beams do not have to be inserted into the temple walls. The stones are finished at the quarry, so no hammer, chisel or iron tool is heard in the temple during construction. Cedar beams and planks form the roof."
+  ],
+  "common_interpretation_lines": [
+    "The time from the Exodus is read in different ways. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) takes the four hundred and eighty years as a count of elapsed years and works out a total from Israel’s earlier history. The [USCCB notes](https://bible.usccb.org/bible/1kings/6) understand it as a rounded count of twelve generations of forty years each. Both readings recognize that the date deliberately connects the temple with the Exodus.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/6.htm) draws a further lesson from the quiet building work: care and peace suit the service of God. That is his application of the detail about tools, rather than a new rule that all worship must be silent."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/6.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-six-review.md"
+  }
+}

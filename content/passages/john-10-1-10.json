@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "10:1-10",
+    "label": "John 10:1-10",
+    "slug": "john-10-1-10"
+  },
+  "section_title": "Why does Jesus describe Himself as the gate?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 “Truly, truly, I tell you, whoever does not enter the sheepfold by the gate, but climbs in some other way, is a thief and a robber. 2 But the one who enters by the gate is the shepherd of the sheep. 3 The gatekeeper opens the gate for him, and the sheep listen for his voice. He calls his own sheep by name and leads them out. 4 When he has brought out all his own, he goes on ahead of them, and his sheep follow him because they know his voice. 5 But they will never follow a stranger; in fact, they will flee from him because they do not recognize his voice.” 6 Jesus spoke to them using this illustration, but they did not understand what He was telling them.",
+        "7 So He said to them again, “Truly, truly, I tell you, I am the gate for the sheep. 8 All who came before Me were thieves and robbers, but the sheep did not listen to them. 9 I am the gate. If anyone enters through Me, he will be saved. He will come in and go out and find pasture. 10 The thief comes only to steal and kill and destroy. I have come that they may have life, and have it in all its fullness."
+      ]
+    }
+  ],
+  "context_lines": [
+    "This teaching continues the conversation at the end of John 9. Jesus has found the man who was thrown out, received his faith, and challenged the confidence of those who claim to see. He now uses a picture of sheep, a shepherd, strangers and a gate to explain the difference between care that brings life and leadership that harms the people it claims to serve.",
+    "",
+    "In the first part, the shepherd enters properly, calls his sheep by name and leads them. Strangers try another way in and do not receive the same response from the sheep. The picture emphasizes recognition and a relationship of trust. John then says that the listeners do not understand the illustration, so Jesus explains further.",
+    "",
+    "Jesus identifies Himself as the gate through whom the sheep enter and find safety and pasture. The images serve His teaching; we need not assign an unrecorded identity to every detail. He can speak of Himself as the gate here and as the shepherd in the next paragraph without either picture losing its purpose.",
+    "",
+    "The thieves and robbers are contrasted with the life He gives. His statement about those who came before Him should be read alongside His earlier affirmation that Moses wrote about Him ([John 5:45–47](https://biblehub.com/bsb/john/5.htm)). It is not a rejection of every messenger God sent before His birth. Likewise, the fullness of life He offers is more than a promise of comfortable circumstances: the man in John 9 has received His care while facing rejection."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the gate as Jesus Himself, through whom people receive salvation and care. [Calvin on verses 7–9](https://biblehub.com/commentaries/calvin/john/10.htm) and [Wesley on verses 7–10](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) both emphasize coming through Him rather than following claims of authority that lead people away from Him.",
+    "",
+    "The gatekeeper in verse 3 has been explained in different ways. Wesley identifies the gatekeeper with the Father; Calvin allows a reference to God while focusing on His approval of true shepherds. Jesus does not explicitly identify the gatekeeper, so the main point need not depend on settling that detail. The recognition of the shepherd’s voice and the life Jesus gives remain central."
+  ],
+  "god_plan_lines": [
+    "[Ezekiel 34:1–16](https://biblehub.com/bsb/ezekiel/34.htm) describes leaders who feed themselves while leaving God’s people scattered, then promises that God Himself will seek, rescue and feed His sheep. That is a strong background to Jesus’ contrast between destructive intruders and His own care.",
+    "",
+    "The story of the man born blind has already given this contrast a human face: he is rejected by those questioning him, and Jesus finds him. The gate illustration points toward God gathering and sustaining His people through Christ. Life comes from receiving His care and following Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/10.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-ten-opening-review.md"
+  }
+}

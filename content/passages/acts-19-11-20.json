@@ -1,0 +1,68 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "19:11-20",
+    "label": "Acts 19:11-20",
+    "slug": "acts-19-11-20"
+  },
+  "section_title": "What separates God’s power from using Jesus’ name as a formula?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "11 God did extraordinary miracles through the hands of Paul, 12 so that even handkerchiefs and aprons that had touched him were taken to the sick, and the diseases and evil spirits left them.",
+        "13 Now there were some itinerant Jewish exorcists who tried to invoke the name of the Lord Jesus over those with evil spirits. They would say, “I command you by Jesus, whom Paul proclaims.” 14 Seven sons of Sceva, a Jewish chief priest, were doing this. 15 But one day the evil spirit responded, “Jesus I know, and I know about Paul, but who are you?” 16 Then the man with the evil spirit jumped on them and overpowered them all. The attack was so violent that they ran out of the house naked and wounded.",
+        "17 This became known to all the Jews and Greeks living in Ephesus, and fear came over all of them. So the name of the Lord Jesus was held in high honor. 18 Many who had believed now came forward, confessing and disclosing their deeds. 19 And a number of those who had practiced magic arts brought their books and burned them in front of everyone. When the value of the books was calculated, the total came to fifty thousand drachmas. 20 So the word of the Lord powerfully continued to spread and prevail."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Luke identifies God as the One doing extraordinary miracles through Paul. Even cloths that have touched Paul are carried to sick people, and diseases and evil spirits leave them. The account credits God; it does not describe a power the cloths possess independently of Him.",
+    "",
+    "Some traveling Jewish exorcists try to invoke Jesus’ name by referring to the Jesus Paul proclaims. An exorcist is someone who attempts to drive out an evil spirit. [Thayer’s entry for **ἐξορκιστής**](https://biblehub.com/greek/1845.htm) (*exorkistēs*, ex-or-kis-TAYS) describes someone using a spoken formula for that purpose. The word does not identify an ethnic group of travelers or prove every such person has the same motives.",
+    "",
+    "Seven sons of Sceva, described as a Jewish chief priest, are involved. The evil spirit recognizes Jesus and knows about Paul, but challenges them; the afflicted man attacks and overpowers them. They flee wounded and naked. Luke does not give us Sceva’s full history or explain what every demon knows about every Christian.",
+    "",
+    "The event becomes widely known, and Jesus’ name is held in honor. Many believers confess their deeds, and people who have practiced magic bring their books to be burned. Luke gives their value as fifty thousand drachmas, a large sum. The account describes people giving up their own practices and possessions, not an order to seize everyone else’s books."
+  ],
+  "common_interpretation_lines": [
+    "Christians broadly distinguish these God-given miracles from attempts to control spiritual power through a borrowed name or technique. The confession and costly abandonment of magic show a changed way of life, rather than simply a more effective spell.",
+    "",
+    "Traditions differ over the related question of honoring relics—remains or objects associated with saints. The Catholic Church’s [Council of Trent, session 25](https://www.papalencyclicals.net/councils/trent/twenty-fifth-session.htm), affirms honoring saints’ relics while requiring superstition and financial abuse to be removed. Its [Catechism 2111](https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_one/article_1/iii_you_shall_have_no_other_gods_before_me.html) rejects treating religious practices as effective merely through their external performance.",
+    "",
+    "The Reformed [Westminster Confession 21:1–2](https://www.opc.org/wcf.html) limits worship to what God has revealed and to God alone. Applying that concern here, [Calvin’s comment on verse 11](https://biblehub.com/commentaries/calvin/acts/19.htm) rejects using Paul’s cloths to justify devotion to relics, understanding the miracles as confirming the apostolic message. This is his explicit application of the passage, not evidence that Catholics officially teach magic or that every Protestant has an identical view of physical objects."
+  ],
+  "god_plan_lines": [
+    "The healing recalls the sick being brought to the apostles in [Acts 5:12–16](https://biblehub.com/bsb/acts/5.htm). This is a parallel between God’s work through Peter and the apostles in Jerusalem and through Paul in Ephesus; the connection does not make either man an independent source of divine power.",
+    "",
+    "The result reaches beyond physical relief. Jesus is honored, hidden practices are confessed and people leave costly attachments behind. Luke’s conclusion centers on the Lord’s word spreading and prevailing. The power serves the witness to Christ and a changed people, rather than becoming a possession someone can purchase or manipulate."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/19.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-nineteen-review.md"
+  }
+}

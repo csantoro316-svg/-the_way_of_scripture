@@ -1,0 +1,7 @@
+# John 8:12–20 live
+
+Jesus' light-of-the-world teaching now has full BSB text, context, carefully limited festival background, accessible explanations of differing readings of verse 15, and a labeled parallel with God's guiding light. The position remains open.
+
+[Evidence](../testing/2026-10-19-john-eight-light-review.md). Fresh BSB; eight tests; zero errors /328 existing warnings; preserved neighboring prose, old index records and 1,510 unaffected web files; idempotence; 390px reader/standalone and actual Next; successful Hosting dry run/deployment; all five live files match.
+
+John: 50 reviewed pages /356 actual BSB verses /50 plans /22 study positions /28 open;62 sources /12 unreviewed legacy references. Continue 8:21–30, then 31–47/48–59 plus legacy 58. Whole baseline PDF through315 read;316 onward unread. Actual next-group sources read: BSB8:21–30/12:27–36/Isa43:8–13; Calvin21/22/24–30 (first21 excerpt only;28 relevant complete); Wesley23–29; USCCB21–30notes. Calvin24/28 emphasizes Messiah's office, while Wesley and USCCB see divine self-identification; do not flatten these readings. Calvin28 focuses compelled recognition/judgment; Wesley allows conversion. Thayer εἰμί actual I.1a and II.5 checked; ordinary identification uses exist, so the phrase alone is not a mechanical proof of every interpretive claim. Surrounding BibleHub generated commentary is not lexicon authority.

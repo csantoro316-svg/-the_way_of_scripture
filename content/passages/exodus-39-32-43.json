@@ -5,35 +5,55 @@
     "label": "Exodus 39:32-43",
     "slug": "exodus-39-32-43"
   },
-  "section_title": "Moses Approves the Work",
+  "section_title": "Why does Moses inspect and bless the finished work?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "32 So all the work for the tabernacle, the Tent of Meeting, was completed. The Israelites did everything just as the LORD had commanded Moses.",
-        "33 Then they brought the tabernacle to Moses:",
-        "the tent with all its furnishings, its clasps, its frames, its crossbars, and its posts and bases;",
-        "34 the covering of ram skins dyed red, the covering of fine leather, and the veil of the covering;",
-        "35 the ark of the Testimony with its poles and the mercy seat;",
-        "36 the table with all its utensils and the Bread of the Presence;",
-        "37 the pure gold lampstand with its row of lamps and all its utensils, as well as the oil for the light;",
-        "38 the gold altar, the anointing oil, the fragrant incense, and the curtain for the entrance to the tent;",
-        "39 the bronze altar with its bronze grating, its poles, and all its utensils;",
-        "the basin with its stand;",
-        "40 the curtains of the courtyard with its posts and bases;",
-        "the curtain for the gate of the courtyard, its ropes and tent pegs, and all the equipment for the service of the tabernacle, the Tent of Meeting;",
-        "41 and the woven garments for ministering in the sanctuary, both the holy garments for Aaron the priest and the garments for his sons to serve as priests.",
-        "42 The Israelites had done all the work just as the LORD had commanded Moses. 43 And Moses inspected all the work and saw that they had accomplished it just as the LORD had commanded. So Moses blessed them."
+        "32 So all the work for the tabernacle, the Tent of Meeting, was completed. The Israelites did everything just as the LORD had commanded Moses. 33 Then they brought the tabernacle to Moses: the tent with all its furnishings, its clasps, its frames, its crossbars, and its posts and bases; 34 the covering of ram skins dyed red, the covering of fine leather, and the veil of the covering; 35 the ark of the Testimony with its poles and the mercy seat; 36 the table with all its utensils and the Bread of the Presence; 37 the pure gold lampstand with its row of lamps and all its utensils, as well as the oil for the light; 38 the gold altar, the anointing oil, the fragrant incense, and the curtain for the entrance to the tent;",
+        "39 the bronze altar with its bronze grating, its poles, and all its utensils; the basin with its stand; 40 the curtains of the courtyard with its posts and bases; the curtain for the gate of the courtyard, its ropes and tent pegs, and all the equipment for the service of the tabernacle, the Tent of Meeting; 41 and the woven garments for ministering in the sanctuary, both the holy garments for Aaron the priest and the garments for his sons to serve as priests. 42 The Israelites had done all the work just as the LORD had commanded Moses. 43 And Moses inspected all the work and saw that they had accomplished it just as the LORD had commanded. So Moses blessed them."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 39**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "The work is complete, and the people bring the dwelling, its coverings, furnishings, courtyard equipment, and priestly clothing to Moses. The list gathers the many parts into one finished task. Instructions given across several chapters have become something the people can present together.",
+    "",
+    "Moses inspects it and sees that they have done what the LORD commanded. He blesses them. This is an important change from the earlier scene when he came down to find the calf: here the people’s work follows God’s word. The dwelling still needs to be set up and its service established, which happens in the next chapter."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Moses Approves the Work** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 39** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) understands Moses’ blessing as more than praise: he prays for the people after their faithful work. [Calvin](https://biblehub.com/commentaries/calvin/exodus/39.htm) likewise reads the inspection and blessing as approval of work done according to God’s directions."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The language of finished work, inspection, and blessing recalls creation. God looks at what He has made, and the creation account moves into completion and the blessing of the seventh day ([Genesis 1:31](https://biblehub.com/bsb/genesis/1.htm); [2:1–3](https://biblehub.com/bsb/genesis/2.htm)). Here Moses sees the completed work and blesses the people. This is a literary parallel, with a dwelling being prepared for life in God’s presence.",
+    "",
+    "The New Testament takes faithful service further. [Hebrews 3:1–6](https://biblehub.com/bsb/hebrews/3.htm) honors Moses as a faithful servant and directs attention to Christ as the Son over God’s house. Jesus speaks of accomplishing the Father’s work ([John 17:1–5](https://biblehub.com/bsb/john/17.htm)), and at the cross declares that His work is finished ([John 19:28–30](https://biblehub.com/bsb/john/19.htm)). The comparison points beyond completing a structure toward the greater work by which Christ brings His people to God."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/exodus/39.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-exodus-closing-review.md"
+  }
 }

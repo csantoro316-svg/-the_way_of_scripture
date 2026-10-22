@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Galatians",
+    "citation": "1:6-10",
+    "label": "Galatians 1:6-10",
+    "slug": "galatians-1-6-10"
+  },
+  "section_title": "Why does Paul respond so strongly to a changed gospel?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 I am amazed how quickly you are deserting the One who called you by the grace of Christ and are turning to a different gospel— 7 which is not even a gospel. Evidently some people are troubling you and trying to distort the gospel of Christ.",
+        "8 But even if we or an angel from heaven should preach a gospel contrary to the one we preached to you, let him be under a curse! 9 As we have said before, so now I say again: If anyone is preaching to you a gospel contrary to the one you received, let him be under a curse! 10 Am I now seeking the approval of men, or of God? Or am I striving to please men? If I were still trying to please men, I would not be a servant of Christ."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After the greeting, Paul moves immediately to his alarm. The Galatians are turning from the One who called them by Christ’s grace toward a message he calls a different gospel. He says this amounts to desertion of the One who called them.",
+    "",
+    "Gospel translates εὐαγγέλιον, euangelion (yoo-an-GHEL-ee-on), meaning good news. [Thayer’s lexicon](https://biblehub.com/greek/2098.htm) explains its use for the good news of salvation through Christ. That meaning sharpens Paul’s point: a distorted message is losing the very good news it claims to offer.",
+    "",
+    "He names people troubling the churches and trying to distort Christ’s gospel. His warning applies even if he himself, his fellow workers or an angel from heaven should bring a contrary message. The message already received supplies the measure for judging the messenger.",
+    "",
+    "Paul repeats the warning, then asks whose approval he seeks. His loyalty is to Christ as His servant. Seeking favor from people cannot govern what he proclaims."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as a serious warning to preserve the gospel rather than accept a changed message on the strength of its messenger. [Wesley’s notes on verses 6–10](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-galatians/) and the [USCCB notes on verses 6–10](https://bible.usccb.org/bible/galatians/1) both connect the warning with the churches’ departure from Christ’s gospel."
+  ],
+  "god_plan_lines": [
+    "[1 Corinthians 15:1–4](https://biblehub.com/bsb/1_corinthians/15.htm) states the gospel Paul received and passed on: Christ died for our sins, was buried and was raised on the third day, according to the Scriptures.",
+    "",
+    "That stated content gives the warning here a positive center. God’s saving work through His Son is the message being guarded, and its roots lie in what Scripture had promised."
+  ],
+  "current_position_lines": [
+    "Our study [The Gospel According to Jesus](https://thewayofscripture.com/studies/the-gospel-according-to-jesus.html), in its discussion of Galatians 1:8–9, treats the gospel as a settled proclamation whose core must be preserved. That core includes Christ’s death for our sins and His resurrection. His saving work supplies the foundation for the love and obedience that follow from it."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/galatians/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-galatians-one-review.md",
+    "position_source_detail": "The Gospel According to Jesus, content/studies/the_gospel_according_to_jesus.md:33–57 and69–73; gospel core and direct Galatians1:8–9 warning, not a new judgment on every disputed doctrine."
+  }
+}

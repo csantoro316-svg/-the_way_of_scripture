@@ -5,15 +5,49 @@
     "label": "Romans 8:27",
     "slug": "romans-8-27"
   },
-  "versions": [],
-  "context_lines": [
-    "In **Romans 8**, Paul unfolds life in the Spirit, the believer's adoption, suffering, hope, and the unbreakable purpose of God in Christ. Its teaching on prayer belongs to that larger assurance that God is at work even in weakness and groaning."
+  "section_title": "How can God understand what we cannot put into words?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "27 And He who searches our hearts knows the mind of the Spirit, because the Spirit intercedes for the saints according to the will of God."
+      ]
+    }
   ],
-  "explanation_lines": [
-    "That is the heart of it. Faith does not demand a particular outcome from God, because faith already trusts that He has one. We do not even know how to ask rightly on our own \u2014 *\"we do not know how to pray as we should, but the Spirit Himself intercedes for us with groanings too deep for words\"* (Romans 8:26) \u2014 and the Spirit's intercession is not according to our wishes but *\"according to the will of God\"* (Romans 8:27). If even our asking has to be carried by the Spirit toward God's will rather than our own, then seeking Him, not outcomes from Him, is the only goal prayer was ever meant to have. Provision, healing, and direction, when they come, are what follows when He is sought first \u2014 not what is owed to us because we asked correctly: *\"seek first His kingdom and His righteousness, and all these things will be added to you\"* (Matthew 6:33).",
+  "context_lines": [
+    "This verse completes Paul’s explanation of the Spirit’s help in prayer. Verse 26 describes weakness and wordless groaning; verse 27 says that the God who searches hearts knows the Spirit’s mind.",
     "",
-    "And lastly, the bread we are taught to ask for daily is not bread at all, but Christ Himself, the only sustenance that was ever truly necessary: *\"I am the bread of life; he who comes to Me will not hunger, and he who believes in Me will never thirst\"* (John 6:35).",
-    "",
-    "*\"Trust in Yahweh with all your heart and do not lean on your own understanding. In all your ways acknowledge Him, and He will make your paths straight.\"* (Proverbs 3:5-6)"
-  ]
+    "The Spirit intercedes for the saints—God’s people—according to God’s will. The reason for confidence is the agreement between the Spirit’s work and God’s will, even when the person praying cannot see what should happen next."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as assurance that God understands the Spirit’s intercession and that it accords with His will. The passage directs trust toward God’s understanding. It does not identify every desired outcome as something the Spirit must be requesting."
+  ],
+  "god_plan_lines": [
+    "Paul also says in [Romans 8:34](https://biblehub.com/bsb/romans/8.htm) that the risen Christ intercedes for believers. Read together, the statements show God providing help through both the Son and the Spirit. The family relationship described earlier in the chapter includes help in the weakness of those who belong to Him."
+  ],
+  "current_position_lines": [
+    "Our studies Prayer and Faith and What Does Prayer Look Like? understand these verses as an invitation to bring our weakness honestly before God. Prayer does not depend on perfectly formed requests. The Spirit helps where our understanding and words fall short, according to God’s will. We can trust Him without treating prayer as a way to secure a particular outcome."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/8.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-romans-eight-middle-review.md",
+    "position_source_detail": "Prayer and Faith (content/studies/prayer_and_faith.md, lines 215–223); What Does Prayer Look Like? (content/studies/what_does_prayer_look_like.md, lines 164–178)"
+  }
 }

@@ -5,23 +5,55 @@
     "label": "Exodus 35:30-35",
     "slug": "exodus-35-30-35"
   },
-  "section_title": "Bezalel and Oholiab",
+  "section_title": "Why does God give the craftsmen the ability to teach?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "30 Then Moses said to the Israelites, \u201cSee, the LORD has called by name Bezalel son of Uri, the son of Hur, of the tribe of Judah. 31 And He has filled him with the Spirit of God, with skill, ability, and knowledge in all kinds of craftsmanship, 32 to design artistic works in gold, silver, and bronze, 33 to cut gemstones for settings, and to carve wood, so that he may be a master of every artistic craft.",
-        "34 And the LORD has given both him and Oholiab son of Ahisamach, of the tribe of Dan, the ability to teach others. 35 He has filled them with skill to do all kinds of work as engravers, designers, embroiderers in blue, purple, and scarlet yarn and fine linen, and as weavers\u2014as artistic designers of every kind of craft."
+        "30 Then Moses said to the Israelites, “See, the LORD has called by name Bezalel son of Uri, the son of Hur, of the tribe of Judah. 31 And He has filled him with the Spirit of God, with skill, ability, and knowledge in all kinds of craftsmanship, 32 to design artistic works in gold, silver, and bronze, 33 to cut gemstones for settings, and to carve wood, so that he may be a master of every artistic craft.",
+        "34 And the LORD has given both him and Oholiab son of Ahisamach, of the tribe of Dan, the ability to teach others. 35 He has filled them with skill to do all kinds of work as engravers, designers, embroiderers in blue, purple, and scarlet yarn and fine linen, and as weavers—as artistic designers of every kind of craft."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 35**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "Moses publicly names Bezalel and Oholiab, whose appointment God had already announced in chapter 31. Bezalel is filled with the Spirit of God for design and craftsmanship. The account gives practical work a place in the Spirit’s service: metal, stone, wood, embroidery, and weaving all contribute to the task.",
+    "",
+    "There is an important addition here: God gives both men the ability to teach others. They are not simply to keep their skill to themselves. Their work includes helping others become able to take part, so the project draws on a wider company of workers."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Bezalel and Oholiab** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 35** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) and [Calvin](https://biblehub.com/commentaries/calvin/exodus/35.htm) both understand the craftsmen’s exceptional ability as God equipping them for their calling. Calvin also recognizes that they already had abilities that God further supplied; the passage does not require us to assume that they had never trained or worked before."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The ability to teach belongs to a larger pattern of equipping others. In [Ephesians 4:7–16](https://biblehub.com/bsb/ephesians/4.htm), Christ gives gifts so that His people are prepared for service and the whole body grows toward maturity in Him. The gifts equip the whole body to serve and grow.",
+    "",
+    "There is a further parallel in [2 Timothy 2:1–7](https://biblehub.com/bsb/2_timothy/2.htm): Timothy is to entrust what he has learned to faithful people who can teach others in turn. Paul is speaking about gospel teaching, not the tabernacle crafts, but both passages show ability being shared so that others can carry the work forward."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/exodus/35.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-exodus-thirty-five-review.md"
+  }
 }

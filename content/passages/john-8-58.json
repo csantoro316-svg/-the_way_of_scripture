@@ -5,32 +5,51 @@
     "label": "John 8:58",
     "slug": "john-8-58"
   },
-  "section_title": "Before Abraham Was, I AM",
+  "section_title": "What does Jesus claim by saying He existed before Abraham?",
   "versions": [
     {
       "label": "BSB",
-      "text": "\"Truly, truly, I tell you,\" Jesus declared, \"before Abraham was born, I am!\""
+      "paragraphs": [
+        "58 “Truly, truly, I tell you,” Jesus declared, “before Abraham was born, I am!”"
+      ]
     }
   ],
   "context_lines": [
-    "John 8:58 should be read within the flow of its chapter and the larger argument of John."
+    "This verse answers the question raised by the whole discussion in [John 8:48–59](https://the-way-of-scripture.web.app/passages/john-8-48-59.html): how can Jesus speak of Abraham seeing His day when He is not yet fifty years old? Jesus is not claiming an unusually long human lifespan. He places His existence before Abraham’s beginning.",
+    "",
+    "The wording matters. [Thayer’s entry for the verb meaning to come into existence](https://biblehub.com/greek/1096.htm) directly cites Abraham in this verse, while [the entry for the verb meaning to be](https://biblehub.com/greek/1510.htm) cites Jesus’ statement. The contrast supports reading more here than the memory of an ordinary man. The connection with God’s self-revelation in [Exodus 3:13–15](https://biblehub.com/bsb/exodus/3.htm) also helps explain why Christians have read this saying as a claim to divine identity.",
+    "",
+    "In the next verse His opponents pick up stones. John records Jesus leaving the temple rather than submitting to their attack at this point. The verse should be read in that setting, alongside the Father’s sending of Jesus and His promise of life, rather than as an isolated puzzle about grammar."
   ],
   "common_interpretation_lines": [
-    "This is also why Jesus can say in John 8:58: *\"Before Abraham was, I AM.\"* He was not merely aware of Abraham from a distance. He had appeared to him. He had spoken with him. He had eaten with him (Genesis 18). He was there.",
-    "",
-    "The *Malak Yahweh* is a prominent figure through the period of the Judges and into the early monarchy. Then, significantly, He becomes increasingly rare. After the prophetic period He essentially disappears \u2014 and there is no *Malak Yahweh* appearance in the New Testament.",
-    "",
-    "The reason is the Incarnation."
+    "The major Christian traditions understand this saying as testimony to the Son’s existence before Abraham and His divine identity. This shared reading appears in the [Catholic Catechism, paragraph 590](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/article_4/paragraph_1_jesus_and_israel.html), [Calvin’s commentary](https://biblehub.com/commentaries/calvin/john/8.htm) and [Wesley’s notes](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/)."
+  ],
+  "god_plan_lines": [
+    "The One who comes to fulfill God’s promises is not a late arrival in God’s purpose. [John 1:1–14](https://biblehub.com/bsb/john/1.htm) describes the eternal Word becoming flesh, and [Galatians 3:8–9](https://biblehub.com/bsb/galatians/3.htm) connects the gospel with the blessing promised to Abraham. Jesus’ coming brings that long-promised saving purpose into view. His identity explains how Abraham’s hope and the life Jesus offers belong to one story."
   ],
   "current_position_lines": [
-    "This site's current position is that **John 8:58** is not merely a statement of preexistence in the abstract. In the framework of the Angel-of-the-LORD study, it also confirms that the Son's relationship to Abraham was personal and historical, not distant and theoretical.",
-    "",
-    "The verse therefore helps connect the Old Testament appearances to the New Testament person of Jesus Christ. The One who appeared before the Incarnation is the same One now speaking in the Gospel."
+    "Our study Who is The Angel of the Lord? reads this verse as Jesus identifying Himself as the eternal Son, personally present before Abraham. The study connects that claim with Genesis 18 and John 1:18 and concludes that the Son was the One who appeared to Abraham and made the Father known. That identification is the study’s developed conclusion; this verse itself does not name a particular earlier encounter."
   ],
   "deeper_study": [
     {
       "title": "Who is The Angel of the Lord?",
       "href": "../studies/angel-of-the-lord.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/8.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-john-eight-complete-review.md",
+    "position_source_detail": "Who is The Angel of the Lord?, The New Testament Anchor, explicit developed John 8:58 paragraph and Genesis 18 connection."
+  }
 }

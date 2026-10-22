@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "44:17-19",
+    "label": "Ezekiel 44:17-19",
+    "slug": "ezekiel-44-17-19"
+  },
+  "section_title": "Why do the priests wear linen and change before going out?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 When they enter the gates of the inner court, they are to wear linen garments; they must not wear anything made of wool when they minister at the gates of the inner court or inside the temple. 18 They are to wear linen turbans on their heads and linen undergarments around their waists. They must not wear anything that makes them perspire. 19 When they go out to the outer court, to the people, they are to take off the garments in which they have ministered, leave them in the holy chambers, and dress in other clothes so that they do not transmit holiness to the people with their garments."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The priests must wear linen when serving in the inner court and temple. Wool is forbidden there, and they must avoid clothing that makes them perspire.",
+    "",
+    "Before going into the outer court among the people, they leave their ministry garments in the holy chambers and put on other clothes. The stated concern is that they not transmit holiness through the garments.",
+    "",
+    "These instructions maintain the distinction between garments set apart for sanctuary service and clothing worn among the people. The passage describes the required practice without saying that the clothing visibly glows."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/ezekiel/44.htm) explains the concern through contact with things consecrated to holy use. [Cambridge](https://biblehub.com/commentaries/cambridge/ezekiel/44.htm) likewise understands the changing of clothes as preserving the distinction between the sacred and the common.",
+    "",
+    "The clothing rules belong to the sanctuary service described here. They do not state that ordinary material or ordinary people are morally evil."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/44.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-forty-four-five-review.md"
+  }
+}

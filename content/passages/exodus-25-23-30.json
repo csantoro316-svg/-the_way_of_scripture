@@ -5,25 +5,55 @@
     "label": "Exodus 25:23-30",
     "slug": "exodus-25-23-30"
   },
-  "section_title": "The Table of Showbread",
+  "section_title": "Why was bread kept before God?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "23 You are also to make a table of acacia wood two cubits long, a cubit wide, and a cubit and a half high. 24 Overlay it with pure gold and make a gold molding around it. 25 And make a rim around it a handbreadth wide and put a gold molding on the rim.",
-        "26 Make four gold rings for the table and fasten them to the four corners at its four legs. 27 The rings are to be close to the rim, to serve as holders for the poles used to carry the table. 28 Make the poles of acacia wood and overlay them with gold, so that the table may be carried with them.",
-        "29 You are also to make the plates and dishes, as well as the pitchers and bowls for pouring drink offerings. Make them out of pure gold.",
-        "30 And place the Bread of the Presence on the table before Me at all times."
+        "23 You are also to make a table of acacia wood two cubits long, a cubit wide, and a cubit and a half high. 24 Overlay it with pure gold and make a gold molding around it. 25 And make a rim around it a handbreadth wide and put a gold molding on the rim. 26 Make four gold rings for the table and fasten them to the four corners at its four legs. 27 The rings are to be close to the rim, to serve as holders for the poles used to carry the table. 28 Make the poles of acacia wood and overlay them with gold, so that the table may be carried with them.",
+        "29 You are also to make the plates and dishes, as well as the pitchers and bowls for pouring drink offerings. Make them out of pure gold. 30 And place the Bread of the Presence on the table before Me at all times."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 25**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "The next furnishing is a gold-covered acacia table, with rings and poles so it too can be carried. Gold plates, dishes, pitchers and bowls accompany it. God directs that the Bread of the Presence remain on the table before Him continually.",
+    "",
+    "[Leviticus 24:5–9](https://biblehub.com/bsb/leviticus/24.htm) later explains the practice: twelve loaves are arranged in two rows, replaced every Sabbath and eaten by Aaron and his sons in a holy place. The bread is presented on behalf of Israel. It is an ongoing offering within the covenant worship, with God also providing it as a holy portion for the priests."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Table of Showbread** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 25** remains the first control on meaning."
+    "The bread is generally understood as a continuing presentation before God, expressing Israel’s relationship with Him. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) understands the twelve loaves as representing the tribes and the offering as an acknowledgment of God’s daily provision and fellowship. [Calvin](https://biblehub.com/commentaries/calvin/exodus/25.htm) similarly emphasizes that the people’s own food comes from God and is to be received in His presence with gratitude. Neither understands the offering as feeding a God who needs human food."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "Wesley also reads the bread as a picture of the spiritual provision given through Christ. That is a thematic parallel rather than an explicit New Testament identification of this table with Jesus. In [John 6:26–35](https://biblehub.com/bsb/john/6.htm), Jesus speaks directly about manna and presents Himself as the bread of life who gives lasting life to those who come to Him. God’s provision reaches beyond food that sustains the body to the Son who gives life to the world.",
+    "",
+    "That wider theme also shapes ordinary life. [1 Timothy 6:17–19](https://biblehub.com/bsb/1_timothy/6.htm) tells the wealthy to place their hope in the God who provides and to become generous and ready to share. Acknowledging His gifts is meant to shape how His people use them."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/25.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-twenty-five-review.md"
+  }
 }

@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "9:32-34",
+    "label": "Matthew 9:32-34",
+    "slug": "matthew-9-32-34"
+  },
+  "section_title": "Restoration and an Accusation",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "32 As they were leaving, a demon-possessed man who was mute was brought to Jesus. 33 And when the demon had been driven out, the man began to speak. The crowds were amazed and said, “Nothing like this has ever been seen in Israel!” 34 But the Pharisees said, “It is by the prince of demons that He drives out demons.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "As the healed blind men leave, a man who is mute and demon-possessed is brought to Jesus. The demon is driven out and the man begins to speak. Matthew gives no extended conversation, but turns quickly to the responses of those who witness it.",
+    "",
+    "The crowds express amazement at what they have seen in Israel. The Pharisees give a different explanation: they attribute Jesus' deliverance to the prince of demons. The man's restoration is placed beside opposition to the One who restores him.",
+    "",
+    "The passage identifies a demon in this man's case. It does not give a general explanation for every person's difficulty speaking. Its focus is the freedom Jesus brings and the sharply different responses to His work.",
+    "",
+    "A related accusation appears in [Matthew 12:22–29](https://biblehub.com/bsb/matthew/12.htm), where Jesus answers it by exposing the contradiction in a divided kingdom and explaining His deliverance as the arrival of God's kingdom. Matthew does not record that fuller answer here."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as a display of Jesus' authority over evil and a sign of the growing opposition to Him. The Catholic [Catechism, 550](https://www.vatican.va/archive/ENG0015/__P1L.HTM), places His deliverances within the defeat of Satan's kingdom, and the [US Catholic bishops' note on Matthew 9:34](https://bible.usccb.org/bible/matthew/9) highlights the accusation as pointing toward the opposition developed in the following chapters."
+  ],
+  "god_plan_lines": [
+    "Jesus' explanation in [Matthew 12:28–29](https://biblehub.com/bsb/matthew/12.htm) places deliverance within God's kingdom overcoming the enemy's hold. The man's restored speech is one concrete instance of freedom; it points beyond itself to the greater work of the King who sets people free.",
+    "",
+    "[Colossians 2:13–15](https://biblehub.com/bsb/colossians/2.htm) joins that victory with the cross, describing God making people alive with Christ, forgiving sins, canceling their debt, and triumphing over hostile powers. The opposition recorded here does not overturn God's saving purpose. The same Jesus who is accused will accomplish His victory through the cross."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/9.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-nine-completion-review.md"
+  }
+}

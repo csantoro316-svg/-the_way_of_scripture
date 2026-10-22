@@ -1,0 +1,52 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "26:1-6",
+    "label": "Ezekiel 26:1-6",
+    "slug": "ezekiel-26-1-6"
+  },
+  "section_title": "Why does Tyre’s delight in Jerusalem’s fall bring judgment?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 In the eleventh month of the twelfth year, on the first day of the month, the word of the LORD came to me, saying, 2 “Son of man, because Tyre has said of Jerusalem, ‘Aha! The gate to the nations is broken; it has swung open to me; now that she lies in ruins I will be filled,’",
+        "3 therefore this is what the Lord GOD says: ‘Behold, O Tyre, I am against you, and I will raise up many nations against you, as the sea brings up its waves. 4 They will destroy the walls of Tyre and demolish her towers. I will scrape the soil from her and make her a bare rock. 5 She will become a place to spread nets in the sea, for I have spoken, declares the Lord GOD. She will become plunder for the nations, 6 and the villages on her mainland will be slain by the sword. Then they will know that I am the LORD.’"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Tyre sees Jerusalem’s ruin as its own opening for gain. The city’s response is an eager expectation that the broken gateway to the nations will now fill its own trade.",
+    "",
+    "The coastal setting matters. [UNESCO’s account of Tyre](https://whc.unesco.org/en/list/299/) describes a Phoenician maritime center built largely on an island, with settlements on the mainland. Ezekiel’s picture of waves, bare rock, fishing nets and mainland villages speaks directly to that setting.",
+    "",
+    "The Lord turns the expectation around: many nations will rise against Tyre like waves. Its defenses will come down, its wealth will become plunder, and the mainland villages will suffer. Jerusalem’s fall is no guarantee that the neighbor hoping to profit will be safe."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezekiel/26.htm) understands the charge as selfish pleasure in another’s loss when that loss seems likely to benefit oneself. [Wesley](https://biblehub.com/commentaries/wes/ezekiel/26.htm) and the [USCCB notes](https://bible.usccb.org/bible/ezekiel/26) likewise connect the gateway language with trade turning toward Tyre.",
+    "",
+    "The accusation concerns the heart behind that expectation of gain. The city treats another people’s devastation as a welcome business opportunity."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/26.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-twenty-six-seven-review.md"
+  }
+}

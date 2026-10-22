@@ -1,0 +1,68 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "2:1-13",
+    "label": "Acts 2:1-13",
+    "slug": "acts-2-1-13"
+  },
+  "section_title": "What happens when the Holy Spirit comes at Pentecost?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 When the day of Pentecost came, they were all together in one place. 2 Suddenly a sound like a mighty rushing wind came from heaven and filled the whole house where they were sitting. 3 They saw tongues like flames of fire that separated and came to rest on each of them. 4 And they were all filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them.",
+        "5 Now there were dwelling in Jerusalem God-fearing Jews from every nation under heaven. 6 And when this sound rang out, a crowd came together in bewilderment, because each one heard them speaking his own language. 7 Astounded and amazed, they asked, “Are not all these who are speaking Galileans? 8 How is it then that each of us hears them in his own native language? 9 Parthians, Medes, and Elamites; residents of Mesopotamia, Judea and Cappadocia, Pontus and Asia, 10 Phrygia and Pamphylia, Egypt and the parts of Libya near Cyrene; visitors from Rome, 11 both Jews and converts to Judaism; Cretans and Arabs—we hear them declaring the wonders of God in our own tongues!”",
+        "12 Astounded and perplexed, they asked one another, “What does this mean?” 13 But others mocked them and said, “They are drunk on new wine!”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The disciples have been waiting in Jerusalem for the gift Jesus promised. On Pentecost they are together when a sound like a mighty wind fills the house. They see tongues like flames of fire resting on each person, and they are filled with the Holy Spirit. Luke describes a sound like wind and an appearance like fire; he does not say the room is being blown apart or the people are being burned.",
+    "",
+    "Pentecost falls within Israel’s festival calendar. [Leviticus 23:15–21](https://biblehub.com/bsb/leviticus/23.htm) describes counting seven weeks and then fifty days, bringing a new-grain offering and holding a sacred assembly. Acts places the promised gift within that setting of worship and gathering.",
+    "",
+    "The Spirit enables the believers to speak in other tongues. The Greek word γλῶσσα, glōssa (GLOHS-sah), can mean the physical tongue or a language. [Thayer’s lexicon](https://biblehub.com/greek/1100.htm) specifically identifies the use in Acts 2:4 with speaking foreign languages. The surrounding verses make the point concrete: listeners recognize their own native languages.",
+    "",
+    "The crowd includes God-fearing Jews from many regions and converts to Judaism. They hear the wonders of God and are amazed, but they do not all reach the same conclusion. Some ask what it means; others mock. Peter’s explanation in the following passage answers that question."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Pentecost as the fulfillment of Jesus’s promise to send the Spirit and equip His witnesses. They differ over how this event relates to each believer’s experience.",
+    "",
+    "The Catholic Church’s [Catechism, paragraphs 731–732](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_three/article_8/v_the_spirit_and_the_church_in_the_last_days.index.html), describes the outpouring as the fulfillment of Christ’s Passover and the beginning of the church’s life in the last days. Its emphasis here is on the gift of the divine Person and communion with God.",
+    "",
+    "The Reformed [Westminster Confession, chapter 13](https://www.opc.org/wcf.html), describes the Spirit dwelling in believers and forming holiness in their lives. A more specific Reformed explanation appears in the [1978 Orthodox Presbyterian committee report, section I](https://opc.org/GA/giftsHS.html): every believer shares in baptism with the Spirit through union with Christ at conversion, rather than through a separate later experience. The report distinguishes this from repeated filling with the Spirit. It is a committee’s explanation, rather than a confessional document binding every Reformed church.",
+    "",
+    "The Assemblies of God teaches a distinct experience of baptism in the Holy Spirit after the new birth, bringing power for service. Its [Statement of Fundamental Truths, sections 7–8](https://ag.org/Beliefs/Statement-of-Fundamental-Truths), identifies speaking in tongues as the initial physical evidence and distinguishes that initial purpose from the public use of the gift. This represents that Pentecostal body’s teaching; it should not be assigned to every church that believes spiritual gifts continue today.",
+    "",
+    "For the language miracle itself, [Calvin on verse 4](https://biblehub.com/commentaries/calvin/acts/2.htm) and [Wesley on verse 4](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) both emphasize the speakers being enabled to speak other languages. The recognizable languages in this scene give a clear starting point without settling every question about tongues elsewhere."
+  ],
+  "god_plan_lines": [
+    "The scene offers a meaningful contrast with [Genesis 11:1–9](https://biblehub.com/bsb/genesis/11.htm). At Babel, confused language accompanies people’s scattering; here, people with different languages hear the same wonders of God. This is a parallel between the passages, not an explicit statement by Luke that every part of Babel has now been reversed. The listeners do not lose their languages or become one nationality.",
+    "",
+    "The wider direction is toward a people brought together through God’s Spirit. [Ephesians 2:18–22](https://biblehub.com/bsb/ephesians/2.htm) describes Jews and Gentiles having access to the Father through one Spirit and being built into God’s dwelling. Acts 2 begins with Jews and converts gathered in Jerusalem; the narrative will later describe the message reaching other communities. Pentecost opens the way outward without compressing that whole story into a single morning."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/2.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-two-opening-review.md"
+  }
+}

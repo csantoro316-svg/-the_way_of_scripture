@@ -5,18 +5,59 @@
     "label": "Philippians 1:9-11",
     "slug": "philippians-1-9-11"
   },
+  "section_title": "What kind of growing love does Paul pray for?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "(LSB) 'And this I pray, that your love may abound still more and more in real knowledge and all discernment, so that you may approve the things that are excellent, in order to be sincere and blameless until the day of Christ; having been filled with the fruit of righteousness which comes through Jesus Christ, to the glory and praise of God.'"
+      "label": "BSB",
+      "paragraphs": [
+        "9 And this is my prayer: that your love may abound more and more in knowledge and depth of insight, 10 so that you may be able to test and prove what is best and may be pure and blameless for the day of Christ, 11 filled with the fruit of righteousness that comes through Jesus Christ, to the glory and praise of God."
+      ]
     }
   ],
   "context_lines": [
-    "In **Philippians 1**, Paul writes from imprisonment with joy rooted in the advance of the gospel and the work of Christ in His people. His prayers in the chapter are shaped by spiritual growth, discernment, and fruit that glorifies God."
-  ],
-  "explanation_lines": [
-    "Three different letters, three different churches, three different situations \u2014 and the same pattern every time. Paul never once asks God to fix a circumstance. He asks that people would know God more deeply, love more fully, and walk in a way that honors Him.",
+    "After thanking God for the Philippians and expressing his affection, Paul tells them what he prays for. He wants their love to keep growing in knowledge and depth of insight, so they can recognize what is best.",
     "",
-    "**That is what Paul understood intercession to actually be for.**"
-  ]
+    "The Greek word translated insight is aisthēsis (EYE-sthay-sis). [Thayer’s lexicon](https://biblehub.com/greek/144.htm) explains its use here as moral discernment: understanding that helps a person recognize what is right. Paul joins love with the ability to make good judgments.",
+    "",
+    "The goal is a life pure and blameless for the day of Christ, filled with righteous fruit that comes through Jesus Christ. The prayer moves from growing love to discerning choices and a life that brings glory and praise to God.",
+    "",
+    "This is prayer for the growth of people already sharing in the gospel. It belongs beside Paul’s confidence that God is at work among them and his desire for their continuing faithfulness."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as prayer for love that grows with knowledge, sound judgment and a life pleasing to God. [Wesley’s notes on verses 9–11](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-philippians/) connect growing love and discernment with righteous fruit coming through Christ. The [USCCB notes on verses 3–11](https://bible.usccb.org/bible/philippians/1) likewise connect Paul’s prayer with the community’s growth in readiness for Christ’s return. No separate denominational breakdown is needed for that shared emphasis."
+  ],
+  "god_plan_lines": [
+    "In [John 15:1–12](https://biblehub.com/bsb/john/15.htm), Jesus connects remaining in Him with bearing fruit, glorifying the Father and loving one another. Paul’s prayer belongs within that same larger pattern: the fruitful life comes through Christ and expresses itself in love.",
+    "",
+    "This is a supported parallel, rather than a new explanation of every detail of the vine picture. It directs attention to the source and purpose of the growth Paul seeks: life sustained by Christ that honors God through what His people become and do."
+  ],
+  "current_position_lines": [
+    "Our study [What Does Prayer Look Like?](https://thewayofscripture.com/studies/what-does-prayer-look-like.html) uses this passage as an example of praying for others to know God more deeply, love more fully and live in a way that honors Him. We draw that positive emphasis from the study: ask for growing love, discernment and righteous fruit through Christ."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/philippians/1.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-philippians-one-opening-review.md",
+    "position_source_detail": "What Does Prayer Look Like?, lines 104–122, directly quotes Philippians 1:9–11 at 112–114; positive growth emphasis only."
+  }
 }

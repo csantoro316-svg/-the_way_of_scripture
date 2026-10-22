@@ -5,26 +5,55 @@
     "label": "Exodus 25:31-40",
     "slug": "exodus-25-31-40"
   },
-  "section_title": "The Lampstand",
+  "section_title": "What did the seven lamps bring to the sanctuary?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "31 Then you are to make a lampstand of pure, hammered gold. It shall be made of one piece, including its base and shaft, its cups, and its buds and petals.",
-        "32 Six branches are to extend from the sides of the lampstand\u2014three on one side and three on the other. 33 There are to be three cups shaped like almond blossoms on the first branch, each with buds and petals, three on the next branch, and the same for all six branches that extend from the lampstand.",
-        "34 And on the lampstand there shall be four cups shaped like almond blossoms with buds and petals. 35 For the six branches that extend from the lampstand, a bud must be under the first pair of branches, a bud under the second pair, and a bud under the third pair. 36 The buds and branches are to be all of one piece with the lampstand, hammered out of pure gold.",
-        "37 Make seven lamps and set them up on the lampstand so that they illuminate the area in front of it. 38 The wick trimmers and their trays must be of pure gold. 39 The lampstand and all these utensils shall be made from a talent of pure gold.",
-        "40 See to it that you make everything according to the pattern shown you on the mountain."
+        "31 Then you are to make a lampstand of pure, hammered gold. It shall be made of one piece, including its base and shaft, its cups, and its buds and petals. 32 Six branches are to extend from the sides of the lampstand—three on one side and three on the other. 33 There are to be three cups shaped like almond blossoms on the first branch, each with buds and petals, three on the next branch, and the same for all six branches that extend from the lampstand. 34 And on the lampstand there shall be four cups shaped like almond blossoms with buds and petals. 35 For the six branches that extend from the lampstand, a bud must be under the first pair of branches, a bud under the second pair, and a bud under the third pair. 36 The buds and branches are to be all of one piece with the lampstand, hammered out of pure gold.",
+        "37 Make seven lamps and set them up on the lampstand so that they illuminate the area in front of it. 38 The wick trimmers and their trays must be of pure gold. 39 The lampstand and all these utensils shall be made from a talent of pure gold. 40 See to it that you make everything according to the pattern shown you on the mountain."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 25**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "The lampstand is made from a single piece of hammered gold, with six branches extending from a central shaft. Cups, buds and petals shaped like almond blossoms give it a branching, flowering form. Its seven lamps are arranged to light the space in front of it; the wick trimmers and trays are also gold.",
+    "",
+    "The instructions end by repeating the requirement to follow the pattern shown to Moses. [Leviticus 24:1–4](https://biblehub.com/bsb/leviticus/24.htm) later describes the people supplying pure olive oil and Aaron tending the lamps from evening until morning before the LORD. Their light is part of the ongoing service in the Holy Place."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Lampstand** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 25** remains the first control on meaning."
+    "The lampstand’s practical purpose is to provide light for the sanctuary. Christian commentators also see in that light a picture of the instruction God gives His people. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) connects it with God’s word, while [Calvin](https://biblehub.com/commentaries/calvin/exodus/25.htm) emphasizes God enlightening His people by His teaching and Spirit. These are theological readings of the furnishing, alongside its stated use as a light."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The lampstand image appears again in [Zechariah 4:1–14](https://biblehub.com/bsb/zechariah/4.htm), where the message to Zerubbabel is that God’s work is accomplished by His Spirit. The later vision adds details of its own, but it carries forward the theme of light and provision coming from God.",
+    "",
+    "In [Revelation 1:12–20](https://biblehub.com/bsb/revelation/1.htm), the risen Christ stands among seven golden lampstands, which He identifies as seven churches. These are separate lampstands, rather than a claim that John sees this one seven-branched furnishing. The image places the churches’ life and witness in relation to their present Lord. Jesus Himself is the light of the world ([John 8:12](https://biblehub.com/bsb/john/8.htm)); and in the final vision, God’s glory gives the city light and the Lamb is its lamp ([Revelation 21:22–27](https://biblehub.com/bsb/revelation/21.htm)). The theme reaches from light within Israel’s sanctuary to God’s people living in His light."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/25.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-twenty-five-review.md"
+  }
 }

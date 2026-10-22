@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "2 Peter",
+    "citation": "2:4-9",
+    "label": "2 Peter 2:4-9",
+    "slug": "2-peter-2-4-9"
+  },
+  "section_title": "What do these examples show about judgment and rescue?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "4 For if God did not spare the angels when they sinned, but cast them deep into hell, placing them in chains of darkness to be held for judgment; 5 if He did not spare the ancient world when He brought the flood on its ungodly people, but preserved Noah, a preacher of righteousness, among the eight; 6 if He condemned the cities of Sodom and Gomorrah to destruction, reducing them to ashes as an example of what is coming on the ungodly;",
+        "7 and if He rescued Lot, a righteous man distressed by the depraved conduct of the lawless 8 (for that righteous man, living among them day after day, was tormented in his righteous soul by the lawless deeds he saw and heard)— 9 if all this is so, then the Lord knows how to rescue the godly from trials and to hold the unrighteous for punishment on the day of judgment."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Peter supports the warning with three examples: angels who sinned, the world in Noah’s day, and Sodom and Gomorrah. None was beyond God’s judgment. The angels are held for judgment; the ancient world and the cities met destruction.",
+    "",
+    "The examples also include rescue. God preserved Noah with seven others and delivered Lot, whose life in Sodom brought distress at the lawlessness around him. [Genesis 19:16](https://biblehub.com/bsb/genesis/19.htm) explicitly attributes Lot’s being brought out to the Lord’s compassion.",
+    "",
+    "The conclusion holds both sides together: the Lord knows how to rescue the godly from trials and how to hold the unrighteous for judgment. Present delay does not mean evil has escaped His notice or that those trusting Him have been forgotten."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/2_peter/2.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-epistle-general-of-st-peter/) understand these examples as assurance that God can judge evil and care for His people. Calvin emphasizes leaving the timing of rescue and judgment to God, rather than assuming His silence means inaction.",
+    "",
+    "Calvin also cautions against inventing details about the angels’ sin, since Peter does not name its time or circumstances. The [USCCB’s study notes](https://bible.usccb.org/bible/2peter/2) link the angelic example with Jude 6 and Genesis 6, while emphasizing the paragraph’s joined themes of judgment and rescue. The central conclusion is clearer than every detail readers may ask about."
+  ],
+  "god_plan_lines": [
+    "Jesus Himself brings Noah and Lot together in [Luke 17:26–33](https://biblehub.com/bsb/luke/17.htm), comparing their days with the day the Son of Man is revealed. The earlier judgments are used by the New Testament to call people to readiness for God’s final accounting.",
+    "",
+    "Peter’s examples carry warning and hope together. God’s ability to preserve His people is part of the same account that insists evil will be judged. They give believers reason to trust Him while taking His call seriously."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_peter/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-peter-two-opening-review.md"
+  }
+}

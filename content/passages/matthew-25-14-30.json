@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "25:14-30",
+    "label": "Matthew 25:14-30",
+    "slug": "matthew-25-14-30"
+  },
+  "section_title": "The Talents: What Will We Do with What We Have Been Given?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 For it is just like a man going on a journey, who called his servants and entrusted them with his possessions. 15 To one he gave five talents, to another two talents, and to another one talent—each according to his own ability. And he went on his journey. 16 The servant who had received the five talents went at once and put them to work and gained five more. 17 Likewise, the one with the two talents gained two more. 18 But the servant who had received the one talent went off, dug a hole in the ground, and hid his master’s money.",
+        "19 After a long time the master of those servants returned and settled accounts with them. 20 The servant who had received the five talents came and presented five more. ‘Master,’ he said, ‘you entrusted me with five talents. See, I have gained five more.’ 21 His master replied, ‘Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Enter into the joy of your master!’ 22 The servant who had received the two talents also came and said, ‘Master, you entrusted me with two talents. See, I have gained two more.’ 23 His master replied, ‘Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Enter into the joy of your master!’",
+        "24 Finally, the servant who had received the one talent came and said, ‘Master, I knew that you are a hard man, reaping where you have not sown and gathering where you have not scattered seed. 25 So I was afraid and went out and hid your talent in the ground. See, you have what belongs to you.’ 26 ‘You wicked, lazy servant!’ replied his master. ‘You knew that I reap where I have not sown and gather where I have not scattered seed. 27 Then you should have deposited my money with the bankers, and on my return I would have received it back with interest. 28 Therefore take the talent from him and give it to the one who has ten talents. 29 For everyone who has will be given more, and he will have an abundance. But the one who does not have, even what he has will be taken away from him. 30 And throw that worthless servant into the outer darkness, where there will be weeping and gnashing of teeth.’"
+      ]
+    }
+  ],
+  "context_lines": [
+    "A man going on a journey entrusts his possessions to three servants, giving five talents, two, and one according to their abilities. Two put the money to work and double it. The third buries his master's money. After a long time, the master returns and asks them to account for it.",
+    "",
+    "Talent here is τάλαντον, *talanton* (TAH-lahn-ton). [Thayer's lexicon](https://biblehub.com/greek/5007.htm) explains it as a weight and then a sum of money measured by that weight, with its value varying by place and time. The story concerns entrusted money; applying it to abilities or opportunities is an explanation of the story, rather than the Greek word's meaning here.",
+    "",
+    "The servants who began with five and two receive the same words of approval, greater responsibility, and a welcome into their master's joy. Their starting amounts and final totals differ, but both have been faithful with what they received.",
+    "",
+    "The third servant describes his master as harsh and says fear led him to hide the money. The master calls him wicked and lazy: even on the servant's own description, he should have done something with what was entrusted to him. The money is taken away, and he is thrown into the outer darkness. The story makes readiness active: the wait is a time for faithful service, and neglect carries serious consequences."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand the entrusted wealth as a picture of responsibilities and resources to be used in God's service. The equal praise for the first two servants emphasizes faithfulness with what each received, rather than comparison with someone else's larger assignment.",
+    "",
+    "Readers explain the rejected servant in different ways. [Walvoord on 25:14–30](https://walvoord.com/article/219) understands him as someone who never truly believed, with his inactivity revealing that lack of faith. The [Westminster Confession, chapters 16–17](https://www.opc.org/wcf.html), likewise distinguishes works as the fruit of true faith and teaches that those truly brought to saving faith will finally persevere; it does not offer a detailed explanation of every part of this parable.",
+    "",
+    "[Wesley on 25:14–30](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) stresses the warning to someone who treats merely doing no harm as enough while leaving good undone. The Catholic [Catechism, 1036](https://www.vatican.va/archive/ENG0015/__P2O.HTM), applies the warnings about the wedding feast and the lazy servant to the responsibility of remaining ready through one's earthly life. These explanations retain the severity of exclusion, while differing in how they describe the person's faith and response to God."
+  ],
+  "god_plan_lines": [
+    "God equips His people to serve one another. [1 Peter 4:7–11](https://biblehub.com/bsb/1_peter/4.htm) connects awareness of the approaching end with prayer, love, hospitality, and using the gifts received from God. It also says that service draws on the strength God supplies. The larger purpose is that God is glorified through Jesus Christ, rather than that one person looks more impressive than another.",
+    "",
+    "[Colossians 3:22–24](https://biblehub.com/bsb/colossians/3.htm) speaks to people doing ordinary work under earthly masters and directs them to serve Christ wholeheartedly, with the promise of an inheritance from Him. That connection brings the lesson into daily life: faithful service can involve work, money, time, and care that receives little public notice. These promises give reason to serve without specifying exactly what each future responsibility or reward will be."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/25.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-five-review.md"
+  }
+}

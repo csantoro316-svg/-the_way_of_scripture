@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "1:16-20",
+    "label": "Mark 1:16-20",
+    "slug": "mark-1-16-20"
+  },
+  "section_title": "Four Fishermen Follow Jesus",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "16 As Jesus was walking beside the Sea of Galilee, He saw Simon and his brother Andrew. They were casting a net into the sea, for they were fishermen. 17 “Come, follow Me,” Jesus said, “and I will make you fishers of men.” 18 And at once they left their nets and followed Him.",
+        "19 Going on a little farther, He saw James son of Zebedee and his brother John. They were in a boat, mending their nets. 20 Immediately Jesus called them, and they left their father Zebedee in the boat with the hired men and followed Him."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Walking beside the Sea of Galilee, Jesus calls two sets of brothers during their work. Simon and Andrew are casting a net. James and John are mending nets in a boat with their father Zebedee. Both pairs respond promptly, leaving their former setting to follow Him.",
+    "",
+    "Jesus uses their familiar work as a picture of what He will make them: people who gather others. The promise puts their future service in His hands. He calls them to follow, learn from Him, and become able to share His work.",
+    "",
+    "Mark includes the hired men who remain in Zebedee's boat. That is a concrete detail about what the brothers leave behind, rather than a statement that every disciple must abandon every trade or leave family members without support.",
+    "",
+    "[John 1:35–42](https://biblehub.com/bsb/john/1.htm) records Andrew following Jesus after the Baptist's testimony and bringing Simon to Him. [Luke 5:1–11](https://biblehub.com/bsb/luke/5.htm) tells the call alongside a remarkable catch of fish. These accounts can be read together, while Mark's own emphasis stays on Jesus' summons and their response."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly see costly discipleship and preparation for sharing Jesus' mission. The Catholic [Catechism, 551](https://www.vatican.va/archive/ENG0015/__P1L.HTM), emphasizes participation in His work, while [Wesley on Mark 1:18](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-mark/) stresses their prompt response; no denominational breakdown is needed for that shared understanding."
+  ],
+  "god_plan_lines": [
+    "The promise begins to take shape within Mark's own story. In [Mark 3:13–19](https://biblehub.com/bsb/mark/3.htm), these men are among the twelve appointed to be with Jesus and to be sent out to preach. In [Mark 6:7–13](https://biblehub.com/bsb/mark/6.htm), He sends them in pairs, and they call people to repent and bring help to those in need. Learning at His side becomes service to others.",
+    "",
+    "[John 15:16](https://biblehub.com/bsb/john/15.htm) also speaks of Jesus choosing and appointing His disciples to bear lasting fruit. This is a connection with His wider teaching, not a claim that Mark records everything the fishermen already understood. Their beginning in ordinary work does not set the limit of what He can make of them."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-one-call-review.md"
+  }
+}

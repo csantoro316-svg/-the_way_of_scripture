@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "1:39-45",
+    "label": "Luke 1:39-45",
+    "slug": "luke-1-39-45"
+  },
+  "section_title": "What does Elizabeth recognize when Mary arrives?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "39 In those days Mary got ready and hurried to a town in the hill country of Judah, 40 where she entered the home of Zechariah and greeted Elizabeth. 41 When Elizabeth heard Mary’s greeting, the baby leaped in her womb, and Elizabeth was filled with the Holy Spirit.",
+        "42 In a loud voice she exclaimed, “Blessed are you among women, and blessed is the fruit of your womb! 43 And why am I so honored, that the mother of my Lord should come to me? 44 For as soon as the sound of your greeting reached my ears, the baby in my womb leaped for joy. 45 Blessed is she who has believed that the Lord’s word to her will be fulfilled.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Mary hurries to the hill country of Judah and enters Zechariah’s home. When she greets Elizabeth, the baby leaps in Elizabeth’s womb and Elizabeth is filled with the Holy Spirit. The two birth announcements now meet in one household.",
+    "",
+    "Elizabeth blesses Mary and her child, identifies Mary as the mother of her Lord, and describes the baby’s movement as joy. Her words direct attention to who Mary’s child is. Jesus is acknowledged as Lord before His birth.",
+    "",
+    "Elizabeth also blesses Mary for believing that God’s word will be fulfilled. This follows Zechariah’s earlier failure to believe Gabriel. The difference appears in the story itself: Mary receives assurance and offers herself as a servant; Zechariah’s silence is expressly connected with his disbelief. Luke presents faith in God’s promise as something to celebrate. ([Luke 1:18–20, 34–38](https://biblehub.com/bsb/luke/1.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly see this meeting as Spirit-given recognition of Jesus and encouragement for Mary’s faith: Catholic teaching connects Elizabeth’s words with calling Mary the Mother of God, meaning that the Son she bears is truly God become human; Calvin also explains mother of my Lord through Jesus being both God and man in one person. The title concerns who Jesus is and does not mean that Mary is the source of God’s eternal existence or the mother of the Father and the Spirit. ([Catechism 495](https://www.vatican.va/archive/ENG0015/__P1K.HTM); [Calvin on Luke 1:43](https://biblehub.com/commentaries/calvin/luke/1.htm); [Westminster 8.2](https://www.opc.org/wcf.html))"
+  ],
+  "god_plan_lines": [
+    "John’s promised work is to prepare people for the Lord, and even this meeting draws attention to Jesus. It is a fitting early sign of the direction his ministry will take. Later John explains that his baptism serves to reveal Jesus to Israel and testifies that Jesus is the Son of God. The connection is about the purpose of John’s witness, without claiming that Luke explains everything the unborn child understands. ([Luke 1:15–17](https://biblehub.com/bsb/luke/1.htm); [John 1:29–34](https://biblehub.com/bsb/john/1.htm))",
+    "",
+    "The Spirit’s work here also belongs to a wider pattern of making Jesus known. Jesus later teaches that the Spirit will glorify Him and lead His witnesses into truth. The household’s joy anticipates a witness that will reach beyond the family, through people empowered to speak about the risen Lord. ([John 16:7–15](https://biblehub.com/bsb/john/16.htm); [Acts 1:8](https://biblehub.com/bsb/acts/1.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-one-mary-review.md"
+  }
+}

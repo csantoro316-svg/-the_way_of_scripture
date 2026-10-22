@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "17:16-21",
+    "label": "Acts 17:16-21",
+    "slug": "acts-17-16-21"
+  },
+  "section_title": "Why does Paul speak in both the synagogue and the marketplace?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "16 While Paul was waiting for them in Athens, he was deeply disturbed in his spirit to see that the city was full of idols. 17 So he reasoned in the synagogue with the Jews and God-fearing Gentiles, and in the marketplace with those he met each day. 18 Some Epicurean and Stoic philosophers also began to debate with him. Some of them asked, “What is this babbler trying to say?” Others said, “He seems to be advocating foreign gods.” They said this because Paul was proclaiming the good news of Jesus and the resurrection.",
+        "19 So they took Paul and brought him to the Areopagus, where they asked him, “May we know what this new teaching is that you are presenting? 20 For you are bringing some strange notions to our ears, and we want to know what they mean.” 21 Now all the Athenians and foreigners who lived there spent their time doing nothing more than hearing and articulating new ideas."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul is waiting in Athens for Silas and Timothy when the city’s many idols deeply trouble him. He speaks in the synagogue with Jewish hearers and God-fearing Gentiles, and in the marketplace with the people he meets each day. His concern leads to conversation in both settings.",
+    "",
+    "Epicureans and Stoics represent different approaches to life. Epicurus describes happiness in terms of freedom from bodily pain and inner distress, rather than endless indulgence; see his [Letter to Menoeceus](https://classics.mit.edu/Epicurus/menoec.html). A later Stoic teacher, Epictetus, describes reverence for gods who govern with goodness and justice, and a willingness to accept what lies beyond our control; see [The Enchiridion, section 31](https://classics.mit.edu/Epictetus/epicench.html). These writings help explain the schools without telling us exactly what each person listening to Paul believed.",
+    "",
+    "Some philosophers dismiss him as a babbler. The Greek word **σπερμολόγος** (*spermologos*, sper-moh-LOH-goss) originally describes picking up seeds and is used as an insult for an empty talker. [Thayer’s lexicon](https://biblehub.com/greek/4691.htm) identifies that insulting sense here. This is their judgment of Paul, not Luke’s assessment of his message.",
+    "",
+    "Others think he is promoting foreign gods because he is preaching Jesus and the resurrection. They take him to the Areopagus and ask him to explain. Luke highlights their appetite for new ideas, while the speech that follows asks for something more demanding than curiosity: a changed response to God."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this scene as an example of bringing the message about Jesus into everyday conversation as well as a place of religious gathering. Paul’s distress over idols does not stop him from reasoning with people who disagree with him; their interest in a new idea does not yet mean they believe his message."
+  ],
+  "god_plan_lines": [
+    "The witness promised in [Acts 1:8](https://biblehub.com/bsb/acts/1.htm) keeps reaching new people and settings. Here the message enters a conversation with people whose starting point is Greek philosophy rather than Israel’s Scriptures. The next speech begins with the Creator they do not know and leads to the risen Man appointed to judge the world. The setting changes, while the witness remains centered on Jesus and the resurrection."
+  ],
+  "current_position_lines": [
+    "Worship as the Early Church Knew It discusses the God-fearing Gentiles in Acts 17:17 as people already marked by reverence for Israel’s God. That reverence is a setting in which they hear Paul’s message. It is not a claim that every religious response is already directed toward the truth, or that reverence makes further teaching unnecessary."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/17.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-acts-seventeen-closing-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It: Acts17:17, Reasoning Among the Reverent."
+  }
+}

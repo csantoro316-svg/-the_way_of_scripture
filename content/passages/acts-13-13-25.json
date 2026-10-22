@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "13:13-25",
+    "label": "Acts 13:13-25",
+    "slug": "acts-13-13-25"
+  },
+  "section_title": "Why does Paul begin with Israel’s history?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 After setting sail from Paphos, Paul and his companions came to Perga in Pamphylia, where John left them to return to Jerusalem. 14 And from Perga, they traveled inland to Pisidian Antioch, where they entered the synagogue on the Sabbath and sat down. 15 After the reading from the Law and the Prophets, the synagogue leaders sent word to them: “Brothers, if you have a word of encouragement for the people, please speak.” 16 Paul stood up, motioned with his hand, and began to speak: “Men of Israel and you Gentiles who fear God, listen to me!",
+        "17 The God of the people of Israel chose our fathers. He made them into a great people during their stay in Egypt, and with an uplifted arm He led them out of that land. 18 He endured their conduct for about forty years in the wilderness. 19 And having vanquished seven nations in Canaan, He gave their land to His people as an inheritance. 20 All this took about 450 years. After this, God gave them judges until the time of Samuel the prophet. 21 Then the people asked for a king, and God gave them Saul son of Kish, from the tribe of Benjamin, who ruled forty years. 22 After removing Saul, He raised up David as their king and testified about him: ‘I have found David son of Jesse a man after My own heart; he will carry out My will in its entirety.’",
+        "23 From the descendants of this man, God has brought to Israel the Savior Jesus, as He promised. 24 Before the arrival of Jesus, John preached a baptism of repentance to all the people of Israel. 25 As John was completing his course, he said, ‘Who do you suppose I am? I am not that One. But there is One coming after me whose sandals I am not worthy to untie.’"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul and his companions sail from Paphos to Perga, where John leaves them and returns to Jerusalem. Luke does not give the reason for his departure here. The others continue to Pisidian Antioch, a different Antioch from the community that sent them.",
+    "",
+    "In the synagogue, the leaders invite them to speak after the reading from the Law and the Prophets. Paul addresses both Israelites and Gentiles who fear God. He begins with what God has done: choosing the fathers, bringing the people out of Egypt, bearing with them in the wilderness and giving them the land.",
+    "",
+    "The account moves through the judges and Samuel to Saul and David. The reference to David becomes the bridge to Jesus: God has brought Israel the promised Savior from David’s descendants. Paul also recalls John’s call to repentance and his refusal to claim the place of the One coming after him.",
+    "",
+    "The historical summary is directed toward a person, rather than being a complete timeline for its own sake. The events prepare the hearers to understand Paul’s announcement about Jesus in the next part of the speech."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this opening as presenting Jesus within the history of God’s promises to Israel. The reference to David’s descendants leads directly to Jesus as Savior, while John’s testimony directs attention away from himself toward the One to come."
+  ],
+  "god_plan_lines": [
+    "God’s promise to David includes an enduring house and kingdom in [2 Samuel 7:12–16](https://biblehub.com/bsb/2_samuel/7.htm). [Luke 1:31–33](https://biblehub.com/bsb/luke/1.htm) explicitly connects Jesus with David’s throne and a kingdom without end. Paul’s announcement in verse 23 belongs within that stated biblical connection.",
+    "",
+    "Neither the failures of Israel’s leaders nor the passing of earlier generations has brought the promise to an end. Paul is announcing that the Savior has come in keeping with God’s promise, not asking the synagogue to forget the story it has been reading."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/13.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-thirteen-closing-review.md"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "1 Timothy",
+    "citation": "2:8-10",
+    "label": "1 Timothy 2:8-10",
+    "slug": "1-timothy-2-8-10"
+  },
+  "section_title": "What should mark the people who gather to pray?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "8 Therefore I want the men everywhere to pray, lifting up holy hands, without anger or dissension. 9 Likewise, I want the women to adorn themselves with respectable apparel, with modesty, and with self-control, not with braided hair or gold or pearls or expensive clothes, 10 but with good deeds, as is proper for women who profess to worship God."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul moves from the breadth of the community’s prayer to the conduct of those praying. He wants the men everywhere to pray with holy hands, without anger or dissension. The condition of their relationships and conduct belongs with their public prayer.",
+    "",
+    "He then addresses women’s appearance, calling for respectable dress, modesty and self-control. Braided hair, gold, pearls and expensive clothing are set alongside the different adornment of good deeds.",
+    "",
+    "The passage directs attention from displays of appearance to a life fitting the profession of devotion to God. The next verses continue with learning and teaching in the community; these instructions are part of the letter’s concern for its shared life."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read these instructions as calling for holy, peaceable prayer and conduct that shows devotion to God. Applications of the clothing list differ.",
+    "",
+    "[Wesley’s note on verse 9](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-timothy/) treats the named ornaments as explicit prohibitions. [Calvin’s comments on verses 9–10](https://biblehub.com/commentaries/calvin/1_timothy/2.htm) instead understand the instruction as requiring modesty and moderation rather than forbidding every use of gold or jewels. These are named teachers’ readings, rather than a claim that every church in either tradition has one identical dress rule."
+  ],
+  "god_plan_lines": [
+    "[1 Peter 2:9–12](https://biblehub.com/bsb/1_peter/2.htm) describes a people called out of darkness to proclaim God’s goodness. Their honorable conduct and good deeds are meant to lead others to glorify Him. This supplies the wider purpose behind a life that visibly matches devotion to God.",
+    "",
+    "[Matthew 5:14–16](https://biblehub.com/bsb/matthew/5.htm) similarly connects good deeds with giving glory to the Father. The goal of the community’s visible life is to direct attention toward Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_timothy/2.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-timothy-two-opening-review.md"
+  }
+}

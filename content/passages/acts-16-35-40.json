@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "16:35-40",
+    "label": "Acts 16:35-40",
+    "slug": "acts-16-35-40"
+  },
+  "section_title": "Why does Paul ask for a public release?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "35 When daylight came, the magistrates sent their officers with the order: “Release those men.” 36 The jailer informed Paul: “The magistrates have sent orders to release you. Now you may go on your way in peace.” 37 But Paul said to the officers, “They beat us publicly without a trial and threw us into prison, even though we are Roman citizens. And now do they want to send us away secretly? Absolutely not! Let them come themselves and escort us out!” 38 So the officers relayed this message to the magistrates, who were alarmed to hear that Paul and Silas were Roman citizens. 39 They came to appease them and led them out, requesting that they leave the city. 40 After Paul and Silas came out of the prison, they went to Lydia’s house to see the brothers and encourage them. Then they left the city."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The next morning, the magistrates send orders to release Paul and Silas. Paul objects to being quietly dismissed after a public beating and imprisonment without trial. He identifies both men as Roman citizens and asks the magistrates to come themselves.",
+    "",
+    "Roman citizenship gives the objection weight. In an earlier Roman speech, [Cicero, Against Verres 2.5.162–170](https://www.attalus.org/cicero/verres25_3.html), condemns the beating of a Roman citizen as an abuse of citizens’ rights. That earlier complaint helps explain the alarm when these magistrates learn the men are citizens.",
+    "",
+    "They come to appease the men, escort them out and ask them to leave the city. Before departing, Paul and Silas visit Lydia’s house and encourage the believers. The chapter closes with attention to the community, as well as to the messengers’ release."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Paul’s response as an appeal to his citizenship after unjust treatment. [Wesley on verse 37](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) reads the concern as protecting the witness from the public suspicion the treatment could create, rather than simply seeking personal revenge."
+  ],
+  "god_plan_lines": [
+    "Paul later urges these believers to stand together for the gospel in [Philippians 1:27–30](https://biblehub.com/bsb/philippians/1.htm), referring to the struggle they had seen in him. His suffering belongs to the shared history from which he encourages their own perseverance.",
+    "",
+    "The return to Lydia’s house fits that continuing concern. The journey will move on, but the believers who remain need encouragement to live and witness together. The mission includes strengthening those people, not only securing the travelers’ next destination."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/16.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-sixteen-review.md"
+  }
+}

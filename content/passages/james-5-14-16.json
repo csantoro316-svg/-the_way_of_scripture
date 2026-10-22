@@ -5,18 +5,63 @@
     "label": "James 5:14-16",
     "slug": "james-5-14-16"
   },
+  "section_title": "What are prayer, healing and confession doing together?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"Is anyone among you sick? Then he must call for the elders of the church and they are to pray over him, anointing him with oil in the name of the Lord; and the prayer offered in faith will restore the one who is sick, and the Lord will raise him up, and if he has committed sins, they will be forgiven him. Therefore, confess your sins to one another, and pray for one another so that you may be healed. The effective prayer of a righteous man can accomplish much.\""
+      "label": "BSB",
+      "paragraphs": [
+        "14 Is any one of you sick? He should call the elders of the church to pray over him and anoint him with oil in the name of the Lord. 15 And the prayer offered in faith will restore the one who is sick. The Lord will raise him up. If he has sinned, he will be forgiven. 16 Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous man has great power to prevail."
+      ]
     }
   ],
   "context_lines": [
-    "In **James 5**, James closes the letter by addressing suffering, patience, oaths, confession, and prayer in the life of the community. The chapter presents prayer in the setting of endurance, restoration, righteousness, and life together before God."
-  ],
-  "explanation_lines": [
-    "This passage is commonly read as an unconditional promise of physical healing through prayer \u2014 pray in faith over the sick, and God will restore them. That reading collapses under the weight of the Greek word James actually uses.",
+    "James joins elders’ prayer, anointing, the Lord’s raising up, forgiveness and the confession of sins. The person in need is not left to carry the condition alone, and the believers are told to pray for each other.",
     "",
-    "The word translated \"restore\" is **\u03c3\u1ff4\u03b6\u03c9 (s\u014dz\u014d (SOH-zoh))** \u2014 the standard New Testament word for salvation and spiritual wholeness. It is the same word used throughout the Gospels and Paul's letters for being saved. James does not use the ordinary Greek word for physical recovery. He uses the word for spiritual restoration \u2014 and the passage itself confirms this is his meaning, because he immediately connects the prayer to the forgiveness of sins and the confession of sins to one another. You do not confess sins to break a fever. You confess sins to restore fellowship with God."
-  ]
+    "The wording if he has sinned keeps the connection with personal sin conditional. James calls for honesty and restoration without making every sick person guilty of a particular hidden offense.",
+    "",
+    "The words for [sickness](https://biblehub.com/greek/770.htm) and [restoration](https://biblehub.com/greek/4982.htm) allow bodily as well as spiritual concerns. The promise cannot be explained simply by declaring that the Greek rules physical healing out."
+  ],
+  "common_interpretation_lines": [
+    "The Catholic Church understands the anointing as a sacrament ([Catechism, 1510–1513](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_two/article_5/i_its_foundations_in_the_economy_of_salvation.html)), bringing spiritual help and bodily healing if God wills ([1520](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_two/article_5/iv_the_effects_of_the_celebration_of_this_sacrament.index.html)). It also teaches a priestly ministry of reconciliation in which God forgives ([1441–1448](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_two/article_4/vi_the_sacrament_of_penance_and_reconciliation.html)).",
+    "",
+    "[Calvin](https://biblehub.com/commentaries/calvin/james/5.htm) connects the oil with the early church’s temporary gift of healing, while [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-general-epistle-of-st-james/) understands the practice as intended to continue. Both see mutual confession as prompting believers to pray for one another; Wesley explicitly refuses to confine that confession to elders."
+  ],
+  "god_plan_lines": [
+    "[Mark 6:12–13](https://biblehub.com/bsb/mark/6.htm) places anointing and healing beside repentance in the disciples’ mission. [John 9:1–3](https://biblehub.com/bsb/john/9.htm) also shows why care must not become an automatic accusation of personal sin.",
+    "",
+    "[2 Corinthians 12:7–10](https://biblehub.com/bsb/2_corinthians/12.htm) brings another part of Christ’s care into view: strength given through continuing weakness. His saving purposes encompass more than the immediate removal of every painful condition."
+  ],
+  "current_position_lines": [
+    "Our study [Prayer and Faith](https://thewayofscripture.com/studies/prayer-and-faith.html) reads this passage as a call to seek spiritual restoration and renewed fellowship with God, with physical recovery remaining in His hands. It understands faithful prayer as dependence on God’s will, rather than an unconditional promise of healing produced by the strength of someone’s belief. Our study [Baptism](https://thewayofscripture.com/studies/baptism.html) understands the mutual confession here as accountability and healing among believers, rather than a priestly requirement for receiving God’s forgiveness."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/james/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-james-five-review.md",
+    "position_source_detail": "Prayer and Faith — prayer_and_faith.md330–340; Baptism — baptism.md196."
+  }
 }

@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "15:25-34",
+    "label": "1 Kings 15:25-34",
+    "slug": "1-kings-15-25-34"
+  },
+  "section_title": "Does a new royal house bring a new direction for Israel?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "25 In the second year of Asa’s reign over Judah, Nadab son of Jeroboam became king of Israel, and he reigned two years. 26 And he did evil in the sight of the LORD and walked in the way of his father and in his sin, which he had caused Israel to commit. 27 Then Baasha son of Ahijah of the house of Issachar conspired against Nadab, and Baasha struck him down at Gibbethon of the Philistines while Nadab and all Israel were besieging the city. 28 In the third year of Asa’s reign over Judah, Baasha killed Nadab and reigned in his place. 29 As soon as Baasha became king, he struck down the entire household of Jeroboam. He did not leave to Jeroboam anyone who breathed, but destroyed them all according to the word that the LORD had spoken through His servant Ahijah the Shilonite, 30 because of the sins Jeroboam had committed and had caused Israel to commit, and because he had provoked the LORD, the God of Israel, to anger.",
+        "31 As for the rest of the acts of Nadab, along with all his accomplishments, are they not written in the Book of the Chronicles of the Kings of Israel? 32 And there was war between Asa and Baasha king of Israel throughout their days. 33 In the third year of Asa’s reign over Judah, Baasha son of Ahijah became king of all Israel, and he reigned in Tirzah twenty-four years. 34 And Baasha did evil in the sight of the LORD and walked in the way of Jeroboam and in his sin, which he had caused Israel to commit."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The account returns to the north during Asa’s reign. Nadab son of Jeroboam reigns two years and continues the sin his father introduced. While Israel besieges the Philistine town of Gibbethon, Baasha kills him and takes the throne.",
+    "",
+    "Baasha then destroys Jeroboam’s household. The narrator expressly identifies this with the word the LORD spoke through Ahijah about Jeroboam’s sin and its effect on Israel.",
+    "",
+    "Yet the new dynasty does not bring faithfulness. Baasha reigns twenty-four years and follows the same course of worship as the family he has destroyed. The rulers change while the central sin continues."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) and [Gill](https://biblehub.com/commentaries/gill/1_kings/15.htm) distinguish the fulfillment of God’s warning from Baasha’s motives in carrying out the killings. Gill sees ambition and the removal of rivals, rather than a desire to end idolatry.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/15.htm) likewise reads the upheaval as human wrongdoing within a history in which God’s announced word comes to pass. Baasha’s continuation of Jeroboam’s ways prevents the coup from being mistaken for spiritual reform."
+  ],
+  "god_plan_lines": [
+    "The next chapter makes an essential distinction explicit. In [1 Kings 16:1–7](https://biblehub.com/bsb/1_kings/16.htm), God holds Baasha accountable for leading Israel into sin and for striking down Jeroboam’s house.",
+    "",
+    "The judgment previously announced against Jeroboam does not make Baasha’s conduct righteous simply because it helps bring that judgment about. Across these linked passages, God’s purposes and human responsibility remain together: a person used within the course of events is still answerable for what he does."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/15.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-fifteen-review.md"
+  }
+}

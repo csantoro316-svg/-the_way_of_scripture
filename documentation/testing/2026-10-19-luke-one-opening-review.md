@@ -1,0 +1,37 @@
+# Luke 1:1–25 editorial review
+
+2026-10-19; passage-v1. Three coherent new groups1–4,5–17,18–25. Baseline42-luke.pdf, extractedthe-book-of-luke-combined-lessons.txt,1043pages. Pages1–12Luke1A fullyread;13–16Luke1Bopeningfullyread, including24–25andMaryannouncementopening.17onward notyetread. No PDFdiagram used.
+
+## Sources actually read
+
+Fresh BibleHub BSB Luke1:1–25and57–80;Luke24whole,Acts1:1–11,John20whole directlyread during precedingMark16work. FreshMal3:1–4/4whole,Matt11:7–15/17:9–13,John1:19–34,1Chron24:1–19,Gen18:9–15,1Sam1:1–20,Acts13:16–26,Rom10:14–17,Heb11:24–26. ActualThayer2517kathexesentry read; public Greek script/transliteration/pronunciation/plainmeaning. Thayer804read but is adjective not verse4noun; not used as directwordformclaim. No historical claim drawn from generatedBibleHubTopical summaries.
+
+PrimaryWesleyLuke1:1–25actuallyread;CalvinLuke1:14–17actualcommentaryread, includingfull17argument;USCCBLuke1:1–25notesread, not adopted as churchdogma on historicallegend/originaldating. Basicagreementstatedbriefly, no forceddenominationalbreakdown. Teacheraccounts remain teacher explanations. No study directly supplies a developed position on these25verses; relatedprayer/gospel/Bereanlinks do not create newpositions. StudysearchZechariah/Zacharias/Elizabeth/Luke1returned no relevant developed conclusion.
+
+## Luke1:1–4
+
+Plan section: included, because (a)/(c).Luke24:44–49Scripturefulfilled/forgivenessnations;Acts1continuesTheophilusaccount/Spiritwitness;John20:30–31relatedpurposewrittenwitnesslife.
+
+Position source: none.
+
+FLAGGED FOR REVIEW: Baseline dateunderPaulRomanimprisonment, precise27percentNTcount, scientifictemperament, Lukephysician/onlyGentileauthor statements not independently established for this page; no claim introductionitselfnamesPaulcompanion. ScriptureCol4:14canidentifyLukephysicianbutdoesnotbyitselfproveauthoridentity/date/ethnicity. UniversalJewswouldneverbephysicians/sickbodiesalwaysunclean/slavephysicianTheophiluspatron claimnotverified,omitted. Theophiluspersonalstatus/masterrelationship notdeterminedbyhonorific. Kathexesinorder doesnotaloneproveeverysmalldetailstrictchronology;actuallexiconandWesleyallowdistinction. No competingexistingGospelsnamedfrommanyoraccusationLukeclaimsallothersincorrect. No unsupported mechanicsinspiration/psychology dictationassertion. No assumptionfaithrequiresanacademicqualification; practicalcarefulreadinggroundedintext.
+
+## Luke1:5–17
+
+Plan section: included, because (a)/(c).Matt11/17identifyJohn’sElijahconnection;John1distinguishespersonfromrole;Luke1:67–79Abrahamcovenant/forgivenessandActs13God’spromisedSavior extendpurposebeyondcontextsummary.
+
+Position source: none.
+
+FLAGGED FOR REVIEW: BaselinecallsHerodgovernorandJudeamodernIsrael;publicpreservesactualkingofJudeawithoutanachronisticborders. PriestdivisionsareAaron’sdescendantsnotallLevites;1Chron24directverified. Exacttwoweeks/year,onceperlifetimelots,priestnumbers,travelroute,particularhourunneededandnotindependentlyestablishedhere;PerseusJosephusfetchdelayed/failednotreadorclaimedverification. No automaticgodlyconductearnschild/honororblameless=sinlessness. Childlessnessnotproofsinexplicitnarrativecontrast; historicalreproachfromElizabethownwords/HannahtextnotuniversalallJewswomenroleclaim. LifetimeNaziritevow/fullhaircutrule notexplicitLuke(noalcoholdoesnotproveallvowdetails). JohntypeofHolySpirit notNTexplicit;useJohnpreparesJesusandSpiritgivespower,notnewequationorSpiritidentification. BaselinefutureliteralElijahsecondcomingreadingoneview,notpromotedasthispassage’sconsensus;directJesusJohnidentificationandJohnpersondenialpreservedwithoutnewownerendtimesposition. No forcedallIsraelapostasyportraitwhichcontradictsfaithfulcouple. NoauthoritativewordmeaningJohnnamewithoutlexicalresearch.
+
+## Luke1:18–25
+
+Plan section: included, because (a)/(b)/(c).SupportedSarah/Hannahbirthparallelwithparticularpromises,notuniversalconceptionpromise;Luke1:57–79speechrestored/praisekeptword.
+
+Position source: none.
+
+FLAGGED FOR REVIEW: SourcepsychologyAbrahamsurprisednotdoubtingbecausealreadyIshmaelcontrastedZechariahhaswrittenScripturehigherstandardnotexpressreasonGabrielgives;noinventedprivateintent. Lukeexplicitlyunbeliefreasonretained. SourceElizabethseclusionmedicalpregnancy-riskmotiveunverified;Wesleyconjecturesdevotioninstead;publicstatesmotiveunexplained. Zechariahmuteproofimmediatelyfullfaithnotstated. Deafnesshypothesisfromlatermaking-signsnotstatedascertainhere. AngeltheophanynotassumedChristsinceGabrielidentifieshimself;noinventedangelhierarchynumberclaim. Noeverychilddelaymeansspecialchosenrole claim. Particularansweredprayerdoesnotoriginateuniversaloutcomeprayerposition. BaselineMosesworldlydisgraceparallelHeb11checkedbutnotforcedintoanewsectionlessonalreadycoveredbybirthparallel.
+
+## Validation
+
+Three fresh BSB comparisons, eight tests, repository validation(0errors/349legacywarnings),preservation1,315existingwebfiles, all3reviewedLukenavigation/source-index-HTML/continuous25versecoverage, focusedgenerationidempotence,390pxreaderandstandalonesections/nooverflow/Greek/literalMarkdownchecks,actualNext route/focus/titleposition188.515625,Hostingdryrun/releaseterminal0andsevenaffectedlivebytechecks passed. ActivehostCozPlex/projectthe-way-of-scripturecertificateprojectreadandFirebaseapplistpassedearlierinthesamecontinuingwork; requiredwrapperrouteusedforeveryrelease.

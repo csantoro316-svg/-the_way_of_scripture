@@ -5,13 +5,55 @@
     "label": "Matthew 8:2",
     "slug": "matthew-8-2"
   },
-  "versions": [],
-  "context_lines": [
-    "Matthew 8:2 should be read within the flow of its chapter and the larger argument of Matthew."
+  "section_title": "A Humble Request for Cleansing",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "2 Suddenly a leper came and knelt before Him, saying, “Lord, if You are willing, You can make me clean.”"
+      ]
+    }
   ],
-  "explanation_lines": [
-    "The leper's act was not ceremonial worship but a deeply personal plea expressed through physical humility \u2014 bowing in recognition of divine authority. His posture reflects *proskune\u014d* as reverent submission, not religious ritual.",
+  "context_lines": [
+    "This request belongs to the healing recorded in [Matthew 8:1–4](https://biblehub.com/bsb/matthew/8.htm). Jesus has come down from the mountain, and a man with leprosy approaches Him. The man does not question Jesus' ability to make him clean. He asks whether Jesus is willing.",
     "",
-    "**Restored reading:** *\"...he bowed in reverence before Him.\"*"
-  ]
+    "The BSB describes him kneeling before Jesus. The Greek verb is προσκυνέω, *proskuneō* (pros-koo-NEH-oh). [Thayer's Greek Lexicon](https://biblehub.com/greek/4352.htm) explains that it can describe kneeling or bowing to show reverence, make a plea, or worship. The setting matters: here a man lowers himself before Jesus while asking for help. The word alone does not tell us everything he understood about Jesus.",
+    "",
+    "The request to be made clean reflects the Law's treatment of this condition. [Leviticus 13:45–46](https://biblehub.com/bsb/leviticus/13.htm) describes exclusion from the camp, and [Leviticus 14:1–20](https://biblehub.com/bsb/leviticus/14.htm) provides for examination and cleansing after healing. In the next two verses Jesus touches the man, cleanses him, and sends him to the priest."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the man's approach as a humble expression of faith in Jesus' power, with the outcome entrusted to His willingness. [Wesley's notes on Matthew 8:2–4](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) place the plea within the healing and priestly testimony that follow, while the Catholic [Catechism, 1503–1505](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_two/article_5/i_its_foundations_in_the_economy_of_salvation.html), similarly places Jesus' care for the sick within His compassionate mission."
+  ],
+  "god_plan_lines": [
+    "This man's approach gives a concrete picture of bringing need to Jesus. The wider invitation becomes explicit in [Hebrews 4:14–16](https://biblehub.com/bsb/hebrews/4.htm): because Jesus the Son of God is the great high priest who understands human weakness, believers may approach God's throne for mercy and help.",
+    "",
+    "That is a supported parallel, rather than a claim that Hebrews is explaining this particular healing. It places the man's humble request beside the larger welcome Christ opens to people in need. The promise in Hebrews is mercy and grace; it does not turn this one healing into a guarantee that every illness will end immediately."
+  ],
+  "current_position_lines": [
+    "Worship as the Early Church Knew It understands the man's bowing as a personal plea expressed through physical humility. He approaches Jesus in reverent submission and recognizes His divine authority. The focus is his humble appeal to Jesus, rather than the form of a religious service.",
+    "",
+    "That is the study's position on the man's approach in verse 2. It does not provide a separate site position on every detail of the healing or the priestly instructions."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/8.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-cleansing-and-centurion-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It — Matthew 8:2, The Leper’s Approach"
+  }
 }

@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "3:1-7",
+    "label": "Daniel 3:1-7",
+    "slug": "daniel-3-1-7"
+  },
+  "section_title": "What does the king demand when the music sounds?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 King Nebuchadnezzar made a golden statue sixty cubits high and six cubits wide, and he set it up on the plain of Dura in the province of Babylon. 2 Then King Nebuchadnezzar sent word to assemble the satraps, prefects, governors, advisers, treasurers, judges, magistrates, and all the other officials of the provinces to attend the dedication of the statue he had set up. 3 So the satraps, prefects, governors, advisers, treasurers, judges, magistrates, and all the rulers of the provinces assembled for the dedication of the statue that King Nebuchadnezzar had set up, and they stood before it.",
+        "4 Then the herald loudly proclaimed, “O people of every nation and language, this is what you are commanded: 5 As soon as you hear the sound of the horn, flute, zither, lyre, harp, pipes, and all kinds of music, you must fall down and worship the golden statue that King Nebuchadnezzar has set up. 6 And whoever does not fall down and worship will immediately be thrown into the blazing fiery furnace.” 7 Therefore, as soon as all the people heard the sound of the horn, flute, zither, lyre, harp, and all kinds of music, the people of every nation and language would fall down and worship the golden statue that King Nebuchadnezzar had set up."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Nebuchadnezzar sets up a golden statue on the plain of Dura and summons the provincial officials to its dedication. Its dimensions—sixty cubits high and six wide—make it an imposing focus for the gathering.",
+    "",
+    "The herald commands people of every nation and language to fall down and worship when the instruments sound. Refusal will mean immediate death in the fiery furnace.",
+    "",
+    "The scene joins royal authority, a public ceremony and a demand for worship. The issue for the faithful is not simply whether to attend an official event, but whether to give the worship the command requires."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/daniel/3.htm) emphasizes the pressure created by public attraction and the threat of punishment. [Cambridge](https://biblehub.com/commentaries/cambridge/daniel/3.htm) notes that the text does not state exactly whom the statue represents, although it considers an image of the king likely.",
+    "",
+    "The demand for worship is clear even where the statue’s precise form is not. The chapter does not state a date or say that the image is a direct copy of the statue in the preceding dream."
+  ],
+  "god_plan_lines": [
+    "A close parallel appears in [Revelation 13:11–18](https://biblehub.com/bsb/revelation/13.htm), where worship of an image is enforced with the threat of death. Power is used to demand allegiance that conflicts with faithfulness to God.",
+    "",
+    "[Revelation 14:9–13](https://biblehub.com/bsb/revelation/14.htm) places that pressure alongside a call for the saints’ perseverance and the hope of rest for those who die in the Lord. The connection shows the seriousness of faithful worship, without turning every detail of Nebuchadnezzar’s ceremony into a timetable of future events."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/3.htm",
+    "plan_basis": [
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-three-review.md"
+  }
+}

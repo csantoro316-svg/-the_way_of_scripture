@@ -1,0 +1,23 @@
+# Luke16:1–13 opening review —2026-10-19
+
+Two groups begin chapter16. Full baseline16A684–695read;16B696–705partial,706onwardunread at drafting. Entrusted wealth, passing opportunity, generosity and loyalty lessons investigated. No developed site study on these exact passages found; both positions remain open. No public baseline attribution or copied scheme.
+
+Direct BibleHub BSB16:1–15;1Tim6:17–19;2Cor9:6–15;Luke12:42–48;Heb13:5–6;1Pet4:7–11read. ActualThayer5429 https://biblehub.com/greek/5429.htm includescomparativeLuke16:8prudent/mindfulinterests;3126 https://biblehub.com/greek/3126.htm richesread,butnohistoricallydisputedetymologypublished.Public5429script/transliteration/pronunciation/plainmeaningreferstocomparisonmoreshoewd,notfirstadverbactedshrewdly(5430).BSBworldlywealthkeptratherthansubstitutingolderunrighteouswealthwording.
+
+Primaryreadings:actualWesleyXVI1–18 https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/ ;actualUSCCB16:1–15notes https://bible.usccb.org/bible/luke/16 ;Calvinopening and16:9actualexposition https://biblehub.com/commentaries/calvin/luke/16.htm checkedagainstbaseline. PublicpresentsUSCCBowncommissionproposalasexplanatorycommentary,notbindingCatholicdogmaorverifiedhistoricalcustom.Wesley'sforesight/dishonestydistinctiondirectlyread.
+
+## Luke16:1–9
+
+Plan section: included, because (b)/(c):1Tim6generosity/hope/futurelifeand2Cor9needsmet/thanksgiving/praisegivewiderpurposeforentrustedwealth.
+Position source: none.
+FLAGGED FOR REVIEW:No universalJewishlawloophole100percentmanagercommissionhistory,originalmasterlostnothingcertainty,eachdiscountwhollymanagerfeesorlawfulschemeassertedasneutralfact.ActualUSCCBofferscommissioninterpretation;verifiedasitsreading,independenthistoricalpropositionnotestablishedandnotstatedasfact.Nooriginalemploymentcontract/rate/cropprice/unitconversions.Noeverycurrentmanagerlearnfraudapproval:storyexplicitdishonestandpraiseforesightdistinguished.No buyingforgiveness,guaranteedchosenfinancialreturns,preciseheavenlybankaccountoronlyownchurchmemberseligiblecharityrestriction.NoGreekmammonetymologysettleswhosemoney/righteousnesssystem.No automaticallunbelieversprudentoverallorallbelieversfinanciallyfoolish;Jesus'particularcomparisonretained.
+
+## Luke16:10–13
+
+Plan section: included, because (c):1PeterstewardsofGod'sgraceserveforHisglory;HebrewscontentmentrestsGod'sfaithfulpresence.
+Position source: none.
+FLAGGED FOR REVIEW:No fixedheavenlyassetallotmentforfinanciallevel,guaranteedwealthifdonatingorallpoorfaithlessclaim.Noeveryenjoymentoftools/budgeting/saving/interestinresponsiblemanagementproveshatingGod. Textconcernsservingcompetingmasters,notunsourcedmodernlifestylerules.No exacteverypennyspendimmediatelycalculationorallhumanownershipabolishedpolicy.No relatedstudyusedtooriginatepositiononsalvation/rewardloss.God'spurposeinwidergiftskeptdistinctfromclaimonlymoneycountsasservice.
+
+## Validation
+
+Passed two fresh BSB comparisons, eight tests, zero errors/348 existing warnings, 105 reviewed navigation blocks and all740BSBverses through16:13.Twoadded/threeexpectedmodified/1,417existingwebfilespreserved;focusedgenerationidempotentacross1,422files.390pxreader+standaloneallsections/nooverflow/noliteralrelativeMarkdown.ActualNextreached16:10–13andfocusedtitle188.515625px.Explicit-projectHostingdryrun/releasecompleted;allsixselected/adjacent/index/readerlivefilesmatchlocalbytes.Noimplementationchange/outstandingdeployment.

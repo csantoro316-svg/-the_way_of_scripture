@@ -5,20 +5,65 @@
     "label": "Acts 14:23",
     "slug": "acts-14-23"
   },
-  "section_title": "",
-  "versions": [],
+  "section_title": "Why are elders appointed in each church?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "23 Paul and Barnabas appointed elders for them in each church, praying and fasting as they entrusted them to the Lord, in whom they had believed."
+      ]
+    }
+  ],
   "context_lines": [
-    "Acts 14:23 should be read within the flow of its chapter and the larger argument of Acts."
+    "Opponents arrive from Antioch and Iconium, win over the crowd and stone Paul. They drag him outside Lystra, presuming him dead. After the disciples gather around him, he gets up and returns to the city, then leaves with Barnabas for Derbe the next day. Luke describes the attackers’ assumption without stating that Paul had actually died.",
+    "",
+    "After making many disciples in Derbe, the two return through the places where they had faced danger. They strengthen the believers and encourage them to continue in the faith, explaining that entering God’s kingdom involves many hardships. The new communities need ongoing care after their first response.",
+    "",
+    "Paul and Barnabas appoint elders in each church, with prayer and fasting, and entrust the believers to the Lord. The word translated appointed is **χειροτονέω** (*cheirotoneō*, khay-roh-toh-NEH-oh). [Thayer’s entry](https://biblehub.com/greek/5500.htm) includes choosing by a raised-hand vote and the broader sense of appointing; it places this verse under that broader use. Luke identifies the messengers as appointing the elders but does not describe every step by which the people are selected.",
+    "",
+    "They continue through Pisidia and Pamphylia, speak in Perga and sail from Attalia to the Antioch that sent them. The gathered church hears what God has done through them and how He has opened faith to Gentiles. They remain with the disciples for a considerable time."
   ],
   "common_interpretation_lines": [
-    "There's also no process anywhere in Scripture for appointing a successor to \"head of Jerusalem\" the way there's an explicit process for appointing elders (Acts 14:23, Titus 1:5). If this were an office, we'd expect the text to show the office continuing past James. It doesn't. What we see instead looks like recognized personal standing \u2014 likely tied to James being a resurrection witness (1 Corinthians 15:7) and the Lord's own brother \u2014 operating within a plural eldership that never disappears around him.",
+    "Christians commonly see the appointment of elders as provision for continuing care and teaching. Traditions differ over how this relates to the selection, ordination and authority of church leaders.",
     "",
-    "That distinction matters, and it's an old and good one: respect for someone's maturity, wisdom, and demonstrated knowledge is not the same thing as installing them into a title that becomes an office others are formally appointed into. Every culture recognizes that some elders carry more weight than others because of experience or character. Scripture doesn't erase that. What it never does is turn James's personal standing into a title, a rank, or a hierarchy replicated in every church he never even visited."
+    "The Catholic Church’s [Catechism, paragraphs 1562–1567](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_three/article_6/iii_the_three_degrees_of_the_sacrament_of_holy_orders.index.html), describes priests, also called presbyters, as sharing in the bishop’s mission and serve in communion with him and under his authority.",
+    "",
+    "The Reformed Orthodox Presbyterian Church’s [Form of Government, chapter XXV](https://opc.org/BCO/FG.html#Chapter_XXV), requires a congregation to elect qualified elders who share in its oversight and calls for them to be formally set apart for that work. The [1689 Baptist Confession, chapter 26, paragraph 9](https://www.the1689confession.com/1689/chapter-26), directly cites Acts 14:23 for choosing an elder by the congregation’s vote, with fasting, prayer and the laying on of elders’ hands.",
+    "",
+    "Within the Wesleyan tradition, the United Methodist Church’s [Book of Discipline, paragraph 304.3](https://www.umc.org/en/content/book-of-discipline-304-qualifications-for-ordination), places authorization with the ordained members of the annual conference, a regional church body, and ordination with the bishop. These are distinct church arrangements, rather than a claim that the Greek word alone sets out each complete system."
+  ],
+  "god_plan_lines": [
+    "The work continues beyond the arrival of new believers. [Ephesians 4:11–16](https://biblehub.com/bsb/ephesians/4.htm) explains the purpose of Christ’s gifts of ministry: equipping His people and helping the whole body grow toward maturity in Him. Teaching, encouragement and local care here fit that wider purpose.",
+    "",
+    "[Titus 1:5–9](https://biblehub.com/bsb/titus/1.htm) also describes appointing elders and connects their qualifications with faithful teaching and care. The prayer and entrusting in Acts keep that responsibility dependent on the Lord, rather than treating leadership as a substitute for His keeping of the church."
+  ],
+  "current_position_lines": [
+    "Who Shepherds the Church? cites Acts 14:23 alongside Titus 1:5 as a clear example of appointing elders. The study emphasizes shared responsibility among elders who teach and care for the people, rather than building a ladder of ranks above them. Its point here is recognized care shared among elders within each community."
   ],
   "deeper_study": [
     {
       "title": "Who Shepherds the Church?",
       "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/14.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-acts-fourteen-review.md",
+    "position_source_detail": "Who Shepherds the Church? — Titles or Roles and But Wasn’t James the Head of the Church?; directly cites Acts14:23 withTitus1:5 and develops plural eldership. Limited to that developed point, not a new selection-procedure verdict."
+  }
 }

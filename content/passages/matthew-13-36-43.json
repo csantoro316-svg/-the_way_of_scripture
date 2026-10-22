@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "13:36-43",
+    "label": "Matthew 13:36-43",
+    "slug": "matthew-13-36-43"
+  },
+  "section_title": "The Son of Man and the Final Harvest",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "36 Then Jesus dismissed the crowds and went into the house. His disciples came to Him and said, “Explain to us the parable of the weeds in the field.” 37 He replied, “The One who sows the good seed is the Son of Man. 38 The field is the world, and the good seed represents the sons of the kingdom. The weeds are the sons of the evil one, 39 and the enemy who sows them is the devil. The harvest is the end of the age, and the harvesters are angels.",
+        "40 As the weeds are collected and burned in the fire, so will it be at the end of the age. 41 The Son of Man will send out His angels, and they will weed out of His kingdom every cause of sin and all who practice lawlessness. 42 And they will throw them into the fiery furnace, where there will be weeping and gnashing of teeth. 43 Then the righteous will shine like the sun in the kingdom of their Father. He who has ears, let him hear."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After leaving the crowds, Jesus enters the house and answers the disciples' request about the weeds. He identifies the sower as the Son of Man, the field as the world, the good seed as the sons of the kingdom, and the weeds as the sons of the evil one. The enemy is the devil.",
+    "",
+    "He also identifies the harvest and harvesters: the end of the age and the angels. The explanation makes clear that the final separation is His work. The disciples are being taught to understand the present mixture without claiming the angels' final task for themselves.",
+    "",
+    "Jesus describes the removal of causes of sin and those practicing lawlessness, with a serious warning of judgment. He then turns to the future of the righteous, who will shine in their Father's kingdom. The explanation moves from identifying evil to the promise of God's people sharing His kingdom's glory.",
+    "",
+    "The closing call to hear brings the warning and promise to the listener. The story does not end with the enemy controlling the field. The Son of Man sends His angels and brings the harvest to its appointed end."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a promise of final judgment under Christ and the future glory of the righteous. The Reformed [Westminster Confession, 33.1–3](https://www.opc.org/wcf.html), teaches that God appoints judgment through Christ and calls His people to watchfulness. The Catholic [Catechism, 1038–1041](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_three/article_12/v_the_last_judgment.html), likewise joins Christ's return, judgment, the disclosure of human lives, and hope in God's justice. The shared point is that Christ will bring the final judgment and fulfill His people's hope."
+  ],
+  "god_plan_lines": [
+    "The shining of the righteous recalls [Daniel 12:1–3](https://biblehub.com/bsb/daniel/12.htm), which joins deliverance, resurrection, judgment, and the brightness of those who lead others toward righteousness. Jesus' promise belongs within that larger hope of life beyond the power of death and evil.",
+    "",
+    "[1 Corinthians 15:22–28](https://biblehub.com/bsb/1_corinthians/15.htm) carries that hope toward its goal: Christ's people raised, His enemies overcome, death itself defeated, and the kingdom handed to the Father. The harvest is part of God's purpose to set things right through His Son. Evil's present presence is not its final victory."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/13.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-thirteen-review.md"
+  }
+}

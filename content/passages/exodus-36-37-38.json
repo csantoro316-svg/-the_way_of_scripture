@@ -5,23 +5,53 @@
     "label": "Exodus 36:37-38",
     "slug": "exodus-36-37-38"
   },
-  "section_title": "The Curtain for the Entrance",
+  "section_title": "How is the entrance different from the inner veil?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "37 For the entrance to the tent, he made a curtain embroidered with blue, purple, and scarlet yarn, and finely spun linen, 38 together with five posts and their hooks.",
-        "He overlaid the tops of the posts and their bands with gold, and their five bases were bronze."
+        "37 For the entrance to the tent, he made a curtain embroidered with blue, purple, and scarlet yarn, and finely spun linen, 38 together with five posts and their hooks. He overlaid the tops of the posts and their bands with gold, and their five bases were bronze."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 36**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "The final item in this chapter is the curtain at the tent’s entrance. It uses the same named colors and fine linen as the inner veil, but it is supported by five posts with bronze bases. The inner veil had four posts and silver bases.",
+    "",
+    "This curtain marks the way from the courtyard into the tent, while the inner veil separates the Holy Place from the Most Holy Place. Keeping those locations distinct helps us follow the later arrangement of the furnishings and the different areas of service."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Curtain for the Entrance** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 36** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) reads the entrance curtain as dividing the Holy Place from the courtyard. [Calvin’s explanation of the chapter](https://biblehub.com/commentaries/calvin/exodus/36.htm) keeps the emphasis on carrying out God’s instructions in each part of the dwelling."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The entrance belongs to Scripture’s larger concern with approaching God. Jesus says that people come to the Father through Him ([John 14:1–7](https://biblehub.com/bsb/john/14.htm)); Paul describes access to the Father through Christ by one Spirit ([Ephesians 2:13–22](https://biblehub.com/bsb/ephesians/2.htm)).",
+    "",
+    "These passages identify the way God brings His people near. The tent’s entrance belongs to the earlier pattern of approach; the New Testament directs our hope toward a life with the Father through His Son."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/exodus/36.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-exodus-thirty-six-review.md"
+  }
 }

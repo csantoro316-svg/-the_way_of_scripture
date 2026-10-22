@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "13:1-3",
+    "label": "Hebrews 13:1-3",
+    "slug": "hebrews-13-1-3"
+  },
+  "section_title": "What does continuing in love look like?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Continue in brotherly love. 2 Do not neglect to show hospitality to strangers, for by so doing some people have entertained angels without knowing it. 3 Remember those in prison as if you were bound with them, and those who are mistreated as if you were suffering with them."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The call to grateful worship at the end of chapter 12 now becomes practical. Love is to continue among believers, extend hospitality to strangers and identify with people who are imprisoned or mistreated.",
+    "",
+    "The reference to welcoming angels recalls accounts such as [Genesis 18–19](https://biblehub.com/bsb/genesis/18.htm), where visitors received hospitality before their full identity was understood. The point gives ordinary welcome a depth people may not see at first.",
+    "",
+    "The readers had already shown sympathy to prisoners, as 10:34 recalls. They are asked to continue that care by imagining themselves beside those who suffer, rather than treating imprisonment as someone else’s remote problem."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/13.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) both connect hospitality with Abraham and Lot, and read remembering prisoners as active compassion. Wesley specifically includes prayer and practical help.",
+    "",
+    "They explain the shared bodily condition behind verse 3 differently. Calvin emphasizes members of the one body of the church. Wesley emphasizes that the readers themselves are bodily people exposed to suffering. The BSB expresses the intended sympathy as caring as though they were suffering with those mistreated."
+  ],
+  "god_plan_lines": [
+    "[Matthew 25:35–40](https://biblehub.com/bsb/matthew/25.htm) connects welcome and care for prisoners with service to Jesus in caring for His brothers. Ordinary acts of mercy belong within how His people respond to Him.",
+    "",
+    "[1 Corinthians 12:25–27](https://biblehub.com/bsb/1_corinthians/12.htm) describes one body whose members share suffering and honor. The love called for here makes that shared life visible."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/13.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-thirteen-review.md"
+  }
+}

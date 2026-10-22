@@ -1,0 +1,49 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "11:25-28",
+    "label": "Daniel 11:25-28",
+    "slug": "daniel-11-25-28"
+  },
+  "section_title": "What happens when two kings speak lies at the same table?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "25 And with a large army he will stir up his power and his courage against the king of the South, who will mobilize a very large and powerful army but will not withstand the plots devised against him. 26 Those who eat from his provisions will seek to destroy him; his army will be swept away, and many will fall slain. 27 And the two kings, with their hearts bent on evil, will speak lies at the same table, but to no avail, for still the end will come at the appointed time. 28 The king of the North will return to his land with great wealth, but his heart will be set against the holy covenant; so he will do damage and return to his own land."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The ruler gathers an army against the South. The southern king raises a powerful force, but plots within his own circle undermine him and many soldiers die.",
+    "",
+    "The two kings then sit at the same table, both intending evil and speaking lies. Their schemes do not determine the final outcome, because the end still comes at the appointed time.",
+    "",
+    "The northern king returns with great wealth, turning his hostility toward the holy covenant along the way. The people’s worship becomes a target within the rulers’ larger contest for power."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/daniel/11.htm) reads the meeting as an appearance of peace covering mutual deception. [Henry](https://biblehub.com/commentaries/mhc/daniel/11.htm) emphasizes how rulers both deceive and are deceived, while God’s purpose remains beyond their control."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/11.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-eleven-review.md"
+  }
+}

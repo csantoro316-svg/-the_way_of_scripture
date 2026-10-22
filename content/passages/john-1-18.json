@@ -5,32 +5,52 @@
     "label": "John 1:18",
     "slug": "john-1-18"
   },
-  "section_title": "The Son Makes the Father Known",
+  "section_title": "How does the Son make the Father known?",
   "versions": [
     {
       "label": "BSB",
-      "text": "\"No one has ever seen God, but the one and only Son, who is Himself God and is at the Father's side, has made Him known.\""
+      "paragraphs": [
+        "18 No one has ever seen God, but the one and only Son, who is Himself God and is at the Father’s side, has made Him known."
+      ]
     }
   ],
   "context_lines": [
-    "In **John 1**, the Gospel opens by identifying Jesus as the eternal Word through whom all things were made and who became flesh. The chapter establishes from the start that everything to follow must be read in light of Christ's divine identity, revelation, and saving mission."
+    "This verse concludes John 1:14–18, where the Word becomes flesh and His glory is seen. It first says that no one has ever seen God, then identifies the Son, who is Himself God and is at the Father’s side, as the One who makes Him known. ([Read the surrounding passage](https://the-way-of-scripture.web.app/passages/john-1-14-18.html))",
+    "",
+    "The verb behind made Him known is ἐξηγέομαι, exēgeomai (ex-ay-GEH-oh-my). Thayer gives the sense of unfolding or declaring and specifically lists this verse. The Son makes God known through the unique relationship described here. ([Thayer, Greek 1834](https://biblehub.com/greek/1834.htm))"
   ],
   "common_interpretation_lines": [
-    "The Father is never seen. He dwells in unapproachable light. No one has seen Him or can see Him. And yet the Old Testament is full of people seeing God \u2014 encountering Him visibly, physically, face to face.",
-    "",
-    "The resolution is precise: every visible appearance of God in the Old Testament is the second person of the Trinity \u2014 the eternal Son, appearing in human-like form before the Incarnation. He is the one who makes the invisible God visible and knowable. This is exactly what John 1:18 says: no one has seen God, but the Son has made Him known. He has been making Him known since the beginning.",
-    "",
-    "This is also why Jesus can say in John 8:58: *\"Before Abraham was, I AM.\"* He was not merely aware of Abraham from a distance. He had appeared to him. He had spoken with him. He had eaten with him (Genesis 18). He was there."
+    "Christian readers commonly understand the verse as the Son uniquely making the unseen God known. Wesley connects the Son’s place beside the Father with their closest unity and the Son’s intimate knowledge of Him. ([Wesley on John 1:18](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/))"
+  ],
+  "god_plan_lines": [
+    "Jesus later tells Philip that seeing Him is seeing the Father and explains that His words and works express the Father’s presence in Him. Hebrews similarly identifies the Son as the radiance of God’s glory and the exact expression of His nature. These passages develop the larger purpose stated here: God makes Himself known through His Son, whose work also brings cleansing from sins. ([John 14:8–11](https://biblehub.com/bsb/john/14.htm); [Hebrews 1:1–4](https://biblehub.com/bsb/hebrews/1.htm))"
   ],
   "current_position_lines": [
-    "This site's current position is that **John 1:18** provides the New Testament key for understanding visible appearances of God in the Old Testament. If no one has seen the Father, then the visible divine encounters in earlier Scripture must be the Son making Him known.",
-    "",
-    "That is why this passage functions as an anchor text for the Angel-of-the-LORD study. It supplies the theological explanation for why people can truly see God in the Old Testament without having seen the Father."
+    "Our study Who is The Angel of the Lord? reads John 1:18 as an anchor for understanding God’s visible appearances in the Old Testament. It concludes that the eternal Son made the unseen Father known in those encounters before becoming human. That is the study’s developed conclusion from this verse."
   ],
   "deeper_study": [
     {
       "title": "Who is The Angel of the Lord?",
       "href": "../studies/angel-of-the-lord.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/1.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-john-opening-review.md",
+    "position_source_detail": "Who is The Angel of the Lord?, The New Testament Anchor, explicitly developsJohn1:18anditsOT-appearanceconclusion;existinglegacypositionretainedinitspropersection."
+  }
 }

@@ -5,27 +5,51 @@
     "label": "Exodus 36:20-34",
     "slug": "exodus-36-20-34"
   },
-  "section_title": "The Frames and Bases",
+  "section_title": "What holds the dwelling together?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "20 Next, he constructed upright frames of acacia wood for the tabernacle. 21 Each frame was ten cubits long and a cubit and a half wide. 22 Two tenons were connected to each other for each frame. He made all the frames of the tabernacle in this way.",
-        "23 He constructed twenty frames for the south side of the tabernacle, 24 with forty silver bases to put under the twenty frames\u2014two bases for each frame, one under each tenon.",
-        "25 For the second side of the tabernacle, the north side, he made twenty frames 26 and forty silver bases\u2014two bases under each frame.",
-        "27 He made six frames for the rear of the tabernacle, the west side, 28 and two frames for the two back corners of the tabernacle, 29 coupled together from bottom to top and fitted into a single ring. He made both corners in this way. 30 So there were eight frames and sixteen silver bases\u2014two under each frame.",
-        "31 He also made five crossbars of acacia wood for the frames on one side of the tabernacle, 32 five for those on the other side, and five for those on the rear side of the tabernacle, to the west.",
-        "33 He made the central crossbar to run through the center of the frames, from one end to the other. 34 And he overlaid the frames with gold and made gold rings to hold the crossbars. He also overlaid the crossbars with gold."
+        "20 Next, he constructed upright frames of acacia wood for the tabernacle. 21 Each frame was ten cubits long and a cubit and a half wide. 22 Two tenons were connected to each other for each frame. He made all the frames of the tabernacle in this way. 23 He constructed twenty frames for the south side of the tabernacle, 24 with forty silver bases to put under the twenty frames—two bases for each frame, one under each tenon. 25 For the second side of the tabernacle, the north side, he made twenty frames 26 and forty silver bases—two bases under each frame.",
+        "27 He made six frames for the rear of the tabernacle, the west side, 28 and two frames for the two back corners of the tabernacle, 29 coupled together from bottom to top and fitted into a single ring. He made both corners in this way. 30 So there were eight frames and sixteen silver bases—two under each frame.",
+        "31 He also made five crossbars of acacia wood for the frames on one side of the tabernacle, 32 five for those on the other side, and five for those on the rear side of the tabernacle, to the west. 33 He made the central crossbar to run through the center of the frames, from one end to the other. 34 And he overlaid the frames with gold and made gold rings to hold the crossbars. He also overlaid the crossbars with gold."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 36**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "The frames now provide the dwelling’s upright structure. Acacia frames stand in silver bases along the south and north sides and at the back, with special arrangements for the corners. Crossbars connect the frames, including a central bar that runs from one end to the other.",
+    "",
+    "The frames and bars are overlaid with gold, and gold rings hold the bars. These are the supports beneath the curtains and coverings just described. The later inventory identifies the silver used for the bases as coming from those counted in the census ([Exodus 38:25–28](https://biblehub.com/bsb/exodus/38.htm)). The gifts are becoming a complete, joined structure."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Frames and Bases** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 36** remains the first control on meaning."
+    "[Calvin](https://biblehub.com/commentaries/calvin/exodus/36.htm) reads the repeated measurements and construction details as a record of the workers following God’s design faithfully. The supports are practical parts of the dwelling, and their craftsmanship belongs to the people’s obedience just as much as the more prominent furnishings."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The New Testament uses building language to explain God’s work among His people. In [1 Corinthians 3:10–17](https://biblehub.com/bsb/1_corinthians/3.htm), Christ is the foundation, workers must take care how they build, and the community is God’s holy temple because His Spirit dwells among them.",
+    "",
+    "As a broader biblical parallel, a carefully joined dwelling helps us picture a people being built together. Paul directs our attention to Christ as their foundation and to the responsibility of those who serve them."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/exodus/36.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-exodus-thirty-six-review.md"
+  }
 }

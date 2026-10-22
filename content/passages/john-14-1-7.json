@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "14:1-7",
+    "label": "John 14:1-7",
+    "slug": "john-14-1-7"
+  },
+  "section_title": "How can the disciples trust Jesus when He is leaving?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 “Do not let your hearts be troubled. You believe in God; believe in Me as well. 2 In My Father’s house are many rooms. If it were not so, would I have told you that I am going there to prepare a place for you? 3 And if I go and prepare a place for you, I will come back and welcome you into My presence, so that you also may be where I am. 4 You know the way to the place where I am going.”",
+        "5 “Lord,” said Thomas, “we do not know where You are going, so how can we know the way?” 6 Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through Me. 7 If you had known Me, you would know My Father as well. From now on you do know Him and have seen Him.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus has just spoken about His departure and Peter’s coming denial. He now calls the disciples to trust Him rather than be overcome by the trouble ahead. He does not promise that the coming hours will be painless. He gives them a reason to keep trusting through them.",
+    "",
+    "His departure will not mean that He has abandoned them. He speaks of preparing a place in His Father’s house and returning to welcome them into His presence. The point of the promise is being with Him. The rooms are not described as rewards for different levels of wealth or achievement.",
+    "",
+    "The Greek word translated rooms is μονή, monē (mo-NAY). [Thayer’s lexicon](https://biblehub.com/greek/3438.htm) gives the sense of a dwelling or abode and identifies its other use in [John 14:23](https://biblehub.com/bsb/john/14.htm), where the Father and Son make their home with the believer. The word itself does not describe the size or luxury of a building.",
+    "",
+    "Thomas asks how they can know the way when they do not know where Jesus is going. Jesus answers by directing Thomas to Himself: access to the Father is through Him. Knowing Him means coming to know the Father He reveals. This is an invitation to trust a Person, not a set of directions that could be followed apart from Him."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the passage as assurance that Jesus brings His followers into life with the Father and that He Himself is the way to that life. [Wesley on verses 1–7](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) emphasizes trust and the sufficiency of Christ. The Catholic Church’s [Catechism, paragraphs 1025–1027](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_three/article_12/ii_heaven.html), describes heaven as life with Christ and teaches that His death and resurrection open it to His people.",
+    "",
+    "Readings differ over how the promised return fits with the other passages about His coming. [Calvin on verses 2–3](https://biblehub.com/commentaries/calvin/john/14.htm) places the gathering of His people at the final resurrection and judgment.",
+    "",
+    "A different reading is stated in [Dallas Theological Seminary’s doctrinal statement, Articles XVIII–XX](https://www.dts.edu/about/doctrinal-statement/). It cites John 14:1–3 for Christ’s gathering His people to Himself in heaven and places that gathering before the tribulation and His later return to earth. This is that institution’s stated teaching, not the position of every Protestant or Baptist. The disagreement concerns the sequence of events; both readings understand Jesus to promise that His people will be with Him."
+  ],
+  "god_plan_lines": [
+    "Jesus’ promise belongs to the larger hope of His people living with Him. In [John 17:24](https://biblehub.com/bsb/john/17.htm), He asks that those the Father has given Him may be with Him and see His glory. [1 Thessalonians 4:13–18](https://biblehub.com/bsb/1_thessalonians/4.htm) likewise comforts believers facing death with the promise that they will always be with the Lord.",
+    "",
+    "The way to the Father runs through what Jesus is about to accomplish. [Hebrews 10:19–23](https://biblehub.com/bsb/hebrews/10.htm) describes a new and living way opened through His body and calls believers to draw near with confidence. His departure through death is part of bringing people near to God, not a retreat from that purpose."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/14.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-fourteen-opening-review.md"
+  }
+}

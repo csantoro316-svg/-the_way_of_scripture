@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "10:13-16",
+    "label": "Luke 10:13-16",
+    "slug": "luke-10-13-16"
+  },
+  "section_title": "Why does Jesus warn the towns that saw His miracles?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 Woe to you, Chorazin! Woe to you, Bethsaida! For if the miracles that were performed in you had been performed in Tyre and Sidon, they would have repented long ago, sitting in sackcloth and ashes. 14 But it will be more bearable for Tyre and Sidon at the judgment than for you. 15 And you, Capernaum, will you be lifted up to heaven? No, you will be brought down to Hades!",
+        "16 Whoever listens to you listens to Me; whoever rejects you rejects Me; and whoever rejects Me rejects the One who sent Me.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The warning to towns that refuse the messengers leads into Jesus’ words about Chorazin, Bethsaida and Capernaum. These places have received evidence of His work, yet His comparison with Tyre and Sidon exposes their failure to repent.",
+    "",
+    "Jesus says the judgment will be more bearable for Tyre and Sidon. Capernaum’s imagined rise to heaven is answered with a descent to Hades. The contrast overturns any confidence that witnessing His works makes a town secure regardless of its response.",
+    "",
+    "Then Jesus explains the seriousness of receiving or refusing the people He sends. Their message comes from Him, and He comes from the Father. In this commission, refusing the messenger means refusing the One whose message the messenger carries."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand these warnings as a call to repentance and an account of the responsibility that comes with receiving Jesus’ message. The Catholic bishops’ notes connect the towns’ judgment with the rejection of His mission. ([USCCB note on Luke 10:13–16](https://bible.usccb.org/bible/luke/10); [Luke 10:13–16](https://biblehub.com/bsb/luke/10.htm))"
+  ],
+  "god_plan_lines": [
+    "In John, Jesus again connects His words with the Father who sent Him. He comes to save, yet warns that the word a person rejects will judge that person on the last day. The warnings here belong within that same account of salvation offered through the Son and accountability for the response. ([John 12:44–50](https://biblehub.com/bsb/john/12.htm))",
+    "",
+    "Acts shows the mission continuing through rejection. When opposition drives Paul and Barnabas from a district, they shake off its dust and move on; others have received the message with joy, and the word continues to spread. Rejection is serious, but it does not bring God’s work to an end. ([Acts 13:44–52](https://biblehub.com/bsb/acts/13.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/10.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-ten-review.md"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Ezra",
+    "citation": "3:10-13",
+    "label": "Ezra 3:10-13",
+    "slug": "ezra-3-10-13"
+  },
+  "section_title": "Why do joy and tears meet at the new foundation?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 When the builders had laid the foundation of the temple of the LORD, the priests in their apparel with trumpets, and the Levites (the sons of Asaph) with cymbals, took their positions to praise the LORD, as David king of Israel had prescribed. 11 And they sang responsively with praise and thanksgiving to the LORD: “For He is good; for His loving devotion to Israel endures forever.” Then all the people gave a great shout of praise to the LORD, because the foundation of the house of the LORD had been laid.",
+        "12 But many of the older priests, Levites, and family heads who had seen the first temple wept loudly when they saw the foundation of this temple. Still, many others shouted joyfully. 13 The people could not distinguish the shouts of joy from the sound of weeping, because the people were making so much noise. And the sound was heard from afar."
+      ]
+    }
+  ],
+  "context_lines": [
+    "When the foundation is laid, the priests and Levites take their places with trumpets and cymbals. They praise the LORD according to David’s directions and give thanks for His goodness and enduring devotion to Israel.",
+    "",
+    "The response is mixed. Many shout for joy, while older priests, Levites and family heads who had seen the first temple weep loudly. The combined sound travels so far that the cries of joy and grief cannot be distinguished.",
+    "",
+    "The same event carries both hope for what is beginning and memory of what was lost. The narrative records both responses without supplying each person’s thoughts."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezra/3.htm) understands the tears largely through comparison with the former temple. He allows that grief over the sin behind the loss can be fitting, while warning against despising the present beginning.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-ezra/) and [Gill](https://biblehub.com/commentaries/gill/ezra/3.htm) also emphasize the contrast with the former temple’s glory. Wesley additionally sees the scene as an example of joy and sorrow mingled in earthly life. The text identifies those weeping as people who had seen the earlier house, but does not record a speech explaining every reason for their tears."
+  ],
+  "god_plan_lines": [
+    "[Haggai 2:1–9](https://biblehub.com/bsb/haggai/2.htm) later addresses people who remember the former temple’s glory and find the present work small by comparison. God calls Zerubbabel, Joshua and the people to be strong and work, assuring them that His Spirit remains with them.",
+    "",
+    "Haggai connects that assurance with the promise made when Israel came out of Egypt and looks toward glory and peace still to come. This places the small beginning within God’s continuing purpose to dwell among His people. Their future rests on His presence and promise, not merely on how impressive the building appears at this stage."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezra/3.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezra-three-four-review.md"
+  }
+}

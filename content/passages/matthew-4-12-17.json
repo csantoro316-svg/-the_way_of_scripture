@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "4:12-17",
+    "label": "Matthew 4:12-17",
+    "slug": "matthew-4-12-17"
+  },
+  "section_title": "Light Dawns in Galilee",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "12 When Jesus heard that John had been imprisoned, He withdrew to Galilee. 13 Leaving Nazareth, He went and lived in Capernaum, which is by the sea in the region of Zebulun and Naphtali, 14 to fulfill what was spoken through the prophet Isaiah: 15 “Land of Zebulun and land of Naphtali, the Way of the Sea, beyond the Jordan, Galilee of the Gentiles— 16 the people living in darkness have seen a great light; on those living in the land of the shadow of death, a light has dawned.”",
+        "17 From that time on Jesus began to preach, “Repent, for the kingdom of heaven is near.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "After John is imprisoned, Jesus withdraws to Galilee and makes His home in Capernaum by the sea. Matthew connects this setting with Isaiah's promise of light in Zebulun and Naphtali. The story has moved from the wilderness testing to Jesus' public preaching among people in need of that light.",
+    "",
+    "The source is [Isaiah 8:21–22](https://biblehub.com/bsb/isaiah/8.htm) and [9:1–7](https://biblehub.com/bsb/isaiah/9.htm). The darkness described around it belongs to distress and oppression, while the coming light brings joy and the hope of righteous rule. Matthew identifies Jesus' presence and work in Galilee with this promised change.",
+    "",
+    "Jesus begins with the same call heard from John in [Matthew 3:2](https://biblehub.com/bsb/matthew/3.htm): repentance because the kingdom of heaven is near. The One John announced now proclaims the message Himself. The following scenes show Him gathering disciples, teaching, and healing.",
+    "",
+    "[John 3:22–24](https://biblehub.com/bsb/john/3.htm) records an earlier period when Jesus and His disciples were active before John was imprisoned. Matthew takes us directly to this later stage, when Jesus makes His home in Capernaum and begins the Galilean ministry described here."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the light as the hope and saving work Jesus brings, and the kingdom announcement as a call to respond to God's rule. [Wesley's Matthew 4:15–17 notes](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) and the [Catholic Catechism, paragraph 541](https://www.vatican.va/archive/ENG0015/__P1L.HTM), connect the preaching with God's kingdom taking effect through Jesus, while its full completion still lies ahead."
+  ],
+  "god_plan_lines": [
+    "Isaiah's promise reaches from light in the darkened region to the child whose government brings lasting peace and justice on David's throne in [Isaiah 9:1–7](https://biblehub.com/bsb/isaiah/9.htm). Matthew places Jesus' local ministry within that larger royal hope. A move to a lakeside town becomes part of the fulfillment of God's promises.",
+    "",
+    "The reach widens as the Gospel continues. People gather from beyond Galilee in [Matthew 4:24–25](https://biblehub.com/bsb/matthew/4.htm), and the risen Jesus eventually sends His disciples to all nations in [Matthew 28:18–20](https://biblehub.com/bsb/matthew/28.htm). Galilee is an important beginning in that movement, rather than the limit of the Messiah's concern."
+  ],
+  "current_position_lines": [
+    "Our study The Gospel According to Jesus understands repentance as turning away from sin and self-rule toward Jesus as Lord. It treats this response as receiving God's gift through faith, rather than earning entrance into His kingdom by moral achievement."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/4.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-wilderness-and-galilee-review.md",
+    "position_source_detail": "The Gospel According to Jesus — Receiving the Gospel / The Fullness"
+  }
+}

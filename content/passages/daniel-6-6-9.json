@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "6:6-9",
+    "label": "Daniel 6:6-9",
+    "slug": "daniel-6-6-9"
+  },
+  "section_title": "How do the officials turn prayer into a crime?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 So the administrators and satraps went together to the king and said, “O King Darius, may you live forever! 7 All the royal administrators, prefects, satraps, advisers, and governors have agreed that the king should establish an ordinance and enforce a decree that for thirty days anyone who petitions any god or man except you, O king, will be thrown into the den of lions. 8 Therefore, O king, establish the decree and sign the document so that it cannot be changed—in accordance with the law of the Medes and Persians, which cannot be repealed.” 9 Therefore King Darius signed the written decree."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The officials ask Darius to make a thirty-day decree: anyone who petitions a god or person other than the king must be thrown into the lions’ den. They present the proposal as having the agreement of the royal administration, though Daniel is plainly not part of their plan.",
+    "",
+    "They also ask for a signed decree that cannot be repealed under the law of the Medes and Persians. Darius signs it.",
+    "",
+    "The trap depends on the king lending legal force to their scheme. They have already decided that Daniel’s devotion to God is the point they will attack; the apparently public measure serves that private purpose."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/daniel/6.htm) reads the decree as persecution disguised as public policy. [Cambridge](https://biblehub.com/commentaries/cambridge/daniel/6.htm) notes the misleading claim of agreement among all the officials, when Daniel himself is an administrator.",
+    "",
+    "The narrative makes the decree’s binding character crucial to what follows: the king will discover that signing it has placed Daniel beyond his own ability to help."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/6.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-six-review.md"
+  }
+}

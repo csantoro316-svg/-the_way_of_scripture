@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "14:6-12",
+    "label": "1 Corinthians 14:6-12",
+    "slug": "1-corinthians-14-6-12"
+  },
+  "section_title": "Why does understanding matter more than impressive sound?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 Now, brothers, if I come to you speaking in tongues, how will I benefit you, unless I bring you some revelation or knowledge or prophecy or teaching? 7 Even in the case of lifeless instruments, such as the flute or harp, how will anyone recognize the tune they are playing unless the notes are distinct? 8 Again, if the trumpet sounds a muffled call, who will prepare for battle? 9 So it is with you. Unless you speak intelligible words with your tongue, how will anyone know what you are saying? You will just be speaking into the air.",
+        "10 Assuredly, there are many different languages in the world, yet none of them is without meaning. 11 If, then, I do not know the meaning of someone’s language, I am a foreigner to the speaker, and he is a foreigner to me. 12 It is the same with you. Since you are eager to have spiritual gifts, strive to excel in gifts that build up the church."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul asks what benefit his visit would bring if he spoke in tongues without communicating revelation, knowledge, prophecy or teaching. He puts the same test to his own ministry: others must receive something they can understand and use.",
+    "",
+    "He illustrates the point with music and a trumpet call. Distinct notes make a tune recognizable; a clear call lets people know how to respond. Noise alone does not accomplish the purpose for which an instrument is used.",
+    "",
+    "The comparison with ordinary language makes the point personal. If speaker and listener do not know one another’s language, each is a foreigner to the other. The BSB uses foreigner here; its footnote records the literal term barbarian. Paul is describing a communication barrier, rather than giving one language group greater human worth.",
+    "",
+    "His conclusion channels their eagerness: strive to excel in gifts that build up the church. The desire for spiritual things must become concern for the people beside them. Merely filling the room with sound does not meet that aim."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand these comparisons as establishing the need for understandable communication in the gathering. [Wesley’s notes on verses 6–11](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) and the [USCCB note on verses 6–12](https://bible.usccb.org/bible/1corinthians/14) both connect the examples from music and language with the benefit others should receive."
+  ],
+  "god_plan_lines": [
+    "An earlier parallel appears in [Nehemiah 8:7–12](https://biblehub.com/bsb/nehemiah/8.htm). God’s Law is read and explained so the people understand. Their response includes joy and sending food to people who have none prepared.",
+    "",
+    "This is a shared biblical pattern, not a claim that Nehemiah predicts Corinth’s gifts. God’s word forms a people as it is heard and understood, leading to a response in their lives together. Paul’s concern belongs within that larger purpose of instruction that reaches people and bears fruit."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/14.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-fourteen-opening-review.md"
+  }
+}

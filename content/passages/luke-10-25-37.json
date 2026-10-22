@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "10:25-37",
+    "label": "Luke 10:25-37",
+    "slug": "luke-10-25-37"
+  },
+  "section_title": "What does it mean to become a neighbor to someone in need?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "25 One day an expert in the law stood up to test Him. “Teacher,” he asked, “what must I do to inherit eternal life?” 26 “What is written in the Law?” Jesus replied. “How do you read it?” 27 He answered, “‘Love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind’ and ‘Love your neighbor as yourself.’” 28 “You have answered correctly,” Jesus said. “Do this and you will live.” 29 But wanting to justify himself, he asked Jesus, “And who is my neighbor?”",
+        "30 Jesus took up this question and said, “A man was going down from Jerusalem to Jericho when he fell into the hands of robbers. They stripped him, beat him, and went away, leaving him half dead. 31 Now by chance a priest was going down the same road, but when he saw him, he passed by on the other side. 32 So too, when a Levite came to that spot and saw him, he passed by on the other side. 33 But a Samaritan on a journey came upon him, and when he saw him, he had compassion. 34 He went to him and bandaged his wounds, pouring on oil and wine. Then he put him on his own animal, brought him to an inn, and took care of him. 35 The next day he took out two denarii and gave them to the innkeeper. ‘Take care of him,’ he said, ‘and on my return I will repay you for any additional expense.’",
+        "36 Which of these three do you think was a neighbor to the man who fell into the hands of robbers?” 37 “The one who showed him mercy,” replied the expert in the law. Then Jesus told him, “Go and do likewise.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "An expert in the law tests Jesus with a question about inheriting eternal life. Jesus directs him to the Law, and the man answers with love for God and love for one’s neighbor. These commands come from Deuteronomy 6:5 and Leviticus 19:18. Jesus approves the answer and tells him to live it out. ([Deuteronomy 6:5](https://biblehub.com/bsb/deuteronomy/6.htm); [Leviticus 19:18](https://biblehub.com/bsb/leviticus/19.htm))",
+    "",
+    "The man then asks who counts as his neighbor, wanting to justify himself. Jesus answers with a story: robbers leave a traveler half dead on the road from Jerusalem to Jericho. A priest and a Levite see him but pass by. A Samaritan sees him and has compassion.",
+    "",
+    "The Samaritan’s compassion becomes action. He tends the wounds, provides transport and lodging, pays for care and promises to cover further expense. Jesus asks which person became a neighbor to the injured man. The answer is the one who showed mercy, and Jesus tells the questioner to do the same.",
+    "",
+    "The choice of a Samaritan matters: John’s Gospel records the division between Jews and Samaritans. Here, the person across that divide gives the example of mercy. The story does not identify the injured man’s ethnicity or explain the private motives of those who pass him by. ([John 4:9](https://biblehub.com/bsb/john/4.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly recognize a demand for practical mercy that reaches beyond familiar boundaries. Wesley emphasizes helping the person who needs assistance, and the Catholic bishops’ notes emphasize the Samaritan’s unexpected place as the example. ([Wesley on Luke 10:36–37](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [USCCB notes on Luke 10:25–37](https://bible.usccb.org/bible/luke/10))",
+    "",
+    "Teachers also place different emphasis on the earlier exchange about eternal life. Calvin explains that the Law’s demand is righteous but that human failure makes freely given justification necessary. Wesley stresses the seriousness of Jesus’ command to love God and neighbor. These are the teachers’ explanations of how the exchange fits salvation; neither removes Jesus’ concluding call to show mercy. ([Calvin on Luke 10:28](https://biblehub.com/commentaries/calvin/luke/10.htm); [Wesley on Luke 10:28](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))"
+  ],
+  "god_plan_lines": [
+    "The command to love was already part of God’s instruction to Israel. Leviticus also commands love for the foreigner living among them. Jesus’ story draws the questioner toward the active, generous love that the Law calls for, rather than a search for reasons to withhold it. ([Leviticus 19:18, 33–34](https://biblehub.com/bsb/leviticus/19.htm))",
+    "",
+    "Paul later explains that love fulfills the Law because it does no wrong to a neighbor. First John places self-giving love under the example of Jesus laying down His life, then asks how God’s love can remain in someone who has resources but shuts off compassion toward a brother in need. The Samaritan’s concrete care belongs within this wider Scriptural call for love expressed in action. ([Romans 13:8–10](https://biblehub.com/bsb/romans/13.htm); [1 John 3:16–18](https://biblehub.com/bsb/1_john/3.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/10.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-ten-review.md"
+  }
+}

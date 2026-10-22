@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "9:7-14",
+    "label": "1 Corinthians 9:7-14",
+    "slug": "1-corinthians-9-7-14"
+  },
+  "section_title": "Why should those who receive ministry help support it?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 Who serves as a soldier at his own expense? Who plants a vineyard and does not eat of its fruit? Who tends a flock and does not drink of its milk? 8 Do I say this from a human perspective? Doesn’t the Law say the same thing? 9 For it is written in the Law of Moses: “Do not muzzle an ox while it is treading out the grain.” Is it about oxen that God is concerned? 10 Isn’t He actually speaking on our behalf? Indeed, this was written for us, because when the plowman plows and the thresher threshes, they should also expect to share in the harvest. 11 If we have sown spiritual seed among you, is it too much for us to reap a material harvest from you?",
+        "12 If others have this right to your support, shouldn’t we have it all the more? But we did not exercise this right. Instead, we put up with anything rather than hinder the gospel of Christ. 13 Do you not know that those who work in the temple eat of its food, and those who serve at the altar partake of its offerings? 14 In the same way, the Lord has prescribed that those who preach the gospel should receive their living from the gospel."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul gives three ordinary examples: a soldier, someone tending a vineyard, and a shepherd. Workers receive provision connected with their labor. He then turns to the law of Moses about not muzzling an ox while it treads out grain, drawing a principle of sharing in the benefit of work.",
+    "",
+    "His application is to the spiritual work he has done among the Corinthians and the material support he has a right to receive. He also recalls the support received by those serving at the temple and says that the Lord has appointed provision for those who preach the gospel.",
+    "",
+    "Yet Paul has not exercised that right among them. He is willing to endure difficulty rather than hinder the gospel. That voluntary choice does not cancel the right to support. It shows that the good of the message and its hearers can take precedence over claiming what one is entitled to receive."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read these verses as establishing a right to material support for gospel ministry while recognizing Paul’s freedom to waive it. Paul presents declining that provision as a choice made for the gospel’s sake."
+  ],
+  "god_plan_lines": [
+    "In [Luke 10:1–9](https://biblehub.com/bsb/luke/10.htm), Jesus sends workers to announce the kingdom and receive hospitality, explaining that a worker deserves wages. The mission involves both those sent and those who welcome and provide for them.",
+    "",
+    "[1 Timothy 5:17–18](https://biblehub.com/bsb/1_timothy/5.htm) again combines the law about the ox with the worker’s right to wages when discussing elders who labor in preaching and teaching. These connections place practical provision within shared responsibility for God’s work. Supporting a servant and serving without taking support can both be directed toward the good of the gospel."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/9.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-nine-opening-review.md"
+  }
+}

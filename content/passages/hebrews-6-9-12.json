@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "6:9-12",
+    "label": "Hebrews 6:9-12",
+    "slug": "hebrews-6-9-12"
+  },
+  "section_title": "What gives the writer hope for the people he has warned?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "9 Even though we speak like this, beloved, we are convinced of better things in your case—things that accompany salvation. 10 For God is not unjust. He will not forget your work and the love you have shown for His name as you have ministered to the saints and continue to do so. 11 We want each of you to show this same diligence to the very end, in order to make your hope sure. 12 Then you will not be sluggish, but will imitate those who through faith and patience inherit what has been promised."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After the severe warning, the writer calls his readers beloved and expresses confidence in better things connected with salvation. He does not describe them as a hopeless community.",
+    "",
+    "He points to their work and the love they have shown for God’s name by serving the saints. Their care has continued, and God will not forget it. The encouragement rests on God’s justice and faithfulness as well as what the writer sees among them.",
+    "",
+    "The desired response is continued diligence to the end, with a hope made sure. Instead of becoming sluggish, they are to follow the example of people who inherit the promises through faith and patience. Abraham will be the first example developed."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/6.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) both take the service and love as grounds for encouragement while retaining the call to perseverance. Calvin stresses that God’s reward fulfills His gracious promise, rather than making salvation a debt earned by human work. Wesley emphasizes faith, love and holiness leading toward final salvation.",
+    "",
+    "The encouragement and warning work together. God’s remembering their service is a reason to continue faithfully, while the call for diligence prevents the reassurance from becoming an invitation to complacency."
+  ],
+  "god_plan_lines": [
+    "[Galatians 5:13–26](https://biblehub.com/bsb/galatians/5.htm) joins serving one another in love with the fruit the Spirit produces. Hebrews’ recognition of continuing service belongs with that picture of faith becoming fruitful in relationships.",
+    "",
+    "[Matthew 25:34–40](https://biblehub.com/bsb/matthew/25.htm) also gives care for others lasting significance before Christ. These passages help explain why everyday acts of love matter within God’s purpose; they are not forgotten simply because they seem small."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/6.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-six-review.md"
+  }
+}

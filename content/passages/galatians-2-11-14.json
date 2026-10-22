@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Galatians",
+    "citation": "2:11-14",
+    "label": "Galatians 2:11-14",
+    "slug": "galatians-2-11-14"
+  },
+  "section_title": "Why did Paul challenge Peter’s conduct in public?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "11 When Cephas came to Antioch, however, I opposed him to his face, because he stood condemned. 12 For before certain men came from James, he used to eat with the Gentiles. But when they arrived, he began to draw back and separate himself, for fear of those in the circumcision group. 13 The other Jews joined him in his hypocrisy, so that by their hypocrisy even Barnabas was led astray.",
+        "14 When I saw that they were not walking in line with the truth of the gospel, I said to Cephas in front of them all, “If you, who are a Jew, live like a Gentile and not like a Jew, how can you compel the Gentiles to live like Jews?”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul describes a later conflict in Antioch. Cephas had been eating with Gentile believers, but he withdrew after certain men came from James. Paul identifies fear of the circumcision group as the reason for the withdrawal.",
+    "",
+    "The change affected others. The other Jewish believers joined Peter in the hypocrisy, and even Barnabas was led astray. A leader’s conduct was drawing the community toward separation.",
+    "",
+    "Paul says they were not walking in line with the truth of the gospel. He challenged Cephas in front of everyone, asking how a Jew who had been living like a Gentile could pressure Gentiles to live like Jews.",
+    "",
+    "The issue is how their shared faith is being lived out. Peter’s earlier table fellowship and later withdrawal send conflicting messages about who can be received as a fellow believer."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as Paul opposing conduct that contradicted the shared gospel. [Wesley’s notes on verses 11–14](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-galatians/) and the [USCCB notes on verses 11–14](https://bible.usccb.org/bible/galatians/2) both identify the inconsistency and its effect on fellowship with Gentile believers."
+  ],
+  "god_plan_lines": [
+    "[Acts 10:34–48](https://biblehub.com/bsb/acts/10.htm) and [11:15–18](https://biblehub.com/bsb/acts/11.htm) describe Peter recognizing God’s work among Gentiles. They receive the Holy Spirit, and the Jerusalem believers praise God for granting Gentiles repentance leading to life.",
+    "",
+    "That earlier account places the Antioch dispute within God’s welcome of people beyond Israel. The fellowship being strained is fellowship God Himself has opened through Christ and the gift of the Spirit."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/galatians/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-galatians-two-review.md"
+  }
+}

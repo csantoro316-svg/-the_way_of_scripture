@@ -5,24 +5,62 @@
     "label": "Isaiah 7:10-16",
     "slug": "isaiah-7-10-16"
   },
-  "section_title": "The Sign of Immanuel",
+  "section_title": "What does God’s sign of Immanuel mean?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "10 Again the LORD spoke to Ahaz, saying, 11 \u201cAsk for a sign from the LORD your God, whether from the depths of Sheol or the heights of heaven.\u201d",
-        "12 But Ahaz replied, \u201cI will not ask; I will not test the LORD.\u201d",
-        "13 Then Isaiah said, \u201cHear now, O house of David! Is it not enough to try the patience of men? Will you try the patience of my God as well? 14 Therefore the Lord Himself will give you a sign: Behold, the virgin will be with child and will give birth to a son, and will call Him Immanuel. 15 By the time He knows enough to reject evil and choose good, He will be eating curds and honey. 16 For before the boy knows enough to reject evil and choose good, the land of the two kings you dread will be laid waste."
+        "10 Again the LORD spoke to Ahaz, saying, 11 “Ask for a sign from the LORD your God, whether from the depths of Sheol or the heights of heaven.” 12 But Ahaz replied, “I will not ask; I will not test the LORD.” 13 Then Isaiah said, “Hear now, O house of David! Is it not enough to try the patience of men? Will you try the patience of my God as well?",
+        "14 Therefore the Lord Himself will give you a sign: Behold, the virgin will be with child and give birth to a son, and will call Him Immanuel. 15 By the time He knows enough to reject evil and choose good, He will be eating curds and honey. 16 For before the boy knows enough to reject evil and choose good, the land of the two kings you dread will be laid waste."
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 7**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "The Lord invites Ahaz to ask for a sign, with no limit set by depth or height. Ahaz refuses, saying that he will not test God. [Deuteronomy 6:16–19](https://biblehub.com/bsb/deuteronomy/6.htm) does forbid testing the Lord, but Isaiah rebukes this refusal: here the invitation has come from God Himself.",
+    "",
+    "The address broadens to the house of David. God will give His own sign: the virgin will bear a son called Immanuel. The next words connect a child’s early years with the approaching end of the two kings whose lands Ahaz fears.",
+    "",
+    "The Hebrew [עַלְמָה, almah](https://biblehub.com/hebrew/5959.htm), pronounced al-MAH, describes a young woman of marriageable age. Brown–Driver–Briggs includes a maiden or newly married woman in its definition. That range matters when considering the sign’s immediate setting; the word alone does not answer every question about the child’s identity.",
+    "",
+    "The passage therefore needs to be read with both its promise to David’s house and its time reference to the present threat in view. Matthew’s account of Jesus’ birth supplies an explicit New Testament connection."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Sign of Immanuel** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "The Catholic [Catechism 496–497](https://www.vatican.va/archive/ENG0015/__P1K.HTM), Reformed [Westminster Confession 8.2](https://www.opc.org/wcf.html), [1689 Baptist Confession 8.2](https://www.the1689confession.com/1689/chapter-8) and Methodist [Article II](https://www.umc.org/en/content/articles-of-religion) share the teaching that Jesus was conceived by the Holy Spirit and born of the virgin Mary. The Catechism explicitly identifies this with Isaiah’s promise. There is no need to present these traditions as disagreeing about the virgin birth.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 7** remains the first control on meaning."
+    "Christian readers do differ over how the sign relates to Ahaz’s own time. The [NABRE notes](https://bible.usccb.org/bible/isaiah/7) emphasize a child-sign reassuring the king during the current danger and connect its ultimate Christian meaning with God coming to be with His people in Christ.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/isaiah/7.htm) and [Wesley](https://biblehub.com/commentaries/wes/isaiah/7.htm) read the promised virgin-born Son as the future Messiah, whose coming guarantees that David’s house will survive this threat. They understand the boy in verse 16 as Isaiah’s son Shear-jashub, present at the meeting, marking the nearer deadline. That identification is their explanation of the passage; verse 16 does not name the boy."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[Matthew 1:18–25](https://biblehub.com/bsb/matthew/1.htm) explicitly says that Jesus’ birth fulfills the promise. Mary conceives through the Holy Spirit before she and Joseph come together, and Matthew explains Immanuel as God with us.",
+    "",
+    "The meaning reaches beyond rescue from the two kings. The child is named Jesus because He will save His people from their sins. At the Gospel’s close, the risen Jesus sends His disciples to all nations and promises His continuing presence with them ([Matthew 28:16–20](https://biblehub.com/bsb/matthew/28.htm)). God’s presence with His people becomes central to the salvation and mission accomplished through Christ."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/7.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-seven-review.md"
+  }
 }

@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "9:33-37",
+    "label": "Mark 9:33-37",
+    "slug": "mark-9-33-37"
+  },
+  "section_title": "Greatness That Serves",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "33 Then they came to Capernaum. While Jesus was in the house, He asked them, “What were you discussing on the way?” 34 But they were silent, for on the way they had been arguing about which of them was the greatest. 35 Sitting down, Jesus called the Twelve and said, “If anyone wants to be first, he must be the last of all and the servant of all.”",
+        "36 Then He had a little child stand among them. Taking the child in His arms, He said to them, 37 “Whoever welcomes one of these little children in My name welcomes Me, and whoever welcomes Me welcomes not only Me, but the One who sent Me.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "In a house at Capernaum, Jesus asks what the disciples discussed along the road. They are silent because they have been disputing which of them is greatest. Their concern with standing comes immediately after His announcement that He will be handed over and killed.",
+    "",
+    "Jesus sits down, calls the Twelve, and reverses the terms of their discussion: anyone wanting to be first must become last and servant of all. The word [διάκονος (diakonos, dee-AH-koh-nos)](https://biblehub.com/greek/1249.htm) describes a servant or attendant, someone who attends to another's needs. Here the emphasis is service, rather than claiming a superior place.",
+    "",
+    "He then places a little child among them and takes the child into His arms. The example makes the teaching concrete: welcoming a child in His name is a way of welcoming Him, and welcoming Him reaches to the Father who sent Him.",
+    "",
+    "The child is someone to receive and care for, rather than a competitor in the disciples' contest. Jesus brings their attention to a person before them. Mark does not identify whose child this is or give a complete social history of children to explain the scene."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand Jesus to redirect ambition toward humility and service. [Calvin on this exchange](https://biblehub.com/commentaries/calvin/mark/9.htm) emphasizes setting aside the desire to outrank others, while the [USCCB note on Mark 9:33–37](https://bible.usccb.org/bible/mark/9) emphasizes service to the poor and lowly illustrated through receiving the child."
+  ],
+  "god_plan_lines": [
+    "Jesus' call to serve follows His own mission. In [Mark 10:42–45](https://biblehub.com/bsb/mark/10.htm), He again contrasts the pursuit of power with service and explains that He gives His own life as a ransom for many. The teaching about greatness belongs with the self-giving through which He rescues people.",
+    "",
+    "[Philippians 2:1–11](https://biblehub.com/bsb/philippians/2.htm) draws that pattern into the community's life: put aside selfish ambition, attend to others' interests, and take the attitude shown by Christ in His humility and obedience to the cross. The goal reaches beyond individual modesty to people learning to live and serve together in a way shaped by Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/9.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-nine-middle-review.md"
+  }
+}

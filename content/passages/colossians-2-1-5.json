@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Colossians",
+    "citation": "2:1-5",
+    "label": "Colossians 2:1-5",
+    "slug": "colossians-2-1-5"
+  },
+  "section_title": "How does knowing Christ help a church stand firm?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 For I want you to know how much I am struggling for you and for those at Laodicea, and for all who have not met me face to face, 2 that they may be encouraged in heart, knit together in love, and filled with the full riches of complete understanding, so that they may know the mystery of God, namely Christ, 3 in whom are hidden all the treasures of wisdom and knowledge.",
+        "4 I say this so that no one will deceive you by smooth rhetoric. 5 For although I am absent from you in body, I am present with you in spirit, and I delight to see your orderly condition and firm faith in Christ."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul continues describing his labor for believers, including those in Laodicea and others who have not met him. His distance from them does not diminish his concern.",
+    "",
+    "He wants their hearts encouraged and their lives knit together in love, with the understanding that leads to knowing Christ. In Christ are all the treasures of wisdom and knowledge. The knowledge Paul seeks is joined to love and confidence in Him.",
+    "",
+    "This prepares the warning in verse 4: persuasive speech can deceive. Paul wants their understanding of Christ to help them recognize that danger. He rejoices in the order and firmness of their faith, even while writing to strengthen it."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as concern for a community to be strengthened in love, understanding and faith in Christ. [Wesley’s notes on verses 1–2](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-colossians/) emphasize Paul’s prayerful concern and fuller understanding of the gospel. The warning concerns teaching that draws them away from the Christ in whom wisdom is found."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 3:8–12](https://biblehub.com/bsb/ephesians/3.htm) describes God’s wisdom being made known through the church according to His eternal purpose in Christ. It also connects Christ with confident access to God. The understanding and love Paul desires here serve that wider work of a people brought near to God together.",
+    "",
+    "The goal is a growing community, as [Ephesians 4:11–16](https://biblehub.com/bsb/ephesians/4.htm) explains: believers grow toward maturity in Christ and become less vulnerable to deceptive teaching. This is a close parallel to the combination of love, knowledge and stability in these verses."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/colossians/2.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-colossians-two-review.md"
+  }
+}

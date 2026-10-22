@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "5:1-4",
+    "label": "Hebrews 5:1-4",
+    "slug": "hebrews-5-1-4"
+  },
+  "section_title": "Why must a high priest understand the people he represents?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Every high priest is appointed from among men to represent them in matters relating to God, to offer gifts and sacrifices for sins. 2 He is able to deal gently with those who are ignorant and misguided, since he himself is subject to weakness. 3 That is why he is obligated to offer sacrifices for his own sins, as well as for the sins of the people. 4 No one takes this honor upon himself; he must be called by God, just as Aaron was."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The writer explains the work of a high priest before applying the comparison to Jesus. The priest is taken from among the people and appointed to represent them before God, offering gifts and sacrifices for sins.",
+    "",
+    "His own weakness should make him gentle toward people who lack understanding or have gone astray. The Greek word [translated deal gently](https://biblehub.com/greek/3356.htm) describes bearing with another person’s faults with measured compassion. The priest’s knowledge of weakness should shape his response to others.",
+    "",
+    "The comparison also marks a limit: these priests must offer for their own sins as well as the people’s. Their position does not make them sinless. Nor do they simply claim the honor for themselves; the office depends on God’s call, as Aaron’s did."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/5.htm), [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) and the [USCCB notes](https://bible.usccb.org/bible/hebrews/5) understand these verses as establishing the comparison with Israel’s high priesthood. Human kinship, compassion and divine appointment prepare for the explanation of Jesus’ work.",
+    "",
+    "Calvin expressly distinguishes the priests’ need to offer for their own sins from Christ’s sinlessness. Jesus shares human weakness without sharing guilt for His own sin. The comparison therefore involves both likeness and a difference."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 7:26–28](https://biblehub.com/bsb/hebrews/7.htm) develops the difference: Christ does not need to offer for sins of His own and His offering is once for all. [Hebrews 9:11–14](https://biblehub.com/bsb/hebrews/9.htm) likewise connects His priesthood with cleansing that enables people to serve the living God.",
+    "",
+    "The earlier service is thus part of the preparation for what Hebrews finds fulfilled in Christ. God’s purpose is not merely to provide repeated reminders of guilt, but to bring people near through a priest who can accomplish what they need."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-five-review.md"
+  }
+}

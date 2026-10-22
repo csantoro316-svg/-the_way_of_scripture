@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "24:36-39",
+    "label": "Matthew 24:36-39",
+    "slug": "matthew-24-36-39"
+  },
+  "section_title": "An Unknown Day and the Lesson of Noah",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "36 No one knows about that day or hour, not even the angels in heaven, nor the Son, but only the Father.",
+        "37 As it was in the days of Noah, so will it be at the coming of the Son of Man. 38 For in the days before the flood, people were eating and drinking, marrying and giving in marriage, up to the day Noah entered the ark. 39 And they were oblivious until the flood came and swept them all away. So will it be at the coming of the Son of Man."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus has assured His followers that His words will not pass away. He now sets a limit on their knowledge: the day and hour are known only to the Father, not to the angels or the Son. [Mark 13:32–37](https://biblehub.com/bsb/mark/13.htm) gives the same statement and follows it with repeated calls to keep watch.",
+    "",
+    "Jesus compares the coming of the Son of Man with Noah's day. People continued eating, drinking, and marrying until Noah entered the ark. They were unaware until the flood swept them away. His point is how people can continue ordinary life without taking approaching judgment seriously; the passage does not make eating or marriage sinful in themselves.",
+    "",
+    "[Genesis 7:1–16](https://biblehub.com/bsb/genesis/7.htm) describes Noah following God's instruction, entering the ark with his family, and being shut in by the LORD. Jesus' comparison brings the contrast between preparation and unpreparedness into His teaching about the coming day. He is preparing His hearers to live ready rather than giving them its date."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand Noah's story here as a warning against being unprepared, alongside the clear limit on knowing the time. [Calvin on 24:37–39](https://biblehub.com/commentaries/calvin/matthew/24.htm) emphasizes people treating ordinary life as though it could never change; the [US Catholic bishops' note on 24:37–39](https://bible.usccb.org/bible/matthew/24) likewise stresses the flood's unexpected arrival for the unprepared.",
+    "",
+    "The Son's statement about not knowing has also required careful explanation. [Calvin on 24:36](https://biblehub.com/commentaries/calvin/matthew/24.htm) understands it as a limitation in Jesus' human knowledge while He carries out His mission, without denying His divine nature. The Catholic [Catechism, 472–474](https://www.vatican.va/archive/ENG0015/__P1J.HTM), describes His human knowledge within real human conditions, while emphasizing that what He admitted not knowing concerned what He was not sent to reveal. These explanations seek to hold His real human life together with His identity as God's Son."
+  ],
+  "god_plan_lines": [
+    "The New Testament itself develops Noah's story as a lesson about faith and God's saving care. [Hebrews 11:7](https://biblehub.com/bsb/hebrews/11.htm) describes Noah trusting God's warning and preparing the ark for his family's preservation. [2 Peter 2:4–9](https://biblehub.com/bsb/2_peter/2.htm) joins Noah's preservation with God's knowledge of how to rescue the godly and judge wrongdoing. These connections support hope in God's care without turning every detail of the ark into an end-times calendar.",
+    "",
+    "[2 Peter 3:3–14](https://biblehub.com/bsb/2_peter/3.htm) returns to the flood when answering people who dismiss the promise of Christ's coming. It explains God's patience in relation to repentance and calls His people to holy lives as they await what He has promised. Preparation therefore includes responding to Him now and living in light of His future."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/24.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-four-closing-review.md"
+  }
+}

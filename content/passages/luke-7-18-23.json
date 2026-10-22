@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "7:18-23",
+    "label": "Luke 7:18-23",
+    "slug": "luke-7-18-23"
+  },
+  "section_title": "How does Jesus answer John’s question about who He is?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "18 Then John’s disciples informed him about all these things. 19 So John called two of his disciples and sent them to ask the Lord, “Are You the One who was to come, or should we look for someone else?” 20 When the men came to Jesus, they said, “John the Baptist sent us to ask, ‘Are You the One who was to come, or should we look for someone else?’”",
+        "21 At that very hour Jesus healed many people of their diseases, afflictions, and evil spirits, and He gave sight to many who were blind. 22 So He replied, “Go back and report to John what you have seen and heard: The blind receive sight, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, and the good news is preached to the poor. 23 Blessed is the one who does not fall away on account of Me.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "John’s disciples bring him reports about Jesus. John then sends two of them to ask whether Jesus is the One who was to come or whether they should expect someone else. The question follows the accounts of healing and the restoration of the widow’s son.",
+    "",
+    "At that time Jesus heals people with diseases, afflictions and evil spirits, and gives sight to the blind. He tells the messengers to report what they have seen and heard, including restored sight and hearing, the lame walking, lepers cleansed, the dead raised and good news reaching the poor.",
+    "",
+    "His answer joins what is happening before them with the promises of Scripture. He ends with a blessing for the person who does not fall away because of Him. The messengers are given something definite to carry back: His works and His message."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand Jesus’ works and the echoes of Isaiah as His answer about His identity. Interpreters differ over whose uncertainty the question is intended to address.",
+    "",
+    "Wesley reads John as sending the disciples for their own assurance, and understands Jesus’ later praise of John as guarding against the idea that John had abandoned his testimony. The Catholic bishops’ note on the parallel Matthew passage considers it likely that John himself is struggling because Jesus’ mission differs from his expectations of judgment. These are commentators’ explanations, not separate binding doctrines for all members of their traditions. ([Wesley on Luke 7:18–24](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [USCCB notes on Matthew 11:3–6](https://bible.usccb.org/bible/matthew/11))"
+  ],
+  "god_plan_lines": [
+    "Isaiah describes God coming to save, with blind eyes opened, deaf ears unstopped and the lame restored. Another passage describes the Lord’s anointed bringing good news to the afflicted and release to captives—the passage Jesus had read at Nazareth. His reply points the messengers toward that promised work now taking place. ([Isaiah 35:4–6](https://biblehub.com/bsb/isaiah/35.htm); [Isaiah 61:1–3](https://biblehub.com/bsb/isaiah/61.htm); [Luke 4:16–21](https://biblehub.com/bsb/luke/4.htm))",
+    "",
+    "This connection helps explain the shape of His ministry: mercy, restoration and the announcement of good news make known who has come. The answer invites John and his disciples to recognize God’s promised work in Jesus, even where His actions challenge their expectations."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "Should We Seek Signs?",
+      "href": "../studies/seek-signs.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/7.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-seven-opening-review.md"
+  }
+}

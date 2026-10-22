@@ -1,0 +1,5 @@
+# Reviewed passage links render correctly
+
+Converted17internalMarkdownlinkstoHTTPSURLsacross16olderreviewedMatthew/Markpages.Thelinksnowrenderasclickablereferencesinsteadofrawformatting;allScripture,teaching,positionsandreviewmetadataareunchanged.
+
+SixteenBSBchecks,eighttests,validation,preservationandsemanticcomparisons,browserchecks,idempotence,Hostingdryrun/releaseand18livebytematchespassed.Evidence: documentation/testing/2026-10-19-reviewed-passage-internal-links.md.

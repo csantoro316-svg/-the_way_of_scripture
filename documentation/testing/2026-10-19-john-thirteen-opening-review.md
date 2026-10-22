@@ -1,0 +1,41 @@
+# John 13:1–30 review — 2026-10-19
+
+## Direct evidence
+
+Full baseline John13lesson425–447read. WholePDFthrough447read;448onwardunread. Exact441and446–447recoveredafterbroadoutputtruncations;notclaimingunreadpages. Passagegroupsfollowthewholefootwashing/action/explanation1–17andbetrayal18–30ratherthansplittingthewashingmidscene. Independentpublicproseandstructure;teacher/ministryunnamed.
+
+ActualBSB13:1–30read;fullchapter38main-textversemarkerschecked. ActualPhil2:5–11,Ps41:5–13,Heb9:11–14,John15:1–3andLuke22:21–27read. Acts2:23–24andHeb2:14–15previouslydirectlyreadandverifiedforrecentJohngroups. No NASB/oldercommentaryquotessilentlysubstitutedforBSB.
+
+ActualThayerλούωandνίπτωfulllexicalentriesbeforeTopicalread https://biblehub.com/greek/3068.htm and https://biblehub.com/greek/3538.htm :wholebathingversuswashingpartofthebody,direct13:10and13:5–14references. PublicusesoneusefulGreektermwithscript/transliteration/pronunciation/plainmeaningandexplainsdifference. Thisdoesnotlexicallysettlebaptismorhowcleansingworks. ActualUSCCB13notes1–20/1/2/5/10/16/23/26/31–38partialread https://bible.usccb.org/bible/john/13 . Publicattributespossiblebaptismalconnectionascommentarysuggestion,notCatholicdogma. ItsclaimaboutlowestJewishslave'sdutiesnotindependentlychecked;omitted.
+
+ActualWesleyentireXIIIread https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/ :8receiveJesus/cleansingbloodSpirit;10holywalk;14lowlyserviceratherthanrequiredliteralrepeat;18Twelvechosenincludingbetrayer;20ambassadors;26–30morsel/betrayal. Exacttablewhispering/JudasreturnandPassoverchronologyclaimsnotassumedasfacts. Calvin3/4/5/6/7/9/10/12/14/16/17fullorcompletefocusedreads;relevantexcerpts1/8/15/18/19/20/21/23/26/27/28/30read https://biblehub.com/commentaries/calvin/john/13.htm .10and12wererecovered/readinfocusedpassaftertruncation.10emphasizesongoingrenewal,explicitlynotrepeatedforgivenessasitsmainmeaning;publicreflectsthat.14–15ongoinglowlyservice,critiqueofceremonialcompliancewithoutfruit.18savingelection/perseverancecontrastedfairlywithWesley'sTwelve. Hostiledenominationalrhetoricandprivate-motiveguessesnotadopted.
+
+ActualMennoniteChurchUSAConfessionArticle13body/commentaryread https://www.mennoniteusa.org/who-are-mennonites/what-we-believe/confession-of-faith/foot-washing/ :mutualhumility/service/selfgift;encouragespracticewhenmeaningfulandexplicitlyacknowledgessomecongregationsdo/somedonot. PublicnotallMennonitesuniform/noinventedrequiredfrequency. Commentary'shistoricalPalestine/customsclaimsnotneededhereandnotseparatelyendorsedasfacts.
+
+ActualofficialVatican2016decreefulltextread https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20160106_decreto-lavanda-piedi_en.html :riteMassLord'sSupper/HolyThursday,humility/charity,selfgiftandselectionamongpeopleofGod. PublicdescribesriteandmeaningwithoutclaimingeveryCatholicmustpersonallywashfeet/yearlyceremonyfulfillsallservice. Historical55and16rubricsnotturnedintouserinstructions. Neitherdocument'snonBSBScripturequoteisreproduced.
+
+No existing study directly develops these particular groups' cleansing/ritual/election conclusions. Related studies supply links only. Positions remain open.
+
+## John 13:1–17
+
+Plan section: included, because (b)/(c): Phil2divineSonservanthoodthroughcross;Heb9selfofferingcleansconsciencestoserveGod.
+Position source: none.
+FLAGGED FOR REVIEW: No exactWednesdayApril21AD34,shiftedmealcalendar/earlyroastedlambnotmeetingLawclaim,allfamiliesaroundten,orJewishdayalways12equalphysicalhours. No reconstructedcompletePassoverchronologyrequiredforfootwashingmeaning.
+
+No exactclothingbeyondBSBoutergarments/towel,universalhostslaveduty/nostaffinroom,specifictableheight/couches/shoes,orallapostlesrefusedduetopridemotivestoldasnarrativefact. No Peter'severyprotestcalculatedselfpromotion;heobjectsandthenasksmore,textdoesnotgivefullinnerhistory. Noautomaticuniversalbaptismverdictfromalreadyclean/differentGreekverbs. No importedBaptismstudyparticularwordclaimswithoutdirectJohn13positionwork.
+
+Actualprimarypracticevaries.Catholicritualnotcaricaturedasemptyalone;Mennonitevariationacknowledged;Calvin/WesleyindividualreadingsnotallProtestants'dogma. No allChristianstraditionsmustfollowonecurrentfrequencyrule. No originalwordprovesoneunchallengedposition. OuterwashingandJudasnotcleanpointbeyondskindirtwithoutoriginatingnewsiteposition.
+
+## John 13:18–30
+
+Plan section: included, because (a)/(c): JesusexplicitPsalm41fulfillment;Acts2divinepurpose/humanresponsibilityandHeb2victoryoverdeath/Satan.
+Position source: none.
+FLAGGED FOR REVIEW: No allchosenequalsonly11foreternalsalvationasunanimousreading. Calvin18/Wesley18differentusesfairlyattributed. No Judasinnocentpawn/allblameonlySatan;Luke22explicitdeterminedpathandwoetobetrayerbothkept. No everyunbelieverpossessed/onlyJudascontrollableorcontemporarydemonstatistics.
+
+No exactbeloveddiscipleage/tablegeometry/right-left-honorseats/Judasseat/prideornamedJohnasabsolutefactfromthisparagraphalone. No muddledfulltableknewandforgot/supernaturallystunnedexplanation. No morseldefinitelybitterherbs/stew/sacramentalEucharist,orJudasreturnedlateronthebasisoneteacher'sharmonization. Text'smorsel/Satanentered/othersmisunderstood/nightkeptwithoutunrecordedmechanics.
+
+No JesuscommandsmorallygoodbetrayalorfullSatan-bodymechanics. Commonwarningsandknowledgeexplainedfairly;nohypergeneralizedpsychiatricapplication. God'sknownpurposeisnotmoralapprovalofevil.
+
+## Validation
+
+Passed: focused generation; two fresh BSB checks; eight tests; zero repository errors /327 existing warnings; source/index/HTML agreement; coverage; unrelated-file preservation; adjacent navigation; generation idempotence. Both pages passed 390px reader and standalone checks; actual Next focused the next title at 188px. Hosting dry run and deployment exited zero. All six selected/neighbor/index/reader live files matched local SHA-256 hashes. John now has 77 reviewed pages covering 615 actual BSB verses, 77 plan sections, 28 existing-study positions and 49 open positions; 86 sources and nine unreviewed legacy references.

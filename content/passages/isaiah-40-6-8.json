@@ -5,30 +5,59 @@
     "label": "Isaiah 40:6-8",
     "slug": "isaiah-40-6-8"
   },
-  "section_title": "The Enduring Word",
+  "section_title": "What can be trusted when human strength and beauty fade?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "6 A voice says, \u201cCry out!\u201d",
-        "And I asked, \u201cWhat should I cry out?\u201d",
-        "\u201cAll flesh is like grass,",
-        "and all its glory like the flowers of the field.",
-        "7 The grass withers and the flowers fall",
-        "when the breath of the LORD blows on them;",
-        "indeed, the people are grass.",
-        "8 The grass withers and the flowers fall,",
-        "but the word of our God stands forever.\u201d"
+        "6 A voice says, “Cry out!” And I asked, “What should I cry out?” “All flesh is like grass, and all its glory like the flowers of the field. 7 The grass withers and the flowers fall when the breath of the LORD blows on them; indeed, the people are grass. 8 The grass withers and the flowers fall, but the word of our God stands forever.”"
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 40**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "Another voice commands a proclamation, and the speaker asks what to announce. The answer compares all flesh and its glory with grass and field flowers. Their beauty is real, but it does not endure.",
+    "",
+    "The Lord’s breath makes the grass wither and the flowers fall. The people themselves are included in the comparison; no human greatness can turn a passing life into something permanent.",
+    "",
+    "The final line gives the contrast on which the surrounding comfort rests: God’s word stands forever. The promise does not depend on human strength lasting long enough to accomplish it."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Enduring Word** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/isaiah/40.htm) and [Wesley](https://biblehub.com/commentaries/wes/isaiah/40.htm) read the contrast as an answer to confidence in human status, possessions or accomplishment. What people possess and achieve is fragile beside the word of the One who does not change.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 40** remains the first control on meaning."
+    "Wesley especially connects the enduring word with the certainty of the promises just announced. Human weakness does not make God’s speech weak or leave its fulfillment dependent on the passing power of a ruler or generation."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[First Peter 1:22–25](https://biblehub.com/bsb/1_peter/1.htm) directly quotes the grass, flowers and enduring word. Peter explains that believers have been born again through God’s living and enduring word, and identifies that word with the message proclaimed to them.",
+    "",
+    "The surrounding instruction is to love one another deeply from a pure heart. The enduring word is therefore connected with both new life and the life believers share with one another.",
+    "",
+    "Isaiah’s contrast between passing flesh and lasting speech becomes part of the New Testament’s explanation of hope: God gives life through the good news, and that life is to bear the fruit of sincere love."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/40.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-forty-one-review.md"
+  }
 }

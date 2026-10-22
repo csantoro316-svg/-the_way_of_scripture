@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "2 Peter",
+    "citation": "3:14-16",
+    "label": "2 Peter 3:14-16",
+    "slug": "2-peter-3-14-16"
+  },
+  "section_title": "How do we handle Scripture that is hard to understand?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 Therefore, beloved, as you anticipate these things, make every effort to be found at peace—spotless and blameless in His sight. 15 Consider also that our Lord’s patience brings salvation, just as our beloved brother Paul also wrote you with the wisdom God gave him.",
+        "16 He writes this way in all his letters, speaking in them about such matters. Some parts of his letters are hard to understand, which ignorant and unstable people distort, as they do the rest of the Scriptures, to their own destruction."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Because his readers expect God’s promised future, Peter urges them to make every effort to be found at peace, spotless and blameless. He again connects the Lord’s patience with salvation, then points to Paul as a beloved brother whose wisdom comes from God.",
+    "",
+    "Peter openly acknowledges that some things in Paul’s letters are difficult. The danger he identifies is people distorting those things, just as they distort the other Scriptures. Difficulty calls for care and steadiness; it does not make manipulation harmless.",
+    "",
+    "The reference to the rest of the Scriptures places Paul’s letters alongside Scripture. The passage does not identify which particular letter Paul had written to these readers, nor does it provide a list of all the books they possessed."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/2_peter/3.htm), [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-epistle-general-of-st-peter/) and the [USCCB note](https://bible.usccb.org/bible/2peter/3) recognize Paul’s letters as being treated here as Scripture. Calvin and Wesley also stress that misuse of difficult passages gives no reason to stop reading them. The warning concerns distortion; readers are called to approach the writings with care and a willingness to learn."
+  ],
+  "god_plan_lines": [
+    "[2 Timothy 3:14–17](https://biblehub.com/bsb/2_timothy/3.htm) explains the positive purpose of Scripture: it gives wisdom for salvation through faith in Christ and equips God’s servant for good work. That helps show what is at stake in Peter’s warning. God gives His word to teach and form His people; distorting it turns a gift meant for their good into an occasion for harm."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Is the Bible the Inerrant Word of God?",
+      "href": "../studies/inerrancy.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_peter/3.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-peter-three-review.md"
+  }
+}

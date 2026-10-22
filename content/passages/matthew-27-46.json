@@ -5,11 +5,57 @@
     "label": "Matthew 27:46",
     "slug": "matthew-27-46"
   },
-  "versions": [],
-  "context_lines": [
-    "In **Matthew 27**, Jesus suffers, is crucified, and dies under the weight of redemptive judgment. The chapter's cry from the cross must be read in the larger scriptural and covenantal frame of the passion, not as a denial of the Father's plan."
+  "section_title": "My God, My God, Why Have You Forsaken Me?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "46 About the ninth hour Jesus cried out in a loud voice, “Eli, Eli, lema sabachthani?” which means, “My God, My God, why have You forsaken Me?”"
+      ]
+    }
   ],
-  "explanation_lines": [
-    "This is the rawest prayer in the Bible. Jesus is not asking God to stop what is happening. He is not requesting relief. He is bringing the full, unfiltered weight of what He is experiencing into words, directed at the Father, in the darkest moment any human being has ever faced. The Father does not answer immediately. He does not remove the suffering. The cup is drunk to the last drop. If Jesus could bring this kind of honesty before God without it being unfaithful, so can we."
-  ]
+  "context_lines": [
+    "This cry comes near the end of the darkness while Jesus hangs on the cross. [Matthew 27:45–50](https://the-way-of-scripture.web.app/passages/matthew-27-45-50.html) gives the surrounding account, including the hearers' reference to Elijah, the offered sour wine, and His death.",
+    "",
+    "Jesus uses the opening words of [Psalm 22:1](https://biblehub.com/bsb/psalms/22.htm). It is a direct prayer to God from within profound distress. The psalm itself begins with the question of abandonment and continues through suffering toward God's hearing and praise.",
+    "",
+    "Forsaken is ἐγκαταλείπω, *enkataleipō* (eng-kah-tah-LAY-poh). [Thayer's lexicon](https://biblehub.com/greek/1459.htm) describes abandoning someone in distress. The force of the word should be taken seriously, while the fuller explanation of His suffering must also consider His words and the surrounding Scriptures."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly recognize the words of Psalm 22:1 in Jesus' cry and understand His suffering and death as part of His saving work. They differ in how they explain His experience of being forsaken.",
+    "",
+    "[Calvin on 27:46](https://biblehub.com/commentaries/calvin/matthew/27.htm) understands Jesus as bearing the judgment due to sinners in both body and soul, while His trust in God remains firm through the anguish. [Wesley on 27:46](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) likewise emphasizes both trust and the terrible loss of the felt comfort of God's presence. The [Westminster Confession, 8.4–5](https://www.opc.org/wcf.html), teaches His willing suffering in soul and body and His sacrifice for reconciliation.",
+    "",
+    "The Catholic [Catechism, 603–604](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/article_4/paragraph_2_jesus_died_crucified.html), emphasizes that Jesus did not become a sinner rejected by God: He remains united to the Father in redeeming love while taking our condition upon Himself and speaking in our name. This explanation preserves both His real anguish and the Father's continuing love. These sources give the cry serious weight without treating it as playacting or a failure of faith."
+  ],
+  "god_plan_lines": [
+    "The prayer's scriptural setting reaches beyond its opening question. [Psalm 22:22–31](https://biblehub.com/bsb/psalms/22.htm) speaks of the afflicted person's cry being heard, praise in the assembly, and the nations turning to the LORD. This does not make the opening anguish unreal; it shows where the psalm's whole movement leads.",
+    "",
+    "[Hebrews 2:10–13](https://biblehub.com/bsb/hebrews/2.htm) explicitly applies the psalm's words about proclaiming God's name among brothers to Jesus, in the context of bringing many children to glory through His suffering. The One who cries from the cross also gathers a family who share in His saving work. That is a connection the New Testament makes, rather than a reason to explain away His pain."
+  ],
+  "current_position_lines": [
+    "On Jesus' cry in verse 46, What Does Prayer Look Like? emphasizes honest prayer within suffering. Jesus brings the weight of His experience before the Father without pretending that the anguish is less than it is. The study takes this as a model for bringing grief to God without treating such honesty as unfaithfulness. This supplies our position on the prayer; it does not decide every explanation of the darkness or of how Jesus' suffering accomplishes salvation."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/27.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "position_source_detail": "What Does Prayer Look Like?, section 2, My God, Why Have You Forsaken Me (content/studies/what_does_prayer_look_like.md:54–58): honest grief brought to God, limited to the cry in verse46.",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-seven-death-review.md"
+  }
 }

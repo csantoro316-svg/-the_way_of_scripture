@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "9:23-27",
+    "label": "Luke 9:23-27",
+    "slug": "luke-9-23-27"
+  },
+  "section_title": "Why does following Jesus mean taking up a cross?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "23 Then Jesus said to all of them, “If anyone wants to come after Me, he must deny himself and take up his cross daily and follow Me. 24 For whoever wants to save his life will lose it, but whoever loses his life for My sake will save it. 25 What does it profit a man to gain the whole world, yet lose or forfeit his very self?",
+        "26 If anyone is ashamed of Me and My words, the Son of Man will be ashamed of him when He comes in His glory and in the glory of the Father and of the holy angels. 27 But I tell you truly, some who are standing here will not taste death before they see the kingdom of God.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus has just announced His coming suffering, death and resurrection. He now describes what following Him means: denying oneself, taking up a cross daily and coming after Him. The call concerns the direction of a whole life.",
+    "",
+    "The comparison between saving and losing life presses the question of what is worth holding onto. Gaining the world cannot compensate for forfeiting oneself. Allegiance to Jesus and His words matters more than the security or approval a person can preserve by turning away from Him.",
+    "",
+    "Jesus places the decision within the prospect of His coming glory, with the Father and the holy angels. He then promises that some standing there will see God’s kingdom before they die. Luke follows that promise with the account of three disciples seeing His glory on the mountain."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand this as a serious call to follow Jesus even when faithfulness costs deeply. Wesley connects self-denial with doing God’s will in both the great and the daily demands of life. ([Wesley on Matthew 16:24–27](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/))",
+    "",
+    "The promise about seeing the kingdom receives different explanations. John Chrysostom connects it with the following Transfiguration, where the disciples glimpse the glory Jesus has promised. Calvin emphasizes the display of Christ’s rule beginning with His resurrection and the sending of the Spirit. Wesley connects it with the powerful growth of the church and judgment on Jerusalem. These are the readings of particular teachers, not a claim that every member of their traditions chooses the same event. ([Chrysostom, Homily 56 on Matthew](https://www.newadvent.org/fathers/200156.htm); [Calvin on Matthew 16:28 and Luke 9:27](https://biblehub.com/commentaries/calvin/luke/9.htm); [Wesley on Matthew 16:28](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/))"
+  ],
+  "god_plan_lines": [
+    "Peter later describes Christ’s suffering as a pattern for those who follow His steps. Jesus entrusts Himself to the just Judge while bearing sins and bringing people back to their Shepherd. The call to follow a costly path belongs within the life shaped by the Savior who first gives Himself for His people. ([1 Peter 2:21–25](https://biblehub.com/bsb/1_peter/2.htm))",
+    "",
+    "Paul also connects sharing Christ’s sufferings with sharing His glory. Present suffering is placed beside the coming freedom and restoration God promises His children. That wider hope helps explain why the cost of following Jesus is measured against more than what can be gained in the present world. ([Romans 8:17–23](https://biblehub.com/bsb/romans/8.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/9.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-nine-glory-review.md"
+  }
+}

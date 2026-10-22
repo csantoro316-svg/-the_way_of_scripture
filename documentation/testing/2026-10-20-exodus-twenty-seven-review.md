@@ -1,0 +1,45 @@
+# Exodus 27 editorial review
+
+Reviewed2026-10-20,passage-v1. Threeexistinggroups/21BSBversesretained. Allplans;noownerpositionoriginated. Plainprose;baselineunnamedpublicly.
+
+## Sources actually read
+
+- Baseline `content/assets/reference/stephen_armstrong/old-testament/02-exodus.pdf`:all27material409–419readbeforedraft;420begins28:1–20andalsoalreadyread. Cumulative1–420read,421+unread. Combined27–28lesson409–430notclaimedfullyread;remaining28materialmustbereadbefore28draft.
+- https://biblehub.com/bsb/exodus/27.htm — all21versesread,includingcontinually/eveningmorningandexactfencemeasurements.
+- https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/ — entireXXVII3050charactersread;altar/Christ,court/churchandlamps/Spiritconnectionsactuallychecked.
+- https://biblehub.com/commentaries/calvin/exodus/27.htm —2271–6299altar;6299–9900courts/Scripturethroughcommentopening;14126–17400oilcommentaryfullread. Two-court/chambershistoricalreconstructionnotindependentlyverifiedorused. AltarvariedofferingsandChristSpiritofferingactuallychecked.
+- https://biblehub.com/commentaries/gill/exodus/27.htm —24299–28600oil20/fulland21openingread. Daynightinterpretationchecked;JosephusandHecataeusreportedhistoricalpracticeunverifiedindependentlyandnotrepeatedpublicly.
+- https://www.sefaria.org/Rashi_on_Exodus.27.20?lang=bi — fullEnglishnotesactuallyreadthroughAPI. Continuallyasregularnightlyservicechecked;olivemillingprocessnotadoptedindependentscience.
+- https://biblehub.com/hebrew/4196.htm — actualBDBheadingandfirst1800charactersread;mizbeachaltar. https://biblehub.com/hebrew/2076.htm — actualBDBheading/formlist/firstsacrificesensesreadthrough1800characters;zabachslaughterforsacrifice. Not“highplace.” Otherlexiconbranchesnotcredited.
+
+ActualBSBcross-reference rangesreadatcorrespondingBibleHubchapterURLs:Num18:1–7;Lev17:8–9;Num15:14–16;Lev6:8–13,26–30;Ex29:10–14;Heb7:23–28;Heb13:10–16;Matt5:14–16;2Cor4:5–7;John19:33–35;Ps118:26–27. ReuseddirectlyreadLev24:1–4andEph2:11–22from25/26batches. Somearebaselineguardchecks,notallpubliclycited.
+
+OwnerstudyWorship300–320read:altar/crossandnew-covenantframework. It does not settle the specific bronze altar's construction/horn/materialclaims;relatedlinkonly,noEx27positiongeneratedfromgenericaltarapplication,consistentwithEx20review. Otherrelatedstudiesunchanged.
+
+## Exodus27:1–8
+
+Plan section: included,because(a)/(c). Heb7Christpermanentpriest/once-for-alloffering;Heb13altar/sufferingoutside/praise/sharingexplicitlydevelopstabernaclesacrificewithChristanditsfruit.
+Position source: none.
+FLAGGED FOR REVIEW: Altarwordnot“highplace”;actualBDB4196/2076checked. Raisedearthplatform/exactmodernfeet/oxygenengineering/hollowwoodneverconsumedclaimsnotindependentlyestablished,excluded. FireongoingactualLev6;notliteraluninterruptedsameflamethroughalltravelhistory. Notallsacrificesentirelyburned:Calvinactualnotesvariedportions. Bloodhorns→priestmustalwaysateoverbroad:Ex29:12–14hornsbloodbutfleshburnedoutside;Lev6:30bloodinsideofferingnotate. Noriverofblood/drainagesceneastextuallyreportedfact.
+
+FLAGGED FOR REVIEW: Bronze/firealwaysjudgmentandwoodalwayshumanityuniversalcodeunsupported,excluded. Horns=specificChristholdingHimselfoncrossillustrationnotexplicitNTconnection;Ps118:27bindingcheckedbutnotextendedasprovedEx27prophecy. John19:34actualSPEAR,notbaselinesword. NoassertionHeb9narratesphysicalfluidtransport/heavenlyhornapplication. Noengineeredimpossibilityofseeinganythingexceptaltarfromentrance. Christ'sonce-for-allsacrificeandongoingintercessionactuallysupportedHeb7;no365/364calendarprecision.
+
+## Exodus27:9–19
+
+Plan section: included,because(c). Eph2Gentile/Jewreconciliation/accessFather/onedwellingBiblewidetheme,explicitlynotPauldecodingthisspecificfence.
+Position source: none.
+FLAGGED FOR REVIEW: BaselineallLevitesallowedHolyPlaceincorrect:Num18:3,7distinguishesassistantsfromAaronicpriestsandforbidsunauthorizedsanctuary/altarapproach. Godordaineddutiesclearlyrepresented. BaselineallGentileseverforbiddenevenoutercourtnotEx27statement:Lev17:8–9foreignresidentbringsacrificeatTententrance;Num15:14–16sameofferingrule. NoHerodianCourtGentiles/soregretrojectedintowildernessenclosureorallforeignersmustbecomeethnicIsraelitesclaim.
+
+FLAGGED FOR REVIEW: Calvintwocourts/chambersreconstructionunverifiedandnotpublic;onlyactualEx27singlecourtyarddescribed. Cubitdimensionsretainedwithoutunsupporteduniform18inrule. Noalllinenalwaysrighteousnesspropheticcodeorphysicalwallprovesonespecificcurrentchurchmembershippolicy. Formerdistance/newaccessinEph2actual,notanexcusetoinventhistoricalbans.
+
+## Exodus27:20–21
+
+Plan section: included,because(c). Matt5publicgooddeedsglorifyFather/2Cor4GodilluminationChristproclaimed/weakservantsgivewiderpurposebeyondphysicaltending.
+Position source: none.
+FLAGGED FOR REVIEW: Peoplebringoil,priestsarrangeandmaintainlamps;nottextrequiresprieststobeattheolives. Purepressedoilactual,noindependentagronomy/manufacturingprocessclaimsfromGill/Rashiadopted. BSBbothcontinuallyandfromeveningtomorningpreserved. RashiregularnightlyvsGilldaynightactualownprimaries;notclaimall7neveroutasunanimousmeaning. ReportedlaterTemplethree-lamppracticeunverifiedandnotimported.
+
+FLAGGED FOR REVIEW: Sevenlamps=sevenIsa11attributesappliedasillustrationbybaseline,notexplicitNTEx27decoding. OilnotmechanismtomakeSpiritworkorhumanstudyautomaticallycreatesrevelation. NoallmodernministersidenticalAaronicpriestduty. LightthemeMatt5/2Cor4actual;witnessincludesgooddeedsandChristproclamation,notselfpromotionorpersonalspiritualstatusformula.
+
+## Validation
+
+Passed,observedexit0:focusedBSB/repository0errors219warnings/preservation/continuouscoverage27:21;unchangedfocusedrepeatgeneration;six390pxreader/standalonechecks;actualNext27:1–8→27:9–19withtitlefocus/top188.515625px;explicit-projectHostingdry-run/deploy/live7MATCH. Cumulative74groups761actualBSBverses72plans6existing-studypositions68open;globalintentionalreviewedplanomissions53.

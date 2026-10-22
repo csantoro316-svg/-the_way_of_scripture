@@ -10,20 +10,40 @@
     {
       "label": "BSB",
       "paragraphs": [
-        "6 So Isaac settled in Gerar. 7 But when the men of that place asked about his wife, he said, \u201cShe is my sister.\u201d For he was afraid to say, \u201cShe is my wife,\u201d since he thought to himself, \u201cThe men of this place will kill me on account of Rebekah, because she is so beautiful.\u201d",
-        "8 When Isaac had been there a long time, Abimelech king of the Philistines looked down from the window and was surprised to see Isaac caressing his wife Rebekah. 9 Abimelech sent for Isaac and said, \u201cSo she is really your wife! How could you say, \u2018She is my sister\u2019?\u201d",
-        "Isaac replied, \u201cBecause I thought I might die on account of her.\u201d",
-        "10 \u201cWhat is this you have done to us?\u201d asked Abimelech. \u201cOne of the people could easily have slept with your wife, and you would have brought guilt upon us.\u201d 11 So Abimelech warned all the people, saying, \u201cWhoever harms this man or his wife will surely be put to death.\u201d"
+        "6 So Isaac settled in Gerar. 7 But when the men of that place asked about his wife, he said, “She is my sister.” For he was afraid to say, “She is my wife,” since he thought to himself, “The men of this place will kill me on account of Rebekah, because she is so beautiful.”",
+        "8 When Isaac had been there a long time, Abimelech king of the Philistines looked down from the window and was surprised to see Isaac caressing his wife Rebekah. 9 Abimelech sent for Isaac and said, “So she is really your wife! How could you say, ‘She is my sister’?”",
+        "Isaac replied, “Because I thought I might die on account of her.”",
+        "10 “What is this you have done to us?” asked Abimelech. “One of the people could easily have slept with your wife, and you would have brought guilt upon us.” 11 So Abimelech warned all the people, saying, “Whoever harms this man or his wife will surely be put to death.”"
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 26**, Isaac faces famine under the shadow of the promises first given to Abraham. The chapter shows the Lord directing, preserving, and blessing Isaac, highlighting the contrast between divine guidance and fearful self-management."
+    "Isaac stays in Gerar as God directed, but his conduct there also reveals fear. When asked about Rebekah, he calls her his sister because he thinks the local men might kill him to obtain her. His decision echoes Abraham's earlier concealment of Sarah's identity, exposing his wife to danger while trying to protect himself.",
+    "",
+    "After a long time, Abimelech sees Isaac caressing Rebekah and recognizes that she is his wife. The Hebrew verb comes from צָחַק, *ṣāḥaq* (tsah-KHAHK), whose meanings include laughing and playing. [Brown–Driver–Briggs](https://biblehub.com/hebrew/6711.htm) specifically identifies marital caresses in this verse. The king sees behavior that contradicts Isaac's account of their relationship.",
+    "",
+    "Abimelech confronts Isaac about the guilt his deception could have brought upon the people. Isaac admits his fear, and the king issues a warning against harming either him or Rebekah. Protection comes despite Isaac's dishonesty. The account shows both his obedience in remaining in the land and his failure to trust God within it."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Isaac Deceives Abimelech** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 26** remains the first control on meaning."
+    "Christians commonly see Isaac repeating his father's fear-driven deception and putting Rebekah and others at risk. [Wesley's note on Genesis 26:7](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) treats the concealment as a serious failure by a man who otherwise trusts God."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "god_plan_lines": [
+    "God has just promised to be with Isaac, and the story immediately shows how unevenly Isaac lives in that assurance. The promised family is protected through the exposure of his lie and the king's intervention. God's continuing care is visible alongside a needed rebuke, rather than as approval of the deception.",
+    "",
+    "The wider biblical call is for conduct to agree with professed trust. [1 John 2:3–6](https://biblehub.com/bsb/1_john/2.htm) joins knowing God with keeping His word and walking as Jesus walked. Isaac's experience helps make that issue concrete: obeying one direction does not remove the need to trust and act truthfully in the next difficulty."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/26.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-isaac-and-bethel-review.md"
+  }
 }

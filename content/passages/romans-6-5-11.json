@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "6:5-11",
+    "label": "Romans 6:5-11",
+    "slug": "romans-6-5-11"
+  },
+  "section_title": "What does it mean to count ourselves alive to God?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 For if we have been united with Him like this in His death, we will certainly also be united with Him in His resurrection. 6 We know that our old self was crucified with Him so that the body of sin might be rendered powerless, that we should no longer be slaves to sin. 7 For anyone who has died has been freed from sin.",
+        "8 Now if we died with Christ, we believe that we will also live with Him. 9 For we know that since Christ was raised from the dead, He cannot die again; death no longer has dominion over Him. 10 The death He died, He died to sin once for all; but the life He lives, He lives to God. 11 So you too must count yourselves dead to sin, but alive to God in Christ Jesus."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul continues the connection between Christ’s death and the believer’s life. Union with His death points toward union with His resurrection. The old self is crucified with Him so that sin’s mastery is broken and the person no longer serves it as a slave.",
+    "",
+    "Christ’s resurrection is decisive: He will not die again, and death no longer rules over Him. His death was once for all, and He lives to God. Paul calls believers to reckon with what their belonging to Him means.",
+    "",
+    "To count oneself dead to sin and alive to God is to live from that changed allegiance. It does not mean pretending that temptation is absent. The commands that follow call for concrete choices about how people use their bodies and conduct their lives."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this passage as connecting freedom from sin’s rule with participation in Christ’s death and life. [Calvin on verse 6](https://biblehub.com/commentaries/calvin/romans/6.htm) distinguishes that freedom from an immediate end to every sinful act; [Wesley on verse 6](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-romans/) likewise describes the old nature being put to death through union with Christ. Both connect what Christ has done with an ongoing changed life."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 2:14–18](https://biblehub.com/bsb/hebrews/2.htm) connects Jesus’ sharing our humanity, His death, freedom from slavery to the fear of death and His help for those being tempted. Rescue and continuing help belong to the same Lord.",
+    "",
+    "The future also matters. [Romans 8:23–25](https://biblehub.com/bsb/romans/8.htm) describes believers waiting for the redemption of their bodies. New life now and the hope of resurrection belong together; Paul does not limit God’s saving work to an inward feeling or abandon the body’s future."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/6.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-six-review.md"
+  }
+}

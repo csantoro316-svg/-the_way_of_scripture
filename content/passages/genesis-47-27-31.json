@@ -11,20 +11,43 @@
       "label": "BSB",
       "paragraphs": [
         "27 Now the Israelites settled in the land of Egypt, in the region of Goshen. They acquired property there and became fruitful and increased greatly in number. 28 And Jacob lived in the land of Egypt seventeen years, and the length of his life was 147 years.",
-        "29 When the time drew near for Israel to die, he called his son Joseph and said to him, \u201cIf I have found favor in your eyes, put your hand under my thigh and promise to show me kindness and faithfulness. Do not bury me in Egypt, 30 but when I lie down with my fathers, carry me out of Egypt and bury me with them.\u201d",
-        "Joseph answered, \u201cI will do as you have requested.\u201d",
-        "31 \u201cSwear to me,\u201d Jacob said.",
+        "29 When the time drew near for Israel to die, he called his son Joseph and said to him, “If I have found favor in your eyes, put your hand under my thigh and promise to show me kindness and faithfulness. Do not bury me in Egypt, 30 but when I lie down with my fathers, carry me out of Egypt and bury me with them.”",
+        "Joseph answered, “I will do as you have requested.”",
+        "31 “Swear to me,” Jacob said.",
         "So Joseph swore to him, and Israel bowed in worship at the head of his bed."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 47**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "Israel's household settles in Goshen, acquires property, and grows greatly. Jacob lives another seventeen years in Egypt, reaching 147. The family has found security during the famine, but his final request looks beyond the land where that security has been provided.",
+    "",
+    "As death approaches, he calls Joseph and asks for an oath marked by placing a hand under his thigh, recalling the oath Abraham required in Genesis 24. Joseph is to show kindness and faithfulness by carrying him out of Egypt and burying him with his fathers. Joseph agrees and swears to do so.",
+    "",
+    "Jacob then bows in worship at the head of his bed in the BSB. Readers may also remember [Hebrews 11:21](https://biblehub.com/bsb/hebrews/11.htm), which speaks of him worshiping over his staff. The [US Catholic bishops' note on Genesis 47:31](https://bible.usccb.org/bible/genesis/47) explains that the same Hebrew consonants have been read with different vowels as bed or staff, and that the ancient Greek version has staff. This helps explain the wording in the related passages.",
+    "",
+    "The oath keeps the family burial place and God's land promise in view even after years of comfort in Egypt. Jacob accepts care there without making it the final home of his story. His deathbed instructions and the blessings in the following chapters prepare the family's next generation."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Israelites Prosper in Goshen** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 47** remains the first control on meaning."
+    "Christians commonly understand the burial request as an expression of faith in God's promise rather than dissatisfaction with Joseph's care. [Wesley's note on Genesis 47:29](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) connects Canaan's significance as the promised land with the larger hope of the better country described in Hebrews. Jacob's worship accompanies his arrangements for death."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 11:21](https://biblehub.com/bsb/hebrews/11.htm) directly remembers Jacob's dying faith, his blessing of Joseph's sons, and his worship. Its wording brings this closing scene and the following blessing into the larger account of people who trust God's promise at the end of their lives.",
+    "",
+    "The broader explanation in [Hebrews 11:13–16](https://biblehub.com/bsb/hebrews/11.htm) describes people dying in faith while looking toward what they have not yet received. Jacob's burial request fits that hope: the care he has received in Egypt is real, and God's purpose still extends beyond his present circumstances and death. The family must continue to live by the promise after he is gone."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/47.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-family-in-egypt-review.md"
+  }
 }

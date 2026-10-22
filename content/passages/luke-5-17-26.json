@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "5:17-26",
+    "label": "Luke 5:17-26",
+    "slug": "luke-5-17-26"
+  },
+  "section_title": "Why does Jesus forgive the man before telling him to walk?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 One day Jesus was teaching, and the Pharisees and teachers of the law were sitting there. People had come from Jerusalem and from every village of Galilee and Judea, and the power of the Lord was present for Him to heal the sick. 18 Just then some men came carrying a paralyzed man on a mat. They tried to bring him inside to set him before Jesus, 19 but they could not find a way through the crowd. So they went up on the roof and lowered him on his mat through the tiles into the middle of the crowd, right in front of Jesus. 20 When Jesus saw their faith, He said, “Friend, your sins are forgiven.”",
+        "21 But the scribes and Pharisees began thinking to themselves, “Who is this man who speaks blasphemy? Who can forgive sins but God alone?” 22 Knowing what they were thinking, Jesus replied, “Why are you thinking these things in your hearts? 23 Which is easier: to say, ‘Your sins are forgiven,’ or to say, ‘Get up and walk’? 24 But so that you may know that the Son of Man has authority on the earth to forgive sins…” He said to the paralytic, “I tell you, get up, pick up your mat, and go home.”",
+        "25 And immediately the man stood up before them, took what he had been lying on, and went home glorifying God. 26 Everyone was taken with amazement and glorified God. They were filled with awe and said, “We have seen remarkable things today.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus is teaching with Pharisees and teachers of the law present. Some men bring a paralyzed man, but the crowd prevents them from reaching Him. They go onto the roof and lower the man through the tiles, placing him before Jesus. Their persistence brings him within reach of Jesus.",
+    "",
+    "Jesus sees their faith and tells the man that his sins are forgiven. The scribes and Pharisees recognize the weight of that claim: forgiveness belongs to God. Jesus knows their thoughts and asks which is easier to say—an announcement of forgiveness or a command to get up and walk.",
+    "",
+    "He then explains the purpose of the visible healing: they are to know that the Son of Man has authority on earth to forgive sins. The man immediately stands, carries his mat home, and glorifies God. The crowd’s amazement also becomes praise."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand the visible healing as confirming Jesus’ authority to forgive sins, with the men’s actions showing their faith in Him. The scene directs attention to who Jesus is and what He can give, rather than establishing that one person’s faith automatically secures another person’s forgiveness. ([Calvin on the parallel Matthew 9:2–6](https://biblehub.com/commentaries/calvin/luke/5.htm); [Mark 2:1–12](https://biblehub.com/bsb/mark/2.htm))"
+  ],
+  "god_plan_lines": [
+    "Isaiah’s picture of God coming to save includes the lame being restored. Here the man’s restored movement accompanies the announcement of forgiveness, bringing physical restoration and the deeper need for mercy together in one encounter. This is a supported parallel with the promised restoration, while Jesus Himself states that this particular healing demonstrates His authority to forgive. ([Isaiah 35:3–6](https://biblehub.com/bsb/isaiah/35.htm))",
+    "",
+    "By the end of Luke, Jesus explains how that forgiveness will reach beyond the people gathered in this house. His suffering and resurrection lead into the proclamation of repentance and forgiveness in His name to all nations. The authority made known here belongs to the Savior whose death and resurrection stand at the center of that message. ([Luke 24:44–49](https://biblehub.com/bsb/luke/24.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/5.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-five-review.md"
+  }
+}

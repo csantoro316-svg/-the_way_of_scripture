@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Nehemiah",
+    "citation": "4:15-23",
+    "label": "Nehemiah 4:15-23",
+    "slug": "nehemiah-4-15-23"
+  },
+  "section_title": "How do the people keep building while remaining ready?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 When our enemies heard that we were aware of their scheme and that God had frustrated it, each of us returned to his own work on the wall. 16 And from that day on, half of my servants did the work while the other half held spears, shields, bows, and armor. The officers stationed themselves behind all the people of Judah 17 who were rebuilding the wall. The laborers who carried materials worked with one hand and held a weapon with the other. 18 And each of the builders worked with his sword strapped at his side. But the trumpeter stayed beside me.",
+        "19 Then I said to the nobles, the officials, and the rest of the people: “The work is great and extensive, and we are spread out far from one another along the wall. 20 Wherever you hear the sound of the horn, rally to us there. Our God will fight for us!”",
+        "21 So we continued the work, while half of the men held spears from the break of dawn until the stars came out. 22 At that time I also said to the people, “Let every man and his servant spend the night inside Jerusalem, so that they can stand guard by night and work by day.” 23 So neither I nor my brothers nor my servants nor the guards with me changed out of our clothes; each carried his weapon, even to go for water."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The opponents learn that their plan is known and has been frustrated. The workers return to their sections, and Nehemiah gives God credit for the outcome.",
+    "",
+    "From then on, half of his servants work while the other half remain armed. The carriers keep weapons to hand, the builders wear swords and the trumpeter stays beside Nehemiah. Because the workers are spread along the wall, a horn signal will call them together wherever needed.",
+    "",
+    "The work continues from dawn until the stars appear. People are told to stay inside Jerusalem overnight so that they can guard as well as work. Nehemiah and those with him remain dressed and ready, even carrying weapons when going for water."
+  ],
+  "common_interpretation_lines": [
+    "[Gill](https://biblehub.com/commentaries/gill/nehemiah/4.htm) emphasizes readiness for both labor and defense, understanding the one-handed work language as expressing preparedness for both duties. [Henry](https://biblehub.com/commentaries/mhc/nehemiah/4.htm) also draws a spiritual lesson about remaining watchful while serving God. The immediate account distinguishes the carriers’ equipment, the builders’ swords and the plan to assemble at the horn."
+  ],
+  "god_plan_lines": [
+    "Nehemiah’s assurance that God will fight for the people belongs to the wider biblical theme of trusting God under threat. [Romans 8:31–39](https://biblehub.com/bsb/romans/8.htm) gives Christian confidence its ground in God giving His Son, Christ’s death and resurrection, and His continuing prayer for His people.",
+    "",
+    "Paul names persecution, danger and the sword among the troubles believers may face, yet says that nothing can separate them from God’s love in Christ. That carries the theme beyond one city’s defense: confidence in God’s faithful care endures even through suffering."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/nehemiah/4.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-nehemiah-three-five-review.md"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "2 Corinthians",
+    "citation": "3:7-11",
+    "label": "2 Corinthians 3:7-11",
+    "slug": "2-corinthians-3-7-11"
+  },
+  "section_title": "Why does Paul say the new covenant has greater glory?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 Now if the ministry of death, which was engraved in letters on stone, came with such glory that the Israelites could not gaze at the face of Moses because of its fleeting glory, 8 will not the ministry of the Spirit be even more glorious? 9 For if the ministry of condemnation was glorious, how much more glorious is the ministry of righteousness!",
+        "10 Indeed, what was once glorious has no glory now in comparison to the glory that surpasses it. 11 For if what was fading away came with glory, how much greater is the glory of that which endures!"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul develops the contrast by pointing to the law engraved on stone. Its ministry came with glory: Moses’ face shone so brightly that the Israelites could not gaze at it. [Exodus 34:29–35](https://biblehub.com/bsb/exodus/34.htm) provides the account he is drawing on.",
+    "",
+    "He calls it a ministry of death and condemnation, then contrasts it with the ministry of the Spirit and of righteousness. The contrast is not between an evil God in the past and a good God now. Paul acknowledges the earlier glory while explaining the greater glory of what God is doing through the Spirit.",
+    "",
+    "What was temporary is surpassed by what endures. The comparison supports Paul’s confidence in the ministry he has received, even when its workers do not look impressive. Its value comes from the life God gives, rather than the appearance of its messengers."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as a comparison between the glory of the Mosaic covenant and the greater, lasting glory of the new covenant. [Wesley’s notes on verses 7–11](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-the-corinthians/) and the [USCCB notes on verses 7–11](https://bible.usccb.org/bible/2corinthians/3) both emphasize the contrast. Paul’s recognition of the earlier glory should be retained alongside his description of its limits."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 8:6–13](https://biblehub.com/bsb/hebrews/8.htm) explicitly describes Jesus’ more excellent ministry and the better covenant He brings into effect. It quotes Jeremiah’s promise of God’s laws written within His people and their sins forgiven.",
+    "",
+    "That connection places the greater glory within Christ’s work of bringing the promised relationship into effect. God’s purpose advances toward lasting life with Him; it is not a contest between Moses’ personal worth and Paul’s personal worth."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_corinthians/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-corinthians-three-review.md"
+  }
+}

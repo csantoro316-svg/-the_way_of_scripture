@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "4:32-37",
+    "label": "Acts 4:32-37",
+    "slug": "acts-4-32-37"
+  },
+  "section_title": "How does the believers’ unity become practical help?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "32 The multitude of believers was one in heart and soul. No one claimed that any of his possessions was his own, but they shared everything they owned. 33 With great power the apostles continued to give their testimony about the resurrection of the Lord Jesus. And abundant grace was upon them all. 34 There were no needy ones among them, because those who owned lands or houses would sell their property, bring the proceeds from the sales, 35 and lay them at the apostles’ feet for distribution to anyone as he had need.",
+        "36 Joseph, a Levite from Cyprus, whom the apostles called Barnabas (meaning Son of Encouragement), 37 sold a field he owned, brought the money, and laid it at the apostles’ feet."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Luke follows the prayer and bold witness with another account of the community’s life together. The believers are united in heart and soul. They hold their possessions open to one another’s needs, while the apostles continue to testify to Jesus’s resurrection.",
+    "",
+    "People who own property sell it and bring proceeds to the apostles for distribution according to need. The result Luke describes is concrete: no one among them is left needy. The account focuses on people being provided for, rather than simply celebrating a large sum of money.",
+    "",
+    "Joseph, a Levite from Cyprus whom the apostles call Barnabas, gives a particular example. He sells a field and brings the money. This introduction prepares for his later part in Acts and for the contrasting account of dishonest giving that follows."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the sharing as an expression of the believers’ unity and love, with goods directed toward actual needs. [Calvin on verse 34](https://biblehub.com/commentaries/calvin/acts/4.htm) understands the sales as proportionate to those needs rather than every person necessarily selling everything, while [Wesley on verse 34](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) emphasizes generosity arising from love rather than a particular command to sell."
+  ],
+  "god_plan_lines": [
+    "The absence of needy people recalls the concern of [Deuteronomy 15:4–11](https://biblehub.com/bsb/deuteronomy/15.htm): God’s people are to open their hands rather than harden their hearts toward a poor neighbor. This is a parallel in the pattern of care, rather than an explicit quotation by Luke.",
+    "",
+    "[1 John 3:16–18](https://biblehub.com/bsb/1_john/3.htm) connects Jesus’s self-giving love with sharing material help when a brother is in need. The resurrection message in Acts is accompanied by a community learning to put love into action."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/4.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-four-review.md"
+  }
+}

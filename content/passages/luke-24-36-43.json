@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "24:36-43",
+    "label": "Luke 24:36-43",
+    "slug": "luke-24-36-43"
+  },
+  "section_title": "How does Jesus show His followers that He is alive?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "36 While they were describing these events, Jesus Himself stood among them and said, “Peace be with you.” 37 But they were startled and frightened, thinking they had seen a spirit. 38 “Why are you troubled,” Jesus asked, “and why do doubts arise in your hearts? 39 Look at My hands and My feet. It is I Myself. Touch Me and see—for a spirit does not have flesh and bones, as you see I have.” 40 And when He had said this, He showed them His hands and feet.",
+        "41 While they were still in disbelief because of their joy and amazement, He asked them, “Do you have anything here to eat?” 42 So they gave Him a piece of broiled fish, 43 and He took it and ate it in front of them."
+      ]
+    }
+  ],
+  "context_lines": [
+    "While the two travelers are describing their encounter, Jesus stands among the gathered followers and speaks peace to them. They are frightened because they think they are seeing a spirit.",
+    "",
+    "He addresses their doubts by pointing to His hands and feet and inviting them to touch Him. He explains that a spirit does not have flesh and bones as they see He has. His identity is continuous with the Jesus who suffered, and His presence is bodily.",
+    "",
+    "Their joy and amazement still make the moment difficult to take in. Jesus asks for food, receives a piece of broiled fish and eats it in front of them. Luke records His words and these concrete actions together."
+  ],
+  "common_interpretation_lines": [
+    "Christian traditions commonly understand the touching and eating as affirming Jesus’ real bodily resurrection. The Catholic Catechism describes His risen body as the same body that suffered, now glorified; Westminster likewise affirms His rising in the same body in which He suffered. ([Catechism §§645–646](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/article_5/paragraph_2_on_the_third_day_he_rose_from_the_dead.index.html); [Westminster Confession 8.4](https://www.opc.org/wcf.html))"
+  ],
+  "god_plan_lines": [
+    "Paul describes the resurrection body as raised imperishable and in glory, contrasting the weakness of mortal life with what God gives through Christ. The risen Jesus is central to that hope. Romans likewise promises that the Spirit who raised Him will give life to His people’s mortal bodies. His bodily appearance therefore belongs within God’s purpose to overcome death for those who belong to Him. ([1 Corinthians 15:42–49](https://biblehub.com/bsb/1_corinthians/15.htm); [Romans 8:10–11](https://biblehub.com/bsb/romans/8.htm))",
+    "",
+    "Acts begins by recalling that Jesus presented Himself alive with many convincing proofs before commissioning His witnesses. This scene forms part of the foundation for the message they carry: they testify to the Lord who suffered and is truly alive. ([Acts 1:1–8](https://biblehub.com/bsb/acts/1.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/24.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-twenty-four-review.md"
+  }
+}

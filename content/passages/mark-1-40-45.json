@@ -1,0 +1,69 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "1:40-45",
+    "label": "Mark 1:40-45",
+    "slug": "mark-1-40-45"
+  },
+  "section_title": "Jesus Makes a Man Clean and Sends Him to the Priest",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "40 Then a leper came to Jesus, begging on his knees: “If You are willing, You can make me clean.” 41 Moved with compassion, Jesus reached out His hand and touched the man. “I am willing,” He said. “Be clean!” 42 And immediately the leprosy left him, and the man was cleansed.",
+        "43 Jesus promptly sent him away with a stern warning: 44 “See that you don’t tell anyone. But go, show yourself to the priest and present the offering Moses prescribed for your cleansing, as a testimony to them.” 45 But the man went out and openly began to proclaim and spread the news. Consequently, Jesus could no longer enter a town in plain view, but He stayed out in solitary places. Yet people came to Him from every quarter."
+      ]
+    }
+  ],
+  "context_lines": [
+    "A man with a skin disease comes to Jesus, kneels, and asks to be made clean if Jesus is willing. He expresses confidence in Jesus' ability while leaving the decision with Him. Jesus reaches out, touches him, and makes him clean immediately.",
+    "",
+    "The BSB uses leper and notes that the term refers to a skin disease. Under [Leviticus 13:45–46](https://biblehub.com/bsb/leviticus/13.htm), a person declared unclean with such a condition lived outside the camp. [Leviticus 14:1–20](https://biblehub.com/bsb/leviticus/14.htm) provides for priestly examination, cleansing, and offerings after healing. Restoring this man therefore concerns his place among his people as well as his body.",
+    "",
+    "The BSB describes Jesus as moved with compassion. The word behind that reading is σπλαγχνίζομαι, *splagchnizomai* (splangkh-NEE-zoh-my), meaning to be moved with pity or compassion ([Thayer's entry](https://biblehub.com/greek/4697.htm)). Some translations use anger here because they follow a different Greek reading, as the BSB footnote notes. That is a difference in the underlying wording, rather than compassion itself meaning anger.",
+    "",
+    "Jesus tells the healed man to keep quiet, go to the priest, and bring what Moses commanded as testimony. The priest is to examine someone already healed; the ceremony does not cause the cure. The man instead spreads the news widely, and Jesus can no longer enter towns openly. People continue coming to Him in the solitary places."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly see Jesus' power to restore someone who was unclean and the man's humble trust in His willingness to help. [Calvin on the parallel Matthew 8:2–4](https://biblehub.com/commentaries/calvin/mark/1.htm) treats the conditional request as compatible with real faith, while the [US Catholic bishops' note on Mark 1:40](https://bible.usccb.org/bible/mark/1) emphasizes the priest's role in receiving the healed man back into the community.",
+    "",
+    "This encounter is often read alongside the wider question of faith and healing. The Catholic [Catechism, 1505–1508](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_two/article_5/i_its_foundations_in_the_economy_of_salvation.index.html), and the Pentecostal Assemblies of God's official [Divine Healing paper, sections III–IV](https://ag.org/Beliefs/Position-Papers/Divine-Healing), both affirm God's healing work while recognizing that not everyone is healed now. The Assemblies of God specifically rejects using Jesus' name as a formula to compel God; its position should not be confused with every individual healing teacher's claims."
+  ],
+  "god_plan_lines": [
+    "Jesus later includes the cleansing of lepers among the works that answer John's question about whether He is the coming One ([Matthew 11:2–6](https://the-way-of-scripture.web.app/passages/matthew-11-1-6.html)). This restoration is part of how His identity and saving purpose become known.",
+    "",
+    "The Law's cleansing also provides a parallel with a deeper need. [Hebrews 9:11–14](https://biblehub.com/bsb/hebrews/9.htm) compares outward purification with Christ cleansing the conscience through His own sacrifice, so that people can serve the living God. The man's bodily cleansing helps us picture restoration, without making his disease proof of a particular personal sin.",
+    "",
+    "There is a striking change at the end: the man is helped, but his spreading the news leaves Jesus staying outside the towns. This can also bring to mind the cost of bearing another person's burden. It is a parallel for reflection, not a claim that Jesus became a leper. His saving work goes farther: [Romans 5:8–11](https://biblehub.com/bsb/romans/5.htm) describes Him giving His life to reconcile sinners to God."
+  ],
+  "current_position_lines": [
+    "On the same man's approach in Matthew 8:2, Worship as the Early Church Knew It understands his bowing as a personal appeal made with physical humility and recognition of Jesus' divine authority. Mark likewise describes him kneeling and making his request. This supplies our position on his humble approach, while leaving a fuller position on the healing and priestly instructions open."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/1.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-mark-one-closing-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It, Matthew 8:2 — The Leper’s Approach (content/studies/worship.md:78–82); narrow position on the same man’s humble approach, not a new healing theory."
+  }
+}

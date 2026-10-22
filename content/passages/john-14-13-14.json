@@ -5,16 +5,50 @@
     "label": "John 14:13-14",
     "slug": "john-14-13-14"
   },
+  "section_title": "Why is the promise tied to Jesus’ name?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "'Whatever you ask in My name, that I will do, so that the Father may be glorified in the Son. If you ask Me anything in My name, I will do it.'"
+      "label": "BSB",
+      "paragraphs": [
+        "13 And I will do whatever you ask in My name, so that the Father may be glorified in the Son. 14 If you ask Me for anything in My name, I will do it."
+      ]
     }
   ],
   "context_lines": [
-    "In **John 14**, Jesus is comforting His disciples on the night before the cross and teaching them about the Father's house, His own identity, and the coming help of the Spirit. Promises about asking in His name belong inside that farewell context of union with Christ, obedience, and divine mission."
+    "Jesus speaks these words while preparing the disciples for His departure. He has just promised that His work will continue through those who believe in Him. Asking in His name is part of that continuing dependence on Him.",
+    "",
+    "The repetition gives the disciples strong assurance that He will act. It also repeats the connection with His name. Verse 13 states the purpose that governs the promise: the Father’s glory in the Son. The two verses should be read together, rather than separating anything from the relationship and purpose Jesus names.",
+    "",
+    "[John 15:7](https://biblehub.com/bsb/john/15.htm) later joins asking with remaining in Jesus and His words remaining in the disciples. [1 John 5:14–15](https://biblehub.com/bsb/1_john/5.htm) connects confidence in prayer with God’s will. Those passages help explain how the promise fits the life He is calling them to live."
   ],
-  "explanation_lines": [
-    "This verse is frequently treated as an unconditional promise, but the qualifying phrase is \"in My name.\" In biblical usage, to act in someone's name was not to invoke their name as a verbal formula, but to act under their authority and in keeping with their character and purposes \u2014 the way an ambassador or legal representative acts on behalf of someone else. An ambassador cannot act contrary to the one who sent him and still claim to be acting in his name. The same logic applies here: asking \"in Jesus' name\" means the request is already shaped by who He is and what He wills, not a tagline appended to any request to guarantee its fulfillment."
-  ]
+  "common_interpretation_lines": [
+    "Christians commonly understand asking in Jesus’ name as approaching God through Him, rather than treating His name as a formula that guarantees any desired result. The Reformed [Westminster Larger Catechism, questions 180–181](https://www.opc.org/lc.html), describes confidence in Christ and His mediation, explicitly distinguishing this from merely mentioning His name. The Catholic Church’s [Catechism, paragraphs 2614–2615](https://www.vatican.va/content/catechism/en/part_four/section_one/chapter_one/article_2/in_the_fullness_of_time.index.html), likewise connects prayer in His name with faith, love, keeping His word and communion with the Father through Him."
+  ],
+  "god_plan_lines": [
+    "Jesus’ departure will not cut His followers off from His work. In [Acts 2:32–41](https://biblehub.com/bsb/acts/2.htm), the exalted Jesus pours out the Spirit and people come to faith through the apostles’ witness. The promise of His action belongs to that continuing mission, directed toward the Father’s glory."
+  ],
+  "current_position_lines": [
+    "Our study Prayer and Faith understands asking in Jesus’ name as asking in keeping with His character, authority and purposes. Adding His name to the end of a request does not turn it into a promise that our preferred outcome must happen. The study draws attention to the purpose stated here: the Father being glorified in the Son."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/14.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-john-fourteen-closing-review.md",
+    "position_source_detail": "Prayer and Faith"
+  }
 }

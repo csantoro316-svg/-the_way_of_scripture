@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "4:42-44",
+    "label": "Luke 4:42-44",
+    "slug": "luke-4-42-44"
+  },
+  "section_title": "Why must Jesus go to other towns?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "42 At daybreak, Jesus went out to a solitary place, and the crowds were looking for Him. They came to Him and tried to keep Him from leaving. 43 But Jesus told them, “I must preach the good news of the kingdom of God to the other towns as well, because that is why I was sent.” 44 And He continued to preach in the synagogues of Judea."
+      ]
+    }
+  ],
+  "context_lines": [
+    "At daybreak Jesus goes to a solitary place. The crowds find Him and try to keep Him from leaving. After the previous evening’s healings, their desire for Him to remain is understandable, but He explains that His commission also concerns other towns.",
+    "",
+    "He must proclaim the good news of God’s kingdom because that is why He was sent. Luke places the authority and compassion shown in Capernaum within this wider purpose. Jesus continues preaching in the synagogues.",
+    "",
+    "Mark’s parallel account explicitly describes Jesus praying in the solitary place and gives the same reason for moving on to the neighboring towns. Luke’s account emphasizes His being sent and the need to carry the message onward. ([Mark 1:35–39](https://biblehub.com/bsb/mark/1.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian traditions commonly understand this as Jesus allowing His God-given mission to determine His work, bringing the good news beyond a single community. The proclamation of the kingdom and His works of mercy belong together in that mission. ([Mark 1:35–39](https://biblehub.com/bsb/mark/1.htm); [Catechism 547–550](https://www.vatican.va/archive/ENG0015/__P1L.HTM))"
+  ],
+  "god_plan_lines": [
+    "The movement to other towns is an early part of a mission whose reach becomes clearer by the Gospel’s end. The risen Jesus explains that His suffering and resurrection lead into the proclamation of repentance and forgiveness among all nations. The good news Capernaum has received is meant to reach others. ([Luke 24:44–49](https://biblehub.com/bsb/luke/24.htm))",
+    "",
+    "Acts continues that purpose through the witnesses who receive the Holy Spirit’s power and are sent outward from Jerusalem to the ends of the earth. The Lord’s own movement beyond one place prepares readers for the wider witness of His people. ([Acts 1:4–8](https://biblehub.com/bsb/acts/1.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/4.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-four-closing-review.md"
+  }
+}

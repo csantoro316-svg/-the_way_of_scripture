@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "2 Corinthians",
+    "citation": "1:23-24",
+    "label": "2 Corinthians 1:23-24",
+    "slug": "2-corinthians-1-23-24"
+  },
+  "section_title": "Why did Paul delay a visit he wanted to make?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "23 I call God as my witness that it was in order to spare you that I did not return to Corinth. 24 Not that we lord it over your faith, but we are fellow workers with you for your joy, because it is by faith that you stand firm."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul now gives a reason for not returning to Corinth: he wanted to spare them. He calls God as witness to the truth of that explanation. The following chapter will develop his concern about another painful encounter.",
+    "",
+    "He immediately sets a limit on how his role should be understood. He and his companions do not lord it over the Corinthians’ faith; they work with them for their joy. The congregation stands by faith.",
+    "",
+    "Paul can give serious correction while describing himself as a fellow worker. His concern is their good before God, rather than personal control over their trust in Him. This explanation should not become an excuse for every leader’s broken promise: Paul actually explains the purpose of his decision."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as Paul explaining a pastoral decision while rejecting domination over the congregation’s faith. [Wesley’s note on verse 24](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-the-corinthians/) expressly describes ministers as helpers in faith and holiness, rather than people entitled to dictate belief by their own authority. The [USCCB note on verses 23–24](https://bible.usccb.org/bible/2corinthians/1) connects the delay with the concern for pain and joy developed in chapter 2."
+  ],
+  "god_plan_lines": [
+    "In [Mark 10:42–45](https://biblehub.com/bsb/mark/10.htm), Jesus teaches His followers to serve rather than imitate rulers who dominate others. He gives His own service and His life given for many as the defining example.",
+    "",
+    "Paul’s description of working for their joy fits that pattern. Care for Christ’s people is meant to help them stand in faith. A worker’s authority serves that purpose instead of taking the Lord’s place in their lives."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_corinthians/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-corinthians-one-closing-review.md"
+  }
+}

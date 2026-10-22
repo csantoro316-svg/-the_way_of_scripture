@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Jonah",
+    "citation": "2:1-7",
+    "label": "Jonah 2:1-7",
+    "slug": "jonah-2-1-7"
+  },
+  "section_title": "Can Jonah still call on God from the depths?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 From inside the fish, Jonah prayed to the LORD his God, 2 saying: “In my distress I called to the LORD, and He answered me. From the belly of Sheol I called for help, and You heard my voice. 3 For You cast me into the deep, into the heart of the seas, and the current swirled about me; all Your breakers and waves swept over me. 4 At this, I said, ‘I have been banished from Your sight; yet I will look once more toward Your holy temple.’",
+        "5 The waters engulfed me to take my life; the watery depths closed around me; the seaweed wrapped around my head. 6 To the roots of the mountains I descended; the earth beneath me barred me in forever! But You raised my life from the pit, O LORD my God! 7 As my life was fading away, I remembered the LORD. My prayer went up to You, to Your holy temple."
+      ]
+    }
+  ],
+  "context_lines": [
+    "From inside the fish, Jonah prays to the Lord his God. He recalls being engulfed by the sea, with weeds around his head and the earth seeming to close him in.",
+    "",
+    "His description uses the language of death and the grave: the belly of Sheol, the roots of the mountains and life brought up from the pit. The prayer conveys how completely he had been beyond his own power to escape.",
+    "",
+    "Yet its refrain is that God heard him. As his life faded, he remembered the Lord, and his prayer reached God’s holy temple. The prophet who fled from God’s presence now turns toward Him and gives thanks for rescue."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/jonah/2.htm) emphasizes that Jonah can pray even from inside the fish. [Cambridge](https://biblehub.com/commentaries/cambridge/jonah/2.htm) relates the death imagery to his peril in the sea and notes the prayer’s resemblance to the Psalms. [Wesley](https://biblehub.com/commentaries/wes/jonah/2.htm) reads the language as the experience of someone who seemed shut into the grave yet trusted God for deliverance."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 4:14–16](https://biblehub.com/bsb/hebrews/4.htm) directs people in weakness toward God’s throne of grace, where mercy and help are found through Jesus, the great High Priest.",
+    "",
+    "The wider theme is access to God in need. Jonah’s distance and distress do not prevent God from hearing him; the New Testament gives believers confidence to draw near through the Son who understands their weakness. The reason for hope rests in God’s mercy and Christ’s priestly care."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/jonah/2.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-jonah-review.md"
+  }
+}

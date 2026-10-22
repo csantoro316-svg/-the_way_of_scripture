@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Jonah",
+    "citation": "4:10-11",
+    "label": "Jonah 4:10-11",
+    "slug": "jonah-4-10-11"
+  },
+  "section_title": "Should God not care about the people and animals of Nineveh?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 But the LORD said, “You cared about the plant, which you neither tended nor made grow. It sprang up in a night and perished in a night. 11 So should I not care about the great city of Nineveh, which has more than 120,000 people who cannot tell their right hand from their left, and many cattle as well?”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "God contrasts Jonah’s concern for the short-lived plant with His concern for a great city. Jonah neither tended the plant nor made it grow, yet he grieves its loss.",
+    "",
+    "Nineveh contains more than 120,000 people who cannot tell their right hand from their left, as well as many cattle. God’s closing question asks whether He should not care about them.",
+    "",
+    "The book ends without recording Jonah’s answer. Its question reaches the reader: can someone who has received God’s care begrudge His compassion toward others? The final word belongs to the Lord who sent the warning, heard the city’s response and continued patiently teaching His prophet."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/jonah/4.htm) and [Cambridge](https://biblehub.com/commentaries/cambridge/jonah/4.htm) understand those unable to distinguish right and left as young children. Both emphasize the force of God’s concern for the city’s vulnerable inhabitants and animals, compared with Jonah’s attachment to the plant.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/jonah/4.htm) draws attention to God’s patient mercy toward Jonah himself as part of the same lesson."
+  ],
+  "god_plan_lines": [
+    "[Matthew 5:43–48](https://biblehub.com/bsb/matthew/5.htm) brings this concern into Jesus’ teaching. He calls His followers to love enemies and pray for persecutors, pointing to the Father who gives sunshine and rain to the righteous and unrighteous.",
+    "",
+    "The connection is learning to reflect the Father’s generosity beyond those who already love us. Jonah’s final question challenges a narrow concern for personal comfort; Jesus gives His disciples a positive direction for life within God’s purpose. His people are called to extend love across the boundaries they might otherwise protect."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/jonah/4.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-jonah-review.md"
+  }
+}

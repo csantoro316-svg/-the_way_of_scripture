@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "8:23-27",
+    "label": "Matthew 8:23-27",
+    "slug": "matthew-8-23-27"
+  },
+  "section_title": "Who Can Command the Wind and Sea?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "23 When He got into the boat, His disciples followed Him. 24 Suddenly a violent storm came up on the sea, so that the boat was engulfed by the waves. But Jesus was sleeping. 25 The disciples went and woke Him, saying, “Lord, save us! We are perishing!”",
+        "26 “You of little faith,” Jesus replied, “why are you so afraid?” Then He got up and rebuked the winds and the sea, and it was perfectly calm. 27 The men were amazed and asked, “What kind of man is this? Even the winds and the sea obey Him!”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The disciples now do what the preceding conversations have discussed: they follow Jesus, entering the boat after Him. Following does not keep them out of danger. A violent storm engulfs the boat with waves while Jesus sleeps, and they wake Him with a plea to save them.",
+    "",
+    "Jesus addresses their fear and little faith before rebuking the winds and sea. The result is a complete calm. Their attention then turns from the danger to His identity. They have asked for rescue, but the authority they witness still amazes them.",
+    "",
+    "[Mark 4:35–41](https://biblehub.com/bsb/mark/4.htm) adds that Jesus is sleeping on a cushion in the stern and that the disciples question whether He cares. It also records His command for the storm to be still. Matthew's account gives special prominence to His challenge to their faith before describing the calm.",
+    "",
+    "The word translated rebuked is ἐπιτιμάω, *epitimaō* (eh-pee-tee-MAH-oh), to rebuke or address sharply. [Thayer's Greek Lexicon](https://biblehub.com/greek/2008.htm) includes this verse. Jesus addresses the forces threatening the boat with authority, and they obey. The scene does not describe a technique the disciples must use to control every dangerous circumstance."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the miracle as revealing Jesus' authority over creation while calling His followers to trust Him in danger. The [US Catholic bishops' note on Matthew 8:26](https://bible.usccb.org/bible/matthew/8) connects the calm with the Old Testament picture of God's rule over the waters, and [Wesley on Matthew 8:26](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) draws attention to Jesus addressing the disciples' fear as well as the storm."
+  ],
+  "god_plan_lines": [
+    "The scene has a strong scriptural parallel in [Psalm 107:23–32](https://biblehub.com/bsb/psalms/107.htm). Sailors face overwhelming waves, cry to the LORD, and receive rescue when He stills the storm. Matthew does not quote the psalm here, but the shared pattern gives weight to the disciples' question: Jesus exercises the authority Scripture describes as God's.",
+    "",
+    "The wider promise is greater than escape from one storm. [Romans 8:31–39](https://biblehub.com/bsb/romans/8.htm) grounds confidence in God's love in the death, resurrection, and intercession of Christ. It includes danger and even death among the things that cannot separate His people from that love. This carries the lesson beyond an expectation that every crisis will end as the disciples' crisis did: their Savior's care holds even when suffering continues."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/8.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-chapter-eight-completion-review.md"
+  }
+}

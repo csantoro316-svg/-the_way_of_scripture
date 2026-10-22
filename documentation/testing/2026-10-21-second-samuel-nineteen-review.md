@@ -1,0 +1,43 @@
+# Second Samuel 19 passage review — 2026-10-21
+
+Sixnewgroups43BSBverses. Entirebaseline18lesson211–226and19lesson227–242actuallyread;wholePDF1–242read,243+unread. WholeBSB19/WesXIX/Henry19actualread;Gill19:13,23,29,30,37,43completecommentsactuallyread, withmoderneditorialinsertionin30distinguishedfromGill. USCCB19actualshortnote/crossreferencesread, differentnumbering19:44notBSB44verse. ActualRev22:12–13,20–21/Matt25:34–40/Eph4:1–6checked;Luke1:32–33actualearlier7/15research. Noowner19/Barzillai/Chimham/Mephibosheth/Shimeiaddressingstudyfound. Noownerstudyedits/newposition. No publicbaselineattribution/wording/structure. Individualcommentariesnotformaltraditionconsensus.
+
+## 19:1–8
+
+Plan section: omitted, because none apply. Grief/publicresponsibilityinterpretedwithoutforcedeveryrebukeGod'swordorallmourningmustendfast.
+Position source: none.
+FLAGGED FOR REVIEW: JoabclaimDavidwouldpreferallloyalpeopledeadischaracterhyperbole;Wesexplicitnotexacttrue. HenrycriticizesJoabdisrespectwhileacceptingpoint. Davidgateaudienceactualnotbestowingvalor-medalsonebyone/universalancientkingceremonyunverified. No MahanaimoutsideIsraelforeignland, nofullpityparty/selfishbereavedparentuniversalrule. Davidtakespublicresponsibilitynotprivategriefinstantlygone.
+
+## 19:9–15
+
+Plan section: included, because (b)/(c). LimitedreturnedkingwelcomecomparisonactualLuke1everlastingDavidicChristandRev22Jesuscoming/responseCome. NotNTdirectinterpretation2Sam19, no humanpermissionrequiredmechanism/7yeartribulationallnationsalwaysembracenojudgmenttimelineimposed.
+Position source: none.
+FLAGGED FOR REVIEW: DavidAmasaofferactualnotallAmasamilitaryincompetence/unhonorablelifeknown. Gill/WesreconciliationplusreplaceJoabmotivesattributed. Israelreturntalk9–10actualbeforeDavid11;notbaselinelaterclaimnorthernfirstmotionunsubstantiated. NoZech12ShimeitesdefinitelyShimeibenGeraBenjamitefamilytypeunverified(similarnameinsufficient), nocollectiveallJewskilledChristguiltparallels. NoallIsraelalreadyunanimousenduringunitydespitefinalquarrel20rebellion.
+
+## 19:16–23
+
+Plan section: omitted, because none apply. Shimeiconfession/oathclemencyinterpretedwithoutrepeatingmercythemeorallcurrentoffendersunconditionallycleared.
+Position source: none.
+FLAGGED FOR REVIEW: ThousandBenjaminmenactualNOWnotearlier16baselineinventedmob. ZibaSaulstewardNOTShimeichiefservant. Shimei'sconfessionactualnotguaranteedinnerregenerationoralltriberesponsibility. DavidnooneputdeathTODAYandoathactualretainedwithoutunverifiedlifetimelegalinterpretation. Gill23restrictiveoathreadinginspectednotneededpublicbefore1Kingsoutcome. Noabsenceofexecutionmakesallpastchargestrue. NoautomaticmercyherecausedBenjaminJudahfutureallianceasindependentlyverifiedhistory.
+
+## 19:24–30
+
+Plan section: omitted, because none apply. Loyalty/estateexplainedwithoutforcingsuperiorkingrelationshipallegorybeyondactualinterpretation.
+Position source: none.
+FLAGGED FOR REVIEW: BSBfeet/MUSTACHE/clothesnotdefiniteeverytoenail/beardculturalformula. MephibexplainsZibadeceived/slanderedactualnotnarratorallsecretmotivesknown. 16claimrestoreSaulkingdomNOTMephibwelcomedAbsalom(asbaselinemisstates). WESANDGILLBOTHreturnoriginalcultivationprofitsreading;notmanufacturedisagreement. Henryrecallsforfeituredoesnotspecifyfullmodernpropertydivisionmechanic. BSBdividekept;noAIownerlegalposition. Gill30containsMODERNEDITORSolomontestanalogy(notoriginalGill);notused/attributed. NoDavidcleverlytestsmephibsoleintentrevealed/no definitebadlandawardpunishmentZibahistoryguarantee. No invalidateddisabilityworthstory.
+
+## 19:31–40
+
+Plan section: included, because (b)/(c). HenryexplicitMatt25:37reward/surprisecomparison;actual34–40KingrecognizesfooddrinkwelcomecaretoleastHisbrothers. No settlingallMatt25interpretationtraditionsorworks-purchases-salvationformula.
+Position source: none.
+FLAGGED FOR REVIEW: Barzillai80/wealthactual,decliningcourtpersonalnotall80peopleuseless/cannotenjoylife. ChimhamsonGill/versionclaimreadbutpublicdoesnotrequireunverifiedfamilialidentificationornewcounselorappointment. NoExactfutureestateBethlehemnativitylinkwithoutsource. Kingkissesblessesactualnotallasksforeveranyarbitraryrequestlegalbinding.
+
+## 19:41–43
+
+Plan section: included, because (c). ActualEph4gentlenesshumilityunityoneLord,fairsharedthemenotPauldirectexegesisnorpoliticaltribes=churchidenticalsystem.
+Position source: none.
+FLAGGED FOR REVIEW: Finalquarrelnotcomicalproofunanimouscompleteforeverrestoration. Gill43firstmotionconnected9–11actualnotbaselineten-tribeslieunsupported. Numbertennotexactuniversalsimplisticmathnoothertribalpossibility;Wesseveralalternativesinspectedunneeded. Judahharsheractualnotallnorthernpeopleperfect. NoallDavidfriendsabandonedexceptpaidGentilesfalsity;earlierpriests/HushaiIttaiactual. No sadnessisalie/universalalltrialsgoodemotionsfalsebaselineclosingconcept.
+
+## Validation
+
+Passed: exact BSB quotation checks; repository checks (0 errors, 272 warnings); preservation and canonical navigation; cumulative coverage (63 groups, 532 unique verses, 31 supported plan sections, 0 positions, 63 exact open positions); repeat generation unchanged; all 12 mobile views; physical Next click with title focus; Hosting dry run and deployment; LIVE MATCH 10, observed exit 0. Prefix /tmp/scripture-second-samuel-nineteen-. Global intentional plan omissions: 107.

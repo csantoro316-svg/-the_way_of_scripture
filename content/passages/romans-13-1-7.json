@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "13:1-7",
+    "label": "Romans 13:1-7",
+    "slug": "romans-13-1-7"
+  },
+  "section_title": "How should believers relate to governing authorities?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Everyone must submit himself to the governing authorities, for there is no authority except that which is from God. The authorities that exist have been appointed by God. 2 Consequently, whoever resists authority is opposing what God has set in place, and those who do so will bring judgment on themselves. 3 For rulers are not a terror to good conduct, but to bad. Do you want to be unafraid of the one in authority? Then do what is right, and you will have his approval. 4 For he is God’s servant for your good. But if you do wrong, be afraid, for he does not carry the sword in vain. He is God’s servant, an agent of retribution to the wrongdoer.",
+        "5 Therefore it is necessary to submit to authority, not only to avoid punishment, but also as a matter of conscience. 6 This is also why you pay taxes. For the authorities are God’s servants, who devote themselves to their work. 7 Pay everyone what you owe him: taxes to whom taxes are due, revenue to whom revenue is due, respect to whom respect is due, honor to whom honor is due."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After forbidding personal revenge, Paul describes the role of governing authorities. He places their authority under God and presents their purpose as serving the public good by restraining wrongdoing. The sword belongs to that picture of authority carrying out punishment.",
+    "",
+    "He calls for submission as a matter of conscience, not simply a way to avoid penalties. Taxes, revenue, respect and honor are included among what people owe. Faith in Christ is not treated as an exemption from responsibilities in society.",
+    "",
+    "The description also gives rulers a standard: their service is for good and against wrongdoing. The passage should be read alongside Scripture’s accounts of authorities acting unjustly and of people remaining faithful to God when rulers oppose Him."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly recognize civil authority as having a God-given responsibility for public order and justice. Traditions differ over the forms of participation open to Christians and the use of force.",
+    "",
+    "Reformed churches following the [Westminster Confession, chapter 23](https://www.opc.org/wcf.html), teach obedience to lawful commands and allow Christians to hold civil office. They also allow war on just and necessary occasions. The authority of rulers is understood as a responsibility under God, rather than an unlimited personal right.",
+    "",
+    "The Catholic Church teaches civic duties while also requiring refusal of directives contrary to the moral order, fundamental human rights or the gospel ([Catechism 2238–2242](https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_two/article_4/v_the_authorities_in_civil_society.html)). Respect for authority includes responsibility toward the common good and the ability to voice just criticism.",
+    "",
+    "Mennonite Church USA’s confession likewise recognizes government’s role in maintaining order, while limiting participation by loyalty to Christ ([Article 23](https://www.mennoniteusa.org/who-are-mennonites/what-we-believe/confession-of-faith/churchs-relation-to-government-and-society/)). Its [Article 22](https://www.mennoniteusa.org/who-are-mennonites/what-we-believe/confession-of-faith/peace-justice-and-nonresistance/) calls Christians to nonviolent resistance to evil and excludes participation in war. This differs from readings that permit Christians to exercise the state’s coercive authority."
+  ],
+  "god_plan_lines": [
+    "Before Pilate, Jesus says that the governor’s authority has been given from above, while still speaking of guilt in the events leading to His death ([John 19:10–11](https://biblehub.com/bsb/john/19.htm)). God’s authority over events does not turn human wrongdoing into innocence.",
+    "",
+    "In [Acts 5:27–32](https://biblehub.com/bsb/acts/5.htm), the apostles refuse an order to stop proclaiming Jesus because obedience to God comes first. Read together, these passages place human rule within a larger purpose and under a higher authority. Romans’ call to civic responsibility belongs within that scriptural setting."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/13.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-thirteen-review.md"
+  }
+}

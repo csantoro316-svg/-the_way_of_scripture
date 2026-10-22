@@ -1,0 +1,34 @@
+# Acts 25 editorial review
+
+Three new groups:1–12,13–22,23–27. No existing25pages or all-study25references. All three positions exact required open wording. Whole baselinePDFthrough397read:25–26lesson381–397complete,including26followingtestimony.398onwardunread. Publicproseindependentlycomposed.
+
+## Sources actually read
+
+Actual BSB25:1–27read directly https://biblehub.com/bsb/acts/25.htm . All27mainverses. SupportingactualActs9:15–16/19:21/23:11and1Cor15:12–23/Luke21:12–13previouslyreadfreshinrecentbatches;reusedtoconnectcommission/resurrection/publicwitness. FreshquotedmainBSBchecksaftergenerationrequired.
+
+ActualCalvin25:11first1500read at https://biblehub.com/commentaries/calvin/acts/25.htm :lawfulcourtscompatibletrustGod,differentiates1Cor6quarrelsbetweenbelieversfromdefensehere. Attempted19markerabsent;no19commentaryreadclaimed. Actual WesleyXXV2–23wholechaptersectionread at https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/ . Divinecarethroughpracticalmeanshelpful,uncorroboratedlegaluniversals/hereditarycourt/Bernicerelationshipdetailsnotadopted. ActualUSCCB25notes2–18read at https://bible.usccb.org/bible/acts/25 :continuedanimosity/rightappeallead,notesAgrippa'slimitedterritory(notrulerallJudea);publicavoidsunverifiedextrahistoricalprecision. IndividualCalvinapplicationidentifiedascommentarynotconfessionaldecreeoneverycourtcase.
+
+No neworiginalGreekclaimforcedintosimplelegalnarrative. No newindependenthistorical/legalclaimmadefrombaselinealone. Agrippa/BerniceintroductionsfollowLuke'stitleswithoutinventedgenealogy/motivesorrelations. Allstudysearch25/26foundnone;Deeperresourcesrelatedtopicsnotinventedposition.
+
+## Acts 25:1–12
+Plan section: included, because (a)/(c):23:11explicitRomewitnesspromisecontinuesafterdelaythroughappeal.
+Position source: none.
+FLAGGED FOR REVIEW: BaselineCaesarappealgrantedin509BCRomanconstitutionanachronisticclaimnotverified;omitted. No completelegalcodeforallcitizens/universaleligibility/courtjurisdiction/preciseclerkprocedure. No assertFestusinitialrefusalbecausehighercourtappealalreadyexists(beforePaulappeal),allRomanauthorityinstantnochoicesincefirstarrival. Paulnot100percentlawlesssinlessclaim;actualdenialsandconditionalwillingnessfacevalidsentencekept. No Paulwaitedtwo-yearsspecificallytoevangelizeFelix/Festusprivatepurpose,officersallsecretmotives. Willingnesssuffernotforbidsusingprotection.
+
+## Acts 25:13–22
+Plan section: included, because (a)/(c):1Cor15:12–23explicitrisenChristcorehopebehind25:19disputereport.
+Position source: none.
+FLAGGED FOR REVIEW: BaselineAgrippaallHerodsnonJewsbecauseEsaulineage,notlegitimateJews/selfappointedking,ruledJudeaentirety,childlessdeathdate/fullgenealogy andBerniceincestnotindependentlyverified;omitted. Festusunablewritechargesnotprooflegalobligationfabricatecharges. HisreportretellingmotivecomparedwithLuke's9statedfavorratherthaninventedtrapAgrippa. Festussummarynotauthor'sdenialresurrection. No Agrippasecretintention/asexercisingfullappealjurisdictioninvented.
+
+## Acts 25:23–27
+Plan section: included, because (a)/(b)/(c):9:15–16commissionbeforekings/people/sufferingconcretesetting;Luke21:12–13supportedrulerhearing/witnesspattern.
+Position source: none.
+FLAGGED FOR REVIEW: FestuswholecommunityreportnotmathematicallyeveryJewishpersonwantsdeath. No vastattendancecount/fullcitizenshipstatusaudienceorjudicialconvictionrecord. WeakcaseacknowledgedbygovernorwithoutclaimlogicalnecessaryuniversalRomancodeforcingoneoutcome. No allpomppeopleconvertsorPaulprivaterelishesprestigeknownmotives. Future26testimonyanticipatednotinventedhearers'finalfaithstates.
+
+## Validation
+
+Pending fresh BSB, repository/navigation/mobile checks and publication.
+
+## Completed validation
+
+ThreefreshBSBchecks/eighttestspass;zeroerrors284knownwarnings.129reviewed/897verses/128plans/52studypositions/77open;129sources/zero unreviewedlegacy. Allthree390pxreader/standalonechecks pass. ActualNext reaches25:13–22 withheadingfocusedat188.5px. Source/index/standalone,preservation,canonicalnavigation,coverage/idempotencepass. Hostingdryrun/actualdeployexit0;sevenaffectedandfivewholechapterlivefilesmatch.

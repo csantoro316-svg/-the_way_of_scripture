@@ -5,22 +5,51 @@
     "label": "Romans 6:3-4",
     "slug": "romans-6-3-4"
   },
+  "section_title": "How does baptism connect us with Christ’s death and resurrection?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"Or do you not know that all of us who have been baptized into Christ Jesus have been baptized into His death? Therefore we have been buried with Him through baptism into death, so that as Christ was raised from the dead through the glory of the Father, so we too might walk in newness of life.\""
+      "label": "BSB",
+      "paragraphs": [
+        "3 Or aren’t you aware that all of us who were baptized into Christ Jesus were baptized into His death? 4 We were therefore buried with Him through baptism into death, in order that, just as Christ was raised from the dead through the glory of the Father, we too may walk in newness of life."
+      ]
     }
   ],
   "context_lines": [
-    "In **Romans 6**, Paul explains what union with Christ means for sin, death, and newness of life. The chapter's statements about baptism, slavery, freedom, and life under grace all serve the larger claim that those joined to Christ must no longer live as they once did."
+    "Paul is answering the suggestion that grace should lead to more sin. He appeals to baptism into Christ’s death and burial with Him, directing the reader toward walking in newness of life.",
+    "",
+    "The full discussion in [Romans 6:1–4](https://the-way-of-scripture.web.app/passages/romans-6-1-4.html) explains the question Paul is answering and the different traditions’ accounts of baptism. These verses connect baptism with belonging to Christ and the life that follows His resurrection."
   ],
-  "explanation_lines": [
-    "Going under the water is burial with Christ. Coming up out of the water is resurrection with Christ. The imagery only works with full immersion. You cannot bury someone by sprinkling dirt on their head.",
+  "common_interpretation_lines": [
+    "Christians share the connection between baptism, Christ’s death and resurrection, and the call to a changed life. They differ over how baptism brings or signifies that participation. The [Catholic Catechism 1262–1266](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_1/vii_the_grace_of_baptism.html) teaches forgiveness and new birth through baptism; the Reformed [Westminster Confession 28.1–6](https://www.opc.org/wcf.html) describes a sign and seal whose effect is not tied to the moment of administration.",
     "",
-    "Down into the water. Up out of the water. This is the consistent physical picture of baptism in the NT narrative.",
-    "",
-    "Romans 6:3-4 established the picture already: *\"we have been buried with Him through baptism into death, so that as Christ was raised from the dead through the glory of the Father, so we too might walk in newness of life.\"* Paul is not making a salvation mechanics argument here \u2014 he is making a sanctification argument. Baptism is the marker of the old self dying and the new self rising. It launches the believer into newness of life. This is not metaphor \u2014 it is spiritual reality enacted through the appointed act of obedience.",
-    "",
-    "Having established what baptism actually accomplishes, it is just as important to be precise about what it does not \u2014 because both errors are common, and both distort the gospel."
-  ]
+    "The [1689 Baptist Confession 29](https://www.the1689confession.com/1689/chapter-29) describes the sign of fellowship with Christ for professing believers and requires immersion. The Methodist [Articles XVI–XVII](https://www.umc.org/en/content/articles-of-religion) describe God working through sacramental signs and retain infant baptism. These distinctions concern the act’s recipients, mode and relation to God’s grace, rather than disagreement that the passage calls for new life."
+  ],
+  "god_plan_lines": [
+    "[Colossians 2:12–13](https://biblehub.com/bsb/colossians/2.htm) also connects burial with Christ in baptism and being raised through faith in the God who raised Him. Paul places the new life of believers within the same saving work that raises Jesus, rather than presenting baptism as an isolated religious performance."
+  ],
+  "current_position_lines": [
+    "The Baptism study understands this passage as death and resurrection with Christ enacted in the believer’s baptism. Our position favors immersion because it expresses burial and rising, and treats baptism as a real, faith-filled act of obedience rather than an empty performance. The study also distinguishes this act from earning salvation: forgiveness and the gift of the Spirit come through faith, and the water has no power apart from Christ."
+  ],
+  "deeper_study": [
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/6.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-romans-six-review.md",
+    "position_source_detail": "Baptism — Why Immersion; Death and Resurrection with Christ; What Baptism Is Not"
+  }
 }

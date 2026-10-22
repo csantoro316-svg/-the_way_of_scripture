@@ -1,0 +1,35 @@
+# John 12:20–36 review — 2026-10-19
+
+## Evidence read
+
+Fullbaseline11B387–405andJohn12lesson406–424read;13opening425–431read(including12:44–50explanation425–428). WholePDFthrough431read;432onwardunread. Independent public wording/structure;teacher/ministryunnamed.
+
+ActualBSB12:20–33read;34–36hadbeenreadinJohn8crossreferencesandrecheckedbeforegenerationbelow. ActualIsa53:10–12,Rom5:12–19,Heb5:7–9,1Cor15:35–38,Col2:13–15directlyreadforthisbatch. Context12:27–33and42versecountmarkersactualchapter50. No needmedical/agriculturalfactclaimsorprivatepsychologicalreconstruction.
+
+ActualWesleyentireXIIread https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/ .20Gentiles/noclearcircumcisionstatement;23gloryfollowsuffering;25loyaltyoverlife;27troubledyetfixedFatherwill;28glorybefore/throughhour;31rulerSatan;32Jews/Gentileswithresponsetodrawing;35–36lightandfaith. His24claimwheat/millet/beanonlyseedsthatdieisnotbotanicalfactandnotused.
+
+ActualCalvin20/21/23/28/29/30/32/34/36fulland24/25/26/27/31/35relevantexcerptsread https://biblehub.com/commentaries/calvin/john/12.htm .28initialoutputlostinpartialtruncationthenexplicitlyrecovered/readinfull.20GreekvisitorsasJewishdiaspora,notGentiles;unverifiedRomanlawreligiousprohibitionbasisnotadoptedashistory.23emphasizesgospelpublicationafterdeath;24grainfruitdeath/resurrection;25notabsolutehatredoflife;28Fatherglory;32allGod'schildrenfromJew/Gentile;34–36lightresponse. HistoricalfirstcenturyRomanlawandCatholicsaintinvocationattack21arenotpublicclaims.
+
+ActualUSCCB12notes20–27previouslyread https://bible.usccb.org/bible/john/12 .ProbableGentileconvertreadingattributedasBiblecommentary,notCatholicdogmaorprovenvisitorsbiography. Nationality/Greeknames/bilinguality/completeconversionstatusnotinvented. Catholicofficialwidersavingpurpose605andgrace2002actualprimariescheckedinJohn10batches: https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/article_4/paragraph_2_jesus_died_crucified.html and https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_three/article_2/ii_grace.html . Publicdoesnotclaimthosedocumentsgiveanofficialword-for-word12:32exegesis;theyexplainbroaderteachingsfairly.
+
+ActualWCF8.8recheckedinJohn10primary https://www.opc.org/wcf.html :certainapplicationtothoseforwhomredemptionpurchased. ActualThayer1670John6:44/12:32inwarddrawingpreviouslyreadinJohn6research;notusedheretomakelexicallyautomaticirresistible/resistibleverdict. NoGreektermaddedtopublicprosewithoutbenefit. Noexistingstudydirectlydevelopsthesepassages;positionsopen.
+
+## John 12:20–26
+
+Plan section: included, because (b)/(c): labeledIsa53Servantsuffering/offspringparallel;1Cor15seedimageforrisenbody,samedistinctbutconnectedlife-through-deaththeme.
+Position source: none.
+FLAGGED FOR REVIEW: No certaintyallGreeksGentilesorallconverted/circumcised;Calvin/Wesley/USCCBactualreadingsdiffer. No visitorsdefinitelycametoworshipJesusbeforemeetingHim:verse20saysworshipatfeast,21seekJesus. NoPhilipchosenbecauseofGreekname/localinn/bilingualhistorywithoutindependentcheck.
+
+No wheatbotanyclaim,allfarmerssowseparateholes,seedalonesymbolautomaticallymeansalldisciplesabandonJesus,orallmartyrs'deathguaranteedconverts. SeedimagekeptasJesus'picture. No hatinglifemeanslifeworthless/seekselfdestruction;Calvin25andWesley25qualifypriority/loyalty. NoindependentteachermakesChrist'sdeathfirsttimeGentileinclusionpossibleinanysense;John4andotherGospelshaveearlierencounters. No forcedexclusivekingdomtimelinefromGentilearrival.
+
+## John 12:27–36
+
+Plan section: included, because (a)/(c): Rom5explicitAdam/Christobediencereversal;Col2crossforgivenessanddefeatofpowersconnectjudgment/victorywithsavingpurpose.
+Position source: none.
+FLAGGED FOR REVIEW: Baseline'stroubledmeansonlyfrightenedbyphysicalpainnotlexicallymandatory;actualThayertarassoallowsdistress/sorrowand12:27wasreadin11lexiconresearch. No exclusiveinnerthoughts,thirdvoiceallhearersconfusedinallGospels,orJesusaskingonlyforphysicalstrengthasrecordedfact. Actualpurpose/humantrouble/obedienceclearsufficient.
+
+No JesusliterallyAtlas,wholeworldautomaticallyforgivenwithnothingtofearregardlessofresponse,orall12:32universalism. FairReformed/Wesley/Catholicwiderteachingscompared. Noallcrowdsdepartedunimpressed,Johnrecordsnoothercrowdanywhere,orordinaryfearprovescompletefaithlessness. Noeveryquestion34sarcasticprivatehostility. No dictionaryworddrawaloneforcesonetradition'swholegracesystem.
+
+## Validation
+
+Direct BSB34–36recheck and both fresh quotations pass. Eight tests pass;zero errors /327 warnings. Coverage continuous through12:36:73reviewedpages /571actualBSBverses. Two added/three modified web files;1,529unaffected files, old index records and neighboring prose preserved. Generation idempotent across all1,534files. Bothpagescheckedin390pxreader/standalone:fiveeditorialsections/nooverflow/noliteralMarkdown. Actual reader Next20–26to27–36focuses title188px. Hosting dry run/deployment exited zero;all six affected/index/reader live files match local bytes.

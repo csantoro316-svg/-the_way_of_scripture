@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "Nehemiah",
+    "citation": "10:1-27",
+    "label": "Nehemiah 10:1-27",
+    "slug": "nehemiah-10-1-27"
+  },
+  "section_title": "Who puts their name to the community’s commitment?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Now these were the ones who sealed the document: Nehemiah the governor, son of Hacaliah, and also Zedekiah, 2 Seraiah, Azariah, Jeremiah, 3 Pashhur, Amariah, Malchijah, 4 Hattush, Shebaniah, Malluch, 5 Harim, Meremoth, Obadiah, 6 Daniel, Ginnethon, Baruch, 7 Meshullam, Abijah, Mijamin, 8 Maaziah, Bilgai, and Shemaiah. These were the priests.",
+        "9 The Levites: Jeshua son of Azaniah, Binnui of the sons of Henadad, Kadmiel, 10 and their associates: Shebaniah, Hodiah, Kelita, Pelaiah, Hanan, 11 Mica, Rehob, Hashabiah, 12 Zaccur, Sherebiah, Shebaniah, 13 Hodiah, Bani, and Beninu.",
+        "14 And the leaders of the people: Parosh, Pahath-moab, Elam, Zattu, Bani, 15 Bunni, Azgad, Bebai, 16 Adonijah, Bigvai, Adin, 17 Ater, Hezekiah, Azzur, 18 Hodiah, Hashum, Bezai, 19 Hariph, Anathoth, Nebai, 20 Magpiash, Meshullam, Hezir, 21 Meshezabel, Zadok, Jaddua, 22 Pelatiah, Hanan, Anaiah, 23 Hoshea, Hananiah, Hasshub, 24 Hallohesh, Pilha, Shobek, 25 Rehum, Hashabnah, Maaseiah, 26 Ahijah, Hanan, Anan, 27 Malluch, Harim, and Baanah."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The chapter supplies the names attached to the written agreement announced at the end of the prayer. Nehemiah the governor appears first, followed by priests, Levites and leaders of the people.",
+    "",
+    "The list gives the community’s commitment identifiable witnesses. Its setting is the confession of chapter 9: God has been faithful, the people have been unfaithful, and they are now recording their intention to follow His Law.",
+    "",
+    "The promises themselves follow the names. The next verses also make clear that the wider community joins the commitment, including wives and children who are able to understand."
+  ],
+  "common_interpretation_lines": [
+    "[Gill](https://biblehub.com/commentaries/gill/nehemiah/10.htm) understands the names as the leaders who seal the agreement on behalf of the community. [Henry](https://biblehub.com/commentaries/mhc/nehemiah/10.htm) reads the chapter as a renewed commitment to the whole of God’s instruction. The record joins identifiable leadership with the people’s own participation, rather than leaving the response as an unnamed promise."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/nehemiah/10.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-nehemiah-ten-eleven-review.md"
+  }
+}

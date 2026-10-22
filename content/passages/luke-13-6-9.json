@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "13:6-9",
+    "label": "Luke 13:6-9",
+    "slug": "luke-13-6-9"
+  },
+  "section_title": "What is the extra time for the fig tree meant to accomplish?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 Then Jesus told this parable: “A man had a fig tree that was planted in his vineyard. He went to look for fruit on it but did not find any. 7 So he said to the keeper of the vineyard, ‘Look, for the past three years I have come to search for fruit on this fig tree and haven’t found any. Therefore cut it down! Why should it use up the soil?’ 8 ‘Sir,’ the man replied, ‘leave it alone again this year, until I dig around it and fertilize it. 9 If it bears fruit next year, fine. But if not, you can cut it down.’”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus follows the call to repentance with a story about a fig tree planted in a vineyard. Its owner has looked for fruit for three years without finding any and tells the keeper to cut it down.",
+    "",
+    "The keeper asks for another year in which to dig around the tree and fertilize it. More care and more time offer an opportunity for fruit, but the possibility of cutting it down remains if it continues to bear none.",
+    "",
+    "The story holds patience and accountability together. In its setting, the extra time is an opportunity to respond to the call Jesus has just given. The passage ends without telling us what the tree eventually produces."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand the parable as a picture of God’s patience and the seriousness of responding to it. Calvin emphasizes that delayed judgment does not mean God approves of continued refusal, and the Catholic bishops’ notes connect the expected fruit with evidence of repentance. ([Calvin on Luke 13:6–9](https://biblehub.com/commentaries/calvin/luke/13.htm); [USCCB note on Luke 13:6–9](https://bible.usccb.org/bible/luke/13))"
+  ],
+  "god_plan_lines": [
+    "Isaiah gives an earlier vineyard picture in which God has carefully tended His people but finds the opposite of the justice and righteousness He seeks. The vineyard is explicitly identified there with Israel and Judah. This is a Scriptural parallel to care that rightly looks for a response. ([Isaiah 5:1–7](https://biblehub.com/bsb/isaiah/5.htm))",
+    "",
+    "Second Peter likewise explains patience as an opportunity for repentance while insisting that the day of the Lord will come. Colossians describes the positive purpose of life with God as bearing fruit in good works and growing in knowing Him. God’s patience makes room for that response; it is not an invitation to postpone it forever. ([2 Peter 3:8–10](https://biblehub.com/bsb/2_peter/3.htm); [Colossians 1:9–14](https://biblehub.com/bsb/colossians/1.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/13.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-thirteen-opening-review.md"
+  }
+}

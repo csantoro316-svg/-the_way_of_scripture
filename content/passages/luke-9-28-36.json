@@ -1,0 +1,67 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "9:28-36",
+    "label": "Luke 9:28-36",
+    "slug": "luke-9-28-36"
+  },
+  "section_title": "Why do Moses and Elijah appear with Jesus?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "28 About eight days after Jesus had said these things, He took with Him Peter, John, and James, and went up on a mountain to pray. 29 And as He was praying, the appearance of His face changed, and His clothes became radiantly white. 30 Suddenly two men, Moses and Elijah, began talking with Jesus. 31 They appeared in glory and spoke about His departure, which He was about to accomplish at Jerusalem.",
+        "32 Meanwhile Peter and his companions were overcome by sleep, but when they awoke, they saw Jesus’ glory and the two men standing with Him. 33 As Moses and Elijah were leaving, Peter said to Jesus, “Master, it is good for us to be here. Let us put up three shelters—one for You, one for Moses, and one for Elijah.” (He did not know what he was saying.)",
+        "34 While Peter was speaking, a cloud appeared and enveloped them, and they were afraid as they entered the cloud. 35 And a voice came from the cloud, saying, “This is My Son, whom I have chosen. Listen to Him!” 36 After the voice had spoken, only Jesus was present with them. The disciples kept this to themselves, and in those days they did not tell anyone what they had seen."
+      ]
+    }
+  ],
+  "context_lines": [
+    "About eight days after the sayings about suffering and glory, Jesus takes Peter, John and James up a mountain to pray. As He prays, His appearance changes and His clothing becomes radiantly white. Moses and Elijah appear in glory and speak with Him.",
+    "",
+    "Their conversation concerns His departure, which He is about to accomplish at Jerusalem. The Greek word is ἔξοδος, exodos (EK-soh-doss), meaning an exit or departure; it can also describe a person’s death. With Moses present, the word invites attention to the saving journey Jesus is approaching. ([Thayer, G1841](https://biblehub.com/greek/1841.htm))",
+    "",
+    "The disciples see His glory. As Moses and Elijah are leaving, Peter offers to make three shelters. Luke tells us that he does not know what he is saying. A cloud envelops them, and the voice from it identifies Jesus as the chosen Son and tells them to listen to Him.",
+    "",
+    "Afterward Jesus is alone with them, and they remain silent about what they have seen. The scene sets His coming suffering beside His revealed glory and the Father’s affirmation of who He is."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly see the event as a revelation of Jesus’ glory that confirms His identity while preparing the disciples for His coming suffering. The Catholic Catechism and the bishops’ notes connect Moses and Elijah with the Law and the Prophets, directing attention to their witness to Christ and to the command to listen to the Son. ([Catechism 554–556](https://www.vatican.va/archive/ENG0015/__P1L.HTM); [USCCB notes on Luke 9:28–35](https://bible.usccb.org/bible/luke/9))"
+  ],
+  "god_plan_lines": [
+    "There is a meaningful parallel between the earlier Exodus and the departure Jesus will accomplish at Jerusalem. God brought Israel out of slavery; Hebrews describes Jesus’ death as freeing people held in slavery through fear of death. Luke’s word and Moses’ presence bring that saving pattern into view, while the details of the two journeys remain distinct. ([Exodus 12:40–42](https://biblehub.com/bsb/exodus/12.htm); [Hebrews 2:14–18](https://biblehub.com/bsb/hebrews/2.htm))",
+    "",
+    "The command to listen also recalls Moses’ promise of a prophet whom God’s people must hear. Acts explicitly applies that promise to Jesus and connects Him with the blessing promised through Abraham’s offspring. The Son’s mission carries forward the purposes announced in the Scriptures. ([Deuteronomy 18:15–19](https://biblehub.com/bsb/deuteronomy/18.htm); [Acts 3:19–26](https://biblehub.com/bsb/acts/3.htm))",
+    "",
+    "Peter’s later account directly recalls the glory and the voice on the mountain as eyewitness testimony concerning Jesus’ majesty. What the three see here becomes part of the witness through which others are called to trust the Lord and His promised coming. ([2 Peter 1:16–21](https://biblehub.com/bsb/2_peter/1.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/9.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-nine-glory-review.md"
+  }
+}

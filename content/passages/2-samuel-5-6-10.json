@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "5:6-10",
+    "label": "2 Samuel 5:6-10",
+    "slug": "2-samuel-5-6-10"
+  },
+  "section_title": "How does Jerusalem become the City of David?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 Now the king and his men marched to Jerusalem against the Jebusites who inhabited the land. The Jebusites said to David: “You will never get in here. Even the blind and lame can repel you.” For they thought, “David cannot get in here.” 7 Nevertheless, David captured the fortress of Zion (that is, the City of David). 8 On that day he said, “Whoever attacks the Jebusites must use the water shaft to reach the lame and blind who are despised by David.” That is why it is said, “The blind and the lame will never enter the palace.” 9 So David took up residence in the fortress and called it the City of David. He built it up all the way around, from the supporting terraces inward. 10 And David became greater and greater, for the LORD God of Hosts was with him."
+      ]
+    }
+  ],
+  "context_lines": [
+    "David and his men move against Jerusalem, held by the Jebusites. The defenders mock him by saying that even blind and lame people could keep him out. Despite their confidence, he captures the fortress of Zion and makes it his residence.",
+    "",
+    "The account connects the attack with a water shaft and records a saying about blind and lame people being excluded from the palace. David builds up the fortress, which becomes known as the City of David. The closing explanation for his growing strength is that the LORD God of Hosts is with him.",
+    "",
+    "The Hebrew word rendered water shaft is tsinnor (tsin-NOR). [Brown–Driver–Briggs](https://biblehub.com/hebrew/6794.htm) gives meanings such as pipe, spout and conduit, while noting uncertainty about this particular verse. The term supports a connection with a water passage, but it does not give us a complete map of the attack."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) reads the Jebusites’ words as a boast about their defenses. The [USCCB Bible notes](https://bible.usccb.org/bible/2samuel/5) also consider a mocking or proverbial expression, while acknowledging that the wording of verses 6 and 8 is difficult. It should not be turned into a general statement about the worth of people with disabilities.",
+    "",
+    "[Gill](https://biblehub.com/commentaries/gill/2_samuel/5.htm) surveys several explanations of the passage used in the assault and of the final saying. The BSB translates the latter in relation to the palace. A confident claim that it establishes a rule excluding all Gentiles from the temple goes beyond what this account clearly says.",
+    "",
+    "The parallel account in [1 Chronicles 11:4–9](https://biblehub.com/bsb/1_chronicles/11.htm) adds that David promised command to the first man to strike a Jebusite, and that Joab gained that position. It confirms his role without describing each step of a climb through a particular shaft."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/5.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-five-review.md"
+  }
+}

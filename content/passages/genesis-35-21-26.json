@@ -10,23 +10,43 @@
     {
       "label": "BSB",
       "paragraphs": [
-        "21 Israel again set out and pitched his tent beyond the Tower of Eder. 22 While Israel was living in that region, Reuben went in and slept with his father\u2019s concubine Bilhah, and Israel heard about it.",
+        "21 Israel again set out and pitched his tent beyond the Tower of Eder. 22 While Israel was living in that region, Reuben went in and slept with his father’s concubine Bilhah, and Israel heard about it.",
         "Jacob had twelve sons:",
         "23 The sons of Leah were Reuben the firstborn of Jacob, Simeon, Levi, Judah, Issachar, and Zebulun.",
         "24 The sons of Rachel were Joseph and Benjamin.",
-        "25 The sons of Rachel\u2019s maidservant Bilhah were Dan and Naphtali.",
-        "26 And the sons of Leah\u2019s maidservant Zilpah were Gad and Asher.",
+        "25 The sons of Rachel’s maidservant Bilhah were Dan and Naphtali.",
+        "26 And the sons of Leah’s maidservant Zilpah were Gad and Asher.",
         "These are the sons of Jacob, who were born to him in Paddan-aram."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 35**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "After Rachel's burial, Israel travels on and camps beyond the Tower of Eder. Reuben, his firstborn, sleeps with Bilhah, his father's concubine and the mother of Dan and Naphtali. The account says Israel hears of it, but does not describe an immediate confrontation or tell us Bilhah's response.",
+    "",
+    "The brief notice has lasting significance. [Genesis 49:3–4](https://biblehub.com/bsb/genesis/49.htm) later recalls Reuben's act when explaining why he will not retain his firstborn preeminence. The silence here therefore does not mean the matter is forgotten.",
+    "",
+    "Genesis then names Jacob's twelve sons by their mothers: Leah, Rachel, Bilhah, and Zilpah. The list gathers the family whose births and conflicts have filled the preceding chapters and prepares the next stage of the story. They are one household, but its history includes both God's gifts and serious failures within it."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Sons of Jacob** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 35** remains the first control on meaning."
+    "Christians commonly read Reuben's act as a grave violation within the family with consequences for his place as firstborn. [Wesley's note on Genesis 35:22](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) connects the brief report with Jacob's later words, while the following list brings all twelve sons into view."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "god_plan_lines": [
+    "[1 Chronicles 5:1–2](https://biblehub.com/bsb/1_chronicles/5.htm) explains the resulting distinctions: Reuben loses the birthright because he defiled his father's bed; the birthright goes to Joseph's sons, while a ruler comes from Judah. These roles should not be flattened into a single privilege automatically held by the oldest son.",
+    "",
+    "[Matthew 1:1–3](https://biblehub.com/bsb/matthew/1.htm) later follows Jesus' ancestry through Jacob and Judah. God's promise continues through this family, but that continuation does not erase the consequences of its members' actions. The biblical account traces both the lasting purpose and the responsibility of those involved."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/35.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-return-and-reckoning-review.md"
+  }
 }

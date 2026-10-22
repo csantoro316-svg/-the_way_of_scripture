@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "11:7",
+    "label": "Hebrews 11:7",
+    "slug": "hebrews-11-7"
+  },
+  "section_title": "How did Noah respond before the flood was visible?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 By faith Noah, when warned about things not yet seen, in godly fear built an ark to save his family. By faith he condemned the world and became heir of the righteousness that comes by faith."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Noah continues the examples drawn from early Genesis. God warned him about a judgment still to come, and he responded with godly fear by building the ark. His faith took the form of action before the danger arrived.",
+    "",
+    "[Genesis 6:13–22](https://biblehub.com/bsb/genesis/6.htm) records both the warning and God’s provision for Noah’s household. Hebrews connects his response with the righteousness that comes by faith. The ark was not a project Noah invented to make God accept him.",
+    "",
+    "His obedience also exposed the unbelief of the world around him. That is the sense in which his faith condemned the world: the contrast became visible through his response to God. The verse does not describe Noah carrying out private punishment against other people."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/11.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) understand Noah’s preparation as the visible response of faith to God’s warning. Calvin emphasizes obedience flowing from trust in God’s promise of deliverance; Wesley emphasizes the contrast with those who neither believed nor feared. The shared point is that Noah took God seriously before seeing the flood."
+  ],
+  "god_plan_lines": [
+    "[Matthew 24:37–39](https://biblehub.com/bsb/matthew/24.htm) explicitly connects Noah’s days with the coming of the Son of Man. Jesus uses the example to call people to readiness when ordinary life can conceal the seriousness of a coming reckoning.",
+    "",
+    "The connection concerns heeding God’s warning. It does not give readers Noah’s date or a calculation for Christ’s return. Faith prepares by listening and responding to God."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/11.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-eleven-middle-review.md"
+  }
+}

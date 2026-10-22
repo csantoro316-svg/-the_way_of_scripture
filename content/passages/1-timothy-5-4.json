@@ -5,13 +5,53 @@
     "label": "1 Timothy 5:4",
     "slug": "1-timothy-5-4"
   },
-  "versions": [],
-  "context_lines": [
-    "1 Timothy 5:4 should be read within the flow of its chapter and the larger argument of 1 Timothy."
+  "section_title": "How does caring for parents show devotion to God?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "4 But if a widow has children or grandchildren, they must first learn to show godliness to their own family and repay their parents, for this is pleasing in the sight of God."
+      ]
+    }
   ],
-  "explanation_lines": [
-    "**Restored reading:** *\"...to live in godly devotion at home...\"*",
+  "context_lines": [
+    "This instruction belongs to Paul’s discussion of support for widows. Before the church carries the need, children and grandchildren are to recognize their responsibility toward their own family.",
     "",
-    "*Eusebe\u014d* here refers not to rituals or services but to lived-out godliness in everyday relationships \u2014 caring for aging parents. Devotion shown not on a stage, but at the kitchen table. This passage reminds us that worship begins at home."
-  ]
+    "The word translated show godliness is eusebeo (yoo-seh-BEH-oh). [Thayer’s lexicon](https://biblehub.com/greek/2151.htm) includes pious or reverent conduct and specifically applies it here to the household. Paul brings devotion into the relationship between generations.",
+    "",
+    "Repaying parents recognizes the care already received from them. Paul calls this pleasing in God’s sight. The following verses retain the community’s responsibility toward the widow left alone, so family duty and church care belong together."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this verse as making practical family care part of a godly life. [Wesley’s note on verse 4](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-timothy/) points to the parents’ earlier care and expense. The [USCCB notes](https://bible.usccb.org/bible/1timothy/5) likewise place the first responsibility within the family circle. The act of care, rather than a particular religious ceremony, is the instruction here."
+  ],
+  "god_plan_lines": [
+    "In [Mark 7:9–13](https://biblehub.com/bsb/mark/7.htm), Jesus challenges a use of religious dedication that leaves parents without the help they should receive. Honoring God includes honoring the family responsibilities He has given.",
+    "",
+    "[James 1:26–27](https://biblehub.com/bsb/james/1.htm) likewise connects devotion before God with care for widows and orphans in distress. The wider biblical purpose is a people whose faith shows His care through what they do for others."
+  ],
+  "current_position_lines": [
+    "In [Worship as the Early Church Knew It](https://thewayofscripture.com/studies/worship.html), we understand this as godly devotion expressed through everyday relationships: caring for aging parents and grandparents. Devotion to God includes the practical care we give at home. This passage gives that care a clear place in a faithful life."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_timothy/5.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-first-timothy-five-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It, 1 Timothy 5:4 — Godly Devotion Begins at Home, lines 193–199: eusebeo as lived-out godliness caring for aging parents, without rewriting the BSB quotation."
+  }
 }

@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "14:8-18",
+    "label": "Acts 14:8-18",
+    "slug": "acts-14-8-18"
+  },
+  "section_title": "Why do the messengers stop the crowd from honoring them as gods?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "8 In Lystra there sat a man crippled in his feet, who was lame from birth and had never walked. 9 This man was listening to the words of Paul, who looked intently at him and saw that he had faith to be healed. 10 In a loud voice Paul called out, “Stand up on your feet!” And the man jumped up and began to walk. 11 When the crowds saw what Paul had done, they lifted up their voices in the Lycaonian language: “The gods have come down to us in human form!” 12 Barnabas they called Zeus, and Paul they called Hermes, because he was the chief speaker. 13 The priest of Zeus, whose temple was just outside the city, brought bulls and wreaths to the city gates, hoping to offer a sacrifice along with the crowds.",
+        "14 But when the apostles Barnabas and Paul found out about this, they tore their clothes and rushed into the crowd, shouting, 15 “Men, why are you doing this? We too are only men, human like you. We are bringing you good news that you should turn from these worthless things to the living God, who made heaven and earth and sea and everything in them. 16 In past generations, He let all nations go their own way. 17 Yet He has not left Himself without testimony to His goodness: He gives you rain from heaven and fruitful seasons, filling your hearts with food and gladness.” 18 Even with these words, Paul and Barnabas could hardly stop the crowds from sacrificing to them."
+      ]
+    }
+  ],
+  "context_lines": [
+    "In Lystra, Paul sees that a man who has never walked has faith to be healed and calls him to stand. The man gets up and walks. The crowd interprets the healing through its belief that gods can appear in human form.",
+    "",
+    "They call Barnabas Zeus and Paul Hermes, identifying Paul as the chief speaker. A priest brings bulls and wreaths for sacrifice. Luke gives the reason for the identification of Paul; he does not infer either man’s height or appearance from these names.",
+    "",
+    "When Barnabas and Paul realize what is happening, they tear their clothes and urgently protest. They are human beings like the hearers. Their good news calls people away from these objects of worship toward the living God who made heaven, earth and sea.",
+    "",
+    "They point to God’s generosity in rain, fruitful seasons, food and gladness as testimony to His goodness. Even after that explanation, they can barely stop the crowd from offering sacrifice. A real healing has not automatically produced a right understanding of its source."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the protest as directing worship to the Creator rather than His human servants. The healing is God’s work, while the message corrects the crowd’s mistaken explanation of it."
+  ],
+  "god_plan_lines": [
+    "The Creator described here is the God already praised in [Psalm 146:5–10](https://biblehub.com/bsb/psalms/146.htm): Maker of heaven, earth and sea, giver of food and helper of the afflicted. The rain and harvest point to the living God’s care rather than to several competing gods with separate powers.",
+    "",
+    "Paul later makes a related appeal in [Acts 17:24–31](https://biblehub.com/bsb/acts/17.htm), identifying the Creator as the giver of life and calling people to repentance. These are related biblical appeals to Gentile hearers, not identical speeches. The witness of creation becomes a reason to turn toward God."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/14.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-fourteen-review.md"
+  }
+}

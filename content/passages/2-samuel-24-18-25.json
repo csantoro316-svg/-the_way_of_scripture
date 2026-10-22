@@ -1,0 +1,75 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "24:18-25",
+    "label": "2 Samuel 24:18-25",
+    "slug": "2-samuel-24-18-25"
+  },
+  "section_title": "Why does David insist on paying for the altar site?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "18 And that day Gad came to David and said to him, “Go up and build an altar to the LORD on the threshing floor of Araunah the Jebusite.” 19 So David went up at the word of Gad, just as the LORD had commanded. 20 When Araunah looked out and saw the king and his servants coming toward him, he went out and bowed facedown before the king. 21 “Why has my lord the king come to his servant?” Araunah said. “To buy your threshing floor,” David replied, “that I may build an altar to the LORD, so that the plague upon the people may be halted.”",
+        "22 Araunah said to David, “May my lord the king take whatever seems good to him and offer it up. Here are the oxen for a burnt offering and the threshing sledges and ox yokes for the wood. 23 O king, Araunah gives all these to the king.” He also said to the king, “May the LORD your God accept you.” 24 “No,” replied the king, “I insist on paying a price, for I will not offer to the LORD my God burnt offerings that cost me nothing.” So David bought the threshing floor and the oxen for fifty shekels of silver. 25 And there he built an altar to the LORD and offered burnt offerings and peace offerings. Then the LORD answered the prayers on behalf of the land, and the plague upon Israel was halted."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Gad instructs David to build an altar on Araunah’s threshing floor. David goes in obedience to the LORD’s command and explains that he wants to buy the place so that the plague may be halted.",
+    "",
+    "Araunah offers the ground, oxen and equipment for the offering. David insists on paying: he will not present burnt offerings to the LORD that cost him nothing. He buys the threshing floor and oxen for fifty shekels of silver.",
+    "",
+    "He builds the altar and offers burnt offerings and peace offerings. God answers the prayers for the land, and the plague is halted. The book ends with judgment restrained and worship offered in response to God’s instruction."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/24.htm) understands David’s refusal as a matter of honoring God with his own resources. [Gill](https://biblehub.com/commentaries/gill/2_samuel/24.htm) likewise sees a willing cost in David’s worship. The point is personal participation, rather than passing the whole burden to someone else.",
+    "",
+    "The price differs from [1 Chronicles 21:25](https://biblehub.com/bsb/1_chronicles/21.htm), which records six hundred shekels of gold for the site. Gill proposes that the larger sum concerns a wider purchase, while Samuel concerns the threshing floor and oxen. That is a proposed explanation; neither account gives a separate description confirming two transactions.",
+    "",
+    "Samuel’s emphasis is clear even with that question remaining: David obeys, pays for what he offers and seeks the LORD on behalf of the land."
+  ],
+  "god_plan_lines": [
+    "The site has a stated place in the next stage of Israel’s worship. [2 Chronicles 3:1](https://biblehub.com/bsb/2_chronicles/3.htm) identifies Solomon’s temple site on Mount Moriah with the threshing floor prepared by David.",
+    "",
+    "The larger story of sacrifice then reaches Christ. [Hebrews 9:11–14, 24–28](https://biblehub.com/bsb/hebrews/9.htm) explains that Jesus offers Himself once for all and enters God’s presence on our behalf. The connection is the biblical movement from sanctuary and repeated sacrifice to His completed offering.",
+    "",
+    "David’s altar prepares ground for the temple; it is not itself the final answer to human sin. The book’s closing scene of mercy, sacrifice and answered prayer belongs within that larger hope."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/24.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-twenty-four-review.md"
+  }
+}

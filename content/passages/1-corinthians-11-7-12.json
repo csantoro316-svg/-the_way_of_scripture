@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "11:7-12",
+    "label": "1 Corinthians 11:7-12",
+    "slug": "1-corinthians-11-7-12"
+  },
+  "section_title": "How does creation shape this discussion without making either sex independent?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 A man ought not to cover his head, since he is the image and glory of God; but the woman is the glory of man. 8 For man did not come from woman, but woman from man. 9 Neither was man created for woman, but woman for man. 10 For this reason a woman ought to have a sign of authority on her head, because of the angels.",
+        "11 In the Lord, however, woman is not independent of man, nor is man independent of woman. 12 For just as woman came from man, so also man is born of woman. But everything comes from God."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul brings the creation of man and woman into his explanation of covering and honor. His references to woman coming from man and being created for him recall [Genesis 2:18–24](https://biblehub.com/bsb/genesis/2.htm). That account begins with the man’s need for a suitable helper, not with his being complete without her.",
+    "",
+    "His description of man as God’s image must also be read with [Genesis 1:26–28](https://biblehub.com/bsb/genesis/1.htm), which explicitly includes both male and female in God’s image. Paul does not say women lack that image.",
+    "",
+    "Verse 10 refers to authority on the woman’s head and gives a further reason: the angels. The BSB footnote also allows the wording have authority over. Paul does not explain the angels’ role here, so an interpretation of that phrase should be identified as an interpretation.",
+    "",
+    "The final two verses prevent the creation reference from becoming a claim that men have no need of women. In the Lord, neither is independent of the other. Woman came from man at creation; men are born through women; and everything comes from God. Both their relationship and their dependence on Him belong in the reading."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin’s comment on verse 10](https://biblehub.com/commentaries/calvin/1_corinthians/11.htm) understands the covering as a sign of being under a husband’s authority and sees angels as witnesses to conduct in worship. [Wesley’s note](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) also connects the angels with the gathered assembly.",
+    "",
+    "[Juliann Bullock](https://www.cbeinternational.org/resource/authority-to-cover-her-head-the-liberating-message-of-1-corinthians/) instead understands the authority as the woman’s authority concerning her own head, and reads verses 11–12 as emphasizing mutual dependence. The BSB’s alternative wording makes the translation question visible, but does not settle the full interpretation. The brief reference to angels remains a point on which explanations should be held with care."
+  ],
+  "god_plan_lines": [
+    "The creation account gives both man and woman a place in the human calling to bear God’s image and care for His world ([Genesis 1:26–28](https://biblehub.com/bsb/genesis/1.htm)). Neither can claim to be the source of the other’s ultimate worth.",
+    "",
+    "[Galatians 3:26–29](https://biblehub.com/bsb/galatians/3.htm) brings male and female alike into the promise through belonging to Christ. Their shared inheritance is not reserved for one sex. Whatever conclusions readers reach about roles or coverings, those conclusions must account for the place both have among God’s children and heirs."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/11.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-eleven-opening-review.md"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Galatians",
+    "citation": "5:22-26",
+    "label": "Galatians 5:22-26",
+    "slug": "galatians-5-22-26"
+  },
+  "section_title": "What kind of life does the Spirit grow in us?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "22 But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, 23 gentleness, and self-control. Against such things there is no law. 24 Those who belong to Christ Jesus have crucified the flesh with its passions and desires.",
+        "25 Since we live by the Spirit, let us walk in step with the Spirit. 26 Let us not become conceited, provoking and envying one another."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul turns from the acts of the flesh to the fruit of the Spirit. Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness and self-control describe the character of the life the Spirit produces.",
+    "",
+    "He says there is no law against these things. They fit the life of love he has called the community to practice. Their source is the Spirit at work in those who belong to Christ.",
+    "",
+    "Belonging to Christ also means that the flesh, with its passions and desires, has been crucified. Paul then joins the gift of life through the Spirit with the call to walk in step with Him. What God gives is to shape the believers’ daily conduct.",
+    "",
+    "The closing warning makes that conduct especially practical: they must turn from conceit, provoking one another and envy. The fruit Paul names is to be seen in how they live with each other."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the fruit as character produced through the Spirit’s work in Christ’s people, with the call to keep following His lead. [Wesley’s notes on verses 22–26](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-galatians/) and the [USCCB notes on verses 19–25](https://bible.usccb.org/bible/galatians/5) connect this fruit with the changed life Paul describes."
+  ],
+  "god_plan_lines": [
+    "Jesus’ picture of the vine and branches in [John 15:1–8](https://biblehub.com/bsb/john/15.htm) gives a related picture of fruitfulness. The branches bear fruit as they remain in Him, and their fruit glorifies the Father.",
+    "",
+    "This is a parallel to Paul’s description, rather than a claim that Jesus lists the same nine qualities there. Both passages connect a fruitful life with God’s work and an ongoing relationship with Christ. The change in His people serves the Father’s glory."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/galatians/5.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-galatians-five-review.md"
+  }
+}

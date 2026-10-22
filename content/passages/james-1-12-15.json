@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "James",
+    "citation": "1:12-15",
+    "label": "James 1:12-15",
+    "slug": "james-1-12-15"
+  },
+  "section_title": "How is enduring a trial different from giving in to temptation?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "12 Blessed is the man who perseveres under trial, because when he has stood the test, he will receive the crown of life that God has promised to those who love Him.",
+        "13 When tempted, no one should say, “God is tempting me.” For God cannot be tempted by evil, nor does He tempt anyone. 14 But each one is tempted when by his own evil desires he is lured away and enticed. 15 Then after desire has conceived, it gives birth to sin; and sin, when it is full-grown, gives birth to death."
+      ]
+    }
+  ],
+  "context_lines": [
+    "James promises the crown of life to the person who perseveres under trial, then immediately guards against blaming God for temptation to sin. The Greek word behind trial can also refer to [temptation](https://biblehub.com/greek/3986.htm); the surrounding sentences show the distinction James makes.",
+    "",
+    "Testing may become an occasion for endurance. Enticement to evil does not come from God. James instead makes each person face the pull of his or her own evil desires. Desire here is [broader than sexual desire](https://biblehub.com/greek/1939.htm): it includes craving what is forbidden.",
+    "",
+    "The picture of conception and birth traces a destructive development. Desire gives birth to sin, and fully grown sin brings death. James is warning readers about where sin leads, rather than giving them someone else to blame for it."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/james/1.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-general-epistle-of-st-james/) read the crown as God’s promised blessing for those who endure and love Him. Both reject making God the source of enticement to evil; Calvin understands the final death in verse 15 as eternal ruin.",
+    "",
+    "Traditions differ over how to describe the inward desire before a person consents to it. The Catholic Church teaches that the inherited inclination toward sin is not itself a personal offense, though it inclines people to sin ([Catechism, 2515](https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_two/article_9.html)). The Reformed [Westminster Confession, 6.5](https://www.opc.org/wcf.html), calls the remaining corruption of nature and its sinful movements themselves sin. Wesley also warns that James’ sequence does not make an evil desire innocent simply because it has not yet become an outward act. These distinctions concern inward sin; they do not make every experience of being tempted the same as choosing evil."
+  ],
+  "god_plan_lines": [
+    "The contrast between sin producing death and God giving life appears again in [Romans 6:20–23](https://biblehub.com/bsb/romans/6.htm). Eternal life is God’s gift in Jesus Christ. James’ warning makes the need for that saving gift concrete, while the promised crown points beyond the present struggle.",
+    "",
+    "In [Revelation 2:10–11](https://biblehub.com/bsb/revelation/2.htm), Jesus promises the crown of life to people facing imprisonment and possible death. Faithfulness can carry them through suffering without preventing their physical death. Their hope rests with the One who died and returned to life."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/james/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-james-one-review.md"
+  }
+}

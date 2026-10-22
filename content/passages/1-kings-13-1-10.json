@@ -1,0 +1,67 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "13:1-10",
+    "label": "1 Kings 13:1-10",
+    "slug": "1-kings-13-1-10"
+  },
+  "section_title": "What warning interrupts Jeroboam’s worship at Bethel?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Suddenly, as Jeroboam was standing beside the altar to burn incense, there came a man of God from Judah to Bethel by the word of the LORD. 2 And he cried out against the altar by the word of the LORD, “O altar, O altar, this is what the LORD says: ‘A son named Josiah will be born to the house of David, and upon you he will sacrifice the priests of the high places who burn incense upon you, and human bones will be burned upon you.’” 3 That day the man of God gave a sign, saying, “The LORD has spoken this sign: ‘Surely the altar will be split apart, and the ashes upon it will be poured out.’”",
+        "4 Now when King Jeroboam, who was at the altar in Bethel, heard the word that the man of God had cried out against it, he stretched out his hand and said, “Seize him!” But the hand he stretched out toward him withered, so that he could not pull it back. 5 And the altar was split apart, and the ashes poured out, according to the sign that the man of God had given by the word of the LORD. 6 Then the king responded to the man of God, “Intercede with the LORD your God and pray for me that my hand may be restored.” So the man of God interceded with the LORD, and the king’s hand was restored to him as it was before.",
+        "7 Then the king said to the man of God, “Come home with me and refresh yourself, and I will give you a reward.” 8 But the man of God replied, “If you were to give me half your possessions, I still would not go with you, nor would I eat bread or drink water in this place. 9 For this is what I was commanded by the word of the LORD: ‘You must not eat bread or drink water or return by the way you came.’” 10 So the man of God went another way and did not return by the way he had come to Bethel."
+      ]
+    }
+  ],
+  "context_lines": [
+    "A man of God from Judah arrives while Jeroboam is at the altar in Bethel. He announces that a future son of David named Josiah will bring judgment on this worship. A sign is given for that day: the altar will split and its ashes spill out.",
+    "",
+    "Jeroboam orders the man seized, but his outstretched hand withers and the altar splits. He then asks the messenger to pray for his recovery. The prayer is answered, and his hand is restored.",
+    "",
+    "The king offers hospitality and a reward. The man refuses because God has commanded him not to eat or drink there and to return by another route. He leaves according to those instructions."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/13.htm) and [Gill](https://biblehub.com/commentaries/gill/1_kings/13.htm) distinguish Jeroboam’s request for his hand to be healed from a request for forgiveness or a changed heart. The scene shows both a warning and mercy, but the king’s lasting response remains in question.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) and Gill understand the refusal of a meal as part of the messenger’s separation from the condemned worship. The refusal carries out a specific command; he will not set it aside even for the king’s reward."
+  ],
+  "god_plan_lines": [
+    "The later account in [2 Kings 23:15–20](https://biblehub.com/bsb/2_kings/23.htm) identifies the fulfillment. Josiah destroys Jeroboam’s altar at Bethel and defiles it with human bones, just as the earlier message announced.",
+    "",
+    "The later king also recognizes the messenger’s tomb and leaves his bones undisturbed. This connection is supplied by Scripture itself. The messenger’s death does not cancel the word he delivered, and a royal system of worship cannot make that warning disappear."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/13.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-thirteen-review.md"
+  }
+}

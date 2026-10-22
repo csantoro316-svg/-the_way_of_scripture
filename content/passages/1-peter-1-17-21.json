@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "1 Peter",
+    "citation": "1:17-21",
+    "label": "1 Peter 1:17-21",
+    "slug": "1-peter-1-17-21"
+  },
+  "section_title": "What does the cost of our redemption ask of us?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 Since you call on a Father who judges each one’s work impartially, conduct yourselves in reverent fear during your stay as foreigners. 18 For you know that it was not with perishable things such as silver or gold that you were redeemed from the empty way of life you inherited from your forefathers, 19 but with the precious blood of Christ, a lamb without blemish or spot.",
+        "20 He was known before the foundation of the world, but was revealed in the last times for your sake. 21 Through Him you believe in God, who raised Him from the dead and glorified Him; and so your faith and hope are in God."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The God the readers call Father also judges impartially. Their relationship with Him calls for reverent fear during their life as foreigners, taking seriously how they live before Him.",
+    "",
+    "The reason reaches back to their redemption. Silver and gold could not free them from the empty way of life received from their forefathers. The price named is Christ’s precious blood, pictured as that of a lamb without blemish or spot. The word translated redeemed carries the sense of [release or deliverance](https://biblehub.com/greek/3084.htm).",
+    "",
+    "Christ was known before the world’s foundation and revealed for their sake. Through Him their faith and hope are directed to the God who raised and glorified Him. The appeal to holy living therefore rests on the saving work already described, not simply on fear in isolation."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/1_peter/1.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-epistle-general-of-st-peter/) both connect reverent conduct with the Father’s impartial judgment and the cost of Christ’s redeeming work. Calvin emphasizes that God sees the heart beyond outward appearance; Wesley describes the fear as humble and loving, accompanying hope."
+  ],
+  "god_plan_lines": [
+    "The unblemished lamb recalls [Exodus 12:1–13](https://biblehub.com/bsb/exodus/12.htm), where the Passover accompanies deliverance from Egypt. [John 1:29](https://biblehub.com/bsb/john/1.htm) directly identifies Jesus as the Lamb of God who takes away the world’s sin.",
+    "",
+    "Peter connects that saving work with deliverance from an empty way of life. The purpose includes a people learning to live before God through Christ, with their faith and hope placed in the One who raised Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_peter/1.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-peter-one-closing-review.md"
+  }
+}

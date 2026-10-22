@@ -1,0 +1,49 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "8:5-8",
+    "label": "Daniel 8:5-8",
+    "slug": "daniel-8-5-8"
+  },
+  "section_title": "How does the goat overcome the powerful ram?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 As I was contemplating all this, suddenly a goat with a prominent horn between his eyes came out of the west, crossing the surface of the entire earth without touching the ground. 6 He came toward the two-horned ram I had seen standing beside the canal and rushed at him with furious power. 7 I saw him approach the ram in a rage against him, and he struck the ram and shattered his two horns. The ram was powerless to stand against him, and the goat threw him to the ground and trampled him, and no one could deliver the ram from his power. 8 Thus the goat became very great, but at the height of his power, his large horn was broken off, and four prominent horns came up in its place, pointing toward the four winds of heaven."
+      ]
+    }
+  ],
+  "context_lines": [
+    "A goat with a prominent horn comes rapidly from the west, crossing the earth without touching the ground. It attacks the ram furiously, breaks both horns and tramples the ram. Now it is the ram that has no deliverer.",
+    "",
+    "At the height of the goat’s power, its great horn breaks. Four horns replace it, pointing toward the four winds of heaven.",
+    "",
+    "Gabriel’s later explanation identifies the goat with Greece, the great horn with its first king, and the four horns with four kingdoms that rise afterward. The succession shows how quickly the power that overthrows one kingdom can itself be divided."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/daniel/8.htm) and [Wesley](https://biblehub.com/commentaries/wes/daniel/8.htm) identify the prominent horn with Alexander the Great and the replacement horns with the divisions of his empire. Both see the breaking of the great horn as the end of the conqueror’s own rule."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/8.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-eight-review.md"
+  }
+}

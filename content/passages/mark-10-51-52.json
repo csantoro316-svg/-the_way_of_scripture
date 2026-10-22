@@ -5,18 +5,58 @@
     "label": "Mark 10:51-52",
     "slug": "mark-10-51-52"
   },
+  "section_title": "A Plain Request and Faith in Jesus",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"And Jesus said to him, 'What do you want Me to do for you?' And the blind man said to Him, 'Rabboni, I want to regain my sight!' And Jesus said to him, 'Go; your faith has made you well.' Immediately he regained his sight and began following Him on the road.\""
+      "label": "BSB",
+      "paragraphs": [
+        "51 “What do you want Me to do for you?” Jesus asked. “Rabboni,” said the blind man, “let me see again.” 52 “Go,” said Jesus, “your faith has healed you.” And immediately he received his sight and followed Jesus along the road."
+      ]
     }
   ],
   "context_lines": [
-    "In **Mark 10**, Jesus is teaching about discipleship, dependence, and the reversal of worldly expectations on the road to Jerusalem. Individual healings in the chapter are tied to faith, sight, and following Jesus in the way of the cross."
-  ],
-  "explanation_lines": [
-    "These two accounts are not identical, and the difference is worth naming rather than smoothing over. The woman never spoke a word to Jesus. She reasoned within herself, reached out, and touched His garment \u2014 pure faith, with no request voiced at all. The blind man's case is different: Jesus directly asked him, \"What do you want Me to do for you?\" and he answered specifically, \"I want to regain my sight.\" Here a want was actually spoken aloud, in response to Christ's own question.",
+    "These verses close the encounter with Bartimaeus beside the road at Jericho. He has called on Jesus for mercy despite people trying to silence him. Jesus stops, calls him forward, and asks what he wants Him to do.",
     "",
-    "But notice what Jesus does not say in either case. He does not say \"because you asked correctly\" or \"because you asked at all.\" In both accounts \u2014 the one where nothing was asked, and the one where Jesus Himself drew out the request \u2014 His verdict is the same: \"your faith has made you well.\" The presence or absence of a spoken request changes nothing about what Jesus credits. Faith is what He names both times. This is consistent with Hebrews 11:6 \u2014 what pleases God is seeking Him, not the words used in seeking Him."
-  ]
+    "Bartimaeus answers with a specific request to see again. Jesus credits his faith, and he immediately receives sight and follows Him. Mark records neither a required prayer formula nor an elaborate test of how he phrases the request.",
+    "",
+    "The question recalls Jesus' earlier question to James and John in [Mark 10:35–40](https://biblehub.com/bsb/mark/10.htm). The brothers ask for places of glory; Bartimaeus asks for sight. His response at the end is to follow Jesus along the road."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly connect the healing with trust in Jesus and the man's grateful following. [Calvin on Mark 10:52](https://biblehub.com/commentaries/calvin/mark/10.htm) understands his faith as recognition of the promised Messiah, and reads the rescue as including more than physical recovery. The narrated result remains clear: his sight is restored, and he follows Jesus."
+  ],
+  "god_plan_lines": [
+    "The restoration of sight belongs with Jesus' announced mission in [Luke 4:16–21](https://biblehub.com/bsb/luke/4.htm), where He includes recovery of sight in proclaiming God's favor. This makes the exchange part of the Savior's work, rather than an isolated lesson in how to obtain a desired result.",
+    "",
+    "The healed man's following also has a wider parallel in [Philippians 3:7–11](https://biblehub.com/bsb/philippians/3.htm). Paul describes knowing Christ, receiving righteousness through faith, and sharing in His sufferings and resurrection hope as greater than what he once counted gain. Bartimaeus' story does not supply Paul's whole teaching, but it gives a concrete picture of turning toward Jesus and going with Him."
+  ],
+  "current_position_lines": [
+    "In Prayer and Faith, section 5, we draw on this exchange because it contains a specific request and Jesus' explicit recognition of faith. Bartimaeus speaks his need when Jesus asks, and Jesus credits his trust. The study's point here is that faith rests in Christ rather than in a formula of words. We retain the spoken request as part of what the passage actually says."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/10.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-mark-ten-closing-review.md",
+    "position_source_detail": "Prayer and Faith — section 5; explicit Mark10:51–52 request/faith distinction. No new prayer formula or universal healing guarantee."
+  }
 }

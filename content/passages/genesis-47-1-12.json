@@ -10,27 +10,51 @@
     {
       "label": "BSB",
       "paragraphs": [
-        "1 So Joseph went and told Pharaoh: \u201cMy father and my brothers, with their flocks and herds and all they own, have come from the land of Canaan and are now in Goshen.\u201d",
+        "1 So Joseph went and told Pharaoh: “My father and my brothers, with their flocks and herds and all they own, have come from the land of Canaan and are now in Goshen.”",
         "2 And he chose five of his brothers and presented them before Pharaoh.",
-        "3 \u201cWhat is your occupation?\u201d Pharaoh asked Joseph\u2019s brothers.",
-        "\u201cYour servants are shepherds,\u201d they replied, \u201cboth we and our fathers.\u201d",
-        "4 Then they said to Pharaoh, \u201cWe have come to live in the land for a time, because there is no pasture for the flocks of your servants, since the famine in the land of Canaan has been severe. So now, please allow your servants to settle in the land of Goshen.\u201d",
-        "5 Pharaoh said to Joseph, \u201cNow that your father and brothers have come to you, 6 the land of Egypt is before you; settle your father and brothers in the best part of the land. They may dwell in the land of Goshen. And if you know of any talented men among them, put them in charge of my own livestock.\u201d",
+        "3 “What is your occupation?” Pharaoh asked Joseph’s brothers.",
+        "“Your servants are shepherds,” they replied, “both we and our fathers.”",
+        "4 Then they said to Pharaoh, “We have come to live in the land for a time, because there is no pasture for the flocks of your servants, since the famine in the land of Canaan has been severe. So now, please allow your servants to settle in the land of Goshen.”",
+        "5 Pharaoh said to Joseph, “Now that your father and brothers have come to you, 6 the land of Egypt is before you; settle your father and brothers in the best part of the land. They may dwell in the land of Goshen. And if you know of any talented men among them, put them in charge of my own livestock.”",
         "7 Then Joseph brought in his father Jacob and presented him before Pharaoh, and Jacob blessed Pharaoh.",
-        "8 \u201cHow many years have you lived?\u201d Pharaoh asked.",
-        "9 \u201cMy travels have lasted 130 years,\u201d Jacob replied. \u201cMy years have been few and hard, and they have not matched the years of the travels of my fathers.\u201d",
+        "8 “How many years have you lived?” Pharaoh asked.",
+        "9 “My travels have lasted 130 years,” Jacob replied. “My years have been few and hard, and they have not matched the years of the travels of my fathers.”",
         "10 Then Jacob blessed Pharaoh and departed from his presence.",
-        "11 So Joseph settled his father and brothers in the land of Egypt and gave them property in the best part of the land, the district of Rameses, as Pharaoh had commanded. 12 Joseph also provided his father and brothers and all his father\u2019s household with food for their families."
+        "11 So Joseph settled his father and brothers in the land of Egypt and gave them property in the best part of the land, the district of Rameses, as Pharaoh had commanded. 12 Joseph also provided his father and brothers and all his father’s household with food for their families."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 47**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "Joseph reports his family's arrival and presents five of his brothers to Pharaoh. They identify themselves as shepherds and explain that the famine has left no pasture for their flocks in Canaan. They ask permission to live in Goshen for a time.",
+    "",
+    "Pharaoh agrees that they may settle in the best part of the land and invites Joseph to place any capable men among them over his own livestock. The king's welcome gives official support to the arrangements Joseph has prepared. The household's occupation can also become a means of service within Egypt.",
+    "",
+    "Joseph then presents Jacob, who blesses Pharaoh. Asked his age, Jacob describes his 130 years as few and hard compared with the lives of his fathers. He blesses Pharaoh again before leaving. His words carry the memory of a difficult life into a meeting with the ruler who can offer the family refuge.",
+    "",
+    "The Hebrew word behind Jacob's description of his travels is מָגוּר, *māgûr* (mah-GOOR), a stay as a temporary resident. [Brown–Driver–Briggs](https://biblehub.com/hebrew/4033.htm) specifically includes Genesis 47:9 as a use covering a person's lifetime. Jacob speaks of life as a journey, even before considering this latest move.",
+    "",
+    "Joseph settles his father and brothers in Goshen, here also called the district of Rameses, and supplies food for their families. The promised care now becomes land to live on and food for the household."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Jacob Settles in Goshen** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 47** remains the first control on meaning."
+    "Christians commonly see God's care expressed through the welcome, Joseph's provision, and Jacob's blessing of Pharaoh. [Wesley's notes on Genesis 47:9–10](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) read Jacob's life as a pilgrimage and his blessing as prayer offered by the patriarch, not simply a courtly greeting."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "god_plan_lines": [
+    "Jacob receives material help from Pharaoh and also offers him a blessing. This fits the wider purpose in [Genesis 12:2–3](https://biblehub.com/bsb/genesis/12.htm), where God's blessing of Abraham is intended to reach others. The family arriving in need still has a place in that purpose.",
+    "",
+    "Jacob's description of life as a journey also fits [Hebrews 11:9–16](https://biblehub.com/bsb/hebrews/11.htm), which speaks of Abraham, Isaac, and Jacob as heirs living as strangers while looking toward what God would provide. Goshen gives genuine relief, but the household's present comfort is not the whole of its hope. God's promise reaches beyond the place where they can now find food."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/47.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-family-in-egypt-review.md"
+  }
 }

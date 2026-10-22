@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "3:1-8",
+    "label": "John 3:1-8",
+    "slug": "john-3-1-8"
+  },
+  "section_title": "Why does Jesus say we must be born again?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Now there was a man of the Pharisees named Nicodemus, a leader of the Jews. 2 He came to Jesus at night and said, “Rabbi, we know that You are a teacher who has come from God. For no one could perform the signs You are doing if God were not with him.” 3 Jesus replied, “Truly, truly, I tell you, no one can see the kingdom of God unless he is born again.”",
+        "4 “How can a man be born when he is old?” Nicodemus asked. “Can he enter his mother’s womb a second time to be born?” 5 Jesus answered, “Truly, truly, I tell you, no one can enter the kingdom of God unless he is born of water and the Spirit. 6 Flesh is born of flesh, but spirit is born of the Spirit. 7 Do not be amazed that I said, ‘You must be born again.’ 8 The wind blows where it wishes. You hear its sound, but you do not know where it comes from or where it is going. So it is with everyone born of the Spirit.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Nicodemus is a Pharisee and a Jewish ruler. He comes to Jesus at night and says that His signs show that God is with Him. Jesus turns the conversation toward what Nicodemus needs: new birth in order to see God’s kingdom. The account tells us when he came, but does not state why he chose the night.",
+    "",
+    "Nicodemus asks how an old person could be born a second time. The Greek word ἄνωθεν, anōthen (AN-oh-then), can mean again or from above. Thayer records both meanings and the differing readings of this passage. Nicodemus thinks about another physical birth; Jesus explains a birth brought about by the Spirit. ([Thayer, Greek 509](https://biblehub.com/greek/509.htm))",
+    "",
+    "Jesus speaks of birth through water and the Spirit, distinguishes human birth from birth through the Spirit, and uses the wind as a comparison. We hear the wind without directing its movement or knowing its whole course. In the same way, the Spirit’s work is real even though we cannot control or fully explain it."
+  ],
+  "common_interpretation_lines": [
+    "Christian traditions agree that Jesus calls for a new life given by God’s Spirit. Where traditions differ is the meaning of water and its connection with baptism.",
+    "",
+    "The Catholic Church identifies this birth with baptism, through which God gives new life. Lutheran teaching likewise presents baptism as God’s saving work, with its gift received through faith. Neither account presents it as a human achievement that earns salvation. ([Catechism §1215](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_1/i_what_is_this_sacrament_called.index.html); [Large Catechism, Baptism §§10, 28–37](https://bookofconcord.cph.org/en/large-catechism/part_4/))",
+    "",
+    "Wesley reads the words as an inward change through the Spirit together with baptism, where baptism is available, as its outward sign and means. Reformed teaching also connects baptism with new birth, but the Westminster Confession says that salvation is not inseparable from the rite and that its effect is not tied to the moment it is administered. Calvin’s own reading of this verse takes water as a picture of the Spirit’s inward cleansing. His interpretation of the wording should be distinguished from the confession’s broader teaching about baptism. ([Wesley on John 3:5](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/); [Westminster Confession 28.1, 5–6](https://www.opc.org/wcf.html); [Calvin on John 3:5](https://biblehub.com/commentaries/calvin/john/3.htm))",
+    "",
+    "The Baptist Confession describes baptism as a sign of belonging to Christ and of the new life, and reserves it for those who profess repentance and faith. That establishes its teaching about baptism without settling every Baptist reader’s interpretation of water here. ([Baptist Confession 29.1–2](https://www.the1689confession.com/1689/chapter-29))",
+    "",
+    "Another reading takes water as referring to ordinary physical birth, followed by the needed spiritual birth. Chuck Smith favors this reading because verse 6 contrasts flesh and Spirit, while acknowledging the baptism reading as another possibility. This is an individual teacher’s reading, rather than an official statement for all evangelical Christians. ([Smith’s teaching on John 3, pages 2–3](https://calvarycurriculum.com/pdf/PCS%20Notes/John%203.pdf))"
+  ],
+  "god_plan_lines": [
+    "Ezekiel records God’s promise to cleanse His people, give them a new heart and put His Spirit within them. That gives a scriptural background for Jesus’ words about cleansing and Spirit-given life. The connection is a parallel with God’s promise, rather than an explicit quotation in this conversation. ([Ezekiel 36:25–28](https://biblehub.com/bsb/ezekiel/36.htm))",
+    "",
+    "Titus later joins new birth and renewal by the Holy Spirit with God’s mercy, the Spirit poured out through Jesus, and the hope of eternal life. The wider purpose is God making people heirs of life through His gracious work. ([Titus 3:4–7](https://biblehub.com/bsb/titus/3.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/3.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-three-opening-review.md"
+  }
+}

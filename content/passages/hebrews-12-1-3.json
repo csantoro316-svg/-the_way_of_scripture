@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "12:1-3",
+    "label": "Hebrews 12:1-3",
+    "slug": "hebrews-12-1-3"
+  },
+  "section_title": "Where do we look when the race becomes hard?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off every encumbrance and the sin that so easily entangles, and let us run with endurance the race set out for us.",
+        "2 Let us fix our eyes on Jesus, the author and perfecter of our faith, who for the joy set before Him endured the cross, scorning its shame, and sat down at the right hand of the throne of God. 3 Consider Him who endured such hostility from sinners, so that you will not grow weary and lose heart."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The therefore draws the chapter 11 examples into the readers’ own lives. They have a great cloud of witnesses whose stories show faith enduring. Now they are called to put aside whatever weighs them down, reject entangling sin and continue the race set before them.",
+    "",
+    "The focus then moves to Jesus. The word [translated author](https://biblehub.com/greek/747.htm) can describe a leader or one who goes before others. He is both the One to whom faith looks and the supreme example of endurance, having faced the cross and its shame before taking His place beside God.",
+    "",
+    "The call to consider His suffering is meant to keep weary people from losing heart. The passage directs attention toward His faithfulness; it does not ask readers to measure their pain against one another to decide whose struggle deserves care."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/12.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) emphasize the earlier believers’ witness to the power of faith and the encouragement their examples supply. Jesus remains the center of the race.",
+    "",
+    "The place of the saints in prayer is understood differently. The [Catholic Catechism, 2683](https://www.vatican.va/content/catechism/en/part_four/section_one/chapter_two/article_3.html), uses the cloud-of-witnesses picture when teaching that saints continue to care and pray for those on earth, and that Christians should ask for their intercession. The Reformed [Westminster Confession, 21.2–3](https://www.opc.org/wcf.html), directs religious worship, including prayer, to God alone through Christ. Both honor earlier believers, while differing over their continuing role in prayer.",
+    "",
+    "Calvin also offers a different reading of the joy in verse 2. He prefers the sense that Jesus accepted suffering instead of the earthly ease He could have chosen, while allowing the reading that He endured for the joyful outcome ahead. Wesley emphasizes that future joy. The BSB presents the latter wording."
+  ],
+  "god_plan_lines": [
+    "[Philippians 2:5–11](https://biblehub.com/bsb/philippians/2.htm) joins Christ’s willing obedience and death with His exaltation. Endurance belongs within the Son’s saving mission, rather than making suffering an end in itself.",
+    "",
+    "[2 Timothy 4:7–8](https://biblehub.com/bsb/2_timothy/4.htm) uses the race picture for a life brought to its finish while looking toward the Lord’s righteous judgment. The One who endured and now reigns gives the readers a lasting reason to keep following Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/12.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-twelve-review.md"
+  }
+}

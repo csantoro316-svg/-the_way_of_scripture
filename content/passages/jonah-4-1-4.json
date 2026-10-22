@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Jonah",
+    "citation": "4:1-4",
+    "label": "Jonah 4:1-4",
+    "slug": "jonah-4-1-4"
+  },
+  "section_title": "Why is Jonah angry when God shows mercy?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Jonah, however, was greatly displeased, and he became angry. 2 So he prayed to the LORD, saying, “O LORD, is this not what I said while I was still in my own country? This is why I was so quick to flee toward Tarshish. I knew that You are a gracious and compassionate God, slow to anger, abounding in loving devotion—One who relents from sending disaster. 3 And now, O LORD, please take my life from me, for it is better for me to die than to live.” 4 But the LORD replied, “Have you any right to be angry?”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Nineveh has been spared, but Jonah is angry. He now explains why he fled: he knew that God was gracious and compassionate, slow to anger, rich in loving devotion and willing to relent from disaster.",
+    "",
+    "These qualities echo [God’s revelation to Moses in Exodus 34:6–7](https://biblehub.com/bsb/exodus/34.htm). What gives God’s people reason for hope is the very character Jonah resents when mercy reaches Nineveh.",
+    "",
+    "Jonah asks God to take his life. God responds with a question about whether he has any right to be angry. The prophet has carried out the outward mission, but he is still being challenged to share God’s concern for its recipients."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/jonah/4.htm) emphasizes the contradiction of receiving mercy while resenting it for others. [Wesley](https://biblehub.com/commentaries/wes/jonah/4.htm) also sees Jonah’s concern for his reputation when the announced destruction does not occur. The account’s explicit explanation is Jonah’s objection to the mercy he knew God might show."
+  ],
+  "god_plan_lines": [
+    "A parallel appears in [Luke 15:25–32](https://biblehub.com/bsb/luke/15.htm). The older son is angry when his father celebrates the return of his lost brother. The father comes out to appeal to him and explain why rejoicing is fitting.",
+    "",
+    "Both accounts end with an appeal to someone who resents mercy given to another. Jesus’ parable makes the Father’s joy over the lost being found central to the lesson. Receiving His kindness calls His people to welcome the restoration of others, rather than treating their return as a loss to themselves."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/jonah/4.htm",
+    "plan_basis": [
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-jonah-review.md"
+  }
+}

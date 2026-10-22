@@ -5,24 +5,55 @@
     "label": "Exodus 20:22-26",
     "slug": "exodus-20-22-26"
   },
-  "section_title": "Idolatry Forbidden",
+  "section_title": "How was Israel to worship the God who had spoken?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "22 Then the LORD said to Moses, \u201cThis is what you are to tell the Israelites: \u2018You have seen for yourselves that I have spoken to you from heaven. 23 You are not to make any gods alongside Me; you are not to make for yourselves gods of silver or gold.",
-        "24 You are to make for Me an altar of earth, and sacrifice on it your burnt offerings and peace offerings, your sheep and goats and cattle. In every place where I cause My name to be remembered, I will come to you and bless you.",
-        "25 Now if you make an altar of stones for Me, you must not build it with stones shaped by tools; for if you use a chisel on it, you will defile it. 26 And you must not go up to My altar on steps, lest your nakedness be exposed on it.\u2019"
+        "22 Then the LORD said to Moses, “This is what you are to tell the Israelites: ‘You have seen for yourselves that I have spoken to you from heaven. 23 You are not to make any gods alongside Me; you are not to make for yourselves gods of silver or gold. 24 You are to make for Me an altar of earth, and sacrifice on it your burnt offerings and peace offerings, your sheep and goats and cattle. In every place where I cause My name to be remembered, I will come to you and bless you. 25 Now if you make an altar of stones for Me, you must not build it with stones shaped by tools; for if you use a chisel on it, you will defile it. 26 And you must not go up to My altar on steps, lest your nakedness be exposed on it.’"
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 20**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "God reminds Israel that they have heard Him speak from heaven and repeats the prohibition of gods made from silver or gold. The next instructions concern worship directed to the LORD Himself. He gives directions about the altar and the offerings that are to be brought to Him.",
+    "",
+    "The altar may be made from earth or from stones that have not been shaped with tools. God promises to come and bless in the places where He causes His name to be remembered. His presence and blessing are joined to His direction about worship.",
+    "",
+    "The people must not build steps up to the altar that would expose the worshiper’s nakedness. The materials, construction and conduct all fall within the instructions God gives. The focus is a fitting response to the God who speaks and makes His presence known."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Idolatry Forbidden** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 20** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) and [Calvin](https://biblehub.com/commentaries/calvin/exodus/20.htm) understand the plain earth or unworked stone as helping keep worship from becoming attached to shaped images or revered structures. Both read these as directions for the altars used before the later established sanctuary, with God directing the place and manner of worship."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The Bible’s account of acceptable worship continues through Christ. [Hebrews 10:11–18](https://biblehub.com/bsb/hebrews/10.htm) explains that His one offering accomplishes what repeated sacrifices could not. [Hebrews 13:10–16](https://biblehub.com/bsb/hebrews/13.htm) then speaks of an altar, Jesus’ suffering and the sacrifices believers now offer through Him: praise, doing good and sharing with others.",
+    "",
+    "In [John 4:21–24](https://biblehub.com/bsb/john/4.htm), Jesus also explains that worship of the Father will not be confined to one mountain or Jerusalem; the Father seeks worshipers in spirit and truth. These passages carry the theme forward from the altar instructions: God makes the way for His people to worship Him, and Christian worship is offered through Jesus in a life that honors God."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/20.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-twenty-review.md"
+  }
 }

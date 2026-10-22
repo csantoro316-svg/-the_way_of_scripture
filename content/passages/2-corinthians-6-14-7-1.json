@@ -1,0 +1,69 @@
+{
+  "reference": {
+    "book": "2 Corinthians",
+    "citation": "6:14-7:1",
+    "label": "2 Corinthians 6:14-7:1",
+    "slug": "2-corinthians-6-14-7-1"
+  },
+  "section_title": "How should belonging to God shape the loyalties we join?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 Do not be unequally yoked with unbelievers. For what partnership can righteousness have with wickedness? Or what fellowship does light have with darkness? 15 What harmony is there between Christ and Belial? Or what does a believer have in common with an unbeliever? 16 What agreement can exist between the temple of God and idols? For we are the temple of the living God. As God has said: “I will dwell with them and walk among them, and I will be their God, and they will be My people.”",
+        "17 “Therefore come out from among them and be separate, says the Lord. Touch no unclean thing, and I will receive you.” 18 And: “I will be a Father to you, and you will be My sons and daughters, says the Lord Almighty.”",
+        "1 Therefore, beloved, since we have these promises, let us cleanse ourselves from everything that defiles body and spirit, perfecting holiness in the fear of God."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul warns against being unequally yoked with unbelievers, then asks a series of questions contrasting righteousness and wickedness, light and darkness, Christ and Belial, and God’s temple and idols. Belial is a name for Satan; see [Thayer’s entry](https://biblehub.com/greek/955.htm). The contrast concerns loyalties that cannot be joined without conflict.",
+    "",
+    "The temple statement addresses the people together: we are the temple of the living God. Paul supports the call with Scripture’s promises of God dwelling among His people, receiving them and being their Father. [Leviticus 26:11–13](https://biblehub.com/bsb/leviticus/26.htm) and [Isaiah 52:11–12](https://biblehub.com/bsb/isaiah/52.htm) help explain the dwelling and separation language.",
+    "",
+    "The thought continues into 7:1. Because they have these promises, the beloved are called to turn from everything that defiles body and spirit and pursue holiness in the fear of God. The aim reaches through the whole person, rather than merely improving an outward image.",
+    "",
+    "This warning should be read alongside Paul’s other instructions. In [1 Corinthians 5:9–13](https://biblehub.com/bsb/1_corinthians/5.htm) he does not require withdrawal from all unbelieving people. In [1 Corinthians 7:12–16](https://biblehub.com/bsb/1_corinthians/7.htm) he does not tell a believer to leave an unbelieving spouse willing to remain. The present warning cannot simply cancel those instructions."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as a call to loyalty to God that excludes participation in idolatry and incompatible allegiances. They differ in how widely they apply the yoke image. [Wesley’s note on verse 14](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-the-corinthians/) applies it especially to marriage and extends it to other close ties. The [USCCB notes on verses 14–18](https://bible.usccb.org/bible/2corinthians/6) focus on the incompatibility of Christian allegiance and pagan worship.",
+    "",
+    "Church teaching on marriage also differs. The Reformed [Westminster Confession 24.3](https://www.opc.org/wcf.html) requires Christians to marry in the Lord and adds limits based on faith and conduct. Catholic [canons 1086 and 1124–1125](https://www.vatican.va/archive/cod-iuris-canonici/eng/documents/cic_lib4-cann998-1165_en.html) distinguish marriage to another baptized Christian from marriage to an unbaptized person. They provide for permission or an exception under stated conditions, including safeguards for Catholic faith and the children’s upbringing.",
+    "",
+    "These applications are not identical. The shared warning is against a joined life that compromises belonging to God; it should not be represented as contempt for unbelievers or a command to end every existing relationship."
+  ],
+  "god_plan_lines": [
+    "[Ezekiel 37:26–28](https://biblehub.com/bsb/ezekiel/37.htm) promises God’s dwelling among His people in a covenant of peace. The parent-child language also recalls [2 Samuel 7:12–16](https://biblehub.com/bsb/2_samuel/7.htm), where God speaks about David’s promised descendant. Paul brings the promise of being God’s sons and daughters into his appeal to the community.",
+    "",
+    "[Revelation 21:3 and 7](https://biblehub.com/bsb/revelation/21.htm) explicitly join God dwelling with His people and the promise that He will be their God and the one who overcomes will be His son. The call to holiness here belongs within that hope of shared life with God. Separation from idolatry serves the relationship He promises, rather than being an end in itself."
+  ],
+  "current_position_lines": [
+    "In [What Is the True Church?](https://thewayofscripture.com/studies/true-church.html), we affirm that God dwells in His people and that being His temple carries responsibility for how we live and relate to others. That established position applies to the community Paul calls God’s temple here. The study does not decide every marriage, friendship or business application of the yoke image."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_corinthians/6.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-second-corinthians-six-closing-review.md",
+    "position_source_detail": "What Is the True Church?, content/studies/true_church.md lines 43–53, We Are the Temple: God dwells in His people, with responsibility for conduct/relationships; limited temple position, no new yoking policy."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Galatians",
+    "citation": "4:8-11",
+    "label": "Galatians 4:8-11",
+    "slug": "galatians-4-8-11"
+  },
+  "section_title": "Why does Paul fear they are returning to slavery?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "8 Formerly, when you did not know God, you were slaves to those who by nature are not gods. 9 But now that you know God, or rather are known by God, how is it that you are turning back to those weak and worthless principles? Do you wish to be enslaved by them all over again?",
+        "10 You are observing special days and months and seasons and years! 11 I fear for you, that my efforts for you may have been in vain."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul turns directly to the Galatians’ earlier life. Before they knew God, they served things that were not gods by nature. Their former bondage was bound up with false worship.",
+    "",
+    "Now their relationship with God has changed. Paul even corrects the direction of his wording: they know God, and more fundamentally they are known by Him. Against that background, their movement toward bondage again seems deeply troubling.",
+    "",
+    "He points to their observance of special days, months, seasons and years. In the flow of the letter, this warning belongs with the pressure to place themselves under the law. The issue is serious enough for Paul to fear that his labor among them may have been in vain.",
+    "",
+    "The BSB uses basic principles for the expression in verse 3 and principles in verse 9. Its footnotes also give elemental forces as a possible rendering. The phrase has been understood in more than one way, but Paul’s immediate concern is clear: people welcomed by God are turning toward something he describes as weak and unable to give them freedom."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley’s notes on verses 8–11](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-galatians/) and the [USCCB notes on verses 8–11](https://bible.usccb.org/bible/galatians/4) connect Paul’s warning with religious observances being pressed on the Galatians. Both understand him to be warning against renewed bondage.",
+    "",
+    "They explain the underlying principles differently. Wesley’s note on verse 9 emphasizes the elementary instruction associated with the Mosaic law. The USCCB note on verse 3 considers the expression more likely to refer to heavenly powers understood in pagan circles to control the world. That difference concerns what lies behind Paul’s language; both readings recognize his urgent appeal to remain in the freedom God has given."
+  ],
+  "god_plan_lines": [
+    "[Colossians 2:16–23](https://biblehub.com/bsb/colossians/2.htm) makes a related connection between religious regulations and Christ. Food rules and calendar observances are described as shadows whose reality belongs to Him. Paul also points to growth coming from Christ, the head of His body.",
+    "",
+    "That wider picture helps explain why the warning matters. God’s purpose is a people receiving life and growth through Christ. Rules that appear impressive cannot supply that life or overcome the desires of the flesh by their own power."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/galatians/4.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-galatians-four-review.md"
+  }
+}

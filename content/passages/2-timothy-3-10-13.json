@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "2 Timothy",
+    "citation": "3:10-13",
+    "label": "2 Timothy 3:10-13",
+    "slug": "2-timothy-3-10-13"
+  },
+  "section_title": "What can Timothy learn from Paul’s life and suffering?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 You, however, have observed my teaching, my conduct, my purpose, my faith, my patience, my love, my perseverance, 11 my persecutions, and the sufferings that came upon me in Antioch, Iconium, and Lystra. What persecutions I endured! Yet the Lord rescued me from all of them. 12 Indeed, all who desire to live godly lives in Christ Jesus will be persecuted, 13 while evil men and imposters go from bad to worse, deceiving and being deceived."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul sets his life alongside the pattern he has warned against. Timothy knows his teaching, conduct, purpose, faith, patience, love and perseverance. The example includes how he suffered, especially in Antioch, Iconium and Lystra.",
+    "",
+    "He remembers both persecution and the Lord’s rescue. His difficult circumstances do not mean the message has failed or that God has abandoned him. Paul says godly living in Christ will meet persecution, while deceivers continue to deceive and be deceived.",
+    "",
+    "Timothy is being prepared to remain faithful, rather than to judge the truth of his calling by whether life becomes comfortable."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/2_timothy/3.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-timothy/) read the passage as preparation for opposition that comes with following Christ. Calvin stresses that suffering should not be taken as proof that God has rejected His servant. Wesley likewise treats persecution as something believers should expect as they follow Christ.",
+    "",
+    "God’s rescue gives confidence in His faithfulness; it is not a promise that every believer will always escape injury or death. The letter will shortly have Paul speak of his own approaching death in 4:6–8."
+  ],
+  "god_plan_lines": [
+    "[Acts 13:44–52 and 14:1–23](https://biblehub.com/bsb/acts/14.htm) give the setting of the named persecutions. Opposition did not stop the mission: Paul and Barnabas continued proclaiming the gospel and strengthened disciples to remain in the faith. [The Antioch account](https://biblehub.com/bsb/acts/13.htm) specifically connects the message with light reaching the Gentiles.",
+    "",
+    "In [John 15:18–21](https://biblehub.com/bsb/john/15.htm), Jesus prepares His disciples to face the opposition directed against their Master. Paul’s experience belongs within that shared witness to Christ, rather than an isolated story of one person’s hardship."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_timothy/3.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-timothy-three-review.md"
+  }
+}

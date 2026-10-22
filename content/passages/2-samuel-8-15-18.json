@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "8:15-18",
+    "label": "2 Samuel 8:15-18",
+    "slug": "2-samuel-8-15-18"
+  },
+  "section_title": "What is David’s government meant to provide for the people?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 Thus David reigned over all Israel and administered justice and righteousness for all his people: 16 Joab son of Zeruiah was over the army; Jehoshaphat son of Ahilud was the recorder; 17 Zadok son of Ahitub and Ahimelech son of Abiathar were priests; Seraiah was the scribe; 18 Benaiah son of Jehoiada was over the Cherethites and Pelethites; and David’s sons were priestly leaders."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The account moves from victories abroad to the work of governing at home. David rules over Israel and administers justice and righteousness for his people. Strength is not described only in terms of land, tribute or an army.",
+    "",
+    "The summary names his leading officials: Joab over the army, Jehoshaphat as recorder, Zadok and Ahimelech as priests, Seraiah as scribe, and Benaiah over the Cherethites and Pelethites. It also gives David’s sons a place in the leadership."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/8.htm) emphasizes the king’s responsibility to attend to justice rather than leave people’s claims unanswered. The verse describes the character of David’s administration; it does not say he never makes a wrong decision elsewhere in the book.",
+    "",
+    "The description of David’s sons needs care. The Hebrew word kohen (koh-HEN) normally means priest, and the BSB calls them priestly leaders. [Brown–Driver–Briggs](https://biblehub.com/hebrew/3548.htm) includes this verse under chiefs who exercise priestly functions. [Gill](https://biblehub.com/commentaries/gill/2_samuel/8.htm) instead emphasizes their role as senior royal officials, comparing [1 Chronicles 18:17](https://biblehub.com/bsb/1_chronicles/18.htm), which places them at the king’s side. The main difference is whether their title points to religious duties or senior service in the royal court."
+  ],
+  "god_plan_lines": [
+    "The connection between David’s throne and justice continues in [Isaiah 9:6–7](https://biblehub.com/bsb/isaiah/9.htm). The promised ruler will sustain his kingdom with justice and righteousness, and his government and peace will not end. The hope reaches beyond winning a battle to the lasting character of the King’s rule.",
+    "",
+    "[Luke 1:32–33](https://biblehub.com/bsb/luke/1.htm) identifies Jesus as the One who receives David’s throne and reigns forever.",
+    "",
+    "David’s rule gives a real picture of justice being administered, but the rest of his story shows its limits. The enduring hope is in the King whose rule will not fail or end."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/8.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-eight-nine-review.md"
+  }
+}

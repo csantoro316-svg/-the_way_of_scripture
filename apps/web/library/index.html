@@ -3,22 +3,15 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Library | The Way of Scripture</title>
-    <meta
-      name="description"
-      content="Featured studies and central library navigation for The Way of Scripture."
-    />
+    <title>Studies | The Way of Scripture</title>
+    <meta name="description" content="Follow all 14 studies in a guided path or explore them by topic." />
     <link rel="stylesheet" href="../styles.css" />
   </head>
   <body>
     <div class="page-shell">
       <header class="site-header">
         <a class="brand" href="../index.html" aria-label="The Way of Scripture home">
-          <img
-            class="brand-mark"
-            src="../assets/icons/icon.jpg"
-            alt="The Way of Scripture icon"
-          />
+          <img class="brand-mark" src="../assets/icons/icon.jpg" alt="The Way of Scripture icon" />
           <div class="brand-copy">
             <span class="brand-title">The Way of Scripture</span>
             <span class="brand-subtitle">Returning to the text itself</span>
@@ -33,80 +26,351 @@
 
       <main>
         <section class="article-hero">
-          <p class="eyebrow">Studies</p>
-          <h1>Featured Studies</h1>
-          <p class="lead">
-            A focused starting point for the studies that sit closest to the heart of this site.
-          </p>
+          <p class="eyebrow">Studies · 14 steps</p>
+          <h1>Foundations: A Guided Study</h1>
+          <p class="lead">Work through a connected series of studies, beginning with why we return to Scripture&#x27;s words and context, then how to examine every teaching against the text. Continue through the gospel, discipleship, prayer, and life together as Christ’s people. Each study builds on what came before. Take your time, examine the passages, and continue when you’re ready.</p>
+          <div class="guided-actions">
+            <a class="guided-button" href="../studies/returning-to-the-word.html">Begin the first study →</a>
+          </div>
         </section>
 
-        <section class="library-panel">
-          <div class="library-heading">
-            <h2>Featured Studies</h2>
-            <a class="library-heading-link" href="./browse.html?type=studies">Browse all studies</a>
+        <div class="study-view-switch" role="group" aria-label="Choose how to explore studies">
+          <button type="button" data-study-view="path" aria-pressed="true" aria-controls="guidedPathView">Guided path</button>
+          <button type="button" data-study-view="topics" aria-pressed="false" aria-controls="studyTopicsView">Explore by topic</button>
+        </div>
+
+        <section id="guidedPathView" aria-label="Guided study path">
+          <ol class="guided-step-list" aria-label="Guided study order">
+          <li class="guided-step">
+            <span class="guided-step-number">01</span>
+            <div>
+              <h2><a href="../studies/returning-to-the-word.html">Returning to the Word</a></h2>
+              <p>See why Scripture&#x27;s words and context matter before learning how to test claims.</p>
+            </div>
+            <a class="guided-step-action" href="../studies/returning-to-the-word.html">Read study →</a>
+          </li>
+          <li class="guided-step">
+            <span class="guided-step-number">02</span>
+            <div>
+              <h2><a href="../studies/the-berean-standard.html">The Berean Standard</a></h2>
+              <p>Learn to examine every teaching against Scripture, including the claims on this site.</p>
+            </div>
+            <a class="guided-step-action" href="../studies/the-berean-standard.html">Read study →</a>
+          </li>
+          <li class="guided-step">
+            <span class="guided-step-number">03</span>
+            <div>
+              <h2><a href="../studies/inerrancy.html">Is the Bible the Inerrant Word of God?</a></h2>
+              <p>Consider what Scripture&#x27;s authority means when we read translations of ancient texts.</p>
+            </div>
+            <a class="guided-step-action" href="../studies/inerrancy.html">Read study →</a>
+          </li>
+          <li class="guided-step">
+            <span class="guided-step-number">04</span>
+            <div>
+              <h2><a href="../studies/is-there-a-source-of-truth.html">Is There a Source of Truth?</a></h2>
+              <p>Examine the manuscripts and the question of whether the text can be trusted.</p>
+            </div>
+            <a class="guided-step-action" href="../studies/is-there-a-source-of-truth.html">Read study →</a>
+          </li>
+          <li class="guided-step">
+            <span class="guided-step-number">05</span>
+            <div>
+              <h2><a href="../studies/the-gospel-according-to-jesus.html">The Gospel According to Jesus</a></h2>
+              <p>Hear the central message of Jesus, His death and resurrection, and our response.</p>
+            </div>
+            <a class="guided-step-action" href="../studies/the-gospel-according-to-jesus.html">Read study →</a>
+          </li>
+          <li class="guided-step">
+            <span class="guided-step-number">06</span>
+            <div>
+              <h2><a href="../studies/angel-of-the-lord.html">Who is The Angel of the Lord?</a></h2>
+              <p>Trace the Angel of the Lord in the Old Testament and consider what these passages reveal about Christ.</p>
+            </div>
+            <a class="guided-step-action" href="../studies/angel-of-the-lord.html">Read study →</a>
+          </li>
+          <li class="guided-step">
+            <span class="guided-step-number">07</span>
+            <div>
+              <h2><a href="../studies/i-am-a-disciple.html">I Am a Disciple</a></h2>
+              <p>Move from hearing the gospel to following Jesus in daily life.</p>
+            </div>
+            <a class="guided-step-action" href="../studies/i-am-a-disciple.html">Read study →</a>
+          </li>
+          <li class="guided-step">
+            <span class="guided-step-number">08</span>
+            <div>
+              <h2><a href="../studies/baptism.html">Baptism</a></h2>
+              <p>Study the response of baptism and the meaning of being buried and raised with Christ.</p>
+            </div>
+            <a class="guided-step-action" href="../studies/baptism.html">Read study →</a>
+          </li>
+          <li class="guided-step">
+            <span class="guided-step-number">09</span>
+            <div>
+              <h2><a href="../studies/prayer-and-faith.html">Prayer and Faith</a></h2>
+              <p>Consider how faith, trust, and surrender shape our approach to God.</p>
+            </div>
+            <a class="guided-step-action" href="../studies/prayer-and-faith.html">Read study →</a>
+          </li>
+          <li class="guided-step">
+            <span class="guided-step-number">10</span>
+            <div>
+              <h2><a href="../studies/what-does-prayer-look-like.html">What Does Prayer Look Like?</a></h2>
+              <p>Watch how Jesus, Paul, and the early church actually pray.</p>
+            </div>
+            <a class="guided-step-action" href="../studies/what-does-prayer-look-like.html">Read study →</a>
+          </li>
+          <li class="guided-step">
+            <span class="guided-step-number">11</span>
+            <div>
+              <h2><a href="../studies/seek-signs.html">Should We Seek Signs From God?</a></h2>
+              <p>Test experiences, signs, and guidance against the pattern Scripture gives.</p>
+            </div>
+            <a class="guided-step-action" href="../studies/seek-signs.html">Read study →</a>
+          </li>
+          <li class="guided-step">
+            <span class="guided-step-number">12</span>
+            <div>
+              <h2><a href="../studies/true-church.html">The True Church According to Jesus</a></h2>
+              <p>See how disciples belong together as Christ&#x27;s people.</p>
+            </div>
+            <a class="guided-step-action" href="../studies/true-church.html">Read study →</a>
+          </li>
+          <li class="guided-step">
+            <span class="guided-step-number">13</span>
+            <div>
+              <h2><a href="../studies/who-shepherds-the-church.html">Who Shepherds the Church?</a></h2>
+              <p>Consider responsibility, teaching, and leadership within the gathered church.</p>
+            </div>
+            <a class="guided-step-action" href="../studies/who-shepherds-the-church.html">Read study →</a>
+          </li>
+          <li class="guided-step">
+            <span class="guided-step-number">14</span>
+            <div>
+              <h2><a href="../studies/worship.html">Worship as the Early Church Knew It</a></h2>
+              <p>Explore worship and participation in the life of the early church.</p>
+            </div>
+            <a class="guided-step-action" href="../studies/worship.html">Read study →</a>
+          </li>
+          </ol>
+        </section>
+
+        <section id="studyTopicsView" aria-label="Studies by topic" hidden>
+          <div class="topic-filter-bar">
+            <label for="studyTopicSelect">Filter by topic</label>
+            <select id="studyTopicSelect">
+              <option value="all">All topics</option>
+              <option value="Foundations">Foundations</option>
+              <option value="Gospel &amp; Salvation">Gospel &amp; Salvation</option>
+              <option value="Christ In The Old Testament">Christ In The Old Testament</option>
+              <option value="Identity &amp; Discipleship">Identity &amp; Discipleship</option>
+              <option value="Prayer &amp; Discernment">Prayer &amp; Discernment</option>
+              <option value="Church &amp; Worship">Church &amp; Worship</option>
+            </select>
+            <p id="topicCount" role="status" aria-live="polite">Showing 14 studies across all topics.</p>
           </div>
-
-        <article class="study-card study-spotlight">
-          <p class="eyebrow">Central Study</p>
-          <h2><a href="../studies/the-gospel-according-to-jesus.html">The Gospel According to Jesus</a></h2>
-          <p>There is a word that has been spoken so many times, in so many churches, across so many centuries, that most people assume they know what it means. Gospel. They have heard it from pulpits. They have seen it on signs. They have sung it in songs. And somewhere along the way, the word became familiar enough that the question behind it stopped being asked. What is the gospel, actually? Not what your tradition says it is. Not what you were handed as a child. Not what feels right or what seems loving or what makes the most people comfortable. What does Scripture say it is — in the language it was written in, in the world it was spoken into, from the lips of the ones who first proclaimed it? That question is worth everything. Because the gospel, properly understood, is not one idea among many. It is the central fact of human history. And getting it wrong — even a little — changes everything that follows.</p>
-          <a class="study-card-link" href="../studies/the-gospel-according-to-jesus.html">Read study</a>
-        </article>
-          <div class="study-card-grid">
-          <article class="study-card">
-            <p class="eyebrow">Featured Study</p>
-            <h2><a href="../studies/prayer-and-faith.html">Prayer and Faith</a></h2>
-
-            <p class="study-card-subtitle">What Scripture Actually Teaches About How We Approach God</p>
-            <p>Most Christians inherit an idea of prayer rather than building one from Scripture. The common assumption is that prayer is a request system — you bring God a need or a desire, you ask sincerely, and if your faith is strong enough or your motives are pure enough, He grants it. When the answer doesn&#x27;t come, people often reinterpret the outcome to fit what they prayed for, rather than asking whether they understood prayer correctly in the first place. This document works through what the Bible actually says prayer is — not what tradition has assumed it to be. The conclusion is more demanding than the popular view, but it is also more honest to the text: prayer is not a mechanism for securing outcomes. It is communion with God, submission to His will, and dependence on Christ Himself. Every passage below is examined in that light.</p>
-            <a class="study-card-link" href="../studies/prayer-and-faith.html">Read study</a>
-          </article>
-          <article class="study-card">
-            <p class="eyebrow">Featured Study</p>
-            <h2><a href="../studies/what-does-prayer-look-like.html">What Does Prayer Look Like?</a></h2>
-
-            <p class="study-card-subtitle">What Scripture Models — From Jesus, Paul, and the Early Church</p>
-            <p>The question is not whether to pray. It is what prayer actually is. Scripture never describes prayer as a system for securing outcomes — ask sincerely enough, and the answer arrives. It describes something far more demanding: honest communion with the Father, total surrender to His will, and intercession that asks for the spiritual good of others rather than control over their circumstances. The clearest picture of what this looks like does not come from a theory about prayer. It comes from watching Jesus pray — especially in the moments when prayer cost Him the most.</p>
-            <a class="study-card-link" href="../studies/what-does-prayer-look-like.html">Read study</a>
-          </article>
-          <article class="study-card">
-            <p class="eyebrow">Featured Study</p>
-            <h2><a href="../studies/seek-signs.html">Should We Seek Signs From God?</a></h2>
-
-            <p class="study-card-subtitle">A Study on Coincidence, Confirmation, and Faith</p>
-            <p>Most of us have heard someone describe an experience like this: a particular bird shows up at just the right moment, a number keeps repeating, a dream feels too vivid to ignore, or something happens right after a prayer that seems to answer it exactly. The person telling the story usually isn&#x27;t being dishonest or foolish — they&#x27;re describing something that felt meaningful, often during a hard or emotional time, and they&#x27;re reaching for language to make sense of it. &quot;God sign,&quot; &quot;god-wink,&quot; &quot;coincidence that wasn&#x27;t really a coincidence&quot; — these are common ways people describe it. This study isn&#x27;t about mocking that impulse or accusing anyone of doing something terrible. It&#x27;s about asking a more basic question: does Scripture actually describe God working this way as the normal pattern for how He communicates with His people? And if not, what is this impulse, where does it come from, and what does Scripture say we should do with it? As we&#x27;ll see by the end of this study, the honest answer is that this impulse is far more universal — and far more natural — than most of us realize. That includes the person writing this.</p>
-            <a class="study-card-link" href="../studies/seek-signs.html">Read study</a>
-          </article>
-          <article class="study-card">
-            <p class="eyebrow">Featured Study</p>
-            <h2><a href="../studies/true-church.html">The True Church According to Jesus</a></h2>
-
-            <p class="study-card-subtitle">This is where the trail leads.</p>
-            <p>This is where the trail leads. Strip away the buildings. Silence the stages. Dismantle the systems we&#x27;ve built in His name. What remains? Only what He actually called His Church. Not a place, but a people. Not a performance, but a priesthood. Not a building, but a body — formed by the Spirit, built on the foundation of Christ alone. We are not invited to redesign His Church. We are called to return to it. What follows is not a theory or an ideal — it is the shape of the Church as Jesus declared it. The kind He died to create. The kind that walks in power, because it walks in obedience. This is the Church the gates of hell cannot overcome. This is the Church that still burns with the fire of Acts. This is the Church that knows no altar but the cross. This is the true Church according to Jesus.</p>
-            <a class="study-card-link" href="../studies/true-church.html">Read study</a>
-          </article>
-          <article class="study-card">
-            <p class="eyebrow">Featured Study</p>
-            <h2><a href="../studies/baptism.html">Baptism</a></h2>
-
-            <p class="study-card-subtitle">What It Is, What It Does, and How It Should Be Done</p>
-            <p>Every question about baptism eventually comes back to a single Greek verb, and what it actually meant before any tradition got hold of it. The Greek word translated &quot;baptize&quot; throughout the New Testament is βαπτίζω (baptizō (bap-TID-zoh)). Its lexical meaning is to plunge, immerse, or submerge. In classical Greek it was used to describe dyeing cloth — plunging fabric into dye — and the sinking of ships. The word itself establishes full immersion as the original intent and the normative practice of the early church. The BSB renders the word consistently as &quot;baptize&quot; throughout — preserving the transliteration rather than the meaning, which is itself a translation choice worth knowing. The Greek is baptizō — to immerse or plunge — and the transliteration rather than translation of this word has shaped centuries of theological debate about mode. This matters because the mode of baptism is not arbitrary. The act of going fully under the water and rising out of it carries the entire theological picture baptism is meant to represent. The mode is the meaning.</p>
-            <a class="study-card-link" href="../studies/baptism.html">Read study</a>
-          </article>
-          <article class="study-card">
-            <p class="eyebrow">Featured Study</p>
-            <h2><a href="../studies/angel-of-the-lord.html">Who is The Angel of the Lord?</a></h2>
-
-            <p class="study-card-subtitle">A Study on the Malak Yahweh and the Pre-Incarnate Son</p>
-            <p>One of the most remarkable figures in the Old Testament is one most people read right past. He appears without introduction, speaks with the full authority of God, receives worship that no created being should receive, and is identified by the text and by those who encounter him as God Himself. He is called the Angel of the Lord — and the closer you look, the clearer it becomes that this is no ordinary messenger.</p>
-            <a class="study-card-link" href="../studies/angel-of-the-lord.html">Read study</a>
-          </article>
+          <div class="topic-group-list">
+          <section class="topic-group" data-topic="Foundations" aria-label="Foundations">
+            <h2>Foundations</h2>
+            <ul class="topic-study-list">
+              <li class="topic-study-card">
+                <div>
+                  <span class="topic-study-position">Study 1 of 14</span>
+                  <h3><a href="../studies/returning-to-the-word.html">Returning to the Word</a></h3>
+                  <p>See why Scripture&#x27;s words and context matter before learning how to test claims.</p>
+                </div>
+                <a href="../studies/returning-to-the-word.html">Read study →</a>
+              </li>
+              <li class="topic-study-card">
+                <div>
+                  <span class="topic-study-position">Study 2 of 14</span>
+                  <h3><a href="../studies/the-berean-standard.html">The Berean Standard</a></h3>
+                  <p>Learn to examine every teaching against Scripture, including the claims on this site.</p>
+                </div>
+                <a href="../studies/the-berean-standard.html">Read study →</a>
+              </li>
+              <li class="topic-study-card">
+                <div>
+                  <span class="topic-study-position">Study 3 of 14</span>
+                  <h3><a href="../studies/inerrancy.html">Is the Bible the Inerrant Word of God?</a></h3>
+                  <p>Consider what Scripture&#x27;s authority means when we read translations of ancient texts.</p>
+                </div>
+                <a href="../studies/inerrancy.html">Read study →</a>
+              </li>
+              <li class="topic-study-card">
+                <div>
+                  <span class="topic-study-position">Study 4 of 14</span>
+                  <h3><a href="../studies/is-there-a-source-of-truth.html">Is There a Source of Truth?</a></h3>
+                  <p>Examine the manuscripts and the question of whether the text can be trusted.</p>
+                </div>
+                <a href="../studies/is-there-a-source-of-truth.html">Read study →</a>
+              </li>
+            </ul>
+          </section>
+          <section class="topic-group" data-topic="Gospel &amp; Salvation" aria-label="Gospel &amp; Salvation">
+            <h2>Gospel &amp; Salvation</h2>
+            <ul class="topic-study-list">
+              <li class="topic-study-card">
+                <div>
+                  <span class="topic-study-position">Study 5 of 14</span>
+                  <h3><a href="../studies/the-gospel-according-to-jesus.html">The Gospel According to Jesus</a></h3>
+                  <p>Hear the central message of Jesus, His death and resurrection, and our response.</p>
+                </div>
+                <a href="../studies/the-gospel-according-to-jesus.html">Read study →</a>
+              </li>
+              <li class="topic-study-card">
+                <div>
+                  <span class="topic-study-position">Study 8 of 14</span>
+                  <h3><a href="../studies/baptism.html">Baptism</a></h3>
+                  <p>Study the response of baptism and the meaning of being buried and raised with Christ.</p>
+                </div>
+                <a href="../studies/baptism.html">Read study →</a>
+              </li>
+            </ul>
+          </section>
+          <section class="topic-group" data-topic="Christ In The Old Testament" aria-label="Christ In The Old Testament">
+            <h2>Christ In The Old Testament</h2>
+            <ul class="topic-study-list">
+              <li class="topic-study-card">
+                <div>
+                  <span class="topic-study-position">Study 6 of 14</span>
+                  <h3><a href="../studies/angel-of-the-lord.html">Who is The Angel of the Lord?</a></h3>
+                  <p>Trace the Angel of the Lord in the Old Testament and consider what these passages reveal about Christ.</p>
+                </div>
+                <a href="../studies/angel-of-the-lord.html">Read study →</a>
+              </li>
+            </ul>
+          </section>
+          <section class="topic-group" data-topic="Identity &amp; Discipleship" aria-label="Identity &amp; Discipleship">
+            <h2>Identity &amp; Discipleship</h2>
+            <ul class="topic-study-list">
+              <li class="topic-study-card">
+                <div>
+                  <span class="topic-study-position">Study 7 of 14</span>
+                  <h3><a href="../studies/i-am-a-disciple.html">I Am a Disciple</a></h3>
+                  <p>Move from hearing the gospel to following Jesus in daily life.</p>
+                </div>
+                <a href="../studies/i-am-a-disciple.html">Read study →</a>
+              </li>
+            </ul>
+          </section>
+          <section class="topic-group" data-topic="Prayer &amp; Discernment" aria-label="Prayer &amp; Discernment">
+            <h2>Prayer &amp; Discernment</h2>
+            <ul class="topic-study-list">
+              <li class="topic-study-card">
+                <div>
+                  <span class="topic-study-position">Study 9 of 14</span>
+                  <h3><a href="../studies/prayer-and-faith.html">Prayer and Faith</a></h3>
+                  <p>Consider how faith, trust, and surrender shape our approach to God.</p>
+                </div>
+                <a href="../studies/prayer-and-faith.html">Read study →</a>
+              </li>
+              <li class="topic-study-card">
+                <div>
+                  <span class="topic-study-position">Study 10 of 14</span>
+                  <h3><a href="../studies/what-does-prayer-look-like.html">What Does Prayer Look Like?</a></h3>
+                  <p>Watch how Jesus, Paul, and the early church actually pray.</p>
+                </div>
+                <a href="../studies/what-does-prayer-look-like.html">Read study →</a>
+              </li>
+              <li class="topic-study-card">
+                <div>
+                  <span class="topic-study-position">Study 11 of 14</span>
+                  <h3><a href="../studies/seek-signs.html">Should We Seek Signs From God?</a></h3>
+                  <p>Test experiences, signs, and guidance against the pattern Scripture gives.</p>
+                </div>
+                <a href="../studies/seek-signs.html">Read study →</a>
+              </li>
+            </ul>
+          </section>
+          <section class="topic-group" data-topic="Church &amp; Worship" aria-label="Church &amp; Worship">
+            <h2>Church &amp; Worship</h2>
+            <ul class="topic-study-list">
+              <li class="topic-study-card">
+                <div>
+                  <span class="topic-study-position">Study 12 of 14</span>
+                  <h3><a href="../studies/true-church.html">The True Church According to Jesus</a></h3>
+                  <p>See how disciples belong together as Christ&#x27;s people.</p>
+                </div>
+                <a href="../studies/true-church.html">Read study →</a>
+              </li>
+              <li class="topic-study-card">
+                <div>
+                  <span class="topic-study-position">Study 13 of 14</span>
+                  <h3><a href="../studies/who-shepherds-the-church.html">Who Shepherds the Church?</a></h3>
+                  <p>Consider responsibility, teaching, and leadership within the gathered church.</p>
+                </div>
+                <a href="../studies/who-shepherds-the-church.html">Read study →</a>
+              </li>
+              <li class="topic-study-card">
+                <div>
+                  <span class="topic-study-position">Study 14 of 14</span>
+                  <h3><a href="../studies/worship.html">Worship as the Early Church Knew It</a></h3>
+                  <p>Explore worship and participation in the life of the early church.</p>
+                </div>
+                <a href="../studies/worship.html">Read study →</a>
+              </li>
+            </ul>
+          </section>
           </div>
-          <p class="library-browse-link">
-            <a href="./browse.html?type=studies">Browse all studies</a>
-          </p>
         </section>
       </main>
     </div>
+    <script>
+      const viewButtons = [...document.querySelectorAll('[data-study-view]')];
+      const pathView = document.getElementById('guidedPathView');
+      const topicsView = document.getElementById('studyTopicsView');
+      const topicSelect = document.getElementById('studyTopicSelect');
+      const topicGroups = [...document.querySelectorAll('.topic-group')];
+      const topicCount = document.getElementById('topicCount');
+      const params = new URLSearchParams(location.search);
+
+      function showView(view, updateUrl = true) {
+        const showTopics = view === 'topics';
+        pathView.hidden = showTopics;
+        topicsView.hidden = !showTopics;
+        viewButtons.forEach((button) => {
+          button.setAttribute('aria-pressed', String(button.dataset.studyView === (showTopics ? 'topics' : 'path')));
+        });
+        if (updateUrl) {
+          const url = new URL(location.href);
+          if (showTopics) {
+            url.searchParams.set('view', 'topics');
+            if (topicSelect.value !== 'all') url.searchParams.set('topic', topicSelect.value);
+          }
+          else {
+            url.searchParams.delete('view');
+            url.searchParams.delete('topic');
+          }
+          history.replaceState(null, '', url);
+        }
+      }
+
+      function filterTopics(updateUrl = true) {
+        const selected = topicSelect.value;
+        let count = 0;
+        topicGroups.forEach((group) => {
+          const visible = selected === 'all' || group.dataset.topic === selected;
+          group.hidden = !visible;
+          if (visible) count += group.querySelectorAll('.topic-study-card').length;
+        });
+        topicCount.textContent = `Showing ${count} ${count === 1 ? 'study' : 'studies'}${selected === 'all' ? ' across all topics' : ''}.`;
+        if (updateUrl) {
+          const url = new URL(location.href);
+          if (selected === 'all') url.searchParams.delete('topic');
+          else url.searchParams.set('topic', selected);
+          history.replaceState(null, '', url);
+        }
+      }
+
+      viewButtons.forEach((button) => button.addEventListener('click', () => showView(button.dataset.studyView)));
+      topicSelect.addEventListener('change', () => filterTopics());
+      if ([...topicSelect.options].some((option) => option.value === params.get('topic'))) {
+        topicSelect.value = params.get('topic');
+      }
+      filterTopics(false);
+      showView(params.get('view') === 'topics' ? 'topics' : 'path', false);
+    </script>
   </body>
 </html>

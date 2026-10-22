@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "21:20-24",
+    "label": "Luke 21:20-24",
+    "slug": "luke-21-20-24"
+  },
+  "section_title": "What does Jesus tell people to do when Jerusalem is surrounded?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "20 But when you see Jerusalem surrounded by armies, you will know that her desolation is near. 21 Then let those who are in Judea flee to the mountains, let those in the city get out, and let those in the country stay out of the city. 22 For these are the days of vengeance, to fulfill all that is written. 23 How miserable those days will be for pregnant and nursing mothers! For there will be great distress upon the land and wrath against this people. 24 They will fall by the edge of the sword and be led captive into all the nations. And Jerusalem will be trodden down by the Gentiles, until the times of the Gentiles are fulfilled."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus now names Jerusalem and the armies surrounding it. He gives practical instructions: people in Judea are to flee to the mountains, those in the city are to leave, and those outside are to stay out.",
+    "",
+    "He describes days of judgment, great distress and particular hardship for pregnant and nursing women. Death by the sword and captivity follow. The warning concerns people facing the destruction of the place they know, rather than an abstract discussion of history.",
+    "",
+    "The section ends with Jerusalem being trampled by the Gentiles until their appointed times are fulfilled. The word until leaves a boundary to that period, though Jesus does not provide its length here."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly connect these verses with Jerusalem’s fall to Rome. The Catholic bishops’ notes place the times of the Gentiles between that destruction and the later signs surrounding the Son of Man. Wesley links their completion with the Gentiles’ conversion. ([USCCB notes on Luke 21:20–24](https://bible.usccb.org/bible/luke/21); [Wesley on Luke 21:24](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))",
+    "",
+    "John Walvoord gives a wider timeline, reading the period as Gentile domination beginning with Babylon and continuing until Christ returns. These are different readings of the period’s extent and ending, rather than one detailed timetable agreed by every Christian tradition. ([Walvoord, The Return of the Lord, chapter 11](https://walvoord.com/book/export/html/322))"
+  ],
+  "god_plan_lines": [
+    "Romans also places Israel and the Gentiles within a larger purpose of mercy. Paul speaks of Israel’s partial hardening, the coming in of the Gentiles and Israel’s salvation, while insisting that God’s gifts and calling remain in place. That is a supported connection with the question raised here about how Jerusalem’s distress fits within God’s continuing purposes. ([Romans 11:25–32](https://biblehub.com/bsb/romans/11.htm))",
+    "",
+    "Luke later records the risen Jesus commissioning repentance and forgiveness to be announced to all nations, beginning at Jerusalem. The warning of destruction therefore belongs alongside a mission in which mercy is proclaimed from this same city. ([Luke 24:44–48](https://biblehub.com/bsb/luke/24.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/21.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-twenty-one-closing-review.md"
+  }
+}

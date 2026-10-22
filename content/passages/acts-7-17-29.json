@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "7:17-29",
+    "label": "Acts 7:17-29",
+    "slug": "acts-7-17-29"
+  },
+  "section_title": "How does Moses’s story continue the pattern of rejection?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 As the time drew near for God to fulfill His promise to Abraham, our people in Egypt increased greatly in number. 18 Then another king, who knew nothing of Joseph, arose over Egypt. 19 He exploited our people and oppressed our fathers, forcing them to abandon their infants so they would die. 20 At that time Moses was born, and he was beautiful in the sight of God. For three months he was nurtured in his father’s house. 21 When he was set outside, Pharaoh’s daughter took him and brought him up as her own son. 22 So Moses was educated in all the wisdom of the Egyptians and was powerful in speech and action.",
+        "23 When Moses was forty years old, he decided to visit his brothers, the children of Israel. 24 And when he saw one of them being mistreated, Moses went to his defense and avenged him by striking down the Egyptian who was oppressing him. 25 He assumed his brothers would understand that God was using him to deliver them, but they did not. 26 The next day he came upon two Israelites who were fighting, and he tried to reconcile them, saying, ‘Men, you are brothers. Why are you mistreating each other?’ 27 But the man who was abusing his neighbor pushed Moses aside and said, ‘Who made you ruler and judge over us? 28 Do you want to kill me as you killed the Egyptian yesterday?’ 29 At this remark, Moses fled to the land of Midian, where he lived as a foreigner and had two sons."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The promise to Abraham remains in view as the people multiply in Egypt. A new king oppresses them and threatens their children. Moses is born under that threat, is cared for in his father’s house, and is then brought up by Pharaoh’s daughter.",
+    "",
+    "Stephen describes his Egyptian education and ability before turning to his concern for his own people. At forty, Moses intervenes when he sees an Israelite mistreated. He expects his brothers to understand that God is using him for their deliverance, but they do not.",
+    "",
+    "The next day his attempt to reconcile two Israelites is rejected with a challenge to his authority. Moses flees to Midian and becomes a foreign resident with a family of his own. The following passage will show God sending back the man whose leadership had been refused."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this section as preparation for Moses’s calling and as another instance of God’s chosen servant being misunderstood or rejected. [Wesley’s notes on verses 20–29](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) follow the movement from his preservation and upbringing to his rejected intervention and flight; the speech will return explicitly to that rejection in verse 35."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 11:23–26](https://biblehub.com/bsb/hebrews/11.htm) also places Moses’s preservation and identification with God’s people within the story of faith. It connects his choice to share their mistreatment with valuing disgrace for Christ above Egypt’s treasures. The New Testament itself brings Moses’s costly identification with his people into the story centered on Christ.",
+    "",
+    "In Stephen’s speech, the early rejection does not end Moses’s part in God’s purpose. God will send him as a deliverer in the next section. That repeated contrast helps prepare the council to consider its own response to the One God has sent."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/7.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-seven-opening-review.md"
+  }
+}

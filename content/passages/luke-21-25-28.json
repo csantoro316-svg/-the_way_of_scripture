@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "21:25-28",
+    "label": "Luke 21:25-28",
+    "slug": "luke-21-25-28"
+  },
+  "section_title": "Why can Jesus’ followers lift their heads when others are afraid?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "25 There will be signs in the sun and moon and stars, and on the earth dismay among the nations, bewildered by the roaring of the sea and the surging of the waves. 26 Men will faint from fear and anxiety over what is coming upon the earth, for the powers of the heavens will be shaken. 27 At that time they will see the Son of Man coming in a cloud with power and great glory. 28 When these things begin to happen, stand up and lift up your heads, because your redemption is drawing near.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The description widens from Jerusalem’s danger to signs in the heavens and distress among the nations. People are overwhelmed by fear as the powers of the heavens are shaken.",
+    "",
+    "Jesus then describes the Son of Man coming in a cloud with power and great glory. He tells His followers to stand up and lift their heads because their redemption is drawing near. The same scene that brings widespread fear brings them a reason for hope."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand this coming as a moment of Christ’s power and His people’s deliverance. The Catholic bishops’ notes distinguish it from the earlier destruction of Jerusalem; Calvin emphasizes the contrast between the world’s distress and believers’ hope in the salvation Christ brings. ([USCCB notes on Luke 21:24–28](https://bible.usccb.org/bible/luke/21); [Calvin on Luke 21:28](https://biblehub.com/commentaries/calvin/luke/21.htm))"
+  ],
+  "god_plan_lines": [
+    "Daniel sees a figure like a son of man coming with heaven’s clouds to the Ancient of Days and receiving enduring dominion over all nations. Jesus draws on that royal picture here. Revelation likewise announces Christ’s coming with clouds and describes Him as the risen ruler who has freed His people from sin by His blood. ([Daniel 7:13–14](https://biblehub.com/bsb/daniel/7.htm); [Revelation 1:5–7](https://biblehub.com/bsb/revelation/1.htm))",
+    "",
+    "Romans describes believers awaiting the redemption of their bodies while creation itself groans for freedom from decay. That wider hope gives depth to the redemption Jesus announces: His people await the completion of a rescue that reaches beyond immediate relief from fear. ([Romans 8:18–25](https://biblehub.com/bsb/romans/8.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/21.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-twenty-one-closing-review.md"
+  }
+}

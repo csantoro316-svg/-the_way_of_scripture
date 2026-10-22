@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "9:9-13",
+    "label": "Mark 9:9-13",
+    "slug": "mark-9-9-13"
+  },
+  "section_title": "Elijah, John, and the Suffering Messiah",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "9 As they were coming down the mountain, Jesus admonished them not to tell anyone what they had seen until the Son of Man had risen from the dead. 10 So they kept this matter to themselves, discussing what it meant to rise from the dead.",
+        "11 And they asked Jesus, “Why do the scribes say that Elijah must come first?” 12 He replied, “Elijah does indeed come first, and he restores all things. Why then is it written that the Son of Man must suffer many things and be rejected? 13 But I tell you that Elijah has indeed come, and they have done to him whatever they wished, just as it is written about him.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "As they descend the mountain, Jesus tells the three disciples to keep what they have seen private until the Son of Man has risen from the dead. They obey but discuss among themselves what rising from the dead means. Seeing His glory has not yet removed their difficulty with the path He describes.",
+    "",
+    "They ask about the scribes' teaching that Elijah must come first. The expectation has a scriptural basis in [Malachi 4:5–6](https://biblehub.com/bsb/malachi/4.htm), which promises Elijah before the great Day of the LORD, turning hearts within God's people. They have also just seen Elijah on the mountain.",
+    "",
+    "Jesus affirms Elijah's coming and restoring work, then asks how Scripture also speaks of the Son of Man's suffering and rejection. He says Elijah has already come and been treated as people wished. The [parallel Matthew 17:9–13](https://biblehub.com/bsb/matthew/17.htm) explicitly says the disciples understand Him to mean John the Baptist.",
+    "",
+    "[Luke 1:13–17](https://biblehub.com/bsb/luke/1.htm) describes John coming in Elijah's spirit and power to prepare people for the Lord. [John 1:19–23](https://biblehub.com/bsb/john/1.htm) also records John's denial that he is Elijah. Those statements distinguish a shared prophetic role from John being the same person returned to earth.",
+    "",
+    "The treatment of John has already been narrated in [Mark 6:17–29](https://biblehub.com/bsb/mark/6.htm). Jesus brings that rejected messenger into the discussion of His own coming suffering. Restoration and glory must be understood alongside what God's messengers, and the Son Himself, undergo."
+  ],
+  "common_interpretation_lines": [
+    "Christian interpreters recognize the connection between John and Elijah while differing over whether another personal coming of Elijah is still expected. [Calvin on Mark 9:9–13](https://biblehub.com/commentaries/calvin/mark/9.htm) understands Malachi's promise as fulfilled in John's preparing work; the [USCCB note](https://bible.usccb.org/bible/mark/9) likewise explains Elijah's coming here through John the Baptist.",
+    "",
+    "In the dispensational [Scofield notes on Matthew 17:10–13](https://biblehub.com/commentaries/sco/matthew/17.htm), John fulfills an Elijah-like ministry before Jesus' first coming, while a future ministry of Elijah remains expected. This is a particular prophetic reading, rather than something every Protestant, evangelical, or Baptist teaches. The shared identification of John in the present exchange should be distinguished from that further question about the future."
+  ],
+  "god_plan_lines": [
+    "Jesus makes the larger connection Himself: the promise of restoration does not remove what Scripture says about the Son of Man's suffering. John prepares His way and suffers rejection; Jesus then takes the path He has announced. The glory witnessed on the mountain cannot be separated from that mission.",
+    "",
+    "After His resurrection, Jesus again joins Moses and the Prophets with the necessity of the Christ's suffering and His entrance into glory ([Luke 24:25–27](https://biblehub.com/bsb/luke/24.htm)). [1 Peter 1:10–12](https://biblehub.com/bsb/1_peter/1.htm) describes the prophets searching into the sufferings of Christ and the glories to follow, now announced through the gospel. The disciples' question sits within that wider movement from promise toward understanding what God accomplishes through His Son."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/9.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-nine-opening-review.md"
+  }
+}

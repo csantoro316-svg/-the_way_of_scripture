@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "3:11-16",
+    "label": "Acts 3:11-16",
+    "slug": "acts-3-11-16"
+  },
+  "section_title": "Why does Peter turn the crowd’s attention toward Jesus?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "11 While the man clung to Peter and John, all the people were astonished and ran to them in the walkway called Solomon’s Colonnade. 12 And when Peter saw this, he addressed the people: “Men of Israel, why are you surprised by this? Why do you stare at us as if by our own power or godliness we had made this man walk? 13 The God of Abraham, Isaac, and Jacob, the God of our fathers, has glorified His servant Jesus. You handed Him over and rejected Him before Pilate, even though he had decided to release Him.",
+        "14 You rejected the Holy and Righteous One and asked that a murderer be released to you. 15 You killed the Author of life, but God raised Him from the dead, and we are witnesses of this fact. 16 By faith in the name of Jesus, this man whom you see and know has been made strong. It is Jesus’ name and the faith that comes through Him that has given him this complete healing in your presence."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The healed man stays close to Peter and John, and the crowd gathers in Solomon’s Colonnade. Peter immediately rejects the idea that their own power or godliness made the man walk. The healing is not an invitation to make the apostles the center of attention.",
+    "",
+    "Peter speaks of the God of Abraham, Isaac and Jacob glorifying His servant Jesus. The word servant is παῖς, pais (pice). [Thayer’s lexicon](https://biblehub.com/greek/3816.htm) lists child and servant among its meanings and specifically identifies the servant usage for Jesus in Acts 3:13 and 3:26. Here it draws attention to the One who carries out God’s purposes.",
+    "",
+    "The sermon sets the rejection of the Holy and Righteous One alongside the release of a murderer. The Author of life was killed, but God raised Him, and the apostles testify as witnesses. Peter is not saying the whole crowd saw the risen Jesus; he identifies the apostles as the witnesses.",
+    "",
+    "The healing is then explained through Jesus’s name and faith that comes through Him. The name points to Jesus Himself and His authority. Peter gives Him the credit for the complete healing the crowd can see."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Peter as directing faith and praise toward Jesus rather than toward the apostles. [Calvin on verse 16](https://biblehub.com/commentaries/calvin/acts/3.htm) emphasizes Christ’s power and faith grounded in Him. He notes that the faith mentioned can be considered in relation to the healed man or the apostles, without making that question the center of the account. [Wesley on verse 16](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) likewise directs attention to Jesus as both the giver and the object of faith."
+  ],
+  "god_plan_lines": [
+    "Peter’s language joins Israel’s God, the glorified Servant and the risen Jesus. [Isaiah 52:13–15](https://biblehub.com/bsb/isaiah/52.htm) describes God’s Servant being raised and exalted despite His disfigured appearance. This is a connection in the language and pattern, rather than an explicit quotation Peter announces here.",
+    "",
+    "The healing belongs to the same message as the resurrection: the Jesus who was rejected is alive and at work. God’s saving purpose continues through Him, and the witnesses serve that purpose by pointing people toward Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/3.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-three-review.md"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "23:24-39",
+    "label": "2 Samuel 23:24-39",
+    "slug": "2-samuel-23-24-39"
+  },
+  "section_title": "Why does this list of names matter?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "24 Now these were members of the Thirty: Asahel the brother of Joab, Elhanan son of Dodo of Bethlehem, 25 Shammah the Harodite, Elika the Harodite, 26 Helez the Paltite, Ira son of Ikkesh the Tekoite, 27 Abiezer the Anathothite, Mebunnai the Hushathite, 28 Zalmon the Ahohite, Maharai the Netophathite, 29 Heled son of Baanah the Netophathite, Ittai son of Ribai from Gibeah of the Benjamites, 30 Benaiah the Pirathonite, Hiddai from the brooks of Gaash,",
+        "31 Abi-albon the Arbathite, Azmaveth the Barhumite, 32 Eliahba the Shaalbonite, the sons of Jashen, Jonathan 33 son of Shammah the Hararite, Ahiam son of Sharar the Hararite, 34 Eliphelet son of Ahasbai the Maacathite, Eliam son of Ahithophel the Gilonite, 35 Hezro the Carmelite, Paarai the Arbite, 36 Igal son of Nathan of Zobah, Bani the Gadite, 37 Zelek the Ammonite, Naharai the Beerothite, the armor-bearer of Joab son of Zeruiah, 38 Ira the Ithrite, Gareb the Ithrite, 39 and Uriah the Hittite. There were thirty-seven in all."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The chapter preserves the names and origins of more men who served with David. Most receive no account of an individual exploit here, but they are still included in the record of the Thirty.",
+    "",
+    "Asahel appears near the beginning of the list, and Uriah the Hittite stands at its end. Both have already died in the narrative. The list looks back across David’s years of leadership rather than describing only the men alive at one final gathering.",
+    "",
+    "Its closing total is thirty-seven. Behind the larger story of David’s reign are many people whose service the narrator does not leave unnamed."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) points to Asahel and Uriah as evidence that the list reaches back to earlier service. He also notes that the related list in 1 Chronicles 11 contains differences and additional names.",
+    "",
+    "[Gill](https://biblehub.com/commentaries/gill/2_samuel/23.htm) identifies the final Uriah as Bathsheba’s husband. That name recalls the painful contrast between Uriah’s faithful service in chapter 11 and David’s treatment of him.",
+    "",
+    "Remembering these men adds depth to the story of the kingdom. Its achievements belong to many servants, and its record includes people whom the king himself failed."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/23.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-twenty-three-review.md"
+  }
+}

@@ -5,23 +5,53 @@
     "label": "1 Samuel 31:11-13",
     "slug": "1-samuel-31-11-13"
   },
-  "section_title": "Jabesh-gilead\u2019s Tribute to Saul",
+  "section_title": "Why do the men of Jabesh-gilead risk recovering the bodies?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "11 When the people of Jabesh-gilead heard what the Philistines had done to Saul, 12 all their men of valor set out, journeyed all night, and retrieved the bodies of Saul and his sons from the wall of Beth-shan.",
-        "When they arrived at Jabesh, they burned the bodies there. 13 Then they took their bones and buried them under the tamarisk tree in Jabesh, and they fasted seven days."
+        "11 When the people of Jabesh-gilead heard what the Philistines had done to Saul, 12 all their men of valor set out, journeyed all night, and retrieved the bodies of Saul and his sons from the wall of Beth-shan. When they arrived at Jabesh, they burned the bodies there. 13 Then they took their bones and buried them under the tamarisk tree in Jabesh, and they fasted seven days."
       ]
     }
   ],
   "context_lines": [
-    "In **1 Samuel 31**, this section should be read within the flow of the chapter and the larger movement of 1 Samuel."
+    "The people of Jabesh-gilead hear what the Philistines have done. Their men of valor travel through the night, recover Saul’s body and those of his sons from Beth-shan’s wall, and bring them back to Jabesh.",
+    "",
+    "They burn the bodies, bury the bones under a tamarisk tree and fast seven days. The book closes with mourning and an act of care for the dead, following the defeat and public disgrace.",
+    "",
+    "Their response recalls [1 Samuel 11](https://biblehub.com/bsb/1_samuel/11.htm), when Saul rescued Jabesh-gilead from Nahash and the Ammonites. Remembering his later failures does not require forgetting the help he once gave them."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Jabesh-gilead\u2019s Tribute to Saul** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-samuel/) reads the recovery as gratitude for Saul’s rescue of their town. [Gill](https://biblehub.com/commentaries/gill/1_samuel/31.htm) likewise emphasizes their determination to recover the bodies after the Philistines’ treatment. Their courage answers humiliation with care.",
     "",
-    "Where interpreters differ on details, the immediate setting in **1 Samuel 31** remains the first control on meaning."
+    "[Gill](https://biblehub.com/commentaries/gill/1_samuel/31.htm) discusses possible reasons for burning the bodies, including preventing further abuse and their condition after death. The passage reports the act without specifying the reason. The burning, burial of bones and fasting should each be allowed their place in the account.",
+    "",
+    "In [2 Samuel 2:4–7](https://biblehub.com/bsb/2_samuel/2.htm), David explicitly praises their kindness in burying Saul. The next king recognizes mercy shown to his former pursuer, extending the refusal to let hostility erase respect for a human life."
   ],
-  "deeper_study": []
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_samuel/31.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-samuel-twenty-seven-thirty-one-review.md"
+  }
 }

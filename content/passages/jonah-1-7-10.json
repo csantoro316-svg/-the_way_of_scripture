@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "Jonah",
+    "citation": "1:7-10",
+    "label": "Jonah 1:7-10",
+    "slug": "jonah-1-7-10"
+  },
+  "section_title": "What does Jonah confess about the God he is fleeing?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 “Come!” said the sailors to one another. “Let us cast lots to find out who is responsible for this calamity that is upon us.” So they cast lots, and the lot fell on Jonah. 8 “Tell us now,” they demanded, “who is to blame for this calamity that is upon us? What is your occupation, and where have you come from? What is your country, and who are your people?” 9 “I am a Hebrew,” replied Jonah. “I worship the LORD, the God of the heavens, who made the sea and the dry land.” 10 Then the men were even more afraid and said to him, “What have you done?” The men knew that he was fleeing from the presence of the LORD, because he had told them."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The sailors cast lots to find who is responsible for the calamity, and the lot falls on Jonah. They question him about his work, origin and people.",
+    "",
+    "He identifies himself as a Hebrew who worships the Lord, the maker of heaven, sea and dry land. The Hebrew יָרֵא, yare (yah-RAY), can express fear or reverence; [Brown–Driver–Briggs](https://biblehub.com/hebrew/3372.htm) includes Jonah 1:9 under reverence for God. The BSB conveys that sense with worship.",
+    "",
+    "The sailors become more afraid when they learn whom he serves and that he is fleeing from His presence. His confession makes the contradiction in his conduct plain: he is trying to escape the maker of the very sea on which he travels."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/jonah/1.htm) and [Cambridge](https://biblehub.com/commentaries/cambridge/jonah/1.htm) emphasize the force of Jonah’s confession before the frightened sailors. Knowing that the Lord made the sea makes his attempt to flee all the more startling."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/jonah/1.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-jonah-review.md"
+  }
+}

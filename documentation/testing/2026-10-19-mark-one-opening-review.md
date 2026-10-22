@@ -1,0 +1,33 @@
+# Mark 1:1–8 editorial review
+
+## Sources and scope
+
+Supplied `41-mark.pdf`: lessons 1A (PDF 1–15) and 1B (16–34) read in full. This book's supplied teaching is later ministry material, not Stephen Armstrong's own teaching. Teacher identity stays private. The source's valuable emphases retained after verification: good news centered on Jesus, promises joined in the opening, wilderness preparation, repentance with changed conduct, John's humility, the coming Spirit and God's inward cleansing.
+
+Actual BibleHub BSB main text read/parsed for Mark 1:1–8 and footnotes; Isaiah 40:1–11; Malachi 3:1–4; Exodus 23:20–23; 2 Kings 1:7–8; Luke 3:3–18; Acts 1:4–8 and 19:1–7; Ezekiel 36:22–28. Earlier checked 1 Corinthians 15:1–5 retained. Generated summaries are not evidence. Public Scripture quotations use BSB only, with direct fresh source verification before release.
+
+Actual Thayer 2098 (gospel) and 3341 (repentance) read, including references and relevant sense, rather than generated topical prose. Gospel means glad tidings; repentance includes recognition of sin and a changed course, not mere word-root arithmetic. No language claim silently borrowed from PDF.
+
+Primary interpretation sources directly read: Wesley Mark 1:1–8; USCCB Mark 1:1–8 notes; Calvin's Mark 1 harmony, including commentary on the parallel Luke 3:3 and Matthew 3:11; Catholic Catechism 717–720 on the actual Vatican Spirit of Christ page. Initial guess at part III failed; correct part IV read directly. Calvin stresses continuity of John's baptism with Christian baptism and distinguishes servant's sign from Christ's reality; Catholic 720 distinguishes repentance baptism and new birth in water/Spirit. Public text distinguishes his historical commentary from official church teaching and does not generalize it to every Reformed believer. Wesley calls the baptism a sign and means of repentance; not reduced to a bare outward badge. Shared John/Jesus roles on 1:1–3 need no denominational breakdown.
+
+No independent historical detail is necessary to the public explanation beyond Scripture's own narrative. Historical assertions in the PDF that are not needed and not verified are excluded and recorded below. Existing Baptism study is linked for Christian baptism, but it is not authority to originate a new position on every difference between John's ministry and Christian baptism. Both position sections use the exact unset wording.
+
+## Mark 1:1–3
+
+Plan section: included, because (a)/(c). Mark explicitly applies the messenger/way promises to the introduction of Jesus. Isaiah's larger passage concerns comfort, God's coming rule and shepherd care; Malachi joins arrival with cleansing. 1 Corinthians 15 supplies the later explicit gospel death/resurrection summary, not a claim every event has happened in the opening.
+
+Position source: none.
+
+FLAGGED FOR REVIEW: Gospel itself does not state the author's name/date, so no certainty about John Mark, Peter dictating every word, Rome as sole audience, AD65, or Papias/Eusebius/Irenaeus all living in the first half of the second century is published. Eusebius is much later; quoted older testimony would require direct source distinctions. No independent historical verification attempted for an exact 80% destroyed, Nero certainly setting the fire, lions at this particular persecution, or precise audience circumstances, so all omitted. No invented 42-occurrence count. No claim gospel always had a battlefield messenger, always plural outside NT, or that legal force is intrinsic to as-written grammar. Mark's combination of Exodus/Malachi/Isaiah is checked from Scripture itself; does not make John the Exodus angel. No exact 400-year no-divine-action chronology or claim all Jewish people uniformly misunderstood prophecy. No literal Elijah return date seven years before an end-times event; John 1 denial and Matthew 11 affirmation require more careful distinction than the PDF's fixed schedule. No theology determined solely by beginning resembling Genesis/John. Textual note follows actual BSB editions footnote, with Son identification retained at 1:11.
+
+## Mark 1:4–8
+
+Plan section: included, because (a)/(b)/(c). Acts 1 directly recalls John's water/Spirit distinction and joins the Spirit's gift with worldwide witness. Acts 19 explicitly says John directed faith toward Jesus. Ezekiel 36 cleansing/new heart/Spirit is labeled a thematic parallel and retains its address to Israel, without declaring a new timetable or replacement of Israel.
+
+Position source: none.
+
+FLAGGED FOR REVIEW: No exact six-month preaching period, no private visual or Spirit-revelation diagnosis of John's knowledge of crowd thoughts, no assertion all officials were jealous or secretly impostors, no two-stage mandatory Sanhedrin investigation process independently established. The PDF's broad account of ancestral merit cannot be used as a uniform Jewish theology claim without direct period sources and fair qualification; omitted. No certainty all Jewish baptism began as proselyte initiation or always took one exact form. Repentance uses actual noun metanoia, not a loose verb-etymology claim. John is not described as a maniac or disqualified from being a religious messenger simply because of his clothes. No invented locust/honey in his beard, people's entertainment motives, or literal all-inhabitants census. No claim Moses certainly had a diagnosed stutter. No independent primary source checked for exact slave/teacher shoe customs, so only the plain humility of John's actual words is explained. Mark omits fire; no claimed reason involving Roman fire trauma. Matthew/Luke fire readings are not inserted into Mark or used to force a universal double-baptism scheme. No deterministic claim everyone not called is assigned rejection as this passage's consensus or site position. Ezekiel's water/Spirit connection is not reduced to a modern baptism mode proof. No guarantee outward washing alone saves and no declaration baptism is meaningless.
+
+## Validation
+
+Focused generation and idempotence passed across 1,220 website files. Both direct fresh BSB comparisons passed. Repository checks: 0 errors / 356 legacy warnings; eight tests passed. Preservation, exact affected neighbors, source/index/HTML alignment and continuous Mark coverage through 1:8 passed (two reviewed groups / eight verses). The 390px reader and standalone page have all required sections, links and no overflow; actual Next reaches 1:4–8 with title focus/top 188.5px. Hosting dry run and release completed; all six live files match local bytes. Prefix `/tmp/scripture-mark-one-opening-`.

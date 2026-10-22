@@ -5,40 +5,65 @@
     "label": "Isaiah 53:9-12",
     "slug": "isaiah-53-9-12"
   },
-  "section_title": "A Grave Assigned",
+  "section_title": "What does the Servant’s death accomplish?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "9 He was assigned a grave with the wicked,",
-        "and with a rich man in His death,",
-        "although He had done no violence,",
-        "nor was any deceit in His mouth.",
-        "10 Yet it was the LORD\u2019s will to crush Him",
-        "and to cause Him to suffer;",
-        "and when His soul is made a guilt offering,",
-        "He will see His offspring, He will prolong His days,",
-        "and the good pleasure of the LORD will prosper in His hand.",
-        "11 After the anguish of His soul,",
-        "He will see the light of life and be satisfied.",
-        "By His knowledge My righteous Servant will justify many,",
-        "and He will bear their iniquities.",
-        "12 Therefore I will allot Him a portion with the great,",
-        "and He will divide the spoils with the strong,",
-        "because He has poured out His life unto death,",
-        "and He was numbered with the transgressors.",
-        "Yet He bore the sin of many",
-        "and made intercession for the transgressors."
+        "9 He was assigned a grave with the wicked, and with a rich man in His death, although He had done no violence, nor was any deceit in His mouth. 10 Yet it was the LORD’s will to crush Him and to cause Him to suffer; and when His soul is made a guilt offering, He will see His offspring, He will prolong His days, and the good pleasure of the LORD will prosper in His hand.",
+        "11 After the anguish of His soul, He will see the light of life and be satisfied. By His knowledge My righteous Servant will justify many, and He will bear their iniquities. 12 Therefore I will allot Him a portion with the great, and He will divide the spoils with the strong, because He has poured out His life unto death, and He was numbered with the transgressors. Yet He bore the sin of many and made intercession for the transgressors."
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 53**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "The Servant’s burial is described alongside His innocence: He has done no violence and spoken no deceit. Yet His death belongs to the Lord’s purpose, and His life is made a guilt offering.",
+    "",
+    "The Hebrew word אָשָׁם, asham (ah-SHAHM), can describe guilt or an offering that deals with guilt. [Brown–Driver–Briggs](https://biblehub.com/hebrew/817.htm) specifically lists Isaiah 53:10 under the offering sense. The image explains the purpose of His suffering: His life is given to deal with the wrongdoing of others.",
+    "",
+    "Death is followed by promises of offspring, prolonged days and the Lord’s good pleasure prospering through Him. After His anguish He sees the light of life and is satisfied. The righteous Servant makes many righteous and bears their iniquities.",
+    "",
+    "The final picture is of a victor receiving a share of the spoils. The reason given is His poured-out life: He was counted among transgressors, bore the sin of many and made intercession for transgressors. His innocence, His willing self-giving and the benefit to others belong together."
   ],
   "common_interpretation_lines": [
-    "A common reading of **A Grave Assigned** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/isaiah/53.htm) and [Wesley](https://biblehub.com/commentaries/wes/isaiah/53.htm) read the offering as Christ’s sacrifice for sin and the promised outcome as His living, successful saving work. They understand the offspring as the people brought to God through Him, rather than biological children.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 53** remains the first control on meaning."
+    "Both connect making many righteous with release from the guilt of sin through Christ. The reward and intercession show the success of His mission: His suffering is followed by the salvation of people for whom He gave Himself. Their reading joins the chapter’s sacrifice language to its promises of life and victory."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "Jesus explicitly applies the closing passage to Himself in [Luke 22:35–38](https://biblehub.com/bsb/luke/22.htm), saying that the Scripture about being numbered with transgressors must be fulfilled in Him. This identification comes from His own explanation of what lies ahead.",
+    "",
+    "[First Peter 2:21–25](https://biblehub.com/bsb/1_peter/2.htm) also uses the description of the Servant’s innocence and connects it with Christ bearing sins. Peter explains the purpose as a changed life: people are to die to sin and live to righteousness.",
+    "",
+    "The burial account in [Matthew 27:57–60](https://biblehub.com/bsb/matthew/27.htm) provides a further close parallel: the rich disciple Joseph of Arimathea places Jesus’ body in his own new tomb. The Gospel does not explicitly quote Isaiah there, so this is a parallel rather than a stated quotation.",
+    "",
+    "The chapter’s place in God’s purpose is therefore more than an example of enduring pain. Jesus identifies Himself with its condemned Servant, and Peter explains His death as a rescue from sin that brings people back to their Shepherd."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/53.htm",
+    "plan_basis": [
+      "a",
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-fifty-one-three-review.md"
+  }
 }

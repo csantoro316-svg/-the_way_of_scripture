@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "3:24-27",
+    "label": "Daniel 3:24-27",
+    "slug": "daniel-3-24-27"
+  },
+  "section_title": "Who is with the men in the fire?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "24 Suddenly King Nebuchadnezzar jumped up in amazement and asked his advisers, “Did we not throw three men, firmly bound, into the fire?” “Certainly, O king,” they replied. 25 “Look!” he exclaimed. “I see four men, unbound and unharmed, walking around in the fire—and the fourth looks like a son of the gods!”",
+        "26 Then Nebuchadnezzar approached the door of the blazing fiery furnace and called out, “Shadrach, Meshach, and Abednego, servants of the Most High God, come out!” So Shadrach, Meshach, and Abednego came out of the fire, 27 and when the satraps, prefects, governors, and royal advisers had gathered around, they saw that the fire had no effect on the bodies of these men. Not a hair of their heads was singed, their robes were unaffected, and there was no smell of fire on them."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The king sees four men walking freely and unharmed where three had been thrown in bound. He describes the fourth as looking like a son of the gods.",
+    "",
+    "He calls Shadrach, Meshach and Abednego servants of the Most High God and tells them to come out. The gathered officials then see that their bodies, hair and clothing have not been damaged, and they do not even smell of fire.",
+    "",
+    "The rescue reverses the king’s challenge about who could deliver them from his hand. The account stresses the completeness of the rescue: they emerge untouched by the fire."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/daniel/3.htm) and [Wesley](https://biblehub.com/commentaries/wes/daniel/3.htm) understand the fourth figure as Christ appearing before His birth as a man. [Cambridge](https://biblehub.com/commentaries/cambridge/daniel/3.htm) understands the description as an angelic being and points to the king’s reference to God sending His angel in verse 28.",
+    "",
+    "The BSB gives the king’s words as a son of the gods, rather than the title the Son of God. Christians who see Christ here draw that identification from a wider reading of His presence with God’s people; the king’s description alone does not name Him as Jesus."
+  ],
+  "god_plan_lines": [
+    "[First Peter 4:12–19](https://biblehub.com/bsb/1_peter/4.htm) tells Christians not to be surprised by a fiery trial. Those suffering for Christ are to entrust themselves to their faithful Creator and continue doing good, with the promise that the Spirit of glory and of God rests on them.",
+    "",
+    "This is a wider connection about God’s presence in suffering, rather than a promise that every Christian will emerge physically unharmed as these men did. Peter joins present faithfulness to the coming revelation of Christ’s glory. Suffering for His name does not mean being abandoned by Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who is The Angel of the Lord?",
+      "href": "../studies/angel-of-the-lord.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/3.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-three-review.md"
+  }
+}

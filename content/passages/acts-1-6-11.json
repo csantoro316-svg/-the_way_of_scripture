@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "1:6-11",
+    "label": "Acts 1:6-11",
+    "slug": "acts-1-6-11"
+  },
+  "section_title": "Why does Jesus turn their attention from timing to witness?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 So when they came together, they asked Him, “Lord, will You at this time restore the kingdom to Israel?” 7 Jesus replied, “It is not for you to know times or seasons that the Father has fixed by His own authority. 8 But you will receive power when the Holy Spirit comes upon you, and you will be My witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.”",
+        "9 After He had said this, they watched as He was taken up, and a cloud hid Him from their sight. 10 They were looking intently into the sky as He was going, when suddenly two men dressed in white stood beside them. 11 “Men of Galilee,” they said, “why do you stand here looking into the sky? This same Jesus, who has been taken from you into heaven, will come back in the same way you have seen Him go into heaven.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The disciples ask whether Jesus will now restore the kingdom to Israel. They have heard Him teach about the kingdom and promise the Spirit. His answer directs their attention away from the Father’s timetable and toward the work they will receive power to do.",
+    "",
+    "They will be His witnesses in Jerusalem, Judea, Samaria and to the ends of the earth. The Greek word μάρτυς, martys (MAR-toos), means a witness: someone who can testify to what they have seen, heard or know. [Thayer’s lexicon](https://biblehub.com/greek/3144.htm) specifically includes Acts 1:8 and 1:22. Here the emphasis is on their testimony about Jesus.",
+    "",
+    "Jesus is then taken up, and a cloud hides Him from their sight. Two men in white announce that this same Jesus will return. His departure does not cancel His mission or make His return something the disciples can schedule."
+  ],
+  "common_interpretation_lines": [
+    "Christians agree that the passage commissions Spirit-enabled witness and promises Jesus’s return. They differ over how the question about Israel’s kingdom fits that promise.",
+    "",
+    "[Calvin on verse 6](https://biblehub.com/commentaries/calvin/acts/1.htm) understands the disciples as still expecting an earthly kingdom too narrowly centered on Israel. [Wesley on verse 6](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) similarly sees expectations of outward national dominion needing correction. These are their readings of the question and Jesus’s response, rather than a statement that every Reformed or Wesleyan reader explains the details identically.",
+    "",
+    "[Thomas Constable’s notes on verses 6–7](https://soniclight.com/tcon/notes/html/acts/acts.htm) give a different reading: Jesus leaves a future earthly restoration to Israel in view while correcting the expectation that its timing can be known or that it must begin immediately. His account distinguishes that future kingdom from the church’s present mission. It is one commentator’s reading, rather than a summary of all Christians who expect a future kingdom.",
+    "",
+    "In either reading, the instruction Jesus actually gives is clear: the Father holds the times under His authority, and the disciples are to receive the Spirit and bear witness."
+  ],
+  "god_plan_lines": [
+    "The movement toward the ends of the earth belongs to the wider promise of salvation reaching the nations. [Isaiah 49:6](https://biblehub.com/bsb/isaiah/49.htm) joins the Servant’s work for Israel with being a light for the nations. The commission here carries the message of the risen Jesus outward, without requiring us to settle every question about the kingdom’s timetable.",
+    "",
+    "The cloud also recalls the royal vision in [Daniel 7:13–14](https://biblehub.com/bsb/daniel/7.htm), where One like the Son of Man comes with the clouds before the Ancient of Days and receives enduring dominion. This is a parallel of exaltation and kingship; Daniel’s movement into God’s presence should not simply be rewritten as a descent to earth. Acts itself supplies the separate assurance that Jesus will return."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/1.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-one-review.md"
+  }
+}

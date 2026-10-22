@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "6:45-52",
+    "label": "Mark 6:45-52",
+    "slug": "mark-6-45-52"
+  },
+  "section_title": "Jesus Comes Across the Sea",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "45 Immediately Jesus made His disciples get into the boat and go on ahead of Him to Bethsaida, while He dismissed the crowd. 46 After bidding them farewell, He went up on the mountain to pray. 47 When evening came, the boat was in the middle of the sea, and Jesus was alone on land. 48 He could see that the disciples were straining to row, because the wind was against them. About the fourth watch of the night, Jesus went out to them, walking on the sea. He intended to pass by them,",
+        "49 but when they saw Him walking on the sea, they cried out, thinking He was a ghost— 50 for they all saw Him and were terrified. But Jesus spoke up at once: “Take courage! It is I. Do not be afraid.” 51 Then He climbed into the boat with them, and the wind died down. And the disciples were utterly astounded, 52 for they had not understood about the loaves, but their hearts had been hardened."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After the meal, Jesus sends the disciples ahead by boat toward Bethsaida, dismisses the crowd, and goes up the mountain to pray. [John 6:14–15](https://biblehub.com/bsb/john/6.htm) adds that the people wanted to make Him king by force. Mark does not tell us that the disciples joined that attempt or give the content of Jesus' prayer.",
+    "",
+    "Jesus is alone on land while the disciples struggle to row against the wind. He sees their difficulty and comes toward them on the sea in the fourth watch, the period the [BSB footnote](https://biblehub.com/bsb/mark/6.htm) identifies as between three and six in the morning. Mark does not specify the exact hour or how many hours they have been rowing.",
+    "",
+    "He intends to pass by them, but they see Him and cry out, thinking He is a ghost. Jesus speaks reassurance, identifies Himself, and tells them not to fear. He climbs into the boat and the wind dies down. Their terror gives way to astonishment.",
+    "",
+    "Mark then explains their surprise by connecting this scene with the loaves: they have not understood what that earlier work showed them. The Greek verb [πωρόω (poroo, poh-ROH-oh)](https://biblehub.com/greek/4456.htm), translated as hearts being hardened, can describe becoming dull or unable to understand. It is a serious failure to grasp what Jesus is showing them; this verse does not announce that the disciples can never learn.",
+    "",
+    "[Matthew 14:28–33](https://biblehub.com/bsb/matthew/14.htm) also tells of Peter coming onto the water and the disciples worshiping Jesus. Mark leaves Peter's part out and concentrates on the whole group's failure to understand the loaves and recognize Jesus."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly see Jesus revealing His authority over the sea while teaching His frightened disciples to trust Him. [Calvin on this account](https://biblehub.com/commentaries/calvin/mark/6.htm) connects their failure with forgetting the power shown in the loaves, and [Wesley on verse 52](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-mark/) understands their hardened hearts here as slowness to understand rather than a declaration of final rejection."
+  ],
+  "god_plan_lines": [
+    "The sea scene recalls things Scripture says about God. [Job 9:8–11](https://biblehub.com/bsb/job/9.htm) describes Him treading on the waves and passing by beyond Job's perception. In [Exodus 33:18–23](https://biblehub.com/bsb/exodus/33.htm) and [34:5–8](https://biblehub.com/bsb/exodus/34.htm), God passes before Moses as He makes Himself known. These are meaningful parallels to Jesus walking on the sea and passing by His disciples. Mark does not explicitly name those passages as quotations.",
+    "",
+    "The [USCCB note on Mark 6:50](https://bible.usccb.org/bible/mark/6) also sees a possible echo of God's self-revelation in Jesus' words of reassurance. The Greek wording can simply identify the speaker, as [Thayer's entry for εἰμί](https://biblehub.com/greek/1510.htm) explains for this verse; the case for the larger connection rests on the whole scene, including His authority over the water. Mark brings us back to the question the loaves already raised: who is this One who provides for His people and comes to them with power they cannot explain?"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/6.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-six-closing-review.md"
+  }
+}

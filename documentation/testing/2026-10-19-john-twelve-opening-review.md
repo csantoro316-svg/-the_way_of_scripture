@@ -1,0 +1,39 @@
+# John 12:1–19 review — 2026-10-19
+
+## Evidence read
+
+Fullbaseline11B387–405read,including12:1–19at393–405;John12lesson406–410alsoread. WholePDFthrough410read;411onwardunread. Publicindependentwordingandstructure;teacher/ministryunnamed.
+
+ActualBSB12:1–19and20–33read,chapterhas50versemarkers. ActualDeut15:7–11,Zech9:9–10,Ps118:19–29read. Matt20:1–2and1Cor15:3–4previouslyverifiedintheircompletebook/earlierJohngroupreviews;Eph2:11–22directlyreadforrecentJohn10batch. ActualMark14:3rechecked:head,notfeet. USCCB12:3noteincorrectlylabelsMarkasfeet;notcopied.ThepublicpagefollowsJohn'sfeetanddoesnottrytoreconstructeveryanointingeventorchronologyfromsecondarynotes.
+
+ActualWesleyXII1–26andstart27read https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/ .7burial;15meekking;16understandingafterascension. Calvin2/3/5/9/10/17/19fulland1/4/6/7/8/12/13/14/16relevantexcerptsplus8almsendingread https://biblehub.com/commentaries/calvin/john/12.htm . Publicusesburial/continuingcareforpoor/royalarrival/understandingafterglorification. Do not turn Calvin's criticismofcostlyCatholicceremoniesorperfumepricePlinyclaimintoownerposition. NoabsoluteallJudasactsfromoneunrecordedmotivebeyondJohn'sexplicit6.
+
+ActualUSCCB12notes1–8/3/5/7/12–19/13/15/16/17–18/19and20–27advance-read https://bible.usccb.org/bible/john/12 . Sharedcoreonly. Itsrabbinicmercy-rankingreconstructionandprecisecommunity/bilingualityclaimsnotindependentlyestablishedhere. Note12:3conflictswithactualMark14:3asabove.
+
+ActualCCC2449andpreceding2448endread https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_two/article_7/vi_love_for_the_poor.html :Jesus'poor-sayingkeepsDeutgenerositycommandandHisidentificationwithpoor. Actual559–560readcachedccc-jesus-ministryandverifiedofficialarchive https://www.vatican.va/archive/ENG0015/__P1L.HTM :humblemessianicking/entry/deathresurrection. Aninitialccc-life-christfilewaspartthreeanddidnotcontain559;notusedforthatclaim. Publicdoesnotimportliturgicalrulesasownerposition.
+
+ActualThayerὡσαννάentryreadbeforeTopical https://biblehub.com/greek/5614.htm :derivedHebrewsave-I-prayplea,Ps117LXX=118standardnumbering,directJohn12:13reference. PublicGreek/transliteration/pronunciation/plainmeaningandactualPs118link. No generatedTopicaletymologicalhistoryused. Crowd'sgreetingkingisexplicitinBSB,nounverifiedhistoryofsemanticdevelopmentrequired.
+
+NoexistingstudydirectlydevelopsJohn12conclusionintargetedsource-search;positionsremainopen.
+
+## John 12:1–11
+
+Plan section: included, because (a)/(b)/(c): Jesusexplicitlyinterpretsgiftforburial;1Cor15death/burial/resurrectiongospel,andLazarusalivebesideJesusapproachingburialformsplainnarrativeparallel.
+Position source: none.
+FLAGGED FOR REVIEW: No preciseWednesdayPassover/FridayarrivalorassumeduniformGospelchronology;baselineandcommentatorsdiffer,publicstayswithJohn'ssixdays. NoSimonLeperdefinitelypreviouslyhealedbyJesus,completehouseownership,allsisters'wealth/incomefromLazarus,orallMary'spossessionsknown. No perfumeIndianprovenance,ancientbathingfrequency,publichairshame,volume/weightconversionorPlinymarketpricewithoutindependentcheck. BSBcostandMatt20daywagecomparisonenough;nomoderndollarconversion.
+
+Noallnonbelievers'charityselfish,Jesuscommandtoavoidcareforphysicalneeds,orworldhungersolutiontimelinemoralclaim. ActualDeut15/CCC2449andCalvin8affirmcontinuingcare. NoJudas'sexacteveryprivatefinancialcalculation;John6explicitstealingmotiveusedonlyasstated. Teacher'salternative12:7translationnotBSBreplacement;publicquotecheckedmaintext. NoMarymusthavefullyunderstoodburialorSpiritinspiredspecificactionnotreported. NoLazarusmusthavebeeninhiding/priestsgroupallidenticaltoPharisees.
+
+## John 12:12–19
+
+Plan section: included, because (a)/(c): JohndirectScripturefulfillment,comingdeathanddrawingpeoplein12:23–33;Zech9peace/nationsandEph2crosstiehumblekingshipwidersavingpurpose.
+Position source: none.
+FLAGGED FOR REVIEW: No cityseveralmillion,exactpalms-on-grounddetailinJohn,politicalcoinevidenceorallRomanreactionwithoutindependentcheck. Noreconstructedprecisecrowdidentity/samepeoplelatercrucifixionshouts/allabandonedJesus. Verse19worldisreportedalarm,notuniversalfaithcount.
+
+No3yearPassoverlambclaim:baselineconflictswithoneyearinstructioninExodus12;notpubliclydiscussedwithoutrechecking. No mandatoryfamilybond/inspectiontimelineorpreciseSunday-to-crucifixiondaycount. NoPsalm118originalDavidcoronationdatingwithoutindependentsource. No entiregenerationunforgivablesin/automatickingdomtimingfrombaselineasconsensus. Scripturekinghumility/peaceclearwithoutthatgrid.
+
+No pretendingWesley16andCalvin16giveidenticalexactmomentofunderstanding(Wesleyascension/Calvinresurrection);publickeepsJohn'safterglorifiedwordingandsharedrecognition. No totalreadingofeveryZechariahfutureprophecyimposedfromoneversus.
+
+## Validation
+
+Both fresh BSB checks pass. Eight tests pass; zero errors /327 warnings. Continuous coverage through12:19:71reviewedpages /554actualBSBverses. Two added/three modified web files;1,527unaffected files, old index records and neighboring prose preserved. Generation idempotent across all1,532files. Bothpagescheckedin390pxreader/standalone:fiveeditorialsections/nooverflow/noliteralMarkdown. Actual reader Next1–11to12–19focuses title188px. Hosting dry run/deployment exited zero; all six affected/index/reader live files match local bytes.

@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "1 Peter",
+    "citation": "2:11-12",
+    "label": "1 Peter 2:11-12",
+    "slug": "1-peter-2-11-12"
+  },
+  "section_title": "How can our daily lives point people toward God?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "11 Beloved, I urge you, as foreigners and exiles, to abstain from the desires of the flesh, which war against your soul. 12 Conduct yourselves with such honor among the Gentiles that, though they slander you as evildoers, they may see your good deeds and glorify God on the day He visits us."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Peter turns from describing God’s people to how they live among their neighbors. Calling them foreigners and exiles recalls the letter’s opening: they belong to God while living in a world that does not always welcome their faith.",
+    "",
+    "The desires they must resist wage war against the soul. The concern reaches beyond outward appearances to what is shaping them within. Their conduct among others should be honorable even when they are falsely accused.",
+    "",
+    "The hope is that people who speak against them will see their good deeds and glorify God. Being slandered is not itself evidence that the accusations are deserved. Peter calls for faithful conduct in the face of hostility."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/1_peter/2.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-epistle-general-of-st-peter/) both connect honorable conduct with neighbors coming to recognize God’s work. They understand the day of visitation as an occasion of God’s mercy that can turn those observers toward Him.",
+    "",
+    "Calvin also discusses the reading that places this recognition at the last judgment, although he prefers the merciful-visitation reading. The [Greek word for visitation](https://biblehub.com/greek/1984.htm) can refer to God’s gracious care or His examination and judgment. The word alone does not settle which occasion Peter has in view."
+  ],
+  "god_plan_lines": [
+    "Jesus connects visible goodness with the Father’s glory in [Matthew 5:14–16](https://biblehub.com/bsb/matthew/5.htm). His followers’ lives are to shine so that people see their good deeds and glorify their Father. Peter applies that purpose to believers whose neighbors are suspicious of them.",
+    "",
+    "Their witness therefore includes the everyday life people can observe. God’s people proclaim His goodness, as verse 9 says, and their conduct should agree with that proclamation."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_peter/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-peter-two-middle-review.md"
+  }
+}

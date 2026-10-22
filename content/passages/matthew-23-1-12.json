@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "23:1-12",
+    "label": "Matthew 23:1-12",
+    "slug": "matthew-23-1-12"
+  },
+  "section_title": "Leadership That Serves Instead of Seeking Honor",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Then Jesus spoke to the crowds and to His disciples: 2 “The scribes and Pharisees sit in Moses’ seat. 3 So practice and observe everything they tell you. But do not do what they do, for they do not practice what they preach. 4 They tie up heavy, burdensome loads and lay them on men’s shoulders, but they themselves are not willing to lift a finger to move them.",
+        "5 All their deeds are done for men to see. They broaden their phylacteries and lengthen their tassels. 6 They love the places of honor at banquets, the chief seats in the synagogues, 7 the greetings in the marketplaces, and the title of ‘Rabbi’ by which they are addressed.",
+        "8 But you are not to be called ‘Rabbi,’ for you have one Teacher, and you are all brothers. 9 And do not call anyone on earth your father, for you have one Father, who is in heaven. 10 Nor are you to be called instructors, for you have one Instructor, the Christ. 11 The greatest among you shall be your servant. 12 For whoever exalts himself will be humbled, and whoever humbles himself will be exalted."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After answering the leaders' questions, Jesus speaks to the crowds and His disciples about the scribes and Pharisees. They occupy Moses' seat, a position associated with teaching his law. Jesus tells His hearers to practice what they are taught while refusing the example of teachers whose actions contradict their words.",
+    "",
+    "He describes burdens placed on others without help, religious deeds performed for attention, and a love of honored seats, greetings, and titles. The phylacteries were small cases containing passages of Scripture, worn on the forehead and arm; [Thayer's entry](https://biblehub.com/greek/5440.htm) explains that practice. Tassels reminded Israel to remember and obey God's commands ([Numbers 15:37–41](https://biblehub.com/bsb/numbers/15.htm)). Here the widening and lengthening make the outward signs more noticeable.",
+    "",
+    "Jesus turns to His disciples and places their relationships under one Teacher, one Father, and one Instructor, the Christ. They are brothers, and greatness among them takes the form of service. His warning reaches beyond whether people admire a leader: it asks what the leader seeks and how the people are treated."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as a warning against hypocrisy, pride, and spiritual domination. In his [Angelus of November 5, 2017](https://www.vatican.va/content/francesco/en/angelus/2017/documents/papa-francesco_angelus_20171105.html), Pope Francis applies it to Christian leaders: teaching must be matched by example, and authority must serve rather than oppress.",
+    "",
+    "Readers differ over the use of religious titles. [Wesley on 23:8–10](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) understands Jesus to forbid giving teachers the unquestioning reverence that belongs to God. Some Christians therefore avoid titles that place a leader above other believers. The Catholic Church describes priests as spiritual fathers who care for the faithful in [Lumen Gentium, 28](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html). Its explanation in [Call No Man Father](https://www.catholic.com/tract/call-no-man-father), a tract approved for publication by a Catholic bishop, permits calling a priest father as a recognition of spiritual care. It points to Paul's description of becoming the Corinthians' father through the gospel in [1 Corinthians 4:14–17](https://biblehub.com/bsb/1_corinthians/4.htm), while maintaining God's unique fatherhood. These readings differ over which uses of a title express the superiority Jesus rejects."
+  ],
+  "god_plan_lines": [
+    "The warning continues a long concern for God's flock. [Ezekiel 34:1–16](https://biblehub.com/bsb/ezekiel/34.htm) condemns shepherds who feed themselves while neglecting the weak, then promises that God will seek and care for His sheep. In [John 10:11–18](https://biblehub.com/bsb/john/10.htm), Jesus identifies Himself as the good shepherd who gives His life for them. The contrast helps place humble leadership within God's care for His people.",
+    "",
+    "[1 Peter 5:1–6](https://biblehub.com/bsb/1_peter/5.htm) carries that pattern into the church: elders care for God's flock through example, willingly and without greed or domination, under the Chief Shepherd. [Philippians 2:3–11](https://biblehub.com/bsb/philippians/2.htm) grounds humility in Christ's own service, obedience, and exaltation. He forms a people whose leaders reflect the care He has shown them."
+  ],
+  "current_position_lines": [
+    "Our existing study, [Who Shepherds the Church?](https://the-way-of-scripture.web.app/studies/who-shepherds-the-church.html), argues for qualified elders serving among believers, with leadership recognized by character, teaching, and care rather than a title that raises someone into a separate class. It also emphasizes that rejecting a titled hierarchy does not mean rejecting responsible, qualified teaching. That developed conclusion supplies our position on the leadership question raised here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/23.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-three-review.md",
+    "position_source_detail": "Who Shepherds the Church?, Titles or Roles? and The Honest Dilemma sections. Developed conclusion on titles, qualified teaching, and serving among believers; no claim that study explicitly exegetes Matthew23 or authorizes every leadership inference."
+  }
+}

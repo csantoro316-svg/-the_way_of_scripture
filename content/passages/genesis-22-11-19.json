@@ -10,32 +10,51 @@
     {
       "label": "BSB",
       "paragraphs": [
-        "11 Just then the angel of the LORD called out to him from heaven, \u201cAbraham, Abraham!\u201d",
-        "\u201cHere I am,\u201d he replied.",
-        "12 \u201cDo not lay a hand on the boy or do anything to him,\u201d said the angel, \u201cfor now I know that you fear God, since you have not withheld your only son from me.\u201d",
-        "13 Then Abraham looked up and saw behind him a ram in a thicket, caught by its horns. So he went and took the ram and offered it as a burnt offering in place of his son. 14 And Abraham called that place The LORD Will Provide. So to this day it is said, \u201cOn the mountain of the LORD it will be provided.\u201d",
-        "15 And the angel of the LORD called to Abraham from heaven a second time, 16 saying, \u201cBy Myself I have sworn, declares the LORD, that because you have done this and have not withheld your only son, 17 I will surely bless you, and I will multiply your descendants like the stars in the sky and the sand on the seashore. Your descendants will possess the gates of their enemies. 18 And through your offspring all nations of the earth will be blessed, because you have obeyed My voice.\u201d",
+        "11 Just then the angel of the LORD called out to him from heaven, “Abraham, Abraham!”",
+        "“Here I am,” he replied.",
+        "12 “Do not lay a hand on the boy or do anything to him,” said the angel, “for now I know that you fear God, since you have not withheld your only son from me.”",
+        "13 Then Abraham looked up and saw behind him a ram in a thicket, caught by its horns. So he went and took the ram and offered it as a burnt offering in place of his son. 14 And Abraham called that place The LORD Will Provide. So to this day it is said, “On the mountain of the LORD it will be provided.”",
+        "15 And the angel of the LORD called to Abraham from heaven a second time, 16 saying, “By Myself I have sworn, declares the LORD, that because you have done this and have not withheld your only son, 17 I will surely bless you, and I will multiply your descendants like the stars in the sky and the sand on the seashore. Your descendants will possess the gates of their enemies. 18 And through your offspring all nations of the earth will be blessed, because you have obeyed My voice.”",
         "19 Abraham went back to his servants, and they got up and set out together for Beersheba. And Abraham settled in Beersheba."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 22**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "The call from heaven interrupts Abraham at the moment he is about to kill Isaac. He is told to stop and do nothing to harm the boy. His willingness to surrender the son he loves has demonstrated his fear of God. The story ends with the test answered, rather than with the child's death.",
+    "",
+    "Abraham sees a ram caught by its horns and offers it in Isaac's place. This is a genuine exchange within the account: the animal dies and Isaac lives. Abraham names the place The LORD Will Provide. The verb behind provide is רָאָה, *rāʾâ* (rah-AH), ordinarily see; [Brown–Driver–Briggs](https://biblehub.com/hebrew/7200.htm) includes provide or furnish as its sense in Genesis 22:8. God has seen to the needed offering.",
+    "",
+    "The angel then calls again and declares the LORD's oath. The promises of many descendants and blessing for the nations are confirmed after Abraham's obedience. The wording also raises the question of who is speaking: the angel speaks of Abraham not withholding his son from him, and then delivers the LORD's oath. Abraham returns to the servants and settles in Beersheba."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The LORD Provides the Sacrifice** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "Christians commonly see God's rescue of Isaac and provision of an offering as the resolution of Abraham's test. [Wesley's notes on Genesis 22:12–14](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) emphasize both the demonstrated trust and the LORD's provision.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 22** remains the first control on meaning."
+    "Christians differ over the angel's identity. [Wesley, on Genesis 22:11, 15](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/), identifies Him as the eternal Son; [Augustine, On the Trinity 3.11.25](https://www.newadvent.org/fathers/130103.htm), understands God to be speaking through an angelic messenger. These are readings offered by Christian teachers, rather than a rule that every member of their respective traditions must interpret this scene in the same way."
   ],
   "current_position_lines": [
-    "This site's current position is that the speaker in this passage is not a mere created messenger reporting God's words. The Angel of the LORD speaks in the first person as the one to whom Isaac would have been offered, and then says, **\"By Myself I have sworn, declares the LORD.\"**",
-    "",
-    "The passage therefore fits the larger pattern argued in the Angel of the LORD study: the Angel appears, speaks as God, and is treated by the text as identical with the LORD rather than separate from Him."
+    "Our study Who is The Angel of the Lord? understands the angel here as the Son of God before His human birth. It points to His speaking as the One from whom Abraham has not withheld his son, followed by the LORD's oath in the first person. This is the study's conclusion about the speaker's identity."
   ],
   "deeper_study": [
     {
       "title": "Who is The Angel of the Lord?",
       "href": "../studies/angel-of-the-lord.html"
     }
-  ]
+  ],
+  "god_plan_lines": [
+    "[Hebrews 6:13–20](https://biblehub.com/bsb/hebrews/6.htm) explicitly takes up this oath. God swears by Himself because there is no greater authority, giving the heirs of His promise strong grounds for hope. Hebrews leads from that assurance to Jesus in God's presence as our high priest. It does not say that the oath requires God to die if He breaks it; its point is that God cannot lie.",
+    "",
+    "The ram's death in Isaac's place also offers a meaningful parallel to God's provision of Christ. [John 1:29](https://biblehub.com/bsb/john/1.htm) identifies Jesus as the Lamb of God who takes away the world's sin. John does not directly quote this scene, and the animal here is a ram, but the comparison is clear: the needed offering comes through God's provision, and another life is given so that the threatened person may live."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/22.htm",
+    "plan_basis": [
+      "a",
+      "b"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-moriah-and-rebekah-review.md",
+    "position_source_detail": "Who is The Angel of the Lord? — Genesis 22:11–18"
+  }
 }

@@ -5,24 +5,50 @@
     "label": "Exodus 25:17-22",
     "slug": "exodus-25-17-22"
   },
-  "section_title": "The Mercy Seat",
+  "section_title": "What was the mercy seat, and why did it matter?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
         "17 And you are to construct a mercy seat of pure gold, two and a half cubits long and a cubit and a half wide. 18 Make two cherubim of hammered gold at the ends of the mercy seat, 19 one cherub on one end and one on the other, all made from one piece of gold. 20 And the cherubim are to have wings that spread upward, overshadowing the mercy seat. The cherubim are to face each other, looking toward the mercy seat.",
-        "21 Set the mercy seat atop the ark, and put the Testimony that I will give you into the ark.",
-        "22 And I will meet with you there above the mercy seat, between the two cherubim that are over the ark of the Testimony; I will speak with you about all that I command you regarding the Israelites."
+        "21 Set the mercy seat atop the ark and put the Testimony that I will give you into the ark. 22 And I will meet with you there above the mercy seat, between the two cherubim that are over the ark of the Testimony; I will speak with you about all that I command you regarding the Israelites."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 25**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "The mercy seat is the pure-gold covering set above the ark, matching its length and width. Two gold cherubim are made as part of it, facing one another with their faces turned toward it and their wings spread above it. The covenant Testimony is placed inside the ark beneath it.",
+    "",
+    "God promises to meet Moses there and speak from above the mercy seat, between the cherubim. The place is associated with His presence, His commands and the covenant relationship. The later instructions in [Leviticus 16:11–17](https://biblehub.com/bsb/leviticus/16.htm) add its role on the Day of Atonement, when the high priest brings incense and sacrificial blood into the Most Holy Place."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Mercy Seat** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 25** remains the first control on meaning."
+    "Christian commentators commonly connect the mercy seat with Christ’s work of atonement—His dealing with sin so that people can be brought near to God. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) and [Calvin](https://biblehub.com/commentaries/calvin/exodus/25.htm) both make that connection. They understand the covenant testimony and its covering together: the God whose law exposes sin also provides the way for mercy. The cherubim attend His presence; this paragraph does not give a ranking of heavenly beings."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[Hebrews 9:5–14](https://biblehub.com/bsb/hebrews/9.htm) names the mercy seat and then explains the greater cleansing accomplished through Christ’s own blood. The connection is also reflected in the Greek word ἱλαστήριον, *hilasterion* (hee-lahs-TAY-ree-on). [Thayer’s lexicon](https://biblehub.com/greek/2435.htm) explains its use for the ark’s atonement covering in Hebrews 9:5 and for the place or means of atonement in [Romans 3:25](https://biblehub.com/bsb/romans/3.htm). The BSB renders the latter as Christ being presented as an atoning sacrifice. The word connection helps explain why Christian readers see this furnishing pointing toward His saving work.",
+    "",
+    "[1 John 4:7–12](https://biblehub.com/bsb/1_john/4.htm) adds the purpose behind that provision: God’s love is shown in sending His Son as the atoning sacrifice for our sins, and those who receive that love are called to love one another. Atonement begins with God’s loving action and leads to a people who reflect His love."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/25.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-twenty-five-review.md"
+  }
 }

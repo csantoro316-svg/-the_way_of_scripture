@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "James",
+    "citation": "2:14-17",
+    "label": "James 2:14-17",
+    "slug": "james-2-14-17"
+  },
+  "section_title": "What good is a claim to faith that leaves a neighbor hungry?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 What good is it, my brothers, if someone claims to have faith, but has no deeds? Can such faith save him? 15 Suppose a brother or sister is without clothes and daily food. 16 If one of you tells him, “Go in peace; stay warm and well fed,” but does not provide for his physical needs, what good is that? 17 So too, faith by itself, if it does not result in action, is dead."
+      ]
+    }
+  ],
+  "context_lines": [
+    "James moves from mercy to a concrete claim: someone says he has faith but has no deeds. He asks whether such faith can save. The example makes the problem visible: a brother or sister lacks food and clothing, but receives only reassuring words.",
+    "",
+    "The failure is not a shortage of religious language. The person’s physical need remains unmet. James compares that useless response with faith left by itself, producing no action.",
+    "",
+    "The word translated save can refer to [rescue from danger or to salvation in Christ](https://biblehub.com/greek/4982.htm). Its range does not by itself decide the question here. That is one reason readers must consider James’ whole discussion, including the examples that follow."
+  ],
+  "common_interpretation_lines": [
+    "The major readings agree that words of concern do not replace helping a person in need. They differ over what James’ description of dead faith means for salvation.",
+    "",
+    "The Reformed [Westminster Confession, 11.1–2](https://www.opc.org/wcf.html), and the [1689 Baptist Confession, 11.1–2](https://www.the1689confession.com/1689/chapter-11), teach that God accepts people as righteous through faith in Christ alone, while that faith is never left without love and other signs of new life. [Calvin](https://biblehub.com/commentaries/calvin/james/2.htm) reads James as exposing an empty claim to faith. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-general-epistle-of-st-james/) likewise distinguishes living faith from a claim that never becomes active love.",
+    "",
+    "The Catholic Church teaches that saving faith belongs with hope and love. The [Council of Trent, session 6, chapters 7–8](https://www.papalencyclicals.net/councils/trent/sixth-session.htm), explicitly uses James’ description of dead faith, while also teaching that nothing preceding a person’s justification earns that initial grace. Its view is not that unaided good deeds can purchase salvation.",
+    "",
+    "A different reading appears among Free Grace interpreters. [Keith Pesce](https://faithalone.org/grace-in-focus-articles/saved-from-what/), writing for the Grace Evangelical Society, understands the warning as concerning believers’ rescue from deadly consequences in this life, rather than whether their faith brings eternal life. On his reading, genuine believers can have faith that remains unproductive. This is a distinct interpretation, rather than the shared conclusion of the traditions above."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 2:8–10](https://biblehub.com/bsb/ephesians/2.htm) places God’s saving gift and a life of good works together: His people are created in Christ for such a life. [Galatians 5:6, 13–15](https://biblehub.com/bsb/galatians/5.htm) likewise joins faith, freedom and loving service. These passages supply a wider setting for James’ hungry neighbor: the saving work of Christ has a purpose that reaches into the treatment of other people."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/james/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-james-two-review.md"
+  }
+}

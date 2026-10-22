@@ -5,20 +5,53 @@
     "label": "Hebrews 11:6",
     "slug": "hebrews-11-6"
   },
+  "section_title": "What does it mean to seek God in faith?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"And without faith it is impossible to please Him, for he who comes to God must believe that He is and that He is a rewarder of those who seek Him.\""
+      "label": "BSB",
+      "paragraphs": [
+        "6 And without faith it is impossible to please God. For anyone who approaches Him must believe that He exists and that He rewards those who earnestly seek Him."
+      ]
     }
   ],
   "context_lines": [
-    "In **Hebrews 11**, the writer surveys the saints of old to show what faith looks like in action across redemptive history. The chapter's point is not vague optimism but steadfast trust in God and in realities not yet seen."
+    "This verse explains why Enoch’s life pleased God and states a principle that runs through the chapter. Anyone approaching God must believe that He exists and that He rewards those who earnestly seek Him.",
+    "",
+    "The word [translated earnestly seek](https://biblehub.com/greek/1567.htm) can describe seeking God and His favor. The verse joins belief with turning toward Him. It is more than a statement that God exists while He remains irrelevant to one’s life.",
+    "",
+    "The surrounding examples keep the promise from becoming a guarantee of immediate comfort. Abel pleased God and was killed; Enoch pleased God and escaped death. Later in the chapter, some receive deliverance and others endure suffering while still awaiting what God promised."
   ],
-  "explanation_lines": [
-    "These two accounts are not identical, and the difference is worth naming rather than smoothing over. The woman never spoke a word to Jesus. She reasoned within herself, reached out, and touched His garment \u2014 pure faith, with no request voiced at all. The blind man's case is different: Jesus directly asked him, \"What do you want Me to do for you?\" and he answered specifically, \"I want to regain my sight.\" Here a want was actually spoken aloud, in response to Christ's own question.",
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/11.htm), [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) and the [USCCB note](https://bible.usccb.org/bible/hebrews/11) connect the verse with approaching the real God in trust, rather than treating belief as a detached opinion. Calvin stresses confidence in God’s goodness; Wesley explicitly applies the approach to prayer and worship. The shared emphasis is that seeking Him matters and is not empty."
+  ],
+  "god_plan_lines": [
+    "In [Luke 18:1–8](https://biblehub.com/bsb/luke/18.htm), Jesus teaches continued prayer, speaks of God bringing justice and asks whether the Son of Man will find faith when He comes. Trust in God and waiting for His action belong together.",
     "",
-    "But notice what Jesus does not say in either case. He does not say \"because you asked correctly\" or \"because you asked at all.\" In both accounts \u2014 the one where nothing was asked, and the one where Jesus Himself drew out the request \u2014 His verdict is the same: \"your faith has made you well.\" The presence or absence of a spoken request changes nothing about what Jesus credits. Faith is what He names both times. This is consistent with Hebrews 11:6 \u2014 what pleases God is seeking Him, not the words used in seeking Him.",
-    "",
-    "If faith, not the wording of a request, is what Scripture credits, a natural question follows: is it ever right to ask God for something specific? Scripture's answer is yes \u2014 but the examples that follow show plainly that what governs whether such a prayer is rightly aimed is not whether an outcome was named, but what that outcome served."
-  ]
+    "[Hebrews 11:35–40](https://biblehub.com/bsb/hebrews/11.htm) shows why that waiting matters: some faithful people suffered and died without receiving the final promise in their lifetime. God’s response reaches beyond present circumstances into the completion He has prepared for His people."
+  ],
+  "current_position_lines": [
+    "Our study [Prayer and Faith](https://thewayofscripture.com/studies/prayer-and-faith.html) connects this verse with trusting and seeking God rather than finding the right wording for a request. It draws on Jesus crediting faith when people came to Him in different ways. Prayer is an expression of that trust, rather than a technique whose wording controls God’s response."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/11.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-eleven-opening-review.md",
+    "position_source_detail": "Prayer and Faith — content/studies/prayer_and_faith.md:141–155, explicit retained Hebrews11:6; Gospel examples not used as a universal guaranteed-healing rule."
+  }
 }

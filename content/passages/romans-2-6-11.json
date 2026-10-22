@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "2:6-11",
+    "label": "Romans 2:6-11",
+    "slug": "romans-2-6-11"
+  },
+  "section_title": "What does God look at when He judges?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 God “will repay each one according to his deeds.” 7 To those who by perseverance in doing good seek glory, honor, and immortality, He will give eternal life. 8 But for those who are self-seeking and who reject the truth and follow wickedness, there will be wrath and anger.",
+        "9 There will be trouble and distress for every human being who does evil, first for the Jew, then for the Greek; 10 but glory, honor, and peace for everyone who does good, first for the Jew, then for the Greek. 11 For God does not show favoritism."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul states that God will repay each person according to their deeds. He contrasts perseverance in doing good, seeking glory, honor and immortality, with self-seeking, refusal of truth and the pursuit of wickedness. The outcomes are eternal life on one side and wrath, trouble and distress on the other.",
+    "",
+    "The same pattern applies to Jew and Greek. Being first in receiving God’s message does not create immunity from His judgment, and being a Gentile does not make someone unworthy of the good He gives. God does not show favoritism.",
+    "",
+    "These verses must be read alongside the letter’s account of sin and grace. Paul will say that all have sinned and that people are justified freely through Christ in [Romans 3:21–24](https://biblehub.com/bsb/romans/3.htm). Christians differ over how to explain the relationship between that gift and the judgment according to deeds described here."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the passage to affirm a real judgment that takes people’s lives seriously, without favoring a religious name or ancestry. Where traditions differ is in how they describe good works in relation to grace and eternal life.",
+    "",
+    "The Reformed [Westminster Confession 16.2–6](https://www.opc.org/wcf.html) describes good works as the fruit and evidence of living faith, enabled by the Spirit. They cannot earn forgiveness or eternal life, yet God accepts and rewards them through Christ. [Calvin on verses 6–7](https://biblehub.com/commentaries/calvin/romans/2.htm) reads Paul’s promised reward in that setting of grace, rather than treating the works as a payment God owes.",
+    "",
+    "The Catholic Church teaches that no one can earn the initial grace of forgiveness and justification. It also teaches that works made possible by grace and love have a real part in growth toward eternal life. The [Catechism, paragraphs 2007–2011](https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_three/article_2/iii_merit.html), places God’s initiative first and describes the believer’s good actions as gifts of His grace.",
+    "",
+    "The Methodist [Articles IX–X](https://www.umc.org/en/content/articles-of-religion) distinguish being counted righteous through faith because of Christ from good works that follow as the fruit of faith. Those works cannot remove sin, but they are pleasing to God. None of these documents describes unaided human effort as the source of salvation, though they differ over how acceptance, renewal and reward fit together."
+  ],
+  "god_plan_lines": [
+    "Paul draws the language of repayment from [Psalm 62:11–12](https://biblehub.com/bsb/psalms/62.htm), where God’s power and loving devotion stand beside His judgment according to deeds. Judgment and faithful love belong to the same God.",
+    "",
+    "[Deuteronomy 10:17–19](https://biblehub.com/bsb/deuteronomy/10.htm) likewise describes God as showing no partiality and accepting no bribe, then speaks of His justice for the fatherless and widow and His love for the foreigner. Paul’s insistence on an impartial judgment continues that scriptural account of God’s character; it is not a new standard invented for Gentiles."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-two-review.md"
+  }
+}

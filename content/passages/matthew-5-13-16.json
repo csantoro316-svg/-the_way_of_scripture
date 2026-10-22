@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "5:13-16",
+    "label": "Matthew 5:13-16",
+    "slug": "matthew-5-13-16"
+  },
+  "section_title": "Salt and Light",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 You are the salt of the earth. But if the salt loses its savor, how can it be made salty again? It is no longer good for anything, except to be thrown out and trampled by men.",
+        "14 You are the light of the world. A city on a hill cannot be hidden. 15 Neither do people light a lamp and put it under a basket. Instead, they set it on a stand, and it gives light to everyone in the house. 16 In the same way, let your light shine before men, that they may see your good deeds and glorify your Father in heaven."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus now tells the people described in the blessings how their lives should matter to others. They are the salt of the earth and the light of the world. The words follow His warning that faithfulness may bring persecution. His disciples still have a useful and visible place among the people around them.",
+    "",
+    "Salt's flavor and usefulness give force to the warning about losing its savor. It was also used to preserve food: [the Roman writer Cato's On Agriculture, section 162](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cato/De_Agricultura/L%2A.html), gives an ancient example of curing meat with salt. That wider ancient use helps explain a preserving comparison, alongside the plain idea of flavor.",
+    "",
+    "The verb for losing savor is μωραίνω, *mōrainō* (moh-RAI-noh). [Thayer's Greek Lexicon](https://biblehub.com/greek/3471.htm) explains its salt usage as becoming tasteless or losing strength and flavor. The picture warns about failing to serve the purpose for which the salt is useful.",
+    "",
+    "The light pictures make that purpose visible. A city on a hill can be seen, and a lamp belongs on a stand where it gives light to the house. Jesus explains the comparison in verse 16: people should see the disciples' good deeds and give glory to their Father. The attention is meant to reach God through the good their lives bring to others."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand salt and light as a call for Jesus' people to bring good to the world through a visible, faithful life. [Wesley on Matthew 5:13–16](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) applies the words to all who live this way, and the [Second Vatican Council's teaching on Christian witness, paragraph 31](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), likewise describes ordinary life and work as places to make Christ known."
+  ],
+  "god_plan_lines": [
+    "The light theme belongs to God's purpose of reaching the nations. [Isaiah 49:6](https://biblehub.com/bsb/isaiah/49.htm) speaks of the servant as light bringing salvation to the ends of the earth. In [Acts 13:46–48](https://biblehub.com/bsb/acts/13.htm), Paul and Barnabas apply these words about light for the nations to their work. Jesus' disciples participate in the outward witness of God's saving purpose.",
+    "",
+    "The connection between visible deeds and God's glory appears again in [1 Peter 2:9–12](https://biblehub.com/bsb/1_peter/2.htm). People brought out of darkness are to live honorably so that others see their good deeds and glorify God, even when they face slander. That is a close parallel with the movement here from persecution to a faithful life before the world.",
+    "",
+    "[Ephesians 2:8–10](https://biblehub.com/bsb/ephesians/2.htm) also holds grace and good works together: salvation is God's gift, and those made new in Christ are prepared to walk in good works. The visible life is part of what His rescue produces."
+  ],
+  "current_position_lines": [
+    "Our study The Gospel According to Jesus reads the Sermon on the Mount as the character of the King becoming visible in His people. It understands the changed life as growing out of received grace, rather than a way to earn the kingdom. That is the study's framework for the good deeds Jesus calls for here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/5.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "position_source_detail": "The Gospel According to Jesus — The Fullness, every word of the Sermon as the character of the King and grace-shaped life",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-salt-and-fulfillment-review.md"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "11:10-13",
+    "label": "Daniel 11:10-13",
+    "slug": "daniel-11-10-13"
+  },
+  "section_title": "How long does the southern king’s victory last?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 But his sons will stir up strife and assemble a great army, which will advance forcefully, sweeping through like a flood, and will again carry the battle as far as his fortress. 11 In a rage, the king of the South will march out to fight the king of the North, who will raise a large army, but it will be delivered into the hand of his enemy. 12 When the army is carried off, the king of the South will be proud in heart and will cast down tens of thousands, but he will not triumph. 13 For the king of the North will raise another army, larger than the first, and after some years he will advance with a great army and many supplies."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The northern king’s sons gather forces and renew the conflict. One advances forcefully, prompting the king of the South to fight back.",
+    "",
+    "The South wins a great victory and the king becomes proud. Yet the victory does not secure a lasting triumph. After some years, the North returns with a larger army and more supplies.",
+    "",
+    "The passage follows successive reversals. Numbers, confidence and a moment of military success do not give either kingdom lasting control. The people in the path of these campaigns continue to face the consequences of their rulers’ rivalry."
+  ],
+  "common_interpretation_lines": [
+    "The [USCCB notes](https://bible.usccb.org/bible/daniel/11) connect these campaigns with the battles of Raphia and Paneas. [Henry](https://biblehub.com/commentaries/mhc/daniel/11.htm) emphasizes the fragile and changing nature of worldly power throughout this part of the chapter."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/11.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-eleven-review.md"
+  }
+}

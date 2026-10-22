@@ -1,0 +1,6 @@
+# Acts 13:1–12 published
+
+
+Fifty-eight reviewed pages cover 450 actual BSB verses continuously through Acts 13:12: 58 plans, 22 existing-study positions, 36 open positions. There are 73 Acts source pages and 15 unreviewed legacy references. Three fresh BSB checks and eight tests passed; zero errors and 299 known warnings. Mobile reader/standalone, actual Next, source/index/preservation/navigation/coverage and idempotence passed. Hosting dry run and actual deployment exited successfully; seven affected live files match local bytes.
+
+Whole baseline PDF read through 186, covering all Acts13 including its final verses in Acts14 lesson183–186. Whole WesleyXIII now read. BSB13:14–52 still needs actual reading. Closing planned groups13–25/26–41/42–52/legacy43. No closing draft. Need actualCalvin39/48, primary WCF3/11 and Catholic1992/445 as relevant, Thayer4576 for Worship13:43 and5021 for appointed if used, Psalm2/16/Isa55/Hab1/Isa49 connections. Baseline election interpretation is one reading, not consensus; Wesley48 emphasizes present gracious enabling and rejects reading eternal preordination into this verse. No all Jews permanently rejected or unsupported gendered wife/husband explanation13:50. Chronology450years placement/manuscripts must be checked against actual BSB. Telegram normal mode; continue without stopping.

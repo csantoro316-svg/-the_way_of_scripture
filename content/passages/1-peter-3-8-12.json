@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "1 Peter",
+    "citation": "3:8-12",
+    "label": "1 Peter 3:8-12",
+    "slug": "1-peter-3-8-12"
+  },
+  "section_title": "How do God’s people respond to hurt with good?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "8 Finally, all of you, be like-minded and sympathetic, love as brothers, be tenderhearted and humble. 9 Do not repay evil with evil or insult with insult, but with blessing, because to this you were called so that you may inherit a blessing.",
+        "10 For, “Whoever would love life and see good days must keep his tongue from evil and his lips from deceitful speech. 11 He must turn from evil and do good; he must seek peace and pursue it. 12 For the eyes of the Lord are on the righteous, and His ears are inclined to their prayer. But the face of the Lord is against those who do evil.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Peter widens the address from particular household relationships to all the readers. Shared purpose, sympathy, family love, tenderness and humility are to characterize their life together.",
+    "",
+    "The [word for sympathetic](https://biblehub.com/greek/4835.htm) carries the idea of sharing another person’s feelings or suffering. These believers are to care about what others endure, rather than looking only at their own circumstances.",
+    "",
+    "Their response to evil and insult is to give a blessing. Peter grounds the appeal in [Psalm 34:12–16](https://biblehub.com/bsb/psalms/34.htm): guard the tongue, turn from evil, do good and actively pursue peace. The Lord watches over the righteous and hears their prayer, while opposing evil."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/1_peter/3.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-epistle-general-of-st-peter/) read the passage as a call to compassionate life together and a refusal to repay hostility in kind. Calvin includes praying for those who insult them; Wesley connects their blessing of others with the blessing God gives them.",
+    "",
+    "The promise is read alongside the letter’s repeated acknowledgment of unjust suffering. Peter’s next paragraph expressly allows that people may suffer for doing right. These verses do not describe a life in which faithful people never encounter harm."
+  ],
+  "god_plan_lines": [
+    "[Romans 5:6–11](https://biblehub.com/bsb/romans/5.htm) shows God giving His love through Christ while people were still sinners and enemies. Peter’s call to bless those who mistreat them fits that pattern: received mercy shapes the way they treat others.",
+    "",
+    "Jesus likewise calls His followers to love enemies and pray for persecutors in [Matthew 5:43–48](https://biblehub.com/bsb/matthew/5.htm), reflecting their Father’s goodness. The blessing they have received is to become visible in the good they offer."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_peter/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-peter-three-opening-review.md"
+  }
+}

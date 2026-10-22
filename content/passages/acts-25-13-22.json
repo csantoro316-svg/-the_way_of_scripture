@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "25:13-22",
+    "label": "Acts 25:13-22",
+    "slug": "acts-25-13-22"
+  },
+  "section_title": "Why does Festus bring Paul’s case to Agrippa?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 After several days had passed, King Agrippa and Bernice came down to Caesarea to pay their respects to Festus. 14 Since they were staying several days, Festus laid out Paul’s case before the king: “There is a certain man whom Felix left in prison. 15 While I was in Jerusalem, the chief priests and elders of the Jews presented their case and requested a judgment against him. 16 I told them that it is not the Roman custom to hand a man over before he has had an opportunity to face his accusers and defend himself against their charges. 17 So when they came here with me, I did not delay. The next day I sat on the judgment seat and ordered that the man be brought in. 18 But when his accusers rose to speak, they did not charge him with any of the crimes I had expected.",
+        "19 They only had some contentions with him regarding their own religion and a certain Jesus who had died, but whom Paul affirmed to be alive. 20 Since I was at a loss as to how to investigate these matters, I asked if he was willing to go to Jerusalem and be tried there on these charges. 21 But when Paul appealed to be held over for the decision of the Emperor, I ordered that he be held until I could send him to Caesar.” 22 Then Agrippa said to Festus, “I would like to hear this man myself.” “Tomorrow you will hear him,” Festus declared."
+      ]
+    }
+  ],
+  "context_lines": [
+    "King Agrippa and Bernice come to Caesarea to pay their respects to Festus. During their stay, he explains the unresolved case inherited from Felix. He recounts the request for judgment against Paul and his own insistence that an accused person face the accusers and have an opportunity to answer.",
+    "",
+    "Festus says the charges were different from the crimes he expected. He summarizes the dispute as questions about religion and about Jesus, who had died but whom Paul affirmed to be alive. This is his report of the issue, not Luke’s attempt to reduce the resurrection to an unimportant curiosity.",
+    "",
+    "He also describes asking whether Paul would go to Jerusalem and Paul’s appeal to the Emperor. His retelling stresses uncertainty about investigating the matters; the earlier narrative in verse 9 also told us he wished to do the accusers a favor. Reading both together gives a fuller view of his proposed change of venue.",
+    "",
+    "Agrippa asks to hear Paul himself, and Festus arranges it for the next day. The meeting prepares another audience for the testimony, while the accepted appeal remains in place. Luke does not describe a new conviction or a settled charge at this point."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly notice that even Festus’s brief summary identifies the central Christian claim: Jesus died and is alive. His uncertainty about how to handle the case does not settle that claim. The following hearing gives Paul space to explain what it means and why he testifies to it."
+  ],
+  "god_plan_lines": [
+    "[1 Corinthians 15:12–23](https://biblehub.com/bsb/1_corinthians/15.htm) explains the weight of the issue Festus names. If Christ were not raised, Paul’s preaching and the believers’ faith would be empty; because He is raised, those who belong to Him have hope beyond death. The question about Jesus is at the heart of the witness being carried through these proceedings.",
+    "",
+    "The mission is therefore reaching people who initially see a religious dispute or an administrative problem. They are being brought into contact with the announcement of the risen Lord, whose significance is greater than the immediate dispute over the prisoner."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/25.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twenty-five-review.md"
+  }
+}

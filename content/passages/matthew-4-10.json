@@ -5,18 +5,46 @@
     "label": "Matthew 4:10",
     "slug": "matthew-4-10"
   },
+  "section_title": "Allegiance and Service to God",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"Then Jesus said to him, 'Go, Satan! For it is written, \"You shall worship the Lord your God, and serve Him only.\"'\""
+      "label": "BSB",
+      "paragraphs": [
+        "10 “Away from Me, Satan!” Jesus told him. “For it is written: ‘Worship the Lord your God and serve Him only.’”"
+      ]
     }
   ],
   "context_lines": [
-    "Matthew 4:10 should be read within the flow of its chapter and the larger argument of Matthew."
-  ],
-  "explanation_lines": [
-    "The second obligation: **bow in allegiance** (*proskune\u014d*) and **serve** (*latreu\u014d*) God alone.",
+    "Jesus gives this answer after the devil offers Him the kingdoms of the world in exchange for worship. The refusal directs allegiance and service to God alone. It draws on [Deuteronomy 6:13–14](https://biblehub.com/bsb/deuteronomy/6.htm), where Israel is warned against following the gods of surrounding peoples.",
     "",
-    "With Jesus, everything changes. The first obligation \u2014 the geographic gathering at a sacred location \u2014 is explicitly abolished (John 4:21: *\"neither in this mountain nor in Jerusalem\"*). The appointed place is no more. The second obligation \u2014 the orientation of the whole life toward God in allegiance and service \u2014 is not abolished but deepened and expanded beyond anything the old covenant contained. The believer now bears in their own body the presence that once required a journey to Jerusalem."
-  ]
+    "The command brings Matthew's three temptation scenes to their conclusion. In the next verse the devil leaves Jesus and angels minister to Him. The answer is an act of faithfulness within that encounter, not an isolated slogan about worship."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Jesus' answer as rejecting idolatry and affirming exclusive devotion to God. [Wesley's Matthew 4:9–10 notes](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) and the [Catholic Catechism, paragraph 540](https://www.vatican.va/archive/ENG0015/__P1L.HTM), place this refusal within His obedience to the Father."
+  ],
+  "god_plan_lines": [
+    "The kingdoms offered here contrast with the authority Jesus declares at the close of the Gospel. In [Matthew 28:18–20](https://biblehub.com/bsb/matthew/28.htm), the risen Jesus has authority in heaven and on earth and sends His disciples to all nations. This is a narrative contrast between the tempter's proposed allegiance and the mission Jesus receives after His faithful life, death, and resurrection.",
+    "",
+    "[Philippians 2:8–11](https://biblehub.com/bsb/philippians/2.htm) similarly connects Jesus' obedience through death with His exaltation and the acknowledgment of His lordship to the Father's glory. His path brings honor to the Father rather than surrender to the enemy."
+  ],
+  "current_position_lines": [
+    "Our study Worship as the Early Church Knew It understands the final temptation as a demand for allegiance. Bowing before Satan would acknowledge his authority; Jesus answers that worship and service belong to God alone. The study treats this as personal submission and obedience, rather than a description of a church service."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/4.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-wilderness-and-galilee-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It — Matthew 4:9–10, allegiance and exclusive service to God"
+  }
 }

@@ -1,0 +1,67 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "15:29-34",
+    "label": "1 Corinthians 15:29-34",
+    "slug": "1-corinthians-15-29-34"
+  },
+  "section_title": "How should resurrection hope shape what we do now?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "29 If these things are not so, what will those do who are baptized for the dead? If the dead are not raised at all, why are people baptized for them?",
+        "30 And why do we endanger ourselves every hour? 31 I face death every day, brothers, as surely as I boast about you in Christ Jesus our Lord. 32 If I fought wild beasts in Ephesus for human motives, what did I gain? If the dead are not raised, “Let us eat and drink, for tomorrow we die.” 33 Do not be deceived: “Bad company corrupts good character.” 34 Sober up as you ought, and stop sinning; for some of you are ignorant of God. I say this to your shame."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul continues testing the denial of resurrection against actual conduct. He first asks about people baptized for the dead. He does not explain the practice in enough detail to settle exactly what was happening, but his question makes its connection with resurrection hope clear.",
+    "",
+    "He then turns to his own repeated danger. Why face death for the gospel if death ends the hope it proclaims? His reference to fighting wild beasts at Ephesus is often understood as a picture of violent opposition; this sentence alone does not give a detailed account of an arena encounter.",
+    "",
+    "The saying about eating and drinking because tomorrow brings death comes from [Isaiah 22:13](https://biblehub.com/bsb/isaiah/22.htm). Paul voices the consequence of denying a future beyond death, rather than recommending that way of life.",
+    "",
+    "He closes with a warning about corrupting influences and a call to stop sinning and come to a proper knowledge of God. Resurrection is not a detached theory. What people accept as true can shape their choices, their perseverance and the counsel they give one another."
+  ],
+  "common_interpretation_lines": [
+    "The phrase baptized for the dead has several readings. The [USCCB note on verse 29](https://bible.usccb.org/bible/1corinthians/15) leaves the practice unexplained and cautions that Paul’s use of it does not necessarily mean he approves it. [Wesley’s note](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) suggests baptism in hope of blessings after death, or new believers taking the place of Christians who have died.",
+    "",
+    "The Church of Jesus Christ of Latter-day Saints gives the verse a different practical application. Its own [explanation of baptisms for the dead](https://www.churchofjesuschrist.org/study/manual/gospel-topics/baptisms-for-the-dead?lang=eng) teaches living people being baptized on behalf of the deceased, who remain free to accept or reject what is offered. That should not be represented as automatically making someone a member or saving them against their will.",
+    "",
+    "Identifying a possible ancient practice and endorsing a continuing religious practice are different questions. The clearer point in Paul’s surrounding discussion is that actions directed toward future life make little sense if resurrection itself is denied."
+  ],
+  "god_plan_lines": [
+    "[Romans 6:3–11](https://biblehub.com/bsb/romans/6.htm) explicitly connects baptism with Christ’s death and resurrection and with walking in newness of life. That connection does not by itself resolve the disputed phrase here, but it shows why resurrection hope belongs with present conduct.",
+    "",
+    "God’s saving purpose changes the life His people are called to live now. Hope beyond the grave supports faithful service and resistance to sin, rather than making everyday choices irrelevant."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/15.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-fifteen-closing-review.md"
+  }
+}

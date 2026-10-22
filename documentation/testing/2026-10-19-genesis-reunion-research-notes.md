@@ -1,0 +1,25 @@
+> Superseded for Genesis 44–45 by the completed `2026-10-19-genesis-reunion-and-mercy-review.md`; those six groups are now published. The notes below preserve the earlier research stage.
+
+# Unfinished research: Genesis 44–45
+
+2026-10-19 continuation notes. These are baseline screening notes only, not completed Scripture/source checks or publishable editorial. No chapter 44+ JSON drafts have been written. Last published group is Genesis 43:16–34 (118 total reviewed Genesis groups).
+
+## Baseline read coverage
+
+Lesson 44, combined PDF 844–853: teaching notes fully read. Lesson 45A, 854–858: teaching notes read through page 858 only. **Still unread: 859–863 (rest of 45A), 864–873 (45B).** Lesson 46 begins at 874.
+
+Next existing groups: 44:1–17; 44:18–34; 45:1–8; 45:9–15; 45:16–24; 45:25–28. Inspect sources/deeper links and developed site studies before determining positions. Preserve URLs. Research the actual BSB chapter text, primary commentary, and lexicons before writing; the notes below have not completed those checks.
+
+## Lesson 44 screening
+
+Useful observations to verify against text: silver cup secretly planted, returned money, divination claim, the brothers' rash death/slavery proposal, steward reducing penalty to cup-holder's enslavement and others free, cup found with Benjamin, all brothers returning rather than abandoning him, Judah confronting apparent guilt, Joseph offering to retain Benjamin alone, long speech concerning Jacob's sorrow and Judah's guarantee, Judah's offer of his own enslavement instead. Strong contrast with Judah's proposal to sell Joseph and earlier disregard of their father's grief. Potential plan connection: sacrificial substitution/intercession as an established Christ parallel, but verify in primary commentary and NT and distinguish Judah's local offer from Christ's atoning work. Hebrew justify/righteousness verb from 44:16 deserves actual lexicon check if used; baseline calls it tsadoq (not verified yet).
+
+Exclude/flag unless actually verified: all private thoughts of Joseph, exact three-test divine design, precise magical procedure with water/gold/silver and demon mechanics, certainty of Joseph's real practice versus role-playing (compare directly stated interpretations-belong-to-God earlier and primary commentators), death as automatic local legal penalty, all ancient Near Eastern accused entitled to choose binding test/punishment, legal rules allowing modifications, and unrecorded reactions of Benjamin/others. Actual narrative outcome is enough without reconstructing a legal code. PDF's same-afternoon reconstruction appears suspect because 44 begins with a morning departure; check BSB chronology rather than repeat. PDF also calls the sale fifteen years earlier, conflicting with its own earlier twenty-plus chronology and Genesis' ages. No detailed Sheol compartments from the word alone. Joseph not being a diviner is an interpretation to explain fairly, not a medical/historical certainty derived from the cup label. Avoid claiming narrator reports that God explicitly commanded Joseph's entire deception plan.
+
+## Lesson 45A, pages 854–858 only
+
+Useful observations to verify: Joseph no longer contains himself, sends attendants out, loud weeping, identity disclosed privately to brothers, their alarm, invitation to draw near, repeated identification as the brother sold into Egypt, assurance of God's sending ahead to preserve life, stated remaining five years, father/lord/ruler titles. Strong direct NT connection Acts 7:13 plus Joseph's later Genesis 50:20 and Psalm 105. Catholic Catechism 312 directly uses Joseph's evil-to-good explanation; actual source already checked in prior batch and cached. For differing providence accounts, check actual confessions and Wesley rather than adopt baseline's exclusive deterministic system.
+
+Potential lexical terms: restrain/control (baseline afaq), dismayed/alarmed (baseline bahal); verify standard lexicons before use. The PDF insists the father's-alive question is actually declarative and rewrites it; **do not change verified BSB based on that assertion**. Need direct Hebrew/primary lexical evidence if explaining any nuance. The fact Joseph has already heard of Jacob does not itself prove a question impossible.
+
+Unverified/unsupported in pages read: exact year-long testing, secret desires/thoughts, God's specifically sending family to Egypt because Judah's Canaanite marriage threatened genetics, the brothers' every private belief (including certainty they considered Joseph dead), exact physical appearance, ceremonial eye-contact prohibition, and reconstructed conversation. The source says God's Abraham promise explicitly described protection from their own sins; check Genesis 15 actual wording rather than adopt that paraphrase. Do not turn God's purpose in preserving life into endorsement of betrayal or a promise every believer's suffering has an identically revealed explanation. No claim of Joseph being more authoritative than Pharaoh: his own account and chapter 41 reserve Pharaoh's throne. Continue reading before final screening.

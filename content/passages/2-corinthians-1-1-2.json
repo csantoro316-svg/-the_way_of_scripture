@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "2 Corinthians",
+    "citation": "1:1-2",
+    "label": "2 Corinthians 1:1-2",
+    "slug": "2-corinthians-1-1-2"
+  },
+  "section_title": "Who is writing, and who belongs in this greeting?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother, To the church of God in Corinth, together with all the saints throughout Achaia: 2 Grace and peace to you from God our Father and the Lord Jesus Christ."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul identifies himself as an apostle of Christ Jesus by God’s will and names Timothy as his brother. The greeting places his work under Christ’s calling while presenting Timothy as a fellow believer alongside him.",
+    "",
+    "He addresses God’s church in Corinth and all the saints throughout Achaia, the surrounding region. Saints here are the believers he is addressing, not a small class singled out as unusually holy. The letter speaks to a local congregation within a wider family.",
+    "",
+    "Paul wishes them grace and peace from God the Father and the Lord Jesus Christ. The difficult matters that follow begin with this greeting of God’s favor and peace, rather than with a withdrawal of fellowship."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read these verses as Paul’s greeting to a congregation and the believers beyond it, grounding his apostleship in God’s will. [Wesley’s note on verse 1](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-the-corinthians/) draws attention to his calling Timothy a brother. The greeting introduces the relationship Paul will seek to strengthen throughout the letter."
+  ],
+  "god_plan_lines": [
+    "[Acts 18:1–11](https://biblehub.com/bsb/acts/18.htm) describes the beginning of Paul’s work in Corinth: he teaches that Jesus is the Christ, people believe, and the Lord encourages him to keep speaking. The congregation addressed here grew through that work.",
+    "",
+    "The greeting therefore belongs within the spread of the gospel and the formation of communities who belong to Christ. Their continued need for correction does not make them an abandoned project. This letter is part of caring for people after they first believe."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_corinthians/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-corinthians-one-opening-review.md"
+  }
+}

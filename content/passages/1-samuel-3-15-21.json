@@ -5,28 +5,61 @@
     "label": "1 Samuel 3:15-21",
     "slug": "1-samuel-3-15-21"
   },
-  "section_title": "Samuel Shares the Vision",
+  "section_title": "Will Samuel tell Eli the whole message?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "15 Samuel lay down until the morning; then he opened the doors of the house of the LORD. He was afraid to tell Eli the vision, 16 but Eli called to him and said, \u201cSamuel, my son.\u201d",
-        "\u201cHere I am,\u201d answered Samuel.",
-        "17 \u201cWhat was the message He gave you?\u201d Eli asked. \u201cDo not hide it from me. May God punish you, and ever so severely, if you hide from me anything He said to you.\u201d",
-        "18 So Samuel told him everything and did not hide a thing from him.",
-        "\u201cHe is the LORD,\u201d replied Eli. \u201cLet Him do what is good in His eyes.\u201d",
-        "19 And Samuel grew, and the LORD was with him, and He let none of Samuel\u2019s words fall to the ground.",
-        "20 So all Israel from Dan to Beersheba knew that Samuel was confirmed as a prophet of the LORD. 21 And the LORD continued to appear at Shiloh, because there He revealed Himself to Samuel by His word."
+        "15 Samuel lay down until the morning; then he opened the doors of the house of the LORD. He was afraid to tell Eli the vision, 16 but Eli called to him and said, “Samuel, my son.” “Here I am,” answered Samuel. 17 “What was the message He gave you?” Eli asked. “Do not hide it from me. May God punish you, and ever so severely, if you hide from me anything He said to you.” 18 So Samuel told him everything and did not hide a thing from him. “He is the LORD,” replied Eli. “Let Him do what is good in His eyes.”",
+        "19 And Samuel grew, and the LORD was with him, and He let none of Samuel’s words fall to the ground. 20 So all Israel from Dan to Beersheba knew that Samuel was confirmed as a prophet of the LORD. 21 And the LORD continued to appear at Shiloh, because there He revealed Himself to Samuel by His word."
       ]
     }
   ],
   "context_lines": [
-    "In **1 Samuel 3**, this section should be read within the flow of the chapter and the larger movement of 1 Samuel."
+    "By morning Samuel has received a message he is afraid to deliver. He opens the doors of the LORD’s house and continues his duties. When Eli calls, Samuel answers, and Eli presses him to leave nothing out. Samuel tells him the whole message, despite the pain it concerns.",
+    "",
+    "Eli acknowledges that the message comes from the LORD and places the outcome in His hands. The account records those words without describing every feeling behind them. His earlier failure to restrain his sons remains part of the reason for the judgment.",
+    "",
+    "The closing verses turn from this first encounter to Samuel’s growing recognition as a prophet. The LORD is with him and does not let his words fall to the ground: the messages entrusted to him prove reliable. Israel recognizes his calling, and the LORD continues to reveal Himself at Shiloh."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Samuel Shares the Vision** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/1_samuel/3.htm) reads Eli’s response as humble repentance and acceptance of a just sentence. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-samuel/) likewise sees submission to God’s rightful judgment, and [Gill](https://biblehub.com/commentaries/gill/1_samuel/3.htm) expressly rejects reading the reply as indifference to his family. These commentators find something faithful in Eli’s response even while recognizing the failure that brought the warning.",
     "",
-    "Where interpreters differ on details, the immediate setting in **1 Samuel 3** remains the first control on meaning."
+    "Other readers may hear resignation in the same brief reply. The narrator does not directly label Eli’s inward response as either repentance or indifference. His acknowledgment of the LORD and Samuel’s complete delivery of the message are the stated events; conclusions about everything Eli feels should remain distinguishable from them.",
+    "",
+    "On the words not falling to the ground, [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-samuel/) and [Gill](https://biblehub.com/commentaries/gill/1_samuel/3.htm) focus on God making good the prophetic messages. Gill discusses a wider application to Samuel’s ordinary speech but favors the fulfillment of prophecy in this setting. The point is God establishing His messenger, rather than a claim that every casual remark Samuel ever made became a prediction."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The New Testament names Samuel within the prophetic witness that leads toward Jesus. [Acts 3:22–26](https://biblehub.com/bsb/acts/3.htm) connects the prophets from Samuel onward with the days of Christ and with God’s promise that Abraham’s offspring would bring blessing beyond one family.",
+    "",
+    "That larger witness also helps explain why receiving God’s word matters here. Samuel must pass on what he has actually been given, including a hard warning. Acts directs the prophetic story toward God’s Servant, who brings blessing by turning people from wickedness. The purpose reaches beyond predicting events to God’s rescue and restoration of His people."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_samuel/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-samuel-three-review.md"
+  }
 }

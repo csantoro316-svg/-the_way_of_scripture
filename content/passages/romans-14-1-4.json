@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "14:1-4",
+    "label": "Romans 14:1-4",
+    "slug": "romans-14-1-4"
+  },
+  "section_title": "How can believers disagree without rejecting one another?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Accept him whose faith is weak, without passing judgment on his opinions. 2 For one person has faith to eat all things, while another, who is weak, eats only vegetables. 3 The one who eats everything must not belittle the one who does not, and the one who does not eat everything must not judge the one who does, for God has accepted him. 4 Who are you to judge someone else’s servant? To his own master he stands or falls. And he will stand, for the Lord is able to make him stand."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul addresses a community divided over food. One believer feels free to eat everything, while another eats only vegetables. He tells them to welcome the person whose faith is weak without turning that welcome into an opportunity to pass judgment.",
+    "",
+    "Both sides have a temptation: the eater may look down on the abstainer, while the abstainer may condemn the eater. Paul counters both by pointing to God’s welcome. The other person is a servant of the Lord, rather than someone whose standing belongs to a fellow believer to decide.",
+    "",
+    "The weakness concerns the convictions being discussed. Paul is speaking about people who belong to God, not describing the abstainer as an unbeliever. He ends with confidence in the Lord’s ability to make His servant stand."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a call to receive fellow believers despite differences in food convictions. Freedom does not justify contempt, and restraint does not justify condemning someone God has welcomed. The instruction concerns the disputed practices in view, rather than making every moral question a matter of personal preference."
+  ],
+  "god_plan_lines": [
+    "In [Acts 15:8–11](https://biblehub.com/bsb/acts/15.htm), Peter points to God receiving Gentiles, giving them the Spirit and cleansing their hearts by faith. That history places the welcome of believers within God’s wider work of gathering a people through grace.",
+    "",
+    "The situations are not identical, and Romans does not identify every abstainer’s background. The shared point is that God’s welcome must shape how believers receive one another. Fellowship cannot be reduced to requiring everyone to have the same cultural habits."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/14.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-fourteen-review.md"
+  }
+}

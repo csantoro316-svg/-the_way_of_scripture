@@ -5,23 +5,53 @@
     "label": "Exodus 25:10-16",
     "slug": "exodus-25-10-16"
   },
-  "section_title": "The Ark of the Covenant",
+  "section_title": "Why was the covenant testimony placed in an ark?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "10 And they are to construct an ark of acacia wood, two and a half cubits long, a cubit and a half wide, and a cubit and a half high. 11 Overlay it with pure gold both inside and out, and make a gold molding around it.",
-        "12 Cast four gold rings for it and fasten them to its four feet, two rings on one side and two on the other. 13 And make poles of acacia wood and overlay them with gold. 14 Insert the poles into the rings on the sides of the ark, in order to carry it. 15 The poles are to remain in the rings of the ark; they must not be removed. 16 And place inside the ark the Testimony, which I will give you."
+        "10 And they are to construct an ark of acacia wood, two and a half cubits long, a cubit and a half wide, and a cubit and a half high. 11 Overlay it with pure gold both inside and out, and make a gold molding around it. 12 Cast four gold rings for it and fasten them to its four feet, two rings on one side and two on the other.",
+        "13 And make poles of acacia wood and overlay them with gold. 14 Insert the poles into the rings on the sides of the ark, in order to carry it. 15 The poles are to remain in the rings of the ark; they must not be removed. 16 And place inside the ark the Testimony, which I will give you."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 25**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "The first furnishing described is an ark—a chest made from acacia wood and overlaid inside and outside with gold. Its gold rings and carrying poles allow it to travel with Israel. The poles must stay in place. The later sanctuary instructions will place the ark in its innermost room.",
+    "",
+    "God tells Moses to put the Testimony inside it. This is the covenant record He will give, the stone tablets already promised in [Exodus 24:12](https://biblehub.com/bsb/exodus/24.htm). The chest’s central purpose is therefore connected to God’s words and His covenant with Israel. The instructions for its gold covering and the place of meeting follow in verses 17–22."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Ark of the Covenant** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) and [Calvin](https://biblehub.com/commentaries/calvin/exodus/25.htm) emphasize the ark as the appointed place for the covenant tablets and a sign of the honor due God’s word. Calvin cautions against giving every dimension a hidden spiritual meaning.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 25** remains the first control on meaning."
+    "[Gill](https://biblehub.com/commentaries/gill/exodus/25.htm) draws more detailed parallels with Christ, relating the wood and gold to His enduring person and glory. These are devotional readings of the materials. They should be distinguished from the purpose the passage expressly states: the ark is to hold the Testimony God gives Moses."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[Hebrews 9:1–14](https://biblehub.com/bsb/hebrews/9.htm) recalls the ark, its contents and the arrangement of the sanctuary before explaining Christ’s greater priestly work. The old arrangements taught the seriousness of approaching God, while Christ’s offering cleanses the conscience for service to the living God.",
+    "",
+    "There is also a wider covenant connection. The stone record placed in the ark belongs to the first covenant; [Hebrews 8:7–13](https://biblehub.com/bsb/hebrews/8.htm) speaks of God’s promise to write His laws in people’s minds and hearts, joined with knowing Him and receiving forgiveness. This carries the theme from preserving the covenant words to their inward effect in the people God brings near."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/25.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-twenty-five-review.md"
+  }
 }

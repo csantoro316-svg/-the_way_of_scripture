@@ -5,27 +5,55 @@
     "label": "Exodus 39:22-31",
     "slug": "exodus-39-22-31"
   },
-  "section_title": "Additional Priestly Garments",
+  "section_title": "What does the priest’s clothing say about his service?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "22 They made the robe of the ephod entirely of blue cloth, the work of a weaver, 23 with an opening in the center of the robe like that of a garment, with a collar around the opening so that it would not tear.",
-        "24 They made pomegranates of blue, purple, and scarlet yarn and finely spun linen on the lower hem of the robe. 25 They also made bells of pure gold and attached them around the hem between the pomegranates, 26 alternating the bells and pomegranates around the lower hem of the robe to be worn for ministry, just as the LORD had commanded Moses.",
-        "27 For Aaron and his sons they made tunics of fine linen, the work of a weaver, 28 as well as the turban of fine linen, the ornate headbands and undergarments of finely spun linen, 29 and the sash of finely spun linen, embroidered with blue, purple, and scarlet yarn, just as the LORD had commanded Moses.",
-        "30 They also made the plate of the holy crown of pure gold, and they engraved on it, like an inscription on a seal:",
-        "HOLY TO THE LORD.",
-        "31 Then they fastened to it a blue cord to mount it on the turban, just as the LORD had commanded Moses."
+        "22 They made the robe of the ephod entirely of blue cloth, the work of a weaver, 23 with an opening in the center of the robe like that of a garment, with a collar around the opening so that it would not tear. 24 They made pomegranates of blue, purple, and scarlet yarn and finely spun linen on the lower hem of the robe. 25 They also made bells of pure gold and attached them around the hem between the pomegranates, 26 alternating the bells and pomegranates around the lower hem of the robe to be worn for ministry, just as the LORD had commanded Moses.",
+        "27 For Aaron and his sons they made tunics of fine linen, the work of a weaver, 28 as well as the turban of fine linen, the ornate headbands and undergarments of finely spun linen, 29 and the sash of finely spun linen, embroidered with blue, purple, and scarlet yarn, just as the LORD had commanded Moses. 30 They also made the plate of the holy crown of pure gold, and they engraved on it, like an inscription on a seal: HOLY TO THE LORD. 31 Then they fastened to it a blue cord to mount it on the turban, just as the LORD had commanded Moses."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 39**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "The workers complete the blue robe, with bells and woven pomegranates around its hem, and make linen tunics, headwear, undergarments, and the embroidered sash. Each part follows the instructions already given for Aaron and his sons.",
+    "",
+    "The gold plate on the turban marks its bearer as holy to the LORD. The clothing belongs to a service set apart for God; its beauty is joined to responsibility before Him. The repeated statement that the work follows God’s command keeps that purpose in view."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Additional Priestly Garments** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 39** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) sees these clothes as garments for service and reads their holiness as pointing toward Christ and the holy life of His people. [Calvin](https://biblehub.com/commentaries/calvin/exodus/39.htm) also understands the priestly clothing as directing faith toward Christ, rather than being an empty display of splendor."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[Hebrews 4:14–16](https://biblehub.com/bsb/hebrews/4.htm) describes the high priest Christians depend on: Jesus understands human weakness and was tempted, yet remained without sin. His holiness is joined to compassion, so His people may approach for mercy and help.",
+    "",
+    "The Bible’s final picture extends belonging to God beyond a single priest’s forehead plate. God’s servants worship Him and bear His name on their foreheads ([Revelation 22:1–5](https://biblehub.com/bsb/revelation/22.htm)). This is a meaningful parallel: a people made His own share in the holy service that the priestly clothing sets before us."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/exodus/39.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-exodus-closing-review.md"
+  }
 }

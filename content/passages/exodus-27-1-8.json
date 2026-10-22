@@ -5,25 +5,53 @@
     "label": "Exodus 27:1-8",
     "slug": "exodus-27-1-8"
   },
-  "section_title": "The Bronze Altar",
+  "section_title": "What was the bronze altar for?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 \u201cYou are to build an altar of acacia wood. The altar must be square, five cubits long, five cubits wide, and three cubits high. 2 Make a horn on each of its four corners, so that the horns are of one piece, and overlay it with bronze.",
-        "3 Make all its utensils of bronze\u2014its pots for removing ashes, its shovels, its sprinkling bowls, its meat forks, and its firepans. 4 Construct for it a grate of bronze mesh, and make a bronze ring at each of the four corners of the mesh. 5 Set the grate beneath the ledge of the altar, so that the mesh comes halfway up the altar.",
-        "6 Additionally, make poles of acacia wood for the altar and overlay them with bronze. 7 The poles are to be inserted into the rings so that the poles are on two sides of the altar when it is carried.",
-        "8 Construct the altar with boards so that it is hollow. It is to be made just as you were shown on the mountain."
+        "1 “You are to build an altar of acacia wood. The altar must be square, five cubits long, five cubits wide, and three cubits high. 2 Make a horn on each of its four corners, so that the horns are of one piece, and overlay it with bronze. 3 Make all its utensils of bronze—its pots for removing ashes, its shovels, its sprinkling bowls, its meat forks, and its firepans.",
+        "4 Construct for it a grate of bronze mesh, and make a bronze ring at each of the four corners of the mesh. 5 Set the grate beneath the ledge of the altar, so that the mesh comes halfway up the altar. 6 Additionally, make poles of acacia wood for the altar and overlay them with bronze. 7 The poles are to be inserted into the rings so that the poles are on two sides of the altar when it is carried. 8 Construct the altar with boards so that it is hollow. It is to be made just as you were shown on the mountain."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 27**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "The instructions move from the enclosed tent to the altar used in the courtyard. It is a square structure of acacia boards covered with bronze, with a horn at each corner. Bronze utensils serve the work of handling sacrifices, blood, fire and ashes. Rings and carrying poles allow the altar to move with the sanctuary.",
+    "",
+    "The Hebrew word מִזְבֵּחַ, *mizbeach* (miz-BAY-akh), names an altar, a place of sacrifice; it belongs to the word family of slaughtering for sacrifice ([Brown–Driver–Briggs](https://biblehub.com/hebrew/4196.htm); [the related verb](https://biblehub.com/hebrew/2076.htm)). This altar’s purpose is bound to the offerings Israel will bring before the LORD.",
+    "",
+    "The structure is hollow, with a bronze grate beneath its ledge and extending halfway up. Moses must follow the pattern shown on the mountain. [Leviticus 6:8–13](https://biblehub.com/bsb/leviticus/6.htm) later describes the priests tending its fire, adding wood and removing ashes. Those repeated duties make the altar an ongoing place of sacrificial service."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Bronze Altar** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 27** remains the first control on meaning."
+    "The altar is commonly understood as the appointed place for Israel’s sacrifices and, in Christian interpretation, a picture of Christ’s saving death. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) connects it with atonement and the acceptance of the people’s service through Christ. [Calvin](https://biblehub.com/commentaries/calvin/exodus/27.htm) likewise relates the sacrifice to Christ offering Himself through the Spirit, while noting that different offerings involved different portions: not every sacrifice was entirely burned."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[Hebrews 7:23–28](https://biblehub.com/bsb/hebrews/7.htm) explains the greater priesthood and sacrifice of Jesus. He lives permanently to intercede for those who approach God through Him, and His offering of Himself is once for all. The repeated service of the altar belongs to the larger story that reaches its completion in His saving work.",
+    "",
+    "[Hebrews 13:10–16](https://biblehub.com/bsb/hebrews/13.htm) also brings together altar, sacrifice and Jesus’ suffering outside the city gate. It calls believers to go to Him and offer praise, do good and share with others. God’s purpose includes a people whose worship continues in faithful allegiance to Christ and practical generosity."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/27.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-twenty-seven-review.md"
+  }
 }

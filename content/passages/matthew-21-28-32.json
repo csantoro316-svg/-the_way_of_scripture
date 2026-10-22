@@ -1,0 +1,52 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "21:28-32",
+    "label": "Matthew 21:28-32",
+    "slug": "matthew-21-28-32"
+  },
+  "section_title": "The Son Who Changes His Mind and Obeys",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "28 But what do you think? There was a man who had two sons. He went to the first one and said, ‘Son, go and work today in the vineyard.’ 29 ‘I will not,’ he replied. But later he changed his mind and went. 30 Then the man went to the second son and told him the same thing. ‘I will, sir,’ he said. But he did not go.",
+        "31 Which of the two did the will of his father?” “The first,” they answered. Jesus said to them, “Truly I tell you, the tax collectors and prostitutes are entering the kingdom of God before you. 32 For John came to you in the way of righteousness, and you did not believe him, but the tax collectors and prostitutes did. And even after you saw this, you did not repent and believe him."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus continues speaking to the leaders with a story about two sons. A father asks each to work in his vineyard. The first refuses, then changes his mind and goes. The second agrees respectfully, but never goes. When Jesus asks which did the father's will, the answer is the first.",
+    "",
+    "The word for changing his mind is μεταμέλομαι, *metamelomai* (meh-tah-MEH-loh-my). [Thayer's entry](https://biblehub.com/greek/3338.htm) gives the sense of repenting or feeling regret and lists both verses 29 and 32. In the story, the change becomes visible when the son goes to the vineyard.",
+    "",
+    "Jesus applies the contrast to the response to John. Tax collectors and prostitutes believed him, while the leaders did not. Even seeing those changed lives did not bring the leaders to repent and believe. The father's question brings the difference between saying we will obey and actually responding to God's call into view."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the first son as a picture of people who turn from their earlier refusal and respond to God, while the second pictures a profession of obedience that is not lived out. [Wesley on 21:30–32](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) and the [US Catholic bishops' notes on 21:28–32](https://bible.usccb.org/bible/matthew/21) both connect this contrast with the religious leaders and those who responded to John's call to repentance."
+  ],
+  "god_plan_lines": [
+    "God's call to turn and live runs through Scripture. In [Ezekiel 18:21–23](https://biblehub.com/bsb/ezekiel/18.htm), He speaks of a wicked person turning from sin and asks whether He takes pleasure in the person's death rather than their turning and living. The first son's changed response fits that wider call to return to God.",
+    "",
+    "Jesus describes His own mission in similar terms in [Luke 5:29–32](https://biblehub.com/bsb/luke/5.htm). Eating with tax collectors, He explains that He has come to call sinners to repentance. The people who respond to John are the kind of people the Savior has come to seek, bringing them into a changed life with God."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/21.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-one-review.md"
+  }
+}

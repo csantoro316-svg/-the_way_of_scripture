@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "4:1-4",
+    "label": "2 Samuel 4:1-4",
+    "slug": "2-samuel-4-1-4"
+  },
+  "section_title": "What does Abner’s death mean for Saul’s family?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Now when Ish-bosheth son of Saul heard that Abner had died in Hebron, he lost courage, and all Israel was dismayed. 2 Saul’s son had two men who were leaders of raiding parties. One was named Baanah and the other Rechab; they were sons of Rimmon the Beerothite of the tribe of Benjamin—Beeroth is considered part of Benjamin, 3 because the Beerothites fled to Gittaim and have lived there as foreigners to this day. 4 And Jonathan son of Saul had a son who was lame in his feet. He was five years old when the report about Saul and Jonathan came from Jezreel. His nurse picked him up and fled, but as she was hurrying to escape, he fell and became lame. His name was Mephibosheth."
+      ]
+    }
+  ],
+  "context_lines": [
+    "When Ish-bosheth hears that Abner has died, he loses courage, and Israel is dismayed. The king who was afraid to answer Abner now has to face the loss of the commander who supported his rule.",
+    "",
+    "Two leaders of raiding parties are introduced: Baanah and Rechab, brothers from Beeroth, counted here as part of Benjamin. The account pauses to explain the Beerothites’ move to Gittaim before turning to another member of Saul’s family.",
+    "",
+    "Jonathan’s son Mephibosheth was five years old when news of Saul’s and Jonathan’s deaths arrived. His nurse fled with him, and in the hurry he fell and became lame in his feet. This is a look back to the earlier disaster, not a new accident caused by the news of Abner’s death."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) and [Gill](https://biblehub.com/commentaries/gill/2_samuel/4.htm) connect this description of Saul’s weakened family with the opportunity the two captains think they see. Ish-bosheth has lost his strongest supporter, and the narrative introduces Jonathan’s injured son before recounting the murder.",
+    "",
+    "The account explains how Mephibosheth came to be injured. It does not blame him for the injury or present it as a measure of his character. Speculation about precisely which bones were damaged goes beyond what these verses tell us."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/4.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-three-four-review.md"
+  }
+}

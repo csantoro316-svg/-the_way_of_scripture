@@ -5,55 +5,61 @@
     "label": "Isaiah 66:1-6",
     "slug": "isaiah-66-1-6"
   },
-  "section_title": "Heaven Is My Throne",
+  "section_title": "What does God value more than an impressive house?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 This is what the LORD says:",
-        "\u201cHeaven is My throne,",
-        "and earth is My footstool.",
-        "What kind of house will you build for Me?",
-        "Or where will My place of repose be?",
-        "2 Has not My hand made all these things?",
-        "And so they came into being,\u201d",
-        "declares the LORD.",
-        "\u201cThis is the one I will esteem:",
-        "he who is humble and contrite in spirit,",
-        "who trembles at My word.",
-        "3 Whoever slaughters an ox is like one who slays a man;",
-        "whoever sacrifices a lamb is like one who breaks a dog\u2019s neck;",
-        "whoever presents a grain offering is like one who offers pig\u2019s blood;",
-        "whoever offers frankincense is like one who blesses an idol.",
-        "Indeed, they have chosen their own ways",
-        "and delighted in their abominations.",
-        "4 So I will choose their punishment",
-        "and I will bring terror upon them,",
-        "because I called and no one answered,",
-        "I spoke and no one listened.",
-        "But they did evil in My sight",
-        "and chose that in which I did not delight.\u201d",
-        "5 You who tremble at His word,",
-        "hear the word of the LORD:",
-        "\u201cYour brothers who hate you",
-        "and exclude you because of My name",
-        "have said, \u2018Let the LORD be glorified",
-        "that we may see your joy!\u2019",
-        "But they will be put to shame.\u201d",
-        "6 Hear the uproar from the city;",
-        "listen to the voice from the temple!",
-        "It is the voice of the LORD,",
-        "repaying His enemies what they deserve!"
+        "1 This is what the LORD says: “Heaven is My throne, and earth is My footstool. What kind of house will you build for Me? Or where will My place of repose be? 2 Has not My hand made all these things? And so they came into being,” declares the LORD. “This is the one I will esteem: he who is humble and contrite in spirit, who trembles at My word.",
+        "3 Whoever slaughters an ox is like one who slays a man; whoever sacrifices a lamb is like one who breaks a dog’s neck; whoever presents a grain offering is like one who offers pig’s blood; whoever offers frankincense is like one who blesses an idol. Indeed, they have chosen their own ways and delighted in their abominations. 4 So I will choose their punishment and I will bring terror upon them, because I called and no one answered, I spoke and no one listened. But they did evil in My sight and chose that in which I did not delight.”",
+        "5 You who tremble at His word, hear the word of the LORD: “Your brothers who hate you and exclude you because of My name have said, ‘Let the LORD be glorified that we may see your joy!’ But they will be put to shame.” 6 Hear the uproar from the city; listen to the voice from the temple! It is the voice of the LORD, repaying His enemies what they deserve!"
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 66**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "The Creator declares that heaven is His throne and earth His footstool. No house people build can contain the One whose hand made everything. His attention turns instead to the humble and contrite person who trembles at His word.",
+    "",
+    "The sacrifices of people who choose their own ways are compared with murder, uncleanness and idolatry. Their outward offerings cannot make their chosen evil acceptable. They would not answer when He called, and the announced judgment answers that refusal.",
+    "",
+    "Those who truly revere His word then receive encouragement. Their own brothers hate and exclude them while claiming to seek the Lord’s glory. The mockers will be put to shame, and the sound from the city and temple announces His repayment."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Heaven Is My Throne** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/isaiah/66.htm) and [Wesley](https://biblehub.com/commentaries/wes/isaiah/66.htm) emphasize that God’s favor rests on humility and a serious response to His word, rather than confidence in a building or ceremony.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 66** remains the first control on meaning."
+    "Wesley explains the sacrifice comparisons as the rejection of formal worship by people who remain committed to wrongdoing. Henry likewise stresses that the worship of the wicked is offensive rather than acceptable.",
+    "",
+    "Both read the word to those who are hated and excluded as comfort for faithful people facing religious hostility. Their opponents’ claims to honor God do not determine His verdict."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[Acts 7:44–50](https://biblehub.com/bsb/acts/7.htm) directly quotes the opening words about heaven, earth and the house people would build. Stephen recounts the tabernacle and Solomon’s temple, then appeals to Isaiah to declare that the Most High is not contained in houses made by human hands.",
+    "",
+    "The quotation brings this warning into the early church’s witness. God’s work cannot be secured or controlled merely through possession of a sacred place. The Creator who made everything must be heard and honored on His own terms."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/66.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-sixty-three-six-review.md"
+  }
 }

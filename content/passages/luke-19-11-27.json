@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "19:11-27",
+    "label": "Luke 19:11-27",
+    "slug": "luke-19-11-27"
+  },
+  "section_title": "What does faithfulness look like while the king is away?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "11 While the people were listening to this, Jesus proceeded to tell them a parable, because He was near Jerusalem and they thought the kingdom of God would appear imminently. 12 So He said, “A man of noble birth went to a distant country to lay claim to his kingship and then return. 13 Beforehand, he called ten of his servants and gave them ten minas. ‘Conduct business with this until I return,’ he said. 14 But his subjects hated him and sent a delegation after him to say, ‘We do not want this man to rule over us.’",
+        "15 When he returned from procuring his kingship, he summoned the servants to whom he had given the money, to find out what each one had earned. 16 The first servant came forward and said, ‘Master, your mina has produced ten more minas.’ 17 His master replied, ‘Well done, good servant! Because you have been faithful in a very small matter, you shall have authority over ten cities.’ 18 The second servant came and said, ‘Master, your mina has made five minas.’ 19 And to this one he said, ‘You shall have authority over five cities.’",
+        "20 Then another servant came and said, ‘Master, here is your mina, which I have laid away in a piece of cloth. 21 For I was afraid of you, because you are a harsh man. You withdraw what you did not deposit and reap what you did not sow.’ 22 His master replied, ‘You wicked servant, I will judge you by your own words. So you knew that I am a harsh man, withdrawing what I did not deposit and reaping what I did not sow? 23 Why then did you not deposit my money in the bank, and upon my return I could have collected it with interest?’",
+        "24 Then he told those standing by, ‘Take the mina from him and give it to the one who has ten minas.’ 25 ‘Master,’ they said, ‘he already has ten!’ 26 He replied, ‘I tell you that everyone who has will be given more; but the one who does not have, even what he has will be taken away from him. 27 And these enemies of mine who were unwilling for me to rule over them, bring them here and slay them in front of me.’”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Luke gives the reason for this parable: Jesus is near Jerusalem, and the people expect God’s kingdom to appear immediately. The story instead describes a nobleman who leaves to receive kingship and later returns.",
+    "",
+    "Before leaving, he entrusts ten minas to ten servants and tells them to conduct business. A mina is a sum of money; the Greek word is μνᾶ, mnā (mnah). Thayer identifies the amount in this passage with one hundred drachmas. The story gives the servants something entrusted to them and an instruction to use it during the master’s absence. ([Thayer, Greek 3414](https://biblehub.com/greek/3414.htm))",
+    "",
+    "The journey to receive rule and the opposing delegation have a recognizable historical parallel. Josephus records Archelaus appearing before Caesar in Rome while a Jewish delegation opposes rule by Herod’s family. Caesar grants Archelaus regional authority without immediately making him king. This provides a possible background for the story, rather than making every action of its ruler an exact description of Jesus. ([Josephus, Antiquities 17.11.1–4](https://penelope.uchicago.edu/josephus/ant-17.html))",
+    "",
+    "When the ruler returns, two servants report gains and receive authority over cities. Another has kept the money wrapped in cloth, explaining that he feared his harsh master. The master judges him by his own stated reasoning and takes the mina away.",
+    "",
+    "The story also includes people who reject the ruler’s authority. Their opposition ends in judgment. The servants’ responsibility and the subjects’ rejection belong to the same warning about what it means to wait for this king’s return."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly connect the absent ruler with Christ and understand the servants’ work as a call to faithful service while His kingdom’s full appearing is awaited. The Catholic bishops’ notes emphasize the correction of an immediate-kingdom expectation and the coming reward and judgment. Calvin likewise emphasizes patience during the delay and the active use of what God entrusts to His people. ([USCCB notes on Luke 19:11–27](https://bible.usccb.org/bible/luke/19); [Calvin on Luke 19:11–13](https://biblehub.com/commentaries/calvin/luke/19.htm))"
+  ],
+  "god_plan_lines": [
+    "First Peter calls believers to use the gifts they have received in service to one another, relying on the strength God supplies so that He receives glory through Christ. That gives a wider picture of what faithful use of entrusted resources can look like in the life of His people. ([1 Peter 4:7–11](https://biblehub.com/bsb/1_peter/4.htm))",
+    "",
+    "Paul describes ministry built on Christ’s foundation being tested, with reward for work that lasts and loss for work that does not. He also says that all must appear before Christ’s judgment seat. These are supported connections with responsibility, reward and accountability; they do not by themselves identify every servant’s spiritual condition or turn the cities in the parable into a complete schedule of future appointments. ([1 Corinthians 3:5–15](https://biblehub.com/bsb/1_corinthians/3.htm); [2 Corinthians 5:6–10](https://biblehub.com/bsb/2_corinthians/5.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/19.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-nineteen-opening-review.md"
+  }
+}

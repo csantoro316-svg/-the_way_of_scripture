@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "27:27-31",
+    "label": "Matthew 27:27-31",
+    "slug": "matthew-27-27-31"
+  },
+  "section_title": "The Soldiers Mock the King",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "27 Then the governor’s soldiers took Jesus into the Praetorium and gathered the whole company around Him. 28 They stripped Him and put a scarlet robe on Him. 29 And they twisted together a crown of thorns and set it on His head. They put a staff in His right hand, knelt down before Him, and mocked Him, saying, “Hail, King of the Jews!”",
+        "30 Then they spit on Him and took the staff and struck Him on the head repeatedly. 31 After they had mocked Him, they removed the robe and put His own clothes back on Him. Then they led Him away to crucify Him."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After Pilate has Jesus flogged and hands Him over for crucifixion, the governor's soldiers gather around Him. Matthew brings the title King of the Jews into a scene of deliberate mockery: they dress Him in scarlet, put a crown of thorns on His head and a staff in His hand, and kneel with an insulting royal greeting.",
+    "",
+    "The Praetorium is πραιτώριον, *praitōrion* (prai-TOH-ree-on), a term borrowed from Latin. [Thayer's entry](https://biblehub.com/greek/4232.htm) explains its use here as the governor's residence. It identifies the setting without requiring us to decide between proposed locations for Pilate's headquarters in Jerusalem.",
+    "",
+    "The soldiers then spit on Jesus and use the staff to strike His head. The objects that imitate royal honor become instruments of humiliation and violence. Afterward they remove the robe, put His own clothes back on Him, and lead Him away to crucify Him.",
+    "",
+    "[Mark 15:16–20](https://biblehub.com/bsb/mark/15.htm) and [John 19:1–5](https://biblehub.com/bsb/john/19.htm) also describe the crown, robe, and mock greeting. Matthew's account keeps the reader facing the contrast between the King's identity and the treatment He receives on the way to His death."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a cruel imitation of royal honor, in which the soldiers mock the very identity Matthew presents as true. The [US Catholic bishops' notes on 27:27–30](https://bible.usccb.org/bible/matthew/27) explain the robe, crown, and staff in relation to this mockery and connect the spitting with the suffering servant in Isaiah 50:6."
+  ],
+  "god_plan_lines": [
+    "The crown brings to mind the beginning of Scripture's story of sin and rescue. [Genesis 3:17–19](https://biblehub.com/bsb/genesis/3.htm) names thorns among the consequences of the ground's curse after human disobedience. Here, a crown made from thorns is placed on Jesus as He approaches His death. This is a parallel with Genesis; Matthew does not directly explain the crown in those terms.",
+    "",
+    "The New Testament does explicitly teach that Christ bears a curse for others. [Galatians 3:10–14](https://biblehub.com/bsb/galatians/3.htm) speaks specifically of redemption from the curse of the Law, so that Abraham's promised blessing and the Spirit reach the nations through faith. Paul is speaking about the Law here; he does not directly explain the soldiers' crown.",
+    "",
+    "[Romans 3:21–26](https://biblehub.com/bsb/romans/3.htm) places Christ's death within God's demonstration of righteousness and His gracious gift to those who believe. [Hebrews 12:1–3](https://biblehub.com/bsb/hebrews/12.htm) then directs believers to Jesus' endurance of the cross and shame as they seek to leave sin behind and keep going. The public humiliation of the King belongs to the costly saving work that shapes His people's hope and way of life."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/27.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-seven-mockery-review.md"
+  }
+}

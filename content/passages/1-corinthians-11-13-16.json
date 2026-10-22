@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "11:13-16",
+    "label": "1 Corinthians 11:13-16",
+    "slug": "1-corinthians-11-13-16"
+  },
+  "section_title": "Does Paul’s instruction about coverings still apply today?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 Judge for yourselves: Is it proper for a woman to pray to God with her head uncovered? 14 Doesn’t nature itself teach you that if a man has long hair, it is a disgrace to him, 15 but that if a woman has long hair, it is her glory? For long hair is given to her as a covering. 16 If anyone is inclined to dispute this, we have no other practice, nor do the churches of God."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul asks the Corinthians to judge what is proper and appeals to the way they understand long hair on men and women. A woman’s long hair is described as her glory and as a covering. Readers differ over how this relates to the covering discussed earlier in the passage.",
+    "",
+    "The wording does not give a required hair length in inches or identify one hairstyle that every culture must share. Paul is asking his readers to recognize a distinction that supports his appeal about honor in prayer.",
+    "",
+    "He closes by addressing the person inclined to dispute the matter and appeals to the practice of the churches. The discussion has a shared setting: their choices affect the worshiping community. Applying that instruction today requires considering both his stated reasons and what the covering communicates."
+  ],
+  "common_interpretation_lines": [
+    "Some Christians understand the covering as an instruction still binding in worship. The [Head Covering Movement’s explanation](https://www.headcoveringmovement.com/articles/if-head-covering-is-creation-based-why-didnt-eve-wear-one.html) grounds that reading in Paul’s appeal to creation, seeing the covering as a Christian sign rather than a custom that expires when local clothing changes. The movement is an advocate for this reading, not a voice for all Protestants.",
+    "",
+    "Others distinguish an enduring concern for fitting conduct from a requirement to keep the same garment. The Catholic declaration [Inter Insigniores, section 4](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19761015_inter-insigniores_en.html), explicitly treats the requirement for women to wear a veil in this passage as a disciplinary practice that no longer binds.",
+    "",
+    "The disagreement is therefore not simply whether to take Scripture seriously. It concerns how Paul’s reasons, his appeal to the churches and the meaning of the practice determine its continuing application."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/11.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-eleven-opening-review.md"
+  }
+}

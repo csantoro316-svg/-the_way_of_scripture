@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "15:1-6",
+    "label": "Romans 15:1-6",
+    "slug": "romans-15-1-6"
+  },
+  "section_title": "What is strength for?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 We who are strong ought to bear with the shortcomings of the weak and not to please ourselves. 2 Each of us should please his neighbor for his good, to build him up. 3 For even Christ did not please Himself, but as it is written: “The insults of those who insult You have fallen on Me.”",
+        "4 For everything that was written in the past was written for our instruction, so that through endurance and the encouragement of the Scriptures, we might have hope. 5 Now may the God who gives endurance and encouragement grant you harmony with one another in Christ Jesus, 6 so that with one mind and one voice you may glorify the God and Father of our Lord Jesus Christ."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul continues the discussion of food, conscience and life together. Those who are strong are to bear with the weak, directing their concern toward the neighbor’s good and growth rather than their own satisfaction.",
+    "",
+    "Christ supplies the pattern. Paul recalls that He did not please Himself and applies the words of Psalm 69 about bearing insults directed at God. The call to bear with others grows from what Christ has done, rather than from an expectation that differences will never be inconvenient.",
+    "",
+    "Paul then speaks of Scripture giving instruction, endurance, encouragement and hope. He asks God to grant harmony in Christ so that the community can glorify the Father with one voice. Scripture and prayer serve a shared life shaped by Christ."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as a call for strength to be used in service of others. Bearing with someone aims at their good and growth. The model is Christ’s self-giving, and the goal is a community united in honoring God."
+  ],
+  "god_plan_lines": [
+    "Paul explicitly applies [Psalm 69:7–13](https://biblehub.com/bsb/psalms/69.htm) to Christ. The psalm joins suffering for God’s sake, zeal for His house and prayer for His faithful help. Paul draws from that history a pattern for people whose Lord bore reproach.",
+    "",
+    "The movement from Christ’s suffering to the community’s shared praise shows how His work is to shape the people He gathers. God gives endurance and encouragement so that people with different strengths can live together and honor Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/15.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-fifteen-review.md"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "1:26-38",
+    "label": "Luke 1:26-38",
+    "slug": "luke-1-26-38"
+  },
+  "section_title": "Who is the child promised to Mary?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "26 In the sixth month, God sent the angel Gabriel to a town in Galilee called Nazareth, 27 to a virgin pledged in marriage to a man named Joseph, who was of the house of David. And the virgin’s name was Mary. 28 The angel appeared to her and said, “Greetings, you who are highly favored! The Lord is with you.” 29 Mary was greatly troubled at his words and wondered what kind of greeting this might be. 30 So the angel told her, “Do not be afraid, Mary, for you have found favor with God.",
+        "31 Behold, you will conceive and give birth to a son, and you are to give Him the name Jesus. 32 He will be great and will be called the Son of the Most High. The Lord God will give Him the throne of His father David, 33 and He will reign over the house of Jacob forever. His kingdom will never end!” 34 “How can this be,” Mary asked the angel, “since I am a virgin?” 35 The angel replied, “The Holy Spirit will come upon you, and the power of the Most High will overshadow you. So the Holy One to be born will be called the Son of God.",
+        "36 Look, even Elizabeth your relative has conceived a son in her old age, and she who was called barren is in her sixth month. 37 For no word from God will ever fail.” 38 “I am the Lord’s servant,” Mary answered. “May it happen to me according to your word.” Then the angel left her."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Six months into Elizabeth’s pregnancy, Gabriel is sent to Mary in Nazareth. She is a virgin pledged to Joseph, a descendant of David. The announcement resembles the one given to Zechariah, but now the promised child is the Son of the Most High who will reign forever.",
+    "",
+    "Mary is troubled by the greeting and asks how she can have a child while she is a virgin. Gabriel answers by describing the work of the Holy Spirit and the power of God. He also tells her about Elizabeth’s pregnancy. Mary responds by offering herself as the Lord’s servant and accepting His word.",
+    "",
+    "The word behind highly favored comes from χαριτόω, charitoō (khar-ee-TOH-oh), meaning to show favor or bestow grace. Mary is the recipient of God’s favor. The word helps us hear the gift in the greeting; its meaning alone does not settle every later belief about Mary. ([Thayer’s lexicon](https://biblehub.com/greek/5487.htm))",
+    "",
+    "The promise about David’s throne recalls God’s covenant with David. The child’s identity brings the two announcements into focus: John prepares people for the Lord, while Jesus is the Son whose kingdom has no end. ([2 Samuel 7:8–16](https://biblehub.com/bsb/2_samuel/7.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian traditions share the central confession that Jesus is conceived through the Holy Spirit and born of the virgin Mary. Catholic and Reformed teaching both affirm that He truly receives human nature from her; He is truly human and remains the eternal Son of God. ([Catechism 484–496](https://www.vatican.va/archive/ENG0015/__P1K.HTM); [Westminster 8.2](https://www.opc.org/wcf.html))",
+    "",
+    "Traditions differ over how the greeting relates to Mary’s own life. The Catholic Church connects her being filled with grace with its teaching that she was preserved from original sin from her conception. It explicitly describes this as salvation given through Christ’s merits, not independence from a Savior. Calvin and Wesley read the greeting as God freely favoring Mary; their explanations do not draw that further conclusion from it. The Reformed confession describes inherited sin as belonging to Adam’s descendants born in the ordinary way. ([Catechism 490–494](https://www.vatican.va/archive/ENG0015/__P1K.HTM); [Calvin on Luke 1:28](https://biblehub.com/commentaries/calvin/luke/1.htm); [Wesley on Luke 1:28](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [Westminster 6.3](https://www.opc.org/wcf.html))",
+    "",
+    "Readers also differ over how David’s kingdom promise unfolds. Wesley explains the throne as Christ’s spiritual kingdom and includes all true believers within the house of Jacob. Dallas Theological Seminary’s statement expects Christ’s return to include Israel’s restoration and the fulfillment of God’s covenant promises to that nation. Both affirm His kingship; they place different emphasis on how the promise reaches its fulfillment. ([Wesley on Luke 1:32–33](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [Dallas statement, Article XX](https://www.dts.edu/why-dts/doctrinal-statement))"
+  ],
+  "god_plan_lines": [
+    "Paul describes the Son’s coming as happening when the time had fully come: He is born of a woman and born under the law to redeem and bring people into God’s family. The announcement is part of that movement from promise to the Son’s coming, and from His coming to the gift of adoption and the Spirit. ([Galatians 4:4–7](https://biblehub.com/bsb/galatians/4.htm))",
+    "",
+    "The wider New Testament also connects Jesus’ true humanity with His saving work. Romans contrasts Adam’s disobedience with Christ’s obedience, and Hebrews explains that the Son shares our flesh and blood to defeat death’s power and become a merciful priest for His people. These are explicit New Testament connections. His coming joins Him to the people He came to save, and His obedience opens the way to life. ([Romans 5:12–21](https://biblehub.com/bsb/romans/5.htm); [Hebrews 2:9–18](https://biblehub.com/bsb/hebrews/2.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-one-mary-review.md"
+  }
+}

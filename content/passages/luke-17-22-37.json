@@ -1,0 +1,74 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "17:22-37",
+    "label": "Luke 17:22-37",
+    "slug": "luke-17-22-37"
+  },
+  "section_title": "How should we live while waiting for the Son of Man?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "22 Then He said to the disciples, “The time is coming when you will long to see one of the days of the Son of Man, but you will not see it. 23 People will tell you, ‘Look, there He is!’ or ‘Look, here He is!’ Do not go out or chase after them. 24 For just as the lightning flashes and lights up the sky from one end to the other, so will be the Son of Man in His day. 25 But first He must suffer many things and be rejected by this generation.",
+        "26 Just as it was in the days of Noah, so also will it be in the days of the Son of Man: 27 People were eating and drinking, marrying and being given in marriage, up to the day Noah entered the ark. Then the flood came and destroyed them all. 28 It was the same in the days of Lot: People were eating and drinking, buying and selling, planting and building. 29 But on the day Lot left Sodom, fire and sulfur rained down from heaven and destroyed them all. 30 It will be just like that on the day the Son of Man is revealed.",
+        "31 On that day, let no one on the housetop come down to retrieve his possessions. Likewise, let no one in the field return for anything he has left behind. 32 Remember Lot’s wife! 33 Whoever tries to save his life will lose it, but whoever loses his life will preserve it.",
+        "34 I tell you, on that night two people will be in one bed: one will be taken and the other left. 35 Two women will be grinding grain together: one will be taken and the other left.” 37 “Where, Lord?” they asked. Jesus answered, “Wherever there is a carcass, there the vultures will gather.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus turns from the Pharisees to His disciples. They will long to see one of the days of the Son of Man, but must not chase reports that He is here or there. His day is compared with lightning lighting the sky. First, however, He must suffer and be rejected by this generation.",
+    "",
+    "He then recalls Noah and Lot. People carry on eating, marrying, trading, planting and building until judgment interrupts ordinary life. The warning is that everyday activity can continue right up to the moment that changes everything.",
+    "",
+    "The commands about possessions and the reminder of Lot’s wife reinforce the urgency. Genesis records her looking back after the command to flee without doing so. Jesus joins that reminder with a saying about losing or preserving one’s life. ([Genesis 19:16–17, 24–26](https://biblehub.com/bsb/genesis/19.htm))",
+    "",
+    "Finally, people sharing a bed or grinding grain are separated: one is taken and the other left. When the disciples ask where, Jesus answers with the image of a carcass and gathering vultures. How these images relate is one of the interpretive questions described below.",
+    "",
+    "The BSB moves from verse 35 to verse 37. Its footnote records the additional field saying found in the later Greek text used by some translations; that wording is not part of the BSB main text reproduced here."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly recognize a call to readiness and a warning that judgment will not wait for ordinary life to stop. The Catholic bishops’ notes emphasize the unexpected day of the Son of Man. Wesley also relates the warning about flight to Jerusalem’s danger as a picture of the final day. ([USCCB notes on Luke 17:20–37](https://bible.usccb.org/bible/luke/17); [Wesley on Luke 17:22–33](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))",
+    "",
+    "Readers differ over whether the person taken is rescued or taken to judgment. The NET study notes identify both readings: Noah and Lot’s rescue supports the first, while the closing image is read there as a scene of judgment. The notes stress the sudden separation rather than treating the images as a complete timetable. ([NET notes on Luke 17:34–37](https://classic.net.bible.org/passage.php/passage.php?mode=print&passage=Luk+17:34-37))",
+    "",
+    "Calvin reads the separation as a warning not to let earthly ties delay faithful obedience. He takes the final gathering image as the gathering of God’s people to Christ, which differs from the NET notes’ judgment reading of that image. These are differences between commentators; neither reading should be presented as the official explanation of every member of a church tradition. ([Calvin on Luke 17:26–37 and Matthew 24:37–42](https://biblehub.com/commentaries/calvin/luke/17.htm))"
+  ],
+  "god_plan_lines": [
+    "Second Peter explicitly returns to Noah and Lot, drawing from their stories both God’s judgment and His ability to rescue the godly. That is a direct New Testament connection for the examples Jesus gives. It supports confidence in God’s care without supplying every step or interval of an end-times schedule. ([2 Peter 2:4–9](https://biblehub.com/bsb/2_peter/2.htm))",
+    "",
+    "Paul likewise describes the Day of the Lord arriving unexpectedly, then calls believers to wakefulness, faith, love, hope and mutual encouragement because salvation is through Jesus Christ. The larger picture gives the waiting community something to practice now, rather than a date to calculate. ([1 Thessalonians 5:1–11](https://biblehub.com/bsb/1_thessalonians/5.htm))",
+    "",
+    "Revelation’s vision of the faithful and true rider presents Christ’s judgment and royal authority openly. It is a supported parallel to the public revealing described here, rather than proof that Luke has supplied the full sequence of Revelation’s visions. ([Revelation 19:11–16](https://biblehub.com/bsb/revelation/19.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/17.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-seventeen-closing-review.md"
+  }
+}

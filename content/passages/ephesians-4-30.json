@@ -5,18 +5,60 @@
     "label": "Ephesians 4:30",
     "slug": "ephesians-4-30"
   },
+  "section_title": "What does it mean to grieve the Holy Spirit?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"Do not grieve the Holy Spirit of God, by whom you were sealed for the day of redemption.\""
+      "label": "BSB",
+      "paragraphs": [
+        "30 And do not grieve the Holy Spirit of God, in whom you were sealed for the day of redemption."
+      ]
     }
   ],
   "context_lines": [
-    "In **Ephesians 4**, Paul moves from doctrine to conduct, calling the church to unity, maturity, holiness, and truthfulness. References to the Spirit in this chapter belong to that corporate and ethical transformation rather than to isolated emotional experience."
-  ],
-  "explanation_lines": [
-    "The Spirit who indwells the believer at salvation is not driven out by sin \u2014 but He can be grieved. The word pictures a relationship under strain, not a relationship ended. A believer carrying unconfessed sin is not cut off from God, but their ability to hear, to discern, to walk in step with the Spirit is diminished. The stain does not change their standing before God; it changes their experience of walking with Him.",
+    "This warning appears in instructions about life together. Immediately before it, Paul calls for speech that helps those who hear. Immediately after it, he calls believers to put away bitterness and malice and practice kindness and forgiveness.",
     "",
-    "This is why Scripture so often pairs sin with imagery of darkness, heaviness, and distance \u2014 not because God has moved away, but because the believer's own posture has become harder to see through, harder to move freely in."
-  ]
+    "The Spirit is grieved by conduct that conflicts with that life. At the same time, Paul reminds the readers that they were sealed in Him for the day of redemption. Both the warning and the future hope belong to the sentence.",
+    "",
+    "Read [Ephesians 4:25–32](https://thewayofscripture.com/passages/ephesians-4-25-32.html) to keep the warning connected with the relationships and choices Paul is addressing."
+  ],
+  "common_interpretation_lines": [
+    "Christians understand grieving the Spirit as a serious warning about conduct that harms the life God gives His people. They differ over how the seal relates to the possibility of finally falling away.",
+    "",
+    "The Reformed [Westminster Confession, chapter 17](https://www.opc.org/wcf.html), teaches that those truly called and sanctified will finally be saved, while recognizing that serious sin grieves the Spirit and damages their comfort and others’ lives. The Wesleyan [Methodist Articles of Religion, article XII](https://www.umc.org/en/content/articles-of-religion), teach that people who have received the Holy Spirit can depart from grace and fall into sin, and can rise again through God’s grace.",
+    "",
+    "The Catholic [Catechism, paragraphs 1272–1274](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_1/vii_the_grace_of_baptism.html), teaches that baptism’s spiritual mark cannot be erased, while also teaching that sin can prevent it from bearing the fruits of salvation. An enduring mark is therefore understood differently from an unconditional assurance of final salvation. These teachings frame the warning in distinct ways; all take the call to faithfulness seriously."
+  ],
+  "god_plan_lines": [
+    "[Romans 8:11, 23](https://biblehub.com/bsb/romans/8.htm) places the Spirit’s presence within the hope of resurrection and the redemption of our bodies. The promised day reaches beyond a present feeling or experience.",
+    "",
+    "This is a supported connection with the future redemption named here. God’s people are called to live faithfully together while awaiting the completion of His saving work."
+  ],
+  "current_position_lines": [
+    "On verse 30, our study [Baptism](https://thewayofscripture.com/studies/baptism.html) teaches that sin grieves the Holy Spirit without driving Him out or cancelling the believer’s salvation. It distinguishes that secure standing from the harm sin does to fellowship with God. The study calls for honest confession and a renewed walk with Him."
+  ],
+  "deeper_study": [
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/ephesians/4.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-ephesians-four-closing-review.md",
+    "position_source_detail": "Baptism, lines 198–210, directly discusses Ephesians 4:30."
+  }
 }

@@ -1,0 +1,50 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "11:20-24",
+    "label": "Daniel 11:20-24",
+    "slug": "daniel-11-20-24"
+  },
+  "section_title": "How does a despised ruler gain power through intrigue?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "20 In his place one will arise who will send out a tax collector for the glory of the kingdom; but within a few days he will be destroyed, though not in anger or in battle. 21 In his place a despicable person will arise; royal honors will not be given to him, but he will come in a time of peace and seize the kingdom by intrigue. 22 Then a flood of forces will be swept away before him and destroyed, along with a prince of the covenant.",
+        "23 After an alliance is made with him, he will act deceitfully; for he will rise to power with only a few people. 24 In a time of peace, he will invade the richest provinces and do what his fathers and forefathers never did. He will lavish plunder, loot, and wealth on his followers, and he will plot against the strongholds—but only for a time."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The next ruler sends out a tax collector, but his own rule ends without battle. He is followed by a despicable person who gains the kingdom through intrigue rather than the expected royal honors.",
+    "",
+    "Opposing forces are swept away, along with a prince of the covenant. The ruler grows stronger through deception, a small following and the distribution of plunder and wealth.",
+    "",
+    "The account is moving from ordinary rivalry between kingdoms toward a ruler whose methods will bring a particular threat to the covenant people. His plotting succeeds, but the passage already places a limit on it: only for a time."
+  ],
+  "common_interpretation_lines": [
+    "The [USCCB notes](https://bible.usccb.org/bible/daniel/11) identify the tax-raising ruler as Seleucus IV and the despised successor as Antiochus IV. They understand the prince of the covenant as the high priest Onias III. [Wesley](https://biblehub.com/commentaries/wes/daniel/11.htm) also connects the successor with Antiochus and his rise through flattery and deceit."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/11.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-eleven-review.md"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "4:18-21",
+    "label": "1 Corinthians 4:18-21",
+    "slug": "1-corinthians-4-18-21"
+  },
+  "section_title": "What does Paul mean by power rather than talk?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "18 Some of you have become arrogant, as if I were not coming to you. 19 But I will come to you shortly, if the Lord is willing, and then I will find out not only what these arrogant people are saying, but what power they have. 20 For the kingdom of God is not a matter of talk but of power. 21 Which do you prefer? Shall I come to you with a rod, or in love and with a gentle spirit?"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Some in Corinth are acting as though Paul will never return. He says he intends to come soon, subject to the Lord’s will. His absence has not made the church’s pride or its need for correction unimportant.",
+    "",
+    "Paul will look beyond what the arrogant people say to the power behind their claims. The kingdom of God is not established by impressive talk. The letter has already located saving power in the message of the cross and the work of the Spirit, rather than human brilliance.",
+    "",
+    "His final question offers a choice between firm correction and a visit marked by love and gentleness. The image of a rod continues the father-and-children language. He wants a response that allows him to come gently, rather than having to confront continued arrogance. The passage does not specify every form that the threatened correction would take."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a warning that empty claims will be exposed and that Paul is prepared to correct the church. [Wesley’s note on verse 20](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) emphasizes God’s power ruling the heart; [Calvin’s comment](https://biblehub.com/commentaries/calvin/1_corinthians/4.htm) likewise points to the Spirit’s effective work rather than outward skill in speaking."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 12:5–11](https://biblehub.com/bsb/hebrews/12.htm) explains God’s discipline through the relationship of a father and children. Its purpose is their good: sharing His holiness and learning a life that bears righteousness and peace.",
+    "",
+    "That larger purpose helps explain why loving care can include difficult correction. This is a connection in purpose, not a claim that a human leader’s every action carries God’s approval. Paul’s own stated aim is to help the community turn from pride and live faithfully in Christ."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/4.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-four-review.md"
+  }
+}

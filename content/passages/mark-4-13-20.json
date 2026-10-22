@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "4:13-20",
+    "label": "Mark 4:13-20",
+    "slug": "mark-4-13-20"
+  },
+  "section_title": "Hearing the Word and Bearing Fruit",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 Then Jesus said to them, “Do you not understand this parable? Then how will you understand any of the parables? 14 The farmer sows the word. 15 Some are like the seeds along the path, where the word is sown. As soon as they hear it, Satan comes and takes away the word that was sown in them.",
+        "16 Some are like the seeds sown on rocky ground. They hear the word and at once receive it with joy. 17 But they themselves have no root, and they remain for only a season. When trouble or persecution comes because of the word, they quickly fall away. 18 Others are like the seeds sown among the thorns. They hear the word, 19 but the worries of this life, the deceitfulness of wealth, and the desire for other things come in and choke the word, and it becomes unfruitful.",
+        "20 Still others are like the seeds sown on good soil. They hear the word, receive it, and produce a crop—thirtyfold, sixtyfold, or a hundredfold.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus explains that the farmer sows the word. On the path, Satan takes away what people hear. On rocky ground, people receive the word with joy but have no root; trouble or persecution because of the word brings a quick falling away. A promising first response is not the end of the story.",
+    "",
+    "The thorny ground describes people in whom life's worries, wealth's deceitfulness, and desire for other things choke the word. The verb συμπνίγω, *sympnigō* (soom-PNEE-goh), means to choke or press so closely as to suffocate ([Thayer's lexicon](https://biblehub.com/greek/4846.htm)). The picture shows competing concerns crowding out the word's fruitfulness. Jesus names ordinary pressures and desires as well as open persecution.",
+    "",
+    "The good-soil hearers receive the word and produce a crop. The yields vary, but all are fruitful. [Luke 8:11–15](https://biblehub.com/bsb/luke/8.htm) adds the language of holding to the word and producing a crop through perseverance. Jesus calls for a response that continues into life, beyond hearing or initial excitement.",
+    "",
+    "Traditions differ over whether someone who later turns away had saving faith before that departure. The readings below explain that difference."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a call to receive the word and continue in it. Reformed teaching in the [Westminster Confession, 17.1–3](https://www.opc.org/wcf.html), holds that God keeps those He has brought to saving faith to the end, though they can fall into serious sin for a time. The [1689 Baptist Confession, 17.1–3](https://www.the1689confession.com/1689/chapter-17), teaches the same preservation. [Calvin on Matthew 13:20–21](https://biblehub.com/commentaries/calvin/mark/4.htm) consequently distinguishes the rocky-ground response from faith rooted in new birth.",
+    "",
+    "The Methodist [Articles of Religion, XII](https://www.umc.org/en/content/articles-of-religion), teach that a person can depart from grace and fall into sin, with repentance and return possible by God's grace. The Catholic Church teaches in [Catechism 162](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_three/article_1/iii_the_characteristics_of_faith.html) that faith is God's gift, can be lost, and must be nourished. These teachings lead to different accounts of what has happened when a person who welcomed the word later abandons it."
+  ],
+  "god_plan_lines": [
+    "[Jeremiah 4:1–4](https://biblehub.com/bsb/jeremiah/4.htm) also uses ground and thorns to address the heart. God calls Judah and Jerusalem to return to Him and break up their unplowed ground. This is a scriptural parallel: outward religious life cannot replace a heart responsive to God.",
+    "",
+    "[Colossians 1:5–10](https://biblehub.com/bsb/colossians/1.htm) describes the gospel bearing fruit and growing throughout the world, then speaks of believers bearing fruit in every good work and growing in their knowledge of God. This expands the picture beyond a single harvest number. God's message spreads among people and shapes how they live."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/4.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-four-opening-review.md"
+  }
+}

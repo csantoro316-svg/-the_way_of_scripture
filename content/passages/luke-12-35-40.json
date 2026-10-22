@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "12:35-40",
+    "label": "Luke 12:35-40",
+    "slug": "luke-12-35-40"
+  },
+  "section_title": "What does it mean to be ready for the Master’s return?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "35 Be dressed for service and keep your lamps burning. 36 Then you will be like servants waiting for their master to return from the wedding banquet, so that when he comes and knocks, they can open the door for him at once. 37 Blessed are those servants whom the master finds on watch when he returns. Truly I tell you, he will dress himself to serve and will have them recline at the table, and he himself will come and wait on them. 38 Even if he comes in the second or third watch of the night and finds them alert, those servants will be blessed.",
+        "39 But understand this: If the homeowner had known at what hour the thief was coming, he would not have let his house be broken into. 40 You also must be ready, because the Son of Man will come at an hour you do not expect.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus moves from treasure and the heart to readiness. The disciples are to be dressed for service with lamps burning, like servants waiting for their master to return from a wedding banquet.",
+    "",
+    "The watchful servants are ready to open when he knocks, even late in the night. Jesus describes a remarkable welcome in return: the master himself prepares to serve and waits on them at the table.",
+    "",
+    "The picture then changes to a homeowner who does not know when a thief will arrive. The shared point is the need for readiness when the time is unknown. Jesus states the application directly: the Son of Man will come at an hour they do not expect."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand these pictures as a call to remain faithful while awaiting Christ, with a gracious welcome for those He finds ready. Wesley emphasizes the love expressed when the master serves, and the Catholic bishops’ notes connect readiness with faithfulness to Jesus’ instructions while awaiting His return. ([Wesley on Luke 12:35–38](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [USCCB note on Luke 12:35–48](https://bible.usccb.org/bible/luke/12))"
+  ],
+  "god_plan_lines": [
+    "At the final meal in Luke, Jesus describes Himself as the One who serves and promises His disciples a place at His table in His kingdom. The master serving here can be read alongside that combination of present service and future welcome. ([Luke 22:24–30](https://biblehub.com/bsb/luke/22.htm))",
+    "",
+    "John gives a further parallel when Jesus wraps a towel around Himself and washes His disciples’ feet. The Lord takes the servant’s place and calls them to follow His example. These connections locate readiness within a relationship shaped by His own generous service, rather than a timetable the disciples can calculate. ([John 13:3–5, 12–17](https://biblehub.com/bsb/john/13.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/12.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-twelve-closing-review.md"
+  }
+}

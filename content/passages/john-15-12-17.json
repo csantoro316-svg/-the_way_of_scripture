@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "15:12-17",
+    "label": "John 15:12-17",
+    "slug": "john-15-12-17"
+  },
+  "section_title": "Why does Jesus call His disciples friends?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "12 This is My commandment, that you love one another as I have loved you. 13 Greater love has no one than this, that he lay down his life for his friends. 14 You are My friends if you do what I command you.",
+        "15 No longer do I call you servants, for a servant does not understand what his master is doing. But I have called you friends, because everything I have learned from My Father I have made known to you. 16 You did not choose Me, but I chose you. And I appointed you to go and bear fruit—fruit that will remain—so that whatever you ask the Father in My name, He will give you. 17 This is My command to you: Love one another."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus returns to the command to love one another. The measure is His own love, and He speaks of laying down one’s life for one’s friends as the greatest expression of it. The approaching cross gives His words their immediate weight.",
+    "",
+    "He calls the disciples friends because He has made known to them what He has heard from the Father. They are being brought into an understanding of His work. Friendship does not make His teaching optional: He connects it with doing what He commands.",
+    "",
+    "Jesus also reminds them that He chose and appointed them to go and bear lasting fruit. Their calling begins with His initiative and leads into service, dependence and prayer in His name. The paragraph ends where it began, with the command to love one another."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the passage as joining Christ’s self-giving love, His disclosure of the Father’s purposes and the disciples’ calling to serve. [Calvin on verses 12–15](https://biblehub.com/commentaries/calvin/john/15.htm) emphasizes Jesus’ example and the sharing of His teaching with friends. [Wesley on verses 12–16](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) likewise connects friendship with obedience and the apostles’ mission.",
+    "",
+    "The choosing in verse 16 is sometimes drawn into wider discussions of salvation. Both Calvin and Wesley identify the immediate setting as Jesus’ appointment of the apostles. Calvin also draws a wider lesson about God’s gracious initiative. Recognizing the particular calling in view helps keep a larger doctrinal discussion from replacing the passage’s direct call to fruitful service and love."
+  ],
+  "god_plan_lines": [
+    "Jesus’ coming sacrifice is both the source and pattern of His people’s love. [Ephesians 5:1–2](https://biblehub.com/bsb/ephesians/5.htm) calls believers to walk in love because Christ loved them and gave Himself for them. [Romans 5:8–10](https://biblehub.com/bsb/romans/5.htm) adds that He died for people who were still sinners and enemies, showing the depth of the love that brings them near.",
+    "",
+    "Friendship with God also has a place in the earlier biblical story: [James 2:21–23](https://biblehub.com/bsb/james/2.htm) recalls Abraham’s faith expressed in action and calls him God’s friend. Here Jesus brings His disciples into the knowledge of the Father’s work and sends them to bear lasting fruit. This is a connection in the theme of relationship with God, not a claim that Abraham’s story predicts every detail of this meal."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/15.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-fifteen-closing-review.md"
+  }
+}

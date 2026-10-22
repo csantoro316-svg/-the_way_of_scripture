@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "11:1-6",
+    "label": "Romans 11:1-6",
+    "slug": "romans-11-1-6"
+  },
+  "section_title": "Has God rejected His people?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 I ask then, did God reject His people? Certainly not! I am an Israelite myself, a descendant of Abraham, from the tribe of Benjamin. 2 God did not reject His people, whom He foreknew. Do you not know what the Scripture says about Elijah, how he appealed to God against Israel: 3 “Lord, they have killed Your prophets and torn down Your altars. I am the only one left, and they are seeking my life as well”? 4 And what was the divine reply to him? “I have reserved for Myself seven thousand men who have not bowed the knee to Baal.”",
+        "5 In the same way, at the present time there is a remnant chosen by grace. 6 And if it is by grace, then it is no longer by works. Otherwise, grace would no longer be grace."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul answers the question directly: God has not rejected His people. He points to himself as an Israelite descended from Abraham and belonging to Benjamin. His faith is a present example that Jewish people have not been excluded from God’s saving work.",
+    "",
+    "He then recalls Elijah, who believed he was the only faithful person left. God’s answer revealed a preserved remnant of seven thousand who had not bowed to Baal. Elijah’s knowledge of the situation did not cover everything God was doing.",
+    "",
+    "Paul applies that example to his own day: there is a remnant chosen by grace. He contrasts grace with works, because a gift of mercy cannot at the same time be a payment earned. The remnant is evidence of God’s faithfulness, rather than a reason for its members to boast."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a clear denial that God has abandoned Israel altogether. Paul and other Jewish believers show that His work continues. The Elijah example also warns against assuming that what one person can see is the whole extent of God’s faithfulness."
+  ],
+  "god_plan_lines": [
+    "In the fuller account of [1 Kings 19:1–18](https://biblehub.com/bsb/1_kings/19.htm), God provides for a fearful, exhausted Elijah and gives him further work, including a successor. The preserved remnant belongs within that continuing work, beyond what the discouraged prophet knew.",
+    "",
+    "Paul explicitly brings this history into his explanation of Israel’s present situation. A moment when God’s work seems near its end can still be part of His provision for its continuation. The connection rests on Paul’s use of Elijah’s story, rather than an invented prediction that every difficult situation will unfold the same way."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/11.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-eleven-review.md"
+  }
+}

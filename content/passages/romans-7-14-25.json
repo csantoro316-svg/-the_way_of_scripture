@@ -1,0 +1,69 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "7:14-25",
+    "label": "Romans 7:14-25",
+    "slug": "romans-7-14-25"
+  },
+  "section_title": "Who is speaking about wanting the good but doing the wrong?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 We know that the law is spiritual; but I am unspiritual, sold as a slave to sin. 15 I do not understand what I do. For what I want to do, I do not do. But what I hate, I do. 16 And if I do what I do not want to do, I admit that the law is good. 17 In that case, it is no longer I who do it, but it is sin living in me that does it. 18 I know that nothing good lives in me, that is, in my flesh; for I have the desire to do what is good, but I cannot carry it out. 19 For I do not do the good I want to do. Instead, I keep on doing the evil I do not want to do. 20 And if I do what I do not want, it is no longer I who do it, but it is sin living in me that does it.",
+        "21 So this is the principle I have discovered: When I want to do good, evil is right there with me. 22 For in my inner being I delight in God’s law. 23 But I see another law at work in my body, warring against the law of my mind and holding me captive to the law of sin that dwells within me. 24 What a wretched man I am! Who will rescue me from this body of death? 25 Thanks be to God, through Jesus Christ our Lord! So then, with my mind I serve the law of God, but with my flesh I serve the law of sin."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul now gives a vivid first-person account of conflict. The speaker recognizes the goodness of God’s law and wants to do good, yet repeatedly does what he hates. Desire for the right and the ability to carry it out do not match.",
+    "",
+    "The language distinguishes that desire from sin living within the person. It describes sin’s grip and the distress of being drawn against what one approves. It does not turn the wrongdoing into something harmless; the cry for rescue shows how serious the condition is.",
+    "",
+    "The contrast between mind, flesh and the law at work in the body makes the conflict concrete. Paul has just called for bodily life to be offered to God in chapter 6. These words should be read within that account of freedom and obedience, rather than taken as a simple declaration that the physical body is evil.",
+    "",
+    "The passage reaches a cry for deliverance from the body of death, then thanksgiving to God through Jesus Christ. The last sentence still acknowledges the conflict. The next chapter continues into life and freedom through the Spirit, so the cry is not the end of the story."
+  ],
+  "common_interpretation_lines": [
+    "Christians differ over whose experience the first-person voice represents. The main readings agree that knowledge of the good is insufficient on its own and that rescue comes through Christ, but they place the conflict at different points in a person’s life.",
+    "",
+    "The Reformed commentator [Calvin on verses 14–17](https://biblehub.com/commentaries/calvin/romans/7.htm) reads the speaker as someone already renewed by God who still struggles with remaining sin. The desire to obey reflects the Spirit’s work, while the conflict shows the continuing need for grace. Calvin also rejects using sin living within as an excuse that makes the person blameless.",
+    "",
+    "The Wesleyan founder [John Wesley on verses 7, 14 and 25](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-romans/) understands Paul as assuming the voice of someone under the law, sincerely striving but not yet experiencing the freedom described in chapter 8. He therefore does not treat the bondage as the defining condition of a person living in Christ’s liberating grace.",
+    "",
+    "The Catholic [USCCB notes on verses 7–25](https://bible.usccb.org/bible/romans/7) describe a voice used for the sake of the explanation. They apply the failure both to people without justifying grace and to Christians who return to reliance on law as the basis of their relationship with God. These are identified commentary readings, rather than a claim that every member of a tradition gives the same account of the speaker."
+  ],
+  "god_plan_lines": [
+    "The thanksgiving through Jesus leads into [Romans 8:1–4](https://biblehub.com/bsb/romans/8.htm). There Paul announces no condemnation in Christ and describes God doing through His Son what the law, weakened by the flesh, could not do. The Spirit’s life supplies the direction in which the argument moves.",
+    "",
+    "Whatever reading is taken of the speaker’s stage of life, the passage directs hope beyond self-rescue. God’s purpose is not merely to make people aware of a conflict but to bring them into life through Christ and the Spirit. The different readings above should not obscure that movement in the letter."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/7.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-seven-review.md"
+  }
+}

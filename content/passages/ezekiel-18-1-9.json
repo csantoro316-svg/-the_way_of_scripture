@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "18:1-9",
+    "label": "Ezekiel 18:1-9",
+    "slug": "ezekiel-18-1-9"
+  },
+  "section_title": "Is this generation being judged for someone else’s sins?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Then the word of the LORD came to me, saying, 2 “What do you people mean by quoting this proverb about the land of Israel: ‘The fathers have eaten sour grapes, and the teeth of the children are set on edge’? 3 As surely as I live, declares the Lord GOD, you will no longer quote this proverb in Israel. 4 Behold, every soul belongs to Me; both father and son are Mine. The soul who sins is the one who will die.",
+        "5 Now suppose a man is righteous and does what is just and right: 6 He does not eat at the mountain or look to the idols of the house of Israel. He does not defile his neighbor’s wife or approach a woman during her period. 7 He does not oppress another, but restores the pledge to the debtor. He does not commit robbery, but gives his bread to the hungry and covers the naked with clothing. 8 He does not engage in usury or take excess interest, but he withholds his hand from iniquity and executes true justice between men. 9 He follows My statutes and faithfully keeps My ordinances. That man is righteous; surely he will live, declares the Lord GOD."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The Lord confronts a proverb about fathers eating sour grapes and their children feeling the effect in their teeth. The people use it to describe their complaint: an earlier generation sinned, but they are bearing the punishment.",
+    "",
+    "He answers that father and son alike belong to Him. The person who sins is the one accountable for that sin. The complaint cannot be used to avoid looking at the present generation’s own conduct.",
+    "",
+    "The Lord then describes a righteous person in concrete terms. He refuses idolatry and sexual wrongdoing, does not oppress or rob, returns what a debtor has pledged, gives food and clothing to those in need, and practices justice.",
+    "",
+    "This is faithfulness lived out toward both God and neighbor. The warning and promise concern how the person actually responds to the Lord, rather than the reputation of the family from which he comes."
+  ],
+  "common_interpretation_lines": [
+    "The [USCCB notes](https://bible.usccb.org/bible/ezekiel/18) understand the proverb as a complaint about punishment for ancestors’ sins and read the chapter as an insistence on personal responsibility. [Wesley](https://biblehub.com/commentaries/wes/ezekiel/18.htm) likewise emphasizes that God is equally God of father and son and judges without favoritism.",
+    "",
+    "Readers differ over the full reach of the life-and-death language. [Gill’s discussion of verse 9](https://biblehub.com/commentaries/gill/ezekiel/18.htm) favors preservation from the immediate calamities, though he also discusses spiritual life. [Henry](https://biblehub.com/commentaries/mhc/ezekiel/18.htm) applies the warning beyond outward suffering to final accountability before God. Both retain the chapter’s refusal to substitute family standing for a person’s own response."
+  ],
+  "god_plan_lines": [
+    "[Romans 2:1–11](https://biblehub.com/bsb/romans/2.htm) warns people who condemn others while practicing the same wrongs. Paul says that God’s judgment rests on truth and shows no favoritism, and that His kindness is meant to lead to repentance.",
+    "",
+    "Paul is not explicitly quoting Ezekiel 18. He develops the larger theme of personal accountability: neither condemning someone else nor relying on one’s standing removes the need to respond honestly to God. His patience offers an opportunity to turn, rather than permission to continue."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/18.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-eighteen-nineteen-review.md"
+  }
+}

@@ -1,0 +1,31 @@
+# First Kings 7 passage review — 2026-10-21
+
+Four new groups /all51BSBverses. Entire supplied Wesley Livingston7–8Alesson91–102actuallyread, including8:1–11;wholePDF1–102read,103+unread. Whole actualBSB7/WesVII/Henry7read;Gill7:1,2,14,21,23,26fullcommentsread;allUSCCB7notesread. WholeBDB3199/1162/1324actualentriesread(Jachinhewillestablish/Boazmeaningobscure/bathliquidunit). ActualBSB2Chr4:1–6/1Chr29:1–9/2Cor9:6–12/Rev3:12/Heb9:13–14read. Owner7/Huram/Hiram/Jachin/templetreasuresearchnoapplicableposition. Noowneredits/newposition/publicbaselineattribution/copiedstructure. Individualprimarycommentatorsnotformalchurchdefinitions. USCCBderivedprose<90words/noverbatim.
+
+## 7:1–12
+
+Plan section: omitted, because none apply without forced royal-palace comparison beyond interpretation.
+Position source: none.
+FLAGGED FOR REVIEW: PalaceForest100x50vscolonnade50x30vsHallJusticeunquantifiednotbaselineinterchangedspaces/alllivingroomtotal. Wife'sresidencelikeconstructionnotautomaticallysameexactdimensions. Henry/Gill13yearslowerurgencyGodfirstversusUSCCBlongerownhouseeffortactualdifferentemphasespreserved. No allancientNationspalacetemplelocationrule/Israeluniquelyseparatesbyholygeographyorprecisearchlocationindependentlyverified. WesForestliterallyinLebanonvsGillJerusalemdebateinspectedpublicnotassertpreciselocation. NofulldivineapprovalofallSolomonprojectsmerelybecausewealthvisible. NoPharaohdaughteralreadyconvertedfact.
+
+## 7:13–22
+
+Plan section: included, because (b)/(c). Gill21explicitallusionRev3:12, actualversecheckedpermanentbelonging/pillar, not directNTexpositioneverybronzedetail.
+Position source: none.
+FLAGGED FOR REVIEW: BSBworkerHURAMdistinctKingHIRAM. MotherNaphtaliherevsDan2Chr2:14previouslessonactualread, Gillreconciliationsspeculativenotdefinitive. Noassumptionfatherethnicityproofhalf-Jewishbloodfraction orallTyrianssoleGentiletemplework. JachinmeaningBDBverified;BoazBDBOBSCUREstrengthoneproposalnotdefinitehewillYahwehstrengthlexclaim. BaselineDavidgrandfatherBoazWRONGgreatgrandfather, noautomaticcommemoration. PillarsBSBdirectionsSOUTH/NORTHretainednotGillsreverseddirectionalgloss. Nosevenchainsnumbercode/pomegranateuniversalANEfertilityclaimwithoutindep. RevpromiseinterpretedpicturebelongingnotliteralpeopleturnwoodorChristtwonaturespillarsallegory.
+
+## 7:23–39
+
+Plan section: included, because (c). CleansingforGodserviceactualHeb9:13–14, notallobjectsassignedseparatetypology.
+Position source: none.
+FLAGGED FOR REVIEW: BathcapacityunitBDB1324explicit7:26,38;baseline2000bathsfor2000priestsnottext. No mandatoryfullimmersion/laddermechanismunverified;2Chr4:6actualwashingusesdistinct. 2000/3000normalfill/fullcapacityGillproposalplainlylabelednotnarratorconfirmed. Gill23modernEDITORpiapologeticsnotoriginalGill, notcopiedorused. NoexactmoderngallonsfromvariablebathunitWes/BDB/BSBestimatesdiffer;noancientmathclaimpi=3exactorunwarrantedprecisevolumeproof. Baseline3cubitstandheight5.5feetwrong4.5if18incubit, noincorrectconversioncopied. No12oxennecessarily12tribes/adminregions/apostlesprooforsacrificesautomaticallytodaybaptismtradition. WaterexternalHeb9Christconscienceexplicit, noordinanceframeworkforced.
+
+## 7:40–51
+
+Plan section: included, because (c). Dedicatedresourcesactual1Chr29voluntarygifts→2Cor9willinggenerosity/service/thanksgiving, notTempletreasury=currentchurchbuildingidentity.
+Position source: none.
+FLAGGED FOR REVIEW: CastclayJordanactualbutexact35milesnorthDeadSea/eastsideindependentgeo notneeded. Weightnotrecordedbecauseabundancenotliterallyimpossibletoweighforever. No everygoldobjectglorybronzejudgmentimmutablecode. DavidremainingresourcesWesreadingattributednotallitemsexactidentities/Mosesaltarsstoredverified. No Malachi3:10=4typo/threeannualtithesuncontestedcalendarorChurchrequiredcashpercentagedebateuninvoked. No divinecashROIguaranteeorincreasedgiftpurchasesGodblessings. 2Corhelpbelieversneeddifferentsettingclearlystated. OwnerworshiprelatedthemeNOTchapter7position.
+
+## Validation
+
+Passed exact BSB verification, repository checks (0 errors, 294 warnings), preservation, cumulative coverage (30 groups, 268 verses), repeat-generation idempotence, all eight mobile views and physical Next navigation. Hosting release completed successfully; live comparison passed with LIVE MATCH 8 (exit 0). Prefix /tmp/scripture-first-kings-seven-.

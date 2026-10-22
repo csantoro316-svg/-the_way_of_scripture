@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "16:44-52",
+    "label": "Ezekiel 16:44-52",
+    "slug": "ezekiel-16-44-52"
+  },
+  "section_title": "Why does Jerusalem make Samaria and Sodom look righteous?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "44 Behold, all who speak in proverbs will quote this proverb about you: ‘Like mother, like daughter.’ 45 You are the daughter of your mother, who despised her husband and children. You are the sister of your sisters, who despised their husbands and children. Your mother was a Hittite and your father an Amorite. 46 Your older sister was Samaria, who lived with her daughters to your north; and your younger sister was Sodom, who lived with her daughters to your south. 47 And you not only walked in their ways and practiced their abominations, but soon you were more depraved than they were. 48 As surely as I live, declares the Lord GOD, your sister Sodom and her daughters never did as you and your daughters have done.",
+        "49 Now this was the iniquity of your sister Sodom: She and her daughters were arrogant, overfed, and complacent; they did not help the poor and needy. 50 Thus they were haughty and committed abominations before Me. Therefore I removed them, as you have seen. 51 Furthermore, Samaria did not commit half the sins you did. You have multiplied your abominations beyond theirs, and all the abominations you have committed have made your sisters appear righteous. 52 So now you must bear your disgrace, since you have brought justification for your sisters. For they appear more righteous than you, because your sins were more vile than theirs. So you too must bear your shame and disgrace, since you have made your sisters appear righteous."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The Lord returns to the family comparison: Jerusalem resembles its mother and sisters in conduct. Samaria is pictured as the older sister to the north, Sodom as the younger to the south, and their surrounding communities as daughters.",
+    "",
+    "The comparison then becomes sharper. Jerusalem has not merely repeated their wrongdoing; its conduct has gone beyond theirs.",
+    "",
+    "Sodom’s arrogance, abundance, complacency and failure to help the poor and needy are named, along with its abominations. Its prosperity supplied no excuse for its neglect of others or its pride.",
+    "",
+    "Jerusalem’s conduct is so much worse that its sisters appear righteous by comparison. That is an accusation against Jerusalem, not a declaration that their own wrongdoing was acceptable. The city must bear the shame it had been ready to place on others."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/ezekiel/16.htm) explains that the comparison does not make the sisters truly righteous; it shows them to be less guilty than Jerusalem. The [USCCB notes on verses 46–47](https://bible.usccb.org/bible/ezekiel/16) likewise emphasize how the city’s worse conduct makes the others appear just.",
+    "",
+    "The passage confronts religious superiority that ignores one’s own actions. Jerusalem cannot treat other communities’ failures as a reason to excuse its own, and the named neglect of the needy makes the accusation concrete."
+  ],
+  "god_plan_lines": [
+    "In [Matthew 11:20–24](https://biblehub.com/bsb/matthew/11.htm), Jesus also compares cities facing judgment with Sodom. He warns Capernaum and the other cities because they have seen His mighty works and have not repented.",
+    "",
+    "Matthew does not explicitly quote Ezekiel 16. The shared theme is accountability in light of what has been received. Jesus’ warning brings that responsibility to the response people make to Him: extraordinary opportunity is a reason to turn, rather than a shield against judgment."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/16.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-sixteen-review.md"
+  }
+}

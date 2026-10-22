@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "2 Corinthians",
+    "citation": "12:1-6",
+    "label": "2 Corinthians 12:1-6",
+    "slug": "2-corinthians-12-1-6"
+  },
+  "section_title": "Why does Paul speak so carefully about his vision?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 I must go on boasting. Although there is nothing to gain, I will go on to visions and revelations from the Lord. 2 I know a man in Christ who fourteen years ago was caught up to the third heaven. Whether it was in the body or out of it I do not know, but God knows. 3 And I know that this man—whether in the body or out of it I do not know, but God knows— 4 was caught up to Paradise. The things he heard were inexpressible, things that man is not permitted to tell.",
+        "5 I will boast about such a man, but I will not boast about myself, except in my weaknesses. 6 Even if I wanted to boast, I would not be a fool, because I would be speaking the truth. But I refrain, so no one will credit me with more than he sees in me or hears from me,"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul continues his defense by turning to visions and revelations from the Lord. He describes a man in Christ who was caught up to the third heaven fourteen years earlier. He speaks of the experience in the third person while the surrounding discussion connects it with his own revelations and weakness.",
+    "",
+    "He twice says he does not know whether it happened in the body or out of the body. God knows. Paul leaves the manner of the experience unexplained, even as he describes being caught up to Paradise and hearing things that cannot be told.",
+    "",
+    "Paradise translates παράδεισος, paradeisos (pah-RAH-day-sos). [Thayer’s lexicon](https://biblehub.com/greek/3857.htm) includes the word’s use for a garden and for a heavenly place in this passage. The word helps connect the account with Scripture’s wider picture of life with God.",
+    "",
+    "Paul could tell the truth about this experience, but he chooses restraint. He wants people’s judgment of him to rest on what they see in him and hear from him. When he speaks about himself, weakness remains the direction of his boasting."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the man as Paul speaking indirectly about his own experience. [Wesley’s note on verse 2](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-the-corinthians/) and the [USCCB note on verses 5–7](https://bible.usccb.org/bible/2corinthians/12) both make that connection. His restraint keeps the revelation from becoming a claim to personal greatness."
+  ],
+  "god_plan_lines": [
+    "[Revelation 2:7](https://biblehub.com/bsb/revelation/2.htm) explicitly joins Paradise with Christ’s promise of access to the tree of life. That image reaches back to [Genesis 3:22–24](https://biblehub.com/bsb/genesis/3.htm), where human sin leads to exclusion from that tree.",
+    "",
+    "This gives Paradise a larger biblical setting of life with God and the hope Christ holds before His people. Paul’s brief account belongs within that hope while preserving the limits he places on what he can describe."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_corinthians/12.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-corinthians-twelve-opening-review.md"
+  }
+}

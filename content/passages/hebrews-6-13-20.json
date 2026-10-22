@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "6:13-20",
+    "label": "Hebrews 6:13-20",
+    "slug": "hebrews-6-13-20"
+  },
+  "section_title": "Why can hope rest securely on God’s promise?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 When God made His promise to Abraham, since He had no one greater to swear by, He swore by Himself, 14 saying, “I will surely bless you and multiply your descendants.” 15 And so Abraham, after waiting patiently, obtained the promise.",
+        "16 Men swear by someone greater than themselves, and their oath serves as a confirmation to end all argument. 17 So when God wanted to make the unchanging nature of His purpose very clear to the heirs of the promise, He guaranteed it with an oath. 18 Thus by two unchangeable things in which it is impossible for God to lie, we who have fled to take hold of the hope set before us may be strongly encouraged.",
+        "19 We have this hope as an anchor for the soul, firm and secure. It enters the inner sanctuary behind the curtain, 20 where Jesus our forerunner has entered on our behalf. He has become a high priest forever in the order of Melchizedek."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Abraham illustrates faith joined with patient waiting. God confirmed His promise by an oath sworn by Himself, because there was no one greater by whom He could swear. The assurance rests on God’s truthfulness.",
+    "",
+    "The promise and the oath give strong encouragement to those taking refuge in the hope set before them. God’s purpose is unchanging, and it is impossible for Him to lie. The readers are directed toward a dependable promise rather than their own ability to control the future.",
+    "",
+    "The picture then changes from an anchor to the sanctuary behind the curtain. Hope is secure because Jesus has entered there on our behalf as forerunner and enduring high priest. The writer returns to the priesthood of Melchizedek, ready for the fuller explanation in chapter 7."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/6.htm), [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) and the [USCCB notes](https://bible.usccb.org/bible/hebrews/6) identify the two unchangeable things as God’s promise and oath. They understand the anchor and sanctuary language as assurance grounded in God and Christ’s entrance into His presence.",
+    "",
+    "They emphasize different aspects of Abraham’s receiving the promise. Wesley points to Isaac as its pledge, while the USCCB note emphasizes the blessings the patriarchs come to possess beyond earthly life. The broader account in Hebrews 11 holds together real fulfillment already received and what remained ahead."
+  ],
+  "god_plan_lines": [
+    "The oath recalls [Genesis 22:15–18](https://biblehub.com/bsb/genesis/22.htm), where the promise includes blessing for the nations through Abraham’s offspring. [Galatians 3:8, 16, 29](https://biblehub.com/bsb/galatians/3.htm) connects that blessing and inheritance with Christ and those who belong to Him. Abraham’s hope therefore reaches into the purpose that gathers people to God through His Son.",
+    "",
+    "[Hebrews 9:24](https://biblehub.com/bsb/hebrews/9.htm) explains Christ’s entrance into heaven on our behalf, and [10:19–22](https://biblehub.com/bsb/hebrews/10.htm) describes the access His people have through Him. The anchor’s security and the priest’s entrance meet in this promise: God brings His people near through the living Christ."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/6.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-six-review.md"
+  }
+}

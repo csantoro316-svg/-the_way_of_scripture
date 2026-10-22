@@ -5,25 +5,56 @@
     "label": "1 Samuel 11:12-15",
     "slug": "1-samuel-11-12-15"
   },
-  "section_title": "Saul Confirmed as King",
+  "section_title": "Will Saul use the victory to kill his opponents?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "12 Then the people said to Samuel, \u201cWho said that Saul should not reign over us? Bring those men here so we can kill them!\u201d",
-        "13 But Saul ordered, \u201cNo one shall be put to death this day, for today the LORD has worked salvation in Israel.\u201d",
-        "14 Then Samuel said to the people, \u201cCome, let us go to Gilgal and renew the kingship there.\u201d",
-        "15 So all the people went to Gilgal and confirmed Saul as king in the presence of the LORD. There they sacrificed peace offerings before the LORD, and Saul and all the Israelites rejoiced greatly."
+        "12 Then the people said to Samuel, “Who said that Saul should not reign over us? Bring those men here so we can kill them!” 13 But Saul ordered, “No one shall be put to death this day, for today the LORD has worked salvation in Israel.” 14 Then Samuel said to the people, “Come, let us go to Gilgal and renew the kingship there.” 15 So all the people went to Gilgal and confirmed Saul as king in the presence of the LORD. There they sacrificed peace offerings before the LORD, and Saul and all the Israelites rejoiced greatly."
       ]
     }
   ],
   "context_lines": [
-    "In **1 Samuel 11**, this section should be read within the flow of the chapter and the larger movement of 1 Samuel."
+    "After the rescue, the people ask Samuel to produce those who had opposed Saul’s kingship so they can be killed. Saul stops them. He credits the LORD with saving Israel and says no one is to be put to death that day.",
+    "",
+    "Samuel then calls the people to Gilgal to renew the kingship. They confirm Saul as king before the LORD, offer peace sacrifices, and rejoice. The renewal joins recognition of the king with worship of the God Saul has credited for the deliverance."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Saul Confirmed as King** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/1_samuel/11.htm) sees the benefit of former enemies becoming friends rather than being killed. [Gill](https://biblehub.com/commentaries/gill/1_samuel/11.htm) also recognizes both mercy and prudence in Saul’s restraint, emphasizing that he credits God’s power and goodness rather than his own skill.",
     "",
-    "Where interpreters differ on details, the immediate setting in **1 Samuel 11** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-samuel/) reads the Gilgal gathering as confirmation of the earlier choice, now following Saul’s demonstrated ability to help his people. The text names Samuel as the one who proposes it. It does not describe every dissenter’s attendance, a private bargain for support, or Saul’s entire plan for consolidating power."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_samuel/11.htm) extends the scene into a Christian comparison: a formerly despised ruler can receive those who had resisted him. That comparison can be grounded in [Romans 5:6–11](https://biblehub.com/bsb/romans/5.htm), where God’s saving mercy reaches sinners and reconciliation reaches His enemies through Christ.",
+    "",
+    "The difference matters. Saul spares opponents after a military rescue; Christ gives His own life to reconcile enemies to God. The shared theme is mercy toward those who have stood in opposition. The Christian hope rests in Jesus’ saving work, rather than in assuming every political opponent of an earthly ruler is God’s enemy."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_samuel/11.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-samuel-eleven-twelve-review.md"
+  }
 }

@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "2:5-9",
+    "label": "Hebrews 2:5-9",
+    "slug": "hebrews-2-5-9"
+  },
+  "section_title": "Why do we look to Jesus when the world is still broken?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 For it is not to angels that He has subjected the world to come, about which we are speaking. 6 But somewhere it is testified in these words: “What is man that You are mindful of him, or the son of man that You care for him? 7 You made him a little lower than the angels; You crowned him with glory and honor 8 and placed everything under his feet.” When God subjected all things to him, He left nothing outside of his control. Yet at present we do not see everything subject to him.",
+        "9 But we see Jesus, who was made a little lower than the angels, now crowned with glory and honor because He suffered death, so that by the grace of God He might taste death for everyone."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The writer turns from the warning to the world to come. That world has not been placed under angels. He quotes [Psalm 8:4–6](https://biblehub.com/bsb/psalms/8.htm), which marvels that God gives human beings honor and responsibility within His creation.",
+    "",
+    "There is a tension between the promise and what we see. Everything is to be placed under humanity’s feet, yet the world plainly does not display that complete order. The writer directs our attention to Jesus: He shared the lowliness of human life and suffered death, but is now crowned with glory and honor.",
+    "",
+    "Jesus’ suffering does not disprove His greatness. Through God’s grace He tasted death for everyone. The passage holds His real death and His present honor together, preparing to explain how He brings others to glory."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/2.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) both recognize Psalm 8’s concern with humanity and read its fullest realization in Jesus. The [USCCB note](https://bible.usccb.org/bible/hebrews/2) likewise connects His genuinely human suffering with His place of honor. The present disorder does not cancel the promise.",
+    "",
+    "The scope of for everyone is read within different understandings of Christ’s saving work. Wesley explicitly takes it to include every person. Reformed teaching represented by the [Westminster Confession, 3.6](https://www.opc.org/wcf.html), understands redemption as accomplished for God’s elect. This concerns whom Christ’s death is intended to redeem, rather than a difference over whether He truly died. "
+  ],
+  "god_plan_lines": [
+    "[Genesis 1:26–28](https://biblehub.com/bsb/genesis/1.htm) gives human beings responsibility within God’s good creation. Psalm 8 reflects on that gift. Hebrews looks to Jesus as the One in whom humanity’s promised honor reaches its fulfillment, even while the world’s complete restoration is still awaited.",
+    "",
+    "[1 Corinthians 15:20–28](https://biblehub.com/bsb/1_corinthians/15.htm) also applies the language of everything under His feet to Christ. It places His resurrection within the defeat of every enemy, with death last. His victory is therefore larger than an escape from this world: it brings God’s purpose for life and His creation toward its completion."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-two-review.md"
+  }
+}

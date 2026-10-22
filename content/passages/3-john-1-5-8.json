@@ -5,25 +5,50 @@
     "label": "3 John 1:5-8",
     "slug": "3-john-1-5-8"
   },
-  "section_title": "Gaius Commended for Hospitality",
+  "section_title": "How does practical support make us fellow workers?",
   "versions": [
     {
       "label": "BSB",
-      "text": "Beloved, you are faithful in what you are doing for the brothers, and especially since they are strangers to you. They have testified to the church about your love. You will do well to send them on their way in a manner worthy of God. For they went out on behalf of the Name, accepting nothing from the Gentiles. Therefore we ought to support such men, so that we may be fellow workers for the truth."
+      "paragraphs": [
+        "5 Beloved, you are faithful in what you are doing for the brothers, and especially since they are strangers to you. 6 They have testified to the church about your love. You will do well to send them on their way in a manner worthy of God.",
+        "7 For they went out on behalf of the Name, accepting nothing from the Gentiles. 8 Therefore we ought to support such men, so that we may be fellow workers for the truth."
+      ]
     }
   ],
   "context_lines": [
-    "John now commends Gaius for receiving and assisting traveling brothers. The passage shows that hospitality and material support were part of how the early church participated in the spread of the gospel."
+    "The elder commends Gaius for helping fellow believers, including people he did not previously know. Their report confirms his love. He is encouraged to help them continue their journey in a way worthy of God.",
+    "",
+    "These messengers have gone out for the sake of the Name and accept nothing from the Gentiles. The [word used for Gentiles here](https://biblehub.com/greek/1482.htm) refers to people outside the worship of the true God. It does not imply that every Christian of non-Jewish ancestry is excluded from supporting them.",
+    "",
+    "Verse 8 states the result of supporting such people: the helpers become fellow workers for the truth. Gaius does not have to make the same journey to share in the work. His material help has a part in its progress."
   ],
   "common_interpretation_lines": [
-    "This section is commonly read as a strong example of practical partnership in ministry. Gaius is not the public messenger here, but by supporting those who go out for the sake of Christ, he shares in the work.",
-    "",
-    "The phrase **\"on behalf of the Name\"** is often understood as shorthand for witness centered on Jesus Himself. The passage ties loyalty to Christ with concrete generosity toward faithful laborers."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-third-epistle-of-st-john/) and the [USCCB notes](https://bible.usccb.org/bible/3john/1) understand these travelers as messengers of the gospel and the requested help as practical provision for their onward journey. Hospitality and support express Gaius’s faith. The passage concerns support for these faithful workers; it does not promise a financial return to every donor."
+  ],
+  "god_plan_lines": [
+    "In [Matthew 10:40–42](https://biblehub.com/bsb/matthew/10.htm), Jesus connects receiving His messengers with receiving Him and speaks of God recognizing even a cup of cold water given to a disciple. [First Corinthians 9:7–14](https://biblehub.com/bsb/1_corinthians/9.htm) likewise connects gospel work with material support. These passages place Gaius’s hospitality within a larger pattern: God advances the work through both those who go and those who help them."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
   ],
   "deeper_study": [
     {
       "title": "The True Church According to Jesus",
       "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/3_john/1.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-short-john-review.md"
+  }
 }

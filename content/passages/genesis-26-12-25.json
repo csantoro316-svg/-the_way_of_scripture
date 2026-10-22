@@ -5,29 +5,49 @@
     "label": "Genesis 26:12-25",
     "slug": "genesis-26-12-25"
   },
-  "section_title": "Isaac\u2019s Prosperity",
+  "section_title": "Isaac’s Prosperity",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "12 Now Isaac sowed seed in the land, and that very year he reaped a hundredfold. And the LORD blessed him, 13 and he became richer and richer, until he was exceedingly wealthy. 14 He owned so many flocks and herds and servants that the Philistines envied him. 15 So the Philistines took dirt and stopped up all the wells that his father\u2019s servants had dug in the days of his father Abraham.",
-        "16 Then Abimelech said to Isaac, \u201cDepart from us, for you are much too powerful for us.\u201d",
+        "12 Now Isaac sowed seed in the land, and that very year he reaped a hundredfold. And the LORD blessed him, 13 and he became richer and richer, until he was exceedingly wealthy. 14 He owned so many flocks and herds and servants that the Philistines envied him. 15 So the Philistines took dirt and stopped up all the wells that his father’s servants had dug in the days of his father Abraham.",
+        "16 Then Abimelech said to Isaac, “Depart from us, for you are much too powerful for us.”",
         "17 So Isaac left that place and encamped in the Valley of Gerar and settled there. 18 Isaac reopened the wells that had been dug in the days of his father Abraham, which the Philistines had stopped up after Abraham died. And he gave these wells the same names his father had given them.",
-        "19 Then Isaac\u2019s servants dug in the valley and found a well of fresh water there. 20 But the herdsmen of Gerar quarreled with Isaac\u2019s herdsmen and said, \u201cThe water is ours!\u201d So he named the well Esek, because they contended with him.",
+        "19 Then Isaac’s servants dug in the valley and found a well of fresh water there. 20 But the herdsmen of Gerar quarreled with Isaac’s herdsmen and said, “The water is ours!” So he named the well Esek, because they contended with him.",
         "21 Then they dug another well and quarreled over that one also; so he named it Sitnah.",
-        "22 He moved on from there and dug another well, and they did not quarrel over it. He named it Rehoboth and said, \u201cAt last the LORD has made room for us, and we will be fruitful in the land.\u201d",
-        "23 From there Isaac went up to Beersheba, 24 and that night the LORD appeared to him and said, \u201cI am the God of your father Abraham. Do not be afraid, for I am with you. I will bless you and multiply your descendants for the sake of My servant Abraham.\u201d",
+        "22 He moved on from there and dug another well, and they did not quarrel over it. He named it Rehoboth and said, “At last the LORD has made room for us, and we will be fruitful in the land.”",
+        "23 From there Isaac went up to Beersheba, 24 and that night the LORD appeared to him and said, “I am the God of your father Abraham. Do not be afraid, for I am with you. I will bless you and multiply your descendants for the sake of My servant Abraham.”",
         "25 So Isaac built an altar there and called on the name of the LORD, and he pitched his tent there. His servants also dug a well there."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 26**, Isaac faces famine under the shadow of the promises first given to Abraham. The chapter shows the Lord directing, preserving, and blessing Isaac, highlighting the contrast between divine guidance and fearful self-management."
+    "Isaac's harvest yields a hundredfold, and the account expressly credits the LORD's blessing. His wealth, flocks, herds, and household grow. Yet that prosperity brings envy rather than an easy welcome: the Philistines stop up Abraham's wells, and Abimelech tells Isaac to leave because he has become too powerful.",
+    "",
+    "Isaac moves into the Valley of Gerar and reopens his father's wells. New discoveries of water bring further disputes with local herdsmen. He moves on from the wells called Esek and Sitnah until a third well is left uncontested. He calls it Rehoboth and acknowledges that the LORD has made room for them to live and flourish.",
+    "",
+    "At Beersheba, the LORD appears again and tells Isaac not to fear, renewing His promise of presence, blessing, and descendants for Abraham's sake. Isaac responds by building an altar, calling on the LORD, pitching his tent, and having another well dug. Worship and ordinary provision stand together at the end of the account."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Isaac\u2019s Prosperity** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 26** remains the first control on meaning."
+    "A common Christian reading holds together God's material provision, the opposition it provokes, and Isaac's willingness to keep moving rather than fight over each well. [Wesley's notes on Genesis 26:12, 22, 24](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) emphasize seeking peace and taking courage from God's presence."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 11:9–10](https://biblehub.com/bsb/hebrews/11.htm) places Isaac among heirs of the promise who live as strangers while looking toward God's lasting city. This story shows what that waiting can involve: receiving real provision without gaining an uncontested claim to everything around him. Blessing and opposition occur within the same life.",
+    "",
+    "Isaac's restraint also belongs alongside the wider call to entrust conflict to God. [Romans 12:17–21](https://biblehub.com/bsb/romans/12.htm) calls believers to seek peace where possible and resist repaying evil with evil. [1 Peter 2:21–23](https://biblehub.com/bsb/1_peter/2.htm) points to Christ, who did not retaliate but trusted the just Judge. Isaac's restraint reflects that wider call to seek peace and trust God when facing opposition."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/26.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-isaac-and-bethel-review.md"
+  }
 }

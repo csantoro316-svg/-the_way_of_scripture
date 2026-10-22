@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "2:10-13",
+    "label": "1 Corinthians 2:10-13",
+    "slug": "1-corinthians-2-10-13"
+  },
+  "section_title": "How does God make His gifts known?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 But God has revealed it to us by the Spirit. The Spirit searches all things, even the deep things of God. 11 For who among men knows the thoughts of man except his own spirit within him? So too, no one knows the thoughts of God except the Spirit of God. 12 We have not received the spirit of the world, but the Spirit who is from God, that we may understand what God has freely given us. 13 And this is what we speak, not in words taught us by human wisdom, but in words taught by the Spirit, expressing spiritual truths in spiritual words."
+      ]
+    }
+  ],
+  "context_lines": [
+    "God has revealed what human observation could not uncover on its own. The Spirit knows even the deep things of God. Paul compares this with a person’s own spirit knowing that person’s thoughts; his point is the Spirit’s intimate knowledge of God, rather than a promise that believers become all-knowing.",
+    "",
+    "Those who have received the Spirit can understand what God has freely given. Understanding is itself part of the gift. The Corinthians should not credit their social standing or their favorite teacher with opening a way into God’s wisdom.",
+    "",
+    "Paul also identifies the source of the message he and his fellow messengers speak. It is taught by the Spirit, rather than produced by human wisdom. The closing phrase is rendered in the BSB as spiritual truths in spiritual words; its footnote also allows the sense of explaining them to spiritual people. In either case, the message and its understanding depend on the Spirit."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read these verses as identifying the Spirit as the source of revealed truth and of the understanding needed to receive it. [Wesley’s notes on verses 10–13](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) emphasize both the Spirit’s knowledge of God and His teaching of the message; the two possible senses of verse 13 are also acknowledged in the [USCCB note](https://bible.usccb.org/bible/1corinthians/2)."
+  ],
+  "god_plan_lines": [
+    "In [John 14:26](https://biblehub.com/bsb/john/14.htm), Jesus promises His disciples that the Spirit will teach them and bring His words to mind. [John 16:13–15](https://biblehub.com/bsb/john/16.htm) adds that the Spirit will make known what belongs to Christ and glorify Him. These promises give a setting for the Spirit-taught witness Paul describes.",
+    "",
+    "[Ephesians 3:4–6](https://biblehub.com/bsb/ephesians/3.htm) gives a concrete example of what God has revealed by the Spirit: Gentiles share the inheritance, body and promise in Christ through the gospel. Revelation makes God’s saving purpose known and gathers people into a shared life; it is more than private spiritual insight."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Returning to the Word",
+      "href": "../studies/returning-to-the-word.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-two-review.md"
+  }
+}

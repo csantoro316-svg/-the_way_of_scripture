@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "1:8-16",
+    "label": "Daniel 1:8-16",
+    "slug": "daniel-1-8-16"
+  },
+  "section_title": "How does Daniel stay faithful without seeking a confrontation?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "8 But Daniel made up his mind that he would not defile himself with the king’s food or wine. So he asked the chief official for permission not to defile himself. 9 Now God had granted Daniel favor and compassion from the chief official, 10 but he said to Daniel, “I fear my lord the king, who has assigned your food and drink. For why should he see your faces looking thinner than those of the other young men your age? You would endanger my head before the king!”",
+        "11 Then Daniel said to the steward whom the chief official had appointed over Daniel, Hananiah, Mishael, and Azariah, 12 “Please test your servants for ten days. Let us be given only vegetables to eat and water to drink. 13 Then compare our appearances with those of the young men who are eating the royal food, and deal with your servants according to what you see.” 14 So he consented to this and tested them for ten days.",
+        "15 And at the end of ten days, they looked healthier and better nourished than all the young men who were eating the king’s food. 16 So the steward continued to withhold their choice food and the wine they were to drink, and he gave them vegetables instead."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Daniel decides that he will not defile himself with the royal food or wine. He first asks permission, and the Lord has already given him favor with the chief official. That official nevertheless fears being held responsible if the young men look poorly nourished.",
+    "",
+    "Daniel proposes a limited test to the steward: vegetables and water for ten days, followed by a comparison. At the end, the four look healthier and better nourished than those receiving the royal food, so the alternative provision continues.",
+    "",
+    "The word translated vegetables covers vegetable food broadly; [Brown–Driver–Briggs](https://biblehub.com/hebrew/2235.htm) lists the related forms used in verses 12 and 16, and [Cambridge](https://biblehub.com/commentaries/cambridge/daniel/1.htm) explains that it is not restricted to peas and beans. The passage does not give a detailed menu.",
+    "",
+    "The point is Daniel’s faithfulness and the Lord’s care within a real difficulty. He takes his concern seriously while addressing the officials respectfully and considering the risk they face."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/daniel/1.htm) gives several reasons for Daniel’s concern, including forbidden food and food offered to idols. [Cambridge](https://biblehub.com/commentaries/cambridge/daniel/1.htm) likewise discusses dietary requirements and possible dedication to Babylonian gods. These are explanations of why the royal provisions could defile him; the passage itself does not identify the exact item or preparation at issue.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/daniel/1.htm) emphasizes faithfulness and restraint, while Wesley sees the outcome as God’s blessing. The story’s result should be distinguished from a promise that the same menu will always produce the same outcome for every reader."
+  ],
+  "god_plan_lines": [
+    "[First Peter 2:11–17](https://biblehub.com/bsb/1_peter/2.htm) calls believers living as foreigners and exiles to honorable conduct, doing good and showing respect for people in authority. In [Acts 5:27–32](https://biblehub.com/bsb/acts/5.htm), the apostles also make clear that obedience to God takes priority when authorities forbid their witness to Jesus.",
+    "",
+    "The broader connection holds these responsibilities together. Faithfulness does not require unnecessary hostility, and respect does not require disobeying God. Daniel’s request offers a practical example of seeking peace while keeping the commitment that brought him to ask in the first place."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/1.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-one-review.md"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "12:1-6",
+    "label": "2 Samuel 12:1-6",
+    "slug": "2-samuel-12-1-6"
+  },
+  "section_title": "Why can David see the rich man’s cruelty so clearly?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Then the LORD sent Nathan to David, and when he arrived, he said, “There were two men in a certain city, one rich and the other poor. 2 The rich man had a great number of sheep and cattle, 3 but the poor man had nothing except one small ewe lamb that he had bought. He raised it, and it grew up with him and his children. It shared his food and drank from his cup; it slept in his arms and was like a daughter to him. 4 Now a traveler came to the rich man, who refrained from taking one of his own sheep or cattle to prepare for the traveler who had come to him. Instead, he took the poor man’s lamb and prepared it for his guest.” 5 David burned with anger against the man and said to Nathan: “As surely as the LORD lives, the man who did this deserves to die! 6 Because he has done this thing and has shown no pity, he must pay for the lamb four times over.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The LORD sends Nathan to David with a story. A rich man has many animals, while a poor man cherishes one ewe lamb as part of his household. When a traveler arrives, the rich man takes the poor man’s lamb for the meal instead of using his own.",
+    "",
+    "David burns with anger, declares that the man deserves to die, and orders repayment four times over. He recognizes the cruelty of someone who has plenty taking another person’s treasured possession. He has not yet recognized himself in the story."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/12.htm) reads the story as a careful way of bringing David to judge his own conduct before he realizes the application. Nathan approaches the king indirectly, then will identify the wrong plainly.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) notes the contrast between David’s severity toward another person and his indulgence toward himself. The fourfold repayment fits [Exodus 22:1](https://biblehub.com/bsb/exodus/22.htm), but David’s declaration that the man deserves death goes beyond that law’s penalty for taking a sheep. His anger at another person’s lack of pity stands beside his own treatment of Uriah."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/12.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-twelve-review.md"
+  }
+}

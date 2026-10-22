@@ -1,0 +1,66 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "19:17-27",
+    "label": "John 19:17-27",
+    "slug": "john-19-17-27"
+  },
+  "section_title": "What does John show us as Jesus hangs on the cross?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 Carrying His own cross, He went out to The Place of the Skull, which in Hebrew is called Golgotha. 18 There they crucified Him, and with Him two others, one on each side, with Jesus in the middle. 19 Pilate also had a notice posted on the cross. It read: JESUS OF NAZARETH, THE KING OF THE JEWS. 20 Many of the Jews read this sign, because the place where Jesus was crucified was near the city, and it was written in Hebrew, Latin, and Greek. 21 So the chief priests of the Jews said to Pilate, “Do not write, ‘The King of the Jews,’ but only that He said, ‘I am the King of the Jews.’” 22 Pilate answered, “What I have written, I have written.”",
+        "23 When the soldiers had crucified Jesus, they divided His garments into four parts, one for each soldier, with the tunic remaining. It was seamless, woven in one piece from top to bottom. 24 So they said to one another, “Let us not tear it. Instead, let us cast lots to see who will get it.” This was to fulfill the Scripture: “They divided My garments among them, and cast lots for My clothing.” So that is what the soldiers did.",
+        "25 Near the cross of Jesus stood His mother and her sister, as well as Mary the wife of Clopas and Mary Magdalene. 26 When Jesus saw His mother and the disciple whom He loved standing nearby, He said to His mother, “Woman, here is your son.” 27 Then He said to the disciple, “Here is your mother.” So from that hour, this disciple took her into his home."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus carries His cross to the Place of the Skull and is crucified between two others. Pilate’s notice identifies Him as Jesus of Nazareth, the King of the Jews. It is written in Hebrew, Latin and Greek and is read by many because the place is near the city.",
+    "",
+    "The chief priests object to the title being stated as fact rather than as Jesus’ claim. Pilate refuses to change it. Within the scene of humiliation, the title of King remains publicly displayed.",
+    "",
+    "The soldiers divide His garments and cast lots for the seamless tunic. John expressly connects this with [Psalm 22:18](https://biblehub.com/bsb/psalms/22.htm). The details are part of his account of Scripture being fulfilled, not an invitation to reconstruct every item of clothing or every dimension of the cross.",
+    "",
+    "Near Him stand His mother, other women and the disciple whom He loved. Jesus entrusts His mother and that disciple to one another, and the disciple takes her into his home. His concern for her is expressed in a practical provision even as He is dying."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly recognize Jesus’ care for His mother in this exchange. [Calvin on verses 26–27](https://biblehub.com/commentaries/calvin/john/19.htm) emphasizes the disciple taking the place of a son in caring for her; [Wesley on verse 27](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) reads the same practical charge.",
+    "",
+    "The Catholic Church also reads the scene in relation to Mary’s motherhood toward the church. Its [Catechism, paragraphs 963–964](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_three/article_9/paragraph_6_mary_-_mother_of_christ%2c_mother_of_the_church.index.html), connects her union with Christ at the cross and His words to the disciple with that wider role. This adds a spiritual reading to the care expressed in the scene; it should not be confused with a claim that Jesus was unconcerned about her home and support."
+  ],
+  "god_plan_lines": [
+    "The casting of lots directly places the suffering of Jesus within the language of Psalm 22. The King is humiliated, yet the events unfold within the Scripture John is presenting as fulfilled.",
+    "",
+    "The place of His suffering also belongs to a wider connection. [Hebrews 13:11–14](https://biblehub.com/bsb/hebrews/13.htm) compares Jesus suffering outside the city gate with the bodies of sin offerings burned outside the camp. It then calls His people to go to Him bearing His disgrace, looking toward the city to come. The cross becomes a calling to faithful identification with Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/19.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-nineteen-review.md"
+  }
+}

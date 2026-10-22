@@ -1,0 +1,39 @@
+# Ephesians 2:11–22 — editorial evidence (2026-10-20)
+
+## Sources actually checked
+
+Whole baseline lessons2D (PDF101–111) and2E (112–121) actually read. Total Ephesians PDF1–121 of262. A combined print clipped79tokens on112; that page was reread alone. Useful leads include Gentile welcome, shared reconciliation, peace, access through Son/Spirit to Father and God’s dwelling in His people. No teacher/ministry is named publicly, and no wording/outline is closely reproduced.
+
+Whole actual BSB2/WesleyII/USCCB2 notes already checked and reused. Fresh actual BSB Isa57:14–21,Isa56:1–8,Ex12:43–49 and1Pet2:4–10 read. Prior actually verified Gen12:1–3,Gal3:6–14 andActs10:34–48 reused. All public Scripture quotations remain verified BSB. Whole actual Thayer3485/204/4883 read: https://biblehub.com/greek/3485.htm ; https://biblehub.com/greek/204.htm ; https://biblehub.com/greek/4883.htm . Public use of naos is sanctuary/God’s Spirit dwelling in His community, not an unsupported specific masonry process.
+
+Independent historical primary source actually read: Josephus, Jewish War5.5.2, bounded passage about the first/second courts, stone partition and warnings: https://penelope.uchicago.edu/josephus/war-5.html#S5.2 . The HTML anchor was checked. It restricts foreign entry to the inner sanctuary, not every part of the entire temple grounds. It is possible background for Paul’s image, not proof that he only meant a physical wall or claimed demolition on crucifixion day. No whole177kJosephus-text reading is claimed.
+
+Actual Calvin commentary17–18,20–21 and openings19/22 read directly: https://biblehub.com/commentaries/calvin/ephesians/2.htm . Paragraph20 includes Moses/OldTestamentprophets and their doctrinal harmony with apostles. The USCCB2:20 note understands early-Christian prophets, referencing3:5. Calvin is identified as one Reformed teacher, and USCCB as Catholic explanatory notes, not every member’s binding view. The sources’ combative language and non-BSB quotations are not copied. Prior actual WCF19 and DTSV responsibilities distinction reused for the continuing-law comparison: https://www.opc.org/wcf.html ; https://www.dts.edu/about/doctrinal-statement/ .
+
+Owner TrueChurch41–55 actually reread. Its We Are the Temple section43–53, directly discussing1Cor3:16 and the same Spirit-dwelling/people-as-temple subject, supplies a narrow existing position for2:19–22. The public attribution names the study and section. Eph2’s corporate building emphasis is retained; unverified denominational claims or an exclusively individual application are not copied. No study is rewritten.
+
+## Ephesians 2:11–13
+
+Plan section: included, because (a)/(c): Gen12’s blessing for all families is explicitly connected in Gal3:6–14 with Gentile blessing through Christ; Acts10:34–48 shows Gentile hearers receiving the Spirit. This adds the long-standing purpose and its concrete unfolding.
+Position source: none.
+FLAGGED FOR REVIEW: The baseline’s sweeping claims about every Jew’s view of Gentiles, purported hostile sayings, inherited ethnicity, modern economic overrepresentation and celebrity inventors are not independently checked and are omitted. The claim Gentiles had no possible fellowship with God under the old covenant is too broad: fresh Ex12:48–49 permits a circumcised foreigner’s Passover participation as a native, and Isa56:3–8 expressly promises foreign worshippers welcome. These texts do not erase the real distinctions Paul names, but prevent turning his description of these readers’ former condition into an unqualified statement about every Gentile in every age. No guarantee of modern commercial prosperity follows from commonwealth. The exact count of eight Pauline mysteries and a full later-Israel/church timeline are not established by11–13 and are not imposed. No new owner covenant conclusion is supplied.
+
+## Ephesians 2:14–18
+
+Plan section: included, because (a)/(c): Paul’s peace/far/near language recalls Isa57:14–19, and Isa56:3–8 promises gathering foreigners into God’s house. The linked prophetic setting expands the shared access into God’s purpose of gathering people into His presence.
+Position source: none.
+FLAGGED FOR REVIEW: The baseline says God commanded a wall excluding even converts from all temple grounds. Actual Josephus5.5.2 describes a warning barrier before the inner sanctuary, and no divine instruction for the asserted blanket rule was verified. Exact convert status, all temple access rules and an archaeological inscription’s dimensions/date are not reconstructed. The history is labeled a possible background, not the entire meaning of hostility. No physical demolition date or church-building replacement ritual is invented.
+
+Actual Wesley15/WCF19 distinguish ceremonial from continuing moral guidance; DTSV distinguishes Mosaic/current responsibilities. No one teacher’s all-Mosaic-guidance-ended view is presented as consensus or a new owner law position. Christ’s abolition of hostility does not mean hatred literally ceased in every person on the day of His death. Nor does unity require erasing every ethnic identity or endorsing hostility toward Jewish people. Isa57’s original restoration setting is respected; its far/near phrase is not claimed to mention Gentiles by name before Paul’s use. No temple/kingdom timeline beyond these stated connections is imposed.
+
+## Ephesians 2:19–22
+
+Plan section: included, because (a)/(c): 1Pet2:4–10 explicitly joins Christ the living/corner stone, believers as a spiritual house, holy priesthood and proclamation after the change from not-a-people to God’s people. This extends the dwelling image into the gathered community’s purpose.
+Position source: What Is the True Church? — We Are the Temple, content/studies/true_church.md43–53; same Spirit-dwelling subject in its1Cor3:16 discussion.
+FLAGGED FOR REVIEW: The baseline’s claim no Gentile could ever become part of Israel except as a temporary tolerated outsider is not established and is checked against Ex12/Isa56 rather than copied. Apostles and prophets are not automatically equated as the same office; the cited sources actually differ on which prophets are in view. Calvin’s individual reading is not a universal Reformed confession. The meaning of cornerstone is checked without pretending every source settles an exact engineering location; actual USCCB20 also allows capstone/keystone. Fitted-together means close joining in actual Thayer4883; it does not itself prove a detailed history of sparks/chiseling techniques or an exact population to staff a future government.
+
+The baseline extends the building metaphor to guarantee a particular local assignment, condemn smaller-group fellowship as missing church, and discourage departures in protest. Those policies are not stated in this range and are not originated as the site’s position. The actual shared gathering/Spirit dwelling is explained without compelling attendance at an unsafe or unsuitable congregation. The Holy Spirit is not literally called mortar by Paul. The owner position remains limited to God’s presence in His people and responsibility for holy life/relationships, without importing unchecked claims about entire Catholic/Protestant communities or every physical worship space.
+
+## Validation
+
+Fresh BSB verification, repository checks, preservation/full quotation/continuous coverage/canonical navigation audits and idempotence passed. All three reader and standalone pages passed at390px with five/seven sections, no overflow or literal Markdown. Actual Next navigation focused the following title at188.171875px. Hosting dry run and deployment exited successfully; all seven affected live files match. Ephesians now has13reviewedpages covering45actualBSBverses through2:22,13plansections,fourexisting-studypositions andnineopenpositions. Warnings261.

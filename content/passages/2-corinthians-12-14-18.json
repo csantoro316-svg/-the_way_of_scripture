@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "2 Corinthians",
+    "citation": "12:14-18",
+    "label": "2 Corinthians 12:14-18",
+    "slug": "2-corinthians-12-14-18"
+  },
+  "section_title": "What does Paul want from the Corinthians?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 See, I am ready to come to you a third time, and I will not be a burden, because I am not seeking your possessions, but you. For children should not have to save up for their parents, but parents for their children. 15 And for the sake of your souls, I will most gladly spend my money and myself. If I love you more, will you love me less?",
+        "16 Be that as it may, I was not a burden to you; but crafty as I am, I caught you by trickery. 17 Did I exploit you by anyone I sent you? 18 I urged Titus to visit you, and I sent our brother with him. Did Titus exploit you in any way? Did we not walk in the same Spirit and follow in the same footsteps?"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul is preparing to come a third time and again says he will avoid burdening them. He wants them, their good and their faithfulness to Christ. He explains his care through the picture of parents providing for their children.",
+    "",
+    "He is willing to spend his resources and himself for their souls. The question about being loved less as he loves more expresses the pain of that costly care being met with suspicion.",
+    "",
+    "The words about being crafty and catching them by trickery take up the suspicion he is answering. His next questions challenge it directly: did he exploit them through any of the people he sent?",
+    "",
+    "He points specifically to Titus and the brother sent with him. Their shared conduct is something the Corinthians can consider. Paul asks whether Titus took advantage of them and whether they followed the same Spirit and footsteps."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as a defense of sincere care and honest handling of support. [Wesley’s notes on verses 14–18](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-the-corinthians/) explain the trickery language as an accusation Paul rejects, and the [USCCB note on verses 13–18](https://bible.usccb.org/bible/2corinthians/12) likewise connects his questions with rejecting secret self-enrichment."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_corinthians/12.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-corinthians-twelve-closing-review.md"
+  }
+}

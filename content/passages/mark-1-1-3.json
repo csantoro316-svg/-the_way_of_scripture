@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "1:1-3",
+    "label": "Mark 1:1-3",
+    "slug": "mark-1-1-3"
+  },
+  "section_title": "The Good News and the Promised Messenger",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 This is the beginning of the gospel of Jesus Christ, the Son of God.",
+        "2 As it is written in Isaiah the prophet: “Behold, I will send My messenger ahead of You, who will prepare Your way.” 3 “A voice of one calling in the wilderness, ‘Prepare the way for the Lord, make straight paths for Him.’”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Mark opens by identifying the subject of his account: the good news of Jesus Christ, the Son of God. He begins with the promised messenger who will prepare the way, before describing John the Baptist in the wilderness. Unlike Matthew and Luke, he does not begin with Jesus' birth.",
+    "",
+    "Gospel translates εὐαγγέλιον, *euangelion* (yoo-ang-GHEL-ee-on), meaning good news or glad tidings. [Thayer's lexicon](https://biblehub.com/greek/2098.htm) explains its New Testament use as the good news of God's kingdom and salvation through Christ. Mark is introducing what God is doing through Jesus, rather than using a word that simply means a religious book.",
+    "",
+    "The quotation brings together [Malachi 3:1](https://biblehub.com/bsb/malachi/3.htm) and [Isaiah 40:3](https://biblehub.com/bsb/isaiah/40.htm), with wording also recalling the messenger sent ahead in [Exodus 23:20](https://biblehub.com/bsb/exodus/23.htm). The BSB's notes identify Malachi and Isaiah as the quoted passages. Isaiah's name heads the combined quotation, whose wilderness voice leads into John's appearance.",
+    "",
+    "The BSB retains the words identifying Jesus as the Son of God in verse 1 and notes that some textual editions omit them there. The same identification is made clearly later in this chapter, when the voice from heaven addresses Jesus at His baptism ([Mark 1:9–11](https://biblehub.com/bsb/mark/1.htm))."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand John as the promised messenger preparing people for Jesus, and the opening as announcing the good news of salvation through Him. [Wesley on 1:1–3](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-mark/) and the [US Catholic bishops' notes on 1:1–3](https://bible.usccb.org/bible/mark/1) share that basic reading; no denominational breakdown is needed here."
+  ],
+  "god_plan_lines": [
+    "Mark himself links Jesus' arrival with God's earlier promises. In [Isaiah 40:1–11](https://biblehub.com/bsb/isaiah/40.htm), the wilderness announcement belongs to a message of comfort for Jerusalem: God is coming to rule, gather His people, and care for them as a shepherd. Mark applies the preparation of the Lord's way to the coming of Jesus. The good news grows from that long story of God's faithfulness.",
+    "",
+    "[Malachi 3:1–4](https://biblehub.com/bsb/malachi/3.htm) also places a messenger before the coming Lord and speaks of cleansing His people. John is not presented as the destination of their hope. His place is to prepare them for the One who follows. As Mark's account unfolds, the good news will include Jesus' service, suffering, and victory over death—the central events Paul summarizes in [1 Corinthians 15:1–5](https://biblehub.com/bsb/1_corinthians/15.htm)."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-one-opening-review.md"
+  }
+}

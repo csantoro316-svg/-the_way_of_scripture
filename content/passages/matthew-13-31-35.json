@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "13:31-35",
+    "label": "Matthew 13:31-35",
+    "slug": "matthew-13-31-35"
+  },
+  "section_title": "Small Beginnings and Far-Reaching Growth",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "31 He put before them another parable: “The kingdom of heaven is like a mustard seed that a man took and planted in his field. 32 Although it is the smallest of all seeds, yet it grows into the largest of garden plants and becomes a tree, so that the birds of the air come and nest in its branches.”",
+        "33 He told them still another parable: “The kingdom of heaven is like leaven that a woman took and mixed into three measures of flour, until all of it was leavened.” 34 Jesus spoke all these things to the crowds in parables. He did not tell them anything without using a parable. 35 So was fulfilled what was spoken through the prophet: “I will open My mouth in parables; I will utter things hidden since the foundation of the world.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus gives two short pictures of the kingdom. A tiny mustard seed grows into a large garden plant with birds nesting in its branches. Leaven mixed into flour works through the whole batch. Both pictures contrast an initially small or hidden beginning with a much larger effect.",
+    "",
+    "The seed is described within the picture of sowing and garden growth. Attention falls on the contrast between its size at the beginning and the plant at the end. The leaven picture similarly follows something that is no longer easily seen once mixed in, yet whose effect spreads through the dough.",
+    "",
+    "Interpreters differ over whether every feature pictures good growth or whether some details warn about corruption. Jesus does not provide a separate explanation of these images here as He does for the sower and the weeds. Their place among the kingdom parables matters when considering those readings.",
+    "",
+    "Matthew then connects Jesus' use of parables with [Psalm 78:2](https://biblehub.com/bsb/psalms/78.htm). The sayings bring hidden things into speech through everyday pictures. His statement that Jesus speaks in parables describes this teaching to the crowds; the chapter itself also records explanations given to the disciples."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley on Matthew 13:31–33](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) understands the mustard plant and leaven positively, through the gospel spreading and grace working in a person's life. The [US Catholic bishops' notes on 13:31–33](https://bible.usccb.org/bible/matthew/13) likewise emphasize the contrast between the kingdom's small beginning and its great expansion.",
+    "",
+    "[C. I. Scofield's 1917 notes on 13:31–33](https://bible-strong.app/commentary/en/scofield/matt/13) instead warn about impressive outward growth and false teaching spreading among people who profess Christianity. His leaven reading draws on passages where leaven represents corruption. These are different commentators' positions, not two uniform official church teachings. They differ particularly over what the growth reveals and how the images should be connected with other passages."
+  ],
+  "god_plan_lines": [
+    "Matthew's explicit Psalm connection places Jesus' teaching within the story of God making His works known. [Psalm 78:1–8](https://biblehub.com/bsb/psalms/78.htm) calls the next generation to hear what God has done, trust Him, and avoid the stubbornness of earlier generations. Jesus' words likewise call for hearing that becomes a real response.",
+    "",
+    "A related scriptural picture appears in [Ezekiel 17:22–24](https://biblehub.com/bsb/ezekiel/17.htm): God plants a small shoot that becomes a great cedar, with birds finding shelter in its branches. This provides a scriptural parallel of growth and shelter under God's rule."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/13.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-thirteen-review.md"
+  }
+}

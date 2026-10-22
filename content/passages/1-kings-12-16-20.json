@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "12:16-20",
+    "label": "1 Kings 12:16-20",
+    "slug": "1-kings-12-16-20"
+  },
+  "section_title": "How does the kingdom break apart?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "16 When all Israel saw that the king had refused to listen to them, they answered the king: “What portion do we have in David, and what inheritance in the son of Jesse? To your tents, O Israel! Look now to your own house, O David!” So the Israelites went home, 17 but Rehoboam still reigned over the Israelites living in the cities of Judah. 18 Then King Rehoboam sent out Adoram, who was in charge of the forced labor, but all Israel stoned him to death. And King Rehoboam mounted his chariot in haste and escaped to Jerusalem. 19 So to this day Israel has been in rebellion against the house of David. 20 When all Israel heard that Jeroboam had returned, they summoned him to the assembly and made him king over all Israel. Only the tribe of Judah followed the house of David."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The people answer Rehoboam’s refusal by rejecting the house of David and returning home. Rehoboam continues to rule the Israelites in Judah’s cities, but the wider union has broken.",
+    "",
+    "He sends Adoram, the official responsible for forced labor, and the people stone him to death. Rehoboam escapes to Jerusalem in his chariot. The northern assembly then makes Jeroboam king.",
+    "",
+    "The dispute over service has become a lasting political division, with a killing at the point of rupture. Solomon’s son retains rule, but no longer over all the people his father governed."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) and [Gill](https://biblehub.com/commentaries/gill/1_kings/12.htm) distinguish God’s purpose in the division from approval of the people’s motives and conduct. Gill expressly condemns the killing of Adoram, while recognizing that the separation fulfills the announced judgment.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/12.htm) focuses on the rejection of David’s house and the need to face loss without revenge. The following scene makes the practical question immediate: will Rehoboam try to restore the kingdom by force?"
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/12.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-twelve-review.md"
+  }
+}

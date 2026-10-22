@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Ezra",
+    "citation": "10:1-5",
+    "label": "Ezra 10:1-5",
+    "slug": "ezra-10-1-5"
+  },
+  "section_title": "What response does Shecaniah propose?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 While Ezra prayed and made this confession, weeping and falling facedown before the house of God, a very large assembly of Israelites—men, women, and children—gathered around him, and the people wept bitterly as well. 2 Then Shecaniah son of Jehiel, an Elamite, said to Ezra: “We have been unfaithful to our God by marrying foreign women from the people of the land, yet in spite of this, there is hope for Israel. 3 So now let us make a covenant before our God to send away all the foreign wives and their children, according to the counsel of my lord and of those who tremble at the command of our God. Let it be done according to the Law. 4 Get up, for this matter is your responsibility, and we will support you. Be strong and take action!”",
+        "5 So Ezra got up and made the leading priests, Levites, and all Israel take an oath to do what had been said. And they took the oath."
+      ]
+    }
+  ],
+  "context_lines": [
+    "As Ezra prays and weeps before God’s house, a large gathering of men, women and children joins him in bitter weeping. Shecaniah son of Jehiel acknowledges the unfaithfulness but also says there is still hope for Israel.",
+    "",
+    "He proposes a covenant to send away the foreign wives and their children, according to the counsel of those who tremble at God’s command, and calls Ezra to lead. Ezra then requires the leading priests, Levites and people to take an oath to act on the proposal.",
+    "",
+    "The proposal involves an actual separation of families, not simply an expression of regret. The following verses describe the assembly and investigation through which the matter is addressed."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezra/10.htm), [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-ezra/) and [Gill](https://biblehub.com/commentaries/gill/ezra/10.htm) see the response as moving from sorrow to action under the covenant requirements. They understand the marriages in question as unlawful in that setting.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/ezra/10.htm) also distinguishes that setting from marriage after the gospel’s removal of the separation between Jews and Gentiles. The New Testament directly addresses a Christian married to an unbeliever: if the unbelieving spouse is willing to remain, the believer must not divorce that spouse ([1 Corinthians 7:10–16](https://biblehub.com/bsb/1_corinthians/7.htm)). Ezra’s account therefore needs to be read alongside those instructions when considering Christian marriage."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Returning to the Word",
+      "href": "../studies/returning-to-the-word.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezra/10.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezra-nine-ten-review.md"
+  }
+}

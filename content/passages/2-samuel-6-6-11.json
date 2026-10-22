@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "6:6-11",
+    "label": "2 Samuel 6:6-11",
+    "slug": "2-samuel-6-6-11"
+  },
+  "section_title": "Why does the celebration stop at Uzzah’s death?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 When they came to the threshing floor of Nacon, Uzzah reached out and took hold of the ark of God, because the oxen had stumbled. 7 And the anger of the LORD burned against Uzzah, and God struck him down on the spot for his irreverence, and he died there beside the ark of God. 8 Then David became angry because the LORD had burst forth against Uzzah. So he named that place Perez-uzzah, as it is called to this day. 9 That day David feared the LORD and asked, “How can the ark of the LORD ever come to me?”",
+        "10 So he was unwilling to move the ark of the LORD to the City of David; instead, he took it aside to the house of Obed-edom the Gittite. 11 Thus the ark of the LORD remained in the house of Obed-edom the Gittite for three months, and the LORD blessed him and all his household."
+      ]
+    }
+  ],
+  "context_lines": [
+    "At Nacon’s threshing floor the oxen stumble. Uzzah reaches out and takes hold of the ark, and God strikes him down. The BSB describes the reason as his irreverence. David becomes angry and afraid, and the journey stops.",
+    "",
+    "David asks how the ark can come to him and takes it instead to Obed-edom’s house. It remains there three months, during which the LORD blesses Obed-edom and his household. The same account that records judgment also records blessing; the ark is not presented as a source of automatic harm to every household near it."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/6.htm) understands Uzzah’s action as presumption toward something holy. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) acknowledges how severe the judgment appears when the apparent intention is to protect the ark, but reads it as a warning against treating God’s holiness lightly. Both go beyond merely describing a transport accident.",
+    "",
+    "The Hebrew expression behind irreverence is difficult. [Brown–Driver–Briggs](https://biblehub.com/hebrew/7944.htm) notes disputed explanations, including acting hastily or in error. That uncertainty does not establish that the fault belongs only to David. The parallel in [1 Chronicles 13:10](https://biblehub.com/bsb/1_chronicles/13.htm) explicitly connects Uzzah’s death with his putting his hand on the ark.",
+    "",
+    "Leadership responsibility remains part of the story. In [1 Chronicles 15:11–15](https://biblehub.com/bsb/1_chronicles/15.htm), David acknowledges that they had not consulted God about the proper order. That passage lets us recognize the wider failure without inventing a complete account of Uzzah’s inner thoughts or declaring him an innocent bystander."
+  ],
+  "god_plan_lines": [
+    "The question of approaching a holy God runs through Scripture. Here, the desire to bring the ark near does not erase the boundaries God has given. Yet the blessing on Obed-edom’s household shows that God’s presence is not something His people must simply flee.",
+    "",
+    "[Hebrews 12:28–29](https://biblehub.com/bsb/hebrews/12.htm) calls those receiving God’s kingdom to grateful worship with reverence and awe. [Hebrews 4:14–16](https://biblehub.com/bsb/hebrews/4.htm) also invites believers to approach God’s throne confidently because Jesus is their great high priest.",
+    "",
+    "This is a shared biblical theme, rather than a claim that Hebrews directly interprets Uzzah’s death. Reverence and confidence belong together: we do not make God less holy in order to come near, and through Christ we are invited to seek mercy and help."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/6.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-six-review.md"
+  }
+}

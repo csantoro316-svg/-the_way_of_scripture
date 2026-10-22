@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "4:14-17",
+    "label": "1 Corinthians 4:14-17",
+    "slug": "1-corinthians-4-14-17"
+  },
+  "section_title": "Why does Paul call them his children and ask them to imitate him?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 I am not writing this to shame you, but to warn you as my beloved children. 15 Even if you have ten thousand guardians in Christ, you do not have many fathers; for in Christ Jesus I became your father through the gospel. 16 Therefore I urge you to imitate me. 17 That is why I have sent you Timothy, my beloved and faithful child in the Lord. He will remind you of my way of life in Christ Jesus, which is exactly what I teach everywhere in every church."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After strong correction, Paul explains his purpose: he is warning beloved children rather than trying to humiliate them. He describes the relationship formed when he brought them the gospel as becoming their father in Christ Jesus.",
+    "",
+    "This language concerns care and responsibility, not a claim that he is the source of their salvation. Earlier he called himself a servant and said God gave the growth. His appeal to imitate him is therefore an appeal to a life shaped by Christ, rather than another competing loyalty to Paul’s name.",
+    "",
+    "Timothy will remind them of that way of life. Paul’s teaching and example belong together, and he describes them as consistent with what he teaches in every church. The Corinthians need more than another impressive speaker; they need to live out the message they have received."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a fatherly appeal grounded in Paul’s role in bringing the gospel and continuing to care for the church. [Wesley’s notes on verses 14–17](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) emphasize affection and imitation through both teaching and example; [Calvin’s comment on verse 15](https://biblehub.com/commentaries/calvin/1_corinthians/4.htm) also connects this relationship with their life in Christ through the gospel."
+  ],
+  "god_plan_lines": [
+    "[1 Thessalonians 2:7–12](https://biblehub.com/bsb/1_thessalonians/2.htm) uses both a mother’s care and a father’s encouragement to describe gospel ministry. Paul shares not only the message but his life, urging believers to walk in a way worthy of the God who calls them into His kingdom and glory.",
+    "",
+    "This is a parallel in parental care, rather than an equation between every leader’s wishes and God’s will. The purpose of such care is to help people live faithfully before God. Teaching, example, encouragement and correction serve that larger calling."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/4.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-four-review.md"
+  }
+}

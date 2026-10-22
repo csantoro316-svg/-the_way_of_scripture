@@ -1,0 +1,51 @@
+# Ezekiel 2–3 passage review — 2026-10-21
+
+Six new groups /37 actual BSB verses /three supported plans /three intentional omissions /six exact open positions. Canonical continuation of chapter1. Preserve other source/index/standalone content and boundary navigation; no owner study changed.
+
+## Actually read sources
+
+Supplied624page Ezekiel PDF actuallyread1–57inclusive:1A1–10,1B11–22,2A23–33,2B34–45,3lesson46–57. Entirebaselinefor2/3 read. Pages58+unread. Actualwhole mainBSB2/3 (10/27verses),Henry/Wes2/3expositions,USCCB3wholeactualnotesread;USCCB2HTTPerrorunused. BDB7186qasheh/2389chazaq/120adam actualwholeentriesread and2:4interlinear actualwordformsread;only7186 publicoriginalwordexplanation. No applicableownerposition found byEzekiel2/3citationsearch.
+
+Actualformalprimarydocuments read: WCF17whole(1–3)directOPCcache;1689Baptist17wholeparagraphs1–3;CatholicCatechism1854–1864directVaticanHTML(includingconditions1857–60and1861lossgrace);MethodistArticleXIIactualUMCwebopen(HTTPfetchfailedbutwebreturnedactualwholetext). Their broaderteachings not falselyclaimedofficialverse-by-verseEzekielcommentaries. NoOrthodox/Lutheranforcedbreakdownwithoutuniquedifferenceconfirmed.
+
+ActualBSBsupportread 2Pet1:16–21;Rev10:8–11;Acts20:24–32;2Cor4:1–7;Acts26:12–20;John14:15–18.2Cor4/John14notneededpublicthisbatch;notclaimtheirpresenceforcesPlan. No publicbaselineauthor/ministryname/wording.
+
+## 2:1–7
+
+Plan section: included, because (b)/(c). Acts26stand/commission fromrisenJesus explicitlabeledparallelnotquotation;missionsIsrael/PaulalsoGentilesdistinguished.2Pet1Spiritcarriedpropheticspeechbroaderbiblicalpurpose.
+Position source: none.
+FLAGGED FOR REVIEW: BDB7186explicitEzek2:4hardofacestubborn verified;interlinearpluralconstructqeshepanimratherthanprintsingularasexactverseform. Publicadjectiveqashehdictionaryformcorrect. BDB2389strongofheartNOTquestion'whoisstronger';noallpanimdictionarysenses(east/upside/honor)simultaneouslymeanpridesymbol. No directioneastalwayssininBiblecode. BDB120humanbeingbenadamverifiedbutnoadditionalunnecessarylexiconpublic. No strictallOTSpiritonlytemporaryneveractiveoutsideprophetsassertion;John14foreverAdvocateactualreadbutnotusedtodefinemechanicstextdoesnotgive. No scorpionscan'tkillmedicalfalseclaim/clinicalfearsinforeverycase. Rejectiondoesnotproveeveryself-appointedmessengerisGodprophet. No firstJerusalemconquesteverGentileclaim. No ownerposition.
+
+## 2:8–10
+
+Plan section: omitted, because none apply. Receivingmessagealreadyexplained;Rev10eatingscrollconnectionreservedforfollowing3:1–11action.
+Position source: none.
+FLAGGED FOR REVIEW: No unverifiedallancientscrollsone-sidedonlycourtjudgmentsbothsidesrule. No inventedinsidecovenanttermsoutsidepenaltiescontents;actualonlylamentationmourningwoe. Eatingvisionnopracticalinstructioneatpaper/nonfood. No allwhohaveanopinioncansayThusLordwithpropheticinfallibility. No ownerposition.
+
+## 3:1–11
+
+Plan section: included, because (a). Rev10:9–11 direct eating/sweethoneytextualusefollowedprophecyworldwide;JohnbitterstomachnotEzekielstomach here.
+Position source: none.
+FLAGGED FOR REVIEW: ActualBSB3:6counterfactualforeignpeoplesWOULDlisten retained ratherthanbaselineNASBpeopleSHOULDlisten. ActualBSBdiamondharderflint retained,notunverifiedmodernelementmineralhierarchyneeded. HebrewdeepLip/heavyTonguerangeclaimsnotadoptedwithoutBDB8256/3515/3956verification;no claimalllanguagebarriersreallypersonalwill. No everyresistanceresultclinicalinability/moralbetrayal. No blanketGodopposeseverythingworldapproves(includingordinarygoodthings). No baselinePharaohwillingaftersixplaguespredeterminedtenroundstypologyneeded. Spiritstrengthnotcommissionbullying/spousalstubbornness. No ownerposition.
+
+## 3:12–15
+
+Plan section: omitted, because none apply. Burden/reactionalreadyexplained, noforcedsecondRev10Plan.
+Position source: none.
+FLAGGED FOR REVIEW: BSB15EZEKIELoverwhelmed,notbaselinecausedconsternationamongothersbyweekofunauthorizedtalk. No inventedGodpunishedhisgossip/oversharingorwhyheangryasfact;Henrygrief/Wesdispleasedworkactualdifferentexplanationsattributed. BaselineLXXconversanttranslationnotindependentlyprimaryverifiedandnotadopted;noSeptuagintcountsasBSB. NoTelabibetymoldspring/precisemodernmaplocationculturalclaim. No bitternessguaranteedallmatureChristians/superiorityvengefulattitudeasvirtue. No physicaltransportvsvisionmechanicdeterminedbeyondactualSpiritliftedtook. No ownerposition.
+
+## 3:16–21
+
+Plan section: included, because (b)/(c). Acts20:26–27blood/wholeGodwill/warningsparallel,explicitlynoEzekielnamedquotation;24–32actualcontextgrace/watchflock/tears.
+Position source: none.
+FLAGGED FOR REVIEW: Baselineonlyphysicaldeath/loseeternalrewardsreadingnotconsensus;HenryexplicitnationalcovenantANDfinalstateapplication,Wesapostasyperishsinsactual. No formaltraditionsclaimofficialinterpretationeveryEzekielverse. WCF/1689believersfinallypreservednotneverrealsin/nomoralduty;Cathmortalsingravefullknowledgefreeconsentandrestorationnotallmistakeslosegrace;UMCdepartgrace/restorereliefactualXII,notallArminianssamechurchstructure. No workssalvationownerconclusionoriginated. Righteouspreviousdeedsnotshieldactualwarn. No massgroupperpetualethnicguilt, clinicalearlydeathprovesGodpunishesspecificperson, blamebereaved, or automaticeveryChristianresponsibleforanyone else'sdamnationiftheydidnotpreach. Paulwatcheswithtears/gracesoavoidprideorcoercion. No ownerposition.
+
+## 3:22–27
+
+Plan section: omitted, because none apply. Restrictedcalling/wordauthorityalreadyexplained;2Cor4honestmessageparallelconsideredbutwouldmainlyrepeatthispoint.
+Position source: none.
+FLAGGED FOR REVIEW: No literalbindingcannotbetruebecauseonlynotlaterrecorded;textleavesbondsnatureopen. No Ezekielalreadychatteredweekangryandsilencepunishmentinferrednarrative. No GodtaughtmodernChristianmustisolatehouseavoidallunbelievingneighbors;particularcommissionnotgeneralpublicinstructionhousearrest. No everybodywhorebukesAI/teachermustwicked. No medicalexplanationtongue/neurologicaldiagnosis. No ownerposition.
+
+## Validation
+
+Focused generation, direct BSB, repository (0 errors /389 warnings), preservation, continuous coverage, idempotence, twelve mobile views and physical Next passed. Hosting dry run, deployment and LIVE MATCH 10 each observed exit 0. Prefix /tmp/scripture-ezekiel-two-three-.

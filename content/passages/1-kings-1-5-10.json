@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "1:5-10",
+    "label": "1 Kings 1:5-10",
+    "slug": "1-kings-1-5-10"
+  },
+  "section_title": "How does Adonijah try to make himself king?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 At that time Adonijah, David’s son by Haggith, began to exalt himself, saying, “I will be king!” And he acquired chariots and horsemen and fifty men to run ahead of him. 6 (His father had never once reprimanded him by saying, “Why do you act this way?” Adonijah was also very handsome, born next after Absalom.) 7 So Adonijah conferred with Joab son of Zeruiah and with Abiathar the priest, who supported him. 8 But Zadok the priest, Benaiah son of Jehoiada, Nathan the prophet, Shimei, Rei, and David’s mighty men would not join Adonijah.",
+        "9 And Adonijah sacrificed sheep, oxen, and fattened calves near the stone of Zoheleth, which is next to En-rogel. He invited all his royal brothers and all the men of Judah who were servants of the king. 10 But he did not invite Nathan the prophet, Benaiah, the mighty men, or his brother Solomon."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Adonijah, David’s son by Haggith, declares that he will be king. He gathers chariots, horsemen and fifty runners, recalling Absalom’s earlier display in [2 Samuel 15:1](https://biblehub.com/bsb/2_samuel/15.htm).",
+    "",
+    "The narrator notes that David has never reprimanded him. Adonijah is handsome and was born after Absalom. He gains the support of Joab and Abiathar, but Zadok, Benaiah, Nathan and other servants of David do not join him.",
+    "",
+    "Adonijah holds a sacrificial feast near En-rogel and invites the royal sons and the king’s servants from Judah. Solomon and several of David’s leading supporters are left out. A claim to the throne is taking shape without David’s authorization."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) reads the failure to correct Adonijah as David’s serious error and a source of his son’s presumption. The account places that failure beside Adonijah’s confidence and public display.",
+    "",
+    "Wesley gives more than one possible reason for Joab and Abiathar’s support: they may have considered Adonijah entitled to the throne, or may have sought to protect their own interests. The narrative names their support without disclosing all their motives.",
+    "",
+    "The contrast is between Adonijah promoting himself and the decision David has yet to make public. The outward signs of a royal following do not settle who has authority to reign."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/1.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-one-review.md"
+  }
+}

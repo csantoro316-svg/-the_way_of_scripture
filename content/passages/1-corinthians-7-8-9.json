@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "7:8-9",
+    "label": "1 Corinthians 7:8-9",
+    "slug": "1-corinthians-7-8-9"
+  },
+  "section_title": "Should an unmarried believer seek marriage?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "8 Now to the unmarried and widows I say this: It is good for them to remain unmarried, as I am. 9 But if they cannot control themselves, let them marry. For it is better to marry than to burn with passion."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul addresses the unmarried and widows, commending remaining unmarried as he is. He also tells those who cannot exercise self-control to marry. Marriage is a permitted and good response, rather than a spiritual failure.",
+    "",
+    "The counsel continues his recognition of different gifts. He is asking people to be honest about their circumstances and capacity, rather than trying to prove their devotion by adopting a way of life that leaves them struggling with temptation. These verses establish that Paul was unmarried when writing; they do not give a complete account of his earlier marital history."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this counsel as valuing unmarried service to God while permitting marriage and recognizing different gifts. The Catholic [Catechism 1618–1620](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_three/article_7/i_marriage_in_gods_plan.html) honors both marriage and virginity for the kingdom as gifts from the Lord; [Wesley’s note on verse 7](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) likewise connects remaining unmarried with a gift not given to everyone."
+  ],
+  "god_plan_lines": [
+    "In [Matthew 19:10–12](https://biblehub.com/bsb/matthew/19.htm), Jesus describes some people choosing to forgo marriage for the sake of the kingdom of heaven. He also says this is something only those given the capacity can receive.",
+    "",
+    "This connection places voluntary singleness within service to God’s kingdom, rather than making it simply the absence of a spouse. Paul’s permission to marry also matters within that purpose: the call is to faithful service with the gifts one has received, rather than a single required household arrangement for every believer."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/7.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-seven-opening-review.md"
+  }
+}

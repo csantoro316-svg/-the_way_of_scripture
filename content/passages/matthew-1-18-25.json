@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "1:18-25",
+    "label": "Matthew 1:18-25",
+    "slug": "matthew-1-18-25"
+  },
+  "section_title": "The Birth of Jesus Christ",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "18 This is how the birth of Jesus Christ came about: His mother Mary was pledged in marriage to Joseph, but before they came together, she was found to be with child through the Holy Spirit. 19 Because Joseph her husband was a righteous man and was unwilling to disgrace her publicly, he resolved to divorce her quietly.",
+        "20 But after he had pondered these things, an angel of the Lord appeared to him in a dream and said, “Joseph, son of David, do not be afraid to embrace Mary as your wife, for the One conceived in her is from the Holy Spirit. 21 She will give birth to a Son, and you are to give Him the name Jesus, because He will save His people from their sins.”",
+        "22 All this took place to fulfill what the Lord had said through the prophet: 23 “Behold, the virgin will be with child and will give birth to a son, and they will call Him Immanuel” (which means, “God with us”).",
+        "24 When Joseph woke up, he did as the angel of the Lord had commanded him and embraced Mary as his wife. 25 But he had no union with her until she gave birth to a Son. And he gave Him the name Jesus."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Matthew now explains the unusual ending of the genealogy. Mary is pledged to Joseph, but before they come together she is found to be pregnant through the Holy Spirit. The reader is told the child's origin before Joseph receives the explanation.",
+    "",
+    "Their pledge is more binding than a modern engagement. Matthew calls Joseph her husband and describes his proposed action as divorce. The [US Catholic bishops' note on Matthew 1:18](https://bible.usccb.org/bible/matthew/1) explains betrothal as the first part of marriage, before the couple began normal life together. Joseph is described as righteous and unwilling to expose Mary to public disgrace, so he plans to end the bond quietly.",
+    "",
+    "While he considers this, an angel addresses him in a dream as a son of David and tells him not to fear taking Mary as his wife. The child is conceived through the Holy Spirit. Joseph is to name Him Jesus because He will save His people from their sins. The explanation redirects his decision, and his response is to do what he has been told.",
+    "",
+    "The Greek name is Ἰησοῦς, *Iēsous* (ee-ay-SOOS), the form also used for Joshua. [Thayer's Greek Lexicon](https://biblehub.com/greek/2424.htm) connects the name with the LORD's saving help and specifically discusses Matthew 1:21. The angel's explanation gives the name its purpose within this account: this child will bring rescue from sin.",
+    "",
+    "Matthew identifies the event as fulfillment of Isaiah's Immanuel promise, explaining Immanuel as God with us. In [Isaiah 7:10–17](https://biblehub.com/bsb/isaiah/7.htm), the sign addresses Ahaz and the house of David amid national danger. Matthew sees the promise fulfilled in this child's birth. Joseph takes Mary as his wife, has no sexual union with her before the birth, and gives the child the commanded name. His obedience joins the child to the Davidic household introduced in the genealogy."
+  ],
+  "common_interpretation_lines": [
+    "Historic Christian traditions agree that Jesus was conceived through the Holy Spirit and born of the Virgin Mary. The [Westminster Confession 8.2](https://www.opc.org/wcf.html) describes Him as truly God and truly human, taking His humanity from Mary without sin. The [Catholic Catechism, paragraphs 484–486](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/artcile_3/paragraph_2_conceived_by_the_power_of_the_holy_spirit_and_born_of_the_virgin_mary.html), likewise describes the Son becoming human through the Spirit's work in Mary.",
+    "",
+    "The Catholic Church also teaches that Mary remained a virgin throughout her life, as stated in [Catechism paragraphs 499–500](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/artcile_3/paragraph_2_conceived_by_the_power_of_the_holy_spirit_and_born_of_the_virgin_mary.html). The [Orthodox Church in America](https://www.oca.org/questions/romancatholicism/the-perpetual-virginity-of-mary) affirms that same lifelong virginity. This goes beyond the shared affirmation that Jesus was conceived without a human father.",
+    "",
+    "The word until in verse 25 is sometimes treated as deciding what happened after the birth. [Wesley's note on Matthew 1:25](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) cautions that the wording alone does not establish later sexual relations. [Baptist commentator John Gill](https://biblehub.com/commentaries/gill/matthew/1.htm) similarly distinguishes what is certain before the birth from what the verse leaves unstated afterward. These comments help keep the verse's clear emphasis on Jesus' conception separate from further conclusions about Mary's later life."
+  ],
+  "god_plan_lines": [
+    "Matthew presents more than an unexpected birth. The child will save His people from their sins, and [Matthew 26:27–28](https://biblehub.com/bsb/matthew/26.htm) later connects Jesus' poured-out blood with forgiveness. The announced rescue at the beginning points toward His self-giving at the end.",
+    "",
+    "The New Testament also connects God's Son entering human life with a new future for His people. [Galatians 4:4–7](https://biblehub.com/bsb/galatians/4.htm) describes the Son born of a woman to redeem and bring adoption. [Romans 5:15–19](https://biblehub.com/bsb/romans/5.htm) contrasts the ruin associated with Adam's disobedience with the life brought through Christ's obedience. Together, these passages present the Son's coming and obedient life as God's answer to sin and death.",
+    "",
+    "Immanuel also introduces a promise of presence that runs through this Gospel. At its close, [Matthew 28:18–20](https://biblehub.com/bsb/matthew/28.htm) joins the mission to all nations with Jesus' assurance that He is with His disciples. God with us reaches from the birth announcement to the life and mission of the people Jesus sends."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-genealogy-and-birth-review.md"
+  }
+}

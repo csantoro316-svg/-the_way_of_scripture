@@ -5,18 +5,53 @@
     "label": "1 Peter 3:21",
     "slug": "1-peter-3-21"
   },
+  "section_title": "What does Peter mean when he says baptism now saves?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"Baptism now saves you \u2014 not the removal of dirt from the flesh, but an appeal to God for a good conscience \u2014 through the resurrection of Jesus Christ.\""
+      "label": "BSB",
+      "paragraphs": [
+        "21 And this water symbolizes the baptism that now saves you also—not the removal of dirt from the body, but the pledge of a clear conscience toward God—through the resurrection of Jesus Christ,"
+      ]
     }
   ],
   "context_lines": [
-    "In **1 Peter 3**, Peter is teaching believers how to endure suffering with a good conscience while following Christ's example. The chapter's discussion of baptism is tied to Christ's death, resurrection, and triumph, not to empty outward ritual divorced from the appeal of a cleansed conscience toward God."
-  ],
-  "explanation_lines": [
-    "Already quoted in Section III, Peter's statement bears revisiting in full: *\"Baptism now saves you \u2014 not the removal of dirt from the flesh, but an appeal to God for a good conscience \u2014 through the resurrection of Jesus Christ.\"* Peter makes a strong claim, then immediately defines what he means by it. Baptism saves \u2014 but not because of the water itself. He explicitly rules that out. What saves is the appeal to God for a good conscience, made effectual through Christ's resurrection. The illustration Peter uses in the preceding verse makes this clear: the ark saved Noah's family, but not because the wood had power. The ark was the vessel God appointed; the water judged the world while those inside were carried safely through it.",
+    "The preceding verse recalls Noah’s family brought safely through the floodwater. Peter now connects that rescue with baptism, using a [word for a corresponding picture](https://biblehub.com/greek/499.htm).",
     "",
-    "Baptism works the same way \u2014 it is the appointed vessel of an appeal that only the resurrection of Christ can answer. The saving power is His, received through genuine faith; baptism is where that faith is formally pledged."
-  ]
+    "His statement includes its own clarification: the saving matter is not bodily dirt being washed off. The BSB speaks of a pledge of a clear conscience toward God; the [Greek expression](https://biblehub.com/greek/1906.htm) is also understood as an appeal to God for a good conscience. Peter grounds the connection in Jesus Christ’s resurrection."
+  ],
+  "common_interpretation_lines": [
+    "The Catholic [Catechism, 1213](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_1.html), teaches new birth and incorporation into Christ through baptism. The Lutheran [Small Catechism, Baptism](https://bookofconcord.cph.org/en/small-catechism/baptism/), links forgiveness and salvation with God’s word joined to the water and received in faith.",
+    "",
+    "The Reformed [Westminster Confession, 28.1, 28.5–6](https://www.opc.org/wcf.html), teaches a sign and seal of grace while rejecting the claim that every baptized person is necessarily born anew. The [1689 Baptist Confession, 29.1–2](https://www.the1689confession.com/1689/chapter-29), emphasizes the sign of union with Christ, administered to those professing repentance and faith. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-epistle-general-of-st-peter/) distinguishes the outward sign from inward grace. The traditions therefore relate baptism and salvation differently, rather than agreeing on every part of the verse."
+  ],
+  "god_plan_lines": [
+    "[Romans 6:3–5](https://biblehub.com/bsb/romans/6.htm) links baptism with sharing in Christ’s death and resurrection and walking in new life. That connection helps keep Peter’s language centered on Christ’s saving work, rather than on an isolated washing.",
+    "",
+    "The following verse places the risen Jesus at God’s right hand over every authority. The rescue pictured here rests on the Savior who has passed through death and now lives and rules."
+  ],
+  "current_position_lines": [
+    "Our study [Baptism](https://thewayofscripture.com/studies/baptism.html) understands baptism here as the appointed expression of genuine faith, in which that faith is formally pledged before God. The water has no saving power of its own. The saving power belongs to Christ and His resurrection, received through faith."
+  ],
+  "deeper_study": [
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_peter/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-first-peter-three-closing-review.md",
+    "position_source_detail": "Baptism — baptism.md94–98 and122–126; water not inherently powerful, faith formally pledged, saving power Christ/resurrection. No new view on spirits in prison or infant baptism added."
+  }
 }

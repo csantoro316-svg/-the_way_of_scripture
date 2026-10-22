@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "14:7-11",
+    "label": "Luke 14:7-11",
+    "slug": "luke-14-7-11"
+  },
+  "section_title": "Why should a guest leave the place of honor to the host?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 When Jesus noticed how the guests chose the places of honor, He told them a parable: 8 “When you are invited to a wedding banquet, do not sit in the place of honor, in case someone more distinguished than you has been invited. 9 Then the host who invited both of you will come and tell you, ‘Give this man your seat.’ And in humiliation, you will have to take the last place. 10 But when you are invited, go and sit in the last place, so that your host will come and tell you, ‘Friend, move up to a better place.’ Then you will be honored in front of everyone at the table with you. 11 For everyone who exalts himself will be humbled, and the one who humbles himself will be exalted.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus notices guests choosing the places of honor and tells them a parable about being invited to a wedding banquet. Taking the highest place risks the humiliation of being moved when a more distinguished guest arrives.",
+    "",
+    "Instead, the guest is to take the last place and let the host invite him higher. The honor comes from the host’s welcome rather than the guest’s claim about himself.",
+    "",
+    "Jesus states the principle beyond the seating arrangement: those who exalt themselves will be humbled, and those who humble themselves will be exalted. His words reach the desire for status that the guests’ choices reveal."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand this as instruction in humility that reaches beyond table manners. Wesley applies the principle across life, and Calvin emphasizes the inward posture before God rather than an outward performance of modesty. ([Wesley on Luke 14:7–11](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [Calvin on Luke 14:7–11](https://biblehub.com/commentaries/calvin/luke/14.htm))"
+  ],
+  "god_plan_lines": [
+    "Proverbs offers a close parallel: do not put yourself among the great, because being invited higher is better than being publicly moved down. Jesus’ banquet picture continues that Scriptural wisdom about receiving honor rather than claiming it. ([Proverbs 25:6–7](https://biblehub.com/bsb/proverbs/25.htm))",
+    "",
+    "Philippians places humility under Christ’s own example. He takes the servant’s place and becomes obedient to death, and God exalts Him. First Peter likewise calls believers to humble themselves under God’s hand and trust Him for the time of lifting them up. Humility belongs within following the Lord who first walked that path. ([Philippians 2:3–11](https://biblehub.com/bsb/philippians/2.htm); [1 Peter 5:5–6](https://biblehub.com/bsb/1_peter/5.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/14.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-fourteen-opening-review.md"
+  }
+}

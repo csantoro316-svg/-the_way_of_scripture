@@ -5,25 +5,45 @@
     "label": "3 John 1:13-15",
     "slug": "3-john-1-13-15"
   },
-  "section_title": "Conclusion",
+  "section_title": "How does a difficult letter end with personal care?",
   "versions": [
     {
       "label": "BSB",
-      "text": "I have many things to write to you, but I would prefer not to do so with pen and ink. Instead, I hope to see you soon and speak with you face to face. Peace to you. The friends here send you greetings. Greet each of our friends there by name."
+      "paragraphs": [
+        "13 I have many things to write to you, but I would prefer not to do so with pen and ink. 14 Instead, I hope to see you soon and speak with you face to face. Peace to you. The friends here send you greetings. Greet each of our friends there by name."
+      ]
     }
   ],
   "context_lines": [
-    "John closes by returning from correction to fellowship. Even a sharp letter ends with peace, personal presence, and named relationships among believers."
+    "The elder has more to write, but hopes to visit soon and speak face to face. The letter closes with peace and greetings between friends. Asking that each friend be greeted by name gives the ending a personal warmth.",
+    "",
+    "The BSB places the peace and final greetings in verse 14. Editions that number them as verse 15 cover the same closing material; the Scripture panel here follows the BSB numbering.",
+    "",
+    "The writer does not explain why he prefers to finish the conversation in person. His closing expresses that preference without telling readers that letters are inadequate or that a specific threat prevented him from saying more."
   ],
   "common_interpretation_lines": [
-    "A common reading of the conclusion is that Christian truth is meant to be lived in real fellowship, not reduced to distant correspondence alone. John expects direct presence to finish what the letter begins.",
-    "",
-    "The final greetings are also commonly read as evidence of a relationally connected church life. The faith is carried through known people, not through abstraction."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-third-epistle-of-st-john/) emphasizes greeting the friends individually, as though they had each been named. The [USCCB note](https://bible.usccb.org/bible/3john/1) recognizes friends as members of the connected Christian community. The emphasis is personal fellowship and peace at the end of a letter that has addressed a painful conflict."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
   ],
   "deeper_study": [
     {
       "title": "The True Church According to Jesus",
       "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/3_john/1.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-short-john-review.md"
+  }
 }

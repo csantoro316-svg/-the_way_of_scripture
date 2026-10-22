@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "15:14-21",
+    "label": "Romans 15:14-21",
+    "slug": "romans-15-14-21"
+  },
+  "section_title": "What does Paul hope his ministry will offer to God?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 I myself am convinced, my brothers, that you yourselves are full of goodness, brimming with knowledge, and able to instruct one another. 15 However, I have written you a bold reminder on some points, because of the grace God has given me 16 to be a minister of Christ Jesus to the Gentiles in the priestly service of the gospel of God, so that the Gentiles might become an offering acceptable to God, sanctified by the Holy Spirit.",
+        "17 Therefore I exult in Christ Jesus in my service to God. 18 I will not presume to speak of anything except what Christ has accomplished through me in leading the Gentiles to obedience by word and deed, 19 by the power of signs and wonders, and by the power of the Spirit of God. So from Jerusalem all the way around to Illyricum, I have fully proclaimed the gospel of Christ. 20 In this way I have aspired to preach the gospel where Christ was not known, so that I would not be building on someone else’s foundation. 21 Rather, as it is written: “Those who were not told about Him will see, and those who have not heard will understand.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul affirms the Roman believers’ goodness, knowledge and ability to instruct one another, then explains why he has written boldly. His reminder belongs to the grace God has given him for ministry among the Gentiles.",
+    "",
+    "He describes that ministry in priestly language. The verb is hierourgeō (hee-eh-roor-GEH-oh), ἱερουργέω, to carry out priestly service; see [Thayer’s entry](https://biblehub.com/greek/2418.htm). The Gentiles are pictured as an offering made acceptable to God through the Holy Spirit’s sanctifying work.",
+    "",
+    "Paul’s confidence is in what Christ has accomplished through him by word, deed and the Spirit’s power. His account reaches from Jerusalem toward Illyricum and explains his aim of announcing Christ where He was not yet known. He describes his particular mission rather than setting up a rivalry with workers in established churches."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as Paul explaining his calling and giving credit to Christ for its fruit. The priestly picture focuses on people brought to God through the gospel and sanctified by the Spirit. His desire to reach new places is a mission priority, not a claim that teaching and supporting existing believers have no value."
+  ],
+  "god_plan_lines": [
+    "Paul explicitly quotes [Isaiah 52:13–15](https://biblehub.com/bsb/isaiah/52.htm), where God’s servant is exalted and nations encounter what they had not previously been told or understood. Paul sees his proclamation of Christ among new hearers within that scriptural horizon.",
+    "",
+    "The aim is larger than covering territory. People from the nations come to belong to God, with the Spirit making them an acceptable offering. The ministry serves God’s purpose of making Christ known and forming a people who respond to Him in faith and obedience."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/15.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-fifteen-review.md"
+  }
+}

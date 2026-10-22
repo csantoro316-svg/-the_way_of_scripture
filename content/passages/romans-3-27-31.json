@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "3:27-31",
+    "label": "Romans 3:27-31",
+    "slug": "romans-3-27-31"
+  },
+  "section_title": "Why does faith leave no room for boasting?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "27 Where, then, is boasting? It is excluded. On what principle? On that of works? No, but on that of faith. 28 For we maintain that a man is justified by faith apart from works of the law.",
+        "29 Is God the God of Jews only? Is He not the God of Gentiles too? Yes, of Gentiles too, 30 since there is only one God, who will justify the circumcised by faith and the uncircumcised through that same faith. 31 Do we, then, nullify the law by this faith? Certainly not! Instead, we uphold the law."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul draws out the consequence of the rescue he has described: boasting is excluded. A person is justified by faith apart from works of the law. There is no achievement that allows the rescued person to claim the place of the rescuer.",
+    "",
+    "He connects this directly with the nations. God is the God of Gentiles as well as Jews. Since there is one God, circumcised and uncircumcised people are put right through the same faith. Paul does not offer one route for Israel and another for everyone else.",
+    "",
+    "The last question anticipates a misunderstanding: does faith make the law void? Paul answers that faith upholds it. He has already said that the Law and the Prophets bear witness to God’s righteousness. The gospel does not require treating that testimony as false or worthless, and the next chapter will turn to Abraham as a scriptural example."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read these verses as excluding pride in human achievement and affirming one God’s saving invitation to both Jew and Gentile. Paul’s final answer also prevents faith from being presented as permission to disregard everything God has taught. The differences over justification explained in the preceding passage do not remove these shared concerns."
+  ],
+  "god_plan_lines": [
+    "[Galatians 3:6–14](https://biblehub.com/bsb/galatians/3.htm) explicitly connects Abraham’s faith, the promise of blessing to the nations and Christ’s redemption. Paul describes the Gentiles’ justification by faith as part of the good news announced beforehand to Abraham.",
+    "",
+    "That places the shared faith of Jew and Gentile within God’s earlier promise. The widening invitation is not an improvised second plan. It carries forward the purpose witnessed by the Scriptures while removing grounds for one group to boast over another."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-three-review.md"
+  }
+}

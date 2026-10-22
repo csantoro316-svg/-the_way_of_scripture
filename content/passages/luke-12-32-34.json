@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "12:32-34",
+    "label": "Luke 12:32-34",
+    "slug": "luke-12-32-34"
+  },
+  "section_title": "How does the Father’s gift change the way His people use possessions?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "32 Do not be afraid, little flock, for your Father is pleased to give you the kingdom. 33 Sell your possessions and give to the poor. Provide yourselves with purses that will not wear out, an inexhaustible treasure in heaven, where no thief approaches and no moth destroys. 34 For where your treasure is, there your heart will be also."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus reassures the disciples as a little flock: their Father is pleased to give them the kingdom. His generosity stands before the instruction about their own giving.",
+    "",
+    "They are to sell possessions and give to the poor, turning toward treasure in heaven that cannot be exhausted, stolen or destroyed. The contrast reaches beyond deciding how best to preserve earthly goods.",
+    "",
+    "Jesus connects treasure with the heart. What they value and where they place it are part of the same question. The Father’s promised gift invites them to release possessions for the good of others instead of treating them as their final security."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly emphasize generosity and freedom from being controlled by wealth. The Catholic Church teaches that Christ’s followers must place Him above riches and keep their attachment to possessions from obstructing love. Wesley likewise stresses the greater inheritance of the kingdom, while reading the particular sale instruction as addressed to these disciples rather than a universal rule that every Christian must sell everything. ([Catechism §§2544–2547](https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_two/article_10/iii_poverty_of_heart.html); [Wesley on Luke 12:32–33](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))"
+  ],
+  "god_plan_lines": [
+    "Acts shows believers selling possessions and sharing with those in need as part of their common life of teaching, meals and prayer. The generosity Jesus calls for becomes visible in the community gathered around His message. ([Acts 2:42–47](https://biblehub.com/bsb/acts/2.htm))",
+    "",
+    "Paul grounds another collection for needy believers in Christ’s own grace: though rich, He became poor for their sake. Giving is then described according to what people have, with one community’s surplus helping another’s need. This places generosity within God’s work of forming a people who receive grace and share with one another. ([2 Corinthians 8:9–15](https://biblehub.com/bsb/2_corinthians/8.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/12.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-twelve-wealth-review.md"
+  }
+}

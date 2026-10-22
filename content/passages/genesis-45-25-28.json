@@ -10,19 +10,34 @@
     {
       "label": "BSB",
       "paragraphs": [
-        "25 So the brothers went up out of Egypt and came to their father Jacob in the land of Canaan. 26 \u201cJoseph is still alive,\u201d they said, \u201cand he is ruler over all the land of Egypt!\u201d",
+        "25 So the brothers went up out of Egypt and came to their father Jacob in the land of Canaan. 26 “Joseph is still alive,” they said, “and he is ruler over all the land of Egypt!”",
         "But Jacob was stunned, for he did not believe them. 27 However, when they relayed all that Joseph had told them, and when he saw the wagons that Joseph had sent to carry him back, the spirit of their father Jacob was revived.",
-        "28 \u201cEnough!\u201d declared Israel. \u201cMy son Joseph is still alive! I will go to see him before I die.\u201d"
+        "28 “Enough!” declared Israel. “My son Joseph is still alive! I will go to see him before I die.”"
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 45**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "The brothers return to Jacob in Canaan with news he has long believed impossible: Joseph is alive and rules over Egypt. At first he cannot believe them. The shock comes after years of mourning the son whose bloodied robe seemed to establish his death.",
+    "",
+    "The description of Jacob being stunned uses פּוּג, *pûg* (poog), to grow numb. [Brown–Driver–Briggs](https://biblehub.com/hebrew/6313.htm) specifically cites his heart's response in Genesis 45:26. The word helps convey how overwhelming the report is before he can take it in.",
+    "",
+    "The brothers repeat Joseph's words, and Jacob sees the wagons sent to carry him. His spirit revives. The news is accompanied by a visible invitation and the means to make the journey, and he resolves to see his living son before he dies.",
+    "",
+    "The chapter closes with renewed hope and a decision to go. The actual departure will follow God's reassurance in the next chapter. For the moment, the father who refused comfort over Joseph's supposed death is preparing for a meeting he had no longer expected to have."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Revival of Jacob** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 45** remains the first control on meaning."
+    "Christians commonly read the scene as a movement from stunned disbelief to renewed hope. [Wesley's notes on Genesis 45:26–27](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) emphasize that Joseph's being alive matters to Jacob even more than the report of his high position. The father's desire is to see his son."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/45.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-reunion-and-mercy-review.md"
+  }
 }

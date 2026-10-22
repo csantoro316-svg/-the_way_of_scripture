@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "22:30-40",
+    "label": "1 Kings 22:30-40",
+    "slug": "1-kings-22-30-40"
+  },
+  "section_title": "Does Ahab’s disguise keep him safe?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "30 And the king of Israel said to Jehoshaphat, “I will disguise myself and go into battle, but you wear your royal robes.” So the king of Israel disguised himself and went into battle. 31 Now the king of Aram had ordered his thirty-two chariot commanders, “Do not fight with anyone, small or great, except the king of Israel.” 32 When the chariot commanders saw Jehoshaphat, they said, “Surely this is the king of Israel!” So they turned to fight against him, but Jehoshaphat cried out. 33 And when the chariot commanders saw that he was not the king of Israel, they turned back from pursuing him.",
+        "34 However, a certain man drew his bow without taking special aim, and he struck the king of Israel between the joints of his armor. So the king said to his charioteer, “Turn around and take me out of the battle, for I am badly wounded!” 35 The battle raged throughout that day, and the king was propped up in his chariot facing the Arameans. And the blood from his wound ran out onto the floor of the chariot, and that evening he died. 36 As the sun was setting, the cry rang out in the army: “Every man to his own city, and every man to his own land!”",
+        "37 So the king died and was brought to Samaria, where they buried him. 38 And the chariot was washed at the pool of Samaria where the prostitutes bathed, and the dogs licked up Ahab’s blood, according to the word that the LORD had spoken. 39 As for the rest of the acts of Ahab, along with all his accomplishments and the ivory palace and all the cities he built, are they not written in the Book of the Chronicles of the Kings of Israel? 40 And Ahab rested with his fathers, and his son Ahaziah reigned in his place."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Ahab disguises himself for battle while Jehoshaphat wears his royal robes. The Aramean chariot commanders have been ordered to pursue the king of Israel, so they initially turn toward Jehoshaphat. When he cries out and they recognize their mistake, they stop pursuing him.",
+    "",
+    "An unnamed archer, taking no special aim, strikes Ahab between the joints of his armor. The wounded king remains propped up in his chariot during the battle and dies that evening. A cry then sends the men back to their own cities and lands.",
+    "",
+    "Ahab is buried in Samaria. When his chariot is washed there, dogs lick up his blood. The narrator identifies this as happening according to the LORD’s word. The report closes with Ahab’s accomplishments and the succession of his son Ahaziah."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/22.htm) and [Gill](https://biblehub.com/commentaries/gill/1_kings/22.htm) see Ahab’s arrangement as protecting himself while exposing Jehoshaphat to danger. For Jehoshaphat’s rescue, [2 Chronicles 18:28–34](https://biblehub.com/bsb/2_chronicles/18.htm) adds explicitly that the LORD helped him and drew the attackers away.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) emphasizes the contrast between the apparently unplanned arrow and the announced outcome. The disguise does not prevent Ahab’s death, and the scattering of the army brings Micaiah’s warning into view. The account’s focus is the fulfillment of the word Ahab had rejected."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/22.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-twenty-two-review.md"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "8:18-25",
+    "label": "Romans 8:18-25",
+    "slug": "romans-8-18-25"
+  },
+  "section_title": "What are we waiting for while creation groans?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "18 I consider that our present sufferings are not comparable to the glory that will be revealed in us. 19 The creation waits in eager expectation for the revelation of the sons of God. 20 For the creation was subjected to futility, not by its own will, but because of the One who subjected it, in hope 21 that the creation itself will be set free from its bondage to decay and brought into the glorious freedom of the children of God. 22 We know that the whole creation has been groaning together in the pains of childbirth until the present time.",
+        "23 Not only that, but we ourselves, who have the firstfruits of the Spirit, groan inwardly as we wait eagerly for our adoption as sons, the redemption of our bodies. 24 For in this hope we were saved; but hope that is seen is no hope at all. Who hopes for what he can already see? 25 But if we hope for what we do not yet see, we wait for it patiently."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul has just connected being God’s children with sharing Christ’s suffering and glory. He now looks beyond present suffering to what God will reveal. He does not deny the pain; he sets it beside a future great enough to change how believers wait.",
+    "",
+    "Creation itself shares in the waiting. Paul pictures it as subjected to frustration and decay, yet looking toward freedom when God’s children are revealed. His image of childbirth brings pain and expectation together: the groaning belongs to a world awaiting what it cannot bring about for itself.",
+    "",
+    "Believers groan too. Having the Spirit does not mean they have already received everything God promises. They await the redemption of their bodies. The Spirit is the firstfruits—the beginning of the gift that points toward its completion. Hope concerns what is still unseen, so waiting calls for patience."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a promise that God’s saving work reaches beyond present inward comfort to bodily resurrection and creation’s freedom from decay. Groaning and faith can exist together. Suffering does not prove that the Spirit is absent, and hope does not require pretending that life is painless."
+  ],
+  "god_plan_lines": [
+    "[Genesis 3:17–19](https://biblehub.com/bsb/genesis/3.htm) connects human sin with a cursed ground, painful labor and return to dust. Paul’s picture looks toward release from the decay that now marks created life.",
+    "",
+    "[Revelation 21:1–5](https://biblehub.com/bsb/revelation/21.htm) carries that hope into the picture of a new heaven and earth, God dwelling with His people, and the end of death and mourning. These passages share the wider promise of God renewing life with His people. Romans gives hope in that renewal without supplying a schedule for every event."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/8.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-eight-middle-review.md"
+  }
+}

@@ -1,0 +1,41 @@
+# Exodus 10 passage review — 2026-10-20
+
+Two existing groups cover29actualBSBverses. Whole relevant baseline lessonExodus10PDF94–114actuallyread; cumulative1–114read,115+UNREAD. Source/index/web/neighbor snapshots before mutation under /tmp/scripture-exodus-ten-. Existing URLs/deeper relationships preserved. No source-study change or new site position.
+
+Actualread: BSB10whole29;Wes10whole5249chars52694–57943;USCCB10allnotes;interlinear10:10whole2031;Calvin10only2476–5323,16039–19100,35702–39171read. OtherCalvin10UNREAD;Gill10FETCHEDUNREADunused. BDB7451first1200actualadjective/feminineentryread,remaining10430entryUNREAD. No generatedTopicalmaterialused. Interlinearlabelsra'ahadjectivefemininesingular,actualBDBdefinesbad/evil,notEgyptianpropername. No evidencefromcheckedprimariesestablishesbaselineclaimtranslatorswrongandPharaohspecificallynamesRa. Wordclaimexcluded.
+
+Sources:
+
+- https://biblehub.com/bsb/exodus/10.htm
+- https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/
+- https://biblehub.com/commentaries/calvin/exodus/10.htm
+- https://bible.usccb.org/bible/exodus/10
+- https://biblehub.com/interlinear/exodus/10-10.htm
+- https://biblehub.com/hebrew/7451.htm
+- https://biblehub.com/bsb/deuteronomy/6.htm (20–25)
+- https://biblehub.com/bsb/psalms/78.htm (1–8)
+- https://biblehub.com/bsb/1_corinthians/10.htm (1–12)
+- https://biblehub.com/bsb/revelation/16.htm (10–11)
+- https://www.metmuseum.org/art/collection/search/545713 (actualwebbody10–11andmetadata3–45read)
+
+BritishMuseumgeneralEgyptiangodspage403andfindfailed,notcreditedasread. ActualMetMiddleKingdomscarabdescriptionindependentlyverifiessolarReworship/protectiveinscriptions,longbeforeLatePeriodHapyscarabpreviousbatch. Publiconlyculturalbackground,notExodusdatedfromobject. Sun-religionjudgmentconnectionisaninterpretiveinferencegivenhistoryandEx12godsjudgmentalreadychecked,notmuseumexegeticalendorsement. Public/privateMetparaphraseunder200words. USCCB10notpubliclyquoted;privatebriefverificationnotesunder200words. BSB/oldcommentaries/lexiconpublicdomain. AllBiblecrossreferencerangesactuallyread;noalternativequotationspassedasBSB. No baseline attribution or copied wording/outline.
+
+## Exodus 10:1–20
+
+Plan section: included, because (a)/(c). Deut6:20–25futurechildaskscommandsanswerbeginsEgyptdeliverance;Ps78:1–8nextgenerationtrust/remembrance/obedience;1Cor10:1–12explicitchurchinstructionfrombroaderExodusjourneyandwilderness. DoesnotpretendPaulmentionslocustplagueorquotes10:2directly. RememberingGodactsforcominggenerationsusefulbaselinebigpicturecheckedandretained.
+Position source: none.
+FLAGGED FOR REVIEW: Baseline10:10RaEgyptiansungodnotHebrewevil/translationwrongunsupportedbyactualinterlinearandBDB7451;publicpreservesBSBentonevilandfairCalvin/Wessarcasticthreatreading,nonewBibletranslation. Ra/ReverifiedEgyptiandeityelsewheredoesnotprovehomophonicsimilarityequalsHebrewmeaninghere. No pharaohsunincarnationexacthistoricaltheorynecessarytotext. No allcourtcriticismimmediateexecutionorofficialspublicinsurrectionasserted. No allEasternwomenexcludedreligiousceremoniesuniversalethnicclaim. EveryoneleavesdirectMoseslistchecked,noinventedfullfamilyconversionrule.
+
+FLAGGED FOR REVIEW: Cropsequence9:31–32/10:5clearbutexacttwomonthgapandregrowthtimingunverified. No locustsdefinitelyArabiansourceor24hourmathematicalclockclaimed:BSBdaynight/morningwindkept. Goshenimmunitynotexplicit10locustaccount;notassumedfromallotherplagues. BaselineSethlooks-likelocust/Isisexactgodplaguelistunverifiedandnotimported. No everybelievermustclaimGodtoldme/IfeelLordleadsdirectrevelationaspublictestimonypractice. TestimonyhereGodrevealedExodusacts,ownerWordstandardsmaintained. Rev9locustimagerydifferentnonvegetationharmnotforcedidenticalplaguerepetition;strongerplancontentmemoryandwritteninstructionretained. No sinforaskingothersprayorconfessionguaranteessincerefaith. PharaohresistancetextandGodhardeningkeptwithoutnewsitepredestinationstance.
+
+## Exodus 10:21–29
+
+Plan section: included, because (b)/(c). Rev16:10–11beastkingdomdarkness/judgment/refusalrepentlabeledlaterparallel. Notmandatoryone-to-onetimetableorallphysicalcausesidentical.
+Position source: none.
+FLAGGED FOR REVIEW: BSBpalpabledarknessexplainedplainlyasfelt. Wesfogs/vapoursputtingoutfires/candles,USCCBsandstormpossible,Calvinordinaryeclipseinadequateallcommentaryproposalsnotindependentlysettledphysicalevent. No chemical/meterological/medicalexplanationassertedasfact. BaselineGoshenoutdoorsdarkonlyindoorlampsinferenceunproven;BSBstateslightdwellings,publickeepsthat. No apparitionsofdemonsorblindnessclinicaldiagnosisasfact. Noexact3days=burialChristallegoryforced.
+
+FLAGGED FOR REVIEW: ReprotectiveinscriptionsverifiedMet;longRa/Khepri/Horakhty/Aten/Atum/Thoth/Nuticonographymappingnotverifiedandnotneeded. BaselineKheprieagleclaimsuspect,notimported. MuseuminscriptionsnotnewtranslationofEx10:10. Needanimalsforworshipexplicit,notpharaohoffertotakehisownanimalsautomaticallyprovisionguarantee. Mosesneverseeface10:29andlater11:8/12:31narrativetimingcouldreadsameintervieworrenewedsummons;chapter10publicdoesnotassertpermanentabsenceoraccuseBiblecontradiction. Laterlesson11–12notyetread,donotmanufacturefinaltimelineuntilresearch. Rev16darknessparalleljudgmentdoesnotmakeallordinarydarknessdemonsorallphysicalpainproofsin. NeitheralljudgmentsalwaysonlypunitiveandnoEgyptianmercypossible,noruniversalsalvationforced. Godauthorityclear,noownerneweschatologicalsystem.
+
+## Validation
+
+Passed focusedBSB/repository(0errors218warnings),preservation,continuouscoverage,idempotenceand allfour390pxreader/standalonechecks(exacttitle/sections/nooverflow/norawMarkdown). ActualNext10:1–20→10:21–29focusedtitle/top188.515625px. Explicit-projectdryrun,realdeploymentand live6MATCHobservedexit0. Cumulative27reviewedgroups/274actualBSBverses/26plans/1existing-studyposition/26open. Globalintentionalreviewedplanomissions52unchanged.

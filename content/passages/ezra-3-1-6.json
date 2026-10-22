@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Ezra",
+    "citation": "3:1-6",
+    "label": "Ezra 3:1-6",
+    "slug": "ezra-3-1-6"
+  },
+  "section_title": "Why does worship begin before the temple is rebuilt?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 By the seventh month, the Israelites had settled in their towns, and the people assembled as one man in Jerusalem. 2 Then Jeshua son of Jozadak and his fellow priests, along with Zerubbabel son of Shealtiel and his associates, began to build the altar of the God of Israel to sacrifice burnt offerings on it, as it is written in the Law of Moses the man of God. 3 They set up the altar on its foundation and sacrificed burnt offerings on it to the LORD—both the morning and evening burnt offerings—even though they feared the people of the land.",
+        "4 They also celebrated the Feast of Tabernacles in accordance with what is written, and they offered burnt offerings daily based on the number prescribed for each day. 5 After that, they presented the regular burnt offerings and those for New Moons and for all the appointed sacred feasts of the LORD, as well as all the freewill offerings brought to the LORD. 6 On the first day of the seventh month, the Israelites began to offer burnt offerings to the LORD, although the foundation of the temple of the LORD had not been laid."
+      ]
+    }
+  ],
+  "context_lines": [
+    "In the seventh month, the people gather in Jerusalem. Jeshua and the priests, together with Zerubbabel and his associates, rebuild the altar so that offerings can begin according to the Law of Moses.",
+    "",
+    "They offer the morning and evening sacrifices despite their fear of the surrounding peoples. The account also records the Feast of Tabernacles, the regular offerings and freewill gifts. The temple’s foundation has not yet been laid.",
+    "",
+    "The festival recalls Israel’s life in booths after leaving Egypt, as explained in [Leviticus 23:33–43](https://biblehub.com/bsb/leviticus/23.htm). For this returning community, keeping it means resuming the worship Scripture prescribes while much of the rebuilding still lies ahead."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezra/3.htm), [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-ezra/) and [Gill](https://biblehub.com/commentaries/gill/ezra/3.htm) emphasize that the people begin with the worship they can offer rather than wait for a completed temple. Their fear is real, but it does not prevent them from rebuilding the altar and following the written instructions."
+  ],
+  "god_plan_lines": [
+    "The wider biblical story continues the question of how people approach God. In [John 4:19–26](https://biblehub.com/bsb/john/4.htm), Jesus tells the Samaritan woman of worship in spirit and truth that will not be confined to Jerusalem or her mountain.",
+    "",
+    "[Romans 12:1–2](https://biblehub.com/bsb/romans/12.htm) calls believers to offer their bodies as living sacrifices in response to God’s mercy. These passages develop the theme beyond the altar here: worship reaches the whole life of those who belong to God. They do not turn Ezra’s prescribed offerings into meaningless ceremonies; they show how the New Testament describes worship through Christ."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezra/3.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezra-three-four-review.md"
+  }
+}

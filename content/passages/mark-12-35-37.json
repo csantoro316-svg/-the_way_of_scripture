@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "12:35-37",
+    "label": "Mark 12:35-37",
+    "slug": "mark-12-35-37"
+  },
+  "section_title": "How can the Messiah be David’s son and David’s Lord?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "35 While Jesus was teaching in the temple courts, He asked, “How can the scribes say that the Christ is the Son of David? 36 Speaking by the Holy Spirit, David himself declared: ‘The Lord said to my Lord, “Sit at My right hand until I put Your enemies under Your feet.”’ 37 David himself calls Him ‘Lord.’ So how can He be David’s son?” And the large crowd listened to Him with delight."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After answering the questions put to Him, Jesus raises a question of His own while teaching in the temple. People expect the Christ—the Messiah, God’s promised king—to come from David’s family. Jesus asks them to consider what David himself says about that king.",
+    "",
+    "He quotes Psalm 110:1, where David describes the LORD speaking to someone David calls his Lord. The place at God’s right hand expresses extraordinary honor and authority. Jesus’ question asks how the promised descendant can also hold that higher place. It presses beyond a family tree to the identity and authority of the Messiah. ([Psalm 110:1–7](https://biblehub.com/bsb/psalms/110.htm))",
+    "",
+    "Mark says that David spoke by the Holy Spirit. Jesus treats the psalm as a word that deserves their attention, and the large crowd listens gladly. He does not resolve the question with another exchange here; later New Testament passages explicitly connect the psalm with His resurrection and exaltation."
+  ],
+  "common_interpretation_lines": [
+    "The major Christian traditions understand Jesus as truly belonging to David’s family and also being greater than David: He is God’s Son and David’s Lord. Both the Catholic study notes and Calvin read Jesus’ question as showing that Davidic descent alone does not fully explain who the Messiah is. ([USCCB, note on Mark 12:35–37](https://bible.usccb.org/bible/mark/12); [Calvin, Mark 12:35–37](https://biblehub.com/commentaries/calvin/mark/12.htm))"
+  ],
+  "god_plan_lines": [
+    "Peter directly uses this same psalm when announcing Jesus’ resurrection. David died, but God raised Jesus and exalted Him at His right hand; the risen Lord then poured out the promised Holy Spirit. What sounds like an unanswered question in the temple becomes part of the apostles’ explanation of what God has done through Jesus. ([Acts 2:29–36](https://biblehub.com/bsb/acts/2.htm))",
+    "",
+    "Colossians brings the wider purpose into view: the Son through whom all things were created is also the One through whom God makes peace by the blood of His cross. His greatness and His saving work belong together. God’s promised king brings forgiveness, reconciliation, and a people gathered under His care. ([Colossians 1:13–22](https://biblehub.com/bsb/colossians/1.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/12.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-twelve-closing-review.md"
+  }
+}

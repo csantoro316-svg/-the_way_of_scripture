@@ -1,0 +1,35 @@
+# Mark 2:13–28 editorial review
+
+Baseline PDF lessons 2B (107–120), 2C (121–134), and 2D (135–148) read in full. Retained after checks: Levi's prompt response and meal, physician caring for sinners, the joy of the bridegroom's presence and later removal, incompatible cloth/wineskins, David's need, Sabbath as God's good gift, and the wider promise of rest. Wording and organization are original. Public explanations use ordinary language; technical classifications stay here.
+
+Direct BSB main text read: Mark2:13–28; Luke5:27–39; Matthew9:9–17; Matthew12:1–8; Hosea6:1–7; Romans3:9–26; Galatians3:19–27; 1Samuel21:1–9; Deuteronomy23:24–25; Leviticus24:5–9; Exodus20:8–11; Deuteronomy5:12–15; John3:25–30; Isaiah62:1–5; Revelation19:6–9; Hebrews4:1–16; Romans8:1–4; Hebrews1:1–4; Matthew11:28–30; Mark14:22–25. Last three Pauline/Hebrews leads are background checks, not all published. BibleHub main text and notes distinguished from its generated summary. Actual Thayer5057,268,522,46,779 entries read, excluding generated topical content. Public uses only helpful cloth and container explanations, with links.
+
+Own-tradition primary readings checked: Calvin's harmony of Matthew9:9–17 and Matthew12:1–8 on Mark2; Wesley's Mark2 notes; USCCB Mark2 notes. Calvin and USCCB share the physician/need and Sabbath-benefit readings. On the wineskins they actually differ: USCCB emphasizes Jesus' new relationship/time, Calvin explicitly rejects the gospel-versus-Pharisees assignment and instead emphasizes not overburdening weak disciples. Public text identifies each author's reading without treating notes/commentary as binding church doctrine. Wesley's Abiathar lifetime explanation is labeled one proposed explanation, while both biblical names remain visible.
+
+## Mark 2:13–17
+
+Plan section: included, because (a)/(c). Matthew9:13 explicitly applies Hosea6:6 to this meal; Romans3 develops the Bible-wide need for grace across Jews and Gentiles.
+
+Position source: none. Gospel and Disciple studies are related further reading; no new position on irresistible calling or Levi's identity is invented.
+
+FLAGGED FOR REVIEW: No claim all tax collectors worked directly for Rome, that Torah outlawed tax collection, or that Levi necessarily extorted money. His exact employer, tax rate, trade route duties, income and resignation procedures are unverified. No invented personal thoughts, arrival order or guaranteed permanent faith of every meal guest. Mark records no renaming of Levi; Matthew's parallel supports the traditional identification, not an asserted conversion name change. Shared father-name Alphaeus does not establish or disprove brotherhood with James. Actual Thayer268 does not mean only an irreligious Jew; no categorical gambling/dove-racing/loan-sharking roster imposed on guests. No formal two-stage Sanhedrin investigation, hired investigator status, mandated silence or exact official procedure established by primary evidence. No modern stereotypes about Jewish learning or negative blanket judgment of all Pharisees. No claim the crowd in the earlier house consisted solely of religious gatekeepers. No irresistible-grace conclusion inferred solely from the immediate response. No first-ever Jewish leper claim carried forward (Numbers12 contradicts it). No inference that miracles were unimportant or unnecessary just because Jesus also teaches.
+
+## Mark 2:18–22
+
+Plan section: included, because (b)/(c). Bridegroom parallels explicitly identified across Isaiah62, John3, and Revelation19; Mark14 places Jesus' departure alongside covenant blood and future kingdom fellowship. No hidden code imposed on each parable detail.
+
+Position source: none.
+
+FLAGGED FOR REVIEW: No unverified Thomas Linacre1490 diary anecdote, anti-Catholic accusation, Thursday chronology, exact dinner-to-fasting timing, or universal condemnation of John's disciples. No claim Torah forbids every voluntary fast outside Atonement; Scripture records other fasts. Exact25-hour rule, seven-day/three-day wedding schedule and blanket rabbinic exemption require independent period evidence and are omitted. Actual Thayer46 means unfinished/unfulled cloth, not morally pure or undefiled. Actual522 means taken/carried away, not inherently a violent death; the death connection follows Gospel context, not a lexical guarantee. Actual779 identifies a leather container; generated archaeology and precise goat-skin/fermentation/custom claims were not independently verified and are omitted. No claim this is the first parable chronologically in every Gospel. No imposed Luke5:39 old-wine=Torah/new-wine=Pharisaic-law equation. No claim Mark uses the term new covenant here or that the pictures themselves settle every covenant dispute. No stereotype that Orthodox Jews study only Talmud rather than Scripture.
+
+## Mark 2:23–28
+
+Plan section: included, because (a)/(c). Sabbath's creation and rescue purposes are explicit in Exodus20/Deuteronomy5. Hebrews4 explicitly brings creation rest, faith and God's continuing promise together and turns to Jesus the merciful high priest; Matthew11 records His invitation to rest.
+
+Position source: none.
+
+FLAGGED FOR REVIEW: Deuteronomy23 permits hand-plucking but does not alone settle the Sabbath-work question. No claimed1,500 rules, rigidly complete first-century39-category list, swallowing=storage rule, grass/wild-wheat/bird anecdote or attributed Talmud quotation without primary period verification. No exact Friday bread-baking schedule from Leviticus24, which specifies Sabbath replacement. 1Samuel21 says David arrives alone and his men are elsewhere, so no retelling with companions visibly entering alongside him. The PDF's Moses-as-Father parallel is not used; Hebrews3 more directly compares Moses with Christ, and this lesson supplies insufficient grounds for the Father assignment. No Hebrew menuchah/shabbott word claim, definite-article proof of divinity or claim kyrios always exclusively means Creator. No automatic abolition of manual rest: Torah explicitly includes physical rest. No denial of obedience from Hebrews4's rest, which also warns against disobedience. No new site judgment about Saturday/Sunday practices. Abiathar/Ahimelech difference remains visible; Wesley's proposed lifetime explanation is not asserted as settled history or represented as the sole Christian answer. No supposed priestly motives or Pharisees' private deliberations. David/Jesus kingship is a possible wider parallel but not needed to explain this group's plan section; no detail-for-detail allegory imposed.
+
+## Validation
+
+Completed: focused generation; three direct BSB checks; eight tests and repository validation (0 errors / 356 legacy warnings); preservation of all unrelated prose/index entries; 14 reviewed Mark navigation entries and continuous coverage through 2:28 (73 unique verses). Phone reader and standalone sections/links fit at 390px; actual Next moved from 2:18–22 to 2:23–28 with title focus/top188.5px. Idempotence passed across1,232 website files. Hosting dry run/release finished; all seven live files match local bytes. Prefix `/tmp/scripture-mark-two-closing-`.

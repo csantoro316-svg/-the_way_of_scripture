@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "8:12-21",
+    "label": "1 Kings 8:12-21",
+    "slug": "1-kings-8-12-21"
+  },
+  "section_title": "Why does Solomon begin by remembering God’s promise?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "12 Then Solomon declared: “The LORD has said that He would dwell in the thick cloud. 13 I have indeed built You an exalted house, a place for You to dwell forever.” 14 And as the whole assembly of Israel stood there, the king turned around and blessed them all 15 and said: “Blessed be the LORD, the God of Israel, who has fulfilled with His own hand what He spoke with His mouth to my father David, saying, 16 ‘Since the day I brought My people Israel out of Egypt, I have not chosen a city from any tribe of Israel in which to build a house so that My Name would be there. But I have chosen David to be over My people Israel.’",
+        "17 Now it was in the heart of my father David to build a house for the Name of the LORD, the God of Israel. 18 But the LORD said to my father David, ‘Since it was in your heart to build a house for My Name, you have done well to have this in your heart. 19 Nevertheless, you are not the one to build it; but your son, your own offspring, will build the house for My Name.’ 20 Now the LORD has fulfilled the word that He spoke. I have succeeded my father David, and I sit on the throne of Israel, as the LORD promised. I have built the house for the Name of the LORD, the God of Israel. 21 And there I have provided a place for the ark, which contains the covenant of the LORD that He made with our fathers when He brought them out of the land of Egypt.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Solomon responds to the cloud, then turns to bless the gathered people. He gives the LORD the credit for bringing this day about: what God promised to David, He has now carried out.",
+    "",
+    "David wanted to build a house for the LORD’s Name. God welcomed that desire but appointed David’s son to do the building. Solomon now sits on David’s throne and has completed the house, with a place for the covenant ark.",
+    "",
+    "The emphasis is on a promise kept. Solomon’s work has a place in the account because God spoke first. The tablets in the ark also keep Israel’s covenant with the LORD at the center of the dedication."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) and [Gill](https://biblehub.com/commentaries/gill/1_kings/8.htm) read the completed temple as the fulfillment of the promise that David’s son would build it. [Henry](https://biblehub.com/commentaries/mhc/1_kings/8.htm) emphasizes the same direction of thought: Solomon points to what God has done, rather than treating the ceremony simply as a celebration of his own achievement.",
+    "",
+    "Gill understands Solomon’s language about a lasting dwelling in contrast with the movable tabernacle. The words should also be read alongside Solomon’s acknowledgment in verse 27 that even the heavens cannot contain God. A settled place of worship does not make Him small enough to be enclosed in a building."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/8.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-eight-opening-review.md"
+  }
+}

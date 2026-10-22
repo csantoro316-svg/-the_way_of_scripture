@@ -1,0 +1,29 @@
+# 2 Peter opening passage review — 2026-10-20
+
+Two new groups,1:1–2and3–4, covering four actual BSB verses. Two plans, no owner positions. Existing1:20–21and1:21URLs untouched.
+
+Actual baseline PDF pages1–28read (all1A/1B);201total pages. The earlier truncated pages2–3 were fully reread. Full extraction is only a lesson-location map. Important provenance: this is the ministry's 2025 Greg Driver series, not Stephen Armstrong. The official lesson1C page explicitly identifies Greg Driver: https://versebyverseministry.org/lessons/2-peter-lesson-1c . No teacher or ministry appears in public content. The first two lessons include an extended prayer catalogue; this informs the emphasis on knowing God and John17 but is not copied or made an exhaustive rule about prayer.
+
+Actual whole BSBchapter1read: https://biblehub.com/bsb/2_peter/1.htm . Actual Calvin1:1–4 and displayed notes read in bounded excerpts through15500chars (later chapter commentary not yet read): https://biblehub.com/commentaries/calvin/2_peter/1.htm . Actual whole Wesleychapter1read, with initially truncated1–5recovered in a small reread: https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-epistle-general-of-st-peter/ . Their meanings of equal-worth faith, knowledge, spiritual versus ordinary life, and renewed image checked directly.
+
+Actual USCCBintroduction read, including its different assessment of authorship/date: https://bible.usccb.org/bible/2peter/0 . Chapter1page failed direct retrieval twice and webfallback with403; not counted as read and no claims are attributed to its unseen notes. The public introduction says the letter opens in Peter's name rather than pretending a disputed date/location is settled. Broader source-critical details are not needed to explain these four verses.
+
+Actual Thayer2472and1401read: https://biblehub.com/greek/2472.htm ; https://biblehub.com/greek/1401.htm . Equal honor/value and slave/servant checked; no compulsory freed-slave-who-chooses-to-stay definition. Actual Catechism460with461–463read: https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/artcile_3.html . Its participation/sonship through the incarnate Son is paraphrased without copying patristic quotations or declaring each tradition's theological vocabulary identical.
+
+Fresh actual BSB John17:1–5/20–26,Eph2:13–18,Rom8:29–30read. Related Gospel/disciple studies are links, not an owner conclusion on these groups. Bible panels use actual BSB rather than NASB quotations in the baseline.
+
+## 2 Peter 1:1–2
+
+Plan section: included, because (a)/(c). John17:1–5explicitly connects eternal life with knowing Father/Son; Eph2:13–18shows Jews/Gentiles sharing access through Christ and the one Spirit.
+Position source: none.
+FLAGGED FOR REVIEW: Baseline intro says Peter wrote before death65–68yet also says earlysecondcentury/120ADandlatestNTbook, sometimes in the same paragraph. These cannot all be treated as a settled historical account; no date is asserted. Exact reception/canon chronology and single vote creating Bible because authors declared saints, all Bible books merely letters, exact2000yearcomposition and codex narrative are not independently established and omitted. Baseline doulosnecessarilymeansfreedpersonvoluntarilyremaining is not the standard entry's definition; actual Thayer1401includesliteralunfreeconditionandmetaphoricalservice. No statistical claim all modern Christians selfish or capitalism explains every person's motives. Paul's/Peter's prayers not exclusively identical wisdom petitions; the source's own1Bcatalogue includes bread, protection and deliverance, and it expressly permits asking healing according to God's will. Do not misrepresent it as forbidding all personal petitions or label ordinary needs selfish by default. Faith's equal worth not equal maturity in every believer; actual Calvin explicitly distinguishes measure. Actual BSBourGodandSaviorJesus retained, not replaced by commentary punctuation. No owner position originated.
+
+## 2 Peter 1:3–4
+
+Plan section: included, because (a)/(c). John17:20–26explicitly prays later believers' shared life/love/glory in Father/Son; Rom8:29–30explicitly describes becoming like the Son and being brought to glory.
+Position source: none.
+FLAGGED FOR REVIEW: Divinenature is not converted into a claim humans become the divine essence or replace God. Calvin/Wesleyrenewedimage and Catholic460participationthroughSon checked directly, with differences of vocabulary allowed. Life's scope actually differs Calvin(spiritual)andWesley(ordinaryandspiritual); not forced into one reading. Baseline extended prayer anthology is one teacher's selection, not an exhaustive frequency study; it admits no exhaustive count. Its requests for bread/deliverance/healing must not be erased to support a wisdom-only rule. No promises knowing facts guarantees health/wealth, alwaysvisibleglow, painlessmarriage, noanxietyorimmediatecontentment. God supplies power for godliness; no denial of ordinary teaching, practical care or the following call to effort. John17sharinglovedoesnotmaketrinitarianessenceofbelievers. No unverifiable Packer/Stott/Spurgeon/Lloyd-Jones quotation, personal cancer anecdote or exact prayer word-count imported. No blanket assertion all church teaching has abandoned Scripture. USCCBchapter1unavailable; no unseen Catholic study-note claim used.
+
+## Validation
+
+Both groups passed focused generation, independent BSB verification, preservation/coverage checks, repository validation (zero errors, 220 warnings), byte-identical repeated generation and all four390pxreader/standalone views. Actual Next click from1:1–2 reached1:3–4 with title focus/top188.515625. Explicit-project dry run/deployment and independent six-file live audit exited0 and matched.

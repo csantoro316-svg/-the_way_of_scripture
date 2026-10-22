@@ -1,0 +1,67 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "7:1-13",
+    "label": "Mark 7:1-13",
+    "slug": "mark-7-1-13"
+  },
+  "section_title": "When Tradition Overrides God's Command",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Then the Pharisees and some of the scribes who had come from Jerusalem gathered around Jesus, 2 and they saw some of His disciples eating with hands that were defiled—that is, unwashed. 3 Now in holding to the tradition of the elders, the Pharisees and all the Jews do not eat until they wash their hands ceremonially. 4 And on returning from the market, they do not eat unless they wash. And there are many other traditions for them to observe, including the washing of cups, pitchers, kettles, and couches for dining. 5 So the Pharisees and scribes questioned Jesus: “Why do Your disciples not walk according to the tradition of the elders? Instead, they eat with defiled hands.”",
+        "6 Jesus answered them, “Isaiah prophesied correctly about you hypocrites, as it is written: ‘These people honor Me with their lips, but their hearts are far from Me. 7 They worship Me in vain; they teach as doctrine the precepts of men.’ 8 You have disregarded the commandment of God to keep the tradition of men.” 9 He went on to say, “You neatly set aside the command of God to maintain your own tradition.",
+        "10 For Moses said, ‘Honor your father and your mother’ and ‘Anyone who curses his father or mother must be put to death.’ 11 But you say that if a man says to his father or mother, ‘Whatever you would have received from me is Corban’ (that is, a gift devoted to God), 12 he is no longer permitted to do anything for his father or mother. 13 Thus you nullify the word of God by the tradition you have handed down. And you do so in many such matters.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Pharisees and some scribes from Jerusalem gather around Jesus and notice some disciples eating without ceremonially washing their hands. The question is why they do not follow the tradition of the elders. Mark explains the washing practices for his readers; the dispute concerns religious obligation and purity.",
+    "",
+    "The distinction between written law and inherited practices was a real point of disagreement within Judaism. [Josephus, Antiquities 13.10.6](https://penelope.uchicago.edu/josephus/ant-13.html), reports that Pharisees passed down observances not written in Moses' law, while Sadducees rejected those as binding. That background helps explain the issue without treating every Jewish group as holding the same position.",
+    "",
+    "Jesus answers from [Isaiah 29:13](https://biblehub.com/bsb/isaiah/29.htm): people can honor God with words while their hearts remain far away. He then gives a concrete example. God commands people to honor their parents ([Exodus 20:12](https://biblehub.com/bsb/exodus/20.htm)) and treats cursing them as a grave offense ([Exodus 21:17](https://biblehub.com/bsb/exodus/21.htm)). Yet their rule permits a religious declaration to prevent the help a parent should receive.",
+    "",
+    "Mark explains the declaration as Corban, a gift devoted to God. The Greek spelling [κορβᾶν (korban, kor-BAHN)](https://biblehub.com/greek/2878.htm) represents the Hebrew word for an offering; Thayer describes a gift offered or intended to be offered to God. Here the declaration is being used to keep resources from helping a father or mother.",
+    "",
+    "The example brings Jesus' charge into focus: a rule defended as devotion to God has become a reason to neglect what He commands. The problem is more than failing to carry out a washing custom. Religious teaching is being used to excuse a failure of care, and Jesus says this happens in many such matters."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Jesus to be condemning human rules that set aside God's commands. The difference between traditions concerns how to recognize teaching received with divine authority, rather than whether disobeying God is acceptable.",
+    "",
+    "The Reformed [Westminster Confession, 1.6 and 1.10](https://www.opc.org/wcf.html), and the [1689 Baptist Confession, 1.6 and 1.10](https://www.the1689confession.com/1689/chapter-1), make Scripture the final test for church teaching and reject additions from human traditions. They also allow practical arrangements for church life under Scripture's guidance. The Methodist [Articles of Religion, V and XXII](https://www.umc.org/en/content/articles-of-religion), say that nothing can be required as necessary for salvation unless taught or proved from Scripture, while allowing church customs that do not contradict God's word.",
+    "",
+    "The Catholic Church distinguishes apostolic Tradition, received from Christ and the apostles, from later customs that can change. Its [Catechism, 80–83](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/artcile_2/ii_the_relationship_between_tradition_and_sacred_scripture.html), receives Scripture and apostolic Tradition together; [paragraph 86](https://www.vatican.va/archive/ENG0015/__PM.HTM) says the Church's teaching office serves God's word. Catholic teaching therefore reads Jesus' rebuke as a condemnation of corrupt human practices, rather than a rejection of apostolic Tradition."
+  ],
+  "god_plan_lines": [
+    "Jesus explicitly applies [Isaiah 29:13–14](https://biblehub.com/bsb/isaiah/29.htm) to this dispute. The warning reaches beyond a single custom: speaking honorably about God cannot replace a heart and life that respond to Him. A teaching's religious appearance does not settle whether it honors His purpose.",
+    "",
+    "[James 1:21–27](https://biblehub.com/bsb/james/1.htm) develops the same larger concern. Receiving God's word must lead to doing it, and faithful devotion includes care for vulnerable people. The Corban example shows what goes wrong when a religious explanation protects people from that responsibility instead of moving them toward it."
+  ],
+  "current_position_lines": [
+    "In The Berean Standard, our discussion of Mark 7:8–9 identifies the danger as tradition becoming the authority and displacing what God actually says. Useful customs are not the problem in themselves; they must remain open to examination against Scripture."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/7.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-mark-seven-opening-review.md",
+    "position_source_detail": "The Berean Standard — The Tradition of Men, Mark 7:8–9; narrow Scripture-test and useful-customs distinction only."
+  }
+}

@@ -1,0 +1,39 @@
+# Daniel 4 editorial review
+
+Baseline wholelesson4actualsuppliedPDF59–78read. WholemainBSB4(37)/HenryWes4wholeexpositions/USCCB4allnotesread. Cambridge4ONLY13/16/17/24/26/27/34/37MAINbeforeAdditionalNoteactuallyread. Initial27outputtruncated67tokensrereadWHOLE27separately;37entryinitialfirst6800charsincludedPARTIALadditionalmedical/historicalessay,notwholereadandnotused. Main37explicitrereadwhole. Cam37BADACTS20citationforHerodcorrectedbyactualActs12:20–24source,notcopied. BDB5894wholeactualshortentrywakefuloneangelread. ActualBSBLuke19:1–10/Acts12:20–24/Phil2:3–11read. Exact4ownerstudysearchnone;all5positionsopenverbatim,noownerstudyedits. Deeperlinksnotpositions.
+
+Shared FLAGGED FOR REVIEW: No onlychapterwrittenGentileorDanielprecisedictationfromkingproved;storyformproclamationonlytext. No allchronologicalmoralpointrequiresparticularhistoricalgenocideeventmeaningmadeup. No GodgavemodernflatearthdreambecauseNebflatearthbelief scientificallybizarrespeculationorflatmaphistoricalclaim. Dreamdescribesvisibleuniversaltree,notcosmology. No allbirdsGentiles/universalbronzejudgmentironrulingcode. No watchersholyones=Trinity proof;actualwatchernounangelBDB/Wes/CamandMostHighdecree24clear. No angelsincapablemakingdecisionsgeneralphilosophy. NoGodcannotuseangelcouncilbecauseallangelsmessengerslogic. No illnesscertainzoanthropy/clinicalmodernpscyhiatry/demonpossessiondiagnosisforhistoricalkingorotherpeople. No secularmedicineismerenameforunexplainedbizarrebehaviorfalseclaim;no geneticevidencevsdivinediagnosisdiscussionpublic. No eaglewing22inchhair/nail2inchgrowthproves7years,climate/predator/grassdietimpossibilitymiracleproof unchecked. NoDanielregentduring7yearsfixespoorruleandcourtguaranteeskingreturnploteventsinvented. No modernhistorywalls17miles/palace5miles/hanginggardensdefinitelyinsidethispalace/Euphratesrunsinsidepalacematerialwithoutindependentcheck. No divineactivecausationofeveryworsthumanmoralsinnewpositionor allillnessispunishment. No man'schiefendquotationmisassignedWestminsterConfession(Shorter/LargerCatechismnotreadforthisbasis),notpublic. No strict7yearconclusionwithoutattribution;BBSretainstimes,H/W/Camreadyears. No diewithinoneyearafterrestorationHenryguessor40yrreignagefromWesunchecked. NoBBS4:27OPPRESSEDsilentlychangedtomerefinancialpoor. No Catholicredeem-sinsalmscaricature/worksbuysgrace;formaldenominationsnotpigeonholed;sharedrepentancejusticepoorreadingsufficientwithoutnewdebate. USCCBhistoricalNabonidusPrayerreadnotesnotprimaryPrayeritself,notadoptascertainhistoricalcorrection. NoassertNebsalvationeternaldestinyAI;H/Wconversioninterpretationattributed.
+
+## 4:1–3
+
+Plan section: omitted, because none apply. Proclamation/praiseframingadequate,avoidgenericrepeatedkingdomplan.
+Position source: none.
+FLAGGED FOR REVIEW: Noautobiographicaldictationspecificprocessrecorded.H/Wchangedacknowledgmentnamed.
+
+## 4:4–18
+
+Plan section: omitted, because none apply. Dreamanddecreehaveinterpretationnext,noforcedwatcherGodheadscheme.
+Position source: none.
+FLAGGED FOR REVIEW: Aramaicir(eer)wakefulangelBDB5894actual. BDBversification4:10/20/14correspondsBSB13/23/17,nocopybadreferences. WessevenyearsreadingexplicitnotBSBsubstitution;holywatcherangelnotextraterrestrialstory.
+
+## 4:19–27
+
+Plan section: included, because (c). Luke19Zacchaeusjusticepoor/restorationofwrongsandJesusseekingsavinglostaddsrepentanceconsequenceinGospel.
+Position source: none.
+FLAGGED FOR REVIEW: No purchasingforgivenessformulaornecessitywealthdistributionamountidenticalforall. Differentstoryexplicitcontext,notprophecyaboutZacchaeus.
+
+## 4:28–33
+
+Plan section: included, because (c). Acts12HerodrefusesGodglorydieswhileGodwordspreadsaddsGospeladvanceunconfinedbyhumanrule.
+Position source: none.
+FLAGGED FOR REVIEW: HerodDIFFERENToutcomefromNebrestoredexplicit.Nomedicalmechanismorjudgmentdiagnosisotherpeople. Acts12notCampagebadActs20.
+
+## 4:34–37
+
+Plan section: included, because (c). Phil2Christwillinghumility/exaltationuniversalconfessionFathergloryaddstrueLordcharacterandcreationpurpose.
+Position source: none.
+FLAGGED FOR REVIEW: ChristSINLESSnotprideneedingcureexplicitdistinction. NoKenoticGodheadlossclaimfromemptied. NoFatherSonPersonsmergeortimeendhumanityinferred.
+
+## Validation
+
+Passed focused generation, fresh BibleHub BSB verification, repository checks (0 errors / 472 existing warnings), preservation, continuous coverage through 4:37, repeat-generation idempotence, ten mobile reader/standalone views and a physical Next click. Hosting dry run and deployment succeeded; live verification matched all five pages, both neighbors, the index and reader (LIVE MATCH 9; observed exit 0).

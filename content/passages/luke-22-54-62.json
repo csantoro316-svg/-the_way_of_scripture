@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "22:54-62",
+    "label": "Luke 22:54-62",
+    "slug": "luke-22-54-62"
+  },
+  "section_title": "What happens when Peter’s confidence gives way?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "54 Then they seized Jesus, led Him away, and took Him into the house of the high priest. And Peter followed at a distance. 55 When those present had kindled a fire in the middle of the courtyard and sat down together, Peter sat down among them. 56 A servant girl saw him seated in the firelight and looked intently at him. “This man also was with Him,” she said. 57 But Peter denied it. “Woman, I do not know Him,” he said.",
+        "58 A short time later, someone else saw him and said, “You also are one of them.” But Peter said, “Man, I am not.” 59 About an hour later, another man insisted, “Certainly this man was with Him, for he too is a Galilean.” 60 “Man, I do not know what you are talking about,” Peter replied. And immediately, while he was still speaking, the rooster crowed.",
+        "61 And the Lord turned and looked at Peter. Then Peter remembered the word that the Lord had spoken to him: “Before the rooster crows today, you will deny Me three times.” 62 And he went outside and wept bitterly."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus is taken to the high priest’s house, and Peter follows at a distance. He joins people gathered around a courtyard fire. The disciple who said he was ready for prison and death now faces questions about whether he belongs to Jesus.",
+    "",
+    "A servant girl identifies him as someone who was with Jesus. Another person says he belongs to the group, and about an hour later a man insists that his Galilean identity points to the same connection. Peter denies knowing Jesus or understanding the accusation.",
+    "",
+    "The rooster crows while Peter is still speaking. Jesus turns and looks at him; Peter remembers the warning that he would deny Him three times. He goes outside and weeps bitterly. Luke brings the prediction and its fulfillment together through that remembered word."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly see the scene as exposing the gap between Peter’s confident promise and his weakness under pressure. His tears express the grief that follows remembering Jesus’ warning. The USCCB’s note emphasizes the connection between Jesus’ look and Peter’s weeping, while Wesley notices the time that passed without Peter coming to his senses. ([USCCB note on Luke 22:61](https://bible.usccb.org/bible/luke/22); [Wesley on Luke 22:59](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))"
+  ],
+  "god_plan_lines": [
+    "Peter’s failure must be read alongside Jesus’ earlier prayer and command that he strengthen his brothers after returning. John later records Jesus calling Peter to care for His sheep, and Acts shows him publicly witnessing to Jesus’ resurrection. Those connections show a larger purpose beyond exposing Peter’s weakness: the disciple who denies Jesus is restored to serving His people. ([Luke 22:31–34](https://biblehub.com/bsb/luke/22.htm); [John 21:15–19](https://biblehub.com/bsb/john/21.htm); [Acts 2:22–36](https://biblehub.com/bsb/acts/2.htm))",
+    "",
+    "The contrast is especially clear in Acts. Peter, who denies knowing Jesus here, later declares openly that God raised Him from the dead and made Him Lord and Christ. The risen Jesus remains the center of that message; Peter’s failure does not become the final account of his relationship with Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/22.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-twenty-two-closing-review.md"
+  }
+}

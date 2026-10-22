@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Jonah",
+    "citation": "2:8-10",
+    "label": "Jonah 2:8-10",
+    "slug": "jonah-2-8-10"
+  },
+  "section_title": "What does Jonah acknowledge about salvation?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "8 Those who cling to worthless idols forsake His loving devotion. 9 But I, with the voice of thanksgiving, will sacrifice to You. I will fulfill what I have vowed. Salvation is from the LORD!” 10 And the LORD commanded the fish, and it vomited Jonah onto dry land."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jonah contrasts clinging to worthless idols with receiving the Lord’s loving devotion. He promises thanksgiving, sacrifice and fulfillment of his vows, ending with the acknowledgment that salvation comes from the Lord.",
+    "",
+    "The language recalls the sailors, who also turned to the Lord, offered sacrifice and made vows after being rescued. The prophet and the sailors alike depend on mercy they cannot produce for themselves.",
+    "",
+    "God then commands the fish, and it releases Jonah onto dry land. His confession of who saves is followed by the deliverance that makes a renewed response to God possible."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/jonah/2.htm) and [Cambridge](https://biblehub.com/commentaries/cambridge/jonah/2.htm) understand the Lord as the source of the mercy that idols cannot provide. [Henry](https://biblehub.com/commentaries/mhc/jonah/2.htm) sees the release as a demonstration of God’s command over His creatures and His mercy toward the praying prophet."
+  ],
+  "god_plan_lines": [
+    "A parallel in praise appears in [Revelation 7:9–12](https://biblehub.com/bsb/revelation/7.htm). A multitude from every nation, tribe, people and language gives the credit for salvation to God and the Lamb.",
+    "",
+    "Jonah’s thanksgiving concerns his own rescue. Revelation opens the view to a people gathered from across the world through the Lamb. The shared confession gives salvation’s Author the glory, while the wider scene brings into view the mercy for many peoples that Jonah himself struggles to welcome."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/jonah/2.htm",
+    "plan_basis": [
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-jonah-review.md"
+  }
+}

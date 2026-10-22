@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "6:8-15",
+    "label": "Acts 6:8-15",
+    "slug": "acts-6-8-15"
+  },
+  "section_title": "Why is Stephen brought before the council?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "8 Now Stephen, who was full of grace and power, was performing great wonders and signs among the people. 9 But resistance arose from what was called the Synagogue of the Freedmen, including Cyrenians, Alexandrians, and men from the provinces of Cilicia and Asia. They disputed with Stephen, 10 but they could not stand up to his wisdom or the Spirit by whom he spoke.",
+        "11 Then they prompted some men to say, “We heard Stephen speak words of blasphemy against Moses and against God.” 12 So they stirred up the people, elders, and scribes and confronted Stephen. They seized him and brought him before the Sanhedrin, 13 where they presented false witnesses who said, “This man never stops speaking against this holy place and against the law. 14 For we have heard him say that Jesus of Nazareth will destroy this place and change the customs that Moses handed down to us.” 15 All who were sitting in the Sanhedrin looked intently at Stephen, and they saw that his face was like the face of an angel."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Stephen, one of the Seven, now appears as a public witness full of grace and power. He performs signs, and opposition arises from people associated with the Synagogue of the Freedmen and several named regions. They dispute with him but cannot withstand his wisdom or the Spirit by whom he speaks.",
+    "",
+    "The opposition then moves to accusations. Men are prompted to claim that he speaks against Moses and God. He is seized and brought before the council, where false witnesses accuse him of speaking against the temple and the law, and of saying that Jesus will destroy the place and change the customs handed down by Moses.",
+    "",
+    "Luke calls them false witnesses. Their charges should therefore be read as accusations to examine, rather than a complete and reliable summary of Stephen’s teaching. The chapter ends with the council looking at him and seeing his face like an angel’s. His answer begins in the next chapter."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read the passage as the beginning of Stephen’s witness before the council, with the Spirit’s wisdom standing against false testimony. His defense and its consequences belong to the following chapter and help explain the charges more fully.",
+    "",
+    "Commentators explain the face comparison differently. [Wesley on verse 15](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) understands supernatural brightness like the glory seen on Moses. [Calvin on verse 15](https://biblehub.com/commentaries/calvin/acts/6.htm) understands a present dignity and composure, contrasting with the fear commonly seen in someone on trial. Both explanations see something striking in Stephen’s appearance before his accusers; Luke gives the comparison without describing every physical detail."
+  ],
+  "god_plan_lines": [
+    "The Spirit-given wisdom recalls Jesus’s promise in [Luke 21:12–15](https://biblehub.com/bsb/luke/21.htm) that opposition and questioning would become opportunities for witness, with speech and wisdom the adversaries could not withstand. Stephen’s witness shows that the Spirit’s work in the expanding community reaches beyond the Twelve.",
+    "",
+    "The accusations also recall the false witnesses against Jesus in [Matthew 26:59–61](https://biblehub.com/bsb/matthew/26.htm), including the charge about destroying the temple. This is a parallel between the narratives. The follower faces a pattern of opposition already seen against the Lord he serves."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/6.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-six-review.md"
+  }
+}

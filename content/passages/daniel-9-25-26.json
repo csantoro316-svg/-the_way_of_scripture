@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "9:25-26",
+    "label": "Daniel 9:25-26",
+    "slug": "daniel-9-25-26"
+  },
+  "section_title": "What follows the rebuilding and the cutting off of the Messiah?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "25 Know and understand this: From the issuance of the decree to restore and rebuild Jerusalem until the Messiah, the Prince, there will be seven weeks and sixty-two weeks. It will be rebuilt with streets and a trench, but in times of distress. 26 Then after the sixty-two weeks the Messiah will be cut off and will have nothing. Then the people of the prince who is to come will destroy the city and the sanctuary. The end will come like a flood, and until the end there will be war; desolations have been decreed."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The message describes a decree to restore and rebuild Jerusalem, a period of seven weeks and sixty-two weeks, and rebuilding under distress. After the sixty-two weeks, the Messiah is cut off and has nothing.",
+    "",
+    "The people of a coming prince then destroy the city and sanctuary. War and decreed desolations follow. The promise of restoration therefore does not mean that Jerusalem will never face further disaster.",
+    "",
+    "The BSB presents the anointed figure as the Messiah, the Prince. Readers differ over the decree from which to count, the relationship of the seven and sixty-two periods, and the people identified in the prophecy. Those differences affect how the sequence is understood."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/daniel/9.htm) identifies the cut-off Messiah as Jesus and the destruction with the Romans under Titus. [Gaebelein](https://biblehub.com/commentaries/gaebelein/daniel/9.htm) also sees Jesus’ death and Roman destruction, counting from the decree associated with Nehemiah.",
+    "",
+    "The [USCCB notes](https://bible.usccb.org/bible/daniel/9) give a different historical reading: an earlier anointed ruler is Cyrus or the high priest Jeshua, and the later anointed one who is killed is the high priest Onias III. They associate the persecuting leader with Antiochus. This differs from the BSB’s messianic presentation and the readings above."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/9.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-nine-review.md"
+  }
+}

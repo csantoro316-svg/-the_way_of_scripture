@@ -5,23 +5,55 @@
     "label": "Exodus 29:38-44",
     "slug": "exodus-29-38-44"
   },
-  "section_title": "The Daily Offerings",
+  "section_title": "Why were lambs offered every morning and evening?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "38 This is what you are to offer regularly on the altar, each day: two lambs that are a year old. 39 Offer one lamb in the morning and the other at twilight. 40 With the first lamb offer a tenth of an ephah of fine flour, mixed with a quarter hin of oil from pressed olives, and a drink offering of a quarter hin of wine. 41 And offer the second lamb at twilight with the same grain offering and drink offering as in the morning, as a pleasing aroma, an offering made by fire to the LORD.",
+        "38 This is what you are to offer regularly on the altar, each day: two lambs that are a year old. 39 Offer one lamb in the morning and the other at twilight. 40 With the first lamb offer a tenth of an ephah of fine flour, mixed with a quarter hin of oil from pressed olives, and a drink offering of a quarter hin of wine. 41 And offer the second lamb at twilight with the same grain offering and drink offering as in the morning, as a pleasing aroma, a food offering to the LORD.",
         "42 For the generations to come, this burnt offering shall be made regularly at the entrance to the Tent of Meeting before the LORD, where I will meet you to speak with you. 43 I will also meet with the Israelites there, and that place will be consecrated by My glory. 44 So I will consecrate the Tent of Meeting and the altar, and I will consecrate Aaron and his sons to serve Me as priests."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 29**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "After the ordination instructions comes the regular daily service. Two year-old lambs are offered each day, one in the morning and one at twilight. Each is accompanied by flour, oil and wine. This is a continuing burnt offering at the entrance to the tent.",
+    "",
+    "God joins the offerings with His promise to meet and speak with His people. The place is made holy by His glory. He also declares that He will set apart the tent, altar, Aaron and his sons. The prescribed service is part of the life He establishes with Israel."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Daily Offerings** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 29** remains the first control on meaning."
+    "The daily offerings are commonly understood as the continuing sacrificial service before God. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) reads them as pointing toward Christ’s lasting intercession on the strength of His once-for-all sacrifice. He also draws an application of regular prayer and praise. The repeated lamb offerings belong to Israel’s worship; Christ’s death is not repeated each day."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[John 1:29–34](https://biblehub.com/bsb/john/1.htm) identifies Jesus as the Lamb of God who takes away the world’s sin. [Hebrews 10:1–18](https://biblehub.com/bsb/hebrews/10.htm) explains the difference His work makes: priests stand repeatedly offering sacrifices, but Christ offers one sacrifice for sins and sits at God’s right hand. Through that one offering He accomplishes the lasting sanctification the earlier sacrifices could not complete.",
+    "",
+    "The point is more than a contrast between two ways of carrying out a ceremony. Hebrews joins Christ’s completed offering with God’s promise of sins forgiven and His laws written within His people. The daily service belongs within a story that leads to that lasting relationship."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/29.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-twenty-nine-review.md"
+  }
 }

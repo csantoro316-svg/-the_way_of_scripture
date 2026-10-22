@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "4:1-15",
+    "label": "John 4:1-15",
+    "slug": "john-4-1-15"
+  },
+  "section_title": "What is the living water Jesus offers?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 When Jesus realized that the Pharisees were aware He was gaining and baptizing more disciples than John 2 (although it was not Jesus who baptized, but His disciples), 3 He left Judea and returned to Galilee. 4 Now He had to pass through Samaria. 5 So He came to a town of Samaria called Sychar, near the plot of ground that Jacob had given to his son Joseph. 6 Since Jacob’s well was there, Jesus, weary from His journey, sat down by the well. It was about the sixth hour.",
+        "7 When a Samaritan woman came to draw water, Jesus said to her, “Give Me a drink.” 8 (His disciples had gone into the town to buy food.) 9 “You are a Jew,” said the woman. “How can You ask for a drink from me, a Samaritan woman?” (For Jews do not associate with Samaritans.) 10 Jesus answered, “If you knew the gift of God and who is asking you for a drink, you would have asked Him, and He would have given you living water.” 11 “Sir,” the woman replied, “You have nothing to draw with and the well is deep. Where then will You get this living water? 12 Are You greater than our father Jacob, who gave us this well and drank from it himself, as did his sons and his livestock?”",
+        "13 Jesus said to her, “Everyone who drinks this water will be thirsty again. 14 But whoever drinks the water I give him will never thirst. Indeed, the water I give him will become in him a fount of water springing up to eternal life.” 15 The woman said to Him, “Sir, give me this water so that I will not get thirsty and have to keep coming here to draw water.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus leaves Judea for Galilee and travels through Samaria. He sits, tired from the journey, at Jacob’s well near Sychar while His disciples buy food. A Samaritan woman comes to draw water, and He asks her for a drink.",
+    "",
+    "She is surprised that a Jewish man would ask a Samaritan woman for water. The Gospel names the separation between their communities. Jesus responds by speaking about God’s gift and the living water He could give her.",
+    "",
+    "The Greek expression ὕδωρ ζῶν, hydōr zōn (HOO-dor zohn), means living water and can describe water bubbling up or flowing from a spring. Thayer explains its figurative use here for God’s Spirit and truth meeting the soul’s need. That helps explain the woman’s question about where Jesus could get water without drawing equipment. ([Thayer, Greek 2198](https://biblehub.com/greek/2198.htm))",
+    "",
+    "Jesus contrasts water that must be drawn again with His gift becoming a spring within a person, leading to eternal life. She asks for this water so that she will not have to keep returning to the well. Her question keeps the conversation moving toward the identity of the One offering it."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand living water as the life God gives through Christ and His Spirit. Later in the Gospel, Jesus’ invitation to thirsty people is explicitly explained as referring to the Spirit. ([John 7:37–39](https://biblehub.com/bsb/john/7.htm))",
+    "",
+    "Calvin and Wesley differ in how they explain the promise of never thirsting. Calvin emphasizes the Spirit as an enduring source that will not finally run dry, even while believers desire more grace. Wesley emphasizes continuing to drink from that source. Both locate the life in God’s gift; their difference concerns how the promise relates to continuing faith. These are their own readings of the passage. ([Calvin on John 4:13–14](https://biblehub.com/commentaries/calvin/john/4.htm); [Wesley on John 4:14](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/))"
+  ],
+  "god_plan_lines": [
+    "Jeremiah describes the Lord as the fountain of living water, whom His people have forsaken for broken cisterns. Ezekiel pictures water flowing from God’s sanctuary, bringing life where it goes, with fruit for food and leaves for healing. Jesus’ offer belongs alongside this larger scriptural theme of life flowing from God. These are supported parallels, rather than an explicit quotation of either prophet in this conversation. ([Jeremiah 2:11–13](https://biblehub.com/bsb/jeremiah/2.htm); [Ezekiel 47:1–12](https://biblehub.com/bsb/ezekiel/47.htm))",
+    "",
+    "Revelation carries that picture into the final hope: the river of the water of life flows from the throne of God and of the Lamb, beside the tree whose leaves are for the healing of the nations. The gift Jesus offers points toward lasting life in God’s presence. ([Revelation 22:1–5](https://biblehub.com/bsb/revelation/22.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/4.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-four-opening-review.md"
+  }
+}

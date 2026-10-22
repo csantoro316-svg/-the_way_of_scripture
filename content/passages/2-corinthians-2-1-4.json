@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "2 Corinthians",
+    "citation": "2:1-4",
+    "label": "2 Corinthians 2:1-4",
+    "slug": "2-corinthians-2-1-4"
+  },
+  "section_title": "Can a painful letter be an expression of love?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 So I made up my mind not to make another painful visit to you. 2 For if I grieve you, who is left to cheer me but those whom I have grieved? 3 I wrote as I did so that on my arrival I would not be grieved by those who ought to make me rejoice. I had confidence in all of you, that you would share my joy. 4 For through many tears I wrote you out of great distress and anguish of heart, not to grieve you but to let you know how much I love you."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul continues explaining why he did not return to Corinth as planned. He decided against another painful visit. The people whose fellowship should bring him joy were also the people who would be grieved by such an encounter.",
+    "",
+    "Instead, he wrote with confidence that they would want to share his joy. He describes great distress, anguish of heart and many tears. The purpose of the letter was to make his love known, not simply to leave them feeling wounded.",
+    "",
+    "The earlier painful visit and tearful letter are part of the relationship the original readers already knew. This paragraph does not identify that letter precisely enough to settle every proposed reconstruction of the correspondence.",
+    "",
+    "Paul’s example shows why correction and love must be considered together. His distress is not proof that every harsh message a leader writes is loving; he is explaining his particular concern for these people and the joy he hopes they will share."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as Paul explaining the care behind a painful decision. [Wesley’s notes on verses 1–4](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-the-corinthians/) emphasize faithful correction as an expression of love. The [USCCB note on verses 3–4](https://bible.usccb.org/bible/2corinthians/2) likewise emphasizes Paul’s motive, while treating proposed identifications of the tearful letter as uncertain."
+  ],
+  "god_plan_lines": [
+    "In [John 13:34–35](https://biblehub.com/bsb/john/13.htm), Jesus makes love for one another a defining mark of His disciples, grounding it in His own love for them.",
+    "",
+    "Paul’s concern for a restored relationship belongs within that calling. Christ is forming a people whose dealings with one another make His love visible. Necessary correction should serve that shared life, rather than becoming an end in itself."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_corinthians/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-corinthians-two-review.md"
+  }
+}

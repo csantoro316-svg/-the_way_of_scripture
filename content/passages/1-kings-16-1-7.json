@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "16:1-7",
+    "label": "1 Kings 16:1-7",
+    "slug": "1-kings-16-1-7"
+  },
+  "section_title": "Why does Baasha face the judgment he brought on Jeroboam’s house?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Then the word of the LORD came to Jehu son of Hanani against Baasha, saying: 2 “Even though I lifted you out of the dust and made you ruler over My people Israel, you have walked in the way of Jeroboam and have caused My people Israel to sin and to provoke Me to anger by their sins. 3 So now I will consume Baasha and his house, and I will make your house like that of Jeroboam son of Nebat: 4 Anyone belonging to Baasha who dies in the city will be eaten by dogs, and anyone who dies in the field will be eaten by the birds of the air.”",
+        "5 As for the rest of the acts of Baasha, along with his accomplishments and might, are they not written in the Book of the Chronicles of the Kings of Israel? 6 And Baasha rested with his fathers and was buried in Tirzah, and his son Elah reigned in his place. 7 Moreover, the word of the LORD came through the prophet Jehu son of Hanani against Baasha and his house, because of all the evil he had done in the sight of the LORD, provoking Him to anger with the work of his hands and becoming like the house of Jeroboam, and also because Baasha had struck down the house of Jeroboam."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The LORD sends Jehu son of Hanani to Baasha. God raised Baasha to rule over Israel, but the king has continued Jeroboam’s course and led the people into sin. His house will now face the same destruction as Jeroboam’s.",
+    "",
+    "The notice of Baasha’s death and Elah’s succession is followed by a further explanation of his guilt. It includes both the evil he has encouraged and his destruction of Jeroboam’s house.",
+    "",
+    "The account does not let Baasha claim that his rise to power makes him exempt from judgment. He is responsible for his actions and for the worship he promotes."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) and [Gill](https://biblehub.com/commentaries/gill/1_kings/16.htm) distinguish God’s purpose in transferring rule from Baasha’s ambition and conduct. The fulfillment of a warning against Jeroboam does not make every action of the man who brings it about righteous.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/16.htm) emphasizes the repeated pattern: Baasha resembles the family he destroyed in the very sins for which it was judged. His opportunity to govern becomes a responsibility he fails to meet."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/16.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-sixteen-review.md"
+  }
+}

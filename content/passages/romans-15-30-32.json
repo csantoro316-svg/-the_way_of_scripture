@@ -5,18 +5,57 @@
     "label": "Romans 15:30-32",
     "slug": "romans-15-30-32"
   },
+  "section_title": "What is Paul asking the church to pray for?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"Now I urge you, brothers, through our Lord Jesus Christ and through the love of the Spirit, to strive together with me in your prayers to God for me, that I may be rescued from those who are disobedient in Judea, and that my service for Jerusalem may prove acceptable to the saints; so that I may come to you in joy by the will of God and find refreshing rest in your company.\""
+      "label": "BSB",
+      "paragraphs": [
+        "30 Now I urge you, brothers, by our Lord Jesus Christ and by the love of the Spirit, to join me in my struggle by praying to God for me. 31 Pray that I may be delivered from the unbelievers in Judea, and that my service in Jerusalem may be acceptable to the saints there, 32 so that by God’s will I may come to you with joy and together with you be refreshed."
+      ]
     }
   ],
   "context_lines": [
-    "In **Romans 15**, Paul is bringing together exhortation, mission, and his travel plans as he nears the close of the letter. His prayer request there must be read within apostolic service, gospel labor, and submission to God's will rather than private convenience."
-  ],
-  "explanation_lines": [
-    "Paul asks the Roman church to pray for his personal rescue and a joyful, restful arrival among them. Scripture records what actually happened: Paul was arrested in Jerusalem shortly afterward and arrived in Rome years later, in chains, not in the joy and rest he had asked for. This was Paul's second recorded instance of asking for a personal outcome \u2014 and his second recorded denial.",
+    "Paul is preparing to take a collection to Jerusalem before his hoped-for visit to Rome. He asks the church to share his struggle in prayer for safety, the acceptance of his service and a joyful visit that brings mutual refreshment.",
     "",
-    "The pattern is the same one the thorn already exposed. In asking specifically to be rescued and to arrive in comfort, Paul was assuming his own desire matched what God intended. It did not. This is precisely what it means to lean on our own understanding rather than trusting the path God has already set \u2014 the very failure Proverbs 3:5-6 warns against: *\"Trust in Yahweh with all your heart and do not lean on your own understanding. In all your ways acknowledge Him, and He will make your paths straight.\"* Having faith means trusting God when you say \"Your will be done.\""
-  ]
+    "The words by God’s will belong to the request itself. Prayer is presented as partnership with Paul’s work, while the outcome remains in God’s hands.",
+    "",
+    "Acts records a difficult journey that includes rescue from a violent crowd, Roman custody and encouragement from believers who meet him near Rome ([Acts 21:31–36](https://biblehub.com/bsb/acts/21.htm); [28:15–16](https://biblehub.com/bsb/acts/28.htm)). Those details help readers assess the requests without reducing the entire story to comfort or to failure."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as an appeal for earnest prayer and partnership in the gospel. Specific requests and submission to God’s will appear together. The request is not a guarantee that the journey will be comfortable or that events will follow Paul’s preferred route."
+  ],
+  "god_plan_lines": [
+    "In [Acts 23:11](https://biblehub.com/bsb/acts/23.htm), the Lord assures Paul that he will testify in Rome as he has in Jerusalem. [Acts 28:15–16, 30–31](https://biblehub.com/bsb/acts/28.htm) shows that witness continuing through a journey and circumstances that include Roman custody.",
+    "",
+    "The connection places the prayer request within God’s purpose of making Christ known. Danger and confinement do not bring that purpose to an end. The narrative also keeps room for genuine encouragement and help along a difficult route."
+  ],
+  "current_position_lines": [
+    "Prayer and Faith emphasizes entrusting the outcome to God. It applies this passage as a warning against treating prayer as a way to secure personal comfort or control the route ahead. The call is to trust God’s will and seek His purposes even when the path includes hardship."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/15.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-romans-fifteen-review.md",
+    "position_source_detail": "Prayer and Faith (content/studies/prayer_and_faith.md, lines 172–182); application limited to trusting God’s will, with the study’s blanket-denial narrative claim flagged in the editorial review"
+  }
 }

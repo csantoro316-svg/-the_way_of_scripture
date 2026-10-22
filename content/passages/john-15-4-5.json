@@ -5,16 +5,50 @@
     "label": "John 15:4-5",
     "slug": "john-15-4-5"
   },
+  "section_title": "Why must the branches remain in the vine?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "'Abide in Me, and I in you. As the branch cannot bear fruit of itself unless it abides in the vine, so neither can you unless you abide in Me. I am the vine, you are the branches; he who abides in Me and I in him, he bears much fruit, for apart from Me you can do nothing.'"
+      "label": "BSB",
+      "paragraphs": [
+        "4 Remain in Me, and I will remain in you. Just as no branch can bear fruit by itself unless it remains in the vine, neither can you bear fruit unless you remain in Me. 5 I am the vine and you are the branches. The one who remains in Me, and I in him, will bear much fruit. For apart from Me you can do nothing."
+      ]
     }
   ],
   "context_lines": [
-    "In **John 15**, Jesus uses the vine and branches to teach abiding, fruitfulness, obedience, love, and dependence on Him. Requests in this chapter are framed by ongoing union with Christ, not by detached human wishing."
+    "Jesus has identified Himself as the true vine and the Father as the keeper of the vineyard. He now identifies the disciples as the branches. A branch draws its life from the vine; it cannot produce grapes on its own.",
+    "",
+    "The command to remain in Him calls for continuing dependence. The Greek word is μένω, menō (MEH-noh), meaning to remain or abide. [Thayer’s lexicon](https://biblehub.com/greek/3306.htm) describes its use here in terms of continuing fellowship. The following verses explain that life through Jesus’ words, commandments and love.",
+    "",
+    "The promise of much fruit is tied to His presence and supply. Jesus is speaking about the life and work that come from belonging to Him. This is more than a call to try harder: the branch needs what the vine gives."
   ],
-  "explanation_lines": [
-    "This is the language the daily bread petition is actually speaking. It is the prayer form of abiding \u2014 a daily, ongoing cry for continued union with the only source of true life, not a request directed at circumstances or material need."
-  ]
+  "common_interpretation_lines": [
+    "Christians commonly understand these verses as teaching ongoing dependence on Christ for a fruitful life. The Catholic Church’s [Catechism, paragraph 2011](https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_three/article_2/iii_merit.index.html), describes Christ’s love and grace as the source of good actions. The Methodist [Articles of Religion, Article VIII](https://www.umc.org/en/content/articles-of-religion), likewise teach that people cannot do what is pleasing to God without His grace at work in them. The shared point is that spiritual fruit does not arise from self-sufficiency."
+  ],
+  "god_plan_lines": [
+    "[Colossians 1:9–14](https://biblehub.com/bsb/colossians/1.htm) describes God’s people growing in the knowledge of His will, bearing fruit in good works and being strengthened with His power. It places that life within His rescue into the kingdom of His Son. Remaining in Christ serves that larger purpose of a people learning to live in His strength."
+  ],
+  "current_position_lines": [
+    "Our study Prayer and Faith describes remaining in Christ as living in keeping with His teaching and example. Dependence on Him shapes how we live and what we desire; it is more than adding religious words to plans we have already decided to pursue."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/15.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-john-fifteen-opening-review.md",
+    "position_source_detail": "Prayer and Faith"
+  }
 }

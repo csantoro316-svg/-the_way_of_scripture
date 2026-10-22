@@ -5,24 +5,51 @@
     "label": "Exodus 26:1-6",
     "slug": "exodus-26-1-6"
   },
-  "section_title": "The Ten Curtains for the Tabernacle",
+  "section_title": "How did the linen curtains form one tabernacle?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 \u201cYou are to construct the tabernacle itself with ten curtains of finely spun linen, each with blue, purple, and scarlet yarn, and cherubim skillfully worked into them. 2 Each curtain shall be twenty-eight cubits long and four cubits wide \u2014all curtains the same size.",
-        "3 Five of the curtains are to be joined together, and the other five joined as well. 4 Make loops of blue material on the edge of the end curtain in the first set, and do the same for the end curtain in the second set.",
-        "5 Make fifty loops on one curtain and fifty loops on the end curtain of the second set, so that the loops line up opposite one another. 6 Make fifty gold clasps as well, and join the curtains together with the clasps, so that the tabernacle will be a unit."
+        "1 “You are to construct the tabernacle itself with ten curtains of finely spun linen, each with blue, purple, and scarlet yarn, and cherubim skillfully worked into them. 2 Each curtain shall be twenty-eight cubits long and four cubits wide —all curtains the same size. 3 Five of the curtains are to be joined together, and the other five joined as well.",
+        "4 Make loops of blue material on the edge of the end curtain in the first set, and do the same for the end curtain in the second set. 5 Make fifty loops on one curtain and fifty loops on the end curtain of the second set, so that the loops line up opposite one another. 6 Make fifty gold clasps as well, and join the curtains together with the clasps, so that the tabernacle will be a unit."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 26**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "After describing the principal furnishings, God gives the instructions for the tent itself. Ten linen curtains are made with blue, purple and scarlet yarn and worked with cherubim. Their equal dimensions allow them to fit together in an ordered design.",
+    "",
+    "Five curtains are joined into each of two sets. Matching blue loops along their edges receive fifty gold clasps, joining the two sets into one tabernacle. The richly worked fabric forms the inner covering, with other layers to be placed over it in the next instructions. The repeated concern is that the separate pieces become one connected structure."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Ten Curtains for the Tabernacle** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 26** remains the first control on meaning."
+    "The curtains are commonly read first as the fabric construction of God’s sanctuary, with their skilled work expressing the care given to His dwelling. Christian commentators also draw spiritual comparisons. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) connects the joined curtains with the unity of Christ’s churches; [Calvin](https://biblehub.com/commentaries/calvin/exodus/26.htm) understands the sanctuary’s beauty as pointing toward the spiritual gifts and holiness of God’s people, while cautioning against assigning a secret meaning to every hook and loop."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "Wesley’s comparison with the church is a parallel, rather than an explicit New Testament explanation of these clasps. It is supported by the larger theme in [Ephesians 2:11–22](https://biblehub.com/bsb/ephesians/2.htm): Christ brings together people once divided, reconciles them to God and builds them into one dwelling through the Spirit.",
+    "",
+    "The point of that connection is the shared life God creates. The joined curtains form one sanctuary; in the New Testament, people from different backgrounds belong to one household in Christ."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/26.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-twenty-six-review.md"
+  }
 }

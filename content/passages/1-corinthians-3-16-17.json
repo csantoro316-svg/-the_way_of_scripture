@@ -5,16 +5,53 @@
     "label": "1 Corinthians 3:16-17",
     "slug": "1-corinthians-3-16-17"
   },
+  "section_title": "Why is harming this community so serious?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"Do you not know that you are a temple of God and that the Spirit of God dwells in you? If any man destroys the temple of God, God will destroy him, for the temple of God is holy, and that is what you are.\""
+      "label": "BSB",
+      "paragraphs": [
+        "16 Do you not know that you yourselves are God’s temple, and that God’s Spirit dwells in you? 17 If anyone destroys God’s temple, God will destroy him; for God’s temple is holy, and you are that temple."
+      ]
     }
   ],
   "context_lines": [
-    "In **1 Corinthians 3**, Paul addresses a divided church that is thinking in worldly terms about leaders and status. The chapter moves from Christ as the only true foundation to the corporate people of God as His temple, so its warnings and promises concern the church's life in Christ rather than private spirituality detached from the body."
+    "God’s building is now called His temple. Paul is addressing the gathered community: they themselves are God’s temple because His Spirit dwells among them. The warning belongs to his concern about what teachers and members are doing to that community.",
+    "",
+    "The Greek word for temple is naos (nah-OSS), ναός, used for a sanctuary. [Thayer’s entry](https://biblehub.com/greek/3485.htm) identifies its use here for a community in which God’s Spirit dwells. Paul gives ordinary believers the dignity and responsibility of belonging to God’s holy dwelling.",
+    "",
+    "The warning about destroying the temple is stronger than the earlier picture of work burning up. God takes the harm done to His people seriously. Divisions and teaching that corrupt the community cannot be treated as harmless competition among personalities."
   ],
-  "explanation_lines": [
-    "This was not written to individuals \u2014 Paul uses the plural \"you,\" referring to the gathered community in Corinth. The holiness once reserved for stone walls now applies to the people of God. Every believer is a mobile temple \u2014 a dwelling place for God. This calls for reverence not for buildings, but for the life within us."
-  ]
+  "common_interpretation_lines": [
+    "Christians commonly read this as identifying the community as God’s holy dwelling and warning against corrupting it. [Calvin’s comment on verse 16](https://biblehub.com/commentaries/calvin/1_corinthians/3.htm) explicitly treats the believers collectively as one temple; [Wesley’s note on verse 17](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) reads destruction as a warning of judgment, distinct from the builder who is saved in verse 15."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 2:19–22](https://biblehub.com/bsb/ephesians/2.htm) describes people brought together in Christ as a holy temple and a dwelling for God by the Spirit. The picture belongs to God making one household from those once separated.",
+    "",
+    "[Revelation 21:22–27](https://biblehub.com/bsb/revelation/21.htm) carries the theme of God’s presence to its final setting: the city has no temple because God and the Lamb are its temple, and the nations walk by its light. Caring for God’s people now belongs within His larger purpose to dwell with them in holiness."
+  ],
+  "current_position_lines": [
+    "Our study [Worship as the Early Church Knew It](https://thewayofscripture.com/studies/worship.html) reads these verses as describing God’s people together as His temple. The Spirit’s presence calls for reverence in how we treat the community and live before God. A meeting place must not displace the people themselves as the focus of that responsibility."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-three-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It, We Are the Temple, lines325–329; community/Spirit/holy conduct only; no new conclusion on exact destruction mechanism."
+  }
 }

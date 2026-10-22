@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "14:1-2",
+    "label": "Mark 14:1-2",
+    "slug": "mark-14-1-2"
+  },
+  "section_title": "Why are the leaders looking for a secret arrest?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Now the Passover and the Feast of Unleavened Bread were two days away, and the chief priests and scribes were looking for a covert way to arrest Jesus and kill Him. 2 “But not during the feast,” they said, “or there may be a riot among the people.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "After Jesus’ teaching on the Mount of Olives, Mark brings us to the approach of Passover and the Feast of Unleavened Bread. These feasts remember God’s deliverance of Israel from Egypt. Against that setting of remembered rescue, the chief priests and scribes seek a covert way to arrest and kill Jesus. ([Exodus 12:1–20](https://biblehub.com/bsb/exodus/12.htm))",
+    "",
+    "Their concern is the crowd’s reaction. They want to avoid a riot during the feast. The next scenes show a woman honoring Jesus and Judas offering the leaders a way to reach Him. Mark places those responses side by side as the plot moves toward His arrest."
+  ],
+  "common_interpretation_lines": [
+    "Christian readers commonly understand these verses as the opening of the final plot against Jesus, with the leaders’ fear of the crowd shaping their plans. The Catholic study notes connect their intention with earlier attempts that had also been restrained by fear of the people. ([USCCB, note on Mark 14:1](https://bible.usccb.org/bible/mark/14))"
+  ],
+  "god_plan_lines": [
+    "The first Christians later prayed about the opposition to Jesus in light of Psalm 2. Acts names Herod, Pilate, Gentiles, and Israelites among those who gathered against Him, yet also places the outcome within God’s saving purpose. Human plans to silence Jesus did not take His death and resurrection outside God’s care. ([Acts 4:24–30](https://biblehub.com/bsb/acts/4.htm))",
+    "",
+    "That connection leads to a practical response in Acts: the believers ask for boldness to continue speaking God’s word. Their confidence does not deny the danger; it rests on the God whose purpose was carried forward even through opposition to His Son."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/14.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-fourteen-opening-review.md"
+  }
+}

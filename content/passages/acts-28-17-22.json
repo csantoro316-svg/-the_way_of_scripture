@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "28:17-22",
+    "label": "Acts 28:17-22",
+    "slug": "acts-28-17-22"
+  },
+  "section_title": "Why does Paul begin in Rome by speaking of Israel’s hope?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 After three days, he called together the leaders of the Jews. When they had gathered, he said to them, “Brothers, although I have done nothing against our people or the customs of our fathers, I was taken prisoner in Jerusalem and handed over to the Romans. 18 They examined me and wanted to release me, because there was no basis for a death sentence against me. 19 But when the Jews objected, I was compelled to appeal to Caesar, even though I have no charge to bring against my nation. 20 So for this reason I have called to see you and speak with you. It is because of the hope of Israel that I am bound with this chain.” 21 The leaders replied, “We have not received any letters about you from Judea, nor have any of the brothers from there reported or even mentioned anything bad about you. 22 But we consider your views worth hearing, because we know that people everywhere are speaking against this sect.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Three days after arriving, Paul calls together the local Jewish leaders. He explains that he has done nothing against his people or their ancestral customs, yet was handed over as a prisoner. The Romans wished to release him because they found no offense deserving death, but opposition led him to appeal to Caesar. He adds that his appeal is not an accusation against his nation.",
+    "",
+    "Paul says he is bound because of the hope of Israel. This continues the explanation he has given in earlier hearings: his message about Jesus and the resurrection grows out of the hope found in Israel’s Scriptures.",
+    "",
+    "The leaders say they have received no letters about Paul from Judea and no visiting report against him. They want to hear his thinking because they know this movement is spoken against. Their answer opens a conversation; it does not tell us that every legal accusation has been withdrawn."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read Paul’s explanation as a claim of continuity with Israel’s hope, rather than a rejection of Israel or its Scriptures. The leaders have not yet heard his full presentation, and their willingness to hear should be distinguished from the mixed response that follows."
+  ],
+  "god_plan_lines": [
+    "[Romans 15:7–9](https://biblehub.com/bsb/romans/15.htm) brings together God’s faithfulness to His promises to the fathers and His mercy toward the Gentiles. Paul’s message in Rome belongs within that same purpose. The welcome of the nations does not make God’s promises to Israel a mistake.",
+    "",
+    "The conversation begins with the hope of Israel and will lead to testimony about Jesus from Moses and the Prophets. The wider invitation grows from that scriptural story, rather than requiring Paul to abandon it."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/28.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twenty-eight-review.md"
+  }
+}

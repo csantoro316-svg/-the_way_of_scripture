@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "1:14-15",
+    "label": "Mark 1:14-15",
+    "slug": "mark-1-14-15"
+  },
+  "section_title": "The Kingdom Is Near: Repent and Believe",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 After the arrest of John, Jesus went into Galilee and proclaimed the gospel of God. 15 “The time is fulfilled,” He said, “and the kingdom of God is near. Repent and believe in the gospel!”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "After John's arrest, Jesus comes into Galilee and announces the good news of God. Mark has moved from the messenger's preparation and Jesus' baptism and testing into His public preaching. He will explain John's imprisonment more fully in [Mark 6:17–29](https://biblehub.com/bsb/mark/6.htm).",
+    "",
+    "Jesus' message joins an announcement with a response: the time has been fulfilled, God's kingdom has drawn near, and people are called to repent and believe. Time is καιρός, *kairos* (kye-ROSS). [Thayer's lexicon](https://biblehub.com/greek/2540.htm) gives its range as a definite time, season, or appointed occasion. In this sentence, fulfilled makes the point that the awaited moment has arrived.",
+    "",
+    "Kingdom concerns God's rule. [Thayer's entry for βασιλεία](https://biblehub.com/greek/932.htm), *basileia* (bah-see-LAY-ah), includes kingship, dominion, and a kingdom. Here the announcement is connected with Jesus' arrival and work. The next scenes begin showing what responding to Him looks like, as people leave their former work to follow Him.",
+    "",
+    "Repentance and faith belong together: turning from sin and placing trust in the good news. Mark's account is still at the beginning of the ministry, before Jesus' death and resurrection. Readers will learn what the good news involves as His story unfolds."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as the arrival of the promised time and a call to respond to God's rule through Jesus with repentance and faith. The Catholic [Catechism, 541–545](https://www.vatican.va/archive/ENG0015/__P1L.HTM), [Calvin on Mark 1:14–15](https://biblehub.com/commentaries/calvin/mark/1.htm), and [Wesley on 1:15](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-mark/) share that basic reading."
+  ],
+  "god_plan_lines": [
+    "The opening of Mark has already joined Jesus' arrival with the prophets' promises. [Romans 1:1–6](https://biblehub.com/bsb/romans/1.htm) later uses the same expression, the gospel of God, for the good news promised in Scripture concerning His Son, including His resurrection. Jesus' first announcement belongs within that unfolding work of salvation.",
+    "",
+    "God's rule also changes how people live together. [Romans 14:17–19](https://biblehub.com/bsb/romans/14.htm) connects His kingdom with righteousness, peace, and joy in the Holy Spirit, and calls believers to pursue peace and build one another up. The announcement looks toward a people whose life together is shaped by the King they receive."
+  ],
+  "current_position_lines": [
+    "The Gospel According to Jesus understands repentance as turning away from sin and self-rule toward Jesus as Lord, joined with faith in Him. The study treats salvation as God's gift received through faith. The changed life that follows expresses His rule rather than earning a place in His kingdom."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-mark-one-call-review.md",
+    "position_source_detail": "The Gospel According to Jesus, The Fullness and Receiving the Gospel / Have You Been Saved?, source77–159: repentance and faith as receiving grace, changed life expressing the King’s rule."
+  }
+}

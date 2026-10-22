@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "2:14-16",
+    "label": "1 Corinthians 2:14-16",
+    "slug": "1-corinthians-2-14-16"
+  },
+  "section_title": "What does it mean to have the mind of Christ?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 The natural man does not accept the things that come from the Spirit of God. For they are foolishness to him, and he cannot understand them, because they are spiritually discerned. 15 The spiritual man judges all things, but he himself is not subject to anyone’s judgment. 16 “For who has known the mind of the Lord, so as to instruct Him?” But we have the mind of Christ."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul contrasts the person who does not receive the things of God’s Spirit with the person whose judgment is shaped by the Spirit. The message dismissed as foolish cannot be rightly received simply by applying the world’s standards of wisdom and importance.",
+    "",
+    "The spiritual person’s judgment comes from the Spirit’s help. That does not make every personal opinion correct or every criticism invalid. Paul is writing to correct this church, and immediately afterward he calls its jealous and quarrelsome members infants in Christ. Possessing the Spirit does not make growth and correction unnecessary.",
+    "",
+    "Paul draws on [Isaiah 40:13](https://biblehub.com/bsb/isaiah/40.htm), where no one can instruct the Lord, then says that we have the mind of Christ. God’s people receive understanding from Him. They are not His counselors, and the point is not that each believer now knows everything God knows."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read these verses as teaching dependence on the Spirit to receive God’s truth. [Calvin’s comment on verse 15](https://biblehub.com/commentaries/calvin/1_corinthians/2.htm) explicitly denies that spiritual people are free from every error, and [Wesley’s note on verse 16](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) relates the mind of Christ to understanding God’s saving purpose. The passage gives no individual a license to place personal claims beyond examination."
+  ],
+  "god_plan_lines": [
+    "[Philippians 2:1–11](https://biblehub.com/bsb/philippians/2.htm) connects shared life in the Spirit with a concrete call to share Christ’s way of thinking: humility, care for others and service. Christ’s own example leads through obedience and the cross to His exaltation.",
+    "",
+    "This is a helpful connection, rather than a claim that the two passages address exactly the same question. Together they show why receiving understanding from Christ should lead away from self-importance. God forms a people who learn His truth and whose life together reflects His Son."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/2.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-two-review.md"
+  }
+}

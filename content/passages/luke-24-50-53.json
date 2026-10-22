@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "24:50-53",
+    "label": "Luke 24:50-53",
+    "slug": "luke-24-50-53"
+  },
+  "section_title": "Why do Jesus’ followers return with joy after He leaves?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "50 When Jesus had led them out as far as Bethany, He lifted up His hands and blessed them. 51 While He was blessing them, He left them and was carried up into heaven. 52 And they worshiped Him and returned to Jerusalem with great joy, 53 praising God continually in the temple."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus leads His followers out toward Bethany, raises His hands and blesses them. While He is blessing them, He is carried up into heaven. Their response is worship and great joy as they return to Jerusalem.",
+    "",
+    "Luke ends with them continually praising God in the temple. The followers who were frightened and doubtful are now worshiping the risen Lord and waiting as He instructed.",
+    "",
+    "This is a compact closing account. Acts supplies the fuller time frame of appearances over forty days, followed by the ascension, the promise of His return and the followers gathering in prayer. ([Acts 1:1–14](https://biblehub.com/bsb/acts/1.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian traditions commonly understand the ascension as Jesus being exalted into heavenly glory, with His risen humanity retained. The Catholic Catechism explains His place at the Father’s right hand in terms of divine honor and the Messiah’s kingdom; Westminster describes Him ascending in the same body in which He rose. ([Catechism §§659–664](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/article_6/he_ascended_into_heaven_and_is_seated_at_the_right_hand_of_the_father.index.html); [Westminster Confession 8.4](https://www.opc.org/wcf.html))"
+  ],
+  "god_plan_lines": [
+    "Jesus’ heavenly presence is connected with continuing care for His people. Hebrews describes Him as the great high priest who has passed through the heavens and invites believers to draw near for mercy and help. It also says that He lives to intercede for those who come to God through Him. His departure belongs within that ongoing ministry on their behalf. ([Hebrews 4:14–16](https://biblehub.com/bsb/hebrews/4.htm); [Hebrews 7:23–28](https://biblehub.com/bsb/hebrews/7.htm))",
+    "",
+    "Acts joins the ascension with both mission and hope: the witnesses will receive the Spirit’s power, and the same Jesus will return. Their joyful worship and prayer prepare for the next stage of the story, in which His work continues through the people He sends. ([Acts 1:6–14](https://biblehub.com/bsb/acts/1.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/24.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-twenty-four-review.md"
+  }
+}

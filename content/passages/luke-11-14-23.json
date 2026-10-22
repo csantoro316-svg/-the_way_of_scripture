@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "11:14-23",
+    "label": "Luke 11:14-23",
+    "slug": "luke-11-14-23"
+  },
+  "section_title": "What does Jesus’ victory over evil reveal about His kingdom?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 One day Jesus was driving out a demon that was mute. And when the demon was gone, the man who had been mute spoke. The crowds were amazed, 15 but some of them said, “It is by Beelzebul, the prince of the demons, that He drives out demons.” 16 And others tested Him by demanding a sign from heaven.",
+        "17 Knowing their thoughts, Jesus said to them, “Every kingdom divided against itself will be laid waste, and a house divided against a house will fall. 18 If Satan is divided against himself, how can his kingdom stand? After all, you say that I drive out demons by Beelzebul. 19 And if I drive out demons by Beelzebul, by whom do your sons drive them out? So then, they will be your judges. 20 But if I drive out demons by the finger of God, then the kingdom of God has come upon you.",
+        "21 When a strong man, fully armed, guards his house, his possessions are secure. 22 But when someone stronger attacks and overpowers him, he takes away the armor in which the man trusted, and then he divides up his plunder. 23 He who is not with Me is against Me, and he who does not gather with Me scatters."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus drives out a demon, and the man who had been mute speaks. Some in the amazed crowd attribute the work to Beelzebul, the prince of demons. Others test Jesus by demanding a sign from heaven.",
+    "",
+    "Jesus answers that a kingdom torn against itself cannot stand. If His work is defeating Satan’s power, attributing it to Satan makes no sense. He also asks what the same accusation would mean for the work of their own people who drive out demons.",
+    "",
+    "Then He states the alternative: if He drives out demons by God’s power, God’s kingdom has come upon them. The healing is part of that arrival, rather than evidence of an alliance with the enemy.",
+    "",
+    "The picture of a stronger man overcoming an armed guard explains the release. Jesus’ work takes from the enemy what the enemy could not keep secure against Him. His concluding words call for a response to Himself: being against Him and scattering are the opposite of gathering with Him."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand Jesus as the stronger One who defeats the enemy and brings God’s kingdom. Wesley identifies the strong guard with the devil, while the Catholic Catechism places these releases within Christ’s victory over Satan. ([Wesley on Luke 11:20–21](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [Catechism §550](https://www.vatican.va/archive/ENG0015/__P1L.HTM))"
+  ],
+  "god_plan_lines": [
+    "The phrase about God’s finger recalls Exodus, where Pharaoh’s magicians recognize God’s power in a plague they cannot reproduce, yet Pharaoh remains hardened. This is a parallel between the accounts: an act of deliverance reveals God’s power and calls for a response. ([Exodus 8:16–19](https://biblehub.com/bsb/exodus/8.htm))",
+    "",
+    "Hebrews explains that Jesus shares our humanity and, through His death, defeats the devil’s power and frees those enslaved by fear of death. Colossians describes God rescuing people from darkness and bringing them into His Son’s kingdom. The release before the crowd belongs within this larger purpose of rescue through Christ. ([Hebrews 2:14–15](https://biblehub.com/bsb/hebrews/2.htm); [Colossians 1:13–14](https://biblehub.com/bsb/colossians/1.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/11.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-eleven-response-review.md"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "Galatians",
+    "citation": "4:1-7",
+    "label": "Galatians 4:1-7",
+    "slug": "galatians-4-1-7"
+  },
+  "section_title": "How does God bring us into His family?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 What I am saying is that as long as the heir is a child, he is no different from a slave, although he is the owner of everything. 2 He is subject to guardians and trustees until the date set by his father. 3 So also, when we were children, we were enslaved under the basic principles of the world.",
+        "4 But when the time had fully come, God sent His Son, born of a woman, born under the law, 5 to redeem those under the law, that we might receive our adoption as sons. 6 And because you are sons, God sent the Spirit of His Son into our hearts, crying out, “Abba, Father!” 7 So you are no longer a slave, but a son; and since you are a son, you are also an heir through God."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul continues the picture of an inheritance from the end of chapter 3. A child may be the heir to everything, yet still live under guardians and trustees. The child cannot simply take charge of the inheritance; the father has set the time for that change.",
+    "",
+    "Paul uses this picture to describe the earlier condition of bondage. Then comes the turning point: God sent His Son at the appointed time. Jesus was born of a woman and born under the law, entering the situation of those He came to redeem.",
+    "",
+    "The purpose reaches beyond release from bondage. God acts so that we may receive adoption as His sons. Paul includes women in this family language, as he has already made clear in 3:26–29. The family shares an inheritance through God.",
+    "",
+    "God also sends the Spirit of His Son into their hearts. The cry to God is that of children addressing their Father. The word Ἀββᾶ, Abba (ah-BAH), is an Aramaic form of address meaning Father. [Thayer’s lexicon](https://biblehub.com/greek/5.htm) identifies its use in prayer to God.",
+    "",
+    "Paul ends with the change in their standing: a son and an heir through God. His appeal rests on what the Father has done through His Son and Spirit."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this passage as describing the Father’s saving work through the Son and the Spirit, bringing believers into His family with the standing of heirs. [Wesley’s notes on verses 1–7](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-galatians/) and the [USCCB notes on verses 1–7](https://bible.usccb.org/bible/galatians/4) both follow that movement from guardianship and bondage to belonging with God."
+  ],
+  "god_plan_lines": [
+    "The same address appears on Jesus’ lips in [Mark 14:36](https://biblehub.com/bsb/mark/14.htm), when He prays to His Father in Gethsemane. In [Romans 8:15–17](https://biblehub.com/bsb/romans/8.htm), believers also cry to God as Father through the Spirit and are described as heirs with Christ.",
+    "",
+    "These connections show the depth of the welcome Paul describes. Through the Son and His Spirit, people are brought into a relationship with the Father that shapes their prayer and their hope. Romans also connects that shared inheritance with sharing Christ’s sufferings and future glory."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/galatians/4.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-galatians-four-review.md"
+  }
+}

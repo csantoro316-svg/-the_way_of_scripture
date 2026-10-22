@@ -1,0 +1,52 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "40:5-16",
+    "label": "Ezekiel 40:5-16",
+    "slug": "ezekiel-40-5-16"
+  },
+  "section_title": "What does Ezekiel see at the east gate?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 And I saw a wall surrounding the temple area. Now the length of the measuring rod in the man’s hand was six long cubits (each measuring a cubit and a handbreadth), and he measured the wall to be one rod thick and one rod high. 6 Then he came to the gate facing east and climbed its steps. He measured the threshold of the gate to be one rod deep. 7 Each gate chamber was one rod long and one rod wide, and there were five cubits between the gate chambers. The inner threshold of the gate by the portico facing inward was one rod deep. 8 Then he measured the portico of the gateway inside; 9 it was eight cubits deep, and its jambs were two cubits thick. And the portico of the gateway faced the temple. 10 There were three gate chambers on each side of the east gate, each with the same measurements, and the gateposts on either side also had the same measurements.",
+        "11 And he measured the width of the gateway entrance to be ten cubits, and its length was thirteen cubits. 12 In front of each gate chamber was a wall one cubit high, and the gate chambers were six cubits square. 13 Then he measured the gateway from the roof of one gate chamber to the roof of the opposite one; the distance was twenty-five cubits from doorway to doorway. 14 Next he measured the gateposts to be sixty cubits high. The gateway extended around to the gatepost of the courtyard. 15 And the distance from the entrance of the gateway to the far end of its inner portico was fifty cubits. 16 The gate chambers and their side pillars had beveled windows all around the inside of the gateway. The porticos also had windows all around on the inside. Each side pillar was decorated with palm trees."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The tour begins at the surrounding wall and the east-facing gateway. The measuring rod is six long cubits, with each cubit described as an ordinary cubit plus a handbreadth. The wall is one rod thick and one rod high.",
+    "",
+    "The gateway is more than a doorway: it contains matching chambers, thresholds, side pillars and an inward-facing covered entrance. Three chambers stand on each side. Windows and carved palm trees are part of the design.",
+    "",
+    "The repeated measurements establish the arrangement of the entrance before Ezekiel moves into the courts. Keeping the measurements in cubits preserves the text’s own scale without depending on an exact conversion into modern units."
+  ],
+  "common_interpretation_lines": [
+    "[Cambridge](https://biblehub.com/commentaries/cambridge/ezekiel/40.htm) and the [USCCB notes](https://bible.usccb.org/bible/ezekiel/40) explain the rod as six cubits, each longer by a handbreadth. The USCCB notes emphasize that the east gate receives the fullest description, while the north and south gates share its dimensions.",
+    "",
+    "The immediate task is to follow the layout. The passage supplies no fixed spiritual meaning for each number, chamber or window."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/40.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-forty-two-review.md"
+  }
+}

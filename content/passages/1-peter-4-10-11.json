@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "1 Peter",
+    "citation": "4:10-11",
+    "label": "1 Peter 4:10-11",
+    "slug": "1-peter-4-10-11"
+  },
+  "section_title": "What are God’s gifts for?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 As good stewards of the manifold grace of God, each of you should use whatever gift he has received to serve one another. 11 If anyone speaks, he should speak as one conveying the words of God. If anyone serves, he should serve with the strength God provides, so that in all things God may be glorified through Jesus Christ, to whom be the glory and the power forever and ever. Amen."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Each person who has received a gift is to use it to serve others. Peter describes believers as stewards: people entrusted with something that belongs to God and responsible for using it well.",
+    "",
+    "He names speaking and serving as examples. Speaking carries responsibility to convey God’s words faithfully; serving depends on the strength God supplies. The emphasis is on the source and purpose of the service, rather than the importance of the person doing it.",
+    "",
+    "The goal is that God be glorified through Jesus Christ in everything. The paragraph ends in praise, bringing the readers’ varied contributions back to the One who gave them."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/1_peter/4.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-epistle-general-of-st-peter/) understand the gifts as entrusted for the good of others. Both stress dependence on God and giving Him the honor, rather than claiming His gifts as personal grounds for superiority.",
+    "",
+    "Calvin gives particular attention to the responsibility of those teaching God’s word. Wesley applies the speaking instruction more broadly to speech shaped by God’s truth, especially public teaching. Neither treats the instruction as permission to label any personal opinion God’s word."
+  ],
+  "god_plan_lines": [
+    "[1 Corinthians 12:4–7](https://biblehub.com/bsb/1_corinthians/12.htm) describes different gifts, services and workings coming from the same Spirit, Lord and God. Each receives a manifestation of the Spirit for the common good.",
+    "",
+    "Peter’s stewardship picture serves that same purpose. God’s varied grace meets the needs of His people as they serve one another, and the credit returns to Him through Christ."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_peter/4.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-peter-four-review.md"
+  }
+}

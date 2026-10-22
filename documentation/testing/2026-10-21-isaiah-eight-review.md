@@ -1,0 +1,31 @@
+# Isaiah 8 passage review — 2026-10-21
+
+Three retained groups /22actual BSBverses. Two supported plan sections /one deliberate omission. Three exact open positions; no owner study changed, existing deeper links retained.
+
+## Actually read sources
+
+BaselinePDF entire8lesson80–90readincluding9:1–4; cumulative1–92read(following9–10lesson91–92begun). Whole actualBibleHub BSB8mainverses22, actualHenry8exposition, allWesley8expositionparagraphs, USCCB8notes read. Gill8:1–4,6,8,10,12,14,16–21 selected31228charactersactuallyread inthreechunks. WholeBDB4122nameentry/headerread; pronunciation/meaningfromactualentrynotunsignedTopicalLexicon. No furtherunverifiedlexicalclaim.
+
+SupportingactualBSBdirectread:Psalm2whole;Acts4:23–31;Rom9:30–33;1Pet2:4–10;Heb2:10–18;Deut18:9–14;1Pet3:14–16. PrimarycommentaryURLspublic, actualauthors'viewsnotdenominationdefinitions. Ownerstudysearch8:14/18/20/Maher/lawtestimonyfoundnoapplicableposition. Theme-relatedBereanandReturninglinksnotpositionauthority.
+
+## 8:1–10
+
+Plan section: included, because (c). GodlimitsoppositionschemesPsalm2/Acts4Christcrucifixionandchurchboldness, notdirectIsa8quotationclaim.
+Position source: none.
+FLAGGED FOR REVIEW: ActualBSBscroll/stylusnotNASBtablet; no certaintyartifactmetal/hangingpublicplacard/rallycustom soldiersshoutedname. Two namedwitnessestestimonydoesnotautomaticallymeandeathtrialunderDeut17; no newjudicialsceneinvented. Uriahperhaps2Kings16priestbutGodtrustworthywitnessworddoesnotprovealreadycorrupt/noethics. Zechariahnotautomaticallylaterprophet; no claimweknowhisfullbiography. Prophetesscalledthatintext, no certaintyonlywifeandneverprophetordetailedlistoracles. NameactualBDB4122rapidplunderchecked, nochild'sconceptioncodedWordbecamefleshproof. No exactlytwoyearsclinicaldevelopmentrule.8:6rejoicedINRezinnotbaselineoppositefallofRezin. WesleyNorthernIsraelversusNABREJudahattributedreadingsnotsettledownerposition. No unverifiedarchaeologicalwaterchannelroute/age.8:8BSBspreadingstreamsnotrewrittenwings; independenthistorical46cities/200yearsdominationnotneeded/uncheckednotused. Godwithusnotguaranteenoindividualdanger/loss. No automaticallGentileattacksalwaysdefeatedbeforeJesusliteraloutcome, Judahexilehistorynotdenied.
+
+## 8:11–18
+
+Plan section: included, because (a). Rom9:33/1Pet2:8stonequotation;1Pet3:14–16fearLordecho;Heb2:13trust/childrenquotationsand14–18sharedhumanity/death/priesthoodexplicit.
+Position source: none.
+FLAGGED FOR REVIEW: ConspiracyWesleyantiAssyrianconfederacyversusNABREaccusationagainstprophetsfairlyattributed, notmodernallconspiraciesfalse/existpolicy. FearGodnotpsychologicaldiagnosisnorallprudentdangerresponsefaithless. StoneappliedChristbyNTactualnotuniquelyJewishethnicblindness(1Pet/Henryallunbelief). BindsealnotbaselineSeptalternativeoverBSB/Mandatoryhidealltruthfromeveryone; actualpreservationtext. Henrychildrennamesnatural/GilldirectChristvoicefairdifference;Wesinterpretationspiritualchildrenambiguousantecedentnotoversimplified. No full3nameetymologieswithoutstandardlexiconsforIsaiah/Shearjashubthisbatch. Hebrewschildrenflesh/bloodidentificationactualnotAIbiologicalrelationshipassertion. No inventedownerpositionornewdenomdoctrinalsystem.1Pet3ChristasLordactualBSBreadratherthanassumelatertextualvariation.
+
+## 8:19–22
+
+Plan section: omitted, because none apply beyond seekingGod'srevealedwordalreadyexplainedwithoutgenericrepeatedlightapplication.
+Position source: none.
+FLAGGED FOR REVIEW: Medium/spiritistwarningnotclaimalloutsidecounselinanyprofessiondemonic. GillScribesPhariseesallsecretmagiciansmappingnotindependentlyestablishedandnotcommonconsensus, omitted. No claimhungry/distressedpeopleautomaticallypersonallywickedoreternallyrejected. ActualBSBtheirGodnotWesalternateidolcertainty. DarknesstextdifficultNABREnotreasonrewritequotation. Chaptertransition9explicitlightknownPDF9readbutnotdrafthere. Noclinicaldiagnosisofgrief/anger. No spiritualsourceautomaticallyreliablebecausecallsitselfChristian; actualwordtestthemeonly.
+
+## Validation
+
+All checks passed: focused generation; direct BibleHub BSB; repository (0 errors /365 warnings); preservation; sequential coverage through 8:22; unchanged repeat generation; six mobile views; physical Next navigation; Hosting dry run and deployment. Live verification returned LIVE MATCH 7, exit 0. Cumulative Isaiah: 17 reviewed groups /175 verses /13 supported plan sections /four intentional omissions /17 open positions.

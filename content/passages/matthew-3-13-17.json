@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "3:13-17",
+    "label": "Matthew 3:13-17",
+    "slug": "matthew-3-13-17"
+  },
+  "section_title": "Jesus Is Baptized",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 At that time Jesus came from Galilee to the Jordan to be baptized by John. 14 But John tried to prevent Him, saying, “I need to be baptized by You, and do You come to me?” 15 “Let it be so now,” Jesus replied. “It is fitting for us to fulfill all righteousness in this way.” Then John permitted Him.",
+        "16 As soon as Jesus was baptized, He went up out of the water. Suddenly the heavens were opened, and He saw the Spirit of God descending like a dove and resting on Him. 17 And a voice from heaven said, “This is My beloved Son, in whom I am well pleased!”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus comes from Galilee to the Jordan seeking baptism from John. John objects that he needs baptism from Jesus instead. Jesus answers that this action is fitting to fulfill all righteousness, and John permits it. Matthew presents a deliberate act of obedience, not Jesus confessing a sin He has committed.",
+    "",
+    "The word fitting is πρέπω, *prepō* (PREH-poh). [Thayer's Greek Lexicon](https://biblehub.com/greek/4241.htm) explains its use here as being appropriate or becoming. Jesus says that this is the right course for them now. He and John each have a part in carrying out what God requires.",
+    "",
+    "As Jesus comes up from the water, the heavens open, the Spirit descends like a dove and rests on Him, and the heavenly voice declares Him the beloved Son. The scene moves from John's hesitation to God's confirmation. Jesus is the One to whom John's preparatory ministry has been pointing.",
+    "",
+    "[John 1:29–34](https://biblehub.com/bsb/john/1.htm) gives the Baptist's later testimony: the descent and remaining of the Spirit was the sign by which he recognized the One who baptizes with the Holy Spirit. Matthew tells the encounter from its own angle, including John's objection and Jesus' answer. Neither account gives a complete history of what John had understood about Jesus at every earlier stage."
+  ],
+  "common_interpretation_lines": [
+    "Historic Christian readings understand the baptism as Jesus' willing obedience and the revelation of the Son, with the Father speaking and the Spirit descending. The [Catholic Catechism, paragraphs 535–536](https://www.vatican.va/archive/ENG0015/__P1L.HTM), and [Wesley's notes on Matthew 3:15–17](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) both emphasize His submission to God's purpose, rather than a need to be cleansed of personal sin."
+  ],
+  "god_plan_lines": [
+    "The heavenly declaration recalls the king addressed as God's Son in [Psalm 2:6–9](https://biblehub.com/bsb/psalms/2.htm). The Spirit resting on the One in whom God delights also recalls [Isaiah 42:1–4](https://biblehub.com/bsb/isaiah/42.htm), where God's servant brings justice to the nations. These are supported connections between the scenes; Matthew later directly applies Isaiah's servant passage to Jesus in [Matthew 12:17–21](https://biblehub.com/bsb/matthew/12.htm). The beloved Son's mission will display the servant's faithful care and justice.",
+    "",
+    "Jesus enters the water among people being called back to God, and will carry His obedience through to the cross. [Philippians 2:5–8](https://biblehub.com/bsb/philippians/2.htm) describes His taking the servant's place and becoming obedient to death. The baptism begins the public work that will lead there; the Father’s approval is not a promise that His Son's path will be free of suffering.",
+    "",
+    "The scene also points forward to the mission Jesus gives His followers. [Matthew 28:18–20](https://biblehub.com/bsb/matthew/28.htm) sends them to make disciples and baptize in the name of the Father, Son, and Holy Spirit. The three named together in that commission are already present here at the opening of Jesus' public work."
+  ],
+  "current_position_lines": [
+    "Our Baptism study understands immersion in water as the intended form of baptism. It connects going down into the water and coming up again with the death-and-resurrection picture developed for believers. That is the study's position on the form and meaning of Christian baptism; it does not make every feature of John's ministry identical to the later practice of the church."
+  ],
+  "deeper_study": [
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/3.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-john-and-baptism-review.md",
+    "position_source_detail": "Baptism — Greek word, immersion and the death/resurrection picture (sections I–II)"
+  }
+}

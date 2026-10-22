@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "8:28-34",
+    "label": "Matthew 8:28-34",
+    "slug": "matthew-8-28-34"
+  },
+  "section_title": "Jesus Frees the Men at the Tombs",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "28 When Jesus arrived on the other side in the region of the Gadarenes, He was met by two demon-possessed men coming from the tombs. They were so violent that no one could pass that way. 29 “What do You want with us, Son of God?” they shouted. “Have You come here to torture us before the appointed time?”",
+        "30 In the distance a large herd of pigs was feeding. 31 So the demons begged Jesus, “If You drive us out, send us into the herd of pigs.” 32 “Go!” He told them. So they came out and went into the pigs, and the whole herd rushed down the steep bank into the sea and died in the waters.",
+        "33 Those tending the pigs ran off into the town and reported all this, including the account of the demon-possessed men. 34 Then the whole town went out to meet Jesus. And when they saw Him, they begged Him to leave their region."
+      ]
+    }
+  ],
+  "context_lines": [
+    "On the other side of the sea, Jesus meets two demon-possessed men coming from the tombs. Their violence has made the route unsafe. The encounter presents another kind of power that people cannot control, following the storm the disciples could not master.",
+    "",
+    "The demons recognize Jesus as the Son of God and ask about torment before the appointed time. Their recognition is not willing trust or obedience to God. They fear His authority and ask permission to enter a nearby herd of pigs. Jesus gives the command, and they leave the men.",
+    "",
+    "The pigs then rush into the sea and drown. Matthew reports their destruction but does not explain every reason Jesus permits the request or what happens to the demons afterward. Those tending the pigs tell the town about both the herd and the men, and the people ask Jesus to leave.",
+    "",
+    "[Mark 5:1–20](https://biblehub.com/bsb/mark/5.htm) and [Luke 8:26–39](https://biblehub.com/bsb/luke/8.htm) focus on one man and describe him afterward as clothed and in his right mind. Luke explicitly says the people's request for Jesus to leave arose from great fear. Matthew records two men; he does not tell us why the other accounts focus on one, or allow us to reduce the townspeople's motives to one unrecorded explanation."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the encounter as a real deliverance showing Jesus' authority over evil spirits and His power to restore people beyond human help. The Catholic [Catechism, 550](https://www.vatican.va/archive/ENG0015/__P1L.HTM), places such deliverances within the defeat of Satan's kingdom, and [Wesley on Matthew 8:28–31](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) likewise emphasizes the spirits' subjection to Jesus and the coming judgment they fear."
+  ],
+  "god_plan_lines": [
+    "Jesus later explains the larger significance of His deliverances in [Matthew 12:28–29](https://biblehub.com/bsb/matthew/12.htm): driving out demons by God's Spirit shows that God's kingdom has come, and He compares the rescue with overcoming a strong man to take back what he holds. The freedom of these men belongs within that advance of God's kingdom against evil.",
+    "",
+    "[Hebrews 2:14–18](https://biblehub.com/bsb/hebrews/2.htm) takes the purpose further, describing Jesus sharing our humanity and dying to break the devil's power and free those enslaved by fear of death. Matthew's encounter is not a complete account of that victory, but it shows the authority of the One who accomplishes it. The men are freed; evil does not have the final claim over them."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/8.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-chapter-eight-completion-review.md"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "Philippians",
+    "citation": "1:27-30",
+    "label": "Philippians 1:27-30",
+    "slug": "philippians-1-27-30"
+  },
+  "section_title": "How can the church stand together when it faces opposition?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "27 Nevertheless, conduct yourselves in a manner worthy of the gospel of Christ. Then, whether I come and see you or only hear about you in my absence, I will know that you stand firm in one spirit, contending together as one for the faith of the gospel, 28 without being frightened in any way by those who oppose you. This is a clear sign of their destruction but of your salvation, and it is from God.",
+        "29 For it has been granted to you on behalf of Christ not only to believe in Him, but also to suffer for Him, 30 since you are encountering the same struggle you saw I had, and now hear that I still have."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul turns from his own circumstances to the way the Philippians are to live. Whether he visits or remains absent, their conduct should be worthy of Christ’s gospel. He wants to hear of them standing in one spirit and contending together for the faith.",
+    "",
+    "The word translated conduct carries the idea of living as a citizen. [Thayer’s lexicon](https://biblehub.com/greek/4176.htm) also explains its use for living according to a rule of life. Here the standard Paul names is the gospel of Christ.",
+    "",
+    "The call to courage is communal. They are to stand together rather than be frightened by their opponents. Paul names both faith in Christ and suffering for Him as gifts granted to them, and connects their struggle with his own.",
+    "",
+    "The next paragraph will develop the unity this requires through humility and concern for others. Standing firm for the gospel belongs with the way they treat one another."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as a call to united, faithful witness despite opposition. [Wesley’s notes on verses 27–30](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-philippians/) emphasize shared effort and steadfastness. The [USCCB notes](https://bible.usccb.org/bible/philippians/1) likewise connect the instructions with congregational unity and suffering for Christ.",
+    "",
+    "The contrast between salvation and destruction places their struggle within God’s judgment. It is not a reason to celebrate another person’s suffering. The passage’s own instruction is for the believers to remain faithful and united, with their confidence in God."
+  ],
+  "god_plan_lines": [
+    "[Philippians 3:20–21](https://biblehub.com/bsb/philippians/3.htm) explicitly describes the believers’ citizenship as heavenly and directs their hope toward Christ’s return and the transformation of their bodies. That fuller statement in the letter supplies a supported connection with the conduct called for here.",
+    "",
+    "[Acts 5:40–42](https://biblehub.com/bsb/acts/5.htm) gives a concrete parallel: the apostles suffer for Jesus’ name and continue teaching and proclaiming Him. The Philippians’ struggle belongs within that continuing witness to Christ."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/philippians/1.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-philippians-one-closing-review.md"
+  }
+}

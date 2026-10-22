@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Nehemiah",
+    "citation": "10:28-31",
+    "label": "Nehemiah 10:28-31",
+    "slug": "nehemiah-10-28-31"
+  },
+  "section_title": "What changes do the people promise in their everyday lives?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "28 “The rest of the people—the priests, Levites, gatekeepers, singers, temple servants, and all who had separated themselves from the people of the land to obey the Law of God—along with their wives and all their sons and daughters who are able to understand, 29 hereby join with their noble brothers and commit themselves with a sworn oath to follow the Law of God given through His servant Moses and to obey carefully all the commandments, ordinances, and statutes of the LORD our Lord. 30 We will not give our daughters in marriage to the people of the land, and we will not take their daughters for our sons. 31 When the people of the land bring merchandise or any kind of grain to sell on the Sabbath day, we will not buy from them on a Sabbath or holy day. Every seventh year we will let the fields lie fallow and will cancel every debt."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The rest of the community joins the nobles in a sworn commitment to obey the Law given through Moses. The account includes the people serving at the temple, their wives, and sons and daughters who can understand what they are undertaking.",
+    "",
+    "They promise not to arrange marriages with the surrounding peoples. The Law’s warning in [Deuteronomy 7:1–6](https://biblehub.com/bsb/deuteronomy/7.htm) connects prohibited marriages with the danger of turning away to serve other gods.",
+    "",
+    "They also promise not to buy goods on the Sabbath or a holy day, and to observe the seventh year’s rest for the land and cancellation of debts. [Exodus 23:10–12](https://biblehub.com/bsb/exodus/23.htm) and [Deuteronomy 15:1–11](https://biblehub.com/bsb/deuteronomy/15.htm) show how these commands protect rest and provide for neighbors in need. Their commitment reaches family decisions, trade, farming and lending."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/nehemiah/10.htm) emphasizes turning from the surrounding way of life toward conduct directed by God’s word. [Gill](https://biblehub.com/commentaries/gill/nehemiah/10.htm) understands the oath as the wider community’s agreement with the leaders, and the specific promises as obedience in matters where the people were vulnerable to failure. He also notes that the marriage problem appears again in chapter 13. The vow expresses a serious intention without making later failure impossible."
+  ],
+  "god_plan_lines": [
+    "The concern with covenant faithfulness reaches a further point in [Hebrews 8:6–13](https://biblehub.com/bsb/hebrews/8.htm). Hebrews describes Jesus as the One who brings a better covenant and repeats God’s promise to put His laws in the people’s minds and write them on their hearts.",
+    "",
+    "That promise also includes knowing God and receiving forgiveness. The wider story addresses the need exposed by repeated broken commitments: God’s purpose reaches the heart, and confidence rests in what He promises through Christ."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/nehemiah/10.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-nehemiah-ten-eleven-review.md"
+  }
+}

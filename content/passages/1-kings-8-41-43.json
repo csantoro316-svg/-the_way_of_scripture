@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "8:41-43",
+    "label": "1 Kings 8:41-43",
+    "slug": "1-kings-8-41-43"
+  },
+  "section_title": "Why does Solomon pray for people from other nations?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "41 And as for the foreigner who is not of Your people Israel but has come from a distant land because of Your name— 42 for they will hear of Your great name and mighty hand and outstretched arm—when he comes and prays toward this temple, 43 then may You hear from heaven, Your dwelling place, and do according to all for which the foreigner calls to You. Then all the peoples of the earth will know Your name and fear You, as do Your people Israel, and they will know that this house I have built is called by Your Name."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The prayer now looks beyond Israel. Solomon imagines a foreigner coming from a distant country after hearing about the LORD’s great name and power.",
+    "",
+    "He asks God to hear that person’s prayer toward the temple. The purpose is clear: people throughout the earth are to know and revere the LORD, just as Israel does, and recognize that this house bears His Name.",
+    "",
+    "The foreigner’s presence is welcomed into the prayer. God’s dealings with Israel are meant to make Him known beyond Israel’s borders."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) emphasizes the generous scope of Solomon’s request and sees it as an early indication of God’s welcome to people from the nations. [Gill](https://biblehub.com/commentaries/gill/1_kings/8.htm) likewise connects the prayer with people outside Israel being drawn to worship Israel’s God.",
+    "",
+    "The request is for a person who comes because of the LORD’s name. Its aim is knowledge of and reverence for Him. The promise of being heard is therefore set within coming to the living God, rather than treating the temple as a source of benefits detached from Him."
+  ],
+  "god_plan_lines": [
+    "This prayer belongs within the wider promise of blessing reaching the nations. In [Genesis 12:1–3](https://biblehub.com/bsb/genesis/12.htm), God promises that all the families of the earth will be blessed through Abraham. Solomon’s concern that the nations know the LORD fits that larger purpose.",
+    "",
+    "[Galatians 3:6–9](https://biblehub.com/bsb/galatians/3.htm) explicitly connects the promise to Abraham with God bringing people from the nations into a right relationship with Himself through faith. Solomon’s prayer is not the whole fulfillment of that promise, but it points in the same direction: the blessing is to reach beyond one people."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/8.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-eight-closing-review.md"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "4:30-32",
+    "label": "Mark 4:30-32",
+    "slug": "mark-4-30-32"
+  },
+  "section_title": "The Mustard Seed and the Growing Kingdom",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "30 Then He asked, “To what can we compare the kingdom of God? With what parable shall we present it? 31 It is like a mustard seed, which is the smallest of all seeds sown upon the earth. 32 But after it is planted, it grows to be the largest of all garden plants and puts forth great branches, so that the birds of the air nest in its shade.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus asks what picture can describe God's kingdom and chooses a mustard seed. The contrast runs from a tiny beginning to a plant with large branches and shade where birds can nest. The smallness at the start does not reveal the whole outcome.",
+    "",
+    "This follows the stories about sowing, hearing, and growth. The kingdom Jesus announces may appear unimpressive beside the size of the surrounding world, yet its beginning is not the measure of what God will do. Mark's picture includes both growth and shelter.",
+    "",
+    "The birds lead to different readings. Earlier in the chapter, birds taking seed from the path represent Satan taking away the word. Here they nest in the branches. Interpreters differ over whether that earlier meaning should control this different scene, or whether the shelter recalls the wider reach of God's kingdom."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin on the parallel Matthew 13:31–32](https://biblehub.com/commentaries/calvin/mark/4.htm) reads the mustard seed as encouragement about the gospel's small beginning and surprising growth. The [US Catholic bishops' note on Mark 4:32](https://bible.usccb.org/bible/mark/4) sees the birds as pointing toward the kingdom's reach among the nations.",
+    "",
+    "[C. I. Scofield's 1917 note on Matthew 13:31](https://bible-strong.app/commentary/en/scofield/matt/13) instead warns about impressive outward growth that lacks lasting substance. He connects the birds' shelter with Nebuchadnezzar's tree in Daniel 4, which comes under judgment. These are commentators' readings, rather than two uniform official church positions; they differ over whether the expanded shelter is chiefly encouragement or warning."
+  ],
+  "god_plan_lines": [
+    "[Ezekiel 17:22–24](https://biblehub.com/bsb/ezekiel/17.htm) offers a related picture: God plants a tender shoot that becomes a great cedar, with birds of every kind sheltering beneath it. The passage declares His power to bring down the tall tree and raise the low one. This is a supported parallel of God bringing growth and shelter from a small beginning.",
+    "",
+    "Tree-and-bird pictures also occur in [Daniel 4:10–26](https://biblehub.com/bsb/daniel/4.htm) and [Ezekiel 31:1–9](https://biblehub.com/bsb/ezekiel/31.htm), where great kingdoms provide shelter but remain answerable to God. The wider theme places power and its outcome in His hands. Mark gives a kingdom comparison, rather than an invitation to judge God's work only by present size."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/4.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-four-closing-review.md"
+  }
+}

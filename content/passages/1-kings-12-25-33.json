@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "12:25-33",
+    "label": "1 Kings 12:25-33",
+    "slug": "1-kings-12-25-33"
+  },
+  "section_title": "Why does Jeroboam create another system of worship?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "25 Then Jeroboam built Shechem in the hill country of Ephraim and lived there. And from there he went out and built Penuel. 26 Jeroboam said in his heart, “Now the kingdom might revert to the house of David. 27 If these people go up to offer sacrifices in the house of the LORD at Jerusalem, their hearts will return to their lord, Rehoboam king of Judah; then they will kill me and return to Rehoboam king of Judah.”",
+        "28 After seeking advice, the king made two golden calves and said to the people, “Going up to Jerusalem is too much for you. Here, O Israel, are your gods, who brought you up out of the land of Egypt.” 29 One calf he set up in Bethel, and the other in Dan. 30 And this thing became a sin; the people walked as far as Dan to worship before one of the calves. 31 Jeroboam also built shrines on the high places and appointed from every class of people priests who were not Levites.",
+        "32 And Jeroboam ordained a feast on the fifteenth day of the eighth month, like the feast that was in Judah, and he offered sacrifices on the altar; he made this offering in Bethel to sacrifice to the calves he had set up, and he installed priests in Bethel for the high places he had set up. 33 On the fifteenth day of the eighth month, a month of his own choosing, Jeroboam offered sacrifices on the altar he had set up in Bethel. So he ordained a feast for the Israelites, offered sacrifices on the altar, and burned incense."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jeroboam establishes himself at Shechem and builds Penuel, but fear soon drives his decisions. He reasons that worship at Jerusalem will draw the people back to Rehoboam and lead to his own death.",
+    "",
+    "After taking advice, he makes two golden calves and places them at Bethel and Dan, telling the people they need not travel to Jerusalem. The narrator calls this a sin. Jeroboam also builds shrines and appoints priests who are not Levites.",
+    "",
+    "He establishes a festival like the one in Judah, but in a month of his own choosing, and offers at the altar in Bethel. Worship is being shaped around the king’s concern to keep the people’s loyalty."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/), [Henry](https://biblehub.com/commentaries/mhc/1_kings/12.htm) and [Gill](https://biblehub.com/commentaries/gill/1_kings/12.htm) understand the calves as intended representations for worship of Israel’s God, rather than necessarily an announcement that the LORD is being replaced by Baal. They nevertheless regard the practice as disobedient worship.",
+    "",
+    "This reading explains why language about the exodus and a familiar-looking feast could make the change appear acceptable. The narrator’s judgment remains clear: the calves, the priesthood and the king’s chosen arrangements lead the people into sin."
+  ],
+  "god_plan_lines": [
+    "The scene deliberately recalls [Exodus 32:1–8](https://biblehub.com/bsb/exodus/32.htm): a golden calf, an altar, a feast and the claim that this is the god who brought Israel out of Egypt. Jeroboam’s words repeat the earlier failure instead of learning from it.",
+    "",
+    "In [1 Corinthians 10:6–14](https://biblehub.com/bsb/1_corinthians/10.htm), Paul treats the wilderness failures, including the calf’s feast, as warnings for believers and calls them to flee idolatry. Paul is explaining that earlier history, not directly commenting on Jeroboam. The recurring pattern shows why receiving God’s help must be joined with continuing to trust and obey Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/12.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-twelve-review.md"
+  }
+}

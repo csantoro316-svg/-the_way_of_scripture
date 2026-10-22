@@ -5,20 +5,53 @@
     "label": "Acts 20:17",
     "slug": "acts-20-17"
   },
-  "section_title": "",
-  "versions": [],
+  "section_title": "Whom does Paul call to meet him at Miletus?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 From Miletus, Paul sent to Ephesus for the elders of the church."
+      ]
+    }
+  ],
   "context_lines": [
-    "Acts 20:17 should be read within the flow of its chapter and the larger argument of Acts."
+    "Paul has sailed past Ephesus while trying to reach Jerusalem by Pentecost. From Miletus he sends for the church’s elders. The speech that follows reminds them of his ministry and prepares them to care for the believers after his departure.",
+    "",
+    "In verse 28, Paul describes these same elders as overseers and tells them to shepherd the church. Reading the invitation with that instruction keeps the focus on the people entrusted with care, rather than treating three descriptions as automatically three separate levels of rank."
   ],
   "common_interpretation_lines": [
-    "One group of men. Called elders. Made overseers. Told to shepherd. Three words, one office, one function \u2014 caring for people, not ruling a rank. Peter makes the same connection:",
+    "Christians commonly understand the elders as responsible for caring for the community and guarding its teaching. Traditions differ over how this group relates to later forms of church leadership.",
     "",
-    "Elder, shepherd, overseer \u2014 again the same men, the same task, described three ways. Not a hierarchy. A job, seen from three angles: age and maturity (elder), responsibility for watching over souls (overseer), and the actual daily work of tending people (shepherd)."
+    "The Catholic Church’s [Catechism, paragraphs 1562–1567](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_three/article_6/iii_the_three_degrees_of_the_sacrament_of_holy_orders.index.html), describes priests, also called presbyters or elders, as coworkers who share in the bishop’s mission and serve in communion with him and under his authority. In this account, their shared work does not erase the distinction between bishop and priest.",
+    "",
+    "The Reformed Baptist [1689 Confession 26:8–9](https://www.the1689confession.com/1689/chapter-26) names bishops or elders as the same local office, alongside deacons, and expressly cites Acts 20:17 and 28. It describes qualified leaders chosen by the congregation and set apart with prayer. That is the teaching of this confession, not a claim that every Baptist congregation has an identical arrangement."
+  ],
+  "god_plan_lines": [
+    "The same pattern of care appears in [1 Peter 5:1–4](https://biblehub.com/bsb/1_peter/5.htm), where elders shepherd the flock under Christ, the Chief Shepherd. Paul’s meeting helps prepare the community for faithful care after his departure. Its continuing life is centered on the Lord and His word, rather than on the permanent presence of one apostle."
+  ],
+  "current_position_lines": [
+    "Who Shepherds the Church? directly compares Acts 20:17 and 28. The people Paul calls elders are the same people described as overseers and told to shepherd the church. The study understands these as descriptions of shared, qualified care, rather than separate ranks of elder, bishop and pastor. It calls for several capable leaders who teach, correct and serve among the people."
   ],
   "deeper_study": [
     {
       "title": "Who Shepherds the Church?",
       "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/20.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twenty-review.md",
+    "position_source_detail": "Who Shepherds the Church?: direct Acts20:17 and28."
+  }
 }

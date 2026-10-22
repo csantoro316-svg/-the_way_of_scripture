@@ -1,0 +1,50 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "7:1-6",
+    "label": "Daniel 7:1-6",
+    "slug": "daniel-7-1-6"
+  },
+  "section_title": "What does Daniel see rising from the troubled sea?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 In the first year of the reign of Belshazzar over Babylon, Daniel had a dream, and visions passed through his mind as he lay on his bed. He wrote down the dream, and this is the summary of his account. 2 Daniel declared: “In my vision in the night I looked, and suddenly the four winds of heaven were churning up the great sea. 3 Then four great beasts came up out of the sea, each one different from the others:",
+        "4 The first beast was like a lion, and it had the wings of an eagle. I watched until its wings were torn off and it was lifted up from the ground and made to stand on two feet like a man and given the mind of a man. 5 Suddenly another beast appeared, which looked like a bear. It was raised up on one of its sides, and it had three ribs in its mouth between its teeth. So it was told, ‘Get up and gorge yourself on flesh!’ 6 Next, as I watched, suddenly another beast appeared. It was like a leopard, and on its back it had four wings like those of a bird. The beast also had four heads, and it was given authority to rule."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The account moves back to Belshazzar’s first year, before the feast and fall of Babylon described in chapter 5. Daniel himself now receives a dream and writes down what he sees.",
+    "",
+    "Four winds churn the sea, and four different beasts emerge. The first is a winged lion whose wings are removed; it is made to stand like a man and receives a human mind. The second resembles a bear, raised on one side, with three ribs in its mouth. The third resembles a leopard with four wings and four heads.",
+    "",
+    "The interpretation later identifies the beasts as kings and kingdoms. The vision returns to the subject of chapter 2, but its picture of earthly power is now fierce and unsettling: kingdoms are seen as beasts rather than parts of a magnificent statue."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/daniel/7.htm) reads the kingdoms as Babylon, Medo-Persia, Greece and Rome. The [USCCB notes](https://bible.usccb.org/bible/daniel/7) read the sequence as Babylon, Media, Persia and Greece. Both connect the four beasts with the four kingdoms of chapter 2, while differing over which empires the symbols represent."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/7.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-seven-review.md"
+  }
+}

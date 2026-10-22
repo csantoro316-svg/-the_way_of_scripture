@@ -5,23 +5,51 @@
     "label": "Exodus 30:11-16",
     "slug": "exodus-30-11-16"
   },
-  "section_title": "The Census Offering",
+  "section_title": "Why did the census require a ransom payment?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "11 Then the LORD said to Moses, 12 \u201cWhen you take a census of the Israelites to number them, each man must pay the LORD a ransom for his life when he is counted. Then no plague will come upon them when they are numbered. 13 Everyone who crosses over to those counted must pay a half shekel, according to the sanctuary shekel, which weighs twenty gerahs. This half shekel is an offering to the LORD.",
-        "14 Everyone twenty years of age or older who crosses over must give this offering to the LORD. 15 In making the offering to the LORD to atone for your lives, the rich shall not give more than a half shekel, nor shall the poor give less. 16 Take the atonement money from the Israelites and use it for the service of the Tent of Meeting. It will serve as a memorial for the Israelites before the LORD to make atonement for your lives.\u201d"
+        "11 Then the LORD said to Moses, 12 “When you take a census of the Israelites to number them, each man must pay the LORD a ransom for his life when he is counted. Then no plague will come upon them when they are numbered. 13 Everyone who crosses over to those counted must pay a half shekel, according to the sanctuary shekel, which weighs twenty gerahs. This half shekel is an offering to the LORD. 14 Everyone twenty years of age or older who crosses over must give this offering to the LORD. 15 In making the offering to the LORD to atone for your lives, the rich shall not give more than a half shekel, nor shall the poor give less. 16 Take the atonement money from the Israelites and use it for the service of the Tent of Meeting. It will serve as a memorial for the Israelites before the LORD to make atonement for your lives.”"
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 30**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "When Israel is numbered, each person counted is to give a half shekel to the LORD as a ransom for his life, so that no plague comes upon the people. The payment applies from twenty years of age. Rich and poor pay the same amount, and the money supports the service of the Tent of Meeting.",
+    "",
+    "The Hebrew noun כֹּפֶר, *kopher* (KOH-fer), means a ransom or the price of a life in this setting ([Brown–Driver–Briggs](https://biblehub.com/hebrew/3724.htm)). The payment acknowledges life before God and is a memorial for the Israelites. It differs from the earlier sanctuary offering, which people brought as their hearts moved them; here a fixed amount is required from those counted."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Census Offering** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Calvin](https://biblehub.com/commentaries/calvin/exodus/30.htm) emphasizes that Israel’s people and their lives belong to the God who redeemed them. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) draws attention to the equal amount and the equal need of rich and poor.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 30** remains the first control on meaning."
+    "Wesley also records different readings of how often it was due: at the first census, whenever a census occurred, or as an annual contribution begun at that first counting. The passage itself gives the requirement when the people are numbered. Those proposed later patterns should be distinguished from what this paragraph expressly specifies."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "A later tax episode in [Matthew 17:24–27](https://biblehub.com/bsb/matthew/17.htm) draws attention to Jesus’ standing as the Son. He explains that a king’s own sons are exempt, yet provides the payment for Himself and Peter to avoid giving offense. Wesley connects that temple-tax scene with this contribution; the Gospel’s emphasis is Jesus’ relationship to the Father and His willing response.",
+    "",
+    "The New Testament also distinguishes the greater redemption God provides from any monetary payment. [1 Peter 1:17–21](https://biblehub.com/bsb/1_peter/1.htm) says that believers are redeemed through Christ’s precious blood rather than silver or gold. [1 Timothy 2:1–6](https://biblehub.com/bsb/1_timothy/2.htm) identifies Him as the mediator who gives Himself as a ransom. These are wider biblical connections with the theme of life given and redeemed by God."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/30.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-thirty-review.md"
+  }
 }

@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "20:33-38",
+    "label": "Ezekiel 20:33-38",
+    "slug": "ezekiel-20-33-38"
+  },
+  "section_title": "Why does gathering the scattered people include judgment?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "33 As surely as I live, declares the Lord GOD, with a strong hand, an outstretched arm, and outpoured wrath I will rule over you. 34 With a strong hand, an outstretched arm, and outpoured wrath I will bring you out from the peoples and gather you from the lands to which you have been scattered. 35 And I will bring you into the wilderness of the nations, where I will enter into judgment with you face to face. 36 Just as I entered into judgment with your fathers in the wilderness of the land of Egypt, so I will enter into judgment with you, declares the Lord GOD.",
+        "37 I will make you pass under the rod and will bring you into the bond of the covenant. 38 And I will purge you of those who rebel and transgress against Me. I will bring them out of the land in which they dwell, but they will not enter the land of Israel. Then you will know that I am the LORD."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The Lord declares that He will rule over Israel with a strong hand, an outstretched arm and outpoured wrath. He will gather the scattered people and bring them into the wilderness of the nations to meet Him in judgment.",
+    "",
+    "He explicitly compares this encounter with His dealings with their fathers in the wilderness after Egypt. The new gathering does not make rebellion irrelevant any more than the earlier deliverance did.",
+    "",
+    "The people will pass under the rod and be brought into the bond of the covenant. Those who rebel will be purged out and will not enter the land of Israel.",
+    "",
+    "The promised gathering is therefore more than a change of location. The people must come under the rule of the God who gathers them, and they will know that He is the Lord."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/ezekiel/20.htm) relates the gathering and judgment to the experience of exile, with the obedient brought into covenant and stubborn sinners excluded. The [USCCB notes on verses 35–38](https://bible.usccb.org/bible/ezekiel/20) emphasize a new exodus and wilderness journey in which rebellion is removed.",
+    "",
+    "[John Walvoord’s discussion of Ezekiel 20:33–38](https://walvoord.com/article/72) places the judgment in a future gathering of Israel after Christ’s return. He also identifies the covenant with Jeremiah’s promised new covenant. That is his reading of the passage’s fulfillment, rather than a timetable stated in these verses.",
+    "",
+    "The readings differ over the historical setting and fulfillment. The shared point is that the Lord’s gathering involves His authority and a real distinction between faithfulness and rebellion."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 8:6–13](https://biblehub.com/bsb/hebrews/8.htm) explains the new covenant through Jesus as its mediator. God’s promised work includes His law written within His people, their knowing Him and the forgiveness of their sins.",
+    "",
+    "Hebrews quotes Jeremiah rather than Ezekiel 20. Its account develops the larger covenant hope: God forms a people who belong to Him inwardly, through the provision He makes. It adds to the gathering picture by explaining Christ’s work in that renewed relationship, without assigning every feature of Ezekiel’s wilderness scene a date."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/20.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-twenty-review.md"
+  }
+}

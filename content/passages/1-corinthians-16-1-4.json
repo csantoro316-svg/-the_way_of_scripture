@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "16:1-4",
+    "label": "1 Corinthians 16:1-4",
+    "slug": "1-corinthians-16-1-4"
+  },
+  "section_title": "How can a church prepare to help believers in need?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Now about the collection for the saints, you are to do as I directed the churches of Galatia: 2 On the first day of every week, each of you should set aside a portion of his income, saving it up, so that when I come no collections will be needed. 3 Then, on my arrival, I will send letters with those you recommend to carry your gift to Jerusalem. 4 And if it is advisable for me to go also, they can travel with me."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After the long discussion of resurrection, Paul turns to a practical collection for believers in Jerusalem. He has already given the churches of Galatia instructions for the same undertaking. The Corinthians belong to a wider family whose needs call for action.",
+    "",
+    "Each person is to set something aside on the first day of the week, according to their income. Regular preparation will keep the collection from becoming a hurried project when Paul arrives. This paragraph gives no fixed percentage.",
+    "",
+    "The congregation will approve the people who carry the gift, and Paul will provide letters for them. He may accompany them if that is appropriate. Generosity and trustworthy handling of the money belong together; the gift is not simply placed beyond the givers’ concern."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as planned generosity toward believers in need, with contributions related to what people have received. [Wesley’s note on verse 2](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) emphasizes giving as God has prospered a person; [Calvin’s note on verse 3](https://biblehub.com/commentaries/calvin/1_corinthians/16.htm) emphasizes choosing trustworthy people to administer the gift. Neither point requires inventing a percentage that Paul does not state here."
+  ],
+  "god_plan_lines": [
+    "[Romans 15:25–27](https://biblehub.com/bsb/romans/15.htm) explains the wider significance of this collection. Gentile believers share material help with Jewish believers from whom spiritual blessings have come. The [USCCB introduction to these verses](https://bible.usccb.org/bible/1corinthians/16) also draws attention to this connection.",
+    "",
+    "The gift makes the unity of Christ’s people visible across distance and background. God’s work of bringing people together takes practical form when one community accepts responsibility for the needs of another."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/16.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-sixteen-review.md"
+  }
+}

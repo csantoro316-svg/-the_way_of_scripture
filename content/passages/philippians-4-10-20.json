@@ -1,0 +1,69 @@
+{
+  "reference": {
+    "book": "Philippians",
+    "citation": "4:10-20",
+    "label": "Philippians 4:10-20",
+    "slug": "philippians-4-10-20"
+  },
+  "section_title": "How can we depend on Christ and share in one another’s needs?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 Now I rejoice greatly in the Lord that at last you have revived your concern for me. You were indeed concerned, but you had no opportunity to show it. 11 I am not saying this out of need, for I have learned to be content regardless of my circumstances. 12 I know how to live humbly, and I know how to abound. In any and every situation I have learned the secret of being filled and being hungry, of having plenty and having need. 13 I can do all things through Christ who gives me strength.",
+        "14 Nevertheless, you have done well to share in my affliction. 15 And as you Philippians know, in the early days of the gospel, when I left Macedonia, no church but you partnered with me in the matter of giving and receiving. 16 For even while I was in Thessalonica, you provided for my needs again and again.",
+        "17 Not that I am seeking a gift, but I am looking for the fruit that may be credited to your account. 18 I have all I need and more, now that I have received your gifts from Epaphroditus. They are a fragrant offering, an acceptable sacrifice, well-pleasing to God. 19 And my God will supply all your needs according to His glorious riches in Christ Jesus. 20 To our God and Father be glory forever and ever. Amen."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul thanks the Philippians for renewing their practical support. He does not accuse them of having stopped caring: they were concerned before, but lacked an opportunity to show it.",
+    "",
+    "He has learned contentment in very different conditions, including hunger and need as well as plenty. The Greek word is autarkes (ow-TAR-kays). [Thayer’s lexicon](https://biblehub.com/greek/842.htm) includes being content with one’s circumstances and means. Paul immediately names the strength Christ gives, so his contentment is not a claim that he needs no one.",
+    "",
+    "Verse 13 belongs to that explanation. The things he can face through Christ include the difficult circumstances he has just named. He then affirms their help: sharing in his affliction was good. Dependence on Christ and receiving help from others belong together.",
+    "",
+    "The church’s repeated gifts supported him while he was in Thessalonica, and Epaphroditus has now delivered their gift. Paul desires the fruit of their generosity, describes the gift as a sacrifice pleasing to God and assures them of God’s provision. His thanks keeps both their practical care and their relationship with God in view.",
+    "",
+    "The paragraph ends with praise to God the Father. The giving, the provision and the strength Paul has described lead him to honor God."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this paragraph as teaching contentment through Christ, generous partnership and confidence in God’s care. [Wesley’s notes on verses 10–19](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-philippians/) connect contentment with both scarcity and abundance and link the promise of provision with the Philippians’ care for Paul. The [USCCB notes](https://bible.usccb.org/bible/philippians/4) likewise keep the gift, the church’s growth and God’s provision together.",
+    "",
+    "These readings place verse 13 within Paul’s changing circumstances and verse 19 within his thanks for their support. The paragraph itself includes hunger and affliction, alongside generosity and abundance."
+  ],
+  "god_plan_lines": [
+    "Paul’s description of the gift as a pleasing sacrifice belongs to a wider biblical pattern. [Ephesians 5:1–2](https://biblehub.com/bsb/ephesians/5.htm) calls believers to walk in love after Christ’s self-giving, described as a fragrant offering to God. This is a supported parallel in sacrificial language: their giving reflects His love; it does not repeat His saving work.",
+    "",
+    "[Hebrews 13:10–16](https://biblehub.com/bsb/hebrews/13.htm) joins Jesus’ sacrifice, hope for the coming city and the sacrifices of praise, doing good and sharing. Practical support thus belongs within a life offered to God through Christ. The gift helps gospel work while expressing the kind of love He forms in His people."
+  ],
+  "current_position_lines": [
+    "In [Prayer and Faith](https://thewayofscripture.com/studies/prayer-and-faith.html), we read the promise of verse 19 within Paul’s thanks for this church’s generous support of gospel work. He assures these believers of God’s care as they have shared in his need. We do not treat the verse as a general prayer formula or a guarantee of comfort or wealth. The surrounding passage teaches contentment and dependence on Christ through difficulty as well as plenty."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/philippians/4.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-philippians-four-closing-review.md",
+    "position_source_detail": "Prayer and Faith, Philippians 4:19 discussion, lines 374–386: specific gospel-partnership setting; not a general prayer formula or guaranteed removal of hardship."
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "21:15-22",
+    "label": "2 Samuel 21:15-22",
+    "slug": "2-samuel-21-15-22"
+  },
+  "section_title": "Why do David’s men tell him to stop going into battle?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 Once again the Philistines waged war against Israel, and David and his servants went down and fought against the Philistines. But David became exhausted. 16 Then Ishbi-benob, a descendant of Rapha, whose bronze spear weighed three hundred shekels and who was bearing a new sword, resolved to kill David. 17 But Abishai son of Zeruiah came to his aid, struck the Philistine, and killed him. Then David’s men swore to him, “You must never again go out with us to battle, so that the lamp of Israel may not be extinguished.”",
+        "18 Some time later at Gob, there was another battle with the Philistines. At that time Sibbecai the Hushathite killed Saph, a descendant of Rapha. 19 Once again there was a battle with the Philistines at Gob, and Elhanan son of Jair the Bethlehemite killed the brother of Goliath the Gittite, the shaft of whose spear was like a weaver’s beam. 20 And there was also a battle at Gath, where there was a man of great stature with six fingers on each hand and six toes on each foot—twenty-four in all. He too was descended from Rapha, 21 and when he taunted Israel, Jonathan the son of David’s brother Shimei killed him. 22 So these four descendants of Rapha in Gath fell at the hands of David and his servants."
+      ]
+    }
+  ],
+  "context_lines": [
+    "During another battle with the Philistines, David becomes exhausted. Ishbi-benob intends to kill him, but Abishai comes to his aid and kills the attacker. David’s men then insist that he must no longer go out with them to battle. They describe his life as the lamp of Israel.",
+    "",
+    "The remaining accounts name other victories by Sibbecai, Elhanan and Jonathan, the son of David’s brother Shimei. The closing summary credits David and his servants together. The king’s earlier victories do not mean he can now fight without help."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/21.htm) emphasizes help arriving when David’s strength fails. The scene gives proper place to both the king’s weakness and the servants who protect him.",
+    "",
+    "There is a question about the wording of verse 19. The BSB says that Elhanan killed the brother of Goliath, matching the relationship stated in [1 Chronicles 20:5](https://biblehub.com/bsb/1_chronicles/20.htm). [Gill](https://biblehub.com/commentaries/gill/2_samuel/21.htm) also reads Samuel with that parallel account. This is a different victory from David’s killing of Goliath in 1 Samuel 17.",
+    "",
+    "The account honors the men who stand beside David. Recognizing limits and accepting help can protect the work entrusted to a leader."
+  ],
+  "god_plan_lines": [
+    "David’s need for help connects with the wider biblical lesson that serving God does not mean having unlimited strength. Here, his life is preserved through another person’s timely action.",
+    "",
+    "In [2 Corinthians 12:7–10](https://biblehub.com/bsb/2_corinthians/12.htm), Paul describes a weakness that remains even after repeated prayer. Christ’s answer teaches him to depend on grace and on power that is made known in weakness.",
+    "",
+    "Paul is speaking about his own experience, not interpreting David’s battle. The shared lesson is dependence on God when personal strength is insufficient. It leaves room for receiving help rather than treating the need for it as failure."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/21.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-twenty-one-review.md"
+  }
+}

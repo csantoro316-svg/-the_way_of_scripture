@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "9:10-14",
+    "label": "1 Kings 9:10-14",
+    "slug": "1-kings-9-10-14"
+  },
+  "section_title": "Why is Hiram disappointed with Solomon’s gift?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 Now at the end of the twenty years during which Solomon built these two houses, the house of the LORD and the royal palace, 11 King Solomon gave twenty towns in the land of Galilee to Hiram king of Tyre, who had supplied him with cedar and cypress logs and gold for his every desire. 12 So Hiram went out from Tyre to inspect the towns that Solomon had given him, but he was not pleased with them. 13 “What are these towns you have given me, my brother?” asked Hiram, and he called them the Land of Cabul, as they are called to this day. 14 And Hiram had sent the king 120 talents of gold."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Twenty years have gone into the temple and royal palace. Hiram has supplied timber and gold, and Solomon gives him twenty towns in Galilee.",
+    "",
+    "Hiram inspects the towns and is not pleased. His question to Solomon expresses that disappointment, and the district becomes known as the Land of Cabul. The account also records the hundred twenty talents of gold Hiram had sent.",
+    "",
+    "The name fits the story’s unhappy response, though its exact meaning is uncertain. [Brown–Driver–Briggs](https://biblehub.com/hebrew/3521.htm) offers as good as nothing as a possible explanation of the name in this setting."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/9.htm) reads the episode as a mismatch between the gift and Hiram’s interests. [Gill](https://biblehub.com/commentaries/gill/1_kings/9.htm) likewise considers the towns unsuitable for Hiram, without concluding that they were necessarily worthless to everyone.",
+    "",
+    "Gill discusses whether Solomon transferred the towns themselves or their revenues. He favors an actual grant; [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) also understands a transfer of territory. Their explanations about the towns’ earlier population and status go beyond what this short account directly supplies.",
+    "",
+    "The clear point is the strain in an otherwise productive partnership: the king who supplied Solomon’s projects is dissatisfied with what he receives."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/9.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-nine-review.md"
+  }
+}

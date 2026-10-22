@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "21:1-6",
+    "label": "Acts 21:1-6",
+    "slug": "acts-21-1-6"
+  },
+  "section_title": "Why do the believers at Tyre urge Paul not to continue to Jerusalem?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 After we had torn ourselves away from them, we sailed directly to Cos, and the next day on to Rhodes, and from there to Patara. 2 Finding a ship crossing over to Phoenicia, we boarded it and set sail. 3 After sighting Cyprus and passing south of it, we sailed on to Syria and landed at Tyre, where the ship was to unload its cargo. 4 We sought out the disciples in Tyre and stayed with them seven days. Through the Spirit they kept telling Paul not to go up to Jerusalem.",
+        "5 But when our time there had ended, we set out on our journey. All the disciples, with their wives and children, accompanied us out of the city and knelt down on the beach to pray with us. 6 And after we had said our farewells, we went aboard the ship, and they returned home."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After the painful farewell at Miletus, Paul and his companions sail by Cos, Rhodes and Patara, then find a ship bound for Phoenicia. They pass Cyprus and land at Tyre, where the ship unloads its cargo. They seek out the disciples and stay seven days.",
+    "",
+    "Luke says the disciples keep telling Paul through the Spirit not to go to Jerusalem. This needs to be read alongside Paul’s statement in Acts 20:22–23 that he is compelled by the Spirit to go there and has been warned of chains and suffering. The account presents both statements; it does not explain the whole tension in a single word.",
+    "",
+    "When the travelers leave, the disciples accompany them out of the city with their wives and children. They kneel and pray on the beach, say farewell and part. The appeal against continuing comes within a relationship of care, not hostility toward Paul or his work."
+  ],
+  "common_interpretation_lines": [
+    "A common reading distinguishes the Spirit’s warning of danger from the believers’ wish that Paul avoid it. [Calvin on verse 4](https://biblehub.com/commentaries/calvin/acts/21.htm) and [Wesley on verse 4](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) understand the danger as revealed by the Spirit and the advice against going as the disciples’ response to it. This reading brings the warning together with Paul’s earlier sense of obligation; it is an explanation of the wider account, not something proved by contrasting the English words through and by."
+  ],
+  "god_plan_lines": [
+    "[Acts 11:19](https://biblehub.com/bsb/acts/11.htm) describes the word reaching Phoenicia after the persecution connected with Stephen. Now a community in the Phoenician port of Tyre welcomes and prays with Paul. Luke does not identify its founders here, but the connection shows the wider fruit of the mission: people in different places become a family who share one another’s concerns."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/21.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twenty-one-review.md"
+  }
+}

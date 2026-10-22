@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "12:14-20",
+    "label": "1 Corinthians 12:14-20",
+    "slug": "1-corinthians-12-14-20"
+  },
+  "section_title": "What if I feel less useful than someone else?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 For the body does not consist of one part, but of many. 15 If the foot should say, “Because I am not a hand, I do not belong to the body,” that would not make it any less a part of the body. 16 And if the ear should say, “Because I am not an eye, I do not belong to the body,” that would not make it any less a part of the body. 17 If the whole body were an eye, where would the sense of hearing be? If the whole body were an ear, where would the sense of smell be?",
+        "18 But in fact, God has arranged the members of the body, every one of them, according to His design. 19 If they were all one part, where would the body be? 20 As it is, there are many parts, but one body."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul imagines a foot comparing itself with a hand, and an ear comparing itself with an eye. Each might conclude that being different means not belonging. Paul rejects that conclusion: saying it does not make it true.",
+    "",
+    "The body would fail if every part tried to be an eye or an ear. Its ability to function depends on differences. Paul is not asking one member to copy another before being accepted; he is explaining why the variety matters.",
+    "",
+    "God has arranged the members according to His design. In the discussion of gifts, that gives a reason to resist envy and the feeling that only the most visible work counts. A person’s place cannot be measured simply by resemblance to someone whose contribution attracts attention."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the body picture as correcting comparison and discouragement over different gifts. [Wesley’s notes on verses 15–20](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) emphasize that the parts need one another, while the [USCCB note on verses 12–26](https://bible.usccb.org/bible/1corinthians/12) explains that diversity of function belongs within the body’s unity."
+  ],
+  "god_plan_lines": [
+    "[1 Peter 4:8–11](https://biblehub.com/bsb/1_peter/4.htm) also calls each person to use the gift received in service to others, describing that service as stewardship of God’s varied grace. Both speaking and serving depend on what God supplies.",
+    "",
+    "The purpose reaches beyond finding a task that makes us feel useful: God is to be glorified through Jesus Christ. His grace is displayed in different forms of service working together. A quieter contribution can belong fully to that calling."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/12.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-twelve-middle-review.md"
+  }
+}

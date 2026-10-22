@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Ephesians",
+    "citation": "1:15-19",
+    "label": "Ephesians 1:15-19",
+    "slug": "ephesians-1-15-19"
+  },
+  "section_title": "What does Paul ask God to help believers understand?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 For this reason, ever since I heard about your faith in the Lord Jesus and your love for all the saints, 16 I have not stopped giving thanks for you, remembering you in my prayers, 17 that the God of our Lord Jesus Christ, the glorious Father, may give you a spirit of wisdom and revelation in your knowledge of Him.",
+        "18 I ask that the eyes of your heart may be enlightened, so that you may know the hope of His calling, the riches of His glorious inheritance in the saints, 19 and the surpassing greatness of His power to us who believe. These are in accordance with the working of His mighty strength,"
+      ]
+    }
+  ],
+  "context_lines": [
+    "After the blessing of God in verses 3–14, Paul turns to thanksgiving and prayer for his readers. Their faith in the Lord Jesus and love for all the saints give him reason to keep thanking God.",
+    "",
+    "He asks the glorious Father for wisdom and revelation in knowing Him. The prayer seeks a deeper understanding of the God whose grace Paul has just described.",
+    "",
+    "He pictures that understanding as the eyes of the heart being enlightened. He wants them to know the hope of God’s calling, the riches of His glorious inheritance in the saints and the greatness of His power toward believers.",
+    "",
+    "The next verses explain the power he has in view by pointing to Christ’s resurrection and exaltation. The prayer therefore seeks understanding rooted in what God has done and in the hope He gives His people."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a prayer for believers to grow in their knowledge of God and appreciation of His gifts. [Wesley’s notes on verses 15–19](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-ephesians/) connect the prayer with the Spirit’s work of giving wisdom and understanding. The [USCCB notes on verses 15–23](https://bible.usccb.org/bible/ephesians/1) place the prayer within the blessings already described and God’s power shown in Christ."
+  ],
+  "god_plan_lines": [
+    "[Colossians 1:9–14](https://biblehub.com/bsb/colossians/1.htm) records a closely related prayer for knowledge of God’s will, spiritual wisdom and understanding. It explains the purpose in daily life: conduct worthy of the Lord, fruit in good works, endurance and thanks to the Father.",
+    "",
+    "That prayer also joins inheritance with rescue from darkness into the kingdom of God’s Son. The connection shows how growing understanding serves the larger life God is forming in His people. Knowing Him is meant to shape faithful, thankful conduct."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/ephesians/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-ephesians-one-closing-review.md"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "1 Peter",
+    "citation": "4:4-6",
+    "label": "1 Peter 4:4-6",
+    "slug": "1-peter-4-4-6"
+  },
+  "section_title": "What if others reject the change in our lives?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "4 Because of this, they consider it strange of you not to plunge with them into the same flood of reckless indiscretion, and they heap abuse on you. 5 But they will have to give an account to Him who is ready to judge the living and the dead. 6 That is why the gospel was preached even to those who are now dead, so that they might be judged as men in the flesh, but live according to God in the spirit."
+      ]
+    }
+  ],
+  "context_lines": [
+    "People who shared the readers’ former way of life now find their refusal to join in strange. Surprise turns into abuse. A changed life does not always bring immediate approval from old companions.",
+    "",
+    "Peter directs attention from their verdict to the One who judges the living and the dead. Those who speak against the believers must themselves give an account. The judging authority is not held by the crowd.",
+    "",
+    "The Gospel’s purpose reaches beyond the verdict people pass on a person’s bodily life. The BSB speaks of those who are now dead and of life according to God in the spirit. How this relates to preaching and death is one of the passage’s disputed details."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-epistle-general-of-st-peter/) understands the Gospel to have been preached to people who have since died. Human judgment against them did not cancel the life God gave. The [USCCB’s note on verse 6](https://bible.usccb.org/bible/1peter/4) reports this reading alongside a possible connection with the dead mentioned in 3:19.",
+    "",
+    "[Calvin](https://biblehub.com/commentaries/calvin/1_peter/4.htm) connects the verse with the reach of Christ’s saving work to the dead, as he did in chapter 3. The Catholic [Catechism, 634](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/article_5/paragraph_1_christ_descended_into_hell.html), uses the verse in explaining Christ’s descent to the dead and the reach of His redemption. These readings differ over when and to whom the preaching occurred."
+  ],
+  "god_plan_lines": [
+    "In [John 5:24–29](https://biblehub.com/bsb/john/5.htm), Jesus speaks both of people passing from death to life through hearing and believing, and of the future resurrection of those in the graves. He has authority to give life and to judge.",
+    "",
+    "Peter’s encouragement belongs within that larger hope. Those who receive His life are not deprived of that hope by human rejection or bodily death. The final account belongs to Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_peter/4.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-peter-four-review.md"
+  }
+}

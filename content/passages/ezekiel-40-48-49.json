@@ -1,0 +1,49 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "40:48-49",
+    "label": "Ezekiel 40:48-49",
+    "slug": "ezekiel-40-48-49"
+  },
+  "section_title": "How does the tour reach the temple building?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "48 Then he brought me to the portico of the temple and measured the side pillars of the portico to be five cubits on each side. The width of the gateway was fourteen cubits and its sidewalls were three cubits on either side. 49 The portico was twenty cubits wide and twelve cubits deep, and ten steps led up to it. There were columns by the side pillars, one on each side."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After the courts and altar area, the guide brings Ezekiel to the temple’s covered entrance. He measures its side pillars, gateway and sidewalls.",
+    "",
+    "The BSB gives this entrance as twenty cubits wide and twelve cubits deep, reached by ten steps. Columns stand beside the pillars on each side. This short description marks the transition from the courts to the sanctuary rooms measured in the next chapter."
+  ],
+  "common_interpretation_lines": [
+    "[Cambridge](https://biblehub.com/commentaries/cambridge/ezekiel/40.htm) discusses the different measurements found in translations of these verses and favors twelve cubits and ten steps, following the Greek text. Those are also the measurements printed in the BSB.",
+    "",
+    "The main movement is clear across those differences: Ezekiel has reached the entrance to the temple itself."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/40.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-forty-two-review.md"
+  }
+}

@@ -5,40 +5,58 @@
     "label": "Isaiah 43:22-28",
     "slug": "isaiah-43-22-28"
   },
-  "section_title": "Israel\u2019s Unfaithfulness",
+  "section_title": "What grounds are left for forgiveness when the people cannot plead innocence?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "22 But you have not called on Me, O Jacob,",
-        "because you have grown weary of Me, O Israel.",
-        "23 You have not brought Me sheep for burnt offerings,",
-        "nor honored Me with your sacrifices.",
-        "I have not burdened you with offerings,",
-        "nor wearied you with frankincense.",
-        "24 You have not bought Me sweet cane with your silver,",
-        "nor satisfied Me with the fat of your sacrifices.",
-        "But you have burdened Me with your sins;",
-        "you have wearied Me with your iniquities.",
-        "25 I, yes I, am He",
-        "who blots out your transgressions for My own sake",
-        "and remembers your sins no more.",
-        "26 Remind Me, let us argue the matter together.",
-        "State your case, so that you may be vindicated.",
-        "27 Your first father sinned,",
-        "and your spokesmen rebelled against Me.",
-        "28 So I will disgrace the princes of your sanctuary,",
-        "and I will devote Jacob to destruction and Israel to reproach.\u201d"
+        "22 But you have not called on Me, O Jacob, because you have grown weary of Me, O Israel. 23 You have not brought Me sheep for burnt offerings, nor honored Me with your sacrifices. I have not burdened you with offerings, nor wearied you with frankincense. 24 You have not bought Me sweet cane with your silver, nor satisfied Me with the fat of your sacrifices. But you have burdened Me with your sins; you have wearied Me with your iniquities.",
+        "25 I, yes I, am He who blots out your transgressions for My own sake and remembers your sins no more. 26 Remind Me, let us argue the matter together. State your case, so that you may be vindicated. 27 Your first father sinned, and your spokesmen rebelled against Me. 28 So I will disgrace the princes of your sanctuary, and I will devote Jacob to destruction and Israel to reproach.”"
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 43**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "The people formed to praise God have instead grown weary of Him. Their offerings have not honored Him; their sins have become the burden they bring. The contrast is between the service He called them to and the wrongdoing that has replaced it.",
+    "",
+    "Then comes the unexpected declaration: the Lord Himself blots out their transgressions for His own sake and will no longer remember their sins. The initiative is His, in the middle of a charge the people cannot answer with a record of innocence.",
+    "",
+    "The closing invitation to state their case exposes how far the failure reaches. Their first father sinned and their spokesmen rebelled, and judgment falls on sanctuary leaders and people alike. The promise of pardon does not make the history of wrongdoing disappear or turn the warning into an empty threat."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Israel\u2019s Unfaithfulness** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/isaiah/43.htm), [Wesley](https://biblehub.com/commentaries/wes/isaiah/43.htm) and [Gill](https://biblehub.com/commentaries/gill/isaiah/43.htm) emphasize that forgiveness rests in God’s mercy rather than the people’s merits. Gill explains remembering sins no more as no longer holding them against His people, rather than God losing knowledge of what happened.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 43** remains the first control on meaning."
+    "For the first father in verse 27, the [USCCB note](https://bible.usccb.org/bible/isaiah/43) identifies Jacob. Wesley allows the collective sense of the forefathers, and Gill discusses several named proposals before preferring that collective reading. The point in these explanations is that ancestry and leadership provide no basis for claiming an unbroken history of innocence.",
+    "",
+    "The passage is therefore read as an exposure of self-justification alongside a remarkable offer of pardon. The mercy is God’s action, not a conclusion that the people were right all along."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[Romans 3:21–26](https://biblehub.com/bsb/romans/3.htm) places the same great needs together: all have sinned, yet people are justified freely by God’s grace through the redemption in Christ Jesus.",
+    "",
+    "Paul explains that God presents Christ as an atoning sacrifice through faith in His blood, demonstrating His righteousness so that He is both just and the One who justifies the person who has faith in Jesus.",
+    "",
+    "This is a theme developed beyond Isaiah’s immediate charge, not a direct quotation of these verses. The New Testament shows how mercy and righteousness meet in Christ: forgiveness is not based on pretending sin never mattered, but on God’s saving provision for those who cannot justify themselves."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/43.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-forty-two-three-review.md"
+  }
 }

@@ -5,25 +5,56 @@
     "label": "Exodus 5:1-5",
     "slug": "exodus-5-1-5"
   },
-  "section_title": "Pharaoh\u2019s First Refusal",
+  "section_title": "Why did Pharaoh refuse to listen?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 After that, Moses and Aaron went to Pharaoh and said, \u201cThis is what the LORD, the God of Israel, says: \u2018Let My people go, so that they may hold a feast to Me in the wilderness.\u2019 \u201d",
-        "2 But Pharaoh replied, \u201cWho is the LORD that I should obey His voice and let Israel go? I do not know the LORD, and I will not let Israel go.\u201d",
-        "3 \u201cThe God of the Hebrews has met with us,\u201d they answered. \u201cPlease let us go on a three-day journey into the wilderness to sacrifice to the LORD our God, or He may strike us with plagues or with the sword.\u201d",
-        "4 But the king of Egypt said to them, \u201cMoses and Aaron, why do you draw the people away from their work? Get back to your labor!\u201d 5 Pharaoh also said, \u201cLook, the people of the land are now numerous, and you would be stopping them from their labor.\u201d"
+        "1 After that, Moses and Aaron went to Pharaoh and said, “This is what the LORD, the God of Israel, says: ‘Let My people go, so that they may hold a feast to Me in the wilderness.’” 2 But Pharaoh replied, “Who is the LORD that I should obey His voice and let Israel go? I do not know the LORD, and I will not let Israel go.” 3 “The God of the Hebrews has met with us,” they answered. “Please let us go on a three-day journey into the wilderness to sacrifice to the LORD our God, or He may strike us with plagues or with the sword.” 4 But the king of Egypt said to them, “Moses and Aaron, why do you draw the people away from their work? Get back to your labor!” 5 Pharaoh also said, “Look, the people of the land are now numerous, and you would be stopping them from their labor.”"
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 5**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "After Israel’s believing response, Moses and Aaron deliver God’s demand to Pharaoh: release His people so they can hold a feast to Him in the wilderness. The Hebrew verb for holding a feast, hagag, describes a religious festival; [Brown–Driver–Briggs](https://biblehub.com/hebrew/2287.htm) includes this verse under keeping a pilgrim feast. Worship is at the heart of the request.",
+    "",
+    "Pharaoh challenges both the LORD’s identity and His authority. He says he does not know the LORD and will not let Israel go. Moses and Aaron explain that the God of the Hebrews has met with them and ask for a three-day journey to offer sacrifices, warning that failure to worship Him could bring judgment upon them.",
+    "",
+    "Pharaoh treats the request as an interruption of labor. Where God calls Israel His people, Pharaoh sees workers whose time he controls. The confrontation is beginning to show whose claim upon them he will recognize."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Pharaoh\u2019s First Refusal** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 5** remains the first control on meaning."
+    "The shared reading understands Pharaoh’s reply as a refusal to recognize the LORD’s authority. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) and the Catholic [USCCB notes](https://bible.usccb.org/bible/exodus/5) both emphasize his defiance: whatever he may have heard about Israel’s God, he rejects the demand to obey Him."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "This confrontation begins a recurring biblical theme: what happens when a ruler’s command conflicts with obedience to God? In [Acts 4:18–20](https://biblehub.com/bsb/acts/4.htm), Peter and John are ordered to stop speaking in Jesus’ name and answer that they must heed God. In [Acts 5:27–29](https://biblehub.com/bsb/acts/5.htm), the apostles state that obligation directly.",
+    "",
+    "The settings and tasks differ, but the parallel is clear. God’s purpose continues through people who must answer to Him while facing an authority that resists His word. Moses and Aaron’s commission to lead Israel into worship belongs within that wider story of God gathering a people who serve Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/5.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-five-review.md"
+  }
 }

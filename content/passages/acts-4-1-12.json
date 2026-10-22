@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "4:1-12",
+    "label": "Acts 4:1-12",
+    "slug": "acts-4-1-12"
+  },
+  "section_title": "What does Peter tell the council about Jesus?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 While Peter and John were speaking to the people, the priests and the captain of the temple guard and the Sadducees came up to them, 2 greatly disturbed that they were teaching the people and proclaiming in Jesus the resurrection of the dead. 3 They seized Peter and John, and because it was evening, they put them in custody until the next day. 4 But many who heard the message believed, and the number of men grew to about five thousand.",
+        "5 The next day the rulers, elders, and scribes assembled in Jerusalem, 6 along with Annas the high priest, Caiaphas, John, Alexander, and many others from the high priest’s family. 7 They had Peter and John brought in and began to question them: “By what power or what name did you do this?”",
+        "8 Then Peter, filled with the Holy Spirit, said to them, “Rulers and elders of the people! 9 If we are being examined today about a kind service to a man who was lame, to determine how he was healed, 10 then let this be known to all of you and to all the people of Israel: It is by the name of Jesus Christ of Nazareth, whom you crucified but whom God raised from the dead, that this man stands before you healed. 11 This Jesus is ‘the stone you builders rejected, which has become the cornerstone.’ 12 Salvation exists in no one else, for there is no other name under heaven given to men by which we must be saved.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Peter and John are still speaking after the man’s healing when the temple authorities intervene. They are disturbed by the teaching and the proclamation of resurrection in Jesus. [Acts 23:8](https://biblehub.com/bsb/acts/23.htm) expressly notes the Sadducees’ rejection of resurrection, which helps explain their objection here.",
+    "",
+    "The apostles are held until the next day, but the arrest does not prevent people from believing the message. Luke says the number of men grows to about five thousand. He does not say another five thousand were added on this occasion.",
+    "",
+    "The council asks by what power or name they acted. Filled with the Spirit, Peter names Jesus Christ of Nazareth, whom they crucified and God raised. The man standing healed before them is evidence of His power.",
+    "",
+    "Peter then applies the image of the rejected cornerstone to Jesus. The answer moves from one man’s healing to salvation itself: the rejected Jesus is the One through whom God saves."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Peter’s declaration as identifying Jesus as the unique source of salvation, rather than crediting the apostles with a saving power of their own. [Calvin on verse 12](https://biblehub.com/commentaries/calvin/acts/4.htm) and [Wesley on verse 12](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) both follow the movement from the man’s physical healing to the greater salvation found in Christ."
+  ],
+  "god_plan_lines": [
+    "Peter directly applies [Psalm 118:22–23](https://biblehub.com/bsb/psalms/118.htm) to Jesus: the stone rejected by the builders becomes the cornerstone. Rejection by powerful people does not overturn the place God gives Him.",
+    "",
+    "The setting also recalls Jesus’s promise in [Luke 12:11–12](https://biblehub.com/bsb/luke/12.htm) that the Spirit would teach His followers what to say when brought before rulers and authorities. The Spirit’s help equips Peter to name Jesus publicly in the very place where he is being questioned."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/4.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-four-review.md"
+  }
+}

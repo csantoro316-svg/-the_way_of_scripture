@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "5:11-16",
+    "label": "2 Samuel 5:11-16",
+    "slug": "2-samuel-5-11-16"
+  },
+  "section_title": "Who is David’s growing kingdom meant to benefit?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "11 Now Hiram king of Tyre sent envoys to David, along with cedar logs, carpenters, and stonemasons, and they built a palace for David. 12 And David realized that the LORD had established him as king over Israel and had exalted his kingdom for the sake of His people Israel.",
+        "13 After he had arrived from Hebron, David took more concubines and wives from Jerusalem, and more sons and daughters were born to him. 14 These are the names of the children born to him in Jerusalem: Shammua, Shobab, Nathan, Solomon, 15 Ibhar, Elishua, Nepheg, Japhia, 16 Elishama, Eliada, and Eliphelet."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Hiram king of Tyre sends messengers, cedar logs and skilled workers who build David a palace. David recognizes that the LORD has established him as king and raised up his kingdom for the sake of Israel.",
+    "",
+    "The account also records more wives and concubines and more sons and daughters after the move from Hebron. Eleven sons are named here, including Nathan and Solomon. The growth of the royal household is part of the description of David’s established rule."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/5.htm) and [Gill](https://biblehub.com/commentaries/gill/2_samuel/5.htm) emphasize the purpose David recognizes: his elevation is for the people’s benefit. The palace is a sign of an established kingdom, but the king’s comfort is not the whole point of the kingdom.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) criticizes David’s growing number of wives in light of [Deuteronomy 17:17](https://biblehub.com/bsb/deuteronomy/17.htm). The command warned a king against multiplying wives and turning his heart away. Recording David’s expanding family does not make all his choices commands or examples for others to follow.",
+    "",
+    "These observations can be held together. God’s care for Israel through David and the need to examine David’s conduct are both part of reading the account carefully."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/5.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-five-review.md"
+  }
+}

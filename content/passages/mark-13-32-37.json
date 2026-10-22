@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "13:32-37",
+    "label": "Mark 13:32-37",
+    "slug": "mark-13-32-37"
+  },
+  "section_title": "What does it mean to stay ready?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "32 No one knows about that day or hour, not even the angels in heaven, nor the Son, but only the Father. 33 Be on your guard and stay alert! For you do not know when the appointed time will come.",
+        "34 It is like a man going on a journey who left his house, put each servant in charge of his own task, and instructed the doorkeeper to keep watch. 35 Therefore keep watch, because you do not know when the master of the house will return—whether in the evening, at midnight, when the rooster crows, or in the morning. 36 Otherwise, he may arrive without notice and find you sleeping. 37 And what I say to you, I say to everyone: Keep watch!”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus states that no one knows the day or hour except the Father—not the angels and not the Son. He then repeats the practical consequence: His hearers must remain alert because the appointed time is unknown. The point is to live ready, not to solve a hidden calendar.",
+    "",
+    "His illustration gives that readiness a daily shape. A man leaves his household, puts the servants in charge of their work, and tells the doorkeeper to watch. The servants have responsibilities during his absence. Waiting faithfully means attending to those responsibilities rather than abandoning them to speculate about his arrival.",
+    "",
+    "The master may return at any part of the night. Jesus closes by extending the warning to everyone. The language of waking and sleeping concerns readiness for Him; it is not an instruction to stay physically awake every night."
+  ],
+  "common_interpretation_lines": [
+    "Christian readers commonly understand the household picture as a call to faithful service and readiness for Christ. Wesley applies the assigned responsibilities to His servants and extends the lesson beyond ministers to all people. ([Wesley, notes on Mark 13:33–37](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-mark/))",
+    "",
+    "The Son’s statement about not knowing receives different explanations within belief that He is both truly God and truly human. Wesley relates it to His human knowledge while affirming His divine knowledge. The Catholic Catechism describes His real human knowledge and its union with divine wisdom, explaining the admitted lack of knowledge in relation to what He was not sent to reveal. These accounts seek to take His human life and His identity as God’s Son seriously. ([Wesley, note on Mark 13:32](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-mark/); [Catechism 472–474](https://www.vatican.va/archive/ENG0015/__P1J.HTM))"
+  ],
+  "god_plan_lines": [
+    "The Son’s obedience to the Father belongs within His saving mission. Philippians describes Him taking a servant’s place and obeying even to death on a cross, followed by His exaltation and the confession of His lordship. That gives the wider setting for His life of humble service; it does not settle every question about His knowledge by itself. ([Philippians 2:5–11](https://biblehub.com/bsb/philippians/2.htm))",
+    "",
+    "Paul uses the call to wake from sleep when urging believers to put aside wrongdoing and live in a way that reflects Christ. Readiness therefore has moral substance: honesty in how we live, freedom from rivalry and destructive desires, and active loyalty to the Lord we await. God’s promised future shapes the work and choices of the present. ([Romans 13:11–14](https://biblehub.com/bsb/romans/13.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/13.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-thirteen-closing-review.md"
+  }
+}

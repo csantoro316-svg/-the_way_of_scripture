@@ -1,0 +1,11 @@
+# John 10 complete and live
+
+Two closing pages cover the sheep's security in the Father and Son's care, the accusation against Jesus, His appeal to Psalm82andHisworks, and belief across the Jordan. Brief Hanukkah background is independently checked against Josephus. Primary documents fairly explain differing accounts of grace/perseverance, and actual commentaries distinguish readings of verse30andPsalm82. Both positions remain open.
+
+[Evidence](../testing/2026-10-19-john-ten-closing-review.md). Fresh BSB, eight tests, zero errors /328 warnings, preservation/coverage/navigation/idempotence,390pxreader/standalone/actualNext, Hosting dry run/deployment, six affected and six whole-chapter live byte checks passed.
+
+John:63reviewedpages /478actualBSBverses /63plans /26studypositions /37open;73sources /10unreviewedlegacyreferences. ContinueJohn11:1–16/17–27/28–37/38–44pluslegacy41–42/45–57. Whole PDF through386read (all11A362–386);387onwardunread. No next draft yet.
+
+Actual initialJohn11research: BSB11:1–27and12:1–8;Calvin11andUSCCB11fetchednotyetread;PrayerandFaithsourceidentified446–458butneedsfullrelevantparagraphreadbeforeposition. John11:2BSBexplicitlylooksforwardtoMaryanointing12;baselineconfuseswithunnamedLuke7womanandwronglysaysJohndidnotrecordit. Do not repeat. BaselineBethanynorthJerusalem/beyondJordan=Galileegeographyandprecisetimingroutesnotverified. No JesusdelaynecessarilycausedLazarusdeathtimebeforemessage,allThomaswordsbravadoselfishmotives,orallmourners'privatemotives. No unverifiedthree-daysoul-hoveringrabbinicconsensus. ForGreekembrimaomai/tarassoverifylexiconanddon'tmakeangerexcludecompassionorinventexactobjectofemotion.
+
+11Abig-picturepatternofdeath/confession/MarthacallingMary/newlifecanbeconsideredalongsideactualEph2butnotforcedassingleGospelencodedsequence. No anatomicalloosecloth/embalmingspices/mummygenreorigin,worldwideunverifiedmiraclesorLazarus4-daySheoltravelmap/memoriesinpublic. ActualJohn12continuestohaveLazarus,contrarytobaselinestoryendshere. ExistingPrayerandFaithdevelops41–42thanksgiving/FatheralreadyhearsSon;canwarrantnarrowpositionafterdirectread,notuniversalguaranteeanyhumanrequestwillraiseadeadperson. Needentire11Bbeforeclosingchapterdrafts.

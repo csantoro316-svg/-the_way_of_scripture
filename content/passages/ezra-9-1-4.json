@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Ezra",
+    "citation": "9:1-4",
+    "label": "Ezra 9:1-4",
+    "slug": "ezra-9-1-4"
+  },
+  "section_title": "Why does the report about these marriages horrify Ezra?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 After these things had been accomplished, the leaders approached me and said, “The people of Israel, including the priests and Levites, have not kept themselves separate from the surrounding peoples whose abominations are like those of the Canaanites, Hittites, Perizzites, Jebusites, Ammonites, Moabites, Egyptians, and Amorites. 2 Indeed, the Israelites have taken some of their daughters as wives for themselves and their sons, so that the holy seed has been mixed with the people of the land. And the leaders and officials have taken the lead in this unfaithfulness!”",
+        "3 When I heard this report, I tore my tunic and cloak, pulled out some hair from my head and beard, and sat down in horror. 4 Then everyone who trembled at the words of the God of Israel gathered around me because of the unfaithfulness of the exiles, while I sat there in horror until the evening offering."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Leaders report that people, priests and Levites have not kept themselves separate from the surrounding peoples and their practices. They have taken foreign wives for themselves and their sons, and officials have led the way in what the report calls unfaithfulness.",
+    "",
+    "The expression holy seed uses the Hebrew [זֶרַע, zera](https://biblehub.com/hebrew/2233.htm), pronounced ZEHR-ah, which can mean offspring or descendants. Brown–Driver–Briggs places this particular expression among uses describing the character of a people or community. Here it concerns Israel as a people set apart to God, with the report tying the marriages to the surrounding peoples’ abominations.",
+    "",
+    "The background includes [Exodus 34:10–17](https://biblehub.com/bsb/exodus/34.htm) and [Deuteronomy 7:1–6](https://biblehub.com/bsb/deuteronomy/7.htm), where marriage with the named peoples is connected with being led away to other gods. Ezra tears his clothing, pulls hair from his head and beard, and remains in horror until the evening offering. Others who tremble at God’s word gather around him."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezra/9.htm) and [Gill](https://biblehub.com/commentaries/gill/ezra/9.htm) understand the report through the covenant commands and the danger of renewed idolatry. Gill notes that Ezra’s list includes peoples beyond those expressly named in Deuteronomy 7 and relates the wider concern to the same danger. The leaders’ participation makes the breach especially serious: those responsible for guiding the people have taken part in it."
+  ],
+  "god_plan_lines": [
+    "The wider biblical story includes people from outside Israel who turn to the LORD. [Ruth 1:15–18](https://biblehub.com/bsb/ruth/1.htm) records Ruth’s commitment to Naomi’s people and God. [Hebrews 11:31](https://biblehub.com/bsb/hebrews/11.htm) names Rahab as someone who did not perish because she acted in faith.",
+    "",
+    "[Galatians 3:6–14](https://biblehub.com/bsb/galatians/3.htm) explains the promise to Abraham as reaching the nations through faith in Christ. These passages keep Israel’s call to holiness within God’s larger purpose to bring blessing to the nations. The concern for faithfulness here does not establish that ancestry places someone beyond God’s mercy."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Returning to the Word",
+      "href": "../studies/returning-to-the-word.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezra/9.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezra-nine-ten-review.md"
+  }
+}

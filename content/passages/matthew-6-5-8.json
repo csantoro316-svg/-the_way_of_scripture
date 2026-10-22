@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "6:5-8",
+    "label": "Matthew 6:5-8",
+    "slug": "matthew-6-5-8"
+  },
+  "section_title": "Prayer Before the Father",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 And when you pray, do not be like the hypocrites. For they love to pray standing in the synagogues and on the street corners to be seen by men. Truly I tell you, they already have their full reward. 6 But when you pray, go into your inner room, shut your door, and pray to your Father, who is unseen. And your Father, who sees what is done in secret, will reward you.",
+        "7 And when you pray, do not babble on like pagans, for they think that by their many words they will be heard. 8 Do not be like them, for your Father knows what you need before you ask Him."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus applies the warning about seeking public praise to prayer. In the preceding verses, a gift to the needy could become a way to gain honor. Here prayer itself can become a performance. The people Jesus describes want to be seen, and the attention they receive is the reward they have sought.",
+    "",
+    "His alternative is to enter a private room, close the door, and pray to the Father. Without an audience to impress, the person praying can direct attention to God. The Father sees the prayer that others never notice. The point concerns whom the prayer is for, rather than making public prayer wrong: [Acts 4:23–31](https://biblehub.com/bsb/acts/4.htm) describes believers praying together and receiving God's help.",
+    "",
+    "The second warning concerns a stream of words treated as a way to secure a hearing. The Greek verb is βαττολογέω, *battologeō* (bat-toh-loh-GEH-oh). [Thayer's Greek Lexicon](https://biblehub.com/greek/945.htm) explains its use here as babbling or using many idle words. Jesus identifies the mistaken expectation: being heard because of the quantity of words.",
+    "",
+    "Repeated words are not automatically empty words. In [Matthew 26:39–44](https://biblehub.com/bsb/matthew/26.htm), Jesus prays again with the same request while submitting to His Father's will. [Luke 18:1–8](https://biblehub.com/bsb/luke/18.htm) also encourages persistence in prayer. The warning here is against relying on a display or a mass of words to make prayer effective.",
+    "",
+    "Verse 8 gives the reason for a different approach: the Father already knows what His children need. Prayer is not the task of bringing a reluctant or uninformed God up to date. The prayer Jesus gives next shows how people who trust their Father can seek His will, ask for provision and forgiveness, and depend on His protection."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand these verses as rejecting prayer offered for show or as an empty stream of words. [Wesley on Matthew 6:6–9](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/), the Catholic [Catechism, 2700–2704](https://www.vatican.va/content/catechism/en/part_four/section_one/chapter_three/article_1/expressions_of_prayer.index.html), and the Reformed [Westminster Larger Catechism, question 187](https://www.opc.org/lc.html), all emphasize prayer that is meant from the heart; they allow sincere use of the Lord's Prayer while rejecting words used without understanding or faith."
+  ],
+  "god_plan_lines": [
+    "Approaching God as Father belongs to His saving work. [Galatians 4:4–7](https://biblehub.com/bsb/galatians/4.htm) describes God sending His Son to redeem people and give them the place of children in His family. He also sends the Spirit of His Son into their hearts, enabling them to call on Him as Father. The relationship comes from God's action before it is expressed in their prayer.",
+    "",
+    "[Ephesians 2:17–22](https://biblehub.com/bsb/ephesians/2.htm) describes people once separated being brought into God's household. Through Christ, both groups have access to the Father by one Spirit. This gives the quiet prayer Jesus describes a larger setting: God's rescue brings people near to Him. Their welcome rests on that relationship, rather than on a public display of religious skill."
+  ],
+  "current_position_lines": [
+    "Our study Prayer and Faith understands prayer as communion with God, submission to His will, and dependence on Christ. It reads Jesus' prayer teaching as a pattern for that relationship, rather than a formula for securing an outcome. Here that directs attention to the Father and the heart of the person praying, rather than to an audience or a word count."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/6.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "existing-study",
+    "position_source_detail": "Prayer and Faith — opening, Governing Principle, and Lord's Prayer: communion, submission, prior knowledge, model rather than formula",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-sincere-prayer-review.md"
+  }
+}

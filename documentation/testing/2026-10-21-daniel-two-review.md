@@ -1,0 +1,59 @@
+# Daniel 2 editorial review
+
+Baseline: suppliedDanielPDFwholelesson2pages14–40actuallyread;earlierlesson1pages1–13read. WholemainBSB2(49),Henry/Weswholeexpositions,Gaebelein2whole11918charentryactualread. Cam2ONLY5/14/18/21/28/35/39/40/43/44/46/47actualwholeentriesread. USCCB2HTTPfailedunused. BDB7328razwholeactualentrysecret/Persianloanread. ActualNTBSBActs4:23–31/Acts17:24–31/Eph3:1–12/Luke1:30–33/Rev11:15–19/Luke20:17–18read. ExactDaniel2ownerstudysearchnone;all8positionsopenverbatim. Noownerstudyedits,existingthematiclinksnotpositions.
+
+Commonreadingsverifiedinownsources:Wes/GaebforgotdreamvsCamfirmdecreeBSBwording;H/WBabylonMedoPersiaGreeceRomevsCamBabylonMediaPersiaGreece. H/WChristkingdombeginsRomanperiodandextendsfullvictoryvsGaebdecisivefuturereturn;CamexpectedkingdomafterAntiochusreign. ThesearecommentatorsownpositionsNOTofficialCatholic/Methodist/Reformeduniversalteachings. Noownerchoiceoriginated. ActualprimaryGaebfuturekingdomusedwithoutcopyinghisEurope/tenstatescurrenteventprediction. H/WandCamalliancesbyintermarriagereadingsattributed,notassertedhistoricaluniversaltruth. HomageWesmusthavestoppedexplicitinferencevsCamdivinehonorrepresentativereadingfair,recorddoesnotstateDanielrefused.
+
+Shared FLAGGED FOR REVIEW: Noeveryfeareverissin/anxietydiagnosis ordoctrineconfidenceingiftalwaysknowsGodwillreveal. NoGodalwaysonlyrevealsviaJewcategoricalfalsegenerality. Noagesschemafromtimes/seasonslexunverified,basicruleovertimes/kingsactualtext. Noeverylastdaysphraseonefixedepochmandatory. NoBabylonliterallegalauthorityeveryinchoftheplanetorfirstGentilecaptureJerusalemever(Shishakearlier)claim. No MedoPersiaconqueredBabylon550date;noAlexfouryearreign(noheirs)orimmediatefourwaytwowesttwopermanenteastwestalliancepoliticshistoryunchecked. Noallmetalvalue=preciseconstitutionalchecksonpowerlexclaim. NoRomanconqueredBabylon63BCorallGreekempireended168BCassertion. No ImperialisticDemocraticAlliancesinventedterminconsensus. No claimRomecontinuitymodernEUfulfilledorGaebtenfuturecountriescurrentprojection. Noallmountainsfixedkingdomcode;heremeaninggivenbyinterpretationonly. Nostonecutmountainmustfallfromskyasteroidexplicittext;notstated. No tentoesexplicitcounttextor7tenhornsnotyetactuallyreadpredictionusedasfact. No Nebadmissionautomaticsavedoralllifeconversion/threeGodtitles=Godheadthreepersons. Noallotherwiseenemiesmindreading/teenagermustDanielageroyalfavorstat. NoGaebhistoricalallcriticismsettled/CyrusNaboniduscylinderswholeclaimswithoutreadingdocuments;noBelshazzargrandsonfactunchecked.
+
+## 2:1–11
+
+Plan section: omitted, because none apply. HumaninabilityversusGodrevealingsetup;distinctplanin24–30.
+Position source: none.
+FLAGGED FOR REVIEW: FirmBSB5notforgottext;Wes/Gaebforgotattributed. Noactualdemonpowerssourceassertionforalladvisersprofessions,oranydreamtodayautomaticallyprophecy.
+
+## 2:12–18
+
+Plan section: included, because (c). Acts4threatenedchurchpraysCreatorandasksboldness;differentoutcomefromDanielknowledgeexplicit.
+Position source: none.
+FLAGGED FOR REVIEW: Noescapeexecutionformulaallprayeroruniversalconfidenceassuresmiracle. Noteveryfearmoralsin.
+
+## 2:19–23
+
+Plan section: included, because (c). Acts17nationsappointedtimes/boundsseekGodrepentance/judgmentrisenJesusaddsGospelpurpose.
+Position source: none.
+FLAGGED FOR REVIEW: NoalltemplestructuresidenticalGodpresenceclaimfromActs17. Basictimes/kingsnotfixeddispensationallexscheme.
+
+## 2:24–30
+
+Plan section: included, because (c). Eph3revealedmysteryGentilefellowheirs/onebody/promiseandaccessChristaddsrevealedpurpose.
+Position source: none.
+FLAGGED FOR REVIEW: Differentmysterycontentexplicit. RazAramaicsecretnotallmysteriesriddlenumerology. No Gentilebelongingsecretcodewithinmetals.
+
+## 2:31–35
+
+Plan section: omitted, because none apply. Dreamdescriptionhasinterpretationfollowing;Christconnections44–45.
+Position source: none.
+FLAGGED FOR REVIEW: No everyfeaturearbitraryuniversalcodeorNASAasteroidfulfillment.
+
+## 2:36–43
+
+Plan section: omitted, because none apply. PrincipalhistoricalreadingdifferencesalreadyCommon;noforcedNTgenocidegeopolitictimetable.
+Position source: none.
+FLAGGED FOR REVIEW: Fourkingdomsequencesfairownsource. Verse43BSBPEOPLESmixingnotangelsgeneticinterbreedingorhybridraces. No nationalethnicmixtureintrinsicallyimpuremoralteaching;coalitionstabilityimageonly.
+
+## 2:44–45
+
+Plan section: included, because (b). LabeledcloseparallelLuke20rejected/crushingstoneplusLuke1promisedChristeternalkingdomandRev11LordChristreign/judgmentreward.
+Position source: none.
+FLAGGED FOR REVIEW: NotclaimJesusexplicitlynamedDaniel2asquotationorsettlefourkingdomsequence. Noownerendtimepositioncreated. No salvationthroughgeopoliticalnationaldominanceframeworkimposed.
+
+## 2:46–49
+
+Plan section: omitted, because none apply. OutcomeGodhonor/servantsprovidedadequate,noinventedexaltationrewardtypology.
+Position source: none.
+FLAGGED FOR REVIEW: WesrefusalINFERENCEnottext,Camrepresentativehonorinterpretationnotpermissionidolatry. Noautomaticfullconversiondetermination.
+
+## Validation
+
+Completed: focused generation; direct BSB; repository validation (0 errors, 467 warnings); preservation; coverage through2:49; repeat-generation idempotence; sixteen mobile reader/standalone views; physical Next; Hosting dry run, deploy, fresh LIVE MATCH12. Every required command observedexit0. Prefix /tmp/scripture-daniel-two-;writerEXECUTEDdo notrerun.

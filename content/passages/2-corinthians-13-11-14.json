@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "2 Corinthians",
+    "citation": "13:11-14",
+    "label": "2 Corinthians 13:11-14",
+    "slug": "2-corinthians-13-11-14"
+  },
+  "section_title": "What holds this church together as the letter ends?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "11 Finally, brothers, rejoice! Aim for perfect harmony, encourage one another, be of one mind, live in peace. And the God of love and peace will be with you. 12 Greet one another with a holy kiss. 13 All the saints send you greetings.",
+        "14 The grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit be with all of you."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul closes by calling the believers to rejoice, encourage one another, seek harmony and live in peace. The God of love and peace is the One he holds before them as they respond.",
+    "",
+    "The holy kiss and the greetings of all the saints give the closing a shared, personal character. After a letter full of strained relationships, Paul directs them toward fellowship with one another and the wider community of believers.",
+    "",
+    "The final blessing names the grace of the Lord Jesus Christ, the love of God and the fellowship of the Holy Spirit. Paul ends by seeking these blessings for all of them. The last word over the community is a prayer of grace, love and fellowship."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly receive these words as a call to peace and a blessing that names Jesus Christ, God and the Holy Spirit together. [Wesley’s closing note](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-the-corinthians/) explains the grace, love and fellowship; the [USCCB closing note](https://bible.usccb.org/bible/2corinthians/13) likewise connects the ending with unity and recognizes its significance for the Christian confession of Father, Son and Holy Spirit."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 2:14–18](https://biblehub.com/bsb/ephesians/2.htm) describes Christ making peace, bringing people together in one body and giving them access to the Father through one Spirit.",
+    "",
+    "That explicit connection helps explain why grace, love and fellowship belong at the end of this letter. The unity Paul urges grows from God’s work of bringing people near through Christ, with a shared life in the Spirit."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_corinthians/13.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-corinthians-thirteen-review.md"
+  }
+}

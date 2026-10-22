@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Ephesians",
+    "citation": "2:11-13",
+    "label": "Ephesians 2:11-13",
+    "slug": "ephesians-2-11-13"
+  },
+  "section_title": "What does Paul want the Gentiles to remember?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "11 Therefore remember that formerly you who are Gentiles in the flesh and called uncircumcised by the so-called circumcision (that done in the body by human hands)— 12 remember that at that time you were separate from Christ, alienated from the commonwealth of Israel, and strangers to the covenants of the promise, without hope and without God in the world. 13 But now in Christ Jesus you who once were far away have been brought near through the blood of Christ."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul asks his Gentile readers to remember the distance that once marked their lives. The labels circumcised and uncircumcised identified a division in the flesh, marked by something done with human hands.",
+    "",
+    "He names what they lacked: they were separate from Christ, outside the commonwealth of Israel and strangers to the covenants of promise, without hope and without God in the world. The reminder sets their present belonging against their former condition.",
+    "",
+    "Verse 13 gives the turning point. In Christ Jesus, those who were far away have been brought near through His blood. The change comes through the same Christ whose saving work Paul has been describing throughout the chapter.",
+    "",
+    "The next paragraph explains how this nearness includes both reconciliation with God and a shared life between Jewish and Gentile believers. Remembering the former distance is meant to deepen their appreciation of the welcome they now share."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a reminder of the Gentiles’ former separation and their welcome through Christ. [Wesley’s notes on verses 11–13](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-ephesians/) and the [USCCB notes on verses 11–22](https://bible.usccb.org/bible/ephesians/2) both connect nearness to God with the inclusion of Gentiles among His people."
+  ],
+  "god_plan_lines": [
+    "[Genesis 12:1–3](https://biblehub.com/bsb/genesis/12.htm) gives Abraham the promise that all the families of the earth will be blessed through him. [Galatians 3:6–14](https://biblehub.com/bsb/galatians/3.htm) explicitly connects that promise with the gospel reaching Gentiles and the blessing received through Christ.",
+    "",
+    "[Acts 10:34–48](https://biblehub.com/bsb/acts/10.htm) shows that welcome taking place as Gentiles hear the message of Jesus and receive the Holy Spirit. Their inclusion belongs to God’s long-standing purpose of blessing the nations, now made known and accomplished through His Son."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/ephesians/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-ephesians-two-closing-review.md"
+  }
+}

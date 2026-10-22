@@ -1,0 +1,66 @@
+{
+  "reference": {
+    "book": "2 Corinthians",
+    "citation": "2:14-17",
+    "label": "2 Corinthians 2:14-17",
+    "slug": "2-corinthians-2-14-17"
+  },
+  "section_title": "How does God make Christ known through imperfect servants?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 But thanks be to God, who always leads us triumphantly as captives in Christ and through us spreads everywhere the fragrance of the knowledge of Him. 15 For we are to God the sweet aroma of Christ among those who are being saved and those who are perishing. 16 To the one we are an odor that brings death, to the other a fragrance that brings life. And who is qualified for such a task?",
+        "17 For we are not like so many others, who peddle the word of God for profit. On the contrary, in Christ we speak before God with sincerity, as men sent from God."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul moves from his unsettled journey to thanksgiving. The BSB describes God leading him and his companions triumphantly as captives in Christ. Their place is under the victorious Lord, rather than that of independent conquerors displaying their own strength.",
+    "",
+    "He adds the image of fragrance spreading the knowledge of Christ. The workers are a sweet aroma of Christ to God among both those being saved and those perishing. The message does not meet the same response in everyone who hears it.",
+    "",
+    "For some the aroma brings death; for others it brings life. The weight of that task leads Paul to ask who is qualified for it. The question prepares for his explanation of dependence on God in the next chapter.",
+    "",
+    "He contrasts sincere speech before God with peddling God’s word for profit. The issue is using the message for personal gain rather than faithfully speaking as someone sent by God. This sentence does not by itself prohibit every form of material support for a worker."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly see Christ’s victory and the spread of His message as the center of these images. [Wesley’s note on verse 14](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-the-corinthians/) emphasizes sharing in a victory made visible. The [USCCB note on verse 14](https://bible.usccb.org/bible/2corinthians/2) also draws attention to being led in captivity and submission, a sense explicit in the BSB wording. These readings place different weight on the picture; neither makes Paul’s difficult circumstances proof that Christ has failed.",
+    "",
+    "Both [Wesley’s notes on verses 16–17](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-the-corinthians/) and the [USCCB note on verses 16–17](https://bible.usccb.org/bible/2corinthians/2) connect the task with dependence on God and sincere ministry. Paul is not presenting the message as merchandise to reshape for advantage."
+  ],
+  "god_plan_lines": [
+    "[Colossians 2:13–15](https://biblehub.com/bsb/colossians/2.htm) connects forgiveness and life in Christ with His victory over the powers through the cross. The victory from which His servants work comes through His saving act, not their personal prestige.",
+    "",
+    "[Ephesians 5:1–2](https://biblehub.com/bsb/ephesians/5.htm) also describes Christ’s self-giving love as a fragrant offering to God. This is a parallel in the image, not a claim that Paul’s ministry repeats Christ’s sacrifice. The knowledge of that Christ is what his servants carry into the world."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_corinthians/2.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-corinthians-two-review.md"
+  }
+}

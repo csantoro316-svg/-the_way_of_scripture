@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "45:18-20",
+    "label": "Ezekiel 45:18-20",
+    "slug": "ezekiel-45-18-20"
+  },
+  "section_title": "Why is the sanctuary cleansed at the beginning of the year?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "18 This is what the Lord GOD says: ‘On the first day of the first month you are to take a young bull without blemish and purify the sanctuary. 19 And the priest is to take some of the blood from the sin offering and put it on the doorposts of the temple, on the four corners of the ledge of the altar, and on the gateposts of the inner court. 20 You must do the same thing on the seventh day of the month for anyone who strays unintentionally or in ignorance. In this way you will make atonement for the temple."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The Lord instructs that an unblemished bull be offered on the first day of the first month to purify the sanctuary. Blood is placed on the temple doorposts, the altar’s ledge and the inner court’s gateposts.",
+    "",
+    "In the BSB, the same is done on the seventh day for those who stray unintentionally or in ignorance. The stated purpose is atonement for the temple.",
+    "",
+    "The provision recognizes that failures among the people affect their common life of worship. The holy place is not to be treated as indifferent to what happens among those who approach it."
+  ],
+  "common_interpretation_lines": [
+    "[Cambridge](https://biblehub.com/commentaries/cambridge/ezekiel/45.htm) understands this as cleansing the sanctuary from the people’s defilements. It follows a different reading of the date, placing the second cleansing in the seventh month. The BSB gives the seventh day of the month.",
+    "",
+    "The difference concerns the calendar. Both readings recognize a deliberate provision for purification rather than casual use of the sanctuary."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/45.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-forty-four-five-review.md"
+  }
+}

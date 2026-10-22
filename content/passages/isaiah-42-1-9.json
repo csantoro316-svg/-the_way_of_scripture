@@ -5,57 +5,59 @@
     "label": "Isaiah 42:1-9",
     "slug": "isaiah-42-1-9"
   },
-  "section_title": "Here Is My Servant",
+  "section_title": "How will God’s chosen Servant bring justice?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 \u201cHere is My Servant, whom I uphold,",
-        "My Chosen One, in whom My soul delights.",
-        "I will put My Spirit on Him,",
-        "and He will bring justice to the nations.",
-        "2 He will not cry out or raise His voice,",
-        "nor make His voice heard in the streets.",
-        "3 A bruised reed He will not break",
-        "and a smoldering wick He will not extinguish;",
-        "He will faithfully bring forth justice.",
-        "4 He will not grow weak or discouraged",
-        "before He has established justice on the earth.",
-        "In His law the islands will put their hope.\u201d",
-        "5 This is what God the LORD says\u2014",
-        "He who created the heavens",
-        "and stretched them out,",
-        "who spread out the earth and its offspring,",
-        "who gives breath to the people on it",
-        "and life to those who walk in it:",
-        "6 \u201cI, the LORD, have called you",
-        "for a righteous purpose,",
-        "and I will take hold of your hand.",
-        "I will keep you and appoint you",
-        "to be a covenant for the people",
-        "and a light to the nations,",
-        "7 to open the eyes of the blind,",
-        "to bring prisoners out of the dungeon",
-        "and those sitting in darkness",
-        "out from the prison house.",
-        "8 I am the LORD;",
-        "that is My name!",
-        "I will not yield My glory to another",
-        "or My praise to idols.",
-        "9 Behold, the former things have happened,",
-        "and now I declare new things.",
-        "Before they spring forth",
-        "I proclaim them to you.\u201d"
+        "1 “Here is My Servant, whom I uphold, My Chosen One, in whom My soul delights. I will put My Spirit on Him, and He will bring justice to the nations. 2 He will not cry out or raise His voice, nor make His voice heard in the streets. 3 A bruised reed He will not break and a smoldering wick He will not extinguish; He will faithfully bring forth justice. 4 He will not grow weak or discouraged before He has established justice on the earth. In His law the islands will put their hope.”",
+        "5 This is what God the LORD says— He who created the heavens and stretched them out, who spread out the earth and its offspring, who gives breath to the people on it and life to those who walk in it: 6 “I, the LORD, have called you for a righteous purpose, and I will take hold of your hand. I will keep you and appoint you to be a covenant for the people and a light to the nations, 7 to open the eyes of the blind, to bring prisoners out of the dungeon and those sitting in darkness out from the prison house. 8 I am the LORD; that is My name! I will not yield My glory to another or My praise to idols. 9 Behold, the former things have happened, and now I declare new things. Before they spring forth I proclaim them to you.”"
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 42**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "After the challenge to powerless idols, the Lord introduces His chosen Servant. He upholds Him, delights in Him and places His Spirit upon Him. The Servant’s work reaches the nations and establishes justice on the earth.",
+    "",
+    "The manner of that work matters. He does not crush an already bruised reed or extinguish a smoldering wick. His gentleness toward the vulnerable is joined to steadiness: He will not grow weak or discouraged before the work is accomplished.",
+    "",
+    "The Creator commissions Him, takes His hand and appoints Him as a covenant for the people and a light to the nations. Opening blind eyes and bringing prisoners out of darkness belong to His task.",
+    "",
+    "The passage closes with the Lord’s name, His refusal to yield His glory to idols, and His announcement of new things before they happen. The Servant’s mission belongs to the purpose of the living God, in contrast with the images exposed in the previous chapter."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Here Is My Servant** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "Christian readings identify the chosen Servant with Jesus because [Matthew 12:15–21](https://biblehub.com/bsb/matthew/12.htm) explicitly applies this passage to Him. [Henry](https://biblehub.com/commentaries/mhc/isaiah/42.htm), [Wesley](https://biblehub.com/commentaries/wes/isaiah/42.htm) and [Gill](https://biblehub.com/commentaries/gill/isaiah/42.htm) accordingly connect His gentle treatment of the bruised reed and smoldering wick with His care for weak and wounded people.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 42** remains the first control on meaning."
+    "They also connect His light and release from darkness with the good news reaching the nations and freeing people from sin. The emphasis is on justice accomplished through the Servant’s faithful work, with tenderness rather than contempt for those who need His help."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "Matthew places the quotation beside Jesus withdrawing from a plot against Him, healing those who follow and warning them not to make Him known. It explains the character of His ministry, then ends with the nations placing their hope in His name in [Matthew 12:14–21](https://biblehub.com/bsb/matthew/12.htm).",
+    "",
+    "The promised light also has a strong parallel in Simeon’s words over the infant Jesus in [Luke 2:25–32](https://biblehub.com/bsb/luke/2.htm). He recognizes God’s salvation prepared before all people, bringing light to the Gentiles and glory to Israel.",
+    "",
+    "These New Testament connections place the Servant’s work within God’s saving purpose for Israel and the nations together. The One who does not crush the bruised is also the One through whom hope reaches beyond one people."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/42.htm",
+    "plan_basis": [
+      "a",
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-forty-two-three-review.md"
+  }
 }

@@ -1,0 +1,68 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "5:5-10",
+    "label": "Hebrews 5:5-10",
+    "slug": "hebrews-5-5-10"
+  },
+  "section_title": "How was Jesus appointed and prepared for His priestly work?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 So also Christ did not take upon Himself the glory of becoming a high priest, but He was called by the One who said to Him: “You are My Son; today I have become Your Father.” 6 And in another passage God says: “You are a priest forever in the order of Melchizedek.”",
+        "7 During the days of Jesus’ earthly life, He offered up prayers and petitions with loud cries and tears to the One who could save Him from death, and He was heard because of His reverence. 8 Although He was a Son, He learned obedience from what He suffered. 9 And having been made perfect, He became the source of eternal salvation to all who obey Him 10 and was designated by God as high priest in the order of Melchizedek."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus did not appoint Himself to the priestly honor. The writer joins Psalm 2’s words about the Son with [Psalm 110:4](https://biblehub.com/bsb/psalms/110.htm), where God declares an enduring priesthood in the order of Melchizedek.",
+    "",
+    "The word [translated order](https://biblehub.com/greek/5010.htm) can describe a manner or kind of priesthood. It does not by itself mean a chain of ancestors. [Hebrews 7:15–17](https://biblehub.com/bsb/hebrews/7.htm) will explain that Christ’s priesthood rests on the power of an indestructible life, rather than a rule about physical descent.",
+    "",
+    "The writer also recalls Jesus’ prayers, tears and reverence during His earthly life. He was heard, yet He still passed through suffering and death. Learning obedience means living it through that experience, not turning from a history of disobedience.",
+    "",
+    "Having completed that work, He becomes the source of eternal salvation to those who obey Him. The passage keeps His Sonship, real humanity, obedience and saving work together."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/5.htm), [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) and the [Catholic Catechism, paragraph 1544](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_three/article_6/ii_the_sacrament_of_holy_orders_in_the_economy_of_salvation.index.html), recognize Melchizedek as pointing to Christ’s unique priesthood. The promise concerns a priest who endures, rather than a succession created by Jesus’ own ambition.",
+    "",
+    "Traditions differ over ordained priesthood in the church. The Catholic Catechism, 1545–1547, understands ministers as participating in Christ’s one priesthood and making His unique sacrifice present in the Eucharist, the church’s celebration of the Lord’s Supper. Reformed teaching in the [Westminster Confession, 29.1–2](https://www.opc.org/wcf.html), understands the Lord’s Supper as commemorating His once-for-all offering and rejects a further sacrifice for sin. Both affirm the uniqueness of Christ’s sacrifice, while explaining the church’s ministry differently.",
+    "",
+    "On Jesus’ suffering, Calvin and Wesley both understand His obedience as genuinely lived through pain, and His being made perfect as the completion of His saving work. They connect the prayers with His suffering and death. Being heard does not mean He avoided the cross: His suffering and God’s faithful response belong within the same account."
+  ],
+  "god_plan_lines": [
+    "[Romans 5:18–19](https://biblehub.com/bsb/romans/5.htm) contrasts Adam’s disobedience with the obedience of Christ. [Philippians 2:6–11](https://biblehub.com/bsb/philippians/2.htm) likewise follows Jesus’ willing humiliation through death to His exaltation. These passages show how His obedience serves God’s saving purpose, rather than treating His suffering as an interruption to it.",
+    "",
+    "The priest-forever promise also leads into [Hebrews 7:24–25](https://biblehub.com/bsb/hebrews/7.htm): because Jesus lives forever, He continues to intercede for those who approach God through Him. The suffering described here leads into a lasting priestly care for His people."
+  ],
+  "current_position_lines": [
+    "Our study [Who Shepherds the Church?](https://thewayofscripture.com/studies/who-shepherds-the-church.html) reads Christ’s priesthood as permanent: He needs no successor, and believers approach God through Him. It therefore rejects a clergy class functioning as the necessary spiritual mediator between believers and God, while affirming the work of elders who teach and care for the church."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-five-review.md",
+    "position_source_detail": "Who Shepherds the Church? — What Changed at the Cross, lines 44–63; explicit Hebrews 5:6 / permanent priesthood / direct access application."
+  }
+}

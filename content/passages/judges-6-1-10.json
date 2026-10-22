@@ -5,25 +5,56 @@
     "label": "Judges 6:1-10",
     "slug": "judges-6-1-10"
   },
-  "section_title": "Midian Oppresses Israel",
+  "section_title": "Why does God send a prophet before a deliverer?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 Again the Israelites did evil in the sight of the LORD; so He delivered them into the hand of Midian for seven years, 2 and the hand of Midian prevailed against Israel. Because of the Midianites, the Israelites prepared shelters for themselves in the mountains, caves, and strongholds.",
-        "3 Whenever the Israelites would plant their crops, the Midianites, Amalekites, and other people of the east would come up and invade them, 4 encamping against them as far as Gaza and destroying the produce of the land. They left Israel with no sustenance, neither sheep nor oxen nor donkeys. 5 For the Midianites came with their livestock and their tents like a great swarm of locusts. They and their camels were innumerable, and they entered the land to ravage it.",
-        "6 Israel was greatly impoverished by Midian, and the Israelites cried out to the LORD.",
-        "7 Now when the Israelites cried out to the LORD because of Midian, 8 He sent them a prophet, who told them, \u201cThis is what the LORD, the God of Israel, says: I brought you up out of Egypt, out of the house of slavery. 9 I delivered you out of the hands of Egypt and all your oppressors. I drove them out before you and gave you their land. 10 And I said to you: \u2018I am the LORD your God. You must not fear the gods of the Amorites, in whose land you dwell.\u2019 But you did not obey Me.\u201d"
+        "1 Again the Israelites did evil in the sight of the LORD; so He delivered them into the hand of Midian for seven years, 2 and the hand of Midian prevailed against Israel. Because of the Midianites, the Israelites prepared shelters for themselves in the mountains, caves, and strongholds. 3 Whenever the Israelites planted their crops, the Midianites, Amalekites, and other people of the east would come up and invade them, 4 encamping against them as far as Gaza and destroying the produce of the land. They left Israel with no sustenance, neither sheep nor oxen nor donkeys. 5 For the Midianites came with their livestock and their tents like a great swarm of locusts. They and their camels were innumerable, and they entered the land to ravage it. 6 Israel was greatly impoverished by Midian, and the Israelites cried out to the LORD.",
+        "7 Now when the Israelites cried out to the LORD because of Midian, 8 He sent them a prophet, who told them, “This is what the LORD, the God of Israel, says: I brought you up out of Egypt, out of the house of slavery. 9 I delivered you out of the hands of Egypt and all your oppressors. I drove them out before you and gave you their land. 10 And I said to you: ‘I am the LORD your God. You must not fear the gods of the Amorites, in whose land you dwell.’ But you did not obey Me.”"
       ]
     }
   ],
   "context_lines": [
-    "In **Judges 6**, this section should be read within the flow of the chapter and the larger movement of Judges."
+    "Israel again does evil, and seven years of Midianite oppression follow. The invaders arrive with allies, livestock, tents, and vast numbers of camels. They destroy crops and leave the Israelites without food or animals. Israel prepares shelters in the mountains and caves, but the repeated devastation brings severe poverty.",
+    "",
+    "When the people cry to the LORD, His first recorded answer is a prophet. The message recalls the rescue from Egypt and the gift of the land. God had told them not to fear the gods of the Amorites, yet they have not obeyed Him. The immediate need is food and safety; the prophet brings the broken relationship with God into view.",
+    "",
+    "The prophet is not named. His message prepares us to understand the rescue that follows: God is addressing Israel’s disobedience as well as its enemies. The story itself explains the reason for this particular oppression; it does not ask us to guess the cause of every hardship from circumstances alone."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Midian Oppresses Israel** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Judges 6** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-judges/) and [Henry](https://biblehub.com/commentaries/mhc/judges/6.htm) understand the prophet’s message as part of God’s mercy. The people ask for relief, and He first calls them to recognize their sin and return to Him. They emphasize repentance that grieves disobedience itself, rather than merely wishing its painful consequences would stop."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "God’s work of rescue includes speaking truth that calls people back to Him. [Hebrews 1:1–4](https://biblehub.com/bsb/hebrews/1.htm) looks back on His many messages through the prophets and announces His fuller speaking through the Son, who provides purification for sins. The hope grows beyond another warning or another temporary escape.",
+    "",
+    "After His resurrection, Jesus joins repentance and forgiveness to the message that will go to all nations in His name ([Luke 24:44–49](https://biblehub.com/bsb/luke/24.htm)). The prophet’s rebuke belongs to the long story of God confronting sin while making a way for people to return to Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/judges/6.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-judges-six-review.md"
+  }
 }

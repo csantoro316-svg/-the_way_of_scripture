@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "James",
+    "citation": "5:17-18",
+    "label": "James 5:17-18",
+    "slug": "james-5-17-18"
+  },
+  "section_title": "Why does James use Elijah as an example of prayer?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 Elijah was a man just like us. He prayed earnestly that it would not rain, and it did not rain on the land for three and a half years. 18 Again he prayed, and the heavens gave rain, and the earth yielded its crops."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After speaking of the power of a righteous person’s prayer, James names Elijah and immediately puts him within reach: he was a man just like us. The example encourages people who might otherwise imagine effective prayer belongs only to a different kind of human being.",
+    "",
+    "James recalls prayer for the withholding of rain and prayer followed by its return. The land’s renewed fruitfulness makes the effect concrete.",
+    "",
+    "The background is [1 Kings 17–18](https://biblehub.com/bsb/1_kings/17.htm). In 18:1, God announces that He will send rain, and later Elijah bows before Him before the rain returns. The story presents God acting in relation to His prophet’s prayer, rather than Elijah independently controlling the weather."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/james/5.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-general-epistle-of-st-james/) both understand Elijah as an encouragement to prayer by ordinary people dependent on God. Calvin explicitly warns against presuming that the example tells everyone to ask for the same drought; it teaches confidence in prayer, rather than imitation of every request."
+  ],
+  "god_plan_lines": [
+    "In [1 Kings 18:36–39](https://biblehub.com/bsb/1_kings/18.htm), Elijah asks that the people know the Lord is God and that their hearts are turned back. The rain belongs within that larger account of God confronting divided worship and calling His people back to Himself. James’ example therefore reaches beyond personal achievement to the Lord’s work of restoration."
+  ],
+  "current_position_lines": [
+    "Our study [Prayer and Faith](https://thewayofscripture.com/studies/prayer-and-faith.html) understands Elijah’s example as prayer in agreement with God’s declared purposes. Its emphasis is on confidence in His will, rather than belief strong enough to produce a private outcome independently of Him."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/james/5.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-james-five-review.md",
+    "position_source_detail": "Prayer and Faith — prayer_and_faith.md, final Elijah paragraph under James 5:14–16 (line 340)."
+  }
+}

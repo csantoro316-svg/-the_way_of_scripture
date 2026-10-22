@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "James",
+    "citation": "4:4-6",
+    "label": "James 4:4-6",
+    "slug": "james-4-4-6"
+  },
+  "section_title": "Why does divided loyalty matter so much?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "4 You adulteresses! Do you not know that friendship with the world is hostility toward God? Therefore, whoever chooses to be a friend of the world renders himself an enemy of God. 5 Or do you think the Scripture says without reason that the Spirit He caused to dwell in us yearns with envy? 6 But He gives us more grace. This is why it says: “God opposes the proud, but gives grace to the humble.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "James describes friendship with the world as hostility toward God. In this setting, the world is the pattern of self-seeking desires that produces rivalry, rather than simply the existence of other people or the goodness of creation.",
+    "",
+    "The language of adultery gives divided allegiance the weight of a broken relationship. James then refers to Scripture, the spirit dwelling within, and envy. The wording of verse 5 has been understood in several ways, as the readings below explain.",
+    "",
+    "The next statement supplies a clear direction: God gives more grace, opposes the proud and gives grace to the humble. The rebuke is followed by an invitation to turn, not a command to remain trapped in pride."
+  ],
+  "common_interpretation_lines": [
+    "The main disagreement concerns verse 5. One reading takes it as describing the human spirit’s tendency toward envy. [Calvin](https://biblehub.com/commentaries/calvin/james/4.htm) reports that reading but instead takes the verse as a question about the Holy Spirit: does He produce envy? Calvin’s answer is no; the Spirit gives generously.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-general-epistle-of-st-james/) also understands the Holy Spirit but reads the sentence as describing His opposition to envy. The [USCCB notes](https://bible.usccb.org/bible/james/4) identify further possibilities: the Spirit longing jealously for believers, or God longing jealously for the spirit He placed in them. Those readings emphasize God’s claim on His people rather than attributing sinful envy to Him.",
+    "",
+    "These are differences in understanding a difficult sentence, rather than settled positions held uniformly by whole denominations. The surrounding warning against divided loyalty and the promise of grace remain central."
+  ],
+  "god_plan_lines": [
+    "[2 Corinthians 11:2–4](https://biblehub.com/bsb/2_corinthians/11.htm) also uses the picture of faithfulness to one husband, applying it to the church’s devotion to Christ. That gives a clear New Testament setting for James’ relationship language. It supports the seriousness of allegiance to God without deciding every question about the wording of verse 5."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/james/4.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-james-four-review.md"
+  }
+}

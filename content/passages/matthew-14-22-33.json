@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "14:22-33",
+    "label": "Matthew 14:22-33",
+    "slug": "matthew-14-22-33"
+  },
+  "section_title": "Jesus Comes to His Disciples on the Sea",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "22 Immediately Jesus made the disciples get into the boat and go on ahead of Him to the other side, while He dismissed the crowds. 23 After He had dismissed them, He went up on the mountain by Himself to pray. When evening came, He was there alone, 24 but the boat was already far from land, buffeted by the waves because the wind was against it.",
+        "25 During the fourth watch of the night, Jesus went out to them, walking on the sea. 26 When the disciples saw Him walking on the sea, they were terrified. “It’s a ghost!” they said, and cried out in fear. 27 But Jesus spoke up at once: “Take courage! It is I. Do not be afraid.”",
+        "28 “Lord, if it is You,” Peter replied, “command me to come to You on the water.” 29 “Come,” said Jesus. Then Peter got down out of the boat, walked on the water, and came toward Jesus. 30 But when he saw the strength of the wind, he was afraid and, beginning to sink, cried out, “Lord, save me!” 31 Immediately Jesus reached out His hand and took hold of Peter. “You of little faith,” He said, “why did you doubt?”",
+        "32 And when they had climbed back into the boat, the wind died down. 33 Then those who were in the boat worshiped Him, saying, “Truly You are the Son of God!”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus sends the disciples ahead by boat, dismisses the crowd, and goes up the mountain alone to pray. The boat is far from land, struggling against the wind. During the fourth watch of the night, Jesus comes toward them, walking on the sea.",
+    "",
+    "The disciples are terrified because they think they see a ghost. Jesus immediately reassures them and tells them who He is. Peter asks Him to command him to come on the water, and Jesus tells him to come. Peter gets out and walks toward Him.",
+    "",
+    "When Peter sees the force of the wind, he becomes afraid and starts to sink. He cries to Jesus for rescue, and Jesus immediately takes hold of him. Jesus calls his faith little and asks why he doubted. The account gives us both a real step toward Jesus and a fear that interrupts it.",
+    "",
+    "Once they are in the boat, the wind stops, and those aboard worship Jesus and acknowledge Him as God's Son. The verb is προσκυνέω, *proskyneō* (prohs-koo-NEH-oh), to bow down or show reverence. [Thayer's entry](https://biblehub.com/greek/4352.htm) describes its use for homage and worship. Here the act comes with their spoken recognition of who Jesus is."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a revelation of Jesus' authority over the sea and a lesson in trusting Him amid fear. [Wesley on Matthew 14:28–33](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) understands Peter as responding to the Jesus he recognizes, then becoming afraid. The [US Catholic bishops' notes on 14:22–33](https://bible.usccb.org/bible/matthew/14) likewise connect the scene with God's power over the waters and the disciples' recognition of Jesus. Peter's faltering and Jesus' immediate rescue belong together in the account."
+  ],
+  "god_plan_lines": [
+    "The Old Testament describes mastery over the sea as God's work. [Job 9:8](https://biblehub.com/bsb/job/9.htm) speaks of Him treading on its waves, and [Psalm 77:16–20](https://biblehub.com/bsb/psalms/77.htm) recalls His path through the waters as He led His people like a flock. Those are strong scriptural parallels for a scene that ends with Jesus acknowledged as God's Son.",
+    "",
+    "The disciples are also learning to recognize the One who provides for them. [Mark 6:51–52](https://biblehub.com/bsb/mark/6.htm) connects their astonishment on the sea with their failure to understand the loaves. The feeding and the rescue together reveal more than separate displays of power. They help the disciples come to know Jesus Himself, even while their understanding and trust still need to grow."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/14.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-fourteen-review.md"
+  }
+}

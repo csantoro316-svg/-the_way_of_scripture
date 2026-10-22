@@ -5,55 +5,62 @@
     "label": "Isaiah 41:21-29",
     "slug": "isaiah-41-21-29"
   },
-  "section_title": "Meaningless Idols",
+  "section_title": "What can an idol actually promise or accomplish?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "21 \u201cPresent your case,\u201d says the LORD.",
-        "\u201cSubmit your arguments,\u201d says the King of Jacob.",
-        "22 \u201cLet them come and tell us what will happen.",
-        "Tell the former things,",
-        "so that we may reflect on them and know the outcome.",
-        "Or announce to us what is coming.",
-        "23 Tell us the things that are to come,",
-        "so that we may know that you are gods.",
-        "Yes, do something good or evil,",
-        "that we may look on together in dismay.",
-        "24 Behold, you are nothing",
-        "and your work is of no value.",
-        "Anyone who chooses you is detestable.",
-        "25 I have raised up one from the north, and he has come\u2014",
-        "one from the east who calls on My name.",
-        "He will march over rulers as if they were mortar,",
-        "like a potter who treads the clay.",
-        "26 Who has declared this from the beginning,",
-        "so that we may know,",
-        "and from times past,",
-        "so that we may say: \u2018He was right\u2019?",
-        "No one announced it, no one foretold it,",
-        "no one heard your words.",
-        "27 I was the first to tell Zion:",
-        "\u2018Look, here they are!\u2019",
-        "And I gave to Jerusalem",
-        "a herald of good news.",
-        "28 When I look, there is no one;",
-        "there is no counselor among them;",
-        "when I ask them,",
-        "they have nothing to say.",
-        "29 See, they are all a delusion;",
-        "their works amount to nothing;",
-        "their images are as empty as the wind."
+        "21 “Present your case,” says the LORD. “Submit your arguments,” says the King of Jacob. 22 “Let them come and tell us what will happen. Tell the former things, so that we may reflect on them and know the outcome. Or announce to us what is coming. 23 Tell us the things that are to come, so that we may know that you are gods. Yes, do something good or evil, that we may look on together in dismay. 24 Behold, you are nothing and your work is of no value. Anyone who chooses you is detestable.",
+        "25 I have raised up one from the north, and he has come— one from the east who calls on My name. He will march over rulers as if they were mortar, like a potter who treads the clay. 26 Who has declared this from the beginning, so that we may know, and from times past, so that we may say: ‘He was right’? No one announced it, no one foretold it, no one heard your words. 27 I was the first to tell Zion: ‘Look, here they are!’ And I gave to Jerusalem a herald of good news. 28 When I look, there is no one; there is no counselor among them; when I ask them, they have nothing to say. 29 See, they are all a delusion; their works amount to nothing; their images are as empty as the wind."
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 41**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "The hearing turns into a direct challenge. The idols are called to explain former events, announce what is coming or do something that could demonstrate divine power. Their silence exposes the difference between an object of worship and the living God.",
+    "",
+    "The Lord describes raising up a figure who comes from the north and east and marches over rulers like clay. He asks who announced this beforehand. No counselor among the idols can answer, while He gives Jerusalem a herald of good news.",
+    "",
+    "The verdict closes the chapter: the images and their works are empty. The challenge is about reliable speech and effective action together. The Lord does not merely claim knowledge; He brings about the purpose He announces."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Meaningless Idols** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Wesley](https://biblehub.com/commentaries/wes/isaiah/41.htm) reads the figure from the north and east as Cyrus and connects his calling on the Lord’s name with the proclamation in [Ezra 1:1–4](https://biblehub.com/bsb/ezra/1.htm). Henry likewise places the chapter’s deliverance against the idols’ inability to know and accomplish God’s purpose.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 41** remains the first control on meaning."
+    "[Gill](https://biblehub.com/commentaries/gill/isaiah/41.htm) discusses Cyrus but prefers an application to Constantine and the spread of Christianity. That is a particular commentator’s explanation of the figure, rather than an identification supplied by name in these verses.",
+    "",
+    "Across the explanations, the challenge exposes the idols as unable to give the answer their worshipers need. Henry carries the good news of deliverance forward to the greater rescue made known through Christ."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "Jesus explains the purpose of telling His disciples what is coming in [John 13:18–20](https://biblehub.com/bsb/john/13.htm): when it happens, they are to believe that He is who He says He is. The Scripture directly quoted there is about the betrayal by one sharing His bread; it is not a quotation of Isaiah 41.",
+    "",
+    "The connection is a shared theme: God’s announced word gives His people grounds for trust when events unfold. In John, the approaching betrayal does not reveal that Jesus has lost control of His mission; He prepares His disciples to recognize Him through it.",
+    "",
+    "Isaiah’s challenge to the silent idols therefore belongs to the wider biblical distinction between powerless assurances and the God who makes Himself known through His word and action. The New Testament centers that trust on Jesus."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/41.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-forty-one-review.md"
+  }
 }

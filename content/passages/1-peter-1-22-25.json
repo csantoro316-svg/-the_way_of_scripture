@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "1 Peter",
+    "citation": "1:22-25",
+    "label": "1 Peter 1:22-25",
+    "slug": "1-peter-1-22-25"
+  },
+  "section_title": "Why does new birth lead to sincere love?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "22 Since you have purified your souls by obedience to the truth so that you have a genuine love for your brothers, love one another deeply, from a pure heart. 23 For you have been born again, not of perishable seed, but of imperishable, through the living and enduring word of God.",
+        "24 For, “All flesh is like grass, and all its glory like the flowers of the field; the grass withers and the flowers fall, 25 but the word of the Lord stands forever.” And this is the word that was proclaimed to you."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Peter turns from the cost of redemption to the readers’ life together. Their purification through obedience to the truth is directed toward genuine brotherly love, and he calls them to love deeply from a pure heart.",
+    "",
+    "New birth provides the reason. Their new life comes through God’s living and enduring word. Peter places that lasting source beside the fragility of human life and glory, using Isaiah’s picture of withering grass and falling flowers.",
+    "",
+    "The final sentence identifies the word as the gospel proclaimed to them. The message they received is meant to form a community of sincere love, rather than remain something they have only heard."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/1_peter/1.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-epistle-general-of-st-peter/) both connect the new life God gives with active love. Calvin stresses continuing purification and growing sincerity; Wesley starts from the gift already received and calls for deeper love. Both understand the enduring word as the ground of a life that should bear its character."
+  ],
+  "god_plan_lines": [
+    "[Isaiah 40:1–11](https://biblehub.com/bsb/isaiah/40.htm) places the enduring word within God’s promise of comfort, His coming and His shepherding care. Peter applies that word to the gospel his readers have heard.",
+    "",
+    "Jesus makes mutual love a visible mark of His disciples in [John 13:34–35](https://biblehub.com/bsb/john/13.htm), giving His own love as their pattern. The new birth Peter describes is therefore connected with a shared life that shows whose people they are."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_peter/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-peter-one-closing-review.md"
+  }
+}

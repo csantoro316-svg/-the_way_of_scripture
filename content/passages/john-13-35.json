@@ -5,18 +5,51 @@
     "label": "John 13:35",
     "slug": "john-13-35"
   },
+  "section_title": "How will people recognize Jesus’ disciples?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"By this all men will know that you are My disciples, if you have love for one another.\""
+      "label": "BSB",
+      "paragraphs": [
+        "35 By this everyone will know that you are My disciples, if you love one another.”"
+      ]
     }
   ],
   "context_lines": [
-    "In **John 13**, Jesus prepares His disciples for His departure by washing their feet, exposing betrayal, and commanding them to love one another. The chapter frames Christian identity around the pattern and love of Christ Himself."
-  ],
-  "explanation_lines": [
-    "**\u1f00\u03b3\u03ac\u03c0\u03b7 (*agap\u0113* (ah-GAH-pay))** \u2014 love \u2014 is the identifying mark of a disciple. Not title, not performance, but self-giving love in action.",
+    "This verse gives the result of the command immediately before it. Jesus has told the disciples to love one another as He has loved them. Their love is to identify them publicly as His followers.",
     "",
-    "Salvation rests on **\u1f41\u03bc\u03bf\u03bb\u03bf\u03b3\u03ad\u03c9 (*homologe\u014d* (hoh-mol-oh-GEH-oh))** \u2014 confession \u2014 and **\u03c0\u03b9\u03c3\u03c4\u03b5\u03cd\u03c9 (*pisteu\u014d* (pis-TYOO-oh))** \u2014 belief. These are the foundation from which discipleship flows."
-  ]
+    "The setting matters. Jesus has served them by washing their feet and has told them that His departure is near. They will carry His teaching into a world that cannot see Him at their table. Their treatment of one another is to bear witness to the Teacher they follow.",
+    "",
+    "This is a call to visible care, not merely warm words. [1 John 3:16–18](https://biblehub.com/bsb/1_john/3.htm) develops that same connection between Christ’s self-giving love and meeting a brother’s need. The verse does not say that a convincing religious label can take the place of love."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this command as a defining mark of following Jesus: His followers are to love one another in a way shaped by His own love. The command is not an invitation to claim superiority over other people; it calls disciples to make His love visible in their life together."
+  ],
+  "god_plan_lines": [
+    "The connection between community life and witness appears again in [John 17:20–23](https://biblehub.com/bsb/john/17.htm). Jesus prays for those who will believe through the apostles’ message and asks that their unity help the world recognize the Father’s sending of the Son. Love among disciples serves a purpose beyond the group itself: it makes something of God’s love visible to others."
+  ],
+  "current_position_lines": [
+    "Our studies What Is the True Church? and I Am a Disciple identify love for one another as a visible mark of belonging to Jesus. This means patient, forgiving, self-giving care in practice. A claim to follow Him is meant to be recognizable in how we treat people, not simply in the name we use for ourselves."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/13.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-john-thirteen-closing-review.md",
+    "position_source_detail": "What Is the True Church?; I Am a Disciple"
+  }
 }

@@ -5,13 +5,55 @@
     "label": "Hebrews 9:14",
     "slug": "hebrews-9-14"
   },
-  "versions": [],
-  "context_lines": [
-    "Hebrews 9:14 should be read within the flow of its chapter and the larger argument of Hebrews."
+  "section_title": "What are we cleansed to do?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 how much more will the blood of Christ, who through the eternal Spirit offered Himself unblemished to God, purify our consciences from works of death, so that we may serve the living God!"
+      ]
+    }
   ],
-  "explanation_lines": [
-    "Christ's sacrifice doesn't just forgive \u2014 it commissions. Cleansed from sin, the believer is empowered to offer holy service: priestly action from a purified heart, rooted in the new covenant.",
+  "context_lines": [
+    "This verse completes the contrast in 9:11–14. Earlier rites provided the cleansing required within Israel’s worship; Christ’s unblemished offering reaches the conscience. The words how much more ask us to recognize the greater effect of His sacrifice.",
     "",
-    "Paul's *latreu\u014d* here is not about attending gatherings \u2014 it is his declaration of loyal service to God expressed through preaching, suffering, and sacrificial ministry. Obedience rooted in truth, not performance rooted in experience."
-  ]
+    "The purpose is stated plainly: people are cleansed from works of death so that they may serve the living God. Forgiveness opens into a changed life, rather than ending with an outward religious ceremony.",
+    "",
+    "The word [translated serve](https://biblehub.com/greek/3000.htm) can mean religious service or worship. That meaning supports the connection between devotion and service; it does not, by itself, exclude prayer, singing or gathered worship."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/9.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) understand works of death as sinful works that come from spiritual death or lead to it. They read the cleansing as the beginning of service pleasing to God, rather than permission to continue in sin.",
+    "",
+    "They understand the eternal Spirit as the Holy Spirit at work in Christ’s offering. The [USCCB note](https://bible.usccb.org/bible/hebrews/9) reads that expression as Christ’s enduring risen life. This is a difference among the named commentators; it should not be presented as a single official reading held by every member of their traditions."
+  ],
+  "god_plan_lines": [
+    "[Romans 12:1–2](https://biblehub.com/bsb/romans/12.htm) describes the response to God’s mercy as offering our bodies as a living sacrifice and being renewed in our thinking. This is a life offered in gratitude, rather than another sacrifice that takes away sin.",
+    "",
+    "[Ephesians 2:8–10](https://biblehub.com/bsb/ephesians/2.htm) gives the same order: grace saves, and the life God makes new is created for good works. Hebrews’ call to serve belongs within that purpose."
+  ],
+  "current_position_lines": [
+    "Our study [Worship as the Early Church Knew It](https://thewayofscripture.com/studies/worship.html) understands this verse as forgiveness leading into a life of service to God. Christ cleanses people so that they can serve Him with a purified heart. That service reaches into daily obedience and care for others, beyond the time spent in a gathering."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/9.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-nine-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It — content/studies/worship.md:102–108, explicit Hebrews9:14 application; excludes imported Acts24:14 paragraph from prior placeholder."
+  }
 }

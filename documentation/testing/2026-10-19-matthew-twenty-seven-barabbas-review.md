@@ -1,0 +1,23 @@
+# Matthew 27:15–26 editorial and publication review
+
+Status: complete, published, and live byte-verified. One coherent group covers the crowd's choice and Pilate's sentence, rather than fragmenting the episode. Owner authorization continues; Telegram normal mode.
+
+## Actual research
+
+Baseline lesson27B, combined PDF1339–1349, fully read. BSB Matthew27:15–26 directly checked against BibleHub main text; actual supporting readings Mark15:6–15, Luke23:18–25, Deuteronomy24:16, Acts3:13–19, Romans11:1–6and17–32, 2Corinthians5:14–21. Earlier chapter27source reads include USCCB15–26notes, Wesley XXVII15–26, and Walvoord's own trial-before-Pilate discussion. No generated BibleHub summary used for facts.
+
+Primary tradition sources: Wesley's actual note27:25, Catholic council Nostra Aetate4read directly on Vatican site, and Catechism597–598read in full. Wesley's historical extension of the crowd's words is represented descriptively and is not treated as the view of every Methodist. Catholic official rejection of collective guilt is directly supported by both council and Catechism. The public page neither hides the difficult crowd wording nor converts it into a curse on an ethnicity.
+
+Actual Thayer912also checked as a lead: the Barabbas name has a father/son sense and some witnesses known to Origen add Jesus. This does not establish the baseline's two-family representative scheme or a certain double-name original text. No Greek term was introduced merely to decorate the page.
+
+## Matthew 27:15–26
+
+Plan section: included, because (a)/(b)/(c). The guilty prisoner released / innocent Jesus condemned is explicitly labeled a parallel, supported by 2Corinthians5:14–21's sinless Savior/reconciliation teaching. Acts3:13–19explicitly recalls Barabbas' choice, resurrection, responsibility and offered forgiveness. Romans11retains the baseline's important wider Israel/mercy connection without an imposed end-times date or inherited ethnic guilt.
+
+Position source: none. Exact required open wording. Related Gospel study does not settle this passage's debated historical or prophetic details.
+
+FLAGGED FOR REVIEW: The release custom is reported as Matthew describes it; no independently documented Roman origin story or governor's strategic guarantee is invented. Matthew says Pilate's wife suffered in a dream today, not necessarily during the previous night. Her name Claudia, conversion, first-century tradition date, later testimony, protection of the church, and exact dream content are unverified and omitted. No assertion her message forced a pause without which the leaders could not persuade the crowd, or that its unrecorded divine purpose was to make the execution happen. No bribes or threats to the crowd are stated. No assumption all bystanders thought Barabbas an unloved career mercenary. The name's father/son sense is not a proof of a detailed two-spiritual-family scene, and the disputed Jesus Barabbas variant is not presented as certain. No claims about Barabbas' conversion or feelings after release. Pilate's private job calculations, precise later removal circumstances, exile to Gaul and suicide are not established by checked independent history and remain off the page. Handwashing does not erase the actual recorded authorization. No combined five-attempt release timetable is forced into Matthew. The crowd's words do not determine the guilt of descendants; Deuteronomy24:16andRomans11provide direct checks. No claim the whole nation at all later times was rejected, or that all surviving Jews at a fixed seven-year endpoint is the only reading of Romans11. The public prose retains the hope and mercy without turning the PDF's particular prophetic framework into the site's conclusion.
+
+## Validation
+
+Full BSB quotation independently verified against live BibleHub. Repository: 0 errors, 362 legacy warnings; 8 tests passed. One page added; only index and navigation of 27:11–14 and 27:46 changed. All other index entries and neighbor prose preserved; 1,203 files unchanged. All 183 reviewed Matthew navigation blocks and exact coverage through 27:26 passed: 1,008 actual BSB verses, 187 source groups / four legacy remaining. Idempotent across 1,207 web files. At 390px, full text, all five sections, mercy/parallel explanation, council/Catechism source links and open position displayed without overflow; screenshot visually reviewed. Actual previous click selected 27:11–14, focused its heading and placed it at 188.5px. Standalone text/sections/open position also passed without overflow. Dry run and Hosting deployment completed, and all five selected/neighbor/index/reader live files matched local bytes. Prefix `/tmp/scripture-matthew-twenty-seven-barabbas-`.

@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "28:30-31",
+    "label": "Acts 28:30-31",
+    "slug": "acts-28-30-31"
+  },
+  "section_title": "Why does Acts end with the message still being heard?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "30 Paul stayed there two full years in his own rented house, welcoming all who came to visit him. 31 Boldly and freely he proclaimed the kingdom of God and taught about the Lord Jesus Christ."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Luke closes with two years in Paul’s rented house. Paul welcomes everyone who comes to him and teaches about the kingdom of God and the Lord Jesus Christ boldly and freely. The soldier’s guard, mentioned in verse 16, has not prevented people from hearing the message.",
+    "",
+    "The word translated freely is akōlytōs (ah-koh-LOO-tohs), ἀκωλύτως, meaning without hindrance; see [Thayer’s entry](https://biblehub.com/greek/209.htm). The emphasis is on the freedom to proclaim and teach. It does not say that Paul has been acquitted or released.",
+    "",
+    "Acts does not narrate the outcome of the appeal, Paul’s later movements or his death. Its closing picture is of people being welcomed and Jesus being proclaimed while the messenger’s circumstances remain restricted."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this ending as an emphasis on the continuing spread of the message. Luke ends with the kingdom of God and Jesus being taught openly in Rome, rather than completing a biography of Paul or reporting his final court verdict."
+  ],
+  "god_plan_lines": [
+    "[Acts 1:8](https://biblehub.com/bsb/acts/1.htm) announces witness to Jesus moving outward from Jerusalem. The closing scene places that witness in Rome and leaves the teaching continuing. Reaching Rome is a major stage in the story, not a statement that every nation has now heard.",
+    "",
+    "The distinction between a restricted messenger and a message that keeps going also appears in [2 Timothy 2:8–10](https://biblehub.com/bsb/2_timothy/2.htm). Paul speaks there of suffering in chains while God’s word cannot be chained. Acts ends with that same encouragement made visible: confinement has not stopped people from hearing about the risen Lord."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/28.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twenty-eight-review.md"
+  }
+}

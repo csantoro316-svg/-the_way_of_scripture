@@ -5,15 +5,53 @@
     "label": "James 1:5",
     "slug": "james-1-5"
   },
-  "versions": [],
-  "context_lines": [
-    "James 1:5 should be read within the flow of its chapter and the larger argument of James."
+  "section_title": "What kind of help does God promise to give?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 Now if any of you lacks wisdom, he should ask God, who gives generously to all without finding fault, and it will be given to him."
+      ]
+    }
   ],
-  "explanation_lines": [
-    "**Prayer and wisdom.** James 1:5 \u2014 \"But if any of you lacks wisdom, let him ask of God, who gives to all generously and without reproach, and it will be given to him.\" The gift promised in response to asking is wisdom \u2014 the sanctified judgment to navigate circumstances \u2014 not a sign pointing to a predetermined answer.",
+  "context_lines": [
+    "This verse sits between the call to persevere through trials and the call to ask in faith. James does not shame people for needing wisdom. He directs them to a generous God who welcomes the request.",
     "",
-    "**The counsel of others.** Proverbs 15:22 \u2014 \"Without consultation, plans are frustrated, but with many counselors they succeed.\" The community of believers, grounded in the same Word, is itself a means of guidance.",
-    "",
-    "**Providential circumstances, interpreted through Scripture.** God orders events \u2014 that is basic Christian doctrine. But the interpretive key for those events is always the Word, not our impressions about their meaning. The difference between providence and personal revelation is the difference between God ordering what happens and God encoding a personal message in it for us to decode. Scripture supports the first. It does not teach the second."
-  ]
+    "The immediate need is to know how to live faithfully in difficulty. Reading the promise together with verses 6–8 keeps the request connected with trust in God, rather than treating it as a formula for discovering an answer to every private decision."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/james/1.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-general-epistle-of-st-james/) both connect the wisdom promised here with facing trials well. They understand God’s generosity as a reason to ask Him confidently, rather than withdraw because of one’s need."
+  ],
+  "god_plan_lines": [
+    "Jesus likewise encourages His followers to ask their Father, comparing His goodness with a parent giving good things to a child in [Matthew 7:7–11](https://biblehub.com/bsb/matthew/7.htm). Wisdom is one expression of that fatherly care: help for a life of trust and obedience."
+  ],
+  "current_position_lines": [
+    "Our study [Should We Seek Signs From God?](https://thewayofscripture.com/studies/seek-signs.html) understands the promise here as wisdom: sound judgment for navigating circumstances, rather than a sign revealing a predetermined answer. It places prayer alongside Scripture and the counsel of believers as ways God guides His people. Circumstances are to be understood through Scripture, rather than treated as coded personal messages."
+  ],
+  "deeper_study": [
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/james/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-james-one-review.md",
+    "position_source_detail": "Should We Seek Signs From God? — content/studies/seek_signs.md, How Does God Actually Guide Us? (lines 132–146)."
+  }
 }

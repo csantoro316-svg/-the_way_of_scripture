@@ -1,174 +1,43 @@
 # Library Navigation Standard
 
-Updated: 2026-07-06
+Updated: 2026-10-18
 
 ## Purpose
 
-This document defines the long-term navigation model for browsing content in `the_way_of_scripture`.
+This document defines the current public routes and reading navigation for studies and passages.
 
-The goal is to keep one central navigation surface for the site's study library while still preserving the distinction between studies and passages.
+## Primary Routes
 
-## Core Rule
+The site-level navigation uses Home, Studies, and Passages.
 
-Browsing should happen through one shared library navigation system, not through two unrelated navigation experiences.
+- Home: `apps/web/index.html`
+- Studies: `apps/web/library/index.html`
+- Passages: `apps/web/library/passages.html`
 
-Content types remain distinct:
+The homepage opens with the site's purpose and name, offers a small link to `apps/web/why-we-return-to-the-text.html` for the full site-focused explanation, then places the banner above one Foundations invitation into Study 1, Returning to the Word. The approach page ends with its own invitation into Study 1. The former standalone teaching introduction URL, `apps/web/why-this-site-exists.html`, still redirects to Study 1.
 
-- studies
-- passages
+## Studies
 
-But navigation should feel unified.
+`apps/web/library/index.html` is the single canonical Studies page. It opens with `Foundations: A Guided Study` and lists every published study in the 14-step order defined by `GUIDED_STUDY_STEPS` in `tools/generate_study_pages.py`. Returning to the Word is Step 1, The Berean Standard is Step 2, and The Angel of the Lord is Step 6 after the Gospel. A second view, Explore by topic, groups those same 14 studies and lets readers filter by one topic. The guided order is preserved when readers switch back.
 
-## Library Model
+Individual studies show their step number near the top and Previous/Continue links after the teaching content. Those links name the destination and explain the next topic. The final step returns to the Studies page. All study navigation opens in the same tab.
 
-The site should eventually provide a central library surface that allows the reader to browse:
+Older study entry points remain valid:
 
-- studies
-- passages
+- `library/guided-study.html` redirects to `library/index.html`.
+- `library/studies-all.html` redirects to `library/index.html?view=topics`.
+- `library/browse.html?type=studies` redirects to the topic view.
 
-Different entry points may default to different views, but they should still land inside the same library system.
+Topic filtering stays on the Studies page. With the current small catalog, a separate keyword search or featured-studies page is unnecessary.
 
-Examples:
+## Passages
 
-- a `Studies` link opens the featured studies landing
-- a `Passages` link opens the featured passages landing
-- `Browse all studies` opens the shared browse page with the studies view active
-- `Browse all passages` opens the shared browse page with the passages view active
+`apps/web/library/passages.html` is the canonical passage reader and the direct destination of the site-level Passages link. There is no featured-passages landing page. The reader keeps its full-width article, sticky Book/Chapter/Passage controls, search, and modal library drawer. The article moves with the page scroll; the drawer scrolls independently while open. Its About these sections guide appears once above the reader as a collapsed disclosure. The introduction identifies the passages as those currently available while the full-Bible library is built.
 
-The shared library system should use a Memory Genie-style left-side navigation layout on the dedicated browse page, not on the featured landing pages.
+Older passage entry points remain valid: `library/browse.html?type=passages` redirects to the reader and preserves a selected passage; `library/passages-by-book.html` also redirects to the reader.
 
-## Study Navigation Standard
+Passages are ordered by biblical book and numeric chapter/verse. Previous/next passage links on standalone pages and in the reader follow the complete sequence, independent of filters. The drawer groups available passages by book and chapter, with expand/collapse controls and search. Selection reveals and focuses the destination, positions it below the sticky toolbar, and retains it in the URL.
 
-Studies should be browsable through:
+## Maintenance
 
-- featured studies
-- all studies
-- later, optional alphabetical browsing if the corpus grows large enough
-
-Current featured-studies landing rule:
-
-- the main studies-facing library landing page should surface up to 6 featured studies at a time
-- the exhaustive study list should live in a separate `Browse All Studies` view
-- the featured studies section should include a right-justified `Browse all studies` link on the heading row and retain the browse link at the bottom of the section
-- the featured studies landing page remains a curated landing page rather than the main browse/navigation surface
-
-The study landing area may be curated rather than exhaustive.
-
-This means:
-
-- homepage does not need to list all studies
-- study landing pages may emphasize selected or featured studies
-- exhaustive study browsing should still be available from the library
-
-## Passage Navigation Standard
-
-Passages should not primarily be browsed as one flat alphabetical list.
-
-Passages should be grouped by biblical book.
-
-The main passages-facing landing page should be a featured-passages view, not the by-book view directly.
-
-Current featured-passages landing rule:
-
-- the main passages-facing library landing page should surface 12 featured passages at a time
-- the exhaustive passage browse mode should live in a separate `Browse All Passages` view
-- the featured passages section should include a right-justified `Browse all passages` link on the heading row and retain the browse link at the bottom of the section
-- the featured passages landing page remains a curated landing page rather than the main browse/navigation surface
-
-The expected navigation pattern is:
-
-- book-level sections
-- expand a book to reveal the passages currently available within it
-
-This keeps passage browsing aligned with how readers naturally think about Scripture references.
-
-## Expand / Collapse Behavior
-
-The passage navigation surface should support:
-
-- expand individual books
-- collapse individual books
-- expand all
-- collapse all
-
-This behavior should work similarly to the existing Memory Genie knowledge-base browsing pattern where grouped navigation can be opened and closed in bulk.
-
-## Recommended Library Structure
-
-The long-term library should support at least these browse modes:
-
-- `Studies`
-- `Passages`
-
-Within those:
-
-- `Studies`
-  - featured
-  - all studies
-
-- `Passages`
-  - featured
-  - by book
-
-Additional browse modes may be added later if useful, but this is the current baseline.
-
-## Routing Principle
-
-There should be one clear navigation home for the content library, even if internal views differ.
-
-That means:
-
-- studies and passages may still have separate generated content pages
-- but library navigation should have one conceptual home
-- entry links should default readers into the appropriate view rather than forcing separate systems
-
-## Layout Rule
-
-The content library should use two distinct page types:
-
-- featured landing pages for `Studies` and `Passages`
-- one shared browse page for exhaustive navigation
-
-The shared browse page should follow this layout pattern:
-
-- a consistent site-level top navigation with `Home`, `Studies`, and `Passages`
-- one static page-level heading area anchored by the `Browse Library` title
-- a left-side navigation panel modeled on the Memory Genie knowledge-base page
-- grouped, collapsible navigation with `Expand All` and `Collapse All`
-- a main content panel showing the selected study or passage
-
-### Passage Guide Placement
-
-The passage-structure explainer belongs to the shared browse page, not to individual passage content.
-
-Current rule:
-
-- when the shared browse page is in `Passages` mode, show one static page-level guide under the main `Browse Library` header
-- do not repeat that explainer inside the selected passage article pane
-- do not repeat that explainer on standalone generated passage pages
-
-The guide is a browsing aid, not passage body content.
-
-### Scroll Behavior Rule
-
-The shared browse page must avoid stacked independent scroll regions.
-
-Current rule:
-
-- use one primary page scrollbar for the browse experience
-- do not give both the navigation pane and the content pane their own persistent interior scrollbars on desktop
-- if the navigation and content columns are visually anchored, prefer sticky positioning without nested `overflow-y: auto` regions
-
-The goal is to keep the selected content in view while preserving a cleaner, single-scroll interaction model.
-
-The featured landing pages should stay simpler:
-
-- no browse-side navigation rail
-- curated cards only
-- heading-row browse links right-justified and high-contrast on dark backgrounds
-
-## Documentation Expectation
-
-If the library navigation model changes in a durable way, update:
-
-- `documentation/architecture/LIBRARY_NAVIGATION_STANDARD.md`
+Use `python3 tools/generate_study_pages.py --guided-only` to refresh study navigation, the canonical Studies page, and legacy study routes without regenerating authored content. Use `--navigation-only` for passage navigation and the shared passage reader. The normal full generator updates both surfaces after content generation. Validate links, reading order, responsive layout, and preservation of study and passage prose before deployment.

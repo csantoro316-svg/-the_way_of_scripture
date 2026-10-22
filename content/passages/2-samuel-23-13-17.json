@@ -1,0 +1,70 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "23:13-17",
+    "label": "2 Samuel 23:13-17",
+    "slug": "2-samuel-23-13-17"
+  },
+  "section_title": "Why does David pour out the water his men bring him?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 At harvest time, three of the thirty chief men went down to David at the cave of Adullam, while a company of Philistines was encamped in the Valley of Rephaim. 14 At that time David was in the stronghold, and the garrison of the Philistines was at Bethlehem. 15 David longed for water and said, “Oh, that someone would get me a drink of water from the well near the gate of Bethlehem!”",
+        "16 So the three mighty men broke through the Philistine camp, drew water from the well near the gate of Bethlehem, and brought it back to David. But he refused to drink it; instead, he poured it out to the LORD, 17 saying, “Far be it from me, O LORD, to do this! Is this not the blood of the men who risked their lives?” So he refused to drink it. Such were the exploits of the three mighty men."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Three men come to David at the cave of Adullam while the Philistines occupy Bethlehem. David longs for a drink from the well near Bethlehem’s gate.",
+    "",
+    "The three break through the Philistine camp, draw the water and bring it back. David refuses to drink it. He sees the water in terms of the lives they risked and pours it out to the LORD.",
+    "",
+    "What began as a longing for water becomes an act of worship. The men’s costly loyalty and David’s recognition of its cost are both remembered."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) understands David’s words as a wish rather than an order that his men risk their lives. He reads the refusal to drink as David refusing to put his own appetite above their lives.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/23.htm) is more critical of the original longing, seeing a careless desire David corrects by denying himself. He also draws attention to the men’s readiness to serve.",
+    "",
+    "The pouring out honors the value of what was brought. It does not mean the men’s lives or their effort were unimportant to David."
+  ],
+  "god_plan_lines": [
+    "A useful comparison appears in [Mark 14:3–9](https://biblehub.com/bsb/mark/14.htm), where a woman pours expensive perfume on Jesus. Others call it waste, but Jesus recognizes its value and says her deed will be remembered.",
+    "",
+    "The circumstances differ: David pours out water because of the lives risked to obtain it; Jesus receives an act that prepares His body for burial. The parallel is costly devotion being recognized and remembered.",
+    "",
+    "This is a comparison between the accounts, rather than a claim that Mark identifies the water as a prediction. It invites readers to consider the value of devotion beyond its price or immediate practical use."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/23.htm",
+    "plan_basis": [
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-twenty-three-review.md"
+  }
+}

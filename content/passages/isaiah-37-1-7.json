@@ -5,23 +5,54 @@
     "label": "Isaiah 37:1-7",
     "slug": "isaiah-37-1-7"
   },
-  "section_title": "Isaiah\u2019s Message of Deliverance",
+  "section_title": "Where does Hezekiah turn when the threatening words reach him?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 On hearing this report, King Hezekiah tore his clothes, put on sackcloth, and entered the house of the LORD. 2 And he sent Eliakim the palace administrator, Shebna the scribe, and the leading priests, all wearing sackcloth, to the prophet Isaiah son of Amoz 3 to tell him, \u201cThis is what Hezekiah says: Today is a day of distress, rebuke, and disgrace; for children have come to the point of birth, but there is no strength to deliver them. 4 Perhaps the LORD your God will hear the words of the Rabshakeh, whom his master the king of Assyria has sent to defy the living God, and He will rebuke him for the words that the LORD your God has heard. Therefore lift up a prayer for the remnant that still survives.\u201d",
-        "5 So the servants of King Hezekiah went to Isaiah, 6 who replied, \u201cTell your master that this is what the LORD says: \u2018Do not be afraid of the words you have heard, with which the servants of the king of Assyria have blasphemed Me. 7 Behold, I will put a spirit in him so that he will hear a rumor and return to his own land, where I will cause him to fall by the sword.\u2019 \u201d"
+        "1 On hearing this report, King Hezekiah tore his clothes, put on sackcloth, and entered the house of the LORD. 2 And he sent Eliakim the palace administrator, Shebna the scribe, and the leading priests, all wearing sackcloth, to the prophet Isaiah son of Amoz 3 to tell him, “This is what Hezekiah says: Today is a day of distress, rebuke, and disgrace; for children have come to the point of birth, but there is no strength to deliver them. 4 Perhaps the LORD your God will hear the words of the Rabshakeh, whom his master the king of Assyria has sent to defy the living God, and He will rebuke him for the words that the LORD your God has heard. Therefore lift up a prayer for the remnant that still survives.”",
+        "5 So the servants of King Hezekiah went to Isaiah, 6 who replied, “Tell your master that this is what the LORD says: ‘Do not be afraid of the words you have heard, with which the servants of the king of Assyria have blasphemed Me. 7 Behold, I will put a spirit in him so that he will hear a rumor and return to his own land, where I will cause him to fall by the sword.’”"
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 37**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "The Assyrian speech reaches Hezekiah through his officials. He tears his clothes, puts on sackcloth and enters the Lord’s house. He sends the palace officials and leading priests to Isaiah, asking for prayer for the surviving remnant.",
+    "",
+    "His comparison is painfully direct: children have reached the point of birth, but there is no strength to deliver them. It pictures a crisis the people cannot resolve by their own power. He also brings the insult against the living God into the appeal.",
+    "",
+    "Isaiah’s answer begins by telling the king not to fear the words he has heard. The Lord promises to put a spirit in the Assyrian king, who will hear a rumor, return to his own land and fall by the sword there. The threatened people receive a word from God before they see the promised outcome."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Isaiah\u2019s Message of Deliverance** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry’s explanation of the parallel account](https://biblehub.com/commentaries/mhc/2_kings/19.htm) emphasizes Hezekiah’s concern for the dishonor done to God and his appeal for the prophet’s prayer. The [USCCB notes](https://bible.usccb.org/bible/isaiah/37) explain the childbirth comparison as a picture of extreme distress and helplessness.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 37** remains the first control on meaning."
+    "[Gill](https://biblehub.com/commentaries/gill/isaiah/37.htm) discusses several explanations of the spirit in verse 7, including fear, an inclination to return, and an angelic action against the king. These are attempts to explain how God brings about the withdrawal; the announced result is the same.",
+    "",
+    "The scene is commonly read as a turn from intimidation toward seeking the Lord. Its assurance rests on the message Isaiah delivers, rather than on Hezekiah discovering that his army is stronger than he thought."
   ],
-  "deeper_study": []
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/37.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-thirty-seven-nine-review.md"
+  }
 }

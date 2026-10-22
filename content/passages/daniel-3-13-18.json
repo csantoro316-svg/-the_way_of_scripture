@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "3:13-18",
+    "label": "Daniel 3:13-18",
+    "slug": "daniel-3-13-18"
+  },
+  "section_title": "Will they remain faithful even if they are not rescued?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 Then Nebuchadnezzar, furious with rage, summoned Shadrach, Meshach, and Abednego. So these men were brought before the king, 14 and Nebuchadnezzar said to them, “Shadrach, Meshach, and Abednego, is it true that you do not serve my gods or worship the golden statue I have set up? 15 Now when you hear the sound of the horn, flute, zither, lyre, harp, pipes, and all kinds of music, if you are ready to fall down and worship the statue I have made, very good. But if you refuse to worship, you will be thrown at once into the blazing fiery furnace. Then what god will be able to deliver you from my hands?”",
+        "16 Shadrach, Meshach, and Abednego replied to the king, “O Nebuchadnezzar, we have no need to answer you in this matter. 17 If the God whom we serve exists, then He is able to deliver us from the blazing fiery furnace and from your hand, O king. 18 But even if He does not, let it be known to you, O king, that we will not serve your gods or worship the golden statue you have set up.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The furious king gives the men another opportunity to bow, repeating the threat of the furnace. He ends by challenging whether any god can deliver them from his hand.",
+    "",
+    "They answer by appealing to the God they serve and His power to deliver. Their refusal to worship the statue does not depend on receiving a rescue: even if He does not deliver them, they will not serve the king’s gods.",
+    "",
+    "The answer separates two things often confused. Trusting God’s power is not the same as insisting that He must give the outcome a person wants. Their loyalty is settled before the outcome is known."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/daniel/3.htm) understands their response as leaving the outcome to God while refusing to sin. The [USCCB notes](https://bible.usccb.org/bible/daniel/3) likewise explain their answer as a question of whether God will exercise His saving power, rather than a rejection of His ability.",
+    "",
+    "The BSB phrases verse 17 conditionally, but the men still identify Him as the God they serve. Verse 18 makes their decision unmistakable: deliverance or no deliverance, the statue will not receive their worship."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 11:32–40](https://biblehub.com/bsb/hebrews/11.htm) recalls people whose faith overcame raging fire, alongside others who endured torture and death while hoping for a better resurrection. Both groups are commended for faith.",
+    "",
+    "The wider picture gives weight to the three men’s refusal to make obedience depend on survival. God can rescue His people from a threat, but the hope of those who trust Him also reaches beyond death. The New Testament joins stories of deliverance with the promise of final completion before God."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/3.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-three-review.md"
+  }
+}

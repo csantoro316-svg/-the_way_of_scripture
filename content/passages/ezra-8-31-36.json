@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "Ezra",
+    "citation": "8:31-36",
+    "label": "Ezra 8:31-36",
+    "slug": "ezra-8-31-36"
+  },
+  "section_title": "What happens when the travelers reach Jerusalem?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "31 On the twelfth day of the first month we set out from the Ahava Canal to go to Jerusalem, and the hand of our God was upon us to protect us from the hands of the enemies and bandits along the way. 32 So we arrived at Jerusalem and rested there for three days.",
+        "33 On the fourth day, in the house of our God, we weighed out the silver and gold and sacred articles into the hand of Meremoth son of Uriah, the priest. Eleazar son of Phinehas was with him, along with the Levites Jozabad son of Jeshua and Noadiah son of Binnui. 34 Everything was verified by number and weight, and the total weight was recorded at that time.",
+        "35 Then the exiles who had returned from captivity sacrificed burnt offerings to the God of Israel: 12 bulls for all Israel, 96 rams, 77 lambs, and a sin offering of 12 male goats. All this was a burnt offering to the LORD. 36 They also delivered the king’s edicts to the royal satraps and governors of the region west of the Euphrates, who proceeded to assist the people and the house of God."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The group leaves the Ahava Canal on the twelfth day of the first month. Ezra gives God credit for protecting them from enemies and bandits along the way. After reaching Jerusalem, they rest for three days.",
+    "",
+    "On the fourth day, the gifts are weighed into the care of priests and Levites at the temple. Everything is checked by number and weight, and the total weight is recorded.",
+    "",
+    "The returnees then offer sacrifices, including offerings for all Israel, and deliver the king’s orders to the regional authorities. Those officials assist the people and God’s house. The journey ends with worship, an accounted-for delivery and the royal commission put into effect."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezra/8.htm) and [Gill](https://biblehub.com/commentaries/gill/ezra/8.htm) emphasize God’s protection and the people’s thankful response. Gill also notes the officials’ assistance after receiving the royal orders. The events complete the preparations described earlier: the people arrive, the gifts are received and the work gains its authorized support."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezra/8.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezra-seven-eight-review.md"
+  }
+}

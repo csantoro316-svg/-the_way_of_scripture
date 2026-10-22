@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Ezra",
+    "citation": "10:6-17",
+    "label": "Ezra 10:6-17",
+    "slug": "ezra-10-6-17"
+  },
+  "section_title": "How is the decision investigated and carried out?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 Then Ezra withdrew from before the house of God and walked to the chamber of Jehohanan son of Eliashib. And while he stayed there, he ate no food and drank no water, because he was mourning over the unfaithfulness of the exiles. 7 And a proclamation was issued throughout Judah and Jerusalem that all the exiles should gather at Jerusalem. 8 Whoever failed to appear within three days would forfeit all his property, according to the counsel of the leaders and elders, and would himself be expelled from the assembly of the exiles. 9 So within the three days, all the men of Judah and Benjamin assembled in Jerusalem, and on the twentieth day of the ninth month, all the people sat in the square at the house of God, trembling regarding this matter and because of the heavy rain.",
+        "10 Then Ezra the priest stood up and said to them, “You have been unfaithful by marrying foreign women, adding to the guilt of Israel. 11 Now, therefore, make a confession to the LORD, the God of your fathers, and do His will. Separate yourselves from the people of the land and from your foreign wives.” 12 And the whole assembly responded in a loud voice: “Truly we must do as you say! 13 But there are many people here, and it is the rainy season. We are not able to stay out in the open. Nor is this the work of one or two days, for we have transgressed greatly in this matter. 14 Let our leaders represent the whole assembly. Then let everyone in our towns who has married a foreign woman come at an appointed time, together with the elders and judges of each town, until the fierce anger of our God in this matter is turned away from us.”",
+        "15 (Only Jonathan son of Asahel and Jahzeiah son of Tikvah, supported by Meshullam and Shabbethai the Levite, opposed this plan.) 16 So the exiles did as proposed. Ezra the priest selected men who were family heads, each of them identified by name, to represent their families. On the first day of the tenth month they launched the investigation, 17 and by the first day of the first month they had dealt with all the men who had married foreign women."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Ezra continues mourning without food or water. A proclamation summons the exiles to Jerusalem within three days, with forfeiture of property and exclusion from the assembly threatened for failure to appear.",
+    "",
+    "The people gather in the ninth month, trembling over the matter and in heavy rain. Ezra calls for confession and separation from the foreign wives. The assembly agrees, while asking for appointed hearings because many people are involved and the matter cannot be settled in one or two days.",
+    "",
+    "The BSB records four men opposing the plan. Ezra and selected family heads begin examining cases on the first day of the tenth month and finish by the first day of the first month. The account describes a sustained investigation rather than a single decision made for every household in the rain."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezra/10.htm) emphasizes the need for the decision to be carried out carefully. [Gill](https://biblehub.com/commentaries/gill/ezra/10.htm) likewise understands the appointed times and involvement of local elders and judges as the means of investigating the cases.",
+    "",
+    "There is a difference over verse 15. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-ezra/) understands the four named men as officials administering the matter. [Gill](https://biblehub.com/commentaries/gill/ezra/10.htm) discusses that reading but also considers the reading that they opposed it probable; this latter reading is the one used in the BSB. Either way, the narrative then moves to the named representatives and the investigation."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "Returning to the Word",
+      "href": "../studies/returning-to-the-word.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezra/10.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezra-nine-ten-review.md"
+  }
+}

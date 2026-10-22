@@ -5,27 +5,50 @@
     "label": "Genesis 39:1-12",
     "slug": "genesis-39-1-12"
   },
-  "section_title": "Joseph and Potiphar\u2019s Wife",
+  "section_title": "Joseph and Potiphar’s Wife",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
         "1 Meanwhile, Joseph had been taken down to Egypt, where an Egyptian named Potiphar, an officer of Pharaoh and captain of the guard, bought him from the Ishmaelites who had taken him there. 2 And the LORD was with Joseph, and he became a successful man, serving in the household of his Egyptian master.",
         "3 When his master saw that the LORD was with him and made him prosper in all he did, 4 Joseph found favor in his sight and became his personal attendant.",
-        "Potiphar put him in charge of his household and entrusted him with everything he owned. 5 From the time that he put Joseph in charge of his household and all he owned, the LORD blessed the Egyptian\u2019s household on account of him. The LORD\u2019s blessing was on everything he owned, both in his house and in his field. 6 So Potiphar left all that he owned in Joseph\u2019s care; he did not concern himself with anything except the food he ate.",
-        "Now Joseph was well-built and handsome, 7 and after some time his master\u2019s wife cast her eyes upon Joseph and said, \u201cSleep with me.\u201d",
-        "8 But he refused. \u201cLook,\u201d he said to his master\u2019s wife, \u201cwith me here, my master does not concern himself with anything in his house, and he has entrusted everything he owns to my care. 9 No one in this house is greater than I am. He has withheld nothing from me except you, because you are his wife. So how could I do such a great evil and sin against God?\u201d",
-        "10 Although Potiphar\u2019s wife spoke to Joseph day after day, he refused to go to bed with her or even be near her. 11 One day, however, Joseph went into the house to attend to his work, and not a single household servant was inside. 12 She grabbed Joseph by his cloak and said, \u201cSleep with me!\u201d But leaving his cloak in her hand, he escaped and ran outside."
+        "Potiphar put him in charge of his household and entrusted him with everything he owned. 5 From the time that he put Joseph in charge of his household and all he owned, the LORD blessed the Egyptian’s household on account of him. The LORD’s blessing was on everything he owned, both in his house and in his field. 6 So Potiphar left all that he owned in Joseph’s care; he did not concern himself with anything except the food he ate.",
+        "Now Joseph was well-built and handsome, 7 and after some time his master’s wife cast her eyes upon Joseph and said, “Sleep with me.”",
+        "8 But he refused. “Look,” he said to his master’s wife, “with me here, my master does not concern himself with anything in his house, and he has entrusted everything he owns to my care. 9 No one in this house is greater than I am. He has withheld nothing from me except you, because you are his wife. So how could I do such a great evil and sin against God?”",
+        "10 Although Potiphar’s wife spoke to Joseph day after day, he refused to go to bed with her or even be near her. 11 One day, however, Joseph went into the house to attend to his work, and not a single household servant was inside. 12 She grabbed Joseph by his cloak and said, “Sleep with me!” But leaving his cloak in her hand, he escaped and ran outside."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 39**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "Genesis returns to Joseph in Egypt, where Potiphar has bought him as a slave. The repeated statement that the LORD is with Joseph explains his success and the trust his master places in him. Potiphar gives him responsibility for the household and possessions, and the household is blessed on Joseph's account.",
+    "",
+    "That trust does not remove Joseph's vulnerability. Potiphar's wife repeatedly demands that he sleep with her. He refuses, explaining both the betrayal of his master's trust and the offense against God. His answer treats the proposed act as wrong even if the people involved could conceal it.",
+    "",
+    "Joseph also avoids being near her. When she finally grabs his cloak while no other servants are inside, he leaves it in her hand and runs outside. He acts decisively to escape her demand. The garment left behind will become central to the false accusation in the next passage.",
+    "",
+    "Read beside Judah's conduct in chapter 38, Joseph's refusal offers a striking contrast. The narrative has shown Judah entering a sexual encounter he later cannot deny; it now shows Joseph refusing one despite repeated pressure from a woman with power over his circumstances."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Joseph and Potiphar\u2019s Wife** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 39** remains the first control on meaning."
+    "Christians commonly read Joseph as an example of faithfulness to God, respect for another person's marriage, and decisive resistance to sexual sin. [Wesley's notes on Genesis 39:2, 9–12](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) join God's presence with Joseph's refusal and his escape from the situation."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "god_plan_lines": [
+    "The blessing reaches beyond Joseph to an Egyptian household. That is a concrete glimpse of the wider theme in [Genesis 12:2–3](https://biblehub.com/bsb/genesis/12.htm): God's blessing through Abraham's family is meant to reach others. Joseph is still enslaved, yet God's care for him also brings good to people outside his family.",
+    "",
+    "Joseph's refusal under pressure also offers a useful parallel to Jesus resisting temptation in [Matthew 4:1–11](https://biblehub.com/bsb/matthew/4.htm). Both accounts show obedience to God taking priority over an offered way forward. The comparison concerns faithful refusal; it does not make their circumstances identical or promise that doing right will immediately make life easier. Joseph's next trial will show the cost his refusal brings."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/39.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-judah-and-joseph-review.md"
+  }
 }

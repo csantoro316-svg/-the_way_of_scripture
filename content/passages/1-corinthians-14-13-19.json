@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "14:13-19",
+    "label": "1 Corinthians 14:13-19",
+    "slug": "1-corinthians-14-13-19"
+  },
+  "section_title": "How can others join in prayer and thanksgiving?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 Therefore, the one who speaks in a tongue should pray that he may interpret. 14 For if I pray in a tongue, my spirit prays, but my mind is unfruitful. 15 What then shall I do? I will pray with my spirit, but I will also pray with my mind. I will sing with my spirit, but I will also sing with my mind.",
+        "16 Otherwise, if you speak a blessing in spirit, how can someone who is uninstructed say “Amen” to your thanksgiving, since he does not know what you are saying? 17 You may be giving thanks well enough, but the other one is not edified. 18 I thank God that I speak in tongues more than all of you. 19 But in the church, I would rather speak five coherent words to instruct others than ten thousand words in a tongue."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul tells the person speaking in a tongue to pray for interpretation. He does not respond to the lack of understanding by abandoning prayer or song. He wants to pray and sing with both spirit and mind.",
+    "",
+    "The person listening also matters. Someone who cannot understand the thanksgiving cannot knowingly add an Amen. The speaker may be giving thanks well, but the other person is not being built up. Sincerity toward God does not make the listener’s need disappear.",
+    "",
+    "Paul’s own example prevents the correction from sounding like resentment of a gift he lacks. He thanks God that he speaks in tongues more than they do, yet in church he prefers five coherent words that instruct others to ten thousand words in a tongue.",
+    "",
+    "The setting of that preference is explicit: in the church. Paul is directing the shared gathering toward understandable instruction and participation. His aim is not a contest between having a spiritual experience and using one’s mind, but service in which others can receive and join what is offered."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly agree that Paul wants the congregation to understand and benefit. Readers differ over what he means by his mind being unfruitful.",
+    "",
+    "[Wesley’s note on verse 14](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) understands the speaker as knowing the words through the Spirit while that knowledge remains unfruitful for others. The [USCCB note on verses 14–15](https://bible.usccb.org/bible/1corinthians/14) instead emphasizes prayer in tongues taking place without ordinary understanding. Both readings must account for Paul’s instruction to involve the mind and enable the hearer’s response."
+  ],
+  "god_plan_lines": [
+    "[Colossians 3:12–17](https://biblehub.com/bsb/colossians/3.htm) places teaching, songs and gratitude within the life of one body, clothed in compassion and love. Christ’s word is to dwell richly among them as they teach and encourage one another.",
+    "",
+    "That gives shared prayer and singing a purpose that includes both God and the people present. Thanksgiving is offered to the Father through Jesus, while the community is strengthened by the truth it receives. Paul’s concern for the hearer serves that life together."
+  ],
+  "current_position_lines": [
+    "In [Worship as the Early Church Knew It](https://thewayofscripture.com/studies/worship.html), we understand the gathered assembly as a place where believers build one another up. The study specifically uses 1 Corinthians 14:19 to show that words must be understandable if they are to instruct others. We therefore value shared prayer, singing and teaching by how they help people grow in truth, faith and love, rather than mainly by the emotional response they produce."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/14.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-fourteen-opening-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It — content/studies/worship.md lines 435–444, The Edification Standard, especially direct 1 Corinthians 14:19 citation."
+  }
+}

@@ -1,0 +1,34 @@
+# Romans 1 completion editorial review
+
+Three new groups18–23/24–27/28–32 complete chapter1 alongside the published opening and legacy16. All three positions exact required open wording; all-study search finds only direct1:16 in The Gospel According to Jesus, no direct18–32 or2references. Baseline pages1–33 actually read: lesson1 pages1–17 and lesson2A pages18–33. Public prose independently composed.
+
+## Sources actually read
+
+Actual BSB1 all32 main verses and footnotes read during opening research: https://biblehub.com/bsb/romans/1.htm . Actual2:1–11,3:9–26,8:18–25 andPsalm106:19–23 freshly read: https://biblehub.com/bsb/romans/2.htm , https://biblehub.com/bsb/romans/3.htm , https://biblehub.com/bsb/romans/8.htm , https://biblehub.com/bsb/psalms/106.htm . Psalm19:1–6 read earlier this chapter. Acts17:24–31 actually read in completed Acts review. Cross-reference wording paraphrased; main quotations independently verified before publication.
+
+Actual whole Thayer2722 entry read: https://biblehub.com/greek/2722.htm . Romans1:18 restraining/hindering truth is explicit; no use of the entry's separate theological claim identifying Thessalonian restrainer as Roman emperor. Actual3860 bounded excerpt aroundRomans1:24/26/28 read, approximately2900characters: https://biblehub.com/greek/3860.htm . This supports handing over language but not an entire metaphysical account of God's action. Entries2738/5331 were mistakenly queued unrelated numbers, fetched but not used or claimed read. No original-word assertions from them. No new Greek claim about adokimos from baseline alone.
+
+Wesley1:19–32 actual notes read at https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-romans/ . His verse24 withdrawal-of-restraining-grace reading attributed individually. His tribal/ethnic stereotypes, ancient universal practices, child exposure frequency, emperors and covenant-breaker generalizations not adopted. No argument drawn from his verse29 additional word not in actual BSB. Calvin actual commentary excerpts18first1300/24first1700/26first1400/27first440/32first1600 read: https://biblehub.com/commentaries/calvin/romans/1.htm . No copied hostile animal comparisons;26supports traditional created-order reading. All USCCB1notes already actually read in opening research at https://bible.usccb.org/bible/romans/1 ;18presentjudgment distinguished from baseline's future-only tendency.
+
+PrimaryCatholicCatechism32–35 actualread at https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_one/ii_ways_of_coming_to_know_god.html . 2357–2359 actualread at https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_two/article_6/ii_the_vocation_to_chastity.html ;2357scripturalfootnote linksRomans1, doctrinal rejection of same-sex acts presented with2358respect/compassion/no unjust discrimination. Westminster24:1–2 actualread at https://www.opc.org/wcf.html ;marriage wording distinguished from Calvin's verse commentary. Catholic2357does not supply an owner's position or medical diagnosis.
+
+Primary individual affirming reading: JohnC.Holbert, The Malevolent Seven, actualRomans1section lines142–156 and author/date170–173 read byweb at https://www.umc.org/en/content/the-malevolent-seven . Church-hosted essay datedSeptember18/publishedOctober1,2023; explicitly a named teacher's reading, not official identical view of all Methodists. Reports his contextual reasoning about idolatry/desire/ancient roles, not independent confirmation of every historical assertion he makes. Earlier nonRomans portions visible but claims on1Cor,Genesis,Timothy,450species,ancienttempleprostitution andeunuchs notverified or adopted. No lexical finding claimed from his paraphysis discussion. BaltimoreWashingtonConferencearticle found but relevant passage not read; Presbyterian1978PDF found but not read, neitherused. Contemporary debate recorded through actual authors/documents, not generic recall or secondhand labels. No new current denominational marriage-policy claim made.
+
+## Romans 1:18–23
+Plan section: included, because (a)/(b)/(c): Acts17Creator-to-resurrectionwitness and clearly labeledPsalm106 calf-exchange parallel beyond Israel/Gentile division.
+Position source: none.
+FLAGGED FOR REVIEW: Baseline all religions fit exactly four divinely stated categories, named modern religions all identical creation worship, Nimrod founded first paganism at Babel, making a name means making another Shem/salvation route, universal ability of every modern person to articulate all these concepts not independently established; omitted. Greek meaning does not establish a timeline beginning exactly2000years afterAdam or all creation worship only afterFlood. No claim all non-Jewish cultures have zero moral insight. Present wrath wording not rewritten into future-only prediction.
+
+## Romans 1:24–27
+Plan section: included, because (c): embodiedlife/creation and future redemption of bodies inRomans8:18–25 adds broader hope beyond ethical dispute.
+Position source: none.
+FLAGGED FOR REVIEW: Baseline exact modern disease/psychological consequence as verse27penalty not named intext, independently established or appropriate as medical assertion; omitted. No claim sexualminoritypersons lesshuman, animal comparisons, modern causal statistics, all societies identical decay chronology, everygaypersonidolworshiper or native orientation diagnosis. No assertion passage only about rape, prostitution or a specified temple cult when notnamed. Holbert's historical framework reported as interpretation, not proven fact; unsupporteddetails remainoffpage. Catholicofficialteaching vsCalvinindividualvsWCFmarriageconfessionvsHolbertindividualclearlydistinguished. Noownerverdictoriginated. Do not implyrespectrequiresagreementor doctrinal disagreement removes human dignity.
+
+## Romans 1:28–32
+Plan section: included, because (a)/(c): Romans3:9–24 explicitsharedsin andredemption/grace explainsplaceoflistinwholeletter.
+Position source: none.
+FLAGGED FOR REVIEW: Not allpeoplecommitall listedacts;no claimhomosexualitydirectlycausesall crimesor medical/civilpenaltiesprescribedbythispage. Verse32 judgment belongsGod;no modern callforviolence. No studypositioninferredfromgeneralGospellink. Romans2turntowardjudgingreader retained;Paul'sfailurelistnotexemptionforreaders.
+
+## Validation
+
+Three fresh BSB comparisons pass. Zero repository errors/283 known warnings; eight tests pass. Source/index/standalone quotation, preserved existing content and neighbor prose, canonical navigation and idempotence pass. Seven reviewed chapter1 pages cover all32 verses; seven plans/two study positions/five open. All three new reader/standalone pages pass at390px with no overflow/literal Markdown. Actual Next reaches1:24–27 and focuses heading at188.5px. Hosting dry run/deployment exit0; seven affected and nine whole-chapter live files byte-match.

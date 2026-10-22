@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "7:31-35",
+    "label": "Luke 7:31-35",
+    "slug": "luke-7-31-35"
+  },
+  "section_title": "Why do people reject both John and Jesus?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "31 “To what, then, can I compare the men of this generation? What are they like? 32 They are like children sitting in the marketplace and calling out to one another: ‘We played the flute for you, and you did not dance; we sang a dirge, and you did not weep.’ 33 For John the Baptist came neither eating bread nor drinking wine, and you say, ‘He has a demon!’ 34 The Son of Man came eating and drinking, and you say, ‘Look at this glutton and drunkard, a friend of tax collectors and sinners!’ 35 But wisdom is vindicated by all her children.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus compares this generation with children complaining that others will neither dance to their flute nor mourn with their sad song. The picture introduces two different ways of living that have both met with criticism.",
+    "",
+    "John’s abstaining is met with the charge that he has a demon. Jesus’ eating and drinking is met with charges of gluttony and drunkenness and criticism of His friendship with tax collectors and sinners. Those are accusations Jesus reports, not the narrator’s description of His conduct.",
+    "",
+    "The contrasting objections reveal a refusal to receive either messenger. Jesus closes by saying that wisdom is vindicated by all her children. The focus turns from the critics’ demands to the people in whom God’s wisdom is being received and shown."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly see a refusal to respond to God despite the different manner of John’s and Jesus’ ministries. Wesley understands wisdom’s children as those who recognize and welcome God’s wisdom in His ways of calling people to repentance. ([Wesley on Luke 7:31–35](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [USCCB notes on Luke 7:31–35](https://bible.usccb.org/bible/luke/7))"
+  ],
+  "god_plan_lines": [
+    "The difference between rejecting God’s work and recognizing His wisdom continues in the preaching of the cross. Paul describes the crucified Christ as a stumbling block to some and foolishness to others, yet God’s power and wisdom to those who are called. God’s saving work can meet resistance precisely where people expect it to take a different form. ([1 Corinthians 1:18–25](https://biblehub.com/bsb/1_corinthians/1.htm))",
+    "",
+    "This is a shared theme, not a claim that Jesus’ picture of the children predicts each detail of Paul’s ministry. Both passages direct attention toward receiving the wisdom God makes known through Christ instead of judging it only by human expectations."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/7.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-seven-closing-review.md"
+  }
+}

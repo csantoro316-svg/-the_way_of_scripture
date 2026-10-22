@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "21:15-19",
+    "label": "John 21:15-19",
+    "slug": "john-21-15-19"
+  },
+  "section_title": "Why does Jesus ask Peter three times about his love?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 When they had finished eating, Jesus asked Simon Peter, “Simon son of John, do you love Me more than these?” “Yes, Lord,” he answered, “You know I love You.” Jesus replied, “Feed My lambs.” 16 Jesus asked a second time, “Simon son of John, do you love Me?” “Yes, Lord,” he answered, “You know I love You.” Jesus told him, “Shepherd My sheep.” 17 Jesus asked a third time, “Simon son of John, do you love Me?” Peter was deeply hurt that Jesus had asked him a third time, “Do you love Me?” “Lord, You know all things,” he replied. “You know I love You.” Jesus said to him, “Feed My sheep.",
+        "18 Truly, truly, I tell you, when you were young, you dressed yourself and walked where you wanted; but when you are old, you will stretch out your hands, and someone else will dress you and lead you where you do not want to go.” 19 Jesus said this to indicate the kind of death by which Peter would glorify God. And after He had said this, He told him, “Follow Me.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "After breakfast, Jesus asks Peter three times whether he loves Him. Peter had denied knowing Jesus three times before the crucifixion. Now, in front of the other disciples, Jesus entrusts him with caring for His lambs and sheep. Peter’s failure has not brought this relationship or calling to an end.",
+    "",
+    "Peter is hurt by the repeated question, and he appeals to what Jesus knows. Each response receives a task: feed or shepherd the flock. Love for Jesus is joined to the care of people who belong to Jesus.",
+    "",
+    "The Greek uses two verbs for love: ἀγαπάω, agapaō (ah-gah-PAH-oh), and φιλέω, phileō (fee-LEH-oh). [Thayer’s entries for agapaō](https://biblehub.com/greek/25.htm) and [phileō](https://biblehub.com/greek/5368.htm) describe love with different shades of goodwill and affection. These are not simply labels for genuine love and inadequate love. The second word is also used of the Father’s love for the Son in John 5:20. The repeated question and repeated commission remain clear even where readers differ over the word choice.",
+    "",
+    "Jesus also tells Peter that following Him will involve a death that glorifies God. John explicitly explains the prediction in that way. The renewed call to follow is serious: Peter is being entrusted with service, not promised an easy life."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly connect the three questions with Peter’s three denials and understand the scene as his restoration and commission to care for Christ’s people. [Wesley on verse 15](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) makes that connection, and [Calvin on verse 15](https://biblehub.com/commentaries/calvin/john/21.htm) describes his restoration to ministry.",
+    "",
+    "The Catholic Church also understands the passage as establishing Peter’s role as shepherd of the whole flock. Its [Catechism, paragraphs 880–882](https://www.vatican.va/archive/ENG0015/__P2A.HTM), connects this pastoral responsibility with Peter’s primacy and its continuation through the bishops under the pope.",
+    "",
+    "The Reformed reading differs on that further conclusion. Calvin’s discussion of verse 15 understands the commission as pastoral service under Christ, shared in substance by other ministers, rather than proof of universal papal authority. The [Westminster Confession, chapter 25](https://www.opc.org/wcf.html), identifies Christ as the church’s head and rejects the pope’s claim to that role.",
+    "",
+    "Commentators also differ over more than these in verse 15. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) understands it as asking whether Peter loves Jesus more than the other disciples do, recalling Peter’s earlier confidence. [The USCCB’s note on verse 15](https://bible.usccb.org/bible/john/21) prefers that reading while noting alternatives involving love for the other disciples or for fishing. The wording does not identify its comparison as explicitly as we might wish."
+  ],
+  "god_plan_lines": [
+    "Jesus has already described Himself as the good shepherd who lays down His life for the sheep in [John 10:11–21](https://the-way-of-scripture.web.app/passages/john-10-11-21.html). Peter’s task is to care for that same flock; Jesus continues to call the sheep His own.",
+    "",
+    "In [1 Peter 5:1–4](https://biblehub.com/bsb/1_peter/5.htm), Peter later urges fellow elders to shepherd God’s flock willingly, without greed or domination, under the Chief Shepherd. The care entrusted to him here belongs within that wider pattern of leadership through service."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/21.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-twenty-one-review.md"
+  }
+}

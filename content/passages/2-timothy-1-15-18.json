@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "2 Timothy",
+    "citation": "1:15-18",
+    "label": "2 Timothy 1:15-18",
+    "slug": "2-timothy-1-15-18"
+  },
+  "section_title": "What does faithfulness look like when others turn away?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 You know that everyone in the province of Asia has deserted me, including Phygelus and Hermogenes.",
+        "16 May the Lord grant mercy to the household of Onesiphorus, because he has often refreshed me and was unashamed of my chains. 17 Indeed, when he arrived in Rome, he searched diligently until he found me. 18 May the Lord grant Onesiphorus His mercy on that day. You know very well how much he ministered to me in Ephesus."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul describes desertion by people from the province of Asia and names Phygelus and Hermogenes. He then recalls Onesiphorus, who refreshed him, was unashamed of his chains and searched diligently until he found him in Rome.",
+    "",
+    "The contrast gives a concrete example of the loyalty Paul has just asked Timothy to show. Paul asks mercy for Onesiphorus’s household and for Onesiphorus himself on that day. He also recalls service in Ephesus that Timothy knows well.",
+    "",
+    "The passage does not tell us that Onesiphorus later deserted Paul. His help is remembered with gratitude. Nor does it explicitly state whether he was living when the letter was written."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/2_timothy/1.htm) reads Onesiphorus as an example of generous, courageous help and Paul’s prayer as grateful dependence on God’s mercy. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-timothy/) understands the household prayer as including Onesiphorus himself. The [USCCB note](https://bible.usccb.org/bible/2timothy/1) instead suggests he had died, partly because Paul addresses his household here and in 4:19. That is an inference from the wording, rather than a death report in the text.",
+    "",
+    "That question connects with a genuine difference over prayer for the dead. The Catholic Church teaches that such prayer can help the departed ([Catechism 958](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_three/article_9/paragraph_5_the_communion_of_saints.html)). The Reformed [Westminster Confession 21.4](https://www.opc.org/wcf.html) excludes prayer for the dead. These are the traditions’ stated positions; neither tells us with certainty whether Onesiphorus had died."
+  ],
+  "god_plan_lines": [
+    "In [Matthew 25:34–40](https://biblehub.com/bsb/matthew/25.htm), Jesus connects care for His brothers, including visiting them in prison, with service to Himself. Onesiphorus’s help is a concrete parallel to that kind of care, without identifying him as a character in Jesus’ description.",
+    "",
+    "[Hebrews 13:1–3](https://biblehub.com/bsb/hebrews/13.htm) joins brotherly love with remembering prisoners and those who are mistreated. Faithfulness to Christ includes staying close to His people when association with them is costly."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_timothy/1.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-timothy-one-review.md"
+  }
+}

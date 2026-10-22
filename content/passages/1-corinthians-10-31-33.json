@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "10:31-33",
+    "label": "1 Corinthians 10:31-33",
+    "slug": "1-corinthians-10-31-33"
+  },
+  "section_title": "What should guide even the ordinary choices of life?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "31 So whether you eat or drink or whatever you do, do it all to the glory of God. 32 Do not become a stumbling block, whether to Jews or Greeks or the church of God— 33 as I also try to please everyone in all I do. For I am not seeking my own good, but the good of many, that they may be saved."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul closes the discussion with a principle that reaches beyond disputed food: eating, drinking and everything else should be done for God’s glory. Even an ordinary meal offers an opportunity to honor Him through the way we treat people.",
+    "",
+    "He names Jews, Greeks and the church of God, extending the concern beyond those already inside the congregation. Avoiding a stumbling block means taking care not to put an obstacle in the way of their response to God. It cannot mean agreeing with every opinion or never saying anything someone dislikes; Paul has just given a firm instruction against idolatry.",
+    "",
+    "Paul presents his own practice as an example. His aim in pleasing others is their good and, ultimately, their salvation. This brings the discussion back to the gospel’s purpose. Personal advantage is not the measure of a good decision when another person’s spiritual good is at stake."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand these verses as calling every part of life into service to God and the good of others. [Wesley’s note on verse 31](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) applies the instruction to ordinary daily activities as well as explicitly religious ones; his notes on verses 32–33 recognize the concern to avoid needless offense as far as possible."
+  ],
+  "god_plan_lines": [
+    "In [John 17:15–23](https://biblehub.com/bsb/john/17.htm), Jesus prays for His people to remain in the world, be kept from evil, be made holy in the truth, and be united so that the world may believe the Father sent Him. Their shared life is part of their witness.",
+    "",
+    "Paul’s concern for everyday conduct fits that purpose. A community can honor God in the way its members use freedom, make room for one another and meet those who do not yet believe. The goal reaches beyond maintaining a good reputation: people are being invited to know the Father through His Son."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/10.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-ten-closing-review.md"
+  }
+}

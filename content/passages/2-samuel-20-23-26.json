@@ -1,0 +1,67 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "20:23-26",
+    "label": "2 Samuel 20:23-26",
+    "slug": "2-samuel-20-23-26"
+  },
+  "section_title": "What does the list of David’s officials show?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "23 Now Joab was over the whole army of Israel; Benaiah son of Jehoiada was over the Cherethites and Pelethites; 24 Adoram was in charge of the forced labor; Jehoshaphat son of Ahilud was the recorder; 25 Sheva was the scribe; Zadok and Abiathar were priests; 26 and Ira the Jairite was David’s priest."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The chapter closes with the people responsible for David’s army, bodyguard, forced labor, records, writing and priestly service. Joab is again named over the whole army. Amasa is gone.",
+    "",
+    "The list recalls the officials named in [2 Samuel 8:15–18](https://biblehub.com/bsb/2_samuel/8.htm). David’s rule continues after the rebellions, but the story of Joab’s return to command makes this a troubled restoration."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) sees Joab’s military success and strong support as reasons David could not safely remove him. [Gill](https://biblehub.com/commentaries/gill/2_samuel/20.htm) likewise connects his continued command with his influence and the defeat of the rebellion. These are explanations of the political situation, not declarations that Joab’s murder was right.",
+    "",
+    "There is also a difference in how Ira’s role is understood. The BSB calls him David’s priest; [Gill](https://biblehub.com/commentaries/gill/2_samuel/20.htm) takes the title here to mean a high official close to the king. This resembles the question about the title given to David’s sons in chapter 8.",
+    "",
+    "Whatever the precise duties of each office, the list shows that governing the kingdom involves more than the king alone. It also leaves the reader facing a difficult fact: an effective commander can remain in power after doing great wrong."
+  ],
+  "god_plan_lines": [
+    "The survival of David’s kingdom is important, but its survival is not the same as perfect rule. The promises connected with his throne reach beyond the weaknesses of this court.",
+    "",
+    "[Isaiah 9:6–7](https://biblehub.com/bsb/isaiah/9.htm) describes a ruler on David’s throne whose government is sustained by justice and righteousness, with peace that does not end. [Luke 1:32–33](https://biblehub.com/bsb/luke/1.htm) identifies Jesus as the Son who receives David’s throne and reigns forever.",
+    "",
+    "That promise gives the larger hope alongside this unsettled ending. David’s officials keep a kingdom functioning; Jesus is the King whose lasting rule fulfills God’s promise."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/20.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-twenty-review.md"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "11:32-38",
+    "label": "Hebrews 11:32-38",
+    "slug": "hebrews-11-32-38"
+  },
+  "section_title": "Does faith always end in visible victory?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "32 And what more shall I say? Time will not allow me to tell of Gideon, Barak, Samson, Jephthah, David, Samuel, and the prophets, 33 who through faith conquered kingdoms, administered justice, and gained what was promised; who shut the mouths of lions, 34 quenched the raging fire, and escaped the edge of the sword; who gained strength from weakness, became mighty in battle, and put foreign armies to flight.",
+        "35 Women received back their dead, raised to life again. Others were tortured and refused their release, so that they might gain a better resurrection. 36 Still others endured mocking and flogging, and even chains and imprisonment. 37 They were stoned, they were sawed in two, they were put to death by the sword. They went around in sheepskins and goatskins, destitute, oppressed, and mistreated. 38 The world was not worthy of them. They wandered in deserts and mountains, and hid in caves and holes in the ground."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The writer says there is not enough time to tell every story. He names judges, David, Samuel and the prophets, then gathers examples of victory, justice, deliverance and strength given in weakness.",
+    "",
+    "Some descriptions recall well-known accounts: God protecting Daniel from lions in [Daniel 6:19–23](https://biblehub.com/bsb/daniel/6.htm), and the three men from the furnace in [Daniel 3:21–28](https://biblehub.com/bsb/daniel/3.htm). Women receiving their children back recalls [1 Kings 17:17–24](https://biblehub.com/bsb/1_kings/17.htm) and [2 Kings 4:32–37](https://biblehub.com/bsb/2_kings/4.htm). Hebrews does not attach a name to every item.",
+    "",
+    "The direction then changes. Others were tortured, imprisoned, killed or driven into poverty and hiding. They are included among the faithful, alongside those who received remarkable deliverance. Their suffering does not put them outside God’s approval.",
+    "",
+    "The better resurrection sets their hope beyond a temporary escape from death. The world rejected people whom the writer calls worthy of honor. Faithfulness could be sustained without the visible outcome others had received."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/11.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) both emphasize faith enduring through suffering as well as faith receiving deliverance. Calvin notes the striking contrast between people rescued by miracles and those who seemed abandoned, while recognizing faith in both groups.",
+    "",
+    "They explain the better resurrection with different emphases. Calvin connects it with lasting life rather than accepting deliverance at the cost of denying God. Wesley emphasizes a greater reward in the resurrection. Neither reads the sufferings as proof that these people lacked faith."
+  ],
+  "god_plan_lines": [
+    "[John 11:25–26](https://biblehub.com/bsb/john/11.htm) locates resurrection and life in Jesus Himself. [1 Corinthians 15:20–26](https://biblehub.com/bsb/1_corinthians/15.htm) distinguishes His resurrection as the beginning of a victory that ends in death’s defeat.",
+    "",
+    "The earlier restorations of children to their mothers were real mercies, while the lasting hope reaches further than returning to another span of mortal life. Hebrews’ sufferers trust the God whose purpose is completed through Christ, even when their own story contains no rescue before death."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/11.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-eleven-closing-review.md"
+  }
+}

@@ -5,13 +5,53 @@
     "label": "James 4:2-3",
     "slug": "james-4-2-3"
   },
-  "versions": [],
-  "context_lines": [
-    "In **James 4**, James confronts quarrels, worldly desire, pride, and double-mindedness among believers. His comments about asking and not receiving sit inside that larger rebuke of self-seeking and divided loyalties before God."
+  "section_title": "Why might asking God still leave our desires unfulfilled?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "2 You crave what you do not have; you kill and covet, but are unable to obtain it. You quarrel and fight. You do not have, because you do not ask. 3 And when you do ask, you do not receive, because you ask with wrong motives, that you may squander it on your pleasures."
+      ]
+    }
   ],
-  "explanation_lines": [
-    "**kakos (KAH-kos)** \u2014 the Greek word translated \"wrong motives\" \u2014 meaning wrongly, badly, or harmfully; describing a self-serving root underneath the request itself.",
+  "context_lines": [
+    "These verses belong to James’ rebuke of quarrels and competing desires in the community. The people seek what they want through conflict, and even their asking can remain directed toward self-indulgence.",
     "",
-    "James identifies two separate failures in prayer here. The first is simply not asking at all. The second, more subtle failure, is asking with motives bent toward self-gratification rather than toward God's purposes. James does not promise that correctly motivated asking guarantees the desired outcome \u2014 he simply identifies wrongly motivated asking as a reason prayer fails to accomplish anything. Even sincere desire can be self-serving without the person recognizing it as such."
-  ]
+    "James identifies both a failure to ask and a failure in the purpose of asking. Prayer is not detached from the conduct and desires surrounding it. The wider passage calls the readers back to humble dependence on God."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/james/4.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-general-epistle-of-st-james/) both read the passage as exposing self-serving desires beneath prayer. It calls for turning toward God with those desires brought under His will, rather than using prayer to justify them."
+  ],
+  "god_plan_lines": [
+    "In [1 John 5:14–15](https://biblehub.com/bsb/1_john/5.htm), the confidence of asking rests in God and concerns requests according to His will. That fits James’ larger concern with allegiance: prayer belongs to a life dependent on God, rather than a method of gaining control over outcomes."
+  ],
+  "current_position_lines": [
+    "Our study [Prayer and Faith](https://thewayofscripture.com/studies/prayer-and-faith.html) identifies two failures here: not asking God, and asking with motives directed toward self-gratification rather than His purposes. It also keeps the limit of the passage clear: James does not promise that sincere motives guarantee the outcome someone wants. His warning calls for examining the desire beneath the request."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/james/4.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-james-four-review.md",
+    "position_source_detail": "Prayer and Faith — content/studies/prayer_and_faith.md221–229, James 4:2–3 — When Asking Goes Wrong."
+  }
 }

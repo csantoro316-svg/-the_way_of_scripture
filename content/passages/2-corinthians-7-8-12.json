@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "2 Corinthians",
+    "citation": "7:8-12",
+    "label": "2 Corinthians 7:8-12",
+    "slug": "2-corinthians-7-8-12"
+  },
+  "section_title": "What kind of sorrow leads to real change?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "8 Even if I caused you sorrow by my letter, I do not regret it. Although I did regret it—for I see that my letter caused you sorrow, but only for a short time— 9 yet now I rejoice, not because you were made sorrowful, but because your sorrow led you to repentance. For you felt the sorrow that God had intended, and so were not harmed in any way by us. 10 Godly sorrow brings repentance that leads to salvation without regret, but worldly sorrow brings death.",
+        "11 Consider what this godly sorrow has produced in you: what earnestness, what eagerness to clear yourselves, what indignation, what alarm, what longing, what zeal, what vindication! In every way you have proved yourselves to be innocent in this matter. 12 So even though I wrote to you, it was not on account of the one who did wrong or the one who was harmed, but rather that your earnestness on our behalf would be made clear to you in the sight of God."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul looks back on the painful letter and its effect. He had felt regret over the sorrow it caused, but he now rejoices in what followed. Causing pain was not the success he sought; the sorrow led the Corinthians to repentance.",
+    "",
+    "The word translated repentance is metanoia (meh-TAH-noy-ah), μετάνοια. It describes a change of mind and course of life in response to wrong, rather than regret alone; see [Thayer’s entry](https://biblehub.com/greek/3341.htm). The following list shows the change taking practical shape.",
+    "",
+    "Paul distinguishes godly sorrow, leading toward repentance and salvation, from worldly sorrow that brings death. The difference is not simply who cries more or how intensely someone feels. He points to the direction and fruit of the response.",
+    "",
+    "The Corinthians have shown earnestness, concern to put matters right, alarm, longing and zeal. Their response has cleared them in this matter. Paul is not claiming they have become incapable of any further sin.",
+    "",
+    "He says his purpose reached beyond the individual who did wrong and the one harmed: their earnestness on his behalf was to become clear before God. The account concerns a congregation’s response to a real breach, not an unlimited permission for leaders to wound people and call the hurt beneficial."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the distinction as sorrow that turns people toward God and a changed life, rather than sorrow that remains trapped in the wrong direction. [Wesley’s notes on verses 10–12](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-the-corinthians/) emphasize the response’s practical seriousness. The [USCCB note on verses 8–12](https://bible.usccb.org/bible/2corinthians/7) places the change within the restoration of the relationship.",
+    "",
+    "The offender’s identity is not settled here. Wesley connects the passage with the man in 1 Corinthians 5 and his father, but Paul does not name them. The positive lesson about repentance does not depend on treating that identification as certain."
+  ],
+  "god_plan_lines": [
+    "A related picture appears in [Luke 15:17–24](https://biblehub.com/bsb/luke/15.htm). The son recognizes his wrong, returns to his father and is welcomed with joy. This is a parallel in turning and restoration, not a claim that Paul is identifying the Corinthians with every detail of the parable.",
+    "",
+    "Both passages place the changed response within a movement toward restored relationship. God’s saving purpose reaches beyond leaving people ashamed: turning from wrong opens toward the life and fellowship He gives."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_corinthians/7.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-corinthians-seven-review.md"
+  }
+}

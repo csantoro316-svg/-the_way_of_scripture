@@ -5,29 +5,45 @@
     "label": "Isaiah 57:1-2",
     "slug": "isaiah-57-1-2"
   },
-  "section_title": "The Blessed Death of the Righteous",
+  "section_title": "What does the careless world miss when the righteous die?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 The righteous perish,",
-        "and no one takes it to heart;",
-        "devout men are swept away,",
-        "while no one considers",
-        "that the righteous are guided",
-        "from the presence of evil.",
-        "2 Those who walk uprightly enter into peace;",
-        "they find rest, lying down in death."
+        "1 The righteous perish, and no one takes it to heart; devout men are taken away, while no one considers that the righteous are taken away from the presence of evil. 2 Those who walk uprightly enter into peace; they find rest, lying down in death."
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 57**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "After the warning about negligent leaders, the death of righteous and devoted people receives little attention. No one takes the loss to heart or considers what their being taken away means.",
+    "",
+    "The passage supplies the perspective others fail to see: they are taken away from the presence of evil and enter peace. Those who walked uprightly find rest in death. The contrast is between the world’s indifference and the peace granted to the departed."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Blessed Death of the Righteous** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/isaiah/57.htm) and [Wesley](https://biblehub.com/commentaries/wes/isaiah/57.htm) both understand these verses as the death of righteous people and their release from approaching troubles. Henry distinguishes being spared death from being spared its sting; Wesley explains the beds as graves.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 57** remains the first control on meaning."
+    "Their reading gives comfort about those who have died while treating the surrounding indifference as a warning. The peace of the righteous does not make the loss of their presence unimportant."
   ],
-  "deeper_study": []
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/57.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-fifty-seven-nine-review.md"
+  }
 }

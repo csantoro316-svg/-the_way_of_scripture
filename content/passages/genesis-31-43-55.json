@@ -5,28 +5,48 @@
     "label": "Genesis 31:43-55",
     "slug": "genesis-31-43-55"
   },
-  "section_title": "Jacob\u2019s Covenant with Laban",
+  "section_title": "Jacob’s Covenant with Laban",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "43 But Laban answered Jacob, \u201cThese daughters are my daughters, these sons are my sons, and these flocks are my flocks! Everything you see is mine! Yet what can I do today about these daughters of mine or the children they have borne? 44 Come now, let us make a covenant, you and I, and let it serve as a witness between you and me.\u201d",
-        "45 So Jacob picked out a stone and set it up as a pillar, 46 and he said to his relatives, \u201cGather some stones.\u201d So they took stones and made a mound, and there by the mound they ate. 47 Laban called it Jegar-sahadutha, and Jacob called it Galeed.",
-        "48 Then Laban declared, \u201cThis mound is a witness between you and me this day.\u201d",
-        "Therefore the place was called Galeed. 49 It was also called Mizpah, because Laban said, \u201cMay the LORD keep watch between you and me when we are absent from each other. 50 If you mistreat my daughters or take other wives, although no one is with us, remember that God is a witness between you and me.\u201d",
-        "51 Laban also said to Jacob, \u201cHere is the mound, and here is the pillar I have set up between you and me. 52 This mound is a witness, and this pillar is a witness, that I will not go past this mound to harm you, and you will not go past this mound and pillar to harm me. 53 May the God of Abraham and the God of Nahor, the God of their father, judge between us.\u201d",
+        "43 But Laban answered Jacob, “These daughters are my daughters, these sons are my sons, and these flocks are my flocks! Everything you see is mine! Yet what can I do today about these daughters of mine or the children they have borne? 44 Come now, let us make a covenant, you and I, and let it serve as a witness between you and me.”",
+        "45 So Jacob picked out a stone and set it up as a pillar, 46 and he said to his relatives, “Gather some stones.” So they took stones and made a mound, and there by the mound they ate. 47 Laban called it Jegar-sahadutha, and Jacob called it Galeed.",
+        "48 Then Laban declared, “This mound is a witness between you and me this day.”",
+        "Therefore the place was called Galeed. 49 It was also called Mizpah, because Laban said, “May the LORD keep watch between you and me when we are absent from each other. 50 If you mistreat my daughters or take other wives, although no one is with us, remember that God is a witness between you and me.”",
+        "51 Laban also said to Jacob, “Here is the mound, and here is the pillar I have set up between you and me. 52 This mound is a witness, and this pillar is a witness, that I will not go past this mound to harm you, and you will not go past this mound and pillar to harm me. 53 May the God of Abraham and the God of Nahor, the God of their father, judge between us.”",
         "So Jacob swore by the Fear of his father Isaac.",
         "54 Then Jacob offered a sacrifice on the mountain and invited his relatives to eat a meal. And after they had eaten, they spent the night on the mountain. 55 Early the next morning, Laban got up and kissed his grandchildren and daughters and blessed them. Then he left to return home."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 31**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "Laban begins by claiming the daughters, children, and flocks as his own, but the confrontation ends with an agreement to part. Jacob sets up a pillar, the relatives gather a mound of stones, and the two men name it as a witness to their covenant. The meal marks the agreement publicly.",
+    "",
+    "Its terms address two concerns. Jacob must not mistreat Laban's daughters or take other wives, and neither man is to cross the boundary to harm the other. The restriction is against crossing for harm, rather than a statement that they may never travel across it for any reason.",
+    "",
+    "The appeal for the LORD to watch between them belongs to that setting of accountability. Even when human witnesses are absent, God sees how they keep the agreement and how the daughters are treated. Jacob swears by the God his father Isaac fears, offers a sacrifice, and shares a meal with his relatives. The next morning Laban blesses his daughters and grandchildren and returns home."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Jacob\u2019s Covenant with Laban** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 31** remains the first control on meaning."
+    "Christians commonly read this as a solemn settlement setting limits after a troubled relationship, with God invoked as witness and judge. [Wesley's note on Genesis 31:44](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) explains the appeal to divine watching in terms of keeping the covenant, rather than simply as a warm farewell saying."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "god_plan_lines": [
+    "The protection of Laban's daughters places marriage within the accountability of life before God. [Malachi 2:14](https://biblehub.com/bsb/malachi/2.htm) likewise describes the LORD as witness between a husband and his wife and condemns breaking faith with her. An agreement is not only about what one person can enforce when present; it also concerns what God sees when others cannot.",
+    "",
+    "That concern continues in [1 Peter 3:7](https://biblehub.com/bsb/1_peter/3.htm), where husbands are told to treat their wives with consideration and honor as fellow heirs of life's gracious gift. The passage even connects such treatment with prayer. The wider biblical theme is that honoring God includes how people treat those within their own household."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/31.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-jacob-household-review.md"
+  }
 }

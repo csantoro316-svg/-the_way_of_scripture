@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "1 Peter",
+    "citation": "3:18-20",
+    "label": "1 Peter 3:18-20",
+    "slug": "1-peter-3-18-20"
+  },
+  "section_title": "How does Christ bring the unrighteous to God?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "18 For Christ also suffered for sins once for all, the righteous for the unrighteous, to bring you to God. He was put to death in the body but made alive in the Spirit,",
+        "19 in whom He also went and preached to the spirits in prison 20 who disobeyed long ago when God waited patiently in the days of Noah while the ark was being built. In the ark a few people, only eight souls, were saved through water."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Christ’s suffering gives the reason for the preceding encouragement. He suffered for sins once for all, the righteous for the unrighteous, to bring them to God. His death serves a purpose that reaches beyond showing people how to endure hardship.",
+    "",
+    "The movement from death to life leads into a difficult statement about preaching to spirits in prison. Peter connects their disobedience with the days of Noah and God’s patience while the ark was being built. He names the few who were brought safely through the water: eight people.",
+    "",
+    "The paragraph does not state everything readers may want to know about the identity of the spirits, the timing or the content of the preaching. The account leads into baptism, Christ’s resurrection and His authority over heavenly powers."
+  ],
+  "common_interpretation_lines": [
+    "There are several established readings. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-epistle-general-of-st-peter/) understands Christ to have preached by His Spirit through Noah to people who were disobedient then and are now held for judgment. The editor’s note in [Calvin’s commentary](https://biblehub.com/commentaries/calvin/1_peter/3.htm) also favors that reading.",
+    "",
+    "Calvin himself takes a different view: Christ’s life-giving work was made known to faithful people who had died awaiting Him. He acknowledges difficulty in fitting the following reference to disobedience into that reading.",
+    "",
+    "The Catholic [Catechism, 632–635](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/article_5/paragraph_1_christ_descended_into_hell.html), connects the passage with Christ’s descent to the realm of the dead, proclaiming salvation and freeing the righteous who awaited Him. It expressly distinguishes this from freeing the damned.",
+    "",
+    "The [USCCB’s note on verse 19](https://bible.usccb.org/bible/1peter/3) also reports another reading: the spirits are hostile angelic powers overcome by Christ. This is an interpretive possibility in its study note, not a declaration that every Catholic must identify the spirits that way."
+  ],
+  "god_plan_lines": [
+    "The reference to Noah connects judgment with God’s preservation of a few people who trust Him. [2 Peter 2:4–9](https://biblehub.com/bsb/2_peter/2.htm) explicitly uses Noah’s rescue to show that God knows how to rescue the godly while holding the unrighteous for judgment.",
+    "",
+    "The outcome of Christ’s suffering is life and authority, not defeat. The chapter ends with all powers subject to Him; [Ephesians 1:20–23](https://biblehub.com/bsb/ephesians/1.htm) likewise presents the risen Christ above every authority and as head over everything for His church. That larger outcome supplies hope amid present opposition."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_peter/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-peter-three-closing-review.md"
+  }
+}

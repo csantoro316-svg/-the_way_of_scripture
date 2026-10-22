@@ -5,18 +5,51 @@
     "label": "1 Peter 3:15",
     "slug": "1-peter-3-15"
   },
+  "section_title": "How can we be ready to explain our hope?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"But sanctify Christ as Lord in your hearts, always being ready to make a defense to everyone who asks you to give an account for the hope that is in you, yet with gentleness and reverence.\""
+      "label": "BSB",
+      "paragraphs": [
+        "15 But in your hearts sanctify Christ as Lord. Always be prepared to give a defense to everyone who asks you the reason for the hope that is in you. But respond with gentleness and respect,"
+      ]
     }
   ],
   "context_lines": [
-    "In **1 Peter 3**, Peter is teaching believers how to endure suffering with a good conscience while following Christ's example. The chapter's discussion of baptism is tied to Christ's death, resurrection, and triumph, not to empty outward ritual divorced from the appeal of a cleansed conscience toward God."
-  ],
-  "explanation_lines": [
-    "The Greek **\u1f00\u03c0\u03bf\u03bb\u03bf\u03b3\u03af\u03b1 (*apologia* (ah-pol-oh-GEE-ah))** \u2014 a reasoned defense. Bearing witness means being prepared to explain, not just display.",
+    "This verse sits within encouragement to believers who may suffer for doing right. Honoring Christ as Lord in the heart comes before answering those who question their hope.",
     "",
-    "**\u1f00\u03b3\u03ac\u03c0\u03b7 (*agap\u0113* (ah-GAH-pay))** \u2014 love \u2014 is the identifying mark of a disciple. Not title, not performance, but self-giving love in action."
-  ]
+    "The [Greek word for defense](https://biblehub.com/greek/627.htm) means a spoken answer or defense. Peter expects them to be ready to explain, and he names gentleness and respect as part of that readiness. The next verse joins their explanation with a clear conscience and good conduct."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/1_peter/3.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-epistle-general-of-st-peter/) read this as readiness to acknowledge faith and hope without being ruled by fear or anger. Calvin distinguishes a basic explanation of faith from being able to settle every question. Wesley emphasizes the damage anger can do to both the witness and the person speaking."
+  ],
+  "god_plan_lines": [
+    "[Acts 4:7–13, 18–20](https://biblehub.com/bsb/acts/4.htm) shows Peter and John answering questions by pointing to Jesus’ resurrection and the salvation found in Him. The same risen Christ is the ground of the hope believers are called to explain.",
+    "",
+    "The witness is therefore more than describing a personal outlook. It points people to the One through whom God has acted to save."
+  ],
+  "current_position_lines": [
+    "Our study [I Am a Disciple](https://thewayofscripture.com/studies/i-am-a-disciple.html) understands this as a call to be ready to explain the hope we have in Christ. Our witness includes words as well as conduct, and the explanation should be given with gentleness and respect."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_peter/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-first-peter-three-closing-review.md",
+    "position_source_detail": "I Am a Disciple — i_am_a_disciple.md34–36; prepared verbal explanation with gentleness, not a requirement to solve every question or win every exchange."
+  }
 }

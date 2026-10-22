@@ -5,7 +5,7 @@
     "label": "Exodus 36:8-13",
     "slug": "exodus-36-8-13"
   },
-  "section_title": "The Ten Curtains for the Tabernacle",
+  "section_title": "How do separate curtains become one dwelling?",
   "versions": [
     {
       "label": "BSB",
@@ -16,12 +16,40 @@
     }
   ],
   "context_lines": [
-    "In **Exodus 36**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "The construction account begins with the inner curtains. Skilled workers make ten curtains of finely spun linen with blue, purple, and scarlet yarn and cherubim worked into them. Their measurements match the instructions Moses received in chapter 26.",
+    "",
+    "Five curtains are joined into each of two sets, then loops and gold clasps connect the sets. The repeated parts become one whole dwelling. The description makes the workers’ obedience visible: the earlier instructions are now being carried out, piece by piece."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Ten Curtains for the Tabernacle** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 36** remains the first control on meaning."
+    "In his explanation of the corresponding instructions in chapter 26, [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) sees the joined curtains as a picture of God’s people united in love and by the Spirit. [Calvin](https://biblehub.com/commentaries/calvin/exodus/36.htm) emphasizes the exact correspondence between God’s directions and what the workers make."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The joined curtains provide a useful parallel with the unity God creates through Christ. [Ephesians 2:13–22](https://biblehub.com/bsb/ephesians/2.htm) explains how Christ reconciles Jews and Gentiles to God through the cross and gives both access to the Father by one Spirit. Together they become a dwelling for God.",
+    "",
+    "The comparison goes beyond getting separate pieces to fit. God brings people who were divided into a shared life with Himself. The curtains illustrate unity, while the New Testament explains its foundation in Christ’s reconciling work."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/exodus/36.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-exodus-thirty-six-review.md"
+  }
 }

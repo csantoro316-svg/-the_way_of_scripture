@@ -5,38 +5,48 @@
     "label": "Isaiah 14:28-32",
     "slug": "isaiah-14-28-32"
   },
-  "section_title": "Philistia Will Be Destroyed",
+  "section_title": "Why should Philistia hold back its celebration?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "28 In the year that King Ahaz died, this burden was received:",
-        "29 Do not rejoice, all you Philistines,",
-        "that the rod that struck you is broken.",
-        "For a viper will spring from the root of the snake,",
-        "and a flying serpent from its egg.",
-        "30 Then the firstborn of the poor will find pasture,",
-        "and the needy will lie down in safety,",
-        "but I will kill your root by famine,",
-        "and your remnant will be slain.",
-        "31 Wail, O gate! Cry out, O city!",
-        "Melt away, all you Philistines!",
-        "For a cloud of smoke comes from the north,",
-        "and there are no stragglers in its ranks.",
-        "32 What answer will be given",
-        "to the envoys of that nation?",
-        "\u201cThe LORD has founded Zion,",
-        "where His afflicted people will find refuge.\u201d"
+        "28 In the year that King Ahaz died, this burden was received: 29 Do not rejoice, all you Philistines, that the rod that struck you is broken. For a viper will spring from the root of the snake, and a flying serpent from its egg. 30 Then the firstborn of the poor will find pasture, and the needy will lie down in safety, but I will kill your root by famine, and your remnant will be slain.",
+        "31 Wail, O gate! Cry out, O city! Melt away, all you Philistines! For a cloud of smoke comes from the north, and there are no stragglers in its ranks. 32 What answer will be given to the envoys of that nation? “The LORD has founded Zion, where His afflicted people will find refuge.”"
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 14**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "This message is dated to the year King Ahaz died. Philistia is warned not to celebrate the breaking of the rod that struck it. The succession of snake, viper and flying serpent pictures a threat becoming more dangerous.",
+    "",
+    "The contrast is between refuge for the needy and famine and destruction for Philistia. Smoke approaches from the north, with no stragglers in the ranks. What looked like a reason for celebration is followed by a call to wail.",
+    "",
+    "The closing answer to the envoys centers on the Lord’s founding of Zion. His afflicted people find refuge there. The message directs attention away from a change of ruler as a guarantee of safety and toward what the Lord has established."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Philistia Will Be Destroyed** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/isaiah/14.htm) connects the stronger threat with Hezekiah succeeding rulers under whom the Philistines had gained confidence. [Wesley](https://biblehub.com/commentaries/wes/isaiah/14.htm) discusses several possible identities for the broken rod and favors the weakened royal line of Judah, followed by Hezekiah’s renewed power.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 14** remains the first control on meaning."
+    "[Gill](https://biblehub.com/commentaries/gill/isaiah/14.htm) also discusses both Judean and Assyrian identifications, and connects the final northern threat with Babylon. These differences matter when identifying each image with a particular ruler; the commentators nevertheless agree on the warning against premature confidence and the closing promise of refuge for God’s people."
   ],
-  "deeper_study": []
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/14.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-thirteen-fourteen-review.md"
+  }
 }

@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "12:8-16",
+    "label": "Ezekiel 12:8-16",
+    "slug": "ezekiel-12-8-16"
+  },
+  "section_title": "How can the prince reach Babylon without seeing it?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "8 And in the morning the word of the LORD came to me, saying, 9 “Son of man, hasn’t the rebellious house of Israel asked you, ‘What are you doing?’ 10 Tell them that this is what the Lord GOD says: ‘This burden concerns the prince in Jerusalem and all the house of Israel who are there.’ 11 You are to say, ‘I am a sign to you.’ Just as it happened here, so will it be done to them; they will go into exile as captives.",
+        "12 And at dusk the prince among them will lift his bags to his shoulder and go out. They will dig through the wall to bring him out. He will cover his face so he cannot see the land. 13 But I will spread My net over him, and he will be caught in My snare. I will bring him to Babylon, the land of the Chaldeans; yet he will not see it, and there he will die. 14 And I will scatter to every wind all the attendants around him and all his troops, and I will draw a sword to chase after them. 15 And they will know that I am the LORD, when I disperse them among the nations and scatter them throughout the countries. 16 But I will spare a few of them from sword and famine and plague, so that in the nations to which they go, they can recount all their abominations. Then they will know that I am the LORD.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The next morning, the Lord supplies the explanation. The sign concerns the prince in Jerusalem and the people still there: they too will go into exile. The prince will try to leave at dusk, carrying belongings through a wall with his face covered.",
+    "",
+    "His escape will fail. The Lord pictures His capture as a net spread over him. He will be taken to Babylon and die there, yet he will not see it.",
+    "",
+    "[Second Kings 25:1–12](https://biblehub.com/bsb/2_kings/25.htm) explains how those details fit Zedekiah’s fate. After Jerusalem is breached, the king flees by night. He is captured near Jericho and brought to Riblah, where his sons are killed before him and his eyes are put out. He is then taken to Babylon in shackles.",
+    "",
+    "The warning also reaches his attendants and troops, who will be scattered. A few people will be spared from sword, famine and plague so that they can recount their wrongdoing among the nations. Survival is joined to acknowledgment of what brought them there, and to recognition of the Lord."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezekiel/12.htm) and [Wesley](https://biblehub.com/commentaries/wes/ezekiel/12.htm) identify the prince as Zedekiah and connect the prediction with his capture and blinding. Being brought to Babylon without seeing it is therefore no contradiction: he arrives after losing his sight.",
+    "",
+    "Both also emphasize the survivors’ testimony. They are to acknowledge the sins behind the judgment, rather than treating their survival as proof that nothing was wrong. Wesley sees their scattering becoming an opportunity to honor God among other peoples."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/12.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-twelve-review.md"
+  }
+}

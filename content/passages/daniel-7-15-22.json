@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "7:15-22",
+    "label": "Daniel 7:15-22",
+    "slug": "daniel-7-15-22"
+  },
+  "section_title": "How can the oppressed saints receive the kingdom?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 I, Daniel, was grieved in my spirit, and the visions in my mind alarmed me. 16 I approached one of those who were standing there, and I asked him the true meaning of all this. So he told me the interpretation of these things: 17 ‘These four great beasts are four kings who will arise from the earth. 18 But the saints of the Most High will receive the kingdom and possess it forever—yes, forever and ever.’",
+        "19 Then I wanted to know the true meaning of the fourth beast, which was different from all the others—extremely terrifying—devouring and crushing with iron teeth and bronze claws, then trampling underfoot whatever was left. 20 I also wanted to know about the ten horns on its head and the other horn that came up, before which three of them fell—the horn whose appearance was more imposing than the others, with eyes and with a mouth that spoke words of arrogance. 21 As I watched, this horn was waging war against the saints and prevailing against them, 22 until the Ancient of Days arrived and pronounced judgment in favor of the saints of the Most High, and the time came for them to possess the kingdom."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Daniel is alarmed and asks someone standing nearby to explain the vision. The first answer gives its broad outcome: four kings arise, but the saints of the Most High receive the kingdom forever.",
+    "",
+    "Daniel then asks particularly about the fourth beast and its horns. He adds a troubling detail: the boastful horn wages war against the saints and prevails against them.",
+    "",
+    "That success lasts until the Ancient of Days intervenes and judgment is pronounced in the saints’ favor. Their suffering is real, yet the oppressor’s victories do not determine the final outcome. The kingdom promised to them rests on God’s judgment rather than their present ability to overcome their persecutor."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/daniel/7.htm) understands the saints as those who reign with Christ. [Gaebelein](https://biblehub.com/commentaries/gaebelein/daniel/7.htm) particularly identifies them here as faithful Jews who pass through the final tribulation. [Cambridge](https://biblehub.com/commentaries/cambridge/daniel/7.htm) reads them as God’s holy people Israel.",
+    "",
+    "These readers differ over the people and setting most directly in view, while agreeing that the kingdom comes to God’s people through His intervention."
+  ],
+  "god_plan_lines": [
+    "[Revelation 20:4–6](https://biblehub.com/bsb/revelation/20.htm) brings together thrones, judgment, people persecuted for their witness to Jesus and their reign with Christ. Some have been killed for refusing the beast’s worship, yet they come to life and share in Christ’s reign.",
+    "",
+    "This develops the hope behind Daniel’s reversal. The persecutor’s power to kill cannot cancel God’s purpose for His people. Revelation places their vindication in the life and authority they receive with Christ, carrying the promise beyond temporary survival to victory over death."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/7.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-seven-review.md"
+  }
+}

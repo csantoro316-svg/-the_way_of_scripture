@@ -5,18 +5,61 @@
     "label": "Acts 2:38",
     "slug": "acts-2-38"
   },
+  "section_title": "What does Peter mean by repent and be baptized?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "(LSB) \"Repent and be baptized every one of you in the name of Jesus Christ for the forgiveness of your sins, and you will receive the gift of the Holy Spirit.\""
+      "label": "BSB",
+      "paragraphs": [
+        "38 Peter replied, “Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins, and you will receive the gift of the Holy Spirit."
+      ]
     }
   ],
   "context_lines": [
-    "In **Acts 2**, Pentecost marks the outpouring of the Spirit, Peter's proclamation of the risen Christ, and the first great response to the gospel. The chapter holds repentance, baptism, forgiveness, Spirit, and entry into the new covenant community together within the birth of the church."
-  ],
-  "explanation_lines": [
-    "The Greek preposition **\u03b5\u1f30\u03c2 (*eis* (ays))** \u2014 translated \"for\" \u2014 is genuinely flexible, and on its own this verse could be read either way: be baptized in order to obtain forgiveness, or be baptized in connection with forgiveness already granted through repentance and faith. Grammar alone does not settle this verse. What settles it is the rest of Scripture. Acts 10 records the Holy Spirit falling on Cornelius and his household before baptism \u2014 Peter responds by baptizing those who already have the Spirit. If receiving the Spirit, and with it the forgiveness and new birth it represents, required baptism first, this sequence could not happen. So whatever Peter means here, it is not a fixed, mechanical formula where nothing spiritual occurs until the water.",
+    "The message about the crucified and risen Jesus cuts the listeners to the heart. They ask Peter and the other apostles what they should do. Peter calls them to repent and be baptized in Jesus Christ’s name, speaks of forgiveness, and promises the gift of the Holy Spirit.",
     "",
-    "The better reading is that Peter is describing the whole conversion event as a single unit \u2014 repentance, forgiveness, baptism, and the Spirit, bound together as the normal pattern of becoming a Christian \u2014 not a strict checklist where step two unlocks step three. He is describing what happens together, using the language of *aphesis* (the releasing of the debt, accomplished through faith) alongside baptism (the washing, the *apolou\u014d*, that follows it) because in the early church the two were never separated by more than a few hours."
-  ]
+    "The promise reaches the listeners, their children and those far off, all whom the Lord calls. Peter continues to warn and urge them. Luke’s summary is brief; it is not a transcript of every word spoken that day.",
+    "",
+    "Those who receive the message are baptized, and about three thousand people are added. The response becomes a shared life, described in the next passage. The crowd is being called to turn toward the Jesus Peter has proclaimed, not simply to have an emotional reaction to the signs."
+  ],
+  "common_interpretation_lines": [
+    "Christians agree that repentance, baptism, forgiveness and the Spirit belong closely together in this response. They differ over how baptism brings God’s grace and who should receive it.",
+    "",
+    "The Catholic Church’s [Catechism, paragraphs 1226–1228](https://www.vatican.va/archive/ENG0015/__P3I.HTM), directly cites Peter’s words and describes baptism as a life-giving sacrament joined to faith, purification and communion with Christ’s death and resurrection. [Paragraphs 1257–1259](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_1/vi_the_necessity_of_baptism.index.html) also recognize that God is not bound by the sacraments and discuss baptism of blood and the desire for baptism. This teaching should not be reduced to a claim that water works independently of God or faith.",
+    "",
+    "The Reformed [Westminster Confession, chapter 28](https://www.opc.org/wcf.html), calls baptism a sign and seal of God’s covenant, including forgiveness of sins. It teaches that the Spirit truly confers the promised grace according to God’s purpose, while denying that every baptized person is necessarily given new life or that salvation is inseparably tied to the time of the water rite. It includes the infants of believers among those to be baptized.",
+    "",
+    "The [1689 Baptist Confession, chapter 29](https://www.the1689confession.com/1689/chapter-29), also describes baptism as a sign of fellowship with Christ, forgiveness of sins and new life. It limits those baptized to people who profess repentance, faith and obedience, and requires immersion. That differs from Westminster’s inclusion of believers’ infants and its acceptance of pouring or sprinkling.",
+    "",
+    "[Wesley on verse 38](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) emphasizes repentance, belief in Jesus and the Spirit’s continuing fruits. He does not identify the promised gift here simply with everyone receiving the power to speak in tongues. The different readings need to keep the whole call to respond in view, rather than treating one word as if it supplied the entire teaching by itself."
+  ],
+  "god_plan_lines": [
+    "Peter’s invitation carries forward the promise at the end of the Joel quotation: the Lord calls people to salvation, and they are to respond to Him. The address includes children and those far away without giving us a complete timetable for every community that will later hear.",
+    "",
+    "[Acts 10:44–48](https://biblehub.com/bsb/acts/10.htm) will show Gentiles receiving the Spirit and then being baptized. That later event belongs to the same expanding story of God’s gift. Reading the accounts together helps us hear the continuing mission without assuming every conversion scene must follow an identical sequence."
+  ],
+  "current_position_lines": [
+    "Baptism reads Acts 2:38 as describing the whole response to the gospel: repentance, forgiveness, baptism and the Spirit belong together. It rejects a fixed formula in which nothing spiritual can happen before the water rite, pointing to the Gentiles receiving the Spirit before baptism in Acts 10. Baptism is the expected response of faith; this conclusion does not make it something to neglect."
+  ],
+  "deeper_study": [
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-acts-two-closing-review.md",
+    "position_source_detail": "Baptism — Acts2:38 section, direct developed explanation using Acts10; no borrowed inaccurate quotation or unsupported allconversionswithinhoursclaim."
+  }
 }

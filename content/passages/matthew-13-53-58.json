@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "13:53-58",
+    "label": "Matthew 13:53-58",
+    "slug": "matthew-13-53-58"
+  },
+  "section_title": "When Familiarity Becomes an Obstacle to Faith",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "53 When Jesus had finished these parables, He withdrew from that place. 54 Coming to His hometown, He taught the people in their synagogue, and they were astonished. “Where did this man get such wisdom and miraculous powers?” they asked. 55 “Isn’t this the carpenter’s son? Isn’t His mother’s name Mary, and aren’t His brothers James, Joseph, Simon, and Judas? 56 Aren’t all His sisters with us as well? Where then did this man get all these things?”",
+        "57 And they took offense at Him. But Jesus said to them, “Only in his hometown and in his own household is a prophet without honor.” 58 And He did not do many miracles there, because of their unbelief."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The parable teaching ends and Jesus goes to His hometown. The people are astonished at His wisdom and power, but their questions turn toward the family they know. They identify Him as the carpenter's son and name His mother, brothers, and sisters.",
+    "",
+    "The word translated carpenter is τέκτων, *tektōn* (TEK-tone). [Thayer's entry](https://biblehub.com/greek/5045.htm) gives woodworker or carpenter. The question places Jesus within a familiar working household. The people struggle to reconcile what they know of His background with the wisdom and power before them.",
+    "",
+    "They take offense, and Jesus speaks of a prophet lacking honor in his own hometown and household. Knowing His family has not become a willingness to receive Him. The ending connects their unbelief with the small number of miracles He does there.",
+    "",
+    "The related account in [Mark 6:1–6](https://biblehub.com/bsb/mark/6.htm) says that He heals a few sick people and is amazed at the unbelief. Matthew's statement is not that no healing happens. It describes a rejection within the very place where people might have thought they knew Him best."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a warning that familiarity can become a reason for refusing to honor Jesus. [Wesley on Matthew 13:57–58](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) emphasizes the low standing His neighbors assign Him and their unbelief. The [US Catholic bishops' note on 13:54–58](https://bible.usccb.org/bible/matthew/13) likewise connects their knowledge of His background with their rejection.",
+    "",
+    "The family terms receive different readings. The Catholic [Catechism, 500](https://www.vatican.va/archive/ENG0015/__P1K.HTM), understands the brothers as close relatives rather than Mary's other children. The [Orthodox Church in America's life of Joseph](https://www.oca.org/saints/lives/2019/12/29) presents them as Joseph's children from an earlier marriage. An [Orthodox Presbyterian Church Q&A](https://opc.org/qa.html?question_id=19) reads them as Mary's later children by Joseph, while [Wesley on 13:55](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) reads them as relatives through Mary's family."
+  ],
+  "god_plan_lines": [
+    "[John 1:10–13](https://biblehub.com/bsb/john/1.htm) places rejection alongside God's gift of belonging: the One who came is not received by His own, yet those who receive Him become God's children. Familiar background and inherited connection do not replace receiving the Son.",
+    "",
+    "The wider story also leaves room for a changed response. [John 7:3–5](https://biblehub.com/bsb/john/7.htm) describes Jesus' brothers as not believing in Him, while [Acts 1:12–14](https://biblehub.com/bsb/acts/1.htm) later places His brothers with Mary and the praying disciples. Earlier unbelief is not treated as the whole final story of God's work among those close to Jesus."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/13.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-thirteen-review.md"
+  }
+}

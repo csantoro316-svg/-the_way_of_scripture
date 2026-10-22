@@ -1,0 +1,67 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "9:1-9",
+    "label": "1 Kings 9:1-9",
+    "slug": "1-kings-9-1-9"
+  },
+  "section_title": "What does God promise, and what does He warn Solomon about?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Now when Solomon had finished building the house of the LORD and the royal palace, and had achieved all that he had desired to do, 2 the LORD appeared to him a second time, as He had appeared to him at Gibeon. 3 And the LORD said to him: “I have heard your prayer and petition before Me. I have consecrated this temple, which you have built, by putting My Name there forever; My eyes and My heart will be there for all time. 4 And as for you, if you walk before Me as your father David walked, with a heart of integrity and uprightness, doing all I have commanded you, and if you keep My statutes and ordinances, 5 then I will establish your royal throne over Israel forever, as I promised your father David when I said, ‘You will never fail to have a man on the throne of Israel.’",
+        "6 But if indeed you or your sons turn away from following Me and do not keep the commandments and statutes I have set before you, and if you go off to serve and worship other gods, 7 then I will cut off Israel from the land that I have given them, and I will banish from My presence this temple I have sanctified for My Name. Then Israel will become an object of scorn and ridicule among all peoples. 8 And when this temple has become a heap of rubble, all who pass by it will be appalled and will hiss and say, ‘Why has the LORD done such a thing to this land and to this temple?’ 9 And others will answer, ‘Because they have forsaken the LORD their God who brought their fathers out of the land of Egypt, and have embraced other gods, worshiping and serving them—because of this, the LORD has brought all this disaster upon them.’”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "After Solomon’s building work is complete, the LORD appears to him again, as He did at Gibeon. He tells Solomon that He has heard his prayer and consecrated the temple for His Name.",
+    "",
+    "The assurance comes with a call to faithfulness. Solomon is to walk before God with integrity, keeping His commands. Turning to other gods would bring severe consequences for both the royal house and the people.",
+    "",
+    "The warning includes removal from the land and the rejection of the temple itself. Passersby would ask why such destruction had happened, and the answer would point to the people abandoning the LORD who brought their ancestors out of Egypt. The temple cannot shield them from the consequences of rejecting Him."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/9.htm) emphasizes that even building and dedicating the temple gives Solomon no permission to sin. Past service does not remove the need for continuing faithfulness.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) highlights the condition attached to the royal promise here. [Gill](https://biblehub.com/commentaries/gill/1_kings/9.htm) reads God’s continuing regard for the temple together with the warning against corrupting its worship. Both resist treating the assurance of God’s presence as a guarantee that this building will stand regardless of how the people live."
+  ],
+  "god_plan_lines": [
+    "The warning closely follows the pattern in [Deuteronomy 29:22–28](https://biblehub.com/bsb/deuteronomy/29.htm): other nations see the ruined land, ask why, and learn that Israel abandoned the covenant. The possible ruin of the temple belongs within that larger covenant warning.",
+    "",
+    "A later parallel appears in Jesus’ lament over Jerusalem in [Matthew 23:37–39](https://biblehub.com/bsb/matthew/23.htm). He speaks of the city’s refusal to receive those sent to it and of its house being left desolate. This is a supported comparison across the story, rather than a claim that Jesus directly quotes this passage. A place associated with God does not make refusal to listen to Him harmless."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/9.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-nine-review.md"
+  }
+}

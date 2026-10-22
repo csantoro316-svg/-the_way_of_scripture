@@ -5,37 +5,48 @@
     "label": "Isaiah 9:8-12",
     "slug": "isaiah-9-8-12"
   },
-  "section_title": "Judgment against Israel\u2019s Pride",
+  "section_title": "What happens when a warning is met with pride?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "8 The Lord has sent a message against Jacob,",
-        "and it has fallen upon Israel.",
-        "9 All the people will know it\u2014",
-        "Ephraim and the dwellers of Samaria.",
-        "With pride and arrogance of heart",
-        "they will say:",
-        "10 \u201cThe bricks have fallen,",
-        "but we will rebuild with finished stone;",
-        "the sycamores have been felled,",
-        "but we will replace them with cedars.\u201d",
-        "11 The LORD has raised up the foes of Rezin against him",
-        "and joined his enemies together.",
-        "12 Aram from the east and Philistia from the west",
-        "have devoured Israel with open mouths.",
-        "Despite all this, His anger is not turned away;",
-        "His hand is still upraised."
+        "8 The Lord has sent a message against Jacob, and it has fallen upon Israel. 9 All the people will know it— Ephraim and the dwellers of Samaria. With pride and arrogance of heart they will say: 10 “The bricks have fallen, but we will rebuild with finished stone; the sycamores have been felled, but we will replace them with cedars.”",
+        "11 The LORD has raised up the foes of Rezin against him and joined his enemies together. 12 Aram from the east and Philistia from the west have devoured Israel with open mouths. Despite all this, His anger is not turned away; His hand is still upraised."
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 9**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "The focus turns to a message against Jacob and Israel, with Ephraim and Samaria named directly. These are the people of the northern kingdom. Their response to loss is proud confidence that they can replace what has fallen with something better.",
+    "",
+    "The fallen bricks and felled sycamores become a boast about finished stone and cedars. The problem is the attitude expressed in the rebuilding: the people answer a warning with confidence in their own ability to recover, while refusing to face what has gone wrong before God.",
+    "",
+    "The Lord raises up enemies, and Israel is attacked by Aram from the east and Philistia from the west. The closing line says His anger has not turned away and His hand remains upraised. This refrain returns in verses 17 and 21, holding the warnings together."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Judgment against Israel\u2019s Pride** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/isaiah/9.htm) and [Wesley](https://biblehub.com/commentaries/wes/isaiah/9.htm) understand the rebuilding speech as a refusal to be humbled. Wesley describes the speakers as expecting to repair their losses to their own advantage; Henry stresses the danger of remaining proud under circumstances meant to turn people back to God.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 9** remains the first control on meaning."
+    "The [NABRE notes](https://bible.usccb.org/bible/isaiah/9) likewise read these verses as part of a series of judgments against the northern kingdom, with continued rebellion explaining the repeated refrain. The central issue across these readings is the people’s response to God, rather than the choice of building materials."
   ],
-  "deeper_study": []
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/9.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-nine-review.md"
+  }
 }

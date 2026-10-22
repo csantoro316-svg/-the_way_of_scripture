@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "3:7-11",
+    "label": "Hebrews 3:7-11",
+    "slug": "hebrews-3-7-11"
+  },
+  "section_title": "What does the wilderness warning ask us to hear today?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 Therefore, as the Holy Spirit says: “Today, if you hear His voice, 8 do not harden your hearts, as you did in the rebellion, in the day of testing in the wilderness, 9 where your fathers tested and tried Me, and for forty years saw My works. 10 Therefore I was angry with that generation, and I said, ‘Their hearts are always going astray, and they have not known My ways.’ 11 So I swore on oath in My anger, ‘They shall never enter My rest.’”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The writer introduces [Psalm 95:7–11](https://biblehub.com/bsb/psalms/95.htm) as words spoken by the Holy Spirit. The old warning is still something the readers must hear. Today makes the response urgent: they are not simply observing someone else’s history.",
+    "",
+    "The psalm recalls a people who saw God’s works yet resisted Him in the wilderness. Their hearts wandered, they did not know His ways, and they were barred from His rest. The repeated testing was not a shortage of evidence about what God could do.",
+    "",
+    "In the wilderness story, the promised land was the rest they failed to enter. Hebrews will develop the meaning of God’s rest further in chapter 4. Here the immediate call is to hear God’s voice without hardening the heart."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/3.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) both understand the quotation as a warning against repeating Israel’s resistance despite God’s care. They connect the wilderness testing with the complaints over water remembered in the psalm. The [USCCB notes](https://bible.usccb.org/bible/hebrews/3) likewise understand the older journey as a warning to Christians to continue in faith.",
+    "",
+    "The history supplies both a real judgment and a warning for later hearers. It is not a verdict that every person in the wilderness had an identical spiritual history. Numbers itself distinguishes Joshua and Caleb from those who refused to trust God."
+  ],
+  "god_plan_lines": [
+    "The promise of rest reaches beyond one generation’s arrival in Canaan. [Hebrews 4:6–11](https://biblehub.com/bsb/hebrews/4.htm) observes that Psalm 95 still offers a today long after Joshua’s day, and connects the remaining rest with God’s own rest. Hebrews itself develops this connection; it is not a claim that every detail of the journey conceals a separate prediction.",
+    "",
+    "[Luke 9:30–31](https://biblehub.com/bsb/luke/9.htm) places Moses and Elijah beside Jesus as they speak of what He will accomplish at Jerusalem. Read alongside Hebrews, this shows how the earlier story belongs to the saving purpose brought forward through Jesus. The call is to respond to that purpose in faith."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-three-review.md"
+  }
+}

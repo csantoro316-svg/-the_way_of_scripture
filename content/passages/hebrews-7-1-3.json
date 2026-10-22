@@ -5,22 +5,53 @@
     "label": "Hebrews 7:1-3",
     "slug": "hebrews-7-1-3"
   },
-  "section_title": "",
-  "versions": [],
+  "section_title": "How does Melchizedek’s story point toward Christ?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 This Melchizedek was king of Salem and priest of God Most High. He met Abraham returning from the slaughter of the kings and blessed him, 2 and Abraham apportioned to him a tenth of everything. First, his name means “king of righteousness.” Then also, “king of Salem” means “king of peace.” 3 Without father or mother or genealogy, without beginning of days or end of life, like the Son of God, he remains a priest for all time."
+      ]
+    }
+  ],
   "context_lines": [
-    "Hebrews 7:1-3 should be read within the flow of its chapter and the larger argument of Hebrews."
+    "The writer returns to Melchizedek, introduced in [Genesis 14:18–20](https://biblehub.com/bsb/genesis/14.htm). He is both king of Salem and priest of God Most High. He blesses Abraham, who gives him a tenth of the plunder.",
+    "",
+    "Hebrews draws significance from his name and kingdom: righteousness and peace. It also draws attention to the way he appears in Scripture without a recorded family line, birth or death. Those features form a comparison with the Son’s enduring priesthood.",
+    "",
+    "The word [translated like](https://biblehub.com/greek/871.htm) describes being made similar. The passage directs us to the Son through the comparison. It does not supply an unrecorded biography or a list of earlier priests from whom Melchizedek inherited his office."
   ],
   "common_interpretation_lines": [
-    "The book of Hebrews spends its middle chapters establishing that Jesus is a priest \"according to the order of Melchizedek\" (Hebrews 5:6, quoting Psalm 110:4) rather than according to the order of Levi. Melchizedek appears once in Genesis, blessing Abraham \u2014 a king and priest with no recorded genealogy, no predecessor, no successor (Genesis 14:18-20; see also Hebrews 7:1-3). The writer of Hebrews uses that silence deliberately: a priesthood that isn't passed down, isn't inherited, isn't mediated through a class of men set apart by birth.",
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/7.htm), [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) and the [USCCB notes](https://bible.usccb.org/bible/hebrews/7) understand the missing family and life records as part of the scriptural portrayal which points to Christ. They do not take their absence as proof that the historical king had no human parents. Wesley expressly distinguishes the unrecorded death of Melchizedek from Christ’s actual enduring life."
+  ],
+  "god_plan_lines": [
+    "[Psalm 110:1–4](https://biblehub.com/bsb/psalms/110.htm) brings royal authority and enduring priesthood together. Hebrews itself applies that priestly promise to Jesus. Melchizedek’s earlier appearance therefore belongs to a connection Scripture makes, rather than an identity that must be supplied from speculation.",
     "",
-    "Then comes the argument that matters most for this study:",
-    "",
-    "A change in priesthood. A change in law. The old covenant required a mediating class \u2014 men set apart, functioning between God and the people, offering sacrifices the people themselves could not offer. Hebrews' whole argument is that this pointed forward to something, and that something has already arrived:"
+    "[Colossians 1:19–20](https://biblehub.com/bsb/colossians/1.htm) describes peace made through Christ’s cross. The king-priest picture finds its fullest significance in the One whose righteous rule and saving work bring people into peace with God."
+  ],
+  "current_position_lines": [
+    "Our study [Who Shepherds the Church?](https://thewayofscripture.com/studies/who-shepherds-the-church.html) reads the absence of Melchizedek’s recorded genealogy and succession as part of Scripture’s picture of Christ’s lasting priesthood. The study emphasizes a priesthood that does not depend on a human family line passing a mediating office from generation to generation."
   ],
   "deeper_study": [
     {
       "title": "Who Shepherds the Church?",
       "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/7.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-seven-review.md",
+    "position_source_detail": "Who Shepherds the Church? — What Changed at the Cross, lines 44–46; explicit Hebrews 7:1–3 application."
+  }
 }

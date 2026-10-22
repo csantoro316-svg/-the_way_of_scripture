@@ -10,18 +10,31 @@
     {
       "label": "BSB",
       "paragraphs": [
-        "6 Now Esau learned that Isaac had blessed Jacob and sent him to Paddan-aram to take a wife there, commanding him, \u201cDo not marry a Canaanite woman,\u201d 7 and that Jacob had obeyed his father and mother and gone to Paddan-aram.",
-        "8 And seeing that his father Isaac disapproved of the Canaanite women, 9 Esau went to Ishmael and married Mahalath, the sister of Nebaioth and daughter of Abraham\u2019s son Ishmael, in addition to the wives he already had."
+        "6 Now Esau learned that Isaac had blessed Jacob and sent him to Paddan-aram to take a wife there, commanding him, “Do not marry a Canaanite woman,” 7 and that Jacob had obeyed his father and mother and gone to Paddan-aram.",
+        "8 And seeing that his father Isaac disapproved of the Canaanite women, 9 Esau went to Ishmael and married Mahalath, the sister of Nebaioth and daughter of Abraham’s son Ishmael, in addition to the wives he already had."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 28**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "Esau watches Isaac bless Jacob and direct him to seek a wife away from the Canaanites. He also sees Jacob obey his parents and leave for Paddan-aram. The instructions make Isaac's disapproval of Esau's own marriages unmistakable to him.",
+    "",
+    "Esau responds by marrying Mahalath, Ishmael's daughter and Nebaioth's sister. She belongs to Abraham's wider family, but he takes her in addition to the wives he already has. Genesis records the decision without telling us how his parents respond or whether this change resolves any of the existing grief.",
+    "",
+    "The brief account keeps Esau's response in view before following Jacob on his journey. It shows an effort to respond to a recognized family concern, but does not describe a change in the LORD's earlier announcement about the brothers."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Esau Marries Mahalath** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 28** remains the first control on meaning."
+    "A common Christian reading sees Esau responding to his father's displeasure by seeking a wife within Abraham's wider family. [Wesley's note on Genesis 28:6](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) treats Jacob's example as an influence on that decision, without making the new marriage a transfer of Jacob's blessing."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/28.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-isaac-and-bethel-review.md"
+  }
 }

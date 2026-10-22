@@ -10,7 +10,7 @@
     {
       "label": "BSB",
       "paragraphs": [
-        "1 This is the account of Noah\u2019s sons Shem, Ham, and Japheth, who also had sons after the flood.",
+        "1 This is the account of Noah’s sons Shem, Ham, and Japheth, who also had sons after the flood.",
         "2 The sons of Japheth:",
         "Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.",
         "3 The sons of Gomer:",
@@ -23,7 +23,7 @@
         "Seba, Havilah, Sabtah, Raamah, and Sabteca.",
         "And the sons of Raamah:",
         "Sheba and Dedan.",
-        "8 Cush was the father of Nimrod, who began to be a mighty one on the earth. 9 He was a mighty hunter before the LORD; so it is said, \u201cLike Nimrod, a mighty hunter before the LORD.\u201d 10 His kingdom began in Babylon, Erech, Accad, and Calneh, in the land of Shinar. 11 From that land he went forth into Assyria, where he built Nineveh, Rehoboth-Ir, Calah, 12 and Resen, which is between Nineveh and the great city of Calah.",
+        "8 Cush was the father of Nimrod, who began to be a mighty one on the earth. 9 He was a mighty hunter before the LORD; so it is said, “Like Nimrod, a mighty hunter before the LORD.” 10 His kingdom began in Babylon, Erech, Accad, and Calneh, in the land of Shinar. 11 From that land he went forth into Assyria, where he built Nineveh, Rehoboth-Ir, Calah, 12 and Resen, which is between Nineveh and the great city of Calah.",
         "13 Mizraim was the father of the Ludites, the Anamites, the Lehabites, the Naphtuhites, 14 the Pathrusites, the Casluhites (from whom the Philistines came), and the Caphtorites.",
         "15 And Canaan was the father of Sidon his firstborn, and of the Hittites, 16 the Jebusites, the Amorites, the Girgashites, 17 the Hivites, the Arkites, the Sinites, 18 the Arvadites, the Zemarites, and the Hamathites.",
         "Later the Canaanite clans were scattered, 19 and the borders of Canaan extended from Sidon toward Gerar as far as Gaza, and then toward Sodom, Gomorrah, Admah, and Zeboiim, as far as Lasha.",
@@ -37,17 +37,37 @@
         "25 Two sons were born to Eber: One was named Peleg, because in his days the earth was divided, and his brother was named Joktan.",
         "26 And Joktan was the father of Almodad, Sheleph, Hazarmaveth, Jerah, 27 Hadoram, Uzal, Diklah, 28 Obal, Abimael, Sheba, 29 Ophir, Havilah, and Jobab. All these were sons of Joktan. 30 Their territory extended from Mesha to Sephar, in the eastern hill country.",
         "31 These are the sons of Shem, according to their clans, languages, lands, and nations.",
-        "32 All these are the clans of Noah\u2019s sons, according to their generations and nations. From these the nations of the earth spread out after the flood."
+        "32 All these are the clans of Noah’s sons, according to their generations and nations. From these the nations of the earth spread out after the flood."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 10**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "After Noah's death, Genesis follows the families of his three sons as they become peoples with their own lands and languages. This is often called the Table of Nations. Rather than following one line from father to son, as chapter 5 did, it spreads outward across related families. Chapter 11 will return to the question of how their languages became divided.",
+    "",
+    "Several names prepare us for what follows. Nimrod's kingdom begins in Babylon, in Shinar, the setting of the next chapter. Canaan's descendants inhabit the land to which Abram will later be called. Shem's family includes Eber and Peleg; chapter 11 will follow that branch to Abram. The list gives the coming story of one family a place within the story of the nations.",
+    "",
+    "The repeated references to families, lands, and languages hold two things together: these peoples are distinct, and they belong to the same human family. The chapter names ancient peoples and places; it does not give a complete ancestry chart for every modern country or a ranking of people's worth."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Table of Nations** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 10** remains the first control on meaning."
+    "Christians commonly read this chapter as an account of the nations' shared descent after the flood and as preparation for the story of Abraham and Israel. [Wesley's introduction to Genesis 10](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) also cautions that migration, mixing, and lost records make confident claims about the ancestry of modern populations difficult."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "god_plan_lines": [
+    "[Acts 17:24–27](https://biblehub.com/bsb/acts/17.htm) describes God making every nation from one man and appointing their times and boundaries so that they would seek Him. Paul does not name Genesis 10 there, but his teaching helps us see the larger theme: the nations share one Creator, and their lives matter to Him.",
+    "",
+    "The story will soon narrow to Abram, yet its purpose remains wider than his family. God promises blessing for all the families of the earth in [Genesis 12:1–3](https://biblehub.com/bsb/genesis/12.htm), and [Galatians 3:8–9](https://biblehub.com/bsb/galatians/3.htm) connects that promise with the good news reaching the nations through faith. [Revelation 7:9–10](https://biblehub.com/bsb/revelation/7.htm) shows the destination: people from many nations and languages worshiping God and the Lamb together."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-18",
+    "quote_source": "https://biblehub.com/bsb/genesis/10.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-18-genesis-nations-and-babel-review.md"
+  }
 }

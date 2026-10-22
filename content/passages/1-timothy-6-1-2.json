@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "1 Timothy",
+    "citation": "6:1-2",
+    "label": "1 Timothy 6:1-2",
+    "slug": "1-timothy-6-1-2"
+  },
+  "section_title": "How should believers live under the yoke of slavery?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 All who are under the yoke of slavery should regard their masters as fully worthy of honor, so that God’s name and our teaching will not be discredited. 2 Those who have believing masters should not show disrespect because they are brothers, but should serve them all the more, since those receiving their good service are beloved believers. Teach and encourage these principles."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After speaking about family care and church leaders, Paul addresses people living in slavery. Their conduct is to honor God’s name and the teaching they have received. If their master also believes, their shared faith is a reason for devoted service rather than disrespect.",
+    "",
+    "These are enslaved people, with a master’s authority over their lives. The passage does not say how each person became enslaved. Roman slavery cannot simply be equated with an ordinary job or a loan someone freely chose: the Roman jurist [Gaius, Institutes 1.82](https://droitromain.univ-grenoble-alpes.fr/Anglica/gai1_Scott.htm), records that children could be born into slavery through their mother’s status.",
+    "",
+    "Paul calls believing masters brothers, even while addressing a relationship of unequal power. The reason he gives for the slaves’ conduct is the reputation of God’s name and teaching. He does not say that their social position measures their worth before God."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/1_timothy/6.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-timothy/) read the instructions as a call to faithful conduct within the slaves’ existing circumstances. Both recognize that sharing faith with a master establishes a real spiritual kinship, while Paul still asks the enslaved believer to serve faithfully. The immediate concern is how God’s people live and bear witness in that situation."
+  ],
+  "god_plan_lines": [
+    "Paul’s appeal concerning Onesimus gives another view of what this shared family means. In [Philemon 1:15–17](https://biblehub.com/bsb/philemon/1.htm), he asks Philemon to welcome Onesimus as a beloved brother and receive him as he would receive Paul. This is a related passage, rather than a claim that both letters describe the same household.",
+    "",
+    "[Galatians 3:26–29](https://biblehub.com/bsb/galatians/3.htm) places slave and free together among God’s children and heirs through Christ. That belonging gives the instructions their wider setting: social power does not determine a person’s place in God’s family."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_timothy/6.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-timothy-six-review.md"
+  }
+}

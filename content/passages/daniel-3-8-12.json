@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "3:8-12",
+    "label": "Daniel 3:8-12",
+    "slug": "daniel-3-8-12"
+  },
+  "section_title": "Why are the three Jewish officials accused?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "8 At this time some astrologers came forward and maliciously accused the Jews, 9 saying to King Nebuchadnezzar, “O king, may you live forever! 10 You, O king, have issued a decree that everyone who hears the sound of the horn, flute, zither, lyre, harp, pipes, and all kinds of music must fall down and worship the golden statue, 11 and that whoever does not fall down and worship will be thrown into the blazing fiery furnace. 12 But there are some Jews you have appointed to manage the province of Babylon—Shadrach, Meshach, and Abednego—who have ignored you, O king, and have refused to serve your gods or worship the golden statue you have set up.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Some astrologers bring a malicious accusation against the Jews. They repeat the king’s command and its penalty before naming Shadrach, Meshach and Abednego.",
+    "",
+    "The accusation emphasizes that these are men the king appointed to manage Babylon’s province. Their refusal to serve his gods and worship his statue is presented as disregard for him.",
+    "",
+    "Their official positions do not remove the conflict of loyalty. Service in the king’s government has not made them willing to give the worship he demands."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/daniel/3.htm) and [Wesley](https://biblehub.com/commentaries/wes/daniel/3.htm) read the conflict through the duty to obey God rather than comply with sinful worship. The accusation brings that commitment into a public confrontation with the ruler.",
+    "",
+    "Daniel is not named among the accused. The chapter does not explain his whereabouts, so the three men’s situation should not be filled out with an invented account of what he was doing."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/3.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-three-review.md"
+  }
+}

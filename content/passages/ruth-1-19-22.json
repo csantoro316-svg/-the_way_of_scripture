@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "Ruth",
+    "citation": "1:19-22",
+    "label": "Ruth 1:19-22",
+    "slug": "ruth-1-19-22"
+  },
+  "section_title": "Is Naomi’s emptiness the end of her story?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "19 So Naomi and Ruth traveled until they came to Bethlehem. When they entered Bethlehem, the whole town was stirred because of them, and the women of the town exclaimed, “Can this be Naomi?” 20 “Do not call me Naomi,” she replied. “Call me Mara, because the Almighty has dealt quite bitterly with me. 21 I went away full, but the LORD has brought me back empty. Why call me Naomi? After all, the LORD has testified against me, and the Almighty has afflicted me.” 22 So Naomi returned from the land of Moab with her daughter-in-law Ruth the Moabitess. And they arrived in Bethlehem at the beginning of the barley harvest."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Naomi and Ruth arrive in Bethlehem, and the town is stirred by their return. The women ask whether this is Naomi. She answers by asking for a different name: Mara, because she experiences life as bitter under the Almighty’s hand.",
+    "",
+    "The name change expresses her grief. [Strong’s entry for Naomi](https://biblehub.com/hebrew/5281.htm) associates her name with pleasantness; [Brown–Driver–Briggs](https://biblehub.com/hebrew/4751.htm) explains מָרָא, *Mara* (mah-RAH), here through the word for bitter. Naomi is saying that the name she bears no longer seems to match what her life has become.",
+    "",
+    "She says she left full and has returned empty, speaking out of the loss of her husband and sons. Yet Ruth is beside her, and they arrive at the beginning of the barley harvest. The narrator places genuine bereavement alongside two details that prepare the next chapter: a faithful companion and food becoming available."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ruth/1.htm) reads Naomi’s words as grief that acknowledges God’s rule over her circumstances. He emphasizes the need to bear affliction with humility and hope. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-ruth/) similarly understands her language of God testifying against her as language drawn from judgment.",
+    "",
+    "The [USCCB Bible study notes](https://bible.usccb.org/bible/ruth/1) bring out another aspect: her complaint resembles the cries found in the Psalms and Job. Speaking to and about God in this way can express an expectation that He hears and will act, even when His dealings seem unjust to the sufferer. The notes do not treat lament as simply the absence of faith.",
+    "",
+    "The final sentence also keeps Naomi’s own assessment from becoming the last word. Her losses are not undone, but the story has given her a loyal daughter-in-law and brought them home at harvest. Readers can recognize those signs of an opening without asking her to pretend that the grief is small."
+  ],
+  "god_plan_lines": [
+    "A later account provides a moving comparison with Naomi’s loss. In [Luke 7:11–17](https://biblehub.com/bsb/luke/7.htm), Jesus meets a widow whose only son has died. He has compassion on her, raises the son, and gives him back to his mother. The people recognize God’s care reaching them through Jesus.",
+    "",
+    "That compassion points toward hope stronger than death. [Romans 8:18–25](https://biblehub.com/bsb/romans/8.htm) speaks of believers still groaning as they await the redemption of their bodies. Christian hope allows grief and patient expectation to stand together. Naomi’s story is not finished at the harvest’s beginning, and the gospel’s promise reaches beyond even the best restoration this present life can offer."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ruth/1.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ruth-one-closing-review.md"
+  }
+}

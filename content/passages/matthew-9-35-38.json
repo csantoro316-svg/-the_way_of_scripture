@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "9:35-38",
+    "label": "Matthew 9:35-38",
+    "slug": "matthew-9-35-38"
+  },
+  "section_title": "Compassion and Workers for the Harvest",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "35 Jesus went through all the towns and villages, teaching in their synagogues, preaching the gospel of the kingdom, and healing every disease and sickness. 36 When He saw the crowds, He was moved with compassion for them, because they were harassed and helpless, like sheep without a shepherd.",
+        "37 Then He said to His disciples, “The harvest is plentiful, but the workers are few. 38 Ask the Lord of the harvest, therefore, to send out workers into His harvest.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Matthew gathers up Jesus' ministry in the towns and villages: teaching, proclaiming the kingdom, and healing. The description recalls [Matthew 4:23](https://biblehub.com/bsb/matthew/4.htm), which introduced the teaching and healings of these chapters. The summary then leads into His concern for the crowds and the sending of His disciples.",
+    "",
+    "Jesus sees people who are harassed and helpless, like sheep without a shepherd, and responds with compassion. The picture emphasizes their need for care and guidance. He does not turn their need into a reason to keep His distance.",
+    "",
+    "He then changes the picture from a flock to a harvest. There is much work to do, but few workers. His instruction is to ask the Lord of the harvest to send them. The work belongs to God, and the disciples' first response to the need is prayer.",
+    "",
+    "The next passage shows those who pray being drawn into the work. In [Matthew 10:1–8](https://biblehub.com/bsb/matthew/10.htm), Jesus gives the twelve authority and sends them to the lost sheep of Israel to proclaim the kingdom and bring help. The prayer is therefore closely joined with active service; it is not merely an observation about how much need exists."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as a call to share Jesus' compassion and pray for workers whom God sends to bring His message and care to others. [Wesley on Matthew 9:37–38](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) emphasizes that the Lord sends and equips the workers, and the Catholic [Catechism, 2611](https://www.vatican.va/content/catechism/en/part_four/section_one/chapter_one/article_2/in_the_fullness_of_time.html), likewise connects prayer with readiness to take part in God's purposes."
+  ],
+  "god_plan_lines": [
+    "The shepherd picture reaches back into God's care for Israel. In [Numbers 27:15–23](https://biblehub.com/bsb/numbers/27.htm), Moses asks God to appoint a leader so the people will not be like sheep without a shepherd. In [Ezekiel 34:11–16, 23–24](https://biblehub.com/bsb/ezekiel/34.htm), God promises to seek His scattered flock and give them one shepherd, His servant David. Jesus' compassion stands within that larger scriptural pattern of God gathering and caring for His people.",
+    "",
+    "Jesus explains the depth of that care in [John 10:11–18](https://biblehub.com/bsb/john/10.htm). As the good shepherd, He lays down His life, takes it up again, and gathers His sheep into one flock. The workers' service belongs within His saving work. They are sent to care for people who belong to Him, reflecting the compassion of the Shepherd who gives His own life for them."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/9.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-nine-completion-review.md"
+  }
+}

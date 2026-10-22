@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "8:4-6",
+    "label": "1 Corinthians 8:4-6",
+    "slug": "1-corinthians-8-4-6"
+  },
+  "section_title": "What do believers know about God and idols?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "4 So about eating food sacrificed to idols: We know that an idol is nothing at all in the world, and that there is no God but one. 5 For even if there are so-called gods, whether in heaven or on earth (as there are many so-called gods and lords), 6 yet for us there is but one God, the Father, from whom all things came and for whom we exist. And there is but one Lord, Jesus Christ, through whom all things came and through whom we exist."
+      ]
+    }
+  ],
+  "context_lines": [
+    "An idol may exist as an object people worship, but it is not another true god. Paul contrasts the many so-called gods and lords with the one God to whom believers belong. The existence of many religious claims does not make all their objects divine.",
+    "",
+    "He names the Father as the source of all things and the One for whom we exist. He also names Jesus Christ as the one Lord through whom all things came and through whom we exist. The confession places both creation and the believer’s life in relation to the Father and the Son.",
+    "",
+    "This knowledge will matter to the food question, but it is not the whole answer. Paul will next address believers whose past connection with idols still affects their conscience. The truth about God must be joined with care for those learning to live by it."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read these verses as a confession of the one God and one Lord Jesus Christ in contrast with idols. [Wesley’s note on verse 6](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) explicitly understands the contrast as excluding idols, rather than treating Jesus as a lesser god or placing Him outside the worship due to God."
+  ],
+  "god_plan_lines": [
+    "[Colossians 1:15–20](https://biblehub.com/bsb/colossians/1.htm) likewise describes all things being created through the Son and for Him, then connects His place in creation with His headship of the church and reconciliation through the blood of His cross.",
+    "",
+    "That passage makes the larger purpose clear: the One through whom creation exists is also central to God’s work of reconciliation. Belonging to Christ directs life toward the Father’s purpose for creation, rather than leaving faith as one more religious attachment alongside competing gods."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/8.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-eight-review.md"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "10:17-20",
+    "label": "Luke 10:17-20",
+    "slug": "luke-10-17-20"
+  },
+  "section_title": "What should bring the returning disciples their greatest joy?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 The seventy-two returned with joy and said, “Lord, even the demons submit to us in Your name.” 18 So He told them, “I saw Satan fall like lightning from heaven. 19 Behold, I have given you authority to tread on snakes and scorpions, and over all the power of the enemy. Nothing will harm you.",
+        "20 Nevertheless, do not rejoice that the spirits submit to you, but rejoice that your names are written in heaven.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The seventy-two return delighted that even demons submit to them in Jesus’ name. Jesus responds with the picture of Satan falling like lightning and speaks of the authority He has given them over the enemy’s power.",
+    "",
+    "The authority comes from Jesus. The disciples’ report concerns what happens in His name, rather than an ability they possess independently. His words about snakes, scorpions and protection are spoken to these people in the setting of their commission.",
+    "",
+    "Jesus then directs their joy toward something greater than the powers they have exercised: their names are written in heaven. Their place with God is the reason for celebration He puts first."
+  ],
+  "common_interpretation_lines": [
+    "Wesley, Calvin and the Catholic bishops’ notes connect Satan’s fall here with the defeat of his power through Jesus’ mission. They also recognize the movement from rejoicing over extraordinary works to rejoicing over belonging to God. This reading follows the setting of the disciples’ return without making the verse a complete account of Satan’s history. ([Wesley on Luke 10:18–20](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [Calvin on Luke 10:18–20](https://biblehub.com/commentaries/calvin/luke/10.htm); [USCCB note on Luke 10:18](https://bible.usccb.org/bible/luke/10))"
+  ],
+  "god_plan_lines": [
+    "Revelation also pictures Satan being thrown down and describes believers overcoming him through the Lamb’s blood and their faithful testimony. This is a related picture of victory through Christ; the connection does not require treating the two scenes as a single event on a settled timeline. ([Revelation 12:7–12](https://biblehub.com/bsb/revelation/12.htm))",
+    "",
+    "Hebrews describes believers coming to the heavenly city, to a people enrolled in heaven and to Jesus, who brings the new covenant. That wider picture helps explain why having one’s name in heaven is a joy greater than any particular work a disciple performs. ([Hebrews 12:22–24](https://biblehub.com/bsb/hebrews/12.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/10.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-ten-review.md"
+  }
+}

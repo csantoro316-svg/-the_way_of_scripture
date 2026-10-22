@@ -5,13 +5,61 @@
     "label": "Philippians 3:3",
     "slug": "philippians-3-3"
   },
-  "versions": [],
-  "context_lines": [
-    "Philippians 3:3 should be read within the flow of its chapter and the larger argument of Philippians."
+  "section_title": "What does worship by God’s Spirit mean here?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "3 For it is we who are the circumcision, we who worship by the Spirit of God, who glory in Christ Jesus, and who put no confidence in the flesh—"
+      ]
+    }
   ],
-  "explanation_lines": [
-    "**Restored reading:** *\"...who serve in the Spirit of God...\"*",
+  "context_lines": [
+    "Paul is warning against teachers who would turn circumcision and outward standing into a basis for confidence. He identifies his own community through worship by the Spirit, glorying in Christ and no confidence in the flesh.",
     "",
-    "Paul distinguishes between outward ritual and inward transformation. *Latreu\u014d* highlights the sacred ministry of daily obedience through the Spirit's leading \u2014 not musical worship."
-  ]
+    "The word translated worship is latreuō (lah-TREW-oh). [Thayer’s lexicon](https://biblehub.com/greek/3000.htm) explains religious service and worship and identifies God’s Spirit as prompting that service here. The verse describes who these people are and whom they trust.",
+    "",
+    "The surrounding passage matters: Paul goes on to name his own inherited and religious credentials, then explain why knowing Christ has become his greater gain. Read [Philippians 3:1–6](https://thewayofscripture.com/passages/philippians-3-1-6.html) for the immediate contrast."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as describing God’s people through Spirit-led worship and confidence in Christ. [Wesley’s note](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-philippians/) emphasizes inward holiness, and the [USCCB note](https://bible.usccb.org/bible/philippians/3) connects the description with belonging to God and the promise to Abraham. The shared emphasis reaches into the heart and the source of a person’s confidence."
+  ],
+  "god_plan_lines": [
+    "[Deuteronomy 30:6](https://biblehub.com/bsb/deuteronomy/30.htm) describes God circumcising His people’s hearts so they will love Him. [Romans 2:28–29](https://biblehub.com/bsb/romans/2.htm) also describes circumcision of the heart by the Spirit.",
+    "",
+    "This supported connection helps place the verse within the larger scriptural concern for God’s people to love and serve Him from the heart. Paul directs the readers’ confidence to Christ and the work of God’s Spirit."
+  ],
+  "current_position_lines": [
+    "On verse 3, our study [Worship as the Early Church Knew It](https://thewayofscripture.com/studies/worship.html) understands worship by the Spirit as sacred service to God expressed in daily obedience. The study emphasizes a life led by His Spirit rather than reading this verse as an instruction about music. Its focus is the service of people whose confidence is in Christ."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/philippians/3.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-philippians-three-opening-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It, lines 114–120, directly addresses Philippians 3:3."
+  }
 }

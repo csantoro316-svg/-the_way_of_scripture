@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "4:9-12",
+    "label": "Romans 4:9-12",
+    "slug": "romans-4-9-12"
+  },
+  "section_title": "Why does the timing of Abraham’s circumcision matter?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "9 Is this blessing only on the circumcised, or also on the uncircumcised? We have been saying that Abraham’s faith was credited to him as righteousness. 10 In what context was it credited? Was it after his circumcision, or before? It was not after, but before.",
+        "11 And he received the sign of circumcision as a seal of the righteousness that he had by faith while he was still uncircumcised. So then, he is the father of all who believe but are not circumcised, in order that righteousness might be credited to them. 12 And he is also the father of the circumcised who not only are circumcised, but who also walk in the footsteps of the faith that our father Abraham had before he was circumcised."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul asks whether the blessing of forgiveness belongs only to the circumcised. He answers by asking when Abraham’s faith was credited as righteousness. The answer is before circumcision, not after it.",
+    "",
+    "The order appears in Genesis itself: faith is credited in [Genesis 15:6](https://biblehub.com/bsb/genesis/15.htm), while the command and sign of circumcision appear in [Genesis 17:9–14](https://biblehub.com/bsb/genesis/17.htm). Paul calls the sign a seal of the righteousness Abraham already had by faith.",
+    "",
+    "This makes Abraham the father of uncircumcised believers as well as of circumcised people who follow his faith. Physical descent and possession of the sign do not replace the trust Paul is describing. People from outside Israel’s physical family are included without first receiving that mark."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this sequence as showing that circumcision did not create Abraham’s right standing before God. The sign confirms a relationship already received through faith, and Paul uses that order to explain the inclusion of uncircumcised believers."
+  ],
+  "god_plan_lines": [
+    "The timing of events in Genesis serves the invitation to the nations that Paul has been explaining. Abraham’s story contains room for people who share his faith without sharing his physical mark.",
+    "",
+    "[Galatians 3:7–9](https://biblehub.com/bsb/galatians/3.htm) states the connection explicitly: people of faith share the blessing with Abraham, and the promise of blessing to all nations anticipates God’s justification of Gentiles by faith. The family gathered through that promise reaches beyond one ancestry."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/4.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-four-review.md"
+  }
+}

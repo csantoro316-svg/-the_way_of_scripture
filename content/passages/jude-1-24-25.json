@@ -5,30 +5,52 @@
     "label": "Jude 1:24-25",
     "slug": "jude-1-24-25"
   },
-  "section_title": "Doxology",
+  "section_title": "Who can bring God’s people into His presence with joy?",
   "versions": [
     {
       "label": "BSB",
-      "text": "Now to Him who is able to keep you from stumbling and to present you unblemished in His glorious presence, with great joy—to the only God our Savior be glory, majesty, dominion, and authority through Jesus Christ our Lord before all time, and now, and for all eternity."
+      "paragraphs": [
+        "24 Now to Him who is able to keep you from stumbling and to present you unblemished in His glorious presence, with great joy— 25 to the only God our Savior be glory, majesty, dominion, and authority through Jesus Christ our Lord before all time, and now, and for all eternity. Amen."
+      ]
     }
   ],
   "context_lines": [
-    "Jude ends not in anxiety, but in worship. After a letter full of warning, the final emphasis falls on God's preserving power and eternal glory."
+    "The letter ends in praise to the God who is able to keep His people from stumbling and present them unblemished in His glorious presence. After urging the readers to guard themselves and help others, Jude directs their confidence toward God’s power.",
+    "",
+    "The praise is offered to the only God our Savior through Jesus Christ our Lord. Glory, majesty, dominion and authority belong to Him before all time, now and forever. The closing gathers the letter’s warnings and instructions into worshipful dependence on God."
   ],
   "common_interpretation_lines": [
-    "A common reading of this doxology is that it answers the weight of the whole letter: the church must contend and persevere, but its final security rests in the God who is able to keep His people and present them blameless.",
-    "",
-    "The ending is therefore both theological and pastoral. It lifts the reader's eyes from danger to the supremacy and faithfulness of God."
+    "[Calvin](https://biblehub.com/commentaries/calvin/jude/1.htm) emphasizes that the readers’ efforts depend on God’s power working with them. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-general-epistle-of-st-jude/) likewise identifies God as the one able to keep people from the errors and sins described and present them faultless. The [USCCB note](https://bible.usccb.org/bible/jude/1) recognizes the return to the opening themes of divine care and preservation. These comments share the passage’s emphasis on God’s keeping power, without treating the call to vigilance earlier in the letter as unnecessary."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 5:25–27](https://biblehub.com/bsb/ephesians/5.htm) describes Christ loving the church and giving Himself for her so that He may present her holy and without blemish. That passage gives a wider setting for Jude’s closing hope. God’s work reaches toward a people brought into His presence, with Christ’s self-giving love at the heart of that purpose."
   ],
   "current_position_lines": [
-    "This site's current position is that Jude ends exactly where biblical prayer and faith should end: not in confidence in the believer's own grip on God, but in confidence in God's ability to keep His people.",
-    "",
-    "That does not eliminate responsibility or endurance, but it does relocate the center of trust. The final note is worshipful dependence on the God who preserves, presents, and receives glory."
+    "Our studies [Prayer and Faith](https://thewayofscripture.com/studies/prayer-and-faith.html) and [What Does Prayer Look Like?](https://thewayofscripture.com/studies/what-does-prayer-look-like.html) place trust in God at the center of prayer. The latter highlights Jesus’ prayer that the Father would keep His people and sanctify them in the truth. We read Jude’s closing praise in that same dependence: confidence rests in the God who keeps and brings His people into His presence."
   ],
   "deeper_study": [
     {
       "title": "Prayer and Faith",
       "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/jude/1.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-jude-review.md",
+    "position_source_detail": "Prayer and Faith line170positive principle of trusting God’s will (without importing unsupported Paul narrative); What Does Prayer Look Like? lines84–100John17Fatherkeep/sanctifytruth/seeChristglory. Retains positive older confidence-in-God position with actual study sources, not an originated perseverance-system conclusion."
+  }
 }

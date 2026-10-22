@@ -5,25 +5,47 @@
     "label": "Jude 1:1-2",
     "slug": "jude-1-1-2"
   },
-  "section_title": "A Greeting from Jude",
+  "section_title": "Where does confidence begin when the church faces danger?",
   "versions": [
     {
       "label": "BSB",
-      "text": "Jude, a servant of Jesus Christ and a brother of James, To those who are called, loved by God the Father, and kept in Jesus Christ: Mercy, peace, and love be multiplied to you."
+      "paragraphs": [
+        "1 Jude, a servant of Jesus Christ and a brother of James, To those who are called, loved by God the Father, and kept in Jesus Christ: 2 Mercy, peace, and love be multiplied to you."
+      ]
     }
   ],
   "context_lines": [
-    "In **Jude 1**, Jude writes a compact but forceful letter warning the church about corrupt intruders while urging believers to remain rooted in the apostolic faith. Because the whole book is one sustained argument, each section should be read in light of both the warning and the call to perseverance."
+    "Jude introduces himself as a servant of Jesus Christ and a brother of James. He addresses people who are called, loved by God the Father and kept in Jesus Christ. Before describing the danger facing them, he reminds them of their relationship with God.",
+    "",
+    "The prayer for multiplied mercy, peace and love sets the tone for the letter. Its strong warnings will serve people who are beloved. Jude will return to God’s keeping power and to praise at the end."
   ],
   "common_interpretation_lines": [
-    "Jude opens by identifying both himself and his readers in relation to Christ. He is **\"a servant of Jesus Christ,\"** and they are **called**, **loved**, and **kept**. The greeting does more than introduce the letter; it establishes a theological footing of identity, security, and covenant mercy before the warning intensifies.",
-    "",
-    "A common reading of this opening is that Jude deliberately anchors the believers' stability in God before addressing false teachers. The church is not called to panic, but to remember who holds them."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-general-epistle-of-st-jude/) and the [USCCB note](https://bible.usccb.org/bible/jude/1) understand the greeting as reassurance of God’s care for those He has called. Wesley explicitly connects the opening with the later call to remain in God’s love. The letter places God’s care before its warnings and the readers’ response."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 1:3–14](https://biblehub.com/bsb/ephesians/1.htm) describes the Father’s purpose, redemption through Christ and the promised Holy Spirit as the pledge of the inheritance. It gives a fuller account of the saving work within which Jude’s greeting belongs: God gathers a people in Christ to live before Him and praise His glory."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
   ],
   "deeper_study": [
     {
       "title": "The True Church According to Jesus",
       "href": "../studies/true-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/jude/1.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-jude-review.md"
+  }
 }

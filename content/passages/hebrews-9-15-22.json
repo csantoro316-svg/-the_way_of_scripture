@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "9:15-22",
+    "label": "Hebrews 9:15-22",
+    "slug": "hebrews-9-15-22"
+  },
+  "section_title": "Why does the writer connect the covenant with a death?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 Therefore Christ is the mediator of a new covenant, so that those who are called may receive the promised eternal inheritance, now that He has died to redeem them from the transgressions committed under the first covenant. 16 In the case of a will, it is necessary to establish the death of the one who made it, 17 because a will does not take effect until the one who made it has died; it cannot be executed while he is still alive.",
+        "18 That is why even the first covenant was not put into effect without blood. 19 For when Moses had proclaimed every commandment of the law to all the people, he took the blood of calves and goats, along with water, scarlet wool, and hyssop, and sprinkled the scroll and all the people, 20 saying, “This is the blood of the covenant, which God has commanded you to keep.” 21 In the same way, he sprinkled with blood the tabernacle and all the vessels used in worship. 22 According to the law, in fact, nearly everything must be purified with blood, and without the shedding of blood there is no forgiveness."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Christ mediates the new covenant so that those who are called can receive the promised eternal inheritance. His death redeems from the transgressions committed under the first covenant. Its reach includes the earlier sins that animal sacrifices could not finally remove.",
+    "",
+    "The [Greek word](https://biblehub.com/greek/1242.htm) translated covenant can also mean a will or testament. The BSB uses will in verses 16–17: an inheritance becomes available through the death of the person who made the will. The language helps explain why Christ’s death matters to the promised inheritance.",
+    "",
+    "The writer then recalls the first covenant’s confirmation with blood. [Exodus 24:3–8](https://biblehub.com/bsb/exodus/24.htm) records Moses reading the covenant and sprinkling blood on the people. Hebrews also describes the scroll and the later tabernacle service. Its account brings several details of cleansing together; Exodus 24 does not separately record every detail listed here.",
+    "",
+    "The word nearly in verse 22 matters. The law included different forms of cleansing, while blood had a central place in sacrifice and atonement. The passage leads us toward Christ’s death as the decisive answer to sin, rather than a demand for people to repeat Israel’s sacrifices."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/9.htm), [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) and the [USCCB notes](https://bible.usccb.org/bible/hebrews/9) connect the promised inheritance with Christ’s death and the first covenant’s use of blood. They differ over how verses 16–17 make that connection.",
+    "",
+    "Calvin and the USCCB notes understand the language as moving from covenant to a will that takes effect at death. Wesley resists that change of meaning and reads the passage in terms of a covenant confirmed through death, while acknowledging that the wording is difficult. The BSB’s will translation follows the first reading. A lexical possibility helps explain the difference without settling every part of it."
+  ],
+  "god_plan_lines": [
+    "[Romans 3:25–26](https://biblehub.com/bsb/romans/3.htm) explains Christ’s sacrifice in relation to sins God had previously passed over. This helps show how His one work matters for people who lived before His earthly coming.",
+    "",
+    "[Galatians 3:13–14, 29](https://biblehub.com/bsb/galatians/3.htm) joins redemption through Christ with Abraham’s blessing reaching the nations and believers becoming heirs according to promise. The inheritance in God’s plan reaches beyond one generation through the same saving Christ."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/9.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-nine-review.md"
+  }
+}

@@ -10,19 +10,37 @@
     {
       "label": "BSB",
       "paragraphs": [
-        "25 And Adam again had relations with his wife, and she gave birth to a son and named him Seth, saying, \u201cGod has granted me another seed in place of Abel, since Cain killed him.\u201d",
+        "25 And Adam again had relations with his wife, and she gave birth to a son and named him Seth, saying, “God has granted me another seed in place of Abel, since Cain killed him.”",
         "26 And to Seth also a son was born, and he called him Enosh.",
         "At that time men began to call upon the name of the LORD."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 4**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "The story returns to Adam and Eve after tracing Cain's family. Eve names another son Seth and explicitly sees him as God's provision in place of Abel, whom Cain killed. Abel's death has not ended the family's future. Yet Seth is a new person in the story, not Abel returned to life.",
+    "",
+    "Seth's son Enosh introduces the statement that people began calling on the name of the LORD. The contrast is with the violence and self-exaltation just described. Genesis has already shown people speaking with God and bringing offerings, so this is not the first time anyone has addressed Him. The statement marks a development in the family's worship and prepares for the line followed in chapter 5."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Seth and Enosh** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 4** remains the first control on meaning."
+    "Christians commonly read these verses as renewed hope after Abel's murder and a turn toward worshiping God. [Wesley's notes on verses 25–26](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) understand the final line as people gathering to worship and openly identifying themselves with the LORD; Genesis itself supplies no detailed service, place, or ritual."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "god_plan_lines": [
+    "The family line matters to the larger story. [Luke 3:23–38](https://biblehub.com/bsb/luke/3.htm) traces Jesus' ancestry back through Enosh and Seth to Adam. That is a direct New Testament reason to pay attention to these brief birth notices: the family preserved after Abel's death appears in the account of Jesus' human ancestry.",
+    "",
+    "This does not make every later member of Seth's family faithful simply by birth. It shows continuity in God's purpose despite violence and loss. Genesis will follow the family through Noah and then toward Abraham; Luke places Jesus within that long human story."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-18",
+    "quote_source": "https://biblehub.com/bsb/genesis/4.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-18-genesis-cain-to-noah-review.md"
+  }
 }

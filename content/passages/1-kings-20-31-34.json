@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "20:31-34",
+    "label": "1 Kings 20:31-34",
+    "slug": "1-kings-20-31-34"
+  },
+  "section_title": "What agreement does Ahab make with the defeated king?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "31 Then the servants of Ben-hadad said to him, “Look now, we have heard that the kings of the house of Israel are merciful. Let us go out to the king of Israel with sackcloth around our waists and ropes around our heads. Perhaps he will spare your life.” 32 So with sackcloth around their waists and ropes around their heads, they went to the king of Israel and said, “Your servant Ben-hadad says, ‘Please spare my life.’” And the king answered, “Is he still alive? He is my brother.” 33 Now the men were looking for a sign of hope, and they quickly grasped at this word and replied, “Yes, your brother Ben-hadad.” “Go and get him!” said the king. Then Ben-hadad came out, and Ahab had him come up into his chariot. 34 Ben-hadad said to him, “I will restore the cities my father took from your father; you may set up your own marketplaces in Damascus, as my father did in Samaria.” “By this treaty I release you,” Ahab replied. So he made a treaty with him and sent him away."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Ben-hadad’s servants appeal to the reputation of Israel’s kings for mercy. Wearing sackcloth and ropes, they ask Ahab to spare their master’s life.",
+    "",
+    "Ahab responds by calling Ben-hadad his brother. The servants seize on the hopeful word, and the defeated king is brought up into Ahab’s chariot.",
+    "",
+    "Ben-hadad offers to return towns taken by his father and allow Ahab marketplaces in Damascus. Ahab makes a treaty and releases him. The next scene will judge that decision in light of what God had determined."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/20.htm) emphasizes the reversal from Ben-hadad’s proud demands to his plea for life. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) reads Ahab’s welcome as giving him both pardon and honor.",
+    "",
+    "Wesley also questions the agreement’s failure to address the dishonor done to God and the harm to Israel. The immediate result is a royal settlement, but political terms alone will not settle the question raised by the prophetic word."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/20.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-twenty-review.md"
+  }
+}

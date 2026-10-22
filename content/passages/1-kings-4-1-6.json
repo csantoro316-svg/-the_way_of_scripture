@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "4:1-6",
+    "label": "1 Kings 4:1-6",
+    "slug": "1-kings-4-1-6"
+  },
+  "section_title": "Who helps Solomon govern the kingdom?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 So King Solomon ruled over Israel, 2 and these were his chief officials: Azariah son of Zadok was the priest; 3 Elihoreph and Ahijah, the sons of Shisha, were secretaries; Jehoshaphat son of Ahilud was the recorder; 4 Benaiah son of Jehoiada was in charge of the army; Zadok and Abiathar were priests; 5 Azariah son of Nathan was in charge of the governors; Zabud son of Nathan was a priest and adviser to the king; 6 Ahishar was in charge of the palace; and Adoniram son of Abda was in charge of the forced labor."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The chapter names Solomon’s chief officials. Priestly service, writing, records, the army, supervision of governors, the palace and forced labor all have people assigned to them.",
+    "",
+    "Some names continue from David’s reign, including Jehoshaphat and Benaiah. Others mark the developing organization under Solomon. Two men named Azariah appear, one identified as Zadok’s son and the other as Nathan’s son.",
+    "",
+    "The list shows that the rule of one king depends on the work of many people. It also identifies the offices through which royal decisions are put into practice."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/4.htm) sees wisdom in the appointment of officials and notes continuity with David’s administration. Different responsibilities require people to carry them out.",
+    "",
+    "Abiathar’s name raises a question after his removal in chapter 2. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) understands the list as including successive holders of priestly office. [Gill](https://biblehub.com/commentaries/gill/1_kings/4.htm) also considers the possibility that Abiathar retained the title after his removal. The verse names him without saying he has been restored to his former position."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/4.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-four-review.md"
+  }
+}

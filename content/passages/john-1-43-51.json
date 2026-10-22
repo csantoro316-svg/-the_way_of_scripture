@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "1:43-51",
+    "label": "John 1:43-51",
+    "slug": "john-1-43-51"
+  },
+  "section_title": "What greater things does Jesus promise Nathanael?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "43 The next day Jesus decided to set out for Galilee. Finding Philip, He told him, “Follow Me.” 44 Now Philip was from Bethsaida, the same town as Andrew and Peter. 45 Philip found Nathanael and told him, “We have found the One Moses wrote about in the Law, the One the prophets foretold—Jesus of Nazareth, the son of Joseph.” 46 “Can anything good come from Nazareth?” Nathanael asked. “Come and see,” said Philip.",
+        "47 When Jesus saw Nathanael approaching, He said of him, “Here is a true Israelite, in whom there is no deceit.” 48 “How do You know me?” Nathanael asked. Jesus replied, “Before Philip called you, I saw you under the fig tree.” 49 “Rabbi,” Nathanael answered, “You are the Son of God! You are the King of Israel!”",
+        "50 Jesus said to him, “Do you believe just because I told you I saw you under the fig tree? You will see greater things than these.” 51 Then He declared, “Truly, truly, I tell you, you will all see heaven open and the angels of God ascending and descending on the Son of Man.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus decides to go to Galilee, finds Philip and calls him to follow. Philip finds Nathanael and identifies Jesus of Nazareth as the One Moses and the Prophets wrote about. Nathanael questions whether anything good can come from Nazareth, and Philip invites him to come and see.",
+    "",
+    "Jesus describes Nathanael as a true Israelite without deceit. When Nathanael asks how He knows him, Jesus says He saw him under the fig tree before Philip called him. Nathanael responds by confessing Him as the Son of God and King of Israel.",
+    "",
+    "Jesus promises greater things. His final words widen the promise beyond Nathanael: they will see heaven opened and God’s angels ascending and descending on the Son of Man. The BSB expresses the plural address as you will all see. ([John 1:51](https://biblehub.com/bsb/john/1.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly connect the opened heaven and ascending and descending angels with Jacob’s dream and the revelation Jesus brings. Calvin emphasizes continuing access to God through Christ, while Wesley emphasizes the coming display of His glory and also allows a reference to the ascension. These are the commentators’ emphases rather than separate official positions for every member of their traditions. ([Calvin on John 1:51](https://biblehub.com/commentaries/calvin/john/1.htm); [Wesley on John 1:51](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/))"
+  ],
+  "god_plan_lines": [
+    "Jacob dreams of a ladder reaching from earth to heaven with angels ascending and descending, and hears God’s promise to remain with him and bless the families of the earth through his offspring. Jesus’ words clearly echo that scene while placing the Son of Man at its center. The connection points to God making His presence and access to heaven known through Him. ([Genesis 28:10–17](https://biblehub.com/bsb/genesis/28.htm))",
+    "",
+    "The wider New Testament identifies Jesus as the one mediator between God and humanity, giving Himself as a ransom, and records His own claim to be the way to the Father. Those passages help explain the larger significance of the picture: the relationship between heaven and earth is centered on the Son who brings people to God. ([1 Timothy 2:3–6](https://biblehub.com/bsb/1_timothy/2.htm); [John 14:6](https://biblehub.com/bsb/john/14.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who is The Angel of the Lord?",
+      "href": "../studies/angel-of-the-lord.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/1.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-one-closing-review.md"
+  }
+}

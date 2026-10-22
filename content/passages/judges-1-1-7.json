@@ -5,26 +5,56 @@
     "label": "Judges 1:1-7",
     "slug": "judges-1-1-7"
   },
-  "section_title": "The Conquest of Canaan Proceeds",
+  "section_title": "Who will go first after Joshua’s death?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 After the death of Joshua, the Israelites inquired of the LORD, \u201cWho will be the first to go up and fight for us against the Canaanites?\u201d",
-        "2 \u201cJudah shall go up,\u201d answered the LORD. \u201cIndeed, I have delivered the land into their hands.\u201d",
-        "3 Then the men of Judah said to their brothers the Simeonites, \u201cCome up with us to our allotted territory, and let us fight against the Canaanites. And we likewise will go with you to your territory.\u201d So the Simeonites went with them.",
-        "4 When Judah attacked, the LORD delivered the Canaanites and Perizzites into their hands, and they struck down ten thousand men at Bezek. 5 And there they found Adoni-bezek and fought against him, striking down the Canaanites and Perizzites.",
-        "6 As Adoni-bezek fled, they pursued him, seized him, and cut off his thumbs and big toes. 7 Then Adoni-bezek said, \u201cSeventy kings with their thumbs and big toes cut off have gathered the scraps under my table. As I have done to them, so God has repaid me.\u201d And they brought him to Jerusalem, where he died."
+        "1 After the death of Joshua, the Israelites inquired of the LORD, “Who will be the first to go up and fight for us against the Canaanites?” 2 “Judah shall go up,” answered the LORD. “Indeed, I have delivered the land into their hands.” 3 Then the men of Judah said to their brothers the Simeonites, “Come up with us to our allotted territory, and let us fight against the Canaanites. And we likewise will go with you to your territory.” So the Simeonites went with them.",
+        "4 When Judah attacked, the LORD delivered the Canaanites and Perizzites into their hands, and they struck down ten thousand men at Bezek. 5 And there they found Adoni-bezek and fought against him, striking down the Canaanites and Perizzites. 6 As Adoni-bezek fled, they pursued him, seized him, and cut off his thumbs and big toes. 7 Then Adoni-bezek said, “Seventy kings with their thumbs and big toes cut off have gathered the scraps under my table. As I have done to them, so God has repaid me.” And they brought him to Jerusalem, where he died."
       ]
     }
   ],
   "context_lines": [
-    "In **Judges 1**, this section should be read within the flow of the chapter and the larger movement of Judges."
+    "Judges opens after Joshua’s death. The tribes ask the LORD who should go first against the Canaanites, and He names Judah. Judah invites Simeon to help, promising to return the help in Simeon’s territory. These are the tribes descended from the brothers, not the brothers themselves.",
+    "",
+    "The LORD gives victory at Bezek. The victors capture Adoni-bezek and cut off his thumbs and big toes. He acknowledges having done the same to seventy kings and forced them to gather scraps beneath his table. He interprets what has happened as God repaying him for his cruelty. The account then reports his death in Jerusalem.",
+    "",
+    "The story names God as the giver of the victory, while Adoni-bezek supplies the explanation of his particular punishment. It does not record an explicit command from God to cut off his thumbs and toes. Keeping those details distinct lets the account speak without adding an instruction it does not give."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Conquest of Canaan Proceeds** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Judges 1** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-judges/) and [Matthew Henry](https://biblehub.com/commentaries/mhc/judges/1.htm) read Adoni-bezek’s acknowledgment as a striking example of a cruel ruler receiving the kind of treatment he had inflicted on others. Henry also emphasizes Judah and Simeon’s mutual help: receiving an important task does not remove the need to work with others."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "Judah’s place at the front of the tribes belongs within a larger biblical story. [Genesis 49:8–10](https://biblehub.com/bsb/genesis/49.htm) connects Judah with leadership and the scepter. The New Testament identifies Jesus as descended from Judah ([Hebrews 7:13–17](https://biblehub.com/bsb/hebrews/7.htm)) and calls Him the Lion of Judah ([Revelation 5:5–10](https://biblehub.com/bsb/revelation/5.htm)).",
+    "",
+    "That wider connection directs attention beyond one tribal victory. Revelation shows the Lion as the Lamb who was slain and redeemed people from every tribe and nation to serve God. Judah’s role in the story leads Christian readers toward the ruler whose victory brings a people to God through His own self-giving."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/judges/1.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-judges-opening-review.md"
+  }
 }

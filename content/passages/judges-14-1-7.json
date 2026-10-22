@@ -5,25 +5,58 @@
     "label": "Judges 14:1-7",
     "slug": "judges-14-1-7"
   },
-  "section_title": "Samson\u2019s Marriage",
+  "section_title": "What do Samson’s parents not yet understand?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 One day Samson went down to Timnah, where he saw a young Philistine woman. 2 So he returned and told his father and mother, \u201cI have seen a daughter of the Philistines in Timnah. Now get her for me as a wife.\u201d",
-        "3 But his father and mother replied, \u201cCan\u2019t you find a young woman among your relatives or among any of our people? Must you go to the uncircumcised Philistines to get a wife?\u201d",
-        "But Samson told his father, \u201cGet her for me, for she is pleasing to my eyes.\u201d 4 (Now his father and mother did not know this was from the LORD, who was seeking an occasion to move against the Philistines; for at that time the Philistines were ruling over Israel.)",
+        "1 One day Samson went down to Timnah, where he saw a young Philistine woman. 2 So he returned and told his father and mother, “I have seen a daughter of the Philistines in Timnah. Now get her for me as a wife.” 3 But his father and mother replied, “Can’t you find a young woman among your relatives or among any of our people? Must you go to the uncircumcised Philistines to get a wife?” But Samson told his father, “Get her for me, for she is pleasing to my eyes.” 4 (Now his father and mother did not know this was from the LORD, who was seeking an occasion to move against the Philistines; for at that time the Philistines were ruling over Israel.)",
         "5 Then Samson went down to Timnah with his father and mother and came to the vineyards of Timnah. Suddenly a young lion came roaring at him, 6 and the Spirit of the LORD came powerfully upon him, and he tore the lion apart with his bare hands as one would tear a young goat. But he did not tell his father or mother what he had done. 7 Then Samson continued on his way down and spoke to the woman, because she was pleasing to his eyes."
       ]
     }
   ],
   "context_lines": [
-    "In **Judges 14**, this section should be read within the flow of the chapter and the larger movement of Judges."
+    "Samson sees a Philistine woman in Timnah and asks his parents to arrange the marriage. They object, urging him to choose from his own people. He insists because she is pleasing to his eyes. That emphasis on what he sees and wants appears again after he speaks with her.",
+    "",
+    "The narrator then gives the reader information the parents lack: the matter is from the LORD, who is seeking an occasion to move against the Philistines. They are ruling Israel at this time. Samson’s personal desire is therefore part of a story with a purpose larger than the proposed marriage.",
+    "",
+    "On the journey, a young lion comes against him. The Spirit of the LORD gives him extraordinary strength, and he kills it with his bare hands. He tells neither parent what happened, then continues to meet the woman. The account establishes the source of his strength while leaving the reason for his silence unstated."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Samson\u2019s Marriage** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "Readers differ over how divine purpose relates to Samson’s choice. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-judges/) and [Gill](https://biblehub.com/commentaries/gill/judges/14.htm) understand this marriage as specially directed by God, with Samson aware of a purpose his parents do not yet know. Wesley therefore treats it as an exceptional action rather than simply a choice driven by appearance.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Judges 14** remains the first control on meaning."
+    "[Henry](https://biblehub.com/commentaries/mhc/judges/14.htm) instead regards Samson’s attraction as foolish and understands God as allowing him to follow his inclinations while bringing good from the outcome. Both readings take verse 4 seriously; they differ over whether Samson’s choice itself has God’s special approval or is a choice through which God brings a larger good."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "God’s purpose reaching beyond what people can see is a theme elsewhere in Scripture. In [Genesis 50:15–21](https://biblehub.com/bsb/genesis/50.htm), Joseph distinguishes his brothers’ evil intention from God’s purpose of preserving many lives. The same events involve human responsibility and a saving purpose greater than the people involved had understood.",
+    "",
+    "The New Testament brings this theme to the opposition against Jesus. In [Acts 4:24–30](https://biblehub.com/bsb/acts/4.htm), the believers acknowledge rulers conspiring against Him while recognizing that God’s plan is being accomplished. Their response is prayer for faithful witness. The larger story directs attention to God’s rescue through Christ, even amid opposition and confused human choices."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/judges/14.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-judges-fourteen-review.md"
+  }
 }

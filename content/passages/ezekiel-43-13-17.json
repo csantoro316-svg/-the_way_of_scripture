@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "43:13-17",
+    "label": "Ezekiel 43:13-17",
+    "slug": "ezekiel-43-13-17"
+  },
+  "section_title": "How is the altar arranged?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 These are the measurements of the altar in long cubits (a cubit and a handbreadth): Its gutter shall be a cubit deep and a cubit wide, with a rim of one span around its edge. And this is the height of the altar: 14 The space from the gutter on the ground to the lower ledge shall be two cubits, and the ledge one cubit wide. The space from the smaller ledge to the larger ledge shall be four cubits, and the ledge one cubit wide. 15 The altar hearth shall be four cubits high, and four horns shall project upward from the hearth. 16 The altar hearth shall be square at its four corners, twelve cubits long and twelve cubits wide. 17 The ledge shall also be square, fourteen cubits long and fourteen cubits wide, with a rim of half a cubit and a gutter of a cubit all around it. The steps of the altar shall face east.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The Lord gives the altar’s measurements using the same long cubit described earlier: a cubit plus a handbreadth. The structure rises through ledges to the hearth, with four horns projecting upward.",
+    "",
+    "The hearth is twelve cubits square, and the larger ledge is fourteen cubits square. Rims and a gutter surround the structure, and its steps face east.",
+    "",
+    "The altar stands within the holy area already measured. The next section explains how it is to be cleansed and set apart before regular offerings begin."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/ezekiel/43.htm) identifies this as the altar for burnt offerings and explains its raised stages. [Cambridge](https://biblehub.com/commentaries/cambridge/ezekiel/43.htm) also understands it as a structure rising in stages, while differing from the gutter reading in its explanation of the lowest part.",
+    "",
+    "The BSB’s wording describes a gutter. The main arrangement is clear: a substantial altar with ledges, a square hearth, horns and an approach from the east."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/43.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-forty-three-review.md"
+  }
+}

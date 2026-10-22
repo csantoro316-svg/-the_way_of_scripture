@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Galatians",
+    "citation": "1:11-17",
+    "label": "Galatians 1:11-17",
+    "slug": "galatians-1-11-17"
+  },
+  "section_title": "How did Paul become a messenger of Christ?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "11 For I want you to know, brothers, that the gospel I preached was not devised by man. 12 I did not receive it from any man, nor was I taught it; rather, I received it by revelation from Jesus Christ. 13 For you have heard of my former way of life in Judaism, how severely I persecuted the church of God and tried to destroy it. 14 I was advancing in Judaism beyond many of my contemporaries and was extremely zealous for the traditions of my fathers.",
+        "15 But when God, who set me apart from my mother’s womb and called me by His grace, was pleased 16 to reveal His Son in me so that I might preach Him among the Gentiles, I did not rush to consult with flesh and blood, 17 nor did I go up to Jerusalem to the apostles who came before me, but I went into Arabia and later returned to Damascus."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul explains why the gospel he brought cannot be traced to a human invention. He says he received it through revelation from Jesus Christ. His account of his former life and calling supports that claim.",
+    "",
+    "He had severely persecuted God’s church and tried to destroy it. He was advancing beyond many of his contemporaries in Judaism and was deeply zealous for his ancestral traditions. He describes his own former course, including the harm he did.",
+    "",
+    "The turning point comes through God’s grace. God, who had set him apart from his mother’s womb, was pleased to reveal His Son in him so that he might preach among the Gentiles. The purpose of the revelation includes a mission to others.",
+    "",
+    "Paul says he did not immediately consult human authorities or go to Jerusalem to the earlier apostles. He went to Arabia and later returned to Damascus. These details form part of his explanation of where his commission and message came from."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as Paul’s account of God’s gracious calling and his commission to proclaim Christ. [Wesley’s notes on verses 11–17](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-galatians/) and the [USCCB notes on verses 11–17](https://bible.usccb.org/bible/galatians/1) both emphasize the revelation and the mission to Gentiles."
+  ],
+  "god_plan_lines": [
+    "[Acts 13:46–48](https://biblehub.com/bsb/acts/13.htm) describes Paul and Barnabas turning to the Gentiles and citing [Isaiah 49:6](https://biblehub.com/bsb/isaiah/49.htm), with its purpose of bringing salvation to the ends of the earth.",
+    "",
+    "That explicit connection places Paul’s calling within the wider reach of God’s saving purpose. The Son revealed to him is the One he is sent to proclaim beyond his own people."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/galatians/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-galatians-one-review.md"
+  }
+}

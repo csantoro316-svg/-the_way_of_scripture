@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "18:1-11",
+    "label": "John 18:1-11",
+    "slug": "john-18-1-11"
+  },
+  "section_title": "Why does Jesus step forward to meet the people arresting Him?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 After Jesus had spoken these words, He went out with His disciples across the Kidron Valley, where they entered a garden. 2 Now Judas His betrayer also knew the place, because Jesus had often met there with His disciples. 3 So Judas brought a band of soldiers and officers from the chief priests and Pharisees. They arrived at the garden carrying lanterns, torches, and weapons.",
+        "4 Jesus, knowing all that was coming upon Him, stepped forward and asked them, “Whom are you seeking?” 5 “Jesus of Nazareth,” they answered. Jesus said, “I am He.” And Judas His betrayer was standing there with them. 6 When Jesus said, “I am He,” they drew back and fell to the ground. 7 So He asked them again, “Whom are you seeking?” “Jesus of Nazareth,” they answered. 8 “I told you that I am He,” Jesus replied. “So if you are looking for Me, let these men go.” 9 This was to fulfill the word He had spoken: “I have not lost one of those You have given Me.”",
+        "10 Then Simon Peter drew his sword and struck the servant of the high priest, cutting off his right ear. The servant’s name was Malchus. 11 “Put your sword back in its sheath!” Jesus said to Peter. “Shall I not drink the cup the Father has given Me?”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "After His prayer, Jesus crosses the Kidron Valley with His disciples and enters a garden they have visited before. Judas knows the place and brings soldiers and officers from the chief priests and Pharisees. John describes their weapons and lights without giving an exact number of men.",
+    "",
+    "Jesus knows what is coming and steps forward to ask whom they seek. When He identifies Himself, they draw back and fall to the ground. He then repeats the question and asks that His disciples be allowed to go. John explicitly connects this with His word about not losing those given to Him.",
+    "",
+    "Peter draws a sword and cuts off the right ear of Malchus, the high priest’s servant. Jesus commands him to put it away and speaks of drinking the cup the Father has given Him. The action Peter begins is stopped by the One he is trying to defend.",
+    "",
+    "The account keeps Jesus’ willingness in view. He is not unaware of the danger, and His concern for the disciples continues as the arrest takes place. His acceptance of what the Father has given Him explains why He does not allow Peter to fight His way out of it."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read the scene as showing Jesus’ authority and willing submission together. [Calvin on verses 4–9](https://biblehub.com/commentaries/calvin/john/18.htm) and [Wesley on verses 6–9](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) understand the arresting party’s fall and the disciples’ release as displays of His power and care. His rebuke of Peter directs attention to the mission He has accepted, rather than a rescue by the sword."
+  ],
+  "god_plan_lines": [
+    "This is the Good Shepherd acting in keeping with what He has taught. [John 10:11, 17–18](https://biblehub.com/bsb/john/10.htm) describes His laying down His life for the sheep willingly. In the garden, He steps forward and seeks His followers’ release while accepting what lies ahead.",
+    "",
+    "[Hebrews 10:5–10](https://biblehub.com/bsb/hebrews/10.htm) connects Christ’s coming to do God’s will with the offering of His body. His words about the Father’s cup belong to that willing offering. The arrest is part of the road to His sacrifice, not the collapse of His calling."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/18.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-eighteen-review.md"
+  }
+}

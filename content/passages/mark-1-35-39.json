@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "1:35-39",
+    "label": "Mark 1:35-39",
+    "slug": "mark-1-35-39"
+  },
+  "section_title": "Jesus Prays and Takes the Message to Other Towns",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "35 Early in the morning, while it was still dark, Jesus got up and went out to a solitary place to pray. 36 Simon and his companions went to look for Him, 37 and when they found Him, they said, “Everyone is looking for You!”",
+        "38 But Jesus answered, “Let us go on to the neighboring towns so I can preach there as well, for that is why I have come.” 39 So He went throughout Galilee, preaching in their synagogues and driving out demons."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After the crowded evening at Simon's home, Jesus rises before daylight and goes to a solitary place to pray. Simon and his companions find Him and tell Him that everyone is looking for Him. Jesus answers that they should go to the nearby towns so He can preach there too.",
+    "",
+    "The word for their search is καταδιώκω, *katadiōkō* (kah-tah-dee-OH-koh). [Thayer's lexicon](https://biblehub.com/greek/2614.htm) gives the sense of following after or seeking someone, and specifically treats this verse as a search in a good sense. The word alone does not tell us that Simon is angry with Jesus.",
+    "",
+    "The contrast is between the crowd's desire for His return and His purpose to take the message farther. He continues through Galilee, preaching in synagogues and driving out demons. Mark puts prayer and active service beside each other within that work.",
+    "",
+    "[Luke 4:42–44](https://biblehub.com/bsb/luke/4.htm) gives a related account in which the crowds try to keep Him from leaving and He explains that He has been sent to proclaim God's kingdom to other towns. Neither account gives us the words of this particular prayer."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as Jesus praying amid the demands of His ministry and remaining faithful to the purpose for which He came. [Calvin on Mark 1:38 and the parallel Luke 4:43](https://biblehub.com/commentaries/calvin/mark/1.htm) emphasizes the Father's calling and the need to spread the message, while [Wesley on Mark 1:35](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-mark/) notes His sustained service; no denominational breakdown is needed here."
+  ],
+  "god_plan_lines": [
+    "Jesus' prayer belongs to His life of obedience to the Father. [John 5:19–20](https://biblehub.com/bsb/john/5.htm) describes the Son's work in unity with the Father, and [Hebrews 5:7–9](https://biblehub.com/bsb/hebrews/5.htm) places His earthly prayers and obedience within His saving mission. Mark's brief scene lets us see that ministry is rooted in that relationship, even while people press for His attention.",
+    "",
+    "Taking the message to other towns also looks beyond one place's response. [Romans 10:14–17](https://biblehub.com/bsb/romans/10.htm) later explains the connection between sending, preaching, hearing, and faith. Jesus' movement through Galilee begins showing why the good news must be carried to people who have not yet heard it."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-one-closing-review.md"
+  }
+}

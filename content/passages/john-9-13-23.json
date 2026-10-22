@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "9:13-23",
+    "label": "John 9:13-23",
+    "slug": "john-9-13-23"
+  },
+  "section_title": "Why does a healing lead to questioning and fear?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 They brought to the Pharisees the man who had been blind. 14 Now the day on which Jesus had made the mud and opened his eyes was a Sabbath. 15 So the Pharisees also asked him how he had received his sight. The man answered, “He put mud on my eyes, and I washed, and now I can see.” 16 Because of this, some of the Pharisees said, “This man is not from God, for He does not keep the Sabbath.” But others said, “How can a sinful man perform such signs?” And there was division among them. 17 So once again they asked the man who had been blind, “What do you say about Him, since it was your eyes He opened?” “He is a prophet,” the man replied.",
+        "18 The Jews still did not believe that the man had been blind and had received his sight until they summoned his parents 19 and asked, “Is this your son, the one you say was born blind? So how is it that he can now see?” 20 His parents answered, “We know he is our son, and we know he was born blind. 21 But how he can now see or who opened his eyes, we do not know. Ask him. He is old enough to speak for himself.” 22 His parents said this because they were afraid of the Jews. For the Jews had already determined that anyone who confessed Jesus as the Christ would be put out of the synagogue. 23 That was why his parents said, “He is old enough. Ask him.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The man is brought to the Pharisees, and John now tells us that the healing happened on a Sabbath. The question becomes not only what happened but what it reveals about Jesus. Some conclude that He cannot be from God because He does not keep the Sabbath; others ask how a sinful man could perform such a sign. John explicitly records division among them, rather than one response shared by every Pharisee.",
+    "",
+    "The dispute concerns what counts as Sabbath work. [Mishnah Shabbat 7:2](https://www.sefaria.org/Mishnah_Shabbat.7.2?lang=bi) lists kneading among prohibited kinds of work, giving background to the objection over making mud. That list does not by itself tell us everything each person in this encounter believed, and John does not provide a full legal hearing. The man answers the question put to him by calling Jesus a prophet.",
+    "",
+    "His parents confirm two important facts: he is their son, and he was born blind. They do not explain how he now sees. Instead they direct the questioners back to their adult son. John tells us why they hold back: they fear being put out of the synagogue if they confess Jesus as the Christ. We do not need an invented account of their private conversation or their final beliefs to understand that pressure."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this scene as showing how an evident work of mercy can be resisted when it challenges an existing judgment about Jesus. [Calvin’s explanation of verses 16–18](https://biblehub.com/commentaries/calvin/john/9.htm) and [Wesley’s notes on verses 16–22](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) emphasize the questions about His authority and the cost of acknowledging Him."
+  ],
+  "god_plan_lines": [
+    "This is an early example of a cost Jesus later prepares His disciples to face. In [John 16:1–4](https://biblehub.com/bsb/john/16.htm), He warns that people will put them out of synagogues and may even think persecution serves God. That later warning is a clear parallel to the fear described here.",
+    "",
+    "The larger story is not only about receiving a miracle. It is about recognizing the One sent by the Father when doing so brings pressure. The man’s response will develop through that pressure, and Jesus will seek him out after he is rejected. Human exclusion does not place him beyond the reach of Christ."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/9.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-nine-review.md"
+  }
+}

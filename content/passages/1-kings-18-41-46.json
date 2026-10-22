@@ -1,0 +1,67 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "18:41-46",
+    "label": "1 Kings 18:41-46",
+    "slug": "1-kings-18-41-46"
+  },
+  "section_title": "How does the rain return after the long drought?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "41 And Elijah said to Ahab, “Go up, eat and drink, for there is the sound of a heavy rain.” 42 So Ahab went up to eat and drink. But Elijah climbed to the summit of Carmel, bent down on the ground, and put his face between his knees. 43 “Go and look toward the sea,” he said to his servant. So the servant went and looked, and he said, “There is nothing there.” Seven times Elijah said, “Go back.” 44 On the seventh time the servant reported, “There is a cloud as small as a man’s hand rising from the sea.” And Elijah replied, “Go and tell Ahab, ‘Prepare your chariot and go down before the rain stops you.’”",
+        "45 Meanwhile, the sky grew dark with clouds and wind, and a heavy rain began to fall. So Ahab rode away and went to Jezreel. 46 And the hand of the LORD came upon Elijah, and he tucked his cloak into his belt and ran ahead of Ahab all the way to Jezreel."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Elijah tells Ahab that heavy rain is coming. While the king goes to eat and drink, Elijah climbs Carmel and bows low to the ground with his face between his knees.",
+    "",
+    "He sends his servant to look toward the sea. At first there is nothing to report. On the seventh visit, the servant sees a small cloud. Elijah tells him to warn Ahab to leave before the rain delays him.",
+    "",
+    "The sky darkens, wind rises and heavy rain falls. Ahab heads to Jezreel, and the LORD strengthens Elijah to run ahead of him. The rain promised at the beginning of the chapter has come."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/18.htm) and [Gill](https://biblehub.com/commentaries/gill/1_kings/18.htm) read Elijah’s low posture and repeated watching as earnest, continuing prayer. His confidence concerns the rain God has already said He will send.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) also emphasizes God’s strengthening in the final scene. The account joins the prophet’s obedience and prayer with the LORD’s power to end the drought."
+  ],
+  "god_plan_lines": [
+    "[James 5:17–18](https://biblehub.com/bsb/james/5.htm) explicitly connects both the drought and its ending with Elijah’s prayer. The heavens give rain again, and the earth produces its crops.",
+    "",
+    "That connection shows why the promise of rain and the act of praying belong together. God announces what He will do, and Elijah continues to seek it from Him. James uses this history to encourage prayer by ordinary believers; the power is God’s, and the servant’s dependence is real."
+  ],
+  "current_position_lines": [
+    "Our [Prayer and Faith](../studies/prayer-and-faith.html) study understands Elijah’s effective prayer in terms of alignment with God’s declared will. Here God promises rain before Elijah returns to Ahab. His prayer expresses dependence on that promise, rather than an attempt to create a result apart from God’s purpose."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/18.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-eighteen-review.md",
+    "position_source_detail": "Prayer and Faith, James 5:14-16 section, explicit Elijah paragraph (content/studies/prayer_and_faith.md:340), read alongside James 5:17-18 and 1 Kings 18:1."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "48:23-29",
+    "label": "Ezekiel 48:23-29",
+    "slug": "ezekiel-48-23-29"
+  },
+  "section_title": "Which tribes receive the southern portions?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "23 As for the rest of the tribes: Benjamin will have one portion extending from the east side to the west side. 24 Simeon will have one portion bordering the territory of Benjamin from east to west. 25 Issachar will have one portion bordering the territory of Simeon from east to west. 26 Zebulun will have one portion bordering the territory of Issachar from east to west. 27 And Gad will have one portion bordering the territory of Zebulun from east to west.",
+        "28 The southern border of Gad will run from Tamar to the waters of Meribath-kadesh, then along the Brook of Egypt and out to the Great Sea. 29 This is the land you are to allot as an inheritance to the tribes of Israel, and these will be their portions,” declares the Lord GOD."
+      ]
+    }
+  ],
+  "context_lines": [
+    "South of the special district come Benjamin, Simeon, Issachar, Zebulun and Gad, each with a portion running from east to west.",
+    "",
+    "Gad’s southern boundary follows the route from Tamar through Meribath-kadesh and the Brook of Egypt to the Great Sea. The Lord closes the list by identifying this as the inheritance assigned to Israel’s tribes.",
+    "",
+    "Together with the seven northern portions, these five complete the twelve tribal shares. The holy district stands within a land in which the people themselves have a place."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezekiel/48.htm) treats the chapter as a description of the tribes’ several portions, and [Cambridge](https://biblehub.com/commentaries/cambridge/ezekiel/48.htm) places the special district between the northern allotments and the remaining tribes.",
+    "",
+    "The arrangement completes the inheritance already announced. It does not explain each tribe’s position through an individual spiritual ranking."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/48.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-forty-six-eight-review.md"
+  }
+}

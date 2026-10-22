@@ -1,0 +1,73 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "2:1-11",
+    "label": "2 Samuel 2:1-11",
+    "slug": "2-samuel-2-1-11"
+  },
+  "section_title": "Why is David king over Judah while another king rules Israel?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Some time later, David inquired of the LORD, “Should I go up to one of the towns of Judah?” “Go up,” the LORD answered. Then David asked, “Where should I go?” “To Hebron,” replied the LORD. 2 So David went there with his two wives, Ahinoam of Jezreel and Abigail the widow of Nabal of Carmel. 3 David also took the men who were with him, each with his household, and they settled in the towns near Hebron. 4 Then the men of Judah came to Hebron, and there they anointed David king over the house of Judah. And they told David, “It was the men of Jabesh-gilead who buried Saul.” 5 So David sent messengers to the men of Jabesh-gilead to tell them, “The LORD bless you, because you showed this kindness to Saul your lord when you buried him. 6 Now may the LORD show you loving devotion and faithfulness, and I will also show you the same favor because you have done this. 7 Now then, be strong and courageous, for though Saul your lord is dead, the house of Judah has anointed me as their king.”",
+        "8 Meanwhile, Abner son of Ner, the commander of Saul’s army, took Saul’s son Ish-bosheth, moved him to Mahanaim, 9 and made him king over Gilead, Asher, Jezreel, Ephraim, and Benjamin—over all Israel. 10 Saul’s son Ish-bosheth was forty years old when he began to reign over Israel, and he reigned for two years. The house of Judah, however, followed David. 11 And the length of time that David was king in Hebron over the house of Judah was seven years and six months."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After mourning Saul, David asks the LORD whether to return to Judah and where to go. The answer directs him to Hebron. He brings his wives, his men and their households, and the men of Judah anoint him king over their own people.",
+    "",
+    "David then sends thanks to Jabesh-gilead for burying Saul. He asks the LORD to show them loving devotion and faithfulness and promises kindness himself. His message also announces Judah’s decision to make him king. Honoring Saul’s burial and building relationships with Saul’s people go together.",
+    "",
+    "Abner, Saul’s army commander, acts on behalf of a different successor. He takes Saul’s son Ish-bosheth to Mahanaim and makes him king over Israel. Judah follows David, so Saul’s death has not produced immediate agreement about who should rule the whole nation.",
+    "",
+    "The passage gives Ish-bosheth’s age as forty and his reign as two years. David’s rule over Judah at Hebron lasts seven years and six months. The account now follows the struggle between the two royal houses before David’s wider recognition."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) emphasizes David beginning with inquiry rather than simply taking Saul’s death as permission to choose his next move. He also distinguishes Samuel’s earlier anointing, which designated David for kingship, from Judah’s public acknowledgment and the later acknowledgment by all Israel.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) sees the message to Jabesh-gilead as genuine kindness toward people who honored David’s former pursuer. It also offers them the protection and goodwill of Judah’s new king. Political wisdom and respect for their act of mercy need not exclude each other.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) and [Gill](https://biblehub.com/commentaries/gill/2_samuel/2.htm) understand Ish-bosheth’s two years as the period before the war that follows, rather than the whole span of the competing houses. The BSB states the two reign lengths directly; fitting them into a precise calendar involves further interpretation. The central point is clear: David rules Judah while Saul’s house still holds the allegiance of the rest of Israel."
+  ],
+  "god_plan_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/2.htm) sees a parallel between David’s contested kingship and the opposition Christ faces despite being appointed by God. David’s promise does not become immediate national agreement, and the delay does not mean God has abandoned His purpose.",
+    "",
+    "In [Acts 4:24–30](https://biblehub.com/bsb/acts/4.htm), believers pray about rulers opposing God’s Anointed and identify that opposition with the conspiracy against Jesus. His suffering does not defeat God’s purpose. The connection points beyond a political contest to the saving work God accomplishes through Christ.",
+    "",
+    "This is a limited parallel about opposition and God’s faithfulness. David’s campaign and Jesus’ saving mission are different events, and the point is not that every political rivalry can be assigned the same meaning. The hope rests in God bringing His purpose to completion."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/2.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-two-review.md"
+  }
+}

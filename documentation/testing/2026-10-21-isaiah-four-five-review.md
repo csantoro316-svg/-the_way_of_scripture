@@ -1,0 +1,31 @@
+# Isaiah 4–5 passage review — 2026-10-21
+
+Three retained groups /36actual BSBverses. Two supported plan sections /one deliberate omission. Three exact open positions; owner studies unchanged, existing deeper links retained.
+
+## Actually read sources
+
+BaselinePDF pages1–52actuallyread, including entire4–5lesson39–52. Whole actual BSB4/5mainverses6+30, actualHenry4/5exposition andwholeWesley4/5 read. WholeGill4body21891characters read in3chunks, Gill5:1,2,4,7,8,10,13,14,17,20,26,29 selected24191characters read in3chunks. USCCB4notesread, USCCB5HTTPerror/notused. Whole BDB6780sprout/growth including specificIsa4:2collectivegrowth andfuture-rulercategory;wholeBDB891worthlessfruitactualread. Lexicalheaderspronunciationchecked, unsignedTopicalLexiconnotauthority.
+
+ActualdirectBSBsupportread:Matt21:33–46;Mark12:1–12;Ex13:20–22;Rev7:9–17;Jer23:5–6;Zech3:6–10;Lev25:23–28;Eph5:15–21. ExistingownerstudyIsaiahsearchfoundonlyIsa29worship/Isa9Angelreferences, noapplicableIsa4/5developedposition. No existing deeper-study link removed. Individualcommentators/NABREnotesnotofficialdenominationdefinitions.
+
+## 4:1–6
+
+Plan section: included, because (b)/(c). Ex13cloudfire/scripturallysupportedrenewedpresenceparallel;Rev7:9–17washingLambblood/tabernacle/shelterfromheat/multinationpeople.
+Position source: none.
+FLAGGED FOR REVIEW:4:1concludes3preserveexistingURLgroup, explainsconnectionratherthansilentlymovingverse. Sevenwomenactualnotgenericnumbercode/requiredpolygamymodel; noallunmarriedwomenintrinsicallydisgraced. Baseline scabs=Rev16bowls/historicalcalendarproofnotestablished. BranchTsemachlexicallygrowthdoesnotautomaticallyproveMessiah; actualBDBclassifiesheregrowth, otherfuture-ruleruseschecked. NABRElandgrowthversusHenry/WesChristreadingfairlyattributed; notallCatholicsrejectmessianicreading. No claimwordprovescreatedSon/incarnationmechanism. Isaiah11differentHebrewwordnotconflated; royalconnectionJer23/Zech3actualchecked. BaselineChristonlybeautiful/gloriousatsecondcomingfalseexclusivepremise(Gillfirstcomingresurrectiongloryreading), notadopted. Recordedlivingnotnewsiteunconditionalelection/perseverancepositionwithoutownerstudy. No forcedallmoderngeographicZionalreadyneveranyfulfillment. GillantiCatholic/antiProtestantallegorynotcommonconsensus. NTsharedshelterthemesnotclaimRev7explicitlycitesIsa4directly.
+
+## 5:1–7
+
+Plan section: included, because (b). Well-supportedvineyard/wall/tower/winepress/fruitparallelJesus'tenantsparableMatt21/Mark12, explicitlysharedimagerynotexactquotationclaim.
+Position source: none.
+FLAGGED FOR REVIEW: Beushimlexiconworthlessgrapeschecked, notpoisonberrybotanicalspeciescertainty. No uncleAmaziahcomposedpoem/royalfamilytraditionasfact. Towers/press/stonesallcodedtemplealtarCanaanitepeople interpretationsnotnecessary, actualverse7governscentralpoint. No everyCanaaniteinnatelystupid/irredeemable claimfromGill. Hebrewjustice/bloodshedwordplaynotindependentlylexiconcheckednotused. BelovednotclaimedexplicitFatherSonidentificationinIsaiahverse1withoutNT; NTparable'ssonexplicitseparate. No allJewishpeopleeternallyrejected/racialcollectiveguilt; Jesus'leadershearersspecificactual. Mark12versusMatt21orderdifferentnotcombinedfabricatedquote. NoAInewownerposition.
+
+## 5:8–30
+
+Plan section: omitted, because none apply beyond judgment/fruitalreadyexplainedwithoutforcedRevelationtimetableorgenericrepetition.
+Position source: none.
+FLAGGED FOR REVIEW: JubileeLev25backgroundreadbut specificeverypurchaseunlawfullyneverreturnednotnarrated; noalllandtransactionssin. Baselineyieldtenthofnormalnotaccurateequivalencewithseedreturn; no modernmetricgallons/dollarconversionsfromconflictingWes/Gillmeasures. ActualBSBacre/bath/homer/ephahpreserved, noownunverifiedmetrologyclaim. Sheolenlargedmouthpoetrynotexactphysicalgeography/eternalfateeverycasualty. No currentclinicalalcohol/punishmentadvice.5:26BSBpluralnationsnotNASBsingularnation; exclusiveBabyloncertaintybaselineunconfirmed, WesleyChaldean/GillRome/Henrypatternattributed. No independentlionartifactverificationthereforenoBabylonlionproofidentification. Baselinev1/v2citationmistakesactually5:24/25notcopied. No imposedtimesGentilesmodernpoliticalcontinuityorpreciseage7yearendtimeframework.
+
+## Validation
+
+All directBSB/repository(0errors/363warnings), preservation, coverage115verses through5:30, idempotence, sixmobile renders and physicalNext passed. ExplicitScripture-project Hosting dryrun/deploy exited0; LIVE MATCH7 observedexit0. Prefix /tmp/scripture-isaiah-four-five-.

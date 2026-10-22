@@ -5,35 +5,48 @@
     "label": "Isaiah 10:1-4",
     "slug": "isaiah-10-1-4"
   },
-  "section_title": "Woe to Tyrants",
+  "section_title": "Who will help those who use the law to oppress others?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 Woe to those who enact unjust statutes",
-        "and issue oppressive decrees,",
-        "2 to deprive the poor of fair treatment",
-        "and withhold justice from the oppressed of My people,",
-        "to make widows their prey",
-        "and orphans their plunder.",
-        "3 What will you do on the day of reckoning",
-        "when devastation comes from afar?",
-        "To whom will you flee for help?",
-        "Where will you leave your wealth?",
-        "4 Nothing will remain but to crouch among the captives",
-        "or fall among the slain.",
-        "Despite all this, His anger is not turned away;",
-        "His hand is still upraised."
+        "1 Woe to those who enact unjust statutes and issue oppressive decrees, 2 to deprive the poor of fair treatment and withhold justice from the oppressed of My people, to make widows their prey and orphans their plunder.",
+        "3 What will you do on the day of reckoning when devastation comes from afar? To whom will you flee for help? Where will you leave your wealth? 4 Nothing will remain but to crouch among the captives or fall among the slain. Despite all this, His anger is not turned away; His hand is still upraised."
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 10**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "The warning continues the judgment announced in chapter 9, ending with the same refrain about the Lord’s anger and upraised hand. It now names people who write unjust laws and oppressive decrees.",
+    "",
+    "Their decisions deny fair treatment to the poor and turn widows and orphans into people to be exploited. The problem is built into the way authority is exercised: those responsible for protecting others use their position to take from them.",
+    "",
+    "The coming day of reckoning reverses their apparent security. They must answer where they will find help and leave their wealth when devastation arrives. Their power cannot save them from captivity or death, and the warning ends without announcing an end to God’s anger."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Woe to Tyrants** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/isaiah/10.htm) applies the warning to both those who devise unjust decrees and the officials who put them into effect. [Wesley](https://biblehub.com/commentaries/wes/isaiah/10.htm) similarly identifies rulers and judges who make unjust laws or hand down unjust decisions.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 10** remains the first control on meaning."
+    "Their shared emphasis is that legal authority does not make injustice right. The people who deny others a fair hearing will themselves have to answer to God, and neither wealth nor office will provide an escape."
   ],
-  "deeper_study": []
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/10.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-ten-review.md"
+  }
 }

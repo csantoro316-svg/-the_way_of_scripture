@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "Galatians",
+    "citation": "6:17-18",
+    "label": "Galatians 6:17-18",
+    "slug": "galatians-6-17-18"
+  },
+  "section_title": "How does Paul bring his appeal to a close?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 From now on let no one cause me trouble, for I bear on my body the marks of Jesus. 18 The grace of our Lord Jesus Christ be with your spirit, brothers. Amen."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul’s final request is that no one cause him further trouble. He points to the marks of Jesus that he bears on his body. After naming the desire to avoid persecution in verse 12, he directs attention to the bodily cost of his own service.",
+    "",
+    "The letter then ends with a blessing: the grace of the Lord Jesus Christ with their spirit. Paul still addresses them as brothers. After the letter’s sharp warnings and urgent appeals, its closing word returns them to Christ’s grace."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the marks as scars from Paul’s suffering in service to Christ. [Wesley’s note on verse 17](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-galatians/) takes them as the marks of affliction, and the [USCCB note on verse 17](https://bible.usccb.org/bible/galatians/6) connects them with the sufferings described in his letters and Acts."
+  ],
+  "god_plan_lines": [
+    "In [2 Corinthians 4:7–12](https://biblehub.com/bsb/2_corinthians/4.htm), Paul describes carrying the death of Jesus in his body so that Jesus’ life may also be revealed. Weakness and suffering become a setting in which God’s power is made known.",
+    "",
+    "That explicit connection helps place the marks here within the pattern of service to the crucified and risen Lord. The scars point to the cost of Paul’s work, while the grace of Christ remains the gift he desires for the churches."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/galatians/6.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-galatians-six-review.md"
+  }
+}

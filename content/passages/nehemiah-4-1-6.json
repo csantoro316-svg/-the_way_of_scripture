@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Nehemiah",
+    "citation": "4:1-6",
+    "label": "Nehemiah 4:1-6",
+    "slug": "nehemiah-4-1-6"
+  },
+  "section_title": "How does Nehemiah respond to the mockery?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Now when Sanballat heard that we were rebuilding the wall, he was furious and filled with indignation. He ridiculed the Jews 2 before his associates and the army of Samaria, saying, “What are these feeble Jews doing? Can they restore the wall by themselves? Will they offer sacrifices? Will they complete it in a day? Can they bring these burnt stones back to life from the mounds of rubble?” 3 Then Tobiah the Ammonite, who was beside him, said, “If even a fox were to climb up on what they are building, it would break down their wall of stones!”",
+        "4 Hear us, O God, for we are despised. Turn their scorn back upon their own heads, and let them be taken as plunder to a land of captivity. 5 Do not cover up their iniquity or let their sin be blotted out from Your sight, for they have provoked the builders. 6 So we rebuilt the wall until all of it was joined together up to half its height, for the people had a mind to work."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Sanballat ridicules the Jews before his associates and Samaria’s army, questioning their strength, materials and ability to finish. Tobiah adds that even a fox could break down their wall.",
+    "",
+    "Nehemiah turns to God with a severe prayer. He asks that the scorn return upon the opponents and that their wrongdoing not be covered or erased from God’s sight. The prayer does not soften the hostility the builders are facing.",
+    "",
+    "The account then returns to the work: the whole wall is joined to half its height because the people are willing to work. The ridicule has not brought construction to an end."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/nehemiah/4.htm) understands the severity of the prayer in light of hardened opposition. [Gill](https://biblehub.com/commentaries/gill/nehemiah/4.htm) reads it as concern for God’s justice rather than a private grudge, and additionally takes it as a prophetic judgment. These are explanations of the harsh petition the narrative records; the words are presented as an appeal to God."
+  ],
+  "god_plan_lines": [
+    "The New Testament joins concern for justice with a call to bless persecutors. [Romans 12:14–21](https://biblehub.com/bsb/romans/12.htm) forbids personal revenge, leaves judgment to God and calls believers to meet an enemy’s need.",
+    "",
+    "[1 Peter 2:21–25](https://biblehub.com/bsb/1_peter/2.htm) gives Christ’s response to abuse as the example: He entrusted Himself to the One who judges justly and bore sins so that people might live in righteousness. These teachings develop the question raised by Nehemiah’s prayer: how God’s people can bring wrongdoing before Him while following Christ’s way toward those who oppose them."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/nehemiah/4.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-nehemiah-three-five-review.md"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "2:13-25",
+    "label": "1 Kings 2:13-25",
+    "slug": "1-kings-2-13-25"
+  },
+  "section_title": "Why does a request to marry Abishag lead to Adonijah’s death?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 Now Adonijah son of Haggith went to Bathsheba the mother of Solomon, and she asked, “Do you come in peace?” “Yes, in peace,” he replied. 14 Then he said, “I have something to tell you.” “Say it,” she answered. 15 “You know that the kingship was mine,” he said. “All Israel expected that I should reign, but the kingship has turned to my brother, for it has come to him from the LORD. 16 So now I have just one request of you; do not deny me.” “State your request,” she told him. 17 Adonijah replied, “Please speak to King Solomon, since he will not turn you down. Let him give me Abishag the Shunammite as my wife.” 18 “Very well,” Bathsheba replied. “I will speak to the king for you.”",
+        "19 So Bathsheba went to King Solomon to speak to him for Adonijah. The king stood up to greet her, bowed to her, and sat down on his throne. Then the king had a throne brought for his mother, who sat down at his right hand. 20 “I have just one small request of you,” she said. “Do not deny me.” “Make your request, my mother,” the king replied, “for I will not deny you.” 21 So Bathsheba said, “Let Abishag the Shunammite be given to your brother Adonijah as his wife.” 22 King Solomon answered his mother, “Why do you request Abishag the Shunammite for Adonijah? Since he is my older brother, you might as well request the kingdom for him and for Abiathar the priest and for Joab son of Zeruiah!”",
+        "23 Then King Solomon swore by the LORD: “May God punish me, and ever so severely, if Adonijah has not made this request at the expense of his life. 24 And now, as surely as the LORD lives—the One who established me, who set me on the throne of my father David, and who founded for me a dynasty as He promised—surely Adonijah shall be put to death today!” 25 So King Solomon gave orders to Benaiah son of Jehoiada, and he struck down Adonijah and he died."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Adonijah approaches Bathsheba, saying that the kingdom had been expected to be his but has come to Solomon from the LORD. He asks her to request Abishag as his wife.",
+    "",
+    "Bathsheba agrees to speak for him. Solomon receives his mother with honor, but reacts strongly to the request. He links it with the kingdom itself and names Adonijah’s earlier supporters, Abiathar and Joab.",
+    "",
+    "Solomon declares that Adonijah has made the request at the cost of his life. He orders Benaiah to kill him. The marriage request is thus treated by the king as a renewed threat to his rule."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/2.htm) reads the request as another attempt to gain the throne and considers Adonijah a continuing danger. Solomon’s own response in verse 22 explicitly links Abishag with the claim to the kingdom.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) is less certain: he questions whether Adonijah intended wrongdoing and whether Solomon’s execution of him was right. [Clarke](https://biblehub.com/commentaries/clarke/1_kings/2.htm) is more directly critical, emphasizing that Adonijah is killed on suspicion without a recorded hearing.",
+    "",
+    "The difference concerns how confidently to infer Adonijah’s purpose and how to judge Solomon’s response. His earlier ambition is part of the context, but this scene gives no separate speech in which he explains a secret plan to seize power."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/2.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-two-review.md"
+  }
+}

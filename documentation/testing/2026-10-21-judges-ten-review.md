@@ -1,0 +1,40 @@
+# Judges 10 passage review — 2026-10-21
+
+Three retained groups1–2/3–5/6–18, all18BSBverses directlyread. One supportedplan, two intentionalomissions for brief judge notices. No positions originated. All public content plain prose; no compulsory word-study quota.
+
+## Sources actually checked
+
+Baseline07-judges.pdf pages211–214introductionandwhole10lesson215–226read. WholePDF1–226nowread;227+unread. Usefulleadsrepentancewithaction,God'scompassion,livingdistinctlywhiletrustingHishelp. ClaimsaboutJair/people'sprivatehearts/moderncausesofmiserynotadoptedwithoutproof.
+
+- https://biblehub.com/bsb/judges/10.htm — all18verses actuallyread. 10:18headGilead,notrewardAmmoniteland. SpeakerGod'sreplynotmediumspecified. NoBSBquotationfromPDForolderprimarycommentaryBibletext.
+- https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-judges/ — wholechapterXactuallyread,wisegovernmentTola/deputiesJairhypothesis/conditionalwarning/changedworship/compassion. NoofficialMethodistdenominationclaim.
+- https://biblehub.com/commentaries/mhc/judges/10.htm — wholeconcisechapter4625charsactuallyread. PositiveassessmentBOTHjudges,repentancefromsin,fathercompassionillustration. Notbaseline'snegativeJairassessmentasconsensus.
+- https://biblehub.com/commentaries/gill/judges/10.htm — completeactualcomments4/13/16read. Deputysonsproposal,conditionalwarning,God'sunchangingnatureandcompassionateactions. NoofficialBaptistconfessionrulingasserted;hisreportofAbarbinelalternativeisnotprimarycheckedsoomittedasattribution.
+- https://biblehub.com/hebrew/7114.htm — completeactualBDBentryread:rootIbe short/impatient/enduranceexplicit10:16;distinctrootIIharvestalsovisible. Usedasguardonly;no unnecessaryliteralEnglishshortsoultechnicalreadoutpublic. NoGodcannolongerendureexistenceofallIsraelvsactualmiseryrewrite.
+- https://biblehub.com/bsb/luke/15.htm — actual11–24read,sonreturnconfessionandfathercompassion. PlanexplicitparallelnotliteralidenticalIsraelfamilyinheritancetypology.
+- https://biblehub.com/bsb/1_corinthians/5.htm — actual9–13readasguard:doesnotcommandseveringallcontactwithoutsideworld.
+- https://biblehub.com/bsb/john/17.htm — actual14–18readasguard:Jesussendsfollowersintoworld,notaskingthemtobetakenout. Lasttwoinformrejectionofblanketbaselineisolationclaims;notadditionalpublicscope.
+
+## Judges10:1–2
+
+Plan section: omitted, because none apply. Briefservice/deathnotice;anothergeneraljudges→Christdiscussionwouldrepeatestablishedbookintroandneighborconnectionswithoutaddingtextualsubstance.
+Position source: none.
+FLAGGED FOR REVIEW: NoTolaheirtoAbimelechdynasty/noautomaticdetailedbattleinvented. Weswiseadministrationexplicitlyinterpretation,notnarratedstaffandpolicyhistory. NoexactShamirarchaeologyorindependentlyunverifieddate. YearsandfamilyretainedactualBSB. Absencebattleaccountdoesnotprovehecaneverhavefought.
+
+## Judges10:3–5
+
+Plan section: omitted, because none apply. Householdtownssuccessionnotice,nonewNTconnectionorsupportedtypologythataddsneighborcontent.
+Position source: none.
+FLAGGED FOR REVIEW: ThirtysonsdoesnotproveJairtookmanywivesorallhisleadershipcorrupt. HenrypositivelyassessesJair;publicdoesnotpigeonholebaselineasconsensus. DeputiesareWes/Gillproposalnotexplicittextualappointments. Donkeys/townsreportfamilyprominencewithoutmoralcondemnationorassertionnoIsraeliteshadanyhorses. NoJaircertainlyidenticalMoseseraJairor300yearlifespan. Noallhisfamilyautomaticallyfalsegodsfromfollowingnationalapostasy;causationnotprovenbysequencealone.
+
+## Judges10:6–18
+
+Plan section: included, because(b)/(c). Luke15sonturn/confess/returnandfathercompassionparallel;God'slargerpurposegenuinereturnandjoyofrestorationbeyondrelief.
+Position source: none.
+FLAGGED FOR REVIEW: NoeveryIsraeliteofmillionsconfessedinpreciseunison/privateheartindividuallyfullyknown. PeopleputgodsawayandserveLORDactual;nospuriousinferenceallsufferingcausedbyspecificperson'spridefrommodernjob/health/marriage/addiction. NoGodnecessarilyhadsamefeelinglimitsasfallenhuman/compassionnotreducedunrealwithoutclaimingofficialalltraditionmetaphysics. Gill'sunchangingGodreadattributedplainly. 10:13warninghasactualnarrativeaftermath10:16/laterrescue;conditionalreadingattributed,notneweternalsecuritysystem.
+
+FLAGGED FOR REVIEW: 10:18leadGILEADnotlandAmmonites. MizpahGileadnotautomaticallywestbankdespitelocationGilead;noinventedarchaeologicalidentification. Godreplydoesnotnameprophet/highpriestUrimmedium;Wespossibilitiesnotfact. Noexact250yearsinto300chronologyasverifiedhistory. Sevenlistedgodgroupsnotfixedsevenindividualdeities/numbercode. Noallscience/reasonantiGodaxiom,allfriendshipwithunbelieversnecessarilycorruption,orevangelismimpossible. 1Cor5/John17guardseparationfromidolatryvsremovalfromworld. HenryfatheranalogyandLuke15actuallychecked,noequatingeveryfamilypartdetailwithGodororiginalsinethnicindictment. Noownerstudyedits.
+
+## Validation
+
+PASS: threeexactBSBchecks;repo0errors225warnings(twoaddedintentionalomissions10:1–2/3–5);preservation;continuouscoverage33groups320versesthrough10:18;idempotence;six390pxreader/standaloneviews;actualNext10:1–2to10:3–5URL/title/focus/visibleheading. ExplicitprojectHostingdryrun/deployexit0;livecomparisonexit0 LIVE MATCH7. Oneplan,no newpositions;globalintentionalreviewedomissions59. Logs /tmp/scripture-judges-ten-*.

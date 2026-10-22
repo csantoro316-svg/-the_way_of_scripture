@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "12:24-25",
+    "label": "2 Samuel 12:24-25",
+    "slug": "2-samuel-12-24-25"
+  },
+  "section_title": "What does Solomon’s birth reveal after the loss?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "24 Then David comforted his wife Bathsheba, and he went to her and lay with her. So she gave birth to a son, and they named him Solomon. Now the LORD loved the child 25 and sent word through Nathan the prophet to name him Jedidiah because the LORD loved him."
+      ]
+    }
+  ],
+  "context_lines": [
+    "David comforts Bathsheba, and afterward she gives birth to another son, Solomon. The account expressly says that the LORD loves this child and sends word through Nathan to name him Jedidiah.",
+    "",
+    "[Brown–Driver–Briggs](https://biblehub.com/hebrew/3041.htm) gives the name Jedidiah the meaning beloved of Yah, referring to the LORD. The name expresses the love the narrative has just announced. This is another child, not a new name for the son who died."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/12.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) read the announcement as a sign of God’s continuing favor toward David’s family. The loss and the wrongdoing have not become the whole future of the household.",
+    "",
+    "The description focuses on God’s love for Solomon and the comfort David gives Bathsheba. It does not ask us to treat one child as interchangeable with another or to assume that a later birth removes their grief."
+  ],
+  "god_plan_lines": [
+    "[Matthew 1:6–7, 16–17](https://biblehub.com/bsb/matthew/1.htm) explicitly includes Solomon in the family line leading to Jesus. It also recalls his mother as Uriah’s wife, keeping the painful history in view as it traces God’s work toward the Christ.",
+    "",
+    "This is a direct connection to God’s saving purpose. The family’s story continues toward Jesus, while the account of David’s wrongdoing remains on the page. God’s faithfulness reaches through a damaged history without requiring us to rename its wrongs as good."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/12.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-twelve-review.md"
+  }
+}

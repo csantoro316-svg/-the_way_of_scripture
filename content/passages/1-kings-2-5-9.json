@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "2:5-9",
+    "label": "1 Kings 2:5-9",
+    "slug": "1-kings-2-5-9"
+  },
+  "section_title": "Why are David’s instructions about Joab and Shimei debated?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 Moreover, you know what Joab son of Zeruiah did to me—what he did to Abner son of Ner and Amasa son of Jether, the two commanders of the armies of Israel. He killed them in peacetime to avenge the blood of war. He stained with the blood of war the belt around his waist and the sandals on his feet. 6 So act according to your wisdom, and do not let his gray head go down to Sheol in peace. 7 But show loving devotion to the sons of Barzillai the Gileadite, and let them be among those who eat at your table, because they stood by me when I fled from your brother Absalom.",
+        "8 Keep an eye on Shimei the son of Gera, the Benjamite from Bahurim who is with you. He called down bitter curses against me on the day I went to Mahanaim, but when he came down to meet me at the Jordan, I swore to him by the LORD: ‘I will never put you to the sword.’ 9 Now therefore, do not hold him guiltless, for you are a wise man. You know what you ought to do to him to bring his gray head down to Sheol in blood.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "David reminds Solomon that Joab killed Abner and Amasa in peacetime. He tells his son to deal with Joab according to wisdom and not let him go to the grave in peace.",
+    "",
+    "He also asks Solomon to show kindness to Barzillai’s sons because of their help during Absalom’s rebellion. They are to have a place at the royal table.",
+    "",
+    "David then recalls Shimei’s bitter curses and his own oath not to put Shimei to the sword. Despite that oath, he tells Solomon not to hold Shimei guiltless and speaks of bringing him to death. The relationship between the oath and this instruction is an important question in reading the passage."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/2.htm) defends the instructions as concern for the security of Solomon’s throne rather than personal resentment. He considers Joab’s murders and Shimei’s hostility continuing matters of public responsibility.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) sharply questions the instruction about Shimei. Reading David’s earlier oath in [2 Samuel 19:23](https://biblehub.com/bsb/2_samuel/19.htm) as an absolute promise, he considers this dying charge a serious failure in David’s life.",
+    "",
+    "These readings differ over whether the instructions carry out public justice or compromise a promise already made. The text records David’s words; the fact that he gives them does not make the question about his oath disappear."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/2.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-two-review.md"
+  }
+}

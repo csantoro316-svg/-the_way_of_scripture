@@ -5,7 +5,7 @@
     "label": "Genesis 26:34-35",
     "slug": "genesis-26-34-35"
   },
-  "section_title": "Esau\u2019s Wives",
+  "section_title": "Esau’s Wives",
   "versions": [
     {
       "label": "BSB",
@@ -15,12 +15,23 @@
     }
   ],
   "context_lines": [
-    "In **Genesis 26**, Isaac faces famine under the shadow of the promises first given to Abraham. The chapter shows the Lord directing, preserving, and blessing Isaac, highlighting the contrast between divine guidance and fearful self-management."
+    "At forty, Esau marries two Hittite women, Judith and Basemath. Genesis says that they bring grief to Isaac and Rebekah, without describing particular conversations or incidents. The short notice interrupts the account of Isaac's outward prosperity with trouble inside his family.",
+    "",
+    "The marriages also prepare for what follows. Abraham had sought a wife for Isaac from his relatives rather than the Canaanites in chapter 24. Rebekah will raise her distress over the Hittite women again in Genesis 27:46, and Isaac will send Jacob away to find a wife among her family. Esau's marriages are therefore part of the setting for Jacob's departure."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Esau\u2019s Wives** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 26** remains the first control on meaning."
+    "A common Christian reading sees Esau's marriages as a source of family grief and a contrast with the concern to preserve the family's calling when choosing a spouse. [Wesley's Genesis 26 overview and note on verse 34](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) make that connection."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/26.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-isaac-and-bethel-review.md"
+  }
 }

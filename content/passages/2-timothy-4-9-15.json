@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "2 Timothy",
+    "citation": "4:9-15",
+    "label": "2 Timothy 4:9-15",
+    "slug": "2-timothy-4-9-15"
+  },
+  "section_title": "What do Paul’s requests reveal about ministry and friendship?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "9 Make every effort to come to me quickly, 10 because Demas, in his love of this world, has deserted me and gone to Thessalonica. Crescens has gone to Galatia, and Titus to Dalmatia. 11 Only Luke is with me. Get Mark and bring him with you, because he is useful to me in the ministry. 12 Tychicus, however, I have sent to Ephesus. 13 When you come, bring the cloak that I left with Carpus at Troas, and my scrolls, especially the parchments.",
+        "14 Alexander the coppersmith did great harm to me. The Lord will repay him according to his deeds. 15 You too should beware of him, for he has vigorously opposed our message."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul asks Timothy to come quickly. Demas has deserted him because he loves this world. Crescens and Titus have also gone elsewhere, but the verse does not give them Demas’s stated motive. Paul says that he himself sent Tychicus to Ephesus.",
+    "",
+    "Luke is with him, and he wants Timothy to bring Mark because Mark is useful in ministry. He also asks for the cloak left at Troas and for his scrolls, especially the parchments. Faithful service includes ordinary needs and dependence on other people’s help.",
+    "",
+    "The warning about Alexander is different from those travel updates. Alexander has actively opposed the message and caused harm. Timothy should beware of him; Paul places repayment in the Lord’s hands."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/2_timothy/4.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-timothy/) distinguish Demas’s desertion from the other coworkers’ departures, which they understand as legitimate ministry travel. Both also recognize Mark’s present usefulness after his earlier departure from Paul’s work.",
+    "",
+    "Calvin does not take the statement about Demas as proof that he completely renounced Christ. The [USCCB note](https://bible.usccb.org/bible/2timothy/4) allows either abandonment of ministry for worldly concerns or departure from faith itself. The text identifies his love of the world and desertion, without giving his later history."
+  ],
+  "god_plan_lines": [
+    "[Acts 13:13](https://biblehub.com/bsb/acts/13.htm) records John Mark leaving the journey, and [Acts 15:36–40](https://biblehub.com/bsb/acts/15.htm) records the disagreement between Paul and Barnabas over taking him again. Paul’s present request shows that the earlier conflict was not the last word on Mark’s usefulness.",
+    "",
+    "[Colossians 4:7–11](https://biblehub.com/bsb/colossians/4.htm) also places Tychicus and Mark among coworkers who serve and encourage the church. These connections show a mission carried through real relationships, in which help is shared and earlier failure need not end a person’s service."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_timothy/4.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-timothy-four-review.md"
+  }
+}

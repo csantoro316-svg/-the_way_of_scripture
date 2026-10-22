@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "9:24-25",
+    "label": "1 Kings 9:24-25",
+    "slug": "1-kings-9-24-25"
+  },
+  "section_title": "How are Solomon’s household and temple worship put in order?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "24 As soon as Pharaoh’s daughter had come up from the City of David to the palace that Solomon had built for her, he built the supporting terraces. 25 Three times a year Solomon offered burnt offerings and peace offerings on the altar he had built for the LORD, burning incense with them before the LORD. So he completed the temple."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Pharaoh’s daughter moves from the City of David into the residence Solomon has built for her. The account then notes his work on the supporting terraces.",
+    "",
+    "Solomon also provides burnt offerings and peace offerings three times a year, with incense before the LORD. The closing statement about completing the temple brings together the finished building and the worship conducted there."
+  ],
+  "common_interpretation_lines": [
+    "[Gill](https://biblehub.com/commentaries/gill/1_kings/9.htm) links the move of Pharaoh’s daughter with [2 Chronicles 8:11](https://biblehub.com/bsb/2_chronicles/8.htm), where Solomon explains that the places entered by the ark are holy. The parallel supplies the reason Kings leaves unstated.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) and Gill connect the three annual occasions with the major festivals. Gill understands Solomon’s offerings and incense as provided through the priests, rather than as the king personally taking over their work. His reading of completion includes putting the temple service into operation."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/9.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-nine-review.md"
+  }
+}

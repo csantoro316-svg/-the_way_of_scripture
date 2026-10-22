@@ -1,0 +1,49 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "10:1-3",
+    "label": "Daniel 10:1-3",
+    "slug": "daniel-10-1-3"
+  },
+  "section_title": "How does Daniel prepare to receive the final vision?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 In the third year of Cyrus king of Persia, a message was revealed to Daniel, who was called Belteshazzar. The message was true, and it concerned a great conflict. And the understanding of the message was given to him in a vision. 2 In those days I, Daniel, was mourning for three full weeks. 3 I ate no rich food, no meat or wine entered my mouth, and I did not anoint myself with oil until the three weeks were completed."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The final encounter begins in the third year of Cyrus. Daniel, also called Belteshazzar, receives a true message concerning a great conflict. This encounter continues through the remaining chapters of the book.",
+    "",
+    "He describes three full weeks of mourning. During that time he eats no rich food or meat, drinks no wine and uses no anointing oil. His abstinence expresses the seriousness of his seeking.",
+    "",
+    "The chapter’s opening states that understanding is given to him. What follows explains the encounter through which he is strengthened and prepared to hear about his people’s future."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/daniel/10.htm) and [Gaebelein](https://biblehub.com/commentaries/gaebelein/daniel/10.htm) treat the chapter as preparation for the final prophecy. [Cambridge](https://biblehub.com/commentaries/cambridge/daniel/10.htm) connects Daniel’s mourning and self-humbling with his concern to understand the future of his people."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/10.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-ten-review.md"
+  }
+}

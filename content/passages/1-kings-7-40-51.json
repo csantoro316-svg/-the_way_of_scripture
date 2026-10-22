@@ -1,0 +1,68 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "7:40-51",
+    "label": "1 Kings 7:40-51",
+    "slug": "1-kings-7-40-51"
+  },
+  "section_title": "How is the completed temple furnished and supplied?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "40 Additionally, Huram made the pots, shovels, and sprinkling bowls. So Huram finished all the work that he had undertaken for King Solomon in the house of the LORD: 41 the two pillars; the two bowl-shaped capitals atop the pillars; the two sets of network covering both bowls of the capitals atop the pillars; 42 the four hundred pomegranates for the two sets of network (two rows of pomegranates for each network covering both the bowl-shaped capitals atop the pillars); 43 the ten stands; the ten basins on the stands; 44 the Sea; the twelve oxen underneath the Sea; 45 and the pots, shovels, and sprinkling bowls. All the articles that Huram made for King Solomon in the house of the LORD were made of burnished bronze. 46 The king had them cast in clay molds in the plain of the Jordan between Succoth and Zarethan. 47 Solomon left all these articles unweighed, because there were so many. The weight of the bronze could not be determined.",
+        "48 Solomon also made all the furnishings for the house of the LORD: the golden altar; the golden table on which was placed the Bread of the Presence; 49 the lampstands of pure gold in front of the inner sanctuary, five on the right side and five on the left; the gold flowers, lamps, and tongs; 50 the pure gold basins, wick trimmers, sprinkling bowls, ladles, and censers; and the gold hinges for the doors of the inner temple (that is, the Most Holy Place) as well as for the doors of the main hall of the temple. 51 So all the work that King Solomon had performed for the house of the LORD was completed. Then Solomon brought in the items his father David had dedicated—the silver, the gold, and the furnishings—and he placed them in the treasuries of the house of the LORD."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The narrator gathers Huram’s completed bronze work into a final inventory: pillars, capitals, decorated networks, stands, basins, the Sea, oxen and utensils. The bronze has been cast in the Jordan plain, and its total weight is left unrecorded because of its abundance.",
+    "",
+    "The gold furnishings are then named, including the altar, the table for the Bread of the Presence, ten lampstands, vessels, tools and door hinges.",
+    "",
+    "Finally, Solomon brings in the silver, gold and furnishings his father David dedicated and places them in the temple treasuries. The building and its equipment are ready for the dedication that follows."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) understands the stored silver, gold and vessels as the resources David had dedicated that remained available after the work. The new king carries his father’s preparations into the completed house.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/7.htm) turns the inventory toward the worship it serves, drawing attention to giving ourselves and what we have to God. The value of the objects points beyond possession and display to their use in His service."
+  ],
+  "god_plan_lines": [
+    "The background to David’s dedicated resources appears in [1 Chronicles 29:1–9](https://biblehub.com/bsb/1_chronicles/29.htm). David gives from his own treasures, the leaders give willingly, and the people rejoice at their wholehearted response.",
+    "",
+    "A related theme appears in [2 Corinthians 9:6–12](https://biblehub.com/bsb/2_corinthians/9.htm): giving is to come from a willing heart, with God supplying what enables generosity. The result includes needs being met and thanksgiving offered to God.",
+    "",
+    "The settings are different—preparing a temple and helping believers in need—but both connect resources with service and grateful generosity. The point is larger than amassing precious objects: what is given is put to use in honoring God and serving His purposes."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/7.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-seven-review.md"
+  }
+}

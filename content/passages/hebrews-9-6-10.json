@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "9:6-10",
+    "label": "Hebrews 9:6-10",
+    "slug": "hebrews-9-6-10"
+  },
+  "section_title": "What did the restricted entrance show?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 When everything had been prepared in this way, the priests entered regularly into the first room to perform their sacred duties. 7 But only the high priest entered the second room, and then only once a year, and never without blood, which he offered for himself and for the sins the people had committed in ignorance.",
+        "8 By this arrangement the Holy Spirit was showing that the way into the Most Holy Place had not yet been disclosed as long as the first tabernacle was still standing. 9 It is an illustration for the present time, because the gifts and sacrifices being offered were unable to cleanse the conscience of the worshiper. 10 They consist only in food and drink and special washings—external regulations imposed until the time of reform."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The priests regularly served in the first room, but entrance behind the second curtain was restricted to the high priest on the annual Day of Atonement. He brought blood for himself and for the people. [Leviticus 16](https://biblehub.com/bsb/leviticus/16.htm) gives the instructions for that day.",
+    "",
+    "The Holy Spirit was teaching through this arrangement. The limited access showed that the way into the Most Holy Place had not yet been disclosed while the first arrangement remained in force. The writer reads the sanctuary as an illustration with a purpose beyond its immediate duties.",
+    "",
+    "The gifts, sacrifices, food rules and washings could not provide the cleansing of conscience that the passage goes on to describe in Christ. They had a real place in Israel’s worship, but they could not accomplish everything people needed. Their temporary role prepared for the reform Christ brings."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/9.htm), [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) and the [USCCB notes](https://bible.usccb.org/bible/hebrews/9) understand the restricted entrance and repeated service as pointing to the greater access and cleansing supplied by Christ.",
+    "",
+    "Calvin and Wesley differ over the sins described in verse 7. Wesley limits the reference to sins of ignorance. Calvin takes it more broadly, including willful sins in which desire blinds a person’s judgment. [Leviticus 16:16, 21](https://biblehub.com/bsb/leviticus/16.htm) describes the day’s cleansing in terms that include Israel’s rebellious acts. The difference concerns the scope of the description, rather than whether the high priest needed atonement himself."
+  ],
+  "god_plan_lines": [
+    "[Matthew 27:50–51](https://biblehub.com/bsb/matthew/27.htm) records the temple curtain being torn when Jesus died. Read alongside [Hebrews 10:19–22](https://biblehub.com/bsb/hebrews/10.htm), it fits the movement from restricted entrance to access through Christ.",
+    "",
+    "The point is not that God’s holiness has disappeared. People draw near because Jesus has dealt with the barrier of sin. Hebrews follows that invitation with a call to sincere faith, a cleansed heart and care for one another."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/9.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-nine-review.md"
+  }
+}

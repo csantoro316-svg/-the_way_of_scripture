@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "19:16-22",
+    "label": "Matthew 19:16-22",
+    "slug": "matthew-19-16-22"
+  },
+  "section_title": "The Rich Young Man Is Called to Follow Jesus",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "16 Just then a man came up to Jesus and inquired, “Teacher, what good thing must I do to obtain eternal life?” 17 “Why do you ask Me about what is good?” Jesus replied. “There is only One who is good. If you want to enter life, keep the commandments.” 18 “Which ones?” the man asked. Jesus answered, “‘Do not murder, do not commit adultery, do not steal, do not bear false witness, 19 honor your father and mother, and love your neighbor as yourself.’”",
+        "20 “All these I have kept,” said the young man. “What do I still lack?” 21 Jesus told him, “If you want to be perfect, go, sell your possessions and give to the poor, and you will have treasure in heaven. Then come, follow Me.” 22 When the young man heard this, he went away in sorrow, because he had great wealth."
+      ]
+    }
+  ],
+  "context_lines": [
+    "A man asks Jesus what good thing he must do to obtain eternal life. Jesus directs him toward the One who is good and tells him to keep the commandments. When he asks which ones, Jesus names commands about his treatment of others, including love for his neighbor.",
+    "",
+    "The young man says he has kept them and asks what he still lacks. Jesus tells him to sell his possessions, give to the poor, and follow Him. He promises treasure in heaven. The man's sorrowful departure reveals the weight of the choice: he has great wealth.",
+    "",
+    "Perfect is τέλειος, *teleios* (TEH-lay-oss). [Thayer's entry](https://biblehub.com/greek/5046.htm) gives the sense of completeness and includes Matthew 19:21 among uses concerning a person's character. Jesus brings the question about what is lacking to the concrete choice of generosity and following Him.",
+    "",
+    "The conversation continues in verses 23–26 with the difficulty wealth presents and God's power to save. [Mark 10:17–22](https://biblehub.com/bsb/mark/10.htm) records Jesus' love for the man, while [Luke 18:18–23](https://biblehub.com/bsb/luke/18.htm) calls him a ruler. Matthew emphasizes that he is young and owns much."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly see the man's wealth as an obstacle to following Jesus. [Wesley on 19:17–21](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) understands obedience as flowing from loving faith and the command to sell as a particular requirement for this man. The [US Catholic bishops' notes on 19:16–22](https://bible.usccb.org/bible/matthew/19) likewise stress the hold of possessions and do not treat selling everything as a command addressed to every Christian.",
+    "",
+    "There is a broader difference over particular ways of pursuing holiness. Catholic teaching distinguishes commands given to everyone from invitations to give up things that can hinder growth in love, practiced according to each person's calling ([Catechism, 1973–1974](https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_three/article_1/iii_the_new_law_or_the_law_of_the_gospel.html)). The command to love God and neighbor remains for all.",
+    "",
+    "The Reformed [Westminster Confession, 16.2–5](https://www.opc.org/wcf.html), describes good works as the fruit of faith and denies that anyone can do more than God requires or earn eternal life by those works. The [Methodist Articles, X–XI](https://www.umc.org/en/content/articles-of-religion), likewise affirm good works flowing from faith while rejecting the claim to perform extra works beyond one's duty to God. These differences should not obscure the passage's direct question: will this man follow Jesus when doing so costs him what he holds dear?"
+  ],
+  "god_plan_lines": [
+    "God brings people to Himself through Christ. [2 Corinthians 5:18–21](https://biblehub.com/bsb/2_corinthians/5.htm) describes Him reconciling the world to Himself in Christ and making the sinless One to be sin on our behalf, so that in Him we might become God's righteousness. The Savior who calls the man to follow Him will give His own life for sinners.",
+    "",
+    "[Ephesians 2:8–10](https://biblehub.com/bsb/ephesians/2.htm) joins salvation by grace through faith with a life created for good works. God's gift brings people into a new way of living. The call to generosity and following Jesus belongs within that larger purpose of receiving life in Christ and learning to walk with Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/19.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-nineteen-review.md"
+  }
+}

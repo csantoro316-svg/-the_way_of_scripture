@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "James",
+    "citation": "1:19-21",
+    "label": "James 1:19-21",
+    "slug": "james-1-19-21"
+  },
+  "section_title": "What helps us receive God’s word?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "19 My beloved brothers, understand this: Everyone should be quick to listen, slow to speak, and slow to anger, 20 for man’s anger does not bring about the righteousness that God desires. 21 Therefore, get rid of all moral filth and every expression of evil, and humbly accept the word planted in you, which can save your souls."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The word that gives new birth in verse 18 is now the word the readers must humbly receive. Listening, speaking and anger all matter to that response. James asks them to be ready to listen and restrained in speech and anger.",
+    "",
+    "Anger does not produce the righteousness God desires. The response is to put away evil and welcome the planted word. James’ picture joins receiving God’s message with allowing it to take root in life.",
+    "",
+    "The promise that the word can save their souls gives this instruction its weight. It concerns their lives before God, rather than merely becoming more agreeable in conversation. The term for souls has a [range including life, persons and the soul’s salvation](https://biblehub.com/greek/5590.htm); the word alone does not restrict James to saving someone from present inconvenience."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/james/1.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-general-epistle-of-st-james/) both connect these instructions with receiving the gospel humbly and turning from evil. They read the word’s saving work as God’s work through the gospel, rather than a benefit gained by simply hearing sounds or attending a religious meeting."
+  ],
+  "god_plan_lines": [
+    "The sequence reflects the wider movement from God giving life to a changed way of living. [Ephesians 2:8–10](https://biblehub.com/bsb/ephesians/2.htm) places good works after God’s saving gift: His people are created in Christ for them. Receiving the word is therefore meant to shape their treatment of others as well as their understanding."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/james/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-james-one-review.md"
+  }
+}

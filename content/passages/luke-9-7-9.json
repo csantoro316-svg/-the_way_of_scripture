@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "9:7-9",
+    "label": "Luke 9:7-9",
+    "slug": "luke-9-7-9"
+  },
+  "section_title": "Why is Herod puzzled by the reports about Jesus?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 When Herod the tetrarch heard about all that was happening, he was perplexed. For some were saying that John had risen from the dead, 8 others that Elijah had appeared, and still others that a prophet of old had arisen. 9 “I beheaded John,” Herod said, “but who is this man I hear such things about?” And he kept trying to see Jesus."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Reports about Jesus reach Herod the tetrarch, the ruler already connected with John’s imprisonment in Luke. Different explanations are circulating: John has risen, Elijah has appeared, or a prophet from long ago has returned. ([Luke 3:19–20](https://biblehub.com/bsb/luke/3.htm))",
+    "",
+    "Herod knows that he had John beheaded, and he asks who this man can be. His desire to see Jesus introduces the question of Jesus’ identity from the viewpoint of a ruler hearing reports at a distance.",
+    "",
+    "The following scenes give readers more to consider: Jesus provides food for a great crowd, Peter names Him as God’s Christ, and Jesus explains that He must suffer and rise again. Herod’s question sits within this developing account of who Jesus is."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand Herod’s uncertainty as part of the question of Jesus’ identity that runs through this chapter. The Catholic bishops’ notes also connect his wish to see Jesus with their later meeting during the proceedings before the crucifixion. ([USCCB notes on Luke 9:7–9](https://bible.usccb.org/bible/luke/9); [Luke 23:6–12](https://biblehub.com/bsb/luke/23.htm))"
+  ],
+  "god_plan_lines": [
+    "Herod later does see Jesus, hoping to watch a miracle. That encounter becomes part of the rejection and humiliation Jesus endures on the way to the cross. The curiosity recorded here reaches into the Gospel’s account of His suffering. ([Luke 23:6–12](https://biblehub.com/bsb/luke/23.htm))",
+    "",
+    "In Acts, the believers name Herod and Pilate among those who gathered against Jesus, while recognizing that God’s saving purpose was being carried out. Their prayer holds human opposition and God’s purpose together. Herod’s place in the story belongs within that larger account of the rejected Messiah through whom God brings salvation. ([Acts 4:24–30](https://biblehub.com/bsb/acts/4.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/9.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-nine-opening-review.md"
+  }
+}

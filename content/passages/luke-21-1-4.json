@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "21:1-4",
+    "label": "Luke 21:1-4",
+    "slug": "luke-21-1-4"
+  },
+  "section_title": "Why does Jesus say the widow has given more?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Then Jesus looked up and saw the rich putting their gifts into the treasury, 2 and He saw a poor widow put in two small copper coins. 3 “Truly I tell you,” He said, “this poor widow has put in more than all the others. 4 For they all contributed out of their surplus, but she out of her poverty has put in all she had to live on.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Immediately after warning about scribes who defraud widows, Jesus watches people putting gifts into the temple treasury. He sees wealthy people contributing and a poor widow giving two small copper coins.",
+    "",
+    "The Greek word for one of these small coins is λεπτόν, lepton (lep-TON). Thayer describes it as a very small brass coin. The point of the comparison does not depend on a modern currency estimate: Jesus explains the difference in terms of what the gift costs its giver. ([Thayer, Greek 3016](https://biblehub.com/greek/3016.htm))",
+    "",
+    "The others give from their surplus, while she gives all she has to live on. Jesus calls her gift greater even though its monetary amount is small. The placement beside the warning about exploited widows also keeps her vulnerability before the reader."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand Jesus as recognizing the depth of the widow’s giving rather than judging the gift by its size. Calvin emphasizes the heart and the giver’s means; the Catholic bishops’ notes emphasize her dependence on God and the contrast with the scribes’ outward display. ([Calvin on Luke 21:1–4 and Mark 12:41–44](https://biblehub.com/commentaries/calvin/luke/21.htm); [USCCB notes on Luke 21:1–4](https://bible.usccb.org/bible/luke/21))"
+  ],
+  "god_plan_lines": [
+    "Paul describes poor Macedonian believers giving generously and first giving themselves to the Lord. He then grounds Christian generosity in Christ’s own self-giving and explains that willingness is measured according to what a person has. That is a supported parallel to the costly gift Jesus notices here. ([2 Corinthians 8:1–5, 9, 12–14](https://biblehub.com/bsb/2_corinthians/8.htm))",
+    "",
+    "The larger picture of self-giving reaches its center in Christ’s death for people who were powerless and sinful. The widow’s gift provides a parallel of costly giving as Luke moves toward Jesus’ suffering and death, while Romans explicitly identifies Christ’s death as the demonstration of God’s saving love. ([Romans 5:6–8](https://biblehub.com/bsb/romans/5.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/21.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-twenty-one-opening-review.md"
+  }
+}

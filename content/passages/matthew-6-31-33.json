@@ -5,15 +5,54 @@
     "label": "Matthew 6:31-33",
     "slug": "matthew-6-31-33"
   },
-  "versions": [],
-  "context_lines": [
-    "In **Matthew 6**, part of the Sermon on the Mount, Jesus contrasts hypocritical religion with true life before the Father. The chapter moves through giving, prayer, fasting, treasure, anxiety, and kingdom-seeking, so every individual saying must be read inside that unified call to trust the Father and seek His will first."
+  "section_title": "A Different First Priority",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "31 Therefore do not worry, saying, ‘What shall we eat?’ or ‘What shall we drink?’ or ‘What shall we wear?’ 32 For the Gentiles strive after all these things, and your heavenly Father knows that you need them. 33 But seek first the kingdom of God and His righteousness, and all these things will be added unto you."
+      ]
+    }
   ],
-  "explanation_lines": [
-    "On the question of daily bread specifically: this document holds that \"give us this day our daily bread\" is a request for Christ Himself \u2014 the living bread of John 6, the fulfillment of the manna typology Jesus explicitly invokes. That is the position argued and defended in Section 4, and supported by Origen and Jerome working independently from the Greek. However, even granting that some may believe daily bread is a reference to physical provision \u2014 it does not solve the inherent conflict. Jesus says, fifteen verses later in the same chapter: \"Do not worry, saying 'What will we eat?' or 'What will we drink?'... your heavenly Father knows that you need all these things\" (Matthew 6:31-33). If Jesus models asking for bread and then immediately says do not seek bread because your Father already knows you need it \u2014 the reading as literal bread creates its own problem.",
+  "context_lines": [
+    "These verses draw together Jesus' teaching about birds, flowers, and the Father's care in [Matthew 6:25–34](https://biblehub.com/bsb/matthew/6.htm). The repeated questions about food, drink, and clothing express a life taken up with its needs. Jesus directs His followers toward a different first priority.",
     "",
-    "The deeper issue is not whether asking is technically permitted. The deeper issue is what genuine faith actually looks like in practice. Tacking \"your will be done\" onto a list of desired outcomes is not what Jesus modeled in Gethsemane. In Gethsemane the surrender was real. The cup was drunk. The arc of those three prayers is a soul moving through honest expression into complete release \u2014 and the release, not the asking, is the model. A person who is already fully there does not need the asking to arrive.",
+    "His comparison turns on knowing the Father. He describes the Gentiles as striving after these things, then reminds His hearers that their Father already knows their need. The contrast asks them to live from that relationship, with His kingdom and righteousness shaping what they pursue.",
     "",
-    "Mature faith asks less for circumstances and more for alignment with Him \u2014 not because asking is forbidden, but because genuine trust has already released what faith was never meant to hold onto. The New Testament's own center of gravity confirms this: the recorded prayers of Jesus, Paul, and the early church are overwhelmingly aimed at God's purposes, His kingdom, spiritual formation, boldness to serve Him, and the salvation of others. Not because material needs don't exist, but because a life genuinely oriented toward seeking His kingdom first has already placed those needs in the right hands. \"Seek first His kingdom and His righteousness, and all these things will be added to you\" (Matthew 6:33). The addition is promised. The seeking is the prayer."
-  ]
+    "The promise concerns the needs already named. It is not a blank check for every possession or lifestyle a person might desire. The surrounding chapter has warned against making earthly treasure a master, and verse 34 still speaks of trouble in the present day.",
+    "",
+    "In [Luke 12:22–34](https://biblehub.com/bsb/luke/12.htm), the related teaching connects trust, seeking the kingdom, and generosity. The Father's care is meant to free people to follow His purposes and share with others."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this passage as calling for trust in the Father's care and giving His kingdom first place, rather than allowing material needs to dominate life. [Wesley's notes on Matthew 6:25–34](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) and the Catholic [Catechism, 305–306](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_one/article_1/paragraph_4_the_creator.html), both place the teaching within confidence in God's care; the Catechism also explains that He works through the actions of His creatures."
+  ],
+  "god_plan_lines": [
+    "Seeking God's kingdom belongs within His work of bringing people into it. [Colossians 1:12–14](https://biblehub.com/bsb/colossians/1.htm) describes the Father rescuing people from darkness and bringing them into His Son's kingdom, where they receive redemption and forgiveness. The One they are called to trust is also the One who has acted to rescue them.",
+    "",
+    "The kingdom reaches beyond a person's immediate circumstances. [Ephesians 1:7–10](https://biblehub.com/bsb/ephesians/1.htm) places forgiveness through Christ within God's purpose of bringing all things together in Him. Giving that purpose first place directs a life toward what God is bringing to fulfillment."
+  ],
+  "current_position_lines": [
+    "Our studies Prayer and Faith and What Does Prayer Look Like? understand the central issue as the direction of a person's trust. They call for seeking God and His will, with needs entrusted to His care, rather than making a desired outcome the goal of faith. The companion study distinguishes that surrender from a rule that asking is sinful."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/6.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-treasure-and-trust-review.md",
+    "position_source_detail": "Prayer and Faith — Matthew 6:25–34 and Christ as Living Bread framework; What Does Prayer Look Like? — final kingdom-seeking discussion"
+  }
 }

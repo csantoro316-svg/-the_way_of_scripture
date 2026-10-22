@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "4:14-16",
+    "label": "Hebrews 4:14-16",
+    "slug": "hebrews-4-14-16"
+  },
+  "section_title": "Why can we approach God confidently when we need mercy?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 Therefore, since we have a great high priest who has passed through the heavens, Jesus the Son of God, let us hold firmly to what we profess. 15 For we do not have a high priest who is unable to sympathize with our weaknesses, but we have one who was tempted in every way that we are, yet was without sin. 16 Let us then approach the throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The writer returns to Jesus as high priest. He is the Son of God who has passed through the heavens, so the readers are urged to hold firmly to what they confess. Their confidence rests in who He is and what He has done.",
+    "",
+    "His greatness does not make Him distant from human weakness. He has faced temptation within real human life, yet without sin. He can sympathize with those who struggle, while remaining the faithful Savior they need.",
+    "",
+    "The result is an invitation to approach the throne of grace for mercy and help at the time of need. The searching warning has not closed the way to God. Through Jesus, people who need mercy are invited to draw near."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/4.htm), [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) and the [USCCB notes](https://bible.usccb.org/bible/hebrews/4) connect the invitation with access to God through Jesus’ priestly work. His real humanity explains His sympathy, and His sinlessness is expressly maintained. The throne is a place of grace to which His people may confidently come.",
+    "",
+    "Calvin emphasizes that Christ’s mediation gives assurance to people who need mercy; Wesley likewise describes coming to a gracious Father. The passage encourages real dependence on God. It does not promise that every circumstance will change in exactly the way the person approaching Him requests."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 9:6–14, 24–28](https://biblehub.com/bsb/hebrews/9.htm) later develops the priesthood comparison. The high priest’s earlier entrance into the sanctuary points toward Christ’s once-for-all work and His presence before God on our behalf. Hebrews itself explains that connection.",
+    "",
+    "[Ephesians 2:18](https://biblehub.com/bsb/ephesians/2.htm) also describes access to the Father through Christ in one Spirit. The invitation here belongs within God’s purpose to bring people near to Himself. Jesus’ sympathy and saving work make that approach possible."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/4.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-four-review.md"
+  }
+}

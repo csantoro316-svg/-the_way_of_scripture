@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "27:62-66",
+    "label": "Matthew 27:62-66",
+    "slug": "matthew-27-62-66"
+  },
+  "section_title": "The Tomb Is Sealed and Guarded",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "62 The next day, the one after Preparation Day, the chief priests and Pharisees assembled before Pilate. 63 “Sir,” they said, “we remember that while He was alive that deceiver said, ‘After three days I will rise again.’ 64 So give the order that the tomb be secured until the third day. Otherwise, His disciples may come and steal Him away and tell the people He has risen from the dead. And this last deception would be worse than the first.”",
+        "65 “You have a guard,” Pilate said. “Go, make the tomb as secure as you know how.” 66 So they went and secured the tomb by sealing the stone and posting the guard."
+      ]
+    }
+  ],
+  "context_lines": [
+    "On the day after Preparation Day, the chief priests and Pharisees ask Pilate to secure the tomb until the third day. They remember Jesus speaking about rising after three days, but call Him a deceiver and fear that His disciples will steal the body and announce a resurrection.",
+    "",
+    "Pilate tells them they have a guard and to make the tomb as secure as they know how. They seal the stone and post the guard. Matthew does not describe the seal's design or give the number of guards.",
+    "",
+    "This scene prepares for [Matthew 28:11–15](https://biblehub.com/bsb/matthew/28.htm), where guards report what has happened and are paid to spread the claim that the disciples stole the body while they slept. Reading the two scenes together shows why Matthew includes the precautions taken at the tomb."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand the guard and seal as precautions intended to prevent a stolen-body claim, which later become part of Matthew's account of the empty tomb. [Calvin on 27:62–66](https://biblehub.com/commentaries/calvin/matthew/27.htm) and [Wesley on 27:66](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) both emphasize the irony that efforts to suppress Jesus' resurrection end up strengthening the testimony to it.",
+    "",
+    "There is a smaller question about whose guard Pilate meant. The [US Catholic bishops' note on 27:65](https://bible.usccb.org/bible/matthew/27) explains that the wording can refer to Roman soldiers granted by Pilate or to the authorities being told to use their own guards. This uncertainty about their identity does not change their role in the account: the tomb is deliberately secured."
+  ],
+  "god_plan_lines": [
+    "The leaders remember Jesus' prediction while trying to prevent what they regard as a deception. Readers have already heard Him say that He must suffer, be killed, and rise on the third day ([Matthew 16:21](https://biblehub.com/bsb/matthew/16.htm)). The secured tomb sets human precautions beside the promise He has made.",
+    "",
+    "[Acts 13:27–39](https://biblehub.com/bsb/acts/13.htm) looks back on the same larger story: Jesus is condemned and buried, but God raises Him, fulfills His promises, and announces forgiveness through Him. The burial is real, and the guards are real obstacles to removing a body; neither determines what God can do. Matthew's next chapter tells how His promise is fulfilled."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/27.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-seven-closing-review.md"
+  }
+}

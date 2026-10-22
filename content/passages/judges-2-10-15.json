@@ -5,24 +5,56 @@
     "label": "Judges 2:10-15",
     "slug": "judges-2-10-15"
   },
-  "section_title": "Israel\u2019s Unfaithfulness",
+  "section_title": "What does it mean that the next generation did not know the LORD?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "10 After that whole generation had also been gathered to their fathers, another generation rose up who did not know the LORD or the works that He had done for Israel. 11 And the Israelites did evil in the sight of the LORD and served the Baals.",
-        "12 Thus they forsook the LORD, the God of their fathers, who had brought them out of the land of Egypt, and they followed after various gods of the peoples around them. They bowed down to them and provoked the LORD to anger, 13 for they forsook Him and served Baal and the Ashtoreths.",
+        "10 After that whole generation had also been gathered to their fathers, another generation rose up who did not know the LORD or the works that He had done for Israel. 11 And the Israelites did evil in the sight of the LORD and served the Baals. 12 Thus they forsook the LORD, the God of their fathers, who had brought them out of the land of Egypt, and they followed after various gods of the peoples around them. They bowed down to them and provoked the LORD to anger, 13 for they forsook Him and served Baal and the Ashtoreths.",
         "14 Then the anger of the LORD burned against Israel, and He delivered them into the hands of those who plundered them. He sold them into the hands of their enemies all around, whom they were no longer able to resist. 15 Wherever Israel marched out, the hand of the LORD was against them to bring calamity, just as He had sworn to them. So they were greatly distressed."
       ]
     }
   ],
   "context_lines": [
-    "In **Judges 2**, this section should be read within the flow of the chapter and the larger movement of Judges."
+    "With the earlier generation gone, another rises that does not know the LORD or the works He had done for Israel. Their response shows what that means in practice: they forsake the God who rescued their fathers and turn to the Baals and Ashtoreths, worshiping the surrounding peoples’ gods.",
+    "",
+    "The account presents this as a breach of loyalty, not simply a change in religious vocabulary. The God who brought them out of slavery had commanded their worship. Now He gives them over to enemies who plunder them, and they can no longer stand against those enemies. Their distress is described as the consequence He had warned of.",
+    "",
+    "The passage does not tell us the history of every household or say that the people had never heard God’s name. It shows a generation whose inherited place in Israel is not matched by faithfulness to Israel’s God."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Israel\u2019s Unfaithfulness** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Judges 2** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-judges/) understands their lack of knowing as the absence of serious, personal trust and attachment to God, rather than merely missing information. [Henry](https://biblehub.com/commentaries/mhc/judges/2.htm) also sees a connection between serving the nations’ gods and being handed over to the nations’ rulers: the allegiance they choose becomes bound up with their suffering."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "God had already connected remembering His rescue with teaching the next generation. [Deuteronomy 6:4–9, 20–25](https://biblehub.com/bsb/deuteronomy/6.htm) places His words within everyday family life. [Psalm 78:1–8](https://biblehub.com/bsb/psalms/78.htm) describes passing on His works so that children will trust Him and keep His commands.",
+    "",
+    "The purpose goes beyond preserving a story as family history. Jesus describes eternal life as knowing the Father and the One He sent ([John 17:1–5](https://biblehub.com/bsb/john/17.htm)). The contrast between generations helps us see why each generation needs a living response to God, with His word received in trust and obedience."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/judges/2.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-judges-two-review.md"
+  }
 }

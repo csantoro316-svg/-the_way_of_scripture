@@ -1,0 +1,70 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "20:17-27",
+    "label": "Acts 20:17-27",
+    "slug": "acts-20-17-27"
+  },
+  "section_title": "What does Paul want the Ephesian elders to remember about his ministry?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 From Miletus, Paul sent to Ephesus for the elders of the church. 18 When they came to him, he said, “You know how I lived the whole time I was with you, from the first day I arrived in the province of Asia. 19 I served the Lord with great humility and with tears, especially in the trials that came upon me through the plots of the Jews. 20 I did not shrink back from declaring anything that was helpful to you as I taught you publicly and from house to house, 21 testifying to Jews and Greeks alike about repentance to God and faith in our Lord Jesus Christ.",
+        "22 And now, compelled by the Spirit, I am going to Jerusalem, not knowing what will happen to me there. 23 I only know that in town after town the Holy Spirit warns me that chains and afflictions await me. 24 But I consider my life of no value to me, if only I may finish my course and complete the ministry I have received from the Lord Jesus—the ministry of testifying to the good news of God’s grace.",
+        "25 Now I know that none of you among whom I have preached the kingdom will see my face again. 26 Therefore I testify to you this day that I am innocent of the blood of all men. 27 For I did not shrink back from declaring to you the whole will of God."
+      ]
+    }
+  ],
+  "context_lines": [
+    "From Miletus, Paul calls the Ephesian elders to meet him. He reminds them of a life they have seen: service with humility, tears and trials, and teaching both publicly and from house to house. His message to Jewish and Greek hearers alike has been repentance toward God and faith in Jesus.",
+    "",
+    "He is now compelled by the Spirit to go to Jerusalem, where the Spirit has warned that chains and suffering await him. He does not know every detail of what will happen. His concern is to finish the work received from the Lord Jesus, testifying to the good news of God’s grace.",
+    "",
+    "Paul tells them they will not see him again. He declares that he has not held back God’s whole will from them and is therefore innocent of their blood. In context, he is speaking about faithful delivery of the message entrusted to him, not claiming personal sinlessness or the power to make every listener believe.",
+    "",
+    "The farewell prepares the elders for the responsibility described in the following verses. Paul’s example is meant to shape their care when he is no longer with them; it does not make their faith depend on keeping him physically present."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the elders as responsible for caring for the community and guarding its teaching. Traditions differ over how this group relates to later forms of church leadership.",
+    "",
+    "The Catholic Church’s [Catechism, paragraphs 1562–1567](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_three/article_6/iii_the_three_degrees_of_the_sacrament_of_holy_orders.index.html), describes priests, also called presbyters or elders, as coworkers who share in the bishop’s mission and serve in communion with him and under his authority. In this account, their shared work does not erase the distinction between bishop and priest.",
+    "",
+    "The Reformed Baptist [1689 Confession 26:8–9](https://www.the1689confession.com/1689/chapter-26) names bishops or elders as the same local office, alongside deacons, and expressly cites Acts 20:17 and 28. It describes qualified leaders chosen by the congregation and set apart with prayer. That is the teaching of this confession, not a claim that every Baptist congregation has an identical arrangement."
+  ],
+  "god_plan_lines": [
+    "The language about responsibility for others’ blood recalls the watchman in [Ezekiel 33:7–9](https://biblehub.com/bsb/ezekiel/33.htm), who must deliver God’s warning rather than withhold it. This is a supported parallel in the responsibility to speak faithfully; it does not transfer every detail of Ezekiel’s commission to every church member.",
+    "",
+    "Paul’s desire to finish the course also connects with [2 Timothy 4:6–8](https://biblehub.com/bsb/2_timothy/4.htm), where he looks back on a completed race and forward to the Lord’s judgment and promised reward. The larger aim is faithfulness to Christ through the whole course, including suffering, rather than securing an easy ending."
+  ],
+  "current_position_lines": [
+    "Who Shepherds the Church? directly compares Acts 20:17 and 28. The people Paul calls elders are the same people described as overseers and told to shepherd the church. The study understands these as descriptions of shared, qualified care, rather than separate ranks of elder, bishop and pastor. It calls for several capable leaders who teach, correct and serve among the people."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/20.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twenty-review.md",
+    "position_source_detail": "Who Shepherds the Church?: Titles or Roles? directly compares Acts20:17/28; shared qualified leadership."
+  }
+}

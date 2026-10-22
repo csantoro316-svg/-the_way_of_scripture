@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "40:17-27",
+    "label": "Ezekiel 40:17-27",
+    "slug": "ezekiel-40-17-27"
+  },
+  "section_title": "How is the outer court arranged?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 Then he brought me into the outer court, and there were chambers and a pavement laid out all around the court. Thirty chambers faced the pavement, 18 which flanked the gateways and corresponded to the length of the gates; this was the lower pavement. 19 Then he measured the distance from the front of the lower gateway to the outside of the inner court; it was a hundred cubits on the east side as well as on the north.",
+        "20 He also measured the length and width of the gateway of the outer court facing north. 21 Its three gate chambers on each side, its side pillars, and its portico all had the same measurements as the first gate: fifty cubits long and twenty-five cubits wide. 22 Its windows, portico, and palm trees had the same measurements as those of the gate facing east. Seven steps led up to it, with its portico opposite them. 23 There was a gate to the inner court facing the north gate, just as there was on the east. He measured the distance from gateway to gateway to be a hundred cubits.",
+        "24 Then he led me to the south side, and I saw a gateway facing south. He measured its side pillars and portico, and they had the same measurements as the others. 25 Both the gateway and its portico had windows all around, like the other windows. It was fifty cubits long and twenty-five cubits wide. 26 Seven steps led up to it, and its portico was opposite them; it had palm trees on its side pillars, one on each side. 27 The inner court also had a gate facing south, and he measured the distance from gateway to gateway toward the south to be a hundred cubits."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Beyond the east gate, Ezekiel enters the outer court. Thirty chambers face a paved area along the sides of the gateways. The guide measures a hundred cubits from the lower gateway toward the inner court.",
+    "",
+    "The north and south gateways follow the east gate’s pattern: the same chambers, windows, covered entrances and palm-tree decorations. Seven steps lead up to each of these outer gates.",
+    "",
+    "Opposite them stand gates leading into the inner court. The tour is preparing the reader for a further movement inward, toward the altar and the temple building."
+  ],
+  "common_interpretation_lines": [
+    "The [USCCB notes](https://bible.usccb.org/bible/ezekiel/40) distinguish this outer court from the temple’s inner court. [Wesley](https://biblehub.com/commentaries/wes/ezekiel/40.htm) also pays attention to the chambers and the distance between the gates, while drawing a further application to different gifts and callings among God’s people.",
+    "",
+    "That application is a lesson Wesley draws from the arrangement. The passage itself first describes where the chambers, pavement and gates stand."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/40.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-forty-two-review.md"
+  }
+}

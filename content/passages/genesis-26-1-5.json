@@ -5,33 +5,49 @@
     "label": "Genesis 26:1-5",
     "slug": "genesis-26-1-5"
   },
-  "section_title": "God\u2019s Promise to Isaac",
+  "section_title": "God’s Promise to Isaac",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 Now there was another famine in the land, subsequent to the one that had occurred in Abraham\u2019s time. And Isaac went to Abimelech king of the Philistines at Gerar.",
-        "2 The LORD appeared to Isaac and said, \u201cDo not go down to Egypt. Settle in the land where I tell you. 3 Stay in this land as a foreigner, and I will be with you and bless you. For I will give all these lands to you and your offspring, and I will confirm the oath that I swore to your father Abraham. 4 I will make your descendants as numerous as the stars in the sky, and I will give them all these lands, and through your offspring all nations of the earth will be blessed, 5 because Abraham listened to My voice and kept My charge, My commandments, My statutes, and My laws.\u201d"
+        "1 Now there was another famine in the land, subsequent to the one that had occurred in Abraham’s time. And Isaac went to Abimelech king of the Philistines at Gerar.",
+        "2 The LORD appeared to Isaac and said, “Do not go down to Egypt. Settle in the land where I tell you. 3 Stay in this land as a foreigner, and I will be with you and bless you. For I will give all these lands to you and your offspring, and I will confirm the oath that I swore to your father Abraham. 4 I will make your descendants as numerous as the stars in the sky, and I will give them all these lands, and through your offspring all nations of the earth will be blessed, 5 because Abraham listened to My voice and kept My charge, My commandments, My statutes, and My laws.”"
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 26**, Isaac faces famine under the shadow of the promises first given to Abraham. The chapter shows the Lord directing, preserving, and blessing Isaac, highlighting the contrast between divine guidance and fearful self-management."
+    "Another famine strikes the land, distinct from the one Abraham experienced. Isaac goes to Gerar, where the LORD appears and tells him not to go down to Egypt. He must remain in the land God identifies, trusting the promise of His presence and blessing.",
+    "",
+    "God speaks to Isaac of the same future He promised Abraham: land, many descendants, and blessing for all nations through his offspring. Isaac is addressed personally as an heir of that promise. The difficult circumstances do not mean the promise has been withdrawn.",
+    "",
+    "The LORD also remembers Abraham's obedience. The Hebrew verb שָׁמַע, *šāmaʿ* (shah-MAH), can mean hear, listen, or obey; [Brown–Driver–Briggs](https://biblehub.com/hebrew/8085.htm) includes obedient listening to someone's voice. The list of what Abraham kept makes clear that this was a response expressed in action, rather than merely hearing words. Genesis has already shown his failures as well as his trust, so this commendation does not describe a sinless life."
   ],
   "common_interpretation_lines": [
-    "A common reading of this section is that Isaac stands as a deliberate contrast to Abram's earlier Egypt episode. The external pressure is similar, but here divine instruction is given directly and becomes the governing factor.",
-    "",
-    "Interpreters often connect this passage with the larger theme of trust: hardship does not disappear, but the faithful response is shaped by what God says rather than by self-protective improvisation."
+    "Christians commonly read God's instruction as a call for Isaac to trust Him in the famine, with the promises to Abraham now confirmed to his son. [Wesley's notes on Genesis 26:2, 5](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) connect God's care with Isaac's responsibility to obey."
   ],
   "current_position_lines": [
-    "This site's current position is that **Genesis 26:1-5** is meant to be read against **Genesis 12:10-20**. The repeated famine is not incidental. It creates a deliberate contrast between self-directed fear and obedience under divine instruction.",
-    "",
-    "The point is not that faithful people avoid hardship. The point is that the governing question becomes what God has said, not what fear suggests will work."
+    "Our study Prayer and Faith uses this passage to contrast Isaac's response to famine with Abraham's earlier journey to Egypt. Isaac receives a clear instruction to remain and obeys it. The study draws from this the importance of trusting God's direction through hardship, rather than making survival on our own terms the governing aim."
   ],
   "deeper_study": [
     {
       "title": "Prayer and Faith",
       "href": "../studies/prayer-and-faith.html"
     }
-  ]
+  ],
+  "god_plan_lines": [
+    "The promise of blessing for all nations reaches beyond the survival of Isaac's household. [Galatians 3:8–9](https://biblehub.com/bsb/galatians/3.htm) explicitly connects the promise first given to Abraham with God's bringing Gentiles into blessing through faith. Its renewal to Isaac keeps that worldwide purpose in view.",
+    "",
+    "[Hebrews 11:9–10](https://biblehub.com/bsb/hebrews/11.htm) also names Isaac and Jacob as heirs living in tents with Abraham while awaiting what God would provide. Trust includes continuing to live responsibly in the present while the full inheritance is still ahead. Here, that trust begins with staying where God has told Isaac to remain."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/26.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-isaac-and-bethel-review.md",
+    "position_source_detail": "Prayer and Faith — Genesis 26:1–2, Isaac’s Contrasting Response"
+  }
 }

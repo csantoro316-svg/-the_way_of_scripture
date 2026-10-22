@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "8:48-59",
+    "label": "John 8:48-59",
+    "slug": "john-8-48-59"
+  },
+  "section_title": "How can Jesus be greater than Abraham?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "48 The Jews answered Him, “Are we not right to say that You are a Samaritan and You have a demon?” 49 “I do not have a demon,” Jesus replied, “but I honor My Father, and you dishonor Me. 50 I do not seek My own glory. There is One who seeks it, and He is the Judge. 51 Truly, truly, I tell you, if anyone keeps My word, he will never see death.”",
+        "52 “Now we know that You have a demon!” declared the Jews. “Abraham died, and so did the prophets, yet You say that anyone who keeps Your word will never taste death. 53 Are You greater than our father Abraham? He died, as did the prophets. Who do You claim to be?” 54 Jesus answered, “If I glorify Myself, My glory means nothing. The One who glorifies Me is My Father, of whom you say, ‘He is our God.’ 55 You do not know Him, but I know Him. If I said I did not know Him, I would be a liar like you. But I do know Him, and I keep His word. 56 Your father Abraham rejoiced that he would see My day. He saw it and was glad.”",
+        "57 Then the Jews said to Him, “You are not yet fifty years old, and You have seen Abraham?” 58 “Truly, truly, I tell you,” Jesus declared, “before Abraham was born, I am!” 59 At this, they picked up stones to throw at Him. But Jesus was hidden and went out of the temple area."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The reply to Jesus now becomes a personal attack: His opponents call Him a Samaritan and accuse Him of having a demon. He denies the charge of a demon and returns to His relationship with the Father. He honors the Father rather than seeking glory on His own terms, and He leaves judgment with the One who knows the truth.",
+    "",
+    "His promise that the person who keeps His word will never see death sounds impossible to His listeners. Abraham and the prophets died; how can He promise something greater? They are thinking of bodily death. Elsewhere Jesus makes clear that His followers may die physically yet receive life that death cannot finally destroy ([John 11:25–26](https://biblehub.com/bsb/john/11.htm)). Keeping His word is a response of faith and obedience, not a promise of immunity from physical death.",
+    "",
+    "Jesus says Abraham rejoiced to see His day. The statement places His mission within the hope of God’s earlier promises, rather than in competition with Abraham. The passage does not describe exactly when or how Abraham saw that day. The question about Jesus being under fifty does not establish His precise age or prove that He looked unusually old.",
+    "",
+    "The exchange reaches its height in verse 58. Jesus contrasts Abraham’s beginning with His own existence: He does not simply say that He lived a little earlier. The [Greek verbs checked in Thayer’s lexicon](https://biblehub.com/greek/1510.htm) distinguish Abraham coming into existence from Jesus’ statement that He is. His listeners take up stones, and He leaves the temple. John does not describe how He was hidden, so we need not add a detailed escape or a claim that He became invisible."
+  ],
+  "common_interpretation_lines": [
+    "The major Christian traditions read verse 58 as a testimony to the Son’s existence before Abraham and His divine identity. The [Catholic Catechism, paragraph 590](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/article_4/paragraph_1_jesus_and_israel.html), [Calvin on verse 58](https://biblehub.com/commentaries/calvin/john/8.htm) and [Wesley on verse 58](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) agree on that central point.",
+    "",
+    "Explanations of Abraham seeing Jesus’ day emphasize different parts of his story. Calvin describes Abraham looking forward by faith to Christ’s coming. Wesley points to promises and earlier encounters with God, including Genesis 18. The [Catholic bishops’ note on verse 56](https://bible.usccb.org/bible/john/8) points particularly to Isaac’s birth as the beginning of the promised blessing. The Gospel itself states Abraham’s joy without identifying one specific event."
+  ],
+  "god_plan_lines": [
+    "God’s saving work in Jesus belongs to the same story as His promises to Abraham. [Galatians 3:8–9](https://biblehub.com/bsb/galatians/3.htm) says that the promise of blessing for all nations announced the gospel to Abraham in advance. [Hebrews 11:8–19](https://biblehub.com/bsb/hebrews/11.htm) describes Abraham living by faith in promises whose full outcome he had not yet received.",
+    "",
+    "Jesus therefore presents His coming as the fulfillment of an earlier hope, while making a claim greater than that of another prophet in the sequence. [John 1:1–14](https://biblehub.com/bsb/john/1.htm) has already introduced the Word who existed with God before creation and then became flesh. His saving work does not begin with His birth, and His promise of life rests on who He is."
+  ],
+  "current_position_lines": [
+    "Our study Who is The Angel of the Lord? understands John 8:58 as Jesus identifying Himself as the eternal Son who existed before Abraham. Drawing on John 1:18 and Genesis 18, it also concludes that the Son was the One who appeared to Abraham and made the Father known. This is the study’s conclusion about the earlier appearance, not a detail John 8:56 explicitly spells out."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who is The Angel of the Lord?",
+      "href": "../studies/angel-of-the-lord.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/8.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-john-eight-complete-review.md",
+    "position_source_detail": "Who is The Angel of the Lord?, The New Testament Anchor, developed John 8:58 paragraph and Genesis 18 connection."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "12:38-40",
+    "label": "Mark 12:38-40",
+    "slug": "mark-12-38-40"
+  },
+  "section_title": "What can religious appearances hide?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "38 In His teaching Jesus also said, “Watch out for the scribes. They like to walk around in long robes, to receive greetings in the marketplaces, 39 and to have the chief seats in the synagogues and the places of honor at banquets. 40 They defraud widows of their houses, and for a show make lengthy prayers. These men will receive greater condemnation.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus warns His hearers about scribes who enjoy public recognition, honored seats, and impressive religious appearances while taking advantage of widows. The warning follows an exchange with a scribe whose understanding Jesus praised. Mark therefore gives us reason to distinguish a person’s conduct from the title or group to which he belongs.",
+    "",
+    "The charge about consuming widows’ homes is serious: religious standing is being used alongside exploitation of people who need protection. Mark does not explain the exact financial arrangement. We can understand the wrongdoing without inventing a particular legal scheme.",
+    "",
+    "The long prayers are offered for show. Jesus’ warning concerns the use of devotion as a cover for wrongdoing, and He says the judgment will be greater. The next scene draws our attention to a poor widow giving at the temple, making His warning especially important to remember as we read on."
+  ],
+  "common_interpretation_lines": [
+    "Christian readers broadly understand this as a warning against religious pride, hypocrisy, and the abuse of vulnerable people. Calvin distinguishes the appearance of devoted prayer from the corrupt purpose it can conceal; the length of a prayer alone is not the problem. ([Calvin, Mark 12:40](https://biblehub.com/commentaries/calvin/mark/12.htm))"
+  ],
+  "god_plan_lines": [
+    "God’s purpose for His people includes protecting those whom others overlook. James carries this concern into the church: honoring the well-dressed rich person while humiliating the poor contradicts love for one’s neighbor, and words of concern do little for someone who lacks food or clothing unless help follows. The church is called to make God’s care visible in its shared life. ([James 2:1–17](https://biblehub.com/bsb/james/2.htm))",
+    "",
+    "That responsibility also reaches its teachers. James warns that teachers face stricter judgment. Public influence is an opportunity to serve people faithfully, and it brings accountability for how those people are treated. ([James 3:1–2](https://biblehub.com/bsb/james/3.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/12.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-twelve-closing-review.md"
+  }
+}

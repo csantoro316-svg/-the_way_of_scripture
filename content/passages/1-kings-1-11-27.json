@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "1:11-27",
+    "label": "1 Kings 1:11-27",
+    "slug": "1-kings-1-11-27"
+  },
+  "section_title": "How do Nathan and Bathsheba bring the danger to David’s attention?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "11 Then Nathan said to Bathsheba the mother of Solomon, “Have you not heard that Adonijah son of Haggith has become king, and our lord David does not know it? 12 Now please, come and let me advise you. Save your own life and the life of your son Solomon. 13 Go at once to King David and say, ‘My lord the king, did you not swear to your maidservant, “Surely your son Solomon will reign after me, and he will sit on my throne”? Why then has Adonijah become king?’ 14 Then, while you are still there speaking with the king, I will come in after you and confirm your words.”",
+        "15 So Bathsheba went to see the king in his bedroom. Since the king was very old, Abishag the Shunammite was serving him. 16 And Bathsheba bowed down in homage to the king, who asked, “What is your desire?” 17 “My lord,” she replied, “you yourself swore to your maidservant by the LORD your God: ‘Surely your son Solomon will reign after me, and he will sit on my throne.’ 18 But now, behold, Adonijah has become king, and you, my lord the king, do not know it. 19 And he has sacrificed an abundance of oxen, fattened calves, and sheep, and has invited all the other sons of the king, as well as Abiathar the priest and Joab the commander of the army. But he has not invited your servant Solomon. 20 And as for you, my lord the king, the eyes of all Israel are upon you to tell them who will sit on the throne of my lord the king after him. 21 Otherwise, when my lord the king rests with his fathers, I and my son Solomon will be counted as criminals.”",
+        "22 And just then, while Bathsheba was still speaking with the king, Nathan the prophet arrived. 23 So the king was told, “Nathan the prophet is here.” And Nathan went in and bowed facedown before the king. 24 “My lord the king,” said Nathan, “did you say, ‘Adonijah will reign after me, and he will sit on my throne’? 25 For today he has gone down and sacrificed an abundance of oxen, fattened calves, and sheep, and has invited all the sons of the king, the commanders of the army, and Abiathar the priest. And behold, they are eating and drinking before him, saying, ‘Long live King Adonijah!’ 26 But me your servant he has not invited, nor Zadok the priest, nor Benaiah son of Jehoiada, nor your servant Solomon. 27 Has my lord the king let this happen without informing your servant who should sit on the throne after my lord the king?”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Nathan warns Bathsheba that Adonijah has become king without David knowing. He urges her to act for her own safety and Solomon’s. She is to remind David of his oath that Solomon will succeed him; Nathan will come in and confirm her report.",
+    "",
+    "Bathsheba follows that plan. She describes the feast and Solomon’s exclusion, and says Israel is looking to David to name his successor. If the matter is left unresolved, she fears that she and Solomon will be treated as criminals after David dies.",
+    "",
+    "Nathan then arrives and asks whether David has authorized Adonijah’s rise. His report presses the same question: who is to sit on David’s throne? The king can no longer leave the issue unaddressed."
+  ],
+  "common_interpretation_lines": [
+    "[Gill](https://biblehub.com/commentaries/gill/1_kings/1.htm) points out that the earlier oath is confirmed by David himself in verse 30. Its absence from the preceding narrative does not mean Nathan and Bathsheba invent it.",
+    "",
+    "The wider account also identifies Solomon as chosen to succeed David: [1 Chronicles 22:6–10](https://biblehub.com/bsb/1_chronicles/22.htm) and [28:4–7](https://biblehub.com/bsb/1_chronicles/28.htm) record David’s statements about God’s choice of Solomon.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/1.htm) emphasizes David’s continuing responsibility even as his strength declines. Nathan and Bathsheba’s intervention brings a real danger before him and calls for action on the commitment he has already made."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/1.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-one-review.md"
+  }
+}

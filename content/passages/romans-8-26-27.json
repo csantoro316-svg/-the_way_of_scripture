@@ -5,17 +5,49 @@
     "label": "Romans 8:26-27",
     "slug": "romans-8-26-27"
   },
-  "versions": [],
-  "context_lines": [
-    "In **Romans 8**, Paul unfolds life in the Spirit, the believer's adoption, suffering, hope, and the unbreakable purpose of God in Christ. Its teaching on prayer belongs to that larger assurance that God is at work even in weakness and groaning."
+  "section_title": "What happens when we do not know how to pray?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "26 In the same way, the Spirit helps us in our weakness. For we do not know how we ought to pray, but the Spirit Himself intercedes for us with groans too deep for words. 27 And He who searches our hearts knows the mind of the Spirit, because the Spirit intercedes for the saints according to the will of God."
+      ]
+    }
   ],
-  "explanation_lines": [
-    "Paul makes a remarkable admission here: believers, on our own, do not know how to pray as we ought. Rather than leaving that gap unfilled, the Spirit Himself intercedes on our behalf, according to God's will rather than our own limited understanding of what we need. This passage suggests that the most honest form of prayer is not always a carefully constructed petition. Sometimes it is simply bringing our weakness and uncertainty before God and trusting the Spirit to do, within us and for us, what we are incapable of articulating ourselves.",
+  "context_lines": [
+    "Creation groans, believers groan, and now Paul speaks of the Spirit’s help in their weakness. The setting is the long wait for bodily redemption. Not knowing how to pray belongs within that experience of limited understanding and hope.",
     "",
-    "At its core, Mark 11:24 is not about the mechanics of asking \u2014 it is about faith. And faith, as this entire study has shown, does not need to ask God for outcomes, because faith already trusts that He has them in hand. The woman with the issue of blood never asked Jesus for anything \u2014 her faith reached out and the result followed. Paul stopped asking about his thorn because he understood that the grace was already there. Abraham's failure in Egypt was not a failure of prayer \u2014 it was a failure of faith. What God has consistently called His people to, from Proverbs 3:5-6 through Gethsemane through Romans 8:26-27, is not a better asking strategy. It is faith \u2014 real, resting, surrendered trust in a sovereign Father who already knows, already has a plan, and is already working. \"Believe that you have received them\" is not a technique. It is what faith looks like when it is actually operating.",
-    "",
-    "The common assumption is that this is a general prayer promise \u2014 bring God your needs, and He will supply them. It gets imported into discussions about prayer as if it were an open-ended guarantee that whatever you genuinely need, God will provide if you ask Him for it.",
-    "",
-    "The problem is that this verse is not about prayer at all \u2014 and it is not addressed to everyone generally."
-  ]
+    "The Spirit intercedes—He acts on believers’ behalf. God, who searches hearts, knows the Spirit’s mind, and the Spirit’s intercession agrees with God’s will. Paul locates the assurance in God’s knowledge and help, rather than in a person’s ability to find exactly the right words."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand these verses as reassurance that weakness in prayer does not leave believers without God’s help. Both [Calvin’s comments on verses 26–27](https://biblehub.com/commentaries/calvin/romans/8.htm) and [Wesley’s notes on those verses](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-romans/) connect the Spirit’s help with prayer directed toward God’s will. Their explanations differ in emphasis, but both place confidence in the Spirit’s work."
+  ],
+  "god_plan_lines": [
+    "Paul also says in [Romans 8:34](https://biblehub.com/bsb/romans/8.htm) that the risen Christ intercedes for believers. Read together, the statements show God providing help through both the Son and the Spirit. The family relationship described earlier in the chapter includes help in the weakness of those who belong to Him."
+  ],
+  "current_position_lines": [
+    "Our studies Prayer and Faith and What Does Prayer Look Like? understand these verses as an invitation to bring our weakness honestly before God. Prayer does not depend on perfectly formed requests. The Spirit helps where our understanding and words fall short, according to God’s will. We can trust Him without treating prayer as a way to secure a particular outcome."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/8.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-romans-eight-middle-review.md",
+    "position_source_detail": "Prayer and Faith (content/studies/prayer_and_faith.md, lines 215–223); What Does Prayer Look Like? (content/studies/what_does_prayer_look_like.md, lines 164–178)"
+  }
 }

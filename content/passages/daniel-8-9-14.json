@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "8:9-14",
+    "label": "Daniel 8:9-14",
+    "slug": "daniel-8-9-14"
+  },
+  "section_title": "What happens when the little horn attacks worship?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "9 From one of these horns a little horn emerged and grew extensively toward the south and the east and toward the Beautiful Land. 10 It grew as high as the host of heaven, and it cast down some of the host and some of the stars to the earth and trampled them. 11 It magnified itself, even to the Prince of the host; it removed His daily sacrifice and overthrew the place of His sanctuary. 12 And in the rebellion, the host and the daily sacrifice were given over to the horn, and it flung truth to the ground and prospered in whatever it did.",
+        "13 Then I heard a holy one speaking, and another holy one said to him, “How long until the fulfillment of the vision of the daily sacrifice, the rebellion that causes desolation, and the surrender of the sanctuary and of the host to be trampled?” 14 He said to me, “It will take 2,300 evenings and mornings; then the sanctuary will be properly restored.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "A little horn grows from one of the four and expands toward the south, east and Beautiful Land. Its assault reaches the host of heaven, the daily sacrifice and God’s sanctuary. Truth is flung to the ground while the horn prospers.",
+    "",
+    "A holy one asks how long the sanctuary and host will be trampled. The answer is 2,300 evenings and mornings, followed by the sanctuary being properly restored. The verb behind restored belongs to צָדַק, tsadaq (tsah-DAHK): [Brown–Driver–Briggs](https://biblehub.com/hebrew/6663.htm) explains this form in verse 14 as putting the holy place right or vindicating its cause.",
+    "",
+    "The ancient account in [1 Maccabees 1:41–64](https://bible.usccb.org/bible/1maccabees/1) describes Antiochus’s suppression of Jewish sacrifices, profaning of the sanctuary and persecution of those who kept the covenant. It provides historical background for the reading that connects this vision with his rule."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/daniel/8.htm) identifies the horn as Antiochus and understands the trampled stars as God’s people. The [USCCB notes](https://bible.usccb.org/bible/daniel/8) also identify Antiochus, while reading the host as heavenly angels.",
+    "",
+    "The period is understood differently. [Gaebelein](https://biblehub.com/commentaries/gaebelein/daniel/8.htm) reads 2,300 ordinary days; [Cambridge](https://biblehub.com/commentaries/cambridge/daniel/8.htm) reads 2,300 morning and evening offerings, making 1,150 days. Both connect the period with the sanctuary’s oppression and restoration.",
+    "",
+    "The Seventh-day Adventist Church gives the period a different application. Its [official Fundamental Belief 24](https://www.nadadventist.org/beliefs/christs-ministry-in-the-heavenly-sanctuary/) connects it with Christ’s heavenly ministry and the beginning of its final phase in 1844. That statement also affirms His once-for-all sacrifice at the cross and His intercession beginning at the ascension."
+  ],
+  "god_plan_lines": [
+    "The concern for God’s house and its worship continues in [John 2:13–22](https://biblehub.com/bsb/john/2.htm). Jesus drives trading out of the temple courts and then speaks of a temple that will be raised in three days. John explains that He means His own body.",
+    "",
+    "This is a connection in the wider theme of worship and God’s dwelling, rather than a calculation from Daniel’s 2,300 evenings and mornings. In the gospel, the horizon reaches beyond restoring a damaged sanctuary to Jesus’ own death and resurrection. God’s purpose for His people’s worship comes into focus through His Son."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/8.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-eight-review.md"
+  }
+}

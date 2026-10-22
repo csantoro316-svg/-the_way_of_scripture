@@ -1,0 +1,66 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "1:4-8",
+    "label": "Mark 1:4-8",
+    "slug": "mark-1-4-8"
+  },
+  "section_title": "John Calls for Repentance and Points to Jesus",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "4 John the Baptist appeared in the wilderness, preaching a baptism of repentance for the forgiveness of sins. 5 People went out to him from all of Jerusalem and the countryside of Judea. Confessing their sins, they were baptized by him in the Jordan River. 6 John was clothed in camel’s hair, with a leather belt around his waist. His food was locusts and wild honey.",
+        "7 And he proclaimed: “After me will come One more powerful than I, the straps of whose sandals I am not worthy to stoop down and untie. 8 I baptize you with water, but He will baptize you with the Holy Spirit.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "John appears in the wilderness, preaching a baptism of repentance for forgiveness. People come from Jerusalem and the Judean countryside, confess their sins, and are baptized in the Jordan. This is the messenger's work introduced in the opening verses: preparing people for the Lord.",
+    "",
+    "Repentance translates μετάνοια, *metanoia* (meh-TAH-noy-ah). [Thayer's entry](https://biblehub.com/greek/3341.htm) describes recognizing one's sins and changing course, with a changed life as its result. [Luke 3:10–14](https://biblehub.com/bsb/luke/3.htm) shows the practical force of John's message: share with people in need, collect honestly, and stop using power to take from others.",
+    "",
+    "John's camel-hair clothing and leather belt recall Elijah's appearance in [2 Kings 1:7–8](https://biblehub.com/bsb/2_kings/1.htm). Mark names his food as locusts and wild honey. Yet John directs attention away from himself: the One coming after him is so much greater that he is unworthy even to stoop down and untie His sandals.",
+    "",
+    "John then sets his baptism with water beside the coming One's baptism with the Holy Spirit. Mark does not add the words about fire found in Matthew and Luke. The immediate emphasis is on what Jesus can give that John cannot."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly see a call to genuine repentance and a clear declaration that Jesus is greater than John. They differ in explaining how John's baptism relates to Christian baptism.",
+    "",
+    "The Catholic [Catechism, 717–720](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_three/article_8/iv_the_spirit_of_christ_in_the_fullness_of_time.html), treats John as the Spirit-filled forerunner and distinguishes his baptism of repentance from the new birth associated with baptism in water and the Spirit. His work prepares for what Christ brings.",
+    "",
+    "In his Reformed commentary on the parallel account, [Calvin](https://biblehub.com/commentaries/calvin/mark/1.htm) instead stresses continuity between John's baptism and Christian baptism. He understands the main contrast as the difference between a servant administering the outward sign and Christ giving its spiritual reality. That is Calvin's explanation, rather than a claim that every Reformed Christian interprets every detail alike. [Wesley on Mark 1:4](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-mark/) describes John's baptism as a sign and means of repentance."
+  ],
+  "god_plan_lines": [
+    "The promise of the Spirit reaches beyond John getting people ready. [Ezekiel 36:22–28](https://biblehub.com/bsb/ezekiel/36.htm), spoken to Israel, joins God's cleansing with His gift of a new heart and His Spirit enabling His people to walk in His ways. That is a theme parallel to John's announcement: God's purpose involves changing people from within, not simply washing their bodies.",
+    "",
+    "The New Testament makes the connection with John's words explicit in [Acts 1:4–8](https://biblehub.com/bsb/acts/1.htm). Jesus recalls John's baptism with water, promises baptism with the Holy Spirit, and tells His followers they will receive power to bear witness to Him beyond Jerusalem. The preparation in the wilderness looks ahead to a people empowered to carry His message.",
+    "",
+    "[Acts 19:1–7](https://biblehub.com/bsb/acts/19.htm) also explains that John's baptism pointed people toward faith in the coming Jesus. John's humility fits his place in that purpose: he prepares the way, while the life-giving gift belongs to the One he announces."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/1.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-one-opening-review.md"
+  }
+}

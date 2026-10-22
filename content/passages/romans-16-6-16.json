@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "16:6-16",
+    "label": "Romans 16:6-16",
+    "slug": "romans-16-6-16"
+  },
+  "section_title": "Why does Paul honor so many people by name?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 Greet Mary, who has worked very hard for you. 7 Greet Andronicus and Junia, my fellow countrymen and fellow prisoners. They are outstanding among the apostles, and they were in Christ before I was. 8 Greet Ampliatus, my beloved in the Lord. 9 Greet Urbanus, our fellow worker in Christ, and my beloved Stachys. 10 Greet Apelles, who is approved in Christ. Greet those who belong to the household of Aristobulus.",
+        "11 Greet Herodion, my fellow countryman. Greet those from the household of Narcissus who are in the Lord. 12 Greet Tryphena and Tryphosa, women who have worked hard in the Lord. Greet my beloved Persis, who has worked very hard in the Lord. 13 Greet Rufus, chosen in the Lord, and his mother, who has been a mother to me as well. 14 Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers with them. 15 Greet Philologus and Julia, Nereus and his sister, and Olympas and all the saints with them. 16 Greet one another with a holy kiss. All the churches of Christ send you greetings."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The greetings honor many forms of faithful life: hard work, shared imprisonment, service with Paul, endurance and care. Men and women are named, along with people belonging to households and groups of believers.",
+    "",
+    "Andronicus and Junia were in Christ before Paul and shared imprisonment with him. Mary, Tryphena, Tryphosa and Persis are remembered for their work. Rufus’s mother is honored for having been a mother to Paul as well. The details give the community a human shape beyond a list of teachings.",
+    "",
+    "Paul ends with a call to greet one another with a holy kiss and passes on the greetings of the churches of Christ. Affection and recognition reach beyond those he names individually, linking the believers with a wider fellowship."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly recognize the greetings as evidence of shared labor and belonging across a network of believers. The description of Andronicus and Junia receives differing explanations.",
+    "",
+    "The BSB presents them as outstanding among the apostles. In [his homily on this passage](https://www.newadvent.org/fathers/210231.htm), John Chrysostom explicitly identifies Junia as a woman and praises her as worthy of being called an apostle. [Calvin’s comment on verse 7](https://biblehub.com/commentaries/calvin/romans/16.htm) understands apostles here more widely than the Twelve, including traveling workers who plant churches.",
+    "",
+    "The [ESV’s translation of verse 7](https://www.esv.org/Romans+16/) instead takes the description as people known and respected by the apostles. That difference concerns their relation to the group. Their early faith and costly service are clear; the phrase is not a complete account of every modern church office."
+  ],
+  "god_plan_lines": [
+    "Jesus describes those who do God’s will as His brother, sister and mother in [Mark 3:31–35](https://biblehub.com/bsb/mark/3.htm). This provides a wider New Testament setting for the family language and practical care running through Paul’s greetings.",
+    "",
+    "Paul’s description of Rufus’s mother as a mother to him gives that belonging a personal form. Alongside the workers and fellow prisoners, she is remembered for care. God’s gathered people are connected through the ordinary and costly ways they serve one another."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/16.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-sixteen-review.md"
+  }
+}

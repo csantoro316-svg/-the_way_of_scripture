@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "18:15-17",
+    "label": "Luke 18:15-17",
+    "slug": "luke-18-15-17"
+  },
+  "section_title": "What does receiving God’s kingdom like a child look like?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 Now people were even bringing their babies to Jesus for Him to place His hands on them. And when the disciples saw this, they rebuked those who brought them. 16 But Jesus called the children to Him and said, “Let the little children come to Me, and do not hinder them! For the kingdom of God belongs to such as these. 17 Truly I tell you, anyone who does not receive the kingdom of God like a little child will never enter it.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "People bring even babies to Jesus for His touch, but the disciples rebuke those bringing them. Jesus calls the children to Him, tells the disciples to stop hindering them and says that God’s kingdom belongs to such as these.",
+    "",
+    "Luke’s word for babies is βρέφος, brephos (BREH-foss), which Thayer identifies here as an infant. The scene includes actual very young children; Jesus then makes their reception of the kingdom a lesson for everyone. ([Thayer, Greek 1025](https://biblehub.com/greek/1025.htm))",
+    "",
+    "Placed after the Pharisee and tax collector and before the wealthy ruler, the saying continues the question of how people approach God. Jesus speaks of receiving the kingdom, with a child as the example."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly emphasize Jesus’ welcome of children and the trust and dependence involved in receiving God’s kingdom. The Catholic bishops’ notes connect that dependence with the surrounding warnings against relying on personal merit. ([USCCB notes on Luke 18:15–17](https://bible.usccb.org/bible/luke/18))",
+    "",
+    "Churches differ over the connection with baptism. Calvin explicitly uses this scene to support infant baptism. The Catholic Church teaches infant baptism as a gift of new life, Reformed churches following Westminster include infants of believing parents, and the Methodist Articles retain baptism of young children. ([Calvin on Luke 18:15–17 and its parallels](https://biblehub.com/commentaries/calvin/luke/18.htm); [Catechism §§1250–1252](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_1/iv_who_can_receive_baptism.html); [Westminster Confession 28.4](https://www.opc.org/wcf.html); [Methodist Articles XVII](https://www.umc.org/en/content/articles-of-religion))",
+    "",
+    "The 1689 Baptist Confession limits baptism to those who personally profess repentance, faith and obedience to Christ. That distinguishes the Baptist practice from the others described above. Luke’s scene itself describes children being brought for Jesus’ touch and His welcome of them. ([1689 Baptist Confession 29.2](https://www.the1689confession.com/1689/chapter-29))"
+  ],
+  "god_plan_lines": [
+    "Paul reminds the Corinthians that God’s calling is not measured by worldly wisdom, power or noble birth. Their life in Christ leaves them with reason to praise God rather than boast about their standing. That is a broader connection with receiving the kingdom in dependence rather than approaching it as a personal achievement. ([1 Corinthians 1:26–31](https://biblehub.com/bsb/1_corinthians/1.htm))",
+    "",
+    "Galatians describes God sending His Son so that people could receive adoption and the Spirit could lead them to call God Father. It is a supported connection with the wider picture of receiving life as God’s children, rather than a claim that Luke’s brief scene settles every question about baptism or the salvation of infants. ([Galatians 4:4–7](https://biblehub.com/bsb/galatians/4.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/18.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-eighteen-closing-review.md"
+  }
+}

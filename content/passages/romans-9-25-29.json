@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "9:25-29",
+    "label": "Romans 9:25-29",
+    "slug": "romans-9-25-29"
+  },
+  "section_title": "Why does Paul bring Hosea and Isaiah into this discussion?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "25 As He says in Hosea: “I will call them ‘My People’ who are not My people, and I will call her ‘My Beloved’ who is not My beloved,” 26 and, “It will happen that in the very place where it was said to them, ‘You are not My people,’ they will be called ‘sons of the living God.’”",
+        "27 Isaiah cries out concerning Israel: “Though the number of the Israelites is like the sand of the sea, only the remnant will be saved. 28 For the Lord will carry out His sentence on the earth thoroughly and decisively.” 29 It is just as Isaiah foretold: “Unless the Lord of Hosts had left us descendants, we would have become like Sodom, we would have resembled Gomorrah.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul supports the calling of people from Jews and Gentiles with words from the prophets. Hosea supplies the language of people once rejected being called God’s people and His children. Isaiah speaks of a remnant—a surviving part of Israel—rather than the nation’s size guaranteeing its safety.",
+    "",
+    "The original setting matters. [Hosea 1:6–11](https://biblehub.com/bsb/hosea/1.htm) and [2:14–23](https://biblehub.com/bsb/hosea/2.htm) concern judgment on Israel followed by promised restoration. Paul brings that language into his account of God’s calling. He also uses Isaiah’s warnings of judgment and assurance that God preserves survivors.",
+    "",
+    "The final comparison with Sodom and Gomorrah emphasizes dependence on God’s mercy. Without the survivors God leaves, destruction would be complete. The point is preservation by God, rather than an entitlement created by numbers or ancestry."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly see these quotations as showing that judgment does not bring God’s purpose to an end: He preserves a remnant and calls people into a restored relationship with Him. Explanations differ over the reach of Hosea’s words here.",
+    "",
+    "[Calvin’s comment on verse 25](https://biblehub.com/commentaries/calvin/romans/9.htm) recognizes Hosea’s original reference to Israel and reads Paul’s use as extending to the Gentiles. [Wesley’s notes on verses 25–26](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-romans/) emphasize Israel’s final restoration. These are differences between these teachers’ explanations; neither should be treated as the only reading within his wider tradition."
+  ],
+  "god_plan_lines": [
+    "Paul explicitly joins the prophets’ language to the calling of people from both Jews and Gentiles in verse 24. [Hosea 2:19–23](https://biblehub.com/bsb/hosea/2.htm) pictures renewed belonging through God’s faithfulness and compassion. [Isaiah 10:20–23](https://biblehub.com/bsb/isaiah/10.htm) describes a remnant returning to rely on the Lord, and [Isaiah 1:9](https://biblehub.com/bsb/isaiah/1.htm) credits Him with preserving survivors.",
+    "",
+    "These passages bring judgment and hope together. God’s people owe their continued life and belonging to His mercy. Paul uses that history to explain the people God is calling, rather than treating the arrival of Gentiles as proof that His earlier word failed."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/9.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-nine-review.md"
+  }
+}

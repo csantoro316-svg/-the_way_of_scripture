@@ -1,0 +1,50 @@
+{
+  "reference": {
+    "book": "Ezra",
+    "citation": "2:64-70",
+    "label": "Ezra 2:64-70",
+    "slug": "ezra-2-64-70"
+  },
+  "section_title": "How does the returning community begin to rebuild?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "64 The whole assembly numbered 42,360, 65 in addition to their 7,337 menservants and maidservants, as well as their 200 male and female singers. 66 They had 736 horses, 245 mules, 67 435 camels, and 6,720 donkeys.",
+        "68 When they arrived at the house of the LORD in Jerusalem, some of the heads of the families gave freewill offerings to rebuild the house of God on its original site. 69 According to their ability, they gave to the treasury for this work 61,000 darics of gold, 5,000 minas of silver, and 100 priestly garments. 70 So the priests, the Levites, the singers, the gatekeepers, and the temple servants, along with some of the people, settled in their own towns; and the rest of the Israelites settled in their towns."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The account gives a total assembly of 42,360, alongside 7,337 male and female servants and 200 singers. It also records the animals that accompany them.",
+    "",
+    "On arrival at the temple site, some family heads give freewill offerings for rebuilding. The gifts include gold, silver and priestly garments, and the giving is described as according to their ability.",
+    "",
+    "The chapter ends with the people settling in their towns. They have returned and begun to provide for the work, but the temple has not yet been rebuilt."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezra/2.htm) emphasizes that the acceptability of the offerings is connected with the people’s ability, rather than whether their gifts equal the wealth of earlier generations. [Gill](https://biblehub.com/commentaries/gill/ezra/2.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-ezra/) understand arrival at the house of God as arrival at its site or ruins, not at an already restored temple. The scene marks a beginning made through willing gifts and settlement."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezra/2.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezra-one-two-review.md"
+  }
+}

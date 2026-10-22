@@ -1,0 +1,73 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "3:16-28",
+    "label": "1 Kings 3:16-28",
+    "slug": "1-kings-3-16-28"
+  },
+  "section_title": "How does Solomon recognize the child’s mother?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "16 At that time two prostitutes came to the king and stood before him. 17 One woman said, “Please, my lord, this woman and I live in the same house, and I gave birth while she was in the house. 18 On the third day after I gave birth, this woman also had a baby. We were alone, with no one in the house but the two of us. 19 During the night this woman’s son died because she rolled over on him. 20 So she got up in the middle of the night and took my son from my side while I was asleep. She laid him in her bosom and put her dead son at my bosom. 21 The next morning, when I got up to nurse my son, I discovered he was dead. But when I examined him, I realized that he was not the son I had borne.” 22 “No,” said the other woman, “the living one is my son and the dead one is your son.” But the first woman insisted, “No, the dead one is yours and the living one is mine.” So they argued before the king.",
+        "23 Then the king replied, “This woman says, ‘My son is alive and yours is dead,’ but that woman says, ‘No, your son is dead and mine is alive.’” 24 The king continued, “Bring me a sword.” So they brought him a sword, 25 and the king declared, “Cut the living child in two and give half to one and half to the other.” 26 Then the woman whose son was alive spoke to the king because she yearned with compassion for her son. “Please, my lord,” she said, “give her the living baby. Do not kill him!” But the other woman said, “He will be neither mine nor yours. Cut him in two!” 27 Then the king gave his ruling: “Give the living baby to the first woman. By no means should you kill him; she is his mother.” 28 When all Israel heard of the judgment the king had given, they stood in awe of him, for they saw that the wisdom of God was in him to administer justice."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Two women, identified as prostitutes, bring a dispute to Solomon. One says that they gave birth three days apart in the same house, with no one else present. She says the other child died during the night and that the babies were exchanged while she slept. The other woman denies it.",
+    "",
+    "Solomon calls for a sword and orders the living child divided. The true mother immediately asks that the child be given to the other woman rather than killed. The other woman agrees to the division.",
+    "",
+    "The account describes the mother’s deep compassion for her son. The Hebrew verb used for this stirring of feeling is kamar, pronounced kah-MAR. [Brown–Driver–Briggs](https://biblehub.com/hebrew/3648.htm) describes it as growing warm and tender and explicitly includes this verse.",
+    "",
+    "Solomon gives the living child to the woman who pleaded for his life. Israel hears the judgment and stands in awe, recognizing God’s wisdom in the king’s administration of justice."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/3.htm) understands the test as revealing which woman loves the child. The decisive question becomes whose concern for his life is greater than her desire to win the dispute.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) and [Gill](https://biblehub.com/commentaries/gill/1_kings/3.htm) likewise understand the mother’s plea as the clue Solomon recognizes. His order brings out the contrasting responses; his final ruling expressly forbids killing the child.",
+    "",
+    "The episode demonstrates the wisdom just promised to Solomon. Its outcome preserves the child’s life and restores him to his mother. It is a particular account of judgment, not an instruction to threaten children when settling disputes."
+  ],
+  "god_plan_lines": [
+    "The mother’s compassion has a meaningful place beside the Bible’s pictures of God’s care. In [Isaiah 49:14–16](https://biblehub.com/bsb/isaiah/49.htm), God answers Zion’s fear of being forgotten by asking whether a nursing mother could forget her child. Even if a mother could forget, He will not forget His people.",
+    "",
+    "[Hosea 11:8–9](https://biblehub.com/bsb/hosea/11.htm) also describes God’s deeply stirred compassion toward Israel. The verb used for that stirring is the same one used here for the mother’s feeling. The parallel helps us see the strength of the care being described.",
+    "",
+    "These passages do not identify this woman as a prediction or make every mother’s experience identical. They use the recognizable depth of compassionate love to help readers grasp God’s faithful concern for His people."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/3.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-three-review.md"
+  }
+}

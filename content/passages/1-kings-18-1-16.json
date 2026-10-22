@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "18:1-16",
+    "label": "1 Kings 18:1-16",
+    "slug": "1-kings-18-1-16"
+  },
+  "section_title": "Why is Obadiah afraid to tell Ahab that Elijah has returned?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 After a long time, in the third year of the drought, the word of the LORD came to Elijah: “Go and present yourself to Ahab, and I will send rain upon the face of the earth.” 2 So Elijah went to present himself to Ahab. The famine was severe in Samaria, 3 and Ahab summoned Obadiah, who was in charge of the palace. (Now Obadiah greatly feared the LORD, 4 for when Jezebel had slaughtered the prophets of the LORD, Obadiah had taken a hundred prophets and hidden them, fifty men per cave, providing them with food and water.) 5 Then Ahab said to Obadiah, “Go throughout the land to every spring and every valley. Perhaps we will find grass to keep the horses and mules alive so that we will not have to destroy any livestock.” 6 So they divided the land to explore. Ahab went one way by himself, and Obadiah went the other way by himself.",
+        "7 Now as Obadiah went on his way, Elijah suddenly met him. When Obadiah recognized him, he fell facedown and said, “Is it you, my lord Elijah?” 8 “It is I,” he answered. “Go tell your master, ‘Elijah is here!’” 9 But Obadiah replied, “How have I sinned, that you are handing your servant over to Ahab to put me to death? 10 As surely as the LORD your God lives, there is no nation or kingdom where my lord has not sent someone to search for you. When they said, ‘He is not here,’ he made that kingdom or nation swear that they had not found you. 11 And now you say, ‘Go tell your master that Elijah is here!’ 12 I do not know where the Spirit of the LORD may carry you off when I leave you. Then when I go and tell Ahab and he does not find you, he will kill me. But I, your servant, have feared the LORD from my youth.",
+        "13 Was it not reported to my lord what I did when Jezebel slaughtered the prophets of the LORD? I hid a hundred prophets of the LORD, fifty men per cave, and I provided them with food and water. 14 And now you say, ‘Go tell your lord that Elijah is here!’ He will kill me!” 15 Then Elijah said, “As surely as the LORD of Hosts lives, before whom I stand, I will present myself to Ahab today.” 16 So Obadiah went to inform Ahab, who went to meet Elijah."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The LORD tells Elijah to present himself to Ahab and promises to send rain. The famine is severe, and Ahab and his palace official Obadiah are searching for grass to keep the livestock alive.",
+    "",
+    "The narrator introduces an important distinction within the royal household: Obadiah greatly fears the LORD. When Jezebel killed God’s prophets, he hid a hundred of them, fifty in each cave, and supplied food and water.",
+    "",
+    "Elijah meets Obadiah and asks him to announce his presence. Obadiah fears that Elijah may disappear before Ahab arrives and that the king will kill him for the failed report. Elijah gives a solemn assurance that he will meet Ahab that day. Obadiah then carries the message."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) and [Henry](https://biblehub.com/commentaries/mhc/1_kings/18.htm) emphasize Obadiah’s protection of God’s servants in an unexpected and dangerous setting. His place in Ahab’s household does not erase the narrator’s testimony to his faithfulness.",
+    "",
+    "[Gill](https://biblehub.com/commentaries/gill/1_kings/18.htm) understands his fear in light of the king’s search for Elijah and the risk attached to an apparently false report. The exchange shows a faithful servant facing real danger, rather than simply someone indifferent to God."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/18.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-eighteen-review.md"
+  }
+}

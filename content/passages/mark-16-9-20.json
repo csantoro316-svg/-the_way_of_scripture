@@ -5,15 +5,63 @@
     "label": "Mark 16:9-20",
     "slug": "mark-16-9-20"
   },
-  "versions": [],
-  "context_lines": [
-    "In **Mark 16**, the resurrection stands at the center, and the longer ending has long been discussed because of its textual history. Any use of this chapter should distinguish clearly between the resurrection message itself and questions surrounding the longer textual ending."
+  "section_title": "What does Mark’s longer ending tell us?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "9 Early on the first day of the week, after Jesus had risen, He appeared first to Mary Magdalene, from whom He had driven out seven demons. 10 She went and told those who had been with Him, who were mourning and weeping. 11 And when they heard that Jesus was alive and she had seen Him, they did not believe it. 12 After this, Jesus appeared in a different form to two of them as they walked along in the country. 13 And they went back and reported it to the rest, but they did not believe them either. 14 Later, as they were eating, Jesus appeared to the Eleven and rebuked them for their unbelief and hardness of heart, because they did not believe those who had seen Him after He had risen.",
+        "15 And He said to them, “Go into all the world and preach the gospel to every creature. 16 Whoever believes and is baptized will be saved, but whoever does not believe will be condemned. 17 And these signs will accompany those who believe: In My name they will drive out demons; they will speak in new tongues; 18 they will pick up snakes with their hands, and if they drink any deadly poison, it will not harm them; they will lay their hands on the sick, and they will be made well.”",
+        "19 After the Lord Jesus had spoken to them, He was taken up into heaven and sat down at the right hand of God. 20 And they went out and preached everywhere, and the Lord worked through them, confirming His word by the signs that accompanied it."
+      ]
+    }
   ],
-  "explanation_lines": [
-    "*A textual note: Mark 16:9-20 is absent from the oldest and most reliable manuscripts, and most scholarly translations flag this section accordingly. That's worth knowing, but it doesn't need to settle the matter on its own.*",
+  "context_lines": [
+    "Some early manuscripts end Mark at verse 8; others include these final verses. The BSB prints verses 9–20 and explains the difference in its [chapter footnote](https://biblehub.com/bsb/mark/16.htm). The question is whether these verses belonged to Mark’s original ending; the resurrection itself is already announced in verse 6 and is also described in the other Gospels.",
     "",
-    "Even taking this verse at full face value, the structure itself is informative. The first half pairs belief and baptism: believed and has been baptized, shall be saved. But the condemnation clause that follows drops baptism entirely: he who has disbelieved shall be condemned \u2014 not \"has not been baptized.\" If both were equally the dividing line between saved and condemned, the second half would need to name both. It names one.",
+    "These verses move from resurrection appearances and the disciples’ unbelief to worldwide preaching, signs, and Jesus’ ascension. The One they struggle to believe is alive becomes the Lord who sends them and works through their message. For closer reading, see the [appearance passage](https://the-way-of-scripture.web.app/passages/mark-16-9-14.html) and the [commission passage](https://the-way-of-scripture.web.app/passages/mark-16-15-20.html).",
     "",
-    "**Belief is the hinge on which condemnation turns,** with baptism standing alongside it as the expected companion of genuine faith \u2014 not as a separately-judged condition."
-  ]
+    "The manuscript question is old. Irenaeus cites verse 19 as part of Mark near the close of his Gospel, showing that this ending was known early in Christian history. Eusebius later discusses copies ending at verse 8 and also explains how a reader accepting the longer text might understand it. Their testimony shows an early history of both use and discussion, rather than a concern first invented by modern Bible translators. ([Irenaeus, Against Heresies 3.10.5](https://www.newadvent.org/fathers/0103310.htm); [Eusebius, To Marinus 1, translated pages 97–99](https://bibletranslation.ws/down/Eusebius_Gospel_problems_and_solutions_2010.pdf))"
+  ],
+  "common_interpretation_lines": [
+    "The Catholic bishops’ notes recognize the longer ending as received Scripture while discussing evidence that someone other than Mark wrote it. These are distinct questions: a passage’s place in a church’s Bible and who first wrote it. The BSB’s note records manuscripts with different endings, allowing readers to see the textual question while reading the verses. ([USCCB notes on Mark 16:9–20](https://bible.usccb.org/bible/mark/16); [BSB footnote](https://biblehub.com/bsb/mark/16.htm))",
+    "",
+    "Within the passage, the main differences concern baptism and the continuing place of miraculous signs. Catholic and Lutheran teaching connect baptism with God giving saving grace; Reformed and Baptist confessions explain its relation to faith in different ways, and Wesley emphasizes belief with baptism as its outward expression. The [verse 16 page](https://the-way-of-scripture.web.app/passages/mark-16-16.html) explains these readings from their own documents.",
+    "",
+    "On signs, Dallas Theological Seminary emphasizes their role in establishing the apostles’ authority, while the Assemblies of God expects the Spirit to continue empowering mission with signs. Both affirm God’s power; they differ about how the promises apply across the church’s history. The [commission passage](https://the-way-of-scripture.web.app/passages/mark-16-15-20.html) explains these positions and their sources. ([Dallas, Article XVI](https://www.dts.edu/why-dts/doctrinal-statement); [Assemblies of God, section 10](https://ag.org/Beliefs/Statement-of-Fundamental-Truths))"
+  ],
+  "god_plan_lines": [
+    "The movement from uncertain disciples to witnesses belongs to the New Testament’s account of God spreading the gospel. Luke describes Jesus opening their minds to understand His suffering and resurrection, then sending them to proclaim repentance and forgiveness among the nations. Acts connects that witness with the Spirit’s power. Their mission depends on the risen Lord. ([Luke 24:44–49](https://biblehub.com/bsb/luke/24.htm); [Acts 1:1–11](https://biblehub.com/bsb/acts/1.htm))",
+    "",
+    "The resurrection also promises more than the survival of a message. Paul connects Christ’s resurrection with His people’s future resurrection and the final defeat of death. The Lord who sends witnesses is bringing His saving work toward that promised completion. ([1 Corinthians 15:20–28, 50–58](https://biblehub.com/bsb/1_corinthians/15.htm))"
+  ],
+  "current_position_lines": [
+    "Baptism examines this verse directly. The study observes that the promise joins belief and baptism, while the warning names unbelief as the reason for condemnation. Its conclusion is that baptism is the expected response of genuine faith, rather than a separate condition that earns salvation. The study treats baptism as commanded and meaningful. This supplies our position on verse 16; it does not settle the original ending of Mark or whether particular miraculous gifts continue today."
+  ],
+  "deeper_study": [
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/16.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-mark-sixteen-review.md",
+    "position_source_detail": "Baptism, section V, Mark 16:16; no new position on textual ending or gifts."
+  }
 }

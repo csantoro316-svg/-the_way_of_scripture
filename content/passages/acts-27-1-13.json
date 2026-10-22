@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "27:1-13",
+    "label": "Acts 27:1-13",
+    "slug": "acts-27-1-13"
+  },
+  "section_title": "Why does the voyage become dangerous before the storm begins?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 When it was decided that we would sail for Italy, Paul and some other prisoners were handed over to a centurion named Julius, who belonged to the Imperial Regiment. 2 We boarded an Adramyttian ship about to sail for ports along the coast of Asia, and we put out to sea. Aristarchus, a Macedonian from Thessalonica, was with us. 3 The next day we landed at Sidon, and Julius treated Paul with consideration, allowing him to visit his friends and receive their care. 4 After putting out from there, we sailed to the lee of Cyprus because the winds were against us. 5 And when we had sailed across the open sea off the coast of Cilicia and Pamphylia, we came to Myra in Lycia. 6 There the centurion found an Alexandrian ship sailing for Italy and put us on board.",
+        "7 After sailing slowly for many days, we arrived off Cnidus. When the wind impeded us, we sailed to the lee of Crete, opposite Salmone. 8 After we had moved along the coast with difficulty, we came to a place called Fair Havens, near the town of Lasea. 9 By now much time had passed, and the voyage had already become dangerous because it was after the Fast. So Paul advised them, 10 “Men, I can see that our voyage will be filled with disaster and great loss, not only to ship and cargo, but to our own lives as well.” 11 But contrary to Paul’s advice, the centurion was persuaded by the pilot and by the owner of the ship. 12 Since the harbor was unsuitable to winter in, the majority decided to sail on, hoping that somehow they could reach Phoenix to winter there. Phoenix was a harbor in Crete facing both southwest and northwest. 13 When a gentle south wind began to blow, they thought they had their opportunity. So they weighed anchor and sailed along, hugging the coast of Crete."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul and other prisoners are placed under Julius, a centurion of the Imperial Regiment, for the voyage to Italy. Aristarchus accompanies the travelers, and the narrator again speaks as one of the company. At Sidon, Julius treats Paul kindly and allows friends to care for him.",
+    "",
+    "Contrary winds slow the journey. The ships sail along the sheltered sides of islands—the lee, away from the wind—and the party changes to an Alexandrian vessel at Myra. They eventually reach Fair Havens on Crete with difficulty.",
+    "",
+    "The Day of Atonement fast has already passed, and Luke says sailing has become dangerous. Paul warns of serious loss to the cargo, ship and lives. The centurion gives more weight to the pilot and owner. Since the harbor is unsuitable for wintering, the majority hopes to reach Phoenix, another Cretan harbor, rather than remain where they are.",
+    "",
+    "A gentle south wind seems to offer the chance they want, and they set out close to the coast. The decision is not described as an attempt to cross the whole sea immediately. Paul’s first warning is also not introduced as an angel’s announcement; the explicit message from God comes later."
+  ],
+  "common_interpretation_lines": [
+    "The first warning is often understood as Paul’s assessment of a dangerous voyage, distinct from the later promise that no life will be lost. [Calvin on verse 21](https://biblehub.com/commentaries/calvin/acts/27.htm) thinks the Spirit guided his counsel while acknowledging that Luke records no special revelation at that earlier point. The account clearly identifies the source of the later assurance in verses 23–24."
+  ],
+  "god_plan_lines": [
+    "The promise that Paul will testify in Rome, given in [Acts 23:11](https://biblehub.com/bsb/acts/23.htm), continues through a journey that includes delay, difficult weather and dependence on others. Julius’s consideration and the friends’ care are part of how the messenger is supported.",
+    "",
+    "[2 Corinthians 11:25–27](https://biblehub.com/bsb/2_corinthians/11.htm) places danger at sea, shipwreck and exposure among the hardships of Paul’s service. The mission does not take him outside ordinary human vulnerability. God’s purpose is carried forward through a life that still needs practical care and wise decisions."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/27.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twenty-seven-review.md"
+  }
+}

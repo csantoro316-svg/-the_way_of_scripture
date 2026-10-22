@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "13:5-8",
+    "label": "Mark 13:5-8",
+    "slug": "mark-13-5-8"
+  },
+  "section_title": "How should we respond to alarming events?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 Jesus began by telling them, “See to it that no one deceives you. 6 Many will come in My name, claiming, ‘I am He,’ and will deceive many. 7 When you hear of wars and rumors of wars, do not be alarmed. These things must happen, but the end is still to come. 8 Nation will rise against nation, and kingdom against kingdom. There will be earthquakes in various places, as well as famines. These are the beginning of birth pains."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The disciples ask about timing and signs. Jesus begins by teaching them how to respond: they must resist deception and refuse to let reports of war overwhelm them. Many will claim His identity and mislead people. An alarming claim does not become reliable simply because it comes during frightening events.",
+    "",
+    "The Greek verb βλέπω (blepō, BLEH-poh) ordinarily means to see or look, and it can also mean to take care or pay close attention. Here it introduces a warning to watch against deception. Jesus is calling for discernment, not merely for people to notice events around them. ([Thayer, βλέπω](https://biblehub.com/greek/991.htm))",
+    "",
+    "Wars, earthquakes, and famines will occur, but Jesus describes these as the beginning of birth pains. He explicitly says that the end is still to come. The childbirth picture distinguishes suffering along the way from the completion ahead; these verses give neither a date nor a method for calculating one."
+  ],
+  "common_interpretation_lines": [
+    "Readers differ over the period chiefly in view. Calvin treats the warning as preparation for troubles and deception throughout the church’s life before Christ’s return. In that reading, distress does not mean that God’s promises have failed or that believers can skip the long work of faithfulness. ([Calvin, Mark 13:1–8](https://biblehub.com/commentaries/calvin/mark/13.htm))",
+    "",
+    "John Walvoord also recognizes recurring troubles throughout the age, but expects them to intensify toward a future period of great tribulation. His explanation of the parallel in Matthew distinguishes these general troubles from more specific signs later in the discourse. These are different ways of arranging the events, rather than official timelines held by every member of a denomination. ([Walvoord, Matthew 24:4–14](https://walvoord.com/article/218))"
+  ],
+  "god_plan_lines": [
+    "Paul also uses the picture of childbirth when describing creation’s suffering and hope. Creation groans under decay while awaiting the freedom that accompanies the revealing of God’s children. Believers share that longing as they await the redemption of their bodies. This is a related picture, not a statement that every detail in Romans and Mark belongs to the same timetable. ([Romans 8:18–25](https://biblehub.com/bsb/romans/8.htm))",
+    "",
+    "The connection gives the suffering world a future beyond its present troubles. God’s purpose includes resurrection and freedom from decay, so His people can wait with hope without treating each disaster as a new prediction of the date."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Should We Seek Signs from God?",
+      "href": "../studies/seek-signs.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/13.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-thirteen-opening-review.md"
+  }
+}

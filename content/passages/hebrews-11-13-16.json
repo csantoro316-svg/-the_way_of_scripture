@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "11:13-16",
+    "label": "Hebrews 11:13-16",
+    "slug": "hebrews-11-13-16"
+  },
+  "section_title": "What were they still waiting for when they died?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 All these people died in faith, without having received the things they were promised. However, they saw them and welcomed them from afar. And they acknowledged that they were strangers and exiles on the earth. 14 Now those who say such things show that they are seeking a country of their own.",
+        "15 If they had been thinking of the country they had left, they would have had opportunity to return. 16 Instead, they were longing for a better country, a heavenly one. Therefore God is not ashamed to be called their God, for He has prepared a city for them."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The writer pauses to reflect on the patriarchs just described. They died in faith without receiving the full reality of what God had promised. This does not deny that Isaac had been born or that God had already helped them; it distinguishes the beginning of fulfillment from its completion.",
+    "",
+    "They acknowledged being strangers and exiles. If their hope had simply been a return to the country they left, they could have gone back. Instead, they longed for the better, heavenly country God had prepared.",
+    "",
+    "The assurance at the end is personal: God is not ashamed to be called their God. Death did not cancel the relationship or make His promise empty. Their hope rested on what He would provide, beyond what their present circumstances could show."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/11.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) understand the better country as the heavenly home promised to God’s people. Both read the patriarchs’ unsettled earthly lives in light of that lasting hope.",
+    "",
+    "Calvin places particular emphasis on the difference between their distant view of Christ’s kingdom and the clearer knowledge available after His coming. Wesley emphasizes their expectation of eternal glory. These emphases allow for real blessings already received while recognizing that the promised completion was still ahead."
+  ],
+  "god_plan_lines": [
+    "In [Luke 20:37–38](https://biblehub.com/bsb/luke/20.htm), Jesus appeals to God calling Himself the God of Abraham, Isaac and Jacob when explaining resurrection. The same enduring relationship named here becomes part of Jesus’ case that death is not the final word.",
+    "",
+    "[Revelation 21:1–5](https://biblehub.com/bsb/revelation/21.htm) describes the city from God and His dwelling with His people, where death and mourning are removed. This supplies a larger picture of the lasting home for which Hebrews teaches believers to hope, without requiring a complete timetable from these four verses."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/11.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-eleven-middle-review.md"
+  }
+}

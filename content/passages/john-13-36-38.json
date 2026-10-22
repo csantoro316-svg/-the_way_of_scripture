@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "13:36-38",
+    "label": "John 13:36-38",
+    "slug": "john-13-36-38"
+  },
+  "section_title": "Why can Peter not follow Jesus yet?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "36 “Lord, where are You going?” Simon Peter asked. Jesus answered, “Where I am going, you cannot follow Me now, but you will follow later.” 37 “Lord,” said Peter, “why can’t I follow You now? I will lay down my life for You.” 38 “Will you lay down your life for Me?” Jesus replied. “Truly, truly, I tell you, before the rooster crows, you will deny Me three times."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Peter returns to the question raised by Jesus’ departure: where is He going? Jesus says that Peter cannot follow now but will follow later. Peter responds with a promise to lay down his life for Him.",
+    "",
+    "Jesus answers by telling Peter that he will deny Him three times before the rooster crows. The contrast is sharp. Peter is ready to promise his life, but Jesus knows the failure that is approaching. The passage does not require us to guess every feeling or motive behind Peter’s words.",
+    "",
+    "The promise of following later remains alongside the warning. The denial will be real, but Jesus has not described it as the last word about Peter. [John 18:15–27](https://biblehub.com/bsb/john/18.htm) records the denial, and [John 21:15–19](https://biblehub.com/bsb/john/21.htm) returns to Peter’s calling after the resurrection."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this exchange as a warning about relying on our own promises of loyalty. Peter’s confidence does not equip him to carry out what he promises at this moment. [Calvin on verses 36–38](https://biblehub.com/commentaries/calvin/john/13.htm) and [Wesley on verses 36–38](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) both connect the warning with Peter’s weakness and his later following of Jesus."
+  ],
+  "god_plan_lines": [
+    "[Luke 22:31–34](https://biblehub.com/bsb/luke/22.htm) supplies another part of the picture. Jesus tells Peter that He has prayed for him and instructs him to strengthen his brothers after he turns back. Failure will call for repentance, and Jesus prepares for Peter’s renewed service.",
+    "",
+    "In [John 21:15–19](https://biblehub.com/bsb/john/21.htm), the risen Jesus entrusts His sheep to Peter, speaks of the death by which Peter will glorify God and calls him to follow. That later scene gives weight to the promise here: Peter’s failure does not end the calling Jesus will renew."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/13.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-thirteen-closing-review.md"
+  }
+}

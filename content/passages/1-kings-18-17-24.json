@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "18:17-24",
+    "label": "1 Kings 18:17-24",
+    "slug": "1-kings-18-17-24"
+  },
+  "section_title": "Why must the people stop wavering between the LORD and Baal?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 When Ahab saw Elijah, he said to him, “Is that you, O troubler of Israel?” 18 “I have not troubled Israel,” Elijah replied, “but you and your father’s house have, for you have forsaken the commandments of the LORD and have followed the Baals. 19 Now summon all Israel to meet me on Mount Carmel, along with the four hundred and fifty prophets of Baal and the four hundred prophets of Asherah who eat at Jezebel’s table.” 20 So Ahab summoned all the Israelites and assembled the prophets on Mount Carmel.",
+        "21 Then Elijah approached all the people and said, “How long will you waver between two opinions? If the LORD is God, follow Him. But if Baal is God, follow him.” But the people did not answer a word. 22 Then Elijah said to the people, “I am the only remaining prophet of the LORD, but Baal has four hundred and fifty prophets. 23 Get two bulls for us. Let the prophets of Baal choose one bull for themselves, cut it into pieces, and place it on the wood but not light the fire. And I will prepare the other bull and place it on the wood but not light the fire. 24 Then you may call on the name of your god, and I will call on the name of the LORD. The God who answers by fire, He is God.” And all the people answered, “What you say is good.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Ahab calls Elijah the troubler of Israel. Elijah answers that the king’s house has caused the trouble by abandoning the LORD’s commands and following the Baals. He calls for the people and the rival prophets to gather at Mount Carmel.",
+    "",
+    "Elijah challenges the people’s divided loyalty. The Hebrew verb behind waver is pasach, pronounced pah-SAHKH. [Brown–Driver–Briggs](https://biblehub.com/hebrew/6452.htm) identifies its use here as a picture of limping. The people are trying to move between loyalties instead of following the LORD wholeheartedly.",
+    "",
+    "The test will involve two bulls and two altars, with neither party lighting a fire. The God who answers by fire is to be acknowledged as God. The people agree to the proposal."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/18.htm) understands the challenge as a call to settle both belief and practice: acknowledging the LORD means following Him. [Gill](https://biblehub.com/commentaries/gill/1_kings/18.htm) similarly emphasizes that the people cannot keep alternating their allegiance.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) reads Elijah’s statement about being alone as referring to the prophet openly present for this confrontation. The earlier account of the hundred hidden prophets already shows that he is not literally the only living servant of the LORD."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/18.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-eighteen-review.md"
+  }
+}

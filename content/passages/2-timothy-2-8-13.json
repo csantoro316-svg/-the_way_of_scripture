@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "2 Timothy",
+    "citation": "2:8-13",
+    "label": "2 Timothy 2:8-13",
+    "slug": "2-timothy-2-8-13"
+  },
+  "section_title": "Why does remembering Jesus give strength to endure?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "8 Remember Jesus Christ, raised from the dead, descended from David, as proclaimed by my gospel, 9 for which I suffer to the extent of being chained like a criminal. But the word of God cannot be chained! 10 For this reason I endure all things for the sake of the elect, so that they too may obtain the salvation that is in Christ Jesus, with eternal glory.",
+        "11 This is a trustworthy saying: If we died with Him, we will also live with Him; 12 if we endure, we will also reign with Him; if we deny Him, He will also deny us; 13 if we are faithless, He remains faithful, for He cannot deny Himself."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul brings Timothy back to the center of his message: Jesus Christ, raised from the dead and descended from David. Paul is chained for proclaiming Him, but God’s word cannot be chained. He endures so that others may receive salvation in Christ and eternal glory.",
+    "",
+    "The trustworthy saying then joins dying and living with Christ, endurance and reigning, denial and being denied. Its final line declares that Christ remains faithful because He cannot deny Himself.",
+    "",
+    "Both promise and warning are present. The saying gives hope in fellowship with Christ while calling Timothy to take faithfulness seriously. Christ’s character does not change with human failure."
+  ],
+  "common_interpretation_lines": [
+    "Major Christian readings recognize both the hope of life with Christ and the seriousness of denying Him. [Calvin](https://biblehub.com/commentaries/calvin/2_timothy/2.htm) understands denial here as a rejection with real consequences before Christ, rather than simply receiving a smaller reward. He reads Christ’s faithfulness as including faithfulness to His warning. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-timothy/) likewise connects denial with avoiding suffering and explains verse 13 as God keeping His promises to those who believe.",
+    "",
+    "Traditions differ over whether someone truly saved can finally depart from faith. The Reformed [Westminster Confession 17](https://www.opc.org/wcf.html) teaches that God preserves those He has saved. The [Methodist Articles, Article XII](https://www.umc.org/en/content/articles-of-religion), allow departure from grace and restoration; the Catholic Church teaches that the gift of faith can be lost ([Catechism 162](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_three/article_1/iii_the_characteristics_of_faith.html)). These differences shape how the warning is applied, without removing the call to endure."
+  ],
+  "god_plan_lines": [
+    "The passage itself connects present suffering with the risen Christ, the promise associated with David’s line and future life with Him. [Acts 2:29–36](https://biblehub.com/bsb/acts/2.htm) likewise brings God’s promise to David together with Jesus’ resurrection and exaltation.",
+    "",
+    "[Romans 6:3–11](https://biblehub.com/bsb/romans/6.htm) explains dying and living with Christ as the basis for a new life no longer ruled by sin. [Romans 8:16–25](https://biblehub.com/bsb/romans/8.htm) places suffering with Christ alongside future glory and creation’s hope. Paul’s endurance belongs within that larger story of life overcoming death."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_timothy/2.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-timothy-two-review.md"
+  }
+}

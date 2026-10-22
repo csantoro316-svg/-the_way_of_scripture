@@ -1,0 +1,66 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "16:1-9",
+    "label": "Luke 16:1-9",
+    "slug": "luke-16-1-9"
+  },
+  "section_title": "What can a dishonest manager teach about using a passing opportunity?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Jesus also said to His disciples, “There was a rich man whose manager was accused of wasting his possessions. 2 So he called him in to ask, ‘What is this I hear about you? Turn in an account of your management, for you cannot be manager any longer.’ 3 The manager said to himself, ‘What shall I do, now that my master is taking away my position? I am too weak to dig and too ashamed to beg. 4 I know what I will do so that after my removal from management, people will welcome me into their homes.’",
+        "5 And he called in each one of his master’s debtors. ‘How much do you owe my master?’ he asked the first. 6 ‘A hundred measures of olive oil,’ he answered. ‘Take your bill,’ said the manager, ‘sit down quickly, and write fifty.’ 7 Then he asked another, ‘And how much do you owe?’ ‘A hundred measures of wheat,’ he replied. ‘Take your bill and write eighty,’ he told him.",
+        "8 The master commended the dishonest manager because he had acted shrewdly. For the sons of this age are more shrewd in dealing with their own kind than are the sons of light. 9 I tell you, use worldly wealth to make friends for yourselves so that when it is gone, they will welcome you into eternal dwellings."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus tells His disciples about a rich man’s manager who is accused of wasting the property under his care. The owner demands an account and announces that the manager can no longer keep his position.",
+    "",
+    "Facing that loss, the manager considers his future. He is too weak to dig and ashamed to beg, so he reduces the bills of his master’s debtors in the hope that they will welcome him afterward.",
+    "",
+    "The master commends him for acting shrewdly, while the story still calls him dishonest. Jesus compares the foresight of people concerned with this age with that of the children of light, then directs His disciples to use passing wealth with eternal welcome in view.",
+    "",
+    "The comparison uses the Greek word φρόνιμος, phronimos (FROH-nih-moss). Thayer gives the sense of being prudent or mindful of one’s interests and lists the comparison in verse 8. The manager has recognized that his opportunity is running out and acted with his future in mind. ([Thayer, Greek 5429](https://biblehub.com/greek/5429.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly distinguish the manager’s foresight from his dishonesty and hear a call to use present resources with the future in view. Wesley explicitly makes that distinction in his explanation of the commendation. ([Wesley on Luke 16:8–9](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))",
+    "",
+    "One explanation of the bill reductions appears in the Catholic bishops’ notes: the manager gives up his own commission, leaving the amount actually owed to the master. Luke does not identify the reductions as commissions, so this remains an explanation of the story rather than a detail stated in it. The notes connect the parable’s point with using material goods wisely in light of the coming crisis. ([USCCB note on Luke 16:1–8](https://bible.usccb.org/bible/luke/16))"
+  ],
+  "god_plan_lines": [
+    "First Timothy calls wealthy believers to put hope in God, be generous and ready to share, and store up a foundation for the future. This gives a wider New Testament connection with using what cannot last for the sake of what truly does. ([1 Timothy 6:17–19](https://biblehub.com/bsb/1_timothy/6.htm))",
+    "",
+    "Paul’s account of a collection for believers in need shows how that use of resources serves God’s purpose. Needs are met, thanksgiving grows and people glorify God for the generosity that expresses the gospel. Money becomes a means of care and shared praise rather than the final object of trust. ([2 Corinthians 9:6–15](https://biblehub.com/bsb/2_corinthians/9.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/16.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-sixteen-opening-review.md"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "2:18-22",
+    "label": "Mark 2:18-22",
+    "slug": "mark-2-18-22"
+  },
+  "section_title": "The Bridegroom, the Patch, and the Wineskins",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "18 Now John’s disciples and the Pharisees were often fasting. So people came to Jesus and asked, “Why don’t Your disciples fast like John’s disciples and those of the Pharisees?” 19 Jesus replied, “How can the guests of the bridegroom fast while He is with them? As long as He is with them, they cannot fast. 20 But the time will come when the bridegroom will be taken from them; then they will fast.",
+        "21 No one sews a patch of unshrunk cloth on an old garment. If he does, the new piece will pull away from the old, and a worse tear will result. 22 And no one pours new wine into old wineskins. If he does, the wine will burst the skins, and both the wine and the wineskins will be ruined. Instead, new wine is poured into new wineskins.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "People ask why Jesus' disciples do not fast as John's disciples and the Pharisees do. Jesus answers with a wedding picture. Guests celebrate while the bridegroom is with them. His presence makes this a time for joy, though He also speaks of a coming time when He will be taken away and His disciples will fast.",
+    "",
+    "He follows with two pictures of things that do not fit together: an unshrunk patch on an old garment, and new wine in old wineskins. The Greek word ἄγναφος, *agnaphos* (AG-nah-foss), describes cloth that has not been finished or fulled, according to [Thayer's lexicon](https://biblehub.com/greek/46.htm). It has not yet gone through the treatment that prepares cloth for use. The wineskins are leather containers ([Thayer](https://biblehub.com/greek/779.htm)). Jesus describes the damage when the patch pulls away or the wine bursts its container.",
+    "",
+    "These pictures answer the question about fasting. Following Jesus requires attention to what His presence means, rather than simply requiring His disciples to copy another group's practices. He anticipates fasting after His departure, so the passage does not do away with fasting altogether."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings generally see Jesus as the bridegroom and His coming removal as pointing toward His death. They differ over the patch and wineskins. The [US Catholic bishops' notes on Mark 2:18–22](https://bible.usccb.org/bible/mark/2) emphasize the new relationship and joyful time Jesus brings, which cannot simply fit earlier practices.",
+    "",
+    "[Calvin, explaining Matthew 9:16–17](https://biblehub.com/commentaries/calvin/mark/2.htm), instead sees Jesus protecting His still-weak disciples from a discipline they are not yet ready to bear. On this reading, the pictures concern patient training. These are readings offered by the bishops' notes and a historical Reformed teacher; neither speaks for every member of those churches."
+  ],
+  "god_plan_lines": [
+    "The bridegroom picture belongs to a larger scriptural theme. In [Isaiah 62:4–5](https://biblehub.com/bsb/isaiah/62.htm), God rejoices over His restored people as a bridegroom rejoices over his bride. In [John 3:27–30](https://biblehub.com/bsb/john/3.htm), John the Baptist describes his own joy as that of the bridegroom's friend. These connections help explain why Jesus' presence is cause for celebration, not merely a break in a fasting schedule.",
+    "",
+    "[Revelation 19:6–9](https://biblehub.com/bsb/revelation/19.htm) carries the theme forward to the marriage supper of the Lamb. Mark's picture thus opens onto a larger hope: the bridegroom's removal is not the end of God's purpose for His people. Later, Jesus speaks of His covenant blood and of drinking anew in God's kingdom ([Mark 14:22–25](https://biblehub.com/bsb/mark/14.htm))."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/2.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-two-closing-review.md"
+  }
+}

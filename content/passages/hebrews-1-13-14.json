@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "1:13-14",
+    "label": "Hebrews 1:13-14",
+    "slug": "hebrews-1-13-14"
+  },
+  "section_title": "Who reigns, and who is sent to serve?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 Yet to which of the angels did God ever say: “Sit at My right hand until I make Your enemies a footstool for Your feet”? 14 Are not the angels ministering spirits sent to serve those who will inherit salvation?"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The comparison closes with another question: which angel has been invited to sit at God’s right hand? [Psalm 110:1](https://biblehub.com/bsb/psalms/110.htm) gives that place of authority to the Lord whom Hebrews identifies with the Son.",
+    "",
+    "Angels, by contrast, are spirits sent to serve those who will inherit salvation. Their work is honored, but it is service under God’s direction. The chapter ends with a clear difference between the Son who reigns and the servants who are sent.",
+    "",
+    "This prepares for the warning at the start of chapter 2. If the Son has this standing, His message deserves careful attention."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/1.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) both understand the Son’s place at God’s right hand as royal authority and the angels’ work as service for God’s people. Their shared emphasis is the contrast between the reigning Son and the angels’ appointed ministry.",
+    "",
+    "The service includes care for those receiving salvation. This sentence does not describe every task angels perform, assign a named angel to each person, or promise that believers will never suffer harm."
+  ],
+  "god_plan_lines": [
+    "[Acts 2:32–36](https://biblehub.com/bsb/acts/2.htm) also applies Psalm 110:1 to the risen and exalted Jesus. [1 Corinthians 15:24–28](https://biblehub.com/bsb/1_corinthians/15.htm) places His reign within the defeat of every enemy, including death. His authority therefore serves the completion of God’s saving purpose.",
+    "",
+    "[Acts 12:6–11](https://biblehub.com/bsb/acts/12.htm) gives a concrete example of an angel sent to help Peter. Yet James has been killed earlier in that same chapter. The two accounts keep angelic help within God’s direction, without turning it into a promise that every faithful person will escape suffering."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-one-review.md"
+  }
+}

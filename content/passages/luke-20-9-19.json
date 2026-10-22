@@ -1,0 +1,67 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "20:9-19",
+    "label": "Luke 20:9-19",
+    "slug": "luke-20-9-19"
+  },
+  "section_title": "What happens when the tenants reject the owner’s son?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "9 Then He proceeded to tell the people this parable: “A man planted a vineyard, rented it out to some tenants, and went away for a long time. 10 At harvest time, he sent a servant to the tenants to collect his share of the fruit of the vineyard. But the tenants beat the servant and sent him away empty-handed. 11 So he sent another servant, but they beat him and treated him shamefully, sending him away empty-handed. 12 Then he sent a third, but they wounded him and threw him out.",
+        "13 ‘What shall I do?’ asked the owner of the vineyard. ‘I will send my beloved son. Perhaps they will respect him.’ 14 But when the tenants saw the son, they discussed it among themselves and said, ‘This is the heir. Let us kill him, and the inheritance will be ours.’ 15 So they threw him out of the vineyard and killed him. What then will the owner of the vineyard do to them? 16 He will come and kill those tenants and give the vineyard to others.” And when the people heard this, they said, “May such a thing never happen!”",
+        "17 But Jesus looked directly at them and said, “Then what is the meaning of that which is written: ‘The stone the builders rejected has become the cornerstone’? 18 Everyone who falls on this stone will be broken to pieces, but he on whom it falls will be crushed.” 19 When the scribes and chief priests realized that Jesus had spoken this parable against them, they sought to arrest Him that very hour. But they were afraid of the people."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus tells the people about a vineyard owner who goes away and sends servants to collect his share of the harvest. The tenants beat and shame them, then wound the third servant and throw him out. The conflict concerns their refusal to recognize the owner’s claim.",
+    "",
+    "The owner sends his beloved son, but the tenants plot to kill him and take the inheritance. They throw him out and kill him. Jesus asks what the owner will do, then describes judgment on the tenants and the vineyard being given to others.",
+    "",
+    "Isaiah’s vineyard song provides a Scriptural background: God tends His vineyard and looks for justice, but finds bloodshed and distress. Jesus’ story places particular attention on the tenants, and Luke explicitly says the scribes and chief priests understand the parable as directed against them. ([Isaiah 5:1–7](https://biblehub.com/bsb/isaiah/5.htm))",
+    "",
+    "Jesus then cites the rejected stone that becomes the cornerstone and warns of being broken or crushed by that stone. The leaders want to arrest Him, but fear the people. Their reaction keeps the parable’s warning tied to the confrontation unfolding around Him. ([Psalm 118:22–23](https://biblehub.com/bsb/psalms/118.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand God as the owner, the rejected servants as His messengers and the son as Jesus. Calvin emphasizes the history of rejecting God’s prophets and the coming rejection of His Son. The Catholic bishops’ notes identify the tenants with the religious leadership that rejects Jesus’ teaching. ([Calvin on Luke 20:9–19 and Matthew 21:33–46](https://biblehub.com/commentaries/calvin/luke/20.htm); [USCCB notes on Luke 20:9–19](https://bible.usccb.org/bible/luke/20))"
+  ],
+  "god_plan_lines": [
+    "The son is described as beloved. The Greek word is ἀγαπητός, agapētos (ah-gah-pay-TOSS), meaning dearly loved or cherished. Luke has already used the same word when the Father identifies Jesus as His beloved Son at His baptism. That repetition provides a supported connection with the identity of the son in the parable. ([Thayer, Greek 27](https://biblehub.com/greek/27.htm); [Luke 3:21–22](https://biblehub.com/bsb/luke/3.htm))",
+    "",
+    "Hebrews describes God speaking through the prophets and then through His Son, the appointed heir who provides purification for sins and sits at God’s right hand. This broader witness gives depth to the movement from messengers to Son and heir. ([Hebrews 1:1–4](https://biblehub.com/bsb/hebrews/1.htm))",
+    "",
+    "Acts explicitly identifies the rejected cornerstone as the crucified and risen Jesus, through whom salvation comes. First Peter uses the same Scripture to describe people being built around Him into a spiritual house and called to proclaim God’s goodness. Rejection does not prevent Him from becoming the foundation of the people God is gathering. ([Acts 4:8–12](https://biblehub.com/bsb/acts/4.htm); [1 Peter 2:4–10](https://biblehub.com/bsb/1_peter/2.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/20.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-twenty-opening-review.md"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "12:9-13",
+    "label": "Romans 12:9-13",
+    "slug": "romans-12-9-13"
+  },
+  "section_title": "What makes love more than a good appearance?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "9 Love must be sincere. Detest what is evil; cling to what is good. 10 Be devoted to one another in brotherly love. Outdo yourselves in honoring one another. 11 Do not let your zeal subside; keep your spiritual fervor, serving the Lord. 12 Be joyful in hope, patient in affliction, persistent in prayer. 13 Share with the saints who are in need. Practice hospitality."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul moves from particular gifts to qualities that should shape the whole community. Love must be sincere. It belongs beside rejecting evil and holding to good, so kindness is not the same as pretending that harmful conduct does not matter.",
+    "",
+    "He calls believers to family affection and to taking the lead in honoring one another. Zeal, spiritual fervor and serving the Lord give that love energy and direction. Other people’s good matters more than gaining recognition for oneself.",
+    "",
+    "Hope, patience in trouble and persistent prayer belong together. These are ways to continue with God through changing circumstances, not a demand to feel cheerful about every loss. Sharing with those in need and practicing hospitality make the community’s care tangible."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand these commands as a picture of sincere, practical love. They join affection and honor with moral seriousness, perseverance, prayer and material care. Hospitality and generosity are expressions of service to the Lord, rather than ways to gain status in the community."
+  ],
+  "god_plan_lines": [
+    "Jesus gives love for one another a public significance in [John 13:34–35](https://biblehub.com/bsb/john/13.htm): it identifies His disciples. The life Paul describes gives concrete shape to that shared belonging.",
+    "",
+    "[Acts 2:42–47](https://biblehub.com/bsb/acts/2.htm) provides a lived example of believers committed to prayer, fellowship and meeting needs. This is a parallel in the life of the early community, not a claim that Romans requires one particular financial arrangement. God’s people make His mercy visible as they care for one another."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/12.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-twelve-middle-review.md"
+  }
+}

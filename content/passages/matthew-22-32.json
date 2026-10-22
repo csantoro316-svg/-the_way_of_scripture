@@ -5,22 +5,48 @@
     "label": "Matthew 22:32",
     "slug": "matthew-22-32"
   },
-  "section_title": "",
-  "versions": [],
+  "section_title": "God Has Not Abandoned Those Who Have Died",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "32 ‘I am the God of Abraham, the God of Isaac, and the God of Jacob’? He is not the God of the dead, but of the living.”"
+      ]
+    }
+  ],
   "context_lines": [
-    "Matthew 22:32 should be read within the flow of its chapter and the larger argument of Matthew."
+    "This verse belongs to Jesus' answer to the Sadducees in Matthew 22:23–33. They deny resurrection and propose a woman whose seven successive marriages would create a problem if raised life simply continued those marriages. Jesus first corrects that assumption, then points them to God's words at the burning bush.",
+    "",
+    "In [Exodus 3:1–8](https://biblehub.com/bsb/exodus/3.htm), the God who calls Moses identifies Himself as the God of Abraham, Isaac, and Jacob and promises to rescue His people. Those patriarchs had died, yet God still identifies Himself in relation to them. Jesus brings that continuing relationship into His answer about resurrection.",
+    "",
+    "The surrounding verses keep the subject clear: Jesus is teaching about God's power to raise the dead. In the related account, [Luke 20:37–38](https://biblehub.com/bsb/luke/20.htm) explicitly connects Moses' burning-bush passage with their being raised and alive to God."
   ],
   "common_interpretation_lines": [
-    "Jesus quotes this exact passage in the Gospels when the Sadducees challenge Him about the resurrection, saying God is the God of Abraham, Isaac, and Jacob \u2014 the God of the living (Matthew 22:32). He is quoting from a passage about His own pre-incarnate appearance.",
+    "Christians commonly understand this verse to affirm God's continuing relationship with His people beyond death, within Jesus' defense of resurrection. [Wesley on 22:32](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) draws out their continuing life before God, while the [US Catholic bishops' note on 22:31–32](https://bible.usccb.org/bible/matthew/22) keeps that relationship within the passage's hope of bodily resurrection."
+  ],
+  "god_plan_lines": [
+    "The God who remembers His covenant does not lose His people when their earthly lives end. [Hebrews 11:8–16](https://biblehub.com/bsb/hebrews/11.htm) describes the patriarchs dying in faith while looking toward the home God prepares, and says He is not ashamed to be called their God. The passage brings the same relationship into view alongside a hope that reaches beyond death.",
     "",
-    "*Read the full passage in your Bible (Judges 6:11-24). Key verses are quoted below.*",
-    "",
-    "Again the pattern. The *Malak Yahweh* appears. The text moves seamlessly between calling him \"the Angel of the LORD\" and \"the LORD\" as if they are the same person \u2014 because they are. And Gideon's response upon realizing who he has spoken to is the same response every person has: he believes he will die because he has seen God face to face. An ordinary angel would never produce this response."
+    "[1 Corinthians 15:20–26](https://biblehub.com/bsb/1_corinthians/15.htm) connects the resurrection of those who belong to Christ with His victory over death itself. God's relationship with His people belongs within that larger purpose of bringing them into life through His risen Son."
+  ],
+  "current_position_lines": [
+    "Our existing study, [Who is The Angel of the Lord?](https://the-way-of-scripture.web.app/studies/angel-of-the-lord.html), identifies the One who appears and speaks from the burning bush in Exodus 3 as the Son before His human birth. It notes that Jesus quotes this very scene when answering the Sadducees. That is the study's conclusion about the Exodus passage; Jesus' immediate point here is God's relationship with the living and the reality of resurrection."
   ],
   "deeper_study": [
     {
       "title": "Who is The Angel of the Lord?",
       "href": "../studies/angel-of-the-lord.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/22.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-two-review.md",
+    "position_source_detail": "Who is The Angel of the Lord?, Exodus 3:2–6 section and explicit Matthew 22:32 connection (content/studies/angel_of_the_lord.md:69–77). Narrowly identifies the burning-bush speaker; does not create a new site position on resurrection, marriage, or its timetable."
+  }
 }

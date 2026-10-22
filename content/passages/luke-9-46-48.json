@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "9:46-48",
+    "label": "Luke 9:46-48",
+    "slug": "luke-9-46-48"
+  },
+  "section_title": "Who is great in the family Jesus is forming?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "46 Then an argument started among the disciples as to which of them would be the greatest. 47 But Jesus, knowing the thoughts of their hearts, had a little child stand beside Him. 48 And He said to them, “Whoever welcomes this little child in My name welcomes Me, and whoever welcomes Me welcomes the One who sent Me. For whoever is the least among all of you, he is the greatest.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The disciples begin disputing which of them is greatest. Jesus knows their thoughts and places a little child beside Him.",
+    "",
+    "He describes welcoming the child in His name as welcoming Himself, and welcoming Him as welcoming the One who sent Him. Then He identifies the least among them as the great one.",
+    "",
+    "The answer moves the disciples away from comparing their standing and toward receiving someone in Jesus’ name. Greatness is shown in the kind of welcome they give, with Jesus and the Father at the center of that act."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly see Jesus correcting rivalry and teaching humble service through the child’s welcome. Wesley emphasizes becoming humble in the work one is willing to do, while the Catholic bishops’ notes identify the rivalry as an attitude opposed to discipleship. ([Wesley on Luke 9:48](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [USCCB note on Luke 9:46–50](https://bible.usccb.org/bible/luke/9))"
+  ],
+  "god_plan_lines": [
+    "Jesus returns to the issue of greatness at the final meal. He tells the disciples that leadership among them must take the form of service and points to Himself as the One serving them. The child’s welcome belongs within that preparation for a community whose leaders follow His example. ([Luke 22:24–27](https://biblehub.com/bsb/luke/22.htm))",
+    "",
+    "Paul likewise tells the Corinthians to consider God’s calling of people whom the world does not regard as powerful or important. God’s work leaves room for boasting in the Lord, not in personal standing. This is a shared theme with the reversal of greatness Jesus teaches here. ([1 Corinthians 1:26–31](https://biblehub.com/bsb/1_corinthians/1.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/9.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-nine-closing-review.md"
+  }
+}

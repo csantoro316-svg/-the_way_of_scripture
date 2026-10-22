@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "5:17-25",
+    "label": "2 Samuel 5:17-25",
+    "slug": "2-samuel-5-17-25"
+  },
+  "section_title": "Why does David ask God again before the second battle?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 When the Philistines heard that David had been anointed king over Israel, they all went in search of him; but David learned of this and went down to the stronghold. 18 Now the Philistines had come and spread out in the Valley of Rephaim. 19 So David inquired of the LORD, “Should I go up against the Philistines? Will You deliver them into my hand?” “Go up,” replied the LORD, “for I will surely deliver the Philistines into your hand.” 20 So David went to Baal-perazim, where he defeated the Philistines and said, “Like a bursting flood, the LORD has burst out against my enemies before me.” So he called that place Baal-perazim. 21 There the Philistines abandoned their idols, and David and his men carried them away.",
+        "22 Once again the Philistines came up and spread out in the Valley of Rephaim. 23 So David inquired of the LORD, who answered, “Do not march straight up, but circle around behind them and attack them in front of the balsam trees. 24 As soon as you hear the sound of marching in the tops of the balsam trees, move quickly, because this will mean that the LORD has gone out before you to strike the camp of the Philistines.” 25 So David did as the LORD had commanded him, and he struck down the Philistines all the way from Gibeon to Gezer."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The Philistines respond to David’s recognition as king by coming against him. When they spread out in the Valley of Rephaim, he asks the LORD whether to attack and whether God will deliver them into his hand. The LORD tells him to go, and David wins.",
+    "",
+    "David compares the victory to water bursting through a barrier and credits the LORD with breaking through his enemies. The Philistines abandon their idols, which David and his men carry away. [1 Chronicles 14:12](https://biblehub.com/bsb/1_chronicles/14.htm) adds that David orders them burned.",
+    "",
+    "When the Philistines return, David asks the LORD again. This time the instructions change: circle behind them, approach in front of the balsam trees, and move when the sound of marching is heard in the treetops. David follows the command and defeats them from Gibeon to Gezer. A previous victory does not replace fresh attention to God’s direction."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/5.htm) stresses David’s dependence on God and his readiness to act when directed. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) also sees God’s promise and human action working together: confidence in God does not mean neglecting the task He gives.",
+    "",
+    "[Gill](https://biblehub.com/commentaries/gill/2_samuel/5.htm) discusses the marching sound in relation to wind and angelic help. The [USCCB Bible notes](https://bible.usccb.org/bible/2samuel/5) understand it as suggestive of the LORD and His heavenly army. The text gives the sign’s meaning clearly—the LORD has gone ahead—without naming every detail of how the sound is produced."
+  ],
+  "god_plan_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/5.htm) compares David waiting for God’s direction with the apostles waiting for the promised Spirit. The shared lesson is dependence on God’s provision rather than confidence that the mission can be carried by human strength alone.",
+    "",
+    "In [Acts 1:4–8](https://biblehub.com/bsb/acts/1.htm), Jesus tells His followers to wait for the Father’s gift and promises power from the Holy Spirit to be His witnesses. Their task is to bear witness to Him from Jerusalem to the ends of the earth.",
+    "",
+    "This is a limited parallel about depending on God and then obeying. Israel’s battle is not a pattern authorizing the church to spread the gospel through military force. The apostles receive a mission of witness, with the Spirit’s power for that work."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/5.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-five-review.md"
+  }
+}

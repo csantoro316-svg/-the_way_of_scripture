@@ -10,23 +10,43 @@
     {
       "label": "BSB",
       "paragraphs": [
-        "20 Then Noah built an altar to the LORD. And taking from every kind of clean animal and clean bird, he offered burnt offerings on the altar. 21 When the LORD smelled the pleasing aroma, He said in His heart, \u201cNever again will I curse the ground because of man, even though every inclination of his heart is evil from his youth. And never again will I destroy all living creatures as I have done.",
+        "20 Then Noah built an altar to the LORD. And taking from every kind of clean animal and clean bird, he offered burnt offerings on the altar. 21 When the LORD smelled the pleasing aroma, He said in His heart, “Never again will I curse the ground because of man, even though every inclination of his heart is evil from his youth. And never again will I destroy all living creatures as I have done.",
         "22 As long as the earth endures,",
         "seedtime and harvest,",
         "cold and heat,",
         "summer and winter,",
         "day and night",
-        "shall never cease.\u201d"
+        "shall never cease.”"
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 8**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "After leaving the ark, Noah builds an altar and offers clean animals and birds. The additional clean creatures brought aboard in chapter 7 now have a place in the family's worship. God's acceptance of the offering is followed by His resolve to preserve the world from another destruction of this kind.",
+    "",
+    "The statement about the human heart is important. It still tends toward evil from youth, so the flood has not made the surviving human family incapable of sin. God's promise is given with that condition in view. The regular rhythms of planting, harvest, seasons, day, and night will continue while the earth remains.",
+    "",
+    "Chapter 9 develops this into a covenant with Noah, his descendants, and living creatures. These verses should therefore be read as the beginning of that promise, rather than as a declaration that the earth will exist forever or that humanity no longer needs rescue from evil."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Noah Builds an Altar** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 8** remains the first control on meaning."
+    "Christians commonly understand the altar as Noah's worshipful response to preservation and the following promise as an expression of God's patience with a still-sinful humanity. [Wesley's notes on verses 20–22](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) emphasize both the accepted offering and the surprising mercy of preserving people whose hearts remain inclined toward evil."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "god_plan_lines": [
+    "The accepted offering belongs to a wider biblical pattern of drawing near to God through sacrifice. [Ephesians 5:2](https://biblehub.com/bsb/ephesians/5.htm) describes Christ giving Himself as an offering pleasing to God. This is a connection in the language and theme of sacrifice, rather than an explicit statement that Paul is explaining Noah's particular altar.",
+    "",
+    "The continuing problem of the human heart also keeps this altar from being the end of the story. [Hebrews 10:1–14](https://biblehub.com/bsb/hebrews/10.htm) distinguishes repeated animal offerings from Christ's decisive offering. The world is preserved here so that life continues; the fuller answer to sin comes through the One who gives Himself for His people."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-18",
+    "quote_source": "https://biblehub.com/bsb/genesis/8.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-18-genesis-noah-and-covenant-review.md"
+  }
 }

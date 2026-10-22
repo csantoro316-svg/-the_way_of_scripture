@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "14:32-42",
+    "label": "Mark 14:32-42",
+    "slug": "mark-14-32-42"
+  },
+  "section_title": "How does Jesus pray when obedience costs Him everything?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "32 Then they came to a place called Gethsemane, and Jesus told His disciples, “Sit here while I pray.” 33 He took with Him Peter, James, and John, and began to be deeply troubled and distressed. 34 Then He said to them, “My soul is consumed with sorrow to the point of death. Stay here and keep watch.” 35 Going a little farther, He fell to the ground and prayed that, if it were possible, the hour would pass from Him. 36 “Abba, Father,” He said, “all things are possible for You. Take this cup from Me. Yet not what I will, but what You will.”",
+        "37 Then Jesus returned and found them sleeping. “Simon, are you asleep?” He asked. “Were you not able to keep watch for one hour? 38 Watch and pray so that you will not enter into temptation. For the spirit is willing, but the body is weak.” 39 Again He went away and prayed, saying the same thing. 40 And again Jesus returned and found them sleeping, for their eyes were heavy. And they did not know what to answer Him.",
+        "41 When Jesus returned the third time, He said, “Are you still sleeping and resting? That is enough! The hour has come. Look, the Son of Man is betrayed into the hands of sinners. 42 Rise, let us go. See, My betrayer is approaching!”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "At Gethsemane, Jesus takes Peter, James, and John with Him and speaks openly about His overwhelming sorrow. These are the three who witnessed His glory at the transfiguration. Now they are asked to remain with Him and keep watch as He faces what is coming.",
+    "",
+    "Jesus addresses God as Abba, the Aramaic אַבָּא (abba, AHB-bah), meaning Father. Mark supplies the translation. His prayer combines trust in His Father’s power, an honest request for the cup to be removed, and submission to His Father’s will. We should hear all three parts together. ([Thayer, Ἀββᾶ](https://biblehub.com/greek/5.htm))",
+    "",
+    "The disciples repeatedly sleep, and Jesus tells them to watch and pray against temptation. Their willing intentions meet the weakness of their bodies. Jesus, meanwhile, returns to prayer and then rises to meet the approaching betrayal. His surrender does not make the sorrow unreal; it governs His response through it."
+  ],
+  "common_interpretation_lines": [
+    "Across the major Christian traditions, this prayer is understood as showing Jesus’ real human anguish and His willing obedience to the Father. The Catholic study notes emphasize that obedience while connecting it with His call for the disciples to pray amid their own weakness; Wesley likewise draws attention to the depth of His distress and Mark’s explanation of Abba as Father. ([USCCB, notes on Mark 14:32–38](https://bible.usccb.org/bible/mark/14); [Wesley, notes on Mark 14:33–36](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-mark/))"
+  ],
+  "god_plan_lines": [
+    "Hebrews places Jesus’ prayers and suffering within His saving work as high priest. He is able to sympathize with human weakness, and His people can approach God for mercy and help. The One who prays in anguish here becomes the source of eternal salvation through His obedient suffering. ([Hebrews 4:14–16](https://biblehub.com/bsb/hebrews/4.htm); [Hebrews 5:7–10](https://biblehub.com/bsb/hebrews/5.htm))",
+    "",
+    "The address Abba also appears in Paul’s explanation of believers’ adoption. God sent His Son to redeem people and the Spirit of His Son into their hearts, enabling them to call God Father. That does not make our suffering identical to Jesus’ saving sacrifice. It shows the family relationship His mission opens to those who belong to Him. ([Romans 8:14–17](https://biblehub.com/bsb/romans/8.htm); [Galatians 4:4–7](https://biblehub.com/bsb/galatians/4.htm))"
+  ],
+  "current_position_lines": [
+    "What Does Prayer Look Like? reads Gethsemane as a model of honest surrender: Jesus expresses the real cost of His suffering and places the outcome in His Father’s hands. The study emphasizes that His repeated prayer is compatible with surrender when the Father’s will governs it. Prayer and Faith likewise understands this scene as trust in God rather than a method for securing the outcome we choose. These studies supply our position on prayer here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/14.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-mark-fourteen-middle-review.md",
+    "position_source_detail": "What Does Prayer Look Like?, section 1, Gethsemane — The Model of Honest Surrender; Prayer and Faith, Gethsemane and surrender discussion. Same event developed through Matthew 26:36–46; position limited to prayer."
+  }
+}

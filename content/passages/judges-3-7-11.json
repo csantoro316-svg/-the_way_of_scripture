@@ -5,24 +5,57 @@
     "label": "Judges 3:7-11",
     "slug": "judges-3-7-11"
   },
-  "section_title": "Othniel",
+  "section_title": "How does God answer when Israel cries for help?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
         "7 So the Israelites did evil in the sight of the LORD; they forgot the LORD their God and served the Baals and the Asherahs. 8 Then the anger of the LORD burned against Israel, and He sold them into the hand of Cushan-rishathaim king of Aram-naharaim, and the Israelites served him eight years.",
-        "9 But when the Israelites cried out to the LORD, He raised up Othniel son of Caleb\u2019s younger brother Kenaz as a deliverer to save them. 10 The Spirit of the LORD came upon him, and he became Israel\u2019s judge and went out to war. And the LORD delivered Cushan-rishathaim king of Aram into the hand of Othniel, who prevailed against him.",
-        "11 So the land had rest for forty years, until Othniel son of Kenaz died."
+        "9 But when the Israelites cried out to the LORD, He raised up Othniel son of Caleb’s younger brother Kenaz as a deliverer to save them. 10 The Spirit of the LORD came upon him, and he became Israel’s judge and went out to war. And the LORD delivered Cushan-rishathaim king of Aram into the hand of Othniel, who prevailed against him. 11 So the land had rest for forty years, until Othniel son of Kenaz died."
       ]
     }
   ],
   "context_lines": [
-    "In **Judges 3**, this section should be read within the flow of the chapter and the larger movement of Judges."
+    "Israel forgets the LORD and serves the Baals and Asherahs. The account connects this unfaithfulness with eight years under Cushan-rishathaim, king of Aram-naharaim. The Israelites then cry to God, and He raises up Othniel to rescue them. Othniel has already appeared in the account of the capture of Debir and his marriage to Achsah in chapter 1.",
+    "",
+    "The names of the rival gods have a real setting in Canaanite worship. The [Metropolitan Museum’s account of Ugaritic texts](https://www.metmuseum.org/essays/the-gods-and-goddesses-of-canaan) describes Baal as a storm and fertility god and identifies Athirat with the biblical Asherah. The passage presents Israel’s worship of these gods as abandonment of the LORD, who had rescued them.",
+    "",
+    "The Spirit of the LORD comes upon Othniel, and God gives him victory. The emphasis falls on God’s action: He raises the deliverer, empowers him, and defeats the oppressor through him. The land then has forty years of rest, until Othniel dies. The account gives us the pattern that later rescues will repeat, without describing the battle in detail."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Othniel** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Judges 3** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-judges/) and [Henry](https://biblehub.com/commentaries/mhc/judges/3.htm) understand the Spirit’s coming upon Othniel as God equipping him with wisdom, courage, and power for the work. Both read the rescue as God’s merciful answer to the people’s cry. The victory is more than an impressive leader’s achievement: God supplies the help Israel needs."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "Othniel’s rescue offers a useful parallel to a larger biblical pattern: people in bondage cry for help, and God provides a deliverer. Jesus identifies a deeper bondage when He teaches that everyone who sins is a slave to sin, and that the Son gives freedom ([John 8:31–36](https://biblehub.com/bsb/john/8.htm)). Othniel frees Israel from an earthly oppressor; Jesus addresses the sin that earthly victories cannot remove.",
+    "",
+    "The Spirit’s work also reaches beyond equipping a particular judge for battle. [Romans 8:1–17](https://biblehub.com/bsb/romans/8.htm) describes God sending His Son, freeing people from sin and death, and giving His Spirit to those who belong to Christ. They are to put sinful deeds to death through the Spirit and live as God’s children. This is a broader scriptural connection, rather than a claim that every detail of Othniel’s life predicts Jesus."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/judges/3.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-judges-three-review.md"
+  }
 }

@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "6:25-28",
+    "label": "Daniel 6:25-28",
+    "slug": "daniel-6-25-28"
+  },
+  "section_title": "What does Darius announce about Daniel’s God?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "25 Then King Darius wrote to the people of every nation and language throughout the land: “May your prosperity abound. 26 I hereby decree that in every part of my kingdom, men are to tremble in fear before the God of Daniel: For He is the living God, and He endures forever; His kingdom will never be destroyed, and His dominion will never end. 27 He delivers and rescues; He performs signs and wonders in the heavens and on the earth, for He has rescued Daniel from the power of the lions.”",
+        "28 So Daniel prospered during the reign of Darius and the reign of Cyrus the Persian."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Darius writes to people of every nation and language in his dominion. He orders reverence for Daniel’s God and explains why: He is living and enduring, His kingdom cannot be destroyed, and His rule will never end.",
+    "",
+    "The king points to the rescue from the lions as a demonstration of God’s power to deliver and to perform wonders in heaven and on earth. The chapter that began with a decree threatening prayer ends with a proclamation honoring the God to whom Daniel prayed.",
+    "",
+    "Daniel continues to prosper under Darius and Cyrus. The human rulers change, but the testimony at the close centers on the God whose dominion remains."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/daniel/6.htm) takes the proclamation as a public acknowledgment of God’s power while distinguishing an announcement about God from a life of faithfulness to Him. [Cambridge](https://biblehub.com/commentaries/cambridge/daniel/6.htm) emphasizes Daniel’s continuing prosperity after his deliverance.",
+    "",
+    "The conclusion points to the enduring kingdom of the living God, beyond the changing fortunes of His servant or any earthly king."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/6.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-six-review.md"
+  }
+}

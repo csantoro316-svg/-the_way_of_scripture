@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Nehemiah",
+    "citation": "7:6-38",
+    "label": "Nehemiah 7:6-38",
+    "slug": "nehemiah-7-6-38"
+  },
+  "section_title": "Whose return is remembered in this family register?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 These are the people of the province who came up from the captivity of the exiles carried away to Babylon by Nebuchadnezzar its king. They returned to Jerusalem and Judah, each to his own town, 7 accompanied by Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, and Baanah. This is the count of the men of Israel:",
+        "8 the descendants of Parosh, 2,172; 9 the descendants of Shephatiah, 372; 10 the descendants of Arah, 652; 11 the descendants of Pahath-moab (through the line of Jeshua and Joab), 2,818; 12 the descendants of Elam, 1,254; 13 the descendants of Zattu, 845; 14 the descendants of Zaccai, 760; 15 the descendants of Binnui, 648; 16 the descendants of Bebai, 628; 17 the descendants of Azgad, 2,322; 18 the descendants of Adonikam, 667; 19 the descendants of Bigvai, 2,067; 20 the descendants of Adin, 655; 21 the descendants of Ater (through Hezekiah), 98; 22 the descendants of Hashum, 328; 23 the descendants of Bezai, 324; 24 the descendants of Hariph, 112; 25 the descendants of Gibeon, 95;",
+        "26 the men of Bethlehem and Netophah, 188; 27 the men of Anathoth, 128; 28 the men of Beth-azmaveth, 42; 29 the men of Kiriath-jearim, Chephirah, and Beeroth, 743; 30 the men of Ramah and Geba, 621; 31 the men of Michmash, 122; 32 the men of Bethel and Ai, 123; 33 the men of the other Nebo, 52; 34 the descendants of the other Elam, 1,254; 35 the descendants of Harim, 320; 36 the men of Jericho, 345; 37 the men of Lod, Hadid, and Ono, 721; 38 and the descendants of Senaah, 3,930."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The register recalls people whom Nebuchadnezzar had carried away and who returned to Jerusalem and Judah, each to their own town. It names the leaders associated with that return, including Zerubbabel and Jeshua, then records families and people grouped by towns.",
+    "",
+    "This is the earlier return also recorded in [Ezra 2](https://biblehub.com/bsb/ezra/2.htm), not a new company of travelers arriving with Nehemiah. The two lists preserve many of the same names while differing in a number of their figures.",
+    "",
+    "The names and counts keep the restoration tied to actual households and places. The community Nehemiah is helping rebuild has a history that reaches back through exile to the return God made possible."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/nehemiah/7.htm) understands the repeated record as honoring the return and preserving the people’s family history. [Gill](https://biblehub.com/commentaries/gill/nehemiah/7.htm) also connects it with Ezra’s register and discusses differences between the lists. Explanations involving changes among the families have been proposed, but the passage does not supply a separate explanation for every differing number."
+  ],
+  "god_plan_lines": [
+    "Zerubbabel’s place in this return also connects with the New Testament’s account of Jesus’ family line. [Matthew 1:11–17](https://biblehub.com/bsb/matthew/1.htm) traces that line through the exile, then through Shealtiel and Zerubbabel, and onward to Jesus the Messiah.",
+    "",
+    "Matthew gives an explicit connection between the history preserved here and the coming of Christ. The return is part of the setting in which God carries forward that family line after the upheaval of exile."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/nehemiah/7.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-nehemiah-six-seven-review.md"
+  }
+}

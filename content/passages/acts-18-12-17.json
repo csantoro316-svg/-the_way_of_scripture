@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "18:12-17",
+    "label": "Acts 18:12-17",
+    "slug": "acts-18-12-17"
+  },
+  "section_title": "What happens when Paul is brought before Gallio?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "12 While Gallio was proconsul of Achaia, the Jews coordinated an attack on Paul and brought him before the judgment seat. 13 “This man is persuading the people to worship God in ways contrary to the law,” they said. 14 But just as Paul was about to speak, Gallio told the Jews, “If this matter involved a wrongdoing or vicious crime, O Jews, it would be reasonable for me to hear your complaint. 15 But since it is a dispute about words and names and your own law, settle it yourselves. I refuse to be a judge of such things.” 16 And he drove them away from the judgment seat.",
+        "17 At this, the crowd seized Sosthenes the synagogue leader and beat him in front of the judgment seat. But none of this was of concern to Gallio."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul’s opponents bring him before Gallio, the proconsul, or Roman governor, of Achaia. They charge him with persuading people to worship God contrary to the law. Before Paul can answer, Gallio refuses the case: he regards it as a dispute about words, names and their own law rather than a wrongdoing or serious crime that requires his judgment.",
+    "",
+    "Gallio drives the accusers away from the judgment seat. The crowd then seizes Sosthenes, the synagogue leader, and beats him there. Gallio shows no concern. Paul escapes the threatened proceedings, but the scene also includes violence against someone else and an official’s indifference.",
+    "",
+    "Luke does not explain all the crowd’s motives or settle Sosthenes’ later history. The refusal to hear this case should not be expanded into a declaration that Rome has permanently legalized Christian preaching everywhere."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly connect Paul’s preservation here with the Lord’s promise in the preceding vision. Gallio’s refusal leaves Paul free to continue, while his indifference to Sosthenes’ beating is reported without being held up as a model of justice."
+  ],
+  "god_plan_lines": [
+    "The promise of Acts 18:9–10 takes concrete shape as the attempted prosecution fails to stop Paul’s work in Corinth. God preserves an opportunity for sustained teaching. The surrounding story matters: this is protection for a particular task, not a promise that God’s servants will never suffer. Sosthenes’ beating also keeps us from treating the scene as a simple celebration of everything the governor does."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/18.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-eighteen-review.md"
+  }
+}

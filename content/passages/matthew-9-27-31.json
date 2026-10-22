@@ -1,0 +1,52 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "9:27-31",
+    "label": "Matthew 9:27-31",
+    "slug": "matthew-9-27-31"
+  },
+  "section_title": "Have Mercy on Us, Son of David",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "27 As Jesus went on from there, two blind men followed Him, crying out, “Have mercy on us, Son of David!” 28 After Jesus had entered the house, the blind men came to Him. “Do you believe that I am able to do this?” He asked. “Yes, Lord,” they answered. 29 Then He touched their eyes and said, “According to your faith will it be done to you.”",
+        "30 And their eyes were opened. Jesus warned them sternly, “See that no one finds out about this!” 31 But they went out and spread the news about Him throughout the land."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After the girl is restored to life, two blind men follow Jesus and ask Him for mercy. They call Him Son of David, recalling the Gospel's opening identification of Jesus in [Matthew 1:1](https://biblehub.com/bsb/matthew/1.htm). Their appeal joins a request for help with recognition of the promised King's family line.",
+    "",
+    "The conversation takes place after Jesus enters the house. He asks whether they believe He can do this, and they answer yes. He touches their eyes and speaks of their faith. The account places their confidence in Him at the center of the encounter; it does not describe a technique by which they make themselves see.",
+    "",
+    "Once their eyes are opened, Jesus gives a stern instruction to keep the event quiet. They instead spread the news throughout the land. Matthew leaves the contrast plain: receiving His mercy does not make their response to His instruction an example of obedience."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read the men's appeal as faith in Jesus as David's promised descendant and in His power to heal. The Catholic [Catechism, 2616](https://www.vatican.va/content/catechism/en/part_four/section_one/chapter_one/article_2/in_the_fullness_of_time.html), uses their cry as an example of urgent prayer to Jesus, while the [US Catholic bishops' note on Matthew 9:27](https://bible.usccb.org/bible/matthew/9) identifies Son of David as a title pointing to the Messiah."
+  ],
+  "god_plan_lines": [
+    "Their opened eyes belong within Scripture's promise of God's saving arrival. [Isaiah 35:4–10](https://biblehub.com/bsb/isaiah/35.htm) speaks of God coming to save, blind eyes opening, and the redeemed returning with joy. In [Matthew 11:2–6](https://biblehub.com/bsb/matthew/11.htm), Jesus names sight given to the blind among the works that answer John's question about His identity. This healing fits that wider testimony.",
+    "",
+    "Scripture also uses light and sight to describe coming to know Christ. [2 Corinthians 4:3–6](https://biblehub.com/bsb/2_corinthians/4.htm) describes God bringing the light of Christ's glory into people's hearts. That is a related spiritual picture, not an explanation that physical blindness measures someone's faith or moral condition. The larger purpose is that people receive both His mercy and knowledge of who He is."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/9.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-nine-completion-review.md"
+  }
+}

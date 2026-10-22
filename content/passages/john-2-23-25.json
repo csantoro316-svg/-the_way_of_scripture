@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "2:23-25",
+    "label": "John 2:23-25",
+    "slug": "john-2-23-25"
+  },
+  "section_title": "What does Jesus know beyond people’s first response?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "23 While He was in Jerusalem at the Passover Feast, many people saw the signs He was doing and believed in His name. 24 But Jesus did not entrust Himself to them, for He knew them all. 25 He did not need any testimony about man, for He knew what was in a man."
+      ]
+    }
+  ],
+  "context_lines": [
+    "During the Passover feast, many people see Jesus’ signs and believe in His name. Yet He does not entrust Himself to them, because He knows them all and knows what is within a person.",
+    "",
+    "The Greek verb πιστεύω, pisteuō (pis-TYOO-oh), appears on both sides of that exchange. It is translated as believing when describing the people, and entrusting when describing Jesus. Thayer specifically lists John 2:24 under the meaning of entrusting something to someone. The word connection draws attention to the difference between their response and His knowledge of them. ([Thayer, Greek 4100](https://biblehub.com/greek/4100.htm))",
+    "",
+    "This leads into the next chapter, where a man who recognizes the signs comes to Jesus and is told about new birth. The Gospel is beginning to explore what lies beneath people’s responses to Him."
+  ],
+  "common_interpretation_lines": [
+    "Christian readers commonly understand this as Jesus discerning more than outward enthusiasm. Calvin reads the response as incomplete belief that might develop further, while Wesley emphasizes Jesus’ knowledge of the human heart and His caution about entrusting Himself to people. ([Calvin on John 2:23–25](https://biblehub.com/commentaries/calvin/john/2.htm); [Wesley on John 2:23–25](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/))"
+  ],
+  "god_plan_lines": [
+    "Knowing the heart belongs within Scripture’s account of God’s own knowledge and judgment. Jeremiah describes the Lord searching the heart and examining the mind; Revelation records the risen Jesus saying that He searches minds and hearts and repays according to people’s deeds. His knowledge here belongs within that larger picture of the Lord who knows people truthfully. ([Jeremiah 17:9–10](https://biblehub.com/bsb/jeremiah/17.htm); [Revelation 2:23](https://biblehub.com/bsb/revelation/2.htm))",
+    "",
+    "The Gospel also states its purpose plainly: the signs are written so that people may believe Jesus is the Christ, the Son of God, and have life in His name. This scene should be read alongside that purpose. Signs can lead toward faith; the goal is life-giving trust in the Son whose identity they reveal. ([John 20:30–31](https://biblehub.com/bsb/john/20.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/2.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-two-review.md"
+  }
+}

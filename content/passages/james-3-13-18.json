@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "James",
+    "citation": "3:13-18",
+    "label": "James 3:13-18",
+    "slug": "james-3-13-18"
+  },
+  "section_title": "How can we recognize wisdom that comes from God?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 Who is wise and understanding among you? Let him show it by his good conduct, by deeds done in the humility that comes from wisdom. 14 But if you harbor bitter jealousy and selfish ambition in your hearts, do not boast in it or deny the truth. 15 Such wisdom does not come from above, but is earthly, unspiritual, demonic. 16 For where jealousy and selfish ambition exist, there will be disorder and every evil practice.",
+        "17 But the wisdom from above is first of all pure, then peace-loving, gentle, accommodating, full of mercy and good fruit, impartial, and sincere. 18 Peacemakers who sow in peace reap the fruit of righteousness."
+      ]
+    }
+  ],
+  "context_lines": [
+    "James asks the person who claims wisdom to show it through good conduct and humble deeds. The question continues the chapter’s concern with speech: impressive words are not enough to establish that someone is wise.",
+    "",
+    "Bitter jealousy and selfish ambition reveal a different source. They produce disorder and evil practices, even when someone calls the result wisdom. James tells readers to judge the claim by the life and relationships it produces.",
+    "",
+    "Wisdom from above has a different character: purity, peace, gentleness, mercy, good fruit, impartiality and sincerity. The word behind accommodating points to [being willing to listen or yield](https://biblehub.com/greek/2138.htm), rather than insisting on one’s own way. Peacemaking is joined with righteousness, not used as a reason to abandon it."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/james/3.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-general-epistle-of-st-james/) both read the contrast as a test of wisdom by its fruit. Calvin emphasizes correcting wrongdoing peacefully rather than using cruelty, and Wesley describes gentleness as a willingness to be persuaded rather than remain stubborn."
+  ],
+  "god_plan_lines": [
+    "Jesus calls peacemakers sons of God in [Matthew 5:9](https://biblehub.com/bsb/matthew/5.htm). The peaceable wisdom James describes fits that family likeness. [Galatians 5:22–23](https://biblehub.com/bsb/galatians/5.htm) likewise describes peace, gentleness and goodness as the Spirit’s fruit: the character of God’s people is part of His work among them."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/james/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-james-three-review.md"
+  }
+}

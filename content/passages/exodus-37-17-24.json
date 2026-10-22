@@ -5,24 +5,54 @@
     "label": "Exodus 37:17-24",
     "slug": "exodus-37-17-24"
   },
-  "section_title": "The Lampstand",
+  "section_title": "What is the purpose of the lampstand’s light?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "17 Then he made the lampstand out of pure hammered gold, all of one piece: its base and shaft, its cups, and its buds and petals. 18 Six branches extended from the sides, three on one side and three on the other. 19 There were three cups shaped like almond blossoms on the first branch, each with buds and petals, three on the next branch, and the same for all six branches that extended from the lampstand.",
-        "20 And on the lampstand were four cups shaped like almond blossoms with buds and petals. 21 A bud was under the first pair of branches that extended from the lampstand, a bud under the second pair, and a bud under the third pair. 22 The buds and branches were all of one piece with the lampstand, hammered out of pure gold.",
+        "17 Then he made the lampstand out of pure hammered gold, all of one piece: its base and shaft, its cups, and its buds and petals. 18 Six branches extended from the sides, three on one side and three on the other. 19 There were three cups shaped like almond blossoms on the first branch, each with buds and petals, three on the next branch, and the same for all six branches that extended from the lampstand. 20 And on the lampstand were four cups shaped like almond blossoms with buds and petals. 21 A bud was under the first pair of branches that extended from the lampstand, a bud under the second pair, and a bud under the third pair. 22 The buds and branches were all of one piece with the lampstand, hammered out of pure gold.",
         "23 He also made its seven lamps, its wick trimmers, and trays of pure gold. 24 He made the lampstand and all its utensils from a talent of pure gold."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 37**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "The lampstand is made from pure gold hammered into one piece. Six branches extend from its central shaft, with cups, buds, and petals shaped like almond blossoms. Seven lamps and their utensils complete the work.",
+    "",
+    "The account follows the pattern God gave in [Exodus 25:31–40](https://biblehub.com/bsb/exodus/25.htm). The lampstand provides light for service within the Holy Place. Its useful purpose and carefully formed beauty belong together in the dwelling God instructed Israel to prepare."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Lampstand** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 37** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) sees the lampstand as an image of the light God gives His people through His revelation. [Calvin](https://biblehub.com/commentaries/calvin/exodus/37.htm) emphasizes the workers’ obedience in making it exactly as directed; its details are received as part of God’s good design."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "Light becomes a clear Bible-wide theme in the New Testament. Jesus calls Himself the light of the world and promises the light of life to those who follow Him ([John 8:12](https://biblehub.com/bsb/john/8.htm)). He also tells His disciples to let their good works shine so that others glorify their Father ([Matthew 5:14–16](https://biblehub.com/bsb/matthew/5.htm)).",
+    "",
+    "The final vision carries this hope further. God’s glory lights the city, the Lamb is its lamp, and the nations walk by its light ([Revelation 21:22–27](https://biblehub.com/bsb/revelation/21.htm)). The sanctuary’s light belongs within that wider movement toward life in God’s presence, where His people receive His light and make His goodness visible."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/exodus/37.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-exodus-thirty-seven-review.md"
+  }
 }

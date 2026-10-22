@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Nehemiah",
+    "citation": "12:1-26",
+    "label": "Nehemiah 12:1-26",
+    "slug": "nehemiah-12-1-26"
+  },
+  "section_title": "Why does the account trace the priests and Levites across generations?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Now these are the priests and Levites who went up with Zerubbabel son of Shealtiel and with Jeshua: Seraiah, Jeremiah, Ezra, 2 Amariah, Malluch, Hattush, 3 Shecaniah, Rehum, Meremoth, 4 Iddo, Ginnethon, Abijah, 5 Mijamin, Maadiah, Bilgah, 6 Shemaiah, Joiarib, Jedaiah, 7 Sallu, Amok, Hilkiah, and Jedaiah. These were the leaders of the priests and their associates in the days of Jeshua. 8 The Levites were Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, who, with his associates, led the songs of thanksgiving. 9 Bakbukiah and Unni, their associates, stood across from them in the services.",
+        "10 Jeshua was the father of Joiakim, Joiakim was the father of Eliashib, Eliashib was the father of Joiada, 11 Joiada was the father of Jonathan, and Jonathan was the father of Jaddua.",
+        "12 In the days of Joiakim, these were the heads of the priestly families: of the family of Seraiah, Meraiah; of Jeremiah, Hananiah; 13 of Ezra, Meshullam; of Amariah, Jehohanan; 14 of Malluchi, Jonathan; of Shebaniah, Joseph; 15 of Harim, Adna; of Meraioth, Helkai; 16 of Iddo, Zechariah; of Ginnethon, Meshullam; 17 of Abijah, Zichri; of Miniamin and of Moadiah, Piltai; 18 of Bilgah, Shammua; of Shemaiah, Jonathan; 19 of Joiarib, Mattenai; of Jedaiah, Uzzi; 20 of Sallai, Kallai; of Amok, Eber; 21 of Hilkiah, Hashabiah; and of Jedaiah, Nethanel.",
+        "22 In the days of Eliashib, Joiada, Johanan, and Jaddua, during the reign of Darius the Persian, the heads of the families of the Levites and priests were recorded. 23 As for the descendants of Levi, the family heads up to the days of Johanan son of Eliashib were recorded in the Book of the Chronicles. 24 The leaders of the Levites were Hashabiah, Sherebiah, and Jeshua son of Kadmiel, along with their associates, who stood across from them to give praise and thanksgiving as one section alternated with the other, as prescribed by David the man of God. 25 Mattaniah, Bakbukiah, Obadiah, Meshullam, Talmon, and Akkub were gatekeepers who guarded the storerooms at the gates. 26 They served in the days of Joiakim son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor and Ezra the priest and scribe."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The register begins with priests and Levites who returned with Zerubbabel and Jeshua. It then traces the family from Jeshua through Joiakim, Eliashib, Joiada, Jonathan and Jaddua, and names priestly family heads serving in Joiakim’s time.",
+    "",
+    "Further notices record the keeping of family lists, the arrangement of praise and thanksgiving in alternating groups, and the gatekeepers guarding the storerooms. The section ends by naming the periods of Joiakim, Nehemiah and Ezra.",
+    "",
+    "The lists show continuity in the community’s worship across changing generations. The restoration depends on people carrying forward responsibilities they have received, rather than beginning every task anew."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/nehemiah/12.htm) reads the record as a reason to remember faithful predecessors and learn from their example. [Gill](https://biblehub.com/commentaries/gill/nehemiah/12.htm) understands the family line as the succession of high priests and discusses whether some notices extend beyond Nehemiah’s own lifetime. The named periods make this a record spanning generations, rather than a list of everyone serving at one moment."
+  ],
+  "god_plan_lines": [
+    "The succession of priests provides a point of comparison with [Hebrews 7:11–28](https://biblehub.com/bsb/hebrews/7.htm). Hebrews explains that the earlier priests were many because death prevented them from continuing, while Jesus lives forever and holds His priesthood permanently.",
+    "",
+    "This comparison brings the larger hope into focus: access to God finally rests in the Son who offered Himself and continues to pray for those who draw near through Him. The continuing work recorded across these generations meets its lasting answer in a priest whose life does not end."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/nehemiah/12.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-nehemiah-twelve-thirteen-review.md"
+  }
+}

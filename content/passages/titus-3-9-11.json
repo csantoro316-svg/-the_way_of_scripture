@@ -5,25 +5,54 @@
     "label": "Titus 3:9-11",
     "slug": "titus-3-9-11"
   },
-  "section_title": "Avoid Divisions",
+  "section_title": "How should Titus respond to persistent divisiveness?",
   "versions": [
     {
       "label": "BSB",
-      "text": "But avoid foolish controversies, genealogies, arguments, and quarrels about the law, because these things are pointless and worthless. Reject a divisive man after a first and second admonition, knowing that such a man is corrupt and sinful; he is self-condemned."
+      "paragraphs": [
+        "9 But avoid foolish controversies, genealogies, arguments, and quarrels about the law, because these things are pointless and worthless. 10 Reject a divisive man after a first and second admonition, 11 knowing that such a man is corrupt and sinful; he is self-condemned."
+      ]
     }
   ],
   "context_lines": [
-    "After emphasizing salvation and fruitful living, Paul returns to the kinds of disputes that fracture communities without producing godliness. The warning is not against careful biblical reasoning, but against empty controversy."
+    "Paul contrasts useful good work with disputes that produce no good result. Titus is to avoid foolish controversies, genealogies and quarrels about the law, rather than let them consume the community’s attention.",
+    "",
+    "A persistently divisive person is first to receive a warning and then another. If the pattern continues, Titus is to reject that person. The instruction addresses repeated destructive conduct after correction, rather than a sincere question or a single difference of opinion.",
+    "",
+    "The Greek adjective [hairetikos](https://biblehub.com/greek/141.htm) (high-reh-tee-KOS) describes someone factious or divisive, including a follower of false teaching. In this setting, the person’s own persistence makes his wrongdoing evident."
   ],
   "common_interpretation_lines": [
-    "A common interpretation here is that Paul distinguishes profitable truth from argumentative religion. Some disputes clarify the faith; the controversies named here consume energy while producing no real fruit.",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-titus/) reads the instruction as a response to someone obstinately generating factions through pointless disputes. [Calvin](https://biblehub.com/commentaries/calvin/titus/3.htm) likewise warns against immediately branding everyone who disagrees as a heretic. He emphasizes that correction must precede rejection.",
     "",
-    "The command to reject a divisive person after repeated warning is often read as a guard for the health of the assembly, not a license for impulsive exclusion."
+    "The shared reading recognizes both an opportunity to respond to correction and a boundary against ongoing damage. The instruction does not make every unresolved question an act of division or require endless repetition of the same fruitless controversy."
+  ],
+  "god_plan_lines": [
+    "[1 Corinthians 1:10–13](https://biblehub.com/bsb/1_corinthians/1.htm) confronts factions by bringing the community back to Christ, who is not divided. That gives a larger purpose for addressing divisiveness: the people belong together in Him, rather than becoming rival followings.",
+    "",
+    "[Ephesians 4:1–6](https://biblehub.com/bsb/ephesians/4.htm) likewise joins humility, patience and bearing with one another to preserving unity in the Spirit. Titus’s warnings belong within care for that shared life, not a goal of making every person agree with a leader’s private preferences."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
   ],
   "deeper_study": [
     {
-      "title": "The True Church According to Jesus",
+      "title": "What Is the True Church?",
       "href": "../studies/true-church.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/titus/3.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-titus-three-review.md"
+  }
 }

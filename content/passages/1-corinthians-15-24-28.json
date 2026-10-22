@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "15:24-28",
+    "label": "1 Corinthians 15:24-28",
+    "slug": "1-corinthians-15-24-28"
+  },
+  "section_title": "What is the goal of Christ’s victory over every enemy?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "24 Then the end will come, when He hands over the kingdom to God the Father after He has destroyed all dominion, authority, and power. 25 For He must reign until He has put all His enemies under His feet. 26 The last enemy to be destroyed is death.",
+        "27 For “God has put everything under His feet.” Now when it says that everything has been put under Him, this clearly does not include the One who put everything under Him. 28 And when all things have been subjected to Him, then the Son Himself will be made subject to Him who put all things under Him, so that God may be all in all."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul widens the view from the resurrection of Christ’s people to the completion of His reign. Every opposing dominion, authority and power is to be overcome, with death named as the last enemy. The kingdom is handed to God the Father.",
+    "",
+    "His language draws on [Psalm 110:1](https://biblehub.com/bsb/psalms/110.htm), where enemies become a footstool, and [Psalm 8:6](https://biblehub.com/bsb/psalms/8.htm), where God places everything under the feet of the one He appoints to rule. Paul explicitly applies that rule to Christ.",
+    "",
+    "He also makes a distinction: the Father who subjects everything to the Son is not Himself one of the things placed under the Son. When the work is complete, the Son is subject to the Father, and the stated goal is that God be all in all.",
+    "",
+    "The sequence emphasizes God’s final victory and the end of death’s dominion. These verses do not state the length of every stage or name every group that a fuller timeline might include. Their central reassurance is that no enemy will finally defeat God’s purpose through Christ."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as the completion of Christ’s victory and the defeat of death. They differ over the sequence of events surrounding that completion.",
+    "",
+    "[Wesley’s notes on verses 23–24](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) place the resurrection of the righteous and wicked together, followed by the final end. The Reformed [Westminster Confession 32.2–3](https://www.opc.org/wcf.html) describes all the dead being raised on the last day, with differing outcomes. [Dallas Theological Seminary’s Articles XIX–XXI](https://www.dts.edu/about/doctrinal-statement/) instead distinguish Christ’s gathering of His people, His return and millennial reign, and a final judgment of unbelievers after that reign. These are fuller accounts developed from other passages alongside this one.",
+    "",
+    "The Son’s handing over of the kingdom is also read in light of His relationship to the Father. [Wesley’s note on verse 24](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) understands it as the completion of His work as mediator while affirming that Father and Son continue to reign. The Reformed [Westminster Confession 2.3](https://www.opc.org/wcf.html) likewise affirms Father, Son and Spirit as sharing the same divine power and eternity. These readings do not treat the Son’s submission as His ceasing to be divine."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 1:9–10](https://biblehub.com/bsb/ephesians/1.htm) describes God’s purpose to bring all things in heaven and on earth together in Christ. Paul’s account of every enemy being put under Him places resurrection within that larger purpose.",
+    "",
+    "[Revelation 21:1–4](https://biblehub.com/bsb/revelation/21.htm) describes the outcome in terms of life together: God dwells with His people, wipes away tears, and death and pain are no more. The defeat of death is not an abstract victory. It opens onto the promised life of God with His people in a renewed creation."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/15.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-fifteen-middle-review.md"
+  }
+}

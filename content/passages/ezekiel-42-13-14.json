@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "42:13-14",
+    "label": "Ezekiel 42:13-14",
+    "slug": "ezekiel-42-13-14"
+  },
+  "section_title": "Why must the priests eat and change clothes in these chambers?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 Then the man said to me, “The north and south chambers facing the temple courtyard are the holy chambers where the priests who approach the LORD will eat the most holy offerings. There they will place the most holy offerings—the grain offerings, the sin offerings, and the guilt offerings—for the place is holy. 14 Once the priests have entered the holy area, they must not go out into the outer court until they have left behind the garments in which they minister, for these are holy. They are to put on other clothes before they approach the places that are for the people.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The guide explains that these are holy chambers. Priests who approach the Lord will eat the most holy offerings there and place the grain, sin and guilt offerings in this holy area.",
+    "",
+    "The priests must also leave their ministry garments behind before going into the outer court among the people. They put on other clothes for that movement.",
+    "",
+    "The rooms are therefore more than convenient lodging. They provide a proper place for the offerings and garments set apart for service before the Lord."
+  ],
+  "common_interpretation_lines": [
+    "[Cambridge](https://biblehub.com/commentaries/cambridge/ezekiel/42.htm) identifies two uses: eating the most holy offerings and setting aside the sacred garments. [Wesley](https://biblehub.com/commentaries/wes/ezekiel/42.htm) likewise understands the rooms as places where holy offerings are kept for their proper use.",
+    "",
+    "The distinction concerns what has been set apart for worship. Ordinary people and ordinary clothing are not described here as morally evil simply because they are outside that particular service."
+  ],
+  "god_plan_lines": [
+    "[First Peter 2:4–10](https://biblehub.com/bsb/1_peter/2.htm) describes those who come to Christ as a spiritual house and a holy priesthood, offering spiritual sacrifices acceptable to God through Jesus Christ. They are a people belonging to God, called to proclaim what He has done.",
+    "",
+    "Ezekiel’s priests have particular rooms, offerings and garments; Peter describes the calling of people brought to God through Christ. The wider theme is a life set apart for God’s service. Peter places the acceptance of their worship in Jesus Christ, rather than in their possession of a particular building or outfit."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/42.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-forty-two-review.md"
+  }
+}

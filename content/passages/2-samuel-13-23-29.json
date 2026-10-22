@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "13:23-29",
+    "label": "2 Samuel 13:23-29",
+    "slug": "2-samuel-13-23-29"
+  },
+  "section_title": "What does Absalom arrange at the sheep-shearing feast?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "23 Two years later, when Absalom’s sheepshearers were at Baal-hazor near Ephraim, he invited all the sons of the king. 24 And he went to the king and said, “Your servant has just hired shearers. Will the king and his servants please come with me?” 25 “No, my son,” the king replied, “we should not all go, or we would be a burden to you.” Although Absalom urged him, he was not willing to go, but gave him his blessing. 26 “If not,” said Absalom, “please let my brother Amnon go with us.” “Why should he go with you?” the king asked. 27 But Absalom urged him, so the king sent Amnon and the rest of his sons.",
+        "28 Now Absalom had ordered his young men, “Watch Amnon until his heart is merry with wine, and when I order you to strike Amnon down, you are to kill him. Do not be afraid. Have I not commanded you? Be courageous and valiant!” 29 So Absalom’s young men did to Amnon just as Absalom had ordered. Then all the other sons of the king got up, and each one fled on his mule."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Two years later, Absalom invites the king’s sons to his sheep-shearing gathering. He first urges David to come. David declines, saying that bringing everyone would burden him, but gives his blessing.",
+    "",
+    "Absalom then asks specifically for Amnon. David questions the request but eventually allows Amnon and the other sons to go. Absalom has already ordered his servants to wait until Amnon is merry with wine and then kill him at his command.",
+    "",
+    "The servants carry out the order. The remaining princes flee on their mules. The long silence between the brothers has ended in a planned killing, not a public hearing or a restoration of Tamar."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) reads the two-year delay as a sign of settled revenge and careful planning. [Henry](https://biblehub.com/commentaries/mhc/2_samuel/13.htm) emphasizes that Absalom draws his servants into the killing, assuring them with his own authority. A prince’s command does not make the servants’ participation innocent.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/13.htm) also connects this violence with David’s failure to address the earlier wrong. The connection helps explain how the situation has grown; it does not transfer responsibility for Absalom’s order away from Absalom or make murder the only possible answer to an injustice."
+  ],
+  "god_plan_lines": [
+    "The scene brings the difference between facing evil and taking private revenge into view. Anger at what happened to Tamar does not by itself make Absalom’s secret order a faithful act.",
+    "",
+    "[Romans 12:17–21](https://biblehub.com/bsb/romans/12.htm) tells believers not to repay evil with evil or avenge themselves, but to leave vengeance to God and overcome evil with good. This is a larger biblical direction for our response, rather than a claim that Paul directly comments on Absalom’s feast.",
+    "",
+    "It does not turn the earlier assault into something to ignore. The need to address wrongdoing remains, while this path of revenge adds another death and further tears apart the household."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/13.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-thirteen-review.md"
+  }
+}

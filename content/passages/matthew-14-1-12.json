@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "14:1-12",
+    "label": "Matthew 14:1-12",
+    "slug": "matthew-14-1-12"
+  },
+  "section_title": "John the Baptist Is Killed",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 At that time Herod the tetrarch heard the reports about Jesus 2 and said to his servants, “This is John the Baptist; he has risen from the dead! That is why miraculous powers are at work in him.”",
+        "3 Now Herod had arrested John and bound him and put him in prison on account of Herodias, his brother Philip’s wife, 4 because John had been telling him, “It is not lawful for you to have her.” 5 Although Herod wanted to kill John, he was afraid of the people, because they regarded John as a prophet.",
+        "6 On Herod’s birthday, however, the daughter of Herodias danced before them and pleased Herod 7 so much that he promised with an oath to give to her whatever she asked. 8 Prompted by her mother, she said, “Give me here on a platter the head of John the Baptist.” 9 The king was grieved, but because of his oaths and his guests, he ordered that her wish be granted",
+        "10 and sent to have John beheaded in the prison. 11 John’s head was brought in on a platter and presented to the girl, who carried it to her mother. 12 Then John’s disciples came and took his body and buried it. And they went and informed Jesus."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Reports about Jesus reach Herod, who thinks John the Baptist has risen from the dead. Matthew then looks back to explain what happened to John. The story follows the rejection of Jesus in His hometown and shows the danger facing a prophet who speaks unwelcome truth.",
+    "",
+    "John had challenged Herod's marriage to his brother's wife, Herodias. Herod imprisoned him and wanted him dead, but feared the people who regarded John as a prophet. At a birthday celebration, Herod's pleasure in Herodias's daughter's dancing leads him to make a sweeping promise under oath.",
+    "",
+    "Her mother prompts the girl to ask for John's head. Herod is grieved, yet gives the order because of his oaths and his guests. His concern about what others will think ends in an innocent man's death. John's disciples bury him and bring the news to Jesus.",
+    "",
+    "The Jewish historian [Josephus, Antiquities 18.5.2](https://penelope.uchicago.edu/Josephus/ant-18.html), also reports that Herod had John imprisoned and killed. Josephus emphasizes Herod's fear of John's influence over the crowds. Matthew tells the story through John's rebuke of the marriage and the fatal promise at the banquet. The accounts give different emphases rather than identical explanations."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as the death of a faithful prophet and a warning about wrongdoing driven by fear, pride, and a reckless promise. [Wesley's note on Matthew 14:9](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) stresses that keeping a wrongful oath does not make the killing right. The [US Catholic bishops' note on 14:1–12](https://bible.usccb.org/bible/matthew/14) also connects John's death with the suffering Jesus will face."
+  ],
+  "god_plan_lines": [
+    "Jesus Himself makes the connection between John's treatment and His own coming suffering. In [Matthew 17:10–13](https://biblehub.com/bsb/matthew/17.htm), He says that people failed to recognize the Elijah who had come and did as they wished to him; the disciples understand that He means John. Jesus then says the Son of Man will suffer at their hands as well.",
+    "",
+    "John's role in preparing the way therefore includes rejection as well as proclamation. His death does not mean God's promised work has stopped. It prepares the reader for the Messiah's own suffering, while leaving the cruelty of those responsible fully in view."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/14.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-fourteen-review.md"
+  }
+}

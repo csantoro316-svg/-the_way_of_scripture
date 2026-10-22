@@ -11,17 +11,39 @@
       "label": "BSB",
       "paragraphs": [
         "18 Early the next morning, Jacob took the stone that he had placed under his head, and he set it up as a pillar. He poured oil on top of it, 19 and he called that place Bethel, though previously the city had been named Luz.",
-        "20 Then Jacob made a vow, saying, \u201cIf God will be with me and watch over me on this journey, and if He will provide me with food to eat and clothes to wear, 21 so that I may return safely to my father\u2019s house, then the LORD will be my God. 22 And this stone I have set up as a pillar will be God\u2019s house, and of all that You give me I will surely give You a tenth.\u201d"
+        "20 Then Jacob made a vow, saying, “If God will be with me and watch over me on this journey, and if He will provide me with food to eat and clothes to wear, 21 so that I may return safely to my father’s house, then the LORD will be my God. 22 And this stone I have set up as a pillar will be God’s house, and of all that You give me I will surely give You a tenth.”"
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 28**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "Early the next morning, Jacob sets up the stone as a pillar and pours oil over it. He names the place Bethel, though the city had been called Luz. The name is בֵּית־אֵל, *bêt-ʾēl* (bayt-AYL), meaning house of God; [Brown–Driver–Briggs](https://biblehub.com/hebrew/1008.htm) connects it with this vision. The stone marks the place where God met him.",
+    "",
+    "Jacob then makes a vow concerning God's presence, protection, food, clothing, and a safe return. He says the LORD will be his God, the stone will be God's house, and he will give a tenth of what God gives him. These are concrete promises made in response to a very concrete need for care on the road.",
+    "",
+    "The order matters: God has already promised to be with Jacob and bring him back before Jacob offers anything. His vow therefore responds to an existing promise. The conditional wording also raises a question about his response: is he bargaining for protection, or pledging loyalty as he looks toward the promise being fulfilled?"
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Stone of Bethel** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "Christians commonly see the pillar and vow as Jacob's response to God's appearance, but differ in how they hear his conditional words. [Wesley's notes on Genesis 28:20–22](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) emphasize a commitment of loyalty and gratitude in response to God's promise.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 28** remains the first control on meaning."
+    "The [US Catholic bishops' Bible note on Genesis 28:20](https://bible.usccb.org/bible/genesis/28) gives more weight to the condition: Jacob vows to make the God who appeared to him his own if He brings him safely out and back. The two commentaries place different weight on the conditional wording of Jacob's vow."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "god_plan_lines": [
+    "The story later returns to this promise in [Genesis 35:1–7](https://biblehub.com/bsb/genesis/35.htm). God directs Jacob back to Bethel, and Jacob acknowledges that God answered him in his distress and remained with him wherever he went. What was promised at the beginning of a frightening journey becomes something he can recognize over time.",
+    "",
+    "The wider biblical encouragement rests on that faithfulness. [Hebrews 13:5–6](https://biblehub.com/bsb/hebrews/13.htm) joins contentment and courage with God's promise not to leave or forsake His people. It does not turn Jacob's tenth into a payment for protection. The lasting theme is learning to trust the God who remains with His people through the journey."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/28.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-isaac-and-bethel-review.md"
+  }
 }

@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "12:8-12",
+    "label": "Luke 12:8-12",
+    "slug": "luke-12-8-12"
+  },
+  "section_title": "What does Jesus promise those who must speak for Him under pressure?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "8 I tell you, everyone who confesses Me before men, the Son of Man will also confess him before the angels of God. 9 But whoever denies Me before men will be denied before the angels of God. 10 And everyone who speaks a word against the Son of Man will be forgiven, but whoever blasphemes against the Holy Spirit will not be forgiven.",
+        "11 When you are brought before synagogues, rulers, and authorities, do not worry about how to defend yourselves or what to say. 12 For at that time the Holy Spirit will teach you what you should say.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus connects acknowledging Him before people with being acknowledged by the Son of Man before God’s angels. He also warns about denial. The public response to Him has a significance beyond the immediate audience.",
+    "",
+    "He then distinguishes a word spoken against the Son of Man, which can be forgiven, from blasphemy against the Holy Spirit, which will not be forgiven. The warning treats the response to God’s work with the utmost seriousness.",
+    "",
+    "The teaching ends with help for the disciples who are brought before synagogues, rulers and authorities. They are not to be consumed by anxiety about how to defend themselves or what to say: the Holy Spirit will teach them at that time.",
+    "",
+    "These words concern pressured witness before authorities. The promise gives confidence in God’s help in that setting rather than declaring that learning, preparation or careful teaching is unnecessary."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly see both a call to acknowledge Christ and a promise of the Spirit’s help under persecution. The Catholic bishops’ notes connect that help with the Spirit’s guidance of the mission in Acts. ([USCCB notes on Luke 12:2–12](https://bible.usccb.org/bible/luke/12))",
+    "",
+    "Teachers explain the warning about the Spirit in different ways. Wesley distinguishes a denial from which a person can repent from blasphemy against the Spirit, which he regards as a condition from which the person will not return to repentance. The Catholic Church teaches that deliberately refusing the mercy and salvation offered by the Spirit can harden a person into dying without repentance. These explanations focus on a grave rejection of God, rather than making His willingness to forgive the problem. ([Wesley on Luke 12:10](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [Catechism §1864](https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_one/article_8/iv_the_gravity_of_sin_mortal_and_venial_sin.index.html))"
+  ],
+  "god_plan_lines": [
+    "Acts shows Peter brought before rulers and speaking while filled with the Holy Spirit. He bears witness to Jesus’ death and resurrection and names Him as the source of salvation. This is a concrete continuation of the mission and help Jesus describes. ([Acts 4:5–13](https://biblehub.com/bsb/acts/4.htm))",
+    "",
+    "Second Timothy joins faithful endurance with the risen Christ and repeats the seriousness of denying Him. Even imprisonment does not chain God’s word. The disciples’ witness under pressure belongs within a mission whose reach is greater than the limits imposed on its messengers. ([2 Timothy 2:8–13](https://biblehub.com/bsb/2_timothy/2.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/12.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-twelve-opening-review.md"
+  }
+}

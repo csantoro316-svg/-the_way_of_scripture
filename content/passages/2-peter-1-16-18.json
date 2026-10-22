@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "2 Peter",
+    "citation": "1:16-18",
+    "label": "2 Peter 1:16-18",
+    "slug": "2-peter-1-16-18"
+  },
+  "section_title": "Why does Peter point to Christ’s glory?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "16 For we did not follow cleverly devised fables when we made known to you the power and coming of our Lord Jesus Christ, but we were eyewitnesses of His majesty. 17 For He received honor and glory from God the Father when the voice came to Him from the Majestic Glory, saying, “This is My beloved Son, in whom I am well pleased.” 18 And we ourselves heard this voice from heaven when we were with Him on the holy mountain."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The assurance Peter gives is grounded in testimony. He denies following cleverly devised stories and says that he and his companions were eyewitnesses of Jesus’ majesty. They heard the Father declare Him the beloved Son.",
+    "",
+    "The account recalls the event commonly called the transfiguration, when Jesus’ appearance was changed and His glory became visible to Peter, James and John. [Matthew 17:1–9](https://biblehub.com/bsb/matthew/17.htm) recounts the cloud and the Father’s voice. The account describes a high mountain without naming it.",
+    "",
+    "The witness supports the message about Christ’s power and coming. The readers are being directed to what God made known about His Son, rather than asked to build their hope on an invented story."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/2_peter/1.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-epistle-general-of-st-peter/) both identify the event with the transfiguration and emphasize the authority of the Father’s testimony to His Son. They differ over the coming in verse 16: Calvin relates it to Christ’s arrival and saving work in the world, while Wesley understands the powerful coming in future glory.",
+    "",
+    "In either reading, the eyewitness account matters because it concerns who Jesus is and the glory that belongs to Him. It is not a command that every later believer must receive the same experience before trusting the message."
+  ],
+  "god_plan_lines": [
+    "[Luke 9:28–36](https://biblehub.com/bsb/luke/9.htm) adds that Moses and Elijah spoke with Jesus about the departure He would accomplish at Jerusalem. The glimpse of glory is therefore connected in the Gospel itself with the saving work He was about to undertake.",
+    "",
+    "After His resurrection, Jesus explains the same movement from suffering to glory through the Scriptures in [Luke 24:25–27](https://biblehub.com/bsb/luke/24.htm). The glory witnessed on the mountain belongs within God’s purpose carried out through His Son’s suffering and victory."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_peter/1.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-peter-one-closing-review.md"
+  }
+}

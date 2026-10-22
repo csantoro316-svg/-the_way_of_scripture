@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "3:7-12",
+    "label": "Mark 3:7-12",
+    "slug": "mark-3-7-12"
+  },
+  "section_title": "The Crowds by the Sea and the Son of God",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 So Jesus withdrew with His disciples to the sea, accompanied by a large crowd from Galilee, Judea, 8 Jerusalem, Idumea, the region beyond the Jordan, and the vicinity of Tyre and Sidon. The large crowd came to Him when they heard what great things He was doing. 9 Jesus asked His disciples to have a boat ready for Him so that the crowd would not crush Him. 10 For He had healed so many that all who had diseases were pressing forward to touch Him.",
+        "11 And when the unclean spirits saw Him, they fell down before Him and cried out, “You are the Son of God!” 12 But He warned them sternly not to make Him known."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After the plot against Him, Jesus withdraws with His disciples to the sea. People come from Galilee, Judea, Jerusalem, Idumea, beyond the Jordan, and the area of Tyre and Sidon. The list shows how widely news of His works has spread. Mark identifies their home regions without telling us every person's background or reason for coming.",
+    "",
+    "The crowd's needs create real physical pressure. Jesus asks His disciples to keep a boat ready so He will not be crushed, because people with diseases press forward to touch Him. The Greek verb θλίβω, *thlibō* (THLEE-boh), means to press hard upon; [Thayer's lexicon](https://biblehub.com/greek/2346.htm) lists Mark 3:9 as a literal use. The scene describes more than a large audience watching from a distance.",
+    "",
+    "Unclean spirits fall before Jesus and identify Him as the Son of God. He sternly forbids them to make Him known. Their recognition shows His authority over them, but it is not the trusting response of a disciple; [James 2:19](https://biblehub.com/bsb/james/2.htm) likewise distinguishes the demons' belief from faith that follows God. Mark leaves their testimony under Jesus' command rather than allowing them to direct how His identity is made known."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly see these scenes as showing Jesus' healing power and authority over unclean spirits, while distinguishing the spirits' recognition from faithful discipleship. [Calvin on the parallel Matthew 12:16](https://biblehub.com/commentaries/calvin/mark/3.htm) and [Wesley on Mark 3:12](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-mark/) explain the silence in terms of unsuitable witnesses and the timing of His public disclosure."
+  ],
+  "god_plan_lines": [
+    "[Matthew 12:15–21](https://biblehub.com/bsb/matthew/12.htm) connects Jesus' withdrawal, healings, and command for silence with God's servant in [Isaiah 42:1–4](https://biblehub.com/bsb/isaiah/42.htm). The servant brings justice to the nations and deals gently with the bruised reed and smoldering wick. These pictures speak of care for what is damaged and vulnerable. Jesus' ministry joins power with that gentleness.",
+    "",
+    "Matthew explicitly extends the hope to the nations. Mark's list of places is not a complete account of who has believed, but it fits the growing reach of Jesus' work beyond one town. [Hebrews 1:1–3](https://biblehub.com/bsb/hebrews/1.htm) identifies the Son as the One through whom God speaks and who provides purification for sins. What begins here with people seeking relief belongs to His larger saving mission."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-three-opening-review.md"
+  }
+}

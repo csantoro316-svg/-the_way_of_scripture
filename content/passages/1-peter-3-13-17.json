@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "1 Peter",
+    "citation": "3:13-17",
+    "label": "1 Peter 3:13-17",
+    "slug": "1-peter-3-13-17"
+  },
+  "section_title": "How do we speak about our hope when faith is challenged?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 Who can harm you if you are zealous for what is good? 14 But even if you should suffer for what is right, you are blessed. “Do not fear what they fear; do not be shaken.”",
+        "15 But in your hearts sanctify Christ as Lord. Always be prepared to give a defense to everyone who asks you the reason for the hope that is in you. But respond with gentleness and respect, 16 keeping a clear conscience, so that those who slander you may be put to shame by your good behavior in Christ. 17 For it is better, if it is God’s will, to suffer for doing good than for doing evil."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Peter asks who will harm those eager to do good, then immediately allows that they may suffer for doing right. His encouragement is not a promise that faithful conduct prevents every injury.",
+    "",
+    "The response to intimidation is to honor Christ as Lord in their hearts. The language recalls [Isaiah 8:12–13](https://biblehub.com/bsb/isaiah/8.htm), where God’s people are told whom to fear. Christ’s authority, rather than the threat, is to govern their response.",
+    "",
+    "They must be ready to explain their hope. The [word for defense](https://biblehub.com/greek/627.htm) concerns a spoken answer or explanation. Gentleness, respect and a clear conscience belong with that answer, so their behavior supports what they say. Peter again distinguishes suffering for doing good from suffering for wrongdoing."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/1_peter/3.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-epistle-general-of-st-peter/) both connect readiness to answer with trust in God and a calm, respectful manner. Calvin expressly says this is not a demand that every believer be able to solve every theological question. Wesley warns that anger damages the witness as well as the speaker.",
+    "",
+    "Both understand the hope in light of God’s lasting care. The passage acknowledges real suffering while calling believers to a response shaped by Christ, rather than retaliation."
+  ],
+  "god_plan_lines": [
+    "[Romans 8:31–39](https://biblehub.com/bsb/romans/8.htm) also places confidence in God alongside real persecution, danger and death. Hope rests in His love through Christ, rather than freedom from all present trouble.",
+    "",
+    "In [Acts 4:7–13, 18–20](https://biblehub.com/bsb/acts/4.htm), Peter and John explain their witness to Jesus under questioning. The episode gives a concrete example of speaking about salvation in the risen Christ when authorities challenge that witness."
+  ],
+  "current_position_lines": [
+    "Our study [I Am a Disciple](https://thewayofscripture.com/studies/i-am-a-disciple.html) understands this as a call to be ready to explain the hope we have in Christ. Our witness includes words as well as conduct, and the explanation should be given with gentleness and respect."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_peter/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-first-peter-three-closing-review.md",
+    "position_source_detail": "I Am a Disciple — i_am_a_disciple.md34–36; prepared verbal explanation with gentleness, not a requirement to solve every question or win every exchange."
+  }
+}

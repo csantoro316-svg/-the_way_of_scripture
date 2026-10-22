@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "22:51-53",
+    "label": "1 Kings 22:51-53",
+    "slug": "1-kings-22-51-53"
+  },
+  "section_title": "What does Ahaziah carry forward from his parents?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "51 In the seventeenth year of Jehoshaphat’s reign over Judah, Ahaziah son of Ahab became king of Israel, and he reigned in Samaria two years. 52 And he did evil in the sight of the LORD and walked in the ways of his father and mother and of Jeroboam son of Nebat, who had caused Israel to sin. 53 Ahaziah served and worshiped Baal, provoking the LORD, the God of Israel, to anger, just as his father had done."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The book closes by returning to Israel. Ahaziah, Ahab’s son, begins to reign in Samaria and is credited with a two-year reign.",
+    "",
+    "His conduct is measured against both his parents and Jeroboam: he continues the ways that had led Israel into sin. The particular act named is his service and worship of Baal.",
+    "",
+    "This brief ending leaves the account of his reign unfinished; it continues in 2 Kings. A new ruler has taken the throne, but the change of name has not brought a change in worship."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/22.htm) emphasizes Ahaziah’s failure to learn from what had happened to his father. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) draws attention to the limit of family example: following parents does not justify conduct opposed to God’s word.",
+    "",
+    "[Gill](https://biblehub.com/commentaries/gill/1_kings/22.htm) likewise reads the summary as a continuation of Ahab’s and Jezebel’s practices. These readings focus on the choices the text names, rather than treating a king’s ancestry as removing his responsibility."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/22.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-twenty-two-review.md"
+  }
+}

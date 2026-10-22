@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "17:10-13",
+    "label": "Matthew 17:10-13",
+    "slug": "matthew-17-10-13"
+  },
+  "section_title": "Elijah, John, and the Suffering Messiah",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 The disciples asked Him, “Why then do the scribes say that Elijah must come first?” 11 Jesus replied, “Elijah does indeed come, and he will restore all things. 12 But I tell you that Elijah has already come, and they did not recognize him, but have done to him whatever they wished. In the same way, the Son of Man will suffer at their hands.” 13 Then the disciples understood that He was speaking to them about John the Baptist."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After seeing Elijah on the mountain and hearing Jesus speak about resurrection, the disciples ask why the scribes say Elijah must come first. The question recalls [Malachi 4:4–6](https://biblehub.com/bsb/malachi/4.htm), which promises Elijah before the Day of the Lord and speaks of hearts being turned toward one another.",
+    "",
+    "Jesus affirms the expectation of Elijah and restoration, then says that Elijah has already come and has not been recognized. The disciples understand Him to mean John the Baptist. He also connects the treatment John received with the suffering the Son of Man will face.",
+    "",
+    "Restore is ἀποκαθίστημι, *apokathistēmi* (ah-poh-kah-THIS-tay-mee), to bring something back to its proper state. [Thayer's entry](https://biblehub.com/greek/600.htm) includes the restoration of a disturbed order in this verse. The surrounding Scriptures connect John's preparation with repentance and hearts turning back toward God.",
+    "",
+    "John himself denies being Elijah when questioned in [John 1:19–23](https://biblehub.com/bsb/john/1.htm). [Luke 1:13–17](https://biblehub.com/bsb/luke/1.htm) describes him as coming in Elijah's spirit and power to prepare a people for the Lord. Those passages help distinguish the prophetic role from a claim that John is personally Elijah returned."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly recognize Jesus' identification of John as the Elijah-like forerunner. The Catholic [Catechism, 718–719](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_three/article_8/iv_the_spirit_of_christ_in_the_fullness_of_time.index.html), identifies John with the promised Elijah who prepares people for the Lord, and [Wesley on Matthew 17:12](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) likewise understands John as fulfilling the role named by Malachi.",
+    "",
+    "Some Christian writers also expect Elijah himself to return before Christ's coming in glory. [Justin Martyr, Dialogue with Trypho, 49](https://www.newadvent.org/fathers/01284.htm), explains John's ministry in Elijah's spirit while also expecting Elijah before Christ's second coming. This shows a further expectation held by an early Christian writer; the shared recognition of John's role does not mean every reader explains the future expectation in the same way."
+  ],
+  "god_plan_lines": [
+    "John's task is to lead people toward the Messiah. In [John 3:26–30](https://biblehub.com/bsb/john/3.htm), he distinguishes himself from the Christ and rejoices as people go to Jesus. His place in God's work is fulfilled by directing attention beyond himself. Jesus' words here show that the forerunner's rejection does not make his preparation meaningless.",
+    "",
+    "The link between suffering and glory reaches through the prophetic story. [1 Peter 1:10–13](https://biblehub.com/bsb/1_peter/1.htm) describes the prophets anticipating the Messiah's sufferings and the glories to follow, now announced in the gospel. Jesus is teaching the disciples to understand His path within that larger purpose, even when the herald has been rejected and the Messiah will suffer."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/17.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-seventeen-opening-review.md"
+  }
+}

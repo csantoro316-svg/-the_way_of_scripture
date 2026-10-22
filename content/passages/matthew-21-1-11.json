@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "21:1-11",
+    "label": "Matthew 21:1-11",
+    "slug": "matthew-21-1-11"
+  },
+  "section_title": "The Humble King Enters Jerusalem",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 As they approached Jerusalem and came to Bethphage on the Mount of Olives, Jesus sent out two disciples, 2 saying to them, “Go into the village ahead of you, and at once you will find a donkey tied there, with her colt beside her. Untie them and bring them to Me. 3 If anyone questions you, tell him that the Lord needs them, and he will send them right away.” 4 This took place to fulfill what was spoken through the prophet: 5 “Say to the Daughter of Zion, ‘See, your King comes to you, gentle and riding on a donkey, on a colt, the foal of a donkey.’”",
+        "6 So the disciples went and did as Jesus had directed them. 7 They brought the donkey and the colt and laid their cloaks on them, and Jesus sat on them. 8 A massive crowd spread their cloaks on the road, while others cut branches from the trees and spread them on the road. 9 The crowds that went ahead of Him and those that followed were shouting: “Hosanna to the Son of David!” “Blessed is He who comes in the name of the Lord!” “Hosanna in the highest!”",
+        "10 When Jesus had entered Jerusalem, the whole city was stirred and asked, “Who is this?” 11 The crowds replied, “This is Jesus, the prophet from Nazareth in Galilee.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus approaches Jerusalem after telling the disciples that He will suffer, die, and be raised there. At Bethphage on the Mount of Olives, He sends two disciples to bring a donkey and her colt. They follow His directions, bring the animals, and lay their cloaks on them. [John 12:14–16](https://biblehub.com/bsb/john/12.htm) also describes His riding a young donkey.",
+    "",
+    "Matthew explains the scene through prophecy. The King comes gently, riding on a donkey, as [Zechariah 9:9](https://biblehub.com/bsb/zechariah/9.htm) had said. The opening call to the Daughter of Zion also echoes [Isaiah 62:11](https://biblehub.com/bsb/isaiah/62.htm). Jerusalem is being called to recognize the One who comes to her.",
+    "",
+    "The crowd spreads cloaks and branches on the road and greets Jesus as the Son of David. Hosanna is ὡσαννά, *hōsanna* (hoh-sahn-NAH), a word carried from Hebrew into Greek. [Thayer's entry](https://biblehub.com/greek/5614.htm) traces it to a plea for salvation. [Psalm 118:25–26](https://biblehub.com/bsb/psalms/118.htm) joins that plea with blessing the one who comes in the Lord's name; here it becomes a shout of welcome and praise.",
+    "",
+    "The city is stirred and asks who this is. The crowd identifies Jesus as the prophet from Nazareth in Galilee. The scene brings royal welcome and questions about His identity together as He enters the place where His announced suffering will unfold."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as Jesus openly entering Jerusalem as the promised King, with humility marking His arrival. [Wesley on 21:5](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) emphasizes that humility, and the Catholic [Catechism, 559–560](https://www.vatican.va/archive/ENG0015/__P1L.HTM), likewise connects His arrival as the promised King with the saving work of His death and resurrection."
+  ],
+  "god_plan_lines": [
+    "The prophecy reaches beyond the procession. [Zechariah 9:9–10](https://biblehub.com/bsb/zechariah/9.htm) joins the humble King's arrival with peace proclaimed to the nations and rule extending to the ends of the earth. Jesus' entry belongs within that larger hope of God's King bringing salvation and peace.",
+    "",
+    "The coming Passover also gives His journey a deeper setting. [Exodus 12:3–7](https://biblehub.com/bsb/exodus/12.htm) describes the unblemished Passover lamb, and [1 Corinthians 5:7–8](https://biblehub.com/bsb/1_corinthians/5.htm) explicitly identifies Christ as the Passover lamb who has been sacrificed. That provides a supported parallel for approaching His final days: the King who enters the city will give His life to bring deliverance."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/21.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-one-review.md"
+  }
+}

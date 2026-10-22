@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "Revelation",
+    "citation": "8:7-13",
+    "label": "Revelation 8:7-13",
+    "slug": "revelation-8-7-13"
+  },
+  "section_title": "Why do the first trumpets strike the world that sustains life?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 Then the first angel sounded his trumpet, and hail and fire mixed with blood were hurled down upon the earth. A third of the earth was burned up, along with a third of the trees and all the green grass.",
+        "8 Then the second angel sounded his trumpet, and something like a great mountain burning with fire was thrown into the sea. A third of the sea turned to blood, 9 a third of the living creatures in the sea died, and a third of the ships were destroyed.",
+        "10 Then the third angel sounded his trumpet, and a great star burning like a torch fell from heaven and landed on a third of the rivers and on the springs of water. 11 The name of the star is Wormwood. A third of the waters turned bitter like wormwood oil, and many people died from the bitter waters.",
+        "12 Then the fourth angel sounded his trumpet, and a third of the sun and moon and stars were struck. A third of the stars were darkened, a third of the day was without light, and a third of the night as well. 13 And as I observed, I heard an eagle flying overhead, calling in a loud voice, “Woe! Woe! Woe to those who dwell on the earth, because of the trumpet blasts about to be sounded by the remaining three angels!”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The first four trumpets form a connected group. They affect the land and vegetation, the sea, the fresh waters, and the lights of heaven. The repeated third emphasizes the judgments’ reach while also describing limits to the destruction.",
+    "",
+    "The first trumpet brings hail and fire mixed with blood, burning a third of the earth and trees and all the green grass. At the second, something like a burning mountain is thrown into the sea. A third of the sea becomes blood, with a corresponding loss of sea life and ships. John gives a comparison to a mountain, without identifying the object more precisely.",
+    "",
+    "The third brings a burning star named Wormwood upon rivers and springs. The waters become bitter and many people die. The name belongs to biblical language of bitter judgment: [Jeremiah 9:13–16](https://biblehub.com/bsb/jeremiah/9.htm) joins wormwood and poisoned water with the consequences of unfaithfulness.",
+    "",
+    "The fourth affects the sun, moon and stars, leaving part of the day and night without light. An eagle flying overhead then announces three woes connected with the remaining trumpets. The Greek word for its position, mesouranema, describes the high or middle sky, where it can be seen and heard; see [Thayer’s entry](https://biblehub.com/greek/3321.htm). The announcement directs attention toward the even more severe scenes still to come."
+  ],
+  "common_interpretation_lines": [
+    "Readings differ over how the trumpet scenes are fulfilled. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-revelation-of-jesus-christ/) applies them to calamities affecting Judea and the Roman world, including invasions and conflicts over teaching. [Gill](https://biblehub.com/commentaries/gill/revelation/8.htm) especially connects the first four with invasions and the collapse of the western Roman Empire. [Walvoord](https://swartzentrover.com/cotor/E-Books/holiness/Walvoord/Revelation/Rev_08.htm) favors future judgments affecting the physical world. The difference concerns the events pictured as well as their timing.",
+    "",
+    "The named star illustrates the difference. Wesley applies Wormwood to Arius and the spread of his teaching. Gill favors the destructive effects of invading powers. In a future physical reading, the star brings actual contamination of water. The text itself supplies its name, the bitterness of the waters and the deaths that follow; it does not directly name a later teacher or ruler.",
+    "",
+    "The final announcement makes clear that the first four trumpets are not the end of the sequence. The three woes warn of what remains. The BSB reads eagle here; older commentaries sometimes discuss a text reading angel. That difference should be recognized when comparing their explanations with the passage quoted on this page."
+  ],
+  "god_plan_lines": [
+    "The judgments recall the plagues of Egypt. [Exodus 9:22–26](https://biblehub.com/bsb/exodus/9.htm) describes hail, fire and ruined vegetation. [Exodus 7:19–21](https://biblehub.com/bsb/exodus/7.htm) describes water turned to blood and fish dying. [Exodus 10:21–23](https://biblehub.com/bsb/exodus/10.htm) describes darkness over the land. These parallels connect Revelation’s judgments with the earlier account of God confronting oppression and bringing His people out of bondage.",
+    "",
+    "The repeated pattern does not identify every modern place or prescribe the physical mechanism of each event. It shows the authority of the same God over the things on which earthly life depends. The vision calls readers to take His judgment seriously while the wider story continues toward the rescue, worship and life with Him already pictured in chapter 7."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/revelation/8.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-revelation-eight-review.md"
+  }
+}

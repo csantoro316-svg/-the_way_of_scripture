@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "20:11-18",
+    "label": "John 20:11-18",
+    "slug": "john-20-11-18"
+  },
+  "section_title": "Why does Jesus send Mary to His disciples?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "11 But Mary stood outside the tomb weeping. And as she wept, she bent down to look into the tomb, 12 and she saw two angels in white sitting where the body of Jesus had lain, one at the head and the other at the feet. 13 “Woman, why are you weeping?” they asked. “Because they have taken my Lord away,” she said, “and I do not know where they have put Him.” 14 When she had said this, she turned around and saw Jesus standing there. But she did not recognize that it was Jesus. 15 “Woman, why are you weeping?” Jesus asked. “Whom are you seeking?” Thinking He was the gardener, she said, “Sir, if you have carried Him off, tell me where you have put Him, and I will get Him.”",
+        "16 Jesus said to her, “Mary.” She turned and said to Him in Hebrew, “Rabboni!” (which means “Teacher”). 17 “Do not cling to Me,” Jesus said, “for I have not yet ascended to the Father. But go and tell My brothers, ‘I am ascending to My Father and your Father, to My God and your God.’” 18 Mary Magdalene went and announced to the disciples, “I have seen the Lord!” And she told them what He had said to her."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Mary remains outside the tomb crying. Even when she sees angels, she is still looking for a body someone has moved. She sees Jesus but mistakes Him for the gardener. Recognition comes when He addresses her by name.",
+    "",
+    "Jesus tells her not to cling to Him and sends her to His brothers with a message about His return to the Father. The Greek verb ἅπτομαι, haptomai (HAP-toh-my), can mean to touch or hold on to someone; [Thayer’s lexicon](https://biblehub.com/greek/680.htm) lists that range. The word alone does not explain every part of Jesus’s instruction.",
+    "",
+    "Mary’s task is to tell the disciples that she has seen the Lord and to pass on His words. Jesus speaks of His Father and their Father, His God and their God. He welcomes them as His brothers while still speaking of His own relationship with the Father distinctly."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as a real encounter with the risen Jesus and a commission to report the news. Mary is a witness, rather than someone who has merely reached a comforting conclusion about His death.",
+    "",
+    "[Wesley on verse 17](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) reads the instruction as not holding on to Jesus or detaining Him. [Calvin on verse 17](https://biblehub.com/commentaries/calvin/john/20.htm) likewise emphasizes that Mary must not try to keep His earthly presence as before; His return to the Father matters. Their emphasis is on the changed relationship and her task, rather than a rule that the risen body cannot be touched. The command to Thomas later in this chapter also needs to be heard alongside these words."
+  ],
+  "god_plan_lines": [
+    "Calling the disciples His brothers brings the resurrection into the story of God welcoming people into His family. [Hebrews 2:10–12](https://biblehub.com/bsb/hebrews/2.htm) speaks of God bringing many sons to glory and of Jesus not being ashamed to call His people brothers. This is a connection between the passages, not a claim that Mary or the disciples become divine. The risen Son brings His people into a relationship with His Father."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/20.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-twenty-review.md"
+  }
+}

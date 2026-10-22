@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "9:1-4",
+    "label": "Ezekiel 9:1-4",
+    "slug": "ezekiel-9-1-4"
+  },
+  "section_title": "Who receives the mark before judgment begins?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Then I heard Him call out in a loud voice, saying, “Draw near, O executioners of the city, each with a weapon of destruction in hand.” 2 And I saw six men coming from the direction of the Upper Gate, which faces north, each with a weapon of slaughter in his hand. With them was another man clothed in linen who had a writing kit at his side. And they came in and stood beside the bronze altar.",
+        "3 Then the glory of the God of Israel rose from above the cherubim, where it had been, and moved to the threshold of the temple. And He called to the man clothed in linen who had the writing kit at his side. 4 “Go throughout the city of Jerusalem,” said the LORD, “and put a mark on the foreheads of the men sighing and groaning over all the abominations committed there.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The vision continues at the temple. Six armed figures arrive from the north, accompanied by a man in linen carrying a writing kit. They take their places beside the bronze altar.",
+    "",
+    "The glory of the God of Israel moves from above the cherubim to the temple’s threshold. Before the armed figures are sent through the city, the man in linen receives a different task: mark the foreheads of those who grieve over the wrongdoing in Jerusalem.",
+    "",
+    "The people marked out are distinguished by their response to the evil around them. They have not made peace with it. God sees their grief as clearly as He sees the hidden worship exposed in chapter 8."
+  ],
+  "common_interpretation_lines": [
+    "The mark identifies people who are to be spared in the judgment shown next. [Henry](https://biblehub.com/commentaries/mhc/ezekiel/9.htm) emphasizes God’s care for a faithful remnant and reads the linen-clothed figure in light of Christ’s care for His people. [Wesley](https://biblehub.com/commentaries/wes/ezekiel/9.htm) describes a figure with authority over the others and emphasizes the grief of those marked.",
+    "",
+    "The Hebrew word תָּו, tav (tahv), means a mark here; the [Brown–Driver–Briggs entry](https://biblehub.com/hebrew/8420.htm) identifies its use for those exempted from this judgment. The passage does not describe the mark’s shape.",
+    "",
+    "[Tertullian, in Against Marcion, book 3, chapter 22](https://www.newadvent.org/fathers/03123.htm), later connected the mark with Christ’s cross by comparing it with the shape of the Greek letter tau and the Latin T. That is an early Christian reading of the sign; Ezekiel does not itself identify the marked shape as a cross or name the man in linen as Christ."
+  ],
+  "god_plan_lines": [
+    "[Revelation 7:1–4](https://biblehub.com/bsb/revelation/7.htm) presents a close parallel: harm is held back until God’s servants have been sealed on their foreheads. [Revelation 9:4](https://biblehub.com/bsb/revelation/9.htm) likewise distinguishes those who bear God’s seal from those exposed to a particular judgment. Neither passage directly quotes Ezekiel, but the shared picture is striking: God knows His own and marks them out before the announced harm.",
+    "",
+    "[Ephesians 1:13–14](https://biblehub.com/bsb/ephesians/1.htm) explains that those who hear and believe the gospel are sealed with the promised Holy Spirit, the pledge of their inheritance. Paul describes God’s gift to believers rather than a visible forehead mark. Together, these passages show God’s purpose to claim and keep a people for Himself."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/9.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-eight-nine-review.md"
+  }
+}

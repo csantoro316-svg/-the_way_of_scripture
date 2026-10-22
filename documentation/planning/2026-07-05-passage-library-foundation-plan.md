@@ -10,6 +10,10 @@ The plan remains active. The documentation audit confirmed that `tools/validate_
 
 The source corpus contains 970 non-audit JSON records. Philemon has four source sections spanning verses 1-25. These observations confirm implemented structure, not completed editorial review or full acceptance of every phase.
 
+The owner established the [passage editorial standard](../architecture/PASSAGE_EDITORIAL_STANDARD.md) on 2026-10-18. Genesis 1:1-31 and Genesis 2:1-3 are the first source-checked batch under `passage-v1`; see their [review evidence](../testing/2026-10-18-genesis-opening-editorial-review.md). Reviewed pages support an optional plan section and question headings, retain sourced deeper-study links, and use the exact no-position text when no owner-authorized conclusion exists. The next existing Genesis group is 2:4-25. The remaining library still requires editorial review.
+
+The site-level Passages link now opens the existing reader directly; the featured-passages landing page has been retired. Completing the Bible passage library remains planned work under the phases below. This navigation change did not add or review passage source records.
+
 `python3 tools/check_repo.py` passes with 0 errors and 401 warnings. The warning breakdown and the remaining source/generator issues are recorded in [the documentation audit evidence](../testing/2026-10-18-session-documentation-audit.md). Foundation hardening and schema consolidation remain active; no book-expansion work was performed during this audit.
 
 ## Objective
@@ -43,7 +47,8 @@ The canonical page and source unit is a section within a chapter, not an isolate
 
 - Context
 - Common Interpretations
-- Current Position
+- Where does this fit in God's plan? (only when the editorial inclusion tests apply)
+- Our Position (authorized source or the exact open-position wording)
 - Deeper Study
 
 ### Editorial intent

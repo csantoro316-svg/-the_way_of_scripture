@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "Ephesians",
+    "citation": "3:7-13",
+    "label": "Ephesians 3:7-13",
+    "slug": "ephesians-3-7-13"
+  },
+  "section_title": "What is God making known through the church?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 I became a servant of this gospel by the gift of God’s grace, given me through the working of His power. 8 Though I am less than the least of all the saints, this grace was given me: to preach to the Gentiles the unsearchable riches of Christ, 9 and to illuminate for everyone the stewardship of this mystery, which for ages past was kept hidden in God, who created all things.",
+        "10 His purpose was that now, through the church, the manifold wisdom of God should be made known to the rulers and authorities in the heavenly realms, 11 according to the eternal purpose that He accomplished in Christ Jesus our Lord. 12 In Him and through faith in Him we may enter God’s presence with boldness and confidence. 13 So I ask you not to be discouraged because of my sufferings for you, which are your glory."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul describes his service to the gospel as a gift of grace working through God’s power. He calls himself less than the least of all the saints, placing his opportunity to serve in the setting of God’s generosity.",
+    "",
+    "His task is to preach Christ’s unsearchable riches to the Gentiles and bring the previously hidden purpose to light. The Creator is the One who has held and now disclosed this purpose.",
+    "",
+    "Paul then names a heavenly audience: through the church, God’s manifold wisdom is being made known to rulers and authorities in the heavenly realms. The word manifold comes from πολυποίκιλος, polypoikilos (poh-loo-POY-kih-loss). [Thayer’s lexicon](https://biblehub.com/greek/4182.htm) explains this use as richly varied, shown in many forms. The life of this shared people displays the richness of God’s wisdom.",
+    "",
+    "This belongs to the eternal purpose accomplished in Christ Jesus. In Him, through faith, believers have confident access to God.",
+    "",
+    "Paul therefore asks them not to become discouraged over his sufferings for them. His hardships belong to a service through which the Gentiles have received the blessings he has been describing."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as joining Paul’s grace-given mission with God’s purpose displayed through the church. [Wesley’s notes on verses 7–13](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-ephesians/) emphasize the gift of service and the church as the setting where divine wisdom is shown. The [USCCB notes on verses 1–13](https://bible.usccb.org/bible/ephesians/3) likewise connect Paul’s mission, the inclusion of Gentiles and the making known of God’s purpose to heavenly beings."
+  ],
+  "god_plan_lines": [
+    "[1 Peter 1:10–12](https://biblehub.com/bsb/1_peter/1.htm) describes prophets searching into the salvation and grace now announced through the gospel by the Holy Spirit. It adds that even angels long to look into these things.",
+    "",
+    "This gives another explicit picture of God’s saving work having significance beyond its human hearers. The welcome of His people through Christ displays His wisdom, and the heavenly realm attends to the salvation He has brought about."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/ephesians/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-ephesians-three-review.md"
+  }
+}

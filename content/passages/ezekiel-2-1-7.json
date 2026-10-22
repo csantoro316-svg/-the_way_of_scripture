@@ -1,0 +1,68 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "2:1-7",
+    "label": "Ezekiel 2:1-7",
+    "slug": "ezekiel-2-1-7"
+  },
+  "section_title": "Who gives Ezekiel the strength to stand and speak?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 “Son of man,” He said to me, “stand up on your feet and I will speak to you.” 2 And as He spoke to me, the Spirit entered me and set me on my feet, and I heard Him speaking to me.",
+        "3 “Son of man,” He said to me, “I am sending you to the Israelites, to a rebellious nation that has rebelled against Me. To this very day they and their fathers have rebelled against Me. 4 They are obstinate and stubborn children. I am sending you to them, and you are to say to them, ‘This is what the Lord GOD says.’ 5 And whether they listen or refuse to listen—for they are a rebellious house—they will know that a prophet has been among them.",
+        "6 But you, son of man, do not be afraid of them or their words. Do not be afraid, though briers and thorns surround you, and you dwell among scorpions. Do not be afraid of their words or dismayed by their presence, though they are a rebellious house. 7 But speak My words to them, whether they listen or refuse to listen, for they are rebellious."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The voice that Ezekiel heard after falling facedown now tells him to stand. The Spirit enters him and sets him on his feet so he can listen. The Lord supplies the strength for the response He commands.",
+    "",
+    "Ezekiel is sent to the Israelites, described as continuing in rebellion across generations. He must deliver what the Lord says, whether they listen or refuse. His commission does not depend on their welcome.",
+    "",
+    "The Hebrew adjective קָשֶׁה, qasheh (kah-SHEH), means hard or severe and can describe stubbornness. [Brown–Driver–Briggs](https://biblehub.com/hebrew/7186.htm) lists verse 4’s phrase about being hard of face under that use. The picture is of resistance that has become firmly set.",
+    "",
+    "The repeated command not to fear acknowledges the hostility he will face. Briers, thorns and scorpions picture the painful setting of his work. Even there, he is to speak the words entrusted to him."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezekiel/2.htm) and [Wesley](https://biblehub.com/commentaries/wes/ezekiel/2.htm) emphasize the combination of humility and readiness to serve. Being addressed as son of man reminds Ezekiel of his human weakness, while the Spirit enables him to stand.",
+    "",
+    "Both connect the commission with faithfulness in delivering God’s message. The people’s response will not determine whether a prophet has been sent. They read the thorns and scorpions as pictures of the opposition he must face without abandoning his task."
+  ],
+  "god_plan_lines": [
+    "A close parallel appears in [Acts 26:12–20](https://biblehub.com/bsb/acts/26.htm). Saul falls to the ground before the risen Jesus, is told to stand on his feet, and receives a commission as a servant and witness. Jesus sends him to lead people from darkness to light and to forgiveness through faith in Him.",
+    "",
+    "Acts does not explicitly quote Ezekiel 2 here, and the missions differ: Ezekiel is sent to Israel, while Paul’s work also reaches Gentiles. The shared pattern connects divine revelation with a God-given task that serves His saving purpose.",
+    "",
+    "[Second Peter 1:16–21](https://biblehub.com/bsb/2_peter/1.htm) gives the broader explanation of prophetic speech: people spoke from God as they were carried along by the Holy Spirit. The message is grounded in His initiative, rather than the messenger’s ability to secure approval."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/2.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-two-three-review.md"
+  }
+}

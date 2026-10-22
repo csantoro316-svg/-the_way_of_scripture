@@ -23,12 +23,32 @@
     }
   ],
   "context_lines": [
-    "In **Genesis 11**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "After the scattering at Babel, the account follows one branch of Noah's family. It begins with Shem, two years after the flood, and moves through Arphaxad, Shelah, Eber, Peleg, Reu, Serug, Nahor, and Terah. Terah's three sons introduce Abram, who will become the central figure in the next part of Genesis.",
+    "",
+    "Chapter 10 traced Eber's descendants through Joktan's many sons; this list takes the other branch, through Peleg. Its repeated pattern of a son's birth, further years, and other children resembles chapter 5. The listed lifespans generally become shorter as the account moves toward Abram, although the change is not an even decline from one generation to the next.",
+    "",
+    "These verses supply names and ages, with few details about the people's lives. Their place in the family record does not establish that every person named was faithful to God. [Joshua 24:2–3](https://biblehub.com/bsb/joshua/24.htm) later says that Terah's household served other gods before describing God's call of Abraham."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Genealogy from Shem to Abram** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 11** remains the first control on meaning."
+    "Christians commonly understand this genealogy as the bridge from Noah's family to Abraham, preparing for God's promises to him. [Wesley's notes on Genesis 11:10](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) emphasize the movement toward Abraham, and the [US Catholic bishops' note on Genesis 11:10–26](https://bible.usccb.org/bible/genesis/11) likewise describes its place at this turning point in the book."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "god_plan_lines": [
+    "[Luke 3:34–36](https://biblehub.com/bsb/luke/3.htm) includes these ancestors as it traces Jesus' family back through Abraham, Shem, and Noah. A list that may first look like a pause in the story becomes part of the connection between the earliest generations and the coming of Christ.",
+    "",
+    "There is a detail worth noticing when reading the two lists together: Luke names Cainan between Arphaxad and Shelah, while the Genesis text printed here does not. The [US Catholic bishops' note on Genesis 11:12](https://bible.usccb.org/bible/genesis/11) identifies that additional name in the Greek form of the genealogy. The difference belongs to the history of the texts; the shared line still connects Abraham with the earlier family through whom Luke traces Jesus."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-18",
+    "quote_source": "https://biblehub.com/bsb/genesis/11.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-18-genesis-nations-and-babel-review.md"
+  }
 }

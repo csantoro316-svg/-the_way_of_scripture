@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "44:25-27",
+    "label": "Ezekiel 44:25-27",
+    "slug": "ezekiel-44-25-27"
+  },
+  "section_title": "How do the priests return to service after contact with the dead?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "25 A priest must not defile himself by going near a dead person. However, for a father, a mother, a son, a daughter, a brother, or an unmarried sister, he may do so, 26 and after he is cleansed, he must count off seven days for himself. 27 And on the day he goes into the sanctuary, into the inner court, to minister in the sanctuary, he must present his sin offering, declares the Lord GOD."
+      ]
+    }
+  ],
+  "context_lines": [
+    "A priest is not to go near a dead person in a way that brings ritual defilement, except for the close relatives listed: father, mother, son, daughter, brother or an unmarried sister.",
+    "",
+    "After cleansing, he must count seven days. On returning to minister in the inner court, he must present his sin offering.",
+    "",
+    "The allowance for close family and the preparation for renewed service both belong to the instruction. The passage treats the effects of death with seriousness while providing a way back to the priest’s responsibilities."
+  ],
+  "common_interpretation_lines": [
+    "[Cambridge](https://biblehub.com/commentaries/cambridge/ezekiel/44.htm) understands these as rules for necessary contact with the dead and purification before returning to the inner court. [Wesley](https://biblehub.com/commentaries/wes/ezekiel/44.htm) also emphasizes the interval before service resumes.",
+    "",
+    "The uncleanness in view concerns contact with death. The passage does not say that caring about a deceased parent or child is itself an act of moral rebellion."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/44.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-forty-four-five-review.md"
+  }
+}

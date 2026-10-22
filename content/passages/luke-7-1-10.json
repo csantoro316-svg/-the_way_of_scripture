@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "7:1-10",
+    "label": "Luke 7:1-10",
+    "slug": "luke-7-1-10"
+  },
+  "section_title": "Why does Jesus marvel at the centurion’s faith?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 When Jesus had concluded His discourse in the hearing of the people, He went to Capernaum. 2 There a highly valued servant of a centurion was sick and about to die. 3 When the centurion heard about Jesus, he sent some Jewish elders to ask Him to come and heal his servant. 4 They came to Jesus and pleaded with Him earnestly, “This man is worthy to have You grant this, 5 for he loves our nation and has built our synagogue.”",
+        "6 So Jesus went with them. But when He was not far from the house, the centurion sent friends with the message: “Lord, do not trouble Yourself, for I am not worthy to have You come under my roof. 7 That is why I did not consider myself worthy to come to You. But just say the word, and my servant will be healed. 8 For I myself am a man under authority, with soldiers under me. I tell one to go, and he goes, and another to come, and he comes. I tell my servant to do something, and he does it.”",
+        "9 When Jesus heard this, He marveled at the centurion. Turning to the crowd following Him, He said, “I tell you, not even in Israel have I found such great faith.” 10 And when the messengers returned to the house, they found the servant in good health."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After finishing His teaching, Jesus enters Capernaum. A centurion, an officer with soldiers under him, has a highly valued servant who is close to death. He sends Jewish elders to ask Jesus for help. They speak warmly of his love for their nation and his building of their synagogue.",
+    "",
+    "As Jesus approaches the house, the centurion sends friends with a second message. The elders have called him worthy of help, but he describes himself as unworthy to receive Jesus under his roof or even to come to Him personally. He nevertheless trusts that Jesus can heal by a word.",
+    "",
+    "His explanation comes from his own experience of authority. He receives orders and gives orders, and those under his command obey. He believes that Jesus’ authority can likewise accomplish what He commands without requiring His physical presence beside the sick man.",
+    "",
+    "Jesus marvels and commends the faith He has found, saying He has not found such great faith even in Israel. The messengers return and find the servant well. Luke places the centurion’s trust in Jesus’ word at the center of the account."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly see humble trust in Jesus’ authority and a welcome reaching beyond Israel. The centurion’s faith, his care for his servant and the Jewish elders’ appeal are all part of the scene; the Catholic bishops’ notes also connect it with the later account of Cornelius in Acts. ([USCCB note on Luke 7:1–10](https://bible.usccb.org/bible/luke/7); [Matthew 8:5–13](https://biblehub.com/bsb/matthew/8.htm))"
+  ],
+  "god_plan_lines": [
+    "Matthew’s parallel includes Jesus speaking of people coming from east and west to share the kingdom with Abraham, Isaac and Jacob. The faith of this man from outside Israel belongs within the larger welcome of the nations into God’s promised blessing. ([Matthew 8:10–12](https://biblehub.com/bsb/matthew/8.htm))",
+    "",
+    "Acts gives a related scene involving another centurion, Cornelius. Peter enters his household and explains that God does not show favoritism, but welcomes people from every nation. This is a later parallel, not the same officer or the same event. The two accounts show the good news reaching across a boundary that could otherwise keep people apart. ([Acts 10:24–36](https://biblehub.com/bsb/acts/10.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/7.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-seven-opening-review.md"
+  }
+}

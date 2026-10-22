@@ -5,24 +5,44 @@
     "label": "Genesis 6:8-12",
     "slug": "genesis-6-8-12"
   },
-  "section_title": "Noah\u2019s Favor with God",
+  "section_title": "Noah’s Favor with God",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
         "8 Noah, however, found favor in the eyes of the LORD.",
-        "9 This is the account of Noah. Noah was a righteous man, blameless in his generation;Noah walked with God. 10 And Noah had three sons: Shem, Ham, and Japheth.",
+        "9 This is the account of Noah. Noah was a righteous man, blameless in his generation; Noah walked with God. 10 And Noah had three sons: Shem, Ham, and Japheth.",
         "11 Now the earth was corrupt in the sight of God, and full of violence. 12 And God looked upon the earth and saw that it was corrupt; for all living creatures on the earth had corrupted their ways."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 6**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "The word however in verse 8 marks a turn after the announcement of judgment. Noah finds favor with God, walks with Him, and lives differently from the violence around him. His family is named because the account will now follow them through the flood. The surrounding world is described as corrupt in its way of life, not merely damaged in its surroundings.",
+    "",
+    "Favor is חֵן, *ḥēn* (KHAYN), which [Brown–Driver–Briggs](https://biblehub.com/hebrew/2580.htm) gives as favor or grace. Finding favor means being received with kindness. The account places God's favor alongside Noah's actual walk with Him amid the surrounding violence.",
+    "",
+    "The word translated blameless is תָּמִים, *tāmîm* (tah-MEEM). [Brown–Driver–Briggs](https://biblehub.com/hebrew/8549.htm) places Genesis 6:9 among its uses for integrity. This describes Noah's character and way of life, rather than declaring that he has never sinned. The later account of his drunkenness in chapter 9 prevents us from confusing his faithfulness here with moral perfection."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Noah\u2019s Favor with God** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 6** remains the first control on meaning."
+    "Christians commonly read Noah as a person who receives God's favor and responds in faithfulness amid widespread evil. [Wesley's notes on verses 8–9](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) explain his righteousness through faith and his walk through a changed life, in keeping with the direct New Testament explanation in [Hebrews 11:7](https://biblehub.com/bsb/hebrews/11.htm)."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "god_plan_lines": [
+    "[2 Peter 2:5, 9](https://biblehub.com/bsb/2_peter/2.htm) names Noah as a preacher of righteousness and uses his preservation to show that God knows how to rescue the godly while judging evil. Noah's difference from the surrounding world therefore matters beyond the survival of one family: God's judgment does not make Him unable to preserve those who belong to Him.",
+    "",
+    "[Hebrews 11:7](https://biblehub.com/bsb/hebrews/11.htm) explains Noah's response as faith in a warning about things not yet seen. The coming ark will be built because God has spoken and Noah trusts Him. Noah's faith takes the form of work in response to God's word, before the danger he has been warned about can be seen."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-18",
+    "quote_source": "https://biblehub.com/bsb/genesis/6.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-18-genesis-noah-and-covenant-review.md"
+  }
 }

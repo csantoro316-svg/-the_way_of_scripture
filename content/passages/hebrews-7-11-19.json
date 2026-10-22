@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "7:11-19",
+    "label": "Hebrews 7:11-19",
+    "slug": "hebrews-7-11-19"
+  },
+  "section_title": "Why does a different priesthood require a change in the law?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "11 Now if perfection could have been attained through the Levitical priesthood (for on this basis the people received the law), why was there still need for another priest to appear—one in the order of Melchizedek and not in the order of Aaron? 12 For when the priesthood is changed, the law must be changed as well. 13 He of whom these things are said belonged to a different tribe, from which no one has ever served at the altar. 14 For it is clear that our Lord descended from Judah, a tribe as to which Moses said nothing about priests.",
+        "15 And this point is even more clear if another priest like Melchizedek appears, 16 one who has become a priest not by a law of succession, but by the power of an indestructible life. 17 For it is testified: “You are a priest forever in the order of Melchizedek.”",
+        "18 So the former commandment is set aside because it was weak and useless 19 (for the law made nothing perfect), and a better hope is introduced, by which we draw near to God."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The promise of a priest in Melchizedek’s order raises a question: if the Levitical priesthood could bring the needed completion, why promise another? The writer links priesthood with the law that appointed and governed it.",
+    "",
+    "Jesus comes from Judah, while the Mosaic regulations placed priestly service in a different line. His priesthood therefore cannot rest on the usual family qualification. It rests on the power of an indestructible life, as the priest-forever promise declares.",
+    "",
+    "The former commandment is set aside because it cannot accomplish that completion. A better hope is introduced, through which people draw near to God. The contrast concerns what can bring people into that lasting access."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/7.htm), [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) and the [USCCB notes](https://bible.usccb.org/bible/hebrews/7) all connect the changed priesthood with the changed legal arrangement and the better access provided through Christ. His priesthood is not an inherited Aaronic appointment.",
+    "",
+    "Calvin specifically cautions that this does not abolish everything Moses taught about faith or a godly life. The Methodist [Articles of Religion, Article VI](https://www.umc.org/en/content/articles-of-religion), likewise distinguish earlier ceremonial regulations from continuing moral obedience. The passage’s criticism of the former arrangement should be read with its stated purpose in view."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 8:6–13](https://biblehub.com/bsb/hebrews/8.htm) develops the better covenant by quoting God’s promise of laws written in His people’s hearts and sins forgiven. The aim is more than changing the name of an office: it concerns a renewed relationship with God.",
+    "",
+    "[Galatians 3:19–29](https://biblehub.com/bsb/galatians/3.htm) also places the law within the movement toward Christ and the promised inheritance. In both passages, the earlier provision is understood in relation to the fulfillment God brings through His Son."
+  ],
+  "current_position_lines": [
+    "Our study [Who Shepherds the Church?](https://thewayofscripture.com/studies/who-shepherds-the-church.html) understands Christ’s priesthood as permanent, with no successor needed because He lives forever. Believers approach God through Him. The study therefore rejects a clergy class acting as a necessary spiritual mediator between believers and God, while retaining elders who teach, correct and care for the church."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/7.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-seven-review.md",
+    "position_source_detail": "Who Shepherds the Church? — What Changed at the Cross, lines 44–63; specific Hebrews 7:11–12 and permanent access application."
+  }
+}

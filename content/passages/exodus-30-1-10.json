@@ -5,24 +5,57 @@
     "label": "Exodus 30:1-10",
     "slug": "exodus-30-1-10"
   },
-  "section_title": "The Altar of Incense",
+  "section_title": "Why was incense burned before the inner veil?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 \u201cYou are also to make an altar of acacia wood for the burning of incense. 2 It is to be square, a cubit long, a cubit wide, and two cubits high. Its horns must be of one piece. 3 Overlay with pure gold the top and all the sides and horns, and make a molding of gold around it. 4 And make two gold rings below the molding on opposite sides to hold the poles used to carry it. 5 Make the poles of acacia wood and overlay them with gold.",
-        "6 Place the altar in front of the veil that is before the ark of the Testimony\u2014before the mercy seat that is over the Testimony\u2014where I will meet with you. 7 And Aaron is to burn fragrant incense on it every morning when he tends the lamps. 8 When Aaron sets up the lamps at twilight, he must burn the incense perpetually before the LORD for the generations to come. 9 On this altar you must not offer unauthorized incense or a burnt offering or grain offering; nor are you to pour a drink offering on it.",
-        "10 Once a year Aaron shall make atonement on the horns of the altar. Throughout your generations he shall make atonement on it annually with the blood of the sin offering of atonement. The altar is most holy to the LORD.\u201d"
+        "1 “You are also to make an altar of acacia wood for the burning of incense. 2 It is to be square, a cubit long, a cubit wide, and two cubits high. Its horns must be of one piece. 3 Overlay with pure gold the top and all the sides and horns, and make a molding of gold around it. 4 And make two gold rings below the molding on opposite sides to hold the poles used to carry it. 5 Make the poles of acacia wood and overlay them with gold. 6 Place the altar in front of the veil that is before the ark of the Testimony—before the mercy seat that is over the Testimony—where I will meet with you.",
+        "7 And Aaron is to burn fragrant incense on it every morning when he tends the lamps. 8 When Aaron sets up the lamps at twilight, he must burn the incense perpetually before the LORD for the generations to come. 9 On this altar you must not offer unauthorized incense or a burnt offering or grain offering; nor are you to pour a drink offering on it. 10 Once a year Aaron shall make atonement on the horns of the altar. Throughout your generations he shall make atonement on it annually with the blood of the sin offering of atonement. The altar is most holy to the LORD.”"
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 30**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "This smaller altar is made from acacia wood covered with gold, with horns, a molding, rings and carrying poles. It stands in front of the veil, facing the place of meeting above the ark’s mercy seat. Its appointed use differs from the bronze altar in the courtyard.",
+    "",
+    "Aaron burns fragrant incense when tending the lamps in the morning and at twilight. No unauthorized incense, animal offering, grain offering or drink offering is to be presented on it. Its horns do receive blood at the yearly atonement. The distinction concerns its appointed service, with its own requirement for purification.",
+    "",
+    "The instructions join regular worship with approach to the God who meets His people. The altar is most holy, and its use is governed by His command."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Altar of Incense** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 30** remains the first control on meaning."
+    "Christian commentators commonly connect the incense with prayer and acceptance before God. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) understands the altar as pointing toward Christ’s intercession and the prayers of His people. [Calvin](https://biblehub.com/commentaries/calvin/exodus/30.htm) likewise emphasizes worship pleasing to God and the connection between prayer and atonement. [Psalm 141:1–4](https://biblehub.com/bsb/psalms/141.htm) itself compares prayer to incense while asking God to guard the worshiper’s words and heart."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[Luke 1:5–17](https://biblehub.com/bsb/luke/1.htm) places the praying congregation at the hour when Zechariah offers incense. There the angel announces John’s birth and his work of preparing a people for the Lord. The continuing service of Israel’s sanctuary becomes part of the Gospel’s account of God preparing for the coming of Jesus.",
+    "",
+    "The greater priestly ministry is explained in [Hebrews 7:23–28](https://biblehub.com/bsb/hebrews/7.htm): Jesus lives permanently to intercede for those who approach God through Him, on the basis of His once-for-all offering. The incense’s association with prayer belongs within that larger purpose of bringing people near to God through His Son."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/30.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-thirty-review.md"
+  }
 }

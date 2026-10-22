@@ -5,15 +5,59 @@
     "label": "Mark 11:12-14",
     "slug": "mark-11-12-14"
   },
-  "versions": [],
-  "context_lines": [
-    "In **Mark 11**, Jesus enters Jerusalem as king, judges the temple order, and uses the fig tree as a living sign of fruitless religion under judgment. The chapter's teaching on prayer is inseparable from that prophetic setting of faith, judgment, forgiveness, and divine purpose."
+  "section_title": "Looking for Fruit Beyond the Leaves",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "12 The next day, when they had left Bethany, Jesus was hungry. 13 Seeing in the distance a fig tree in leaf, He went to see if there was any fruit on it. But when He reached it, He found nothing on it except leaves, since it was not the season for figs. 14 Then He said to the tree, “May no one ever eat of your fruit again.” And His disciples heard this statement."
+      ]
+    }
   ],
-  "explanation_lines": [
-    "Jesus has just cursed the fig tree (Mark 11:12-14), and the disciples are marveling that it withered overnight (vv.20-21). The fig tree was not cursed because Jesus had a personal preference about figs. It was a deliberate prophetic act \u2014 a living parable of Israel's spiritual condition and coming judgment. Jesus was acting in complete alignment with what the Father had already purposed. The mountain-moving faith He then describes flows directly from that context \u2014 it is not faith that generates results from personal desire, but faith operating in alignment with God's sovereign purposes, the kind that moves what God has already determined to move.",
+  "context_lines": [
+    "The morning after the entry into Jerusalem, Jesus leaves Bethany hungry. He sees a fig tree in leaf and goes to see whether it has fruit, but finds only leaves. Mark explicitly says it is not the season for figs. Jesus declares that no one will eat its fruit again, and the disciples hear Him.",
     "",
-    "The Greek word translated \"received\" is **\u1f10\u03bb\u03ac\u03b2\u03b5\u03c4\u03b5 (elabete (eh-LAH-beh-teh))** \u2014 and its form is significant. In Greek, this form describes a single, completed action \u2014 something already done and settled, not something still in process. \"Believe that you received them\" is not an instruction to generate enough belief until the result materializes. It is a description of the posture of someone resting in what God has already purposed \u2014 trust already placed, outcome already in His hands.",
+    "The brief scene is the first part of a larger sequence. Jesus next confronts the activity in the temple courts; the following morning, the disciples see the tree withered from its roots ([Mark 11:15–21](https://biblehub.com/bsb/mark/11.htm)). Mark places the temple action between the word spoken to the tree and the discovery of its condition.",
     "",
-    "The honest test of any reading of this verse is the rest of Scripture. If \"all things for which you pray and ask\" were an unconditional promise tied only to the strength of belief, Paul would have been healed of his thorn. Jesus Himself would have had the cup removed in Gethsemane. Neither happened \u2014 and in both cases the denial was purposeful and sovereign."
-  ]
+    "That arrangement encourages readers to consider the scenes together. The tree has leaves but no fruit; the temple has busy religious activity, yet Jesus challenges what it has become. The account works as a visible warning about the difference between outward appearance and a life that answers God's call.",
+    "",
+    "The detail about the season should remain part of the reading. Mark does not explain a precise timetable for buds or identify this tree's variety. The wider prophetic setting helps make sense of the act without requiring a botanical reconstruction to be treated as established fact."
+  ],
+  "common_interpretation_lines": [
+    "Many Christian readings understand the tree as a prophetic act of judgment rather than a lesson about a gardener's expectations. The [USCCB note on Mark 11:12–14](https://bible.usccb.org/bible/mark/11) connects it with the prophets' fig-tree imagery and Jerusalem's failure to receive Jesus' teaching; [Wesley on verse 13](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-mark/) likewise reads it as a warning about unfruitfulness."
+  ],
+  "god_plan_lines": [
+    "The prophets already use fruit and fig trees to describe a people's response to God. [Hosea 9:10,16](https://biblehub.com/bsb/hosea/9.htm) moves from Israel pictured as early figs to a withered root that cannot bear fruit. [Micah 7:1–7](https://biblehub.com/bsb/micah/7.htm) compares the absence of faithful people with searching for fruit and finding none, then turns toward hope in the God who saves. These are supported parallels for reading the tree as more than a passing incident.",
+    "",
+    "The larger concern is the fruitful life God desires. In [John 15:1–8](https://biblehub.com/bsb/john/15.htm), Jesus teaches His followers to remain in Him because they cannot bear fruit apart from Him. Fruit brings glory to the Father. The warning about empty appearance therefore belongs beside the positive calling to a life sustained by Christ, rather than becoming a reason to condemn a people from a distance."
+  ],
+  "current_position_lines": [
+    "In Prayer and Faith, in the discussion of Mark 11:24, we read the fig tree as a deliberate prophetic warning about Israel's spiritual condition and coming judgment. We consider the tree, the temple confrontation, and the later teaching on faith together. The study's conclusion here is that Jesus acts within God's purpose; this is not an example of using faith to produce whatever personal outcome one prefers."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/11.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-mark-eleven-opening-review.md",
+    "position_source_detail": "Prayer and Faith — discussion of Mark11:24, explicit Mark11:12–14 prophetic fig-tree judgment and faith aligned with divine purpose."
+  }
 }

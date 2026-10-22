@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "6:30-44",
+    "label": "Mark 6:30-44",
+    "slug": "mark-6-30-44"
+  },
+  "section_title": "Jesus Feeds the Five Thousand",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "30 Meanwhile, the apostles gathered around Jesus and brought Him news of all they had done and taught. 31 And He said to them, “Come with Me privately to a solitary place, and let us rest for a while.” For many people were coming and going, and they did not even have time to eat. 32 So they went away in a boat by themselves to a solitary place. 33 But many people saw them leaving and recognized them. They ran together on foot from all the towns and arrived before them. 34 When Jesus stepped ashore and saw a large crowd, He had compassion on them, because they were like sheep without a shepherd. And He began to teach them many things.",
+        "35 By now the hour was already late. So the disciples came to Jesus and said, “This is a desolate place, and the hour is already late. 36 Dismiss the crowd so they can go to the surrounding countryside and villages and buy themselves something to eat.” 37 But Jesus told them, “You give them something to eat.” They asked Him, “Should we go out and spend two hundred denarii to give all of them bread to eat?” 38 “Go and see how many loaves you have,” He told them. And after checking, they said, “Five—and two fish.”",
+        "39 Then Jesus directed them to have the people sit in groups on the green grass. 40 So they sat down in groups of hundreds and fifties. 41 Taking the five loaves and the two fish and looking up to heaven, Jesus spoke a blessing and broke the loaves. Then He gave them to His disciples to set before the people. And He divided the two fish among them all. 42 They all ate and were satisfied, 43 and the disciples picked up twelve basketfuls of broken pieces of bread and fish. 44 And there were five thousand men who had eaten the loaves."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The Twelve return and tell Jesus what they have done and taught. He calls them away to rest because the crowds have left them no time even to eat. Their need for rest is real, yet the people recognize them and reach the destination ahead of the boat.",
+    "",
+    "Jesus responds to the crowd with compassion. The Greek verb [σπλαγχνίζομαι (splagchnizomai, splangkh-NEE-zoh-my)](https://biblehub.com/greek/4697.htm) describes being deeply moved with pity. Here that concern becomes action: He teaches people who need a shepherd and then provides their meal.",
+    "",
+    "Late in the day, the disciples suggest sending the people to buy food. Jesus tells the disciples to feed them. Their reply about two hundred denarii shows the size of the problem. A denarius is the day's pay agreed with workers in [Matthew 20:1–2](https://biblehub.com/bsb/matthew/20.htm), so they are speaking about a substantial cost, not a small purchase.",
+    "",
+    "There are five loaves and two fish. Jesus seats the people in groups, looks to heaven, blesses the food, and gives it through the disciples. Everyone eats enough, and twelve baskets of bread and fish remain. Mark counts five thousand men; [Matthew 14:21](https://biblehub.com/bsb/matthew/14.htm) adds that women and children were also present, without giving a total for them.",
+    "",
+    "The [parallel account in John 6:4–15](https://biblehub.com/bsb/john/6.htm) places this near Passover, identifies a boy with barley loaves, and says Jesus was testing Philip. Those details come from John. Mark emphasizes Jesus' compassion, the disciples' involvement, and a provision far beyond what they could supply."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand this as Jesus' miraculous provision for the crowd and a lesson in depending on Him while serving others. [Calvin's discussion of Mark 6:30–44](https://biblehub.com/commentaries/calvin/mark/6.htm) emphasizes His care for both people's teaching and their bodily needs; the [USCCB notes](https://bible.usccb.org/bible/mark/6) likewise describe Him as the faithful shepherd who feeds His people."
+  ],
+  "god_plan_lines": [
+    "The shepherd language has a history. In [Numbers 27:15–18](https://biblehub.com/bsb/numbers/27.htm), Moses asks for a leader so God's people will not be sheep without a shepherd. In [Ezekiel 34:1–16,23–24](https://biblehub.com/bsb/ezekiel/34.htm), God condemns leaders who feed themselves, promises to care for His flock, and promises one shepherd from David's line. Jesus' teaching and feeding provide a strong parallel to that promised care. The green grass also recalls the restful provision of [Psalm 23](https://biblehub.com/bsb/psalms/23.htm); Mark does not announce a direct quotation of the psalm.",
+    "",
+    "There is another clear parallel in [2 Kings 4:42–44](https://biblehub.com/bsb/2_kings/4.htm): Elisha tells a servant to feed people with an apparently inadequate amount of bread, and food remains after they eat. Here Jesus feeds a much larger crowd from much less. The comparison helps us see the scale of His provision.",
+    "",
+    "[John 6:26–35](https://biblehub.com/bsb/john/6.htm) then takes the meal beyond full stomachs. Jesus directs people toward the life the Father gives through Him and identifies Himself as the bread of life. The gift points people to the Giver, whose purpose reaches beyond one day's hunger."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/6.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-six-closing-review.md"
+  }
+}

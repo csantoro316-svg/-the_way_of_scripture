@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "2:8-14",
+    "label": "Luke 2:8-14",
+    "slug": "luke-2-8-14"
+  },
+  "section_title": "What good news do the shepherds hear?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "8 And there were shepherds residing in the fields nearby, keeping watch over their flocks by night. 9 Just then an angel of the Lord stood before them, and the glory of the Lord shone around them, and they were terrified. 10 But the angel said to them, “Do not be afraid! For behold, I bring you good news of great joy that will be for all the people: 11 Today in the city of David a Savior has been born to you. He is Christ the Lord! 12 And this will be a sign to you: You will find a baby wrapped in swaddling cloths and lying in a manger.”",
+        "13 And suddenly there appeared with the angel a great multitude of the heavenly host, praising God and saying: 14 “Glory to God in the highest, and on earth peace to men on whom His favor rests!”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The scene moves from the birth to shepherds watching their flocks at night. An angel appears, God’s glory shines around them, and they are afraid. The angel tells them not to fear and announces a birth that brings great joy.",
+    "",
+    "The child is identified as Savior, Christ, and Lord. Christ is a title: Χριστός, Christos (khris-TOSS), means Anointed One. The announcement identifies the baby as the promised Messiah, not merely another child born in David’s town. ([Thayer’s lexicon](https://biblehub.com/greek/5547.htm))",
+    "",
+    "The sign is concrete and unexpected: a baby wrapped in cloths and lying in a feeding trough. A multitude of the heavenly host then praises God. Luke places the greatness of the child’s identity beside the ordinary, lowly circumstances in which the shepherds will find Him."
+  ],
+  "common_interpretation_lines": [
+    "Christian traditions commonly understand the announcement as good news of God’s promised Savior, with heavenly praise declaring God’s glory and the peace His favor brings. The shepherds receive the news of a King whose arrival is marked by a manger, showing God’s attention to people outside the centers of power. ([USCCB notes on Luke 2:8–14](https://bible.usccb.org/bible/luke/2); [Wesley on Luke 2:11–14](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))"
+  ],
+  "god_plan_lines": [
+    "The peace announced here reaches its saving depth in Jesus’ work. Paul connects peace with God to being made right with Him through faith, and explains reconciliation through the Son’s death and life. The birth begins the earthly story of the Savior through whom that peace comes. ([Romans 5:1–11](https://biblehub.com/bsb/romans/5.htm))",
+    "",
+    "Ephesians also describes Christ making peace between Jews and Gentiles and bringing both near to the Father through the cross and the Spirit. The good news gathers people into a shared household with God. This develops the promise of peace beyond an expectation that every conflict on earth immediately ends at the birth. ([Ephesians 2:11–22](https://biblehub.com/bsb/ephesians/2.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-two-opening-review.md"
+  }
+}

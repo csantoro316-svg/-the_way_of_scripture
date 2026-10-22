@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "21:18-22",
+    "label": "Matthew 21:18-22",
+    "slug": "matthew-21-18-22"
+  },
+  "section_title": "The Fruitless Fig Tree and Trusting Prayer",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "18 In the morning, as Jesus was returning to the city, He was hungry. 19 Seeing a fig tree by the road, He went up to it but found nothing on it except leaves. “May you never bear fruit again!” He said. And immediately the tree withered.",
+        "20 When the disciples saw this, they marveled and asked, “How did the fig tree wither so quickly?” 21 “Truly I tell you,” Jesus replied, “if you have faith and do not doubt, not only will you do what was done to the fig tree, but even if you say to this mountain, ‘Be lifted up and thrown into the sea,’ it will happen. 22 If you believe, you will receive whatever you ask for in prayer.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Returning to the city in the morning, Jesus is hungry. He approaches a fig tree but finds only leaves. He declares that it will never bear fruit again, and it withers. The disciples are amazed and ask how this happened so quickly.",
+    "",
+    "Jesus responds by teaching about faith without doubt, a mountain being lifted into the sea, and believing prayer. The disciples' attention to the tree's sudden withering becomes an opportunity to teach them about trusting God's power.",
+    "",
+    "The surrounding chapter repeatedly raises the question of fruit: the tree has none, one son actually goes to work, and the vineyard's tenants refuse the owner his harvest. [Mark 11:12–25](https://biblehub.com/bsb/mark/11.htm) gives the related fig-tree account around the temple scene, with the disciples seeing the withered tree the next morning. In Mark, Jesus expressly directs their faith toward God."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read the fruitless tree as a warning about a life that does not bear the fruit God seeks, alongside a lesson in trusting Him in prayer. [Wesley on 21:20–21](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) draws out both fruitfulness and faith; the [US Catholic bishops' note on 21:18–22](https://bible.usccb.org/bible/matthew/21) understands the act as a warning of judgment on fruitlessness and an example of the power of believing prayer."
+  ],
+  "god_plan_lines": [
+    "The fruit God seeks comes through a living relationship with Christ. [John 15:1–8](https://biblehub.com/bsb/john/15.htm) describes Him as the vine and His followers as branches. Remaining in Him leads to fruit that glorifies the Father. The warning about barrenness belongs beside that positive purpose: God forms people whose lives bear fruit through His Son.",
+    "",
+    "Prayer is part of that relationship. John 15 joins remaining in Jesus and His words with asking, and [1 John 5:14–15](https://biblehub.com/bsb/1_john/5.htm) describes confidence in asking according to God's will. The larger picture brings faith, prayer, and fruitful life together around Him."
+  ],
+  "current_position_lines": [
+    "Prayer and Faith discusses Mark's account of this same fig-tree event. It reads the act as a warning that Israel's outward religious life was not bearing the fruit God sought, and that judgment was coming. The study understands the mountain-moving teaching as faith working in line with God's purposes.",
+    "",
+    "The study therefore reads believing prayer as trust in God and what He purposes to do. It does not treat confidence in a desired result as a way to make that result happen. Its fuller explanation appears in Prayer and Faith."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/21.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-one-review.md",
+    "position_source_detail": "Prayer and Faith, Mark 11:24 section, the same fig-tree event and faith/prayer teaching (content/studies/prayer_and_faith.md:358–371)."
+  }
+}

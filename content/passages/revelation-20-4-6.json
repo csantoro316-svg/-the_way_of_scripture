@@ -1,0 +1,69 @@
+{
+  "reference": {
+    "book": "Revelation",
+    "citation": "20:4-6",
+    "label": "Revelation 20:4-6",
+    "slug": "revelation-20-4-6"
+  },
+  "section_title": "Who shares in the first resurrection?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "4 Then I saw the thrones, and those seated on them had been given authority to judge. And I saw the souls of those who had been beheaded for their testimony of Jesus and for the word of God, and those who had not worshiped the beast or its image and had not received its mark on their foreheads or hands. And they came to life and reigned with Christ for a thousand years.",
+        "5 The rest of the dead did not come back to life until the thousand years were complete. This is the first resurrection. 6 Blessed and holy are those who share in the first resurrection! The second death has no power over them, but they will be priests of God and of Christ and will reign with Him for a thousand years."
+      ]
+    }
+  ],
+  "context_lines": [
+    "John sees thrones and people given authority to judge. He then sees the souls of those killed for their testimony about Jesus and God’s word, along with those who refused the beast’s worship and mark. They come to life and reign with Christ for a thousand years.",
+    "",
+    "The vision reverses the apparent outcome of the beast’s persecution. Those who suffered for faithfulness now share in Christ’s reign. John distinguishes their coming to life from the rest of the dead, who do not come back to life until the thousand years are complete.",
+    "",
+    "He calls this the first resurrection and pronounces those who share in it blessed and holy. The second death has no power over them. They will be priests of God and of Christ and reign with Him. Later in the chapter, verse 14 identifies the second death with the lake of fire."
+  ],
+  "common_interpretation_lines": [
+    "The central difference is whether the first resurrection is a future bodily raising or the life believers already receive in Christ. [Walvoord](https://swartzentrover.com/cotor/E-Books/holiness/Walvoord/Revelation/Rev_20.htm) understands it as bodily resurrection before an earthly thousand-year reign. He includes it within the raising of the righteous, with different groups raised at different points before that reign.",
+    "",
+    "[Augustine, City of God 20.6–10](https://www.newadvent.org/fathers/120120.htm), understands the first resurrection as passing from death in sin to life in Christ. He also includes the departed faithful sharing in Christ’s reign while awaiting the resurrection of their bodies. The [USCCB notes](https://bible.usccb.org/bible/revelation/20) connect this reign with the life God’s people receive through Christ’s resurrection and baptism.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-revelation-of-jesus-christ/) understands the martyrs’ coming to life as their souls and bodies being reunited, and locates their reign in heaven. He proposes two distinct thousand-year periods, with Satan’s binding beginning and ending earlier than the martyrs’ reign. That is his particular reading, rather than a timetable shared by every Wesleyan Christian.",
+    "",
+    "Across these readings, the blessing honors faithfulness to Christ in the face of the beast. The assurance that the second death has no power over those who share in this resurrection is central to the passage. The location and sequence of their reign remain points of interpretation."
+  ],
+  "god_plan_lines": [
+    "The thrones and judgment recall [Daniel 7:9–14 and 21–22](https://biblehub.com/bsb/daniel/7.htm). There, a beastly power wages war against God’s people until judgment is given in their favor and they receive the kingdom. Revelation develops that reversal around Jesus and those who bear witness to Him. The promise in [2 Timothy 2:11–13](https://biblehub.com/bsb/2_timothy/2.htm) likewise joins endurance with reigning alongside Christ.",
+    "",
+    "The resurrection language also belongs with [Daniel 12:1–3](https://biblehub.com/bsb/daniel/12.htm) and [John 5:24–29](https://biblehub.com/bsb/john/5.htm). Daniel speaks of the dead awakening; Jesus speaks both of a present passage from death to life and of those in their graves coming out at His voice. These passages help explain the questions readers bring to Revelation without by themselves resolving every interval in its sequence.",
+    "",
+    "[1 Corinthians 15:20–28](https://biblehub.com/bsb/1_corinthians/15.htm) places the resurrection of those who belong to Christ within His victory over every enemy, including death. That larger hope gives this scene its weight: the beast’s violence cannot determine the lasting future of Christ’s people."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Returning to the Word",
+      "href": "../studies/returning-to-the-word.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/revelation/20.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-revelation-twenty-opening-review.md"
+  }
+}

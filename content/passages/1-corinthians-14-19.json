@@ -5,11 +5,53 @@
     "label": "1 Corinthians 14:19",
     "slug": "1-corinthians-14-19"
   },
-  "versions": [],
-  "context_lines": [
-    "In **1 Corinthians 14**, Paul is correcting disorder in the gathered church. The whole chapter is governed by intelligibility, order, and edification, so individual instructions in the chapter must be read within that larger concern for building up the body."
+  "section_title": "Why would Paul prefer five clear words?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "19 But in the church, I would rather speak five coherent words to instruct others than ten thousand words in a tongue."
+      ]
+    }
   ],
-  "explanation_lines": [
-    "**The underlying danger** is this: we have mistaken performance for presence, goosebumps for godliness, and replaced reverence with noise. Worship has been redefined around what it does to me and how it makes me feel, rather than what I offer in reverence to God."
-  ]
+  "context_lines": [
+    "This sentence summarizes Paul’s discussion of prayer, interpretation and the listener’s need to understand. It belongs within [1 Corinthians 14:13–19](https://thewayofscripture.com/library/passages.html?passage=1-corinthians-14-13-19), where he wants prayer and singing to involve both spirit and mind.",
+    "",
+    "Paul is not rejecting tongues out of personal dislike: the previous verse thanks God that he speaks in tongues more than the Corinthians. His comparison is about what serves a church gathering. Five words that instruct others accomplish something that ten thousand words they cannot understand do not.",
+    "",
+    "The numbers make a strong contrast, rather than setting a five-word limit on teaching. The test is whether people can receive the meaning and be helped."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as giving understandable instruction priority over uninterpreted speech in church. [Wesley’s note on verse 19](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) stresses both understanding oneself and being understood by others. The [USCCB note on verses 13–19](https://bible.usccb.org/bible/1corinthians/14) likewise emphasizes interpretation as the way a tongue can benefit the congregation."
+  ],
+  "god_plan_lines": [
+    "[Colossians 3:16–17](https://biblehub.com/bsb/colossians/3.htm) describes Christ’s word dwelling richly among His people through teaching, songs and thanksgiving to the Father through Jesus. Their shared life includes receiving truth from one another.",
+    "",
+    "Paul’s preference serves that purpose. Clear words give another person something to understand, respond to and live by, helping a community grow together under Christ."
+  ],
+  "current_position_lines": [
+    "In [Worship as the Early Church Knew It](https://thewayofscripture.com/studies/worship.html), we use this verse as a standard for understandable speech in the gathered church. A contribution should help other people grow in knowledge, faith or love. Its value cannot be measured mainly by the speaker’s performance or the intensity of the feelings it produces."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/14.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-fourteen-opening-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It — content/studies/worship.md lines 435–444, The Edification Standard, direct 1 Corinthians 14:19 interpretation; existing legacy excerpt also drawn from this study."
+  }
 }

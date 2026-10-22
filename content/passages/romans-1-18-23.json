@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "1:18-23",
+    "label": "Romans 1:18-23",
+    "slug": "romans-1-18-23"
+  },
+  "section_title": "What happens when people refuse to honor the God creation reveals?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "18 The wrath of God is being revealed from heaven against all the godlessness and wickedness of men who suppress the truth by their wickedness. 19 For what may be known about God is plain to them, because God has made it plain to them. 20 For since the creation of the world God’s invisible qualities, His eternal power and divine nature, have been clearly seen, being understood from His workmanship, so that men are without excuse.",
+        "21 For although they knew God, they neither glorified Him as God nor gave thanks to Him, but they became futile in their thinking and darkened in their foolish hearts. 22 Although they claimed to be wise, they became fools, 23 and exchanged the glory of the immortal God for images of mortal man and birds and animals and reptiles."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After announcing God’s saving power in the gospel, Paul describes the problem that makes salvation necessary. God’s wrath is His judgment against godlessness and wrongdoing. Paul speaks of it as being revealed, rather than describing only a distant event that has no bearing on the present.",
+    "",
+    "The charge is that people suppress truth God has made plain. The verb behind suppress is katechō (kah-TEH-khoh), κατέχω. It can mean holding something back or restraining it; [Thayer’s entry identifies that use in verse 18](https://biblehub.com/greek/2722.htm). Paul’s concern here is a refusal of what God has shown, not simply the absence of information.",
+    "",
+    "Creation makes God’s eternal power and divine nature known through what He has made. Yet knowledge is not met with honor and thanks. Thinking becomes futile, hearts become darkened, and claims to wisdom lead to exchanging God’s glory for images of created beings.",
+    "",
+    "This passage begins the account of sin that continues through chapter 3. The next chapter turns toward the person who condemns others while doing wrong as well. Paul is not giving that reader a place above the people being described."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this passage as teaching that creation bears witness to its Maker and that people are accountable for refusing to honor Him. This is often called natural revelation: knowledge of God made available through the world He created. It should be distinguished from the gospel about Jesus that Paul has just introduced."
+  ],
+  "god_plan_lines": [
+    "In [Acts 17:24–31](https://biblehub.com/bsb/acts/17.htm), Paul likewise points people to the Creator who gives life and is not represented by objects people make. That speech leads toward repentance, judgment and the risen Jesus. The witness of creation belongs within a larger invitation to turn toward the living God.",
+    "",
+    "The exchange of God’s glory for an image also recalls [Psalm 106:19–23](https://biblehub.com/bsb/psalms/106.htm), which describes Israel’s worship of the calf. This is a parallel in the Scriptures, not a claim that Paul explicitly quotes that psalm here. It shows that this failure is not confined to people outside Israel. God’s people also need the mercy and correction the biblical story describes."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/1.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-one-complete-review.md"
+  }
+}

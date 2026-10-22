@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "15:16-22",
+    "label": "1 Kings 15:16-22",
+    "slug": "1-kings-15-16-22"
+  },
+  "section_title": "Does Asa’s successful strategy also show faithful trust?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "16 Now there was war between Asa and Baasha king of Israel throughout their days. 17 Baasha king of Israel went to war against Judah and fortified Ramah to prevent anyone from leaving or entering the territory of Asa king of Judah. 18 So Asa withdrew all the silver and gold that remained in the treasuries of the house of the LORD and the royal palace. He entrusted it to his servants and sent them with this message to Ben-hadad son of Tabrimmon, the son of Hezion, the king of Aram, who was ruling in Damascus: 19 “Let there be a treaty between me and you as there was between my father and your father. See, I have sent you a gift of silver and gold. Now go and break your treaty with Baasha king of Israel, so that he will withdraw from me.”",
+        "20 And Ben-hadad listened to King Asa and sent the commanders of his armies against the cities of Israel, conquering Ijon, Dan, Abel-beth-maacah, and the whole land of Naphtali, including the region of Chinnereth. 21 When Baasha learned of this, he stopped fortifying Ramah and withdrew to Tirzah. 22 Then King Asa summoned all the men of Judah, with no exceptions, and they carried away the stones of Ramah and the timbers Baasha had used for building. And with these materials King Asa built up Geba of Benjamin, as well as Mizpah."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Baasha king of Israel fortifies Ramah to restrict movement into and out of Asa’s territory. Asa responds by sending silver and gold from the temple and palace treasuries to Ben-hadad king of Aram.",
+    "",
+    "He asks Ben-hadad to break his treaty with Baasha and attack Israel. The plan works: the attack draws Baasha away from Ramah. Asa then summons Judah’s men to remove its building materials and uses them to strengthen Geba and Mizpah.",
+    "",
+    "The episode records an effective political and military response. The parallel account asks a further question about the trust behind it."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) and [Gill](https://biblehub.com/commentaries/gill/1_kings/15.htm) criticize the use of dedicated treasures to purchase the breaking of another treaty. [Henry](https://biblehub.com/commentaries/mhc/1_kings/15.htm) also sees the alliance as showing a failure to trust the LORD.",
+    "",
+    "This concern is explicit in [2 Chronicles 16:7–9](https://biblehub.com/bsb/2_chronicles/16.htm), where Hanani confronts Asa for relying on Aram instead of the God who had helped him before. Immediate success does not settle the question of whether the means were faithful."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/15.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-fifteen-review.md"
+  }
+}

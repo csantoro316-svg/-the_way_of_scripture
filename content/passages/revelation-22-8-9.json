@@ -5,27 +5,55 @@
     "label": "Revelation 22:8-9",
     "slug": "revelation-22-8-9"
   },
-  "section_title": "Do Not Worship the Angel",
-  "versions": [],
+  "section_title": "Why does the angel refuse John’s worship?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "8 And I, John, am the one who heard and saw these things. And when I had heard and seen them, I fell down to worship at the feet of the angel who had shown me these things. 9 But he said to me, “Do not do that! I am a fellow servant with you and your brothers the prophets, and with those who keep the words of this book. Worship God!”"
+      ]
+    }
+  ],
   "context_lines": [
-    "Revelation 22:8-9 should be read within the flow of its chapter and the larger argument of Revelation."
+    "John identifies himself as the one who heard and saw these things. He falls at the feet of the angel who showed them to him, but the angel immediately refuses his worship.",
+    "",
+    "The angel calls himself a fellow servant with John, the prophets and those who keep the book’s words. His command is direct: worship God. The messenger shares the work of service; he does not receive the worship that belongs to the One whose message he brings."
   ],
   "common_interpretation_lines": [
-    "**He receives worship without redirecting it.** When ordinary angels are worshipped in Scripture, they immediately correct it \u2014 \"Do not do that; I am a fellow servant\" (Revelation 22:8-9). The *Malak Yahweh* never does this. He accepts the homage.",
+    "The central reading is shared: the angel refuses worship and directs John to God. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-revelation-of-jesus-christ/) connects the passage closely with the similar scene in Revelation 19:10, and the [USCCB notes](https://bible.usccb.org/bible/revelation/22) also cross-reference that scene. The instruction gives God the worship while placing the angel alongside the other servants."
+  ],
+  "god_plan_lines": [
+    "The scene follows the same pattern as [Revelation 19:10](https://biblehub.com/bsb/revelation/19.htm), where the angel also refuses worship and points John toward God. Its repetition keeps the reader’s attention on the source of the revelation.",
     "",
-    "**He is identified as God by the text itself.** In multiple accounts, the narrative begins with the *Malak Yahweh* appearing and ends with the text simply calling him God \u2014 no transition, no explanation, as if they are one and the same.",
-    "",
-    "**Those who see him fear death for having seen God.** This is the consistent response of those who encounter him \u2014 not \"I have seen a messenger\" but \"I have seen God and I will die\" (Judges 13:22). No one in Scripture says this after encountering an ordinary angel."
+    "Jesus’ response to temptation in [Matthew 4:8–10](https://biblehub.com/bsb/matthew/4.htm) likewise directs worship and service to the Lord God alone. The authority of a messenger never becomes a reason to replace God as the One worshiped."
   ],
   "current_position_lines": [
-    "This site's current position is that **Revelation 22:8-9** supplies an important contrast for the Angel-of-the-LORD passages. Ordinary angels reject worship immediately and identify themselves as fellow servants.",
-    "",
-    "That contrast matters because the Angel of the LORD passages do not read that way. The difference is one of the reasons this site concludes those encounters are not ordinary angelic appearances."
+    "Our [study Who is The Angel of the Lord?](https://thewayofscripture.com/studies/angel-of-the-lord.html) uses this passage to distinguish ordinary angels from the Angel-of-the-LORD encounters it examines. Here the angel refuses worship immediately and identifies himself as a fellow servant. We understand his correction plainly: worship belongs to God."
   ],
   "deeper_study": [
     {
       "title": "Who is The Angel of the Lord?",
       "href": "../studies/angel-of-the-lord.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/revelation/22.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-revelation-twenty-two-review.md",
+    "position_source_detail": "Who is The Angel of the Lord? — content/studies/angel_of_the_lord.md:25–29, directly citing Revelation22:8–9. Retains the existing page’s ordinary-angel contrast; no new position on other angel identities."
+  }
 }

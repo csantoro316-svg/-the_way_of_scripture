@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "8:27-30",
+    "label": "Mark 8:27-30",
+    "slug": "mark-8-27-30"
+  },
+  "section_title": "Who Do You Say Jesus Is?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "27 Then Jesus and His disciples went on to the villages around Caesarea Philippi. On the way, He questioned His disciples: “Who do people say I am?” 28 They replied, “Some say John the Baptist; others say Elijah; and still others, one of the prophets.” 29 “But what about you?” Jesus asked. “Who do you say I am?” Peter answered, “You are the Christ.” 30 And Jesus warned them not to tell anyone about Him."
+      ]
+    }
+  ],
+  "context_lines": [
+    "On the way to the villages around Caesarea Philippi, Jesus asks His disciples what people are saying about Him. They repeat explanations already heard in [Mark 6:14–16](https://biblehub.com/bsb/mark/6.htm): John the Baptist, Elijah, or one of the prophets. Those answers recognize something remarkable but do not reach Peter's confession.",
+    "",
+    "Jesus then puts the question directly to the disciples. Peter identifies Him as the Christ. The title [χριστός (Christos, khris-TOSS)](https://biblehub.com/greek/5547.htm) means anointed and is used for the promised Messiah. Peter is naming who Jesus is, not supplying a family surname.",
+    "",
+    "Jesus warns them not to tell anyone about Him. The following verses immediately show why the title still needs explanation: Peter resists the announcement that this Messiah must suffer, be killed, and rise again. Correctly naming Jesus has not yet brought full understanding of His mission.",
+    "",
+    "[Matthew 16:13–20](https://biblehub.com/bsb/matthew/16.htm) records a fuller confession and Jesus' reply about the Father's revelation, Peter, and the church. Mark concentrates on the direct question, Peter's answer, and the instruction to keep silent. The debate about Matthew's rock saying belongs with that fuller passage."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand Peter's confession as a turning point: Jesus is the promised Messiah, and the disciples must now learn what His mission involves. [Calvin on this confession](https://biblehub.com/commentaries/calvin/mark/8.htm) emphasizes what the title includes in God's saving work; the [USCCB note on Mark 8:27–30](https://bible.usccb.org/bible/mark/8) likewise treats this as a turning point whose meaning must be understood beyond popular expectations."
+  ],
+  "god_plan_lines": [
+    "The identity confessed here will be joined to Jesus' suffering and glory. When later asked whether He is the Christ, Jesus answers by speaking of the Son of Man at God's right hand and coming with the clouds ([Mark 14:61–62](https://biblehub.com/bsb/mark/14.htm)). That language draws on the figure receiving lasting dominion in [Daniel 7:13–14](https://biblehub.com/bsb/daniel/7.htm). Mark's story develops what the confession means through Jesus' own words and the path He takes.",
+    "",
+    "After the resurrection, Peter announces that the crucified Jesus has been raised and exalted and is Lord and Christ ([Acts 2:32–36](https://biblehub.com/bsb/acts/2.htm)). The early confession leads toward that fuller public witness. Jesus' identity cannot be separated from His death, resurrection, and reign."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/8.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-eight-closing-review.md"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Colossians",
+    "citation": "1:1-8",
+    "label": "Colossians 1:1-8",
+    "slug": "colossians-1-1-8"
+  },
+  "section_title": "What does Paul thank God for in this church?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother, 2 To the saints and faithful brothers in Christ at Colossae: Grace and peace to you from God our Father.",
+        "3 We always thank God, the Father of our Lord Jesus Christ, when we pray for you, 4 because we have heard about your faith in Christ Jesus and your love for all the saints— 5 the faith and love proceeding from the hope stored up for you in heaven, of which you have already heard in the word of truth, the gospel 6 that has come to you. All over the world this gospel is bearing fruit and growing, just as it has been doing among you since the day you heard it and truly understood the grace of God.",
+        "7 You learned it from Epaphras, our beloved fellow servant, who is a faithful minister of Christ on our behalf, 8 and who also informed us of your love in the Spirit."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul opens as an apostle of Christ Jesus by God’s will, with Timothy named alongside him. He addresses the believers at Colossae as saints and faithful brothers in Christ and wishes them grace and peace from God the Father.",
+    "",
+    "His thanksgiving centers on their faith in Christ, love for the saints and hope stored up in heaven. This hope came to them through the gospel, which he calls the word of truth.",
+    "",
+    "The gospel is bearing fruit among them as it is elsewhere. Their community belongs to a larger work of God’s grace; the message they received is not a private discovery reserved for their city.",
+    "",
+    "They learned from Epaphras, whom Paul commends as a faithful minister of Christ. His report of their love in the Spirit provides the immediate setting for the prayer that follows."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this opening as thanksgiving for faith, love and hope produced through the gospel. [Wesley’s notes on verses 2–8](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-colossians/) connect their love with the Spirit’s work. The [USCCB notes](https://bible.usccb.org/bible/colossians/1) likewise emphasize the report of their faithful response and the growth of the gospel beyond their own community."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 3:5–6](https://biblehub.com/bsb/ephesians/3.htm) describes Gentiles sharing the promise in Christ through the gospel as members of the same body. The spread of the message to this community belongs within that wider welcome.",
+    "",
+    "The hope Paul thanks God for also points forward. [Colossians 3:1–4](https://biblehub.com/bsb/colossians/3.htm) connects their life with the risen Christ and the promise of appearing with Him in glory. The gospel’s present fruit is joined to a future held in Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/colossians/1.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-colossians-one-opening-review.md"
+  }
+}

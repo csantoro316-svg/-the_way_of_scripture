@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "2 Corinthians",
+    "citation": "2:5-11",
+    "label": "2 Corinthians 2:5-11",
+    "slug": "2-corinthians-2-5-11"
+  },
+  "section_title": "What should happen after discipline has done its work?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 Now if anyone has caused grief, he has not grieved me but all of you—to some degree, not to overstate it. 6 The punishment imposed on him by the majority is sufficient for him. 7 So instead, you ought to forgive and comfort him, so that he will not be overwhelmed by excessive sorrow. 8 Therefore I urge you to reaffirm your love for him.",
+        "9 My purpose in writing you was to see if you would stand the test and be obedient in everything. 10 If you forgive anyone, I also forgive him. And if I have forgiven anything, I have forgiven it in the presence of Christ for your sake, 11 in order that Satan should not outwit us. For we are not unaware of his schemes."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul turns to a person who has caused grief within the congregation. He avoids naming him or spelling out the offense. The harm has touched more than Paul alone; the community has also been affected.",
+    "",
+    "The punishment imposed by the majority is now sufficient. Paul directs them toward forgiveness, comfort and a renewed expression of love, so that the person is not swallowed up by excessive sorrow. Continuing to press the punishment is not the response he asks for.",
+    "",
+    "He joins the congregation in forgiveness, acting in the presence of Christ for their sake. The shared response is part of their obedience. Paul warns that Satan must not gain an advantage through the situation.",
+    "",
+    "The direction is clear even though some background remains unknown: the congregation must move toward restoration. This paragraph does not describe every practical consequence of an offense or settle whether a particular person should return to a leadership role."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a call to restore someone rather than let discipline become endless rejection. The person’s identity is less certain. [Wesley’s note on verse 11](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-the-corinthians/) connects him with the man earlier delivered to Satan in 1 Corinthians 5. The [USCCB note on verses 5–11](https://bible.usccb.org/bible/2corinthians/2) leaves the offense unclear and reports the possibility that it involved rejection of Paul’s authority. Those explanations should not be presented as though Paul names the person here."
+  ],
+  "god_plan_lines": [
+    "[Colossians 3:12–15](https://biblehub.com/bsb/colossians/3.htm) calls God’s chosen people to compassion, patience and forgiveness as the Lord forgave them. It joins that life with love and the peace of Christ within one body.",
+    "",
+    "Restoring a brother or sister expresses something already received from the Lord. God’s work of gathering a people in Christ is meant to shape how they treat one another when relationships have been damaged. Forgiveness belongs to that shared life, rather than being a favor reserved for people who have never failed."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_corinthians/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-corinthians-two-review.md"
+  }
+}

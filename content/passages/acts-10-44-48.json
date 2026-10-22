@@ -5,16 +5,57 @@
     "label": "Acts 10:44-48",
     "slug": "acts-10-44-48"
   },
+  "section_title": "Why can Peter no longer withhold baptism from these Gentiles?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"While Peter was still speaking these words, the Holy Spirit fell upon all those who were listening to the message. And all the circumcised believers who came with Peter were amazed, because the gift of the Holy Spirit had been poured out on the Gentiles also. For they were hearing them speaking with tongues and exalting God. Then Peter answered, 'Surely no one can refuse the water for these to be baptized who have received the Holy Spirit just as we did, can he?' And he ordered them to be baptized in the name of Jesus Christ. Then they asked him to stay on for some days.\""
+      "label": "BSB",
+      "paragraphs": [
+        "44 While Peter was still speaking these words, the Holy Spirit fell upon all who heard his message. 45 All the circumcised believers who had accompanied Peter were astounded that the gift of the Holy Spirit had been poured out even on the Gentiles. 46 For they heard them speaking in tongues and exalting God. Then Peter said, 47 “Can anyone withhold the water to baptize these people? They have received the Holy Spirit just as we have!” 48 So he ordered that they be baptized in the name of Jesus Christ. Then they asked him to stay for a few days."
+      ]
     }
   ],
   "context_lines": [
-    "In **Acts 10**, Luke records the opening of the gospel to Gentiles through Peter's encounter with Cornelius. The chapter's events show God's initiative, the Spirit's freedom, and the church's need to recognize that God is receiving those who believe, not merely those who fit prior expectations."
+    "The Holy Spirit comes upon the hearers while Peter is still speaking. The circumcised believers who have come with him are astonished that the gift has been poured out on Gentiles. They hear them speaking in tongues and exalting God.",
+    "",
+    "Peter draws a practical conclusion from what God has done: these people have received the Spirit just as the Jewish believers have, so water cannot be withheld from them. He orders their baptism in Jesus Christ’s name. They then ask him to remain with them for a few days.",
+    "",
+    "The sequence matters. The Spirit is given before water baptism in this account, and baptism still follows as a command to obey. The Gentile believers are not asked to become Jews first."
   ],
-  "explanation_lines": [
-    "Cornelius and his household received the Holy Spirit before baptism. Peter's response is telling \u2014 he recognizes the Spirit has already come and proceeds to baptize. This passage directly challenges any reading that makes baptism the moment of the Spirit's arrival."
-  ]
+  "common_interpretation_lines": [
+    "Christians agree that the gift of the Spirit here precedes water baptism and that Peter nevertheless commands baptism. They explain the relationship between this event, baptism and other believers’ experiences in different ways.",
+    "",
+    "The Reformed [Westminster Confession, chapter 28, paragraphs 5–6](https://www.opc.org/wcf.html), denies that salvation is inseparably tied to receiving water baptism or that the grace it promises must be given at that precise moment. The Catholic Church’s [Catechism, paragraph 1257](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_1/vi_the_necessity_of_baptism.index.html), teaches the necessity of baptism while explicitly saying God Himself is not bound by the sacraments.",
+    "",
+    "The Assemblies of God’s [Statement of Fundamental Truths, sections 7–8](https://ag.org/Beliefs/Statement-of-Fundamental-Truths), places speaking in tongues within its teaching about baptism in the Spirit, distinct from the beginning of Christian life and giving power for service. In this account, Luke specifically names tongues and gives the Jewish witnesses’ astonishment at the Gentiles’ reception of the same gift."
+  ],
+  "god_plan_lines": [
+    "[Acts 11:15–18](https://biblehub.com/bsb/acts/11.htm) explains how Peter later defends the event. He remembers Jesus’ promise of baptism in the Holy Spirit and asks who he was to hinder God. The others then glorify God for granting Gentiles repentance leading to life.",
+    "",
+    "The significance reaches beyond a private experience for Cornelius. The same divine gift provides public grounds for welcoming Gentiles into the community. [Acts 15:8–11](https://biblehub.com/bsb/acts/15.htm) returns to this evidence when the church faces the question of what must be required of Gentile believers."
+  ],
+  "current_position_lines": [
+    "Baptism directly examines Cornelius and his household receiving the Holy Spirit before water baptism. The study therefore rejects a fixed sequence in which nothing spiritual can happen until the water is applied. It also keeps Peter’s command in view: receiving the Spirit is a reason to proceed with baptism, rather than a reason to leave it out."
+  ],
+  "deeper_study": [
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/10.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-acts-ten-review.md",
+    "position_source_detail": "Baptism — IV.2 The Holy Spirit Is Not Withheld Until Baptism and V.Acts2:38; directly develops Acts10:44–48, Spirit before water and baptism still commanded."
+  }
 }

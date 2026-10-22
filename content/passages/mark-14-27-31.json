@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "14:27-31",
+    "label": "Mark 14:27-31",
+    "slug": "mark-14-27-31"
+  },
+  "section_title": "What does Jesus promise before the disciples fail?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "27 Then Jesus said to them, “You will all fall away, for it is written: ‘I will strike the Shepherd, and the sheep will be scattered.’ 28 But after I have risen, I will go ahead of you into Galilee.”",
+        "29 Peter declared, “Even if all fall away, I never will.” 30 “Truly I tell you,” Jesus replied, “this very night, before the rooster crows twice, you will deny Me three times.” 31 But Peter kept insisting, “Even if I have to die with You, I will never deny You.” And all the others said the same thing."
+      ]
+    }
+  ],
+  "context_lines": [
+    "On the way to the Mount of Olives, Jesus tells the disciples that they will all fall away. He quotes Zechariah’s picture of a struck shepherd and scattered sheep. Yet He immediately gives a promise beyond their failure: after rising, He will go ahead of them to Galilee. ([Zechariah 13:7–9](https://biblehub.com/bsb/zechariah/13.htm))",
+    "",
+    "Peter insists that he will remain loyal even if everyone else fails. Jesus makes the warning personal and precise: before the rooster crows twice that night, Peter will deny Him three times. Peter keeps protesting, and the others make the same promise of loyalty.",
+    "",
+    "The passage places their confidence beside Jesus’ knowledge of what is coming. Their intentions are not enough to carry them through the trial. The scene that follows, where they struggle to remain awake and pray, will make that weakness visible before the arrest even begins."
+  ],
+  "common_interpretation_lines": [
+    "Christian readers commonly see both a warning against self-confidence and a promise of restoration after the disciples’ failure. The Catholic study notes emphasize that Jesus reassures those who will abandon Him that He will gather them again in Galilee after His resurrection. ([USCCB, note on Mark 14:27–31](https://bible.usccb.org/bible/mark/14))"
+  ],
+  "god_plan_lines": [
+    "Luke’s account adds that Jesus has prayed for Peter and tells him to strengthen his brothers when he turns back. After the resurrection, John shows Jesus entrusting Peter with care for His sheep. These passages develop the hope already present in the Galilee promise: the risen Shepherd restores failed disciples for service. ([Luke 22:28–34](https://biblehub.com/bsb/luke/22.htm); [John 21:15–19](https://biblehub.com/bsb/john/21.htm))",
+    "",
+    "Paul later learns that Christ’s power is displayed in weakness rather than in impressive personal strength. This is a related lesson, not a claim that Paul’s thorn and Peter’s denial are the same kind of event. God’s work through His people depends on the grace of Christ, who sustains them as they serve. ([2 Corinthians 12:7–10](https://biblehub.com/bsb/2_corinthians/12.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/14.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-fourteen-middle-review.md"
+  }
+}

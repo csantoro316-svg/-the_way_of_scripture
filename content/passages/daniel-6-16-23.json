@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "6:16-23",
+    "label": "Daniel 6:16-23",
+    "slug": "daniel-6-16-23"
+  },
+  "section_title": "Who can save Daniel when the king cannot?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "16 So the king gave the order, and they brought Daniel and threw him into the den of lions. The king said to Daniel, “May your God, whom you serve continually, deliver you!” 17 A stone was brought and placed over the mouth of the den, and the king sealed it with his own signet ring and with the rings of his nobles, so that nothing concerning Daniel could be changed. 18 Then the king went to his palace and spent the night fasting. No entertainment was brought before him, and sleep fled from him.",
+        "19 At the first light of dawn, the king got up and hurried to the den of lions. 20 When he reached the den, he cried out in a voice of anguish, “O Daniel, servant of the living God, has your God, whom you serve continually, been able to deliver you from the lions?” 21 Then Daniel replied, “O king, may you live forever! 22 My God sent His angel and shut the mouths of the lions. They have not hurt me, for I was found innocent in His sight, and I have done no wrong against you, O king.” 23 The king was overjoyed and gave orders to lift Daniel out of the den, and when Daniel was lifted out of the den, no wounds whatsoever were found on him, because he had trusted in his God."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Darius gives the order, and Daniel is thrown into the lions’ den. The king expresses the hope that Daniel’s God will deliver him. A stone closes the opening, sealed with the rings of the king and his nobles.",
+    "",
+    "The king spends a sleepless night and hurries to the den at dawn. He calls out anxiously to ask whether the living God has been able to rescue His servant.",
+    "",
+    "Daniel answers that God sent His angel and shut the lions’ mouths. He has been found innocent before God and has done no wrong against the king. When lifted out, he has no wounds, because he trusted in his God. The ruler who could not prevent the sentence now witnesses a deliverance beyond his own power."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/daniel/6.htm) and [Wesley](https://biblehub.com/commentaries/wes/daniel/6.htm) understand the rescue as God’s protection of His faithful servant. [Cambridge](https://biblehub.com/commentaries/cambridge/daniel/6.htm) connects the closing of the lions’ mouths with Hebrews 11:33.",
+    "",
+    "Daniel’s innocence concerns the accusation against him: his devotion to God was presented as disloyalty to the king. His rescue vindicates him in that conflict."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 11:32–40](https://biblehub.com/bsb/hebrews/11.htm) includes shutting lions’ mouths among the works of faith. The same passage also honors faithful people who were tortured and killed, pointing toward a better resurrection. God’s purpose for His people reaches beyond whether a particular trial ends in escape.",
+    "",
+    "There is also a striking parallel with [Jesus’ sealed tomb and the discovery at dawn](https://biblehub.com/bsb/matthew/27.htm), continued in [Matthew 28:1–10](https://biblehub.com/bsb/matthew/28.htm). Both accounts show human efforts to secure a stone giving way to God’s power. The difference matters: Daniel is preserved alive, while Jesus truly dies and rises. Christ’s victory carries the hope of deliverance beyond death itself."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "Who is The Angel of the Lord?",
+      "href": "../studies/angel-of-the-lord.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/6.htm",
+    "plan_basis": [
+      "a",
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-six-review.md"
+  }
+}

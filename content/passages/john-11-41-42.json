@@ -5,18 +5,53 @@
     "label": "John 11:41-42",
     "slug": "john-11-41-42"
   },
+  "section_title": "Why does Jesus thank the Father before Lazarus comes out?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"So they removed the stone. Then Jesus raised His eyes and said, 'Father, I thank You that You have heard Me. I knew that You always hear Me; but because of the people standing around I said it, so that they may believe that You sent Me.'\""
+      "label": "BSB",
+      "paragraphs": [
+        "41 So they took away the stone. Then Jesus lifted His eyes upward and said, “Father, I thank You that You have heard Me. 42 I knew that You always hear Me, but I say this for the benefit of the people standing here, so they may believe that You sent Me.”"
+      ]
     }
   ],
   "context_lines": [
-    "In **John 11**, Jesus raises Lazarus in the climactic sign that leads directly toward the final conflict before His death. The chapter holds grief, delay, glory, resurrection, and faith together, showing that Jesus acts according to the Father's purpose even when that purpose is not immediately understood."
-  ],
-  "explanation_lines": [
-    "This passage is less commonly misused than the others \u2014 but it is worth including because it is one of the most powerful confirmations of everything this study has argued about prayer, and most people read right past it.",
+    "The stone has been removed from Lazarus’s tomb, but Jesus has not yet called him out. His first recorded words here are thanks to the Father for hearing Him. He says He already knows that the Father always hears Him, and explains why He speaks before the people standing there.",
     "",
-    "Jesus is standing at the tomb of Lazarus. Before He calls Lazarus out, He prays \u2014 but notice what the prayer is not. It is not a petition. It is not a request. He does not say \"Father, please raise Lazarus.\" He says \"Father, I thank You that You have heard Me.\" Past tense. Already done. He thanks the Father for having already heard Him before anything visible has happened."
-  ]
+    "The purpose is stated plainly: the witnesses are to believe that the Father sent Him. Read these words within [John 11:38–44](https://the-way-of-scripture.web.app/passages/john-11-38-44.html), where thanksgiving is followed by the command that brings Lazarus out. The account reveals the Son’s confidence and His relationship with the Father; it does not supply the words or timing of any earlier private prayer."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly see thanksgiving and testimony joined in these words: Jesus is heard by the Father, and the witnesses are directed toward recognizing who sent Him. The [Catholic Catechism, paragraph 2604](https://www.vatican.va/content/catechism/en/part_four/section_one/chapter_one/article_2/in_the_fullness_of_time.html), [Calvin on verses 41–42](https://biblehub.com/commentaries/calvin/john/11.htm) and [Wesley on verse 41](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) all connect His thanksgiving before the event with His confidence in the Father."
+  ],
+  "god_plan_lines": [
+    "Jesus explicitly gives the saving direction of the sign: belief in the One sent by the Father. [John 20:30–31](https://biblehub.com/bsb/john/20.htm) states the Gospel’s wider purpose in the same terms—its recorded signs lead to believing that Jesus is the Christ, the Son of God, and to life in His name. The prayer helps the witnesses see whose work is being revealed, beyond the extraordinary event itself."
+  ],
+  "current_position_lines": [
+    "Our study Prayer and Faith identifies this as thanksgiving rooted in the Son’s settled trust in the Father. Jesus is not using the recorded words to press the Father into acting; He thanks Him for being heard and speaks for the benefit of the witnesses. The study understands the prayer as expressing confidence in the Father’s purpose before its visible outcome."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/11.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-john-eleven-closing-review.md",
+    "position_source_detail": "Prayer and Faith, John 11:41–42, explicit developed discussion of thanksgiving/confidence/witnesses."
+  }
 }

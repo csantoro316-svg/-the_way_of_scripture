@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "1:14-18",
+    "label": "John 1:14-18",
+    "slug": "john-1-14-18"
+  },
+  "section_title": "What does it mean that the Word became flesh?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 The Word became flesh and made His dwelling among us. We have seen His glory, the glory of the one and only Son from the Father, full of grace and truth. 15 John testified concerning Him. He cried out, saying, “This is He of whom I said, ‘He who comes after me has surpassed me because He was before me.’”",
+        "16 From His fullness we have all received grace upon grace. 17 For the law was given through Moses; grace and truth came through Jesus Christ. 18 No one has ever seen God, but the one and only Son, who is Himself God and is at the Father’s side, has made Him known."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The Word introduced at the beginning becomes flesh and lives among people. The testimony centers on His glory as the Father’s one and only Son, full of grace and truth. John the Baptist points to His greatness, saying that the One coming after him was before him.",
+    "",
+    "The Greek verb for making His dwelling is σκηνόω, skēnoō (skay-NOH-oh). Thayer explains it as living in a tent or dwelling among others. Its use here gives the passage a connection with the tabernacle, the tent associated with God’s presence among Israel. ([Thayer, Greek 4637](https://biblehub.com/greek/4637.htm); [Exodus 40:34–38](https://biblehub.com/bsb/exodus/40.htm))",
+    "",
+    "The account speaks of receiving from His fullness and places Moses’ giving of the law alongside grace and truth coming through Jesus Christ. It ends by saying that no one has seen God, but the Son, who is Himself God and is at the Father’s side, has made Him known."
+  ],
+  "common_interpretation_lines": [
+    "Christian traditions commonly understand becoming flesh as the eternal Son truly becoming human while remaining truly God. The Catholic Catechism, Westminster and Methodist Articles affirm one Christ who is fully divine and fully human. ([Catechism §§461–469](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/artcile_3.html); [Westminster Confession 8.2](https://www.opc.org/wcf.html); [Methodist Articles II](https://www.umc.org/en/content/articles-of-religion))"
+  ],
+  "god_plan_lines": [
+    "Exodus describes God’s glory filling the tabernacle among Israel. Here the Word dwells among people and His glory is seen. Jesus later identifies His body with the temple, and Revelation finally describes God dwelling with His people in a world freed from death and mourning. These are supported connections in the Bible’s larger story of God making His presence known among the people He redeems. ([Exodus 40:34–38](https://biblehub.com/bsb/exodus/40.htm); [John 2:19–21](https://biblehub.com/bsb/john/2.htm); [Revelation 21:1–4](https://biblehub.com/bsb/revelation/21.htm))",
+    "",
+    "Hebrews also connects God’s earlier speech through the prophets with His final revelation through the Son, through whom He made the universe. It identifies the Son with God’s glory, His nature and the cleansing of sins. The Word becoming flesh brings together the themes of creation, God made known and salvation. ([Hebrews 1:1–4](https://biblehub.com/bsb/hebrews/1.htm))"
+  ],
+  "current_position_lines": [
+    "Our study Who is The Angel of the Lord? reads John 1:18 as an anchor for understanding God’s visible appearances in the Old Testament. It concludes that the eternal Son made the unseen Father known in those encounters before becoming human. That is the study’s developed conclusion from this verse."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who is The Angel of the Lord?",
+      "href": "../studies/angel-of-the-lord.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/1.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-john-opening-review.md",
+    "position_source_detail": "Who is The Angel of the Lord?, The New Testament Anchor, explicitly developsJohn1:18anditsOT-appearanceconclusion;existinglegacypositionretainedinitspropersection."
+  }
+}

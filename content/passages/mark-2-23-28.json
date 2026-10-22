@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "2:23-28",
+    "label": "Mark 2:23-28",
+    "slug": "mark-2-23-28"
+  },
+  "section_title": "The Sabbath Was Made for People",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "23 One Sabbath Jesus was passing through the grainfields, and His disciples began to pick the heads of grain as they walked along. 24 So the Pharisees said to Him, “Look, why are they doing what is unlawful on the Sabbath?” 25 Jesus replied, “Have you never read what David did when he and his companions were hungry and in need? 26 During the high priesthood of Abiathar, he entered the house of God and ate the consecrated bread, which was lawful only for the priests. And he gave some to his companions as well.”",
+        "27 Then Jesus declared, “The Sabbath was made for man, not man for the Sabbath. 28 Therefore, the Son of Man is Lord even of the Sabbath.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "As Jesus and His disciples walk through grainfields on the Sabbath, the disciples pick heads of grain. The Pharisees challenge this as unlawful on the Sabbath. [Deuteronomy 23:25](https://biblehub.com/bsb/deuteronomy/23.htm) permits taking a neighbor's grain by hand, while forbidding the use of a sickle. The dispute here concerns the Sabbath, rather than simply taking grain from another person's field.",
+    "",
+    "Jesus directs them to David's need for food in [1 Samuel 21:1–6](https://biblehub.com/bsb/1_samuel/21.htm). The priest gives David consecrated bread, which [Leviticus 24:5–9](https://biblehub.com/bsb/leviticus/24.htm) reserves for the priests. Jesus brings human need into the discussion, then explains that the Sabbath was made for people. He ends by declaring His own authority as Lord of the Sabbath.",
+    "",
+    "There is a question about the priest's name: Mark names Abiathar, while 1 Samuel names Ahimelech. [Wesley's note on Mark 2:26](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-mark/) understands the reference as the time of Abiathar, who became high priest afterward. That is one proposed explanation; the names in the two accounts should remain visible rather than silently changing either text."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand this passage as defending care for human need and affirming Jesus' authority over the Sabbath. [Calvin on the parallel Matthew 12:1–8](https://biblehub.com/commentaries/calvin/mark/2.htm) and the [US Catholic bishops' note on Mark 2:27–28](https://bible.usccb.org/bible/mark/2) both emphasize the Sabbath's purpose for people's good. This scene does not by itself settle every later question about Christian worship days."
+  ],
+  "god_plan_lines": [
+    "The Sabbath command already carries a story of God's care. [Exodus 20:8–11](https://biblehub.com/bsb/exodus/20.htm) links it to God's rest after creation. [Deuteronomy 5:12–15](https://biblehub.com/bsb/deuteronomy/5.htm) links it to Israel's rescue from slavery and specifically includes rest for servants and animals. Jesus' concern for people fits that purpose: God's gift of rest was never meant to become an excuse to disregard their needs.",
+    "",
+    "The Bible also looks beyond a weekly pause. [Hebrews 4:1–11](https://biblehub.com/bsb/hebrews/4.htm) draws together creation's seventh day, Israel's journey, faith, and the continuing promise of entering God's rest. It then points to Jesus as the great high priest through whom we approach God for mercy and help (4:14–16). In [Matthew 11:28–30](https://biblehub.com/bsb/matthew/11.htm), Jesus personally invites the weary to come to Him for rest."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-two-closing-review.md"
+  }
+}

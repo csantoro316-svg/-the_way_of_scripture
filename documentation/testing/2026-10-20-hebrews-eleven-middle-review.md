@@ -1,0 +1,45 @@
+# Hebrews 11 middle review — 2026-10-20
+
+Four new groups11:7/8–12/13–16/17–19. Coverage continues through19 only. All actualbaselinePDF1–222read:11B206–214 and11C215–222; later223+unread. Threepositionsopen;oneexplicitrelatedGenesis22studypositionlimitedtoAngelidentity,notnewresurrectiontimetable.
+
+## Actual sources checked
+
+Actual BSB11:7–19 freshlyread: https://biblehub.com/bsb/hebrews/11.htm . WholeGenesis6–9/12/15/17/18/21/22/23andLuke20/Matt24/Rom4/8/Gal3/John10 reviewed/read in completedbooks;actualRev21:1–5readearlier. Publicparaphrases, fullquotationgeneratedactualBSB. No Biblequote copied frommislabeledownerstudy.
+
+Actual Calvin11:7–19 substantivecommentsread inboundedparts;selectedfootnotes ratherthaneveryfootnote: https://biblehub.com/commentaries/calvin/hebrews/11.htm . Noahfaithobedienceandheir,notsolemeritoriousproject;120year/repeatedmocking assertionsnotindependentlyverifiedandnotused. Abrahamtentlifeandheavenlycity,Sarahfaithovercomingunbelief,earlierpromiseChristview,belovedson/test andGodraising,figurativeIsaacrescue. CalvinallowsbroaderChristparallelbutdistinguishesimmediatemeaningof11:19. Noauthor'shostilegeneralizationscopied.
+
+Actual completeWesley11:7–19notesread: https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/ . Noahwarning/obedience,Abrahamtents/eternalcity,Sarahinitiallaughter,heavenlycountry,Isaacfigurativelysnatchedfromdeath. Hisearliestresurrectioneventclaim notassertedasverifiedworldhistory.
+
+ActualcompleteUSCCB11notespreviouslyread,especially19: https://bible.usccb.org/bible/hebrews/11 . Christresurrectionsymbolreading plusfigurativealternative.Publicsummaryfromthispageopeningandmiddlecombinedunder200words;no nonBSBquotescopied.
+
+ActualwholeThayer2602/3439/3850read: https://biblehub.com/greek/2602.htm ; https://biblehub.com/greek/3439.htm ; https://biblehub.com/greek/3850.htm . Kataboledeposit/foundingposteritydisputed11:11grammar,notliteralreceivecollectdefinition. Monogenesunique/onlyofkind/child,contextIshmaeldistinguished;wordclaimnotlaterThayerantiNicene/John1:18textualtheologyasnorm. Parabolecomparison/figurebutThayerhimselfprefersriskreading11:19;publicstatescanmeanfigure,notclaimlexiconunanimousinterpretation. PublicBSBin-asense retained.
+
+Actualrelatedownerangel_of_the_lord.md57–65freshlyread;107–117/139–147previouslyactuallyread. ExplicitGenesis22AngelstopsAbraham,study'seternalSonidentity. PositioncarefullyattributedtolargerGenesisbackgroundratherthanclaimHebrewsnamesAngel. Existingstudydoesaddresssameevent,soauthoritysatisfiedwithoutinventingownerpositiononwidereschatology. No newstudy doctrineorquotes.
+
+## Hebrews 11:7
+
+Plan section: included,because(a)/(c). Matt24:37–39explicitNoah/SonofManconnectionandreadiness.
+Position source: none.
+FLAGGED FOR REVIEW: No exact100or120yearbuildduration,constantmockingorcertainlandlockedlocation,noFlood-ever-rain assertion. Genesis2:5earlyearth descriptionnotproofnorainbeforeNoah. No numberofGodspeechesduringconstructionclaim. NoTitaniccomparisonorHudsonTaylorwindstorycopiedwithoutindependentsource. Godlyfearandfaithlinktextual,Noahcondemningworldnotlicenseprivateviolence;heirnotonlybonuscoastalrealestate. No ownerfloodgeographydebatecreated.
+
+## Hebrews 11:8–12
+
+Plan section: included,because(a)/(c). Gal3:6–9/13–14AbrahamblessingnationsinChrist,Rom4:16–25life-givingGodandraisedJesus.
+Position source: none.
+FLAGGED FOR REVIEW: No modernclaimexactUrwealtharchitecture,neverpreviouslytented,Godorderedabandonpropertyratherthansell,exactnomadpersonalhistory. No universalselfgeneratedprompting=Abraham'sverifiedcall. Sarahbarrennessnotdiagnosisanyreaderfaithdefect;particularpromiseacknowledged. Kataboleliteralreceivecollectbaselinetranslationunsupported;alternativeAbrahamsubjectexistslexicallybutnotownerverdictorBSBrewrite. No preciseSarahfaithconversionwithinmonths/instantrebukemomentasrecordedfact. No allbelieverssamequantifiedfaithmeasure orunstatedmulberrytreefutureprophecy. Promisebegun/notcomplete notdenyingIsaacbirth.
+
+## Hebrews 11:13–16
+
+Plan section: included,because(a)/(c). Luke20:37–38Godpatriarchsandresurrection;Rev21:1–5city/dwellingcompletion.
+Position source: none.
+FLAGGED FOR REVIEW: Allthese contextpatriarchsdiednotclaimEnochdieddespitev5. No universalclaimGodneverblessesanybodyinthislife;samechapterrecordsdeliverance. NorhappinessproofGodapproval. BaselineSadduceesimmortalsoulbeliefnotindependentlyverifiedandnotused;Acts23:8alreadycompletedbookrecordsdenialresurrection/angel/spirit. No exactmessianiclandboundaries/journeytimeline/wholeeschatologyorAbrahameverydetailfuturebodiesknowledgeassertedascommonview. Deathnotcancelpromise,doesnotforbidgrievingorcalldeathintrinsicallygood. Publicfollowsactualtextheavenlycountryratherthanownernewmillennialverdict.
+
+## Hebrews 11:17–19
+
+Plan section: included,because(a)/(b)/(c). ExplicitHebrewsGodraisesdead;limitedbelovedfather/sonparallelRom8:32/John10:17–18,willingactualChristdeath/resurrectionversusIsaacspared.
+Position source: Who is The Angel of the Lord? — angel_of_the_lord.md57–65/107–117/139–147,explicitGenesis22backgroundandidentityonly.
+FLAGGED FOR REVIEW: Isaacnotonlybiologicalchild,uniqueheircontextpreserved. No bornonlySon=createdChristlexicalconclusion. No exactIsaacgrownage,willingboundhimself,Abrahamhappytoexecute,physicalwoodcrosscertainty,allthoughtsrecorded. Genesisactuallystopsdeath/providesram. Parabolelexiconallowsfigureandprefersrisk;CommonactualCalvin/Wes/USCCBexplanationsnotassertunanimity. NTexplicitAbrahamresurrectionreasoningdistinguishedfrombroaderfather/sonparallel;ChristactuallydieswhereIsaacspared. No moderncommandforharmextrapolated,no predictioncompletecrossmechanics. OwnerAngelidentityattributedstudydoesnotpretendHebrewsmentionstheAngel;noautomaticownerendorsementalleverysystemproposedinbaseline.
+
+## Validation
+
+Focused generation, all four actualBibleHubBSB verifications, repository checks, preservation/coverage audit and repeat-generation idempotence passed. All eight actual390pxreader/standalone views passed: five/sevensections,nooverflow/rawMarkdown. ActualNext11:7→11:8–12 focusedtitle188.515625px. Explicit hostingdryrun/deployment succeeded;all eightaffectedfiles matched livebytes. Repositoryzeroerrors/231warnings. Coverage53reviewedgroups/228uniqueverses through11:19;53plans/21studypositions/32openpositions. Logs/snapshots /tmp/scripture-hebrews-eleven-middle-.

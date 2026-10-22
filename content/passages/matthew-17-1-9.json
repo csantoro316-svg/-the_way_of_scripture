@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "17:1-9",
+    "label": "Matthew 17:1-9",
+    "slug": "matthew-17-1-9"
+  },
+  "section_title": "Jesus Reveals His Glory on the Mountain",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 After six days Jesus took with Him Peter, James, and John the brother of James, and led them up a high mountain by themselves. 2 There He was transfigured before them. His face shone like the sun, and His clothes became as white as the light. 3 Suddenly Moses and Elijah appeared before them, talking with Jesus.",
+        "4 Peter said to Jesus, “Lord, it is good for us to be here. If You wish, I will put up three shelters—one for You, one for Moses, and one for Elijah.” 5 While Peter was still speaking, a bright cloud enveloped them, and a voice from the cloud said, “This is My beloved Son, in whom I am well pleased. Listen to Him!”",
+        "6 When the disciples heard this, they fell facedown in terror. 7 Then Jesus came over and touched them. “Get up,” He said. “Do not be afraid.” 8 And when they looked up, they saw no one except Jesus. 9 As they were coming down the mountain, Jesus commanded them, “Do not tell anyone about this vision until the Son of Man has been raised from the dead.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Six days after the conversation about His coming suffering and the cost of following Him, Jesus takes Peter, James, and John up a high mountain. His appearance changes before them: His face shines like the sun, and His clothes become white as light. Moses and Elijah appear and speak with Him.",
+    "",
+    "The word translated transfigured is μεταμορφόω, *metamorphoō* (meh-tah-mor-FOH-oh), to change in form or appearance. [Thayer's entry](https://biblehub.com/greek/3339.htm) describes its use here for Jesus' appearance shining with divine brightness. The scene reveals His glory to disciples who are struggling to understand His coming death.",
+    "",
+    "Peter offers to make three shelters, one for each of them. While he is still speaking, a bright cloud envelops the scene and the Father's voice identifies Jesus as His beloved Son and commands them to listen to Him. [Mark 9:2–8](https://biblehub.com/bsb/mark/9.htm) adds that Peter speaks amid fear, without knowing what else to say.",
+    "",
+    "The disciples fall facedown in terror. Jesus touches them and tells them to get up without fear; when they look again, only He is there. On the descent, He tells them to keep the vision private until His resurrection. Glory and the coming cross remain connected throughout the account."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as a revelation of Jesus' divine glory that confirms His identity and calls the disciples to listen to Him. [Wesley on Matthew 17:2–5](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) emphasizes the witness of Moses, Elijah, and the Father, while the Catholic [Catechism, 555](https://www.vatican.va/archive/ENG0015/__P1L.HTM), likewise connects the glory with Peter's confession and the necessity of the cross."
+  ],
+  "god_plan_lines": [
+    "[Luke 9:28–36](https://biblehub.com/bsb/luke/9.htm) tells us what Moses and Elijah discuss: Jesus' departure, to be accomplished at Jerusalem. Departure is ἔξοδος, *exodos* (EK-soh-doss), according to [Thayer's entry](https://biblehub.com/greek/1841.htm). This invites a comparison with God's earlier rescue at the Exodus. [Exodus 12:23–28, 41–42](https://biblehub.com/bsb/exodus/12.htm) joins Passover deliverance with Israel's departure, and Paul explicitly identifies Christ as the Passover sacrifice in [1 Corinthians 5:7](https://biblehub.com/bsb/1_corinthians/5.htm). Jesus' coming death belongs to God's work of rescuing His people.",
+    "",
+    "The mountain, cloud, and glory recall God's meeting with Moses in [Exodus 24:12–18](https://biblehub.com/bsb/exodus/24.htm). The command to listen also recalls the promised prophet in [Deuteronomy 18:15–19](https://biblehub.com/bsb/deuteronomy/18.htm), a promise Peter applies to Jesus in [Acts 3:19–26](https://biblehub.com/bsb/acts/3.htm). These are scriptural connections that place the disciples' response within the larger call to receive the One God sends.",
+    "",
+    "[2 Peter 1:16–19](https://biblehub.com/bsb/2_peter/1.htm) later recalls the voice on the mountain as eyewitness testimony to Jesus' majesty, supporting the proclamation of His power and coming. The glimpse of glory gives His followers reason to trust Him as they face the difficult road ahead. The coming suffering does not cancel the glory God has revealed."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/17.htm",
+    "plan_basis": [
+      "a",
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-seventeen-opening-review.md"
+  }
+}

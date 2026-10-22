@@ -1,0 +1,11 @@
+# John 9 complete and live
+
+Five pages cover the healing of the man born blind, the questioning, his testimony and Jesus finding him afterward. Full BSB text, plain context, fair primary-source interpretations and supported connections to God's wider purpose replace placeholders. The preserved verse38page and the coherent35–41page draw narrowly from the existing worship study; the other positions remain open.
+
+[Evidence](../testing/2026-10-19-john-nine-review.md). Five fresh BSB checks, eight tests, zero errors /328 warnings, preservation/coverage/navigation/idempotence,390pxreader/standalone for every page and actual Next, Hosting dry run/deployment, nine affected and seven whole-chapter live byte checks passed.
+
+John:59reviewedpages /436actualBSBverses /59plans /26studypositions /33open;69sources /10unreviewedlegacyreferences. ContinueJohn10; no existing chapter10legacyreferences. Entire baseline PDF through362read (complete10lesson339–361andfirst11Apagecovering10:40–42);363onwardunread. No next draft yet.
+
+Current next research actually read: BSB10:1–18, Ezek34:1–6/11–16/23–24, Ezek37:21–28, Heb13:20–21, Eph2:11–22; whole WesleyXthrough22; USCCB10allrelevantnotes through41; initial Chrysostom59on10:1–5. Calvin10andThayer4166fetched but not read yet. WholeWesleyX23onwardnotyetread. No existing study found with developed directJohn10conclusion, so don't originate one from a related shepherding title.
+
+Primary-source needs: preciseextent-of-atonement differences11–21mustuseactualconfessions/Catechism/Wesley, not teacheralone. Gatekeeperidentificationsvary; don'tdeclareSpirit/Father/JohnBaptistexplicitGospelidentification. No Jesusneverpersuadedanyone, no physicalsuicideexplanationofcross, no guaranteedwealth/healthfrom10:10, no universalclaimsaboutallhiredworkersorreligiousleaders'motives. No exactfoldfinancialpracticeoranimalbehaviorwithoutindependentcheck. For22–30checkHanukkahhistoryindependently; omitunsupportedgymnasium/priests/nakedgames/childexecutionstoriesandoillegendpolemic. Providenceandsecurityareinterpretedvariously; fairprimarydocumentsneeded. For31–42checkPsalm82wholeplusowntraditionprimaryinterpretations; humanjudgesversusheavenlybeingsnotsettledbytheteacheralone. Don'tconflatebeyondJordanwithGalileewithoutsource. AllfullBSB10:19–42needreadbeforewriting.

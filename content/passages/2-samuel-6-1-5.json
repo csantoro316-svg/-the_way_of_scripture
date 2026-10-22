@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "6:1-5",
+    "label": "2 Samuel 6:1-5",
+    "slug": "2-samuel-6-1-5"
+  },
+  "section_title": "Why does David gather Israel to bring up the ark?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 David again assembled the chosen men of Israel, thirty thousand in all. 2 And he and all his troops set out for Baale of Judah to bring up from there the ark of God, which is called by the Name— the name of the LORD of Hosts, who is enthroned between the cherubim that are on it. 3 They set the ark of God on a new cart and brought it from the house of Abinadab, which was on the hill. Uzzah and Ahio, the sons of Abinadab, were guiding the new cart, 4 bringing with it the ark of God. And Ahio was walking in front of the ark. 5 David and all the house of Israel were celebrating before the LORD with all kinds of wood instruments, harps, stringed instruments, tambourines, sistrums, and cymbals."
+      ]
+    }
+  ],
+  "context_lines": [
+    "David assembles thirty thousand chosen men to bring the ark of God from Baale of Judah. The account identifies it with the name of the LORD of Hosts, enthroned between the cherubim. This is a public act of honoring God, not simply moving an item of royal property.",
+    "",
+    "The ark is placed on a new cart, guided by Uzzah and Ahio from Abinadab’s household. David and Israel celebrate before the LORD with instruments. The joy is unmistakable, but the way they transport the ark will become central to what follows."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/6.htm) emphasizes the renewed concern to honor the ark after David becomes established. He also warns that the cart does not follow God’s appointed method. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) sees the Philistines’ earlier use of a cart as a possible influence, though these verses do not directly explain why David chooses it.",
+    "",
+    "The instructions distinguish the work of priests from the work of the carriers. In [Numbers 4:5–15](https://biblehub.com/bsb/numbers/4.htm), Aaron and his sons cover the sacred objects before the Kohathites carry them. [Numbers 7:9](https://biblehub.com/bsb/numbers/7.htm) says the Kohathites are to carry their holy objects on their shoulders. A new cart and enthusiastic celebration do not replace those instructions."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/6.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-six-review.md"
+  }
+}

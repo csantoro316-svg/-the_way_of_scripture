@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "14:1-7",
+    "label": "Acts 14:1-7",
+    "slug": "acts-14-1-7"
+  },
+  "section_title": "Why do Paul and Barnabas stay, and then flee?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 At Iconium, Paul and Barnabas went as usual into the Jewish synagogue, where they spoke so well that a great number of Jews and Greeks believed. 2 But the unbelieving Jews stirred up the Gentiles and poisoned their minds against the brothers. 3 So Paul and Barnabas spent considerable time there, speaking boldly for the Lord, who affirmed the message of His grace by enabling them to perform signs and wonders.",
+        "4 The people of the city were divided. Some sided with the Jews, and others with the apostles. 5 But when the Gentiles and Jews, together with their rulers, set out to mistreat and stone them, 6 they found out about it and fled to the Lycaonian cities of Lystra and Derbe and to the surrounding region, 7 where they continued to preach the gospel."
+      ]
+    }
+  ],
+  "context_lines": [
+    "In Iconium, Paul and Barnabas again speak in the synagogue, and a great number of Jews and Greeks believe. Opposition also develops: unbelieving Jews turn Gentiles against the believers. Luke records both belief and resistance within the same setting.",
+    "",
+    "The messengers remain for a considerable time, speaking boldly for the Lord. The signs and wonders are described as the Lord’s confirmation of the message of His grace. Their confidence rests in Him, rather than in the absence of opposition.",
+    "",
+    "When an attempt develops to mistreat and stone them, they learn of it and flee to Lystra, Derbe and the surrounding region. They continue preaching there. Staying through resistance and leaving when a violent plot is uncovered are both part of the account."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly see perseverance and prudent escape together here: opposition does not immediately silence the witness, and leaving a place of danger does not end it. [Calvin on verse 3](https://biblehub.com/commentaries/calvin/acts/14.htm) emphasizes the messengers’ courage through the Lord’s help rather than their own strength."
+  ],
+  "god_plan_lines": [
+    "Jesus had prepared His messengers for opposition and, in [Matthew 10:16–23](https://biblehub.com/bsb/matthew/10.htm), told them to flee to another town when persecuted. Paul and Barnabas’s movement provides a supported parallel to that instruction, while continuing the spread of the message.",
+    "",
+    "The new believers and the prolonged witness remain important even though the city is divided. The mission’s progress cannot be measured only by whether the messengers are welcomed by everyone or remain permanently in one place."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/14.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-fourteen-review.md"
+  }
+}

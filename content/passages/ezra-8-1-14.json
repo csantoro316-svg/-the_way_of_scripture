@@ -1,0 +1,50 @@
+{
+  "reference": {
+    "book": "Ezra",
+    "citation": "8:1-14",
+    "label": "Ezra 8:1-14",
+    "slug": "ezra-8-1-14"
+  },
+  "section_title": "Who travels with Ezra?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 These are the family heads and genealogical records of those who returned with me from Babylon during the reign of King Artaxerxes: 2 from the descendants of Phinehas, Gershom; from the descendants of Ithamar, Daniel; from the descendants of David, Hattush 3 of the descendants of Shecaniah; from the descendants of Parosh, Zechariah, and with him were registered 150 men;",
+        "4 from the descendants of Pahath-Moab, Eliehoenai son of Zerahiah, and with him 200 men; 5 from the descendants of Zattu, Shecaniah son of Jahaziel, and with him 300 men; 6 from the descendants of Adin, Ebed son of Jonathan, and with him 50 men; 7 from the descendants of Elam, Jeshaiah son of Athaliah, and with him 70 men; 8 from the descendants of Shephatiah, Zebadiah son of Michael, and with him 80 men; 9 from the descendants of Joab, Obadiah son of Jehiel, and with him 218 men; 10 from the descendants of Bani, Shelomith son of Josiphiah, and with him 160 men; 11 from the descendants of Bebai, Zechariah son of Bebai, and with him 28 men; 12 from the descendants of Azgad, Johanan son of Hakkatan, and with him 110 men; 13 from the later descendants of Adonikam, these were their names: Eliphelet, Jeiel, and Shemaiah, and with them 60 men; 14 and from the descendants of Bigvai, both Uthai and Zaccur, and with them 70 men."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Ezra records the family heads and genealogical enrollment of those returning with him from Babylon under Artaxerxes. The list begins with descendants of Phinehas, Ithamar and David, then identifies further family groups and the men registered with them.",
+    "",
+    "This is another company of returnees after the earlier group in chapter 2. The repeated family names show continuing ties within the people who have lived away from Judah.",
+    "",
+    "The numbers here record men, while the later prayer for their children in verse 21 shows that the journey includes families. The list should not be mistaken for a complete description of every traveler."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-ezra/) notes that the named men travel with families, and [Henry](https://biblehub.com/commentaries/mhc/ezra/8.htm) emphasizes the gathering of people to accompany Ezra in the work. The family record makes this a return involving identifiable households, continuing the earlier restoration rather than beginning with an unrelated population."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Returning to the Word",
+      "href": "../studies/returning-to-the-word.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezra/8.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezra-seven-eight-review.md"
+  }
+}

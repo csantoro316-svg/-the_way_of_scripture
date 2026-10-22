@@ -5,15 +5,55 @@
     "label": "Philippians 4:6-7",
     "slug": "philippians-4-6-7"
   },
-  "versions": [],
-  "context_lines": [
-    "In **Philippians 4**, Paul closes with exhortations to joy, peace, prayer, contentment, and gospel partnership. The chapter treats provision in the context of Christ-centered contentment and sacrificial support for ministry, not detached prosperity promises."
+  "section_title": "What does God promise when we bring Him our concerns?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 Be anxious for nothing, but in everything, by prayer and petition, with thanksgiving, present your requests to God. 7 And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus."
+      ]
+    }
   ],
-  "explanation_lines": [
-    "This passage does say to make your requests known to God \u2014 that much is plain, and there's no need to read around it. What it doesn't say is that the promise attached to those requests is a specific result you had in mind. Every request still falls under the same condition established at the start of this study \u2014 asked according to His will (1 John 5:14) \u2014 so nothing new is being introduced here. What is new is the promise Paul attaches to it: *\"the peace of God, which surpasses all comprehension, will guard your hearts and minds in Christ Jesus.\"* The peace is the promise.",
+  "context_lines": [
+    "Paul closes the letter with instructions for a community facing disagreement and difficulty. He has called them to rejoice in the Lord and show gentleness to everyone. He now tells them to bring their concerns to God.",
     "",
-    "- \u2610 **When you have no words \u2014 that is enough.** The Spirit intercedes with groanings too deep for words. Sometimes the most powerful prayer is simply showing up, broken, and looking up.",
+    "The invitation is broad: in everything, they are to pray, make requests and give thanks. Paul directs their worries toward the One they can approach, rather than telling them to hide those worries or pretend nothing is wrong.",
     "",
-    "- \u2610 **Pray without ceasing \u2014 as a posture, not a practice.** It does not mean your lips are always moving. It means your heart never fully looks away from Him. The Spirit already knows what is in your heart even when you have no words for it \u2014 so staying oriented toward Him throughout the day is, in itself, a kind of prayer that never stops."
-  ]
+    "The promise is that God’s peace will guard their hearts and minds in Christ Jesus. The Greek verb is phroureo (froo-REH-oh). [Thayer’s lexicon](https://biblehub.com/greek/5432.htm) explains its use for guarding or protecting, including this figurative use in verse 7. The picture is protection for their inner life.",
+    "",
+    "The passage promises that peace without saying every requested change will occur. Paul has already described genuine sorrow, danger and suffering in this letter. Prayer belongs within those experiences."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read these verses as an invitation to bring concerns to God with thanksgiving and depend on His peace. [Wesley’s notes on verses 6–7](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-philippians/) encourage confident prayer about both great and small concerns and describe God’s peace as guarding the heart and mind. Neither the command to pray nor the promise of peace requires treating a particular requested outcome as guaranteed."
+  ],
+  "god_plan_lines": [
+    "In [John 14:25–31](https://biblehub.com/bsb/john/14.htm), Jesus promises His disciples the Holy Spirit and gives them His peace as He prepares them for His departure. He distinguishes that gift from what the world gives. This is a close parallel: peace comes from belonging to Him even as trouble lies ahead.",
+    "",
+    "That gift belongs within God’s work of bringing people into life with His Son. It looks forward to the completed hope described in [Philippians 3:20–21](https://biblehub.com/bsb/philippians/3.htm), where the returning Savior transforms His people’s bodies. Present peace and future rescue have the same Lord at their center."
+  ],
+  "current_position_lines": [
+    "In [What Does Prayer Look Like?](https://thewayofscripture.com/studies/what-does-prayer-look-like.html), we understand this passage as an invitation to bring our requests to God with thanksgiving. The promise attached to those requests is His peace guarding our hearts and minds in Christ. It does not promise the particular outcome we ask for."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/philippians/4.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-philippians-four-opening-review.md",
+    "position_source_detail": "What Does Prayer Look Like?, section 6, lines 128–132: requests are invited; the attached promise is peace rather than a particular requested outcome."
+  }
 }

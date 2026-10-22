@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "10:23-25",
+    "label": "1 Kings 10:23-25",
+    "slug": "1-kings-10-23-25"
+  },
+  "section_title": "Why do people keep coming to Solomon’s court?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "23 So King Solomon surpassed all the kings of the earth in riches and wisdom. 24 The whole world sought an audience with Solomon to hear the wisdom that God had put in his heart. 25 Year after year, each visitor would bring his tribute: articles of silver and gold, clothing, weapons, spices, horses, and mules."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The narrator brings the accounts of wisdom and wealth together: Solomon surpasses the kings of the earth in both. People seek an audience to hear the wisdom God has put in his heart.",
+    "",
+    "The visitors bring gifts year after year—silver, gold, clothing, weapons, spices, horses and mules. Solomon’s renown brings an ongoing flow of people and resources to the court.",
+    "",
+    "Even at this height of fame, the source of his wisdom is expressly named. It is something God has given him."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) understands the broad description of visitors as rulers from the surrounding world. [Henry](https://biblehub.com/commentaries/mhc/1_kings/10.htm) reads Solomon’s greatness in light of God’s promise to give him wisdom and riches.",
+    "",
+    "The account celebrates the reach of Solomon’s reputation while giving God the credit for the wisdom people come to hear. Fame is a response to a gift received; it does not make Solomon its ultimate source."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/10.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-ten-review.md"
+  }
+}

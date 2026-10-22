@@ -1,0 +1,52 @@
+{
+  "reference": {
+    "book": "James",
+    "citation": "1:9-11",
+    "label": "James 1:9-11",
+    "slug": "james-1-9-11"
+  },
+  "section_title": "What do poverty and wealth really say about a person?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "9 The brother in humble circumstances should exult in his high position. 10 But the one who is rich should exult in his low position, because he will pass away like a flower of the field. 11 For the sun rises with scorching heat and withers the plant; its flower falls and its beauty is lost. So too, the rich man will fade away in the midst of his pursuits."
+      ]
+    }
+  ],
+  "context_lines": [
+    "James now puts lowly circumstances and riches beside each other. The poor believer has a high standing to celebrate, while the rich person must face the lowliness that wealth can hide. Money cannot stop a human life from fading.",
+    "",
+    "The flower makes the point concrete: its beauty does not keep the heat from withering it. James applies that passing beauty to the rich person in the midst of ordinary pursuits. The image recalls [Isaiah 40:6–8](https://biblehub.com/bsb/isaiah/40.htm), where human frailty stands beside God’s enduring word."
+  ],
+  "common_interpretation_lines": [
+    "The shared emphasis is that poverty does not erase a believer’s dignity, and wealth provides no lasting reason for pride. [Calvin](https://biblehub.com/commentaries/calvin/james/1.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-general-epistle-of-st-james/) both connect the poor believer’s high position with belonging to God and receiving His promised inheritance."
+  ],
+  "god_plan_lines": [
+    "Jesus’ message to Smyrna in [Revelation 2:8–11](https://biblehub.com/bsb/revelation/2.htm) makes a similar contrast: He knows the church’s poverty yet calls it rich. The risen Christ sees a value that its outward circumstances cannot measure. That parallel helps explain why James can speak of a high position while the believer remains poor."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/james/1.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-james-one-review.md"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "2:1-4",
+    "label": "1 Kings 2:1-4",
+    "slug": "1-kings-2-1-4"
+  },
+  "section_title": "What does David say Solomon needs most as king?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 As the time drew near for David to die, he charged his son Solomon, 2 “I am about to go the way of all the earth. So be strong and prove yourself a man. 3 And keep the charge of the LORD your God to walk in His ways and to keep His statutes, commandments, ordinances, and decrees, as written in the Law of Moses, so that you may prosper in all you do and wherever you turn, 4 and so that the LORD may fulfill His promise to me: ‘If your descendants take heed to walk faithfully before Me with all their heart and soul, you will never fail to have a man on the throne of Israel.’"
+      ]
+    }
+  ],
+  "context_lines": [
+    "As death approaches, David charges Solomon to be strong and take up his responsibility. He directs him to keep the LORD’s ways and the commands written in the Law of Moses.",
+    "",
+    "David connects the future of his house with wholehearted faithfulness to God. Solomon’s task is more than holding power: he is to govern under the word of the LORD."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) understands the call to strength as the courage and sound judgment required to govern according to God’s law. David’s charge makes obedience central to that responsibility.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/2.htm) distinguishes the promised coming of the Messiah from the faithfulness required of the kings in David’s line. On his reading, the final promise rests on God’s purpose, while the kings remain accountable for how they rule."
+  ],
+  "god_plan_lines": [
+    "Obedience as an expression of faithfulness continues in the New Testament. In [John 14:15–21](https://biblehub.com/bsb/john/14.htm), Jesus connects love for Him with keeping His commands and promises His followers the Spirit’s presence.",
+    "",
+    "The settings differ: David is charging Israel’s next king; Jesus is speaking to His disciples. The shared concern is that devotion to God shapes how people live and carry out what He entrusts to them.",
+    "",
+    "The connection does not turn Israel’s royal promises into a guarantee of wealth or political success for every Christian. It calls attention to love expressed in obedience and dependence on God."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/2.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-two-review.md"
+  }
+}

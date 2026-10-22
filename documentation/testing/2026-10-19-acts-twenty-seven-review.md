@@ -1,0 +1,37 @@
+# Acts 27 editorial review
+
+Four new groups:1–13,14–26,27–38,39–44. No existing27sources or all-study27references;allfourpositions exactrequiredopenwording. WholeActsbaselinePDF416pagesACTUALLYREAD,including27–28lesson398–416. Publicproseindependentlycomposed.
+
+## Sources actually read
+
+ActualBSB27:1–44andfootnotes1/2/9/16/17/27/28/37read at https://biblehub.com/bsb/acts/27.htm .44mainverses;276maincountwith76variantfootnotedonly. FastidentifiedYomKippur/DayAtonementinBSBfootnote9andUSCCB27note9;noGregorianfixeddate. Seaanchor/sailsvariantacknowledgedprivately,publicdescribesmeasureswithoutinventedpreciseartifact. Adriaticbroaderancientusefootnoteavailable,noexactmoderncoursemapped.
+
+ActualJonah1:1–16and3:1–10freshlyread https://biblehub.com/bsb/jonah/1.htm and https://biblehub.com/bsb/jonah/3.htm .Storm/cargoloss/Godservantidentification/Gentilemissionlimitedcomparison. DifferencesobviousJonahfleesPaulcontinuescommission;noauthorintentionprooforverse-by-versetypechart. Jonah3Ninevitesbelieve/repentnotproofallActs27passengersconverted. Actual2Cor11:25–27read from freshlyfetchedearlierpage https://biblehub.com/bsb/2_corinthians/11.htm :shipwrecks/exposure/hardship,nodatesoralltripsequating. Luke24:30–35freshlyreadforbreadlanguageat https://biblehub.com/bsb/luke/24.htm . Actual28:1–16andall28footnotesreadbeforereferencingMalta/healinginnextchapter;28:29footnoteonlyconfirmed,notyetquotereviewof28.
+
+ActualCalvin27:35first1500read https://biblehub.com/commentaries/calvin/acts/27.htm :ordinarythanksgiving/examplerevivescourage;notquotedclaimheexplicitlyrulesoutallEucharistresonance. 21paragraph1600actuallyreadbounded:SpiritguidedearlycounselwhileLukegivesnospecialrevelation;23Godsourceexplicit.10/31markersnotfound,notclaimedread;initialrgoutputhadlonglinestruncatedandunseenparagraphsnotcounted. ActualWesleyXXVIIwhole1–44read https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/ :31means/responsibilityandpromise,33noregularmeal,24/44possibleconversioncommentarynotnarratedsoomitted. Navhistoryprecisedate/privateJuliusmotivesnotadopted.
+
+ActualUSCCB27allnotesread https://bible.usccb.org/bible/acts/27 :1–28voyagenarrative,Fast,35Eucharisticlanguageresonance. Notesreadascommentary,notformalCatholicruleall276receivedEucharistorbecameChristians. No independenthistorybeyondtheseactualtext/translationchecksneededforpublicclaims. No fixedshipdimensions/pilotharborcalendar/modernwindmappingfrombaselinealone. OrdinaryEnglishleeexplainedshelteredside,notunverifiedGreeketymologicalclaim. NoGreekaddedsolelytodecoratenaarrative.
+
+## Acts 27:1–13
+Plan section: included, because (a)/(c):23:11explicitRomepromisecontinuesamiddelay;2Cor11:25–27broaderhardship/careofmission.
+Position source: none.
+FLAGGED FOR REVIEW: Myrashiphomeportfalseprecision,allAlexandrianships180x50x44dimensions/Columbuscomparison,allotherprisonersgladiators,whyJuliuskind/orLukeallowednotindependentlyverified;omitted. No fixedOctober5/September25dateorallshipsneverafterNov/universalcatastrophecalendar. PlainFastmainnoteused. Earlywarninglossoflifeversuslaterpreservationdistinguishedbyexplicitangellater;CalvinearlySpiritguidedcounselattributednotconsensus. No guaranteeexperiencedtraveljudgmentalwaysinfallible.
+
+## Acts 27:14–26
+Plan section: included, because (a)/(b)/(c):explicitangelcommissionCaesar/alllives;Jonah1/3limitedparallelstorm/Gentilemission/differentservantresponse.
+Position source: none.
+FLAGGED FOR REVIEW: NoauthorLukeintentionallycopiedJonahcertainty,PaulasnewJonahantitypeoreveryweatherdetourGodencodedmessage. GodcausedJonahstormexplicitinJonah;Actsdoesnotexplicitlyassignsamecause/motive. No allsailorsfaithconverted,shipownerpaymentmotive/cargovaluation/specificmeteorologicalhurricanecategory/typhoonEnglishderivation. Gear/tackleexactfunctionnotassumedwhereuncertain. ShipwrecknotGodpromiseallpropertysafe;Godnameslossofship.
+
+## Acts 27:27–38
+Plan section: included, because (a)/(c):Godgrantswholecompanylives27:23–24,careforbodies/thanksgiving/responsibleactionpartcontinuingmission.
+Position source: none.
+FLAGGED FOR REVIEW: No sailorssmelledlandexactly/preciseancientcurrentsverified,276eternalsalvationorsacramentrecipientstatusinvented. PromisekeepingwithcrewremainingnotautomaticlegalcontractGodvoidedifthesetdivides;actualwarning/instructionpreserved. No decreePaulsolelycontrolsspiritualsalvation;physicalrescuesenseclear. Total14daynoindividualeverateanythingnotmedicalclaim;noregularfood/prolongedstraindescribed. USCCB35resonancenotdogmaallaboardHolyCommunion;Calvin35mealthanksgivingnotinventedcompletedenialofresonance. No precisegrainheaviestmasscalculationnotintext.
+
+## Acts 27:39–44
+Plan section: included, because (a)/(c):promisedlossofship/nolossoflifeconcretelyfulfilledand23:11continuingRomewitness;actual28Malta/healingreadfornextstep.
+Position source: none.
+FLAGGED FOR REVIEW: ExactStPaul'sBaymodernidentification/siltcurrents/shipwrecksiteunverified;omitted. No allprisonerescapemeantmandatorysoldierexecutionlaw/centurionformalrelieveslegalpenalty claimedwithoutprimarylaw. NoJuliusconversionfromkindness/otherprisonersexecutedRome/lostdocumentsstory. Wreckage/swimming/Juliusinterventionpartrescuenarrative;notacontemporarydangerhandlinginstruction.
+
+## Validation
+
+All four fresh BSB comparisons passed. Repository checks: zero errors, 284 known warnings; eight tests passed. Source/index/standalone consistency, preserved existing content, canonical navigation, continuous coverage and generation idempotence passed. All four reader and standalone pages passed at 390px, including actual Next navigation and heading focus (188.5px). Hosting dry run and deployment exited 0; eight affected live files and six whole-chapter files byte-match local output.

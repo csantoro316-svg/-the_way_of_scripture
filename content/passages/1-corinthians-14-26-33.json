@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "14:26-33",
+    "label": "1 Corinthians 14:26-33",
+    "slug": "1-corinthians-14-26-33"
+  },
+  "section_title": "How can many people contribute without the gathering becoming disorderly?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "26 What then shall we say, brothers? When you come together, everyone has a psalm or a teaching, a revelation, a tongue, or an interpretation. All of these must be done to build up the church. 27 If anyone speaks in a tongue, two, or at most three, should speak in turn, and someone must interpret. 28 But if there is no interpreter, he should remain silent in the church and speak only to himself and God.",
+        "29 Two or three prophets should speak, and the others should weigh carefully what is said. 30 And if a revelation comes to someone who is seated, the first speaker should stop. 31 For you can all prophesy in turn so that everyone may be instructed and encouraged. 32 The spirits of prophets are subject to prophets. 33 For God is not a God of disorder, but of peace—as in all the churches of the saints."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul names a range of contributions—psalm, teaching, revelation, tongue and interpretation—and gives the test that governs them: build up the church. The variety belongs within a shared purpose, rather than a competition for the floor.",
+    "",
+    "He then gives concrete limits. Two, or at most three, should speak in tongues, taking turns, and someone must interpret. Without an interpreter, that person is to be silent in the gathering and speak to himself and God. Having a gift does not remove responsibility for how it affects others.",
+    "",
+    "Prophecy is also subject to order and testing. Two or three prophets speak, and others weigh what is said. A person already speaking must make room when a revelation comes to someone seated. The aim is that people learn and are encouraged.",
+    "",
+    "The spirits of prophets are subject to prophets: inspiration does not excuse refusing to stop or listen. Paul grounds this order in God’s character as the God of peace. A contribution is to serve the gathered people, with room for discernment and mutual consideration."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Paul to require understandable, orderly contributions directed toward the good of the congregation. [Calvin’s comment on verse 26](https://biblehub.com/commentaries/calvin/1_corinthians/14.htm) emphasizes each gift serving the advantage of all. [Wesley’s notes on verses 27–32](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) likewise stress taking turns, interpretation and the speaker’s self-control."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 4:11–16](https://biblehub.com/bsb/ephesians/4.htm) describes Christ equipping His people for service so His body grows toward unity and maturity. The goal is a community growing in truth and love through the contribution of its different parts.",
+    "",
+    "The order Paul describes serves that larger purpose. It makes space for people to receive, weigh and learn, rather than letting a few voices overwhelm the rest. God’s gifts are being used to form a people together under Christ."
+  ],
+  "current_position_lines": [
+    "In [Worship as the Early Church Knew It](https://thewayofscripture.com/studies/worship.html), we understand 1 Corinthians 14:26 as making mutual edification the purpose of the gathered assembly. Believers should come ready to contribute to one another’s growth. The contribution must serve others; participation is more than attending as a spectator or seeking a personal emotional experience."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/14.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-fourteen-closing-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It — content/studies/worship.md lines 285–297, direct 1 Corinthians 14:26 discussion and participation/edification conclusion."
+  }
+}

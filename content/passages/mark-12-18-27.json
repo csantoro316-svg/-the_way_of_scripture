@@ -1,0 +1,67 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "12:18-27",
+    "label": "Mark 12:18-27",
+    "slug": "mark-12-18-27"
+  },
+  "section_title": "The God of the Living",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "18 Then the Sadducees, who say there is no resurrection, came to Jesus and questioned Him: 19 “Teacher, Moses wrote for us that if a man’s brother dies and leaves a wife but no children, the man is to marry his brother’s widow and raise up offspring for him. 20 Now there were seven brothers. The first one married and died, leaving no children. 21 Then the second one married the widow, but he also died and left no children. And the third did likewise. 22 In this way, none of the seven left any children. And last of all, the woman died. 23 In the resurrection, then, whose wife will she be? For all seven were married to her.”",
+        "24 Jesus said to them, “Aren’t you mistaken, because you do not know the Scriptures or the power of God? 25 When the dead rise, they will neither marry nor be given in marriage. Instead, they will be like the angels in heaven. 26 But concerning the dead rising, have you not read about the burning bush in the Book of Moses, how God told him, ‘I am the God of Abraham, the God of Isaac, and the God of Jacob’? 27 He is not the God of the dead, but of the living. You are badly mistaken!”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The Sadducees, whom Mark identifies as denying resurrection, present a case involving seven brothers. One after another marries the same widow and dies without children; finally she dies. They ask whose wife she will be when the dead rise.",
+    "",
+    "Their case draws on [Deuteronomy 25:5–10](https://biblehub.com/bsb/deuteronomy/25.htm), where a brother has a duty toward his deceased brother's childless widow so the dead man's name will continue. The question assumes that resurrection life must preserve the same marriage arrangement and therefore creates a conflict about which husband she belongs to.",
+    "",
+    "Jesus says they fail to understand both Scripture and God's power. Those raised do not marry or enter marriage as people do now; in this respect they are like the angels in heaven. He says they are like angels, not that human beings become angels.",
+    "",
+    "He then turns to [Exodus 3:2–6](https://biblehub.com/bsb/exodus/3.htm), where God speaks to Moses from the burning bush and identifies Himself in relationship with Abraham, Isaac, and Jacob. Jesus uses that continuing relationship to affirm life before God and the reality of resurrection. The God who binds Himself to His people is not defeated by their death.",
+    "",
+    "The answer does more than solve the marriage puzzle. It challenges the limits the questioners place on what God can do. The passage gives an assurance about life with God; it does not provide a complete description of every relationship or feature of the resurrection world."
+  ],
+  "common_interpretation_lines": [
+    "Catholic and Protestant readings commonly understand Jesus to affirm resurrection while correcting the assumption that marriage continues as in this life. [Wesley on Mark 12:25–27](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-mark/) connects God's enduring relationship with the patriarchs to the hope of bodily resurrection. The [USCCB notes on the parallel Matthew 22:23–33](https://bible.usccb.org/bible/matthew/22) likewise explain a life transformed by God's power.",
+    "",
+    "A different reading is taught by the Church of Jesus Christ of Latter-day Saints. Its [student manual on the parallel Matthew account](https://www.churchofjesuschrist.org/study/manual/new-testament-student-manual/introduction-to-matthew/chapter-7?lang=eng) distinguishes new marriages being performed after resurrection from marriages already joined through the church's authorized sealing. It teaches that a marriage sealed according to its requirements can endure beyond death, drawing on Doctrine and Covenants 132 as well as its interpretation of Jesus' answer. This is that church's stated teaching, rather than the general Christian reading above."
+  ],
+  "god_plan_lines": [
+    "God's commitment to be the God of Abraham and his descendants is part of His covenant promise in [Genesis 17:7–8](https://biblehub.com/bsb/genesis/17.htm). [Hebrews 11:8–19](https://biblehub.com/bsb/hebrews/11.htm) describes Abraham, Isaac, and Jacob living by faith before receiving all they hoped for and looking toward the city God prepares. It also describes Abraham reasoning that God could raise the dead. These connections place Jesus' answer within God's faithfulness across generations and beyond a person's lifetime.",
+    "",
+    "That hope reaches its decisive foundation in Christ. [1 Corinthians 15:12–28](https://biblehub.com/bsb/1_corinthians/15.htm) connects His resurrection with the future raising of those who belong to Him and the final destruction of death. [John 6:37–40](https://biblehub.com/bsb/john/6.htm) likewise joins the Father's will, faith in the Son, eternal life, and the Son's promise to raise His people. Resurrection belongs at the heart of God's saving purpose.",
+    "",
+    "Paul's description in [1 Corinthians 15:42–58](https://biblehub.com/bsb/1_corinthians/15.htm) adds that the raised body is no longer perishable or subject to death. This is the power the Sadducees' scenario leaves out: God brings a transformed life whose future cannot be measured only by the conditions of the present one."
+  ],
+  "current_position_lines": [
+    "In Who is The Angel of the Lord?, in the section on Exodus 3:2–6, we identify the One who appears and speaks from the burning bush as the Son before His human birth. The study explicitly relates that scene to Jesus' answer to the Sadducees in the parallel Matthew account. That is our conclusion about the speaker in Exodus; Jesus' immediate point in this exchange is the reality of resurrection and God's relationship with the living."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who is The Angel of the Lord?",
+      "href": "../studies/angel-of-the-lord.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/12.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-mark-twelve-opening-review.md",
+    "position_source_detail": "Who is The Angel of the Lord? — Exodus3:2–6section and explicit Matthew22:32parallel Sadducees answer. Narrow speaker identification, no new resurrection-marriage policy."
+  }
+}

@@ -5,24 +5,57 @@
     "label": "Exodus 13:17-22",
     "slug": "exodus-13-17-22"
   },
-  "section_title": "The Pillars of Cloud and Fire",
+  "section_title": "Why did God lead Israel along the longer route?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "17 When Pharaoh let the people go, God did not lead them along the road through the land of the Philistines, though it was shorter. For God said, \u201cIf the people face war, they might change their minds and return to Egypt.\u201d 18 So God led the people around by the way of the wilderness toward the Red Sea. And the Israelites left the land of Egypt arrayed for battle.",
-        "19 Moses took the bones of Joseph with him because Joseph had made the sons of Israel swear a solemn oath when he said, \u201cGod will surely attend to you, and then you must carry my bones with you from this place.\u201d",
+        "17 When Pharaoh let the people go, God did not lead them along the road through the land of the Philistines, though it was shorter. For God said, “If the people face war, they might change their minds and return to Egypt.” 18 So God led the people around by the way of the wilderness toward the Red Sea. And the Israelites left the land of Egypt arrayed for battle. 19 Moses took the bones of Joseph with him because Joseph had made the sons of Israel swear a solemn oath when he said, “God will surely attend to you, and then you must carry my bones with you from this place.”",
         "20 They set out from Succoth and camped at Etham on the edge of the wilderness. 21 And the LORD went before them in a pillar of cloud to guide their way by day, and in a pillar of fire to give them light by night, so that they could travel by day or night. 22 Neither the pillar of cloud by day nor the pillar of fire by night left its place before the people."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 13**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "God leads the people away from the shorter road through Philistine territory because facing war could make them turn back to Egypt. The longer route is explained through His knowledge of the people’s weakness. He leads them toward the wilderness and the Red Sea.",
+    "",
+    "Moses also carries Joseph’s bones. Joseph had made Israel promise to take them when God attended to the people and brought them out. His long-standing expectation of that departure is now being acted upon.",
+    "",
+    "From Succoth they camp at Etham on the edge of the wilderness. The LORD goes before them in cloud by day and fire by night, giving direction and light. They can travel by day or night, and the visible sign of His guidance remains before them. Their release from slavery is followed by His continuing presence on the journey."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Pillars of Cloud and Fire** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 13** remains the first control on meaning."
+    "The shared reading sees the route and the cloud and fire as expressions of God’s care for the people He has rescued. [Calvin](https://biblehub.com/commentaries/calvin/exodus/13.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) both emphasize His continuing guidance and His provision for their weakness. The journey is under His direction even while the people still need to learn to follow Him."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[Hebrews 11:22](https://biblehub.com/bsb/hebrews/11.htm) explicitly describes Joseph’s instructions about his bones as an act of faith. [Genesis 50:24–26](https://biblehub.com/bsb/genesis/50.htm) had connected those instructions with God’s promise to bring the people to the land sworn to Abraham, Isaac and Jacob. Carrying the bones now makes that earlier trust visible within the promised deliverance.",
+    "",
+    "[1 Corinthians 10:1–5](https://biblehub.com/bsb/1_corinthians/10.htm) recalls the cloud and the crossing of the sea when it describes Israel being baptized into Moses. Paul places the journey within his instruction to the church, recalling both God’s provision and the people’s later failures. The visible guidance belongs to a story through which later believers are taught to remember God’s faithfulness and respond to Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/13.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-thirteen-review.md"
+  }
 }

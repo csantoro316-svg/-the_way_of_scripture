@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "21:1-14",
+    "label": "John 21:1-14",
+    "slug": "john-21-1-14"
+  },
+  "section_title": "What happens when Jesus meets the disciples by the lake?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Later, by the Sea of Tiberias, Jesus again revealed Himself to the disciples. He made Himself known in this way: 2 Simon Peter, Thomas called Didymus, Nathanael from Cana in Galilee, the sons of Zebedee, and two other disciples were together. 3 Simon Peter told them, “I am going fishing.” “We will go with you,” they said. So they went out and got into the boat, but caught nothing that night. 4 Early in the morning, Jesus stood on the shore, but the disciples did not recognize that it was Jesus. 5 So He called out to them, “Children, do you have any fish?” “No,” they answered. 6 He told them, “Cast the net on the right side of the boat, and you will find some.” So they cast it there, and they were unable to haul it in because of the great number of fish.",
+        "7 Then the disciple whom Jesus loved said to Peter, “It is the Lord!” As soon as Simon Peter heard that it was the Lord, he put on his outer garment (for he had removed it) and jumped into the sea. 8 The other disciples came ashore in the boat. They dragged in the net full of fish, for they were not far from land, only about a hundred yards. 9 When they landed, they saw a charcoal fire there with fish on it, and some bread. 10 Jesus told them, “Bring some of the fish you have just caught.” 11 So Simon Peter went aboard and dragged the net ashore. It was full of large fish, 153, but even with so many, the net was not torn.",
+        "12 “Come, have breakfast,” Jesus said to them. None of the disciples dared to ask Him, “Who are You?” They knew it was the Lord. 13 Jesus came and took the bread and gave it to them, and He did the same with the fish. 14 This was now the third time that Jesus appeared to the disciples after He was raised from the dead."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After the appearances in Jerusalem, John describes another meeting with the risen Jesus, this time by the Sea of Tiberias. Seven disciples go fishing together. They work through the night and catch nothing.",
+    "",
+    "At daybreak Jesus stands on the shore, though they do not yet recognize Him. At His instruction they cast the net on the right side of the boat and make a large catch. The disciple Jesus loved recognizes Him, and Peter jumps into the water to reach Him.",
+    "",
+    "Jesus has a charcoal fire, fish and bread ready. He invites them to breakfast and also asks them to bring some of their catch. The account gives a precise count of 153 fish, but it does not explain the number as a code. The emphasis is on the Lord who meets, directs and provides for His disciples.",
+    "",
+    "The third appearance in verse 14 refers to Jesus appearing to the gathered disciples. It should not be read as a denial of the individual encounters already described, including Mary’s meeting with Him in the previous chapter."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as another encounter with the bodily risen Jesus, showing His care and the disciples’ dependence on Him. [Wesley on verse 6](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) sees both practical provision and a picture of the work ahead as fishers of people.",
+    "",
+    "Going fishing is sometimes understood as slipping back into an old life. The passage does not expressly rebuke them for fishing, however. [Calvin on verse 3](https://biblehub.com/commentaries/calvin/john/21.htm) does not regard it as inconsistent with their calling while they await the power needed for their public work. The miraculous catch shows their need for Jesus without requiring us to decide that their night’s work was itself disobedience."
+  ],
+  "god_plan_lines": [
+    "The scene recalls the earlier catch in [Luke 5:1–11](https://biblehub.com/bsb/luke/5.htm). There too Peter and his companions work without success, follow Jesus’s direction, and receive an overwhelming catch. In that earlier account Jesus explicitly calls Peter to a mission involving people.",
+    "",
+    "This is a parallel between the two scenes, rather than an explanation John gives of every fish or movement of the net. The Lord who first called them is still with them after His resurrection. Their work depends on Him, and His care for them accompanies His call to serve."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/21.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-twenty-one-review.md"
+  }
+}

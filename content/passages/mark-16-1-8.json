@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "16:1-8",
+    "label": "Mark 16:1-8",
+    "slug": "mark-16-1-8"
+  },
+  "section_title": "What do the women find at the tomb?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 When the Sabbath was over, Mary Magdalene, Mary the mother of James, and Salome bought spices so they could go and anoint the body of Jesus. 2 Very early on the first day of the week, just after sunrise, they went to the tomb. 3 They were asking one another, “Who will roll away the stone from the entrance of the tomb?” 4 But when they looked up, they saw that the stone had been rolled away, even though it was extremely large.",
+        "5 When they entered the tomb, they saw a young man dressed in a white robe sitting on the right side, and they were alarmed. 6 But he said to them, “Do not be alarmed. You are looking for Jesus the Nazarene, who was crucified. He has risen! He is not here! See the place where they put Him. 7 But go, tell His disciples and Peter, ‘He is going ahead of you into Galilee. There you will see Him, just as He told you.’” 8 So the women left the tomb and ran away, trembling and bewildered. And in their fear they did not say a word to anyone."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The women who watched Jesus’ burial now return with spices to anoint His body. Their concern is practical: the stone is too large for them to move. When they arrive just after sunrise on the first day of the week, it has already been rolled away. The place where they saw His body laid is empty.",
+    "",
+    "Inside, a young man in white tells them that the crucified Jesus has risen. He directs them to tell the disciples and Peter to meet Jesus in Galilee. This returns to Jesus’ promise before His arrest: He would go ahead of them after being raised. Peter is named even after his denial. The promise of reunion reaches disciples who failed Him. ([Mark 14:27–31](https://biblehub.com/bsb/mark/14.htm))",
+    "",
+    "The women flee in trembling and fear, saying nothing to anyone. This is how verse 8 leaves the scene. Other Gospel accounts describe their reports and encounters with Jesus; Mark’s sentence should first be allowed to convey its own shock and fear. ([Matthew 28:8–10](https://biblehub.com/bsb/matthew/28.htm); [Luke 24:9–12](https://biblehub.com/bsb/luke/24.htm))",
+    "",
+    "There is also an important note about what follows. Some early manuscripts end the Gospel here, while others continue with verses 9–20 or another short ending. The BSB explains this in its [footnote to verse 8](https://biblehub.com/bsb/mark/16.htm). Whether verse 8 was Mark’s intended ending or an ending was lost is a separate question from the passage’s clear announcement that Jesus has risen."
+  ],
+  "common_interpretation_lines": [
+    "Christian traditions commonly understand the empty tomb and the messenger’s announcement as testimony that the crucified Jesus has truly risen. The message recalls His promise, includes His failing disciples, and calls for the news to be carried to them. ([Methodist Article III](https://www.umc.org/en/content/articles-of-religion); [USCCB notes on Mark 16:1–8](https://bible.usccb.org/bible/mark/16))"
+  ],
+  "god_plan_lines": [
+    "Paul explains why this changes more than the disciples’ immediate grief. Christ’s resurrection is the beginning of the resurrection promised to His people, and His reign leads toward the defeat of death itself. The empty tomb opens onto a future in which death no longer has the last word. ([1 Corinthians 15:12–28, 42–57](https://biblehub.com/bsb/1_corinthians/15.htm))",
+    "",
+    "Peter connects Jesus’ resurrection with new birth into a living hope and an inheritance that cannot perish. That hope sustains people who still suffer. The same chapter speaks of believers who love Jesus without having seen Him: the good news at the tomb reaches beyond the first witnesses to those who receive their testimony. ([1 Peter 1:3–9](https://biblehub.com/bsb/1_peter/1.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/16.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-sixteen-review.md"
+  }
+}

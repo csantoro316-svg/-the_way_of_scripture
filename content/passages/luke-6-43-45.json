@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "6:43-45",
+    "label": "Luke 6:43-45",
+    "slug": "luke-6-43-45"
+  },
+  "section_title": "What do our words reveal about our hearts?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "43 No good tree bears bad fruit, nor does a bad tree bear good fruit. 44 For each tree is known by its own fruit. Indeed, figs are not gathered from thornbushes, nor grapes from brambles. 45 The good man brings good things out of the good treasure of his heart, and the evil man brings evil things out of the evil treasure of his heart. For out of the overflow of the heart the mouth speaks."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus turns from the eye to the tree. A tree is recognized by the fruit it produces, and different kinds of plants bear different fruit. The comparison follows His warnings about guidance and hypocrisy.",
+    "",
+    "He then explains the human connection: good and evil come from what is stored in the heart, and speech flows from what fills it. The teaching reaches beneath an outward impression to the source from which a person’s words and actions come.",
+    "",
+    "This prepares for His final question about calling Him Lord without doing what He says. Speech matters, but the kind of heart it reveals and the life that accompanies it also matter."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand the fruit as revealing a person’s inward character, with speech showing what fills the heart. The instruction applies to those receiving the teaching as well as to the teachers whose guidance they follow. ([Luke 6:39–45](https://biblehub.com/bsb/luke/6.htm); [USCCB notes on Luke 6:43–46 and the Matthew parallels](https://bible.usccb.org/bible/luke/6))"
+  ],
+  "god_plan_lines": [
+    "God’s promise through Ezekiel reaches the source of a changed life: He will cleanse His people, give them a new heart, put His Spirit within them and lead them into obedience. This is a Bible-wide connection with the importance of the heart here; Luke does not label the tree saying as a direct quotation of Ezekiel. ([Ezekiel 36:25–27](https://biblehub.com/bsb/ezekiel/36.htm))",
+    "",
+    "Jesus later uses a different plant picture to explain fruitful life through dependence on Him. As branches remain in the vine, His disciples are to remain in Him; their fruit glorifies the Father. The sayings together direct attention to both inward change and an ongoing life with Christ. ([John 15:1–8](https://biblehub.com/bsb/john/15.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/6.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-six-closing-review.md"
+  }
+}

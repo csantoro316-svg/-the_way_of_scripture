@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "9:38-41",
+    "label": "Mark 9:38-41",
+    "slug": "mark-9-38-41"
+  },
+  "section_title": "Serving Beyond Our Own Circle",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "38 John said to Him, “Teacher, we saw someone else driving out demons in Your name, and we tried to stop him, because he does not accompany us.” 39 “Do not stop him,” Jesus replied. “For no one who performs a miracle in My name can turn around and speak evil of Me. 40 For whoever is not against us is for us. 41 Indeed, if anyone gives you even a cup of water because you bear the name of Christ, truly I tell you, he will never lose his reward."
+      ]
+    }
+  ],
+  "context_lines": [
+    "John tells Jesus that the disciples tried to stop someone driving out demons in His name because the man was not accompanying them. This follows the dispute about greatness and Jesus' call to welcome a child. Once again, the disciples must learn that service in His name reaches beyond their own standing.",
+    "",
+    "Jesus tells them to stop interfering. Someone doing a mighty work in His name is not likely to turn around immediately and speak against Him. He then widens the picture from a dramatic deliverance to an ordinary kindness: even a cup of water given because someone belongs to Christ will be remembered by God.",
+    "",
+    "The reason John gives is that the man does not accompany their group. Mark does not identify him, explain how he came to know Jesus, or describe his whole ministry. The correction addresses the disciples' attempt to exclude him on that basis.",
+    "",
+    "The cup of water also brings the teaching within reach of people who have no prominent role. The act matters because it expresses care for someone who belongs to Christ. Jesus does not provide a formula for calculating rewards."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand this as a correction of jealousy and a warning against treating one's own circle as the limit of Christ's work. [Wesley on Mark 9:38–40](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-mark/) applies it to cooperation despite differences that do not overturn the heart of the faith; the [USCCB notes on this scene](https://bible.usccb.org/bible/mark/9) likewise emphasize openness toward people serving outside the disciples' group. Neither reading requires treating every belief or claimed miracle as trustworthy."
+  ],
+  "god_plan_lines": [
+    "A close parallel appears in [Numbers 11:24–29](https://biblehub.com/bsb/numbers/11.htm). Eldad and Medad receive the Spirit and prophesy in the camp. They are among the registered elders, but have not gone out to the tent. Joshua asks Moses to stop them; Moses instead welcomes God's work and wishes the Spirit rested on all the LORD's people. The situations are not identical, but both expose the mistake of protecting a leader's circle at the expense of what God is doing.",
+    "",
+    "[1 Corinthians 12:4–27](https://biblehub.com/bsb/1_corinthians/12.htm) develops the wider purpose for the church: the same Spirit gives different gifts for the common good, and the members of Christ's body need one another. God's work makes people fellow servants with different contributions. This gives the disciples' small dispute a much larger setting: learning to welcome genuine service is part of learning to live as a people gathered around Christ."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/9.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-nine-closing-review.md"
+  }
+}

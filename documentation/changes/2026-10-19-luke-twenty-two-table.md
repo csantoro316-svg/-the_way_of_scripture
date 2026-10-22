@@ -1,0 +1,7 @@
+# Luke 22 table pages published
+
+Luke22:14–23 and24–30 are live. The meal page explains the traditions’ own teachings in plain language and follows the new covenant through Jeremiah, Hebrews and Paul. The leadership page connects Jesus’ service with John13 and Philippians2. Both positions remain open; historical criticism in a related study does not settle every question about this meal.
+
+[Review and checks](../testing/2026-10-19-luke-twenty-two-table-review.md). All six affected live files match. Luke reviewed through22:30:142 groups /1,000 actual BSB verses;142 plans /12 study positions /130 open;144 sources /two unreviewed legacy pages. No implementation changes.
+
+Continue22:31–34/35–38, then garden and arrest. Whole PDF through941 read at release, with942–947 subsequently read. No next drafts. Catholic Lumen Gentium25 and footnote166 directly connect strengthening the brethren with the pope’s defined teaching role; represent this fairly alongside commentators’ reading of Peter’s restoration. Calvin and Wesley read the swords figuratively; do not invent a denominational division without primary evidence. Isaiah53:12 is the explicit plan connection. No confirmed existing-study position for31–38. Later garden prayer requires checking the actual prayer studies. Avoid unsupported indictment, full600-man detachment, imagined Peter weapon skills or a medical diagnosis of the sweat image.

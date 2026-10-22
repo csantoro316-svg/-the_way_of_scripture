@@ -10,20 +10,41 @@
     {
       "label": "BSB",
       "paragraphs": [
-        "24 Then the LORD rained down sulfur and fire on Sodom and Gomorrah\u2014from the LORD out of the heavens. 25 Thus He destroyed these cities and the entire plain, including all the inhabitants of the cities and everything that grew on the ground.",
-        "26 But Lot\u2019s wife looked back, and she became a pillar of salt.",
+        "24 Then the LORD rained down sulfur and fire on Sodom and Gomorrah—from the LORD out of the heavens. 25 Thus He destroyed these cities and the entire plain, including all the inhabitants of the cities and everything that grew on the ground.",
+        "26 But Lot’s wife looked back, and she became a pillar of salt.",
         "27 Early the next morning, Abraham got up and returned to the place where he had stood before the LORD. 28 He looked down toward Sodom and Gomorrah and all the land of the plain, and he saw the smoke rising from the land like smoke from a furnace.",
         "29 So when God destroyed the cities of the plain, He remembered Abraham, and He brought Lot out of the catastrophe that destroyed the cities where he had lived."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 19**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "The promised judgment now falls. The LORD rains sulfur and fire on Sodom and Gomorrah, overthrowing the cities, their inhabitants, and what grows on the plain. Lot's wife looks back in disobedience to the earlier instruction and becomes a pillar of salt. The account moves quickly from escape to the destruction left behind.",
+    "",
+    "Abraham returns to the place where he had stood before the LORD and sees smoke rising from the land. What he sees is the city destroyed, but the narrator tells us more: God remembered Abraham and brought Lot out of the catastrophe. This explicitly links the rescue with Abraham's conversation with God in chapter 18.",
+    "",
+    "The ending keeps judgment and mercy in the same account. Sodom is not spared, and Lot is not abandoned. Abraham's view of the smoke is therefore only part of what God has done. The passage does not tell us exactly when Abraham learns about Lot's escape."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Destruction of Sodom and Gomorrah** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 19** remains the first control on meaning."
+    "Christians commonly understand the destruction as God's judgment and Lot's wife's backward look as a serious refusal of the escape instruction. [Wesley's notes on Genesis 19:24–29](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) also connect God's remembering Abraham with mercy shown to Lot."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "god_plan_lines": [
+    "In [Luke 17:28–33](https://biblehub.com/bsb/luke/17.htm), Jesus explicitly compares the day of Sodom's destruction with the day the Son of Man is revealed and tells His hearers to remember Lot's wife. He joins that warning with the danger of turning back for possessions and trying to preserve one's present life at the cost of the life God gives.",
+    "",
+    "The scene becomes a warning for later hearers, not merely a disaster remembered from another age. Judgment interrupts the assumption that everyday life will always continue on its own terms. At the same time, the account's final word about God remembering Abraham prevents us from losing sight of His mercy within the judgment."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/19.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-lot-and-isaac-review.md"
+  }
 }

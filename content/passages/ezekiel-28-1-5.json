@@ -1,0 +1,52 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "28:1-5",
+    "label": "Ezekiel 28:1-5",
+    "slug": "ezekiel-28-1-5"
+  },
+  "section_title": "How does Tyre’s ruler mistake success for being a god?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 And the word of the LORD came to me, saying, 2 “Son of man, tell the ruler of Tyre that this is what the Lord GOD says: Your heart is proud, and you have said, ‘I am a god; I sit in the seat of gods in the heart of the sea.’ Yet you are a man and not a god, though you have regarded your heart as that of a god. 3 Behold, you are wiser than Daniel; no secret is hidden from you!",
+        "4 By your wisdom and understanding you have gained your wealth and amassed gold and silver for your treasuries. 5 By your great skill in trading you have increased your wealth, but your heart has grown proud because of it."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The Lord now addresses the ruler of Tyre. The city’s wealth and splendor have become part of its leader’s claim to be a god seated in the heart of the seas.",
+    "",
+    "The reply begins with the limit he has forgotten: he is a man. His wisdom and skill in trade have indeed gained riches, but those riches have made his heart proud.",
+    "",
+    "The reference to being wiser than Daniel exposes the height of the claim. The passage moves from an impressive treasury to the condition of the person who possesses it. Commercial ability cannot settle the question of who he is before God."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/ezekiel/28.htm) reads the comparison with Daniel as the ruler’s inflated estimate of his own wisdom. [Cambridge](https://biblehub.com/commentaries/cambridge/ezekiel/28.htm) also understands it as irony, while the [USCCB notes](https://bible.usccb.org/bible/ezekiel/28) describe the confusion of commercial success with divinity.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/ezekiel/28.htm) emphasizes pride’s power to make a person imagine that wealth and ability put him on a level with heaven. The reading recognizes genuine skills while exposing the false conclusion drawn from them."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/28.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-twenty-eight-review.md"
+  }
+}

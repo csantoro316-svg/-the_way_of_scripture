@@ -10,18 +10,29 @@
     {
       "label": "BSB",
       "paragraphs": [
-        "20 Some time later, Abraham was told, \u201cMilcah has also borne sons to your brother Nahor: 21 Uz the firstborn, his brother Buz, Kemuel (the father of Aram), 22 Chesed, Hazo, Pildash, Jidlaph, and Bethuel.\u201d",
-        "23 And Bethuel became the father of Rebekah. Milcah bore these eight sons to Abraham\u2019s brother Nahor. 24 Moreover, Nahor\u2019s concubine, whose name was Reumah, bore Tebah, Gaham, Tahash, and Maacah."
+        "20 Some time later, Abraham was told, “Milcah has also borne sons to your brother Nahor: 21 Uz the firstborn, his brother Buz, Kemuel (the father of Aram), 22 Chesed, Hazo, Pildash, Jidlaph, and Bethuel.”",
+        "23 And Bethuel became the father of Rebekah. Milcah bore these eight sons to Abraham’s brother Nahor. 24 Moreover, Nahor’s concubine, whose name was Reumah, bore Tebah, Gaham, Tahash, and Maacah."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 22**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "After the test on the mountain, Abraham receives news about his brother Nahor's family. Milcah has borne eight sons, and Nahor's concubine Reumah has borne four more children. These names move attention from Abraham's household in Canaan to the relatives from whom Isaac's wife will come.",
+    "",
+    "One detail looks ahead: Bethuel is identified as Rebekah's father. She will become central in chapter 24. The list therefore prepares the next stage of the family story, even though most of the people named will not receive a separate account here. It gives no detailed account of their lives or the timing of Abraham's earlier contact with them."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Sons of Nahor** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 22** remains the first control on meaning."
+    "A common reading is that this family list prepares for Isaac's marriage by introducing Rebekah's relatives. [Wesley's note on Genesis 22:20](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) identifies that connection."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/22.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-moriah-and-rebekah-review.md"
+  }
 }

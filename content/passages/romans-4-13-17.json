@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "4:13-17",
+    "label": "Romans 4:13-17",
+    "slug": "romans-4-13-17"
+  },
+  "section_title": "Why does the promise rest on grace rather than law?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 For the promise to Abraham and his offspring that he would be heir of the world was not given through the law, but through the righteousness that comes by faith. 14 For if those who live by the law are heirs, faith is useless and the promise is worthless, 15 because the law brings wrath. And where there is no law, there is no transgression.",
+        "16 Therefore, the promise comes by faith, so that it may rest on grace and may be guaranteed to all Abraham’s offspring—not only to those who are of the law, but also to those who are of the faith of Abraham. He is the father of us all. 17 As it is written: “I have made you a father of many nations.” He is our father in the presence of God, in whom he believed, the God who gives life to the dead and calls into being what does not yet exist."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul describes the promise to Abraham and his offspring in terms of inheriting the world. It came through the righteousness of faith, rather than through the law. Making inheritance depend on the law would empty faith and the promise of their force.",
+    "",
+    "The law identifies transgression and brings wrath against it. Paul’s statement that there is no transgression where there is no law concerns the breaking of a command; it does not reverse his earlier account of human accountability without possession of the Law of Moses.",
+    "",
+    "The promise therefore comes by faith so that it rests on grace and is assured to Abraham’s family of faith. Paul includes those associated with the law and those who share Abraham’s faith beyond that setting. The father of many nations belongs within this wider invitation.",
+    "",
+    "The God Abraham believes gives life to the dead and calls into being what does not yet exist. This leads into the account of the promised child and, by the chapter’s ending, faith in the God who raised Jesus."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Paul as grounding confidence in God’s gracious promise, rather than treating inheritance as wages earned through keeping the law. The promise opens a shared future for people who trust Him across the distinction between Jew and Gentile."
+  ],
+  "god_plan_lines": [
+    "[Galatians 3:15–18](https://biblehub.com/bsb/galatians/3.htm) makes a closely related point: the law that came later does not cancel the earlier promise. God’s faithfulness is not dependent on changing that promise into a different kind of arrangement.",
+    "",
+    "The promise of many nations in [Genesis 17:4–6](https://biblehub.com/bsb/genesis/17.htm) is part of the connection Paul draws. His point here concerns inheritance through faith and grace. It should not be made to settle every later question about the land, Israel and the church that these verses do not explain in detail."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/4.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-four-review.md"
+  }
+}

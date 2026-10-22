@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "16:10-13",
+    "label": "Luke 16:10-13",
+    "slug": "luke-16-10-13"
+  },
+  "section_title": "Why does faithfulness with money matter beyond money itself?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 Whoever is faithful with very little will also be faithful with much, and whoever is dishonest with very little will also be dishonest with much. 11 So if you have not been faithful with worldly wealth, who will entrust you with true riches? 12 And if you have not been faithful with the belongings of another, who will give you belongings of your own?",
+        "13 No servant can serve two masters. Either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve both God and money.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus follows the manager’s story with sayings about faithfulness. The way someone handles a little reveals something about how that person will handle much; the same is true of dishonesty.",
+    "",
+    "He distinguishes worldly wealth from true riches and asks about faithfulness with another’s belongings. What has been entrusted to someone is a responsibility, rather than something whose use has no significance beyond the present.",
+    "",
+    "The final saying brings the issue to loyalty. A servant cannot be devoted to two competing masters. Jesus names the choice plainly: God and money cannot both be the master of a person’s life."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand these sayings as a call to integrity in entrusted responsibilities and undivided service to God. Wesley emphasizes faithfulness as well as wisdom, while the Catholic bishops’ notes connect responsibility with the incompatibility of trusting wealth as a master while serving God. ([Wesley on Luke 16:10–13](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [USCCB notes on Luke 16:10–13](https://bible.usccb.org/bible/luke/16))"
+  ],
+  "god_plan_lines": [
+    "First Peter describes believers as stewards of God’s varied grace, each using a received gift to serve others with the strength God supplies. The purpose is that God be glorified through Jesus Christ. Faithfulness with money fits within that larger life of receiving from God and serving with what He gives. ([1 Peter 4:7–11](https://biblehub.com/bsb/1_peter/4.htm))",
+    "",
+    "Hebrews joins freedom from the love of money and contentment with God’s promise to remain with His people. Loyalty to Him is grounded in His faithfulness, not in money’s ability to make life secure. ([Hebrews 13:5–6](https://biblehub.com/bsb/hebrews/13.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/16.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-sixteen-opening-review.md"
+  }
+}

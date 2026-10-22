@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "23:6-12",
+    "label": "Luke 23:6-12",
+    "slug": "luke-23-6-12"
+  },
+  "section_title": "What does Herod want from Jesus?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 When Pilate heard this, he asked if the man was a Galilean. 7 And learning that Jesus was under Herod’s jurisdiction, he sent Him to Herod, who himself was in Jerusalem at that time.",
+        "8 When Herod saw Jesus, he was greatly pleased. He had wanted to see Him for a long time, because he had heard about Him and was hoping to see Him perform a miracle. 9 Herod questioned Jesus at great length, but He gave no answer. 10 Meanwhile, the chief priests and scribes stood there, vehemently accusing Him.",
+        "11 And even Herod and his soldiers ridiculed and mocked Him. Dressing Him in a fine robe, they sent Him back to Pilate. 12 That day Herod and Pilate became friends; before this time they had been enemies."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The mention of Galilee leads Pilate to ask whether Jesus is a Galilean. Learning that He falls under Herod’s jurisdiction, Pilate sends Him to Herod, who is also in Jerusalem. This is Herod Antipas, the ruler of Galilee already introduced in Luke. Josephus likewise describes the Galilean tetrarch and his city of Tiberias. ([Luke 3:1](https://biblehub.com/bsb/luke/3.htm); [Josephus, Antiquities 18.2.3](https://penelope.uchicago.edu/josephus/ant-18.html))",
+    "",
+    "Herod is pleased because he has long wanted to see Jesus perform a miracle. He questions Him at length, but Jesus gives no answer. The chief priests and scribes continue their accusations.",
+    "",
+    "Herod and his soldiers then mock Jesus, dress Him in a fine robe and send Him back to Pilate. Luke says that the two rulers become friends that day, having previously been enemies. The account tells us that their relationship changes, while leaving the earlier cause of their hostility unexplained."
+  ],
+  "common_interpretation_lines": [
+    "Christian readers commonly distinguish Herod’s curiosity about miracles from trust in Jesus. The USCCB’s notes make that distinction explicitly, and Wesley describes Herod’s interest as curiosity rather than a response of faith. The scene also shows Jesus enduring ridicule without providing the spectacle Herod wants. ([USCCB note on Luke 23:6–12](https://bible.usccb.org/bible/luke/23); [Wesley on Luke 23:8–11](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))"
+  ],
+  "god_plan_lines": [
+    "Acts directly names Herod and Pontius Pilate when the church prays about the opposition Jesus faced. The believers connect the rulers’ actions with Psalm 2, which describes rulers gathering against the Lord and His Anointed. They also say that these actions took place within God’s saving purpose. The friendship formed over Jesus’ humiliation does not put His mission outside God’s care. ([Acts 4:23–28](https://biblehub.com/bsb/acts/4.htm))",
+    "",
+    "The church then asks for boldness to speak God’s word amid continuing threats. Its response carries the connection forward: remembering what happened to Jesus strengthens His followers to bear witness, rather than requiring every ruler to welcome them first. ([Acts 4:29–31](https://biblehub.com/bsb/acts/4.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/23.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-twenty-three-opening-review.md"
+  }
+}

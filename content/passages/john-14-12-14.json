@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "14:12-14",
+    "label": "John 14:12-14",
+    "slug": "john-14-12-14"
+  },
+  "section_title": "How will Jesus continue His work through His followers?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "12 Truly, truly, I tell you, whoever believes in Me will also do the works that I am doing. He will do even greater things than these, because I am going to the Father.",
+        "13 And I will do whatever you ask in My name, so that the Father may be glorified in the Son. 14 If you ask Me for anything in My name, I will do it."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus has appealed to His works as evidence of the Father’s presence in Him. He now tells the disciples that believing in Him will lead to their continuing His work, even to greater things, because He is going to the Father. His departure will extend His work through His followers rather than bring it to an end.",
+    "",
+    "The book of Acts shows what follows. The risen Jesus pours out the Holy Spirit, and the apostles bear witness to Him. [Acts 2:32–41](https://biblehub.com/bsb/acts/2.htm) records Peter’s proclamation of the risen Lord and the addition of about three thousand people. The work depends on Jesus’ exaltation and gift of the Spirit.",
+    "",
+    "Jesus then joins their work with asking in His name. He promises that He will act, and He states the purpose: the Father’s glory in the Son. The promise belongs within that relationship and mission. It is not a transfer of control from Jesus to whoever makes a request."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the greater works as depending on the risen Christ’s power, not on disciples becoming greater than their Lord. [Calvin on verse 12](https://biblehub.com/commentaries/calvin/john/14.htm) emphasizes the spread of faith after Jesus’ ascension. [Wesley on verse 12](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) mentions apostolic miracles and regards the conversion of a sinner as greater still. Their explanations connect the promise with what follows Jesus’ return to the Father.",
+    "",
+    "Christians commonly understand asking in Jesus’ name as approaching God through Him, rather than treating His name as a formula that guarantees any desired result. The Reformed [Westminster Larger Catechism, questions 180–181](https://www.opc.org/lc.html), describes confidence in Christ and His mediation, explicitly distinguishing this from merely mentioning His name. The Catholic Church’s [Catechism, paragraphs 2614–2615](https://www.vatican.va/content/catechism/en/part_four/section_one/chapter_one/article_2/in_the_fullness_of_time.index.html), likewise connects prayer in His name with faith, love, keeping His word and communion with the Father through Him."
+  ],
+  "god_plan_lines": [
+    "[Acts 2:32–41](https://biblehub.com/bsb/acts/2.htm) connects Jesus’ exaltation, the pouring out of the Spirit and the growth of the believing community. It shows how His going to the Father advances the work described here.",
+    "",
+    "The prayer promise serves the same purpose. [1 John 5:14–15](https://biblehub.com/bsb/1_john/5.htm) describes confidence in asking according to God’s will. Jesus’ followers participate in His work by depending on Him and seeking what serves the Father’s purposes."
+  ],
+  "current_position_lines": [
+    "Our study Prayer and Faith understands asking in Jesus’ name as asking in keeping with His character, authority and purposes. Adding His name to the end of a request does not turn it into a promise that our preferred outcome must happen. The study draws attention to the purpose stated here: the Father being glorified in the Son."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/14.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-john-fourteen-closing-review.md",
+    "position_source_detail": "Prayer and Faith"
+  }
+}

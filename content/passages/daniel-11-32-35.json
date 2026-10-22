@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "11:32-35",
+    "label": "Daniel 11:32-35",
+    "slug": "daniel-11-32-35"
+  },
+  "section_title": "What does faithfulness look like when the wise are persecuted?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "32 With flattery he will corrupt those who violate the covenant, but the people who know their God will firmly resist him. 33 Those with insight will instruct many, though for a time they will fall by sword or flame, or be captured or plundered. 34 Now when they fall, they will be granted a little help, but many will join them insincerely. 35 Some of the wise will fall so that they may be refined, purified, and made spotless until the time of the end, for it will still come at the appointed time."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Flattery draws some away from the covenant, but those who know their God stand firm. People with insight instruct many others.",
+    "",
+    "Their faithfulness does not spare them from suffering. They fall by sword and flame, captivity and plunder. They receive a little help, but some who join them are insincere.",
+    "",
+    "The passage describes testing and purification until the appointed end. Wisdom here involves knowing God, resisting corruption and helping others understand, even when that brings personal cost. The suffering of the teachers does not make their witness a failure."
+  ],
+  "common_interpretation_lines": [
+    "[Cambridge](https://biblehub.com/commentaries/cambridge/daniel/11.htm) understands the wise as faithful people who hold to God during Antiochus’s persecution and teach others through their example. It reads their suffering as testing the wider people and strengthening the faithful. The [USCCB notes](https://bible.usccb.org/bible/daniel/11) connect the little help with the Maccabean resistance."
+  ],
+  "god_plan_lines": [
+    "A parallel appears in [Revelation 6:9–11](https://biblehub.com/bsb/revelation/6.htm). Those killed for God’s word and their testimony ask how long it will be until God judges and answers for their blood. They receive white robes and are told to rest while the appointed course continues.",
+    "",
+    "Both passages place faithful suffering within a purpose that has not yet reached its end. Revelation shows that God has neither forgotten the witnesses nor measured their faithfulness by their survival. Their testimony and their promised answer remain before Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/11.htm",
+    "plan_basis": [
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-eleven-review.md"
+  }
+}

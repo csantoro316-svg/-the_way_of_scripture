@@ -1,0 +1,7 @@
+# Luke 15 complete
+
+Three complete parables now cover all32BSBverses, keeping both sons and the open ending within one final passage. Supported larger-plan connections include God seeking His flock, His joy in salvation, and estrangement/restoration through Christ. Adam comparison is labeled as a parallel; unverified dowry/house/asset-sale/shame customs omitted. All positions remain open.
+
+Luke1–15complete/live:103reviewedgroups/all727BSBverses,103plans/ninestudypositions/94open;107sources/fourlegacyunreviewed. Evidence [chapterreview](../testing/2026-10-19-luke-fifteen-review.md).ExactBSB/eighttests/0errors348warnings/preservation/coverage/nav/idempotence/390pxreader+standalone/actualPrevious/Hosting/sevenaffectedlivebytes/allfivechapterfilespassed.Nooutstandingdeployment.
+
+ContinueLuke16:1–13, proposed1–9/10–13, positionsnoneabsentexactauthority. Full16A684–695read;16B696–705partial;entirePDFthrough705read,706onwardunread.No16drafts. ActualBSB16:1–15;1Tim6:17–19;2Cor9:6–15;Luke12:42–48;Heb13:5–6;1Pet4:7–11read. ActualThayer5429prudent/comparative16:8 and3126wealthread.USCCB16:1–15notes/WesleyXVI1–18read;Calvin16opening/9actualexpositionread. USCCBcommissionreadingisdocumentedinterpretation, not independentlyverifieduniversal100percentcustom;neutralcontextshouldnotassertcommissionsfact. Greekfirstactedshrewdlyadverb5430versuscomparativemoreshoewd5429keepwordmappingcorrect. Future14–18primarydivorce/Lawneededbeforewriting;PDFviolentPharisees-forcingkingdomreadingdiffersWesley/USCCBactualinterpretation,mustnotpresentoneviewasconsensus.

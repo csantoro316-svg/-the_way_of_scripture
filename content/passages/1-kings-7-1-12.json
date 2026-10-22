@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "7:1-12",
+    "label": "1 Kings 7:1-12",
+    "slug": "1-kings-7-1-12"
+  },
+  "section_title": "What does Solomon build for the royal household?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Solomon, however, took thirteen years to complete the construction of his entire palace. 2 He built the House of the Forest of Lebanon a hundred cubits long, fifty cubits wide, and thirty cubits high, with four rows of cedar pillars supporting the cedar beams. 3 The house was roofed with cedar above the beams that rested on the pillars—forty-five beams, fifteen per row. 4 There were three rows of high windows facing one another in three tiers. 5 All the doorways had rectangular frames, with the openings facing one another in three tiers.",
+        "6 Solomon made his colonnade fifty cubits long and thirty cubits wide, with a portico in front of it and a canopy with pillars in front of the portico. 7 In addition, he built a hall for the throne, the Hall of Justice, where he was to judge. It was paneled with cedar from floor to ceiling. 8 And the palace where Solomon would live, set further back, was of similar construction. He also made a palace like this hall for Pharaoh’s daughter, whom he had married. 9 All these buildings were constructed with costly stones, cut to size and trimmed with saws inside and out from the foundation to the eaves, and from the outside to the great courtyard. 10 The foundations were laid with large, costly stones, some ten cubits long and some eight cubits long. 11 Above these were costly stones, cut to size, and cedar beams. 12 The great courtyard was surrounded by three rows of dressed stone and a row of trimmed cedar beams, as were the inner courtyard and portico of the house of the LORD."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The account of the temple pauses to describe Solomon’s palace complex, which takes thirteen years to complete. It includes the House of the Forest of Lebanon, a colonnade, the Hall of Justice, Solomon’s residence and a residence for Pharaoh’s daughter.",
+    "",
+    "The House of the Forest measures a hundred by fifty by thirty cubits. The colonnade has different dimensions, fifty by thirty cubits. The Hall of Justice is where the king judges. These are distinct parts of the royal complex.",
+    "",
+    "Costly dressed stones and cedar are used throughout, with courtyards linking the buildings. Royal life, public administration and judgment all require space in the account."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/7.htm) and [Gill](https://biblehub.com/commentaries/gill/1_kings/7.htm) read the longer time spent on the palace as consistent with greater urgency about the LORD’s house. On their reading, building the temple first shows the priority Solomon gives it.",
+    "",
+    "The [USCCB notes](https://bible.usccb.org/bible/1kings/7) place a different emphasis on the contrast: the narrator highlights that Solomon spends almost twice as long on his own house. They also see the repeated mention of Pharaoh’s daughter as keeping the question of his foreign marriage before the reader.",
+    "",
+    "The difference concerns what the comparison of building times suggests about Solomon’s priorities. The narrative records the scale and duration of both projects without directly explaining every motive behind them."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/7.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-seven-review.md"
+  }
+}

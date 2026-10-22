@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "15:22-29",
+    "label": "Romans 15:22-29",
+    "slug": "romans-15-22-29"
+  },
+  "section_title": "How do travel plans and a collection belong to the same mission?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "22 That is why I have often been hindered from coming to you. 23 But now that there are no further opportunities for me in these regions, and since I have longed for many years to visit you, 24 I hope to see you on my way to Spain. And after I have enjoyed your company for a while, you can equip me for my journey.",
+        "25 Now, however, I am on my way to Jerusalem to serve the saints there. 26 For Macedonia and Achaia were pleased to make a contribution for the poor among the saints in Jerusalem. 27 They were pleased to do it, and indeed they owe it to them. For if the Gentiles have shared in their spiritual blessings, they are obligated to minister to them with material blessings. 28 So after I have completed this service and have safely delivered this bounty to them, I will set off to Spain by way of you. 29 I know that when I come to you, I will come in the fullness of the blessing of Christ."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul explains that his work in other regions has delayed his visit to Rome. He hopes to see the believers there on his way to Spain, enjoy their company and receive their help for the journey.",
+    "",
+    "First, he is going to Jerusalem with a contribution for poor believers. Macedonia and Achaia have shared willingly, and Paul describes their material help in relation to the spiritual blessings Gentiles have received.",
+    "",
+    "The plans join fellowship, relief and the spread of the gospel. The Gentile churches’ gift gives practical expression to a relationship that crosses distance and background. Paul expects his visit to Rome to carry Christ’s blessing, while still speaking of plans yet to unfold."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a picture of partnership in mission and care for fellow believers. Material support expresses gratitude and shared belonging. Paul’s intended journey to Spain is clear; this passage itself does not record its completion."
+  ],
+  "god_plan_lines": [
+    "[Acts 11:27–30](https://biblehub.com/bsb/acts/11.htm) gives an earlier example of believers in Antioch sending relief to brothers in Judea, according to what each could give. It is a parallel in practical care across communities, rather than the same collection Paul describes here.",
+    "",
+    "Romans connects such care with the spiritual blessings Gentiles have received. The unity explained throughout the letter takes material form: people who belong to Christ bear responsibility for one another’s needs as well as for making the gospel known."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/15.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-fifteen-review.md"
+  }
+}

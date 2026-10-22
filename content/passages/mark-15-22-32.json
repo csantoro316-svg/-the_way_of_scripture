@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "15:22-32",
+    "label": "Mark 15:22-32",
+    "slug": "mark-15-22-32"
+  },
+  "section_title": "Why does Jesus remain on the cross?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "22 They brought Jesus to a place called Golgotha, which means The Place of the Skull. 23 There they offered Him wine mixed with myrrh, but He did not take it. 24 And they crucified Him. They also divided His garments by casting lots to decide what each of them would take. 25 It was the third hour when they crucified Him. 26 And the charge inscribed against Him read: THE KING OF THE JEWS. 27 Along with Jesus, they crucified two robbers, one on His right and one on His left.",
+        "29 And those who passed by heaped abuse on Him, shaking their heads and saying, “Aha! You who are going to destroy the temple and rebuild it in three days, 30 come down from the cross and save Yourself!” 31 In the same way, the chief priests and scribes mocked Him among themselves, saying, “He saved others, but He cannot save Himself! 32 Let the Christ, the King of Israel, come down now from the cross, so that we may see and believe!” And even those who were crucified with Him berated Him."
+      ]
+    }
+  ],
+  "context_lines": [
+    "At Golgotha, which Mark translates as the Place of the Skull, Jesus refuses wine mixed with myrrh and is crucified. The soldiers divide His clothes by casting lots. Mark gives the time as the third hour and records the charge placed above Him: the King of the Jews.",
+    "",
+    "Two robbers are crucified beside Him. Passersby mock His words about the temple and call for Him to save Himself. The chief priests and scribes join the mockery, demanding that the Christ, the King of Israel, come down so that they may see and believe. Even the men crucified alongside Him insult Him.",
+    "",
+    "The demand misunderstands the mission Jesus has already explained: He came to give His life as a ransom for others. Mark’s scene is full of people interpreting the cross as failure while the story is moving toward the saving death He foretold. ([Mark 10:32–45](https://biblehub.com/bsb/mark/10.htm))",
+    "",
+    "Luke also records a criminal asking Jesus to remember him and receiving His promise of being with Him in Paradise. That later response adds to the picture without telling us every step of the man’s change of heart. ([Luke 23:39–43](https://biblehub.com/bsb/luke/23.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christians broadly understand Jesus’ remaining on the cross as willing suffering for the sake of others. The Heidelberg Catechism, for example, describes the innocent Christ enduring condemnation to deliver those who need God’s grace, rather than treating His suffering as proof that He has no saving power. ([Heidelberg Catechism, questions 37–39](https://www.rca.org/about/theology/creeds-and-confessions/the-heidelberg-catechism/))"
+  ],
+  "god_plan_lines": [
+    "The mockery and the dividing of clothing recall Psalm 22, where a suffering man is surrounded by people who shake their heads and demand that God rescue him. John explicitly connects the soldiers’ casting lots with that psalm. The story of the cross is being told within Scripture’s account of suffering and God’s faithfulness. ([Psalm 22:6–18](https://biblehub.com/bsb/psalms/22.htm); [John 19:23–24](https://biblehub.com/bsb/john/19.htm))",
+    "",
+    "Colossians then explains what appearances hide: through the cross God cancels the debt standing against His people and defeats hostile powers. The scene that looks like the humiliation of a powerless prisoner becomes the place of forgiveness and victory. That is why the gospel’s hope rests in what Jesus accomplishes through the cross, rather than His coming down to satisfy the mockers. ([Colossians 2:9–15](https://biblehub.com/bsb/colossians/2.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/15.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-fifteen-middle-review.md"
+  }
+}

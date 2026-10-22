@@ -1,0 +1,52 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "2:31-35",
+    "label": "Daniel 2:31-35",
+    "slug": "daniel-2-31-35"
+  },
+  "section_title": "What does the king’s statue dream show?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "31 As you, O king, were watching, a great statue appeared. A great and dazzling statue stood before you, and its form was awesome. 32 The head of the statue was pure gold, its chest and arms were silver, its belly and thighs were bronze, 33 its legs were iron, and its feet were part iron and part clay.",
+        "34 As you watched, a stone was cut out, but not by human hands. It struck the statue on its feet of iron and clay, and crushed them. 35 Then the iron, clay, bronze, silver, and gold were shattered and became like chaff on the threshing floor in summer. The wind carried them away, and not a trace of them could be found. But the stone that had struck the statue became a great mountain and filled the whole earth."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Daniel describes a great, dazzling statue: a head of gold, chest and arms of silver, belly and thighs of bronze, legs of iron, and feet combining iron and clay.",
+    "",
+    "A stone cut without human hands strikes its feet and crushes the whole statue. All its materials become like chaff carried away by the wind, leaving no trace.",
+    "",
+    "The stone becomes a great mountain filling the earth. The contrast is between an impressive structure that cannot endure and something brought about without human workmanship that ultimately fills its place. The next verses explain what those images represent."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/daniel/2.htm) reads the statue as successive earthly kingdoms and the stone as Christ’s kingdom. [Cambridge](https://biblehub.com/commentaries/cambridge/daniel/2.htm) emphasizes the complete disappearance of the statue and the expanding reach of the kingdom represented by the mountain.",
+    "",
+    "The image is explained by the interpretation that follows. It need not be turned into a separate code in which every feature receives a meaning unrelated to that explanation."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/2.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-two-review.md"
+  }
+}

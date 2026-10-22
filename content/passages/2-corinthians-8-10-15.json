@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "2 Corinthians",
+    "citation": "8:10-15",
+    "label": "2 Corinthians 8:10-15",
+    "slug": "2-corinthians-8-10-15"
+  },
+  "section_title": "How can willing generosity become practical help?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 And this is my opinion about what is helpful for you in this matter: Last year you were the first not only to give, but even to have such a desire. 11 Now finish the work, so that you may complete it with the same eager desire, according to your means. 12 For if the eagerness is there, the gift is acceptable according to what one has, not according to what he does not have.",
+        "13 It is not our intention that others may be relieved while you are burdened, but that there may be equality. 14 At the present time, your surplus will meet their need, so that in turn their surplus will meet your need. This way there will be equality. 15 As it is written: “He who gathered much had no excess, and he who gathered little had no shortfall.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The Corinthians had begun the collection and wanted to take part a year earlier. Paul now urges them to bring that willingness to completion. His advice concerns a gift already begun, within the wider collection for believers in Jerusalem described in [1 Corinthians 16:1–4](https://biblehub.com/bsb/1_corinthians/16.htm).",
+    "",
+    "The amount is to reflect their means. A willing gift is acceptable according to what a person has. Paul gives no fixed sum or percentage here, and he explicitly says the purpose is not to relieve others while burdening the Corinthians.",
+    "",
+    "Their present surplus can meet someone else’s need. Another time, help may travel the other way. Paul pictures believers sharing responsibility for one another as circumstances change, with enough for people’s needs as the goal.",
+    "",
+    "To explain that goal, he quotes [Exodus 16:18](https://biblehub.com/bsb/exodus/16.htm). When Israel gathered manna in the wilderness, those who gathered more and those who gathered less each had enough to eat."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a call to complete a willing gift within one’s means and share resources so that others have enough. [Wesley’s notes on verses 12–15](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-the-corinthians/) and the [USCCB note on verses 12–15](https://bible.usccb.org/bible/2corinthians/8) both connect the giving with meeting need; the latter stresses that the aim is sharing rather than impoverishing the giver."
+  ],
+  "god_plan_lines": [
+    "Paul himself carries the story of God feeding Israel into the life of these churches. In [Exodus 16:1–18](https://biblehub.com/bsb/exodus/16.htm), God gives bread to people who have come out of slavery and are learning to depend on Him in the wilderness.",
+    "",
+    "Here, that picture of provision guides people who have resources they can share. God’s care for His people takes practical shape through their care for each other. The connection reaches across the two settings while preserving their difference: Israel gathered manna, and the Corinthians are preparing a collection."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_corinthians/8.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-corinthians-eight-closing-review.md"
+  }
+}

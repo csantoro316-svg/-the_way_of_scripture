@@ -5,30 +5,59 @@
     "label": "Philemon 1:4-7",
     "slug": "philemon-1-4-7"
   },
-  "section_title": "Philemon’s Faith and Love",
+  "section_title": "What does Paul pray for in Philemon’s shared life of faith?",
   "versions": [
     {
       "label": "BSB",
-      "text": "I always thank my God, remembering you in my prayers, because I hear about your faith in the Lord Jesus and your love for all the saints. I pray that your partnership in the faith may become effective as you fully acknowledge every good thing that is ours in Christ. I take great joy and encouragement in your love, because you, brother, have refreshed the hearts of the saints."
+      "paragraphs": [
+        "4 I always thank my God, remembering you in my prayers, 5 because I hear about your faith in the Lord Jesus and your love for all the saints. 6 I pray that your partnership in the faith may become effective as you fully acknowledge every good thing that is ours in Christ.",
+        "7 I take great joy and encouragement in your love, because you, brother, have refreshed the hearts of the saints."
+      ]
     }
   ],
   "context_lines": [
-    "This section establishes the moral ground for everything Paul will ask next. He is not flattering Philemon mechanically; he is calling attention to the Christian character Philemon already claims and displays."
+    "Paul thanks God for what he hears of Philemon’s faith in Jesus and love for the saints. The thanksgiving identifies a good already at work before Paul asks for another act of love.",
+    "",
+    "He prays that Philemon’s partnership in faith will become effective through recognizing every good thing they share in Christ. The Greek word [koinonia](https://biblehub.com/greek/2842.htm) (koy-noh-NEE-ah) means fellowship or shared participation. Here it points to a faith lived in relationship, rather than something held privately.",
+    "",
+    "Paul has already received joy and encouragement from Philemon’s love, because others have been refreshed through him. That language prepares for the later appeal to refresh Paul’s heart by receiving Onesimus."
   ],
   "common_interpretation_lines": [
-    "Paul begins with thanksgiving and prayer, but the point is not merely politeness. He highlights Philemon's **faith**, **love**, and history of **refreshing the hearts of the saints** so that the coming appeal will rest on Philemon's lived identity in Christ.",
+    "[Calvin](https://biblehub.com/commentaries/calvin/philemon/1.htm) reads the prayer as asking for faith to show its effectiveness through good works. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-philemon/) emphasizes faith becoming known to others through the love they see. Both connect the knowledge and sharing language with a life that benefits people, rather than information acquired for its own sake.",
     "",
-    "In other words, Paul is not preparing Philemon for a legal argument. He is preparing him for a Christian one. What follows is going to test whether Philemon's love reaches as far as his confession says it should."
+    "The prayer builds on Philemon’s existing love while asking for further fruit. The displayed BSB’s partnership wording emphasizes the life believers share. In the letter that follows, this partnership will be tested through the way Philemon receives Onesimus."
+  ],
+  "god_plan_lines": [
+    "[Philippians 1:9–11](https://biblehub.com/bsb/philippians/1.htm) similarly joins growing knowledge with love, discernment and the fruit that comes through Jesus Christ. Paul’s prayer here belongs with that purpose of a faith which becomes fruitful in relationships.",
+    "",
+    "[Acts 2:42–47](https://biblehub.com/bsb/acts/2.htm) gives another picture of shared faith taking visible form: teaching, fellowship, prayer and practical provision. These are related examples of God forming a people whose life together expresses the good they have received in Christ."
   ],
   "current_position_lines": [
-    "This site's current position is that **Philemon 1:4-7** shows prayer functioning as thanksgiving, spiritual concern, and joyful recognition of grace already at work in another believer. It is not a request system aimed at securing private outcomes.",
-    "",
-    "Paul's prayer is relational and kingdom-oriented. He gives thanks, asks for growth in shared faith, and ties the whole thing to the refreshment of the saints."
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
   ],
   "deeper_study": [
     {
       "title": "What Does Prayer Look Like?",
       "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/philemon/1.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-philemon-opening-review.md"
+  }
 }

@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "11:4-6",
+    "label": "Hebrews 11:4-6",
+    "slug": "hebrews-11-4-6"
+  },
+  "section_title": "What do Abel and Enoch show us about pleasing God?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "4 By faith Abel offered God a better sacrifice than Cain did. By faith he was commended as righteous when God gave approval to his gifts. And by faith he still speaks, even though he is dead.",
+        "5 By faith Enoch was taken up so that he did not see death: “He could not be found, because God had taken him away.” For before he was taken, he was commended as one who pleased God. 6 And without faith it is impossible to please God. For anyone who approaches Him must believe that He exists and that He rewards those who earnestly seek Him."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The first named examples are Abel and Enoch from [Genesis 4](https://biblehub.com/bsb/genesis/4.htm) and [Genesis 5](https://biblehub.com/bsb/genesis/5.htm). Abel’s offering was accepted through faith, and his witness continues after his death. Enoch was taken by God without seeing death and was commended as pleasing Him.",
+    "",
+    "Their outcomes are strikingly different. Abel was killed by his brother, while Enoch was taken away. Both are presented as people of faith. The way a person’s earthly life ends is therefore not a simple measure of whether God approves of that person.",
+    "",
+    "Verse 6 explains what unites them: drawing near to God requires believing that He exists and that seeking Him is not in vain. The word [translated earnestly seek](https://biblehub.com/greek/1567.htm) can describe seeking God and His favor. It is a personal response of trust, rather than merely agreeing that some divine being exists."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/11.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) both connect Abel’s acceptable offering with faith, while explaining its significance differently. Calvin emphasizes that Abel himself was accepted by God, rather than imagining that an animal offering pleased God on its own. Wesley understands the offering as expressing hope in the coming Redeemer and His sacrifice.",
+    "",
+    "They also discuss Abel’s continuing voice. Calvin connects it with God responding to his blood crying from the ground. The [USCCB note](https://bible.usccb.org/bible/hebrews/11) considers that possibility but favors the continuing witness of Abel’s story. Both readings recognize that his death did not erase his testimony.",
+    "",
+    "Enoch’s example then leads to the shared point of verse 6: God is approached in faith, with confidence that He responds to those who seek Him. The passage does not promise that every faithful person will escape Abel’s suffering."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 12:22–24](https://biblehub.com/bsb/hebrews/12.htm) explicitly brings Abel into its account of the new covenant, saying that Jesus’ sprinkled blood speaks a better word than Abel’s. The connection is made by Hebrews itself; it does not require treating every detail of Abel’s death as a prediction of Christ.",
+    "",
+    "Enoch’s escape from death offers a related parallel to the hope in [1 Corinthians 15:51–54](https://biblehub.com/bsb/1_corinthians/15.htm), where God’s people are changed and death is overcome. That is a parallel about God’s power over death, rather than a timetable drawn from Enoch’s story."
+  ],
+  "current_position_lines": [
+    "Our study [Prayer and Faith](https://thewayofscripture.com/studies/prayer-and-faith.html) connects this verse with trusting and seeking God rather than finding the right wording for a request. It draws on Jesus crediting faith when people came to Him in different ways. Prayer is an expression of that trust, rather than a technique whose wording controls God’s response."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/11.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-eleven-opening-review.md",
+    "position_source_detail": "Prayer and Faith — content/studies/prayer_and_faith.md:141–155, explicit Hebrews11:6 application; limited to trusting/seeking rather than prayer wording."
+  }
+}

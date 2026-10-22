@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "Ezra",
+    "citation": "7:11-20",
+    "label": "Ezra 7:11-20",
+    "slug": "ezra-7-11-20"
+  },
+  "section_title": "What does the king authorize Ezra to do?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "11 This is the text of the letter King Artaxerxes had given to Ezra the priest and scribe, an expert in the commandments and statutes of the LORD to Israel: 12 Artaxerxes, king of kings. To Ezra the priest, the scribe of the Law of the God of heaven: Greetings. 13 I hereby decree that any volunteers among the Israelites in my kingdom, including the priests and Levites, may go up with you to Jerusalem. 14 You are sent by the king and his seven counselors to evaluate Judah and Jerusalem according to the Law of your God, which is in your hand.",
+        "15 Moreover, you are to take with you the silver and gold that the king and his counselors have freely offered to the God of Israel, whose dwelling is in Jerusalem, 16 together with all the silver and gold you may find in all the province of Babylon, as well as the freewill offerings of the people and priests to the house of their God in Jerusalem. 17 With this money, therefore, you are to buy as many bulls, rams, and lambs as needed, together with their grain offerings and drink offerings, and offer them on the altar at the house of your God in Jerusalem. 18 You and your brothers may do whatever seems best with the rest of the silver and gold, according to the will of your God. 19 You must deliver to the God of Jerusalem all the articles given to you for the service of the house of your God. 20 And if anything else is needed for the house of your God that you may have occasion to supply, you may pay for it from the royal treasury."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Artaxerxes’s letter allows willing Israelites, priests and Levites to go with Ezra to Jerusalem. The king and his seven counselors commission him to examine the situation in Judah and Jerusalem according to God’s Law.",
+    "",
+    "Ezra is also to carry the king’s gifts and the people’s freewill offerings. The money is assigned first to animals and accompanying offerings for the temple altar, with remaining funds to be used according to God’s will.",
+    "",
+    "Temple articles must be delivered, and further needs may be supplied from the royal treasury. The letter gives both permission for the journey and practical means for the work Ezra is to undertake."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezra/7.htm) emphasizes the generosity of a foreign king toward the worship of Israel’s God. [Gill](https://biblehub.com/commentaries/gill/ezra/7.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-ezra/) understand the inquiry as examining the people’s life against the Law Ezra knows. The commission joins material support with responsibility for instruction and conduct."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Returning to the Word",
+      "href": "../studies/returning-to-the-word.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezra/7.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezra-seven-eight-review.md"
+  }
+}

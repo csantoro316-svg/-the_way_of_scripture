@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "2:15-20",
+    "label": "Luke 2:15-20",
+    "slug": "luke-2-15-20"
+  },
+  "section_title": "How do the shepherds respond to the news?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 When the angels had left them and gone into heaven, the shepherds said to one another, “Let us go to Bethlehem and see this thing that has happened, which the Lord has made known to us.” 16 So they hurried off and found Mary and Joseph and the Baby, who was lying in the manger. 17 After they had seen the Child, they spread the message they had received about Him. 18 And all who heard it were amazed at what the shepherds said to them.",
+        "19 But Mary treasured up all these things and pondered them in her heart. 20 The shepherds returned, glorifying and praising God for all they had heard and seen, which was just as the angel had told them."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After the angels leave, the shepherds decide to go to Bethlehem. They treat the announcement as something the Lord has made known and hurry to see what has happened. They find Mary, Joseph, and the baby in the manger, just as they were told.",
+    "",
+    "Seeing leads to speaking: they spread the message about the child, and those who hear are amazed. Mary treasures the events and considers them in her heart. Luke distinguishes the public response of wonder from her continuing reflection without claiming that she already understands everything.",
+    "",
+    "The shepherds return to their ordinary setting praising God for what they have heard and seen. The passage moves from receiving the message to finding it confirmed, sharing it, and giving God glory. Luke describes no star leading these shepherds; Matthew’s star belongs to his account of the Magi. ([Matthew 2:1–12](https://biblehub.com/bsb/matthew/2.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian traditions commonly see the shepherds as responding to God’s message with action, testimony, and praise, while Mary remembers and reflects on what is unfolding. Their response keeps attention on the child and the Lord who has made Him known. ([Wesley on Luke 2:20](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [USCCB notes on Luke 2:8–20](https://bible.usccb.org/bible/luke/2))"
+  ],
+  "god_plan_lines": [
+    "The movement from hearing to sharing belongs to the wider way the gospel reaches people. Paul explains that people hear because someone brings the message, and faith comes through hearing the word of Christ. The shepherds’ report is an early example of news about Jesus being carried from those who have received it to others. ([Romans 10:14–17](https://biblehub.com/bsb/romans/10.htm))",
+    "",
+    "Later in Luke, Jesus describes His family in terms of hearing God’s word and carrying it out. When a woman blesses His mother, He likewise directs attention to those who hear and obey God’s word. Mary’s receiving, remembering, and believing belong within this larger call to a life that responds to God, a call that reaches beyond family status to all who hear Him. ([Luke 8:19–21](https://biblehub.com/bsb/luke/8.htm); [Luke 11:27–28](https://biblehub.com/bsb/luke/11.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-two-opening-review.md"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "8:1-4",
+    "label": "Matthew 8:1-4",
+    "slug": "matthew-8-1-4"
+  },
+  "section_title": "Jesus Is Willing to Make Him Clean",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 When Jesus came down from the mountain, large crowds followed Him. 2 Suddenly a leper came and knelt before Him, saying, “Lord, if You are willing, You can make me clean.”",
+        "3 Jesus reached out His hand and touched the man. “I am willing,” He said. “Be clean!” And immediately his leprosy was cleansed. 4 Then Jesus instructed him, “See that you don’t tell anyone. But go, show yourself to the priest and offer the gift prescribed by Moses, as a testimony to them.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "After the Sermon on the Mount, Matthew shows Jesus' authority in action. Large crowds follow Him down the mountain. A man with leprosy approaches, kneels, and asks to be made clean. His request expresses confidence in Jesus' ability while leaving the decision with Him.",
+    "",
+    "Being clean matters here in more than a medical sense. [Leviticus 13:45–46](https://biblehub.com/bsb/leviticus/13.htm) directs someone declared unclean with this condition to live outside the camp. [Leviticus 14:1–20](https://biblehub.com/bsb/leviticus/14.htm) provides for examination by a priest, cleansing, return to the camp, and offerings after the condition has healed. The healing therefore opens the way to a fuller restoration of the man's life among his people.",
+    "",
+    "Jesus reaches out and touches him, then makes him clean immediately. The Greek verb is καθαρίζω, *katharizō* (kah-thah-REE-zoh), meaning to make clean or cleanse. [Thayer's Greek Lexicon](https://biblehub.com/greek/2511.htm) includes the healing of leprosy under this meaning. Here the word describes a real bodily healing within the setting of the Law's cleansing requirements.",
+    "",
+    "Jesus sends him to the priest and tells him to bring Moses' prescribed gift. The priest is to examine a man whom Jesus has already healed; the offering is not what brings about the cure. Jesus calls this a testimony to them. He does not tell the man to set aside the Law's provision for being received as clean.",
+    "",
+    "The command to keep quiet is also part of the encounter. [Mark 1:40–45](https://biblehub.com/bsb/mark/1.htm) reports that the man instead spread the news, after which the crowds kept Jesus from entering towns openly. Matthew does not explain every reason for the command, so that related account helps without supplying an invented motive."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a display of Jesus' compassion and power to restore someone who was unclean, joined with the man's humble confidence in Him. The Catholic [Catechism, 1503–1505](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_two/article_5/i_its_foundations_in_the_economy_of_salvation.html), places Jesus' healings within His care for the whole person and the coming of God's kingdom, while [Wesley on Matthew 8:4](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) also emphasizes the priestly examination as testimony to Jesus' identity."
+  ],
+  "god_plan_lines": [
+    "Jesus later names the cleansing of lepers among the works that answer John's question about whether He is the coming One in [Matthew 11:2–6](https://biblehub.com/bsb/matthew/11.htm). This healing therefore belongs within the larger revelation of who Jesus is. It is more than an isolated act of kindness, although His kindness is real.",
+    "",
+    "The movement from uncleanness toward restored life also offers a helpful parallel with Christ's saving work. [Hebrews 9:11–14](https://biblehub.com/bsb/hebrews/9.htm) compares the Law's outward purification with the deeper cleansing Christ brings through His own blood: a cleansed conscience and a life of service to God. The same Greek verb for cleansing appears there. This is a comparison between bodily restoration and rescue from sin; Matthew does not say the man's illness resulted from a particular sin, or assign a hidden meaning to every part of the encounter."
+  ],
+  "current_position_lines": [
+    "Worship as the Early Church Knew It understands the man's bowing as a personal plea expressed through physical humility. He approaches Jesus in reverent submission and recognizes His divine authority. The focus is his humble appeal to Jesus, rather than the form of a religious service.",
+    "",
+    "That is the study's position on the man's approach in verse 2. It does not provide a separate site position on every detail of the healing or the priestly instructions."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/8.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-cleansing-and-centurion-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It — Matthew 8:2, The Leper’s Approach"
+  }
+}

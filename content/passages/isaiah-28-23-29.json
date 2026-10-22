@@ -5,42 +5,60 @@
     "label": "Isaiah 28:23-29",
     "slug": "isaiah-28-23-29"
   },
-  "section_title": "Listen and Hear",
+  "section_title": "Why does Isaiah end the warning with a farmer’s work?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "23 Listen and hear my voice.",
-        "Pay attention and hear what I say.",
-        "24 Does the plowman plow for planting every day?",
-        "Does he continuously loosen and harrow the soil?",
-        "25 When he has leveled its surface,",
-        "does he not sow caraway and scatter cumin?",
-        "He plants wheat in rows and barley in plots,",
-        "and rye within its border.",
-        "26 For his God instructs",
-        "and teaches him properly.",
-        "27 Surely caraway is not threshed with a sledge,",
-        "and the wheel of a cart is not rolled over the cumin.",
-        "But caraway is beaten out with a stick,",
-        "and cumin with a rod.",
-        "28 Grain for bread must be ground,",
-        "but it is not endlessly threshed.",
-        "Though the wheels of the cart roll over it,",
-        "the horses do not crush it.",
-        "29 This also comes from the LORD of Hosts,",
-        "who is wonderful in counsel",
-        "and excellent in wisdom."
+        "23 Listen and hear my voice. Pay attention and hear what I say. 24 Does the plowman plow for planting every day? Does he continuously loosen and harrow the soil? 25 When he has leveled its surface, does he not sow caraway and scatter cumin? He plants wheat in rows and barley in plots, and rye within its border. 26 For his God instructs and teaches him properly.",
+        "27 Surely caraway is not threshed with a sledge, and the wheel of a cart is not rolled over the cumin. But caraway is beaten out with a stick, and cumin with a rod. 28 Grain for bread must be ground, but it is not endlessly threshed. Though the wheels of the cart roll over it, the horses do not crush it. 29 This also comes from the LORD of Hosts, who is wonderful in counsel and excellent in wisdom."
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 28**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "The listener is called to pay attention to the ordinary work of farming. A plowman does not keep breaking the ground forever. He prepares it and then plants different crops in their proper places.",
+    "",
+    "Harvesting also calls for judgment. Caraway and cumin do not receive the same treatment as grain for bread. The tools and amount of force must suit what is being worked on; threshing does not continue endlessly.",
+    "",
+    "God is named as the source of the farmer’s instruction. The closing declaration praises the Lord as wonderful in counsel and excellent in wisdom. After the warnings about failed leaders and false security, the farming picture directs attention to purposeful action governed by wisdom."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Listen and Hear** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/isaiah/28.htm) and [Wesley](https://biblehub.com/commentaries/wes/isaiah/28.htm) read the farming scene as an illustration of God’s wise government. Different tasks have different times, and different crops receive different treatment. His patience is not proof that judgment will never come.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 28** remains the first control on meaning."
+    "[Gill](https://biblehub.com/commentaries/gill/isaiah/28.htm) emphasizes care in the threshing: the farmer does not destroy the grain by continuing without limit. Henry similarly applies the picture to correction serving a purpose rather than continuing for its own sake. The comparison concerns the wisdom and purpose of God’s dealings."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The purpose of correction is developed for believers in [Hebrews 12:1–11](https://biblehub.com/bsb/hebrews/12.htm). The passage directs them to Jesus, who endured the cross, and describes the Father’s discipline as His treatment of children He loves.",
+    "",
+    "Hebrews says that this discipline is for their good, so they may share His holiness, and that it later yields righteousness and peace. That is a thematic connection with Isaiah’s purposeful farming image, rather than a direct quotation or a way to identify the cause of every individual hardship.",
+    "",
+    "The larger account is of God preparing His people for a life that reflects His character. His wisdom is directed toward fruit, not suffering as an end in itself."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/28.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-twenty-six-eight-review.md"
+  }
 }

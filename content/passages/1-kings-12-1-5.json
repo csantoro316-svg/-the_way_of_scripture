@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "12:1-5",
+    "label": "1 Kings 12:1-5",
+    "slug": "1-kings-12-1-5"
+  },
+  "section_title": "What do the people ask of their new king?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Then Rehoboam went to Shechem, for all Israel had gone there to make him king. 2 When Jeroboam son of Nebat heard about this, he was still in Egypt where he had fled from King Solomon and had been living ever since. 3 So they sent for Jeroboam, and he and the whole assembly of Israel came to Rehoboam and said, 4 “Your father put a heavy yoke on us. But now you must lighten the burden of your father’s service and the heavy yoke he put on us, and we will serve you.” 5 Rehoboam answered, “Go away for three days and then return to me.” So the people departed."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Rehoboam goes to Shechem, where the people have gathered to make him king. Jeroboam returns from Egypt after being summoned, and joins the assembly in bringing a request to Solomon’s son.",
+    "",
+    "The people describe Solomon’s service as a heavy yoke—a burden they have had to carry. They offer to serve Rehoboam if he lightens it. He asks for three days before giving his answer.",
+    "",
+    "The request brings another side of Solomon’s great projects into view. The new king faces a decision about the people who sustain the kingdom, not merely about the position he inherits."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) understands the complaint as concerning heavy taxes and royal expenses. [Henry](https://biblehub.com/commentaries/mhc/1_kings/12.htm) is more skeptical: he considers the charges false or exaggerated in light of the prosperity under Solomon.",
+    "",
+    "The [USCCB notes](https://bible.usccb.org/bible/1kings/12) instead treat Solomon’s oppression as a real source of discontent that Rehoboam’s response will intensify. These readings differ over the fairness of the complaint. The narrative records the people’s plea and then makes the king’s response central."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/12.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-twelve-review.md"
+  }
+}

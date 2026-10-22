@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "13:10-16",
+    "label": "Ezekiel 13:10-16",
+    "slug": "ezekiel-13-10-16"
+  },
+  "section_title": "Can whitewash make a weak wall safe?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 Because they have led My people astray, saying, ‘Peace,’ when there is no peace, and whitewashing any flimsy wall that is built, 11 tell those whitewashing the wall that it will fall. Rain will come in torrents, I will send hailstones plunging down, and a windstorm will burst forth. 12 Surely when the wall has fallen, you will not be asked, ‘Where is the whitewash with which you covered it?’",
+        "13 Therefore this is what the Lord GOD says: In My wrath I will release a windstorm, and in My anger torrents of rain and hail will fall with destructive fury. 14 I will tear down the wall you whitewashed and level it to the ground, so that its foundation is exposed. The city will fall, and you will be destroyed within it. Then you will know that I am the LORD. 15 And after I have vented My wrath against the wall and against those who whitewashed it, I will say to you: ‘The wall is gone, and so are those who whitewashed it— 16 those prophets of Israel who prophesied to Jerusalem and saw a vision of peace for her when there was no peace, declares the Lord GOD.’"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The false prophets promise peace when there is no peace. Their assurances are compared to coating a flimsy wall with whitewash: its appearance improves, but its weakness remains.",
+    "",
+    "The Hebrew word תָּפֵל, taphel (tah-FEL), is identified as whitewash in this passage by [Brown–Driver–Briggs](https://biblehub.com/hebrew/8602.htm). The picture is a surface covering that does not make an unsafe wall dependable.",
+    "",
+    "Torrential rain, hail and wind will bring the wall down. The Lord says that He will tear it down to its foundation, and those who covered it will be destroyed with it.",
+    "",
+    "The closing verses return from the wall to the people it pictures: the prophets have announced peace for Jerusalem without a true vision of peace from God. The collapse will expose both the assurance and those who supplied it."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezekiel/13.htm) reads the wall as a false expectation built by one prophet and made more convincing by others. [Wesley](https://biblehub.com/commentaries/wes/ezekiel/13.htm) similarly emphasizes teaching that encourages people to feel safe in wrongdoing.",
+    "",
+    "The [USCCB notes](https://bible.usccb.org/bible/ezekiel/13) describe the whitewash as concealing the wall’s defects, just as predictions of peace concealed the danger facing the people. These readings share the central point: a reassuring surface cannot change the condition beneath it."
+  ],
+  "god_plan_lines": [
+    "[Matthew 7:24–27](https://biblehub.com/bsb/matthew/7.htm) offers a related building-and-storm picture. Jesus compares hearing and doing His words with building on rock; hearing without acting is like building on sand, where the storm brings collapse.",
+    "",
+    "This is a parallel, rather than an explicit quotation of Ezekiel. Both pictures challenge an appearance of safety that will not survive the test. Jesus brings the response into focus: security rests in receiving His teaching and acting on it, rather than merely hearing it or admiring the building."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/13.htm",
+    "plan_basis": [
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-thirteen-review.md"
+  }
+}

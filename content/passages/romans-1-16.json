@@ -5,25 +5,49 @@
     "label": "Romans 1:16",
     "slug": "romans-1-16"
   },
-  "section_title": "",
+  "section_title": "What gives the gospel its power to save?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"For I am not ashamed of the gospel, because it is the power of God that brings salvation to everyone who believes: first to the Jew, then to the Gentile.\""
+      "label": "BSB",
+      "paragraphs": [
+        "16 I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes, first to the Jew, then to the Greek."
+      ]
     }
   ],
   "context_lines": [
-    "Romans 1:16 should be read within the flow of its chapter and the larger argument of Romans."
+    "Paul has just said he is eager to preach in Rome. He now explains why he is unashamed: the gospel is God’s power for salvation to everyone who believes. His confidence rests in God’s saving work, rather than the prestige of the messenger or the city receiving him.",
+    "",
+    "The invitation reaches the Jew first and also the Greek. The order preserves the connection with God’s promises to Israel while making clear that the saving message reaches beyond Israel. Verse 17 continues the thought by connecting God’s righteousness and faith. Read the full movement in [Romans 1:16–17](https://the-way-of-scripture.web.app/passages/romans-1-16-17.html)."
   ],
   "common_interpretation_lines": [
-    "Not the power of God that inspires people to be better. The power of God that brings salvation. Salvation from what? From sin and its consequence \u2014 death \u2014 and from separation from God that sin produces. The gospel saves because it announces that what sin demanded has been paid, and that the One who paid it has risen.",
-    "",
-    "Grace. Through faith. Not earned. Not deserved. Not produced by religious effort or moral progress or doctrinal correctness. Given. The gospel is not an achievement. It is a gift."
+    "Christians commonly understand this verse as confidence in God’s saving power through the gospel, offered to people across the distinction between Jew and Gentile. The statement identifies believers as those who receive salvation; it does not say that hearing the message automatically saves every hearer."
+  ],
+  "god_plan_lines": [
+    "The same movement appears in [Acts 13:46–48](https://biblehub.com/bsb/acts/13.htm), where Paul and Barnabas speak first to Jewish hearers and then turn to Gentiles, citing God’s purpose of salvation reaching the ends of the earth. Romans presents the gospel’s wide invitation as part of God’s purpose, rather than a message restricted to one ancestry."
+  ],
+  "current_position_lines": [
+    "The Gospel According to Jesus uses Romans 1:16 to explain that the gospel announces Jesus’ death for sins and His resurrection, through which God brings salvation to those who believe. Our position is that this salvation is God’s gift through faith in Christ, rather than something earned by religious effort or moral improvement."
   ],
   "deeper_study": [
     {
       "title": "The Gospel According to Jesus",
       "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-romans-opening-review.md",
+    "position_source_detail": "The Gospel According to Jesus — The Core, Romans 1:16 and Ephesians 2:8–9"
+  }
 }

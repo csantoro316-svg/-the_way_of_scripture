@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "15:1-8",
+    "label": "1 Kings 15:1-8",
+    "slug": "1-kings-15-1-8"
+  },
+  "section_title": "Why does David’s royal line continue through an unfaithful king?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 In the eighteenth year of the reign of Jeroboam son of Nebat, Abijam became king of Judah, 2 and he reigned in Jerusalem three years. His mother’s name was Maacah daughter of Abishalom. 3 And Abijam walked in all the sins that his father before him had committed, and his heart was not as fully devoted to the LORD his God as the heart of David his forefather had been. 4 Nevertheless, for the sake of David, the LORD his God gave him a lamp in Jerusalem by raising up a son to succeed him and to make Jerusalem strong. 5 For David had done what was right in the eyes of the LORD and had not turned aside from anything the LORD commanded all the days of his life, except in the matter of Uriah the Hittite.",
+        "6 And there was war between the houses of Rehoboam and Jeroboam all the days of Abijam’s life. 7 As for the rest of the acts of Abijam, along with all his accomplishments, are they not written in the Book of the Chronicles of the Kings of Judah? And there was war between Abijam and Jeroboam. 8 And Abijam rested with his fathers and was buried in the City of David, and his son Asa reigned in his place."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Abijam succeeds Rehoboam and reigns three years in Jerusalem. The account measures his life by devotion to the LORD: he continues his father’s sins rather than following David’s example of wholehearted faithfulness.",
+    "",
+    "Yet the LORD gives David’s house a continuing lamp in Jerusalem by raising up a son to succeed Abijam. The reason named is God’s regard for David, not approval of Abijam’s conduct.",
+    "",
+    "The account explicitly remembers David’s grave sin concerning Uriah the Hittite. Its comparison is therefore not a claim that David never sinned. After a reign marked by continuing war with Jeroboam, Abijam dies and his son Asa succeeds him."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) and [Gill](https://biblehub.com/commentaries/gill/1_kings/15.htm) understand the lamp as a son and successor through whom David’s royal line continues. [Henry](https://biblehub.com/commentaries/mhc/1_kings/15.htm) connects that continuing line with God maintaining His purpose despite the failure of particular rulers.",
+    "",
+    "Wesley reads the assessment of David as describing the overall direction of his loyalty, while recognizing the deliberate and sustained wrongdoing concerning Uriah. The favorable comparison does not make that wrong disappear."
+  ],
+  "god_plan_lines": [
+    "The continuing royal line matters within the promise of a lasting kingdom through David’s descendant. In [Luke 1:30–33](https://biblehub.com/bsb/luke/1.htm), the angel announces that Jesus will receive David’s throne and reign without end.",
+    "",
+    "This gives the preserved line its wider significance in the Bible’s story. God’s purpose through David reaches beyond the short and troubled reign of any one successor. The New Testament directs that hope toward Jesus, rather than treating Abijam himself as the faithful king the people ultimately need."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/15.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-fifteen-review.md"
+  }
+}

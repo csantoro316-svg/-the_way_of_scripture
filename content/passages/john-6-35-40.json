@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "6:35-40",
+    "label": "John 6:35-40",
+    "slug": "john-6-35-40"
+  },
+  "section_title": "What does Jesus promise to those who come to Him?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "35 Jesus answered, “I am the bread of life. Whoever comes to Me will never hunger, and whoever believes in Me will never thirst. 36 But as I stated, you have seen Me and still you do not believe. 37 Everyone the Father gives Me will come to Me, and the one who comes to Me I will never drive away.",
+        "38 For I have come down from heaven, not to do My own will, but to do the will of Him who sent Me. 39 And this is the will of Him who sent Me, that I shall lose none of those He has given Me, but raise them up at the last day. 40 For it is My Father’s will that everyone who looks to the Son and believes in Him shall have eternal life, and I will raise him up at the last day.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus identifies Himself as the bread of life and connects coming to Him with believing in Him. He tells the people that they have seen Him and still do not believe.",
+    "",
+    "He then speaks of those the Father gives Him coming to Him, and promises not to drive away the person who comes. His purpose is to do the will of the Father who sent Him: to lose none of those given to Him, and to raise believers at the last day.",
+    "",
+    "The repeated reference to the Father’s will places the promise within Jesus’ mission. The gift reaches beyond satisfying a present hunger to eternal life and resurrection."
+  ],
+  "common_interpretation_lines": [
+    "Christian readers agree that Jesus promises to welcome those who come to Him and to give believers life and resurrection. Where traditions differ is how the Father’s giving and the believer’s continuing faith fit together.",
+    "",
+    "Reformed teaching in the Westminster Confession says that God brings those He has chosen to Christ, makes them willing to come, and preserves them to the end. Calvin reads these verses as an assurance that none whom the Father gives to the Son will finally be lost. ([Westminster Confession 10.1–2; 17.1–3](https://www.opc.org/wcf.html); [Calvin on John 6:37–39](https://biblehub.com/commentaries/calvin/john/6.htm))",
+    "",
+    "Wesley reads the promises with the condition of continuing in faith to the end. Catholic teaching likewise describes faith as God’s free gift, while teaching that it can be lost and must be nourished through a life of faith and love. These broader teachings help explain why their readers do not take the promise as removing the call to persevere. ([Wesley on John 6:37–40](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/); [Catechism §162](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_three/article_1/iii_the_characteristics_of_faith.index.html))"
+  ],
+  "god_plan_lines": [
+    "Paul describes Christ’s resurrection as the beginning of the harvest for those who belong to Him. Those who are His will be raised at His coming. The promise here rests within that larger victory over death, made certain by the Son’s own resurrection. ([1 Corinthians 15:20–23](https://biblehub.com/bsb/1_corinthians/15.htm))",
+    "",
+    "The same passage looks ahead to the defeat of death as the last enemy and the completion of Christ’s reign under the Father. Raising believers is therefore part of God’s purpose to overcome death and bring His rule to completion. ([1 Corinthians 15:24–28](https://biblehub.com/bsb/1_corinthians/15.htm))"
+  ],
+  "current_position_lines": [
+    "Our study Prayer and Faith reads the true bread from heaven as Christ Himself, whom the Father gives for life. It connects this passage with daily dependence on Him as the source of lasting life, rather than treating bread only as material provision. Our study Prayer and Faith identifies John 6:39–40 as an explicit statement of the Father’s will: eternal life and resurrection for those who look to the Son and believe in Him. It uses that revealed purpose to explain what it means to pray in line with God’s will."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/6.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-john-six-bread-and-promise-review.md",
+    "position_source_detail": "Prayer and Faith: Section4 The Missing Link — Christ as the Living Bread; developed John6:32–58 discussion and quoted32–33/35/48–51/58. Limited to identity of bread/faith/dependence, without originating a Eucharistic or election position. Prayer and Faith: Section1 What His Will Actually Means, direct John6:39–40 discussion. Limited to Father’s stated purpose of life and resurrection, not a new ruling about the possibility of falling away."
+  }
+}

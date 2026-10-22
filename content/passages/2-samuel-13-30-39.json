@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "13:30-39",
+    "label": "2 Samuel 13:30-39",
+    "slug": "2-samuel-13-30-39"
+  },
+  "section_title": "How does the report of Amnon’s death leave the family divided?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "30 While they were on the way, a report reached David: “Absalom has struck down all the sons of the king; not one of them is left!” 31 Then the king stood up, tore his clothes, and lay down on the ground. And all his servants stood by with their clothes torn. 32 But Jonadab, the son of David’s brother Shimeah, spoke up: “My lord must not think they have killed all the sons of the king, for only Amnon is dead. In fact, Absalom has planned this since the day Amnon violated his sister Tamar. 33 So now, my lord the king, do not take to heart the report that all the sons of the king are dead. Only Amnon is dead.”",
+        "34 Meanwhile, Absalom had fled. When the young man standing watch looked up, he saw many people coming down the road west of him, along the side of the hill. And the watchman went and reported to the king, “I see men coming from the direction of Horonaim, along the side of the hill.” 35 So Jonadab said to the king, “Look, the sons of the king have arrived! It is just as your servant said.” 36 And as he finished speaking, the sons of the king came in, wailing loudly. Then the king and all his servants also wept very bitterly.",
+        "37 Now Absalom fled and went to Talmai son of Ammihud, the king of Geshur. But David mourned for his son every day. 38 After Absalom had fled and gone to Geshur, he stayed there three years. 39 And King David longed to go to Absalom, for he had been consoled over Amnon’s death."
+      ]
+    }
+  ],
+  "context_lines": [
+    "A report reaches David saying that Absalom has killed all the king’s sons. David and his servants tear their clothes, and he lies on the ground. Jonadab counters that only Amnon is dead and connects the killing with Absalom’s purpose since Tamar’s assault.",
+    "",
+    "The other sons arrive, confirming that the first report was exaggerated. They and David weep bitterly. Absalom has fled to Talmai king of Geshur, where he remains three years.",
+    "",
+    "The chapter ends with David’s longing for Absalom after he has been consoled over Amnon’s death. One son is dead, another is in exile, and Tamar’s desolation has not been resolved. A corrected report spares David one imagined loss while leaving real grief and division."
+  ],
+  "common_interpretation_lines": [
+    "[Gill](https://biblehub.com/commentaries/gill/2_samuel/13.htm) considers whether Jonadab’s confident answer suggests prior knowledge of the plot. That is an inference about how he knew, not something the narrator independently establishes. His earlier advice to Amnon is explicit; a second detailed conspiracy should not be supplied as a proven fact.",
+    "",
+    "The final verse has also been understood differently. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) follows the longing-for-Absalom reading reflected in the BSB. [Gill](https://biblehub.com/commentaries/gill/2_samuel/13.htm) also discusses older readings in which David ceases going out against Absalom. The readings differ over pursuit and desire, but both leave a separation that the next chapter takes up.",
+    "",
+    "Being consoled over Amnon’s death does not mean David is said to celebrate his murder. The account has just shown the family weeping. Its closing words describe a change over time in grief and in David’s attitude toward his absent son."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/13.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-thirteen-review.md"
+  }
+}

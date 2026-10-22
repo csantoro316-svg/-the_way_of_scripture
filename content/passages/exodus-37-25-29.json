@@ -5,24 +5,59 @@
     "label": "Exodus 37:25-29",
     "slug": "exodus-37-25-29"
   },
-  "section_title": "The Altar of Incense",
+  "section_title": "Why are incense and anointing oil made for the dwelling?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "25 He made the altar of incense out of acacia wood. It was square, a cubit long, a cubit wide, and two cubits high. Its horns were of one piece. 26 And he overlaid with pure gold the top and all the sides and horns. Then he made a molding of gold around it.",
-        "27 He made two gold rings below the molding on opposite sides to hold the poles used to carry it. 28 And he made the poles of acacia wood and overlaid them with gold.",
+        "25 He made the altar of incense out of acacia wood. It was square, a cubit long, a cubit wide, and two cubits high. Its horns were of one piece. 26 And he overlaid with pure gold the top and all the sides and horns. Then he made a molding of gold around it. 27 He made two gold rings below the molding on opposite sides to hold the poles used to carry it. 28 And he made the poles of acacia wood and overlaid them with gold.",
         "29 He also made the sacred anointing oil and the pure, fragrant incense, the work of a perfumer."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 37**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "The workers make the gold-covered altar for incense, with its horns, rings, and carrying poles. This is distinct from the bronze altar for burnt offerings described next. The incense altar belongs to the service inside the tent, before the inner veil, following the instructions in [Exodus 30:1–10](https://biblehub.com/bsb/exodus/30.htm).",
+    "",
+    "They also make the sacred anointing oil and fragrant incense. Their preparation completes another part of the earlier instructions: the dwelling and its service are set apart for God. The account records the work being done, rather than giving a new recipe or changing its appointed use."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Altar of Incense** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 37** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) understands the incense as a picture of the prayers of God’s people and Christ’s intercession. [Calvin](https://biblehub.com/commentaries/calvin/exodus/37.htm) again draws attention to the correspondence between God’s directions and the completed oil and incense."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "Revelation explicitly connects incense with prayer. In [Revelation 5:6–10](https://biblehub.com/bsb/revelation/5.htm), bowls of incense are the prayers of the saints, surrounding the Lamb who has redeemed people from every nation to serve God. [Revelation 8:1–5](https://biblehub.com/bsb/revelation/8.htm) shows incense rising with their prayers before God as His judgments unfold.",
+    "",
+    "The oil has a further supported connection with being appointed for God’s work: [Acts 10:34–43](https://biblehub.com/bsb/acts/10.htm) says God anointed Jesus with the Holy Spirit and power. These connections direct attention toward God receiving His people’s prayers and accomplishing His purposes through Christ."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/exodus/37.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-exodus-thirty-seven-review.md"
+  }
 }

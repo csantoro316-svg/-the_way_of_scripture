@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "8:5-11",
+    "label": "Romans 8:5-11",
+    "slug": "romans-8-5-11"
+  },
+  "section_title": "How does the Spirit bring life to people who still face death?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 Those who live according to the flesh set their minds on the things of the flesh; but those who live according to the Spirit set their minds on the things of the Spirit. 6 The mind of the flesh is death, but the mind of the Spirit is life and peace, 7 because the mind of the flesh is hostile to God: It does not submit to God’s law, nor can it do so. 8 Those controlled by the flesh cannot please God.",
+        "9 You, however, are controlled not by the flesh, but by the Spirit, if the Spirit of God lives in you. And if anyone does not have the Spirit of Christ, he does not belong to Christ. 10 But if Christ is in you, your body is dead because of sin, yet your spirit is alive because of righteousness. 11 And if the Spirit of Him who raised Jesus from the dead is living in you, He who raised Christ Jesus from the dead will also give life to your mortal bodies through His Spirit, who lives in you."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul contrasts two ways of life. A mind governed by the flesh is hostile to God and leads toward death; a mind governed by the Spirit is life and peace. The contrast concerns what rules and directs the person.",
+    "",
+    "The Spirit’s presence marks belonging to Christ. Paul speaks of the Spirit of God, the Spirit of Christ and Christ dwelling within believers. Life with God depends on His presence and work, rather than an outward claim of religious identity.",
+    "",
+    "Believers still face bodily death because of sin. Yet Paul promises that the God who raised Jesus will give life to their mortal bodies through His Spirit who lives in them. The future he describes includes the body’s renewal, not simply leaving embodied life behind."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read these verses as connecting belonging to Christ, the Spirit living within believers and the hope of resurrection. Present weakness and mortality do not cancel the life God has begun. The direction is toward His renewal of the whole person."
+  ],
+  "god_plan_lines": [
+    "[1 Corinthians 15:42–49](https://biblehub.com/bsb/1_corinthians/15.htm) develops the promised change from a perishable body to an imperishable one and connects the life to come with the risen Christ. The Spirit’s work now and the body’s future belong within the same saving purpose.",
+    "",
+    "This also clarifies the contrast with the flesh. Paul is not declaring created bodies beyond God’s concern. He looks toward God giving life to the very mortal bodies that presently experience weakness and death."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/8.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-eight-opening-review.md"
+  }
+}

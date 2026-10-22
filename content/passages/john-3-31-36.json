@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "3:31-36",
+    "label": "John 3:31-36",
+    "slug": "john-3-31-36"
+  },
+  "section_title": "Why does our response to the Son matter so much?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "31 The One who comes from above is above all. The one who is from the earth belongs to the earth and speaks as one from the earth. The One who comes from heaven is above all. 32 He testifies to what He has seen and heard, yet no one accepts His testimony. 33 Whoever accepts His testimony has certified that God is truthful. 34 For the One whom God has sent speaks the words of God, for God gives the Spirit without limit. 35 The Father loves the Son and has placed all things in His hands. 36 Whoever believes in the Son has eternal life. Whoever rejects the Son will not see life. Instead, the wrath of God remains on him.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The chapter closes by contrasting the One who comes from heaven with those who belong to the earth. The Son speaks from what He has seen and heard, speaks God’s words, and receives all things from the Father who loves Him.",
+    "",
+    "The passage speaks of people not accepting His testimony, then immediately describes the person who does accept it. The sweeping statement about rejection should be read with that following sentence: it is not a claim that no one at all can ever receive Him.",
+    "",
+    "The closing verse holds together present life through believing in the Son and the judgment that remains on the person who rejects Him. It returns to the same choice described earlier in the chapter."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings agree that the Son has authority from the Father and that receiving Him is a matter of life and judgment. Calvin and Wesley both read these words as placing Jesus above merely human teachers and calling for faith in Him. ([Calvin on John 3:31–36](https://biblehub.com/commentaries/calvin/john/3.htm); [Wesley on John 3:31–36](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/))",
+    "",
+    "Readers differ about whose words close the chapter. Calvin treats them as the Baptist’s continuing testimony; Wesley thinks they may be the Gospel writer’s reflection. The USCCB’s notes also identify uncertainty about the speaker. That is a question about the passage’s presentation, rather than a different claim about the Son’s authority. ([Calvin on John 3:31–32](https://biblehub.com/commentaries/calvin/john/3.htm); [Wesley on John 3:31](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/); [USCCB note on John 3:31–36](https://bible.usccb.org/bible/john/3))"
+  ],
+  "god_plan_lines": [
+    "Colossians gives a wider account of the Son’s place: all things are created through Him and for Him, He holds them together, and He is head of the church. The Father’s placing all things in His hands here fits that larger scriptural account of His authority. ([Colossians 1:15–18](https://biblehub.com/bsb/colossians/1.htm))",
+    "",
+    "That authority serves a saving purpose. Colossians goes on to connect God’s fullness in Christ with reconciliation through the blood of His cross. The One whose testimony calls for faith is also the One through whom God makes peace. ([Colossians 1:19–20](https://biblehub.com/bsb/colossians/1.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/3.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-three-closing-review.md"
+  }
+}

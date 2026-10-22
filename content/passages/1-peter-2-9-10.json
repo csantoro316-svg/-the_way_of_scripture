@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "1 Peter",
+    "citation": "2:9-10",
+    "label": "1 Peter 2:9-10",
+    "slug": "1-peter-2-9-10"
+  },
+  "section_title": "Why has God called a people His own?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "9 But you are a chosen people, a royal priesthood, a holy nation, a people for God’s own possession, to proclaim the virtues of Him who called you out of darkness into His marvelous light. 10 Once you were not a people, but now you are the people of God; once you had not received mercy, but now you have received mercy."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The contrast with disobedience now becomes a description of the readers’ calling: a chosen people, royal priesthood, holy nation and God’s own possession. These titles are joined with a purpose—to proclaim the virtues of the One who called them into His light.",
+    "",
+    "The language recalls [Exodus 19:4–6](https://biblehub.com/bsb/exodus/19.htm) and [Isaiah 43:20–21](https://biblehub.com/bsb/isaiah/43.htm). Peter draws on God’s earlier descriptions of His people to explain the dignity and responsibility of those who belong to Christ.",
+    "",
+    "The movement from no people to God’s people, and from no mercy to mercy, recalls [Hosea 2:23](https://biblehub.com/bsb/hosea/2.htm). Their identity rests in mercy received, giving them reason to declare God’s goodness."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/1_peter/2.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-epistle-general-of-st-peter/) both understand the priesthood as belonging to the believing people and the proclamation as extending through their conduct as well as their words.",
+    "",
+    "Traditions differ over distinct ordained ministry within that people. The Catholic [Catechism, 1546–1547](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_three/article_6/ii_the_sacrament_of_holy_orders_in_the_economy_of_salvation.index.html), affirms the whole community’s priesthood and also an ordained priesthood serving it through participation in Christ’s one priesthood. The Reformed [Westminster Confession, 27.4](https://www.opc.org/wcf.html), assigns administering baptism and the Lord’s Supper to ordained ministers. The shared calling is not the same question as who carries out every particular task."
+  ],
+  "god_plan_lines": [
+    "God’s call at [Exodus 19:4–6](https://biblehub.com/bsb/exodus/19.htm) follows His deliverance of Israel and gives that people a vocation before Him. [Isaiah 43:20–21](https://biblehub.com/bsb/isaiah/43.htm) likewise connects the people He forms with declaring His praise.",
+    "",
+    "[Romans 9:24–26](https://biblehub.com/bsb/romans/9.htm) also applies Hosea’s people-and-mercy language in speaking of those called from Jews and Gentiles. The connection shows the breadth of God’s mercy as He brings people into a shared life before Him."
+  ],
+  "current_position_lines": [
+    "Our study [Returning to the Word](https://thewayofscripture.com/studies/returning-to-the-word.html) identifies the church as the people in whom God’s Spirit dwells and the priesthood as a calling shared by every believer. [Who Shepherds the Church?](https://thewayofscripture.com/studies/who-shepherds-the-church.html) connects that shared life with direct access to God through Christ, without a necessary human mediating class between Him and His people."
+  ],
+  "deeper_study": [
+    {
+      "title": "Returning to the Word",
+      "href": "../studies/returning-to-the-word.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_peter/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-first-peter-two-opening-review.md",
+    "position_source_detail": "Returning to the Word — returning_to_the_word.md68–74; Who Shepherds the Church? — who_shepherds_the_church.md52–60. Limited to shared priesthood/access, not election or future-Israel questions."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "19:28-37",
+    "label": "John 19:28-37",
+    "slug": "john-19-28-37"
+  },
+  "section_title": "What is finished when Jesus dies?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "28 After this, knowing that everything had now been accomplished, and to fulfill the Scripture, Jesus said, “I am thirsty.” 29 A jar of sour wine was sitting there. So they soaked a sponge in the wine, put it on a stalk of hyssop, and lifted it to His mouth. 30 When Jesus had received the sour wine, He said, “It is finished.” And bowing His head, He yielded up His spirit.",
+        "31 It was the day of Preparation, and the next day was a High Sabbath. In order that the bodies would not remain on the cross during the Sabbath, the Jews asked Pilate to have the legs broken and the bodies removed. 32 So the soldiers came and broke the legs of the first man who had been crucified with Jesus, and those of the other. 33 But when they came to Jesus and saw that He was already dead, they did not break His legs. 34 Instead, one of the soldiers pierced His side with a spear, and immediately blood and water flowed out.",
+        "35 The one who saw it has testified to this, and his testimony is true. He knows that he is telling the truth, so that you also may believe. 36 Now these things happened so that the Scripture would be fulfilled: “Not one of His bones will be broken.” 37 And, as another Scripture says: “They will look on the One they have pierced.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus speaks of thirst as Scripture is being fulfilled. He receives sour wine and declares that His work is finished before yielding up His spirit. [Psalm 69:21](https://biblehub.com/bsb/psalms/69.htm) supplies the scriptural language of thirst answered with vinegar.",
+    "",
+    "The word translated it is finished is τετέλεσται, tetelestai (teh-TEH-les-tie), a form of the verb meaning to complete or accomplish. [Thayer’s lexicon](https://biblehub.com/greek/5055.htm) specifically connects John 19:30 with completing what the Father has appointed Him to do and bear. The word directs attention to the fulfillment of His work.",
+    "",
+    "Because the Sabbath is approaching, the authorities ask for the bodies to be removed. The soldiers break the legs of the other two men, but they see that Jesus is already dead. They do not break His legs. One soldier pierces His side with a spear, and blood and water flow out.",
+    "",
+    "John stresses the truth of the eyewitness testimony and its purpose: that the reader may believe. He also connects the unbroken bones and the piercing with Scripture. The account presents His real death within the fulfillment of God’s word."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the declaration of completion in connection with Christ’s saving work. [Wesley on verse 30](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) speaks of His suffering and the accomplishment of redemption. [Calvin on verse 30](https://biblehub.com/commentaries/calvin/john/19.htm) likewise locates the fullness of salvation in Him, while keeping His death and resurrection together.",
+    "",
+    "The blood and water receive further explanations. Wesley’s note on verse 34 treats the event as miraculous. Calvin’s note does not require that explanation; it emphasizes the saving meaning of atonement and cleansing, and also accepts a connection with baptism and the Lord’s Supper. These are the commentators’ readings, rather than a medical diagnosis supplied by the passage.",
+    "",
+    "The Catholic Church’s [Catechism, paragraph 766](https://www.vatican.va/archive/ENG0015/__P27.HTM), sees the blood and water as signs of the church’s life arising from Christ’s total self-giving. These readings recognize meaning beyond the physical detail, with different emphases. None needs to replace John’s explicit concern with the reality of the death and the truth of the testimony."
+  ],
+  "god_plan_lines": [
+    "The unbroken bones recall the Passover requirement in [Exodus 12:46](https://biblehub.com/bsb/exodus/12.htm), alongside the protection of the righteous sufferer in [Psalm 34:19–20](https://biblehub.com/bsb/psalms/34.htm). [1 Corinthians 5:7](https://biblehub.com/bsb/1_corinthians/5.htm) explicitly identifies Christ as the sacrificed Passover lamb. His death accomplishes the deliverance to which that earlier feast pointed.",
+    "",
+    "The pierced One is also connected with [Zechariah 12:10](https://biblehub.com/bsb/zechariah/12.htm), a passage of grace, prayer and mourning. [Revelation 1:7](https://biblehub.com/bsb/revelation/1.htm) takes up the language of seeing the pierced One at Christ’s coming. The death John witnesses is joined to a hope extending beyond the cross."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/19.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-nineteen-review.md"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "6:9-11",
+    "label": "1 Corinthians 6:9-11",
+    "slug": "1-corinthians-6-9-11"
+  },
+  "section_title": "What has changed for people who belong to Christ?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "9 Do you not know that the wicked will not inherit the kingdom of God? Do not be deceived: Neither the sexually immoral, nor idolaters, nor adulterers, nor men who submit to or perform homosexual acts, 10 nor thieves, nor the greedy, nor drunkards, nor verbal abusers, nor swindlers, will inherit the kingdom of God. 11 And that is what some of you were. But you were washed, you were sanctified, you were justified, in the name of the Lord Jesus Christ and by the Spirit of our God."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The warning about inheriting God’s kingdom follows Paul’s rebuke of believers who cheat one another. His list includes sexual wrongdoing alongside idolatry, greed, theft, drunkenness, verbal abuse and swindling. Reading only one part of that list would miss its force against the community’s own misconduct.",
+    "",
+    "Paul then reminds them of a change: some of them once lived in these ways, but they were washed, made holy and put right with God in Jesus’ name and by the Spirit. Their past is not a reason to deny the possibility of renewal, and their new identity is not permission to return to what Paul condemns.",
+    "",
+    "Two terms behind the BSB’s wording about homosexual acts are malakos (mah-lah-KOSS), μαλακός, and arsenokoitēs (ar-seh-noh-KOY-tays), ἀρσενοκοίτης. [Thayer’s entry for the first](https://biblehub.com/greek/3120.htm) includes the ordinary meaning soft and a sexual sense here; [the second entry](https://biblehub.com/greek/733.htm) describes a man having intercourse with a male. How broadly to apply these terms is part of the difference between readings below. A dictionary entry alone does not settle every question about modern relationships."
+  ],
+  "common_interpretation_lines": [
+    "Christians recognize both the warning against wrongdoing and the hope of a changed life through Christ and the Spirit. Traditions differ over how being put right with God relates to inward renewal and baptism. The Catholic Church’s [Catechism 1987–1992](https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_three/article_2/grace_and_justification.html) includes forgiveness and inward renewal in justification and teaches that it is conferred in baptism. The Reformed [Westminster Confession 11.1–2](https://www.opc.org/wcf.html) defines justification as God’s pardon and acceptance through Christ, received by faith, while insisting that this faith is accompanied by other graces and works through love.",
+    "",
+    "There are also differences in reading and applying the sexual terms. The [USCCB note on verse 9](https://bible.usccb.org/bible/1corinthians/6) discusses boys used in prostitution and the adult males involved with them. That note’s explanation of the ancient setting should be distinguished from the Catholic Church’s wider teaching: [Catechism 2357–2359](https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_two/article_6/ii_the_vocation_to_chastity.html) rejects homosexual acts, calls people experiencing same-sex attraction to chastity, and requires respect, compassion and avoidance of unjust discrimination. The Reformed [Westminster Confession 24.1](https://www.opc.org/wcf.html) defines marriage as between one man and one woman.",
+    "",
+    "The United Methodist Church’s current [Social Principles on marriage](https://www.umc.org/en/content/social-principles-the-social-community) affirm a lifelong covenant that can unite two consenting adults of the same sex. One explanation of an affirming reading is offered by United Methodist minister [John Holbert](https://www.umc.org/en/content/the-malevolent-seven), who suggests that Paul’s terms concern sexual or economic exploitation rather than a blanket rejection of same-sex relationships. That is his interpretation, rather than a word-for-word explanation supplied by the Social Principles, and it should not be attributed to every Methodist or Wesleyan."
+  ],
+  "god_plan_lines": [
+    "[Titus 3:3–8](https://biblehub.com/bsb/titus/3.htm) describes a similar movement from harmful desires and hatred to new birth and renewal through the Spirit. It places salvation in God’s mercy, rather than righteous deeds people had already performed, and looks ahead to inheritance and eternal life.",
+    "",
+    "The passage then calls believers to devote themselves to good deeds. This gives a wider purpose to the change Paul recalls: God’s mercy gathers people into a new life whose conduct benefits others. Hope for those with a sinful past and seriousness about present behavior belong together."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/6.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-six-review.md"
+  }
+}

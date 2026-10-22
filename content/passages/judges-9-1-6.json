@@ -5,24 +5,56 @@
     "label": "Judges 9:1-6",
     "slug": "judges-9-1-6"
   },
-  "section_title": "Abimelech\u2019s Conspiracy",
+  "section_title": "How does Abimelech gain power?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 Now Abimelech son of Jerubbaal went to his mother\u2019s brothers at Shechem and said to them and to all the clan of his mother, 2 \u201cPlease ask all the leaders of Shechem, \u2018Is it better for you that seventy men, all the sons of Jerubbaal, rule over you, or just one man?\u2019 Remember that I am your own flesh and blood.\u201d",
-        "3 And when his mother\u2019s brothers spoke all these words about him in the presence of all the leaders of Shechem, their hearts were inclined to follow Abimelech, for they said, \u201cHe is our brother.\u201d 4 So they gave him seventy shekels of silver from the temple of Baal-berith, with which Abimelech hired some worthless and reckless men to follow him. 5 He went to his father\u2019s house in Ophrah, and on one stone murdered his seventy brothers, the sons of Jerubbaal. But Jotham, the youngest son of Jerubbaal, survived, because he hid himself.",
-        "6 Then all the leaders of Shechem and Beth-millo gathered beside the oak at the pillar in Shechem and proceeded to make Abimelech their king."
+        "1 Now Abimelech son of Jerubbaal went to his mother’s brothers at Shechem and said to them and to all the clan of his mother, 2 “Please ask all the leaders of Shechem, ‘Is it better for you that seventy men, all the sons of Jerubbaal, rule over you, or just one man?’ Remember that I am your own flesh and blood.” 3 And when his mother’s brothers spoke all these words about him in the presence of all the leaders of Shechem, their hearts were inclined to follow Abimelech, for they said, “He is our brother.” 4 So they gave him seventy shekels of silver from the temple of Baal-berith, with which Abimelech hired some worthless and reckless men to follow him.",
+        "5 He went to his father’s house in Ophrah, and on one stone murdered his seventy brothers, the sons of Jerubbaal. But Jotham, the youngest son of Jerubbaal, survived, because he hid himself. 6 Then all the leaders of Shechem and Beth-millo gathered beside the oak at the pillar in Shechem and proceeded to make Abimelech their king."
       ]
     }
   ],
   "context_lines": [
-    "In **Judges 9**, this section should be read within the flow of the chapter and the larger movement of Judges."
+    "The previous chapter introduced Abimelech as Gideon’s son by a concubine who lived in Shechem. After Gideon’s death, Abimelech approaches his mother’s relatives there. He presents a choice between rule by Gideon’s seventy sons and rule by himself, emphasizing that he is their own flesh and blood. The account records his political appeal; it does not say that his brothers had already formed a government.",
+    "",
+    "His relatives persuade Shechem’s leaders to support him. Silver from the temple of Baal-berith pays for reckless followers, whom he leads to his father’s house in Ophrah. He murders his brothers on one stone, while Jotham survives by hiding. The leaders of Shechem and Beth-millo then make Abimelech king.",
+    "",
+    "This rise to power comes through family loyalty, temple money, hired men, and the removal of rivals. The story gives no call from the LORD commissioning him as a deliverer. It continues the account of Israel forgetting both God’s rescue and the good done through Gideon."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Abimelech\u2019s Conspiracy** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Judges 9** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-judges/) understands the appeal to kinship as persuasion that serves the Shechemites’ own interests. [Henry](https://biblehub.com/commentaries/mhc/judges/9.htm) emphasizes that God is not consulted in their choice of king. Both readings treat the episode as a warning about ambition and the harm that can spread through a household and community."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "Abimelech’s violence makes the question of trustworthy leadership urgent. Jesus describes Himself as the good shepherd who gives life to His sheep and lays down His own life for them ([John 10:10–18](https://biblehub.com/bsb/john/10.htm)). The contrast is between taking lives to secure power and giving one’s life for those in one’s care.",
+    "",
+    "The larger biblical hope is more than finding a less violent claimant to the same throne. Jesus speaks of bringing His sheep together as one flock under one shepherd. God’s rescue leads toward people gathered and cared for by the Son who gives Himself for them."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/judges/9.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-judges-nine-review.md"
+  }
 }

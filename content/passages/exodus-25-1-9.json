@@ -5,31 +5,58 @@
     "label": "Exodus 25:1-9",
     "slug": "exodus-25-1-9"
   },
-  "section_title": "Offerings for the Tabernacle",
+  "section_title": "Why did God ask Israel to build a sanctuary?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 Then the LORD said to Moses, 2 \u201cTell the Israelites to bring Me an offering. You are to receive My offering from every man whose heart compels him. 3 This is the offering you are to accept from them:",
-        "gold, silver, and bronze;",
-        "4 blue, purple, and scarlet yarn;",
-        "fine linen and goat hair;",
-        "5 ram skins dyed red and fine leather;",
-        "acacia wood;",
-        "6 olive oil for the light;",
-        "spices for the anointing oil and for the fragrant incense;",
-        "7 and onyx stones and gemstones to be mounted on the ephod and breastpiece.",
+        "1 Then the LORD said to Moses, 2 “Tell the Israelites to bring Me an offering. You are to receive My offering from every man whose heart compels him. 3 This is the offering you are to accept from them: gold, silver, and bronze; 4 blue, purple, and scarlet yarn; fine linen and goat hair; 5 ram skins dyed red and fine leather; acacia wood; 6 olive oil for the light; spices for the anointing oil and for the fragrant incense; 7 and onyx stones and gemstones to be mounted on the ephod and breastpiece.",
         "8 And they are to make a sanctuary for Me, so that I may dwell among them. 9 You must make the tabernacle and design all its furnishings according to the pattern I show you."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 25**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "From within the cloud, God begins giving Moses instructions for the sanctuary and its furnishings. The materials are to come from Israelites whose hearts move them to give. The list includes valuable metals, fabric, leather, wood, oil, spices and stones, each serving the work God is about to describe.",
+    "",
+    "The purpose is stated before the building details: God will dwell among His people. The Hebrew verb שָׁכַן, *shakan* (shah-KAHN), means to settle, remain or dwell ([Brown–Driver–Briggs](https://biblehub.com/hebrew/7931.htm)). Israel is to have a holy place where God makes His presence known among them. The word sanctuary describes a sacred place set apart to Him ([Brown–Driver–Briggs](https://biblehub.com/hebrew/4720.htm)).",
+    "",
+    "The willing offering and the prescribed design belong together. The people freely supply the materials, while God shows Moses the pattern for what is to be made. The tabernacle is part of His provision for life with the people He has rescued."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Offerings for the Tabernacle** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 25** remains the first control on meaning."
+    "The usual reading is that God is giving Israel an appointed place of worship and a visible assurance of His presence. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) emphasizes both willing giving and God’s presence among the people without His being confined to the structure. That distinction is also expressed in [1 Kings 8:27–30](https://biblehub.com/bsb/1_kings/8.htm): even the heavens cannot contain God, yet He hears His people’s prayers."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[Hebrews 8:1–6](https://biblehub.com/bsb/hebrews/8.htm) explicitly connects the sanctuary’s pattern with the heavenly reality and the greater ministry of Jesus. The earthly priests serve within a copy and shadow; Jesus ministers in the true sanctuary and mediates a better covenant.",
+    "",
+    "God dwelling with His people becomes a central theme in the New Testament. [John 1:14–18](https://biblehub.com/bsb/john/1.htm) describes the Word becoming flesh, dwelling among us and revealing God’s glory. Its verb for dwelling also carries the sense of living in a tent ([Thayer](https://biblehub.com/greek/4637.htm)). [Ephesians 2:19–22](https://biblehub.com/bsb/ephesians/2.htm) then describes people joined together in Christ as God’s dwelling through the Spirit. Finally, [Revelation 21:1–4](https://biblehub.com/bsb/revelation/21.htm) announces God dwelling with His people in a world where death and grief are gone. The sanctuary’s stated purpose belongs within that larger story of God bringing people into life with Him."
+  ],
+  "current_position_lines": [
+    "As explained in [The True Church According to Jesus](https://thewayofscripture.com/studies/true-church.html), God now dwells in His people through His Spirit. That study connects His presence in the tabernacle with His presence in believers, calling for lives made holy by His indwelling."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/25.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-twenty-five-review.md",
+    "position_source_detail": "The True Church According to Jesus, We Are the Temple, content/studies/true_church.md:43–47; explicit tabernacle-to-indwelling connection."
+  }
 }

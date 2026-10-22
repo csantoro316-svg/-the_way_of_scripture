@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "1 Timothy",
+    "citation": "1:18-20",
+    "label": "1 Timothy 1:18-20",
+    "slug": "1-timothy-1-18-20"
+  },
+  "section_title": "Why must Timothy hold on to faith and a good conscience?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "18 Timothy, my child, I entrust you with this command in keeping with the previous prophecies about you, so that by them you may fight the good fight, 19 holding on to faith and a good conscience, which some have rejected and thereby shipwrecked their faith. 20 Among them are Hymenaeus and Alexander, whom I have handed over to Satan to be taught not to blaspheme."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul returns to the charge he has entrusted to Timothy. He reminds him of earlier prophecies concerning him and calls him to fight the good fight while holding on to faith and a good conscience.",
+    "",
+    "The warning is concrete: some have rejected a good conscience and shipwrecked their faith. Paul names Hymenaeus and Alexander as examples and says he has handed them over to Satan.",
+    "",
+    "The stated purpose of this severe action is that they learn not to blaspheme. Paul describes a serious failure and a disciplinary aim, without giving a complete account of what happened to them afterward. The charge concerns Timothy’s conduct as well as what he teaches."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a serious warning against rejecting faith and conscience, with discipline aimed at correction. They differ about what shipwrecked faith implies for a person’s final salvation.",
+    "",
+    "The Reformed [Westminster Confession, chapter 17](https://www.opc.org/wcf.html), teaches that people truly accepted in Christ will finally persevere, though they may fall into grievous sin for a time. That account distinguishes serious failure from the final loss of saving grace.",
+    "",
+    "[Wesley’s note on verse 19](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-timothy/) understands these people as genuine believers who fell away. The Methodist [Articles of Religion, article XII](https://www.umc.org/en/content/articles-of-religion), allow departure from grace and also affirm restoration through repentance by grace. The Catholic [Catechism, paragraph 162](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_three/article_1/iii_the_characteristics_of_faith.html), likewise teaches that the free gift of faith can be lost. These sources differ over final perseverance without diminishing the warning."
+  ],
+  "god_plan_lines": [
+    "[1 Corinthians 5:1–5](https://biblehub.com/bsb/1_corinthians/5.htm) uses the same handing-over language in another disciplinary setting, with a stated hope of salvation on the day of the Lord. The parallel helps keep correction and the final horizon in view, rather than treating discipline as an end in itself.",
+    "",
+    "[Hebrews 12:5–11](https://biblehub.com/bsb/hebrews/12.htm) describes God’s discipline as directed toward His children sharing in His holiness and bearing righteousness and peace. This is a broader parallel in purpose; it does not identify every painful circumstance as the same disciplinary act."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_timothy/1.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-timothy-two-opening-review.md"
+  }
+}

@@ -1,0 +1,41 @@
+# Revelation 17 passage review — 2026-10-20
+
+Three groups cover18actualBSBverses. WholebaselinePDFlesson17pages305–322READ,cumulativePDF1–322read,323onwardunread. WholeactualBSB17/Wesley17(10824chars)/USCCB17notes/Walvoord17originalreproduction43553charsread. Gill17fetched60493UNREADnotused. ActualfreshBSB Jer51:7,11–13,24–25,28–29;Nah3:4–7;Isa10:5–7,12;1Tim6:15–16read. PreviouslyactualDan7:21–27reused. Jer50fetchedbutUNREADunused. No wholecrossreferencechapterclaim.
+
+Sources:
+- https://biblehub.com/bsb/revelation/17.htm
+- https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-revelation-of-jesus-christ/
+- https://bible.usccb.org/bible/revelation/17
+- https://swartzentrover.com/cotor/E-Books/holiness/Walvoord/Revelation/Rev_17.htm
+- https://biblehub.com/bsb/jeremiah/51.htm
+- https://biblehub.com/bsb/nahum/3.htm
+- https://biblehub.com/bsb/isaiah/10.htm
+- https://biblehub.com/bsb/1_timothy/6.htm
+
+Walvoordpublic/privateunder200words,USCCBunder200,noverbatim;BSB/WesleyPD. LongSeissquotationwithinWalvoordreadbutSeissoriginalNOTseparatelyread;noindependentSeisscitationclaimed. PrivateE16containsdetailedbaseline17flags;notduplicatedaspublichistory. No baseline namepublic. Relatedstudiesdonotsettleidentityorchronology,soallpositionsnone.
+
+## Revelation 17:1–6
+
+Plan section: included, because (b)/(c). Jer51cup/manywaters/riches/judgmentdirectlychecked;Nah3samekindofcityprostitutionimagerywithNinevehpreservesbroaderBibleusageandjudgmenttheme.
+Position source: none.
+FLAGGED FOR REVIEW: WesleywomanactualcityRomeandnoblesdistinguishedfrombeastpapalpower;notmisstatedwomanalwayspapacyalone. OwnCatholicUSCCBinterpretationimperialRomefairlygiven. DifferencesnotwholeMethodist/Protestantdoctrine. Visualcolors/jewelrydonotbythemselvesprovespecificpresentclergyidentification. No ownerdenominationalcondemnationorcurrentreligiousconspiracyoriginated.
+
+FLAGGED FOR REVIEW: Unverified historical claims about Semiramis, Tammuz, fish-shaped mitres and Babylonian origins of Catholic practices omitted; Scripture and adherents’ own accounts do not establish that historical chain. No independent ancient documentation checked for it. BaselineNimrodGen11worldruler/firstfalseworshipandEdenexactIraqmodernspiritualstrongholdclaimsremainunverified,notpublished. No universalwomanmeansreligioussystemrule;angelactualcityexplanationandNah3othercitymetaphorkept. NameMysteryonpapalmitrehistoricalassertionnotindependentlyverified,noquoteendorsed.
+
+## Revelation 17:7–14
+
+Plan section: included, because (b)/(c). ActualDan7war/horns/limitedrule/everlastingkingdomand1Tim6KingofkingssupremacyconnecttheLamb’spromisedtriumph.
+Position source: none.
+FLAGGED FOR REVIEW: Noexplicitnamedkinglistinthetext. Emperorsequenceversuspapalhistoryversusimperialkingdomreadingsdistinguished;USCCBexplicitlittleagreementretained. No “musthaveconqueredbothBabylonandJerusalem”universalcriterionimported. BaselineTituspresentemperorAD95and246/170BCconquestsequenceunverifiedhistoricalclaimsnotused;nogeopoliticalcontinuitythrough1923assumed. No7hillsaloneprovesexclusiveonecityforalleternity. No calendricaldatecalculationfromWesley1810/1832/1836claims.
+
+FLAGGED FOR REVIEW: Beastreturnpersonalresurrectionnotconsensus,notrequiredwordmeaning;7th/8thidentitynoownerdeduction. Source10headsdragonmistakenactualRev12sevenretained. Onehourbriefauthoritynottimedsixty-minuteenthronementfixture. Called/chosen/faithfulactualgroupdescriptionnotnewownerpredestinationtaxonomy. AllrulercoalitionlimitedbeforeLambnotpublicpredictioncurrentgovernmentnames.
+
+## Revelation 17:15–18
+
+Plan section: included, because (b)/(c). ActualJer51arousedrulers/BabylonjudgmentandIsa10hostileAssyriausedyetitselfjudgedexplainlargerpatternwithoutflatteningdifferenttexts.
+Position source: none.
+FLAGGED FOR REVIEW: Exactverse17Godputpurposeintheirheartsretained;notexpandedintoeveryhumanactsmechanicallyorownerdeterminismsystem. Temporaryuseofhostilepowernotmoralapprovalofallitsdeeds,actualIsa10comparisonpreservesaccountability. Nohumanpermissiontodestroycurrentreligiousinstitutions. Sourceallchurches/mosques/templesdestroyedandallreligionsconsolidatedintosinglemanasanexhaustivefutureinventorynotexplicitverse16. Noetymologicalfleshalwaysreligiousarchitectureorwealthrule. Woman’scityidentityactualverse18notreplacedbyunqualifiedonlyphysicaloronlyspiritualdogma. Destructionofallidolatrybykillingonlyonemanandprecisemidpointbowlchronologystillinterpretation,notownerposition.
+
+## Validation
+
+Allpassed:focusedgeneration,freshBSBverification,repo0errors220warnings,independentpreservation,continuouscoverage through17:18 (45reviewedpages/296actualBSBverses/44plans/5existing-studypositions/40open),byte-identicalregeneration,six390pxreader/standalone checks exacttitles/5or7sections/nooverflow/norawMarkdown. ActualNext17:1–6→17:7–14 confirmed URL/title/focus/top188.171875. Actualexplicit-projectdry-run/deployment/live7filebyteauditexit0,allMATCH. Twolegacy22pagesretainedunreviewed;intentionalplanomissionsremain25.

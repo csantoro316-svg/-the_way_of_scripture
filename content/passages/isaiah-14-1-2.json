@@ -5,23 +5,47 @@
     "label": "Isaiah 14:1-2",
     "slug": "isaiah-14-1-2"
   },
-  "section_title": "Restoration for Israel",
+  "section_title": "What does Babylon’s fall mean for the people it oppressed?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 For the LORD will have compassion on Jacob; once again He will choose Israel and settle them in their own land. The foreigner will join them and unite with the house of Jacob. 2 The nations will escort Israel and bring it to its homeland.",
-        "Then the house of Israel will possess the nations as menservants and maidservants in the LORD\u2019s land. They will make captives of their captors and rule over their oppressors."
+        "1 For the LORD will have compassion on Jacob; once again He will choose Israel and settle them in their own land. The foreigner will join them and unite with the house of Jacob. 2 The nations will escort Israel and bring it to its homeland. Then the house of Israel will possess the nations as menservants and maidservants in the LORD’s land. They will make captives of their captors and rule over their oppressors."
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 14**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "The warning against Babylon is followed by a promise of compassion for Jacob. The Lord will choose Israel again and settle the people in their own land. Foreigners will join them, and the nations will help bring them home.",
+    "",
+    "The reversal includes hard language about service and captivity: Israel will possess servants and make captives of those who had held them captive. The focus is the overturning of the relationship between an oppressed people and their oppressors.",
+    "",
+    "These verses introduce the rest from pain and forced labor described in verse 3. Babylon’s loss of power means more than the fall of a ruler; it opens the way for the people he oppressed to return."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Restoration for Israel** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Gill](https://biblehub.com/commentaries/gill/isaiah/14.htm) understands the first setting as Israel’s return from captivity, with foreigners joining the restored community. He also sees a wider application to Gentiles joining believing Jews in the people gathered through the gospel.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 14** remains the first control on meaning."
+    "[Wesley](https://biblehub.com/commentaries/wes/isaiah/14.htm) likewise distinguishes a historical reversal from a fuller spiritual application in the gospel’s spread. [Henry](https://biblehub.com/commentaries/mhc/isaiah/14.htm) emphasizes God’s mercy in restoring His people and urges the church to receive those whom God receives. These applications extend the passage toward the gathered people of God; they do not all work out the details of the reversal in the same way."
   ],
-  "deeper_study": []
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/14.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-thirteen-fourteen-review.md"
+  }
 }

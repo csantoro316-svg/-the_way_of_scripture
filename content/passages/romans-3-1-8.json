@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "3:1-8",
+    "label": "Romans 3:1-8",
+    "slug": "romans-3-1-8"
+  },
+  "section_title": "Does human unfaithfulness mean God has failed His people?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 What, then, is the advantage of being a Jew? Or what is the value of circumcision? 2 Much in every way. First of all, they have been entrusted with the very words of God. 3 What if some did not have faith? Will their lack of faith nullify God’s faithfulness? 4 Certainly not! Let God be true and every man a liar. As it is written: “So that You may be proved right when You speak and victorious when You judge.”",
+        "5 But if our unrighteousness highlights the righteousness of God, what shall we say? That God is unjust to inflict His wrath on us? I am speaking in human terms. 6 Certainly not! In that case, how could God judge the world? 7 However, if my falsehood accentuates God’s truthfulness, to the increase of His glory, why am I still condemned as a sinner? 8 Why not say, as some slanderously claim that we say, “Let us do evil that good may result”? Their condemnation is deserved!"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul has challenged confidence in outward identity and circumcision. He now raises the natural question: is there any advantage to being Jewish? His answer is yes. Israel has been entrusted with God’s words. The warning against hypocrisy does not erase that gift.",
+    "",
+    "The next question concerns God’s faithfulness. If some did not have faith, does their failure cancel His faithfulness? Paul firmly denies it and appeals to Scripture about God being proved right when He speaks and judges. God’s truth does not depend on people always responding truthfully.",
+    "",
+    "Paul then voices an objection he rejects: if human wrongdoing makes God’s righteousness clearer, would God be unjust to punish it? That reasoning would undermine His judgment of the world. A related claim would excuse a lie because it brought attention to God’s truth.",
+    "",
+    "The conclusion would be that people should do evil so good may result. Paul says some have falsely accused him of teaching this, and he condemns the claim. He is describing the reasoning to reject it, not recommending wrongdoing as a way to serve God."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this passage as holding together God’s faithfulness, the real value of His words entrusted to Israel and human accountability. Neither covenant privilege nor a good result turns wrongdoing into obedience. Paul’s teaching about grace does not authorize doing evil."
+  ],
+  "god_plan_lines": [
+    "Paul explicitly appeals to [Psalm 51:4](https://biblehub.com/bsb/psalms/51.htm). In that prayer, confession of sin goes together with acknowledging that God speaks and judges rightly. The same prayer asks for mercy and cleansing in verses 1–2.",
+    "",
+    "That connection keeps judgment and mercy within the story of God’s faithfulness. God does not become unfaithful by exposing His people’s sin, and their need for forgiveness does not mean His word has failed. The gospel Paul is explaining will address wrongdoing rather than require God to pretend it never mattered."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-three-review.md"
+  }
+}

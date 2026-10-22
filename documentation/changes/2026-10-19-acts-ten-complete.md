@@ -1,0 +1,6 @@
+# Acts 10 complete
+
+
+Forty-eight reviewed pages cover 383 actual BSB verses continuously through Acts 10:48: 48 plan sections, 18 existing-study positions, and 30 open positions. There are 65 Acts source pages and 17 unreviewed legacy references. Four fresh BSB checks and eight tests passed; zero errors and 301 known warnings. Source/index/standalone, preservation, navigation, continuous coverage, 390 px reader and standalone checks, actual Next, and generation idempotence passed. Hosting dry run and actual deployment exited successfully; eight affected and six whole-chapter live files match local bytes.
+
+Whole Acts baseline PDF read through page 154, including all chapter 10 lesson (135–144) and chapter 11 pages 145–154; 155 onward unread. No Acts 11 draft yet. Acts 11:1–18 actual BSB was read for chapter 10; 19–30 not yet read. No chapter 11 commentary research yet. Baseline claims to check carefully: papal criticism does not accurately substitute for Catholic infallibility teaching; all apostles are not explicitly the critics; Hebrews 12's repentance cannot be simplified to one interpretation; Antioch narrative need not be rigidly subsequent to Cornelius; no claim nobody could reach Gentiles before Peter. Next finish whole chapter 11 PDF lesson and research chapter 11. Telegram normal mode; continue without stopping.

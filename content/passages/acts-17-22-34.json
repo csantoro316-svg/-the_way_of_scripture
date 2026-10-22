@@ -1,0 +1,69 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "17:22-34",
+    "label": "Acts 17:22-34",
+    "slug": "acts-17-22-34"
+  },
+  "section_title": "How does Paul lead the Athenians from an unknown god to the risen Jesus?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "22 Then Paul stood up in the meeting of the Areopagus and said, “Men of Athens, I see that in every way you are very religious. 23 For as I walked around and examined your objects of worship, I even found an altar with this inscription: TO AN UNKNOWN GOD. Therefore what you worship as something unknown, I now proclaim to you. 24 The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples made by human hands. 25 Nor is He served by human hands, as if He needed anything, because He Himself gives everyone life and breath and everything else.",
+        "26 From one man He made every nation of men, that they should inhabit the whole earth; and He determined their appointed times and the boundaries of their lands. 27 God intended that they would seek Him and perhaps reach out for Him and find Him, though He is not far from each one of us. 28 ‘For in Him we live and move and have our being.’ As some of your own poets have said, ‘We are His offspring.’ 29 Therefore, being offspring of God, we should not think that the Divine Being is like gold or silver or stone, an image formed by man’s skill and imagination.",
+        "30 Although God overlooked the ignorance of earlier times, He now commands all people everywhere to repent. 31 For He has set a day when He will judge the world with justice by the Man He has appointed. He has given proof of this to everyone by raising Him from the dead.” 32 When they heard about the resurrection of the dead, some began to mock him, but others said, “We want to hear you again on this topic.” 33 At that, Paul left the Areopagus. 34 But some joined him and believed, including Dionysius the Areopagite, a woman named Damaris, and others who were with them."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul starts with something his hearers recognize: the city’s religious activity and an altar dedicated to an unknown god. He uses their acknowledged lack of knowledge as an opening to proclaim the Creator. He does not tell them that all their gods are simply different names for the same God.",
+    "",
+    "The description very religious uses **δεισιδαίμων** (*deisidaimōn*, day-see-DYE-mohn). [Thayer’s lexicon](https://biblehub.com/greek/1174.htm) records both a respectful sense, religious or devout, and a negative sense, superstitious. Paul’s opening recognizes their religious concern, but the rest of his speech challenges what they believe about God.",
+    "",
+    "The Creator is Lord of heaven and earth. He does not depend on a human building for a home or on human service for support. Every person depends on Him for life and breath. All nations share one human origin, and their histories unfold under His rule; no people has a different kind of human beginning from the rest.",
+    "",
+    "Paul draws on words familiar from their poets to explain that human life depends on God. In this setting, being God’s offspring describes our origin and dependence. The point is that the living Creator cannot be reduced to an object fashioned by the creatures He made. It does not say everyone is already reconciled to Him.",
+    "",
+    "The speech then moves from ignorance to responsibility. God commands all people everywhere to repent—to turn from their wrong ways toward Him—because He has appointed a day of judgment and raised the appointed Judge from the dead. Some mock, others ask to hear more, and some join Paul and believe. Luke names Dionysius and Damaris among those who believe; he does not describe the whole visit as a failure."
+  ],
+  "common_interpretation_lines": [
+    "Christians broadly read this speech as a proclamation of one Creator who sustains all people, calls them to repent and will judge through the risen Jesus. Human dependence on God is not treated as proof that all beliefs lead to Him or that repentance is unnecessary.",
+    "",
+    "Traditions differ over how the rejection of man-made images relates to images used by Christians. The Catholic Church’s [Catechism, paragraphs 2129–2132](https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_one/article_1/iv_you_shall_not_make_for_yourself_a_graven_image.html), rejects idols while permitting sacred images in light of the Son of God becoming human. It distinguishes respect shown through an image to the person portrayed from the adoration owed to God alone. The Reformed [Westminster Confession 21:1](https://www.opc.org/wcf.html) instead rejects worshiping God under any visible representation. These are different accounts of permitted religious images; neither teaching describes God as a manufactured object dependent on its makers."
+  ],
+  "god_plan_lines": [
+    "The speech joins creation, the nations and the risen Jesus in one account of God’s purposes. [Genesis 1:1, 26–27](https://biblehub.com/bsb/genesis/1.htm) presents God as Creator and humanity as His creation. Paul takes his hearers back to that shared dependence before speaking about what God now commands them to do. The many nations are not outside the Creator’s concern.",
+    "",
+    "The appointed Judge is the same risen Jesus whom Paul has been proclaiming. [Acts 10:42–43](https://biblehub.com/bsb/acts/10.htm) explicitly connects Jesus’ appointment as Judge with forgiveness through faith in Him. Athens therefore belongs to the wider witness to all peoples: the One on whom everyone depends is calling people everywhere to respond, and the resurrection makes that call urgent."
+  ],
+  "current_position_lines": [
+    "Worship as the Early Church Knew It directly discusses Acts 17:23 and 25. Its position is that sincere devotion needs to be directed toward the true God, and that our religious acts do not supply something He lacks. Paul redirects his hearers toward the One who gives them life. This position does not turn the passage into a verdict on every disputed use of Christian art or every form of gathered worship."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/17.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-acts-seventeen-closing-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It: Acts17:23 and25, Living Devotion Misplaced and Not Served by Ritual."
+  }
+}

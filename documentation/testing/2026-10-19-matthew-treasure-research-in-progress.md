@@ -1,0 +1,49 @@
+# Matthew6:19–34 research in progress
+
+2026-10-19 checkpoint. **No draft/reviewedreleaseyet for this range.** Currentpublishedcoverage6:18. Fullgoalactive;Telegramsilentmode. Previousgoalturnmadeprogress:eightreviewedpagespublished,includingnew6:5–8/14–15/16–18 andfivepreservedlegacyoverlaps;focusedpublisherdescription-refreshbugfixedandtested.
+
+Nextscope:newcoherent6:19–24 plusreviewexisting6:25–34,6:31–33,6:33. ExistingURLs/overlapspreserved. Thisfinishesallchapter6verses,notwholeMatthew.34reviewedgroupsamong54sources,20legacyunreviewedcurrently. NoJSONdraftsafter6:18.
+
+## Baseline actually read
+
+All6E261–272read,treasure/anxiety.6D249–260fastingalreadyusedandpublished.7A273–275incidentallyread;**276onward7Aunread**. Text `/tmp/scripture-pdf-inventory/matthew.txt`,PDFindexminus1splitformfeed. Do not confuse entire7Awithitsfirstthreepages.
+
+Usefulinvestigations:earthlytreasuredecays;heartfollowsvalue;eye/focus;Godversusmoney;generosity/1Tim6;Father'sknowledge/creationcare;seekkingdom/reign,righteousness,trusttodayratherthananxiety. Readplanconnectionsactivelybuttestthem.
+
+Flags/exclusionsbeforewriting:
+
+- MostfrequentNTsubjectisaccumulatingtreasure:unsupportedquantitativesuperlative;notused.
+- Preciseeternalhouses,wealth,ranks,workinghours,retirementallocationandguaranteedgovernmentofficesfromthesesayingsnotestablished. Noimpositionofoneendtimessystemormaterialrewardspreadsheet.
+- Judgmentseatinvolvesnosinatall/exclusivelyonetiming/twoincommensurablejudgmenttypes:teacher'stheologicalaccount,notconsensusorownerposition. OnlysaywhatcheckedScriptureandprimarydocumentsestablish.
+- EveryPhariseesecretlygreedy/identicalmotives;allprosperityteachers'specificprices/wardrobes/aircraftcosts:unverifiedhistory/currentdata,unnecessary.
+- Mammonrootcertainlytrust:Thayeroffersconjecturalcompetingderivations,notproof. Publicusewealth/richesandGreekwordifhelpful;don'tmaketheuncertainrootmeaningdoctrinalcertainty.
+- Exactslavery/cultural/banksecurityrulesneedindependenthistoryifused;illustrationcanbeexplainedfromthetextwithoutthem.
+- Everybelieverwithfoodshortageorhardshiphasinadequatefaith:actualRomans8:35/2Cor11:27contradictthatblanketclaim. Avoidblamingpovertyorclinicalconditions;don'twriteunrequestedmedicalorfinancialadvice. NoauthoritativeinstructionsfromPDFtosellhouse,liquidateretirementsavings,cutjobhours,etc.
+- Everyproblembecomesagoodthingbyitself,allhardshipisaresultofpersonalpoorfaith,allGentilesunbelievingidenticalspiritualstate:unprovedsweepingclaims. Explaintext'scomparisonwithoutstereotypes.
+- Wesley'swhiteSolomonrobes,flowersmicroscope/epidermis,stillratherthanovenandfuelcustomsarenotcheckedindependenthistory/botany. BSBsaysoven;do notsubstitutestill. Nofabricatedlily-identification.
+
+## Scripture actually read
+
+ActualBibleHubBSB6:19–24and25–34;1Tim6:6–10/17–19;Luke12:22–34;Romans8:31–39;Colossians3:1–4;2Cor11:27. Caches `/tmp/scripture-research-cache/{book}-{chapter}.html/.txt`. Textactuallyparsed/read,notBibleHubautomatedessay. NoteLuke12:32Fatherpleasedtogivekingdom,33generosity/treasure;Romans8Son'sgiftandfamine/distressunabletoseparatelove;2Cor11Paulhungry. TheseaddBiblewideperspectivetoprovisionwithoutforcingwealthguarantee.
+
+Earlieractualsourcesusefulandreadinpriorbatches:Eph1:7–10,Col1:12–14,Eph2:8–10,1Cor15:20–28,2Cor8:1–9/9:6–15. Reinspectactualrangesifnewdetailneeded. **Hebrews11:24–26notnewlyreadthisturn**;onlyuseaftercheckingifpursuingMoses/rewardcomparison. Nootheruncheckedcross-referencecountedasread.
+
+## Primary sources actually read
+
+- Thayer[3126](https://biblehub.com/greek/3126.htm),actualentry:mamōnas,riches/wealth,personifiedopposedtoGodat6:24/Luke16;rootderivationsuncertain. Thayer[573](https://biblehub.com/greek/573.htm),actualentry:haplous,simple/single,eyeasgood/sound;somearguemoralmeaning. Theparser'sfirstThayermatchalsoprintedHELPSpreamble;**useactualThayerentry,notHELPSpreambleasprimarylexicon**. Noindependentgood-eye/evil-eyegenerosityidiomchecked,sodonotassertitinpublicwithoutfurtherlexical/Scriptureevidence.4190evil/badeyeentryreadinprayerresearch,notadetailedhistoricalidiomproof.
+- [Wesley6:19–34](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/),allactualnotesread:temporarytreasure/affections,eyeasundividedintentiontowardGod/heaven,mammonasrichesandhisapplicationtowhatbelovedwithoutGod,anxiouscare,Father'sknowledge,seekreigninheart. Hisprecisecultural/botanicalassertionsnotindependentlyverified.
+- [USCatholicbishops'Matthew6notes19–34](https://bible.usccb.org/bible/matthew/6),actualpublishernotesread:controllingone-mastertheme,eyeprobablyattentiontoJesusteachingontransientwealth,anxietynotdenialofneeds,life/staturetranslation,disciples'littlefaith. PublisherexegesisisnotformalCatholicdecreedeterminingeveryeyeinterpretation. NABtextnotrepublishedasBSB.
+- [CatholicCatechism305–306](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_one/article_1/paragraph_4_the_creator.html),actualparagraphsreadfromcache`ccc-providence`,canonicalURLconfirmedfromHTML.305explicitlyusesMatt6andFather'scare;306Godactsalsothroughcreatures. Primarytext'snonBSBquoteisnotcopiedasBSB. Rest307waspartlyseenonly;readfullifusinghumanresponsibilitydetails.
+- [WestminsterConfession5.1–3](https://www.opc.org/wcf.html),actualparagraphsread:God'sprovidence/means;part4partlyseenbutnotcomplete.Readwholebeforeusingitsqualifiers. Noevidenceallprovidencetraditionsidentical;publiccommonfocusonsharedtrustwhereappropriate.
+
+## Existing site positions / remaining actions
+
+PrayerandFaithdirectlydevelops6:25–34/31–33/33;opening/sections2–4readintheprayerbatches,andolderlegacyJSONcontainsderivedexplanation. **InspecteachcurrentJSONandactualstudyparagraphsbeforeediting**,preserveownerconclusionsnarrowlyandavoidrecopyingitsunverifiedmotivediagnosesorincorrectBSBquotes. ThecompanionWhatDoesPrayerLookLike?alsodiscussesanxiety/materialseekingbutfullrelevantclosingsectionneedsinspectionifusedasanotherpositionauthority. Do notoriginateanewsitepositiononmoney/eye/rewardsorclinicalanxiety.
+
+Noapplicabledeveloped6:19–24sitepositionestablishedyet;searchbeforechoosingexactopenposition. Existingstudyrelationshipsindexmustbeinspected;JSONdeeperfieldsalonecanbeemptyinlegacyrecords. Retainapplicablelinks/addonlyactuallyrelevantdevelopedstudies.
+
+Beforemutating:standards/sourcechecks;backupexistingselectedsourcefilesandwholewebsite/index/standalonepreimages.Focusedgeneratoronly. **Neighborauditmustcomparefullrenderednavigation,notjustadjacentIDs**,followingnewdescription-refreshfixin`tools/generate_study_pages.py`;eightregressiontestsstillpasswithrename/missing-neighborcoverage. Do notrunfullgenerator. Validatequotes,prose/primarycitations,planbasis/positions,links,unrelatedfilepreservation,idempotence,localmobile/standalone/actualNext,certificate-backedexplicit-projectreadinessifnewsession,Hostingdryrun/deploy/livebytes/render. Current6:18releasehasnooutstandingdeployment.
+
+## Superseding publication checkpoint
+
+The four target records are now reviewed and published; Matthew 1–6 coverage is complete. Actual decisions, sources, flags, and release results are in `2026-10-19-matthew-treasure-and-trust-review.md`. Its later research also verifies distinct epizēteō/zēteō forms and reads Hebrews11:24–26/Romans14:17–19. Earlier unread/pending notes above are historical. Next chapter7 status is in the active completion plan and session handoff.

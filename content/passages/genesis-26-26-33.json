@@ -5,26 +5,46 @@
     "label": "Genesis 26:26-33",
     "slug": "genesis-26-26-33"
   },
-  "section_title": "Isaac\u2019s Covenant with Abimelech",
+  "section_title": "Isaac’s Covenant with Abimelech",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
         "26 Later, Abimelech came to Isaac from Gerar, with Ahuzzath his adviser and Phicol the commander of his army.",
-        "27 \u201cWhy have you come to me?\u201d Isaac asked them. \u201cYou hated me and sent me away.\u201d",
-        "28 \u201cWe can plainly see that the LORD has been with you,\u201d they replied. \u201cWe recommend that there should now be an oath between us and you. Let us make a covenant with you 29 that you will not harm us, just as we have not harmed you but have done only good to you, sending you on your way in peace. And now you are blessed by the LORD.\u201d",
+        "27 “Why have you come to me?” Isaac asked them. “You hated me and sent me away.”",
+        "28 “We can plainly see that the LORD has been with you,” they replied. “We recommend that there should now be an oath between us and you. Let us make a covenant with you 29 that you will not harm us, just as we have not harmed you but have done only good to you, sending you on your way in peace. And now you are blessed by the LORD.”",
         "30 So Isaac prepared a feast for them, and they ate and drank. 31 And they got up early the next morning and swore an oath to each other. Then Isaac sent them on their way, and they left him in peace.",
-        "32 On that same day, Isaac\u2019s servants came and told him about the well they had dug. \u201cWe have found water!\u201d they told him. 33 So he called it Shibah, and to this day the name of the city is Beersheba."
+        "32 On that same day, Isaac’s servants came and told him about the well they had dug. “We have found water!” they told him. 33 So he called it Shibah, and to this day the name of the city is Beersheba."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 26**, Isaac faces famine under the shadow of the promises first given to Abraham. The chapter shows the Lord directing, preserving, and blessing Isaac, highlighting the contrast between divine guidance and fearful self-management."
+    "Abimelech arrives with his adviser and army commander to seek an agreement. Isaac asks why they have come after treating him with hostility and sending him away. Their answer is that they can plainly see the LORD has been with him, and they want an oath that he will not harm them.",
+    "",
+    "Their description of having done Isaac only good sounds different from Isaac's memory of their treatment and the preceding disputes. The account preserves both voices. Isaac nevertheless prepares a feast, and the next morning they exchange oaths and part in peace.",
+    "",
+    "That same day, Isaac's servants report finding water in the new well. He calls it Shibah, and the account connects the name Beersheba with this event. Chapter 21 has already associated Beersheba with Abraham's oath and well; Isaac's experience continues the family's history of worship, water, and peaceful agreements in that place."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Isaac\u2019s Covenant with Abimelech** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 26** remains the first control on meaning."
+    "Christians commonly understand this as a settlement that allows Isaac and his neighbors to live in peace after conflict. [Wesley's note on Genesis 26:28](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) emphasizes his willingness to move beyond the injuries he has received."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "god_plan_lines": [
+    "The neighbors' recognition of the LORD's presence gives Isaac's life a significance beyond his own household. God had promised blessing reaching the nations, and people outside the covenant family now acknowledge His care for Isaac. This agreement is not the full fulfillment of that worldwide promise, but it shows that His work in one family is visible to others.",
+    "",
+    "Isaac responds to that recognition by making peace. [Matthew 5:9](https://biblehub.com/bsb/matthew/5.htm) identifies peacemakers as people who will be called God's children, while [Romans 12:18](https://biblehub.com/bsb/romans/12.htm) calls believers to live at peace as far as it depends on them. The shared theme is a life shaped by God's care that makes room for peace with former opponents."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/26.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-isaac-and-bethel-review.md"
+  }
 }

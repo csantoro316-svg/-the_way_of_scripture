@@ -5,24 +5,73 @@
     "label": "1 Samuel 22:1-5",
     "slug": "1-samuel-22-1-5"
   },
-  "section_title": "David Flees to Adullam and Mizpeh",
+  "section_title": "Who joins David when he has a cave instead of a palace?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 So David left Gath and took refuge in the cave of Adullam. When his brothers and the rest of his father\u2019s household heard about it, they went down to him there. 2 And all who were distressed or indebted or discontented rallied around him, and he became their leader. About four hundred men were with him.",
-        "3 From there David went to Mizpeh of Moab, where he said to the king of Moab, \u201cPlease let my father and mother stay with you until I learn what God will do for me.\u201d 4 So he left them in the care of the king of Moab, and they stayed with him the whole time David was in the stronghold.",
-        "5 Then the prophet Gad said to David, \u201cDo not stay in the stronghold. Depart and go into the land of Judah.\u201d So David left and went to the forest of Hereth."
+        "1 So David left Gath and took refuge in the cave of Adullam. When his brothers and the rest of his father’s household heard about it, they went down to him there. 2 And all who were distressed or indebted or discontented rallied around him, and he became their leader. About four hundred men were with him.",
+        "3 From there David went to Mizpeh of Moab, where he said to the king of Moab, “Please let my father and mother stay with you until I learn what God will do for me.” 4 So he left them in the care of the king of Moab, and they stayed with him the whole time David was in the stronghold. 5 Then the prophet Gad said to David, “Do not stay in the stronghold. Depart and go into the land of Judah.” So David left and went to the forest of Hereth."
       ]
     }
   ],
   "context_lines": [
-    "In **1 Samuel 22**, this section should be read within the flow of the chapter and the larger movement of 1 Samuel."
+    "David leaves Gath and takes refuge in the cave of Adullam. His brothers and the rest of his father’s household come to him. Others gather too: people in distress, in debt or discontented. About four hundred men accept him as their leader. The future king’s following begins among people whose lives are already troubled.",
+    "",
+    "David also seeks safety for his parents. He asks the king of Moab to care for them until he learns what God will do for him. They remain there while David is in the stronghold. His own uncertainty does not make him forget their needs.",
+    "",
+    "Then the prophet Gad tells him to leave the stronghold and go into Judah. David follows the direction and goes to the forest of Hereth. He has followers and help, but his circumstances still require movement and dependence rather than a settled royal home.",
+    "",
+    "[Psalm 142](https://biblehub.com/bsb/psalms/142.htm) is headed as David’s prayer when he was in the cave. It gives voice to being overwhelmed, crying for help and seeking God as refuge. The heading does not name which cave, so the prayer helps us hear David’s experience without fixing its exact moment beyond what it says."
   ],
   "common_interpretation_lines": [
-    "A common reading of **David Flees to Adullam and Mizpeh** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/1_samuel/22.htm) emphasizes how God begins great work through people who appear weak, and how David cares for his parents while facing danger himself. The followers’ distress does not prevent them from having a place in what God is doing.",
     "",
-    "Where interpreters differ on details, the immediate setting in **1 Samuel 22** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-samuel/) and [Gill](https://biblehub.com/commentaries/gill/1_samuel/22.htm) distinguish gathering indebted people from authorizing injustice. They do not read David’s leadership as permission to evade every rightful obligation. The group is described by its troubles; the account does not declare every man a criminal.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-samuel/) reads David’s request concerning his parents as trust in God’s wisdom and care while he waits for direction. [Henry](https://biblehub.com/commentaries/mhc/1_samuel/22.htm) also sees the concern for them as an example of honoring parents. The king’s future calling does not make ordinary family responsibility beneath him."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_samuel/22.htm) and [Gill](https://biblehub.com/commentaries/gill/1_samuel/22.htm) draw a comparison between David receiving distressed people and Christ receiving those who come to Him. David’s small, troubled gathering gives a picture of a kingdom whose beginnings do not look impressive by ordinary measures of power.",
+    "",
+    "[1 Corinthians 1:26–31](https://biblehub.com/bsb/1_corinthians/1.htm) makes the larger principle clear. God’s calling does not depend on worldly wisdom, influence or noble birth. His people receive their righteousness, holiness and redemption in Christ, leaving their boast in the Lord.",
+    "",
+    "This is a parallel, rather than a claim that Paul directly interprets the cave of Adullam. It helps explain why troubled people need not be written off as having nothing to offer. God can make people who need help part of His work of caring for others."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_samuel/22.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-samuel-twenty-two-review.md"
+  }
 }

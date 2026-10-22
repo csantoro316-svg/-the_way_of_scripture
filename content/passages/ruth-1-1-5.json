@@ -1,0 +1,67 @@
+{
+  "reference": {
+    "book": "Ruth",
+    "citation": "1:1-5",
+    "label": "Ruth 1:1-5",
+    "slug": "ruth-1-1-5"
+  },
+  "section_title": "Where can hope begin after a family loses so much?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 In the days when the judges ruled, there was a famine in the land. And a certain man from Bethlehem in Judah, with his wife and two sons, went to reside in the land of Moab. 2 The man’s name was Elimelech, his wife’s name was Naomi, and the names of his two sons were Mahlon and Chilion. They were Ephrathites from Bethlehem in Judah, and they entered the land of Moab and settled there.",
+        "3 Then Naomi’s husband Elimelech died, and she was left with her two sons, 4 who took Moabite women as their wives, one named Orpah and the other named Ruth. And after they had lived in Moab about ten years, 5 both Mahlon and Chilion also died, and Naomi was left without her two sons and without her husband."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The story begins during the days of the judges, when a famine leads Elimelech, Naomi, and their two sons from Bethlehem in Judah to Moab. The setting places this family’s story within the troubled period described in Judges, without naming the particular judge then in office.",
+    "",
+    "Bethlehem is בֵּית לֶחֶם, *Beth Lehem* (bayt LEH-khem), meaning a place of bread or food. [Brown–Driver–Briggs](https://biblehub.com/hebrew/1035.htm) identifies this Bethlehem in Judah and distinguishes it from the town of the same name in Zebulun. The family leaves a town whose name speaks of food because there is not enough to eat.",
+    "",
+    "Elimelech dies in Moab. His sons marry Orpah and Ruth, both Moabite women, and after about ten years the sons also die. Naomi is left without husband or sons, while both daughters-in-law have lost their husbands. The opening moves quickly from a family seeking survival to three bereaved women facing an uncertain future.",
+    "",
+    "The narrator reports the famine, migration, marriages, and deaths without expressly stating why each man dies. [Deuteronomy 11:13–17](https://biblehub.com/bsb/deuteronomy/11.htm) makes famine part of Israel’s covenant warnings, but Ruth’s opening does not give a separate divine explanation of this family’s losses."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ruth/1.htm) considers Elimelech’s concern to provide for his family understandable but judges the move to Moab unwise and spiritually dangerous. He reads the losses as a warning that changing one’s surroundings does not necessarily remove life’s trials. This is his assessment of the move, rather than a prohibition quoted from the opening verses.",
+    "",
+    "The marriages also raise questions. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-ruth/) considers whether the women had already embraced Israel’s faith; without that, he reads the marriages and early deaths as sin followed by punishment. [Gill](https://biblehub.com/commentaries/gill/ruth/1.htm) discusses both favorable and unfavorable readings and notes that the account will lead to the Messiah’s family line. The passage does not tell us what either woman believed when she married.",
+    "",
+    "The treatment of Moabite women has its own important background. [Deuteronomy 23:3–6](https://biblehub.com/bsb/deuteronomy/23.htm) restricts Moabite entry into the assembly. In the Jewish legal tradition, [Mishnah Yevamot 8:3](https://www.sefaria.org/Mishnah_Yevamot.8.3?lang=bi) applies that restriction to men and permits female converts immediately. That distinction differs from treating every Moabite woman as permanently unable to enter Israel’s community. Ruth’s place in the story should not be reduced to an assumed blanket exclusion."
+  ],
+  "god_plan_lines": [
+    "The opening gives no quick answer to the women’s grief, but the book’s ending reveals a purpose they cannot yet see. [Ruth 4:13–22](https://biblehub.com/bsb/ruth/4.htm) traces Ruth and Boaz’s son to David. [Matthew 1:1–6, 16–23](https://biblehub.com/bsb/matthew/1.htm) includes Ruth in the family line of Jesus, who comes to save His people from their sins. A bereaved Moabite woman becomes part of that history.",
+    "",
+    "Her inclusion also belongs beside the Bible’s wider account of people from the nations coming near to God. [Ephesians 2:11–22](https://biblehub.com/bsb/ephesians/2.htm) explains how those once distant are brought near through Christ and become members of God’s household. The story helps us see God’s saving purpose reaching people beyond the boundaries they might have expected."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ruth/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ruth-opening-review.md"
+  }
+}

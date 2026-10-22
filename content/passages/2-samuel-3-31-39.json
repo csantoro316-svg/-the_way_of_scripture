@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "3:31-39",
+    "label": "2 Samuel 3:31-39",
+    "slug": "2-samuel-3-31-39"
+  },
+  "section_title": "What does David’s mourning show—and what remains unresolved?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "31 Then David ordered Joab and all the people with him, “Tear your clothes, put on sackcloth, and mourn before Abner.” And King David himself walked behind the funeral bier. 32 When they buried Abner in Hebron, the king wept aloud at Abner’s tomb, and all the people wept. 33 And the king sang this lament for Abner: “Should Abner die the death of a fool? 34 Your hands were not bound, your feet were not fettered. As a man falls before the wicked, so also you fell.” And all the people wept over him even more.",
+        "35 Then all the people came and urged David to eat something while it was still day, but David took an oath, saying, “May God punish me, and ever so severely, if I taste bread or anything else before the sun sets!” 36 All the people took note and were pleased. In fact, everything the king did pleased them. 37 So on that day all the troops and all Israel were convinced that the king had no part in the murder of Abner son of Ner. 38 Then the king said to his servants, “Do you not realize that a great prince has fallen today in Israel? 39 And I am weak this day, though anointed as king, and these men, the sons of Zeruiah, are too fierce for me. May the LORD repay the evildoer according to his evil!”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "David orders Joab and the people to mourn for Abner, and he walks behind the funeral bier himself. At the tomb he weeps and sings a lament. Abner had not been bound as a prisoner; he fell into the hands of wicked men.",
+    "",
+    "David refuses food until sunset. The people take his mourning seriously and become convinced that he had no part in the murder. He tells his servants that a great prince has fallen in Israel.",
+    "",
+    "Yet his closing words leave a problem in view. Though anointed king, David says he is weak and that the sons of Zeruiah are too fierce for him. He appeals to the LORD to repay the evildoer. His innocence of this murder and his ability to govern the men responsible are different questions."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/3.htm) reads David’s public grief as sincere and as an important declaration that the king did not authorize the murder. Abner had been an opponent, but David recognizes the loss rather than celebrating an enemy’s death.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) and [Gill](https://biblehub.com/commentaries/gill/2_samuel/3.htm) understand David’s weakness mainly in terms of his unsettled kingdom and the power of Joab and Abishai. They criticize his failure to carry out justice. [Henry](https://biblehub.com/commentaries/mhc/2_samuel/3.htm) also regards his handling of Joab as a failure of courage and trust. These readings take David’s difficult circumstances seriously without making them a complete defense of his inaction."
+  ],
+  "god_plan_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/3.htm) looks beyond David’s limited rule to the greater kingship of Christ. Here David can grieve a wrong and condemn it while still struggling to govern the powerful men around him. That leaves us looking for a king whose justice is not held back by such dependence.",
+    "",
+    "Jesus describes His kingdom in [John 18:36–37](https://biblehub.com/bsb/john/18.htm) and connects His mission with bearing witness to the truth. [Revelation 19:11–16](https://biblehub.com/bsb/revelation/19.htm) presents Him as the faithful and true King who judges righteously. His authority and justice do not depend on protecting a violent commander.",
+    "",
+    "This is a comparison between a limited human king and Christ, rather than a claim that the New Testament directly explains Abner’s funeral. David’s grief gives us something to recognize as good; his unresolved failure also shows why our final hope reaches beyond David himself."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/3.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-three-four-review.md"
+  }
+}

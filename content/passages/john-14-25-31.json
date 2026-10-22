@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "14:25-31",
+    "label": "John 14:25-31",
+    "slug": "john-14-25-31"
+  },
+  "section_title": "What peace does Jesus give as the cross approaches?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "25 All this I have spoken to you while I am still with you. 26 But the Advocate, the Holy Spirit, whom the Father will send in My name, will teach you all things and will remind you of everything I have told you. 27 Peace I leave with you; My peace I give to you. I do not give to you as the world gives. Do not let your hearts be troubled; do not be afraid.",
+        "28 You heard Me say, ‘I am going away, and I am coming back to you.’ If you loved Me, you would rejoice that I am going to the Father, because the Father is greater than I. 29 And now I have told you before it happens, so that when it does happen, you will believe. 30 I will not speak with you much longer, for the prince of this world is coming, and he has no claim on Me. 31 But I do exactly what the Father has commanded Me, so that the world may know that I love the Father. Get up! Let us go on from here."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus promises that the Holy Spirit will teach the disciples and bring His words to their remembrance. The immediate hearers are the people who have been with Him and heard His teaching. Their understanding and witness will not depend on unaided memory.",
+    "",
+    "He gives them His peace as the danger approaches. The promise does not remove the coming betrayal, arrest or cross. It gives them a reason to trust Him through what is coming, and He repeats His call not to be troubled or afraid.",
+    "",
+    "He says that they would rejoice in His going to the Father if they understood His departure rightly. His statement that the Father is greater than He is belongs within this account of His mission and return. It must be read alongside His words in [John 14:8–11](https://biblehub.com/bsb/john/14.htm), where His words and works reveal the Father.",
+    "",
+    "The prince of this world is approaching, but Jesus says that the enemy has no claim on Him. What follows will show His love for the Father and His obedience to the Father’s command. John presents Him going toward the cross willingly, not surrendering His mission to the enemy."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the Spirit’s teaching and Jesus’ peace as gifts that sustain His followers through His departure. [Wesley on verses 26–31](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) emphasizes the Spirit’s teaching, peace with God and Christ’s willing obedience. [Calvin on verses 27–31](https://biblehub.com/commentaries/calvin/john/14.htm) likewise connects peace with His continuing presence and understands His death within the Father’s purpose.",
+    "",
+    "The statement that the Father is greater has different explanations within readings that affirm Jesus’ deity. Wesley’s note on verse 28 refers it to Jesus’ humanity. Calvin’s note emphasizes His humbled condition and return to the Father’s glory. The Catholic Church’s [Catechism, paragraphs 464–469](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/artcile_3.html), provides the wider doctrinal setting: Jesus remains truly God while becoming truly human. These explanations do not treat Him as a lesser created god."
+  ],
+  "god_plan_lines": [
+    "The peace Jesus gives belongs to the reconciliation He accomplishes. [Ephesians 2:13–18](https://biblehub.com/bsb/ephesians/2.htm) describes His cross bringing near those who were far away, making peace between divided peoples and giving access to the Father through one Spirit.",
+    "",
+    "The Spirit’s presence also points ahead. [Ephesians 1:13–14](https://biblehub.com/bsb/ephesians/1.htm) describes the promised Holy Spirit as the pledge of the inheritance God will complete. The disciples face real trouble, but Jesus’ departure serves a purpose that the approaching enemy will not overthrow."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/14.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-fourteen-closing-review.md"
+  }
+}

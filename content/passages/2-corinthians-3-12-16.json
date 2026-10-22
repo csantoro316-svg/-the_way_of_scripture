@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "2 Corinthians",
+    "citation": "3:12-16",
+    "label": "2 Corinthians 3:12-16",
+    "slug": "2-corinthians-3-12-16"
+  },
+  "section_title": "What does Paul mean by a veil being taken away?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "12 Therefore, since we have such a hope, we are very bold. 13 We are not like Moses, who would put a veil over his face to keep the Israelites from gazing at the end of what was fading away.",
+        "14 But their minds were closed. For to this day the same veil remains at the reading of the old covenant. It has not been lifted, because only in Christ can it be removed. 15 And even to this day when Moses is read, a veil covers their hearts. 16 But whenever anyone turns to the Lord, the veil is taken away."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The hope of an enduring ministry gives Paul boldness. He returns to Moses’ veil, then carries that picture from a covered face to a covered understanding when the old covenant is read.",
+    "",
+    "In [Exodus 34:33–35](https://biblehub.com/bsb/exodus/34.htm), Moses covers his face after speaking with the people and removes the veil when he enters before the Lord. Paul applies the image to recognizing what is found in Christ: the veil can be removed in Him.",
+    "",
+    "His closing statement is an invitation, not a permanent barrier: whenever anyone turns to the Lord, the veil is taken away. The paragraph should not be turned into a judgment about every Jewish person’s motives or an assertion that Jewish people cannot turn to Christ.",
+    "",
+    "Paul is explaining the role of Christ in understanding the covenant, rather than saying that the Old Testament has no value. He is using its account of Moses as he explains the hope he proclaims."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the veil as an image of not recognizing Christ, and its removal as the understanding that comes in turning to Him. [Wesley’s notes on verses 13–16](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-the-corinthians/) and the [USCCB notes on verses 13–16](https://bible.usccb.org/bible/2corinthians/3) both explain the move from Moses’ face to the readers’ hearts. The image calls for attention to Christ rather than contempt for people."
+  ],
+  "god_plan_lines": [
+    "[Luke 24:25–27 and 44–47](https://biblehub.com/bsb/luke/24.htm) describes the risen Jesus explaining what Moses, the Prophets and the Psalms say about Him. He opens His disciples’ understanding of the Scriptures and connects His suffering and resurrection with the proclamation of repentance and forgiveness to all nations.",
+    "",
+    "That gives a concrete New Testament connection to Paul’s point. Recognizing Christ brings Scripture’s saving message into view. The result is a message to be carried outward, rather than knowledge kept as a reason to feel superior to others."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_corinthians/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-corinthians-three-review.md"
+  }
+}

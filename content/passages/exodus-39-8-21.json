@@ -5,32 +5,55 @@
     "label": "Exodus 39:8-21",
     "slug": "exodus-39-8-21"
   },
-  "section_title": "The Breastpiece",
+  "section_title": "Why is every tribe named on the breastpiece?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "8 He made the breastpiece with the same workmanship as the ephod, with gold, with blue, purple, and scarlet yarn, and with finely spun linen. 9 It was square when folded over double, a span long and a span wide.",
-        "10 And they mounted on it four rows of gemstones:",
-        "The first row had a ruby, a topaz, and an emerald;",
-        "11 the second row had a turquoise, a sapphire, and a diamond;",
-        "12 the third row had a jacinth, an agate, and an amethyst;",
-        "13 and the fourth row had a beryl, an onyx, and a jasper.",
-        "These stones were mounted in gold filigree settings.",
-        "14 The twelve stones corresponded to the names of the sons of Israel. Each stone was engraved like a seal with the name of one of the twelve tribes.",
-        "15 For the breastpiece they made braided chains like cords of pure gold. 16 They also made two gold filigree settings and two gold rings, and fastened the two rings to the two corners of the breastpiece. 17 Then they fastened the two gold chains to the two gold rings at the corners of the breastpiece, 18 and they fastened the other ends of the two chains to the two filigree settings, attaching them to the shoulder pieces of the ephod at the front.",
-        "19 They made two more gold rings and attached them to the other two corners of the breastpiece, on the inside edge next to the ephod.",
-        "20 They made two additional gold rings and attached them to the bottom of the two shoulder pieces of the ephod, on its front, near the seam just above its woven waistband. 21 Then they tied the rings of the breastpiece to the rings of the ephod with a cord of blue yarn, so that the breastpiece was above the waistband of the ephod and would not swing out from the ephod, just as the LORD had commanded Moses."
+        "8 He made the breastpiece with the same workmanship as the ephod, with gold, with blue, purple, and scarlet yarn, and with finely spun linen. 9 It was square when folded over double, a span long and a span wide. 10 And they mounted on it four rows of gemstones: The first row had a ruby, a topaz, and an emerald; 11 the second row had a turquoise, a sapphire, and a diamond; 12 the third row had a jacinth, an agate, and an amethyst; 13 and the fourth row had a beryl, an onyx, and a jasper. These stones were mounted in gold filigree settings. 14 The twelve stones corresponded to the names of the sons of Israel. Each stone was engraved like a seal with the name of one of the twelve tribes.",
+        "15 For the breastpiece they made braided chains like cords of pure gold. 16 They also made two gold filigree settings and two gold rings, and fastened the two rings to the two corners of the breastpiece. 17 Then they fastened the two gold chains to the two gold rings at the corners of the breastpiece, 18 and they fastened the other ends of the two chains to the two filigree settings, attaching them to the shoulder pieces of the ephod at the front. 19 They made two more gold rings and attached them to the other two corners of the breastpiece, on the inside edge next to the ephod. 20 They made two additional gold rings and attached them to the bottom of the two shoulder pieces of the ephod, on its front, near the seam just above its woven waistband. 21 Then they tied the rings of the breastpiece to the rings of the ephod with a cord of blue yarn, so that the breastpiece was above the waistband of the ephod and would not swing out from the ephod, just as the LORD had commanded Moses."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 39**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "The breastpiece is made with the same gold, colors, and linen as the ephod. Twelve stones bear the names of the twelve tribes of Israel, each engraved like a seal. The people are represented by name, not simply by an unnamed collection of precious materials.",
+    "",
+    "Gold chains, settings, rings, and a blue cord fasten the breastpiece to the ephod so that it remains in place. The work follows the instructions in [Exodus 28:15–30](https://biblehub.com/bsb/exodus/28.htm), where Aaron carries the names over his heart when he enters the sanctuary. The construction serves that continuing responsibility before God."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Breastpiece** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 39** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) understands the priest carrying the names close to his heart as part of his representation of the people, and compares it with Christ presenting His people before the Father. [Calvin](https://biblehub.com/commentaries/calvin/exodus/39.htm) likewise emphasizes that the people are represented together through the priest."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[Hebrews 9:23–28](https://biblehub.com/bsb/hebrews/9.htm) says Christ appears in God’s presence on our behalf and has offered Himself to bear sins. That is the greater work toward which the earlier priestly representation directs Christian readers.",
+    "",
+    "There is also a supported parallel with the precious, named people in the Bible’s closing vision. [Revelation 21:10–14, 19–21](https://biblehub.com/bsb/revelation/21.htm) describes the city’s gates bearing the tribes’ names and its jeweled foundations bearing the apostles’ names. The images are not identical, but together they show God’s purpose to gather a people known to Him, belonging in His presence."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/exodus/39.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-exodus-closing-review.md"
+  }
 }

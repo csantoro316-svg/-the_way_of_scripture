@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "11:17-27",
+    "label": "John 11:17-27",
+    "slug": "john-11-17-27"
+  },
+  "section_title": "How does Jesus give hope in the face of death?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 When Jesus arrived, He found that Lazarus had already spent four days in the tomb. 18 Now Bethany was near Jerusalem, a little less than two miles away, 19 and many of the Jews had come to Martha and Mary to console them in the loss of their brother. 20 So when Martha heard that Jesus was coming, she went out to meet Him, but Mary stayed at home. 21 Martha said to Jesus, “Lord, if You had been here, my brother would not have died. 22 But even now I know that God will give You whatever You ask of Him.”",
+        "23 “Your brother will rise again,” Jesus told her. 24 Martha replied, “I know that he will rise again in the resurrection at the last day.” 25 Jesus said to her, “I am the resurrection and the life. Whoever believes in Me will live, even though he dies. 26 And everyone who lives and believes in Me will never die. Do you believe this?” 27 “Yes, Lord,” she answered, “I believe that You are the Christ, the Son of God, who was to come into the world.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "When Jesus arrives, Lazarus has been in the tomb four days. John locates Bethany near Jerusalem, a little less than two miles away, and tells us that many people have come to console the sisters. Martha goes to meet Jesus, while Mary remains at home. The loss is real and already being mourned.",
+    "",
+    "Martha speaks both her grief and her confidence in Jesus. She believes His presence could have prevented her brother’s death and still trusts His relationship with God. When He promises that Lazarus will rise, she answers with her hope of resurrection on the last day. Jesus then directs that hope toward Himself: resurrection and life come through Him.",
+    "",
+    "His words hold together two truths that can seem difficult to place side by side. A believer may die physically and yet live through Him; the life He gives is not finally overcome by death. This is why the promise does not mean that faithful people are guaranteed to avoid a grave.",
+    "",
+    "Jesus asks Martha whether she believes, and she confesses Him as the Christ, the Son of God, the One coming into the world. The conversation moves beyond whether an event called resurrection will happen someday to whether she trusts the One who gives life. Her confession is important in its own right; it need not be turned into a formula that forces God to perform the same miracle in every bereavement."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Jesus as the source of resurrection and eternal life, with faith in Him reaching beyond bodily death. The [Catholic Catechism, paragraph 994](https://www.vatican.va/archive/ENG0015/__P2H.HTM), [Wesley on verse 25](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) and [Calvin on verses 25–26](https://biblehub.com/commentaries/calvin/john/11.htm) all place that hope in Christ Himself."
+  ],
+  "god_plan_lines": [
+    "The promise reaches beyond Lazarus receiving life again in this story. [1 Corinthians 15:20–26](https://biblehub.com/bsb/1_corinthians/15.htm) connects the resurrection of those who belong to Christ with His own resurrection and describes death as the last enemy to be destroyed.",
+    "",
+    "Verses 42–49 describe the future risen body as imperishable and glorious. God’s purpose is therefore more than postponing loss for a few years: through Christ He brings His people into a life that death will not keep taking away. Martha’s hope of the last day finds its foundation in the person standing before her."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/11.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-eleven-opening-review.md"
+  }
+}

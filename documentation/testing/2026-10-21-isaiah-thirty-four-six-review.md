@@ -1,0 +1,37 @@
+# Isaiah 34–36 passage review — 2026-10-21
+
+Four retained groups /49 actual BSB verses. Three supported plans /one intentional omission /four exact open positions. Existing URLs/grouping/deeper links retained; no owner study edited.
+
+## Actually read sources
+
+Baseline whole34–36lessonPDF239–251actuallyread. Cumulative1–252actuallyread,37–39lesson252begun. WholeactualBSB34/35/36,Henry/Wesley34/35expositionread. Henry36redirectsonlyto2Kings18:17–37; actualHenry2Kings18allthreeparagraphs1–8/9–16/17–37read. Wesley36hasNOexposition,notcitedascommentaryforit. USCCB34notesactuallyread;35/36HTTPerrorunused. Gill34selected4,10,11,14,16all8538chars;35selected1,5,6,8,10all15995chars;36selected2,7,10,11,16,17,21all12100charsactuallyread inboundedchunks. WholeactualBDB8414tohu/922bohu/3917lilithentriesread. Lexicons distinguish scholarlynightdemonassociationfromprooflatereschatologicalgeography.
+
+ActualdirectBSBsupportreadRevelation6:12–17;14:9–13;19:1–4;Matthew11:2–6;Hebrews12:12–17;2Kings18:1–8,13–18;Isaiah7:1–9. Revelation19restchapterfetchedbutnotactuallyreadthisbatchandnotneededpublic. PrimaryBritishMuseumobject/imageboth403bywebandobjectHTTPerrorbyurllib, notusedforhistoricalclaim;searchsnippetnotprimarydocumentread. Publicchapter36contextdirectlybiblical, no unverifiable701chronology/tunnelmeasurement. No applicableownerpositionfound34/35/36studysearch.
+
+## 34:1–4
+
+Plan section: included, because (a). Revelation6:12–17actuallyusesfig/stars/rolledscrollimageryfromIsa34:4;pointsLamb/judgment/humanrankwithoutpredictionsassigningmodernevents.
+Position source: none.
+FLAGGED FOR REVIEW: Not allarmydefeatsdirectlyreproduceeachimageryitem. No baselinefutureonlyexacttribulationpoint/two-separated-battlearrivalrouteastextstatedtimeline. PrimaryHenry/Wesglobalreach/NABRE34–35pairedmovementread. No unsupportedmodernastronomymechanism/meteoritesidentityorfigtree=1948code. No newposition.
+
+## 34:5–17
+
+Plan section: included, because (a). Revelation14:11and19:3usetheperpetualsmokelanguage;19:2vindicationbloodservantsaddsbroaderconnection. No equatingEdomwithalllocationsinRevelation.
+Position source: none.
+FLAGGED FOR REVIEW: BaselineBozrah=Petraexactgeographyandprotectedremnantlocationnotverifiedindependently;omitted. BDB3917doesassociateLilithwithnightdemon;notallcreaturesdemons,allEdomlakeoffire,millennialdemonprison,orcontemporarysatanicgoatlogoasproof. BDBexplicitwarnsconnectionwithnightrootmaypopularratherthancertainetymology,so no literalonewhowandersdefinition. GillnightbirdalternativeandBDB/USCCBmythicassociationfairlyattributed;BSBnightcreatureuntouched. Tohu/bohuGenesisconnectionactualentries,butnotclaimGenesis1:2showsjudgmentgaptheory. No childhoodmonsterfearclaim, folklorephysicalanatomy, talmudicamulethistoryorinstruction. ActualBSB34:15owlnotNASBtreesnake. No wildox=unicornmythology/rarecreaturezoology. No ethniccollectivejudgmentmodernEdomdescendantsoruncheckedperpetualdarknessfrom21:11–12. Publicownwordsnotbaselineoutline.
+
+## 35:1–10
+
+Plan section: included, because (a). JesusMatthew11healinganswerandHebrews12:12limphands/kneescallusethesethemes/words. Holiness/peaceandrestorationbeyondmereoptimism.
+Position source: none.
+FLAGGED FOR REVIEW: BaselineallJewsincorruptiblebodies/GentilesallnaturalpeopleinKingdomnotassertedbyIsa35andnotcommonconsensus. Physicalhealingnotreducedonlyspiritualnoralleverypresentdisabilitymoralblindness/lackfaith. ActualBSBroseversusNASBcrocusnotprecisebotanicalclaim. No clinicalinstructionstopsupport/treatmentorillnessguiltpromise, nooptimismcuresillness. No Jewsonlyheavenpopulation/allGentilesexcludedreading. No personalanxietyfaithdeficiency. NewTestamentidentificationJesusbyhealingsclear,notnewownerposition. Henry/Wes/Gillprimaryreadingsfairlyattributed.
+
+## 36:1–22
+
+Plan section: omitted, because none apply. Largertrust/redeemingthemealreadyaddressedincontext/common;noforcedJesus-versusRabshakehcomparisonornewtypology.
+Position source: none.
+FLAGGED FOR REVIEW: BMdirect403,independentcheckfailedforrelief/701claim,sotextnotusedashistoryconfirmation. Baselinehalfmiletunnelmeasurement/703rebellion/20yearsexactgapnotindependentlyverifiedandnotused. ActualIsa7sameaqueductlocationverifieddirectBSB. Actual2Kings18praisesreform,notRabshakehcorrectGodangeredbyreforms. Gillclaimsallhighplacesnecessarilyfalsegodsonlynotuniversallygeneralized. BaselineGodnevercommissionedAssyriaagainstJudahconflictsIsa10broaderdiscipline,notadopted. RabshakehclaimGodsaidisanenemyclaim,notacceptedrevelation. No RabshakehIsaiahson/apostateJewbecauseHebrewfluency/secretShebnatreasonorfrighteneddelegationinnerthoughtsasfacts. Aramaicunderstoodbyofficialstext,notunsupporteduniversalancientdiplomaticlanguageclaim. ThreatdigestivebodilyfunctionsretainedinBSB,nosanitizedsiege. Silenceparticularkingcommand,notuniversalbanansweringabuse/reportingdanger. Henry36redirectnotpretendedfullexposition,Wes36empty notattributedview. No newownerposition.
+
+## Validation
+
+Focused generation, direct BSB, repository (0 errors /375 warnings), preservation, continuous coverage, idempotence, eight mobile views and physical Next passed. Hosting dry run, deployment and LIVE MATCH 8 each observed exit 0. Prefix /tmp/scripture-isaiah-thirty-four-six-.

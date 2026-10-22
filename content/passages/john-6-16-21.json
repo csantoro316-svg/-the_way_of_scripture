@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "6:16-21",
+    "label": "John 6:16-21",
+    "slug": "john-6-16-21"
+  },
+  "section_title": "Why can the disciples take courage on the sea?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "16 When evening came, His disciples went down to the sea, 17 got into a boat, and started across the sea to Capernaum. It was already dark, and Jesus had not yet gone out to them. 18 A strong wind was blowing, and the sea grew agitated. 19 When they had rowed about three or four miles, they saw Jesus approaching the boat, walking on the sea—and they were terrified. 20 But Jesus spoke up: “It is I; do not be afraid.” 21 Then they were willing to take Him into the boat, and at once the boat reached the shore where they were heading."
+      ]
+    }
+  ],
+  "context_lines": [
+    "At evening, the disciples set out by boat toward Capernaum while Jesus is still apart from them. Darkness falls, a strong wind blows and the sea grows rough. They have rowed about three or four miles when they see Him walking toward them on the water.",
+    "",
+    "They are terrified, but Jesus identifies Himself and tells them not to be afraid. They are willing to receive Him into the boat, and the account says the boat reaches the shore at once. John gives that arrival without explaining a physical mechanism.",
+    "",
+    "This follows the feeding and leads into the crowd finding Jesus on the other side. The two signs place His care for people alongside His authority over the natural world."
+  ],
+  "common_interpretation_lines": [
+    "Christian readers commonly understand the scene as a real display of Jesus’ authority and His reassuring presence with the disciples. Calvin emphasizes the confidence His words give them, while the USCCB’s notes connect His walking on the sea with Scripture’s portrayal of God’s power. ([Calvin on John 6:20](https://biblehub.com/commentaries/calvin/john/6.htm); [USCCB notes on John 6:16–21](https://bible.usccb.org/bible/john/6))"
+  ],
+  "god_plan_lines": [
+    "Job describes God as the One who treads on the waves of the sea. Psalm 77 pictures God making a path through mighty waters and leading His people like a flock through Moses and Aaron. Jesus walking on the sea forms a supported parallel with those accounts of God’s authority and saving guidance. ([Job 9:8–10](https://biblehub.com/bsb/job/9.htm); [Psalm 77:16–20](https://biblehub.com/bsb/psalms/77.htm))",
+    "",
+    "The shepherd’s promise of presence in Psalm 23 also helps explain why reassurance matters. The psalmist faces danger without being abandoned, because the Lord is with him. Jesus’ words to the frightened disciples belong alongside that scriptural hope of the Lord present with His people in danger. This is a connection about His presence and care, rather than a promise that believers will never face rough waters. ([Psalm 23:1–4](https://biblehub.com/bsb/psalms/23.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/6.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-six-opening-review.md"
+  }
+}

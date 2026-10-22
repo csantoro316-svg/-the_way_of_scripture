@@ -1,0 +1,66 @@
+{
+  "reference": {
+    "book": "1 Peter",
+    "citation": "2:4-8",
+    "label": "1 Peter 2:4-8",
+    "slug": "1-peter-2-4-8"
+  },
+  "section_title": "What is God building around Christ?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "4 As you come to Him, the living stone, rejected by men but chosen and precious in God’s sight, 5 you also, like living stones, are being built into a spiritual house to be a holy priesthood, offering spiritual sacrifices acceptable to God through Jesus Christ.",
+        "6 For it stands in Scripture: “See, I lay in Zion a stone, a chosen and precious cornerstone; and the one who believes in Him will never be put to shame.” 7 To you who believe, then, this stone is precious. But to those who do not believe, “The stone the builders rejected has become the cornerstone,” 8 and, “A stone of stumbling and a rock of offense.” They stumble because they disobey the word—and to this they were appointed."
+      ]
+    }
+  ],
+  "context_lines": [
+    "As believers come to Christ, the picture changes from a newborn receiving milk to living stones being built together. Jesus is the living stone: rejected by people, yet chosen and precious to God.",
+    "",
+    "The readers are being formed into a spiritual house and a holy priesthood, offering sacrifices acceptable through Jesus Christ. The image concerns their joined life before God; they receive their place and service in relation to Him.",
+    "",
+    "The quotations bring together [Isaiah 28:16](https://biblehub.com/bsb/isaiah/28.htm), [Psalm 118:22](https://biblehub.com/bsb/psalms/118.htm) and [Isaiah 8:14](https://biblehub.com/bsb/isaiah/8.htm). Christ is the cornerstone for those who believe and the stone over which the disobedient stumble. Human rejection does not overturn God’s choice of Him."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/1_peter/2.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-epistle-general-of-st-peter/) understand the spiritual house as believers joined together in Christ and the sacrifices as lives offered in service, including prayer and grateful obedience.",
+    "",
+    "Christians differ over the relation between this shared priesthood and ordained ministry. The Catholic [Catechism, 1546–1547](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_three/article_6/ii_the_sacrament_of_holy_orders_in_the_economy_of_salvation.index.html), affirms that the whole community is priestly, while distinguishing the ordained priesthood as a distinct participation in Christ’s one priesthood, serving the faithful. Reformed churches also recognize particular ministerial duties: the [Westminster Confession, 27.4](https://www.opc.org/wcf.html), reserves administering baptism and the Lord’s Supper to lawfully ordained ministers. A shared priesthood is therefore not read by every tradition as the removal of all distinct ministry roles.",
+    "",
+    "The last sentence raises a further difference. [Calvin](https://biblehub.com/commentaries/calvin/1_peter/2.htm) prefers to understand the appointment as extending to unbelief itself, while [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-epistle-general-of-st-peter/) understands it as God’s appointed judgment on those who do not believe. The Reformed [Westminster Confession, 3.1, 3.7](https://www.opc.org/wcf.html), relates judgment to God’s purpose while explicitly denying that God is the author of sin."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 2:19–22](https://biblehub.com/bsb/ephesians/2.htm) gives a closely related picture: Christ as cornerstone, believers joined into one holy temple and God dwelling among them by His Spirit. The building image brings identity and service together. God is forming a people whose shared life has its foundation in Christ.",
+    "",
+    "The spiritual offerings also fit [Hebrews 13:15–16](https://biblehub.com/bsb/hebrews/13.htm), which connects praise, doing good and sharing with sacrifices pleasing to God through Jesus. The people built around Christ have a life to offer."
+  ],
+  "current_position_lines": [
+    "Our study [Returning to the Word](https://thewayofscripture.com/studies/returning-to-the-word.html) identifies the church as the people in whom God’s Spirit dwells and the priesthood as a calling shared by every believer. [Who Shepherds the Church?](https://thewayofscripture.com/studies/who-shepherds-the-church.html) connects that shared life with direct access to God through Christ, without a necessary human mediating class between Him and His people."
+  ],
+  "deeper_study": [
+    {
+      "title": "Returning to the Word",
+      "href": "../studies/returning-to-the-word.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_peter/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-first-peter-two-opening-review.md",
+    "position_source_detail": "Returning to the Word — returning_to_the_word.md68–74; Who Shepherds the Church? — who_shepherds_the_church.md52–60. Limited to shared priesthood/access, not election or future-Israel questions."
+  }
+}

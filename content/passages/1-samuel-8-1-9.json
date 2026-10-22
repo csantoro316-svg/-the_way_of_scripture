@@ -5,25 +5,58 @@
     "label": "1 Samuel 8:1-9",
     "slug": "1-samuel-8-1-9"
   },
-  "section_title": "Israel Demands a King",
+  "section_title": "Why is the request for a king a rejection of God?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 When Samuel grew old, he appointed his sons as judges over Israel. 2 The name of his firstborn son was Joel, and the name of his second was Abijah. They were judges in Beersheba. 3 But his sons did not walk in his ways; they turned aside toward dishonest gain, accepting bribes and perverting justice.",
-        "4 So all the elders of Israel gathered together and came to Samuel at Ramah. 5 \u201cLook,\u201d they said, \u201cyou are old, and your sons do not walk in your ways. Now appoint a king to judge us like all the other nations.\u201d",
-        "6 But when they said, \u201cGive us a king to judge us,\u201d their demand was displeasing in the sight of Samuel; so he prayed to the LORD.",
-        "7 And the LORD said to Samuel, \u201cListen to the voice of the people in all that they say to you. For it is not you they have rejected, but they have rejected Me as their king. 8 Just as they have done from the day I brought them up out of Egypt until this day, forsaking Me and serving other gods, so they are doing to you. 9 Now listen to them, but you must solemnly warn them and show them the manner of the king who will reign over them.\u201d"
+        "1 When Samuel grew old, he appointed his sons as judges over Israel. 2 The name of his firstborn son was Joel, and the name of his second was Abijah. They were judges in Beersheba. 3 But his sons did not walk in his ways; they turned aside toward dishonest gain, accepting bribes and perverting justice. 4 So all the elders of Israel gathered together and came to Samuel at Ramah. 5 “Look,” they said, “you are old, and your sons do not walk in your ways. Now appoint a king to judge us like all the other nations.”",
+        "6 But when they said, “Give us a king to judge us,” their demand was displeasing in the sight of Samuel; so he prayed to the LORD. 7 And the LORD said to Samuel, “Listen to the voice of the people in all that they say to you. For it is not you they have rejected, but they have rejected Me as their king. 8 Just as they have done from the day I brought them up out of Egypt until this day, forsaking Me and serving other gods, so they are doing to you. 9 Now listen to their voice; but you must solemnly warn them and show them the manner of the king who will reign over them.”"
       ]
     }
   ],
   "context_lines": [
-    "In **1 Samuel 8**, this section should be read within the flow of the chapter and the larger movement of 1 Samuel."
+    "As Samuel grows old, he appoints his sons Joel and Abijah as judges in Beersheba. They do not follow his example. They accept bribes, pursue dishonest gain, and twist justice. The elders therefore bring a real problem to Samuel: his sons are unfit to carry on his work.",
+    "",
+    "Their proposed answer is a king who will judge them like the surrounding nations. Samuel is displeased and brings the matter to the LORD. God identifies the deeper issue as the people rejecting Him as their king, continuing a pattern of forsaking Him for other gods.",
+    "",
+    "God tells Samuel to listen to their request, but also to warn them about the king’s conduct. Permission to proceed is not presented as approval of their rejection. The chapter will show the cost of the solution they are determined to receive."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Israel Demands a King** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-samuel/) and [Gill](https://biblehub.com/commentaries/gill/1_samuel/8.htm) distinguish the justified concern over Samuel’s sons from the broader demand being made. Replacing corrupt judges would address that concern; choosing a king in order to be like the other nations reaches further. [Henry](https://biblehub.com/commentaries/mhc/1_samuel/8.htm) likewise treats God’s granting the request as something that can carry judgment rather than endorsement.",
     "",
-    "Where interpreters differ on details, the immediate setting in **1 Samuel 8** remains the first control on meaning."
+    "[Gill](https://biblehub.com/commentaries/gill/1_samuel/8.htm) specifically locates the wrong in the manner, reason and timing of this request, rather than treating the existence of kingship as forbidden in every circumstance. [Deuteronomy 17:14–20](https://biblehub.com/bsb/deuteronomy/17.htm) had already provided for a king chosen by God who remains under His instruction. The problem here must be read alongside that provision, rather than assuming every human king is automatically a replacement for God."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The failure of leaders and the longing for just rule continue through Israel’s story. The larger biblical hope is not fulfilled merely by replacing one flawed family with another ruler. In [Luke 1:30–33](https://biblehub.com/bsb/luke/1.htm), Jesus is promised David’s throne and a kingdom that will not end.",
+    "",
+    "This is a connection within the Bible’s royal hope, rather than a claim that this request itself directly predicts every detail of Jesus’ reign. God’s warning about rejecting Him and the later promise of His enduring king belong within the same larger story of learning where faithful rule comes from."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_samuel/8.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-samuel-eight-nine-review.md"
+  }
 }

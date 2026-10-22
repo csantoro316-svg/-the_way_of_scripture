@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "2:1-5",
+    "label": "1 Corinthians 2:1-5",
+    "slug": "1-corinthians-2-1-5"
+  },
+  "section_title": "What did Paul want their faith to rest on?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 When I came to you, brothers, I did not come with eloquence or wisdom as I proclaimed to you the testimony about God. 2 For I resolved to know nothing while I was with you except Jesus Christ and Him crucified. 3 I came to you in weakness and fear, and with much trembling. 4 My message and my preaching were not with persuasive words of wisdom, but with a demonstration of the Spirit’s power, 5 so that your faith would not rest on men’s wisdom, but on God’s power."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul asks the Corinthians to remember how he first came to them. He did not make an impressive performance the foundation of his message. Jesus Christ and His crucifixion were at its center, and Paul himself came in weakness, fear and trembling.",
+    "",
+    "That focus does not mean he taught nothing about Jesus’ life, resurrection or commands. It identifies the center around which his preaching belongs. The message should direct people to the crucified Christ rather than make them dependent on admiration for the messenger.",
+    "",
+    "Paul contrasts persuasive words of wisdom with the Spirit’s power. His stated purpose is that their faith should rest on God’s power. A teacher’s confidence, skill or reputation cannot take that place. Paul’s own weakness helps expose the difference between the messenger and the source of saving power."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read these verses as placing confidence in God rather than the preacher’s ability to impress. On the Spirit’s demonstration, [Calvin’s comment on verse 4](https://biblehub.com/commentaries/calvin/1_corinthians/2.htm) includes God’s powerful work throughout Paul’s ministry, rather than limiting it to miracles; [Wesley’s note](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) emphasizes the Spirit’s convincing work on the conscience. These explanations do not turn the passage into a ban on clear reasoning or careful teaching."
+  ],
+  "god_plan_lines": [
+    "[2 Corinthians 4:5–12](https://biblehub.com/bsb/2_corinthians/4.htm) develops this pattern through the picture of treasure carried in jars of clay. The servants are vulnerable, but the power belongs to God. Paul connects their suffering with Jesus’ death and with His life being made visible through them.",
+    "",
+    "Weakness is therefore not automatically a sign that God’s work has failed. His saving message can reach others through people who depend on Him in the middle of hardship. The servant does not have to become the source of strength in order for God to work."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-two-review.md"
+  }
+}

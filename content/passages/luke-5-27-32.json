@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "5:27-32",
+    "label": "Luke 5:27-32",
+    "slug": "luke-5-27-32"
+  },
+  "section_title": "Why does Jesus eat with tax collectors and sinners?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "27 After this, Jesus went out and saw a tax collector named Levi sitting at the tax booth. “Follow Me,” He told him, 28 and Levi got up, left everything, and followed Him. 29 Then Levi hosted a great banquet for Jesus at his house. A large crowd of tax collectors was there, along with others who were eating with them.",
+        "30 But the Pharisees and their scribes complained to Jesus’ disciples, “Why do you eat and drink with tax collectors and sinners?” 31 Jesus answered, “It is not the healthy who need a doctor, but the sick. 32 I have not come to call the righteous, but sinners, to repentance.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus calls Levi from his tax booth, and Levi gets up, leaves everything, and follows Him. Levi then hosts a large banquet for Jesus, with many tax collectors and others at the table. The call leads both to a changed direction for Levi and to a gathering where others meet Jesus.",
+    "",
+    "The Pharisees and their scribes object to the disciples eating and drinking with tax collectors and sinners. Jesus answers with the picture of a doctor attending the sick. His mission is to call sinners to repentance, so being among people who need that help fits the work He has come to do.",
+    "",
+    "Levi’s response gives this gathering its setting: a man whom Jesus has called now welcomes Him among his companions. Matthew’s parallel account names the tax collector Matthew and includes Jesus’ appeal to Hosea’s call for mercy. ([Matthew 9:9–13](https://biblehub.com/bsb/matthew/9.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand Jesus’ welcome as mercy that calls people to a changed life, rather than approval of their sin. In the doctor comparison, Calvin reads the healthy people as those who think themselves righteous, while Jesus’ stated purpose is to reach sinners in need of repentance. ([Calvin on Matthew 9:12–13](https://biblehub.com/commentaries/calvin/luke/5.htm); [Luke 5:31–32](https://biblehub.com/bsb/luke/5.htm))"
+  ],
+  "god_plan_lines": [
+    "Luke returns to this same complaint when tax collectors and sinners gather to hear Jesus. His pictures of a lost sheep and a lost coin explain the joy over a sinner’s repentance. Levi’s banquet belongs within that larger purpose of seeking people who need to be brought back. ([Luke 15:1–10](https://biblehub.com/bsb/luke/15.htm))",
+    "",
+    "At the Gospel’s end, repentance and forgiveness in Jesus’ name are to be proclaimed to all nations. The welcome at this table is an early example of that outward-reaching mercy: Jesus approaches sinners and calls them to turn toward Him. ([Luke 24:44–49](https://biblehub.com/bsb/luke/24.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-five-review.md"
+  }
+}

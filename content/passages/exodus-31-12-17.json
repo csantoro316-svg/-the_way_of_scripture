@@ -5,23 +5,61 @@
     "label": "Exodus 31:12-17",
     "slug": "exodus-31-12-17"
   },
-  "section_title": "The Sign of the Sabbath",
+  "section_title": "Why must the builders stop and rest?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "12 And the LORD said to Moses, 13 \u201cTell the Israelites, \u2018Surely you must keep My Sabbaths, for this will be a sign between Me and you for the generations to come, so that you may know that I am the LORD who sanctifies you. 14 Keep the Sabbath, for it is holy to you. Anyone who profanes it must surely be put to death. Whoever does any work on that day must be cut off from among his people. 15 For six days work may be done, but the seventh day is a Sabbath of complete rest, holy to the LORD. Whoever does any work on the Sabbath day must surely be put to death.",
-        "16 The Israelites must keep the Sabbath, celebrating it as a permanent covenant for the generations to come. 17 It is a sign between Me and the Israelites forever; for in six days the LORD made the heavens and the earth, but on the seventh day He rested and was refreshed.\u2019 \u201d"
+        "12 And the LORD said to Moses, 13 “Tell the Israelites, ‘Surely you must keep My Sabbaths, for this will be a sign between Me and you for the generations to come, so that you may know that I am the LORD who sanctifies you. 14 Keep the Sabbath, for it is holy to you. Anyone who profanes it must surely be put to death. Whoever does any work on that day must be cut off from among his people.",
+        "15 For six days work may be done, but the seventh day is a Sabbath of complete rest, holy to the LORD. Whoever does any work on the Sabbath day must surely be put to death. 16 The Israelites must keep the Sabbath, celebrating it as a permanent covenant for the generations to come. 17 It is a sign between Me and the Israelites forever; for in six days the LORD made the heavens and the earth, but on the seventh day He rested and was refreshed.’”"
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 31**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "Before Moses leaves the mountain, God returns to the Sabbath. Its place here matters. Israel has important work to do for God, but the command to rest still stands. The seventh day belongs to the LORD; building His tent does not make every day a working day.",
+    "",
+    "God calls the Sabbath a sign between Himself and Israel through their generations. It identifies the people He sets apart for Himself and recalls His work in creation. The death penalty shows how seriously this covenant treats its violation. These verses address Israel under that covenant; they do not instruct churches to execute people for working.",
+    "",
+    "The closing description of God being refreshed uses the Hebrew verb נָפַשׁ, *naphash* (nah-FASH), meaning to take breath or refresh oneself ([Brown–Driver–Briggs](https://biblehub.com/hebrew/5314.htm)). The wording gives Israel a pattern of work followed by rest. It should be read alongside Isaiah’s statement that the Creator does not grow tired or weary ([Isaiah 40:28](https://biblehub.com/bsb/isaiah/40.htm)). God is not recovering from weakness."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Sign of the Sabbath** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) reads the Sabbath as a sign that God has set Israel apart, with rest serving both His honor and His people’s good. Christian traditions differ over how this command applies after Christ.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 31** remains the first control on meaning."
+    "The Reformed [Westminster Confession, 21.7–8](https://www.opc.org/wcf.html), teaches that God still requires one day in seven for worship and rest, with Sunday now the Christian Sabbath. The [Catholic Catechism, 2174–2176](https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_one/article_3/ii_the_lords_day.index.html), presents Sunday as the fulfillment of the Sabbath through Christ’s resurrection.",
+    "",
+    "Luther’s [Large Catechism, 80–90](https://thebookofconcord.org/large-catechism/part-i/commandment-iii/), emphasizes rest and hearing God’s Word; it keeps Sunday for an orderly gathering without making that day intrinsically holier. [Seventh-day Adventists retain seventh-day Sabbath observance](https://adventist.org/fr/beliefs/official/the-sabbath). These differences concern the command’s continuing application; the passage itself explicitly names Israel as the people receiving this covenant sign."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The instructions for God’s dwelling echo the creation account. Across Exodus 25–31, seven separate speeches begin with God speaking to Moses: 25:1; 30:11, 17, 22, 34; and 31:1, 12. The last concerns rest. That arrangement makes a meaningful literary parallel with creation’s six days of work followed by the seventh day of rest ([Exodus 25](https://biblehub.com/bsb/exodus/25.htm); [Exodus 30](https://biblehub.com/bsb/exodus/30.htm); [Genesis 2:1–3](https://biblehub.com/bsb/genesis/2.htm)). Both accounts bring work to completion and lead into rest.",
+    "",
+    "Hebrews takes God’s creation rest further. It quotes the seventh day, recalls Israel’s failure to enter because of disobedience, and urges its readers to hear God today and enter His rest through faith ([Hebrews 4:1–11](https://biblehub.com/bsb/hebrews/4.htm)). Paul also connects the calendar’s Sabbaths with what finds its substance in Christ ([Colossians 2:16–17](https://biblehub.com/bsb/colossians/2.htm)). Beyond the question of which day to observe, these passages direct us toward God’s purpose of bringing His people into His rest."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/exodus/31.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-exodus-thirty-one-review.md"
+  }
 }

@@ -5,25 +5,49 @@
     "label": "Romans 3:23",
     "slug": "romans-3-23"
   },
-  "section_title": "",
+  "section_title": "Who needs the salvation God gives?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"for all have sinned and fall short of the glory of God,\""
+      "label": "BSB",
+      "paragraphs": [
+        "23 for all have sinned and fall short of the glory of God,"
+      ]
     }
   ],
   "context_lines": [
-    "Romans 3:23 should be read within the flow of its chapter and the larger argument of Romans."
+    "Paul has placed Jews and Greeks alike under sin. He now says that there is no distinction in the righteousness offered through faith in Christ, because all have sinned and fall short of God’s glory.",
+    "",
+    "The sentence continues into the gift of being justified by grace through Christ’s redemption. Read [Romans 3:21–26](https://the-way-of-scripture.web.app/passages/romans-3-21-26.html) to keep the statement of need together with God’s answer. Paul does not leave his readers with the verdict of failure alone."
   ],
   "common_interpretation_lines": [
-    "Every person stands in that sentence. The problem is not that some people need a little improvement while others need a lot. The problem is sin, and all have sinned.",
-    "",
-    "Sin earns death. Eternal life is not earned at all. It is given. That is why the gospel is good news and not advice."
+    "Christians commonly read this verse as declaring humanity’s shared need for God’s saving grace. Neither ancestry, religious knowledge nor comparison with someone else supplies a ground for claiming that Christ’s salvation is unnecessary."
+  ],
+  "god_plan_lines": [
+    "The verse belongs within Paul’s announcement of one saving gift for Jew and Gentile. [Romans 3:24–26](https://biblehub.com/bsb/romans/3.htm) immediately connects the shared need with grace, redemption and faith in Jesus. Its place in the story is to explain why that gift is needed by the people who receive it."
+  ],
+  "current_position_lines": [
+    "The Gospel According to Jesus uses Romans 3:23 to explain that every person needs salvation. Our position is that salvation is received through faith in Jesus Christ rather than inherited from family, earned through moral effort or secured by religious activity. The need named here leads directly into the gift God provides through Christ."
   ],
   "deeper_study": [
     {
       "title": "The Gospel According to Jesus",
       "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-romans-three-review.md",
+    "position_source_detail": "The Gospel According to Jesus — Have You Been Saved? (Romans 3:23)"
+  }
 }

@@ -1,0 +1,6 @@
+# Acts 13 complete
+
+
+Sixty-two reviewed pages cover 490 actual BSB verses continuously through Acts 13:52: 62 plans, 24 existing-study positions, 38 open positions. There are 76 Acts source pages and 14 unreviewed legacy references. Four closing fresh BSB checks and eight tests passed; zero errors and 298 known warnings. Mobile reader/standalone, actual Next, source/index/preservation/navigation/coverage and idempotence passed. Hosting dry run and actual deployment exited successfully; eight affected and nine whole-chapter live files match local bytes.
+
+Whole baseline PDF read through196:Acts14lesson183–195plus15Aopening196,whichbegins14:19–22;197onwardunread. Needfinishbaseline14:23–28in15A. NoActs14draft. BSB14/Calvin14/USCCB14/Thayer5500/Ps146/Matt10fetchednotread. Existinglegacy14:23. Needallstudysearchfor14:23likelyWhoShepherds. BaselinephysicalheightinferencefromZeus/Hermesunverified;GreekcityinhabitantsnotallRoman;OvidBaucis/Philemonleadneedsactualprimaryifused;Paulonlymildinjury/notdeadvsresurrectionnotexplicit. No inventedreturnattackersallleftcityorfirstorganizedoppositionclaim. Acts14:23politydifferencesneedownprimarydocumentsandactuallexiconbeforeclaims. Telegramnormalmode;continuewithoutstopping.

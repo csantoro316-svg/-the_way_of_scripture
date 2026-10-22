@@ -1,0 +1,69 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "9:42-48",
+    "label": "Mark 9:42-48",
+    "slug": "mark-9-42-48"
+  },
+  "section_title": "Taking Sin and Its Harm Seriously",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "42 But if anyone causes one of these little ones who believe in Me to stumble, it would be better for him to have a large millstone hung around his neck and to be thrown into the sea. 43 If your hand causes you to sin, cut it off. It is better for you to enter life crippled than to have two hands and go into hell, into the unquenchable fire.",
+        "45 If your foot causes you to sin, cut it off. It is better for you to enter life lame than to have two feet and be thrown into hell. 47 And if your eye causes you to sin, pluck it out. It is better for you to enter the kingdom of God with one eye than to have two eyes and be thrown into hell, 48 where ‘their worm never dies, and the fire is never quenched.’"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus moves from rewarding a small kindness to warning against great harm: leading one of the little ones who believe in Him into sin. The child He welcomed and the man the disciples tried to stop remain part of the surrounding conversation. His warning protects people whom others may dismiss or hinder.",
+    "",
+    "The Greek word [σκανδαλίζω (skandalizo, skan-dah-LEE-zoh)](https://biblehub.com/greek/4624.htm) means to cause someone to stumble or fall into sin. Here the concern is deeper than upsetting someone or disagreeing with them: it is helping turn them away from faithful obedience to God.",
+    "",
+    "Jesus uses the terrible image of drowning under a large millstone to show how seriously He takes that harm. He then turns the warning toward the hearer's own conduct. Hand, foot, and eye describe things a person uses, pursues, or treasures that can become involved in sin. His comparisons demand decisive action, even when giving something up is painful.",
+    "",
+    "The images are commonly read as forceful pictures rather than instructions to injure the body. Jesus has already located the source of evil in the heart in [Mark 7:20–23](https://biblehub.com/bsb/mark/7.htm). Removing a body part would not remove that source. His repeated contrast is between entering life and facing God's judgment.",
+    "",
+    "The word translated hell is [γέεννα (Gehenna, geh-EN-nah)](https://biblehub.com/greek/1067.htm), a name connected with the Valley of Hinnom and used for future punishment. The valley's association with child sacrifice appears in [2 Kings 23:10](https://biblehub.com/bsb/2_kings/23.htm). Verse 48 draws its language about worm and fire directly from Isaiah 66:24.",
+    "",
+    "The [BSB footnotes](https://biblehub.com/bsb/mark/9.htm) explain the gaps in numbering above: some manuscripts repeat the words of verse 48 as verses 44 and 46. This page follows the BSB main text, which gives the saying once at verse 48."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings generally agree that Jesus warns against leading others into sin and calls for costly action against sin in one's own life. [Calvin's discussion](https://biblehub.com/commentaries/calvin/mark/9.htm) stresses care for believers whom the world despises, while [Wesley's notes](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-mark/) apply the cutting-off imagery to relationships and things that draw a person away from God.",
+    "",
+    "Where traditions differ is in how they understand the judgment described and how the warning relates to salvation. The Catholic Church teaches the reality of hell and lasting separation from God for those who die refusing repentance ([Catechism 1033–1037](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_three/article_12/iv_hell.html)). Reformed churches following [Westminster 33.2](https://www.opc.org/wcf.html), and Baptists following the [1689 Confession 32.2](https://www.the1689confession.com/1689/chapter-32), likewise teach everlasting punishment. These statements describe the teaching of those documents, rather than every person carrying a denominational label.",
+    "",
+    "Seventh-day Adventists understand the final fire as bringing the wicked to an end. Their official [Fundamental Beliefs 26–27](https://gc.adventist.org/beliefs/) say immortality is God's gift to the redeemed and that fire consumes the wicked. This differs from the continuing punishment described in the confessions above.",
+    "",
+    "On the warning's relation to believers, [Westminster 17](https://www.opc.org/wcf.html) teaches that those truly saved will persevere, while recognizing serious sin, harm to others, and God's discipline along the way. The Catholic teaching above warns against persisting in grave sin without repentance. Within Free Grace teaching, [Charlie Bing's GraceLife study of this passage](https://www.gracelife.org/resources/gracenotes/?id=18&lang=eng) reads Jesus as contrasting a disciple's costly self-denial with the unbeliever's destiny, rather than threatening a believer with losing salvation. That is an individual teacher's reading, not a statement representing all evangelicals."
+  ],
+  "god_plan_lines": [
+    "Jesus' reference reaches back to the closing vision of [Isaiah 66:18–24](https://biblehub.com/bsb/isaiah/66.htm). There God gathers people from the nations to see His glory, promises enduring new heavens and a new earth, and exposes the outcome of rebellion. Jesus places the choice between life in God's kingdom and judgment within that larger picture. The promise of restoration does not make evil or its harm unimportant.",
+    "",
+    "The concern for the little ones also reappears in the church's life. In [1 Corinthians 8:9–13](https://biblehub.com/bsb/1_corinthians/8.htm), Paul tells knowledgeable believers to give up a freedom rather than encourage a weaker believer into sin. His reason reaches to the cross: this is a brother for whom Christ died, and harming that brother is a sin against Christ. What Jesus warns about here becomes a concrete way of caring for people He gave His life to rescue."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/9.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-nine-closing-review.md"
+  }
+}

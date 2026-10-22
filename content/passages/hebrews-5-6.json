@@ -5,22 +5,53 @@
     "label": "Hebrews 5:6",
     "slug": "hebrews-5-6"
   },
-  "section_title": "",
-  "versions": [],
+  "section_title": "What does a priest forever in Melchizedek’s order mean?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 And in another passage God says: “You are a priest forever in the order of Melchizedek.”"
+      ]
+    }
+  ],
   "context_lines": [
-    "Hebrews 5:6 should be read within the flow of its chapter and the larger argument of Hebrews."
+    "This quotation from [Psalm 110:4](https://biblehub.com/bsb/psalms/110.htm) supports the preceding statement that Jesus did not appoint Himself high priest. God gives Him a priesthood described as enduring forever.",
+    "",
+    "Melchizedek appears in [Genesis 14:18–20](https://biblehub.com/bsb/genesis/14.htm) as a king and priest who blesses Abraham. Hebrews will develop the connection in chapter 7. The word [order](https://biblehub.com/greek/5010.htm) here concerns the manner of priesthood; it does not establish that Jesus descended through a bloodline from Melchizedek."
   ],
   "common_interpretation_lines": [
-    "The book of Hebrews spends its middle chapters establishing that Jesus is a priest \"according to the order of Melchizedek\" (Hebrews 5:6, quoting Psalm 110:4) rather than according to the order of Levi. Melchizedek appears once in Genesis, blessing Abraham \u2014 a king and priest with no recorded genealogy, no predecessor, no successor (Genesis 14:18-20; see also Hebrews 7:1-3). The writer of Hebrews uses that silence deliberately: a priesthood that isn't passed down, isn't inherited, isn't mediated through a class of men set apart by birth.",
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/5.htm), [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) and the [Catholic Catechism, paragraph 1544](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_three/article_6/ii_the_sacrament_of_holy_orders_in_the_economy_of_salvation.index.html), recognize Melchizedek as pointing to Christ’s unique priesthood. The promise concerns a priest who endures, rather than a succession created by Jesus’ own ambition.",
     "",
-    "Then comes the argument that matters most for this study:",
+    "Traditions differ over ordained priesthood in the church. The Catholic Catechism, 1545–1547, understands ministers as participating in Christ’s one priesthood and making His unique sacrifice present in the Eucharist, the church’s celebration of the Lord’s Supper. Reformed teaching in the [Westminster Confession, 29.1–2](https://www.opc.org/wcf.html), understands the Lord’s Supper as commemorating His once-for-all offering and rejects a further sacrifice for sin. Both affirm the uniqueness of Christ’s sacrifice, while explaining the church’s ministry differently."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 7:11–17](https://biblehub.com/bsb/hebrews/7.htm) explains why the promise reaches beyond the priesthood associated with Levi: Jesus’ priesthood is grounded in an indestructible life. The earlier king-priest provides the comparison Hebrews itself draws.",
     "",
-    "A change in priesthood. A change in law. The old covenant required a mediating class \u2014 men set apart, functioning between God and the people, offering sacrifices the people themselves could not offer. Hebrews' whole argument is that this pointed forward to something, and that something has already arrived:"
+    "[Hebrews 7:24–25](https://biblehub.com/bsb/hebrews/7.htm) then states the result for those coming to God through Him. His priesthood continues because He lives forever. The promise serves God’s purpose of giving His people lasting access through Christ."
+  ],
+  "current_position_lines": [
+    "Our study [Who Shepherds the Church?](https://thewayofscripture.com/studies/who-shepherds-the-church.html) reads Christ’s priesthood as permanent: He needs no successor, and believers approach God through Him. It therefore rejects a clergy class functioning as the necessary spiritual mediator between believers and God, while affirming the work of elders who teach and care for the church."
   ],
   "deeper_study": [
     {
       "title": "Who Shepherds the Church?",
       "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-five-review.md",
+    "position_source_detail": "Who Shepherds the Church? — What Changed at the Cross, lines 44–63; specific Hebrews 5:6 application retained."
+  }
 }

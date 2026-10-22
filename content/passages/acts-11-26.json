@@ -5,16 +5,59 @@
     "label": "Acts 11:26",
     "slug": "acts-11-26"
   },
+  "section_title": "What are Barnabas and Saul doing with the church in Antioch?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"...and when he had found him, he brought him to Antioch. And for an entire year they met with the church and taught many people...\""
+      "label": "BSB",
+      "paragraphs": [
+        "26 and when he found him, he brought him back to Antioch. So for a full year they met together with the church and taught large numbers of people. The disciples were first called Christians at Antioch."
+      ]
     }
   ],
   "context_lines": [
-    "Acts 11:26 should be read within the flow of its chapter and the larger argument of Acts."
+    "Luke returns to the believers scattered by the persecution associated with Stephen. They have carried the message to Phoenicia, Cyprus and Antioch, speaking to Jews. Others from Cyprus and Cyrene also proclaim the Lord Jesus to Greeks in Antioch, and many believe and turn to the Lord.",
+    "",
+    "The church in Jerusalem sends Barnabas when it hears the news. He sees God’s grace at work and rejoices. His encouragement is to remain with the Lord wholeheartedly, and Luke describes him as good, full of the Holy Spirit and faith.",
+    "",
+    "Barnabas then seeks Saul in Tarsus and brings him to Antioch. Together they meet with the church and teach large numbers for a full year. The account gives room to the continuing work of teaching after people first believe.",
+    "",
+    "The disciples are first called Christians in Antioch. The Greek word **Χριστιανός** (*Christianos*, khrees-tee-ah-NOS) means a follower of Christ; [Thayer’s entry](https://biblehub.com/greek/5546.htm) explains the term. Luke records where the name is first used without identifying the individual who coined it or the exact tone in which it was first spoken."
   ],
-  "explanation_lines": [
-    "The early believers didn't say \"Let's go to church.\" They were the church. Their identity was communal and spiritual \u2014 not geographical or architectural. When *ekkl\u0113sia* was replaced with \"church,\" and \"church\" gradually became synonymous with a building, the identity that Scripture gives to every believer got transferred to an address."
-  ]
+  "common_interpretation_lines": [
+    "Christians commonly read Barnabas’s joy, encouragement and partnership with Saul as support for a growing community’s continuing life in Christ. [Calvin on verse 23](https://biblehub.com/commentaries/calvin/acts/11.htm) emphasizes rejoicing in God’s work through other people and helping believers continue in the teaching they have received."
+  ],
+  "god_plan_lines": [
+    "[Galatians 3:26–29](https://biblehub.com/bsb/galatians/3.htm) describes people of different backgrounds as one in Christ through faith and as heirs of the promise to Abraham. The mixed community in Antioch belongs within that larger biblical picture of belonging to Christ together.",
+    "",
+    "This shared identity takes practical shape through encouragement and sustained teaching. Luke does not stop with the report of new believers; he shows Barnabas seeking a coworker and both men investing a year in helping the community learn."
+  ],
+  "current_position_lines": [
+    "Worship as the Early Church Knew It uses Acts 11:26 to emphasize that the church is the gathered people, rather than the building where they meet. Barnabas and Saul meet with an assembly of believers and teach them. The study’s point here is the community’s identity, not a new rule against using a particular kind of meeting place."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/11.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-acts-eleven-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It — Ekklēsia Is Never a Building; directly cites Acts11:26 and develops church as gathered people rather than location."
+  }
 }

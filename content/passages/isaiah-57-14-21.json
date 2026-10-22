@@ -5,50 +5,61 @@
     "label": "Isaiah 57:14-21",
     "slug": "isaiah-57-14-21"
   },
-  "section_title": "Healing for the Repentant",
+  "section_title": "Why does the holy God draw near to the humble?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "14 And it will be said,",
-        "\u201cBuild it up, build it up, prepare the way,",
-        "take every obstacle out of the way of My people.\u201d",
-        "15 For thus says the One who is high and lifted up,",
-        "who inhabits eternity, whose name is Holy:",
-        "\u201cI dwell in a high and holy place,",
-        "and with the oppressed and humble in spirit,",
-        "to restore the spirit of the lowly",
-        "and revive the heart of the contrite.",
-        "16 For I will not accuse you forever,",
-        "nor will I always be angry;",
-        "for then the spirit of man would grow weak before Me,",
-        "with the breath of those I have made.",
-        "17 I was enraged by his sinful greed,",
-        "so I struck him and hid My face in anger;",
-        "yet he kept turning back",
-        "to the desires of his heart.",
-        "18 I have seen his ways,",
-        "but I will heal him;",
-        "I will guide him and restore comfort",
-        "to him and his mourners,",
-        "19 bringing praise to their lips.",
-        "Peace, peace to those far and near,\u201d says the LORD,",
-        "\u201cand I will heal them.\u201d",
-        "20 But the wicked are like the storm-tossed sea,",
-        "for it cannot be still,",
-        "and its waves churn up mire and muck.",
-        "21 \u201cThere is no peace,\u201d says my God,",
-        "\u201cfor the wicked.\u201d"
+        "14 And it will be said, “Build it up, build it up, prepare the way, take every obstacle out of the way of My people.” 15 For thus says the One who is high and lifted up, who inhabits eternity, whose name is Holy: “I dwell in a high and holy place, and with the oppressed and humble in spirit, to restore the spirit of the lowly and revive the heart of the contrite. 16 For I will not accuse you forever, nor will I always be angry; for then the spirit of man would grow weak before Me— the breath of life I have made.",
+        "17 I was enraged by his sinful greed, so I struck him and hid My face in anger; yet he kept turning back to the desires of his heart. 18 I have seen his ways, but I will heal him; I will guide him and restore comfort to him and his mourners, 19 bringing praise to their lips. Peace, peace to those far and near,” says the LORD, “and I will heal them.”",
+        "20 But the wicked are like the storm-tossed sea, for it cannot be still, and its waves churn up mire and muck. 21 “There is no peace,” says my God, “for the wicked.”"
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 57**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "The way is to be prepared and obstacles removed for God’s people. The One who is high, holy and eternal then declares that He also dwells with the oppressed and humble in spirit. His purpose is to restore and revive them.",
+    "",
+    "He will not keep accusing or remain angry forever, because the people He made would faint under unrelenting judgment. Their sinful greed brought His anger, yet they continued following their own hearts.",
+    "",
+    "The promise of healing comes with His knowledge of those ways. He will lead, restore comfort and bring praise to their lips. Peace is announced to those far away and those near.",
+    "",
+    "The closing contrast prevents the promise from becoming approval of persistent wickedness. The wicked are like a sea that cannot settle and keeps churning up mud. They do not share the peace the Lord gives."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Healing for the Repentant** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/isaiah/57.htm) and [Wesley](https://biblehub.com/commentaries/wes/isaiah/57.htm) emphasize God’s mercy toward the humbled and His power to restore people whom judgment alone has not changed. His greatness does not keep Him distant from the lowly.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 57** remains the first control on meaning."
+    "Both connect peace for the far and near with God’s welcome reaching Gentiles as well as Jews. They understand the restless sea as a picture of life governed by wicked desires, rather than a description of the settled peace God gives."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[Ephesians 2:13–22](https://biblehub.com/bsb/ephesians/2.htm) takes up the announcement of peace to those far away and those near. Christ brings Gentiles near through His blood and reconciles Jewish and Gentile believers to God in one body through the cross.",
+    "",
+    "The result is shared access to the Father by one Spirit and membership in one household. Paul then describes that people as a dwelling place for God in His Spirit. Isaiah’s promise of peace thus connects with Christ gathering people and bringing them into God’s presence."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/57.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-fifty-seven-nine-review.md"
+  }
 }

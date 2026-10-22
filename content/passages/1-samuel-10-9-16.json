@@ -5,29 +5,54 @@
     "label": "1 Samuel 10:9-16",
     "slug": "1-samuel-10-9-16"
   },
-  "section_title": "Samuel\u2019s Signs Fulfilled",
+  "section_title": "What changes in Saul when the signs come true?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "9 As Saul turned to leave Samuel, God changed Saul\u2019s heart, and all the signs came to pass that day. 10 When Saul and his servant arrived at Gibeah, a group of prophets met him. Then the Spirit of God rushed upon him, and he prophesied along with them.",
-        "11 All those who had formerly known Saul and saw him prophesying with the prophets asked one another, \u201cWhat has happened to the son of Kish? Is Saul also among the prophets?\u201d",
-        "12 Then a man who lived there replied, \u201cAnd who is their father?\u201d So the saying became a proverb: \u201cIs Saul also among the prophets?\u201d",
-        "13 And when Saul had finished prophesying, he went up to the high place.",
-        "14 Now Saul\u2019s uncle asked him and his servant, \u201cWhere did you go?\u201d",
-        "\u201cTo look for the donkeys,\u201d Saul replied. \u201cWhen we saw they were not to be found, we went to Samuel.\u201d",
-        "15 \u201cTell me,\u201d Saul\u2019s uncle asked, \u201cwhat did Samuel say to you?\u201d",
-        "16 And Saul replied, \u201cHe assured us that the donkeys had been found.\u201d But Saul did not tell his uncle what Samuel had said about the kingship."
+        "9 As Saul turned to leave Samuel, God changed Saul’s heart, and all the signs came to pass that day. 10 When Saul and his servant arrived at Gibeah, a group of prophets met him. Then the Spirit of God rushed upon him, and he prophesied along with them. 11 When all those who had formerly known Saul saw him prophesying with the prophets, they asked one another, “What has happened to the son of Kish? Is Saul also among the prophets?” 12 Then a man who lived there replied, “And who is their father?” So the saying became a proverb: “Is Saul also among the prophets?” 13 And when Saul had finished prophesying, he went up to the high place.",
+        "14 Now Saul’s uncle asked him and his servant, “Where did you go?” “To look for the donkeys,” Saul replied. “When we saw they were not to be found, we went to Samuel.” 15 “Tell me,” Saul’s uncle asked, “what did Samuel say to you?” 16 And Saul replied, “He assured us that the donkeys had been found.” But Saul did not tell his uncle what Samuel had said about the kingship."
       ]
     }
   ],
   "context_lines": [
-    "In **1 Samuel 10**, this section should be read within the flow of the chapter and the larger movement of 1 Samuel."
+    "As Saul leaves Samuel, God changes his heart, and the announced signs take place that day. The account then describes the most public sign: the Spirit of God comes upon him, and he prophesies with the group at Gibeah. People who know him are surprised to see this.",
+    "",
+    "Their question about Saul being among the prophets becomes a proverb. The episode presents something unexpected in a familiar person and credits God with the change. It does not quote the contents of his prophesying or describe the age, dress or appearance of the other prophets.",
+    "",
+    "When Saul’s uncle asks about the journey, Saul reports that Samuel assured him the donkeys had been found. He does not disclose what Samuel said about kingship. The narrator marks that silence, leaving his full reasons unstated."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Samuel\u2019s Signs Fulfilled** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "The significance of the changed heart is an important interpretive question. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-samuel/) explains the change in terms of courage, wisdom and other qualities suited to Saul’s new office. [Gill](https://biblehub.com/commentaries/gill/1_samuel/10.htm) explicitly understands it as preparation for governing, rather than the new heart of conversion.",
     "",
-    "Where interpreters differ on details, the immediate setting in **1 Samuel 10** remains the first control on meaning."
+    "[Henry](https://biblehub.com/commentaries/mhc/1_samuel/10.htm) also cautions against assuming that this surprising religious experience settles Saul’s lasting spiritual condition. His reading distinguishes becoming different in this situation from being made new in the fullest spiritual sense. The text itself states that God changes Saul and empowers his prophesying; conclusions about his final standing before God require a wider interpretation of his story.",
+    "",
+    "On Saul’s silence to his uncle, [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-samuel/) sees modesty and a commitment to keeping the matter private. That is an explanation of the omission, rather than an inward motive directly reported by Saul. The scene does not require either immediate condemnation of deceit or a complete verdict on his humility."
   ],
-  "deeper_study": []
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_samuel/10.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-samuel-ten-review.md"
+  }
 }

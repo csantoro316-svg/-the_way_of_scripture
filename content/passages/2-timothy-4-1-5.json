@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "2 Timothy",
+    "citation": "4:1-5",
+    "label": "2 Timothy 4:1-5",
+    "slug": "2-timothy-4-1-5"
+  },
+  "section_title": "What must Timothy keep doing when people resist the truth?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 I charge you in the presence of God and of Christ Jesus, who will judge the living and the dead, and in view of His appearing and His kingdom: 2 Preach the word; be prepared in season and out of season; reprove, rebuke, and encourage with every form of patient instruction.",
+        "3 For the time will come when men will not tolerate sound doctrine, but with itching ears they will gather around themselves teachers to suit their own desires. 4 So they will turn their ears away from the truth and turn aside to myths. 5 But you, be sober in all things, endure hardship, do the work of an evangelist, fulfill your ministry."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul has described Scripture’s usefulness for equipping a person for good work. He now gives Timothy a solemn charge before God and Christ Jesus, the Judge: proclaim the word and remain ready to do so, whether the circumstances seem favorable or not.",
+    "",
+    "The verb for preach means to announce or proclaim, like a herald ([Thayer](https://biblehub.com/greek/2784.htm)). The task includes reproving, rebuking and encouraging, with patient instruction. Firmness and patience belong together.",
+    "",
+    "Paul warns that hearers can choose teachers who suit their desires and turn toward myths instead of truth. Timothy must keep a clear head, endure hardship, do the work of an evangelist and fulfill the ministry entrusted to him."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/2_timothy/4.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-timothy/) read this as a call to persistent proclamation rather than waiting for an easy or popular moment. Calvin connects it directly with the previous chapter: Scripture is to be both read and taught. Wesley emphasizes readiness to speak even when an obvious opportunity is lacking.",
+    "",
+    "Both read the teachers and hearers in verses 3–4 as mutually reinforcing a preference for pleasing messages. The answer is faithful teaching joined with patience, rather than reshaping the message to secure approval."
+  ],
+  "god_plan_lines": [
+    "The charge itself places Timothy’s work before the coming Judge and His kingdom. [Acts 10:39–43](https://biblehub.com/bsb/acts/10.htm) likewise joins testimony to Jesus’ death and resurrection with His role as Judge and the promise of forgiveness through His name.",
+    "",
+    "[Romans 10:13–17](https://biblehub.com/bsb/romans/10.htm) explains why proclamation matters: people hear the message, believe and call on the Lord. Timothy’s patient work belongs within God’s purpose of bringing the gospel to those who need to hear it."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_timothy/4.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-timothy-four-review.md"
+  }
+}

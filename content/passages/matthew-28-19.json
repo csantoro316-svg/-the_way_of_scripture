@@ -5,18 +5,65 @@
     "label": "Matthew 28:19",
     "slug": "matthew-28-19"
   },
+  "section_title": "Making Disciples and Baptizing in God’s Name",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"Go therefore and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit.\""
+      "label": "BSB",
+      "paragraphs": [
+        "19 Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,"
+      ]
     }
   ],
   "context_lines": [
-    "In **Matthew 28**, the risen Christ commissions His disciples with all authority in heaven and on earth. The chapter places disciple-making, baptism, teaching, and Christ's abiding presence together at the climax of the Gospel."
-  ],
-  "explanation_lines": [
-    "*A textual note: verse 37, in which the eunuch makes a verbal confession of faith before baptism, is absent from the earliest and most reliable manuscripts and is omitted in most modern translations, including this one. The same caution applied to Mark 16:9-20 applies here.*",
+    "The risen Jesus speaks to His disciples in Galilee. The full scene in [Matthew 28:16–20](https://the-way-of-scripture.web.app/passages/matthew-28-16-20.html) begins with the eleven coming to the mountain He designated, worshiping Him, and some doubting. His commission rests on His authority and ends with His promise to remain with them.",
     "",
-    "**The Ethiopian eunuch's response is the NT pattern \u2014 immediate.** No delay. No deferral. Genuine faith produces immediate obedience. The question \"what prevents me?\" is the right question for every believer."
-  ]
+    "Making disciples means helping people become followers of Jesus. The verb is μαθητεύω, *mathēteuō* (mah-thay-TYOO-oh). [Thayer's entry](https://biblehub.com/greek/3100.htm) explains its use here as making a disciple, teaching, or instructing. Baptizing and teaching obedience belong within that work. The passage joins new allegiance to Jesus with continued learning and living by His commands.",
+    "",
+    "Jesus names the Father, the Son, and the Holy Spirit together in baptism. The reach of the mission is all nations. This expands the disciples' earlier, limited mission to Israel in [Matthew 10:5–6](https://biblehub.com/bsb/matthew/10.htm)."
+  ],
+  "common_interpretation_lines": [
+    "Catholic, Reformed, Baptist, Wesleyan, and Lutheran readings share the command to make disciples, baptize in the name of the Father, Son, and Holy Spirit, and teach obedience to Jesus. They differ over who should receive baptism, what God gives through it, and how it should be administered.",
+    "",
+    "The Reformed [Westminster Confession, 28.1–6](https://www.opc.org/wcf.html), includes believers and their children, calls baptism a sign and seal of God's promise of grace, and permits pouring or sprinkling. It does not teach that every baptized person is necessarily born again or that God's grace is confined to the moment of baptism. The [1689 Baptist Confession, 29.1–4](https://www.the1689confession.com/1689/chapter-29), instead limits baptism to people who profess repentance and faith, and requires immersion. It describes baptism as a sign of fellowship with Christ in His death and resurrection and a commitment to new life.",
+    "",
+    "The Catholic [Catechism, 1247–1255](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_1/iv_who_can_receive_baptism.html), describes preparation in faith for adults and baptism of infants, who are to grow in the faith of the Church with help from parents and godparents. It understands baptism as the beginning of new life in Christ. The Lutheran [Augsburg Confession, Article IX](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_ix/), likewise affirms infant baptism and emphasizes that God offers His saving grace through baptism.",
+    "",
+    "The Methodist [Articles of Religion, Article XVII](https://www.umc.org/en/content/articles-of-religion), call baptism both a mark of Christian profession and a sign of new birth, and retain the baptism of young children. [Wesley's note on 28:19](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) explains that adults are taught before baptism, while children are baptized and then taught. These documents identify particular traditions' teachings; individual congregations and members do not all explain every detail in the same way."
+  ],
+  "god_plan_lines": [
+    "The call to all nations carries forward God's promise that the families of the earth would be blessed through Abraham ([Genesis 12:1–3](https://biblehub.com/bsb/genesis/12.htm)). [Galatians 3:6–9](https://biblehub.com/bsb/galatians/3.htm) explicitly connects that promise with the gospel reaching the Gentiles through faith. Jesus' commission opens the disciples' work toward that worldwide horizon.",
+    "",
+    "[Romans 6:3–4](https://biblehub.com/bsb/romans/6.htm) also connects baptism with Christ's death and resurrection and a life made new. The command belongs within His work of gathering people to Himself and teaching them to live as His followers. The surrounding verses keep that work joined to His authority, continuing instruction, and presence."
+  ],
+  "current_position_lines": [
+    "I Am a Disciple and The True Church According to Jesus understand disciple-making as helping people become lifelong learners and followers of Jesus. It includes knowing His teaching, practicing it, loving others, and bearing witness in ordinary life. The mission belongs to Christ's people across generations and reaches beyond a single event or a program run by a few leaders.",
+    "",
+    "Baptism supplies our position on that part of the commission: baptism is commanded and is a meaningful response of faith in Christ, while salvation is received by grace through faith. The study prefers immersion because it pictures burial and new life with Him, while recognizing that Scripture does not explicitly declare every other mode invalid. These points come from those existing studies."
+  ],
+  "deeper_study": [
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/28.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-eight-review.md",
+    "position_source_detail": "I Am a Disciple, opening and Great Commission sections (8, 52–62); The True Church According to Jesus, The Mission (107–109); Baptism, sections IV, VI–VIII (72–96, 134–176). Narrow existing positions on ongoing discipleship and faith-grounded commanded baptism; no new grammar-only conclusion."
+  }
 }

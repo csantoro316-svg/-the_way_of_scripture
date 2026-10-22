@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "21:17-26",
+    "label": "1 Kings 21:17-26",
+    "slug": "1-kings-21-17-26"
+  },
+  "section_title": "Why does God hold Ahab responsible for Naboth’s death?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 Then the word of the LORD came to Elijah the Tishbite, saying, 18 “Get up and go down to meet Ahab king of Israel, who is in Samaria. See, he is in the vineyard of Naboth, where he has gone to take possession of it. 19 Tell him that this is what the LORD says: ‘Have you not murdered a man and seized his land?’ Then tell him that this is also what the LORD says: ‘In the place where the dogs licked up the blood of Naboth, there also the dogs will lick up your blood—yes, yours!’” 20 When Elijah arrived, Ahab said to him, “So you have found me out, my enemy.” He replied, “I have found you out because you have sold yourself to do evil in the sight of the LORD.",
+        "21 This is what the LORD says: ‘I will bring calamity on you and consume your descendants; I will cut off from Ahab every male in Israel, both slave and free. 22 I will make your house like that of Jeroboam son of Nebat and like that of Baasha son of Ahijah, because you have provoked My anger and caused Israel to sin.’ 23 And the LORD also speaks concerning Jezebel: ‘The dogs will devour Jezebel by the wall of Jezreel.’ 24 Anyone belonging to Ahab who dies in the city will be eaten by dogs, and anyone who dies in the field will be eaten by the birds of the air.” 25 (Surely there was never one like Ahab, who sold himself to do evil in the sight of the LORD, incited by his wife Jezebel. 26 He committed the most detestable acts by going after idols, just like the Amorites whom the LORD had driven out before the Israelites.)"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The LORD sends Elijah to meet Ahab at the vineyard he has gone to possess. God’s question joins the two acts: murder and taking the land. Ahab is confronted as responsible, even though Jezebel wrote the instructions and the local men carried them out.",
+    "",
+    "Elijah announces judgment against Ahab’s royal house, comparing its coming end with those of Jeroboam and Baasha. Jezebel is also named in the warning: dogs will devour her at Jezreel.",
+    "",
+    "The narrator acknowledges Jezebel’s influence while still describing Ahab as one who sold himself to do evil. Being urged on by another person does not remove the king’s responsibility for what he accepts and gains."
+  ],
+  "common_interpretation_lines": [
+    "[Gill](https://biblehub.com/commentaries/gill/1_kings/21.htm) connects Ahab’s guilt with his coveting and his taking possession after the murder. He considers further knowledge or consent likely, while the narrative itself makes the king’s responsibility explicit.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) emphasizes that another person’s temptation does not excuse the one who yields to it. [Henry](https://biblehub.com/commentaries/mhc/1_kings/21.htm) likewise reads Ahab’s course as willing involvement in evil, rather than something that merely happened to him."
+  ],
+  "god_plan_lines": [
+    "The later story returns directly to Naboth’s ground. In [2 Kings 9:24–26](https://biblehub.com/bsb/2_kings/9.htm), Jehu orders the body of Ahab’s son Joram thrown into Naboth’s field and recalls God’s word about the blood of Naboth and his sons.",
+    "",
+    "That continuation shows why taking the vineyard was not the final word. What royal power concealed or treated as settled remained known to God. The Bible carries the account forward as a reckoning with the wrong done, including the family members the earlier scene did not describe."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/21.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-twenty-one-review.md"
+  }
+}

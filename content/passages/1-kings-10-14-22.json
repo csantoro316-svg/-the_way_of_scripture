@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "10:14-22",
+    "label": "1 Kings 10:14-22",
+    "slug": "1-kings-10-14-22"
+  },
+  "section_title": "How does the account picture the scale of Solomon’s wealth?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 The weight of gold that came to Solomon each year was 666 talents, 15 not including the revenue from the merchants, traders, and all the Arabian kings and governors of the land. 16 King Solomon made two hundred large shields of hammered gold; six hundred shekels of gold went into each shield. 17 He also made three hundred small shields of hammered gold; three minas of gold went into each shield. And the king put them in the House of the Forest of Lebanon.",
+        "18 Additionally, the king made a great throne of ivory and overlaid it with pure gold. 19 The throne had six steps, and its back had a rounded top. There were armrests on both sides of the seat, with a lion standing beside each armrest. 20 Twelve lions stood on the six steps, one at either end of each step. Nothing like this had ever been made for any kingdom.",
+        "21 All King Solomon’s drinking cups were gold, and all the utensils of the House of the Forest of Lebanon were pure gold. There was no silver, because it was accounted as nothing in the days of Solomon. 22 For the king had the ships of Tarshish at sea with Hiram’s fleet, and once every three years the ships of Tarshish would arrive bearing gold, silver, ivory, apes, and peacocks."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Solomon receives six hundred sixty-six talents of gold each year, apart from other revenue. Gold goes into hundreds of shields, an ivory throne overlaid with gold, drinking cups and the furnishings of the House of the Forest of Lebanon.",
+    "",
+    "The throne has six steps, lions beside its armrests and twelve more lions along the steps. The narrator presents it as unmatched among the kingdoms. Sea trade also brings precious metals, ivory and animals.",
+    "",
+    "The repeated descriptions make the scale of royal wealth unmistakable. Silver counts for little in this setting because gold is so abundant."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) treats the golden shields as part of royal display. [Henry](https://biblehub.com/commentaries/mhc/1_kings/10.htm) sees the wealth as evidence of the prosperity promised to Solomon, while asking readers to value wisdom and God’s gifts above possessions.",
+    "",
+    "The [USCCB notes](https://bible.usccb.org/bible/1kings/10) read a warning in the emphasis on luxury at the palace, compared with earlier descriptions of prosperity shared across the kingdom. These are different emphases in reading the same inventory: the abundance is real, while its purpose and effect on the king still matter."
+  ],
+  "god_plan_lines": [
+    "[Ecclesiastes 2:4–11](https://biblehub.com/bsb/ecclesiastes/2.htm) considers a life filled with building projects, treasures and pleasures. Looking back over all that achievement, its speaker finds that abundance does not deliver the lasting gain he sought.",
+    "",
+    "Jesus develops the concern in [Luke 12:15–21](https://biblehub.com/bsb/luke/12.htm). His account of the rich man with overflowing storehouses shows why possessions cannot secure a person’s life before God. This is a wider biblical connection, not a claim that the parable names Solomon. Royal splendor leaves unanswered the question of what a person ultimately lives for."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/10.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-ten-review.md"
+  }
+}

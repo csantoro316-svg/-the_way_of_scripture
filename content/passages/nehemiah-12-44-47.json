@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "Nehemiah",
+    "citation": "12:44-47",
+    "label": "Nehemiah 12:44-47",
+    "slug": "nehemiah-12-44-47"
+  },
+  "section_title": "How is the celebration followed by continuing support?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "44 And on that same day men were appointed over the rooms that housed the supplies, contributions, firstfruits, and tithes. The portions specified by the Law for the priests and Levites were gathered into these storerooms from the fields of the villages, because Judah rejoiced over the priests and Levites who were serving. 45 They performed the service of their God and the service of purification, along with the singers and gatekeepers, as David and his son Solomon had prescribed. 46 For long ago, in the days of David and Asaph, there were directors for the singers and for the songs of praise and thanksgiving to God. 47 So in the days of Zerubbabel and Nehemiah, all Israel contributed the daily portions for the singers and gatekeepers. They also set aside daily portions for the Levites, and the Levites set aside daily portions for the descendants of Aaron."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Men are appointed over the rooms holding contributions, firstfruits and tithes. The portions specified for priests and Levites are gathered from the villages, with Judah rejoicing over those who serve.",
+    "",
+    "The account connects the arrangements for singers, gatekeepers and purification with David and Solomon. It recalls daily support in the periods of Zerubbabel and Nehemiah, including the Levites setting aside portions for Aaron’s descendants.",
+    "",
+    "The thanksgiving is followed by attention to the work that must continue after the public celebration. Appointed responsibilities and regular supplies support that ongoing service."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/nehemiah/12.htm) emphasizes thanksgiving that leads to more willing attention to duty. [Gill](https://biblehub.com/commentaries/gill/nehemiah/12.htm) similarly connects appreciation for the ministry with providing the portions assigned to its workers. The scene shows practical support accompanying the joy, although the next chapter will reveal that such arrangements still need faithful follow-through."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/nehemiah/12.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-nehemiah-twelve-thirteen-review.md"
+  }
+}

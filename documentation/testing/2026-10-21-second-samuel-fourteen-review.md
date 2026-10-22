@@ -1,0 +1,25 @@
+# Second Samuel 14 passage review — 2026-10-21
+
+Threenewgroups33BSBverses. Entirebaseline14lesson164–179read;15lesson180–182readcoversall14endingand15:1–4. WholePDF1–182actuallyread;183+unread. WholeBSB14/WesXIV/Henry14read;Henryinitialcombinedtruncationcorrectedbyboundedwholefileread. Gill14:14,24,33completeactualcommentsread;USCCB14notesactualread. ActualBSB2Cor5:18–21/Rom3:21–26checked. Noowner14/Tekoa/banishedaddressingstudyreferencesfound. Noownerstudyedits/newposition. Individualcommentaryreadingsnotformaldenominationalteaching. No baselinewording/name/structurepubliclycopied.
+
+## 14:1–20
+
+Plan section: included, because (c). RestorationthroughChristactual2Cor5andRom3mercy/righteousness,notallscriptedwoman'swordsdivinelyendorsed. No narratorGodneverjudgeslifeuniversalclaim.
+Position source: none.
+FLAGGED FOR REVIEW: StoryscriptedbyJoabnotindependentlyverifiedrealwidowcase. Womanwisecallnotdefinitelyprofessionalactress/tenmileTekoa/famouslocalcelebrityfacts. No actualsecretallIsraelasksforAbsalompardon/Davidalwaysheardexactwordsclaim. Murderinpremeditation13notsameunplannedfight;Wesexplicitdifference. RefugeinstitutionGill/USCCBpossibleconnectionnotlegalautomaticAbsalomqualified. NoalljudgesrequiredpardonalloffendersbecauseGodmerciful. WomenflatteryDavidallknowledgeangelnotnarratorendorsedomniscience. NoDavidsolechoicelegallyboundmustpardonbecausepromisetofictionalmotherunqualifiedclaim.
+
+## 14:21–27
+
+Plan section: omitted, because none apply. PartialreturnandappearanceinterpretedwithoutrepeatingrestorationthemeorforcingallhairdetailsChristparallel.
+Position source: none.
+FLAGGED FOR REVIEW: City'sreturnnotpersonalreunionactual24. ExclusionWes/Gillpossiblehumilitymotiveattributednotreportedexactstatepardonterms. NoDavidalreadyknowsdateSolomonroyalappointmentorAbsalomoldestsurvivingclaimunsupported. Weight200shekelsactualnoindependent5poundsmetrologyneeded. Noannualpublicconcert/delightfulgirlslocksbidding/hairNazaritevowclaim. Beautypublicnotmoralflawlessness,Henryactual. Threesonsactual27notdefiniteinfantdeathsdatebasedonly18:18,notneededpublic. No womanworth=looksclaim.
+
+## 14:28–33
+
+Plan section: omitted, because none apply. Arsonpressureandpublickissinterpretedratherthananotherrepeatedfathermercyillustration.
+Position source: none.
+FLAGGED FOR REVIEW: Twoyearsexclusionnotliteralhousearrest(noboundaryreported). Joabtworefusalsnotstatedreason;baselineAdonijahsupportexplainscurrentrefusalfrommuchlater1Kgs2notestablishedandnotused. KissactualreconciliationsignGillnotproofAbsalomconfession/changedheart/fullclearingmurdercharge. No successofdestructivepressuremodelreaderinstruction. No currentreconciliationrequirementuniversalvictimsmustreceiveviolentpersonwithoutaccountability. No formalstatepardondocument/punishmenttermsinvented.
+
+## Validation
+
+Passed direct BSB verification, repository checks (0errors /261warnings), preservation, continuous coverage through14:33, idempotence, six mobile views, actual Next14:1–20→21–27 with heading focus/top187.5, Hosting dry run, deployment and LIVE MATCH7(exit0). Cumulative44groups367verses23plans44open; intentional omissions globally96. Prefix /tmp/scripture-second-samuel-fourteen-.

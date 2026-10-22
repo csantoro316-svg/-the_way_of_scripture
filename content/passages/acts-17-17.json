@@ -5,13 +5,53 @@
     "label": "Acts 17:17",
     "slug": "acts-17-17"
   },
-  "versions": [],
-  "context_lines": [
-    "Acts 17:17 should be read within the flow of its chapter and the larger argument of Acts."
+  "section_title": "Who hears Paul in Athens?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 So he reasoned in the synagogue with the Jews and God-fearing Gentiles, and in the marketplace with those he met each day."
+      ]
+    }
   ],
-  "explanation_lines": [
-    "These were Gentiles already living in reverent awe of Israel's God. *Sebomai* had already turned their hearts in the right direction \u2014 and that reverence became fertile ground for truth.",
+  "context_lines": [
+    "This verse sits between Paul’s distress at the idols of Athens and the philosophers’ response to his preaching. He speaks with Jewish hearers and God-fearing Gentiles in the synagogue, and with people he meets in the marketplace each day. Luke describes sustained conversation, not only a single public speech.",
     "",
-    "**Restored reading:** *\"...one who stood in awe of God...\"*"
-  ]
+    "The God-fearing Gentiles are connected with reverence for Israel’s God. Their presence should not be confused with the city’s idol worship as though all the people Paul meets begin with the same beliefs."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this scene as an example of bringing the message about Jesus into everyday conversation as well as a place of religious gathering. Paul’s distress over idols does not stop him from reasoning with people who disagree with him; their interest in a new idea does not yet mean they believe his message."
+  ],
+  "god_plan_lines": [
+    "The witness promised in [Acts 1:8](https://biblehub.com/bsb/acts/1.htm) keeps reaching new people and settings. Here the message enters a conversation with people whose starting point is Greek philosophy rather than Israel’s Scriptures. The next speech begins with the Creator they do not know and leads to the risen Man appointed to judge the world. The setting changes, while the witness remains centered on Jesus and the resurrection."
+  ],
+  "current_position_lines": [
+    "Worship as the Early Church Knew It discusses the God-fearing Gentiles in Acts 17:17 as people already marked by reverence for Israel’s God. That reverence is a setting in which they hear Paul’s message. It is not a claim that every religious response is already directed toward the truth, or that reverence makes further teaching unnecessary."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/17.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-acts-seventeen-closing-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It: direct discussion of Acts17:17."
+  }
 }

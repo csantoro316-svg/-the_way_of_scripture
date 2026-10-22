@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "1:35-42",
+    "label": "John 1:35-42",
+    "slug": "john-1-35-42"
+  },
+  "section_title": "How do the first followers begin bringing others to Jesus?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "35 The next day John was there again with two of his disciples. 36 When he saw Jesus walking by, he said, “Look, the Lamb of God!” 37 And when the two disciples heard him say this, they followed Jesus. 38 Jesus turned and saw them following. “What do you want?” He asked. They said to Him, “Rabbi” (which means Teacher), “where are You staying?” 39 “Come and see,” He replied. So they went and saw where He was staying, and spent that day with Him. It was about the tenth hour.",
+        "40 Andrew, Simon Peter’s brother, was one of the two who heard John’s testimony and followed Jesus. 41 He first found his brother Simon and told him, “We have found the Messiah” (which is translated as Christ). 42 Andrew brought him to Jesus, who looked at him and said, “You are Simon son of John. You will be called Cephas” (which is translated as Peter)."
+      ]
+    }
+  ],
+  "context_lines": [
+    "John again identifies Jesus as the Lamb of God, and two of his disciples begin following Jesus. When He asks what they want, they address Him as Rabbi and ask where He is staying. The Gospel explains Rabbi as Teacher.",
+    "",
+    "Jesus invites them to come and see, and they spend that day with Him. Andrew is named as one of the two. He then finds his brother Simon and announces that they have found the Messiah, which the Gospel translates as Christ.",
+    "",
+    "Andrew brings Simon to Jesus. Jesus identifies him as Simon son of John and says he will be called Cephas, translated as Peter. Cephas comes from the Aramaic word כֵּיפָא, kepha (kay-FAH), meaning rock. Thayer confirms the connection between the Aramaic name and its Greek counterpart. ([Thayer, Greek 2786](https://biblehub.com/greek/2786.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly see John’s testimony leading people to Jesus, followed by Andrew sharing his discovery with his brother. Jesus’ naming of Simon is understood as looking ahead to the place he will have among His followers; Wesley likewise explains Cephas and Peter as the corresponding names meaning rock. ([Wesley on John 1:37–42](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/))"
+  ],
+  "god_plan_lines": [
+    "Scripture records other names given alongside a calling: Abram becomes Abraham in the promise concerning many nations, and Jacob becomes Israel. Those are supported parallels with Jesus giving Simon a new name, though each person has a distinct place in God’s work. The shared pattern is a future shaped by God’s calling. ([Genesis 17:4–8](https://biblehub.com/bsb/genesis/17.htm); [Genesis 32:27–30](https://biblehub.com/bsb/genesis/32.htm))",
+    "",
+    "The personal witness beginning here also looks toward the public witness of the apostles. Acts later records Peter proclaiming Jesus’ resurrection and exaltation. Andrew’s act of bringing his brother belongs within the beginning of that wider gathering of witnesses through whom the message about Christ will go out. ([Acts 2:32–36](https://biblehub.com/bsb/acts/2.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/1.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-one-closing-review.md"
+  }
+}

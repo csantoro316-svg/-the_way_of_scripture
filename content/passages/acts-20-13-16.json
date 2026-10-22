@@ -1,0 +1,47 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "20:13-16",
+    "label": "Acts 20:13-16",
+    "slug": "acts-20-13-16"
+  },
+  "section_title": "Why does Paul sail past Ephesus on the way to Jerusalem?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 We went on ahead to the ship and sailed to Assos, where we were to take Paul aboard. He had arranged this because he was going there on foot. 14 And when he met us at Assos, we took him aboard and went on to Mitylene. 15 Sailing on from there, we arrived the next day opposite Chios. The day after that we arrived at Samos, and on the following day we came to Miletus. 16 Paul had decided to sail past Ephesus to avoid spending time in the province of Asia, because he was in a hurry to reach Jerusalem, if possible, by the day of Pentecost."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul arranges to go on foot to Assos while his companions travel there by ship. They take him aboard and continue by Mitylene, Chios and Samos to Miletus. Luke records the stages of the journey without explaining why Paul chooses to walk that part of the route.",
+    "",
+    "He sails past Ephesus because he does not want to spend time in Asia while hurrying to reach Jerusalem, if possible, for Pentecost. The next passage shows that this does not mean he has stopped caring about the Ephesian believers: he sends for their elders to meet him at Miletus."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as practical travel planning in view of Paul’s intended arrival at Jerusalem. Luke states his goal and the choice to pass Ephesus; the account does not require an additional hidden meaning for each port or route."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/20.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twenty-review.md"
+  }
+}

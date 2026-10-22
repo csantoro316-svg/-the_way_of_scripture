@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "5:10-18",
+    "label": "John 5:10-18",
+    "slug": "john-5-10-18"
+  },
+  "section_title": "Why does the Sabbath healing lead to a dispute about God?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 so the Jews said to the man who had been healed, “This is the Sabbath! It is unlawful for you to carry your mat.” 11 But he answered, “The man who made me well told me, ‘Pick up your mat and walk.’ ” 12 “Who is this man who told you to pick it up and walk?” they asked. 13 But the man who was healed did not know who it was, for Jesus had slipped away while the crowd was there. 14 Afterward, Jesus found the man at the temple and said to him, “See, you have been made well. Stop sinning, or something worse may happen to you.” 15 And the man went away and told the Jews that it was Jesus who had made him well.",
+        "16 Now because Jesus was doing these things on the Sabbath, the Jews began to persecute Him. 17 But Jesus answered them, “To this very day My Father is at His work, and I too am working.” 18 Because of this, the Jews tried all the harder to kill Him. Not only was He breaking the Sabbath, but He was even calling God His own Father, making Himself equal with God."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The people challenging the healed man say that carrying his mat violates the Sabbath. He explains that the person who healed him told him to carry it, but he does not yet know Jesus’ identity. Later Jesus finds him at the temple and warns him to stop sinning, lest something worse happen.",
+    "",
+    "After the man identifies Jesus, the opposition turns toward Him for doing these things on the Sabbath. Jesus answers by speaking of His Father’s continuing work and His own work. The Gospel says the conflict intensifies because He calls God His own Father, making Himself equal with God.",
+    "",
+    "The question about carrying a load has a scriptural background: Jeremiah warns against bringing loads through Jerusalem’s gates on the Sabbath. The dispute concerns the application of Sabbath obligations to this healed man and Jesus’ authority; it should not be explained by claiming that Scripture never mentions carrying loads. ([Jeremiah 17:19–23](https://biblehub.com/bsb/jeremiah/17.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand Jesus’ answer as claiming a unique relationship with the Father and authority to share in His work. Wesley reads the following discourse as confirming, rather than withdrawing, that claim. ([Wesley on John 5:17–19](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/))",
+    "",
+    "Readers differ over what the warning about sin tells us about this man’s illness. Wesley thinks it suggests that his earlier illness was connected with sin. The USCCB’s note cautions against turning such a connection into a rule for all suffering, pointing to Jesus’ refusal to blame the blind man’s condition on his or his parents’ sin. The account here does not name the healed man’s earlier sin or give us grounds to diagnose someone else’s illness. ([Wesley on John 5:14](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/); [USCCB note on John 5:14](https://bible.usccb.org/bible/john/5); [John 9:1–3](https://biblehub.com/bsb/john/9.htm))"
+  ],
+  "god_plan_lines": [
+    "Genesis records God resting after His completed work of creation. Hebrews also describes the Son continually upholding all things by His powerful word. Scripture therefore speaks both of completed creation and of God’s continuing care for what He has made. Jesus’ work of restoring the man fits within that larger account of divine care. ([Genesis 2:1–3](https://biblehub.com/bsb/genesis/2.htm); [Hebrews 1:1–4](https://biblehub.com/bsb/hebrews/1.htm))",
+    "",
+    "Hebrews carries the theme of rest beyond a single healing, calling people to hear God’s voice in faith and enter His rest. That provides a wider scriptural parallel to the restoration seen here, without making this dispute settle every question about which day Christians observe. ([Hebrews 4:1–11](https://biblehub.com/bsb/hebrews/4.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/5.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-five-review.md"
+  }
+}

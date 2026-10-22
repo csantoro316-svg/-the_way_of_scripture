@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "13:31-35",
+    "label": "Luke 13:31-35",
+    "slug": "luke-13-31-35"
+  },
+  "section_title": "Why does Jesus continue toward the city He longs to gather?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "31 At that very hour, some Pharisees came to Jesus and told Him, “Leave this place and get away, because Herod wants to kill You.” 32 But Jesus replied, “Go tell that fox, ‘Look, I will keep driving out demons and healing people today and tomorrow, and on the third day I will reach My goal.’ 33 Nevertheless, I must keep going today and tomorrow and the next day, for it is not admissible for a prophet to perish outside of Jerusalem.",
+        "34 O Jerusalem, Jerusalem, who kills the prophets and stones those sent to her, how often I have longed to gather your children together as a hen gathers her chicks under her wings, but you were unwilling! 35 Look, your house is left to you desolate. And I tell you that you will not see Me again until you say, ‘Blessed is He who comes in the name of the Lord.’”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Some Pharisees warn Jesus to leave because Herod wants to kill Him. Jesus answers with a message for Herod: His work of driving out demons and healing will continue toward its goal.",
+    "",
+    "He describes His necessary journey toward Jerusalem in the language of the city’s resistance to prophets. The threat does not redirect His mission.",
+    "",
+    "Then the words turn to lament. Jesus longs to gather Jerusalem’s children as a hen gathers her chicks under her wings, but they are unwilling. The image of shelter stands beside the warning that their house is left desolate.",
+    "",
+    "He ends with words from Psalm 118: they will not see Him again until they speak the blessing over the One who comes in the Lord’s name. The saying places their response to Him alongside both His departure and the recognition He names. ([Psalm 118:25–29](https://biblehub.com/bsb/psalms/118.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly recognize Jesus’ determination to complete His mission, His grief over rejection and His desire to gather the city’s children. The Catholic bishops’ notes emphasize that Herod’s threat cannot overturn His work or the journey to Jerusalem. ([USCCB notes on Luke 13:32–33](https://bible.usccb.org/bible/luke/13); [Luke 13:31–35](https://biblehub.com/bsb/luke/13.htm))",
+    "",
+    "The final saying is explained in different ways. Wesley reads it as people brought by calamity to long for the Messiah, without taking it as a promise that they will then see Jesus. Calvin, discussing the parallel in Matthew, emphasizes that those who reject Him as Redeemer will encounter Him as Judge, and does not treat until as a guarantee of their later welcome. These are the individual teachers’ readings. ([Wesley on Luke 13:35](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [Calvin on Matthew 23:39](https://biblehub.com/commentaries/calvin/matthew/23.htm))",
+    "",
+    "The Catholic Church teaches more broadly that Christ’s glorious coming is connected with Israel’s recognition of Him and the full inclusion of the Jews in His salvation. Catechism §674 develops that future hope from the wider New Testament, rather than explaining every detail of Luke’s sentence. These accounts should not be reduced to one unanimous timetable. ([Catechism §674](https://www.vatican.va/archive/ENG0015/__P1V.HTM))"
+  ],
+  "god_plan_lines": [
+    "The sheltering wings recall the Psalm’s picture of refuge under God’s protection. Jesus’ lament brings that desire for gathering and safety into the encounter with a resistant city. This is a Scriptural parallel, while the hen and chicks are the image Jesus Himself uses. ([Psalm 91:1–4](https://biblehub.com/bsb/psalms/91.htm))",
+    "",
+    "Romans warns against concluding that God has simply rejected His people. Paul speaks of a remnant by grace, partial hardening, God’s enduring call and His purpose of mercy. Those statements keep the wider picture of God’s faithfulness in view alongside Jerusalem’s real refusal and the warning Jesus gives. ([Romans 11:1–6, 25–32](https://biblehub.com/bsb/romans/11.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/13.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-thirteen-closing-review.md"
+  }
+}

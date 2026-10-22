@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "23:8-12",
+    "label": "2 Samuel 23:8-12",
+    "slug": "2-samuel-23-8-12"
+  },
+  "section_title": "Why are these three warriors remembered?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "8 These are the names of David’s mighty men: Josheb-basshebeth the Tahchemonite was chief of the Three. He wielded his spear against eight hundred men, whom he killed at one time. 9 Next in command was Eleazar son of Dodo the Ahohite. As one of the three mighty men, he went with David to taunt the Philistines who had gathered for battle at Pas-dammim. The men of Israel retreated, 10 but Eleazar stood his ground and struck the Philistines until his hand grew weary and stuck to his sword. The LORD brought about a great victory that day. Then the troops returned to him, but only to plunder the dead.",
+        "11 And after him was Shammah son of Agee the Hararite. When the Philistines had banded together near a field full of lentils, Israel’s troops fled from them. 12 But Shammah took his stand in the middle of the field, defended it, and struck down the Philistines. So the LORD brought about a great victory."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The chapter turns from David’s oracle to accounts of the men who served with him. Josheb-basshebeth is named chief of the Three and remembered for a great victory against eight hundred men.",
+    "",
+    "Eleazar stands his ground with David when Israel’s troops retreat. He fights until his hand is weary and sticks to his sword. The troops return afterward to take the spoil.",
+    "",
+    "Shammah likewise defends a field of lentils when others flee. In both accounts, the narrator explicitly credits the LORD with bringing about the victory. The men’s courage is remembered alongside God’s help."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) emphasizes the repeated statement about the LORD’s victory. The warriors truly fight, but the praise for the outcome belongs to God.",
+    "",
+    "That balance shapes the account: it neither erases the men’s actions nor credits their strength alone. Their names and deeds are preserved because their service mattered in David’s kingdom."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/23.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-twenty-three-review.md"
+  }
+}

@@ -5,34 +5,57 @@
     "label": "Isaiah 14:24-27",
     "slug": "isaiah-14-24-27"
   },
-  "section_title": "God\u2019s Purpose against Assyria",
+  "section_title": "Who can overturn what the Lord has purposed?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "24 The LORD of Hosts has sworn:",
-        "\u201cSurely, as I have planned, so will it be;",
-        "as I have purposed, so will it stand.",
-        "25 I will break Assyria in My land;",
-        "I will trample him on My mountain.",
-        "His yoke will be taken off My people,",
-        "and his burden removed from their shoulders.\u201d",
-        "26 This is the plan devised for the whole earth,",
-        "and this is the hand stretched out over all the nations.",
-        "27 The LORD of Hosts has purposed,",
-        "and who can thwart Him?",
-        "His hand is outstretched,",
-        "so who can turn it back?"
+        "24 The LORD of Hosts has sworn: “Surely, as I have planned, so will it be; as I have purposed, so will it stand. 25 I will break Assyria in My land; I will trample him on My mountain. His yoke will be taken off My people, and his burden removed from their shoulders.” 26 This is the plan devised for the whole earth, and this is the hand stretched out over all the nations. 27 The LORD of Hosts has purposed, and who can thwart Him? His hand is outstretched, so who can turn it back?"
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 14**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "The focus shifts to Assyria. The Lord swears that what He has planned will stand: He will break Assyria in His land and remove the burden from His people’s shoulders.",
+    "",
+    "The language recalls chapter 10, where the Lord uses the Assyrian king and then judges his arrogance. The empire is powerful, but its power does not give it control over God’s purpose.",
+    "",
+    "The closing questions widen the view to the earth and the nations. If the Lord has purposed it and stretched out His hand, who can turn Him back? The assurance concerns His declared action, rather than human confidence in what an empire can accomplish."
   ],
   "common_interpretation_lines": [
-    "A common reading of **God\u2019s Purpose against Assyria** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/isaiah/14.htm) reads this as comfort for God’s people and a warning to those who make themselves a burden upon them. [Wesley](https://biblehub.com/commentaries/wes/isaiah/14.htm) connects the Assyrian defeat with assurance that the judgment on Babylon will also stand.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 14** remains the first control on meaning."
+    "[Gill](https://biblehub.com/commentaries/gill/isaiah/14.htm) also distinguishes the Assyrian warning from the preceding Babylon oracle, connecting it with the threat described earlier in Isaiah. Their shared emphasis is that the Lord’s purpose is secure against the power of those He judges."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The certainty of God’s purpose appears in a fuller account of His saving work in [Ephesians 1:7–14](https://biblehub.com/bsb/ephesians/1.htm). Paul describes forgiveness through Christ’s blood and God’s plan to bring all things in heaven and on earth together in Him.",
+    "",
+    "Isaiah’s assurance about Assyria is not a prediction of every detail Paul later explains. The shared theme is that the purpose belongs to God and does not depend on the strength of a human ruler. Ephesians shows that purpose reaching its center in Christ and the inheritance God promises His people."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/14.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-thirteen-fourteen-review.md"
+  }
 }

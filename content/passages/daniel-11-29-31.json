@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "11:29-31",
+    "label": "Daniel 11:29-31",
+    "slug": "daniel-11-29-31"
+  },
+  "section_title": "How does the renewed campaign become an attack on the sanctuary?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "29 At the appointed time he will invade the South again, but this time will not be like the first. 30 Ships of Kittim will come against him, and he will lose heart. Then he will turn back and rage against the holy covenant and do damage. So he will return and show favor to those who forsake the holy covenant. 31 His forces will rise up and desecrate the temple fortress. They will abolish the daily sacrifice and set up the abomination of desolation."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The northern ruler returns to the South, but this campaign ends differently. Ships of Kittim oppose him, and he loses heart.",
+    "",
+    "He turns back in anger against the holy covenant, showing favor to those who abandon it. His forces desecrate the temple fortress, stop the daily sacrifice and establish the abomination of desolation.",
+    "",
+    "The attack on worship is central. [First Maccabees 1:41–64](https://bible.usccb.org/bible/1maccabees/1) provides an ancient account of Antiochus’s suppression of sacrifices, profaning of the sanctuary and punishment of people who remained faithful to the covenant."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/daniel/11.htm) and the [USCCB notes](https://bible.usccb.org/bible/daniel/11) connect this persecution with Antiochus IV. [Gaebelein](https://biblehub.com/commentaries/gaebelein/daniel/11.htm) also reads it historically, while distinguishing this event from the later desolation warning he understands Jesus to address."
+  ],
+  "god_plan_lines": [
+    "Jesus takes up Daniel’s abomination language in [Matthew 24:15–22](https://biblehub.com/bsb/matthew/24.htm). He tells those in Judea to flee, urges prayer and warns of great trouble whose duration is limited for the elect’s sake.",
+    "",
+    "Jesus directs His followers to understand Daniel and respond faithfully when worship is threatened by desolating power. His warning gives practical direction for a time of crisis, together with the assurance that even severe trouble has a limit under God’s care."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/11.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-eleven-review.md"
+  }
+}

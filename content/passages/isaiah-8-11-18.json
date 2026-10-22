@@ -5,44 +5,64 @@
     "label": "Isaiah 8:11-18",
     "slug": "isaiah-8-11-18"
   },
-  "section_title": "A Call to Fear God",
+  "section_title": "How can the Lord be both a sanctuary and a stumbling stone?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "11 For this is what the LORD has spoken to me with a strong hand, instructing me not to walk in the way of this people:",
-        "12 \u201cDo not call conspiracy",
-        "everything these people regard as conspiracy.",
-        "Do not fear what they fear;",
-        "do not live in dread.",
-        "13 The LORD of Hosts is the One",
-        "you shall regard as holy.",
-        "Only He should be feared;",
-        "only He should be dreaded.",
-        "14 And He will be a sanctuary\u2014",
-        "but to both houses of Israel",
-        "a stone of stumbling and a rock of offense,",
-        "to the dwellers of Jerusalem",
-        "a trap and a snare.",
-        "15 Many will stumble over these;",
-        "they will fall and be broken;",
-        "they will be ensnared and captured.\u201d",
-        "16 Bind up the testimony",
-        "and seal the law among my disciples.",
-        "17 I will wait for the LORD,",
-        "who is hiding His face from the house of Jacob.",
-        "I will put my trust in Him.",
-        "18 Here am I, and the children the LORD has given me as signs and symbols in Israel from the LORD of Hosts, who dwells on Mount Zion."
+        "11 For this is what the LORD has spoken to me with a strong hand, instructing me not to walk in the way of this people: 12 “Do not call conspiracy everything these people regard as conspiracy. Do not fear what they fear; do not live in dread. 13 The LORD of Hosts is the One you shall regard as holy. Only He should be feared; only He should be dreaded. 14 And He will be a sanctuary— but to both houses of Israel a stone of stumbling and a rock of offense, to the dwellers of Jerusalem a trap and a snare. 15 Many will stumble over these; they will fall and be broken; they will be ensnared and captured.”",
+        "16 Bind up the testimony and seal the law among my disciples. 17 I will wait for the LORD, who is hiding His face from the house of Jacob. I will put my trust in Him. 18 Here am I, and the children the LORD has given me as signs and symbols in Israel from the LORD of Hosts, who dwells on Mount Zion."
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 8**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "The Lord strongly warns Isaiah not to follow the people’s way of thinking or share their fears. He is not to label everything a conspiracy merely because others do. The Lord Himself is the One to regard as holy and to fear.",
+    "",
+    "The same Lord will be a sanctuary and a stone over which people stumble. Both houses of Israel and the inhabitants of Jerusalem come within the warning: many will fall and be caught. Their relationship to God is the decisive question amid the political threats.",
+    "",
+    "The testimony and instruction are to be bound and sealed among the disciples. Isaiah declares that he will wait for and trust the Lord even while God hides His face from Jacob. He presents himself and the children God has given him as signs and symbols from the Lord.",
+    "",
+    "The response is therefore more than refusing panic. It is holding to the message already given and continuing to trust God when His favor is not plainly visible."
   ],
   "common_interpretation_lines": [
-    "A common reading of **A Call to Fear God** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/isaiah/8.htm) and [Wesley](https://biblehub.com/commentaries/wes/isaiah/8.htm) emphasize that reverence for God provides a different ground for confidence from fear of human power. They understand the sanctuary and stumbling stone as different responses to the same Lord.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 8** remains the first control on meaning."
+    "The conspiracy language receives more specific explanations. Wesley reads it as a warning against joining the proposed Assyrian alliance. The [NABRE notes](https://bible.usccb.org/bible/isaiah/8) understand Isaiah and his followers as being accused of conspiracy because they oppose that policy. The main instruction in either reading is to resist the surrounding fear and give God His rightful place.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/isaiah/8.htm) emphasizes the children’s names as reminders of God’s message. [Gill](https://biblehub.com/commentaries/gill/isaiah/8.htm) reads the speaker in verse 18 as Christ presenting the people God has given Him, appealing to Hebrews’ use of the words. These readings differ over how the immediate voice relates to the later application to Christ."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The New Testament directly uses these words to speak about Christ. [Romans 9:30–33](https://biblehub.com/bsb/romans/9.htm) and [1 Peter 2:4–10](https://biblehub.com/bsb/1_peter/2.htm) apply the stumbling-stone language to the response to Him. Peter also echoes the call to fear rightly and regard the Lord as holy when he tells believers to honor Christ as Lord in their hearts ([1 Peter 3:14–16](https://biblehub.com/bsb/1_peter/3.htm)).",
+    "",
+    "[Hebrews 2:10–18](https://biblehub.com/bsb/hebrews/2.htm) places the words about trust and God-given children on Jesus’ lips. It then explains that He shares their humanity, frees them through His death from slavery to the fear of death, and becomes a merciful and faithful high priest.",
+    "",
+    "These are connections made by the New Testament itself. The sanctuary promised amid fear takes on fuller meaning in the Son who shares His people’s life, deals with their sins and brings them to glory."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/8.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-eight-review.md"
+  }
 }

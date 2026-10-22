@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "34:23-24",
+    "label": "Ezekiel 34:23-24",
+    "slug": "ezekiel-34-23-24"
+  },
+  "section_title": "Who is the one shepherd called God’s servant David?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "23 I will appoint over them one shepherd, My servant David, and he will feed them. He will feed them and be their shepherd. 24 I, the LORD, will be their God, and My servant David will be a prince among them. I, the LORD, have spoken."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The Lord promises one shepherd in place of the failed shepherds. He names this shepherd His servant David and says that he will feed the people.",
+    "",
+    "The relationship is stated in two parts: the Lord will be their God, and David will be a prince among them. The promise brings faithful leadership together with belonging to the Lord.",
+    "",
+    "How the name David is being used is the main question. The passage makes the promise without explicitly explaining whether the name identifies the earlier king restored to life or the ruler who fulfills the hope associated with David."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezekiel/34.htm) and [Wesley](https://biblehub.com/commentaries/wes/ezekiel/34.htm) read David here as Christ, the promised ruler from David’s line and the good shepherd. [Cambridge](https://biblehub.com/commentaries/cambridge/ezekiel/34.htm) also understands the name through the character and rule of the coming Davidic leader rather than David personally returning.",
+    "",
+    "[Walvoord](https://walvoord.com/article/73) favors the resurrected David serving as a prince under Christ, whom he regards as the supreme king. His reasoning distinguishes David from the Son of David and places David among the people who share in Christ’s reign.",
+    "",
+    "The difference concerns the identity of David in this promise, not whether Christ has supreme authority."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/34.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-thirty-three-four-review.md"
+  }
+}

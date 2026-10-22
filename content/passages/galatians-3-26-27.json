@@ -5,16 +5,61 @@
     "label": "Galatians 3:26-27",
     "slug": "galatians-3-26-27"
   },
+  "section_title": "How do faith and being clothed with Christ belong together?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"For you are all sons of God through faith in Christ Jesus. For all of you who were baptized into Christ have clothed yourselves with Christ.\""
+      "label": "BSB",
+      "paragraphs": [
+        "26 You are all sons of God through faith in Christ Jesus. 27 For all of you who were baptized into Christ have clothed yourselves with Christ."
+      ]
     }
   ],
   "context_lines": [
-    "In **Galatians 3**, Paul argues fiercely that justification and sonship come through faith in Christ rather than works of the law. The chapter connects promise, faith, union with Christ, and covenant identity, so its baptism language belongs inside Paul's gospel argument about belonging to Christ."
+    "Paul moves from the law’s guardianship to the believers’ identity in Christ. He names sonship through faith and describes those baptized into Christ as having clothed themselves with Him.",
+    "",
+    "[The surrounding paragraph, Galatians 3:26–29](https://thewayofscripture.com/passages/galatians-3-26-29.html), explains the shared family and inheritance that follow. People across the boundaries of Jew and Greek, slave and free, male and female are one in Christ and heirs according to the promise."
   ],
-  "explanation_lines": [
-    "Already quoted in Section III: *\"you are all sons of God through faith in Christ Jesus. For all of you who were baptized into Christ have clothed yourselves with Christ.\"* Read in sequence, these verses separate salvation and baptism as distinct realities. Sonship is through faith \u2014 verse 26. Clothing with Christ occurs at baptism \u2014 verse 27. The saved relationship precedes and produces the baptism that clothes the believer for new life."
-  ]
+  "common_interpretation_lines": [
+    "Christians commonly see faith, belonging to Christ and shared life in God’s family at the center of these verses. They differ in how they explain the relationship between baptism and that belonging.",
+    "",
+    "The Catholic Church teaches that baptism gives new birth, adoption and membership in Christ’s body. The [Catechism, paragraphs 1265–1267](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_1/vii_the_grace_of_baptism.index.html), describes this as God’s gift of grace, enabling faith, hope and love.",
+    "",
+    "The Reformed [Westminster Confession, chapter 28](https://www.opc.org/wcf.html), describes water baptism as a sign and pledge of being joined to Christ. It distinguishes the time of receiving the rite from the time the Spirit gives the grace promised. The [1689 Baptist Confession, chapter 29](https://www.the1689confession.com/1689/chapter-29), describes baptism as a sign of sharing in Christ’s death and resurrection, given to those who profess repentance and faith.",
+    "",
+    "[Dallas Theological Seminary, articles XIII–XIV](https://www.dts.edu/about/doctrinal-statement/), distinguishes the Spirit’s work of joining believers into Christ’s body from water baptism as testimony. It describes water baptism as an act of testimony."
+  ],
+  "god_plan_lines": [
+    "[Romans 8:14–17](https://biblehub.com/bsb/romans/8.htm) connects being God’s children with the Spirit’s witness, calling God Father and being heirs with Christ. That shared inheritance reaches through present suffering toward glory with Him.",
+    "",
+    "The family language here therefore carries a future as well as a present hope. Those who belong to Christ share the promise and a life directed toward what God has prepared for His children."
+  ],
+  "current_position_lines": [
+    "Our study [Baptism](https://thewayofscripture.com/studies/baptism.html) reads verses 26–27 as distinguishing sonship through faith from being clothed with Christ in baptism. Its position is that faith establishes the saved relationship with God, and water baptism follows as the appointed act in which the believer puts on Christ for a new life of obedience. The study sums up that distinction as faith saving and baptism clothing the believer with Christ."
+  ],
+  "deeper_study": [
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/galatians/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-galatians-three-closing-review.md",
+    "position_source_detail": "Baptism — Clothing Yourself with Christ and Galatians3:26–27; content/studies/baptism.md:54–60 and128–132."
+  }
 }

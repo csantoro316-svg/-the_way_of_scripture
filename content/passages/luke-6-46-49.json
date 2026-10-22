@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "6:46-49",
+    "label": "Luke 6:46-49",
+    "slug": "luke-6-46-49"
+  },
+  "section_title": "What gives a life a foundation that will hold?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "46 Why do you call Me ‘Lord, Lord,’ but do not do what I say? 47 I will show you what he is like who comes to Me and hears My words and acts on them: 48 He is like a man building a house, who dug down deep and laid his foundation on the rock. When the flood came, the torrent crashed against that house but could not shake it, because it was well built.",
+        "49 But the one who hears My words and does not act on them is like a man who built his house on ground without a foundation. The torrent crashed against that house, and immediately it fell—and great was its destruction!”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus closes His teaching by asking why people call Him Lord while failing to do what He says. The question brings the whole discourse toward a personal response.",
+    "",
+    "Both builders hear His words. The difference is what they do with them. The person who comes to Jesus, hears and acts is like someone who digs deep and lays a foundation on rock. When floodwater strikes, the house stands because it is well built.",
+    "",
+    "The person who hears without acting is like someone who builds directly on the ground without a foundation. The flood exposes that weakness and the house collapses. Jesus’ picture connects a durable foundation with receiving His words in a way that shapes life."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand the houses as contrasting lived response to Jesus with hearing or profession that produces no obedience. Calvin emphasizes the difference becoming visible under testing, while the Catholic bishops’ notes on the parallel Matthew passage likewise identify hearing and doing as the central contrast. ([Calvin on Matthew 7:24–27 and Luke 6:47–49](https://biblehub.com/commentaries/calvin/luke/6.htm); [USCCB note on Matthew 7:24–27](https://bible.usccb.org/bible/matthew/7))"
+  ],
+  "god_plan_lines": [
+    "James gives another picture of the same danger: a person hears the word but does not carry it out, like someone who looks in a mirror and then forgets what he has seen. He calls for a continuing response that becomes visible in action, including care for vulnerable people and restraint in speech. This is a thematic parallel to the life built on Jesus’ words. ([James 1:19–27](https://biblehub.com/bsb/james/1.htm))",
+    "",
+    "The connection brings the discourse into the wider purpose of forming a people who live by what God says. Jesus has described mercy, generosity, honesty and inward goodness; the closing picture calls His hearers to put that teaching into practice."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/6.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-six-closing-review.md"
+  }
+}

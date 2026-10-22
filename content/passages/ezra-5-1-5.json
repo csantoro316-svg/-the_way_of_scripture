@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Ezra",
+    "citation": "5:1-5",
+    "label": "Ezra 5:1-5",
+    "slug": "ezra-5-1-5"
+  },
+  "section_title": "What helps the people begin again?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Later, the prophets Haggai and Zechariah son of Iddo prophesied to the Jews in Judah and Jerusalem in the name of the God of Israel, who was over them. 2 Then Zerubbabel son of Shealtiel and Jeshua son of Jozadak rose up and began to rebuild the house of God in Jerusalem. And the prophets of God were with them, helping them.",
+        "3 At that time Tattenai the governor of the region west of the Euphrates, Shethar-bozenai, and their associates went to the Jews and asked, “Who authorized you to rebuild this temple and restore this structure?” 4 They also asked, “What are the names of the men who are constructing this building?” 5 But the eye of their God was on the elders of the Jews, so that they were not stopped until a report was sent to Darius and written instructions about this matter were returned."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Haggai and Zechariah prophesy to the people in Judah and Jerusalem in the name of Israel’s God. Zerubbabel and Jeshua resume the temple work, with the prophets alongside them to help.",
+    "",
+    "Tattenai, governor of the region west of the Euphrates, arrives with other officials to ask who authorized the work and who is responsible for it. The questioning does not immediately stop construction: God watches over the elders while the matter is referred to Darius.",
+    "",
+    "[Haggai 1:1–15](https://biblehub.com/bsb/haggai/1.htm) gives more of the prophetic message. The people are called to consider their priorities, hear God’s assurance that He is with them, and return to the work."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezra/5.htm), [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-ezra/) and [Gill](https://biblehub.com/commentaries/gill/ezra/5.htm) emphasize the practical help the prophets give through correction, encouragement and God’s promise. Henry and Gill read God’s watching eye as protection and favorable care: the inquiry proceeds, but the work is allowed to continue."
+  ],
+  "god_plan_lines": [
+    "[Zechariah 4:6–10](https://biblehub.com/bsb/zechariah/4.htm) addresses Zerubbabel directly, grounding the work in God’s Spirit rather than human might and promising that the hands which laid the foundation will complete it. The small beginning is part of a purpose God has not abandoned.",
+    "",
+    "The larger theme of God forming a dwelling among His people continues in [Ephesians 2:19–22](https://biblehub.com/bsb/ephesians/2.htm), where people are joined together in Christ as a dwelling for God in His Spirit. That is a connection across the biblical story, rather than a claim that Ezra’s builders were constructing the later church."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezra/5.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezra-five-six-review.md"
+  }
+}

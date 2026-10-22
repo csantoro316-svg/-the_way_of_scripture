@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "2:36-43",
+    "label": "Daniel 2:36-43",
+    "slug": "daniel-2-36-43"
+  },
+  "section_title": "Which kingdoms do the statue’s materials represent?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "36 This was the dream; now we will tell the king its interpretation. 37 You, O king, are the king of kings, to whom the God of heaven has given sovereignty, power, strength, and glory. 38 Wherever the sons of men or beasts of the field or birds of the air dwell, He has given them into your hand and has made you ruler over them all. You are that head of gold.",
+        "39 But after you, there will arise another kingdom, inferior to yours. Next, a third kingdom, one of bronze, will rule the whole earth. 40 Finally, there will be a fourth kingdom as strong as iron; for iron shatters and crushes all things, and like iron that crushes all things, it will shatter and crush all the others.",
+        "41 And just as you saw that the feet and toes were made partly of fired clay and partly of iron, so this will be a divided kingdom, yet some of the strength of iron will be in it—just as you saw the iron mixed with clay. 42 And as the toes of the feet were partly iron and partly clay, so this kingdom will be partly strong and partly brittle. 43 As you saw the iron mixed with clay, so the peoples will mix with one another but will not hold together any more than iron mixes with clay."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Daniel identifies Nebuchadnezzar as the head of gold and attributes his authority to the God of heaven. Another kingdom will follow, then a third and a fourth.",
+    "",
+    "The fourth has the crushing strength of iron, but its later condition combines strength and brittleness like iron mixed with clay. Its parts do not hold together firmly.",
+    "",
+    "The interpretation names the first kingdom through its ruler but does not give the other kingdoms’ names here. Identifying them involves reading this explanation alongside the book’s later visions and its account of changing rulers."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/daniel/2.htm) and [Wesley](https://biblehub.com/commentaries/wes/daniel/2.htm) give the sequence as Babylon, the combined kingdom of the Medes and Persians, Greece, and Rome. Their reading treats Media and Persia as one kingdom.",
+    "",
+    "[Cambridge](https://biblehub.com/commentaries/cambridge/daniel/2.htm) instead gives Babylon, Media, Persia, and the Greek kingdom established by Alexander. It counts the Median and Persian kingdoms separately, reading the later chapters’ rulers and visions in that way.",
+    "",
+    "The central difference is therefore not the identity of the golden head, but how the next kingdoms are counted. That difference also changes which period is understood through the divided iron-and-clay kingdom.",
+    "",
+    "Wesley understands the attempted mixing in verse 43 as marriage alliances that cannot overcome ambition. Cambridge also reads marriage alliances, specifically among the rulers following Alexander. Both take the image to show a union that does not become lasting harmony."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/2.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-two-review.md"
+  }
+}

@@ -5,25 +5,48 @@
     "label": "Genesis 46:1-6",
     "slug": "genesis-46-1-6"
   },
-  "section_title": "Jacob\u2019s Journey to Egypt",
+  "section_title": "Jacob’s Journey to Egypt",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 So Israel set out with all that he had, and when he came to Beersheba, he offered sacrifices to the God of his father Isaac. 2 And that night God spoke to Israel in a vision: \u201cJacob, Jacob!\u201d He said.",
-        "\u201cHere I am,\u201d replied Jacob.",
-        "3 \u201cI am God,\u201d He said, \u201cthe God of your father. Do not be afraid to go down to Egypt, for I will make you into a great nation there. 4 I will go down with you to Egypt, and I will surely bring you back. And Joseph\u2019s own hands will close your eyes.\u201d",
+        "1 So Israel set out with all that he had, and when he came to Beersheba, he offered sacrifices to the God of his father Isaac. 2 And that night God spoke to Israel in a vision: “Jacob, Jacob!” He said.",
+        "“Here I am,” replied Jacob.",
+        "3 “I am God,” He said, “the God of your father. Do not be afraid to go down to Egypt, for I will make you into a great nation there. 4 I will go down with you to Egypt, and I will surely bring you back. And Joseph’s own hands will close your eyes.”",
         "5 Then Jacob departed from Beersheba, and the sons of Israel took their father Jacob in the wagons Pharaoh had sent to carry him, along with their children and wives. 6 They also took the livestock and possessions they had acquired in the land of Canaan, and Jacob and all his offspring went to Egypt."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 46**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "Jacob sets out with all he has and reaches Beersheba, where he offers sacrifices to the God of his father Isaac. The journey toward his living son also means leaving the land promised to his family. The account pauses here for God's reassurance before describing the household's entry into Egypt.",
+    "",
+    "In a night vision, God calls him by name and tells him not to fear going down to Egypt. God will make him a great nation there, go with him, and bring him back. Joseph will close his eyes at death. The promise holds together a new stage for the family and the personal comfort of having his son with him at the end of his life.",
+    "",
+    "Jacob then departs from Beersheba. His sons carry him, their children, and their wives in Pharaoh's wagons. They bring the livestock and possessions acquired in Canaan, and the account emphasizes that all his offspring go with him. This is a household migration, not simply a short visit by one father.",
+    "",
+    "The promise of being brought back reaches beyond Jacob's living journey. [Genesis 50:12–13](https://biblehub.com/bsb/genesis/50.htm) will record his burial in Canaan, while the following book will tell of his descendants' eventual deliverance from Egypt. His departure does not cancel God's earlier word about the land."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Jacob\u2019s Journey to Egypt** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 46** remains the first control on meaning."
+    "Christians commonly read the vision as reassurance that God's presence and promise continue with Jacob outside Canaan. [Wesley's notes on Genesis 46:1–4](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) understand the return promise in relation both to Jacob's burial and his descendants' return, while Joseph's presence answers the father's personal longing."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "god_plan_lines": [
+    "The family goes into Egypt under God's assurance, not beyond His care. [Acts 7:14–15](https://biblehub.com/bsb/acts/7.htm) directly recalls Joseph summoning Jacob and the household's descent to Egypt. Their move belongs to the history through which God preserves and grows the people of His promise.",
+    "",
+    "The promise to go with Jacob also anticipates the assurance given when that people must leave. In [Exodus 3:7–12](https://biblehub.com/bsb/exodus/3.htm), God declares that He will bring Israel out of oppression and tells Moses He will be with him. The direction of travel changes, but God's faithfulness and presence hold the story together."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/46.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-family-in-egypt-review.md"
+  }
 }

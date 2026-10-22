@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "15:12-19",
+    "label": "1 Corinthians 15:12-19",
+    "slug": "1-corinthians-15-12-19"
+  },
+  "section_title": "What would follow if the dead could not be raised?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "12 But if it is preached that Christ has been raised from the dead, how can some of you say that there is no resurrection of the dead? 13 If there is no resurrection of the dead, then not even Christ has been raised. 14 And if Christ has not been raised, our preaching is worthless, and so is your faith. 15 In that case, we are also exposed as false witnesses about God. For we have testified about God that He raised Christ from the dead, but He did not raise Him if in fact the dead are not raised.",
+        "16 For if the dead are not raised, then not even Christ has been raised. 17 And if Christ has not been raised, your faith is futile; you are still in your sins. 18 Then those also who have fallen asleep in Christ have perished. 19 If our hope in Christ is for this life alone, we are to be pitied more than all men."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul now names the problem: some Corinthians say there is no resurrection of the dead. He follows that claim through to its consequences. If the dead cannot be raised, Christ has not been raised either.",
+    "",
+    "That would make the apostles’ proclamation worthless and their testimony about God false. The Corinthians cannot preserve the message that God raised Christ while rejecting the possibility on which that message depends.",
+    "",
+    "The consequences reach beyond the preachers. Without Christ’s resurrection, the Corinthians remain in their sins, and those who have died in Christ have perished. Faith would not achieve what it promises simply because the people holding it are sincere.",
+    "",
+    "Paul is stating the consequences of a denial he will reject, not announcing that the gospel has failed. The next section begins by affirming that Christ really has been raised. Here he makes clear why Christian hope reaches beyond benefits in this present life."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Paul to make the real resurrection of Christ essential to the gospel’s saving hope. [Wesley’s notes on verses 13–19](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) and the [USCCB notes on verses 12–19](https://bible.usccb.org/bible/1corinthians/15) both explain that rejecting it undermines the proclamation, forgiveness and the future of those who have died in Christ."
+  ],
+  "god_plan_lines": [
+    "In [Luke 20:37–38](https://biblehub.com/bsb/luke/20.htm), Jesus appeals to God’s identification with Abraham, Isaac and Jacob when affirming the resurrection. God is the God of the living; death does not simply erase the relationship and hope His promises establish.",
+    "",
+    "Paul’s reasoning likewise places resurrection within God’s saving purpose, rather than treating it as an optional addition to an otherwise complete message. The gospel offers a hope that reaches beyond the grave. The rest of this chapter will explain how Christ’s resurrection grounds that hope for His people."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/15.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-fifteen-opening-review.md"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "16:53-59",
+    "label": "Ezekiel 16:53-59",
+    "slug": "ezekiel-16-53-59"
+  },
+  "section_title": "What does the promise concerning Jerusalem’s sisters mean?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "53 But I will restore Sodom and her daughters from captivity, as well as Samaria and her daughters. And I will restore you along with them. 54 So you will bear your disgrace and be ashamed of all you did to comfort them. 55 And your sisters, Sodom with her daughters and Samaria with her daughters, will return to their former state. You and your daughters will also return to your former state.",
+        "56 Did you not treat your sister Sodom as an object of scorn in the day of your pride, 57 before your wickedness was uncovered? Even so, you are now scorned by the daughters of Edom and all those around her, and by the daughters of the Philistines—all those around you who despise you. 58 You will bear the consequences of your lewdness and your abominations, declares the LORD. 59 For this is what the Lord GOD says: I will deal with you according to your deeds, since you have despised the oath by breaking the covenant."
+      ]
+    }
+  ],
+  "context_lines": [
+    "In the BSB, the Lord promises restoration from captivity for Sodom and its daughters, Samaria and its daughters, and Jerusalem along with them. Jerusalem is not allowed to imagine a future that confirms its former contempt for its neighbors.",
+    "",
+    "The prospect brings shame rather than renewed boasting. The city once treated Sodom as an object of scorn, but its own wrongdoing has now been exposed and surrounding peoples scorn it.",
+    "",
+    "The passage still holds Jerusalem responsible for its conduct. The Lord will deal with the city according to its deeds, because it has despised the oath and broken the covenant.",
+    "",
+    "This prepares for the final promise: the answer to Jerusalem’s failure must come from the Lord’s own covenant faithfulness and provision for its guilt."
+  ],
+  "common_interpretation_lines": [
+    "The restoration language has been read in different ways. [Wesley](https://biblehub.com/commentaries/wes/ezekiel/16.htm), working with conditional wording in his translation, understands the comparison as saying that Jerusalem will not regain its former worldly standing any sooner than Sodom and Samaria regain theirs.",
+    "",
+    "The [Cambridge commentary on verses 53 and 55](https://biblehub.com/commentaries/cambridge/ezekiel/16.htm) instead reads an actual promise of restoration, as the BSB does. It understands the future as reaching the sister cities alongside Jerusalem, overturning the city’s assumed superiority.",
+    "",
+    "The immediate verses do not describe the mechanism, date or individual eternal destiny of everyone associated with those cities. Their place in the story is to humble Jerusalem and place its own future alongside the very communities it had despised."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/16.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-sixteen-review.md"
+  }
+}

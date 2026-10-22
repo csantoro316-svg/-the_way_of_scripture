@@ -1,0 +1,79 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "1:17-27",
+    "label": "2 Samuel 1:17-27",
+    "slug": "2-samuel-1-17-27"
+  },
+  "section_title": "How does David give words to the loss of Saul and Jonathan?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 Then David took up this lament for Saul and his son Jonathan, 18 and he ordered that the sons of Judah be taught the Song of the Bow. It is written in the Book of Jashar: 19 “Your glory, O Israel, lies slain on your heights. How the mighty have fallen! 20 Tell it not in Gath; proclaim it not in the streets of Ashkelon, lest the daughters of the Philistines rejoice, and the daughters of the uncircumcised exult. 21 O mountains of Gilboa, may you have no dew or rain, no fields yielding offerings of grain. For there the shield of the mighty was defiled, the shield of Saul, no longer anointed with oil.",
+        "22 From the blood of the slain, from the fat of the mighty, the bow of Jonathan did not retreat, and the sword of Saul did not return empty. 23 Saul and Jonathan, beloved and delightful in life, were not divided in death. They were swifter than eagles; they were stronger than lions. 24 O daughters of Israel, weep for Saul, who clothed you in scarlet and luxury, who decked your garments with ornaments of gold. 25 How the mighty have fallen in the thick of battle! Jonathan lies slain on your heights. 26 I grieve for you, Jonathan, my brother. You were delightful to me; your love to me was extraordinary, surpassing the love of women. 27 How the mighty have fallen, and the weapons of war have perished!”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "David composes a lament for Saul and Jonathan and orders that Judah learn it. The account calls it the Song of the Bow and says it is written in the Book of Jashar. The poem turns the news of defeat into something the people can remember and mourn together.",
+    "",
+    "The Hebrew word for this lament is qinah (kee-NAH). [Brown–Driver–Briggs](https://biblehub.com/hebrew/7015.htm) identifies it as a dirge, a song of mourning, and lists this verse. Its vivid language gives voice to loss: Israel’s glory lies fallen, the mountains of Gilboa are addressed in grief, and the thought of Philistine celebrations is painful.",
+    "",
+    "David remembers the strength and courage of Saul and Jonathan, the bow and sword that once met the enemy, and the benefits Saul brought Israel. He then speaks directly to Jonathan as his brother, grieving the love and friendship he has lost.",
+    "",
+    "The repeated cry over the fallen mighty men holds public disaster and personal sorrow together. The poem honors what David mourns without retelling every part of Saul’s troubled reign. The earlier narrative remains there for readers who know how much that reign cost."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/1.htm) takes the Bow as the title of the funeral song. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) and [Gill](https://biblehub.com/commentaries/gill/2_samuel/1.htm) discuss teaching the use of the bow as military instruction, with Gill also noting the song-title reading. The BSB presents the instruction as teaching the Song of the Bow.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) and [Gill](https://biblehub.com/commentaries/gill/2_samuel/1.htm) read the wish for no dew or rain on Gilboa as the language of grief. It expresses horror at the loss there, rather than a weather report or a prediction that the hills will never receive rain again.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/1.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) distinguish honoring Saul’s gifts and achievements from praising a devotion to God the story does not demonstrate. The lament need not erase his wrongdoing in order to acknowledge courage, loss and benefits Israel received.",
+    "",
+    "[Gill](https://biblehub.com/commentaries/gill/2_samuel/1.htm) reads the words about Jonathan’s extraordinary love in the setting of a friendship that put David’s good ahead of personal advantage and risked Saul’s anger. [Henry](https://biblehub.com/commentaries/mhc/2_samuel/1.htm) also emphasizes the strength of faithful friendship. The comparison with the love of women expresses how deeply David valued that bond."
+  ],
+  "god_plan_lines": [
+    "Jonathan’s friendship had become visible through loyalty when David’s future threatened his own prospects. The lament preserves the weight of that love after Jonathan’s death. A well-supported parallel is the self-giving friendship Jesus describes in [John 15:12–17](https://biblehub.com/bsb/john/15.htm).",
+    "",
+    "Jesus commands His disciples to love one another as He has loved them and speaks of laying down one’s life for friends. He carries that love into His own saving death. Jonathan’s loyalty gives a human picture of costly care, while Jesus’ work reaches beyond it: Jonathan did not die to atone for David’s sins.",
+    "",
+    "The connection helps us see friendship as part of the life God forms among His people. Faithful love can shape another person’s life, and grief can honestly acknowledge its loss without undoing trust in God."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/1.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-one-review.md"
+  }
+}

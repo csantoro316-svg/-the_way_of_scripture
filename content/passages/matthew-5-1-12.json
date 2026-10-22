@@ -1,0 +1,71 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "5:1-12",
+    "label": "Matthew 5:1-12",
+    "slug": "matthew-5-1-12"
+  },
+  "section_title": "The Blessings of the Kingdom",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 When Jesus saw the crowds, He went up on the mountain and sat down. His disciples came to Him, 2 and He began to teach them, saying:",
+        "3 “Blessed are the poor in spirit, for theirs is the kingdom of heaven. 4 Blessed are those who mourn, for they will be comforted. 5 Blessed are the meek, for they will inherit the earth. 6 Blessed are those who hunger and thirst for righteousness, for they will be filled. 7 Blessed are the merciful, for they will be shown mercy. 8 Blessed are the pure in heart, for they will see God. 9 Blessed are the peacemakers, for they will be called sons of God. 10 Blessed are those who are persecuted because of righteousness, for theirs is the kingdom of heaven.",
+        "11 Blessed are you when people insult you, persecute you, and falsely say all kinds of evil against you because of Me. 12 Rejoice and be glad, because great is your reward in heaven, for in the same way they persecuted the prophets before you."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The growing crowds at the end of chapter 4 lead into Jesus' teaching on the mountain. He sits down, His disciples come to Him, and He begins the sermon that runs through chapters 5–7. The opening blessings describe people who belong to God's kingdom and the hope held out to them.",
+    "",
+    "Blessed is translated from μακάριος, *makarios* (mah-KAH-ree-oss), blessed or happy. [Thayer's Greek Lexicon](https://biblehub.com/greek/3107.htm) specifically includes these sayings. Here the reason for calling someone blessed is the good God promises, even when that person's present circumstances include grief, need, or persecution. The word does not require that the person feel cheerful through everything.",
+    "",
+    "The list joins humble need before God with mercy, purity of heart, peacemaking, and faithfulness under opposition. Jesus specifically describes poverty in spirit and hunger for righteousness. He brings the inner life, relationships, and response to wrongdoing together in one picture.",
+    "",
+    "The promise that the kingdom belongs to them opens the list in verse 3 and returns in verse 10. Both use the present tense, while comfort, satisfaction, seeing God, and the other promises look ahead. The passage holds present belonging and future hope together.",
+    "",
+    "At the end, Jesus addresses His hearers directly about insults, persecution, and false accusations because of Him. The blessing concerns suffering connected with faithfulness to Him, as the prophets had suffered before them. Their hope rests in God's recognition, even when other people reject them."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read these blessings as a picture of the life and hope of people belonging to God's kingdom. The [Catholic Catechism, paragraphs 1716–1717](https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_one/article_2.html), describes the character of Christ reflected in His people and blessings already begun, while [Wesley's notes on Matthew 5:3–12](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) likewise speak of present life with God and future fulfillment.",
+    "",
+    "[Wesley's note on Matthew 5:4](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) understands the mourning as sorrow over one's own sins and the sins of others. In that reading, the promise answers a heart humbled before God, seeking His mercy rather than excusing wrongdoing.",
+    "",
+    "Other Christian readings include the grief of suffering and loss. [Calvin's commentary on Matthew 5:4](https://biblehub.com/commentaries/calvin/matthew/5.htm) speaks of calamities and the comfort found in God. In [a 2020 address](https://www.vatican.va/content/francesco/en/audiences/2020/documents/papa-francesco_20200212_udienza-generale.html), Pope Francis includes both grief over another person's death or suffering and sorrow for one's own sin. These readings differ over what people are mourning; each looks to God for comfort."
+  ],
+  "god_plan_lines": [
+    "The promises reach back into Israel's Scriptures. [Psalm 37:7–11](https://biblehub.com/bsb/psalms/37.htm) calls for trust rather than angry rivalry and promises the land to the meek. Jesus' blessing of the meek recalls that promise. God's future is received through trust in Him, rather than seized through the violence and self-importance the psalm warns against.",
+    "",
+    "[Isaiah 61:1–3](https://biblehub.com/bsb/isaiah/61.htm) joins good news for the poor with comfort for those who mourn and a renewed life of righteousness. In [Luke 4:16–21](https://biblehub.com/bsb/luke/4.htm), Jesus identifies His mission with Isaiah's announcement. That scriptural background helps place the blessings within God's work of rescue and restoration.",
+    "",
+    "The future hope also reaches beyond present hardship. [Revelation 7:13–17](https://biblehub.com/bsb/revelation/7.htm) pictures people brought through severe suffering, sheltered by God, shepherded by the Lamb, and freed from hunger, thirst, and tears. The picture carries the Beatitudes' hope forward to life with God beyond present suffering."
+  ],
+  "current_position_lines": [
+    "Our study The Gospel According to Jesus understands the Beatitudes as the character of people being reshaped by the good news. Jesus is describing what life looks like when His kingdom takes hold of a person. The study does not treat the list as a way to earn salvation; it connects this life with receiving Jesus as Savior and King.",
+    "",
+    "For the mourning in verse 4, our study Who Shepherds the Church? takes the specific reading of sorrow over sin."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/5.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "position_source_detail": "The Gospel According to Jesus — The Fullness; Who Shepherds the Church? — The Honest Dilemma, Matthew 5:4",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-beatitudes-review.md"
+  }
+}

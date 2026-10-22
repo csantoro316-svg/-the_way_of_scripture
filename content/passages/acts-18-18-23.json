@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "18:18-23",
+    "label": "Acts 18:18-23",
+    "slug": "acts-18-18-23"
+  },
+  "section_title": "How does Paul leave room for God’s will while continuing the work?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "18 Paul remained in Corinth for quite some time before saying goodbye to the brothers. He had his head shaved in Cenchrea to keep a vow he had made, and then he sailed for Syria, accompanied by Priscilla and Aquila. 19 When they reached Ephesus, Paul left Priscilla and Aquila. He himself went into the synagogue there and reasoned with the Jews. 20 When they asked him to stay for a while longer, he declined. 21 But as he left, he said, “I will come back to you if God is willing.” And he set sail from Ephesus.",
+        "22 When Paul had landed at Caesarea, he went up and greeted the church at Jerusalem. Then he went down to Antioch. 23 After Paul had spent some time in Antioch, he traveled from place to place throughout the region of Galatia and Phrygia, strengthening all the disciples."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After remaining in Corinth for some time, Paul leaves with Priscilla and Aquila. At Cenchrea he has his head shaved because of a vow he has made—a promise or commitment to God. Luke records the act without explaining the vow’s exact words, purpose or duration.",
+    "",
+    "[Numbers 6:1–8, 13–21](https://biblehub.com/bsb/numbers/6.htm) gives the background of a Nazirite commitment, including allowing the hair to grow and cutting it when the period is complete. That background helps explain why readers connect Paul’s haircut with such a vow. Acts does not supply enough detail to reconstruct every part of the ceremony.",
+    "",
+    "At Ephesus, Paul reasons in the synagogue. When asked to stay, he declines but says he will return if God is willing. Priscilla and Aquila remain there. Paul continues by sea to Caesarea, greets the church at Jerusalem and returns to Antioch.",
+    "",
+    "After some time, he travels again through Galatia and Phrygia, strengthening the disciples. Luke’s brief travel account links the return from one period of work with the beginning of another; helping existing believers grow remains part of the mission."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read Paul’s promise to return as a plan held subject to God’s will, and his later travels as continuing care for the disciples. His vow is often understood against the Jewish background of Numbers 6. The text does not say that making such a vow is necessary for salvation or required of all Christians."
+  ],
+  "god_plan_lines": [
+    "The pattern of returning to strengthen disciples continues the care seen in [Acts 14:21–23](https://biblehub.com/bsb/acts/14.htm). The mission includes both reaching new hearers and helping believers remain steady. Ephesus also connects the journeys: the couple who traveled with Paul will help another teacher there in the next passage."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/18.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-eighteen-review.md"
+  }
+}

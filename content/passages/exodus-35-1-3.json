@@ -5,22 +5,51 @@
     "label": "Exodus 35:1-3",
     "slug": "exodus-35-1-3"
   },
-  "section_title": "The Sabbath",
+  "section_title": "Why does the work begin with a command to rest?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 Then Moses assembled the whole congregation of Israel and said to them, \u201cThese are the things that the LORD has commanded you to do: 2 For six days work may be done, but the seventh day shall be your holy day, a Sabbath of complete rest to the LORD. Whoever does any work on that day must be put to death. 3 Do not light a fire in any of your dwellings on the Sabbath day.\u201d"
+        "1 Then Moses assembled the whole congregation of Israel and said to them, “These are the things that the LORD has commanded you to do: 2 For six days work may be done, but the seventh day shall be your holy day, a Sabbath of complete rest to the LORD. Whoever does any work on that day must be put to death. 3 Do not light a fire in any of your dwellings on the Sabbath day.”"
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 35**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "With the covenant renewed, Moses gathers the whole congregation to pass on God’s instructions. Before calling for materials or workers, he repeats the Sabbath command. Even the work of preparing God’s dwelling must fit within the rhythm He has commanded.",
+    "",
+    "The seventh day is set apart for complete rest, with a severe penalty for violation. The prohibition on lighting a fire makes the command concrete within their dwellings. These instructions address Israel’s covenant life; their place here prevents the importance of the building project from becoming a reason to disregard God’s other commands."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Sabbath** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 35** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) understands the fire restriction as applying to fires used for labor, such as metalworking. [Calvin’s discussion](https://biblehub.com/commentaries/calvin/exodus/31.htm) reads the restriction more broadly, including food preparation. Both understand the sanctuary work as subject to the Sabbath rather than an exception to it."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The Bible’s theme of rest reaches beyond stopping a particular task. [Hebrews 4:1–11](https://biblehub.com/bsb/hebrews/4.htm) recalls God’s rest after creation and Israel’s failure to enter through unbelief. It calls its readers to hear God today and enter His rest through faith. The weekly command belongs within that larger story: God is bringing His people into life with Him, and even important service does not replace listening to Him and trusting His promise."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/exodus/35.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-exodus-thirty-five-review.md"
+  }
 }

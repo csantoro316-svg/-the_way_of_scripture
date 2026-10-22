@@ -10,19 +10,41 @@
     {
       "label": "BSB",
       "paragraphs": [
-        "31 Then they took Joseph\u2019s robe, slaughtered a young goat, and dipped the robe in its blood. 32 They sent the robe of many colors to their father and said, \u201cWe found this. Examine it to see whether it is your son\u2019s robe or not.\u201d",
-        "33 His father recognized it and said, \u201cIt is my son\u2019s robe! A vicious animal has devoured him. Joseph has surely been torn to pieces!\u201d 34 Then Jacob tore his clothes, put sackcloth around his waist, and mourned for his son many days. 35 All his sons and daughters tried to comfort him, but he refused to be comforted. \u201cNo,\u201d he said. \u201cI will go down to Sheol mourning for my son.\u201d So his father wept for him.",
+        "31 Then they took Joseph’s robe, slaughtered a young goat, and dipped the robe in its blood. 32 They sent the robe of many colors to their father and said, “We found this. Examine it to see whether it is your son’s robe or not.”",
+        "33 His father recognized it and said, “It is my son’s robe! A vicious animal has devoured him. Joseph has surely been torn to pieces!” 34 Then Jacob tore his clothes, put sackcloth around his waist, and mourned for his son many days. 35 All his sons and daughters tried to comfort him, but he refused to be comforted. “No,” he said. “I will go down to Sheol mourning for my son.” So his father wept for him.",
         "36 Meanwhile, the Midianites sold Joseph in Egypt to Potiphar, an officer of Pharaoh and captain of the guard."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 37**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "After selling Joseph, the brothers slaughter a goat and dip his robe in its blood. They send it to Jacob and ask him to identify it. He recognizes the garment and concludes that a wild animal has killed his son. The robe that displayed Joseph's favored place in the household now becomes the means of deceiving his father.",
+    "",
+    "Jacob tears his clothes, wears sackcloth, and mourns for many days. His children try to comfort him, but he refuses comfort and expects to go to his death still grieving. His sorrow is genuine, though it rests on evidence his sons have deliberately falsified.",
+    "",
+    "Jacob speaks of going down to שְׁאוֹל, *Sheʾôl* (sheh-OHL), the realm of the dead. [Brown–Driver–Briggs](https://biblehub.com/hebrew/7585.htm) specifically includes Genesis 37:35 among passages speaking of descent there at death. Here the word expresses Jacob's expectation of mourning until he dies.",
+    "",
+    "The final verse lets the reader see what Jacob cannot: Joseph is alive and has been sold to Potiphar, an officer of Pharaoh and captain of the guard. The family believes the story has ended in death, while the narrative has moved to Egypt and the next stage of Joseph's life."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Jacob Mourns Joseph** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 37** remains the first control on meaning."
+    "Christians commonly read this as a painful account of deceit and grief, with the closing notice preserving hope that Jacob does not yet have. [Wesley's introduction to Genesis 37 and note on verse 35](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) recognize both the brothers' deception and the depth of their father's mourning."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "god_plan_lines": [
+    "The closing glimpse of Joseph alive in Egypt shows how limited the family's knowledge is. [Psalm 105:16–22](https://biblehub.com/bsb/psalms/105.htm) later describes God sending Joseph ahead through circumstances that include enslavement and confinement. What appears to Jacob to be the end is part of a much longer story.",
+    "",
+    "That wider view gives room for hope without requiring us to dismiss the suffering in front of us. Jacob is not comforted here by an explanation of what God is doing. The account allows his grief to remain real while showing the reader that God's care and purpose extend beyond what he can presently see."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/37.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-judah-and-joseph-review.md"
+  }
 }

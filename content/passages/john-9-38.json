@@ -5,13 +5,49 @@
     "label": "John 9:38",
     "slug": "john-9-38"
   },
-  "versions": [],
-  "context_lines": [
-    "John 9:38 should be read within the flow of its chapter and the larger argument of John."
+  "section_title": "How does the man respond when Jesus makes Himself known?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "38 “Lord, I believe,” he said. And he worshiped Jesus."
+      ]
+    }
   ],
-  "explanation_lines": [
-    "**Restored reading:** *\"...he bowed in reverence before Him.\"*",
+  "context_lines": [
+    "This response comes after Jesus finds the man who has been thrown out. Asked about believing in the Son of Man, he wants to know who that is. Jesus identifies Himself, and the man answers with belief and worship. The full exchange in [John 9:35–41](https://the-way-of-scripture.web.app/passages/john-9-35-41.html) shows that his response grows out of Jesus making Himself known.",
     "",
-    "Following Jesus revealing His identity, the man's response is personal, not ritualistic \u2014 an act of reverent acknowledgment. *Proskune\u014d* here reflects both belief and humble homage: a spontaneous act of honor rooted in faith, not part of a service."
-  ]
+    "The Greek verb προσκυνέω, proskyneō (pros-koo-NEH-oh), can describe bowing or showing deep honor; [Thayer’s lexicon](https://biblehub.com/greek/4352.htm) includes this verse among its examples. Its use here joins what the man says with his response to Jesus. The scene does not describe music, a timetable or the conduct of a gathered service."
+  ],
+  "common_interpretation_lines": [
+    "Christian interpreters read this as faith expressed in honor toward Jesus, while differing over how much the man yet understands. [Chrysostom’s Homily 59](https://www.newadvent.org/fathers/240159.htm) emphasizes acknowledgment of divine power, while [Calvin’s commentary on verse 38](https://biblehub.com/commentaries/calvin/john/9.htm) allows for genuine reverence accompanied by an understanding of Christ that is still growing."
+  ],
+  "god_plan_lines": [
+    "The chapter begins with a man receiving sight and reaches a fuller response when he recognizes and trusts the One who healed him. Jesus’ explanation in [John 9:39–41](https://biblehub.com/bsb/john/9.htm) shows that the account also concerns receiving His light. The confession here gives that theme a human face: a person whom others rejected is found by Jesus and responds to Him in faith."
+  ],
+  "current_position_lines": [
+    "Our study Worship as the Early Church Knew It reads this verse as a personal act of reverent acknowledgment: the man believes Jesus and bows in honor before Him. It describes a spontaneous response rooted in faith, rather than a prescribed ceremony or the format of a church service."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/9.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-john-nine-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It, John 9:38 — The Man Born Blind, explicit developed paragraph."
+  }
 }

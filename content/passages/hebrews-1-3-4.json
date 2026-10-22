@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "1:3-4",
+    "label": "Hebrews 1:3-4",
+    "slug": "hebrews-1-3-4"
+  },
+  "section_title": "What makes the Son greater than every messenger?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "3 The Son is the radiance of God’s glory and the exact representation of His nature, upholding all things by His powerful word. After He had provided purification for sins, He sat down at the right hand of the Majesty on high. 4 So He became as far superior to the angels as the name He has inherited is excellent beyond theirs."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The opening description continues: the Son displays God’s glory and represents His nature exactly. The Greek word behind [exact representation](https://biblehub.com/greek/5481.htm) describes an impression or stamped likeness. It helps explain why knowing the Son truly makes God known, rather than giving us a faint resemblance.",
+    "",
+    "The Son also sustains all things through His powerful word. The verb [translated upholding](https://biblehub.com/greek/5342.htm) can mean bearing up or sustaining. Creation continues in dependence on Him; the sentence does not say He stopped sustaining it after its beginning.",
+    "",
+    "Having provided purification for sins, He sits at God’s right hand. His saving work and His place of honor belong together. Verse 4 introduces the comparison which follows: His inherited name and standing are greater than those of the angels."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/1.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) understand the glory and likeness language as revealing God through the Son, and the upholding language as the continuing preservation of creation. They read His sitting at God’s right hand as the place of royal authority following His saving work.",
+    "",
+    "The [USCCB note](https://bible.usccb.org/bible/hebrews/1) likewise joins the Son’s role in creation with purification and exaltation. His becoming superior to angels is read within that exaltation, rather than as a statement that He first began to exist at that point: the preceding verse already places Him at creation."
+  ],
+  "god_plan_lines": [
+    "[Colossians 1:15–20](https://biblehub.com/bsb/colossians/1.htm) brings together the same great themes: the Son makes the invisible God known, creation holds together in Him, and reconciliation comes through His cross. The One who saves is also the One on whom creation depends.",
+    "",
+    "[Hebrews 10:11–14](https://biblehub.com/bsb/hebrews/10.htm) later develops the contrast between priests repeatedly standing to offer sacrifices and Christ sitting after His one offering. The opening already introduces that completed offering. His seated place does not mean all activity has ended: [Hebrews 7:25](https://biblehub.com/bsb/hebrews/7.htm) also speaks of His continuing intercession."
+  ],
+  "current_position_lines": [
+    "Our study [Who is The Angel of the Lord?](https://thewayofscripture.com/studies/angel-of-the-lord.html) understands the eternal Son as the One who makes the unseen Father known. These verses belong with its reading of John 1:18: in knowing the Son, we come to know the Father He reveals."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who is The Angel of the Lord?",
+      "href": "../studies/angel-of-the-lord.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-one-review.md",
+    "position_source_detail": "Who is The Angel of the Lord? — The New Testament Anchor, lines 107–117; limited to Son revealing the unseen Father."
+  }
+}

@@ -1,0 +1,55 @@
+# Ezekiel 20 passage review — 2026-10-21
+
+Seven new groups /49 actual BSB verses /four supported plans /three intentional omissions /seven exact open positions. No owner study edits. Plain-language editorial review completed; difficult statutes and restoration readings fairly attributed.
+
+## Sources actually read
+
+Supplied Ezekiel PDFpages1–304inclusive:whole20lesson285–300covers20:1–44;21lesson301–304covers20:45–49andbegins21:1–7.305+unread at drafting. WholeactualmainBSB20(49)/HenryWes20actualcompleteexpositionsread. USCCB20allnotesread;Cambridge20ONLY25/26read. BDB1116bamah previouslyactualread6, but no newpublicHebrewwordclaimneeded. No applicable20ownerpositionstudysearch.
+
+ActualBSBsupportActs7:37–43/Rom1:24–32/Heb4:1–11/Lev18:21/Jer7:30–34/Num14:26–35/Rev7:9–17read. Heb8:6–13actuallyread16batch, reused. ActualBSB21:1–7read fornextchapterexplanation. Walvoordarticle72 https://walvoord.com/article/72 actualWEBopen/findrelevant84–95read,notwholearticle. CitedonlyownfutureIsraeljudgment/newcovenantreading, not hissecondhandcharacterizationsothers. Widerresurrectionargumentsnotreviewedornotneeded.
+
+## 20:1–9
+
+Plan section: omitted, because none apply. History/sakeofnamealreadyexplained; no genericforcednewsection.
+Position source: none.
+FLAGGED FOR REVIEW: BaselineenslavementinEgyptprovenpunishmentforGoshenidolatryinEx1notstated,notadopted.Ezek20:8resolveswrath/9actsfornameanddeliverance,notproofwhichspecificslaveryevent. No baselineexact591dateincontextwithoutcalendarreview;BSByear7/fifthmonth10enough. USCCBnoteprovidesdatebutdoesn'tforceexactreconstruction. Noeldersprivateintentionstheologicaldebateasifverbatimspeechnotgiven. No allIsraelunmixedsegregatedsettlementstatusorTelAvivetymclaim. Noownerposition.
+
+## 20:10–17
+
+Plan section: included, because (c).Heb4:1–11rest/wildernessfaith/today/Sabbathrestdevelopslargerpurposebeyondnationalcovenantsign;notexplicitEzekquote.
+Position source: none.
+FLAGGED FOR REVIEW: NosabbathtimelessSundayvsSaturdayobligationdoctrinesettledfromthispassage.Henryrenewancientsabbathviewnamedbutnotallchurchconsensus;publicsimplegift/sign. Num14:26–35actuallyconfirmsJoshuaCalebfirstgenerationexceptions/childrentoenter;baseline18childrengenerationresetEgyptwrongnotadopted. No everydesertanimalmiraclerisklesshistory.Donotturnlifeordinancesintoearningsalvationtechnicalownerposition. Noownerposition.
+
+## 20:18–26
+
+Plan section: included, because (c).Acts7:37–43 livingwords/rejectedMoses/gaveovertoidols/exiledevelopsScripturethemeGodhandspeopleover;notdirectEzekquote.
+Position source: none.
+FLAGGED FOR REVIEW: BS25gaveOVERactualpreserved. HenryWespermissivegivingupownsin/Cambridgeperversionfirstbornlaw/USCCBdestructivelawreadingownemphasesfair. No claim God'sgoodlawgenerallyevil orchildsacrificeapproved;actualLev18:21/Jer7:31explicitprohibitionsquotedparaphrasebesideissue. Cambridgehypothesisfirstbornlawpopularmisusepresentedinterpretation,notindependentlyestablishedancienthistoricalconsensus. NoBaalMolechpreciseetym/cultidentityinferencewithoutlex/independentchecks. No expositionpurportseveryfirstbornactuallysacrificedallhistory;actualjudgmentchargeenough. No allEgyptgeneration/dates/codeforeverypattern. Noownerposition.
+
+## 20:27–32
+
+Plan section: omitted, because none apply. Presentgenerationidolatryalreadyexplained,avoidrepeatingpriorActs7Plan.
+Position source: none.
+FLAGGED FOR REVIEW: BamahgoWherewordplayetymnotindependentlyverifiedandnotadded. BDB1116previouslycheckedhighplaceincludedYahwehworshipinothercontexts,nounnotbydefinitionalwayspagan. Noallidolatrypopularbecauseorgiesmusic/oneuniformanthropology.Allrelationshipsworldinvalidnottext. Noallmoderntheocracypoliticalpositionsinferred. Noownerposition.
+
+## 20:33–38
+
+Plan section: included, because (c).Heb8:6–13Christmediator/newcovenantforgiveness/knowingGodaddsChristworkbeyondgathering;notexplicitEzekquote/date.
+Position source: none.
+FLAGGED FOR REVIEW: OwnWesexile/USCCBnewexodus/Walvoord72futurepostChristreturnactualread. Walvoord95covenantNEWcontrastsbaselineinsistsOLD;doNOTpresentonepremillennialaccountasconsensus. No2018modernhalfofJewsIsraeldemographic/1948endsoonclaim;noethnicpurgepresentpoliticalprogramderived. NoeachIsraelitealreadyinlandwhileothersnotenterlogicaloverrides. USCCB20:37oddphrasingmarksurvivorsfordestructionnotrepeated;actual38rebelsremovedclear.NoancientcountingsheepmechanismassertedwithoutLev27directread;publicrodimagelefttext. Noallchildrenindividualeternalstatusinferred. Noownerposition.
+
+## 20:39–44
+
+Plan section: included, because (c).Rev7:9–17allnationswashedLambacceptedworship/ShepherdGodpresencewiderpurpose;explicitnotautomaticwholeIsrael=multitudeidentity.
+Position source: none.
+FLAGGED FOR REVIEW: BSB39futurepositiveyoulistenfollowednotKJVconditionalhereafterifyounot. No divinetacitapprovalongoingidols;contextchallengeversuspromiseread. No giantnewmountaintallerthanallgeographicfuturemapassertion. Noeternityallglorifiedmemoriespermanentloathingsufferingmetaphysics. No allmodernethnicJewspersecutedforcollectiveguiltclaim. No newownereschatologicalsystemposition. Noownerposition.
+
+## 20:45–49
+
+Plan section: omitted, because none apply. Imagedjudgmentand21explanationalreadycoherent,noforcedNTlink.
+Position source: none.
+FLAGGED FOR REVIEW: BibleHubBSB21:1–7actuallyreadexplicitJerusalem/sanctuarieslandconnect.ContextnoindependentclimatebotanyclaimancientNegevforestuniversal.FiremetaphornotproofofglobalallphysicalJewsdead/nonepoorremain. Wesleygreen/dryflourishingpoorcontrastsbaselinegood/wicked,actual21:3righteouswickedreadbutnarrowexclusivecodeunnecessary. NoBabylonunprecedentedallcitiesliterallyobliteratedarcheologicalassertion. Noauthor'sNASBTeman/lexrightdirectionsclaimedwithoutentry. Noownerposition.
+
+## Validation
+
+Passed focused generation, direct BSB verification of all seven groups, repository validation (0 errors, 409 warnings), preservation and cumulative coverage (67 groups,480 verses through20:49), unchanged repeat generation, fourteen mobile reader/standalone views and physical Next click, Hosting dry run/deployment, and LIVE MATCH11 observed exit0. Prefix /tmp/scripture-ezekiel-twenty-. Writer executed, do not rerun.

@@ -5,27 +5,57 @@
     "label": "Exodus 38:21-31",
     "slug": "exodus-38-21-31"
   },
-  "section_title": "An Inventory of Materials",
+  "section_title": "Why keep an account of the materials?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "21 This is the inventory for the tabernacle, the tabernacle of the Testimony, as recorded at Moses\u2019 command by the Levites under the direction of Ithamar son of Aaron the priest. 22 Bezalel son of Uri, the son of Hur, of the tribe of Judah, made everything that the LORD had commanded Moses. 23 With him was Oholiab son of Ahisamach, of the tribe of Dan, an engraver, designer, and embroiderer in blue, purple, and scarlet yarn and fine linen.",
-        "24 All the gold from the wave offering used for the work on the sanctuary totaled 29 talents and 730 shekels, according to the sanctuary shekel.",
-        "25 The silver from those numbered among the congregation totaled 100 talents and 1,775 shekels, according to the sanctuary shekel\u2014 26 a beka per person, that is, half a shekel, according to the sanctuary shekel, from everyone twenty years of age or older who had crossed over to be numbered, a total of 603,550 men.",
-        "27 The hundred talents of silver were used to cast the bases of the sanctuary and the bases of the veil\u2014100 bases from the 100 talents, one talent per base.",
-        "28 With the 1,775 shekels of silver he made the hooks for the posts, overlaid their tops, and supplied bands for them.",
+        "21 This is the inventory for the tabernacle, the tabernacle of the Testimony, as recorded at Moses’ command by the Levites under the direction of Ithamar son of Aaron the priest. 22 Bezalel son of Uri, the son of Hur, of the tribe of Judah, made everything that the LORD had commanded Moses. 23 With him was Oholiab son of Ahisamach, of the tribe of Dan, an engraver, designer, and embroiderer in blue, purple, and scarlet yarn and fine linen. 24 All the gold from the wave offering used for the work on the sanctuary totaled 29 talents and 730 shekels, according to the sanctuary shekel.",
+        "25 The silver from those numbered among the congregation totaled 100 talents and 1,775 shekels, according to the sanctuary shekel— 26 a beka per person, that is, half a shekel, according to the sanctuary shekel, from everyone twenty years of age or older who had crossed over to be numbered, a total of 603,550 men. 27 The hundred talents of silver were used to cast the bases of the sanctuary and the bases of the veil—100 bases from the 100 talents, one talent per base. 28 With the 1,775 shekels of silver he made the hooks for the posts, overlaid their tops, and supplied bands for them.",
         "29 The bronze from the wave offering totaled 70 talents and 2,400 shekels. 30 He used it to make the bases for the entrance to the Tent of Meeting, the bronze altar and its bronze grating, all the utensils for the altar, 31 the bases for the surrounding courtyard and its gate, and all the tent pegs for the tabernacle and its surrounding courtyard."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 38**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "The account now identifies who records and oversees the materials: the Levites under Ithamar, at Moses’ command. Bezalel and Oholiab are named again, linking the recorded resources with the people responsible for the work. The inventory shows what came in and where it was used.",
+    "",
+    "The gold totals 29 talents and 730 shekels. The listed silver comes from the census payment: half a sanctuary shekel from each man twenty years old or older, 603,550 men in all. It totals 100 talents and 1,775 shekels, used for the sanctuary and veil bases and for fittings on the posts. This connects the record with the payment commanded in [Exodus 30:11–16](https://biblehub.com/bsb/exodus/30.htm).",
+    "",
+    "The bronze totals 70 talents and 2,400 shekels and is assigned to the altar, bases, utensils, and pegs. These numbers make the people’s gifts and the workers’ use of them accountable. They are not a second request for contributions; chapter 36 has already reported that enough was supplied."
   ],
   "common_interpretation_lines": [
-    "A common reading of **An Inventory of Materials** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 38** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) sees a record of what was contributed and how it was used. [Calvin](https://biblehub.com/commentaries/calvin/exodus/38.htm) also emphasizes the keeping and care of the materials, with the accounting as evidence that the workers carried out their responsibility honestly."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "Care for entrusted gifts remains part of serving God in the New Testament. In [2 Corinthians 8:16–24](https://biblehub.com/bsb/2_corinthians/8.htm), Paul arranges for trusted companions to help administer a generous collection. He wants its handling to be right in the sight of both God and people.",
+    "",
+    "The connection places practical accountability within God’s purpose for a faithful community. Generosity is meant to honor the Lord and help others; honest handling of what has been given serves that same purpose. The record of the sanctuary’s materials shows that careful stewardship belongs alongside skilled work and willing giving."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/exodus/38.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-exodus-thirty-eight-review.md"
+  }
 }

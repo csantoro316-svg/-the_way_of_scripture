@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "Ezra",
+    "citation": "7:27-28",
+    "label": "Ezra 7:27-28",
+    "slug": "ezra-7-27-28"
+  },
+  "section_title": "Why does Ezra interrupt the account to give thanks?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "27 Blessed be the LORD, the God of our fathers, who has put into the heart of the king to so honor the house of the LORD in Jerusalem, 28 and who has shown me favor before the king, his counselors, and all his powerful officials. And because the hand of the LORD my God was upon me, I took courage and gathered the leaders of Israel to return with me."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After the king’s letter, Ezra speaks in the first person and blesses the LORD. He credits God with putting the desire to honor the Jerusalem temple into the king’s heart.",
+    "",
+    "He also gives thanks for favor before the king, counselors and officials. God’s hand upon him gives him courage, and he gathers Israelite leaders to go with him.",
+    "",
+    "The letter is therefore followed by the account’s own explanation of its significance: Ezra sees God’s kindness at work in the opportunity and support he has received."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezra/7.htm), [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-ezra/) and [Gill](https://biblehub.com/commentaries/gill/ezra/7.htm) read this as gratitude for both the commission and the encouragement to carry it out. Ezra’s courage is described as a response to God’s help, and the favorable royal decision becomes a reason for thanksgiving."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezra/7.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezra-seven-eight-review.md"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "1 Timothy",
+    "citation": "4:6-10",
+    "label": "1 Timothy 4:6-10",
+    "slug": "1-timothy-4-6-10"
+  },
+  "section_title": "What kind of training has lasting value?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 By pointing out these things to the brothers, you will be a good servant of Christ Jesus, nourished by the words of faith and sound instruction that you have followed. 7 But reject irreverent, silly myths. Instead, train yourself for godliness. 8 For physical exercise is of limited value, but godliness is valuable in every way, holding promise for the present life and for the one to come.",
+        "9 This is a trustworthy saying, worthy of full acceptance. 10 To this end we labor and strive, because we have set our hope on the living God, who is the Savior of everyone, and especially of those who believe."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Timothy is to point these matters out to the believers and be nourished by the words of faith and sound instruction. Paul contrasts that nourishment with irreverent, silly myths.",
+    "",
+    "He calls Timothy to train for godliness. The Greek verb is gymnazo (goom-NAH-zoh). [Thayer’s lexicon](https://biblehub.com/greek/1128.htm) includes vigorous exercise of body or mind and specifically applies it here to earnest pursuit of a godly life. The training picture gives weight to steady practice.",
+    "",
+    "Paul gives physical exercise a limited value, then describes godliness as carrying promise for both present life and the life to come. His comparison directs Timothy’s priorities toward what lasts.",
+    "",
+    "The work is sustained by hope in the living God, named as Savior of everyone and especially of believers. The paragraph joins real effort with dependence on Him. It prepares the following instructions about Timothy’s teaching, example and perseverance."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read these verses as a call to sustained growth in devotion to God, with a hope that reaches beyond this life. [Wesley’s notes on verses 7–10](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-timothy/) emphasize earnest training and the promised life that sustains the effort.",
+    "",
+    "On Savior of everyone, [Calvin’s comment on verse 10](https://biblehub.com/commentaries/calvin/1_timothy/4.htm) reads God’s preserving kindness toward all people as a reason to trust His particular care for believers. Wesley also includes God’s preservation of people in this life, while emphasizing His desire to save all eternally and the salvation received by believers. These readings distinguish God’s care for humanity and the particular relation of those who believe, rather than treating the sentence as a declaration that every person is already finally saved."
+  ],
+  "god_plan_lines": [
+    "[Titus 2:11–14](https://biblehub.com/bsb/titus/2.htm) connects saving grace with instruction in a godly present life while believers await Christ’s glory. Training serves His purpose of a people redeemed for Himself and ready for good works.",
+    "",
+    "[Philippians 3:20–21](https://biblehub.com/bsb/philippians/3.htm) places future bodily transformation in the hands of the returning Savior. The lasting hope is grounded in Him, with present faithfulness directed toward the life He will bring to completion."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_timothy/4.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-timothy-four-review.md"
+  }
+}

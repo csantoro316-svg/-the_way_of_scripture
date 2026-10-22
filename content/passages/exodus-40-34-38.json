@@ -5,7 +5,7 @@
     "label": "Exodus 40:34-38",
     "slug": "exodus-40-34-38"
   },
-  "section_title": "The Cloud and the Glory",
+  "section_title": "What does God’s glory filling the dwelling mean for His people?",
   "versions": [
     {
       "label": "BSB",
@@ -16,12 +16,53 @@
     }
   ],
   "context_lines": [
-    "In **Exodus 40**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "The cloud covers the Tent of Meeting and God’s glory fills the dwelling. In this moment, even Moses is unable to enter. The completion of the work is answered by God making His presence known among the people.",
+    "",
+    "This brings the book’s rescue to its stated purpose. God had said He brought Israel out of Egypt so that He might dwell among them ([Exodus 29:45–46](https://biblehub.com/bsb/exodus/29.htm)). The calf threatened that relationship; now, after Moses’ pleas and the renewal of the covenant, God’s presence fills the dwelling prepared at His command.",
+    "",
+    "The presence also guides the journey. When the cloud rises, the people set out; when it remains, they stay. The cloud by day and fire by night are visible to the whole house of Israel. [Numbers 9:15–23](https://biblehub.com/bsb/numbers/9.htm) develops the same pattern of waiting and moving at God’s command. Exodus ends before arrival in the land, with God accompanying His people on the way."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Cloud and the Glory** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 40** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) and [Calvin](https://biblehub.com/commentaries/calvin/exodus/40.htm) both read the filling of the dwelling as God graciously taking His place among Israel and confirming His promise. They also understand the cloud as the continuing sign of His presence and guidance; Moses’ inability to enter highlights the greatness of God’s glory."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[John 1:14–18](https://biblehub.com/bsb/john/1.htm) brings together God’s dwelling and glory in Jesus: the Word becomes flesh and dwells among us. The Greek verb is σκηνόω, *skēnoō* (skay-NOH-oh), which can mean living in a tent or dwelling; [Thayer’s lexicon](https://biblehub.com/greek/4637.htm) specifically includes this verse. God makes Himself known through the Son, full of grace and truth.",
+    "",
+    "The New Testament then describes God’s people as His dwelling. [Second Corinthians 6:14–18](https://biblehub.com/bsb/2_corinthians/6.htm) calls them the temple of the living God, and [1 Corinthians 6:17–20](https://biblehub.com/bsb/1_corinthians/6.htm) describes the body as a temple of the Holy Spirit, joining that gift to a life that honors God.",
+    "",
+    "The final vision brings the purpose to its fullness: God dwells with His people, wipes away their tears, and removes death and mourning ([Revelation 21:1–4](https://biblehub.com/bsb/revelation/21.htm)). The book that began with Israel oppressed in Egypt ends with God among them, pointing onward to the lasting life with Him that Scripture promises."
+  ],
+  "current_position_lines": [
+    "As explained in [The True Church According to Jesus](https://thewayofscripture.com/studies/true-church.html), God now dwells in His people through His Spirit. The study connects His presence in the tabernacle with His indwelling in believers and calls for lives made holy by that presence."
+  ],
+  "deeper_study": [
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/exodus/40.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-21-exodus-closing-review.md",
+    "position_source_detail": "The True Church According to Jesus, We Are the Temple, content/studies/true_church.md:43–47; explicit Spirit-filled tabernacle/Spirit-indwelt believers connection, also used at Ex25:1–9 and29:45–46."
+  }
 }

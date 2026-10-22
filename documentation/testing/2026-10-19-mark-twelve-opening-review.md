@@ -1,0 +1,37 @@
+# Mark 12 opening editorial review
+
+PDF12A648–658,12B659–668,12C669–679 read in full. Retained vineyard/Isaiah/failedshepherds,belovedSon/rejection/cornerstone,God'sclaim/imageparallel,civicresponsibility,resurrection/covenantfaithfulness/transformedlife. Original plain prose; no baseline identity, copied lessons, anecdotes, or hostile descriptions of traditions.
+
+Actual BSB Mark12:1–27,Isa5:1–7,Ezek34:1–6,Ps118:22–23,Acts4:8–12,1Pet2:4–10/13–17,Rom13:1–7,Acts5:27–32,Ex3:2–6,Deut25:5–10,Gen17:7–8,Heb11:8–19,1Cor15:12–28/42–58,John6:37–40 read. Gen1:26–28/Rom12:1–2 directly checked in prior completed reviews. Actual Thayer591readthroughpayment/tributeclause,publicscript/transliteration/pronunciation/plainmeaning. No generatedTopicalauthority or wordclaim used as a complete theology.
+
+Primary traditions checked: CalvinMark12tenantharmony4877–11377, taxanswer38500–45800;WesleyChapterXIIthrough27;USCCB12:1–27notesandparallelMatthew22notes previouslyread;Catechism2240–2242;Westminster23.4;LDSofficialstudentmanualMatthew22:23–30actualsectioninfull,whichdistinguishessealedmarriagefromnewmarryingandappealstoD&C132. No pretending each individual teacher speaks for entire churches.
+
+Existing owner position read directly: Who is The Angel of the Lord?, Exodus3:2–6section, expressly relates burningbushspeaker/Sonconclusion to Jesus' Sadduceesanswer inMatthew22:32. Same event inMarkusednarrowly;no new conclusion aboutmarriageinresurrection. Private sourceaudit allowlist extended for actualstudyname; no repositorytoolimplementationchange. No existing developed ownerpositionidentifiedfortenants/taxquestion.
+
+## Mark 12:1–12
+
+Plan section: included, because (a)/(b)/(c). Ezek34faithfulshepherdingparallel;Acts4explicitPsalm118applicationtoJesus'resurrection/salvation;1Pet2cornerstone/spiritualhouse/peoplemercydevelopsredemptivecommunity.
+
+Position source: none.
+
+FLAGGED FOR REVIEW: ExactRomanlandownershippercentages,standardtenantcropcontracts,allleaderswealthylandownersandfixedtowerfunctionbeyondnarrative not independently checked, omitted. No inventedinheritancelawwheremurderlegallytransfersownership. Parableowner'sexpectationnotproofGodwasunawareofSon'sdeath. No universalallJewsguilt,noethniccurse. Baselinefuturetribulationgeneration/exactAD70/fullchurchIsraelprogramnotimposedasownertruth;Scripture'sexplicitcornerstone/salvationlinksretained. Mark9statementJesus'ownanswerkeptdistinctfromMatthewcrowdanswer. No forcedone-to-oneeverywall/tower/winevatdetailallegory. Source'sallIsraeloneundifferentiated70yearexilesummarynotpublishedasprecisehistory. Markexplicitlyidentifiesleadersasrecognizingthemselves;nohiddenknowledgeofallheartsintroduced.
+
+## Mark 12:13–17
+
+Plan section: included, because (b)/(c). Gen1imageofGodisexplicitlylabeledparallel,notJesus'statedexplanation;Rom12wholelifeoffering/Rom13dues/1Pet2service/Acts5priorityofGoddeveloppeoplelivingfaithfullywithinworld.
+
+Position source: none.
+
+FLAGGED FOR REVIEW: FixedHerodianpartyorganization,allPhariseesnationalindependenceideology/privatehatred/advancecompromisenegotiationsnotverified;Marknamesgroupsandtrapwithoutinventedpoliticalplatforms. Exactdenariustype/legend,sourcecoinfrommoneychanger,personsupplyingit,Tiberiusimperatoreighthtime,onlycoinlegaltaxpaymentrule,HerodAntipasavoideddenariusandallJewsuniformlyoffendednotindependentlyverified,omitted. No blanketallgovernmentcommandsalwaysbinding:Acts5andactualCatholic/Westminsterlimitsread. No illegal-politicsadvice ormodernpartyendorsement. ImageparallelkeptlabeledratherthancertainwordplayJesusexplicitlystates. No copiedgamepark/childspendinganecdoteorcurrencyownershiprule. MarkcallsJesusawareofhypocrisy;noadditionalportraitofeveryquestioner'sprivateinnerthought.
+
+## Mark 12:18–27
+
+Plan section: included, because (a)/(b)/(c). CovenantGod/Gen17andHeb11patriarchshope,resurrectionthroughChrist/1Cor15andJohn6Fathersonwillwithtransformedbodyconstitutebigpicturebeyondmarriagepuzzle.
+
+Position source: Who is The Angel of the Lord?, Exodus3:2–6section withMatthew22:32parallel. Narrowburningbushspeakeridentificationonly.
+
+FLAGGED FOR REVIEW: ExactSadduceanwealth/status/smallmembershipandcanonicalonly-five-booksrulelackindependentcheckinghere;Mark'sexplicitresurrectiondenialretainedwithoutthoseclaims. SourceJosephusquotationrecognizable,butnotcountedasindependentlyverifiedjustbecausebaselinequotesit;notneeded/public. No allSadduceeseveryprivatebelief/selfishmotiveorfinalindividualdestinydiagnosis. Law'sactualwidow/brother/nameconditionschecked,notimaginedfullyexhaustivecivilrules. Likeangelsdoesnotmeanbecomingangelsoreveryhumanrelationship/intimacy/sexfeatureabolished. HebrewEx3hasnorequiredpresent-tenseverbprovingresurrectionbygrammaralone;publicgroundsanswerinGod'srelationship/promises. No prooffromunverified44usesofPaulinehope. Individualrevivalsnotautomaticallyidenticaltoresurrectionbody;1Cor15actualimperishablelifekept. Existingstudy'sbroaderalltheophaniesconclusionnotnewlyextended. LDSreadingfairlydescribedfromowndocumentwithoutendorsingit. Do not copy olderMatthew22relativeMarkdownpositionlinkbug;publicpositionusesplainstudynameandworkingDeeperStudylink.
+
+## Validation
+
+Three fresh BSB checks,eighttestsandrepositoryvalidationpassed(0errors/351legacywarnings). Source/index/HTML and all74reviewedMarknavigationblockschecked;1,282unrelatedfilesandneighborprosepreserved. 390pxreader/standalone,actualNextURL/titlefocus,Angelstudyposition/plainname/workinglink,nooverflow,idempotenceacross1,288files,Hostingdryrun/releasepassed. Allsevenaffectedlivefilesmatched. Mark74reviewedgroups/481actualBSBversesthrough12:27. Prefix `/tmp/scripture-mark-twelve-opening-`.

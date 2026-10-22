@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "1 Peter",
+    "citation": "1:3-5",
+    "label": "1 Peter 1:3-5",
+    "slug": "1-peter-1-3-5"
+  },
+  "section_title": "What makes this hope secure?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "3 Blessed be the God and Father of our Lord Jesus Christ! By His great mercy He has given us new birth into a living hope through the resurrection of Jesus Christ from the dead, 4 and into an inheritance that is imperishable, undefiled, and unfading, reserved in heaven for you, 5 who through faith are shielded by God’s power for the salvation that is ready to be revealed in the last time."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The greeting becomes praise. God’s great mercy has given His people new birth into a living hope through Jesus’ resurrection. The hope has a foundation in what God has done, rather than in a prediction that their present circumstances will become easier.",
+    "",
+    "The inheritance is described through what cannot spoil it: it does not perish, become defiled or fade away. It is reserved in heaven. The readers themselves are also described as guarded by God’s power through faith for the salvation still to be revealed.",
+    "",
+    "The word behind shielded has the sense of [guarding and protecting](https://biblehub.com/greek/5432.htm). God’s care for the heirs belongs beside His keeping of their inheritance. The next verses make clear that this protection can coexist with grief and trials."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the living hope as God’s merciful gift grounded in Christ’s resurrection. They differ over whether a person who has received this grace can finally abandon it.",
+    "",
+    "The Reformed [Westminster Confession, 17.1–3](https://www.opc.org/wcf.html), teaches that those truly called and accepted by God will be preserved to the end, although they can fall seriously and suffer for it. [Calvin](https://biblehub.com/commentaries/calvin/1_peter/1.htm) reads God’s guarding here as the reason their future salvation need not rest on their own strength.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-epistle-general-of-st-peter/) emphasizes that salvation is received and retained through faith, in keeping with his call to continue responding to grace. The Catholic [Catechism, 162](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_three/article_1/iii_the_characteristics_of_faith.html), likewise calls faith a free gift that can be lost and must be nourished. Neither account makes perseverance a matter of unaided human strength."
+  ],
+  "god_plan_lines": [
+    "[1 Corinthians 15:20–23, 50–55](https://biblehub.com/bsb/1_corinthians/15.htm) connects Christ’s resurrection with the future resurrection and transformation of those who belong to Him. The inheritance reaches beyond surviving the present life: God’s victory over death includes His people’s future embodied life.",
+    "",
+    "[Romans 8:18–25](https://biblehub.com/bsb/romans/8.htm) places that hope alongside creation’s longing for freedom from decay. The unfading inheritance belongs within God’s larger work of renewal, while believers still wait patiently for what they do not yet see."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_peter/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-peter-opening-review.md"
+  }
+}

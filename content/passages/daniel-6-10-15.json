@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "6:10-15",
+    "label": "Daniel 6:10-15",
+    "slug": "daniel-6-10-15"
+  },
+  "section_title": "What does Daniel do when prayer becomes dangerous?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 Now when Daniel learned that the document had been signed, he went into his house, where the windows of his upper room opened toward Jerusalem, and three times a day he got down on his knees, prayed, and gave thanks to his God, just as he had done before. 11 Then these men went as a group and found Daniel petitioning and imploring his God.",
+        "12 So they approached the king and asked about his royal decree: “Did you not sign a decree that for thirty days any man who petitions any god or man except you, O king, will be thrown into the den of lions?” The king replied, “According to the law of the Medes and Persians the order stands, and it cannot be repealed.” 13 Then they told the king, “Daniel, one of the exiles from Judah, shows no regard for you, O king, or for the decree that you have signed. He still makes his petition three times a day.” 14 As soon as the king heard this, he was deeply distressed and set his mind on delivering Daniel, and he labored until sundown to rescue him. 15 Then the men approached the king together and said to him, “Remember, O king, that by the law of the Medes and Persians no decree or ordinance established by the king can be changed.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Knowing the decree has been signed, Daniel continues his established practice. He kneels three times a day in his upper room, prays and gives thanks to God, with the windows open toward Jerusalem.",
+    "",
+    "Praying toward Jerusalem recalls [Solomon’s prayer for people taken into exile](https://biblehub.com/bsb/1_kings/8.htm), especially 1 Kings 8:46–50. Even far from home, they could turn back to God and appeal for Him to hear them.",
+    "",
+    "The officials find Daniel praying and report him to the king as a disloyal exile. Darius is distressed and works until sundown to save him. His advisers insist that the signed decree cannot be changed. Daniel’s continuing worship has brought the conflict between their law and his loyalty to God into the open."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/daniel/6.htm) and [Cambridge](https://biblehub.com/commentaries/cambridge/daniel/6.htm) emphasize that Daniel continues his usual practice. His prayer is an established commitment, rather than a new display devised to provoke the king.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/daniel/6.htm) notes how conduct faithful to God is misrepresented as contempt for civil authority. Darius’s attempt to rescue Daniel shows that he now recognizes the danger created by his decree."
+  ],
+  "god_plan_lines": [
+    "The same question of greater loyalty appears in [Acts 5:27–32](https://biblehub.com/bsb/acts/5.htm). When ordered to stop teaching about Jesus, the apostles answer that they must obey God rather than men. They continue bearing witness to the Jesus whom God raised and exalted.",
+    "",
+    "Daniel’s prayer and the apostles’ witness are different acts, but both show that human authority cannot take God’s place. In the New Testament, this loyalty serves the spread of the message of repentance and forgiveness through the risen Savior."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/6.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-six-review.md"
+  }
+}

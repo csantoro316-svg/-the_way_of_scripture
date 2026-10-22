@@ -11,7 +11,7 @@
       "label": "BSB",
       "paragraphs": [
         "14 So the LORD God said to the serpent:",
-        "\u201cBecause you have done this,",
+        "“Because you have done this,",
         "cursed are you above all livestock",
         "and every beast of the field!",
         "On your belly will you go,",
@@ -20,20 +20,38 @@
         "15 And I will put enmity between you and the woman,",
         "and between your seed and her seed.",
         "He will crush your head,",
-        "and you will strike his heel.\u201d"
+        "and you will strike his heel.”"
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 3**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "God now addresses the serpent, after hearing the man and woman's answers. The first sentence brings humiliation and judgment on the creature that deceived the woman. The next introduces a continuing conflict involving the serpent, the woman, and their offspring. The story moves beyond the fruit already eaten to a struggle that will outlast this encounter.",
+    "",
+    "The Hebrew זֶרַע, *zeraʿ* (ZEH-rah), can mean seed or offspring. [Brown–Driver–Briggs](https://biblehub.com/hebrew/2233.htm) records its use for descendants; the word by itself does not mean a miraculous birth. Here the wording moves from offspring to a particular conflict in which the serpent receives a wound to the head and strikes the heel. To understand the Christian reading, we must follow how later Scripture speaks about the serpent and Christ's victory."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Fate of the Serpent** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "Christians commonly read verse 15 as an early promise that evil will not have the last word and that the woman's offspring points toward Christ. The [Westminster Confession, 8.6](https://www.opc.org/wcf.html#Chapter_08), identifies the promised offspring with Christ, and [Wesley's notes on verse 15](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) connect the wounds with His suffering and victory. The Catholic [Catechism, 410–411](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_one/article_1/paragraph_7_the_fall.html), also reads the promise as announcing the Redeemer.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 3** remains the first control on meaning."
+    "**Where do traditions differ?** The same Catholic passage also relates the woman to Mary as a new Eve and connects this with Catholic teaching about her freedom from original sin. The Protestant documents cited above develop the promise around Christ without making that additional claim about Mary. The shared reading about Christ should not erase that difference."
   ],
   "current_position_lines": [
-    "No defined position is stated here yet beyond the common interpretations above. As related study develops, this section will be updated where the text warrants a clearer conclusion."
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "god_plan_lines": [
+    "[Revelation 12:9–17](https://biblehub.com/bsb/revelation/12.htm) identifies the ancient serpent as the devil and describes his conflict with the woman and her offspring. [Romans 16:20](https://biblehub.com/bsb/romans/16.htm) echoes the crushing language when promising that God will crush Satan under His people's feet. Read together, these passages give a well-supported connection between the conflict announced here and God's victory over the enemy.",
+    "",
+    "[Hebrews 2:14–15](https://biblehub.com/bsb/hebrews/2.htm) explains how Jesus' death defeats the one who holds the power of death and frees people from its fear. His suffering is real, but it does not leave the enemy in control. This is the larger hope Christians see in Genesis 3:15: the judgment at the beginning of the Bible also opens toward the defeat of the deceiver."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-18",
+    "quote_source": "https://biblehub.com/bsb/genesis/3.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-18-genesis-garden-and-fall-review.md"
+  }
 }

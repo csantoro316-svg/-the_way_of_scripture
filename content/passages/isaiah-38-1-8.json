@@ -5,25 +5,62 @@
     "label": "Isaiah 38:1-8",
     "slug": "isaiah-38-1-8"
   },
-  "section_title": "Hezekiah\u2019s Illness and Recovery",
+  "section_title": "How does Hezekiah respond when his own life is threatened?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 In those days Hezekiah became mortally ill. The prophet Isaiah son of Amoz came to him and said, \u201cThis is what the LORD says: \u2018Put your house in order, for you are about to die; you will not recover.\u2019 \u201d",
-        "2 Then Hezekiah turned his face to the wall and prayed to the LORD, 3 saying, \u201cPlease, O LORD, remember how I have walked before You faithfully and with wholehearted devotion; I have done what was good in Your sight.\u201d And Hezekiah wept bitterly.",
-        "4 And the word of the LORD came to Isaiah, saying, 5 \u201cGo and tell Hezekiah that this is what the LORD, the God of your father David, says: \u2018I have heard your prayer; I have seen your tears. Behold, I will add fifteen years to your life. 6 And I will deliver you and this city from the hand of the king of Assyria. I will defend this city. 7 This will be a sign to you from the LORD that He will do what He has promised: 8 I will make the sun\u2019s shadow that falls on the stairway of Ahaz go back ten steps.\u2019 \u201d",
-        "So the sunlight went back the ten steps it had descended."
+        "1 In those days Hezekiah became mortally ill. The prophet Isaiah son of Amoz came to him and said, “This is what the LORD says: ‘Put your house in order, for you are about to die; you will not recover.’” 2 Then Hezekiah turned his face to the wall and prayed to the LORD, 3 saying, “Please, O LORD, remember how I have walked before You faithfully and with wholehearted devotion; I have done what is good in Your sight.” And Hezekiah wept bitterly.",
+        "4 And the word of the LORD came to Isaiah, saying, 5 “Go and tell Hezekiah that this is what the LORD, the God of your father David, says: ‘I have heard your prayer; I have seen your tears. Behold, I will add fifteen years to your life. 6 And I will deliver you and this city from the hand of the king of Assyria. I will defend this city. 7 This will be a sign to you from the LORD that He will do what He has promised: 8 I will make the sun’s shadow that falls on the stairway of Ahaz go back ten steps.’” So the sunlight went back the ten steps it had descended."
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 38**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "The narrative turns from the threatened city to Hezekiah’s serious illness. Isaiah tells him to put his house in order because he will die. The king turns to the wall, prays about his faithful walk before God and weeps bitterly.",
+    "",
+    "The Lord sends Isaiah back with a personal answer: He has heard the prayer and seen the tears, and will add fifteen years to the king’s life. The answer also promises protection for Hezekiah and Jerusalem from Assyria.",
+    "",
+    "The sign concerns the shadow on the stairway of Ahaz, which goes back ten steps. Its purpose is stated plainly: to confirm that the Lord will do what He has promised. The mention of deliverance still to come connects this account with the Assyrian crisis told in the preceding chapters."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Hezekiah\u2019s Illness and Recovery** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/isaiah/38.htm) treats the prayer as an encouragement to seek God in illness, while explicitly recognizing that other people may not receive the same answer Hezekiah did. His [explanation of 2 Kings 20](https://biblehub.com/commentaries/mhc/2_kings/20.htm) also understands the recovery and sign as acts of God’s power.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 38** remains the first control on meaning."
+    "[Gill](https://biblehub.com/commentaries/gill/isaiah/38.htm) reads Hezekiah’s reference to a faithful life as an appeal made sincerely before God, rather than a claim that he has earned mercy. He connects the answer’s mention of David with God’s continuing purpose for David’s house.",
+    "",
+    "The [USCCB notes](https://bible.usccb.org/bible/isaiah/38) place the illness before the siege account, noting the promise of future deliverance. They also discuss the stairway and sundial explanations of the sign. The BSB describes a stairway; the passage does not explain the physical mechanism of the shadow’s reversal."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[James 5:13–18](https://biblehub.com/bsb/james/5.htm) places prayer, care for the sick, confession and praise within the life of the church. The sufferer is called to pray, and the sick person to call the elders for prayer in the Lord’s name.",
+    "",
+    "This is a wider biblical theme alongside Hezekiah’s appeal, rather than a direct quotation of Isaiah 38. Need and illness can be brought before God, and His people are to share in that prayer rather than leave the sufferer alone.",
+    "",
+    "The answer to Hezekiah remains a particular promise with a particular sign. The larger connection is the Lord’s attentive mercy and the place of prayer among His people, not a rule that every life will be extended by the same number of years."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/38.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-thirty-seven-nine-review.md"
+  }
 }

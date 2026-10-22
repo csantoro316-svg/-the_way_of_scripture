@@ -1,0 +1,66 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "26:19-23",
+    "label": "Acts 26:19-23",
+    "slug": "acts-26-19-23"
+  },
+  "section_title": "How does Paul describe obedience to the calling he received?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "19 So then, King Agrippa, I was not disobedient to the heavenly vision. 20 First to those in Damascus and Jerusalem, then to everyone in the region of Judea, and then to the Gentiles, I declared that they should repent and turn to God, performing deeds worthy of their repentance. 21 For this reason the Jews seized me in the temple courts and tried to kill me. 22 But I have had God’s help to this day, and I stand here to testify to small and great alike. I am saying nothing beyond what the prophets and Moses said would happen: 23 that the Christ would suffer, and as the first to rise from the dead, would proclaim light to our people and to the Gentiles.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul tells Agrippa that he did not disobey the heavenly vision. He preached in Damascus, Jerusalem, Judea and among the Gentiles, calling people to repent, turn to God and do things consistent with that repentance. Turning to God is expected to take shape in a changed life.",
+    "",
+    "He says this witness led to his seizure in the temple and the attempt to kill him. Yet God has helped him, and he is still testifying to people of every standing. He is saying what Moses and the prophets foretold: the Messiah’s suffering, resurrection and light for both Israel and the Gentiles.",
+    "",
+    "His claim about the first to rise should be read with the wider New Testament witness to Christ’s resurrection. Earlier people restored to life, such as Eutychus in Acts 20, do not remove the distinctive hope in the risen Christ. [1 Corinthians 15:20–23](https://biblehub.com/bsb/1_corinthians/15.htm) identifies Him as the beginning of the resurrection promised to those who belong to Him."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly recognize that repentance should be shown in how a person lives. They differ in their wider accounts of how God’s grace brings about the willing response Paul describes.",
+    "",
+    "The Reformed [Westminster Confession 10:1–2](https://www.opc.org/wcf.html) describes God’s effective call as renewing the will and drawing people to Christ so that they come freely, made willing by grace. It credits that response to God’s work rather than to an independent ability to produce faith.",
+    "",
+    "The Methodist [Article VIII](https://www.umc.org/en/content/articles-of-religion) likewise teaches that God’s grace must come before and enable a good will, and continue to work with it. [Wesley’s note on verse 19](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) understands Paul as receiving power to obey and then using it, and takes the verse to show that grace can be resisted. This is his application of the passage within that wider account of grace.",
+    "",
+    "Both explanations acknowledge Paul’s dependence on God. The passage itself credits God’s help and describes a response of obedience, preaching and changed conduct."
+  ],
+  "god_plan_lines": [
+    "The content Paul gives here closely matches [Luke 24:25–27, 44–47](https://biblehub.com/bsb/luke/24.htm): the Messiah suffers and rises, Scripture is fulfilled, and repentance and forgiveness are proclaimed to the nations. It is the same good news that Jesus commissioned His followers to proclaim.",
+    "",
+    "The inclusion of both Israel and the Gentiles is part of the purpose announced in Scripture. Paul’s work, his endurance and the changed lives he calls for belong to that mission. His survival matters here because the witness is continuing, not because mere survival is treated as its final goal."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/26.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twenty-six-review.md"
+  }
+}

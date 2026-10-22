@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "13:11-19",
+    "label": "1 Kings 13:11-19",
+    "slug": "1-kings-13-11-19"
+  },
+  "section_title": "Why does a claim about an angel lead the messenger astray?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "11 Now a certain old prophet was living in Bethel, and his sons came and told him all the deeds that the man of God had done that day in Bethel. They also told their father the words that the man had spoken to the king. 12 “Which way did he go?” their father asked. And his sons showed him the way taken by the man of God, who had come from Judah. 13 So the prophet said to his sons, “Saddle the donkey for me.” Then they saddled the donkey for him, and he mounted it 14 and went after the man of God. He found him sitting under an oak tree and asked, “Are you the man of God who came from Judah?” “I am,” he replied.",
+        "15 So the prophet said to the man of God, “Come home with me and eat some bread.” 16 But the man replied, “I cannot go home with you, and I will not eat bread or drink water with you in this place. 17 For I have been told by the word of the LORD: ‘You must not eat bread or drink water there or return by the way you came.’” 18 Then the prophet replied, “I too am a prophet like you, and an angel spoke to me by the word of the LORD, saying, ‘Bring him back with you to your house, so that he may eat bread and drink water.’” The old prophet was lying to him, 19 but the man of God went back with him, ate bread in his house, and drank water."
+      ]
+    }
+  ],
+  "context_lines": [
+    "An old prophet in Bethel hears from his sons what has happened and follows the man from Judah. He finds him resting under an oak and invites him home to eat.",
+    "",
+    "The man repeats the command he has received from God. The old prophet then claims that an angel has brought a different instruction: bring him back so he can eat and drink. The narrator expressly says this is a lie.",
+    "",
+    "The man goes back and shares the meal. A claim to speak for God has persuaded him to act against the command already given to him."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/13.htm) emphasizes how an appearance of holiness can make deception persuasive. [Gill](https://biblehub.com/commentaries/gill/1_kings/13.htm) identifies the angel-message as the old prophet’s invention, rather than a genuine change of instruction.",
+    "",
+    "The writers differ in how confidently they describe the old prophet’s overall character. Henry calls him ungodly; Gill sees troubling actions alongside signs of respect for God’s messenger and leaves the wider question open. Neither reading makes the lie truthful or the invitation authorized."
+  ],
+  "god_plan_lines": [
+    "The need to test claims of divine authority continues in the New Testament. In [Galatians 1:6–9](https://biblehub.com/bsb/galatians/1.htm), Paul insists that even a message presented by an angel must be rejected if it contradicts the gospel already received.",
+    "",
+    "[1 John 4:1–6](https://biblehub.com/bsb/1_john/4.htm) likewise calls believers to test spiritual claims, with the truth about Jesus and the apostolic witness at the center. These are broader connections, not direct quotations of this story. A messenger’s impressive claim does not remove the responsibility to weigh what is said against what God has made known."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/13.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-thirteen-review.md"
+  }
+}

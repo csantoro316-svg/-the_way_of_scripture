@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "14:10-12",
+    "label": "Romans 14:10-12",
+    "slug": "romans-14-10-12"
+  },
+  "section_title": "Who will give the final account of our lives?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 Why, then, do you judge your brother? Or why do you belittle your brother? For we will all stand before God’s judgment seat. 11 It is written: “As surely as I live, says the Lord, every knee will bow before Me; every tongue will confess to God.” 12 So then, each of us will give an account of himself to God."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul confronts both condemning and belittling a fellow believer. The reason is shared accountability: all will stand before God’s judgment seat. No one in the dispute occupies a place above the others as their final judge.",
+    "",
+    "He quotes Isaiah’s picture of every knee bowing and every tongue acknowledging God. Each person will give an account of themselves. That prospect turns attention toward responsibility before God, rather than confidence in one’s ability to assess everyone else."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a warning against taking God’s place when judging another believer’s disputed practices. Accountability is personal and universal. The teaching calls for humility about oneself, rather than indifference to right and wrong."
+  ],
+  "god_plan_lines": [
+    "[Isaiah 45:22–25](https://biblehub.com/bsb/isaiah/45.htm) places every knee bowing within God’s call for the ends of the earth to turn to Him for salvation. The universal acknowledgment belongs to His rule as the only God.",
+    "",
+    "[Philippians 2:9–11](https://biblehub.com/bsb/philippians/2.htm) uses the same picture in describing the exalted Jesus, confessed as Lord to the Father’s glory. Romans brings that wide horizon into a local disagreement: people who will acknowledge God together should not treat one another with contempt now."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/14.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-fourteen-review.md"
+  }
+}

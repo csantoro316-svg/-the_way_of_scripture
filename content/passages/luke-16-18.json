@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "16:18",
+    "label": "Luke 16:18",
+    "slug": "luke-16-18"
+  },
+  "section_title": "What does Jesus’ warning say about faithfulness in marriage?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "18 Anyone who divorces his wife and marries another woman commits adultery, and he who marries a divorced woman commits adultery."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Immediately after affirming the durability of the Law, Jesus speaks of divorce and remarriage as adultery. Luke records the warning both for the man who divorces and marries another and for the man who marries a divorced woman.",
+    "",
+    "This saying contains no exception clause. Christians consider it alongside Jesus’ fuller discussion in Matthew and Paul’s instructions about separation, reconciliation and an unbelieving spouse’s departure. Those passages are central to the differences described below. ([Matthew 19:3–9](https://biblehub.com/bsb/matthew/19.htm); [1 Corinthians 7:10–16](https://biblehub.com/bsb/1_corinthians/7.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian traditions commonly understand Jesus as defending lasting faithfulness in marriage. They differ over how this warning relates to other passages and the circumstances in which a later marriage can be accepted.",
+    "",
+    "The Catholic Church teaches that a valid, consummated marriage between baptized spouses cannot be dissolved by human power. Its Catechism distinguishes that bond from legitimate separation or a civil divorce needed to protect rights, children or inheritance, and distinguishes an unjustly abandoned spouse from the person responsible for breaking the marriage. ([Catechism §§2382–2386](https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_two/article_6/iv_offenses_against_the_dignity_of_marriage.html))",
+    "",
+    "Reformed churches following the Westminster Confession permit an innocent spouse to divorce and remarry after adultery, and also recognize deliberate desertion that cannot be remedied as grounds for ending the marriage. They read Matthew’s exception and Paul’s teaching alongside this warning. ([Westminster Confession 24.5–6](https://www.opc.org/wcf.html))",
+    "",
+    "The Orthodox Church in America upholds lifelong marriage while allowing a bishop to consider remarriage after divorce with repentance and attention to the people involved. The United Methodist Church recognizes that divorce can become necessary when a marriage is destructive or beyond repair and does not rule out remarriage. These are statements of those churches, rather than a claim that every Orthodox or Methodist church or member has the same approach. ([OCA guidelines, section F](https://www.oca.org/holy-synod/encyclicals/on-marriage); [United Methodist Social Principles, Marriage: Divorce](https://www.umc.org/en/content/social-principles-the-social-community))"
+  ],
+  "god_plan_lines": [
+    "Genesis describes husband and wife becoming one flesh. Ephesians repeats that passage and explicitly connects marriage with Christ and the church, calling husbands to the self-giving love shown by Christ. Faithfulness in marriage belongs within that larger picture of a relationship marked by love, care and commitment. ([Genesis 2:21–24](https://biblehub.com/bsb/genesis/2.htm); [Ephesians 5:25–33](https://biblehub.com/bsb/ephesians/5.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/16.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-sixteen-closing-review.md"
+  }
+}

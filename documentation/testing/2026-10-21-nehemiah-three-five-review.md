@@ -1,0 +1,49 @@
+# Nehemiah 3–5 passage review — 2026-10-21
+
+Seven new groups cover all74actualBSBverses. Entire relevant suppliedPDFlessons18–32(2:9–20,3,4:1–10) and33–48(rest4,all5)read; wholePDF1–48actuallyread. Whole actualBSB3–5/Henry3–5;USCCB3notesread. Gill3:1,5,8,12,16,20,27,32;4:2,4–6,9,10,12,13,15–18,20,23;5:2,3,5,7,8,10–19 read in complete boundedchunks. USCCB4/5HTTPerrornotused. ActualBDB2388Pi’el/HiphilsubentriesincludingexplicitNeh3repairmeaningread, notwholeentry. DirectBSB1Cor12:4–27;Rom12:14–21;1Pet2:21–25;Rom8:31–39;Ex22:25–27;Lev25:35–43;Deut23:19–20;15:1–18;1John3:16–18;Gal5:13–15;Mark10:42–45;1Cor9:3–18;Eph6:10–18read. JosephusAnt11.5.6–8actuallyreadUChicagoownwork; WickisourceattemptHTTPerror. NoapplicableownerpositionfromNehemiahsearch, noownerstudyedits/publicbaselineattribution.
+
+## 3:1–32
+
+Plan section: included, because (c). 1Cor12Spiritgifts/common good/mutualcareoneChristbody, labeledsharedserviceconnectionnotgateallegory.
+Position source: none.
+FLAGGED FOR REVIEW: Baseline literallyeveryoneworking contradicted3:5noblesrefuse. No assertionallcropsceased or unpaidalllabor/hiringothersviolatesEph4: BibleEzra3paidbuildersalreadyreviewed. Gillpriestssupervise/employanddaughtersrichheiressesfundlaborhypothesescannotproveactualmethod, publicsimplyparticipation. No singlewomen’swidowstatus/no sons assertedfromdaughtersmentioned. BDB2388repairspecificchecked, not rootmeaningautomaticallyimposesonechurchgift. BSBJeshanahGate/Shallun/Binnui/diligentlyretainednotNASBoldgatevariationssubstituted. USCCBexactlocationsuncertain; no modernarcheologicalBroadWallidentitycertainty, gateetymologyorallten/12spiritualstages. NehemiahsonAzbuknotHacaliahmainnarrator. BaruchangerhiddenthoughtGillnotverifiedlex/detailedpsychology, publicdiligentlyBSB.
+
+## 4:1–6
+
+Plan section: included, because (c). Rom12blessenemies/leavejudgmentGod/helpenemies;1Pet2ChristentrustsjustJudgeandbearsinsforrighteousliving, enlargesjustice/prayerquestion.
+Position source: none.
+FLAGGED FOR REVIEW: BSBarmySamariaretainednotbaselineNASBwealthy; no newlexclaimwithoutentry. Harshpetitionretainednotsoftenedaway. Henryhardenedopposition/Gillpropheticjudgmentattributed; baselinecertaineternaldamnationallnamedmennotindependentlyestablishedandnotoriginatedsiteposition. No everyrejectedleader’scriticsautomaticallyGod’senemies. SacrificequestionexactintentiondiffersGill/Jarchi, contextstatesmockingquestionsnotinventedattackduringsacrificeplan. HalfheightBSBnotclaimfinishedhalfcircumference. Burnedlimestoneengineeringnotindependentchecked, usemockers’actualquestion.
+
+## 4:7–14
+
+Plan section: omitted, because none apply beyond danger/prayer/watchfulnesswithoutduplicatingfollowingcareplan.
+Position source: none.
+FLAGGED FOR REVIEW: JosephusAnt11.5.8doesreportmanyJewskilled, independentlyconfirmedaswhathewrote; Neh4doesnotnarratefatalattackandcasualtycount. JosephuslateaccountalsogivesdifferentXerxesreignand2years4monthsconstruction, so publicdoesnotassertteacherweknowcasualtiesasestablishedScripturehistory. No divinepurposepunishinglazyfamilieswithdeathsderivedfromthisextraevent. No allsurroundingpeoplesalwaysinherentlyhostile. Exactfour-directionattackmapnotverifiedorneeded. TenwarningsBSBwithoutforcednumericcode, no proofwarningneighborssecrettraitorsortrainedspies. Watchfulnessnotfaithlessness. No clinicalexhaustiondiagnosisorprivatemotivescertainty. No fixed605BCtoTribulationLuke21interpretationimposed.
+
+## 4:15–23
+
+Plan section: included, because (c). Romans8Christgiven/death/resurrection/prayerandunbreakableloveduringpersecution, not guaranteedphysicalimmunity.
+Position source: none.
+FLAGGED FOR REVIEW: HalfNehemiahservantsnotnecessarilyhalfentirenationorworkproductivityprecisely50%/twicespeedmath. BSBdistinguishescarriersonehandweaponfrombuildersswordbelt;Gillbroaderpreparednessreadingattributednotrewritequote. Hornnotassignedmoderntrumpetsoundor500footspacingfromJosephusasNehfact. BSB23carriedweapontowaternotKJVremovedclothesforwashing; sourceversiondifferencesnotcopied. No bathroommedicalclothingrulingsorconvictionalwayswork24hours. Godfrustratedplotactualtextnoinventedfullbattlecleanup. ChristianwarfareEph6readforcheckingHenryapplication, noarmedchurchpolicyfromancientdefense.
+
+## 5:1–5
+
+Plan section: included, because (c). Lev25redeemedpeoplecare, Gal5freedomservinglove,1John3Christselfgiving→concreteaid.
+Position source: none.
+FLAGGED FOR REVIEW: Baselinelargefamilieshoardgrainnotstatedbycomplaint, publicneedformanymouths. Famineactualbutcauseenemyblockade/neglectedallfieldsnotnarrated. Debt-slaverynotreducedtobenignmodernteenparttimejobanalogy. No allborrowersirresponsible, poorlessworthy or debtchildrenownmoralblame. No universalmodernbankinginterestruleorfinancialadvicefromancientcovenantcontext. LawsquotedonlyBSBcheckedactualchapterranges. No currenteconomicprices/conversions.
+
+## 5:6–13
+
+Plan section: omitted, because none apply beyond restitution/obediencealreadyexplainedwithoutgenericparallelrepetition.
+Position source: none.
+FLAGGED FOR REVIEW: Nehemiahownlendingstatementnotproofhealreadychargedzerointerest, publicreportsinclusiverebukeandrequestwithoutinventedexemption. BaselinepolicepoliticalallianceconsultationexactplanorSpirithiddenworknotnarrated. BuyingbackJewsactualstatement, exactpersonalPersianslavepurchasesSchindlerparallel/privatefundraisingmotiveunverifiednotused. BSBpercentagenotassert1%monthly12%annualcertainty;GillRomananalogyproposalnoindependentPersianmetrology/rateperiodcheck. No certaintythiscalendarJubilee/seventhyear. Oathbeforepriestsnotclaimpriestsallcreditorsguilty. Shakegarmenttextnotmodernchurchpropertyforfeitcommand. Promiseactedonactualnarrationnotguaranteeallfuturegenerationsneverreverted.
+
+## 5:14–19
+
+Plan section: included, because (c). Mark10Christservant/ransom,1Cor9validsupportrightfreelyforgoneforgospel; preventsmisstatingeveryministermustunpaid.
+Position source: none.
+FLAGGED FOR REVIEW: Twelveyeargovernorshipactual, no automaticinitialreturnpromisewas12year. No exactlyhowfundedfood(masonrywagesvsoldwealth/ongoingPersiansalary)asserted:baselineearnedlivingmanuallabornotgiven. Landnotacquirednotblanketallprivatepropertysin. Hospitalitycountsandfoodactual, no universalPersiancustomindependentlyuncheckedclaim. PriorgovernorsexactnamesZerubbabel/Ezraunconfirmed, notallaccusedcollectively. Henry/GillgraciousGodrecognitionattributed; baselineeveryearthlyrewardautomaticallyforfeitsheavenlyrewardnotuniversalizedornewsiteposition. No automaticpovertyprovesholinessorrichnessprovesgreed. No prayerthatGodowessalvationforworks.
+
+## Validation
+
+All direct BSB, repository (0errors /350warnings), preservation, continuous coverage through5:19, idempotence, fourteen mobile renders and physical Next navigation passed. ExplicitScripture-project Hosting dryrun/deployment exited0. Live comparison LIVE MATCH11 observed exit0. Prefix /tmp/scripture-nehemiah-three-five-.

@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "12:54-59",
+    "label": "Luke 12:54-59",
+    "slug": "luke-12-54-59"
+  },
+  "section_title": "Why does Jesus tell the crowd to recognize the time and make peace now?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "54 Then Jesus said to the crowds, “As soon as you see a cloud rising in the west, you say, ‘A shower is coming,’ and that is what happens. 55 And when the south wind blows, you say, ‘It will be hot,’ and it is. 56 You hypocrites! You know how to interpret the appearance of the earth and sky. Why don’t you know how to interpret the present time?",
+        "57 And why don’t you judge for yourselves what is right? 58 Make every effort to reconcile with your adversary while you are on your way to the magistrate. Otherwise, he may drag you off to the judge, and the judge may hand you over to the officer, and the officer may throw you into prison. 59 I tell you, you will not get out until you have paid the very last penny.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus turns to the crowds. They can recognize a coming shower from a cloud in the west and heat from a south wind, yet they fail to interpret the time in which they are living.",
+    "",
+    "The contrast follows His teaching about His own mission, the coming reckoning and the response He requires. He challenges people who can draw conclusions from ordinary observations to consider what is happening before them.",
+    "",
+    "Then He asks why they do not judge what is right and gives a picture of urgency: make peace with an adversary while on the way to the magistrate. Once judgment and imprisonment follow, the debt must be paid to the last penny.",
+    "",
+    "The scene gives weight to the present opportunity to act. Recognizing the situation should lead to a response before the opportunity is gone."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand this conclusion as an urgent call to recognize Jesus’ mission and respond before judgment. Wesley connects discerning the time with the Messiah’s coming and reads the journey toward the judge as a warning that there is no time to waste. ([Wesley on Luke 12:54–59](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [Luke 12:54–59](https://biblehub.com/bsb/luke/12.htm))"
+  ],
+  "god_plan_lines": [
+    "Hebrews repeatedly brings the response to God into the present: while it is called today, His people are to encourage one another and guard against hardened unbelief. Hearing His voice calls for an answer rather than indefinite postponement. This is a shared theme with Jesus’ warning to the crowd. ([Hebrews 3:12–15](https://biblehub.com/bsb/hebrews/3.htm))",
+    "",
+    "Paul likewise urges his hearers not to receive God’s grace in vain and identifies the present as the day of salvation. God’s saving invitation makes the time for response significant; the opportunity is a gift to receive now. ([2 Corinthians 6:1–2](https://biblehub.com/bsb/2_corinthians/6.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/12.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-twelve-closing-review.md"
+  }
+}

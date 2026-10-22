@@ -11,18 +11,39 @@
       "label": "BSB",
       "paragraphs": [
         "21 And the LORD God made garments of skin for Adam and his wife, and He clothed them.",
-        "22 Then the LORD God said, \u201cBehold, the man has become like one of Us, knowing good and evil. And now, lest he reach out his hand and take also from the tree of life, and eat, and live forever...\u201d",
+        "22 Then the LORD God said, “Behold, the man has become like one of Us, knowing good and evil. And now, lest he reach out his hand and take also from the tree of life, and eat, and live forever...”",
         "23 Therefore the LORD God banished him from the Garden of Eden to work the ground from which he had been taken. 24 So He drove out the man and stationed cherubim on the east side of the Garden of Eden, along with a whirling sword of flame to guard the way to the tree of life."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 3**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "God makes clothing for the man and woman before sending them out of the garden. They had made coverings from leaves; now He provides garments of skin. His care continues, but it does not cancel the consequences of their disobedience. They must leave the home He had given them.",
+    "",
+    "The text states why access to the tree of life is blocked: they must not take its fruit and live forever. The man returns to working the ground from which he was formed. Cherubim and a flaming sword guard the way back. The chapter ends with a real barrier, after beginning with an invitation to distrust a boundary God had already given.",
+    "",
+    "The clothing and the expulsion belong together. Reading only the garments can make the ending sound as though nothing has been lost. Reading only the guarded entrance can miss God's continuing provision. Chapter 4 then follows this family into life outside Eden, where sin's damage spreads into the next generation."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Expulsion from Paradise** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 3** remains the first control on meaning."
+    "Christians commonly read the expulsion as the loss of humanity's original access to life with God. Some also see the garments as a picture of God providing what people cannot provide for themselves. [Wesley's notes on verse 21](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) go further and suggest an animal sacrifice pointing toward Christ. That is a proposed parallel: Genesis says God made garments of skin, but does not describe an altar, a sacrifice, or a command establishing a sacrificial ritual here."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "god_plan_lines": [
+    "The guarded tree is not the Bible's last word about life. [Revelation 22:1–5, 14](https://biblehub.com/bsb/revelation/22.htm) returns to the river, the tree of life, and a world without the curse. God's servants see His face, and those who wash their robes have access to the tree. These shared images form a strong parallel between what is lost at the beginning and the life God gives at the end.",
+    "",
+    "The difference is more than moving back into a garden. Revelation places the throne of God and of the Lamb at the center of that life. The story moves toward fellowship with God in a creation freed from the curse. The clothes in Genesis show His care along the way; the restored access in Revelation shows the larger destination."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-18",
+    "quote_source": "https://biblehub.com/bsb/genesis/3.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-18-genesis-garden-and-fall-review.md"
+  }
 }

@@ -1,0 +1,69 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "18:12-27",
+    "label": "John 18:12-27",
+    "slug": "john-18-12-27"
+  },
+  "section_title": "What happens as Jesus is questioned and Peter denies Him?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "12 Then the band of soldiers, with its commander and the officers of the Jews, arrested Jesus and bound Him. 13 They brought Him first to Annas, who was the father-in-law of Caiaphas, the high priest that year. 14 Caiaphas was the one who had advised the Jews that it would be better if one man died for the people.",
+        "15 Now Simon Peter and another disciple were following Jesus. Since that disciple was known to the high priest, he also went with Jesus into the courtyard of the high priest. 16 But Peter stood outside at the door. Then the disciple who was known to the high priest went out and spoke to the doorkeeper, and brought Peter in. 17 At this, the servant girl watching the door said to Peter, “Aren’t you also one of this man’s disciples?” “I am not,” he answered. 18 Because it was cold, the servants and officers were standing around a charcoal fire they had made to keep warm. And Peter was also standing with them, warming himself.",
+        "19 Meanwhile, the high priest questioned Jesus about His disciples and His teaching. 20 “I have spoken openly to the world,” Jesus answered. “I always taught in the synagogues and at the temple, where all the Jews come together. I said nothing in secret. 21 Why are you asking Me? Ask those who heard My message. Surely they know what I said.” 22 When Jesus had said this, one of the officers standing nearby slapped Him in the face and said, “Is this how You answer the high priest?” 23 Jesus replied, “If I said something wrong, testify as to what was wrong. But if I spoke correctly, why did you strike Me?” 24 Then Annas sent Him, still bound, to Caiaphas the high priest.",
+        "25 Simon Peter was still standing and warming himself. So they asked him, “Aren’t you also one of His disciples?” He denied it and said, “I am not.” 26 One of the high priest’s servants, a relative of the man whose ear Peter had cut off, asked, “Didn’t I see you with Him in the garden?” 27 Peter denied it once more, and immediately a rooster crowed."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus is bound and brought first to Annas, the father-in-law of Caiaphas, who is high priest that year. John recalls Caiaphas’s earlier advice that one man should die for the people. The questioning takes place within the leadership already involved in the decision against Jesus.",
+    "",
+    "Annas had himself held the high priesthood. [Josephus, Antiquities 18.2.2](https://penelope.uchicago.edu/josephus/ant-18.html#chap2), records a Roman official removing him and later appointing Caiaphas after other appointments. This gives independent background to the older high priest’s place in the account, alongside the family relationship John names.",
+    "",
+    "Peter and another disciple follow. The other disciple is known to the high priest and helps Peter gain entry to the courtyard. John does not identify this disciple here. Peter denies being one of Jesus’ disciples and stands warming himself by the charcoal fire.",
+    "",
+    "When questioned about His disciples and teaching, Jesus points to His public message and to people who heard Him. An officer slaps Him, and He asks for evidence of wrongdoing rather than responding with violence. John also records Annas sending Him bound to Caiaphas.",
+    "",
+    "The account returns to Peter. He denies Jesus twice more, and a rooster crows, recalling the warning in [John 13:36–38](https://biblehub.com/bsb/john/13.htm). John places Jesus’ open witness beside His disciple’s repeated denial."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read the contrast as exposing the weakness of Peter’s earlier confidence while showing Jesus’ faithfulness under questioning. Jesus’ appeal to His public teaching concerns the message He has proclaimed; it does not mean that He never taught the disciples privately.",
+    "",
+    "Readers differ over where the questioning belongs in the sequence. The [Catholic bishops’ note on verse 13](https://bible.usccb.org/bible/john/18) understands an inquiry before Annas. [Calvin on verse 24](https://biblehub.com/commentaries/calvin/john/18.htm) and [Wesley on verse 24](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) read the sending to Caiaphas as having already occurred, so they place the questioning there. The BSB’s wording is retained as given. These are explanations of the narrative’s order, not separate church doctrines about Jesus."
+  ],
+  "god_plan_lines": [
+    "The contrast fits the New Testament’s description of a faithful High Priest who can help weak people. [Hebrews 4:14–16](https://biblehub.com/bsb/hebrews/4.htm) describes Jesus as tested yet without sin and invites His people to seek mercy and help through Him. Peter’s weakness does not make Jesus’ faithfulness disappear.",
+    "",
+    "Peter’s story also continues beyond the denial. In [John 21:15–19](https://biblehub.com/bsb/john/21.htm), the risen Jesus again calls him to follow and entrusts His sheep to him. His failure is real, and so is the grace through which Jesus renews his service."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/18.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-eighteen-review.md"
+  }
+}

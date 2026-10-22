@@ -5,38 +5,47 @@
     "label": "Isaiah 56:9-12",
     "slug": "isaiah-56-9-12"
   },
-  "section_title": "Israel\u2019s Sinful Leaders",
+  "section_title": "What happens when the watchmen care only for themselves?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "9 Come, all you beasts of the field;",
-        "eat greedily, all you beasts of the forest.",
-        "10 Israel\u2019s watchmen are blind,",
-        "they are all oblivious;",
-        "they are all mute dogs,",
-        "they cannot bark;",
-        "they are dreamers lying around,",
-        "loving to slumber.",
-        "11 Like ravenous dogs,",
-        "they are never satisfied.",
-        "They are shepherds with no discernment;",
-        "they all turn to their own way,",
-        "each one seeking his own gain:",
-        "12 \u201cCome, let me get the wine,",
-        "let us imbibe the strong drink,",
-        "and tomorrow will be like today,",
-        "only far better!\u201d"
+        "9 Come, all you beasts of the field; eat greedily, all you beasts of the forest. 10 Israel’s watchmen are blind, they are all oblivious; they are all mute dogs, they cannot bark; they are dreamers lying around, loving to slumber. 11 Like ravenous dogs, they are never satisfied. They are shepherds with no discernment; they all turn to their own way, each one seeking his own gain: 12 “Come, let me get the wine, let us imbibe the strong drink, and tomorrow will be like today, only far better!”"
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 56**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "The welcoming promises give way to a sharp warning. Beasts are invited to devour, while Israel’s watchmen are described as blind, unaware and silent when they should give warning.",
+    "",
+    "The images become increasingly pointed. These guardians are like dogs that cannot bark but remain ravenously hungry. They are also shepherds without discernment, each pursuing his own gain.",
+    "",
+    "Their invitation to drink heavily assumes that tomorrow will simply bring more of the same pleasures. The people charged with vigilance are absorbed in appetite and complacency while danger approaches."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Israel\u2019s Sinful Leaders** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/isaiah/56.htm) and [Wesley](https://biblehub.com/commentaries/wes/isaiah/56.htm) understand the watchmen and shepherds as leaders and teachers who fail the people entrusted to them. Their neglect, greed and false security belong together.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 56** remains the first control on meaning."
+    "Henry also applies the warning to leaders in other times and places. The passage exposes what happens when people responsible for warning and care become preoccupied with their own comfort and gain."
   ],
-  "deeper_study": []
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/56.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-fifty-four-six-review.md"
+  }
 }

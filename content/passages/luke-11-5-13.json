@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "11:5-13",
+    "label": "Luke 11:5-13",
+    "slug": "luke-11-5-13"
+  },
+  "section_title": "Why does Jesus tell His disciples to keep asking?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 Then Jesus said to them, “Suppose one of you goes to his friend at midnight and says, ‘Friend, lend me three loaves of bread, 6 because a friend of mine has come to me on a journey, and I have nothing to set before him.’ 7 And suppose the one inside answers, ‘Do not bother me. My door is already shut, and my children and I are in bed. I cannot get up to give you anything.’ 8 I tell you, even though he will not get up to provide for him because of his friendship, yet because of the man’s persistence, he will get up and give him as much as he needs.",
+        "9 So I tell you: Ask, and it will be given to you; seek, and you will find; knock, and the door will be opened to you. 10 For everyone who asks receives; he who seeks finds; and to him who knocks, the door will be opened.",
+        "11 What father among you, if his son asks for a fish, will give him a snake instead? 12 Or if he asks for an egg, will give him a scorpion? 13 So if you who are evil know how to give good gifts to your children, how much more will your Father in heaven give the Holy Spirit to those who ask Him!”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus continues His teaching with a midnight request for bread. A traveler has arrived, and the host has nothing to offer him. His friend initially refuses to get out of bed, but the request succeeds because of the man’s persistence.",
+    "",
+    "The Greek word in verse 8 is ἀναίδεια, anaideia (ah-NYE-day-ah). Thayer gives the sense of shamelessness or impudence and applies it here to someone pressing his request. The picture is of someone willing to ask boldly despite the inconvenience. ([Thayer, Greek 335](https://biblehub.com/greek/335.htm))",
+    "",
+    "Jesus then tells the disciples to ask, seek and knock. He follows the story with a second comparison: fathers who are themselves sinful still know how to give their children good gifts rather than something harmful.",
+    "",
+    "The argument moves from these imperfect human responses to the Father’s goodness. Jesus ends by naming the Holy Spirit as the gift the Father gives to those who ask. The reluctant friend is part of the comparison; the Father’s generous care is where the teaching leads."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand this passage as encouragement to persevere in prayer and trust the Father’s goodness. The Catholic bishops’ notes identify persistence and the effectiveness of prayer across these episodes, while Wesley emphasizes the Holy Spirit as the gift that brings God’s other gifts with it. ([USCCB notes on Luke 11:1–13](https://bible.usccb.org/bible/luke/11); [Wesley on Luke 11:13](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))"
+  ],
+  "god_plan_lines": [
+    "In Acts, the risen Jesus calls the Holy Spirit the Father’s promised gift and connects that gift with witness reaching to the ends of the earth. At Pentecost, the gathered disciples receive the Spirit; Peter explains the outpouring through the risen and exalted Jesus. The Father’s generosity serves His purpose of making Christ known. ([Acts 1:4–8](https://biblehub.com/bsb/acts/1.htm); [Acts 2:1–4, 32–39](https://biblehub.com/bsb/acts/2.htm))",
+    "",
+    "Later, threatened believers pray for boldness and for God’s healing work, and they are filled with the Spirit to speak His word. Luke’s second volume gives a concrete picture of a praying people receiving help for the mission God has entrusted to them. ([Acts 4:23–31](https://biblehub.com/bsb/acts/4.htm))"
+  ],
+  "current_position_lines": [
+    "Prayer and Faith and What Does Prayer Look Like? both draw attention to the gift Jesus names here: the Holy Spirit. Their emphasis is on prayer that seeks God’s purposes and His work within us, rather than treating asking as a way to secure a chosen outcome. What Does Prayer Look Like? also recognizes that continued petition can be governed by real surrender; repetition by itself does not establish a lack of faith."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/11.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-luke-eleven-prayer-review.md",
+    "position_source_detail": "Prayer and Faith, Does God Want You to Ask? and Luke 11:13 discussion; What Does Prayer Look Like?, Does God Want You to Ask? and Gethsemane repeated-petition discussion."
+  }
+}

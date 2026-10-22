@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "24:22-27",
+    "label": "Acts 24:22-27",
+    "slug": "acts-24-22-27"
+  },
+  "section_title": "Why does Felix keep listening yet leave Paul in prison?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "22 Then Felix, who was well informed about the Way, adjourned the hearing and said, “When Lysias the commander comes, I will decide your case.” 23 He ordered the centurion to keep Paul under guard, but to allow him some freedom and permit his friends to minister to his needs.",
+        "24 After several days, Felix returned with his wife Drusilla, who was a Jewess. He sent for Paul and listened to him speak about faith in Christ Jesus. 25 As Paul expounded on righteousness, self-control, and the coming judgment, Felix became frightened and said, “You may go for now. When I find the time, I will call for you.” 26 At the same time, he was hoping that Paul would offer him a bribe. So he sent for Paul frequently and talked with him. 27 After two years had passed, Felix was succeeded by Porcius Festus. And wishing to do the Jews a favor, Felix left Paul in prison."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Felix is already well informed about the Way, but postpones a decision until Lysias comes. He orders Paul kept under guard with some freedom and allows his friends to attend to his needs. Luke does not report Lysias arriving during this part of the account.",
+    "",
+    "Later Felix and his Jewish wife Drusilla hear Paul speak about faith in Christ Jesus. Paul discusses righteousness, self-control and the coming judgment. Felix becomes frightened and sends him away, saying he will call for him when he has time.",
+    "",
+    "Luke then tells us another reason for the repeated conversations: Felix hopes Paul will offer a bribe. After two years, Porcius Festus succeeds him, and Felix leaves Paul imprisoned to gain favor with the Jews. The delay is therefore connected with money and political advantage, not presented as a verdict proving Paul guilty.",
+    "",
+    "The ruler has authority over the prisoner’s circumstances, but the prisoner speaks about matters for which the ruler must answer to God. Hearing frequently and feeling fear are not described here as the same thing as responding in faith and obedience."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly see a warning in Felix’s response: interest in the message and fear of judgment can coexist with an unwillingness to do what is right. Luke reports the hope of a bribe and the decision to leave Paul imprisoned. He does not give a complete account of Felix’s later life or ask readers to determine his final standing before God."
+  ],
+  "god_plan_lines": [
+    "A related theme appears in Jesus’ teaching in [John 16:8–11](https://biblehub.com/bsb/john/16.htm): the Spirit confronts the world concerning sin, righteousness and judgment. Paul’s message brings these questions before a ruler whose authority over others does not place him above accountability to God.",
+    "",
+    "[Titus 2:11–14](https://biblehub.com/bsb/titus/2.htm) joins God’s saving grace with learning to reject ungodliness, live uprightly and await Jesus. Paul’s witness before Felix likewise reaches into how a person lives and uses power. The Lord’s work concerns a changed people, not simply an audience willing to hear religious ideas."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/24.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twenty-four-review.md"
+  }
+}

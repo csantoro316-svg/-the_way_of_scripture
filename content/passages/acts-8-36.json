@@ -5,13 +5,62 @@
     "label": "Acts 8:36",
     "slug": "acts-8-36"
   },
-  "versions": [],
-  "context_lines": [
-    "In **Acts 8**, the gospel is moving beyond Jerusalem, and Philip's ministry among the Samaritans and the Ethiopian shows the widening reach of Christ's kingdom. The chapter's baptism scenes belong to that outward expansion of the gospel and the immediate obedience of those who receive it."
+  "section_title": "What does the official’s question about baptism show?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "36 As they traveled along the road and came to some water, the eunuch said, “Look, here is water! What is there to prevent me from being baptized?”"
+      ]
+    }
   ],
-  "explanation_lines": [
-    "*A textual note: verse 37, in which the eunuch makes a verbal confession of faith before baptism, is absent from the earliest and most reliable manuscripts and is omitted in most modern translations, including this one. The same caution applied to Mark 16:9-20 applies here.*",
+  "context_lines": [
+    "An angel directs Philip to the desert road from Jerusalem toward Gaza. There he meets an Ethiopian royal official returning from worship in Jerusalem and reading Isaiah. The Spirit directs Philip to join him, and a question about understanding the text becomes an invitation to sit alongside him.",
     "",
-    "**The Ethiopian eunuch's response is the NT pattern \u2014 immediate.** No delay. No deferral. Genuine faith produces immediate obedience. The question \"what prevents me?\" is the right question for every believer."
-  ]
+    "Luke calls the man a eunuch and says he manages the queen’s treasury. Eunuchs were men unable to father children, often through castration, and could hold important court responsibilities; [Thayer’s entry](https://biblehub.com/greek/2135.htm) explains the connection. Candace is a form of the royal title kandake, associated with Nubia south of Egypt. [The Met’s account of Nubia](https://www.metmuseum.org/pt/essays/nubia) describes the title for a ruling queen mother in that region.",
+    "",
+    "The official is reading about the suffering servant and asks whether Isaiah is speaking about himself or someone else. Philip begins with that Scripture and tells him the good news about Jesus. Luke gives the starting point and the subject, rather than a full transcript of Philip’s explanation.",
+    "",
+    "When they come to water, the official asks about baptism. Philip baptizes him, the Spirit carries Philip away, and the official continues rejoicing. Philip continues preaching as he travels toward Caesarea. The meeting joins God’s direction, careful attention to Scripture and a personal response to the message."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Philip’s explanation as identifying the suffering servant of Isaiah 53 with Jesus and leading the official to baptism. Traditions differ over how baptism should be performed and over how much this particular account establishes about it.",
+    "",
+    "The Catholic Church’s [Catechism, paragraph 1239](https://www.vatican.va/archive/ENG0015/__P3J.HTM), calls immersion—being put fully under the water—the most expressive way of performing baptism while also allowing pouring. The Reformed [Westminster Confession, chapter 28, paragraph 3](https://www.opc.org/wcf.html), says immersion is not necessary and accepts pouring or sprinkling. The [1689 Baptist Confession, chapter 29, paragraph 4](https://www.the1689confession.com/1689/chapter-29), requires immersion for proper administration.",
+    "",
+    "Commentators also differ about the descent into the water. [Calvin on verse 38](https://biblehub.com/commentaries/calvin/acts/8.htm) understands it as the ancient practice of immersing the body, while allowing other ways of baptizing. [Wesley on verse 38](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) does not regard the account of going down as establishing immersion by itself.",
+    "",
+    "Some Bible editions include a confession of faith at verse 37. The [BSB places it in a footnote](https://biblehub.com/bsb/acts/8.htm), so its main text goes from verse 36 to verse 38. [The USCCB’s note on verse 37](https://bible.usccb.org/bible/acts/8) explains its absence from the earliest manuscripts. The official’s question, baptism and rejoicing remain in the account."
+  ],
+  "god_plan_lines": [
+    "[Isaiah 53:7–12](https://biblehub.com/bsb/isaiah/53.htm) moves from the servant’s suffering and death to bearing the sins of many and bringing them righteousness. Acts explicitly shows Philip beginning with that passage to announce Jesus. Scripture’s suffering servant is central to the good news, not an obstacle that has to be explained away.",
+    "",
+    "[Isaiah 56:3–7](https://biblehub.com/bsb/isaiah/56.htm) also promises welcome and a lasting name for faithful foreigners and eunuchs, joining their hope to God’s house of prayer for all nations. Luke does not explicitly quote that passage here. It provides a meaningful biblical parallel to the welcome and joy of a foreign eunuch responding to Jesus."
+  ],
+  "current_position_lines": [
+    "Baptism uses the official’s question and baptism as a direct example of responding to the gospel with obedience. The study also reads going down into and coming up from the water alongside the wider biblical picture as supporting immersion as the normal practice. It does not treat every other way of baptizing as automatically invalid in every circumstance. The emphasis is faith expressed in baptism, rather than delaying the response without reason."
+  ],
+  "deeper_study": [
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/8.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-acts-eight-review.md",
+    "position_source_detail": "Baptism — Why Immersion (Acts8:38–39),How Baptism Should Be Administered, andBaptism Is Commanded and Expected (Acts8:36,38); directdevelopednorm/promptobediencewithstatedflexibility."
+  }
 }

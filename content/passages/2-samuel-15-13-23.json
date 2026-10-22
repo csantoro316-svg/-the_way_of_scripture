@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "15:13-23",
+    "label": "2 Samuel 15:13-23",
+    "slug": "2-samuel-15-13-23"
+  },
+  "section_title": "Who stays with David when he leaves Jerusalem?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 Then a messenger came to David and reported, “The hearts of the men of Israel are with Absalom.” 14 And David said to all the servants with him in Jerusalem, “Arise and let us flee, or we will not escape from Absalom! We must leave quickly, or he will soon overtake us, heap disaster on us, and put the city to the sword.” 15 The king’s servants replied, “Whatever our lord the king decides, we are your servants.” 16 Then the king set out, and his entire household followed him. But he left behind ten concubines to take care of the palace. 17 So the king set out with all the people following him. He stopped at the last house, 18 and all his servants marched past him—all the Cherethites and Pelethites, and six hundred Gittites who had followed him from Gath.",
+        "19 Then the king said to Ittai the Gittite, “Why should you also go with us? Go back and stay with the new king, since you are both a foreigner and an exile from your homeland. 20 In fact, you arrived only yesterday; should I make you wander around with us today while I do not know where I am going? Go back and take your brothers with you. May the LORD show you loving devotion and faithfulness.” 21 But Ittai answered the king, “As surely as the LORD lives, and as my lord the king lives, wherever my lord the king may be, whether it means life or death, there will your servant be!” 22 “March on then,” said David to Ittai. So Ittai the Gittite marched past with all his men and all the little ones who were with him. 23 Everyone in the countryside was weeping loudly as all the people passed by. And as the king crossed the Kidron Valley, all the people also passed toward the way of the wilderness."
+      ]
+    }
+  ],
+  "context_lines": [
+    "News of Absalom’s support reaches David, and he orders a hurried departure to avoid being trapped and to spare the city an attack. His household and loyal servants leave with him, while ten concubines remain to care for the palace. His guards and six hundred men who followed him from Gath pass before him.",
+    "",
+    "David gives Ittai, a foreigner and recent arrival, freedom to stay rather than join his uncertain journey. Ittai refuses. He pledges to remain wherever David is, whether that means life or death. David accepts him, and Ittai’s men and dependents pass on with the company.",
+    "",
+    "The countryside weeps as David crosses the Kidron Valley toward the wilderness. The king who once entered Jerusalem in strength now leaves it with an uncertain destination and people choosing whether to share his danger."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/15.htm) sees care for others in David’s willingness to release Ittai from joining his trouble. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) and [Gill](https://biblehub.com/commentaries/gill/2_samuel/15.htm) emphasize Ittai’s steady loyalty in adversity. The oath expresses a commitment that does not depend on David’s present comfort or popularity.",
+    "",
+    "The narrative names loyal people from outside Israel as well as royal servants and, in the next scene, priests. It does not reduce everyone’s loyalty to payment or ethnic background. Ittai’s willingness is stated directly; his exact financial arrangements are not."
+  ],
+  "god_plan_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) and [Henry](https://biblehub.com/commentaries/mhc/2_samuel/15.htm) draw a parallel between Ittai’s loyalty to David and a believer’s attachment to Christ. The connection is the willingness to remain faithful when following brings hardship rather than advantage.",
+    "",
+    "In [Luke 9:57–62](https://biblehub.com/bsb/luke/9.htm), a person offers to follow Jesus wherever He goes. Jesus answers by making the cost of following Him clear, including the absence of a settled place to rest. The call to follow is more than enthusiasm while the journey looks promising.",
+    "",
+    "This is a limited parallel, not a claim that Ittai’s oath was a direct prediction of those conversations. Nor does it turn loyalty to an earthly leader into an unlimited duty. The greater commitment is to Christ, whose calling is the measure for His followers."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/15.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-fifteen-review.md"
+  }
+}

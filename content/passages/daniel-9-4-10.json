@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "9:4-10",
+    "label": "Daniel 9:4-10",
+    "slug": "daniel-9-4-10"
+  },
+  "section_title": "How does Daniel confess the sins of his people?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "4 And I prayed to the LORD my God and confessed, “O, Lord, the great and awesome God, who keeps His covenant of loving devotion to those who love Him and keep His commandments, 5 we have sinned and done wrong. We have acted wickedly and rebelled. We have turned away from Your commandments and ordinances. 6 We have not listened to Your servants the prophets, who spoke in Your name to our kings, leaders, fathers, and all the people of the land.",
+        "7 To You, O Lord, belongs righteousness, but this day we are covered with shame—the men of Judah, the people of Jerusalem, and all Israel near and far, in all the countries to which You have driven us because of our unfaithfulness to You. 8 O LORD, we are covered with shame—our kings, our leaders, and our fathers—because we have sinned against You. 9 To the Lord our God belong compassion and forgiveness, even though we have rebelled against Him 10 and have not obeyed the voice of the LORD our God to walk in His laws, which He set before us through His servants the prophets."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Daniel begins by honoring the great and awesome God who keeps His covenant and loving devotion. He then confesses rebellion: the people have turned from God’s commands and refused to listen to His prophets.",
+    "",
+    "He speaks as part of the people. Their kings, leaders, fathers and the nation scattered near and far share the shame of unfaithfulness. Daniel does not use his own record of faithfulness as a reason to stand apart from their confession.",
+    "",
+    "At the same time, he attributes righteousness, compassion and forgiveness to God. The prayer holds these together: the people have sinned, God’s judgment is just, and mercy still belongs to the One they have disobeyed."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/daniel/9.htm) emphasizes confession that honestly acknowledges sin and God’s righteousness. [Gaebelein](https://biblehub.com/commentaries/gaebelein/daniel/9.htm) particularly notes Daniel’s identification with the people’s failure despite his own faithful service."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/9.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-nine-review.md"
+  }
+}

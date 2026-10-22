@@ -5,49 +5,62 @@
     "label": "Isaiah 4:1-6",
     "slug": "isaiah-4-1-6"
   },
-  "section_title": "A Remnant in Zion",
+  "section_title": "How does the promise of shelter follow the city’s disgrace?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 In that day seven women",
-        "will take hold of one man and say,",
-        "\u201cWe will eat our own bread",
-        "and provide our own clothes.",
-        "Just let us be called by your name.",
-        "Take away our disgrace!\u201d",
-        "2 On that day the Branch of the LORD",
-        "will be beautiful and glorious,",
-        "and the fruit of the land",
-        "will be the pride and glory of Israel\u2019s survivors.",
-        "3 Whoever remains in Zion",
-        "and whoever is left in Jerusalem",
-        "will be called holy\u2014",
-        "all in Jerusalem who are recorded among the living\u2014",
-        "4 when the Lord has washed away",
-        "the filth of the daughters of Zion",
-        "and cleansed the bloodstains from the heart of Jerusalem",
-        "by a spirit of judgment and a spirit of fire.",
-        "5 Then the LORD will create over all of Mount Zion",
-        "and over her assemblies",
-        "a cloud of smoke by day",
-        "and a glowing flame of fire by night.",
-        "For over all the glory",
-        "there will be a canopy,",
-        "6 a shelter to give shade",
-        "from the heat by day,",
-        "and a refuge and hiding place",
-        "from the storm and the rain."
+        "1 In that day seven women will take hold of one man and say, “We will eat our own bread and provide our own clothes. Just let us be called by your name. Take away our disgrace!”",
+        "2 On that day the Branch of the LORD will be beautiful and glorious, and the fruit of the land will be the pride and glory of Israel’s survivors. 3 Whoever remains in Zion and whoever is left in Jerusalem will be called holy— all in Jerusalem who are recorded among the living— 4 when the Lord has washed away the filth of the daughters of Zion and cleansed the bloodstains from the heart of Jerusalem by a spirit of judgment and a spirit of fire.",
+        "5 Then the LORD will create over all of Mount Zion and over her assemblies a cloud of smoke by day and a glowing flame of fire by night. For over all the glory there will be a canopy, 6 a shelter to give shade from the heat by day, and a refuge and hiding place from the storm and the rain."
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 4**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "The opening verse completes the picture of loss at the end of chapter 3. Seven women seek one man’s name while offering to provide their own food and clothing. Their appeal shows the desperation produced by the city’s disaster.",
+    "",
+    "The tone then changes. The Branch of the Lord and the land’s fruit become the survivors’ glory. Those left in Zion are called holy after the Lord washes away the city’s filth and bloodshed through judgment and fire.",
+    "",
+    "The Hebrew [צֶמַח, tsemach](https://biblehub.com/hebrew/6780.htm), pronounced TSEH-makh, means sprout or growth. Brown–Driver–Briggs lists this verse under growth, while also recording the word’s use for a future ruler in other passages. The word alone does not settle whether the image here describes the land’s renewed growth or points to the coming Messiah.",
+    "",
+    "The promise ends with cloud and fire over Zion’s assemblies and shelter from heat, storm and rain. These are pictures of God’s presence and protection for a people He has cleansed, following the earlier warnings about their exposure and shame."
   ],
   "common_interpretation_lines": [
-    "A common reading of **A Remnant in Zion** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "Readers differ over the Branch. The [NABRE notes](https://bible.usccb.org/bible/isaiah/4) recognize that the word can refer to the future Davidic king, but favor renewed growth here because it stands beside the land’s fruit. [Henry](https://biblehub.com/commentaries/mhc/isaiah/4.htm) and [Wesley](https://biblehub.com/commentaries/wes/isaiah/4.htm) read the Branch as Christ, connecting the passage with His kingdom and the good He brings to His people.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 4** remains the first control on meaning."
+    "The royal reading also draws on passages such as [Jeremiah 23:5–6](https://biblehub.com/bsb/jeremiah/23.htm) and [Zechariah 3:8–10](https://biblehub.com/bsb/zechariah/3.htm), which use Branch language for God’s promised ruler or servant. These readings differ over the image’s immediate reference while recognizing that the cleansing and shelter come from the Lord."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The cloud and fire recall God guiding His people out of Egypt in [Exodus 13:20–22](https://biblehub.com/bsb/exodus/13.htm). Isaiah uses that familiar picture of divine presence in a promise concerning Zion’s restored community.",
+    "",
+    "A further parallel appears in [Revelation 7:9–17](https://biblehub.com/bsb/revelation/7.htm). People from every nation stand before God and the Lamb, their robes washed in the Lamb’s blood. God spreads His tabernacle over them, and the Lamb shepherds them beyond hunger, thirst and scorching heat. The shared themes are cleansing, God dwelling with His people and the shelter He provides."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/4.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-four-five-review.md"
+  }
 }

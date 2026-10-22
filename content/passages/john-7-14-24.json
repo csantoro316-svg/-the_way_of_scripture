@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "7:14-24",
+    "label": "John 7:14-24",
+    "slug": "john-7-14-24"
+  },
+  "section_title": "How should people judge Jesus’ teaching and healing?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 About halfway through the feast, Jesus went up to the temple courts and began to teach. 15 The Jews were amazed and asked, “How did this man attain such learning without having studied?” 16 “My teaching is not My own,” Jesus replied. “It comes from Him who sent Me. 17 If anyone desires to do His will, he will know whether My teaching is from God or whether I speak on My own. 18 He who speaks on his own authority seeks his own glory, but He who seeks the glory of the One who sent Him is a man of truth; in Him there is no falsehood.",
+        "19 Has not Moses given you the law? Yet not one of you keeps it. Why are you trying to kill Me?” 20 “You have a demon,” the crowd replied. “Who is trying to kill You?” 21 Jesus answered them, “I did one miracle, and you are all amazed. 22 But because Moses gave you circumcision, you circumcise a boy on the Sabbath (not that it is from Moses, but from the patriarchs.) 23 If a boy can be circumcised on the Sabbath so that the law of Moses will not be broken, why are you angry with Me for making the whole man well on the Sabbath? 24 Stop judging by outward appearances, and start judging justly.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "About halfway through the feast, Jesus teaches in the temple courts. His hearers wonder how He has acquired such learning without the study they expect. He points to the One who sent Him as the source of His teaching and connects recognizing that teaching with a willingness to do God’s will.",
+    "",
+    "The discussion turns to the effort to kill Him and His earlier Sabbath healing. Some in the crowd deny knowing about a threat against Him. Jesus compares their objection to making a whole person well with their acceptance of circumcision on the Sabbath.",
+    "",
+    "The eighth-day command reaches back to Abraham and is repeated in the law given through Moses. Jesus reasons from that accepted command and practice, then calls for just judgment that looks beyond appearances. ([Genesis 17:9–14](https://biblehub.com/bsb/genesis/17.htm); [Leviticus 12:1–3](https://biblehub.com/bsb/leviticus/12.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian readers commonly understand Jesus as calling for a judgment shaped by God’s will and the truth of His work, rather than by prejudice or appearances. Calvin and Wesley both read the circumcision comparison as exposing an inconsistent objection to the Sabbath healing. ([Calvin on John 7:17–24](https://biblehub.com/commentaries/calvin/john/7.htm); [Wesley on John 7:17–22](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/))"
+  ],
+  "god_plan_lines": [
+    "The covenant sign also belongs within a wider promise about the heart. Deuteronomy speaks of God circumcising His people’s hearts so that they love Him and live. The concern for doing God’s will here can be read beside that promise of inward renewal. This is a scriptural parallel, rather than an explanation Jesus explicitly adds to His comparison. ([Deuteronomy 30:5–6](https://biblehub.com/bsb/deuteronomy/30.htm))",
+    "",
+    "Colossians connects a circumcision performed by Christ with sharing in His death and resurrection, forgiveness and the cancellation of sin’s debt. It gives the broader picture of the life Christ brings, beyond a dispute over an outward act. ([Colossians 2:11–14](https://biblehub.com/bsb/colossians/2.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/7.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-seven-opening-review.md"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "Jonah",
+    "citation": "1:17",
+    "label": "Jonah 1:17",
+    "slug": "jonah-1-17"
+  },
+  "section_title": "Why does God appoint a great fish for Jonah?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 Now the LORD had appointed a great fish to swallow Jonah, and Jonah spent three days and three nights in the belly of the fish."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The Lord appoints a great fish to swallow Jonah, and he remains in its belly for three days and three nights. Being thrown into the sea is not the end of his story.",
+    "",
+    "The fish places him beyond any means of rescuing himself, while becoming the means through which his life is preserved. The next chapter records his prayer from inside it.",
+    "",
+    "The account identifies the creature by its role and size, without naming a species. Its central point is God’s action toward the fleeing prophet: the One who sent the storm also provides what Jonah needs to survive it."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/jonah/1.htm) and [Cambridge](https://biblehub.com/commentaries/cambridge/jonah/1.htm) understand Jonah’s preservation as miraculous and connect it with Jesus’ own use of the sign of Jonah. The emphasis is God’s power and mercy toward His disobedient servant."
+  ],
+  "god_plan_lines": [
+    "Jesus explicitly connects this passage with Himself in [Matthew 12:38–41](https://biblehub.com/bsb/matthew/12.htm). As Jonah was in the fish for three days and nights, the Son of Man will be in the heart of the earth.",
+    "",
+    "The connection is given by Jesus, not supplied merely by a reader noticing a resemblance. Jonah’s descent and return become a sign pointing toward Christ’s death and resurrection. Jesus also identifies Himself as greater than Jonah, calling His hearers to recognize the significance of the One before them."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/jonah/1.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-jonah-review.md"
+  }
+}

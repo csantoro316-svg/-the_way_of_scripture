@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "4:35-41",
+    "label": "Mark 4:35-41",
+    "slug": "mark-4-35-41"
+  },
+  "section_title": "Who Is This, That Even the Sea Obeys Him?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "35 When that evening came, He said to His disciples, “Let us cross to the other side.” 36 After they had dismissed the crowd, they took Jesus with them, since He was already in the boat. And there were other boats with Him. 37 Soon a violent windstorm came up, and the waves were breaking over the boat, so that it was being swamped. 38 But Jesus was in the stern, sleeping on the cushion. So they woke Him and said, “Teacher, don’t You care that we are perishing?”",
+        "39 Then Jesus got up and rebuked the wind and the sea. “Silence!” He commanded. “Be still!” And the wind died down, and it was perfectly calm. 40 “Why are you so afraid?” He asked. “Do you still have no faith?” 41 Overwhelmed with fear, they asked one another, “Who is this, that even the wind and the sea obey Him?”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "That evening Jesus tells His disciples to cross to the other side. They leave the crowd and take Him in the boat where He has been teaching; other boats accompany them. A violent storm rises, and waves begin swamping the boat while Jesus sleeps in the stern.",
+    "",
+    "The disciples wake Him with a question about whether He cares that they are perishing. The danger is real. Jesus responds by commanding the wind and sea, and the storm gives way to complete calm. The Greek verb φιμόω, *phimoō* (fee-MOH-oh), can mean to muzzle or silence; [Thayer's lexicon](https://biblehub.com/greek/5392.htm) lists this command. Mark shows the force of His word over what threatens them.",
+    "",
+    "Jesus then asks about their fear and faith. They have seen His power for others, yet need to learn what trusting Him means in danger themselves. Their final question turns attention from the storm to His identity: who is this person whom even wind and water obey?",
+    "",
+    "[Matthew 8:23–27](https://biblehub.com/bsb/matthew/8.htm) and [Luke 8:22–25](https://biblehub.com/bsb/luke/8.htm) recount the same rescue. Mark's account lets us hear the disciples' fear that He does not care, alongside the authority of the One they have called upon."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand this as a display of Jesus' authority over creation and a call to trust Him in danger. [Calvin on Matthew 8:25–26](https://biblehub.com/commentaries/calvin/mark/4.htm) distinguishes the fear that overwhelms trust from every ordinary experience of fear, while the [US Catholic bishops' note on Mark 4:41](https://bible.usccb.org/bible/mark/4) also sees encouragement about Jesus' saving presence amid threats to His people."
+  ],
+  "god_plan_lines": [
+    "[Psalm 107:23–32](https://biblehub.com/bsb/psalms/107.htm) describes sailors overwhelmed by waves, crying to the LORD, and seeing Him still the storm. This is a striking scriptural parallel to Mark's scene. The power Scripture attributes to the LORD is displayed in Jesus' command, giving weight to the disciples' question about who He is.",
+    "",
+    "There is also a parallel with [Jonah 1:4–16](https://biblehub.com/bsb/jonah/1.htm): a storm, a sleeping figure, frightened sailors, and calm that leads to great fear of the LORD. The difference matters. Jonah is fleeing God's commission and is thrown into the sea; Jesus commands the sea Himself. The shared details make the difference stand out: Jonah needs God's rescue, while Jesus speaks and the storm obeys."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/4.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-four-closing-review.md"
+  }
+}

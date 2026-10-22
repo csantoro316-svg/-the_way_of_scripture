@@ -5,23 +5,54 @@
     "label": "Exodus 29:45-46",
     "slug": "exodus-29-45-46"
   },
-  "section_title": "God Will Dwell among the People",
+  "section_title": "Why did God bring Israel out of Egypt?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "45 Then I will dwell among the Israelites and be their God. 46 And they will know that I am the LORD their God, who brought them out of the land of Egypt so that I might dwell among them.",
-        "I am the LORD their God."
+        "45 Then I will dwell among the Israelites and be their God. 46 And they will know that I am the LORD their God, who brought them out of the land of Egypt so that I might dwell among them. I am the LORD their God."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 29**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "These closing words state the purpose behind the sanctuary and priesthood instructions: God will dwell among Israel and be their God. He identifies Himself as the LORD who brought them out of Egypt so that He might dwell among them.",
+    "",
+    "Rescue from slavery leads to life with the God who rescued them. The sacrifices, priesthood and sanctuary serve that covenant relationship. Israel is to know who He is through His presence and dealings with them."
   ],
   "common_interpretation_lines": [
-    "A common reading of **God Will Dwell among the People** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 29** remains the first control on meaning."
+    "The main reading is shared: God’s deliverance and His dwelling among the people belong together. [Calvin](https://biblehub.com/commentaries/calvin/exodus/29.htm) emphasizes that God is not a deliverer on just one occasion; He continues to care for His people, with the sanctuary serving as a sign of His presence. The promise explains the purpose of the instructions that precede it."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The New Testament carries this purpose forward through Christ and His people. [John 1:14–18](https://biblehub.com/bsb/john/1.htm) describes the Word becoming flesh and dwelling among us, revealing God’s glory. [Ephesians 2:19–22](https://biblehub.com/bsb/ephesians/2.htm) then describes people joined in Christ as a dwelling for God through His Spirit.",
+    "",
+    "The final vision in [Revelation 21:1–4](https://biblehub.com/bsb/revelation/21.htm) announces God dwelling with His people, with death, mourning and pain removed. The promise in Exodus contributes to that larger biblical story: God rescues a people to live with Him, and His purpose reaches its fullness in a renewed creation."
+  ],
+  "current_position_lines": [
+    "As explained in [The True Church According to Jesus](https://thewayofscripture.com/studies/true-church.html), God now dwells in His people through His Spirit. The study connects His presence in the tabernacle with His indwelling in believers and calls for lives made holy by that presence."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/29.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-twenty-nine-review.md",
+    "position_source_detail": "The True Church According to Jesus, We Are the Temple, content/studies/true_church.md:43–47; explicit tabernacle/Spirit-indwelling application, as in Ex25:1–9."
+  }
 }

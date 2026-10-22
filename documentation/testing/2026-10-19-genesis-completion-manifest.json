@@ -1,0 +1,1689 @@
+{
+  "groups": 136,
+  "chapters": 50,
+  "verses": 1533,
+  "positions": {
+    "none": 124,
+    "existing-study": 12
+  },
+  "plans": {
+    "included": 119,
+    "omitted": 17
+  },
+  "chapter_coverage": [
+    {
+      "chapter": 1,
+      "verses": 31,
+      "groups": 1,
+      "missing": []
+    },
+    {
+      "chapter": 2,
+      "verses": 25,
+      "groups": 2,
+      "missing": []
+    },
+    {
+      "chapter": 3,
+      "verses": 24,
+      "groups": 5,
+      "missing": []
+    },
+    {
+      "chapter": 4,
+      "verses": 26,
+      "groups": 3,
+      "missing": []
+    },
+    {
+      "chapter": 5,
+      "verses": 32,
+      "groups": 3,
+      "missing": []
+    },
+    {
+      "chapter": 6,
+      "verses": 22,
+      "groups": 3,
+      "missing": []
+    },
+    {
+      "chapter": 7,
+      "verses": 24,
+      "groups": 1,
+      "missing": []
+    },
+    {
+      "chapter": 8,
+      "verses": 22,
+      "groups": 4,
+      "missing": []
+    },
+    {
+      "chapter": 9,
+      "verses": 29,
+      "groups": 3,
+      "missing": []
+    },
+    {
+      "chapter": 10,
+      "verses": 32,
+      "groups": 1,
+      "missing": []
+    },
+    {
+      "chapter": 11,
+      "verses": 32,
+      "groups": 3,
+      "missing": []
+    },
+    {
+      "chapter": 12,
+      "verses": 20,
+      "groups": 2,
+      "missing": []
+    },
+    {
+      "chapter": 13,
+      "verses": 18,
+      "groups": 3,
+      "missing": []
+    },
+    {
+      "chapter": 14,
+      "verses": 24,
+      "groups": 3,
+      "missing": []
+    },
+    {
+      "chapter": 15,
+      "verses": 21,
+      "groups": 2,
+      "missing": []
+    },
+    {
+      "chapter": 16,
+      "verses": 16,
+      "groups": 1,
+      "missing": []
+    },
+    {
+      "chapter": 17,
+      "verses": 27,
+      "groups": 2,
+      "missing": []
+    },
+    {
+      "chapter": 18,
+      "verses": 33,
+      "groups": 3,
+      "missing": []
+    },
+    {
+      "chapter": 19,
+      "verses": 38,
+      "groups": 4,
+      "missing": []
+    },
+    {
+      "chapter": 20,
+      "verses": 18,
+      "groups": 1,
+      "missing": []
+    },
+    {
+      "chapter": 21,
+      "verses": 34,
+      "groups": 3,
+      "missing": []
+    },
+    {
+      "chapter": 22,
+      "verses": 24,
+      "groups": 4,
+      "missing": []
+    },
+    {
+      "chapter": 23,
+      "verses": 20,
+      "groups": 1,
+      "missing": []
+    },
+    {
+      "chapter": 24,
+      "verses": 67,
+      "groups": 3,
+      "missing": []
+    },
+    {
+      "chapter": 25,
+      "verses": 34,
+      "groups": 5,
+      "missing": []
+    },
+    {
+      "chapter": 26,
+      "verses": 35,
+      "groups": 5,
+      "missing": []
+    },
+    {
+      "chapter": 27,
+      "verses": 46,
+      "groups": 2,
+      "missing": []
+    },
+    {
+      "chapter": 28,
+      "verses": 22,
+      "groups": 4,
+      "missing": []
+    },
+    {
+      "chapter": 29,
+      "verses": 35,
+      "groups": 3,
+      "missing": []
+    },
+    {
+      "chapter": 30,
+      "verses": 43,
+      "groups": 5,
+      "missing": []
+    },
+    {
+      "chapter": 31,
+      "verses": 55,
+      "groups": 3,
+      "missing": []
+    },
+    {
+      "chapter": 32,
+      "verses": 32,
+      "groups": 2,
+      "missing": []
+    },
+    {
+      "chapter": 33,
+      "verses": 20,
+      "groups": 2,
+      "missing": []
+    },
+    {
+      "chapter": 34,
+      "verses": 31,
+      "groups": 2,
+      "missing": []
+    },
+    {
+      "chapter": 35,
+      "verses": 29,
+      "groups": 4,
+      "missing": []
+    },
+    {
+      "chapter": 36,
+      "verses": 43,
+      "groups": 3,
+      "missing": []
+    },
+    {
+      "chapter": 37,
+      "verses": 36,
+      "groups": 3,
+      "missing": []
+    },
+    {
+      "chapter": 38,
+      "verses": 30,
+      "groups": 2,
+      "missing": []
+    },
+    {
+      "chapter": 39,
+      "verses": 23,
+      "groups": 2,
+      "missing": []
+    },
+    {
+      "chapter": 40,
+      "verses": 23,
+      "groups": 1,
+      "missing": []
+    },
+    {
+      "chapter": 41,
+      "verses": 57,
+      "groups": 5,
+      "missing": []
+    },
+    {
+      "chapter": 42,
+      "verses": 38,
+      "groups": 2,
+      "missing": []
+    },
+    {
+      "chapter": 43,
+      "verses": 34,
+      "groups": 2,
+      "missing": []
+    },
+    {
+      "chapter": 44,
+      "verses": 34,
+      "groups": 2,
+      "missing": []
+    },
+    {
+      "chapter": 45,
+      "verses": 28,
+      "groups": 4,
+      "missing": []
+    },
+    {
+      "chapter": 46,
+      "verses": 34,
+      "groups": 3,
+      "missing": []
+    },
+    {
+      "chapter": 47,
+      "verses": 31,
+      "groups": 3,
+      "missing": []
+    },
+    {
+      "chapter": 48,
+      "verses": 22,
+      "groups": 1,
+      "missing": []
+    },
+    {
+      "chapter": 49,
+      "verses": 33,
+      "groups": 2,
+      "missing": []
+    },
+    {
+      "chapter": 50,
+      "verses": 26,
+      "groups": 3,
+      "missing": []
+    }
+  ],
+  "quotations": [
+    {
+      "slug": "genesis-1-1-31",
+      "sha256": "ba56e8d9dd3a91974058257795b057a7c8af6128369d87ea8462609ecc9fba66",
+      "source_sha256": "9884f01e30fc48ac9c7821a8e24e8647c47a7050ba8d2c0eb79cd5091dcbea37",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-opening-editorial-review.md"
+    },
+    {
+      "slug": "genesis-2-1-3",
+      "sha256": "ca50884fa49785db13e41fcf3afbe027a538268596434999b57f52a49cea6d3a",
+      "source_sha256": "c4e8fc7ed4b06912845f776363a9a86a29b0033f5d0cdc132e7b1c4351e97c1a",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-opening-editorial-review.md"
+    },
+    {
+      "slug": "genesis-2-4-25",
+      "sha256": "f3bb8092fce1e690f4b3d7ab614275c2a7b16c81087fe80ed6ed0d57fd1069c4",
+      "source_sha256": "baf7aaa70fe301af7d77db63fd3549390baa24efb7db6b6aaf04029a2c8e2998",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-garden-and-fall-review.md"
+    },
+    {
+      "slug": "genesis-3-1-7",
+      "sha256": "24cc9bb5d95524bbf64abd9d5b4409862c4b06e10dbbed037b21a59f5ce9e9b0",
+      "source_sha256": "a150ca4c908723cb49749139f8fe8effc99be4f063019d0149911041dbb2ae91",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-garden-and-fall-review.md"
+    },
+    {
+      "slug": "genesis-3-8-13",
+      "sha256": "4590e558f90b0abcc220df989d3873a60407956af32161c49c0be9e64783ea46",
+      "source_sha256": "8e89eeee31c1d1c55a08cb53387c23e0be45896840e707ce158651db67ae77f9",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-garden-and-fall-review.md"
+    },
+    {
+      "slug": "genesis-3-14-15",
+      "sha256": "2b104d4af597e995f5b9be680af8c9fddedc499957eb42b40abb414b3e73c0c2",
+      "source_sha256": "400941776613e26f6c8c1b32d024fab76ea4cc23ebf7421993a6d9b967600b24",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-garden-and-fall-review.md"
+    },
+    {
+      "slug": "genesis-3-16-20",
+      "sha256": "3a7b431f4555bb0d03de52bece0d93677ab450ac33e5bb823fa3eab11c05b8a2",
+      "source_sha256": "4cee55e75dd3e6c83ef1b902f420537cce5dfe2d70a1799357ec6dbda95842f5",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-garden-and-fall-review.md"
+    },
+    {
+      "slug": "genesis-3-21-24",
+      "sha256": "05f378dc5f6dc3da067746852e9b585f5b9c65379a3032c350d8ce0dee00b482",
+      "source_sha256": "c4ca78793ec61974ee43137ae99d793ee9c51915303624148dd340e78b99867d",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-garden-and-fall-review.md"
+    },
+    {
+      "slug": "genesis-4-1-16",
+      "sha256": "78eff803b6ced2c0c19ec5507311d48454dafc172ecf277d872dbfbe65e71999",
+      "source_sha256": "840cb6dba5671ae65333184041fef871bd511d16403d1cfb6e159d52fd1dec8f",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-cain-to-noah-review.md"
+    },
+    {
+      "slug": "genesis-4-17-24",
+      "sha256": "a775ab312b3a5af43db1ea27065756bc9499363194377ae562fde2f01157e22a",
+      "source_sha256": "74651d7911e914f6b1ad496b71870d0c95a64082705c069f37e23299a6f835f9",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-cain-to-noah-review.md"
+    },
+    {
+      "slug": "genesis-4-25-26",
+      "sha256": "3b9afa0c899cd8c18c7ff702a414d2cb5890509e71ba24b607082fa53e5d2d46",
+      "source_sha256": "dbc836d2440e260b96ae53013e5675280cc33a824e22a6f1850994ef34af7f8b",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-cain-to-noah-review.md"
+    },
+    {
+      "slug": "genesis-5-1-17",
+      "sha256": "48afec12fb3d4b02e1c0d4360dd333bd3bad706c859112b0057ccd59b74e750f",
+      "source_sha256": "4a19a3dfcac478113a32d9f84654d29766b84db5b31e2a6025e1ec35524c52ed",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-cain-to-noah-review.md"
+    },
+    {
+      "slug": "genesis-5-18-24",
+      "sha256": "1b34070236ebc2fc414962fae5316a371a09c0f912bb9b76be273221a121e434",
+      "source_sha256": "d9a809dea722a46aff825a6d153680812f81e6abbe45f031bf18e320f7f606f7",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-cain-to-noah-review.md"
+    },
+    {
+      "slug": "genesis-5-25-32",
+      "sha256": "5f6a0aa850c324cc574174277ea593f2190bc4d17b9395a648d745b749154f42",
+      "source_sha256": "a1ebe40cd3bdef322cb7bc278b16d1239c8482466e4be700ad030cdde67a2fd0",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-cain-to-noah-review.md"
+    },
+    {
+      "slug": "genesis-6-1-7",
+      "sha256": "3b7468b9ada14def487b21d54915a7e7c0bbfe1311d4938b5b745b8682ec1338",
+      "source_sha256": "992574ffa99ab50ac3ae25683946ee6bb5c66c858fa2f500709e184c5806e9da",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-noah-and-covenant-review.md"
+    },
+    {
+      "slug": "genesis-6-8-12",
+      "sha256": "a7b82d05c60aa8b1e4a5902b4bd15b16cd0157c3b7890397b80396f285d82188",
+      "source_sha256": "2b60836aa2cfc8de685cdbef48798a65a28ba789c2e80de42b541193233f1150",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-noah-and-covenant-review.md"
+    },
+    {
+      "slug": "genesis-6-13-22",
+      "sha256": "088f5b2a7305af2f6346a275437f3ce8a666de8abac0c8e3e5292a5a1d0a9128",
+      "source_sha256": "3ad627744a337f57ba90e1090483530e2c34053561bb9a43eaad7882a87515c2",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-noah-and-covenant-review.md"
+    },
+    {
+      "slug": "genesis-7-1-24",
+      "sha256": "05db2cdda196622c27f9c0d691bdf45b413f24e19fc8d58602ad1a3907bee487",
+      "source_sha256": "552434f6a550c1de1d874e24c82aa751b45f967bdabe85d2a2b903530e58a720",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-noah-and-covenant-review.md"
+    },
+    {
+      "slug": "genesis-8-1-5",
+      "sha256": "1f1dcc5c36fa7f16ece0e23a740d937a1f0991e59460825ef763f6bb1513dee5",
+      "source_sha256": "5d39a418db9631f6cf2cb0413e0017705de8ae66071f550b2f1fcf704f030cfa",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-noah-and-covenant-review.md"
+    },
+    {
+      "slug": "genesis-8-6-12",
+      "sha256": "9cab5b6651508b5027f17d8373d2cd3fef65a97d33aa2076dc8ff19f3531941e",
+      "source_sha256": "f8fc19e54135bb041703fd723325d3aea869cc6816c14b8ee03cd6a568ce420d",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-noah-and-covenant-review.md"
+    },
+    {
+      "slug": "genesis-8-13-19",
+      "sha256": "327c3135531d78c0f1c8fd67b5c201f01b72fe8f194b45f46808a727ffb4bb9e",
+      "source_sha256": "3f80485f1b464870ca909a96c7bf9c16581c8434bf2a304fdf2787bdf11a00cb",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-noah-and-covenant-review.md"
+    },
+    {
+      "slug": "genesis-8-20-22",
+      "sha256": "5a1aa8636933e44b51c5c93b0882667c628077c2e763d6c4e395ecfe68711a30",
+      "source_sha256": "8ba67bdf1c8d52b7ab3d7d6489edfae3588a6e31eaee840557d192093f69ec65",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-noah-and-covenant-review.md"
+    },
+    {
+      "slug": "genesis-9-1-17",
+      "sha256": "c0c93e5d188b5d17098171081a5494c56a4af1b3fb044887a2a66783bb3b10e9",
+      "source_sha256": "3c7abbb9e2dcbc5fa3b7dd2b69e62aacae719aba88291f49f8f9324286a602a4",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-noah-and-covenant-review.md"
+    },
+    {
+      "slug": "genesis-9-18-25",
+      "sha256": "39c08753bfa8fa7d030ac5f1e62df20d5ae3c278b9fef2a7d565ae830081ae06",
+      "source_sha256": "48bdaecb261c14eb9429fcb224c515373b36027b9c1abfde8e1f0bd9299a09a5",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-noah-and-covenant-review.md"
+    },
+    {
+      "slug": "genesis-9-26-29",
+      "sha256": "2807aff4a5bd1d4b7ae568122b23aa644d3259ed26edf9d17d4bfd6be345598a",
+      "source_sha256": "34cbbb9e76ea1f84fc629814d0210cd79b3c52779d8d3997619a45d266102d61",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-noah-and-covenant-review.md"
+    },
+    {
+      "slug": "genesis-10-1-32",
+      "sha256": "9af4e532cab3c8e841344ac2f514c04075fad949afb76477e7e9c55afab598b5",
+      "source_sha256": "321ff0fa6421c2a77d8c68ebe5328d5ea58ac1c0ac3d1abf7974d773b45b8bd4",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-nations-and-babel-review.md"
+    },
+    {
+      "slug": "genesis-11-1-9",
+      "sha256": "a026532f1c9eb475d12beb82a4b24ec4f2d8ef8ecc043a99eb3e89c0358eb619",
+      "source_sha256": "0c5d92a441cc38ca90f432e32d1f60a5fae2021194afc9409665a5f33779024d",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-nations-and-babel-review.md"
+    },
+    {
+      "slug": "genesis-11-10-26",
+      "sha256": "5d7f922a64d863fbed7f236d95f5ee0abedd495810f6001af1c0e1e1b7b8b9a3",
+      "source_sha256": "9b49683e050da5d394880eac6f5eb29304b73cf9162319c63de996a847e4d21b",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-nations-and-babel-review.md"
+    },
+    {
+      "slug": "genesis-11-27-32",
+      "sha256": "172000f391eacd31bf36306e2bc23dd42684d71e462daee4d0d50002f8e782f7",
+      "source_sha256": "64481b16848507660a9f42dbd9daaf3834af86ee07a84ee2aef217419d2a0380",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-nations-and-babel-review.md"
+    },
+    {
+      "slug": "genesis-12-1-9",
+      "sha256": "81b728055d22b0fd4e6f62ca41930abbb244fc281914e622c7021c0f18f9b65c",
+      "source_sha256": "5c7b8f81f065d7b187a28c87930957e513279d4fdaf95f0d7913292380616429",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-call-and-separation-review.md"
+    },
+    {
+      "slug": "genesis-12-10-20",
+      "sha256": "883b6bc63aded384737a683e150be573eb743b56390d31e977732dfb043fd809",
+      "source_sha256": "593eb68740a3a6e7c297846432f1757f59f1b328b8f80bb74ac336e5a628dff6",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-call-and-separation-review.md"
+    },
+    {
+      "slug": "genesis-13-1-9",
+      "sha256": "f82a50eea3b268150e88fdf70bafca90919574ef9d183f5f90a7284521c9f15f",
+      "source_sha256": "00d6adf317da2db8a710f793635451333e25cece6e0dda0a178eb9fa676dc184",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-call-and-separation-review.md"
+    },
+    {
+      "slug": "genesis-13-10-13",
+      "sha256": "5284dd8b06c9e2761ffae0bb4382ec249ea8d3e04f772db1038bb0fd0387cf17",
+      "source_sha256": "9779f9afcf04b91e314d4ed32573aecbc11243e7dec4ba8cfa415e3f9eca6c7e",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-call-and-separation-review.md"
+    },
+    {
+      "slug": "genesis-13-14-18",
+      "sha256": "4d95fc20cb819109a76bd9990ba8618c13469920dd298e1f30124a328202536f",
+      "source_sha256": "fb230c37f18b58c0e5a35317ace4fd262181649584e2f42ab489537ce2dc152c",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-call-and-separation-review.md"
+    },
+    {
+      "slug": "genesis-14-1-9",
+      "sha256": "575dc8c6e267f19dbef8ae63d55ac3f1ffe7e3c97ce9a15aa444f64b08b82007",
+      "source_sha256": "43a5d508115eb28e1f1ef8369dcb391a9725ed5d42d9c0d73057041c194299c3",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-rescue-and-covenant-review.md"
+    },
+    {
+      "slug": "genesis-14-10-16",
+      "sha256": "fce91f0d56c0ac65311a961adc3baee56ac7583ac0afd5d67622a7a1c4163263",
+      "source_sha256": "e325a610d0d9d01bd3cd037b8e5a88f59322d21285569739fe8c4e34b6abe010",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-rescue-and-covenant-review.md"
+    },
+    {
+      "slug": "genesis-14-17-24",
+      "sha256": "1b74d71cea599b2e127615a162c30cb24d84937768d563da9338b8fd999a887a",
+      "source_sha256": "65890c07f3168fc96f23ddeb7bb197deba0e5b9e2a126bccf38761a99b92d1ac",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-rescue-and-covenant-review.md"
+    },
+    {
+      "slug": "genesis-15-1-7",
+      "sha256": "d8280cd6e52a9ae5f0a949891f0287f40bf059a9773a66fee720ef8537b9a1e8",
+      "source_sha256": "1e646fa3f83a3a3bb5f1848a0e7fa262dd4a670534c9559e08f3b7592a4ee886",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-rescue-and-covenant-review.md"
+    },
+    {
+      "slug": "genesis-15-8-21",
+      "sha256": "cd1be80395024a7110ca9a0dc24212dbe094e79d84cf8e79514950b31fd30c0e",
+      "source_sha256": "e612d345d1ab535c3946602c97abfb7464ffd7b2243a17974c57599af82e3640",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-rescue-and-covenant-review.md"
+    },
+    {
+      "slug": "genesis-16-1-16",
+      "sha256": "52d4a335b997f27fb4c18e38dd9446ce0bf92460a50394a8df6a69f5fc8d6251",
+      "source_sha256": "801f43b3c8e20d4cf4b17a66c56ee384633743a8d60832a05c8177a719e54567",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-hagar-sign-and-visitors-review.md"
+    },
+    {
+      "slug": "genesis-17-1-8",
+      "sha256": "250f132b1621a4f47bbb3af22a97ac34311a04706d873eec574e6943c9179c7f",
+      "source_sha256": "62c0beab63bbedddb4a32cd21d8bdfb4b0ec2f8ce7d8f91c5f6a02384731c29f",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-hagar-sign-and-visitors-review.md"
+    },
+    {
+      "slug": "genesis-17-9-27",
+      "sha256": "fa86f31301330b88d94acc83d2fd42a2188f4e80cff5a1efa2e35a65910c0aad",
+      "source_sha256": "28bbc3b80f97bbabcd9db17e48473756fdb146362004ed0eb52ecafd20b0b9a6",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-hagar-sign-and-visitors-review.md"
+    },
+    {
+      "slug": "genesis-18-1-8",
+      "sha256": "9203efa5305b1c380bd9cf87a1fe4878a944761c9394a7d1ba09241ac5caa068",
+      "source_sha256": "552bc9099065a8f8fb48ddc9d1a092d80d8a8cf54659fa82749cd046e85b9a52",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-hagar-sign-and-visitors-review.md"
+    },
+    {
+      "slug": "genesis-18-9-15",
+      "sha256": "e38d76b5160b1846f73e5a797f29cb79293cda7a853355b676ce2d331f396c03",
+      "source_sha256": "88309a36f7988947796d13c6073cfe195074d8418685bbabdb70f36e9fad8776",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-hagar-sign-and-visitors-review.md"
+    },
+    {
+      "slug": "genesis-18-16-33",
+      "sha256": "930c62890f514ea9dc0d0d97e8ace806292d346e1ce0d116d4c51bdc4af9598b",
+      "source_sha256": "107ad2eaf59b766da272fd8fa9784465039bd79ce222f1eaa1498eca8b41e3f8",
+      "evidence_file": "documentation/testing/2026-10-18-genesis-hagar-sign-and-visitors-review.md"
+    },
+    {
+      "slug": "genesis-19-1-11",
+      "sha256": "e69a82f6b013891e0223aceb3184660a76ebad5c04a5c94f6f59ce90582d82ae",
+      "source_sha256": "bf75498467c6e4e9606a68427ede4274b0bb835baa6cf8ee2c62b19f2728c619",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-lot-and-isaac-review.md"
+    },
+    {
+      "slug": "genesis-19-12-23",
+      "sha256": "89c06439705ff0383ba2f76aab17879550c73bbf4619f21bee9bb7086dc8cd59",
+      "source_sha256": "c8f3017b42796821660268d178c6a19ee814c7740c572035f95abb37e6ca2a04",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-lot-and-isaac-review.md"
+    },
+    {
+      "slug": "genesis-19-24-29",
+      "sha256": "d88a88e78bc8ad7c125aa40078f8f6163f9e983f4211bfdeec4efb63f0e04b83",
+      "source_sha256": "c329eb649f140fa025f8586fccc2b3e817172951c8cc1f9aa13775b7892d6a5e",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-lot-and-isaac-review.md"
+    },
+    {
+      "slug": "genesis-19-30-38",
+      "sha256": "3fda3afc0a7af9d4c01f54a9e8c5a001cb8bf66bbdde4ec42897f07743b3186f",
+      "source_sha256": "582fcf018238d35948a1bf27f3288df6b92ae4f8d43268e8ffeaa09434c51e7e",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-lot-and-isaac-review.md"
+    },
+    {
+      "slug": "genesis-20-1-18",
+      "sha256": "14a4bddf4b98629a456e4cda5ffc6f02f367ca21097d0e5172ce2bceb6cac6fc",
+      "source_sha256": "d7c844e3cc19c8171ec1789dc14922d2cd789ce7272ec2c0439f91b3762e5b5b",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-lot-and-isaac-review.md"
+    },
+    {
+      "slug": "genesis-21-1-8",
+      "sha256": "160f8f6fd9b4d9ccc250073df6e8989ba8a1d4abf2dc6ccf21cbfac9b9089c04",
+      "source_sha256": "bb82ea678e5e86274159973d40455fce091ca6e7e7ae9ac62bdb1b9308abcf2a",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-lot-and-isaac-review.md"
+    },
+    {
+      "slug": "genesis-21-9-21",
+      "sha256": "55b51189a4d0047b08f132098fbfdb51254ab48b3d1c97521a52ab287bcb48e4",
+      "source_sha256": "a9fb4a70a233937a52fcee0703699dc9aaf77bf6ab819c1d0ba97a9a3f8b42d6",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-lot-and-isaac-review.md"
+    },
+    {
+      "slug": "genesis-21-22-34",
+      "sha256": "ad17d8ea8efe4cbc6c5ec3687bdc889e3147b32d1eccd8d28b58780bd4bdb1bf",
+      "source_sha256": "b4c0c1f549222f8e54beff8723a10e3ae5bd72fa1209927d7557870a9bdef8f3",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-lot-and-isaac-review.md"
+    },
+    {
+      "slug": "genesis-22-1-10",
+      "sha256": "611da2ddc861e64f592d56303e4b5b9c33076bcf4b7dde98bfc986e0b94b1b42",
+      "source_sha256": "cf3a8c117dfc24223730e9c99aa457cab273bc2a24a59671f3c315e2bd0e1bdb",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-moriah-and-rebekah-review.md"
+    },
+    {
+      "slug": "genesis-22-1-18",
+      "sha256": "20cf1ebe162b7e05bff00d134468b81b0467288da21151b0e4c8415596550c05",
+      "source_sha256": "bd69be4d332456602515b682a746898ef7b1365b293fd942d2c26bdea38a8491",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-moriah-and-rebekah-review.md"
+    },
+    {
+      "slug": "genesis-22-11-19",
+      "sha256": "aaf09f9cb6801e211a9e58f1762c1744e27ef0754527bb56b0925f011f1c6bbd",
+      "source_sha256": "d7969a1a283a6ed79fbda7f81b19a4713cad81eebaca42cc25eedbd7669a0325",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-moriah-and-rebekah-review.md"
+    },
+    {
+      "slug": "genesis-22-20-24",
+      "sha256": "9b0d4ca7db6a1936e451c78a080957bdbd13318dd8835cf9230ec11f29fdc45f",
+      "source_sha256": "dd87b41151dfed51a420fe9d564513c625404f12245115ec50705d7917cc7ff1",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-moriah-and-rebekah-review.md"
+    },
+    {
+      "slug": "genesis-23-1-20",
+      "sha256": "0b01f4cc0ce037ef0d21b3858dfb0c573fc92baefb1f71197f1f0a6d7108a455",
+      "source_sha256": "dc92364c8aafcc600bb0310b29c370861bce278c746aa2090322f9d3c7791e85",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-moriah-and-rebekah-review.md"
+    },
+    {
+      "slug": "genesis-24-1-14",
+      "sha256": "295e549ac7e4b665ff9ba82a3a60ddf88c4daba4b8aa667aa3cc7700325ce54c",
+      "source_sha256": "58b7cd358534ae0eacb58eddfb6a6bee5289754d5c422fc376caa9bb7e60c76a",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-moriah-and-rebekah-review.md"
+    },
+    {
+      "slug": "genesis-24-15-61",
+      "sha256": "4a81724e7f1c676a44a590355538af4772a8c9e1683f89fdaa60fc84b4bc44f8",
+      "source_sha256": "e5ebdf1b38fdc7d4d521454c0c95b4fb8e9a62332e3e01480a2eed8c33a7c777",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-moriah-and-rebekah-review.md"
+    },
+    {
+      "slug": "genesis-24-62-67",
+      "sha256": "cea509c4a0ee0eb258213f009472d3f0477cb6d9117c10ece85f14c0e54327c0",
+      "source_sha256": "e9b95d246bdc3e418a7b5827aec649499b360e2c9fa5e04baa49aa9b37b8aae4",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-moriah-and-rebekah-review.md"
+    },
+    {
+      "slug": "genesis-25-1-6",
+      "sha256": "3cb6d287ed0bd5c9e370eb753c4b45889d78c0582b5d179533d9c0852bc9ee26",
+      "source_sha256": "ea83d549bcd53270cbb80ae517c3f27bd6f128377b8d00d471ab2bcfeaa15216",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-inheritance-and-twins-review.md"
+    },
+    {
+      "slug": "genesis-25-7-11",
+      "sha256": "5d8b42442fafb65940e450477256d17cc0ce724e798bb20283a4557556d9616e",
+      "source_sha256": "d4a10b25133f2be96889594d01475adc9e2b6130f360260898b954574073e96f",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-inheritance-and-twins-review.md"
+    },
+    {
+      "slug": "genesis-25-12-18",
+      "sha256": "e4618eb83def09e83228ce1c36c4d733f692b70241cb53ebd5a9a820b9091cc9",
+      "source_sha256": "fe0a41e45fcab0ea2718bfe4886b833d7a941d2a1a97cc0a5f12fb24f89b0c2d",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-inheritance-and-twins-review.md"
+    },
+    {
+      "slug": "genesis-25-19-28",
+      "sha256": "01949aae58d7db877de10c71536b6962b96e99646fba5119d239c0da4e702898",
+      "source_sha256": "57495f98aa0de5a3d0b572c67ece82d84e599e7df24d1919ac6fd6a968864342",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-inheritance-and-twins-review.md"
+    },
+    {
+      "slug": "genesis-25-29-34",
+      "sha256": "177e56755b0aea848173678c5a50a1e62af4f2143ed5dedda59595fc73e8e79e",
+      "source_sha256": "23e71ec9f4019e9763a2a4ccfb545a4ff3e0fea1a033a675d2bad2fd2f0c7c40",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-inheritance-and-twins-review.md"
+    },
+    {
+      "slug": "genesis-26-1-5",
+      "sha256": "999b26f10185561098e73beb5cfd45882296024c40c4289f22c580e3f8b348b0",
+      "source_sha256": "921b3602cac3d60927dcad86c499f702decd390d9d60e07185e535950cdbd12e",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-isaac-and-bethel-review.md"
+    },
+    {
+      "slug": "genesis-26-6-11",
+      "sha256": "a9e7ec171b6ace3beb4450a8ca889635b93d2086413db360d90ba88b7a73d9c7",
+      "source_sha256": "22560d6d504f5e67fd082f10ebbecb9cc38d018ccc3e0fb4c3712f9d6523b1a0",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-isaac-and-bethel-review.md"
+    },
+    {
+      "slug": "genesis-26-12-25",
+      "sha256": "67defe3d25aac00f775e1a5318694a70e8a56607520436130db88248b09a4e87",
+      "source_sha256": "84b4cd2c025cea80d7e77177aaca045ada18cb22c7fdaf1d454cd8b0fdf47f9e",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-isaac-and-bethel-review.md"
+    },
+    {
+      "slug": "genesis-26-26-33",
+      "sha256": "f67c05bd16e653ec095892689b962efc14d4e0817d1c8ae669bbdc12d4cb5602",
+      "source_sha256": "bdc4a95f71f2692b103b7bd22995e162bda5ed29b0bd0450bbd4a6a6b1ab4909",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-isaac-and-bethel-review.md"
+    },
+    {
+      "slug": "genesis-26-34-35",
+      "sha256": "d75b8bab6b2e087747f2371d48962c299d6bd330c2ae48405cd70726b8a6f5d3",
+      "source_sha256": "655d38c648c9c0ee3109ea5af329709e058c54f32b6a6d67fc329db172e1f742",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-isaac-and-bethel-review.md"
+    },
+    {
+      "slug": "genesis-27-1-29",
+      "sha256": "2da736a17867098a6368ca3776bff02d9105b4e8b06ee09ecc7a75590c1fe998",
+      "source_sha256": "450cb0101e4b07c119819dce7c846827d481702ba13ffbc56afd767e0af3df75",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-isaac-and-bethel-review.md"
+    },
+    {
+      "slug": "genesis-27-30-46",
+      "sha256": "1cf275f21dbc73e3d2abca12ee573aeaabf8b0b912653abdc42d54b5329932af",
+      "source_sha256": "1fdd3bdb2dd7d37f2c208dc8c5741897590d9d5bd5b6b04d759d6328f5fb87e0",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-isaac-and-bethel-review.md"
+    },
+    {
+      "slug": "genesis-28-1-5",
+      "sha256": "51939647e645b357ad427378308d159b8710547295430184221d2bb1cd112382",
+      "source_sha256": "f3c5cbe8c366960091624c7c397811e46bdbcc07c25b1510d91906aba2a96df0",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-isaac-and-bethel-review.md"
+    },
+    {
+      "slug": "genesis-28-6-9",
+      "sha256": "e3498756f1147c97e40b97182ba5c02be32b0c03c3b229672cfe1b575eae7c5f",
+      "source_sha256": "714dcdf23270c8b960a6cd31020559d0699fc4b2a6257843c77c631304c61f6f",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-isaac-and-bethel-review.md"
+    },
+    {
+      "slug": "genesis-28-10-17",
+      "sha256": "c478b93cdccaeeab00904c90eb06d8e891c52022783530a4a5b9f0c7e3e9f87e",
+      "source_sha256": "22eddad445a11decdc3e2ac960b57d5244f379259d9ea8805920420b40736a70",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-isaac-and-bethel-review.md"
+    },
+    {
+      "slug": "genesis-28-18-22",
+      "sha256": "e8d7804861a685269c165e731aa0805fb9814acb234bd0f788ceae41a720badc",
+      "source_sha256": "a4a433b7e454443979f598e4ffe5474710333010acb560e8c1bffb1e6970654b",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-isaac-and-bethel-review.md"
+    },
+    {
+      "slug": "genesis-29-1-13",
+      "sha256": "9a3ab2d3b11380d26f7d49930489ed6a81f8a66fc8612fcd303952c13983d8ea",
+      "source_sha256": "2163d64a7e505f0cdf843c2f85a1d36e540bbf3682243ec02a90e9e01ad65d86",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-jacob-household-review.md"
+    },
+    {
+      "slug": "genesis-29-14-30",
+      "sha256": "9d87517ee12189b60cdb4a78c12484371ecb4cbe130a2130c4883bd1b89e24f1",
+      "source_sha256": "482448e6dd0696a558fda0d003035800e41924162c1da61a9db92f39b9166170",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-jacob-household-review.md"
+    },
+    {
+      "slug": "genesis-29-31-35",
+      "sha256": "14ebfe0f31ee6cee77e9e07273a710254828ffb4e2f941440e016657939f99ef",
+      "source_sha256": "98019c3d691106f540af87942732bc298315255df26591384f987206d9c4f4ff",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-jacob-household-review.md"
+    },
+    {
+      "slug": "genesis-30-1-8",
+      "sha256": "74bc46469bf63e20b0abc7b4e7ea42c8054941cb9230c191af6ba83ae2baa8d1",
+      "source_sha256": "9d93586430e1e001e2dbcc956135c25307b6e5f27a7cd3ada5e2d55a3a62188b",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-jacob-household-review.md"
+    },
+    {
+      "slug": "genesis-30-9-16",
+      "sha256": "cf6262cb354f6cba49308484eda00d43adef2d41a8b485f91f1f52d2e78808c5",
+      "source_sha256": "2e464aa5572963464b7bd1823633cfb6816922dd027cbdae8923e11527390597",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-jacob-household-review.md"
+    },
+    {
+      "slug": "genesis-30-17-21",
+      "sha256": "73eeb70bd9b1e2c0e2ebe09ffa9916e3f18feadfeacb1b26b3e153c6b9c87622",
+      "source_sha256": "742e2012a6d088a0aea61e085aaec2fd43a00430ad300ca5dfa14755e6127cc0",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-jacob-household-review.md"
+    },
+    {
+      "slug": "genesis-30-22-24",
+      "sha256": "32c163081cee37f8be4bb8d6a0bcfbe4569c43452e102ade93297dc64654cee7",
+      "source_sha256": "b05e42463e6672ff0d818ccdf41b27c3a1b3527ff5481399b5013c889a7ac270",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-jacob-household-review.md"
+    },
+    {
+      "slug": "genesis-30-25-43",
+      "sha256": "f9789802456395347513a8b6b054b23553f7a43189a8be3e1ff175233a542450",
+      "source_sha256": "0101006e01e0f559f67442c6df7e4c268c0595d5f1f9a307b3a6435bb75774c7",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-jacob-household-review.md"
+    },
+    {
+      "slug": "genesis-31-1-21",
+      "sha256": "a795f3884cac533dd08507513496cf8b3fc07695db4307407b93dc3de5c3730e",
+      "source_sha256": "b1050fec3705e25c0e53261fb870f8b0ad51252492a0967a183195d4a386a928",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-jacob-household-review.md"
+    },
+    {
+      "slug": "genesis-31-22-42",
+      "sha256": "13e272dabbf1bc67b3fb691100a024570a5b5a9ca2567c3f4a47b437a35b2c1c",
+      "source_sha256": "8e97b55589071a834ca5bb9bfd07e7af0e55ed656f6f7a6059144a3728ce58af",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-jacob-household-review.md"
+    },
+    {
+      "slug": "genesis-31-43-55",
+      "sha256": "61e53458200a0e06cc71f68432e8387cc40107fbab7e2c4d613f9b641669df04",
+      "source_sha256": "991652130dfeaf761eed0a1082fc941e8adf9fc8c6fa8c25caed78f94b4c3b32",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-jacob-household-review.md"
+    },
+    {
+      "slug": "genesis-32-1-21",
+      "sha256": "e2a9a9cd9a5fa0afe74d0099851b712cd8fd899e9fd57341122b821e43c6c31f",
+      "source_sha256": "5332648af4bec4d5eab3061e26d50be73cfddd594e3afa69cfdd90e436ae04e9",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-return-and-reckoning-review.md"
+    },
+    {
+      "slug": "genesis-32-22-32",
+      "sha256": "b4415477d818ec37f01a26e4c4d2263bdc688330c803f0b5e835be4a17f76df6",
+      "source_sha256": "ba3cfcad588320e8881df47db9f4228f11544be15dafcfe893ca97b7612664da",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-return-and-reckoning-review.md"
+    },
+    {
+      "slug": "genesis-33-1-17",
+      "sha256": "da19f56a5a9e92a029910edb9e8739acddc445aa062d6af7befea57e9698e6aa",
+      "source_sha256": "50ef5c4d698569b768f382426909a6f4d956bd6d371e1defe6065c37c3c84037",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-return-and-reckoning-review.md"
+    },
+    {
+      "slug": "genesis-33-18-20",
+      "sha256": "891f1fc49cfc715dc40eeb06b9ce067f5444aed43e2bd9055c94cf023d31826d",
+      "source_sha256": "743919f3d8fbeaa223a6b2fbe2020afd97ba5fc6efd4e66569c92c1eb82e4773",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-return-and-reckoning-review.md"
+    },
+    {
+      "slug": "genesis-34-1-12",
+      "sha256": "9768ab1711214e99524542f5cb91f225d215f78ce0d598df3478c5dae2a30c85",
+      "source_sha256": "b24e58596065b9377918f4ce874c599d2e3d041b385d2f46cc74588f217c379b",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-return-and-reckoning-review.md"
+    },
+    {
+      "slug": "genesis-34-13-31",
+      "sha256": "ba61b00e6f2180f0b3ca591c314b1d672be2d1ca436ca4fe3f30d9a509fd29ba",
+      "source_sha256": "71396f07073d27fb3a29395277af0665c300bc86904496a3caa4ee3dca42420c",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-return-and-reckoning-review.md"
+    },
+    {
+      "slug": "genesis-35-1-15",
+      "sha256": "4a033915fc4c614b9a7a3d012d03622dbacbd1fda4173163a7b6af79e2fa3846",
+      "source_sha256": "844704d58d4b76c66558c61f262f680faf373ca2a90fc262b6de3588e01ce0d1",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-return-and-reckoning-review.md"
+    },
+    {
+      "slug": "genesis-35-16-20",
+      "sha256": "a878bb060f2c4f998b2814bb2b176b11f65c24781a65a084a86731ce663bf8e8",
+      "source_sha256": "2c51877e1e5101dce0caaa2b209b05776766c08065cf5b85a3c3cfdaa2b65849",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-return-and-reckoning-review.md"
+    },
+    {
+      "slug": "genesis-35-21-26",
+      "sha256": "c7804499c183c9b74b223f05f5355ecdd677bb0af10e12fb323731e8f3bda702",
+      "source_sha256": "824cc897745aeeac6508fb1b57232f327da8213d673b769bc7b881c0e25d00dd",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-return-and-reckoning-review.md"
+    },
+    {
+      "slug": "genesis-35-27-29",
+      "sha256": "ea678b6321d627e10ed11feb04e8046eda679af0d1dd66b12a94354d93c11288",
+      "source_sha256": "d9819a6cfb2a46064e3d890f97035306fe99d2afabad39736ca6055cab66b6ad",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-return-and-reckoning-review.md"
+    },
+    {
+      "slug": "genesis-36-1-19",
+      "sha256": "980e513cd8887b3db3cc2825042a44d11ce31361448d5742eb7016103e3db89c",
+      "source_sha256": "8411c98bbd55ec2c4140638fbec4dca54721d1554a7859bd3ca145d24b4fe912",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-judah-and-joseph-review.md"
+    },
+    {
+      "slug": "genesis-36-20-30",
+      "sha256": "100c8a4decab35621c13d24258a4e736ac1a03002c84e38edbe51f68d7d1dd9e",
+      "source_sha256": "60e707838f41df01523e9fd29ab85a68be13b0dc4d0d3945a9ad31ed6af15cf0",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-judah-and-joseph-review.md"
+    },
+    {
+      "slug": "genesis-36-31-43",
+      "sha256": "6d7c714ab83cf4ea6c905fc3440c74ce01962ab03b6dfe63371cf0350b1422ca",
+      "source_sha256": "32161d6aa7b51f6567514c6b845bb2817d346315017f58d424799ef2205e0edc",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-judah-and-joseph-review.md"
+    },
+    {
+      "slug": "genesis-37-1-11",
+      "sha256": "37873472fd31b12783d90885a18e58afbfcb245867b5d31514af0c02dd974e3f",
+      "source_sha256": "3870843a36f24357d7378661a8f6002b280b653290a20f3172a016898e90bd83",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-judah-and-joseph-review.md"
+    },
+    {
+      "slug": "genesis-37-12-30",
+      "sha256": "d5bbccbc21962da927eb1303a7e2677085da9aa3f815e24be307f6e6050227e8",
+      "source_sha256": "78c64f681ef0a62238d691934a979632179cbf34b4a10507f4924886e74fa2f0",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-judah-and-joseph-review.md"
+    },
+    {
+      "slug": "genesis-37-31-36",
+      "sha256": "33577b5530d88e23248d66e94c5a9136621837b264e701fce425a6899b547860",
+      "source_sha256": "d2c7c0361f20b38e10ced7dc7a2bc025edf40974025aac8d67d4723b27819840",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-judah-and-joseph-review.md"
+    },
+    {
+      "slug": "genesis-38-1-26",
+      "sha256": "fc14917c6f444e66342e45fafbabdaa4cac61c93c8a7cd6894b120c379d40dfc",
+      "source_sha256": "f290041eafcaf4b1f92092342fe7aded1976c9cbd86e093c41b1ee460d751dd6",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-judah-and-joseph-review.md"
+    },
+    {
+      "slug": "genesis-38-27-30",
+      "sha256": "d553148f813a52361b29212c66d9a1ed735596e0480e7459f859b72bd801a22f",
+      "source_sha256": "9179f854184fded6dfb7103601d9705aeb9bfd559561ee7f987c4314f820b8a6",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-judah-and-joseph-review.md"
+    },
+    {
+      "slug": "genesis-39-1-12",
+      "sha256": "f48ebaeb79127e8166ecdf20b26162a8f054c99b5a2625f7288fab152bd2d0d3",
+      "source_sha256": "db774a4786d02513f76ea58ccc7be34e768687502b0a205d520f7497c09509b7",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-judah-and-joseph-review.md"
+    },
+    {
+      "slug": "genesis-39-13-23",
+      "sha256": "33de3c8777a3a0603265e3c0c5003973802137585b36eb3a91910b6abedd08c5",
+      "source_sha256": "ad7630eefadde025f6430404200139793a6a10d972a1cb7e943d86649cadcdae",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-judah-and-joseph-review.md"
+    },
+    {
+      "slug": "genesis-40-1-23",
+      "sha256": "f8a5c958007fe36453095ec71d89ca81987b441678a0c2ceaa3392f9cce7165a",
+      "source_sha256": "aacba0ef1ee1c6a741cd46a0b09fe9b4dbc2516ca1ea489328cf77f75f9bdad7",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-dreams-and-provision-review.md"
+    },
+    {
+      "slug": "genesis-41-1-13",
+      "sha256": "398950aa0eda4a5e3e60c4efda46de34dc54048c222e481caa677bf34fcaddb4",
+      "source_sha256": "b9d6801c5cdf25184a296ff0922718e99500127f3165e952e97e3c7f1e200cd0",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-dreams-and-provision-review.md"
+    },
+    {
+      "slug": "genesis-41-14-36",
+      "sha256": "9595f923fe76bd6638c621676f55846ff182dafeca3e905bfa2297ac5fc4f574",
+      "source_sha256": "12c548d84b841bafdc008ac36c4c25568449cd90ac754456bbf6911c19fb513f",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-dreams-and-provision-review.md"
+    },
+    {
+      "slug": "genesis-41-37-45",
+      "sha256": "6b8406e2e5ba20be24ad332a2ce4fd1dd281b13de97dd6ff6e2b67dd7dbfa2e7",
+      "source_sha256": "b24fffcd0a5653b1cfa0068168da42de2d479ad04d0c9009020d0fac4f9ab334",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-dreams-and-provision-review.md"
+    },
+    {
+      "slug": "genesis-41-46-52",
+      "sha256": "895ff69c7aa56b6c9408c18207680f3fe276fc8cb9b839f25d5c6b118748cc70",
+      "source_sha256": "a05b5c5dd71bff8e2fc64be920205d39fd52364968b7f049cc95306c95b7ac36",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-dreams-and-provision-review.md"
+    },
+    {
+      "slug": "genesis-41-53-57",
+      "sha256": "e11c7602dc0616d1bce3624e89663a80b230bc6271ef98f9ab3efb9627c6823f",
+      "source_sha256": "acf49932ab1955920ab33428924d9ffb99f8bccd29eeae76921b2317534f8f41",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-dreams-and-provision-review.md"
+    },
+    {
+      "slug": "genesis-42-1-24",
+      "sha256": "3b3ff013f33fd7ffe8492448b48068fc40485914a2b92c62cf18809ad168214f",
+      "source_sha256": "747984dc47f45d080f20ccea55b210df10365eb1a9570ef1d69b2a4298a3cfc3",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-brothers-return-review.md"
+    },
+    {
+      "slug": "genesis-42-25-38",
+      "sha256": "c439faf55cdd4017a599325ac276a7344546bbed61ab5046a9464ab62485f63d",
+      "source_sha256": "168ff5c130d54424b5c4f44e1d6378f1a849cc4164f4b381aae329e6cd8d46bf",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-brothers-return-review.md"
+    },
+    {
+      "slug": "genesis-43-1-15",
+      "sha256": "82fcd45770edee3dc7649a7536a09e2d48290b62ae21c258fb80ff8b8c5e9f0d",
+      "source_sha256": "ccf59f5d1dae8e2e3ff9f88566f84408cdac56bc2465b15d42864d3a8d5873e8",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-brothers-return-review.md"
+    },
+    {
+      "slug": "genesis-43-16-34",
+      "sha256": "2f08fa098e994142496830d40d34abbb82e1517775c336be8bb936fa8f1080c6",
+      "source_sha256": "6c5a5ba706dc4a4b447a7c0188805633175ce968327db207db60a74c32d2e1d9",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-brothers-return-review.md"
+    },
+    {
+      "slug": "genesis-44-1-17",
+      "sha256": "3c6615a50d6900f8976b66cf3a72b407ee91e63f8a9c1f9784c4e3f2c622d43b",
+      "source_sha256": "1a2d558b77dedf93f33d11a5976ca35449c484f1db0246efacdbaae497e26134",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-reunion-and-mercy-review.md"
+    },
+    {
+      "slug": "genesis-44-18-34",
+      "sha256": "0d3611004dc5a58ff385f9c6f40e27fa173798c9c89df75f659e0edddb45b8b7",
+      "source_sha256": "62c5ca1f6762f835b3a10fdae2913776fd6aa0461acb300827f422bb92b16308",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-reunion-and-mercy-review.md"
+    },
+    {
+      "slug": "genesis-45-1-8",
+      "sha256": "114b2526d3e14f411520d18cfce687cff75f15d6dabb70c7219170b1f3ee3eae",
+      "source_sha256": "2dcc5c2ae002acedec8b057ab5cff373e75f77f9114bfac8d51fdb214cac1ce1",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-reunion-and-mercy-review.md"
+    },
+    {
+      "slug": "genesis-45-9-15",
+      "sha256": "87302afb53f485105242f81494632f608f98d5d611a67f7ab2126729868d82f9",
+      "source_sha256": "594ac74dfabefafc24f2240d727154b518988f47bef680a3c0684e87bd98b6be",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-reunion-and-mercy-review.md"
+    },
+    {
+      "slug": "genesis-45-16-24",
+      "sha256": "60ab7f13b7007b0dd6a25b89e2fa56732583231f8c79aef10d01726b5e3edd16",
+      "source_sha256": "66085d710cce8a3992d24a92a7368af2a939aa3a694b0b298f3c188aa19295b9",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-reunion-and-mercy-review.md"
+    },
+    {
+      "slug": "genesis-45-25-28",
+      "sha256": "73a9ecbf1c087c54a87ae4dcd37dac5fb5d854d854e5588250805d66c02ec158",
+      "source_sha256": "72cbd4387ecdcccf0802e7b21a1a290582ff9b8168b1608ef4204f43c173b350",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-reunion-and-mercy-review.md"
+    },
+    {
+      "slug": "genesis-46-1-6",
+      "sha256": "8f57fb786afcf461763eec53741c1928fed06599c5deb3482f3eabc6bf016ac6",
+      "source_sha256": "b1723e7514a692986452e131317e2c2477d75997fc344f65ebf873b57d3c6d4a",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-family-in-egypt-review.md"
+    },
+    {
+      "slug": "genesis-46-7-27",
+      "sha256": "182d20e0c44545867aafc3e06ad803cdbf4792b5c9921aaa49ec41349f4c8f6a",
+      "source_sha256": "dace0bf1a09945cedea1c62c626c5c42b1b2748a8962d2154f1edae81e80ed81",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-family-in-egypt-review.md"
+    },
+    {
+      "slug": "genesis-46-28-34",
+      "sha256": "2b84905e64a8ecb62a126a1755ba5fea8379914298dd577cf92849c9d8db8c92",
+      "source_sha256": "fc2a2a351a5945af1fd176a277921b6dea013f22f11b140612fbb6c05f636e43",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-family-in-egypt-review.md"
+    },
+    {
+      "slug": "genesis-47-1-12",
+      "sha256": "be977fd4b955423361bd7414fadebda6e13e8c0ee90389de58e2ab856f73ed4a",
+      "source_sha256": "493620f5e989637643b617dfea89cd5a70501ce0402d80aad0d4ee1a7dc229a0",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-family-in-egypt-review.md"
+    },
+    {
+      "slug": "genesis-47-13-26",
+      "sha256": "d2c52f092561123057929f03132aab66d8e814df4a63c85f1bbe65bfc7026a3b",
+      "source_sha256": "f655e3c2c872e743c1889938e15ef0d5b913c7a6b781901a161936180aad334a",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-family-in-egypt-review.md"
+    },
+    {
+      "slug": "genesis-47-27-31",
+      "sha256": "a2acd3a8b9c20df83b701673e7a9d5b2615bdd3bef711a1132b331c1b37790fc",
+      "source_sha256": "b9bc7f40211d4b796a72cb18183b473e252c5fac5f2fcb372466cd87cfcd6d3d",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-family-in-egypt-review.md"
+    },
+    {
+      "slug": "genesis-48-1-22",
+      "sha256": "9ab128e91acfc1796e854bc962876dd7e761a9d645db500c7949d81ae9a39563",
+      "source_sha256": "30f0f8d62ccd7769f32570020e55ea80c5f7581393a77c8e5c1987e42abd3771",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-blessings-and-hope-review.md"
+    },
+    {
+      "slug": "genesis-49-1-28",
+      "sha256": "933f40ea686b0c7b74ac6129e45fdcafb87c07254f54d5e8b07a38146d0bd487",
+      "source_sha256": "1b38a3a8427cd2d279f37ade454bb5171b5636e0521dad2db9ffd77e8aa1448a",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-blessings-and-hope-review.md"
+    },
+    {
+      "slug": "genesis-49-29-33",
+      "sha256": "6fabe8bf970dd994f1b81fbd6816fb3b0bfe36bf10317865edabef277449315a",
+      "source_sha256": "1ffbe255b6a8ee659d2f348634eb5e1c7861f6a797e3b548203651cf30d2a1bd",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-blessings-and-hope-review.md"
+    },
+    {
+      "slug": "genesis-50-1-14",
+      "sha256": "5c8ce1fd9c577f996006047f1f6e49640a58d8ce62ec1a8dce619ea09f5d5cc1",
+      "source_sha256": "a8d002d2c594cae782d7812246ddc87621cf3a8280cba1755a1a2e11a241c750",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-blessings-and-hope-review.md"
+    },
+    {
+      "slug": "genesis-50-15-21",
+      "sha256": "622af575d093d8d8cf9755021e32002ba31e1c769bed41d2a02f93425451cd66",
+      "source_sha256": "7cc8b8542952b5162b3b606d489122be8226712d111f3cca33666ee13ed3f806",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-blessings-and-hope-review.md"
+    },
+    {
+      "slug": "genesis-50-22-26",
+      "sha256": "08f0c1bb9cc44d3972e641f07e6d8e6edf3924bfd872a228fb71bcda3071da70",
+      "source_sha256": "def300ff3b979793382b88df351d4ce86f7fa904656fe1d011cf2e53e48cec1a",
+      "evidence_file": "documentation/testing/2026-10-19-genesis-blessings-and-hope-review.md"
+    }
+  ],
+  "live_files": [
+    {
+      "path": "passages/genesis-1-1-31.html",
+      "sha256": "d1a42e85f4b83f94bb40158beede532b76141c15b3e4728c9e1d113ad2111eb4"
+    },
+    {
+      "path": "passages/genesis-2-1-3.html",
+      "sha256": "056c29009e449a4d46d0f88410ce5cad5f3ae74b838c4d9572e541e2782f7502"
+    },
+    {
+      "path": "passages/genesis-2-4-25.html",
+      "sha256": "b6247a0c76ac6a5ac685b280ce0086b0ca5dd8288cfc95fe989ba3aba26f5a80"
+    },
+    {
+      "path": "passages/genesis-3-1-7.html",
+      "sha256": "5d89371374f64c3366192becb6b33f965bfd3cf0b1acaa76591ea337384c0bb0"
+    },
+    {
+      "path": "passages/genesis-3-8-13.html",
+      "sha256": "7bf51d2482ba6fdce067f28074f9a846c5da1bf58df72604d11da6ddae1991c4"
+    },
+    {
+      "path": "passages/genesis-3-14-15.html",
+      "sha256": "54573f355e97552124fc3ff1d83af2a95f56c3c851fd16ef3a774fced2d17855"
+    },
+    {
+      "path": "passages/genesis-3-16-20.html",
+      "sha256": "b10363195d08a9df7a959aa1ab1c53891e7c28f9d4acea73d6d526cf9697c5b7"
+    },
+    {
+      "path": "passages/genesis-3-21-24.html",
+      "sha256": "f811c6120897bb77b51daf9d16affea9d68c4ac899fdd9e2099312033c342afd"
+    },
+    {
+      "path": "passages/genesis-4-1-16.html",
+      "sha256": "0f05c0e69313b519de3abcbf0aba03bf2677f38b486186ad9fc0d16ba053e3a4"
+    },
+    {
+      "path": "passages/genesis-4-17-24.html",
+      "sha256": "06780a84020c4023034b3d804ecbe7de306fba41ae80fbbe9f2c6477da37787a"
+    },
+    {
+      "path": "passages/genesis-4-25-26.html",
+      "sha256": "6fe392e3040afdd21d02e927eec90f71d5e5eaa8c5d2e5d5ab414380b530a50a"
+    },
+    {
+      "path": "passages/genesis-5-1-17.html",
+      "sha256": "0aefb3b4f4a695f63202267e0109fb98361cb018a413ceafc847ad39ea344840"
+    },
+    {
+      "path": "passages/genesis-5-18-24.html",
+      "sha256": "fb76f7c573931a9223221194ee51ea53b02828fc69dbcb9c05a2d05af2c71e2e"
+    },
+    {
+      "path": "passages/genesis-5-25-32.html",
+      "sha256": "b0f7fc6790c51dd9d551b9f6e262ae2c25ba6af134b88a87b8ee855661cca62d"
+    },
+    {
+      "path": "passages/genesis-6-1-7.html",
+      "sha256": "b28565ea68ade7c24f5e56a24b18f6e23e1cb4b0b22e8803e8444563cc2d1821"
+    },
+    {
+      "path": "passages/genesis-6-8-12.html",
+      "sha256": "aa24b31bed582b273aca24ca6a4f4fdd4a57b3d37c0f40497b2608c63efd0733"
+    },
+    {
+      "path": "passages/genesis-6-13-22.html",
+      "sha256": "27a9ccf31b998c36a03b6ab7dbb3bd5d28d87355c678597dba7563231550bb08"
+    },
+    {
+      "path": "passages/genesis-7-1-24.html",
+      "sha256": "0aed59b9e1a7e714c3145e10c5eb1b7b4dc4a4dc3d93ecdc6abaabc78d97b924"
+    },
+    {
+      "path": "passages/genesis-8-1-5.html",
+      "sha256": "d0be4fa7bbd3360c52184eedc4ad3d77cbd6194f192cf2f32850404d2d5e60cd"
+    },
+    {
+      "path": "passages/genesis-8-6-12.html",
+      "sha256": "dc224bfd5797a98fa740cb66b249475cbc8ca2e16f12e78f54be74e9555a8d94"
+    },
+    {
+      "path": "passages/genesis-8-13-19.html",
+      "sha256": "966b41a03e3e7734bca0a7f81b8a76b37aec23eedad74954d1c6b0550295afea"
+    },
+    {
+      "path": "passages/genesis-8-20-22.html",
+      "sha256": "c285eb70b11b52295e423273ce4517800886a60dc9089ede6f70f2e7f1025725"
+    },
+    {
+      "path": "passages/genesis-9-1-17.html",
+      "sha256": "f73abf6b1dade49e5bdb7eabbe76ee3007cebb529c1740cf0ee8bea68ee69b42"
+    },
+    {
+      "path": "passages/genesis-9-18-25.html",
+      "sha256": "1865b0144d5f7367a19b04b852a4b230a258b4606570ff5e19070ea346063ae0"
+    },
+    {
+      "path": "passages/genesis-9-26-29.html",
+      "sha256": "fb1cc2c6d13b9bb25db63f8bae01e9ee83b52afea41f19d61129d8a0980698d0"
+    },
+    {
+      "path": "passages/genesis-10-1-32.html",
+      "sha256": "88ae96a315c6ed291e5ecc5b09b4b6de17991284f21f1b7f308ff40ab4892fc6"
+    },
+    {
+      "path": "passages/genesis-11-1-9.html",
+      "sha256": "7bc6687430c6ebe417967fa428ce545e74954b374adae498b3e6067228879aa9"
+    },
+    {
+      "path": "passages/genesis-11-10-26.html",
+      "sha256": "f218552813e3f387cdcf49455005d5bf251f12fe683be0b35cc7ad2b583b03d0"
+    },
+    {
+      "path": "passages/genesis-11-27-32.html",
+      "sha256": "65d5f12f55606142ab194a14808dc202ed50b62721d06d9dde41d484452678cc"
+    },
+    {
+      "path": "passages/genesis-12-1-9.html",
+      "sha256": "6b89668188586b387fa6c7146fed4b9d91535b66e5864f6315d5d8329b57cc86"
+    },
+    {
+      "path": "passages/genesis-12-10-20.html",
+      "sha256": "e80bcc97e417947b43ec8d1717cd8cbd256bbf6022ca4eb699b1cf18fc0a4946"
+    },
+    {
+      "path": "passages/genesis-13-1-9.html",
+      "sha256": "c920ec9446e0c344bd9b71ab7d6be93c81e0f56d10b109137e8bf762f371c749"
+    },
+    {
+      "path": "passages/genesis-13-10-13.html",
+      "sha256": "dd23abf05fc3c23420eb3cf67f4d9521288818e40e2e583472c866387d714cac"
+    },
+    {
+      "path": "passages/genesis-13-14-18.html",
+      "sha256": "f5e00d49a779d9e7fee98d7693788208076e3e93bf4fc083bdc8f3de8e1f3cca"
+    },
+    {
+      "path": "passages/genesis-14-1-9.html",
+      "sha256": "f22b4059fbb0916dae6169d42425895ffd4dcb628f9679ed7d7d67769d847726"
+    },
+    {
+      "path": "passages/genesis-14-10-16.html",
+      "sha256": "e4af4d35a7837da795a3277653a2f4bbe3cd9d5f5e8ccaa1c87c83bfc9e44129"
+    },
+    {
+      "path": "passages/genesis-14-17-24.html",
+      "sha256": "cdce541a1419a58d980003b38abae39627493d23657378c6f9a9047df3c43a51"
+    },
+    {
+      "path": "passages/genesis-15-1-7.html",
+      "sha256": "2e6a7fb1c772cafa539e34df701bc9ab23f01e770f4c0b85ac91f8c717e410ce"
+    },
+    {
+      "path": "passages/genesis-15-8-21.html",
+      "sha256": "5c18923f6ce0b097eb6cd1fc67ca41ab159a7ffba6c04f514ee9de472d2a3353"
+    },
+    {
+      "path": "passages/genesis-16-1-16.html",
+      "sha256": "ed2b262a89d8aeb849ee932b6e8e09db2397dd4b0b877dc3bf2e07b28adb3d71"
+    },
+    {
+      "path": "passages/genesis-17-1-8.html",
+      "sha256": "85d85bd9117820b94eb8de87e847717ec4e80b1b0b397afb43e6ba76ddfd9635"
+    },
+    {
+      "path": "passages/genesis-17-9-27.html",
+      "sha256": "bc74273fbc4e0db25d4c7b8b04198f9be178ffb6adb917131c7e849f3772f9e0"
+    },
+    {
+      "path": "passages/genesis-18-1-8.html",
+      "sha256": "7e6a6d6a668d6b4f833a20b98a0472e3e7bbe2222f3fc173cdbc11b102d3a78a"
+    },
+    {
+      "path": "passages/genesis-18-9-15.html",
+      "sha256": "d38392e1e5076e294a94b703b703140ee9c5b7e1dee1df06342c3dbf0f9fc4e5"
+    },
+    {
+      "path": "passages/genesis-18-16-33.html",
+      "sha256": "f6aa9e5fd874a9b58b83cf864462ec039e6db3f7bc8b204c97b8ad74cbb56e02"
+    },
+    {
+      "path": "passages/genesis-19-1-11.html",
+      "sha256": "617186272100220cd14808874d1f2d19aafe7baa44add5fd9a4be2c09369fafb"
+    },
+    {
+      "path": "passages/genesis-19-12-23.html",
+      "sha256": "dc177da0fb2a21439b181efa5f8331a308b561c6e3b21b5e1cc4901c6d5b5a86"
+    },
+    {
+      "path": "passages/genesis-19-24-29.html",
+      "sha256": "185e4f453fbdb48c3f9af3881f5f31ad5a7d7f092b4cc6c774b9076188cf02f6"
+    },
+    {
+      "path": "passages/genesis-19-30-38.html",
+      "sha256": "e269c366269bebab2a9536f30d1913fe9d526bba7534910525aecddb8ee899c9"
+    },
+    {
+      "path": "passages/genesis-20-1-18.html",
+      "sha256": "07cd7579e6bb7f66ef2b07bbf1014561d4c3868e1b6049c4b7c6a98cfc97662e"
+    },
+    {
+      "path": "passages/genesis-21-1-8.html",
+      "sha256": "f52db13064225e39f03ab6eb098d647aff355f346c5558b67d800dd431d39903"
+    },
+    {
+      "path": "passages/genesis-21-9-21.html",
+      "sha256": "a02beb8583d55e09ec8bf997236ce5c3ff22a9afce9828241d5f97534dc93952"
+    },
+    {
+      "path": "passages/genesis-21-22-34.html",
+      "sha256": "456b8cc2aa87dc562c0f1916e2170816cfd79fe11449427c4741068bfb05e4f1"
+    },
+    {
+      "path": "passages/genesis-22-1-10.html",
+      "sha256": "c63dc4c4dd6828f9ef5033572aa8450933e458b23eaceb0d76271ef9257e6daa"
+    },
+    {
+      "path": "passages/genesis-22-1-18.html",
+      "sha256": "3a9e82262da1781b44be45d5fb56aeaff0433888de99af1debf54829fae587e6"
+    },
+    {
+      "path": "passages/genesis-22-11-19.html",
+      "sha256": "9290513b122613beaf817b575ab658a3f2bed9b6320b11cced763dc232f91e0e"
+    },
+    {
+      "path": "passages/genesis-22-20-24.html",
+      "sha256": "da63dd693ee1c17eebc04eb76748ea743ab76f699202c31fa7b87f0c42ffb7bd"
+    },
+    {
+      "path": "passages/genesis-23-1-20.html",
+      "sha256": "76ae69c49e4033399e343484b103350428ad2f82b835d9e06799635f8bb5dbd0"
+    },
+    {
+      "path": "passages/genesis-24-1-14.html",
+      "sha256": "13b25323935c6a629081f48f55995142c68c241f18129f031e1ef85278dd1234"
+    },
+    {
+      "path": "passages/genesis-24-15-61.html",
+      "sha256": "adf5919638cfb9abbabe3266eee0f5655b4189000cef14d0580f2e42a5d71b94"
+    },
+    {
+      "path": "passages/genesis-24-62-67.html",
+      "sha256": "03ff8d9be06ec8634c45189a97fc2eec99ff062bc38bb36c44da9116ccc76542"
+    },
+    {
+      "path": "passages/genesis-25-1-6.html",
+      "sha256": "de483029561cf73746d0dc62b46ee692d55321425767878e2df9952a605cfb38"
+    },
+    {
+      "path": "passages/genesis-25-7-11.html",
+      "sha256": "7e127b256ad4c45d3408b7764b3f55a2f00364ca9ab3a5b8e039e4d57d405b17"
+    },
+    {
+      "path": "passages/genesis-25-12-18.html",
+      "sha256": "bd1521524ad2de88869a98d9d6a7536adaa0a085bcdf8d31abcf392391aac643"
+    },
+    {
+      "path": "passages/genesis-25-19-28.html",
+      "sha256": "43a018019cec853bedf7910781af732b08f250a3df2bd37a6d7a553f8ab295b9"
+    },
+    {
+      "path": "passages/genesis-25-29-34.html",
+      "sha256": "51facad8d0889f658b755fda638dd0b24bfca6248c02ae11ced58c913bccc6fa"
+    },
+    {
+      "path": "passages/genesis-26-1-5.html",
+      "sha256": "16297f190f6e433a34989bf4802f035c1dea42be4ed7dd05d86d35e46463b4b6"
+    },
+    {
+      "path": "passages/genesis-26-6-11.html",
+      "sha256": "186c54bc3b3c67b6e1df932297c93d94eac28b4820a68c38e81abce3be284f10"
+    },
+    {
+      "path": "passages/genesis-26-12-25.html",
+      "sha256": "d9382ecb322a66a72d0f6f1cbbc18a03b1f8e98ec36ba2b012f4a8b0adfa62bd"
+    },
+    {
+      "path": "passages/genesis-26-26-33.html",
+      "sha256": "7f1ddd3e5bcff718dbf059c6df51046b155aa8f7b2f64ee7dabd9942ee724848"
+    },
+    {
+      "path": "passages/genesis-26-34-35.html",
+      "sha256": "affed15ea8d1bf4c27eb7e72c948032c27921a12eb06a4ff1121472de0dbc164"
+    },
+    {
+      "path": "passages/genesis-27-1-29.html",
+      "sha256": "14a8673562a3d5ade0cfd86610cb609af8147ad53583d54cc6226319d0b02fca"
+    },
+    {
+      "path": "passages/genesis-27-30-46.html",
+      "sha256": "acdec600b21c62b986571e5706591c22524be2a564cf65cc8ac6119bf4f885d8"
+    },
+    {
+      "path": "passages/genesis-28-1-5.html",
+      "sha256": "a0d2e2a7940e9ce25d71692ec3208fbfc1a5b681b1c0fc922ef6ce24ec94349f"
+    },
+    {
+      "path": "passages/genesis-28-6-9.html",
+      "sha256": "5d081858c4e52041cd1b97996aa45d2ea44d099065ce33be6fd7a51eda322d2b"
+    },
+    {
+      "path": "passages/genesis-28-10-17.html",
+      "sha256": "4b092b6fe56fa7316ee6315ad226bed8c6e9c6860e06fde1ac1923b6b57ef4f5"
+    },
+    {
+      "path": "passages/genesis-28-18-22.html",
+      "sha256": "0b449007c7530382b8305d8c749e13fe0eb58d6f9f0ce44da5ba0af0239b5f6f"
+    },
+    {
+      "path": "passages/genesis-29-1-13.html",
+      "sha256": "4cbb98dc96312a5fcb370ba544a147abfaeeac11dd722a3ac381406e0313a932"
+    },
+    {
+      "path": "passages/genesis-29-14-30.html",
+      "sha256": "bde884bfbd862313726c45ee3db197faec1f2b484d86e5e6e7bee75376120e6f"
+    },
+    {
+      "path": "passages/genesis-29-31-35.html",
+      "sha256": "8089ed5b368a5a07289d1cfbbb30c6fa6ef5fcedb8d38683c09efdc59e20637c"
+    },
+    {
+      "path": "passages/genesis-30-1-8.html",
+      "sha256": "71fa070e4fc82c6c556d8da882ebd604662ad4adbe6a72f12c1ff3ed334b0139"
+    },
+    {
+      "path": "passages/genesis-30-9-16.html",
+      "sha256": "9a16cb64c687aa2ee7c6a5548d15dfffd2850e83a313c4b4124ba3858ef1cd9e"
+    },
+    {
+      "path": "passages/genesis-30-17-21.html",
+      "sha256": "98422484581fd850f9e2bfd1bc44fed16b27aee2961ce5393c8e8770e17681e4"
+    },
+    {
+      "path": "passages/genesis-30-22-24.html",
+      "sha256": "2570451ae1278874fae0ae6627e68f16d35a4ee175fcd46a554731e69cb9e43b"
+    },
+    {
+      "path": "passages/genesis-30-25-43.html",
+      "sha256": "d506c070fb89b8cfb833cb4553c8c89f7925c50dcdf5f6e478e4c34e7952770e"
+    },
+    {
+      "path": "passages/genesis-31-1-21.html",
+      "sha256": "4bd71b36fcf9c05e6878f7dfdb9c69e02c82526e911610e0db8dab41b2705cbc"
+    },
+    {
+      "path": "passages/genesis-31-22-42.html",
+      "sha256": "2bb51f97ceddfc884e5411a5e229585c9e7c2cedb819aedb9ded22a7d038bd1b"
+    },
+    {
+      "path": "passages/genesis-31-43-55.html",
+      "sha256": "2ee9a42e8233617a8207a74bbba4ee5ca8b2170968d6fe72e64ac168a27005e5"
+    },
+    {
+      "path": "passages/genesis-32-1-21.html",
+      "sha256": "91b5f2c75ab62a11f6b3bb5947f18ca44a3fe368779256ced570b4efc3a4485b"
+    },
+    {
+      "path": "passages/genesis-32-22-32.html",
+      "sha256": "4e58d8ae716932553957433986fde2f0bfeba1be81cce8518a1a8e81d51ee871"
+    },
+    {
+      "path": "passages/genesis-33-1-17.html",
+      "sha256": "34335b92a186632209244be1297b7c41d175ecfe5c61a2754230e37e916ef8e4"
+    },
+    {
+      "path": "passages/genesis-33-18-20.html",
+      "sha256": "930f38c0cb451f76c9facaf234a3e2172ad33e2a6d4702c27cb7c1ace955224f"
+    },
+    {
+      "path": "passages/genesis-34-1-12.html",
+      "sha256": "a88f1f5c210cbb238770d6d4a08afcb7ace4b8295239e124c247f813fead8c84"
+    },
+    {
+      "path": "passages/genesis-34-13-31.html",
+      "sha256": "03726551c5632bf0cbdfe25650527e1e25de721d620240a7c4d9c05a9cded5af"
+    },
+    {
+      "path": "passages/genesis-35-1-15.html",
+      "sha256": "d157e6efe56cd43632c5533323085a884318fc6b6975b4c558ea1c0c5b7b6954"
+    },
+    {
+      "path": "passages/genesis-35-16-20.html",
+      "sha256": "b03d253e42411f4a7d8ce8c028c963521418a8a434d2dec1e2ddbb27b6d43e37"
+    },
+    {
+      "path": "passages/genesis-35-21-26.html",
+      "sha256": "e26d806bb328fa9cb18015f0701426a6f85ae688027e71c0eea1c2c5102c9b3c"
+    },
+    {
+      "path": "passages/genesis-35-27-29.html",
+      "sha256": "f153769ac03d85536770c38e546e4ad7702c7bb151bf79d49e505f9867c0fcca"
+    },
+    {
+      "path": "passages/genesis-36-1-19.html",
+      "sha256": "2e65530d84e388108ba7a173c9fd242e875f54ba16aaa4485109a0e6d96e2609"
+    },
+    {
+      "path": "passages/genesis-36-20-30.html",
+      "sha256": "408a91555d810a09b10e5d2951e101e5d4c1c230c5c283f593e122a06f7642ce"
+    },
+    {
+      "path": "passages/genesis-36-31-43.html",
+      "sha256": "d6c5b09f70020b7856ab8310583c34b5601d4cbd87f609b73b145a31f321c63d"
+    },
+    {
+      "path": "passages/genesis-37-1-11.html",
+      "sha256": "38ac739da47f6942195a7e4861a12ba075676cb5182db7eb4c08accf34f6fd53"
+    },
+    {
+      "path": "passages/genesis-37-12-30.html",
+      "sha256": "0d36fb55ab1489a36e4c304fd9f939b2e87bc245b55d3308b5f2d6ec4d9359be"
+    },
+    {
+      "path": "passages/genesis-37-31-36.html",
+      "sha256": "22d570d9895bbbcaa6ca065df0b1b0d7a776dbef050cd10d8515b659af779a54"
+    },
+    {
+      "path": "passages/genesis-38-1-26.html",
+      "sha256": "75efcf2255b8c2dc2d03206f92667ece18844dbbb1b5cf6cf4a23e1280eabc89"
+    },
+    {
+      "path": "passages/genesis-38-27-30.html",
+      "sha256": "e35e781f23186de777acdfbf97f9ea6ac64a58b9d55d60b803c0459c154f1c10"
+    },
+    {
+      "path": "passages/genesis-39-1-12.html",
+      "sha256": "dd4bd82d5092519243d108a9810dc6298463ba5c474ffebbacc78da96a2af6ed"
+    },
+    {
+      "path": "passages/genesis-39-13-23.html",
+      "sha256": "a2b3cffca105e166f4d2e140eafe1b14ab5e3373d277dfee044d7c2e920fc7a0"
+    },
+    {
+      "path": "passages/genesis-40-1-23.html",
+      "sha256": "86b1ffd47fbbb83e4e5c6b40385f87afc72a2d9f2b3831b4ddad4561fbbbf17f"
+    },
+    {
+      "path": "passages/genesis-41-1-13.html",
+      "sha256": "0250d92451d062806cb40c2485bcab87b79f83ff85671b7daf1802187c67993e"
+    },
+    {
+      "path": "passages/genesis-41-14-36.html",
+      "sha256": "623708d22ad8c70b0cd43bfd06fe86f8c57bd70e5be667a19b9756c09fb89df4"
+    },
+    {
+      "path": "passages/genesis-41-37-45.html",
+      "sha256": "de786b4925f5ed7fcc38349fbe8f148aa0d44e15bd5916bf434bca9dbc8825d1"
+    },
+    {
+      "path": "passages/genesis-41-46-52.html",
+      "sha256": "4392c750a81af5543dc02231b4d2c73313e4017749951debe5c2863717dbcffe"
+    },
+    {
+      "path": "passages/genesis-41-53-57.html",
+      "sha256": "fd7888b58ae02443944a4a716ed20930a8fcf9378cc27dae43f78551abd786b1"
+    },
+    {
+      "path": "passages/genesis-42-1-24.html",
+      "sha256": "9952290974600f0aa92fe5b15a91e117a25f06c7e0acf88edf0a14c7d5bac612"
+    },
+    {
+      "path": "passages/genesis-42-25-38.html",
+      "sha256": "5ec98d3939dbb8a9179377d25cb709f4ece96a4d0f5a83b1e311868a424d9df3"
+    },
+    {
+      "path": "passages/genesis-43-1-15.html",
+      "sha256": "f82a051939a65b4fd2d768ce1203722a757859078226df7d07026fe92d460610"
+    },
+    {
+      "path": "passages/genesis-43-16-34.html",
+      "sha256": "f0d9a68c65e8179b1f673394bfedd4a40d5f241e96412afe93fa5ec4d263d743"
+    },
+    {
+      "path": "passages/genesis-44-1-17.html",
+      "sha256": "9c597f60d3bde985a6cbb24fb62acb86dfb279e176762482ac1a32439350c579"
+    },
+    {
+      "path": "passages/genesis-44-18-34.html",
+      "sha256": "49017407fcb7dfb89cb1adea04b79f45dcbf301f5b7bc27ab49291bf0a9a89a4"
+    },
+    {
+      "path": "passages/genesis-45-1-8.html",
+      "sha256": "ad5f70becdab615bb23894e12f555d4392b0117d83d37d335abc7baf0e2992c0"
+    },
+    {
+      "path": "passages/genesis-45-9-15.html",
+      "sha256": "3029be33d04677e4469195aa64b389af87b4620a43f21ddb7bfc8d4b95b7b3ce"
+    },
+    {
+      "path": "passages/genesis-45-16-24.html",
+      "sha256": "45a00a1f053a4537e11c43e398fbae96ee6f9f16c82106d151f1cb8974ce4f52"
+    },
+    {
+      "path": "passages/genesis-45-25-28.html",
+      "sha256": "31e321951399a55ffb1a146493e82f98c35d44b405762d24ff394237fd74d019"
+    },
+    {
+      "path": "passages/genesis-46-1-6.html",
+      "sha256": "4b4f665819a7d64ffdb8dcd144e75491f4fc5e7a118301e2b6b28c6de80d9f27"
+    },
+    {
+      "path": "passages/genesis-46-7-27.html",
+      "sha256": "e04adb0b0a367b03f84488b92df23f9a1f1e299152581241bc413d3d7beaeac9"
+    },
+    {
+      "path": "passages/genesis-46-28-34.html",
+      "sha256": "f519c2b4ba1f2aac4e298d69e5d11227d40b35a6371d89586abbef65ca639b16"
+    },
+    {
+      "path": "passages/genesis-47-1-12.html",
+      "sha256": "90443e10127a246a4db34d2eef974fd72df85d18bab5e1c7674f1e6dca657e69"
+    },
+    {
+      "path": "passages/genesis-47-13-26.html",
+      "sha256": "0d96298e3d2fa9ffc6948582d1a53ecacd74e310fa265f0e00a9b912341a024e"
+    },
+    {
+      "path": "passages/genesis-47-27-31.html",
+      "sha256": "fd706ea54381ad58d16fdf31e6b079ef4794d2792e205b702e81e11e44e003e5"
+    },
+    {
+      "path": "passages/genesis-48-1-22.html",
+      "sha256": "7310a41e06a59b6e4972f06caf2bb76bc6d99c4d84751431a39f2b260f2f1892"
+    },
+    {
+      "path": "passages/genesis-49-1-28.html",
+      "sha256": "ac57caf2d8fd2a2bebbaf9fd1100ceac28f611f352ac41b22fee97f0ff709c3c"
+    },
+    {
+      "path": "passages/genesis-49-29-33.html",
+      "sha256": "14f9e4095906e9575ea309946d087e70d289279e650ef5fba4c5ffb142b6f0c3"
+    },
+    {
+      "path": "passages/genesis-50-1-14.html",
+      "sha256": "65fc82aea514e5aa68d827202958bc1980cba57fd7b1e0ac1608cac440edea91"
+    },
+    {
+      "path": "passages/genesis-50-15-21.html",
+      "sha256": "50b80b1fc7f56c6f92dbb6f25da6c42e7af513ad09673d1cc98a335612accdb4"
+    },
+    {
+      "path": "passages/genesis-50-22-26.html",
+      "sha256": "7cb5b377792ebce17ffce11fe233ac63e57544477891c5b802483f4b35c9dea1"
+    },
+    {
+      "path": "assets/library_index.json",
+      "sha256": "a38ea71505f91f2ad25e01ad4ab9a36e2c2547b1c6febfc7e5818080998dc321"
+    },
+    {
+      "path": "library/passages.html",
+      "sha256": "9bcd9238a9ca8fd721384d9613e0bcd519d8ac49957586534bffddc72ffc5858"
+    }
+  ],
+  "checked_on": "2026-10-19",
+  "scope": "Genesis only; the multi-book autonomous goal remains active."
+}

@@ -1,0 +1,49 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "6:24",
+    "label": "Daniel 6:24",
+    "slug": "daniel-6-24"
+  },
+  "section_title": "What happens to the people who accused Daniel?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "24 At the command of the king, the men who had falsely accused Daniel were brought and thrown into the den of lions—they and their children and wives. And before they had reached the bottom of the den, the lions overpowered them and crushed all their bones."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Darius orders Daniel’s accusers to be thrown into the den, together with their wives and children. The lions overpower them before they reach the bottom.",
+    "",
+    "The outcome makes the danger Daniel survived unmistakable. His safety was not explained by harmless or uninterested lions. The plot has ended in the destruction of the people who devised it.",
+    "",
+    "The inclusion of their families is a disturbing part of the king’s order. This is Darius’s action; Israel’s own law says that children are not to be executed for their fathers, nor fathers for their children, in [Deuteronomy 24:16](https://biblehub.com/bsb/deuteronomy/24.htm). The narrative reports the royal punishment rather than giving God’s people an instruction to imitate it."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/daniel/6.htm) emphasizes the reversal: the accusers fall into the danger from which Daniel has been delivered. [Cambridge](https://biblehub.com/commentaries/cambridge/daniel/6.htm) specifically addresses the punishment of their families as part of the harsh royal justice described in the story."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/6.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-six-review.md"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "18:30-40",
+    "label": "1 Kings 18:30-40",
+    "slug": "1-kings-18-30-40"
+  },
+  "section_title": "What does Elijah ask God to make known?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "30 Then Elijah said to all the people, “Come near to me.” So all the people approached him, and he repaired the altar of the LORD that had been torn down. 31 And Elijah took twelve stones, one for each tribe of the sons of Jacob, to whom the word of the LORD had come and said, “Israel shall be your name.” 32 And with the stones, Elijah built an altar in the name of the LORD. Then he dug a trench around the altar large enough to hold two seahs of seed. 33 Next, he arranged the wood, cut up the bull, placed it on the wood, 34 and said, “Fill four waterpots and pour the water on the offering and on the wood.” “Do it a second time,” he said, and they did it a second time. “Do it a third time,” he said, and they did it a third time. 35 So the water ran down around the altar and even filled the trench.",
+        "36 At the time of the evening sacrifice, Elijah the prophet approached the altar and said, “O LORD, God of Abraham, Isaac, and Israel, let it be known this day that You are God in Israel and that I am Your servant and have done all these things at Your command. 37 Answer me, O LORD! Answer me, so that this people will know that You, the LORD, are God, and that You have turned their hearts back again.” 38 Then the fire of the LORD fell and consumed the sacrifice, the wood, the stones, and the dust, and it licked up the water in the trench. 39 When all the people saw this, they fell facedown and said, “The LORD, He is God! The LORD, He is God!” 40 Then Elijah ordered them, “Seize the prophets of Baal! Do not let a single one escape.” So they seized them, and Elijah brought them down to the Kishon Valley and slaughtered them there."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Elijah repairs the LORD’s broken altar with twelve stones, explicitly corresponding to the tribes descended from Jacob. The political division of the kingdoms has not removed that shared identity.",
+    "",
+    "He prepares the sacrifice and has water poured over it repeatedly until the trench is filled. His prayer asks that the people know the LORD is God, that Elijah is His servant and that these actions follow God’s command. He asks for their hearts to be turned back.",
+    "",
+    "Fire consumes the sacrifice, wood, stones, dust and water. The people fall facedown and acknowledge the LORD as God. Elijah then has the prophets of Baal seized and brings them to the Kishon Valley, where they are killed."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) sees the twelve stones as recalling the covenant with all the tribes. [Gill](https://biblehub.com/commentaries/gill/1_kings/18.htm) emphasizes that Elijah’s prayer claims obedience to God’s command, rather than a display arranged for his own importance.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/18.htm) distinguishes the crowd’s acknowledgment from certainty that every individual has undergone lasting conversion. Their words are significant, while the continuing story will show how deeply the response takes root.",
+    "",
+    "Gill understands the execution of Baal’s prophets within Israel’s covenant judgment against those leading the people to other gods, described in [Deuteronomy 13:1–5](https://biblehub.com/bsb/deuteronomy/13.htm). He treats Elijah as acting in a specific prophetic role within that setting."
+  ],
+  "god_plan_lines": [
+    "The aim of the prayer is a return of the heart, not simply astonishment at fire. A related purpose appears in [1 Thessalonians 1:8–10](https://biblehub.com/bsb/1_thessalonians/1.htm), where the believers’ response is described as turning from idols to serve the living and true God and await His Son, Jesus.",
+    "",
+    "The settings differ, but the direction is shared: people leave false worship and give their allegiance to God. The New Testament places that response within the hope of the risen Son and His deliverance. The greater purpose is a people who know whom they serve."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/18.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-eighteen-review.md"
+  }
+}

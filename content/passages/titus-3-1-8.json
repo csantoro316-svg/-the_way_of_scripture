@@ -5,25 +5,40 @@
     "label": "Titus 3:1-8",
     "slug": "titus-3-1-8"
   },
-  "section_title": "Heirs of Grace",
+  "section_title": "Why should people saved by mercy show gentleness to everyone?",
   "versions": [
     {
       "label": "BSB",
-      "text": "Remind the believers to submit to rulers and authorities, to be obedient and ready for every good work, to malign no one, and to be peaceable and gentle, showing full consideration to everyone. For at one time we too were foolish, disobedient, misled, and enslaved to all sorts of desires and pleasures—living in malice and envy, being hated and hating one another. But when the kindness of God our Savior and His love for mankind appeared, He saved us, not by the righteous deeds we had done, but according to His mercy, through the washing of new birth and renewal by the Holy Spirit. This is the Spirit He poured out on us abundantly through Jesus Christ our Savior, so that, having been justified by His grace, we would become heirs with the hope of eternal life. This saying is trustworthy. And I want you to emphasize these things, so that those who have believed God will take care to devote themselves to good deeds. These things are excellent and profitable for the people."
+      "paragraphs": [
+        "1 Remind the believers to submit to rulers and authorities, to be obedient and ready for every good work, 2 to malign no one, and to be peaceable and gentle, showing full consideration to everyone. 3 For at one time we too were foolish, disobedient, misled, and enslaved to all sorts of desires and pleasures—living in malice and envy, being hated and hating one another.",
+        "4 But when the kindness of God our Savior and His love for mankind appeared, 5 He saved us, not by the righteous deeds we had done, but according to His mercy, through the washing of new birth and renewal by the Holy Spirit. 6 This is the Spirit He poured out on us abundantly through Jesus Christ our Savior, 7 so that, having been justified by His grace, we would become heirs with the hope of eternal life.",
+        "8 This saying is trustworthy. And I want you to emphasize these things, so that those who have believed God will take care to devote themselves to good deeds. These things are excellent and profitable for the people."
+      ]
     }
   ],
   "context_lines": [
-    "Titus 3 ties Christian conduct to remembered mercy. Paul reminds believers what they were, what God did, and what that saving kindness now produces in public life and good works."
+    "Paul moves from relationships within households to conduct in the wider community. Believers are to respect rulers and authorities, be ready for good work, avoid slander and quarrels, and show gentleness to everyone.",
+    "",
+    "The reason begins with remembering their own past. They too were once deceived, disobedient and ruled by destructive desires. God’s kindness met them there. They have no basis for treating other people as though they had earned a superior standing.",
+    "",
+    "God saved them by mercy, not by righteous deeds they had already done. Paul describes the washing of new birth and renewal by the Holy Spirit, poured out through Jesus Christ. By His grace they are put right with Him and become heirs who look forward to eternal life.",
+    "",
+    "Good deeds return at the end of the paragraph as the result to cultivate. They are not the reason God first showed mercy; they are part of the useful, fruitful life believers are now called to live."
   ],
   "common_interpretation_lines": [
-    "This passage is commonly read as one of Paul's clearest summaries of salvation's shape: not earned by righteous deeds, grounded in divine mercy, and worked out in renewed life and fruitful action.",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-titus/) reads the civil instructions as obedience within the bounds of conscience, joined to gentleness toward people who need the mercy believers themselves received. He and [Calvin](https://biblehub.com/commentaries/calvin/titus/3.htm) both distinguish salvation by God’s mercy from the good works that follow it.",
     "",
-    "The phrase **\"washing of new birth and renewal by the Holy Spirit\"** has been connected by interpreters to regeneration, conversion, and in some traditions baptismal language. Even where those conclusions differ, the passage is widely read as describing God's saving initiative rather than human merit."
+    "Traditions differ over the washing in verse 5. The Catholic Church identifies it with baptism as God’s means of bringing about new birth ([Catechism 1215](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_1/i_what_is_this_sacrament_called.index.html)). Luther’s [Small Catechism, Holy Baptism](https://bookofconcord.cph.org/en/small-catechism/baptism/), also applies Titus 3 to baptism, stressing God’s word with the water and the faith that trusts His promise.",
+    "",
+    "The Reformed [Westminster Confession 28.1, 5–6](https://www.opc.org/wcf.html) describes baptism as a sign and assurance of new birth through which the Spirit truly gives grace, while denying that every baptized person is renewed or that its effect is confined to the moment of administration. The Baptist [1689 Confession 29.1–2](https://www.the1689confession.com/1689/chapter-29) describes baptism as a sign of union with Christ, forgiveness and new life for those already professing repentance and faith. These accounts differ over the relationship between the outward act and the Spirit’s renewing work; none describes water acting independently of God as a payment for salvation."
+  ],
+  "god_plan_lines": [
+    "[Ezekiel 36:25–27](https://biblehub.com/bsb/ezekiel/36.htm) promises cleansing, a new heart and God’s Spirit dwelling within His people so they can walk in His ways. It provides a biblical parallel for the washing, renewal and changed life described here.",
+    "",
+    "[Acts 2:14–18, 32–33](https://biblehub.com/bsb/acts/2.htm) connects the promised outpouring of the Spirit with the risen and exalted Jesus. Paul likewise says the Spirit is poured out abundantly through Jesus Christ. God’s saving mercy forms a renewed people with an inheritance of life and a calling to do good."
   ],
   "current_position_lines": [
-    "This site's current position is that **Titus 3:1-8** holds grace, renewal, and good works together without confusing them. Salvation is not earned by righteous deeds, but it does create a renewed people who become eager to live differently.",
-    "",
-    "On the baptism question, the passage is best read as centering on God's saving action and new birth rather than treating the rite itself as an automatic mechanism. The outward sign matters, but the saving initiative is God's."
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
   ],
   "deeper_study": [
     {
@@ -31,8 +46,24 @@
       "href": "../studies/baptism.html"
     },
     {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
       "title": "I Am a Disciple",
       "href": "../studies/i-am-a-disciple.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/titus/3.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-titus-three-review.md"
+  }
 }

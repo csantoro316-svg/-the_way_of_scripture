@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "21:5-11",
+    "label": "Luke 21:5-11",
+    "slug": "luke-21-5-11"
+  },
+  "section_title": "What should we do when people say the end is near?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 As some of the disciples were remarking how the temple was adorned with beautiful stones and consecrated gifts, Jesus said, 6 “As for what you see here, the time will come when not one stone will be left on another; every one will be thrown down.” 7 “Teacher,” they asked, “when will these things happen? And what will be the sign that they are about to take place?”",
+        "8 Jesus answered, “See to it that you are not deceived. For many will come in My name, claiming, ‘I am He,’ and, ‘The time is near.’ Do not follow them. 9 When you hear of wars and rebellions, do not be alarmed. These things must happen first, but the end is not imminent.” 10 Then He told them, “Nation will rise against nation, and kingdom against kingdom. 11 There will be great earthquakes, famines, and pestilences in various places, along with fearful sights and great signs from heaven."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Some disciples admire the temple’s beautiful stones and dedicated gifts. Jesus answers with a warning that the structure they are looking at will be thrown down. They ask when this will happen and what sign will announce it.",
+    "",
+    "Jesus begins by warning them against deception. People will come in His name, claiming His identity and announcing that the time is near. He tells His followers not to follow them.",
+    "",
+    "He also tells them not to be alarmed by wars and rebellions, since these things happen first and do not mean that the end has immediately arrived. He then speaks of conflict between nations and kingdoms, earthquakes, famine, disease and signs from heaven.",
+    "",
+    "This is the opening of a longer teaching. The following sections address persecution, Jerusalem’s danger, the Son of Man and watchfulness; those parts belong together when considering the questions the disciples ask."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly recognize a warning against deception and panic while taking Jesus’ announcement of the temple’s destruction seriously. The Catholic bishops’ notes distinguish the chapter’s historical events from the later signs surrounding the Son of Man; Wesley connects the earlier fearful signs with events described by Josephus. Those sources do not make a fresh claim of immediate fulfillment every time a war or disaster occurs. ([USCCB notes on Luke 21:5–36](https://bible.usccb.org/bible/luke/21); [Wesley on Luke 21:8–11](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))"
+  ],
+  "god_plan_lines": [
+    "Second Thessalonians also warns believers against being shaken or alarmed by messages claiming that the Day of the Lord has already arrived. The concern for a community that stays faithful without being swept away by alarming claims continues beyond this conversation. ([2 Thessalonians 2:1–3](https://biblehub.com/bsb/2_thessalonians/2.htm))",
+    "",
+    "Hebrews describes created things being shaken while God’s people receive a kingdom that cannot be shaken. Its response is gratitude, reverence and worship. This provides a wider Scriptural connection with the loss of even impressive earthly structures and the enduring hope God gives His people. ([Hebrews 12:25–29](https://biblehub.com/bsb/hebrews/12.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/21.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-twenty-one-opening-review.md"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "3:7-14",
+    "label": "Luke 3:7-14",
+    "slug": "luke-3-7-14"
+  },
+  "section_title": "What does genuine repentance look like?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 Then John said to the crowds coming out to be baptized by him, “You brood of vipers, who warned you to flee from the coming wrath? 8 Produce fruit, then, in keeping with repentance. And do not begin to say to yourselves, ‘We have Abraham as our father.’ For I tell you that out of these stones God can raise up children for Abraham. 9 The axe lies ready at the root of the trees, and every tree that does not produce good fruit will be cut down and thrown into the fire.”",
+        "10 The crowds asked him, “What then should we do?” 11 John replied, “Whoever has two tunics should share with him who has none, and whoever has food should do the same.” 12 Even tax collectors came to be baptized. “Teacher,” they asked, “what should we do?” 13 “Collect no more than you are authorized,” he answered. 14 Then some soldiers asked him, “And what should we do?” “Do not take money by force or false accusation,” he said. “Be content with your wages.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "John confronts the crowds with a warning about coming judgment. They must produce fruit that fits repentance rather than rely on being Abraham’s descendants. Their family connection does not remove the need to respond to God.",
+    "",
+    "The warning uses a tree ready to be cut down if it bears no good fruit. When the crowds ask what to do, John answers with ordinary actions: share clothing and food, collect only what is authorized, refuse extortion and false accusations, and be content with wages.",
+    "",
+    "His answers address people in their actual responsibilities. Tax collectors and soldiers are called to change the way they treat others. John does not let religious interest or participation in baptism stand in place of honesty, generosity, and justice."
+  ],
+  "common_interpretation_lines": [
+    "Christian traditions commonly read these instructions as the visible fruit of a genuine turning to God, with outward privilege unable to substitute for a changed heart and life. Wesley summarizes the response as turning from evil to doing good, while the Catholic bishops’ notes likewise emphasize the practical reform John calls for. ([Wesley on Luke 3:8–14](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [USCCB notes on Luke 3:7–18](https://bible.usccb.org/bible/luke/3))"
+  ],
+  "god_plan_lines": [
+    "The practical care John calls for has a supported parallel in Isaiah’s criticism of fasting that leaves oppression and hunger untouched. God’s people are called to share bread, clothe people in need, and break oppressive bonds. John’s message continues that scriptural concern for a life in which worship and treatment of neighbors belong together. ([Isaiah 58:5–12](https://biblehub.com/bsb/isaiah/58.htm))",
+    "",
+    "The New Testament develops both parts of his warning. Paul describes Abraham’s family through faith and belonging to Christ, while John explains that Christ’s self-giving love should lead believers to help those in material need. The intended fruit is a people whose life reflects God’s mercy in concrete action. ([Galatians 3:6–14, 26–29](https://biblehub.com/bsb/galatians/3.htm); [1 John 3:16–18](https://biblehub.com/bsb/1_john/3.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/3.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-three-opening-review.md"
+  }
+}

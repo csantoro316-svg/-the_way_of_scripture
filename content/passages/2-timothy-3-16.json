@@ -5,18 +5,53 @@
     "label": "2 Timothy 3:16",
     "slug": "2-timothy-3-16"
   },
+  "section_title": "What does it mean that Scripture is God-breathed?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"All Scripture is God-breathed and is useful for instruction, for conviction, for correction, and for training in righteousness.\""
+      "label": "BSB",
+      "paragraphs": [
+        "16 All Scripture is God-breathed and is useful for instruction, for conviction, for correction, and for training in righteousness,"
+      ]
     }
   ],
   "context_lines": [
-    "2 Timothy 3:16 should be read within the flow of its chapter and the larger argument of 2 Timothy."
-  ],
-  "explanation_lines": [
-    "Notice what these passages claim. The claim in 2 Timothy 3:16 is about origin \u2014 God breathed out the Scriptures. The claim in 2 Peter 1:21 is about the mechanism \u2014 the Holy Spirit carried men along as they wrote. Neither passage makes a claim about English translations produced 1,500 to 2,000 years later by committees working under political, institutional, and theological pressures.",
+    "This verse belongs to Paul’s appeal in 3:14–17 for Timothy to continue in the Scripture he has known from childhood. Verse 15 connects that Scripture with wisdom for salvation through faith in Christ; verse 17 describes the good work for which it equips him.",
     "",
-    "Inerrancy applies to the **autographs** \u2014 the original manuscripts as God inspired them. This does not leave us without confidence. It means we must be honest about what we are holding in our hands when we pick up any English Bible: a translation, not the autograph. A faithful representation in most respects \u2014 but a human work nonetheless, subject to the limitations and, in some cases, the agendas of those who produced it."
-  ]
+    "The Greek adjective [theopneustos](https://biblehub.com/greek/2315.htm) (theh-oh-PNYOO-stos) means inspired by God. The BSB’s God-breathed wording expresses that divine source. Paul immediately joins that source with practical usefulness: learning, recognizing what is wrong, being corrected and being trained to live rightly."
+  ],
+  "common_interpretation_lines": [
+    "Major Christian traditions receive Scripture as inspired by God and authoritative for faith and life. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-timothy/) emphasizes the Spirit’s help both in the writers’ work and in readers being taught through it. The Catholic Church likewise teaches that God inspired real human authors who used their own abilities ([Catechism 105–107](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/ii_inspiration_and_truth_of_sacred_scripture.html)).",
+    "",
+    "Traditions differ over Scripture’s relationship to the church’s other received teaching. The Reformed [Westminster Confession 1.6](https://www.opc.org/wcf.html) holds that everything necessary for God’s glory, salvation, faith and life is stated in Scripture or follows from it. The Catholic Church teaches that Scripture and apostolic Tradition together transmit God’s revelation, distinguishing that Tradition from later changeable customs ([Catechism 80–83](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/artcile_2/ii_the_relationship_between_tradition_and_sacred_scripture.index.html)). Both affirm Scripture’s divine source; they differ over whether Scripture alone supplies the church’s certainty about revealed truth."
+  ],
+  "god_plan_lines": [
+    "Jesus explains in [Luke 24:25–27, 44–47](https://biblehub.com/bsb/luke/24.htm) how the Scriptures point to His suffering, resurrection and the proclamation of repentance for forgiveness to the nations. That gives a larger setting for the wisdom leading to salvation through Christ in verse 15.",
+    "",
+    "[Romans 15:4–6](https://biblehub.com/bsb/romans/15.htm) says earlier Scripture was written for instruction, endurance, encouragement and hope, within a people learning to glorify God together. God’s purpose in giving Scripture reaches into the shared life and faithful service it forms."
+  ],
+  "current_position_lines": [
+    "In [Is the Bible the Inerrant Word of God?](https://thewayofscripture.com/studies/inerrancy.html), we understand God-breathed as a claim about Scripture’s origin in God. Our study applies inerrancy to the original writings as God inspired them. It distinguishes those writings from later translations, which are human works to be examined carefully against the Hebrew and Greek. This verse does not declare every later translation free from error."
+  ],
+  "deeper_study": [
+    {
+      "title": "Is the Bible the Inerrant Word of God?",
+      "href": "../studies/inerrancy.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_timothy/3.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-second-timothy-three-review.md",
+    "position_source_detail": "Is the Bible the Inerrant Word of God?, What Inerrancy Actually Means, lines 40–50."
+  }
 }

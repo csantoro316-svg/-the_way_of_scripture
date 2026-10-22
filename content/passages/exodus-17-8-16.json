@@ -5,27 +5,65 @@
     "label": "Exodus 17:8-16",
     "slug": "exodus-17-8-16"
   },
-  "section_title": "The Defeat of the Amalekites",
+  "section_title": "Why did victory depend on more than Joshua’s soldiers?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "8 After this, the Amalekites came and attacked the Israelites at Rephidim. 9 So Moses said to Joshua, \u201cChoose some of our men and go out to fight the Amalekites. Tomorrow I will stand on the hilltop with the staff of God in my hand.\u201d",
-        "10 Joshua did as Moses had instructed him and fought against the Amalekites, while Moses, Aaron, and Hur went up to the top of the hill.",
-        "11 As long as Moses held up his hands, Israel prevailed; but when he lowered them, Amalek prevailed. 12 When Moses\u2019 hands grew heavy, they took a stone and put it under him, and he sat on it. Then Aaron and Hur held his hands up, one on each side, so that his hands remained steady until the sun went down.",
-        "13 So Joshua overwhelmed Amalek and his army with the sword.",
-        "14 Then the LORD said to Moses, \u201cWrite this on a scroll as a reminder and recite it to Joshua, because I will utterly blot out the memory of Amalek from under heaven.\u201d",
-        "15 And Moses built an altar and named it The LORD Is My Banner. 16 \u201cIndeed,\u201d he said, \u201ca hand was lifted up toward the throne of the LORD. The LORD will war against Amalek from generation to generation.\u201d"
+        "8 After this, the Amalekites came and attacked the Israelites at Rephidim. 9 So Moses said to Joshua, “Choose some of our men and go out to fight the Amalekites. Tomorrow I will stand on the hilltop with the staff of God in my hand.” 10 Joshua did as Moses had instructed him and fought against the Amalekites, while Moses, Aaron, and Hur went up to the top of the hill. 11 As long as Moses held up his hands, Israel prevailed; but when he lowered them, Amalek prevailed. 12 When Moses’ hands grew heavy, they took a stone and put it under him, and he sat on it. Then Aaron and Hur held his hands up, one on each side, so that his hands remained steady until the sun went down. 13 So Joshua overwhelmed Amalek and his army with the sword.",
+        "14 Then the LORD said to Moses, “Write this on a scroll as a reminder and recite it to Joshua, because I will utterly blot out the memory of Amalek from under heaven.” 15 And Moses built an altar and named it The LORD Is My Banner. 16 “Indeed,” he said, “a hand was lifted up toward the throne of the LORD. The LORD will war against Amalek from generation to generation.”"
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 17**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "The Amalekites attack Israel at Rephidim. [Deuteronomy 25:17–19](https://biblehub.com/bsb/deuteronomy/25.htm) later recalls that they struck the tired and vulnerable people at the rear and did not fear God. Moses appoints Joshua to lead the fighting while he stands on a hill with the staff of God.",
+    "",
+    "Joshua’s men fight, but the account directs attention to Moses’ raised hands. Israel gains ground while they are up and loses ground when he lowers them. When he grows tired, Aaron and Hur give him a seat and support his hands until sunset. The soldiers’ work and the help on the hill belong to the same victory.",
+    "",
+    "God commands Moses to write the event down and repeat the promise of judgment against Amalek to Joshua. Moses also builds an altar naming the LORD as his banner. A banner is a rallying sign; [Brown–Driver–Briggs](https://biblehub.com/hebrew/5251.htm) places this verse under that sense. The memorial directs the credit for victory to the LORD.",
+    "",
+    "The raised hands are commonly understood as an appeal to God, although this passage does not explicitly say Moses was praying. What it does show is Israel’s dependence on God and Moses’ need for others to help him continue. The leader on the hill has a task he cannot sustain alone."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Defeat of the Amalekites** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Calvin](https://biblehub.com/commentaries/calvin/exodus/17.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) understand Moses’ raised hands as intercession—an appeal to God on behalf of the people fighting below. They read Joshua’s victory as God’s gift, with the fighting and the appeal to Him working together.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 17** remains the first control on meaning."
+    "The closing image in verse 16 receives different explanations. Calvin understands the hand and throne as God actively exercising His rule against Amalek. A Catholic [USCCB study note](https://bible.usccb.org/bible/exodus/17) instead reads the line as a war cry concerning the LORD’s banner, while acknowledging the difficult Hebrew. The BSB’s wording about a hand raised toward the throne is retained in the passage above."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "Moses’ intercession offers a parallel to Christ’s care for His people, a comparison [Calvin](https://biblehub.com/commentaries/calvin/exodus/17.htm) also makes. The difference helps explain the fuller hope: Moses grows weary and needs support, while [Hebrews 7:23–28](https://biblehub.com/bsb/hebrews/7.htm) says Jesus lives forever and always intercedes for those who draw near to God through Him. Their lasting help rests in His continuing life.",
+    "",
+    "The New Testament also gives the church a shared responsibility to pray for others. [1 Timothy 2:1–6](https://biblehub.com/bsb/1_timothy/2.htm) calls for prayer for everyone, including rulers, and joins that instruction to God’s desire for people to be saved and to Christ’s role as the one mediator. The account at Rephidim gives a concrete picture of people supporting one another while depending on God; the later instruction extends the call to prayer well beyond one battle or one nation."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/17.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-seventeen-review.md"
+  }
 }

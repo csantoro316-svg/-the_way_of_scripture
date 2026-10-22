@@ -64,29 +64,45 @@ Each study page should, at minimum:
 - inline-link Scripture references to passage pages
 - surface related passages naturally within the study body
 - include a related or referenced passages area when that relationship data exists
+- show the study's place in the guided foundation path
+- provide previous/next guided-study navigation after the teaching content
 - include the standard page-end feedback and revision note
+
+### Guided Study Rule
+
+`Foundations: A Guided Study` includes every published study. The 14-step order is defined once in `GUIDED_STUDY_STEPS` in `tools/generate_study_pages.py`: Returning to the Word; The Berean Standard; Is the Bible the Inerrant Word of God?; Is There a Source of Truth?; The Gospel According to Jesus; Who is The Angel of the Lord?; I Am a Disciple; Baptism; Prayer and Faith; What Does Prayer Look Like?; Should We Seek Signs From God?; The True Church According to Jesus; Who Shepherds the Church?; and Worship as the Early Church Knew It.
+
+The homepage briefly explains why the site exists, offers a small link to the full site-approach page, places the banner after its opening, and leads into one Foundations invitation into Step 1. `apps/web/why-we-return-to-the-text.html` carries the full site-focused explanation and ends with its own Study 1 invitation. The original teaching introduction is now the source of Study 1, Returning to the Word; its former standalone URL redirects there. The canonical Studies page at `apps/web/library/index.html` shows the entire ordered path by default and lets readers switch to a topic-grouped view with a topic filter. There is no separate featured-studies or all-studies page. Each study shows its step number, links to the Studies page, and ends with previous/continue navigation that names the destination and explains the next topic. The last study links back to the complete path. Older guided-study and browse-all-studies URLs redirect to the canonical Studies page or its topic view. Passage browsing remains on the passage reader.
+
+For guidance-only updates that must preserve current published study prose, run:
+
+```bash
+python3 tools/generate_study_pages.py --guided-only
+```
+
+This refreshes the 14 study-page guidance blocks, the canonical Studies page, study index order, and legacy study redirects from the existing published index without regenerating study or passage prose. The normal full generator also refreshes these surfaces after generating content.
 
 ### Study Intro Rule
 
 The introductory material at the top of a study is hero content, not duplicate body content.
 
-The same substantive introductory content should also drive study-card copy on library surfaces.
+When a card presents a study synopsis, its copy should come from the study's source introduction. The guided path and topic view use short purpose statements to help readers choose a route; those navigation labels do not replace the full hero introduction on the study page.
 
 Do:
 
 - render the opening preface or introduction in the top study hero
 - allow the hero introduction to contain multiple paragraphs when the source intro requires it
 - begin the study body at the first actual content section after the intro
-- use the same full introductory substance for study-card summary copy instead of reducing it to a thin one-line teaser when the source provides a fuller preface
-- keep study-card intro copy and study-hero intro copy aligned so the card accurately previews what appears at the top of the study page
+- use the same full introductory substance for synopsis-card copy instead of reducing it to a thin one-line teaser when the source provides a fuller preface
+- keep synopsis-card intro copy and study-hero intro copy aligned so the card accurately previews what appears at the top of the study page
 
 Do not:
 
 - repeat the same introduction again as the first body paragraphs
 - collapse a multi-paragraph introduction into a single line if the source clearly uses a fuller preface
 - constrain the hero copy to a narrow column that truncates or weakens the introduction
-- use a short teaser on the study card when the page hero is using a fuller intro from the same source
-- let the hero and the study card drift into different intro lengths or mismatched framing for the same study
+- use a short teaser on a synopsis card when the page hero is using a fuller intro from the same source
+- let the hero and a synopsis card drift into different intro lengths or mismatched framing for the same study
 
 As the site evolves, study pages may also include:
 
@@ -97,20 +113,40 @@ As the site evolves, study pages may also include:
 
 ## Passage Page Standard
 
+New passage editorial work follows the owner's [Passage Editorial Standard](PASSAGE_EDITORIAL_STANDARD.md). It governs source verification, fair primary-document comparisons, the optional plan section, and authority for a site position. Legacy placeholders are not reviewed content.
+
 Each passage page should, at minimum, include:
 
 - the full passage text in the Berean Standard Bible (BSB), following the master doctrine and translation standard
 - the passage text rendered in the main top `Passage` section of the page, directly under the passage title
 - a `Context` section
 - a `Common Interpretations` section describing major readings
-- a `Current Position` section stating a developed position or explicitly leaving the question open
+- an optional `Where does this fit in God's plan?` section only when the editorial standard's Scripture-supported inclusion tests apply
+- an `Our Position` section stating an authorized developed position or using the exact approved no-position wording
 - a `Deeper Study` section linking developed treatments when available
+- previous/next passage navigation immediately after `Deeper Study`
 - links back to studies that reference the passage
 - a related studies area that points readers back into the study pages using that passage
 - include the standard page-end feedback and revision note
 
 Passage pages are not standalone replacements for full studies.
 They are reference pages that support navigation, comparison, and context.
+
+### Passage Navigation Rule
+
+Individual passage pages and passage articles in the Passages reader end with previous/next links showing the destination reference and its section title when available. Follow the complete library in canonical book order and numeric chapter/verse order, breaking ties by the range end. Continue across book boundaries; omit the unavailable direction at either endpoint. Noncanonical references retain their existing position after the canonical books.
+
+These reading-navigation links open in the same tab. In the Passages reader, ordinary clicks update the article, expand and highlight its entry in the navigation drawer, clear search/filter state to reveal the destination, and move focus and scrolling to the new heading below the sticky toolbar. The selected passage is retained in the URL. Alphabetical browsing and filtering do not change the reading sequence. Links stack on narrow screens.
+
+The canonical `library/passages.html` route uses a full-width reader with compact Book, Chapter, and Passage selectors populated from the available library. The complete navigation tree opens in a modal drawer. The article scrolls normally with the page; only the controls remain sticky. Keep the section guide in a collapsed page-level disclosure. See the [website style standard](WEBSITE_STYLE_STANDARD.md) for scrolling, responsive layout, and focus rules.
+
+The normal generator refreshes this navigation. For a navigation-only change that must preserve existing authored HTML and translation content, run:
+
+```bash
+python3 tools/generate_study_pages.py --navigation-only
+```
+
+This refreshes passage navigation, the sorted library index, the canonical Passages reader, and legacy passage redirects without regenerating study pages, passage prose, source JSON records, or the translation audit. It does not reconcile unrelated content debt.
 
 ### Passage Section Rule
 
@@ -148,19 +184,30 @@ The purpose of `Context` is to guard against cherry-picking and help the reader 
 
 ### Interpretation and Position Rule
 
-The current renderer separates `Common Interpretations`, `Current Position`, and `Deeper Study`, as described in the [active passage-library plan](../planning/2026-07-05-passage-library-foundation-plan.md). Draw reviewed interpretation from source teaching material while speaking directly about the passage. Describe major readings without implying that each is the site's position. State a defined current position only when supported by developed study; otherwise leave the question open.
+The renderer separates context, common readings, an optional plan section, a site position, and deeper-study links. Reviewed pages use conversational question headings. Common Interpretations must describe actual readings from each tradition's own directly checked documents. A baseline teacher supplies research questions, not consensus. Never name or closely reproduce the baseline teacher on public pages. Verify lexical and historical claims independently.
 
-Source records use `common_interpretation_lines`, optional `current_position_lines`, and `deeper_study`. Legacy `explanation_lines` remains a compatibility fallback in validation, not a requirement to restore an `Explanation` page section.
+Do not originate a site position. Use only an existing study that addresses the passage, a supplied owner position, or an already-developed owner/assistant conclusion. Positions drawn from a site study should identify and link it. Otherwise use exactly: `We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here.`
+
+Source records use `common_interpretation_lines`, optional `god_plan_lines`, `current_position_lines`, and `deeper_study`. Reviewed records carry `editorial_review` metadata and internal evidence as specified in the editorial standard. Legacy `explanation_lines` remains a compatibility fallback in validation, not a requirement to restore an `Explanation` page section.
+
+For a reviewed batch:
+
+```bash
+python3 tools/verify_bsb_passages.py genesis-1-1-31 genesis-2-1-3
+python3 tools/check_repo.py
+python3 tools/generate_study_pages.py --passages-only genesis-1-1-31 genesis-2-1-3
+```
+
+Substitute the selected reviewed source slugs. This focused refresh updates only their pages and index entries plus the shared reader, preserving unrelated published prose and bypassing the legacy translation audit. Check local/live layout, links, section omission/order, and preservation before release.
 
 Do:
 
-- carry forward the actual interpretive reasoning already established in the source content
+- synthesize independently checked interpretation in original prose
 - connect the passage to other relevant Scriptures when that comparison is needed
 - link cited passages so the reader can follow the argument
 
 Do not:
 
-- refer to "the study" as an object in the public prose
 - narrate the content-production process
 - write meta commentary about where the explanation came from
 
@@ -182,7 +229,7 @@ The [master doctrine and standards](PROJECT_DOCTRINE_AND_STANDARDS.md) governs t
 
 The current generator still contains LSB extraction, an LSB study-header default, and an audit expecting LSB/NKJV/NABRE. The current source validation instead warns on missing BSB. These legacy implementation paths have not been reconciled in this documentation session. They must be reviewed against the master standard before content regeneration; a passing structural check alone does not establish translation or editorial compliance.
 
-The Prayer and Faith HTML also contains an authored revision absent from its Markdown source. Reconcile that source before regeneration, as recorded in [the backup change record](../changes/2026-10-18-prayer-and-faith-git-backup.md).
+The Prayer and Faith asking revision was reconciled into its Markdown source on 2026-10-18, preserving the eight authored HTML paragraphs verbatim. See [the reconciliation and navigation change record](../changes/2026-10-18-passage-navigation-and-prayer-source-reconciliation.md). The generator translation debt above remains open.
 
 ## Linking Standard
 

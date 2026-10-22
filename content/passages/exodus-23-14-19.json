@@ -5,29 +5,55 @@
     "label": "Exodus 23:14-19",
     "slug": "exodus-23-14-19"
   },
-  "section_title": "The Three Feasts of Pilgrimage",
+  "section_title": "What were Israel’s three yearly festivals meant to remember?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "14 Three times a year you are to celebrate a feast to Me.",
-        "15 You are to keep the Feast of Unleavened Bread as I commanded you: At the appointed time in the month of Abib you are to eat unleavened bread for seven days, because that was the month you came out of Egypt. No one may appear before Me empty-handed.",
-        "16 You are also to keep the Feast of Harvest with the firstfruits of the produce from what you sow in the field.",
-        "And keep the Feast of Ingathering at the end of the year, when you gather your produce from the field.",
-        "17 Three times a year all your males are to appear before the Lord GOD.",
-        "18 You must not offer the blood of My sacrifices with anything leavened, nor may the fat of My feast remain until morning.",
-        "19 Bring the best of the firstfruits of your soil to the house of the LORD your God.",
-        "You must not cook a young goat in its mother\u2019s milk."
+        "14 Three times a year you are to celebrate a feast to Me. 15 You are to keep the Feast of Unleavened Bread as I commanded you: At the appointed time in the month of Abib you are to eat unleavened bread for seven days, because that was the month you came out of Egypt. No one may appear before Me empty-handed. 16 You are also to keep the Feast of Harvest with the firstfruits of the produce from what you sow in the field. And keep the Feast of Ingathering at the end of the year, when you gather your produce from the field. 17 Three times a year all your males are to appear before the Lord GOD.",
+        "18 You must not offer the blood of My sacrifices with anything leavened, nor may the fat of My feast remain until morning. 19 Bring the best of the firstfruits of your soil to the house of the LORD your God. You must not cook a young goat in its mother’s milk."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 23**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "Israel’s year is to be shaped by worship and remembrance. The Feast of Unleavened Bread recalls the departure from Egypt. The Feast of Harvest brings the firstfruits of the crops, and the Feast of Ingathering comes as the year’s produce is gathered. The people are to acknowledge both the God who rescued them and the God who provides for them.",
+    "",
+    "The later instructions in [Exodus 34:18–26](https://biblehub.com/bsb/exodus/34.htm) identify the wheat-harvest celebration as the Feast of Weeks. [John 7:2](https://biblehub.com/bsb/john/7.htm) uses the name Tabernacles for the festival associated with booths. The three annual appearances before the Lord are required of Israel’s males, and the worshiper must bring an offering.",
+    "",
+    "The sacrifice must be handled as God directs: no leaven with its blood, no keeping the festival fat until morning, and the best firstfruits brought to the LORD’s house. The last instruction forbids cooking a young goat in its mother’s milk. The passage states that prohibition without explaining its origin."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Three Feasts of Pilgrimage** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "The festivals are commonly understood as occasions for Israel to remember deliverance and acknowledge God’s provision. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) identifies the annual celebrations with Passover and Unleavened Bread, Pentecost, and Tabernacles. Each belongs to Israel’s worship through the year, rather than being a choice of unrelated religious events.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 23** remains the first control on meaning."
+    "The goat-and-milk instruction has been understood differently. [Rashi’s Jewish commentary](https://www.sefaria.org/Rashi_on_Exodus.23.19?lang=bi) takes its repetition in the Torah as prohibiting cooking meat with milk, eating the mixture and benefiting from it; he does not restrict the rule to a goat. [Calvin](https://biblehub.com/commentaries/calvin/exodus/23.htm) relates it to proper sacrifice and the wrongness of using a mother’s milk to cook her young. Wesley raises the concern about cruelty too. These readings should be described on their own terms; the text itself does not state which explanation accounts for the rule."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The New Testament explicitly uses these festival themes to explain Christ and the life of His people. [1 Corinthians 5:6–8](https://biblehub.com/bsb/1_corinthians/5.htm) calls Christ the sacrificed Passover lamb and uses unleavened bread to speak of sincerity and truth in place of malice and wickedness. [1 Corinthians 15:20–28](https://biblehub.com/bsb/1_corinthians/15.htm) calls the risen Christ the firstfruits of those who have died, with the resurrection of those who belong to Him still to follow. The harvest image points to the resurrection of the people who belong to Him.",
+    "",
+    "[Acts 2:1–4](https://biblehub.com/bsb/acts/2.htm) places the coming of the Spirit at Pentecost. At the Feast of Tabernacles, Jesus calls the thirsty to come to Him, and John explains that He is speaking about the Spirit ([John 7:37–39](https://biblehub.com/bsb/john/7.htm)). [Zechariah 14:16–19](https://biblehub.com/bsb/zechariah/14.htm) also pictures people from the nations worshiping the LORD as King at that feast. Together these connections widen the view from Israel’s calendar to Christ, resurrection, the gift of the Spirit and worship among the nations."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/23.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-twenty-three-review.md"
+  }
 }

@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "27:32-36",
+    "label": "Matthew 27:32-36",
+    "slug": "matthew-27-32-36"
+  },
+  "section_title": "Simon Carries the Cross, and the Soldiers Divide Jesus’ Clothes",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "32 Along the way they found a man from Cyrene, named Simon, and they forced him to carry the cross of Jesus. 33 And when they came to a place called Golgotha, which means The Place of the Skull, 34 they offered Him wine to drink, mixed with gall; but after tasting it, He refused to drink it.",
+        "35 When they had crucified Him, they divided up His garments by casting lots. 36 And sitting down, they kept watch over Him there."
+      ]
+    }
+  ],
+  "context_lines": [
+    "On the way to the execution, the soldiers compel Simon of Cyrene to carry Jesus' cross. Cyrene was in what is now Libya ([UNESCO's site record](https://whc.unesco.org/en/list/190/)). Matthew identifies Simon by name and origin, but does not tell us how he understood the experience or whether he had already become a follower of Jesus.",
+    "",
+    "Forced to serve comes from ἀγγαρεύω, *angareuō* (ahn-gah-REH-oo-oh). [Thayer's entry](https://biblehub.com/greek/29.htm) explains its use for compelling someone to make a journey, carry a burden, or perform another service. It is also the verb in [Matthew 5:41](https://biblehub.com/bsb/matthew/5.htm), where Jesus teaches about being compelled to go a mile. Simon is pressed into the task rather than described as volunteering.",
+    "",
+    "They reach Golgotha, which Matthew translates as The Place of the Skull. Jesus tastes wine mixed with gall but refuses to drink it. [Mark 15:21–24](https://biblehub.com/bsb/mark/15.htm) describes wine mixed with myrrh. Matthew does not explain Jesus' reason for refusing the drink.",
+    "",
+    "The crucifixion itself is stated briefly. The soldiers divide His garments by casting lots and sit down to watch Him. [John 19:16–24](https://biblehub.com/bsb/john/19.htm) adds that Jesus went out carrying His cross and describes the soldiers dividing the clothing while leaving the seamless tunic to be awarded by lot. The Gospel accounts supply different details without telling us exactly when Simon took over or that Jesus fell."
+  ],
+  "common_interpretation_lines": [
+    "Christian readers commonly see Simon's burden beside Jesus' suffering and the division of clothing as part of the humiliation of the crucifixion. John 19:24 explicitly connects the clothing with Psalm 22:18.",
+    "",
+    "Readers differ in how they explain the drink. [Wesley on 27:34](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) regards Matthew's gall mixture as mockery and distinguishes it from the myrrh mixture in Mark. The [US Catholic bishops' note on 27:34](https://bible.usccb.org/bible/matthew/27) relates Matthew's wording to Mark's account and to Psalm 69:21. The accounts record the offered drink and refusal; identifying its exact contents, purpose, and sequence requires more than the word gall by itself."
+  ],
+  "god_plan_lines": [
+    "Simon carrying the cross behind Jesus, as [Luke 23:26](https://biblehub.com/bsb/luke/23.htm) describes it, provides a visible parallel to Jesus' call in [Luke 9:23–26](https://biblehub.com/bsb/luke/9.htm) to take up one's cross and follow Him. That comparison helps make the cost of following concrete, without telling us Simon's private thoughts or making his forced service proof of conversion.",
+    "",
+    "The soldiers' actions also belong to a connection the New Testament directly makes. [Psalm 22:11–18](https://biblehub.com/bsb/psalms/22.htm) describes a sufferer surrounded by enemies, exposed to their gaze, with his clothing divided by lot. [John 19:23–24](https://biblehub.com/bsb/john/19.htm) specifically identifies the division of Jesus' garments with that Scripture. What looks like the soldiers' small gain is placed within the story Scripture has prepared us to recognize."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/27.htm",
+    "plan_basis": [
+      "a",
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-seven-cross-review.md"
+  }
+}

@@ -5,25 +5,57 @@
     "label": "Exodus 21:1-11",
     "slug": "exodus-21-1-11"
   },
-  "section_title": "Hebrew Servants",
+  "section_title": "What did these laws require for Hebrew servants?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 \u201cThese are the ordinances that you are to set before them:",
-        "2 If you buy a Hebrew servant, he is to serve you for six years. But in the seventh year, he shall go free without paying anything. 3 If he arrived alone, he is to leave alone; if he arrived with a wife, she is to leave with him. 4 If his master gives him a wife and she bears him sons or daughters, the woman and her children shall belong to her master, and only the man shall go free.",
-        "5 But if the servant declares, \u2018I love my master and my wife and children; I do not want to go free,\u2019 6 then his master is to bring him before the judges. And he shall take him to the door or doorpost and pierce his ear with an awl. Then he shall serve his master for life.",
+        "1 “These are the ordinances that you are to set before them: 2 If you buy a Hebrew servant, he is to serve you for six years. But in the seventh year, he shall go free without paying anything. 3 If he arrived alone, he is to leave alone; if he arrived with a wife, she is to leave with him. 4 If his master gives him a wife and she bears him sons or daughters, the woman and her children shall belong to her master, and only the man shall go free.",
+        "5 But if the servant declares, ‘I love my master and my wife and children; I do not want to go free,’ 6 then his master is to bring him before the judges. And he shall take him to the door or doorpost and pierce his ear with an awl. Then he shall serve his master for life.",
         "7 And if a man sells his daughter as a servant, she is not to go free as the menservants do. 8 If she is displeasing in the eyes of her master who had designated her for himself, he must allow her to be redeemed. He has no right to sell her to foreigners, since he has broken faith with her. 9 And if he chooses her for his son, he must deal with her as with a daughter. 10 If he takes another wife, he must not reduce the food, clothing, or marital rights of his first wife. 11 If, however, he does not provide her with these three things, she is free to go without monetary payment."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 21**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "After the Ten Commandments, God gives Moses laws for particular situations in Israel’s life together. These begin with people living under another person’s authority as servants. The rules concern release, marriage, children and the obligations of a master.",
+    "",
+    "A Hebrew man bought as a servant is to serve six years and go free in the seventh without paying for his release. A wife who came with him leaves with him. But if his master supplied the wife, she and her children remain with the master. The man may choose to stay, and the pierced ear marks that continuing service. His love for his family is part of that decision; leaving would mean leaving them behind.",
+    "",
+    "The daughter sold by her father is dealt with differently because the following instructions concern her place in a marriage. If the master who intended her for himself rejects her, he must permit her redemption and cannot sell her to foreigners. If she is intended for his son, she must be treated as a daughter. Taking another wife does not remove the first wife’s rights to food, clothing and marital relations; withholding them means she goes free without payment.",
+    "",
+    "These are laws regulating human ownership, with limits placed on the owner. They should not be softened into a description of an ordinary job. Elsewhere, [Exodus 22:3](https://biblehub.com/bsb/exodus/22.htm) allows a thief who cannot repay to be sold, and [Leviticus 25:39–46](https://biblehub.com/bsb/leviticus/25.htm) distinguishes impoverished Israelites from foreign slaves who could become inherited property. Not every case was entered freely, and not every servant had the same right of release."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Hebrew Servants** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "Readers generally recognize the six-year limit as a protection for the Hebrew man and verses 7–11 as safeguards for the woman’s treatment within the household. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) understands the marriage provisions as requiring the master to fulfill the obligations he undertook, rather than discarding the woman when she no longer pleases him.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 21** remains the first control on meaning."
+    "One difference concerns how long the pierced servant remains. The BSB says “for life.” The Hebrew word עוֹלָם, *olam* (oh-LAHM), can refer to a continuing duration, including a lifetime; its meaning depends on its setting ([Brown–Driver–Briggs](https://biblehub.com/hebrew/5769.htm)). [Rashi’s Jewish commentary](https://www.sefaria.org/Rashi_on_Exodus.21.6?lang=bi) reads this service as lasting until the Jubilee, when [Leviticus 25:10](https://biblehub.com/bsb/leviticus/25.htm) proclaims release. Wesley allows either the servant’s death or the Jubilee as the endpoint. The BSB wording is retained above, while these readings explain why some interpreters do not understand it as excluding Jubilee release."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The larger biblical story uses the difference between slavery and family membership to explain what God gives through His Son. In [Galatians 4:1–7](https://biblehub.com/bsb/galatians/4.htm), Paul says that God sent Jesus to redeem those under the law so that they might receive adoption. Those who belong to Christ receive His Spirit and can approach God as their Father; they are heirs, not merely people kept in service.",
+    "",
+    "That is a broader biblical connection, rather than Paul giving a verse-by-verse explanation of this household law. It also does not make every form of human ownership an example to imitate. In [1 Corinthians 7:20–24](https://biblehub.com/bsb/1_corinthians/7.htm), Paul tells an enslaved believer to take the opportunity for freedom if it becomes available. Belonging to Christ gives a person a standing before God that a human master cannot determine."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/21.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-twenty-one-review.md"
+  }
 }

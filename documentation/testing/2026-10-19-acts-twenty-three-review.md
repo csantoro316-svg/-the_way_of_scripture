@@ -1,0 +1,43 @@
+# Acts 23 editorial review
+
+Four groups:1–5,6–11,12–22,23–35. No existing23sources or all-study23 references. All four positions exact required open wording. Whole baselinePDFthrough369read:22–23lesson354–369complete;370onwardunread. Public prose independently composed; baseline teacher/ministry not named.
+
+## Sources actually read
+
+Actual BSB23:1–35 read directly https://biblehub.com/bsb/acts/23.htm . ActualEx22:28;John18:19–23;1Pet2:19–23;1Cor15:12–23freshlyread. EarlierActs19:21/21:31–33/22:25–29wholeactualpassagesalreadyreadandpublished,usedtochecklettersequence. Fresh exact main BSB checks required after generation. USCCBEx22:27reference followsdifferentnumbering;publicBSB22:28verifieddirectly.
+
+Actual Thayer332readwholeentrybeforeTopical at https://biblehub.com/greek/332.htm :bindselfunderdivinecurse23:12/14/21. PublicGreek/transliteration/pronunciation/plainmeaning. No imaginedoathreleaseprocedureorethnicgeneralization. PrimaryactualwordmeaningnotgeneratedTopicalcommentary.
+
+Actual Calvin23:5first2200,6first1800,11first1600 read at https://biblehub.com/commentaries/calvin/acts/23.htm .5ironicnonrecognitionofpriestlyconduct;6tacticaltruthnotwholecaseonlyresurrection;11assuranceongoinghardshipnotimmediatefreedom. Actual WesleyXXIII1–9first2500read at https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/ ;restnotcountedread.5inattentionamidpropheticimpulse,3Ananiasdeathstorynotindependentlyverifiednorpublic. ActualBarnes23:5first2500read at https://biblehub.com/commentaries/barnes/acts/23.htm :formerpriesttheory/speculativeofficevacancyrequiresindependenthistory,notusedaspublicfact. No claimthisreadinghistoricalconsensus.
+
+Actual USCCB23notes2–35 read at https://bible.usccb.org/bible/acts/23 .5Paulwithdrawsaccusationinrespectlaw,11preparesRomejourney,26–30citizenshipsequenceinletterdiffersLuke'snarrative. PublicUSCCB5andCalvin5labeledcommentaryreadings,notbindingCatholic/Reformedhistoricalrulings. DatesofAnaniasoffice/death,FelixcareerandexactauxiliaryforceidentificationnotindependentlyverifiedordrawnfromtheseBibleeditorialnotesashistory. No suchpreciseextraBibleclaimpublic.
+
+All-studyActs23searchfoundnone. DeeperlinkstoDiscipleship/Gospel/BereanStandard/Signs/Prayerarehelpfulrelatedresources,notdirectdevelopedpositionsandnotusedtoinventone. Studypositionsremainopenforentirechapter.
+
+## Acts 23:1–5
+Plan section: included, because (b)/(c):John18strike/challengeresponseparallelqualified;1Pet2:19–23explicitChristpatternunderunjustsuffering.
+Position source: none.
+FLAGGED FOR REVIEW: Ananiascorruption/assassinationaqueductstoryanddatesnotindependentlyverified;omitted. ExactwhyPauldoesnotknow(priestdress/visionproblem/absence/officevacancy)notnarrated;publicdoesnotinvent. CalvinironyvsUSCCBwithdrawalofferedasindividualcommentarydistinction,notchurchdogmadecree. Clearconsciencenotproofallpastpersecutionjustified. No claimallPaulwordsidenticalJesusresponseorpermissionunrestrictedanger. ActualEx22:28BSBverifiedversenumber.
+
+## Acts 23:6–11
+Plan section: included, because (a)/(c):1Cor15:12–23resurrectioncentral/Christlifehope;23:11explicitJerusalemRomemissionconnected19:21intent.
+Position source: none.
+FLAGGED FOR REVIEW: Pharisaicdefenseofpossibleangel/spiritnotuniversalconversionorconfessionJesusrisen. No detailedpoliticalpartymechanism/privatePaulmotivebeyondstatedknowledge/appeal. Lukeexplicitbeliefdifferenceusedwithoutindependentgeneralethnicclaim. Resurrectionrealissuewithoutdenyingotheraccusations. No assurancealltroubleendsnextmorning.
+
+## Acts 23:12–22
+Plan section: included, because (a)/(c):explicitpromise23:11followedplot/responsiblereportrescue;ordinarypeoplepartmissionpreservation.
+Position source: none.
+FLAGGED FOR REVIEW: Nephewexactage/childclassification/howheoverheard/sisterhousehost/authorassumedfamilyresidentunverified;youngmanonly. No inventedPaulignorechildalternativeasactualnarrative. No actualvowreleasebySanhedrin,allJewsbendrulesstereotype,exactconspiratorsfateorstarvationassertion. Oathdoesnotlegitimatemurder;groupnotallJewishpeople. No privateeverydaycoincidencesuniforminerrantGodmessageclaim.
+
+## Acts 23:23–35
+Plan section: included, because (a)/(c):Romewitnesspromiseastransfercontinuescommissionthroughordinaryofficialprotection,notyetacquittal/Romearrival.
+Position source: none.
+FLAGGED FOR REVIEW: Exactnightclockconvertedunneeded;mainthirdhourofthenightpreserved. SpearmenrenderingretainedwithoutclaimcontestedGreekunitcertainlypolice. No route35mileexact/topographyprovesescortsafe,preciseRomanjurisdictionCiliciabeingFelixterritory,orallRomanlawcode. Felixsimultaneous3wives/childhoodfriendofClaudius/provincialcareerdatesnotverified;notpublic. Lysiaslettercitizenshipsequencecheckedagainst21/22;publicdiscrepancynotedwithoutinventingallprivatemotives. Praetoriumplainasgovernorresidence;custodynotautomaticguilt/acquittal. No nineyearwholeprisonchronologyorfreeguardedRomejourneycomfortclaim.
+
+## Validation
+
+Pending fresh BSB, repository/navigation/mobile checks and publication.
+
+## Completed validation
+
+FourfreshBSBchecks/eighttestspass;zeroerrors285knownwarnings.122reviewed/844verses/121plans/50studypositions/72open;123sources/1unreviewedlegacy. Allfour390pxreader/standalonechecks pass. ActualNext reaches23:6–11 withheadingfocusedat188.5px. Source/index/standalone,preservation,canonicalnavigation,coverage/idempotencepass. Hostingdryrun/actualdeployexit0;eightaffectedandsixwholechapterlivefilesmatch.

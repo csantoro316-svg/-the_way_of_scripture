@@ -1,0 +1,49 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "8:1-4",
+    "label": "Daniel 8:1-4",
+    "slug": "daniel-8-1-4"
+  },
+  "section_title": "What does Daniel see beside the Ulai Canal?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 In the third year of the reign of King Belshazzar, a vision appeared to me, Daniel, subsequent to the one that had appeared to me earlier. 2 And in the vision I saw myself in the citadel of Susa, in the province of Elam. I saw in the vision that I was beside the Ulai Canal. 3 Then I lifted up my eyes and saw a ram with two horns standing beside the canal. The horns were long, but one was longer than the other, and the longer one grew up later. 4 I saw the ram charging toward the west and the north and the south. No animal could stand against him, and there was no deliverance from his power. He did as he pleased and became great."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Daniel receives another vision in Belshazzar’s third year. In it he sees himself at the citadel of Susa in Elam, beside the Ulai Canal.",
+    "",
+    "A ram stands there with two long horns. One grows later but becomes longer than the other. The ram charges west, north and south, and no other animal can withstand it or rescue anyone from its power.",
+    "",
+    "The vision initially presents the picture without naming the kingdom. Gabriel later identifies the ram’s two horns as the kings of Media and Persia. What appears as unstoppable power here will soon meet its own limit."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/daniel/8.htm) and [Gaebelein](https://biblehub.com/commentaries/gaebelein/daniel/8.htm) understand the unequal horns as Media and Persia, with Persia becoming the stronger partner. This reading follows the identification Gabriel gives in verse 20."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/8.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-eight-review.md"
+  }
+}

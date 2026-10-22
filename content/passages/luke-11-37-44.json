@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "11:37-44",
+    "label": "Luke 11:37-44",
+    "slug": "luke-11-37-44"
+  },
+  "section_title": "What does an outwardly clean cup reveal about the heart?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "37 As Jesus was speaking, a Pharisee invited Him to dine with him; so He went in and reclined at the table. 38 But the Pharisee was surprised to see that Jesus did not first wash before the meal. 39 Then the Lord said, “Now you Pharisees clean the outside of the cup and dish, but inside you are full of greed and wickedness. 40 You fools! Did not the One who made the outside make the inside as well? 41 But give as alms the things that are within you, and behold, everything will be clean for you.",
+        "42 Woe to you Pharisees! For you pay tithes of mint, rue, and every herb, but you disregard justice and the love of God. You should have practiced the latter without neglecting the former. 43 Woe to you Pharisees! For you love the chief seats in the synagogues and the greetings in the marketplaces. 44 Woe to you! For you are like unmarked graves, which men walk over without even noticing.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "A Pharisee invites Jesus to a meal and is surprised when He does not first wash. Mark’s account of a similar dispute explains the ceremonial handwashing as a tradition of the elders. Luke’s scene turns from that concern with washing toward what is happening inside the people at the table. ([Mark 7:1–8](https://biblehub.com/bsb/mark/7.htm))",
+    "",
+    "Jesus compares their attention to appearances with cleaning a cup’s outside while leaving its inside dirty. He names greed and wickedness, reminds them that God made both inside and outside, and calls for giving to those in need.",
+    "",
+    "Three warnings follow. They carefully tithe garden herbs while disregarding justice and love for God; they seek honored seats and public greetings; and they are like unmarked graves. Jesus does not say that care over the tithe excuses neglecting the weightier responsibilities. He says they should have practiced those responsibilities without neglecting the others.",
+    "",
+    "The grave picture carries a warning about harmful influence that goes unnoticed. Numbers identifies contact with a grave as a source of ceremonial uncleanness, supplying the background to the image. ([Numbers 19:16](https://biblehub.com/bsb/numbers/19.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand Jesus as exposing the gap between outward religious care and inward greed, while calling for justice, love and generosity. Calvin explains the giving in verse 41 through practical help for the poor, and Wesley likewise connects it with a change contrary to greed and wickedness. ([Calvin on Luke 11:39–41](https://biblehub.com/commentaries/calvin/luke/11.htm); [Wesley on Luke 11:39–44](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))"
+  ],
+  "god_plan_lines": [
+    "Micah had already placed justice, mercy and humble life with God at the center of what He requires. Jesus’ warnings continue this Scriptural insistence that religious activity cannot replace the life God calls His people to live. ([Micah 6:6–8](https://biblehub.com/bsb/micah/6.htm))",
+    "",
+    "Jeremiah describes God’s promised covenant in terms of His law written on people’s hearts, knowing Him and receiving forgiveness. Paul later describes people in Christ as a new creation, reconciled to God through Him. These passages provide the larger setting for inward change: God’s purpose reaches the person, rather than merely the appearance presented to others. ([Jeremiah 31:31–34](https://biblehub.com/bsb/jeremiah/31.htm); [2 Corinthians 5:17–21](https://biblehub.com/bsb/2_corinthians/5.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/11.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-eleven-closing-review.md"
+  }
+}

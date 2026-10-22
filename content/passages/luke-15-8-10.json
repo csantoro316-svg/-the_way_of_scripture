@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "15:8-10",
+    "label": "Luke 15:8-10",
+    "slug": "luke-15-8-10"
+  },
+  "section_title": "Why does finding one coin become shared joy?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "8 Or what woman who has ten silver coins and loses one of them does not light a lamp, sweep her house, and search carefully until she finds it? 9 And when she finds it, she calls together her friends and neighbors to say, ‘Rejoice with me, for I have found my lost coin.’ 10 In the same way, I tell you, there is joy in the presence of God’s angels over one sinner who repents.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus follows the sheep with another lost-and-found picture. A woman with ten silver coins loses one, lights a lamp, sweeps the house and searches carefully until she finds it.",
+    "",
+    "The recovered coin leads her to call friends and neighbors to rejoice with her. Jesus again connects finding what was lost with joy over a sinner who repents, this time naming the joy in the presence of God’s angels.",
+    "",
+    "The setting remains the complaint that He receives sinners. The second story reinforces the first: a person’s recovery is worthy of care, effort and shared gladness."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly see the coin reinforcing God’s care for those who are lost and His joy when a sinner returns. Wesley explicitly treats the sheep, coin and son as three pictures of how God receives sinners, and the Catholic bishops’ notes recognize the same shared theme. ([Wesley on Luke 15:3](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [USCCB note on Luke 15:1–32](https://bible.usccb.org/bible/luke/15))"
+  ],
+  "god_plan_lines": [
+    "Zephaniah describes the Lord present among His people as the One who saves and rejoices over them. That is a related Scriptural picture of salvation bringing gladness to God as well as to those He restores. ([Zephaniah 3:14–17](https://biblehub.com/bsb/zephaniah/3.htm))",
+    "",
+    "Later in Luke, Jesus explains His mission after entering Zacchaeus’ home: the Son of Man came to seek and save the lost. The search and celebration here fit that stated purpose, expressed through His welcome of the very people others criticize Him for receiving. ([Luke 19:9–10](https://biblehub.com/bsb/luke/19.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/15.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-fifteen-review.md"
+  }
+}

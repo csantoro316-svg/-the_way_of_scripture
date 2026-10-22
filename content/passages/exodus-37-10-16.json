@@ -5,24 +5,54 @@
     "label": "Exodus 37:10-16",
     "slug": "exodus-37-10-16"
   },
-  "section_title": "The Table of Showbread",
+  "section_title": "What is the table prepared to hold?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "10 He also made the table of acacia wood two cubits long, a cubit wide, and a cubit and a half high. 11 He overlaid it with pure gold and made a gold molding around it. 12 And he made a rim around it a handbreadth wide and put a gold molding on the rim.",
-        "13 He cast four gold rings for the table and fastened them to the four corners at its four legs. 14 The rings were placed close to the rim, to serve as holders for the poles used to carry the table. 15 He made the poles of acacia wood for carrying the table and overlaid them with gold.",
-        "16 He also made the utensils for the table out of pure gold: its plates and dishes, as well as its bowls and pitchers for pouring drink offerings."
+        "10 He also made the table of acacia wood two cubits long, a cubit wide, and a cubit and a half high. 11 He overlaid it with pure gold and made a gold molding around it. 12 And he made a rim around it a handbreadth wide and put a gold molding on the rim. 13 He cast four gold rings for the table and fastened them to the four corners at its four legs. 14 The rings were placed close to the rim, to serve as holders for the poles used to carry the table. 15 He made the poles of acacia wood for carrying the table and overlaid them with gold. 16 He also made the utensils for the table out of pure gold: its plates and dishes, as well as its bowls and pitchers for pouring drink offerings."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 37**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "The table is made of acacia wood overlaid with gold, with a rim, rings, carrying poles, and gold utensils. Like the ark, it is prepared to travel with Israel. Its place is in the Holy Place, where the Bread of the Presence is to be kept before the LORD, as directed in [Exodus 25:23–30](https://biblehub.com/bsb/exodus/25.htm).",
+    "",
+    "[Leviticus 24:5–9](https://biblehub.com/bsb/leviticus/24.htm) explains the continuing service: twelve loaves are arranged before God, replaced each Sabbath, and eaten by Aaron and his sons in a holy place. The table therefore belongs to an ongoing relationship of worship and provision, not simply the furnishing of an empty room."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Table of Showbread** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 37** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) compares the priestly bread with the fellowship offered at Christ’s table in the new covenant. He sees the later table as a fuller enjoyment of what the earlier sanctuary held at a distance."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "At the Passover meal, Jesus shares bread and a cup with His apostles and speaks of His body given for them and the new covenant in His blood ([Luke 22:14–20](https://biblehub.com/bsb/luke/22.htm)). Later in the same conversation, He promises His faithful disciples a place to eat and drink at His table in His kingdom ([Luke 22:28–30](https://biblehub.com/bsb/luke/22.htm)).",
+    "",
+    "This provides a meaningful parallel with the sanctuary table. God’s purpose includes fellowship with His people, and Jesus connects that fellowship with His self-giving and the coming kingdom. The comparison follows the larger theme of a people welcomed before God."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/exodus/37.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-exodus-thirty-seven-review.md"
+  }
 }

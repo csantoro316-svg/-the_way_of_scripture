@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "26:69-75",
+    "label": "Matthew 26:69-75",
+    "slug": "matthew-26-69-75"
+  },
+  "section_title": "Peter Denies Jesus and Remembers His Words",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "69 Meanwhile, Peter was sitting out in the courtyard, and a servant girl came up to him. “You also were with Jesus the Galilean,” she said. 70 But he denied it before them all: “I do not know what you are talking about.” 71 When Peter had gone out to the gateway, another servant girl saw him and said to the people there, “This man was with Jesus of Nazareth.” 72 And again he denied it with an oath: “I do not know the man!”",
+        "73 After a little while, those standing nearby came up to Peter. “Surely you are one of them,” they said, “for your accent gives you away.” 74 At that he began to curse and swear to them, “I do not know the man!” And immediately a rooster crowed. 75 Then Peter remembered the word that Jesus had spoken: “Before the rooster crows, you will deny Me three times.” And he went outside and wept bitterly."
+      ]
+    }
+  ],
+  "context_lines": [
+    "While Jesus faces the hearing, Peter sits outside in the courtyard. A servant girl identifies him as someone who was with Jesus the Galilean, and he denies understanding her. At the gateway another servant girl identifies him, and this time he denies knowing Jesus with an oath.",
+    "",
+    "The bystanders then say his accent gives him away. Peter responds with cursing and swearing that he does not know the man. A rooster crows, and he remembers Jesus' prediction of three denials before its crowing. He goes outside and weeps bitterly.",
+    "",
+    "The movement of the story answers Peter's earlier promise in verses 33–35 that he would die rather than deny Jesus. His confidence in his own loyalty has not held. Matthew records the failure and its grief rather than hiding them.",
+    "",
+    "[Luke 22:54–62](https://biblehub.com/bsb/luke/22.htm) adds Jesus turning to look at Peter when the rooster crows, and places about an hour before the last accusation. The denials should therefore not be compressed into a few seconds simply because Matthew tells them briefly. The fuller setting joins Peter's failure with the Lord whose words he remembers."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read Peter's denials as a serious failure followed by grief and repentance, with his later restoration showing that the failure does not end his service to Christ. The [US Catholic bishops' note on 26:70](https://bible.usccb.org/bible/matthew/26) emphasizes repentance, while [Walvoord on 26:69–75](https://walvoord.com/article/220) emphasizes Peter facing the truth of his failure; the related questions about perseverance are discussed with [Matthew 26:31–35](https://the-way-of-scripture.web.app/passages/matthew-26-31-35.html)."
+  ],
+  "god_plan_lines": [
+    "The risen Jesus later calls Peter to care for His sheep and follow Him in [John 21:15–19](https://biblehub.com/bsb/john/21.htm). The man who denied knowing Him is given work that serves others. This does not excuse the denial, but shows how Jesus' care reaches beyond a disciple's failure.",
+    "",
+    "That restored service becomes visible in [Acts 4:8–13](https://biblehub.com/bsb/acts/4.htm), where Peter speaks openly about Jesus before rulers, and [Acts 5:27–32](https://biblehub.com/bsb/acts/5.htm), where the apostles continue their witness under pressure. [1 Peter 3:13–17](https://biblehub.com/bsb/1_peter/3.htm) likewise calls believers to answer for their hope with gentleness and respect, even amid suffering. God's work can turn a story of fear and failure into service that strengthens others."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/26.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-six-closing-review.md"
+  }
+}

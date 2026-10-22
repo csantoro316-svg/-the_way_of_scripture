@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "19:31-40",
+    "label": "2 Samuel 19:31-40",
+    "slug": "2-samuel-19-31-40"
+  },
+  "section_title": "How does David honor Barzillai’s help?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "31 Now Barzillai the Gileadite had come down from Rogelim to cross the Jordan with the king and send him on his way from there. 32 Barzillai was quite old, eighty years of age, and since he was a very wealthy man, he had provided for the king while he stayed in Mahanaim. 33 The king said to Barzillai, “Cross over with me, and I will provide for you at my side in Jerusalem.” 34 But Barzillai replied, “How many years of my life remain, that I should go up to Jerusalem with the king? 35 I am now eighty years old. Can I discern what is good and what is not? Can your servant taste what he eats or drinks? Can I still hear the voice of singing men and women? Why should your servant be an added burden to my lord the king?",
+        "36 Your servant will go with the king only a short distance past the Jordan; why should the king repay me with such a reward? 37 Please let your servant return, that I may die in my own city near the tomb of my father and mother. But here is your servant Chimham. Let him cross over with my lord the king, and do for him what is good in your sight.” 38 The king replied, “Chimham will cross over with me, and I will do for him what is good in your sight, and I will do for you whatever you desire of me.” 39 So all the people crossed the Jordan, and then the king crossed over. The king kissed Barzillai and blessed him, and Barzillai returned home. 40 Then the king crossed over to Gilgal, and Chimham crossed over with him. All the troops of Judah and half the troops of Israel escorted the king."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Barzillai, who provided for David at Mahanaim, accompanies him to the Jordan. He is eighty and wealthy enough to have sustained the king. David invites him to Jerusalem and offers to provide for him there.",
+    "",
+    "Barzillai declines, describing the limits of his strength and enjoyment and asking to return to his own city near his parents’ tomb. He instead commends Chimham to David. The king agrees to care for Chimham and promises to honor Barzillai’s wishes.",
+    "",
+    "David kisses and blesses Barzillai before he returns home. Chimham continues with the king to Gilgal. Care given in David’s need is remembered after the danger has passed."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/19.htm) sees humility in Barzillai’s surprise at the reward offered for his service. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) emphasizes his recognition that the pleasures and demands of court life no longer suit him.",
+    "",
+    "Barzillai speaks about his own condition, not a rule that every eighty-year-old is unable to contribute or enjoy life. His generosity has already proved valuable. Declining one invitation does not cancel the service he has given or the honor David shows him."
+  ],
+  "god_plan_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/19.htm) compares Barzillai’s response with the surprise of the righteous in [Matthew 25:34–40](https://biblehub.com/bsb/matthew/25.htm). In Jesus’ description, the King remembers food, drink, welcome and care given to the least of His brothers as service to Himself.",
+    "",
+    "The comparison places practical generosity within the larger calling to serve the King. Help that seems ordinary to the giver can matter greatly to those who receive it and can be remembered far beyond the moment of need.",
+    "",
+    "This is a supported comparison, not a claim that David’s arrangements for Chimham describe every feature of the coming kingdom. It turns our attention toward the value God places on faithful care rather than only public power or recognition."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/19.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-nineteen-review.md"
+  }
+}

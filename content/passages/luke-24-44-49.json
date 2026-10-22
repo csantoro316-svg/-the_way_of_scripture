@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "24:44-49",
+    "label": "Luke 24:44-49",
+    "slug": "luke-24-44-49"
+  },
+  "section_title": "What mission does Jesus give His witnesses?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "44 Jesus said to them, “These are the words I spoke to you while I was still with you: Everything must be fulfilled that is written about Me in the Law of Moses, the Prophets, and the Psalms.” 45 Then He opened their minds to understand the Scriptures. 46 And He told them, “This is what is written: The Christ will suffer and rise from the dead on the third day, 47 and in His name repentance and forgiveness of sins will be proclaimed to all nations, beginning in Jerusalem.",
+        "48 You are witnesses of these things. 49 And behold, I am sending the promise of My Father upon you. But remain in the city until you have been clothed with power from on high.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus brings His followers back to what He had told them before His death. What was written about Him in the Law of Moses, the Prophets and the Psalms must be fulfilled. He opens their minds to understand the Scriptures.",
+    "",
+    "He gathers the message around His suffering, resurrection on the third day, and the proclamation of repentance and forgiveness in His name. That message is to reach all nations, beginning in Jerusalem.",
+    "",
+    "He identifies them as witnesses and promises the Father’s gift. They are to remain in the city until they receive power from on high. Acts identifies this promised gift as the Holy Spirit and carries the same instruction forward. ([Acts 1:4–8](https://biblehub.com/bsb/acts/1.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand these words as a commission to proclaim Christ and the forgiveness He brings, depending on the Holy Spirit. Wesley emphasizes the mercy of beginning at Jerusalem, where even those responsible for Jesus’ death are called to repentance, and identifies the Father’s promise with the Spirit. ([Wesley on Luke 24:44–49](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))"
+  ],
+  "god_plan_lines": [
+    "Isaiah presents the Servant’s task as reaching beyond restoring Israel to bringing God’s salvation to the ends of the earth. Acts explicitly applies that passage to the mission among the nations. Jesus’ commission carries forward this scriptural purpose already announced. ([Isaiah 49:5–6](https://biblehub.com/bsb/isaiah/49.htm); [Acts 13:46–48](https://biblehub.com/bsb/acts/13.htm))",
+    "",
+    "Acts also shows the promised power arriving at Pentecost: the followers are filled with the Holy Spirit, and people from many nations hear them speaking in their own languages. Peter connects that gift with the exalted Jesus pouring out what the Father promised. The message about Christ moves outward through the power He gives His witnesses. ([Acts 2:1–8, 32–36](https://biblehub.com/bsb/acts/2.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/24.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-twenty-four-review.md"
+  }
+}

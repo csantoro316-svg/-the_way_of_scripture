@@ -5,17 +5,58 @@
     "label": "Acts 4:23-31",
     "slug": "acts-4-23-31"
   },
-  "versions": [],
-  "context_lines": [
-    "In **Acts 4**, the apostles face threats after proclaiming Christ publicly, and the church responds together in prayer. The chapter is framed by opposition, bold witness, and the sovereign rule of God, so its prayer language is bound to mission rather than self-protection."
+  "section_title": "What do the believers pray for after the threats?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "23 On their release, Peter and John returned to their own people and reported everything that the chief priests and elders had said to them. 24 When the believers heard this, they lifted up their voices to God with one accord. “Sovereign Lord,” they said, “You made the heaven and the earth and the sea and everything in them. 25 You spoke by the Holy Spirit through the mouth of Your servant, our father David: ‘Why do the nations rage and the peoples plot in vain? 26 The kings of the earth take their stand and the rulers gather together against the Lord and against His Anointed One.’ 27 In fact, this is the very city where Herod and Pontius Pilate conspired with the Gentiles and the people of Israel against Your holy servant Jesus, whom You anointed. 28 They carried out what Your hand and will had decided beforehand would happen.",
+        "29 And now, Lord, consider their threats, and enable Your servants to speak Your word with complete boldness, 30 as You stretch out Your hand to heal and perform signs and wonders through the name of Your holy servant Jesus.” 31 After they had prayed, their meeting place was shaken, and they were all filled with the Holy Spirit and spoke the word of God boldly."
+      ]
+    }
   ],
-  "explanation_lines": [
-    "Peter and John have just been released from prison after being threatened by the religious authorities for preaching. The believers gather together, and they pray. What they ask for says everything about how the earliest church understood prayer under real pressure.",
+  "context_lines": [
+    "After their release, Peter and John report the threats to the other believers. The community turns to God together, addressing Him as the sovereign Creator. Their prayer begins with who God is and what He has spoken.",
     "",
-    "*Read the full passage in your Bible (Acts 4:23-31). Key verses are quoted below.*",
+    "They quote Psalm 2 and connect its opposition to the Lord’s Anointed with the actions of Herod, Pilate, Gentiles and people of Israel against Jesus. Those actions were real opposition, yet God’s purpose was not defeated.",
     "",
-    "They do not pray for the threats to stop. They do not pray for protection, or for their circumstances to improve. They begin by acknowledging exactly who God is \u2014 Creator of heaven and earth \u2014 and then ask for one thing: boldness to keep speaking, whatever comes. They surrender the outcome entirely and ask only for the courage to remain faithful inside it.",
+    "The prayer then names the present threats and asks for boldness to speak God’s word, alongside healing and signs through Jesus’s name. The meeting place is shaken, the believers are filled with the Spirit, and they speak boldly. Luke connects their request with the answer he records."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a prayer for God’s work to continue through threatened witnesses, with the Spirit giving fresh boldness. [Wesley on verse 31](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) describes them as filled afresh, and [Calvin on verse 31](https://biblehub.com/commentaries/calvin/acts/4.htm) emphasizes both the sign of God’s presence and the practical answer of strengthened witness."
+  ],
+  "god_plan_lines": [
+    "The believers explicitly apply [Psalm 2:1–2](https://biblehub.com/bsb/psalms/2.htm) to the opposition against Jesus. The wider psalm places the nations’ hostility alongside God’s established King and His purpose for the nations. Their prayer rests on that larger view of whose purposes will stand.",
     "",
-    "This is the early church's answer to hardship \u2014 not \"Lord, remove this,\" but \"Lord, make us faithful in it.\" Paul asks for the same thing from prison years later: not release, not relief from his chains, but boldness to keep proclaiming the gospel in spite of them (Ephesians 6:19-20). The pattern holds from the first chapters of Acts to the last of Paul's letters \u2014 when believers are under real pressure, what they consistently ask for is not an exit from the pressure, but the courage to remain faithful inside it."
-  ]
+    "[Ephesians 6:18–20](https://biblehub.com/bsb/ephesians/6.htm) gives a later echo: Paul asks believers to pray that he will proclaim the gospel fearlessly while in chains. Prayer supports the witness of God’s people through hardship as the mission continues."
+  ],
+  "current_position_lines": [
+    "Prayer and Faith reads this as a specific request aimed at God’s purpose: boldness to proclaim His word and His power at work through Jesus’s name. What Does Prayer Look Like? also emphasizes the believers’ desire to remain faithful under pressure. The account records God strengthening them for the witness they have asked to continue."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/4.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-acts-four-review.md",
+    "position_source_detail": "Prayer and Faith — Acts4:29–31 A Request Rightly Aimed; What Does Prayer Look Like? section8Acts4:23–31. Positive developed prayer priorities only; allreliefrequests verdictnotoriginated."
+  }
 }

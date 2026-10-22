@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "22:34-40",
+    "label": "Matthew 22:34-40",
+    "slug": "matthew-22-34-40"
+  },
+  "section_title": "Love God and Love Your Neighbor",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "34 And when the Pharisees heard that Jesus had silenced the Sadducees, they themselves gathered together. 35 One of them, an expert in the law, tested Him with a question: 36 “Teacher, which commandment is the greatest in the Law?”",
+        "37 Jesus declared, “‘Love the Lord your God with all your heart and with all your soul and with all your mind.’ 38 This is the first and greatest commandment. 39 And the second is like it: ‘Love your neighbor as yourself.’ 40 All the Law and the Prophets hang on these two commandments.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "After Jesus silences the Sadducees, the Pharisees gather and an expert in the law asks Him which commandment is greatest. Matthew describes this as a test. Jesus answers from [Deuteronomy 6:4–9](https://biblehub.com/bsb/deuteronomy/6.htm), where Israel is called to love the LORD wholeheartedly and carry His words into daily life.",
+    "",
+    "Jesus adds a second commandment from [Leviticus 19:18](https://biblehub.com/bsb/leviticus/19.htm): love for one's neighbor. Its setting includes honest dealings, care for the poor, fair judgment, and refusing hatred and revenge. Love has practical content in the very passage from which Jesus draws it.",
+    "",
+    "All the Law and the Prophets depend on these two commandments. They bring devotion to God and our treatment of others together. [Mark 12:28–34](https://biblehub.com/bsb/mark/12.htm) records the scribe agreeing that such love is greater than burnt offerings and sacrifices, and Jesus commending his wise answer. That fuller account helps us hear the exchange without inventing a hidden motive for every word."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand these two commands as holding together wholehearted love for God and active love for other people. The Catholic [Catechism, 2055](https://www.vatican.va/archive/ENG0015/__P78.HTM), reads the commandments in that light; the [US Catholic bishops' notes on 22:37–40](https://bible.usccb.org/bible/matthew/22) and [Wesley's references on 22:37–39](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) likewise connect Jesus' answer with Deuteronomy and Leviticus."
+  ],
+  "god_plan_lines": [
+    "God's purpose is to form people whose lives reflect His love. [1 John 4:7–21](https://biblehub.com/bsb/1_john/4.htm) begins with His love shown in sending His Son so that we might live through Him. It then connects receiving that love with loving one another: love for God cannot be separated from how we treat a brother or sister.",
+    "",
+    "[Galatians 5:13–25](https://biblehub.com/bsb/galatians/5.htm) calls believers to serve one another in love and names love among the fruit of the Spirit. The commands Jesus names fit within that larger work of God: through His Son and Spirit, He brings people into a shared life marked by love."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/22.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-two-review.md"
+  }
+}

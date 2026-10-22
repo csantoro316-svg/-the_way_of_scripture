@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Colossians",
+    "citation": "1:24-29",
+    "label": "Colossians 1:24-29",
+    "slug": "colossians-1-24-29"
+  },
+  "section_title": "Why does Paul suffer and work for the church?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "24 Now I rejoice in my sufferings for you, and I fill up in my flesh what is lacking in regard to Christ’s afflictions for the sake of His body, which is the church. 25 I became its servant by the commission God gave me to fully proclaim to you the word of God, 26 the mystery that was hidden for ages and generations but is now revealed to His saints. 27 To them God has chosen to make known among the Gentiles the glorious riches of this mystery, which is Christ in you, the hope of glory.",
+        "28 We proclaim Him, admonishing and teaching everyone with all wisdom, so that we may present everyone perfect in Christ. 29 To this end I also labor, striving with all His energy working powerfully within me."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul has just called himself a servant of the gospel. He now describes what that service costs and what it seeks: he suffers for the church and works to proclaim God’s word fully.",
+    "",
+    "His statement about filling up what is lacking in Christ’s afflictions needs the surrounding context. The previous paragraph already located reconciliation in Christ’s death. Here Paul describes his own suffering for Christ’s body, the church, as he carries out his commission.",
+    "",
+    "The message once hidden has now been made known among the Gentiles: Christ in them, the hope of glory. Mystery here is explained as something God has revealed, so Paul makes Christ known openly.",
+    "",
+    "The goal is to present everyone mature in Christ. Paul warns and teaches toward that end, laboring with the energy Christ powerfully supplies. His effort and his dependence on the Lord belong together."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Paul’s suffering as service for the church, while affirming the sufficiency of Christ’s saving sacrifice. [Wesley’s note on verse 24](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-colossians/) distinguishes the suffering of Christ’s members from the work by which Christ reconciled them to God. The Catholic [Catechism, paragraph 618](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/article_4/paragraph_2_jesus_died_crucified.html), likewise calls Christ’s sacrifice unique and describes His invitation to share in His suffering. These readings keep Christian suffering in relation to His work rather than treating the cross as a failed or incomplete sacrifice."
+  ],
+  "god_plan_lines": [
+    "In [Acts 9:1–6](https://biblehub.com/bsb/acts/9.htm), Jesus identifies Saul’s persecution of His disciples as persecution of Himself. This supplies a clear parallel to the relationship between Christ and His suffering body here.",
+    "",
+    "[Ephesians 3:4–12](https://biblehub.com/bsb/ephesians/3.htm) explains the revealed mystery as Gentiles sharing the promise and the same body through the gospel. It places that welcome within God’s eternal purpose in Christ and the display of His wisdom through the church. Paul’s costly service helps make that purpose known and bring people to maturity in Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/colossians/1.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-colossians-two-review.md"
+  }
+}

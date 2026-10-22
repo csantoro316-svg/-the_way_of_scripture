@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "2:21-24",
+    "label": "Luke 2:21-24",
+    "slug": "luke-2-21-24"
+  },
+  "section_title": "Why is Jesus presented to the Lord?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "21 When the eight days before His circumcision had passed, He was named Jesus, the name the angel had given Him before He was conceived. 22 And when the time of purification according to the Law of Moses was complete, His parents brought Him to Jerusalem to present Him to the Lord 23 (as it is written in the Law of the Lord: “Every firstborn male shall be consecrated to the Lord”), 24 and to offer the sacrifice specified in the Law of the Lord: “A pair of turtledoves or two young pigeons.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus is circumcised and receives the name announced before His conception. As with John’s naming, the family follows the word given through the angel. The child’s name belongs to the promise already unfolding. ([Luke 1:31](https://biblehub.com/bsb/luke/1.htm))",
+    "",
+    "The family then goes to Jerusalem for the requirements of the Law. Luke brings together the mother’s purification, the firstborn belonging to the Lord, and the offering of two birds. Exodus calls for the firstborn to be dedicated to God, and Leviticus gives the purification instructions after childbirth. ([Exodus 13:1–2](https://biblehub.com/bsb/exodus/13.htm); [Leviticus 12:1–8](https://biblehub.com/bsb/leviticus/12.htm))",
+    "",
+    "Leviticus allows two birds when a family cannot afford a lamb. That is the provision Luke records them using. Its language of ceremonial cleansing after childbirth should be read within those instructions; the passage does not accuse Mary of committing a moral offense by giving birth."
+  ],
+  "common_interpretation_lines": [
+    "Christian traditions commonly understand the presentation as showing Jesus’ place within Israel’s covenant life and His family’s faithfulness to God’s Law. The child who will fulfill God’s saving promises enters the ordinary practices of the people to whom those promises were given. ([Catechism 527–529](https://www.vatican.va/archive/ENG0015/__P1L.HTM); [Wesley on Luke 2:21–24](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))"
+  ],
+  "god_plan_lines": [
+    "Paul explains that God sent His Son, born of a woman and under the Law, to redeem and bring people into His family. These early acts of obedience belong to the earthly life through which the Son carries out that saving purpose. ([Galatians 4:4–7](https://biblehub.com/bsb/galatians/4.htm))",
+    "",
+    "The temple offering also looks toward a wider New Testament distinction. Hebrews explains that the Law’s repeated sacrifices could not complete the cleansing people needed, and that Christ came in a real human body to do God’s will through His own once-for-all offering. The family’s obedience is part of Israel’s worshiping life; the child Himself will bring the saving work to its fulfillment. ([Hebrews 10:1–10](https://biblehub.com/bsb/hebrews/10.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-two-closing-review.md"
+  }
+}

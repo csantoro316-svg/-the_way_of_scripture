@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "5:38-42",
+    "label": "Matthew 5:38-42",
+    "slug": "matthew-5-38-42"
+  },
+  "section_title": "Mercy Instead of Personal Revenge",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "38 You have heard that it was said, ‘Eye for eye and tooth for tooth.’ 39 But I tell you not to resist an evil person. If someone slaps you on your right cheek, turn to him the other also;",
+        "40 if someone wants to sue you and take your tunic, let him have your cloak as well; 41 and if someone forces you to go one mile, go with him two miles. 42 Give to the one who asks you, and do not turn away from the one who wants to borrow from you."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus next addresses the desire to answer harm with harm. The eye-for-eye rule appears in [Exodus 21:22–25](https://biblehub.com/bsb/exodus/21.htm), [Leviticus 24:19–22](https://biblehub.com/bsb/leviticus/24.htm), and [Deuteronomy 19:18–21](https://biblehub.com/bsb/deuteronomy/19.htm). These laws concern proportionate consequences for injury and wrongdoing. Deuteronomy places the decision in the hands of judges investigating a case.",
+    "",
+    "Jesus' examples concern a slap, a lawsuit for clothing, forced service, and requests for help. In each case He directs the hearer away from insisting on personal repayment and toward a response that gives more than the other person demands. The closing words make generosity part of the teaching alongside refusing revenge.",
+    "",
+    "The verb for forcing someone to go a mile is ἀγγαρεύω, *angareuō* (ang-gar-YOO-oh). [Thayer's Greek Lexicon](https://biblehub.com/greek/29.htm) explains it as compelling someone to make a journey, carry a burden, or perform another service. Matthew uses the same verb when Simon is made to carry Jesus' cross in [Matthew 27:32](https://biblehub.com/bsb/matthew/27.htm). Here Jesus calls for a willing second mile in response to a compelled first one.",
+    "",
+    "The saying about not resisting an evil person raises questions about how far the command extends. The illustrations plainly challenge the impulse to retaliate. Christians differ over how those instructions relate to protecting another person, the work of government, and the use of force."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly reject personal vengeance and call for mercy and generosity. Their differences become clearer when they discuss defense against violence and public responsibility.",
+    "",
+    "Catholic teaching allows proportionate defense of oneself or others and says protecting those in one's care can be a duty; see the [Catechism, 2263–2265](https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_two/article_5/i_respect_for_human_life.html). The Reformed [Westminster Confession, chapter 23.1–2](https://www.opc.org/wcf.html), permits Christians to serve in government and recognizes a public role in restraining wrongdoing, including war on just and necessary occasions. These teachings distinguish giving up private revenge from rejecting every use of protective or public force.",
+    "",
+    "Mennonite teaching understands following Jesus to require a nonviolent response even to violence and warfare. [Mennonite Church USA's Confession of Faith, article 22](https://www.mennoniteusa.org/who-are-mennonites/what-we-believe/confession-of-faith/peace-justice-and-nonresistance/), rejects military participation and calls believers to resist evil without violence. It also opposes abuse and injustice: this reading seeks an active, peaceful response to wrong rather than simply leaving it unchallenged."
+  ],
+  "god_plan_lines": [
+    "Jesus' own suffering gives the teaching a powerful expression. [1 Peter 2:21–25](https://biblehub.com/bsb/1_peter/2.htm) describes Him enduring insults and suffering without returning threats, entrusting Himself to the One who judges justly. Peter presents His conduct as an example for His followers and also explains that He bore their sins. The cross is both God's saving work and a pattern of responding to evil without returning it.",
+    "",
+    "[Romans 12:17–21](https://biblehub.com/bsb/romans/12.htm) places the same response within trust in God's judgment. Believers are to leave vengeance to God, care for an enemy in need, and overcome evil with good. This gives a larger reason for the costly generosity Jesus describes: His people can act for another person's good because justice does not finally depend on their taking revenge."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/5.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-marriage-oaths-and-mercy-review.md"
+  }
+}

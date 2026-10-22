@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "20:1-8",
+    "label": "Luke 20:1-8",
+    "slug": "luke-20-1-8"
+  },
+  "section_title": "What does John’s baptism have to do with Jesus’ authority?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 One day as Jesus was teaching the people in the temple courts and proclaiming the gospel, the chief priests and scribes, together with the elders, came up to Him. 2 “Tell us,” they said, “by what authority are You doing these things, and who gave You this authority?” 3 “I will also ask you a question,” Jesus replied. “Tell Me: 4 John’s baptism—was it from heaven, or from men?”",
+        "5 They deliberated among themselves and said, “If we say, ‘From heaven,’ He will ask, ‘Why did you not believe him?’ 6 But if we say, ‘From men,’ all the people will stone us, for they are convinced that John was a prophet.” 7 So they answered that they did not know where it was from. 8 And Jesus replied, “Neither will I tell you by what authority I am doing these things.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus is teaching and proclaiming the gospel in the temple courts when chief priests, scribes and elders challenge Him. They ask both what authority He has and who gave it to Him. The question follows His action in the temple and His continued teaching there.",
+    "",
+    "Jesus asks whether John’s baptism came from heaven or from people. The leaders discuss what each answer would cost them: acknowledging a heavenly source would expose their failure to believe John, while denying it would bring them into conflict with people convinced he was a prophet.",
+    "",
+    "They answer that they do not know. Jesus then refuses to tell them by what authority He acts. Luke shows a conversation shaped by their calculations about credibility and the crowd, rather than a straightforward examination of John’s message."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand Jesus’ question as exposing the leaders’ failure to respond to John’s witness. Calvin explains that John had been sent ahead of Christ and had identified Him, so the question is directly relevant to the challenge about Jesus’ authority. The Catholic bishops’ notes place this encounter among the leaders’ attempts to discredit Jesus. ([Calvin on Luke 20:1–8 and Matthew 21:23–27](https://biblehub.com/commentaries/calvin/luke/20.htm); [USCCB notes on Luke 20](https://bible.usccb.org/bible/luke/20))"
+  ],
+  "god_plan_lines": [
+    "John’s Gospel records the Baptist identifying Jesus as the Lamb of God, testifying to the Spirit’s descent and declaring Him to be God’s Son. John’s ministry is therefore part of the witness directing people to Jesus and His saving work. ([John 1:29–34](https://biblehub.com/bsb/john/1.htm))",
+    "",
+    "Acts later records Paul explaining that John’s baptism of repentance directed people to believe in the One coming after him, Jesus. This is an explicit New Testament account of how John’s preparatory ministry fits within the announcement of Christ. ([Acts 19:1–5](https://biblehub.com/bsb/acts/19.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/20.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-twenty-opening-review.md"
+  }
+}

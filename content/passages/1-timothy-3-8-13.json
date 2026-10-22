@@ -5,22 +5,64 @@
     "label": "1 Timothy 3:8-13",
     "slug": "1-timothy-3-8-13"
   },
-  "section_title": "",
-  "versions": [],
+  "section_title": "What makes a person ready for trusted service?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "8 Deacons likewise must be dignified, not double-tongued or given to much wine or greedy for money. 9 They must hold to the mystery of the faith with a clear conscience. 10 Additionally, they must first be tested. Then, if they are above reproach, let them serve as deacons.",
+        "11 In the same way, the women must be dignified, not slanderers, but temperate and faithful in all things. 12 A deacon must be the husband of but one wife, a good manager of his children and of his own household. 13 For those who have served well as deacons acquire for themselves a high standing and great confidence in the faith that is in Christ Jesus."
+      ]
+    }
+  ],
   "context_lines": [
-    "1 Timothy 3:8-13 should be read within the flow of its chapter and the larger argument of 1 Timothy."
+    "Paul turns from overseers to deacons. The Greek term is diakonos (dee-AH-koh-noss). [Thayer’s lexicon](https://biblehub.com/greek/1249.htm) includes servant or minister and recognizes its use for an appointed role of service in the church.",
+    "",
+    "The qualifications concern a trustworthy life: dignity, honest speech, freedom from dependence on wine and greed, faith held with a clear conscience. Those serving are to be tested first.",
+    "",
+    "Verse 11 gives qualifications for women, with their wives as the [BSB footnote](https://biblehub.com/bsb/1_timothy/3.htm) alternative. Paul then mentions marriage and household care and commends those who serve well for gaining standing and confidence in the faith.",
+    "",
+    "The paragraph does not describe service as a lesser spiritual concern. Faith, conscience and conduct matter to this work, and faithful service receives explicit recognition."
   ],
   "common_interpretation_lines": [
-    "*Diakonos* (deacon/servant) is different in kind, not rank \u2014 a recognized role of practical service (see 1 Timothy 3:8-13, Acts 6:1-6), never presented as a rung beneath elder in a chain of command, but as its own distinct function.",
+    "Christians commonly understand these as qualifications for trusted service. One difference concerns the women in verse 11. The Greek word can mean [woman or wife](https://biblehub.com/greek/1135.htm), so its reference must be considered in context.",
     "",
-    "None of these words appears in the New Testament used the way we use \"Pastor\" or \"Bishop\" today \u2014 as a formal title of address, a name someone is called by, a status held for life. Peter is never called \"Bishop Peter.\" Paul never addresses a letter to \"Bishop Timothy\" or \"Bishop Titus,\" even though both men were doing overseer-level work. They're addressed by name. Their function is described. The function never swallows the name.",
+    "[Calvin’s comment on verse 11](https://biblehub.com/commentaries/calvin/1_timothy/3.htm) reads the reference as the wives of deacons and bishops. The [USCCB notes](https://bible.usccb.org/bible/1timothy/3) prefer women serving in the role while acknowledging the wives reading. This is a difference in interpretation of the ancient passage. Catholic teaching on ordination is a separate point: the [Catechism, paragraph 1577](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_three/article_6/vi_who_can_receive_this_sacrament.html), reserves sacred ordination to baptized men.",
     "",
-    "*(For how the early church gathered and what happened when it did, see* Worship as the Early Church Knew It *for the fuller picture \u2014 the leadership question and the worship question are two sides of the same recovery.)*"
+    "The standing gained in verse 13 also receives different explanations. [Wesley’s note](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-timothy/) understands a step toward a higher office. [Calvin’s comment on verse 13](https://biblehub.com/commentaries/calvin/1_timothy/3.htm) instead emphasizes the honor of faithful service itself. [Thayer’s entry for standing](https://biblehub.com/greek/898.htm) describes dignity and wholesome influence; the word alone does not promise a promotion."
+  ],
+  "god_plan_lines": [
+    "[Mark 10:42–45](https://biblehub.com/bsb/mark/10.htm) connects greatness among Jesus’ followers with serving others, grounded in the Son of Man’s own service and self-giving. It supplies a wider setting for the honor attached to faithful service here.",
+    "",
+    "[1 Corinthians 12:4–7](https://biblehub.com/bsb/1_corinthians/12.htm) places different gifts and forms of service under the same Lord and the Spirit’s work for the common good. Trusted service belongs within God’s care for the whole body, rather than a competition for importance."
+  ],
+  "current_position_lines": [
+    "In [Who Shepherds the Church?](https://thewayofscripture.com/studies/who-shepherds-the-church.html), we understand the deacon’s role as recognized practical service, distinct in function from the work of elders. We do not treat it as a lower rung on a ladder to eldership. Its value lies in the faithful service it provides to the body."
   ],
   "deeper_study": [
     {
       "title": "Who Shepherds the Church?",
       "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_timothy/3.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-first-timothy-three-opening-review.md",
+    "position_source_detail": "Who Shepherds the Church?, lines 20–40, especially line 36 explicitly citing 1 Timothy 3:8–13: deacon/servant distinct in kind and function, not a lower rank beneath elders."
+  }
 }

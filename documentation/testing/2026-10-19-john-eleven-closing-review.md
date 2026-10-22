@@ -1,0 +1,47 @@
+# John 11 completion review — 2026-10-19
+
+## Evidence read
+
+Whole baseline11A362–386and11B387–398read;11B387–392coversendofJohn11,393–398beginsJohn12. WholePDFthrough398read;399onwardunread. Public independent wording/structure, teacher/ministry unnamed.
+
+Actual full BSBJohn11:1–57nowread;maintexthas57verses. Fresh quotations below. John12:1–8andJohn20:30–31directlyread;John5:25–29andJohn10:14–18previouslyread/verified;Eph2:11–22and1Cor15:20–26directlyreadforrecentbatches. These supply actual contextual and wider-purpose connections, not teacher-only pattern codes.
+
+ActualCalvin38/42/43/44/45/52/53/54/55infulland39/40/41/46/47/49/51relevantexcerptsread;41remainderreadsubsequently https://biblehub.com/commentaries/calvin/john/11.htm .38contestwithdeathratherthannecessarilyangeratpeople;41thanksgivingbeforeeventwithunrecordedpriorprayerinferred;42FatherSonagreementandpublicwitnesspurpose;43voicegivinglife;51highermeaninginCaiaphas'swordswhilehispoliticalopinionremainshis;52gatheringextendsGentiles. No commentator polemic about Catholicconfessionfrom44orunrecordedprivate-motivecertaintyadopted.
+
+EntireWesleyChapterXIread https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/ :41thanksgiving/Fatherprovidence;43voice;45belief;50unwittinghigherpropheticmeaning;52allages/nationsgathered. His44conditionalEgyptianburialanalogy,49Danielchronologyand48claimcouncilfearwasmerelypretensearenotcheckedfacts. ActualJohnexplicitlyreportsfearandplots,notcompleteinnerstateofallmembers.
+
+ActualofficialCCC2604–2606readincachedprimary https://www.vatican.va/content/catechism/en/part_four/section_one/chapter_one/article_2/in_the_fullness_of_time.html .2604explicitJohn11prayer:thanksgivingprecedesevent,Fatheralwayshearspetitions,trustingGiver. Sharedcoreusedpublicly;do not claimCatholicdocumentdeniespriororongoingpetition. Existingstudycurrent-wordsreadingdoesnotrequireinventingpreviousprivateprayer'swording. No nonBSBquotedScripturecopied.
+
+ActualUSCCB11notesfromopeningresearchincludefullstorypurpose,41Father,43John5:28parallel,48Romanirony,49priestoffice,52scatteredchildren,54Ephraim,55purification. No historicalclaimreproducedunlessalsointext/independentlychecked. PreciseCaiaphasinstallation/succession/datesandEphraimmodernlocationwerenotindependentlyresearchedforthisbatchandarenotpublicfacts.
+
+ExistingPrayerandFaith446–458directlyreadinfull: explicit11:41–42sectiondevelopsthanksgiving,alreadyheard,Son'ssettledtrust,publicwitnesspurpose. Two narrowly attributedpositionsparaphraseit. ItslooseBSBquotationnotcopied;freshBSB41–42retained. Itdoesnotwarrantautomaticguaranteethateverysickpersonwillberaisedafteranyhumanprayer.
+
+## John 11:38–44
+
+Plan section: included, because (a)/(b)/(c): Jesus'John5:25–29promiseaboutHisvoiceanddeadcomingout,explicitlydescribedaspreview;1Cor15resurrection/deathenemyovercomeinChrist.
+Position source: Prayer and Faith, John11:41–42, developedthanksgiving/confidence/witnesspurpose. Narrowly attributed;notnewownerview.
+FLAGGED FOR REVIEW: No exactmomentofLazarusregeneration/bodyreanimation,privateearlierprayer'swords/timing,orwherehisdisembodiedsoulwent/fourdaytripmemories. Baseline'sdetailedSheolcompartmentmapisnotreportedhere. No deadpeopleallwouldriseunlessJesusnamedLazarusclaim:unrecordedcounterfactualomitted.
+
+No mummyhorrorgenreorigin,loosewrappings/embalmingspiceanatomy,unverifiedmodernraisingreports,orJesusangrybecauseFatherforcedunfaircross. Johnstatescave/stone/linen/facecloth/command;thosearesufficient. John12showsLazaruslateratmeal,contradictingbaselinestoryendshere. NoMadethiswordcommandpowerinferiorprophetscomparisonthatneglectsGod'sworkinthem.
+
+Calvin44allegesCatholicconfessioninterpretation;actualCatholicprimarydogmaticclaimnotchecked,soexcluded. No justifiedbanonallchurchdisciplineorotherprayerformsinferred. No healthoutcomeformulaandnoeveryunansweredrequestmeansinsufficientfaith.
+
+## John 11:41–42 (preserved legacy URL)
+
+Plan section: included, because (a)/(c): Jesusexplicitwitness-beliefpurposein42,John20Gospelsigns/belief/lifeoverallpurpose.
+Position source: Prayer and Faith, explicitJohn11:41–42section.
+FLAGGED FOR REVIEW: No study'smislabeledquotationcopied. No claimJesusnevermakespetitionsorallrecordedunrecordedprayeridentical;pagecarefullyspeaksaboutrecordedwords. CCC2604andCalvin41inferearlier/ongoingasking,theirpositionnotmisrepresented. No privateprayertextinvented;immediatepublicthanksgivingandwitnesspurposeclear.
+
+## John 11:45–57
+
+Plan section: included, because (a)/(c): JohnexplicitlyconnectsJesusdeathwithgatheredchildrenbeyondnation;John10oneflockandEph2crossreconcilingJew/Gentile.
+Position source: none.
+FLAGGED FOR REVIEW: No allreporters46necessarilyhadenemymotivesorwereexplicitlySatan'smouthpieces,Rev2directidentificationofallcouncilmembers,officialthree-messianic-miracleslistorinferenceeveryJewrejectedJesus. ManyJewishwitnessesbelieve45;keptclear.
+
+No uniquelyprivilegedprovinceclaim,CaiaphasimmediatesuccessorAnnas/installedforfatherinlaw'srefusaltosubmitRome,allcouncilmembersidenticalinterests,orstandardhighpriestautomaticinfallibility. John'shigherpropheticmeaningdoesnotmakepoliticalmurdergoodorproveCaiaphaspersonallybelieved. No precise70ADfulfillmentassertedwithouthistoricalverification.
+
+No baselinewholeIsraelautomaticfuturephysicalkingdomtimetableasconsensus. No Nicodemussecretwarninginventedfromsilence,exactmidwinterretreatduration,Ephraim=beyondJordan/John'swilderness,orallpeoplehadheardnothingofJesusforoverthreemonths. Textstateswithdrawal,Passoverapproach,purification,arrestorder. Purificationdetailsbeyondtextnotneeded.
+
+## Validation
+
+All three fresh BSB checks pass. Eight tests pass; zero errors /327 warnings. All57actualBSBversescovered; cumulative69reviewedpages /535verses through11:57. Two added/four modified web files;1,524unaffected files, old index records and neighboring prose preserved. Generation idempotent across all1,530files. All three pages checked in390pxreader/standalone:fiveeditorialsections/nooverflow/noliteralMarkdown; Prayer and Faith position links resolve. Actual reader Next38–44to41–42focuses title188px. Hosting dry run/deployment exited zero; all seven affected/index/reader and all eight wholeJohn11/index/reader live files match local bytes.

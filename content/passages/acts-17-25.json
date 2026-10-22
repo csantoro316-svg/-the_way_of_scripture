@@ -5,15 +5,55 @@
     "label": "Acts 17:25",
     "slug": "acts-17-25"
   },
-  "versions": [],
-  "context_lines": [
-    "Acts 17:25 should be read within the flow of its chapter and the larger argument of Acts."
+  "section_title": "Why does God need nothing from human hands?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "25 Nor is He served by human hands, as if He needed anything, because He Himself gives everyone life and breath and everything else."
+      ]
+    }
   ],
-  "explanation_lines": [
-    "**Restored reading:** *\"nor is He honored by human devotion as though He needed anything...\"*",
+  "context_lines": [
+    "Paul has just described God as the Maker and Lord of the world, who does not live in temples made by human hands. He now explains why God does not need people to sustain Him: the direction of dependence runs the other way. He gives everyone life, breath and everything else.",
     "",
-    "Paul confronts the belief that our acts of piety sustain or impress God. He gives life. He sustains the world. Religious behavior \u2014 no matter how sincere \u2014 does not equal true worship when directed at the wrong object or grounded in the wrong theology.",
+    "The word served comes from **θεραπεύω** (*therapeuō*, theh-rah-PYOO-oh). [Thayer’s lexicon](https://biblehub.com/greek/2323.htm) lists serving or doing service as its meaning in Acts 17:25. Elsewhere the word often describes healing, but Paul is not saying God needs medical care. The qualifying phrase about needing anything explains the kind of mistaken dependence he is rejecting.",
     "",
-    "**The underlying danger** is this: we have mistaken performance for presence, goosebumps for godliness, and replaced reverence with noise. Worship has been redefined around what it does to me and how it makes me feel, rather than what I offer in reverence to God."
-  ]
+    "This does not make obedience, generosity or service to others pointless. Paul is correcting the idea that the Creator relies on His creatures to meet a lack in Himself. The following verses explain our dependence on Him and His call for us to repent."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this verse as teaching that God sustains creation without needing creation to sustain Him. Serving God is therefore not a way of supplying something missing from His life or making Him dependent on our gifts."
+  ],
+  "god_plan_lines": [
+    "The giver of life to everyone is also the One who calls everyone to repent in Acts 17:30–31. Creation and judgment belong together: people remain accountable to the God on whom they depend. [Acts 10:42–43](https://biblehub.com/bsb/acts/10.htm) connects the risen Jesus’ role as Judge with forgiveness for those who believe in Him. God’s freedom from need does not mean indifference toward the people He made."
+  ],
+  "current_position_lines": [
+    "Worship as the Early Church Knew It directly uses Acts 17:25 to explain that our acts of devotion do not sustain God or add something He lacks. He gives life; we receive it. The study calls for reverence grounded in that truth, rather than treating religious activity as a way to maintain or impress a needy deity."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/17.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-acts-seventeen-closing-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It: Acts17:25, Not Served by Ritual; later Does God need this? application."
+  }
 }

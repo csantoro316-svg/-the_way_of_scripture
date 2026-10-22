@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "9:30-33",
+    "label": "Romans 9:30-33",
+    "slug": "romans-9-30-33"
+  },
+  "section_title": "How can people seeking righteousness miss it?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "30 What then will we say? That the Gentiles, who did not pursue righteousness, have obtained it, a righteousness that is by faith; 31 but Israel, who pursued a law of righteousness, has not attained it. 32 Why not? Because their pursuit was not by faith, but as if it were by works. They stumbled over the stumbling stone, 33 as it is written: “See, I lay in Zion a stone of stumbling and a rock of offense; and the one who believes in Him will never be put to shame.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul closes the chapter with a striking contrast. Gentiles who had not pursued righteousness have received righteousness by faith, while Israel’s pursuit of a law of righteousness has not reached its goal.",
+    "",
+    "He gives the reason in verse 32: the pursuit was treated as a matter of works rather than faith. The stumbling stone is Christ, the very One in whom righteousness is received. Religious effort can miss its aim when it becomes a basis for confidence instead of leading to trust in Him.",
+    "",
+    "This is Paul’s explanation of the situation he is addressing, not a claim that every Jewish person rejected Christ or that Jewish Scripture contains no teaching about faith and mercy. Paul himself is a Jewish believer, and he has just described a remnant. The warning also confronts anyone who treats religious achievement as a substitute for trust."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the passage as a warning against relying on works to obtain the righteousness God gives through faith. The closing promise directs attention to the One trusted, rather than the amount of effort invested.",
+    "",
+    "The wider disagreement about election also affects how readers connect these verses with the earlier chapter. [Calvin’s comment on verse 30](https://biblehub.com/commentaries/calvin/romans/9.htm) places unbelief beneath God’s prior decision; [Wesley’s note on verse 32](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-romans/) treats failure to believe as Paul’s explanation rather than a decree preventing faith. Both identify faith in Christ as essential."
+  ],
+  "god_plan_lines": [
+    "Paul combines the stone imagery of [Isaiah 8:13–15](https://biblehub.com/bsb/isaiah/8.htm) and [Isaiah 28:14–18](https://biblehub.com/bsb/isaiah/28.htm). In the first, the Lord is both a sanctuary and a stone over which people stumble. In the second, God lays a sure foundation in Zion and promises security to the one who trusts.",
+    "",
+    "Paul applies that contrast to Christ. The same One who is rejected is God’s provision for those who believe. That connection places the call to faith within the prophets’ account of finding safety in what God provides, rather than in the refuges people devise for themselves."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/9.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-nine-review.md"
+  }
+}

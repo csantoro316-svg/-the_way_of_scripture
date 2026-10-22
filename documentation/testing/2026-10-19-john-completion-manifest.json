@@ -1,0 +1,1682 @@
+{
+  "book": "John",
+  "reviewed_on": "2026-10-19",
+  "chapters": 21,
+  "reviewed_groups": 119,
+  "actual_bsb_verses": 878,
+  "traditional_numbered_verses": 879,
+  "footnote_only_verses": {
+    "5": [
+      4
+    ]
+  },
+  "plan_sections": 119,
+  "study_positions": 45,
+  "open_positions": 74,
+  "baseline_pdf_pages_read": 636,
+  "fresh_biblehub_chapters_checked": 21,
+  "groups": [
+    {
+      "slug": "john-1-1-5",
+      "citation": "1:1-5",
+      "actual_bsb_verses": 5,
+      "bsb_sha256": "b08312b201b5da379014fe0aa78056c9f7adc910ebc4946a3aa106e7de524727",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "62ed15ab393262f79ff1d30b367fe59c00453b284489b25ce91969b970c24810",
+      "html_sha256": "1eb99d890b7ca61fe2dc6a3d76fa8609539e7ab2a6d84a80f6c4b282772f5052",
+      "evidence_file": "documentation/testing/2026-10-19-john-opening-review.md"
+    },
+    {
+      "slug": "john-1-1",
+      "citation": "1:1",
+      "actual_bsb_verses": 1,
+      "bsb_sha256": "09c9620e89cbbf56f96c3edb0ddb8b0824a656bf92e940a83cdb527bd3426765",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "2cf02fa1757dc975674c443de9ece092b14dc1bcbadbb4bb00767f82babbacd8",
+      "html_sha256": "4a048d17c6a6d9c55c97ee10da8bd1ea4d45cdeb818f3260a90238cd199e818b",
+      "evidence_file": "documentation/testing/2026-10-19-john-opening-review.md"
+    },
+    {
+      "slug": "john-1-14-18",
+      "citation": "1:14-18",
+      "actual_bsb_verses": 5,
+      "bsb_sha256": "84eb414fe3e2304c6760a2f78b7218628d6e9857c8ec825d61d065d1c4c68333",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "03fc94cf4bcc05ab72bd28d80694983f4a74a04435449ecf3ca09772083f1e4f",
+      "html_sha256": "5f1234a4307815c54c7a427bad823fccc9e0905b3b70cbb771d36aad9df96c95",
+      "evidence_file": "documentation/testing/2026-10-19-john-opening-review.md"
+    },
+    {
+      "slug": "john-1-18",
+      "citation": "1:18",
+      "actual_bsb_verses": 1,
+      "bsb_sha256": "5f19efd73905d9dd680e61e2efe843e7a658504ba5f14d556a35dffd1608ee3f",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "27bbda29469719813197b5e1a46e644004a23cb3f0c58c4ce09c93e1e4b8e28e",
+      "html_sha256": "517a2444aada5dcb0fb573d2455b11634db2b8ee94b2f6c75587205127717678",
+      "evidence_file": "documentation/testing/2026-10-19-john-opening-review.md"
+    },
+    {
+      "slug": "john-1-19-28",
+      "citation": "1:19-28",
+      "actual_bsb_verses": 10,
+      "bsb_sha256": "98c8b3a7f35d972bb018430e45ca80fc8db867370c07aaa8337a9f6fce8cbb06",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "787e8775ee1b35fca0f8803d1b9ab49d799cfe6917ec3ef34076461ad9e9936b",
+      "html_sha256": "6aff2328045be987379e22ac6f2d2fc0f317752e9454a6497bb2fa7273f2f218",
+      "evidence_file": "documentation/testing/2026-10-19-john-one-closing-review.md"
+    },
+    {
+      "slug": "john-1-29-34",
+      "citation": "1:29-34",
+      "actual_bsb_verses": 6,
+      "bsb_sha256": "deb226a7af4d00a0e7d06e6fe061d2347d4837b543ea6b200902f9a615e2a859",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "abe2c898b0f437c2b7f3ceeca8c41ea6bffaea4e7fb7b6837fb2b8d6c3bf6210",
+      "html_sha256": "62c1e9092bb0e0391ec0600f373d5f44437d25cf579c1980d86cd17df114bbb7",
+      "evidence_file": "documentation/testing/2026-10-19-john-one-closing-review.md"
+    },
+    {
+      "slug": "john-1-35-42",
+      "citation": "1:35-42",
+      "actual_bsb_verses": 8,
+      "bsb_sha256": "2691a8c4b6b761ed2fae94c09a4d2b99201f8e72a205a99006d5662650752a0c",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "f7c9bdea63b2820743c471205a2f84014c59f8c1edb3045cb360a0123d634367",
+      "html_sha256": "39014024d03135aeab79a376aade88964a4bd8a19cd5ba8054e86331a5e21e00",
+      "evidence_file": "documentation/testing/2026-10-19-john-one-closing-review.md"
+    },
+    {
+      "slug": "john-1-43-51",
+      "citation": "1:43-51",
+      "actual_bsb_verses": 9,
+      "bsb_sha256": "a8ebf8d7767eb24b9c5d0f34d6b37261d5cb53ce4f4a81c2be5f94405cc98e9e",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "5e14cf25333a5a05f11930b61fa062a2490bd1ce96941a763cf1fd5e5dfea443",
+      "html_sha256": "589a374451894de0e3f55c719913f5f9f91fcc8c6e99f544bb670586f96a81eb",
+      "evidence_file": "documentation/testing/2026-10-19-john-one-closing-review.md"
+    },
+    {
+      "slug": "john-1-6-13",
+      "citation": "1:6-13",
+      "actual_bsb_verses": 8,
+      "bsb_sha256": "ad7783d3325a7a7df1bb7d033e10038dc8344bb40693264ab2d37346f39755f2",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "c096725d394082a74ecb0885bb3ab89801106381cb3b457ec354baae9184ec4d",
+      "html_sha256": "50562a62e8faf51c87aa3d659666d836ad83a0f5b15a7ea647de629052adafde",
+      "evidence_file": "documentation/testing/2026-10-19-john-opening-review.md"
+    },
+    {
+      "slug": "john-10-1-10",
+      "citation": "10:1-10",
+      "actual_bsb_verses": 10,
+      "bsb_sha256": "8cc01038baaf3cbee0045f043c9d022a4f227e71d6acc9e25000b248c726a452",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "22b71955481f22780cbb6e591fa4f41709bc90b5ca657d326ffbd70aba9dac01",
+      "html_sha256": "c57d6d40ef6aa6343387747a8618e0894f64d3760d1f0f42d8ff66e1204d435b",
+      "evidence_file": "documentation/testing/2026-10-19-john-ten-opening-review.md"
+    },
+    {
+      "slug": "john-10-11-21",
+      "citation": "10:11-21",
+      "actual_bsb_verses": 11,
+      "bsb_sha256": "82ee19140d08bd8688d18aa550013391e7f9dbf4077710a3655fcc86cb1f2a8a",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "e9a5b70919724ff9bb524beaf4fe2c6fbc51434ba4fb9848ed71cc0e76dbf572",
+      "html_sha256": "4f30fb436c1d2e6135a4e3022c84101371cf8121995a212a810f783ea11753e1",
+      "evidence_file": "documentation/testing/2026-10-19-john-ten-opening-review.md"
+    },
+    {
+      "slug": "john-10-22-30",
+      "citation": "10:22-30",
+      "actual_bsb_verses": 9,
+      "bsb_sha256": "c3eeec3aa54570116033a451b57a8dc255a9278b68453c6cd87881fe22f631e2",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "c50de5c1d5e38bc3983d04b94c19cefc6edbda0d8b6b0afcc19aff0504b6fb74",
+      "html_sha256": "6aed147813376398e637c0e370330261483d07c8680d307574d0a8cf0b1ae651",
+      "evidence_file": "documentation/testing/2026-10-19-john-ten-closing-review.md"
+    },
+    {
+      "slug": "john-10-31-42",
+      "citation": "10:31-42",
+      "actual_bsb_verses": 12,
+      "bsb_sha256": "2b69a6fc7448a7fc05b3eb77338dcbdb9218105a83c9b4359700949ce7b7d53e",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "61724143aa9821db5f18ee0cc89e1b8e0c9014a0c76fcaec0d44aafec3687e77",
+      "html_sha256": "0070da39f1f63f4d33a84562060dcac41de56c1c3cb3d898c39e8b3a59ddca89",
+      "evidence_file": "documentation/testing/2026-10-19-john-ten-closing-review.md"
+    },
+    {
+      "slug": "john-11-1-16",
+      "citation": "11:1-16",
+      "actual_bsb_verses": 16,
+      "bsb_sha256": "6b9107c0047f18de7482a64e64af7f0716721ce590b23478c3e6f45bd7796d4b",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "8aee64c8e82a87ad14a1887ac75d67d7031e90d79eee447ea949db5f3e593d8b",
+      "html_sha256": "c7c6eafa580abb7d95fc385d9db922fc106e61df93c60bc9c01b4e2131e262b3",
+      "evidence_file": "documentation/testing/2026-10-19-john-eleven-opening-review.md"
+    },
+    {
+      "slug": "john-11-17-27",
+      "citation": "11:17-27",
+      "actual_bsb_verses": 11,
+      "bsb_sha256": "37066dab3db69bf13030d3b96e087ceba88d95010cc3ef6c732b2b763dbb7c24",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "59eae368d3ca835198565488428c4214a7ba492dd015320f9da11ccae09c4ef4",
+      "html_sha256": "e7d36253488c60df15b35636a98310a09eb29ecb07e8544bff6685bf751435ce",
+      "evidence_file": "documentation/testing/2026-10-19-john-eleven-opening-review.md"
+    },
+    {
+      "slug": "john-11-28-37",
+      "citation": "11:28-37",
+      "actual_bsb_verses": 10,
+      "bsb_sha256": "e03a2f2a5316ddba978fbeaeb84ddff6ba5c16dddc282eb6c9effa867c17e4ed",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "44df8bc8bf65629c99565e0927fc6bbd7fc27481d36797ea6510b4734a0b0620",
+      "html_sha256": "55b574d19ef38717565a31fb222a1ff019d7bdd186a86dda9c945c668e357cd2",
+      "evidence_file": "documentation/testing/2026-10-19-john-eleven-opening-review.md"
+    },
+    {
+      "slug": "john-11-38-44",
+      "citation": "11:38-44",
+      "actual_bsb_verses": 7,
+      "bsb_sha256": "b4382ae03d92eb53945a9fac67d2985d60615f9752fe8363e1329db11fc8794f",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "8ea855469ca8ece8c557c8f3892dd6bcf33ddef3cd1b48a89e3c635a95dbb172",
+      "html_sha256": "997674f8b28ae3503482d23cff65a0b70d98aa8e16e07ac7e2b3f0cbc8877142",
+      "evidence_file": "documentation/testing/2026-10-19-john-eleven-closing-review.md"
+    },
+    {
+      "slug": "john-11-41-42",
+      "citation": "11:41-42",
+      "actual_bsb_verses": 2,
+      "bsb_sha256": "1aea0e9d12c5ba03fe344280988b19ad724b2ca019c0acf7348dcc2eb85991e9",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "ddc470733da44948db9bb04d5a410c2cc2b5e0d47a02d1386eedf8e36265d8f2",
+      "html_sha256": "d66ba3de42d82d607af749b965b2c39eabd23e695ec79c8432582633f3f18757",
+      "evidence_file": "documentation/testing/2026-10-19-john-eleven-closing-review.md"
+    },
+    {
+      "slug": "john-11-45-57",
+      "citation": "11:45-57",
+      "actual_bsb_verses": 13,
+      "bsb_sha256": "03697d8f7574529f8078cf160827241f11792804a6df18b52c0eb60f40fd1b60",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "53e618f5d1962d9a781e517991b2ebcf986091d68d6206a7fa3ccfb003d7dfe5",
+      "html_sha256": "80ce022d76f2414032aee7f5fed93f7baa54480fc5713999d1e825850cae7427",
+      "evidence_file": "documentation/testing/2026-10-19-john-eleven-closing-review.md"
+    },
+    {
+      "slug": "john-12-1-11",
+      "citation": "12:1-11",
+      "actual_bsb_verses": 11,
+      "bsb_sha256": "7f22786874bae214ab339b43774af2e58cada08bf49e8109dd795247d43ab0b8",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "4c511094e40aef497445044ab28674cc6e1e5ef70032c3a37ef687214f12f100",
+      "html_sha256": "64f8e869d57d439fa9370a00d1eec1bb2eb6c9c482b6dd94e588d535bfa7f7e0",
+      "evidence_file": "documentation/testing/2026-10-19-john-twelve-opening-review.md"
+    },
+    {
+      "slug": "john-12-12-19",
+      "citation": "12:12-19",
+      "actual_bsb_verses": 8,
+      "bsb_sha256": "a29bf5cd62e4c2a558a14d0cadd1e1eb361002cb5f84553507831248c948f9f7",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "4db1775233fc457f5f0a67e2149684e8640e47e49cb6673ee3c73112d25ee12b",
+      "html_sha256": "b260069e6f8f70652690a88ee5cbdb61c1f2cf713e3e60280570df8881da6af6",
+      "evidence_file": "documentation/testing/2026-10-19-john-twelve-opening-review.md"
+    },
+    {
+      "slug": "john-12-20-26",
+      "citation": "12:20-26",
+      "actual_bsb_verses": 7,
+      "bsb_sha256": "01eecf02a0a5d94843e1c5e6fb7194ce2e1755522efe47361aeadcdf297efdf2",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "850a58e95a13f5365ac044c7a7ff8e886c49c04c70a3b70153e42218f659d8c4",
+      "html_sha256": "36fda54e4d0c3f8649a0a099fd5a50edb9091ba330f5bd5f997f77e8d42ecc65",
+      "evidence_file": "documentation/testing/2026-10-19-john-twelve-cross-review.md"
+    },
+    {
+      "slug": "john-12-27-36",
+      "citation": "12:27-36",
+      "actual_bsb_verses": 10,
+      "bsb_sha256": "abe5d5629a2fefa841cc22f9a6c73e745f52bbb5870e38a27b04b9f5b117b46e",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "a02ee1a2a47f9d56513f08def504a4aa07a378e9d236578c197ffa83bb12bf5c",
+      "html_sha256": "3082bdfe9b712487bf71f9621f5811bc1a663852ac4fed12505cf68cf170e59b",
+      "evidence_file": "documentation/testing/2026-10-19-john-twelve-cross-review.md"
+    },
+    {
+      "slug": "john-12-37-43",
+      "citation": "12:37-43",
+      "actual_bsb_verses": 7,
+      "bsb_sha256": "7aa98391306498384d91771a658cacd8537201aedd90bf2e286124635d8698ec",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "912ff9aafc32347852f6ba22e4a778286211c1fdef914b9ff9be8f7c23a20e80",
+      "html_sha256": "568c4d0ef575e56c69c771165ca5d831a085ad8264cf0e0b6b3235275a406316",
+      "evidence_file": "documentation/testing/2026-10-19-john-twelve-closing-review.md"
+    },
+    {
+      "slug": "john-12-44-50",
+      "citation": "12:44-50",
+      "actual_bsb_verses": 7,
+      "bsb_sha256": "42704dce6b6e72e8a9c5054856f16161c83826794a111af4d866952804b2af6e",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "1140f6b6a58b1530af54d50500fd00641c714abf44dd28d5f7362abd4a42f3eb",
+      "html_sha256": "11aeb0ae0e277a74ca4c0fbd3d2b433dfbbb5c01317b008bc65a036a5cd963ae",
+      "evidence_file": "documentation/testing/2026-10-19-john-twelve-closing-review.md"
+    },
+    {
+      "slug": "john-13-1-17",
+      "citation": "13:1-17",
+      "actual_bsb_verses": 17,
+      "bsb_sha256": "f9f7df74237bc401c1933534c774707dec01d1bb0ba39c6225cbf4639981283c",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "dd4934f5245bddae522c09ed1000aa1c6fe8494f23a64646cc4a65bf0739ae67",
+      "html_sha256": "99e8483622759e5cf768899bb6c32cfc087862c0248b3d009c301614b1059053",
+      "evidence_file": "documentation/testing/2026-10-19-john-thirteen-opening-review.md"
+    },
+    {
+      "slug": "john-13-18-30",
+      "citation": "13:18-30",
+      "actual_bsb_verses": 13,
+      "bsb_sha256": "7a346018abbd01497701d7522b84858157c8387bfef58f5139940afa4282cd2a",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "777baec49f102ab8af2f8a15a25480d1b82dd6ba528bbd985d8ad7f207a8198d",
+      "html_sha256": "99ae404bb96b197bdeba6308c820b17ad120fe85636a238e798e36d9a532634b",
+      "evidence_file": "documentation/testing/2026-10-19-john-thirteen-opening-review.md"
+    },
+    {
+      "slug": "john-13-31-35",
+      "citation": "13:31-35",
+      "actual_bsb_verses": 5,
+      "bsb_sha256": "e3933e5929dbc182e2348152558e925656464da56d6a34202d466081a57904ef",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "041bf363d47f5c49a90a31cfa43123eec52d17d1632df7341daae5248595d590",
+      "html_sha256": "ceba7a38cd94ea0b5be0665ce7c8ef7ec30dbb1b9b11f4ee2e23ef5a60a2ea39",
+      "evidence_file": "documentation/testing/2026-10-19-john-thirteen-closing-review.md"
+    },
+    {
+      "slug": "john-13-34-35",
+      "citation": "13:34-35",
+      "actual_bsb_verses": 2,
+      "bsb_sha256": "a6267788aaa76fe44a2ee8ff14f7a875e342d4035db0929624bceba7b78f76e6",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "c475a19e9c481e3a55914ec9f9e93f7ea5983c38a16ae6b8bfd7d4e4dddce1ac",
+      "html_sha256": "1d7ce7bea5b6d44be40ae8112918e0c33060c872d9ac6f82ac19202a0ff505db",
+      "evidence_file": "documentation/testing/2026-10-19-john-thirteen-closing-review.md"
+    },
+    {
+      "slug": "john-13-35",
+      "citation": "13:35",
+      "actual_bsb_verses": 1,
+      "bsb_sha256": "555557ba6521074b7fc3db62996ff2ce42f67bd7008d318cee5e79dabd487a0d",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "0ebac65d09bedb45f777083bcba71573fa06a50648f4ee952ef5ff9f2a77add9",
+      "html_sha256": "0a7553d6efe06313959818f1a32fde351bbd180cc40868cbdf46666e918695bb",
+      "evidence_file": "documentation/testing/2026-10-19-john-thirteen-closing-review.md"
+    },
+    {
+      "slug": "john-13-36-38",
+      "citation": "13:36-38",
+      "actual_bsb_verses": 3,
+      "bsb_sha256": "3f89187c24628b87d06578d4d5c92e82dc8ad48906fb647aa01c121c396e0fe6",
+      "plan_basis": [
+        "a"
+      ],
+      "position_source": "none",
+      "source_sha256": "9e621f77802a263696343aebffc9b5ef3ac0c67758c8f369a3f95e9a4a41af13",
+      "html_sha256": "838c13f5d104c83bb7e26929644f76548d8953bb3789fb59d2035828f1985380",
+      "evidence_file": "documentation/testing/2026-10-19-john-thirteen-closing-review.md"
+    },
+    {
+      "slug": "john-14-1-7",
+      "citation": "14:1-7",
+      "actual_bsb_verses": 7,
+      "bsb_sha256": "3a825403d246917cd642bc0d9e68d58fad1f8ac80a6382abf14788d4adb7c58c",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "a1b57b4022c571240b9e3963eb331bd6c22c42f9e5dce7a3e4bfed2fd4a1bfde",
+      "html_sha256": "997bd4fe2f5b9ec9a2f83865b1cd169cf48d81a766b1148746c6bef2239e8b10",
+      "evidence_file": "documentation/testing/2026-10-19-john-fourteen-opening-review.md"
+    },
+    {
+      "slug": "john-14-12-14",
+      "citation": "14:12-14",
+      "actual_bsb_verses": 3,
+      "bsb_sha256": "9f93c988d102ba3921a8318b14ae005c20d576c33a3d31768207dc0090132267",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "e409d1326528d754acee5de4affbe7152328c8db4dfae4d2a4a0c7fbcd3b8a12",
+      "html_sha256": "ba15ef539aebf4f3785ddbb34890eeb39faf18552c25bb4797c47b12389a68ba",
+      "evidence_file": "documentation/testing/2026-10-19-john-fourteen-closing-review.md"
+    },
+    {
+      "slug": "john-14-13-14",
+      "citation": "14:13-14",
+      "actual_bsb_verses": 2,
+      "bsb_sha256": "563fee3ecd4a51feed8a2363a56f95e17d0d8e5ded34281246ae286042bbabc1",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "ecf42ff07152ad4f1b29c606b798d76fefe137671bb946aad7d97f7261b9381a",
+      "html_sha256": "056cd6278a2bcbff8f97afccd4257b18c84d27fefbffd2113f468006ff19a76f",
+      "evidence_file": "documentation/testing/2026-10-19-john-fourteen-closing-review.md"
+    },
+    {
+      "slug": "john-14-13",
+      "citation": "14:13",
+      "actual_bsb_verses": 1,
+      "bsb_sha256": "bf6cb73a5c1992161dba9c86cc0cd8b8d9a27bc46402d0c7b5dfe283049ff709",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "5a0c60ca66330dde8334409297daaf8806868f405ba4d4be1f2491b183af23b2",
+      "html_sha256": "04b075ce4569584a8a7c43c314617b6b6dcbab9be75051c3ba7f9008b16e10c8",
+      "evidence_file": "documentation/testing/2026-10-19-john-fourteen-closing-review.md"
+    },
+    {
+      "slug": "john-14-15-24",
+      "citation": "14:15-24",
+      "actual_bsb_verses": 10,
+      "bsb_sha256": "718e491e714ef4d9d0378cf94a21beb5e7d8145ca6831b6beaf90afa8a83fdf8",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "7d842f37471308222ccf6802324552c1153ba77e1063c7617765de0a921cf493",
+      "html_sha256": "38e02ea6d6b30b340ed2c9c2f3281049abb15b3fda8847623bd60f156d44fb5b",
+      "evidence_file": "documentation/testing/2026-10-19-john-fourteen-closing-review.md"
+    },
+    {
+      "slug": "john-14-25-31",
+      "citation": "14:25-31",
+      "actual_bsb_verses": 7,
+      "bsb_sha256": "7a1685bf6c0fad1f50f38b8d60c4551de11396523d5b2651933e4e154834dfe1",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "4d61469b2ef15cdf03cf3feccccb3f1716a651c29682524cfc9d8e132277d71c",
+      "html_sha256": "8fce512e74d07c08d13b4d62d7ca10448f096f2ea70ea15b043a3ac868caf647",
+      "evidence_file": "documentation/testing/2026-10-19-john-fourteen-closing-review.md"
+    },
+    {
+      "slug": "john-14-8-11",
+      "citation": "14:8-11",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "f28619207a8390066261b741a38b77bc80f75b2d1579c948ea2419f10a9ebe65",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "3e95d4ced0064a926dda8abb2219d562350da4d584f015aa3cbc482f15ec4081",
+      "html_sha256": "00169cd499664e6c1374985786f0a381d37eeefbaff20c2857f9560e80d85b4e",
+      "evidence_file": "documentation/testing/2026-10-19-john-fourteen-opening-review.md"
+    },
+    {
+      "slug": "john-15-1-11",
+      "citation": "15:1-11",
+      "actual_bsb_verses": 11,
+      "bsb_sha256": "caba039c8d859c5d975ff463034297e6ffddc93e532d49389e1c193b44d4f1ef",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "9b25ffe91a8200e7e20aa5deff5ff47f6505017bb124c43c02cf8a71540c1153",
+      "html_sha256": "b094fa74804dde2ff54d96b9b0d2356d1b9da7408f1c8145c5d835bf5eff8e76",
+      "evidence_file": "documentation/testing/2026-10-19-john-fifteen-opening-review.md"
+    },
+    {
+      "slug": "john-15-12-17",
+      "citation": "15:12-17",
+      "actual_bsb_verses": 6,
+      "bsb_sha256": "8955dc19b5d170b9a8eac91818f366ffe9e3de4ba94c5f446f9824e513f9a068",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "639ffddfe13974b387e30a548b6ead6f4710756028c0f04d8407e89c1c518c22",
+      "html_sha256": "198600ce006da5e00024c53ed56e4cfae85642bdadbf04fa45417a31e13e6a57",
+      "evidence_file": "documentation/testing/2026-10-19-john-fifteen-closing-review.md"
+    },
+    {
+      "slug": "john-15-18-27",
+      "citation": "15:18-27",
+      "actual_bsb_verses": 10,
+      "bsb_sha256": "44e660619342f903a45a80136adb438248f911357ebe09abd7f531428ecc08fa",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "b0219453d102c530cfe6ef7b84bbd2e3faeea7a31af28ac3d3634ee56f2e03a3",
+      "html_sha256": "cbb226706c1014faaeedc93f665d9799c852758b3005b2a2ae03f1a726811837",
+      "evidence_file": "documentation/testing/2026-10-19-john-fifteen-closing-review.md"
+    },
+    {
+      "slug": "john-15-4-5",
+      "citation": "15:4-5",
+      "actual_bsb_verses": 2,
+      "bsb_sha256": "00a87b11d64f12d9d704a5888e7c15d8a2c6c26ed1a50748735653f8aea10b70",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "945aa4427728328f800b9dd240056cfb131523bfe7855fb2ac9fdffd3bb4507c",
+      "html_sha256": "65d915e9c7ffa72d300a5909e8977b7347e129e2b9f19bad3c559593b5c564c3",
+      "evidence_file": "documentation/testing/2026-10-19-john-fifteen-opening-review.md"
+    },
+    {
+      "slug": "john-15-5",
+      "citation": "15:5",
+      "actual_bsb_verses": 1,
+      "bsb_sha256": "1793a1908e4ba5aaab1f88ab65b35fb7bbc2770fb3465649512eb05abdd855bc",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "e96a34f92a92ae4f51af7532b4f21c428e081a7f6364635137557721c7d7a9cd",
+      "html_sha256": "40c01dbfa0712e5b1ecb42248930ec69fdcfac5b53dfaa35970efe9e50a9d03c",
+      "evidence_file": "documentation/testing/2026-10-19-john-fifteen-opening-review.md"
+    },
+    {
+      "slug": "john-15-7",
+      "citation": "15:7",
+      "actual_bsb_verses": 1,
+      "bsb_sha256": "956fc3479469225d5a4a2d8883e905adbd4f4975ed97a5ce66f87415a251b91e",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "1f5bb941cb13e2e056c167ceaac570e046023c95cba540ff0594af5074e75666",
+      "html_sha256": "7786f6a4cdbc84d7af6240fa0330c37861befce4a4b180510461360d74ab0c38",
+      "evidence_file": "documentation/testing/2026-10-19-john-fifteen-opening-review.md"
+    },
+    {
+      "slug": "john-16-1-6",
+      "citation": "16:1-6",
+      "actual_bsb_verses": 6,
+      "bsb_sha256": "fbcc9e6c47b01ed9d38b54755119bec24f305d021560bf87f53f9a341f1f4443",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "4540dbe1a865a0378b51873e273a7befba30ac92c3084704827c7714d4f1e57a",
+      "html_sha256": "3b0f85ed4db48aa19e874d90b7d374930eea79d64ac1a9cdd28f16e25dd246cc",
+      "evidence_file": "documentation/testing/2026-10-19-john-sixteen-review.md"
+    },
+    {
+      "slug": "john-16-16-24",
+      "citation": "16:16-24",
+      "actual_bsb_verses": 9,
+      "bsb_sha256": "a0db5101b137adc41b8d089c67bdd07e538f829c41fe4a18549ce2a8c4389b8f",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "0a36d657b48cf7bb24e781c31c59cd7d163ff8992457e8fdba289a88ddf99045",
+      "html_sha256": "68091155d4597a150c2a94a2a5452c3b0bfc18e2fa00ab3ce0eaa7396d6777d3",
+      "evidence_file": "documentation/testing/2026-10-19-john-sixteen-review.md"
+    },
+    {
+      "slug": "john-16-23-24",
+      "citation": "16:23-24",
+      "actual_bsb_verses": 2,
+      "bsb_sha256": "d072c146e89f003db9a9492f2194e71c6453cbca29a52c431cb446a63023d44f",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "546045fb0043dd73ebedb607b5a09a9d3d624d611869e257a2e1ce1437e749f8",
+      "html_sha256": "751839c4624f8fce0611bb237dfedb0a7089191399d637051ff84541c1c20f4d",
+      "evidence_file": "documentation/testing/2026-10-19-john-sixteen-review.md"
+    },
+    {
+      "slug": "john-16-25-33",
+      "citation": "16:25-33",
+      "actual_bsb_verses": 9,
+      "bsb_sha256": "be5d9056dac1fcf7e2077a646aabad550bb6164f491c202a9cf717781cc917d2",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "64224c779d29ae742089ca5b41aa7b84fbbab1b674c912194e39e5c6033f06c1",
+      "html_sha256": "bf2d461529da7414d67f63a5bc043ccf8b30c54e5ccacf289511ed28d0c93306",
+      "evidence_file": "documentation/testing/2026-10-19-john-sixteen-review.md"
+    },
+    {
+      "slug": "john-16-7-15",
+      "citation": "16:7-15",
+      "actual_bsb_verses": 9,
+      "bsb_sha256": "644603a092f42f7910f2aafae6b0be3e15ae1f270bc6166986882aa63a8853de",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "9552940136943776925d730d2def79d4e44b6dab158a9f5f37c91ec9e613385e",
+      "html_sha256": "202032b1a50f727a1052c2ff62461be98d728ffd4f4408125e02142b270bbd4d",
+      "evidence_file": "documentation/testing/2026-10-19-john-sixteen-review.md"
+    },
+    {
+      "slug": "john-17-1-5",
+      "citation": "17:1-5",
+      "actual_bsb_verses": 5,
+      "bsb_sha256": "cd4c055ee1942a24a9d160c5e6a1b4ea9e85cdbce5c489576c4bc3adc420f0b0",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "e53d1e18aee9c3166640312c5c7234e529d5c8c63d28312aeb3ba76c64466f70",
+      "html_sha256": "1529e2126214a4ab31ded85b99c7aa574065ea01833c1088a99b707138816223",
+      "evidence_file": "documentation/testing/2026-10-19-john-seventeen-review.md"
+    },
+    {
+      "slug": "john-17-13-19",
+      "citation": "17:13-19",
+      "actual_bsb_verses": 7,
+      "bsb_sha256": "3920de260af9ebed67613d3f29d28898aedefba41541d52273362374cfa13b8c",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "b7c998268d00d57b494aae2be0375bffa13937f5c1395ec5a683c7ec87040f32",
+      "html_sha256": "8987c3ada64417f8e5c240e6d466fa4786bb0a54f0c14666ea3e7fc1c9ed1a41",
+      "evidence_file": "documentation/testing/2026-10-19-john-seventeen-review.md"
+    },
+    {
+      "slug": "john-17-20-26",
+      "citation": "17:20-26",
+      "actual_bsb_verses": 7,
+      "bsb_sha256": "0baf6a92c099233b4d8f65b52aa093c1d17d46feade62bd6f021440fe1c96e6e",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "bb8d699bd69e4c1f6d896edf3f4abb749d152bff6696c962128ccc4ed969575a",
+      "html_sha256": "9b1c6604e440a4fc8c0035ac940e81582b72bb3bc5a5d8eb456124818ff755bf",
+      "evidence_file": "documentation/testing/2026-10-19-john-seventeen-review.md"
+    },
+    {
+      "slug": "john-17-6-12",
+      "citation": "17:6-12",
+      "actual_bsb_verses": 7,
+      "bsb_sha256": "51422f857e98e805e8161de84996ef6e078e49b11fe28e032ebdaa443adcc111",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "4a48929bbbf379b00ef812dc6ef08545d8f53ed151177187c6aeab586aefc0af",
+      "html_sha256": "ab303a0192256b9466d4fece57d8425e356e33158da8ec127c9166bc61d7175b",
+      "evidence_file": "documentation/testing/2026-10-19-john-seventeen-review.md"
+    },
+    {
+      "slug": "john-18-1-11",
+      "citation": "18:1-11",
+      "actual_bsb_verses": 11,
+      "bsb_sha256": "1e2468b0ad290971ad4a4da7c910146aa4f6f56b707ce350fa0f1dfacab9d97e",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "58f27ad33434da43944fa9aa330631334ff062ee8935783d6c24f655d7c8f730",
+      "html_sha256": "9236aab7f0704a880a410cca5e94811a896b6591321a781b5bf47e276226fb45",
+      "evidence_file": "documentation/testing/2026-10-19-john-eighteen-review.md"
+    },
+    {
+      "slug": "john-18-12-27",
+      "citation": "18:12-27",
+      "actual_bsb_verses": 16,
+      "bsb_sha256": "fe6bcb3060a7f371be35b11fd3233b4806910fb8106e5fb792ce36ea986b51c2",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "81a986488f985d108478470a10eb008f78a9626b63b98b885967575fc3c7dd9e",
+      "html_sha256": "ecd01f94850828b1fca1967c8f0fc79fe1166aea1534e3e5d4aa410fbd4bf85e",
+      "evidence_file": "documentation/testing/2026-10-19-john-eighteen-review.md"
+    },
+    {
+      "slug": "john-18-28-40",
+      "citation": "18:28-40",
+      "actual_bsb_verses": 13,
+      "bsb_sha256": "3edd6b2390867e11b375883b9826b5cc74f198a13b3605f64ecf1c1843637064",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "1f31572c0dd0dd93e285fe6b39a40fb529e100e1042ce4b7b8e32ce3b3ec6820",
+      "html_sha256": "aaf0e8b8025f36a9e7c745e37e3da1f5746204334c1e2bab2f7ba51c8b881db9",
+      "evidence_file": "documentation/testing/2026-10-19-john-eighteen-review.md"
+    },
+    {
+      "slug": "john-19-1-16",
+      "citation": "19:1-16",
+      "actual_bsb_verses": 16,
+      "bsb_sha256": "5fafcaa90a5d8c8a85a57ad58079612196d2b9e38bf645b2219333ffdcf5c622",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "55461a870f2c36eaf42ca2e4310e84c5973600ee883a0cacfd8dee5ff03d553c",
+      "html_sha256": "c6f5be365c973a9bca655a0c5777b1822ca6da71d10740a1ab5d2d5254e83059",
+      "evidence_file": "documentation/testing/2026-10-19-john-nineteen-review.md"
+    },
+    {
+      "slug": "john-19-17-27",
+      "citation": "19:17-27",
+      "actual_bsb_verses": 11,
+      "bsb_sha256": "37e09801be878e1e4abe3cded36294e518b9a302d9b19a856be094c486e06e2f",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "caa35459a332b9f69e6f76419bc1ff71cc88680165126acf7c9d9983e144be07",
+      "html_sha256": "1843f5a7ef9de463f218504b88274a1550fb9133d537f603c7952ca1c6cd6a9c",
+      "evidence_file": "documentation/testing/2026-10-19-john-nineteen-review.md"
+    },
+    {
+      "slug": "john-19-28-37",
+      "citation": "19:28-37",
+      "actual_bsb_verses": 10,
+      "bsb_sha256": "ea38e89417e1562f2b4c7a1ec83eea5a19967a7a2f6b575786db5f434b9b3b43",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "edda65063baec203780499cf88586cedca08a2622d5f515152d2c822b17f298d",
+      "html_sha256": "c4a5fb3bf3d2db629bc2f6b19caba74a4438eb494b8c4fda7238596b903a29b6",
+      "evidence_file": "documentation/testing/2026-10-19-john-nineteen-review.md"
+    },
+    {
+      "slug": "john-19-38-42",
+      "citation": "19:38-42",
+      "actual_bsb_verses": 5,
+      "bsb_sha256": "b41e6a5ef7264d0a0f311ae405dd228ef8f25f3ea29b36aa29539cea817217ff",
+      "plan_basis": [
+        "a",
+        "b"
+      ],
+      "position_source": "none",
+      "source_sha256": "2b984a3e8ae4622785761045c4a8242111519c9f57d2b0570b84daf534962f0c",
+      "html_sha256": "e527122b5f32ebf04ed42794f907f08ba2abc5ea4c88f85a2f3f6fb78644684b",
+      "evidence_file": "documentation/testing/2026-10-19-john-nineteen-review.md"
+    },
+    {
+      "slug": "john-2-1-12",
+      "citation": "2:1-12",
+      "actual_bsb_verses": 12,
+      "bsb_sha256": "9e0a96e0561ff5b0ed264c3c581a8a86f3559665202671d8a7e4b0a5d7336ce7",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "0bab03a83a2f7b3c30aef35536b878b28c26c0343ea61ba887d39e8eb4aee33a",
+      "html_sha256": "e6c1ce9a94e1f1dd692429fd20d63a30119e69a02c754da1b48fa24e31d68b6e",
+      "evidence_file": "documentation/testing/2026-10-19-john-two-review.md"
+    },
+    {
+      "slug": "john-2-13-22",
+      "citation": "2:13-22",
+      "actual_bsb_verses": 10,
+      "bsb_sha256": "a6394b291ef42df32a592a646140a04db3834244f262c790febf05958b84938f",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "cf33e7ec5282e194c77c7efeb088b5d40c3dfc3ebda5e569ca7cf09843f79f2e",
+      "html_sha256": "3f90ab72facddcdea01f7589867611e108bcde70361745d230877335a359d3f4",
+      "evidence_file": "documentation/testing/2026-10-19-john-two-review.md"
+    },
+    {
+      "slug": "john-2-23-25",
+      "citation": "2:23-25",
+      "actual_bsb_verses": 3,
+      "bsb_sha256": "efcb975c7de358d078dc97b78dd4838b42337385021d0ba5cfd06e86a48ad616",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "b12f1fb9a8997bc5cf682dbda89aa3c0bb66d5e0ed31d04901a0e3c71b2b8877",
+      "html_sha256": "f191a284b947338b2160aa3db6469c234fef51bd2c96410361f5f78cd1f32a4a",
+      "evidence_file": "documentation/testing/2026-10-19-john-two-review.md"
+    },
+    {
+      "slug": "john-20-1-10",
+      "citation": "20:1-10",
+      "actual_bsb_verses": 10,
+      "bsb_sha256": "0c5d9aeca698c242d9c0984dd2635475fdc2d5e7ad416cf89f6148a1aaa0e43a",
+      "plan_basis": [
+        "a"
+      ],
+      "position_source": "none",
+      "source_sha256": "55361d82f1fe528d20e5df63fe54f37c4f6a6292288454b691fb9c9765aad1b7",
+      "html_sha256": "fbbf88c5ce3a7f8a655d2e556534c9560757ebb449cfc266ed67282c7f265cc4",
+      "evidence_file": "documentation/testing/2026-10-19-john-twenty-review.md"
+    },
+    {
+      "slug": "john-20-11-18",
+      "citation": "20:11-18",
+      "actual_bsb_verses": 8,
+      "bsb_sha256": "bfbed87c0f335e29f42850ad37878fb350d96a97ec4bb93a7288850600641533",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "ed58de71395673820f9983671860acc14faf0fe2a58b48fcb0ba7cbc5b820f7d",
+      "html_sha256": "fa6734da023f414f50e401158041dab3e5d0024b4aeeee8451b396a67f06a3f8",
+      "evidence_file": "documentation/testing/2026-10-19-john-twenty-review.md"
+    },
+    {
+      "slug": "john-20-19-23",
+      "citation": "20:19-23",
+      "actual_bsb_verses": 5,
+      "bsb_sha256": "7254e4d33be24241492b2d9977f17ac02691ffa81433040deda361af413f874e",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "492e9bd7967563d0b8bde3d79f471ec135f6ab0bca3a52fb721b202d20e501b1",
+      "html_sha256": "afb2b8501264a2ea067e4b31b7d2ed185583714260b8065fa343f346458d5cb3",
+      "evidence_file": "documentation/testing/2026-10-19-john-twenty-review.md"
+    },
+    {
+      "slug": "john-20-24-29",
+      "citation": "20:24-29",
+      "actual_bsb_verses": 6,
+      "bsb_sha256": "6da6ee8c54f8b843a74c09bf30e111e57a46bbf7d99c661508abd21ad5342e23",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "4fc263b973857f307972e6e0d5afc8c71717e2062f3816a28db76cc5aac641e9",
+      "html_sha256": "e47002b9eb1d9c69bf76654289f0af727aa2205c2f2c48cc3b719fd03eb464e2",
+      "evidence_file": "documentation/testing/2026-10-19-john-twenty-review.md"
+    },
+    {
+      "slug": "john-20-27-29",
+      "citation": "20:27-29",
+      "actual_bsb_verses": 3,
+      "bsb_sha256": "260cf2b11b9730b1bceca70d6a5aa93e942698c76459f43230c0ea5d95f0d19b",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "843c73301604a455f33f8f51790602e892b3ddc1c456e8143baae35cc0e346e5",
+      "html_sha256": "fceac1283a31362b9c3f934b0bdca3e4e9fa511a69e6c9a9a5404e90f65ee38c",
+      "evidence_file": "documentation/testing/2026-10-19-john-twenty-review.md"
+    },
+    {
+      "slug": "john-20-30-31",
+      "citation": "20:30-31",
+      "actual_bsb_verses": 2,
+      "bsb_sha256": "00764bac8a5594c64e5b24c19e29ff93ecb894005e0c469ba3be5e8927b66089",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "39dd2747a116fe847d96f0bdca371f8db8f0a5f5e57ab2bd12c396d21eb9f3fc",
+      "html_sha256": "0f0a08087a4c5191ab97a64f5799c171adbfebc66784b3176a5e18e5ce47a3fe",
+      "evidence_file": "documentation/testing/2026-10-19-john-twenty-review.md"
+    },
+    {
+      "slug": "john-21-1-14",
+      "citation": "21:1-14",
+      "actual_bsb_verses": 14,
+      "bsb_sha256": "7a6229af852de82a1a6935e54bced11e3581fef939e10aad7cf0503bff1863c9",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "f9b9dbe5d37093d059bb6f8b9544cb4790fe87d4542abd841a75d32a93ad00c9",
+      "html_sha256": "872809146a51836cdebc78c01b3351b4c6a839882e8f1f1894cb3c6a59935ebb",
+      "evidence_file": "documentation/testing/2026-10-19-john-twenty-one-review.md"
+    },
+    {
+      "slug": "john-21-15-19",
+      "citation": "21:15-19",
+      "actual_bsb_verses": 5,
+      "bsb_sha256": "01a67e0fbd30b863825400952340353d742b5b0b6d458b7d3afe5ddd986989d5",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "79ce70f5df57b9d5859f7662974f16f221bccc6d6af5dd07f31555e541000c98",
+      "html_sha256": "4788c03d777cb83a9018280e0cbf5531ed43022589c12698b8fb2f29d23b2d4e",
+      "evidence_file": "documentation/testing/2026-10-19-john-twenty-one-review.md"
+    },
+    {
+      "slug": "john-21-20-25",
+      "citation": "21:20-25",
+      "actual_bsb_verses": 6,
+      "bsb_sha256": "0527f7982cb14752eea794a215595619ab02a1a6d205bc22dc8a9f1f8414fbb6",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "3014f2297ad4841b8e76cfff96db21ba9c9d80e9a1ced13699860b5a936a6e44",
+      "html_sha256": "eb4146fef02ff9d1cdcf4ad72db23df34e961a01ee1c7a56fbb681a74d6d7da7",
+      "evidence_file": "documentation/testing/2026-10-19-john-twenty-one-review.md"
+    },
+    {
+      "slug": "john-3-1-8",
+      "citation": "3:1-8",
+      "actual_bsb_verses": 8,
+      "bsb_sha256": "1806e6038a6729603da879da60bef71bb2f587f9b2e1d72e1d0b7eb36061c6db",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "a801c0eab041d6bd2b2faa3b36602c03c9cac7d97d0348e2c64986f257983f75",
+      "html_sha256": "bb8d19c233401a4d379e823b4c28a9caea3fb1bc36db0a9114e2e3362dc25bf9",
+      "evidence_file": "documentation/testing/2026-10-19-john-three-opening-review.md"
+    },
+    {
+      "slug": "john-3-16-21",
+      "citation": "3:16-21",
+      "actual_bsb_verses": 6,
+      "bsb_sha256": "5711fdd5a3332c1781fe0cc81d3cfab83f2e252a29dfe5ef09202e1ec106014a",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "0966f91fa267b34bcbbbd90543e2219044f31d2e21ee26aaae587c089bdbfe81",
+      "html_sha256": "a8b34c17649ef074f676f6b1d81a5565458b6aa83a94f60f2fe72bf52c99ed30",
+      "evidence_file": "documentation/testing/2026-10-19-john-three-opening-review.md"
+    },
+    {
+      "slug": "john-3-16",
+      "citation": "3:16",
+      "actual_bsb_verses": 1,
+      "bsb_sha256": "c6a0fb4f76669b4e0da63d455371ed06c7445569d3dcc6c0fbdd589150dcc9ce",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "71a39b460639b755d060d6598f9ce0f6519674e514c758a670b36bf92b997516",
+      "html_sha256": "0b2a36c0b352919501415caaa7a2f3a341fbbfcfe0a4379b16c85c5dc0087809",
+      "evidence_file": "documentation/testing/2026-10-19-john-three-opening-review.md"
+    },
+    {
+      "slug": "john-3-22-30",
+      "citation": "3:22-30",
+      "actual_bsb_verses": 9,
+      "bsb_sha256": "3a9248e88fd1905303c1ea776c39fc52c94c1678987500efced16d077d467557",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "a65949fcdb978ab993690b5adfb183a8184b2af14c7e285d97852c12686b1577",
+      "html_sha256": "ba39c5ceda303ff65fc28213b4be4da80b813ec45645de41593f900984381fd0",
+      "evidence_file": "documentation/testing/2026-10-19-john-three-closing-review.md"
+    },
+    {
+      "slug": "john-3-23",
+      "citation": "3:23",
+      "actual_bsb_verses": 1,
+      "bsb_sha256": "e97ee868cce421330e65751852fb0c88068e0fcd451c88a0fc8cc88b3278df73",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "f59620d0f9fc68d7637bbda756448d61731a51f9584a818a90a9d3251f2eae37",
+      "html_sha256": "93649b7447718b8e7f8d01c8902fbf3039c70f207be5d3d1461dd381a4ee268e",
+      "evidence_file": "documentation/testing/2026-10-19-john-three-closing-review.md"
+    },
+    {
+      "slug": "john-3-31-36",
+      "citation": "3:31-36",
+      "actual_bsb_verses": 6,
+      "bsb_sha256": "513ace5ad53ed969836da7a8e6621d29e7d6a757ebf584d976fe378fef4c77ca",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "7f987da9e81031dd22fdefff232da2b4961c8dd4b8aee9588e37b11a2f2cb087",
+      "html_sha256": "a9faabccf2a3b26ac2dc4b4e2ed981c190705053f5a6798efdfef484f764d85d",
+      "evidence_file": "documentation/testing/2026-10-19-john-three-closing-review.md"
+    },
+    {
+      "slug": "john-3-9-15",
+      "citation": "3:9-15",
+      "actual_bsb_verses": 7,
+      "bsb_sha256": "78080d91249938fbc16b3f3ea1f8d4021cbb15fb67cc82a10a15aa857da30a16",
+      "plan_basis": [
+        "a",
+        "b"
+      ],
+      "position_source": "none",
+      "source_sha256": "a88381392d2a69967ea184769ce16daee3eb36c95a3945f1b7db5275f75baea6",
+      "html_sha256": "644f5ba279ada0ec4f6792ec442f012e14863f298b663ca8e709bf7c7dea8017",
+      "evidence_file": "documentation/testing/2026-10-19-john-three-opening-review.md"
+    },
+    {
+      "slug": "john-4-1-15",
+      "citation": "4:1-15",
+      "actual_bsb_verses": 15,
+      "bsb_sha256": "23e521f3563a841196d56cd4f0cd1a98ae7129d1aec27bf0a6baf95324546d71",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "a296c4e193528f9efd7878a9fe3dd261a84d0a9277860ca05a2d0d9d94271d32",
+      "html_sha256": "c5a39ca78e8f1334b3cb90844420680953b820fbd70081e2e0676e1d6a12b4b2",
+      "evidence_file": "documentation/testing/2026-10-19-john-four-opening-review.md"
+    },
+    {
+      "slug": "john-4-16-26",
+      "citation": "4:16-26",
+      "actual_bsb_verses": 11,
+      "bsb_sha256": "ee54fbe2aa9731fe73865855bc1c5d0d2fbcdca15005ba4f087745bc4ff1bf5d",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "edb75ba5a6e8894daa0da88b079e5154a411f197913cb648dabe3c9d9c5d96f4",
+      "html_sha256": "fa6639549b4a2e3e2e57b6e8df406e262ca61920e62250abf5864074fdce964e",
+      "evidence_file": "documentation/testing/2026-10-19-john-four-opening-review.md"
+    },
+    {
+      "slug": "john-4-21-24",
+      "citation": "4:21-24",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "b161a0bd910c923d9f0721e9c179239ae5c823a9f491cca35dbc7ed376b05480",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "ae890d2ad56c2159076f909054660a93e599ce7b9b1bead9420544280ee4c89a",
+      "html_sha256": "3f8cc0724d44f15f6ceaaba3a21a00352f5390766fc08f9ac11c658a4ed8afb6",
+      "evidence_file": "documentation/testing/2026-10-19-john-four-opening-review.md"
+    },
+    {
+      "slug": "john-4-21",
+      "citation": "4:21",
+      "actual_bsb_verses": 1,
+      "bsb_sha256": "73b0e7899a11525f4563a7ed8272d2cf583776a68c26417624917645383596a5",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "d465bc68afc3e4e9fc17b78ca02fd7a326d91921762c5390db5a0cdc962b86a2",
+      "html_sha256": "2e8aece63ae159c3adb4f088eaafcb770790ac463ae6bd7c855ec7f5275ac310",
+      "evidence_file": "documentation/testing/2026-10-19-john-four-opening-review.md"
+    },
+    {
+      "slug": "john-4-27-38",
+      "citation": "4:27-38",
+      "actual_bsb_verses": 12,
+      "bsb_sha256": "3e9668a05e5b2b11ccc313e13ec1c9ab71afe666dcb140fe436132e0c55a7e91",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "a1db63c43091198d1da726eec8844e02f4c38571119c749263d2bd7222989ba2",
+      "html_sha256": "549ff78be8dd272ac95001885fbcd4cb7cdde70ece5e17fb334d817e580c0bb3",
+      "evidence_file": "documentation/testing/2026-10-19-john-four-closing-review.md"
+    },
+    {
+      "slug": "john-4-39-42",
+      "citation": "4:39-42",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "37abfe42987ee0f8c49712e0b68f30c5115ffcfa1784489eebadc8f1f3550064",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "e61f9e1723a2cf1d671dfd2765235d39c13de034d643cbcd2f8842b2f97669bc",
+      "html_sha256": "dbe7e9d880a1d0c0617c45b85153f6a10466ab5f061f8048b503a520c7b56445",
+      "evidence_file": "documentation/testing/2026-10-19-john-four-closing-review.md"
+    },
+    {
+      "slug": "john-4-43-54",
+      "citation": "4:43-54",
+      "actual_bsb_verses": 12,
+      "bsb_sha256": "da9363ad7f0a30ad528379deb978f377f55bb040152e6a0567f59957582c077f",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "d8233178713162a0de2d00357d240fef4a403acf0e1b436e38ebef0671f920a0",
+      "html_sha256": "12e5a35afab6fe5e3b570db0a9958d276c93a5746d4f0c1be3bd07916b27e3f5",
+      "evidence_file": "documentation/testing/2026-10-19-john-four-closing-review.md"
+    },
+    {
+      "slug": "john-5-1-9",
+      "citation": "5:1-9",
+      "actual_bsb_verses": 8,
+      "bsb_sha256": "be321b9234c20a5f2c37417e46673b4b929eb48668317d3500547ed81731b04b",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "ded1dfc558e1d16cf9dd9e409c3330e119133edddcf0eedacadcd8b5c764866a",
+      "html_sha256": "95fb596b13c15e86eba444927b40dba109805d9d8e2f31afa394d052e8ed6fdf",
+      "evidence_file": "documentation/testing/2026-10-19-john-five-review.md"
+    },
+    {
+      "slug": "john-5-10-18",
+      "citation": "5:10-18",
+      "actual_bsb_verses": 9,
+      "bsb_sha256": "16b6a9977e5c3b0dc94ee06284c1be2318ba95ec19596126a5f176eedf15b96a",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "bcf905859af9c85ba878c995da6cf35a148f554fbf4de7ae94ac6a5d2577c29d",
+      "html_sha256": "a590d100d4abb794c63e21e667de04285b0cbe2190b08da7676733e4a66a1bcd",
+      "evidence_file": "documentation/testing/2026-10-19-john-five-review.md"
+    },
+    {
+      "slug": "john-5-19-29",
+      "citation": "5:19-29",
+      "actual_bsb_verses": 11,
+      "bsb_sha256": "649ad89dee0671c10c0ecf2a282c3996b99e243fc3a040c110c69c6ce42485f3",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "5cab90562ee48bc6b6dc6c25e63fa75abbca668d94346b3cdd076d825a08f092",
+      "html_sha256": "7cd2d11a3f4561efca375bceaa80cf5b8f4614ac4c3c61364375376b21a65757",
+      "evidence_file": "documentation/testing/2026-10-19-john-five-review.md"
+    },
+    {
+      "slug": "john-5-30-47",
+      "citation": "5:30-47",
+      "actual_bsb_verses": 18,
+      "bsb_sha256": "04c62bb294dedec19c2939e7083b96c46d415bce4d7cad89b49f34d7ea7d6924",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "d8d9b3af92df3cd2854ce5bd025ea02721764e68d6554500552be22854fdc844",
+      "html_sha256": "319f1a41bf425a8a2ef2853886032afc78c52bf25a684ef75379f15b8a73369b",
+      "evidence_file": "documentation/testing/2026-10-19-john-five-review.md"
+    },
+    {
+      "slug": "john-6-1-15",
+      "citation": "6:1-15",
+      "actual_bsb_verses": 15,
+      "bsb_sha256": "932a1b23521ecf1cf5d4a13d0ece9c44e8c113644e49ff11032187c3acadfaa2",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "a7587eba6602e542db6d6186cbcded11395602a017c172b3496370144f212b6b",
+      "html_sha256": "b9a5a7cdec2b2ac8c4d87655c73469d1f3db8ed328bfcb42a7b12de78d03323f",
+      "evidence_file": "documentation/testing/2026-10-19-john-six-opening-review.md"
+    },
+    {
+      "slug": "john-6-16-21",
+      "citation": "6:16-21",
+      "actual_bsb_verses": 6,
+      "bsb_sha256": "f3151b43840df89543e4227c2fadf4405c25d42368c62f6a8f2761b76b6fa69f",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "817d59098c25149de4c71340e0b537dff3a2b6b32f83283496ecee6a2b0bc3a6",
+      "html_sha256": "fad308b3c2a231eccafc096727e3833029d2e67bf181a9203b71705def9523d5",
+      "evidence_file": "documentation/testing/2026-10-19-john-six-opening-review.md"
+    },
+    {
+      "slug": "john-6-22-34",
+      "citation": "6:22-34",
+      "actual_bsb_verses": 13,
+      "bsb_sha256": "58bea5a2c87c7eef17bfc743e7734bb454359b183436b3a599a70002d2ce7462",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "2cb0e7ce272d2124fffcfa6cff4d58b9c311f728ceec9e3c7499e8e221e66210",
+      "html_sha256": "12d82197f65e96f92949988560d8acba82e7abde6222c7af3aaaccdb12f7e791",
+      "evidence_file": "documentation/testing/2026-10-19-john-six-bread-and-promise-review.md"
+    },
+    {
+      "slug": "john-6-32-33",
+      "citation": "6:32-33",
+      "actual_bsb_verses": 2,
+      "bsb_sha256": "b27b0032b7ac98664d4ae24491279472ef6af54b9e9e36174b26e27014833c42",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "fa86b6c427cc648f992a4e4bbae76f3cfa95f0bd6c4c666600f459be7049a484",
+      "html_sha256": "850f0d6c19afdc9b81fe35a20617b4ba1193eab369c2d1e80487b395025c6989",
+      "evidence_file": "documentation/testing/2026-10-19-john-six-bread-and-promise-review.md"
+    },
+    {
+      "slug": "john-6-32-58",
+      "citation": "6:32-58",
+      "actual_bsb_verses": 27,
+      "bsb_sha256": "c5f1a3ce357899dd40911f15adb9afd6e9498a92458fdadf494bf85ab87b4959",
+      "plan_basis": [
+        "a",
+        "b",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "af74d11116921ca6b7688462fe6eafcca6bbb4593fa245411428b9a101721548",
+      "html_sha256": "166670d257921c023608850dde790b3e650c25c0cae0b1fb72389769c0aee2a6",
+      "evidence_file": "documentation/testing/2026-10-19-john-six-closing-review.md"
+    },
+    {
+      "slug": "john-6-35-40",
+      "citation": "6:35-40",
+      "actual_bsb_verses": 6,
+      "bsb_sha256": "2a0e5c442cc9bc48b5ebbd842475481148524eafcb55ab78e1fcea5baec3a10b",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "109b3cbdcf9ce06bf1a59e5dab15c641ff0ac84797ac68ef339e181371a372c2",
+      "html_sha256": "333fe40c69b88c37e6a3a24dd8538ca17f854452fbd4ee625f48ef4519b2f655",
+      "evidence_file": "documentation/testing/2026-10-19-john-six-bread-and-promise-review.md"
+    },
+    {
+      "slug": "john-6-35",
+      "citation": "6:35",
+      "actual_bsb_verses": 1,
+      "bsb_sha256": "c4e250af4b1a2fd5e69dd9fe79b6cd8555e55428700b1f649a2c2c36a5be16c5",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "fc043f96f531c6482fa5a5ba9bad98799a38fc4d0e238866ebd382ba3148eefc",
+      "html_sha256": "5789bfd90a4777eca9a3f8d9833c5b0995a5257e65c1b865f717356259575ad3",
+      "evidence_file": "documentation/testing/2026-10-19-john-six-bread-and-promise-review.md"
+    },
+    {
+      "slug": "john-6-39-40",
+      "citation": "6:39-40",
+      "actual_bsb_verses": 2,
+      "bsb_sha256": "8ee54d2f151b321f21d64d151c7560314d0e97272743bcfa9f1e61734852e526",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "3f525f6ccde2fc94780cf8fe244e00556fecd22a5233b61553e9151a610a7662",
+      "html_sha256": "67ae207c6aabe9e17500a56bb0284742a20766b99bb68e77fc48bb59c783a2d5",
+      "evidence_file": "documentation/testing/2026-10-19-john-six-bread-and-promise-review.md"
+    },
+    {
+      "slug": "john-6-41-51",
+      "citation": "6:41-51",
+      "actual_bsb_verses": 11,
+      "bsb_sha256": "36c2877036d85e57e55f361ab50cd329c86f6a8578104f7c79746ea745c30503",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "e01092a74b0869a56da7fb7a5026cab405543c163d4476a33cdbcca74e3a8b36",
+      "html_sha256": "320e8007b52a1b785c14fba2b010c2aa9acb77fe4f5b71ac826683e228f8434d",
+      "evidence_file": "documentation/testing/2026-10-19-john-six-closing-review.md"
+    },
+    {
+      "slug": "john-6-48-51",
+      "citation": "6:48-51",
+      "actual_bsb_verses": 4,
+      "bsb_sha256": "47c806ca2ce80b4114ac6e0bfd6041f41a2bd826e17f904c2bd282dcc168fbc4",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "b2f63ee6c74b5e0c91cf88c4454d0c967a9844269a928bc53add9d9d01b04812",
+      "html_sha256": "295898859a610636cde13b424fd6bedc326f07ed16e66fa2d12678017a65c941",
+      "evidence_file": "documentation/testing/2026-10-19-john-six-closing-review.md"
+    },
+    {
+      "slug": "john-6-52-59",
+      "citation": "6:52-59",
+      "actual_bsb_verses": 8,
+      "bsb_sha256": "a533c6fa3d9b135e022e9149725c73fe4120a450dd38477f5a5f2670c0ff5ff6",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "f2b58858683ffc81c7624c0d8d22e4eb10465f17bfb8806ad686129fc9894b3d",
+      "html_sha256": "fa48489b96b598e0c86b2417f81a88b15ce61a74472f52bd5ff7da6060ae7691",
+      "evidence_file": "documentation/testing/2026-10-19-john-six-closing-review.md"
+    },
+    {
+      "slug": "john-6-58",
+      "citation": "6:58",
+      "actual_bsb_verses": 1,
+      "bsb_sha256": "7de10d16ef03d2db9087adad1cd9198688ee1124b696ef874077bbc729bf5538",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "e90a3089cc7d0ce12a1a65e73650ec04915a9cb4ddd74058ed20a88cc402f5e1",
+      "html_sha256": "942c4fde71f5294b6a97012f4f773e4327f2607e6452ba176f673b0331007ea6",
+      "evidence_file": "documentation/testing/2026-10-19-john-six-closing-review.md"
+    },
+    {
+      "slug": "john-6-60-71",
+      "citation": "6:60-71",
+      "actual_bsb_verses": 12,
+      "bsb_sha256": "8dbfeb385535930eebaad158bb8f4c0d922d3020e756b82a73ecd1111c82e3d1",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "3c1bee75352c4c07c8e975844bdc46c4ee9659637ba33f113d8c82a9e0034372",
+      "html_sha256": "986311543bd27254eba20aec087f49b0ab84adf2130e1777464874514c6df9d5",
+      "evidence_file": "documentation/testing/2026-10-19-john-six-closing-review.md"
+    },
+    {
+      "slug": "john-7-1-13",
+      "citation": "7:1-13",
+      "actual_bsb_verses": 13,
+      "bsb_sha256": "906614d8e95a4391455c03f8c7ecc640b3dd7f1c17b297ac6493870db16ffe4b",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "cb96aa8e030f62d5f1b72d8bacafcf556dd75ec8f775ae8ef7af9c3febaa0949",
+      "html_sha256": "4a4fcceb578fed88a7c4580840a3763e118267cc0e3e23e64d47712678ded05d",
+      "evidence_file": "documentation/testing/2026-10-19-john-seven-opening-review.md"
+    },
+    {
+      "slug": "john-7-14-24",
+      "citation": "7:14-24",
+      "actual_bsb_verses": 11,
+      "bsb_sha256": "2623800028dfea189082b41bed5b29999162ff7e5002e3fc6209d27f24d4418f",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "a805bfd96585433e1a6c89f99f63fd6a31acb0fe342f752bfe37c7323705011f",
+      "html_sha256": "2272c2faa8a364df463fded1f5034013754b86d87168257640cc996210ccb6ad",
+      "evidence_file": "documentation/testing/2026-10-19-john-seven-opening-review.md"
+    },
+    {
+      "slug": "john-7-25-36",
+      "citation": "7:25-36",
+      "actual_bsb_verses": 12,
+      "bsb_sha256": "de743888a9c4ffcadcb1c02e17be6e46fdc87b4332f46d0b786feff3c13575ff",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "ce2e854424835d810aa17ce2112fb94fb1bd36ece2b6872cf07b493e68a24293",
+      "html_sha256": "ba0c3ef6d2b1d20268c5c252e392f7acc4a83140ed36c0ad7218a1f57dd2dca4",
+      "evidence_file": "documentation/testing/2026-10-19-john-seven-opening-review.md"
+    },
+    {
+      "slug": "john-7-37-44",
+      "citation": "7:37-44",
+      "actual_bsb_verses": 8,
+      "bsb_sha256": "dcea0924d5786a4b28cf5a27f2651d92654f46b7a24fd405ec99a5f42890b27f",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "0444c82e3423e7ec9adcf5f46b5fbaf6201fd7b8516d5f904a0f2e9da5455513",
+      "html_sha256": "932479daf9d97febc8f59c80754bb4cef30763c9fd68541b2c7e0363c24836d1",
+      "evidence_file": "documentation/testing/2026-10-19-john-seven-closing-review.md"
+    },
+    {
+      "slug": "john-7-45-52",
+      "citation": "7:45-52",
+      "actual_bsb_verses": 8,
+      "bsb_sha256": "4941b76365fc3c1bed577904eb3ddb63621f194c4f4886f20f97863578674c9b",
+      "plan_basis": [
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "e4688497c13c220ae95a89cc9d85b7cd0a0695a66b0ccbb243491cd1bd848d24",
+      "html_sha256": "34bd4179a4ffb6a0a6446a55b7da55b033c63a82528d2ea0c77d4b1dc129eff1",
+      "evidence_file": "documentation/testing/2026-10-19-john-seven-closing-review.md"
+    },
+    {
+      "slug": "john-7-53-8-11",
+      "citation": "7:53-8:11",
+      "actual_bsb_verses": 12,
+      "bsb_sha256": "080d694e826adcbbf90a2bbd5cb721030c01797ce904b53eb658c24a8b4394d0",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "faabae923bbf161f1837c268d3262c92ced803cfb0ed0c7abcc88a8e2ff36203",
+      "html_sha256": "c82260088e737dbb43cceea6a510188f027ac9661212ed40b928cf16704e3358",
+      "evidence_file": "documentation/testing/2026-10-19-john-adulterous-woman-review.md"
+    },
+    {
+      "slug": "john-8-12-20",
+      "citation": "8:12-20",
+      "actual_bsb_verses": 9,
+      "bsb_sha256": "c500b1ed0eb8fd4f925f4bceab53958851a20077c196d929789c616288c4e671",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "470ea808b2a7d9ebe90e594eb1fb876ea50cd2210a82066a8a43db8aff22b537",
+      "html_sha256": "728549e9b219a1008e2696bd898d7b72be09573b7bd16735169d740607dfd7ac",
+      "evidence_file": "documentation/testing/2026-10-19-john-eight-light-review.md"
+    },
+    {
+      "slug": "john-8-21-30",
+      "citation": "8:21-30",
+      "actual_bsb_verses": 10,
+      "bsb_sha256": "59b9a5a5af72f139394f5f124a90aadca3428218ac533f09a9e819e80361e889",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "fb8fc132df916c9c51c064f331fba177e08d925c73803c4bf10f3c6a16c035e2",
+      "html_sha256": "6e11b924bacd0b168e25cde5b5213a6427a04a1abfaf25934fd751767a7daf78",
+      "evidence_file": "documentation/testing/2026-10-19-john-eight-lifted-review.md"
+    },
+    {
+      "slug": "john-8-31-47",
+      "citation": "8:31-47",
+      "actual_bsb_verses": 17,
+      "bsb_sha256": "3525b9b1245fc7d568b6bb75a44540f69361b8596433345a0e3b8c18d4a30fea",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "a5c03faae565ba1d93c6fe59c39b2e0c938c6e3b2a75cd2d02776b169cda32f2",
+      "html_sha256": "7a5c4e13c9291220fac617848a2c4a54fd16f266f0e9d42feb96b6d5a8f2b0bb",
+      "evidence_file": "documentation/testing/2026-10-19-john-eight-complete-review.md"
+    },
+    {
+      "slug": "john-8-48-59",
+      "citation": "8:48-59",
+      "actual_bsb_verses": 12,
+      "bsb_sha256": "ceaed7f31f52cb1c9e4445b2e65977087f9c4d270464c487ad44107e071d77e5",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "d9d6f72e6904064b84f378070d1989bc53b72acd0be958f8519cf80ab447ebb3",
+      "html_sha256": "7808d76182e3380c919536a4bf320e58c70ca0298d34e08f4b9c15caf92f23c2",
+      "evidence_file": "documentation/testing/2026-10-19-john-eight-complete-review.md"
+    },
+    {
+      "slug": "john-8-58",
+      "citation": "8:58",
+      "actual_bsb_verses": 1,
+      "bsb_sha256": "c1f0761adfb6e84613c67ed19a2703d306f77c86f7a2b9814cc61d8bd6f4451b",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "ff1dfaf672aec0f068601a5b0b5c19be1b918ab0c62a5333c2f5818b892f8e89",
+      "html_sha256": "87095ad29799e48194f49387ed182e52c4e66b1daf471c6003aea3d13ab51e55",
+      "evidence_file": "documentation/testing/2026-10-19-john-eight-complete-review.md"
+    },
+    {
+      "slug": "john-9-1-12",
+      "citation": "9:1-12",
+      "actual_bsb_verses": 12,
+      "bsb_sha256": "e86898e484f5a9481158842929d2398bdd7ce1f26f1a4e007caa88c8afb45656",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "9359ba3e32cc42b9589bced3de58c35057342455cbe3dad84d95d965cde309b9",
+      "html_sha256": "2284f95fff39024338fda04110d7ab1795e33b5c7d80bff96c5a41d665675bb9",
+      "evidence_file": "documentation/testing/2026-10-19-john-nine-review.md"
+    },
+    {
+      "slug": "john-9-13-23",
+      "citation": "9:13-23",
+      "actual_bsb_verses": 11,
+      "bsb_sha256": "80ed6ea6173e0f5df7382412c6b610f376b48cf86b9ac2510a9afed4d417aa88",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "c8c19265881f3a38f302bda4e5dbb34ffe0d25d7bfae39f4f85b7c9c879113bf",
+      "html_sha256": "8e5611ed2a355c110f2acd73844258f40a0de0feed6feaaec14738d727c60dc9",
+      "evidence_file": "documentation/testing/2026-10-19-john-nine-review.md"
+    },
+    {
+      "slug": "john-9-24-34",
+      "citation": "9:24-34",
+      "actual_bsb_verses": 11,
+      "bsb_sha256": "25ecae2e6bc8c999f510c668aed17c8efb065ba6daf1b5845d453a3307dd8379",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "none",
+      "source_sha256": "cf7fc4d09c52e105bfd7fed2b3d2aa65322579bb83ebc1ee30a5730b68d8fced",
+      "html_sha256": "77630907637537b751e8863d8ee1007b4dd5ce498103c15cb0fc381adae2e0a7",
+      "evidence_file": "documentation/testing/2026-10-19-john-nine-review.md"
+    },
+    {
+      "slug": "john-9-35-41",
+      "citation": "9:35-41",
+      "actual_bsb_verses": 7,
+      "bsb_sha256": "f4118f9a1767c6331ccbe8472ac2c15e4554aac05aabaed155fb2f69a1d2acc6",
+      "plan_basis": [
+        "b",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "494387a48eea6b0e7ef3ae007bb6e7649ba1482d0c098f4ec20508d3dc93f471",
+      "html_sha256": "ac788ee1473acb1a502bf9360dada140a470e6d249ff23809bfe324e11a4c7bf",
+      "evidence_file": "documentation/testing/2026-10-19-john-nine-review.md"
+    },
+    {
+      "slug": "john-9-38",
+      "citation": "9:38",
+      "actual_bsb_verses": 1,
+      "bsb_sha256": "3e44e3abb359b68ebf0d9daeda722ef73f6f4e812452d6a2b71a409fd8d3650c",
+      "plan_basis": [
+        "a",
+        "c"
+      ],
+      "position_source": "existing-study",
+      "source_sha256": "2dce33fc62d8ea9a6b2e128c3d78f704e00c38304505238d8143b8e5b3a25e7d",
+      "html_sha256": "262c4e41eb766ec5ecefb6f662fc8f9f6fa9ec7b0c28aba42d363f680acc95f2",
+      "evidence_file": "documentation/testing/2026-10-19-john-nine-review.md"
+    }
+  ]
+}

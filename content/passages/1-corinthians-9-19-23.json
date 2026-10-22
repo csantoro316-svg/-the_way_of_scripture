@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "9:19-23",
+    "label": "1 Corinthians 9:19-23",
+    "slug": "1-corinthians-9-19-23"
+  },
+  "section_title": "What does becoming all things to all people mean?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "19 Though I am free of obligation to anyone, I make myself a slave to everyone, to win as many as possible. 20 To the Jews I became like a Jew, to win the Jews. To those under the law I became like one under the law (though I myself am not under the law), to win those under the law. 21 To those without the law I became like one without the law (though I am not outside the law of God but am under the law of Christ), to win those without the law.",
+        "22 To the weak I became weak, to win the weak. I have become all things to all people so that by all possible means I might save some. 23 I do all this for the sake of the gospel, so that I may share in its blessings."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Though free from obligation to people, Paul makes himself their servant in order to win them. He describes adapting his conduct among Jews, people under the law, those without the law and the weak. His freedom can be used to make room for others rather than require them to begin where he is.",
+    "",
+    "The adaptation has a clear boundary: he is not outside God’s law, but under the law of Christ. He does not make pleasing an audience the final test of right and wrong. His aim is to bring people to the gospel while remaining faithful to the Lord he proclaims.",
+    "",
+    "The repeated purpose is to win or save some. Paul does not claim that everyone will respond, or that he can produce salvation by technique. He gives up personal advantages and adjusts what he can for the gospel’s sake, seeking to share in its blessings."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as adapting to people for their good while remaining faithful to Christ. [Wesley’s notes on verses 20–22](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) describe accommodation consistent with truth, and [Calvin’s comment on verse 21](https://biblehub.com/commentaries/calvin/1_corinthians/9.htm) emphasizes that freedom from the Mosaic law does not remove obedience to Christ."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 2:11–22](https://biblehub.com/bsb/ephesians/2.htm) describes Christ bringing people once separated into one body, giving both Jews and Gentiles access to the Father through the Spirit. God’s household is gathered across a division that had marked their lives.",
+    "",
+    "Paul’s willingness to serve different people fits that larger purpose. He is not trying to make his own social position the condition for receiving the message. The people he approaches are being called to belong to Christ and share in the household God is building."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/9.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-nine-closing-review.md"
+  }
+}

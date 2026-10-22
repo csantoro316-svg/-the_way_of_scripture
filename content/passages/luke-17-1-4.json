@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "17:1-4",
+    "label": "Luke 17:1-4",
+    "slug": "luke-17-1-4"
+  },
+  "section_title": "How should we respond to harm and repentance?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Jesus said to His disciples, “It is inevitable that stumbling blocks will come, but woe to the one through whom they come! 2 It would be better for him to have a millstone hung around his neck and to be thrown into the sea than to cause one of these little ones to stumble.",
+        "3 Watch yourselves. If your brother sins, rebuke him; and if he repents, forgive him. 4 Even if he sins against you seven times in a day, and seven times returns to say, ‘I repent,’ you must forgive him.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus now speaks to His disciples. He warns that stumbling blocks will come, but that causing another person to stumble carries grave responsibility. The image of a millstone and the sea makes the warning especially forceful: His little ones must not be treated as expendable.",
+    "",
+    "He then tells the disciples to watch themselves, confront a brother’s sin and forgive when he repents. Correction and forgiveness belong together. Jesus does not tell them to pretend that no wrong occurred, and repeated wrongdoing does not give them permission to refuse repeated repentance.",
+    "",
+    "The Greek word behind rebuke is ἐπιτιμάω, epitimaō (eh-pee-tee-MAH-oh), meaning to rebuke or speak a firm correction. The word does not itself mean removing someone from a teaching office; the instruction concerns a brother who sins. ([Thayer, Greek 2008](https://biblehub.com/greek/2008.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly see these sayings as a call to take the harm of sin seriously, correct a fellow believer and extend forgiveness rather than keep a limit on mercy. Wesley applies the warning to weaker believers and reads the repeated forgiveness as a response to genuine repentance, while also calling for goodwill toward those who have not repented. ([Wesley on Luke 17:1–4](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))"
+  ],
+  "god_plan_lines": [
+    "Ephesians describes a people whose shared life reflects the forgiveness they have received in Christ. Truthful speech, kindness and care for one another replace bitterness and destructive words. That wider picture helps explain why Jesus joins responsibility for others with a readiness to forgive: the people God is bringing together are to make His mercy visible in their relationships. ([Ephesians 4:25–32](https://biblehub.com/bsb/ephesians/4.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/17.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-seventeen-opening-review.md"
+  }
+}

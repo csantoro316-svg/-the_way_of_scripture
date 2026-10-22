@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "1:1-5",
+    "label": "Acts 1:1-5",
+    "slug": "acts-1-1-5"
+  },
+  "section_title": "What does Jesus tell His apostles to wait for?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 In my first book, O Theophilus, I wrote about all that Jesus began to do and to teach, 2 until the day He was taken up to heaven, after giving instructions through the Holy Spirit to the apostles He had chosen. 3 After His suffering, He presented Himself to them with many convincing proofs that He was alive. He appeared to them over a span of forty days and spoke about the kingdom of God.",
+        "4 And while they were gathered together, He commanded them: “Do not leave Jerusalem, but wait for the gift the Father promised, which you have heard Me discuss. 5 For John baptized with water, but in a few days you will be baptized with the Holy Spirit.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Acts opens by addressing Theophilus, the same person addressed at the beginning of Luke’s Gospel. The first account told what Jesus began to do and teach up to His being taken into heaven. This second account follows the work forward through His chosen witnesses.",
+    "",
+    "The risen Jesus presents Himself alive with many convincing proofs. Over forty days He appears to the apostles and teaches about God’s kingdom. Their coming witness is grounded in encounters with the Lord who suffered and rose, rather than a message they developed on their own.",
+    "",
+    "Before they begin, Jesus tells them to remain in Jerusalem for the Father’s promised gift. He contrasts John’s baptism with water and the baptism with the Holy Spirit they will shortly receive. Waiting is part of obedience: the mission must begin with what God gives."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this opening as the bridge between Luke’s account of Jesus and the spread of the gospel in Acts. The promised Spirit will equip the apostles for the work Jesus entrusts to them. [Wesley on verses 1–5](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) emphasizes both that continuity and the promised gift, including the extraordinary empowering of these witnesses."
+  ],
+  "god_plan_lines": [
+    "[Luke 24:44–49](https://biblehub.com/bsb/luke/24.htm) brings together Scripture’s fulfillment, the Messiah’s suffering and resurrection, the proclamation of forgiveness to all nations, and the promise of power from God. Acts begins where that commission leads. The Spirit’s coming belongs to the way the risen Jesus carries His message beyond the first disciples."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-one-review.md"
+  }
+}

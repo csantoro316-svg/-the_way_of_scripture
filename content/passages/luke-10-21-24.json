@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "10:21-24",
+    "label": "Luke 10:21-24",
+    "slug": "luke-10-21-24"
+  },
+  "section_title": "Why does Jesus rejoice over what His disciples have received?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "21 At that time Jesus rejoiced in the Holy Spirit and declared, “I praise You, Father, Lord of heaven and earth, because You have hidden these things from the wise and learned, and revealed them to little children. Yes, Father, for this was well-pleasing in Your sight. 22 All things have been entrusted to Me by My Father. No one knows who the Son is except the Father, and no one knows who the Father is except the Son and those to whom the Son chooses to reveal Him.”",
+        "23 Then Jesus turned to the disciples and said privately, “Blessed are the eyes that see what you see. 24 For I tell you that many prophets and kings desired to see what you see but did not see it, and to hear what you hear but did not hear it.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "At this moment Jesus rejoices in the Holy Spirit and thanks the Father, Lord of heaven and earth. What is hidden from the wise and learned has been revealed to little children. His thanksgiving places the Father’s generous revelation at the center of the disciples’ privilege.",
+    "",
+    "Jesus then speaks of the unique knowledge shared by Father and Son. Those who come to know the Father receive what the Son reveals to them. The passage directs attention to Jesus Himself as the One through whom the Father becomes known.",
+    "",
+    "Turning privately to the disciples, He tells them how blessed they are to see and hear what is unfolding before them. Prophets and kings desired this sight, but the disciples are living in the time of its arrival."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly emphasize the gift of knowing God through the Son and the humble reception of that gift. The Catholic Catechism describes this prayer as thanksgiving and loving agreement with the Father’s will; Wesley likewise emphasizes God’s grace rather than human pride as the reason for Jesus’ joy. ([Catechism §2603](https://www.vatican.va/content/catechism/en/part_four/section_one/chapter_one/article_2/in_the_fullness_of_time.html); [Wesley on Luke 10:21–22](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))"
+  ],
+  "god_plan_lines": [
+    "First Peter describes the prophets searching into the salvation they foretold, including Christ’s sufferings and the glory that would follow. Their service looked ahead to the gospel later announced through the Holy Spirit. The disciples’ privilege here belongs to that movement from promise toward fulfillment. ([1 Peter 1:10–12](https://biblehub.com/bsb/1_peter/1.htm))",
+    "",
+    "John states the same central truth about knowing the Father: the Son, who is at His side, has made Him known. God’s purpose is being disclosed through the person of Jesus, not simply through information about Him. ([John 1:18](https://biblehub.com/bsb/john/1.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/10.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-ten-review.md"
+  }
+}

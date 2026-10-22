@@ -5,23 +5,55 @@
     "label": "Exodus 27:20-21",
     "slug": "exodus-27-20-21"
   },
-  "section_title": "The Oil for the Lamps",
+  "section_title": "Who was responsible for keeping the lamps burning?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "20 And you are to command the Israelites to bring you pure oil of pressed olives for the light, to keep the lamps burning continually.",
-        "21 In the Tent of Meeting, outside the veil that is in front of the Testimony, Aaron and his sons are to tend the lamps before the LORD from evening until morning. This is to be a permanent statute for the Israelites for the generations to come."
+        "20 And you are to command the Israelites to bring you pure oil of pressed olives for the light, to keep the lamps burning continually. 21 In the Tent of Meeting, outside the veil that is in front of the Testimony, Aaron and his sons are to tend the lamps before the LORD from evening until morning. This is to be a permanent statute for the Israelites for the generations to come."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 27**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "The people supply pure oil from pressed olives, and Aaron and his sons tend the lamps before the LORD. The lamps stand in the Holy Place, outside the veil in front of the Testimony. These two verses connect the provision of the whole community with the regular service assigned to the priests.",
+    "",
+    "The instruction says to keep the lamps burning continually and to tend them from evening until morning. The same pattern is repeated in [Leviticus 24:1–4](https://biblehub.com/bsb/leviticus/24.htm). Light in the sanctuary requires faithful provision and attention, rather than being a furnishing made once and then forgotten."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Oil for the Lamps** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "Christian commentators often connect the light with God’s truth and the work of His Spirit. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) and [Calvin](https://biblehub.com/commentaries/calvin/exodus/27.htm) both make that connection, while describing the priests’ responsibility to maintain the lamps.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 27** remains the first control on meaning."
+    "The word continually has been understood differently in relation to the hours of burning. [Rashi](https://www.sefaria.org/Rashi_on_Exodus.27.20?lang=bi) understands it as the repeated service every night, comparing other offerings that are continual because they recur regularly. [Gill](https://biblehub.com/commentaries/gill/exodus/27.htm) favors light continuing by day and night. The BSB retains both parts of the instruction: continually and from evening until morning."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The New Testament carries the theme of God-given light into His people’s witness. In [Matthew 5:14–16](https://biblehub.com/bsb/matthew/5.htm), Jesus calls His followers the light of the world and tells them to let others see their good deeds so that the Father is glorified. The image now reaches beyond the sanctuary into public life.",
+    "",
+    "[2 Corinthians 4:5–7](https://biblehub.com/bsb/2_corinthians/4.htm) explains the source of that light: God makes the knowledge of His glory shine in the face of Jesus Christ, and His servants proclaim Christ rather than themselves. Their weakness makes clear that the power comes from God. This develops the wider theme of light and faithful service without treating the oil’s preparation as a formula for producing the Spirit’s work."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/27.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-twenty-seven-review.md"
+  }
 }

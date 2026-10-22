@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "James",
+    "citation": "2:1-7",
+    "label": "James 2:1-7",
+    "slug": "james-2-1-7"
+  },
+  "section_title": "Why does favoritism conflict with faith in Jesus?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 My brothers, as you hold out your faith in our glorious Lord Jesus Christ, do not show favoritism. 2 Suppose a man comes into your meeting wearing a gold ring and fine clothes, and a poor man in shabby clothes also comes in. 3 If you lavish attention on the man in fine clothes and say, “Here is a seat of honor,” but say to the poor man, “You must stand” or “Sit at my feet,” 4 have you not discriminated among yourselves and become judges with evil thoughts?",
+        "5 Listen, my beloved brothers: Has not God chosen the poor of this world to be rich in faith and to inherit the kingdom He promised those who love Him? 6 But you have dishonored the poor. Is it not the rich who oppress you and drag you into court? 7 Are they not the ones who blaspheme the noble name by which you have been called?"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The call to care for people in distress now becomes a test of the congregation’s welcome. A well-dressed visitor receives an honored seat; a poorly dressed visitor is left standing or placed at someone’s feet. James exposes the judgment behind the difference.",
+    "",
+    "The word translated favoritism concerns [preferring people because of outward status](https://biblehub.com/greek/4382.htm). Their clothes and money have become a measure of their worth. The word for meeting can refer to [an assembly, including a Christian gathering](https://biblehub.com/greek/4864.htm); the word alone does not tell us the building’s ownership or exact setting.",
+    "",
+    "James contrasts the congregation’s treatment of the poor with God’s choice of people rich in faith and heirs of His kingdom. He also reminds the readers of rich oppressors who drag them into court and dishonor the name they bear. Giving wealth automatic honor has blinded them to both God’s welcome and the conduct in front of them."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a rejection of giving people greater worth or a better welcome because they have money or status. [Calvin](https://biblehub.com/commentaries/calvin/james/2.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-general-epistle-of-st-james/) both distinguish God’s honor for the lowly from the congregation’s preference for appearances; neither makes every poor person faithful or every rich person an unbeliever."
+  ],
+  "god_plan_lines": [
+    "[1 Corinthians 1:26–31](https://biblehub.com/bsb/1_corinthians/1.htm) explains why God’s calling overturns ordinary rankings: no one is to boast before Him, and Christ is the source of His people’s righteousness and redemption. Welcoming believers on that basis makes God’s grace visible in a community, rather than rebuilding a ladder of human importance."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/james/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-james-two-review.md"
+  }
+}

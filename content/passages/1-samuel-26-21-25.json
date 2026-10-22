@@ -5,25 +5,49 @@
     "label": "1 Samuel 26:21-25",
     "slug": "1-samuel-26-21-25"
   },
-  "section_title": "Saul Acknowledges His Sin",
+  "section_title": "Why do David and Saul still go separate ways?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "21 Then Saul replied, \u201cI have sinned. Come back, David my son. I will never harm you again, because today you considered my life precious. I have played the fool and have committed a grave error!\u201d",
-        "22 \u201cHere is the king\u2019s spear,\u201d David answered. \u201cLet one of the young men come over and get it. 23 May the LORD repay every man for his righteousness and faithfulness. For the LORD delivered you into my hand today, but I would not stretch out my hand against the LORD\u2019s anointed. 24 As surely as I valued your life today, so may the LORD value my life and rescue me from all trouble.\u201d",
-        "25 Saul said to him, \u201cMay you be blessed, David my son. You will accomplish great things and will surely prevail.\u201d",
-        "So David went on his way, and Saul returned home."
+        "21 Then Saul replied, “I have sinned. Come back, David my son. I will never harm you again, because today you considered my life precious. I have played the fool and have committed a grave error!” 22 “Here is the king’s spear,” David answered. “Let one of the young men come over and get it. 23 May the LORD repay every man for his righteousness and faithfulness. For the LORD delivered you into my hand today, but I would not extend my hand against the LORD’s anointed. 24 As surely as I valued your life today, so may the LORD value my life and rescue me from all trouble.” 25 Saul said to him, “May you be blessed, David my son. You will accomplish great things and will surely prevail.” So David went on his way, and Saul returned home."
       ]
     }
   ],
   "context_lines": [
-    "In **1 Samuel 26**, this section should be read within the flow of the chapter and the larger movement of 1 Samuel."
+    "Saul confesses sin, says he has acted foolishly and promises not to harm David again. He recognizes that David valued his life when he could have taken it.",
+    "",
+    "David offers the spear back through one of Saul’s young men. He asks the LORD to repay righteousness and faithfulness, and to value and rescue his life as he has valued Saul’s. Saul blesses him and speaks of his future success, but David goes on his way while Saul returns home."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Saul Acknowledges His Sin** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-samuel/) takes Saul’s confession here as a particularly sincere acknowledgment of wrong and notes that no further pursuit is recorded. [Henry](https://biblehub.com/commentaries/mhc/1_samuel/26.htm) and [Gill](https://biblehub.com/commentaries/gill/1_samuel/26.htm) remain doubtful about lasting repentance. They agree about the words spoken while assessing their depth differently.",
     "",
-    "Where interpreters differ on details, the immediate setting in **1 Samuel 26** remains the first control on meaning."
+    "[Henry](https://biblehub.com/commentaries/mhc/1_samuel/26.htm) directs attention to David’s hope for recompense from the LORD. Saul’s invitation does not become the foundation of his security. Their separate departure allows mercy and caution to remain together, rather than treating the confession as an automatic return to the earlier relationship."
   ],
-  "deeper_study": []
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_samuel/26.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-samuel-twenty-five-six-review.md"
+  }
 }

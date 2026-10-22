@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "6:1-3",
+    "label": "Hebrews 6:1-3",
+    "slug": "hebrews-6-1-3"
+  },
+  "section_title": "How do we move forward without abandoning the foundation?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Therefore let us leave the elementary teachings about Christ and go on to maturity, not laying again the foundation of repentance from dead works, and of faith in God, 2 instruction about baptisms, the laying on of hands, the resurrection of the dead, and eternal judgment. 3 And this we will do, if God permits."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The writer continues the call to grow beyond the immaturity described at the end of chapter 5. Leaving the elementary teachings means building on the foundation, rather than repeatedly starting over. Repentance and faith remain part of that foundation.",
+    "",
+    "The list includes instruction about baptisms, laying on of hands, resurrection and eternal judgment. These are substantial truths, even though they belong to the beginning of Christian instruction. The word [translated baptisms](https://biblehub.com/greek/909.htm) can also describe washings, so its use here has prompted discussion about the different washing practices the readers knew.",
+    "",
+    "The writer includes himself in moving forward, and adds if God permits. Growth calls for their response and depends on God. The coming warning shows why delaying it is serious."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/6.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) both understand the foundation picture as progress beyond first lessons, rather than rejection of them. A foundation serves the building that grows on it.",
+    "",
+    "They explain some details differently. Calvin connects baptisms and laying on of hands with early instruction and reception into the church, including his understanding of later instruction for those baptized as infants. Wesley emphasizes Christian baptism followed by laying on of hands for receiving the Spirit. The [USCCB note](https://bible.usccb.org/bible/hebrews/6) understands baptisms as instruction distinguishing Christian baptism from other washing rites. These are interpretations of the list; the verses do not give every detail of an initiation practice."
+  ],
+  "god_plan_lines": [
+    "[1 Corinthians 15:1–4](https://biblehub.com/bsb/1_corinthians/15.htm) calls believers to hold to the gospel they received, centered on Christ’s death and resurrection. Growth goes forward from that message, rather than making it unnecessary.",
+    "",
+    "[Ephesians 2:8–10](https://biblehub.com/bsb/ephesians/2.htm) likewise moves from salvation by grace through faith to the good works God prepares for His people. The foundation and the life built on it belong together within God’s purpose."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/6.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-six-review.md"
+  }
+}

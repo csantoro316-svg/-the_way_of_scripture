@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "14:10-11",
+    "label": "Mark 14:10-11",
+    "slug": "mark-14-10-11"
+  },
+  "section_title": "How does betrayal enter the circle of the Twelve?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 Then Judas Iscariot, one of the Twelve, went to the chief priests to betray Jesus to them. 11 They were delighted to hear this, and they promised to give him money. So Judas began to look for an opportunity to betray Jesus."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Judas goes to the chief priests and offers to betray Jesus. Mark stresses that he belongs to the Twelve: the opening comes from someone within Jesus’ own circle. The leaders welcome his approach, promise money, and gain a person looking for a suitable opportunity.",
+    "",
+    "The agreement follows the woman’s costly gift. The neighboring scenes contrast giving something valuable to honor Jesus with receiving money to hand Him over. Mark records the agreement without explaining every thought that led Judas to it. John’s account gives further information about his dishonesty with the group’s money. ([John 12:4–6](https://biblehub.com/bsb/john/12.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christians generally read this as a real betrayal by a close disciple, with the promised payment showing how the leaders and Judas come to cooperate. Calvin emphasizes the destructive part played by greed, drawing on John’s account of Judas’s theft. ([Calvin, Mark 14:10–11 and Matthew 26:14](https://biblehub.com/commentaries/calvin/mark/14.htm))"
+  ],
+  "god_plan_lines": [
+    "At the meal, Jesus Himself connects the betrayal with Scripture about a trusted companion who shared bread and then turned against the speaker. John explicitly applies that saying to the betrayal in Jesus’ circle. This connection comes from the Gospel itself, rather than from assigning a hidden meaning to Judas’s name or the payment. ([Psalm 41:9](https://biblehub.com/bsb/psalms/41.htm); [John 13:18–30](https://biblehub.com/bsb/john/13.htm))",
+    "",
+    "Jesus says He is telling His followers beforehand so that the event will strengthen their belief in Him when it happens. The betrayal will be grievous, but it will not show that He was unaware of what was coming or that His mission had escaped His Father’s purpose. ([John 13:19](https://biblehub.com/bsb/john/13.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/14.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-fourteen-opening-review.md"
+  }
+}

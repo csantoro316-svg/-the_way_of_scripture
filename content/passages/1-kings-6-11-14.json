@@ -1,0 +1,71 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "6:11-14",
+    "label": "1 Kings 6:11-14",
+    "slug": "1-kings-6-11-14"
+  },
+  "section_title": "What matters more than the building Solomon is making?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "11 Then the word of the LORD came to Solomon, saying: 12 “As for this temple you are building, if you walk in My statutes, carry out My ordinances, and keep all My commandments by walking in them, I will fulfill through you the promise I made to your father David. 13 And I will dwell among the Israelites and will not abandon My people Israel.” 14 So Solomon built the temple and finished it."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The construction account pauses for a word from the LORD. Solomon is to walk in God’s statutes, carry out His ordinances and keep His commandments.",
+    "",
+    "God connects that obedience with fulfilling His promise to David through Solomon. He promises to dwell among Israel and not abandon His people. The account then returns to the building work.",
+    "",
+    "The interruption makes the central concern plain. The house is being built for the LORD, and the life of its king must answer to the LORD’s word."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/6.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) emphasize that the expense of the temple cannot excuse disobedience or shield the people from its consequences.",
+    "",
+    "[Gill](https://biblehub.com/commentaries/gill/1_kings/6.htm) likewise connects the promise with the faithfulness required of Solomon, his successors and the people. The message concerns an ongoing relationship with God, rather than the completion of a building alone."
+  ],
+  "god_plan_lines": [
+    "The promise of God’s dwelling among His people reaches a new expression in [John 1:14](https://biblehub.com/bsb/john/1.htm): the Word becomes flesh and makes His dwelling among us. The Greek verb is skēnoō, pronounced skay-NO-oh. [Thayer’s lexicon](https://biblehub.com/greek/4637.htm) connects it with living in a tent or tabernacle, as well as dwelling more generally.",
+    "",
+    "[John 14:23–24](https://biblehub.com/bsb/john/14.htm) also joins love, obedience and God’s presence: Jesus speaks of the Father and Son making their home with the person who loves Him and keeps His word.",
+    "",
+    "These are connections in the larger biblical story, not a claim that John directly quotes Solomon’s instructions. God’s purpose is to be with His people, and the New Testament brings that presence into focus through Jesus."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/6.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-six-review.md"
+  }
+}

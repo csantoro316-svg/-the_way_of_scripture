@@ -1,0 +1,67 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "13:1-14",
+    "label": "2 Samuel 13:1-14",
+    "slug": "2-samuel-13-1-14"
+  },
+  "section_title": "How does Amnon turn a request for care into an attack on Tamar?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 After some time, David’s son Amnon fell in love with Tamar, the beautiful sister of David’s son Absalom. 2 Amnon was sick with frustration over his sister Tamar, for she was a virgin, and it seemed implausible for him to do anything to her. 3 Now Amnon had a friend named Jonadab, the son of David’s brother Shimeah. Jonadab was a very shrewd man, 4 and he asked Amnon, “Why are you, the son of the king, so depressed morning after morning? Won’t you tell me?” Amnon replied, “I am in love with Tamar, my brother Absalom’s sister.” 5 Jonadab told him, “Lie down on your bed and pretend you are ill. When your father comes to see you, say to him, ‘Please let my sister Tamar come and give me something to eat. Let her prepare it in my sight so I may watch her and eat it from her hand.’”",
+        "6 So Amnon lay down and feigned illness. When the king came to see him, Amnon said, “Please let my sister Tamar come and make a couple of cakes in my sight, so that I may eat from her hand.” 7 Then David sent word to Tamar at the palace: “Please go to the house of Amnon your brother and prepare a meal for him.” 8 So Tamar went to the house of her brother Amnon, who was lying down. She took some dough, kneaded it, made cakes in his sight, and baked them. 9 Then she brought the pan and set it down before him, but he refused to eat. “Send everyone away!” said Amnon. And everyone went out. 10 Then Amnon said to Tamar, “Bring the food into the bedroom, so that I may eat it from your hand.” Tamar took the cakes she had made and went to her brother Amnon’s bedroom.",
+        "11 And when she had brought them to him to eat, he took hold of her and said, “Come lie with me, my sister!” 12 “No, my brother!” she cried. “Do not violate me, for such a thing should never be done in Israel. Do not do this disgraceful thing! 13 Where could I ever take my shame? And you would be like one of the fools in Israel! Please speak to the king, for he will not withhold me from you.” 14 But Amnon refused to listen to her, and being stronger, he violated her and lay with her."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Amnon desires Tamar, Absalom’s sister and his own half-sister. His cousin Jonadab suggests a plan: pretend to be ill and ask David to send Tamar to prepare food. David agrees, and Tamar comes to care for her brother.",
+    "",
+    "Amnon refuses the food, dismisses everyone else, then asks Tamar to bring it into the bedroom. He takes hold of her and demands sex. She clearly refuses, calls the act disgraceful, and appeals to him to think of the harm to her and the dishonor to himself.",
+    "",
+    "Tamar also asks him to speak to the king rather than do this. Amnon refuses to listen. He overpowers and rapes her. The account makes his choice and her refusal explicit; her obedience to her father’s request is not consent to what Amnon does."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/13.htm) connects the violence within David’s family with the earlier announcement that his household would suffer. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) emphasizes how Tamar appeals to the duty a brother should have to protect her. The story exposes the betrayal of that duty rather than excusing Amnon’s desire.",
+    "",
+    "Tamar’s request about speaking to the king has been read in different ways. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) thinks she hoped David would make an exception permitting marriage; [Gill](https://biblehub.com/commentaries/gill/2_samuel/13.htm) considers several explanations, including a desperate attempt to delay the attack. [Leviticus 18:9 and 20:17](https://biblehub.com/bsb/leviticus/18.htm) prohibit sexual relations between half-siblings; [the second passage](https://biblehub.com/bsb/leviticus/20.htm) also expressly describes such a marriage as disgraceful.",
+    "",
+    "Whatever Tamar thought the king might do, she is trying to prevent the violation. Her plea should be heard in that danger, rather than used as a general rule requiring an assaulted person to marry the attacker."
+  ],
+  "god_plan_lines": [
+    "Amnon describes his desire as love, but his behavior disregards the person he claims to love. The contrast helps us recognize a theme Scripture develops more fully: love seeks another person’s good rather than using them to satisfy a desire.",
+    "",
+    "[1 Corinthians 13:4–7](https://biblehub.com/bsb/1_corinthians/13.htm) describes love as patient and kind, opposed to self-seeking and wrongdoing, and joined to truth. That gives a clear measure for the difference between love and a claim of love used to take control.",
+    "",
+    "This is a shared biblical theme, not a claim that Paul is directly interpreting Amnon’s words. God’s purpose for relationships calls people toward care and faithfulness. A powerful desire does not make an act loving when it overrides another person’s refusal."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/13.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-thirteen-review.md"
+  }
+}

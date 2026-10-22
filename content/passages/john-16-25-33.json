@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "16:25-33",
+    "label": "John 16:25-33",
+    "slug": "john-16-25-33"
+  },
+  "section_title": "How can Jesus promise peace when His disciples will scatter?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "25 I have spoken these things to you in figures of speech. An hour is coming when I will no longer speak to you this way, but will tell you plainly about the Father. 26 In that day you will ask in My name. I am not saying that I will ask the Father on your behalf. 27 For the Father Himself loves you, because you have loved Me and have believed that I came from God. 28 I came from the Father and entered the world. In turn, I will leave the world and go to the Father.”",
+        "29 His disciples said, “See, now You are speaking plainly and without figures of speech. 30 Now we understand that You know all things and that You have no need for anyone to question You. Because of this, we believe that You came from God.” 31 “Do you finally believe?” Jesus replied. 32 “Look, an hour is coming and has already come when you will be scattered, each to his own home, and you will leave Me all alone. Yet I am not alone, because the Father is with Me. 33 I have told you these things so that in Me you may have peace. In the world you will have tribulation. But take courage; I have overcome the world!”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus promises clearer understanding of the Father and speaks of the Father’s own love for the disciples. Their asking in His name is not an effort to persuade an unwilling Father to care for them. They have believed that Jesus came from God, and He is returning to the Father.",
+    "",
+    "The disciples now profess that they understand and believe. Jesus answers by warning that they will soon scatter and leave Him. Their confidence has not yet been tested by the arrest that is approaching. He nevertheless says that He is not alone, because the Father is with Him.",
+    "",
+    "The final promise holds together peace in Him and trouble in the world. Jesus does not promise the absence of suffering. He gives the reason for courage: He has overcome the world. Their weakness and the coming opposition will not overturn His mission."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley on verse 26](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) and [Calvin on verse 26](https://biblehub.com/commentaries/calvin/john/16.htm) both explain that Jesus is emphasizing the Father’s love, rather than denying His continuing intercession. [Hebrews 7:23–25](https://biblehub.com/bsb/hebrews/7.htm) explicitly describes His lasting work on behalf of those who draw near to God through Him.",
+    "",
+    "Christians commonly understand the promise of peace as grounded in Jesus’ victory amid real affliction. Calvin’s note on verse 33 emphasizes courage drawn from that victory. The disciples’ coming failure does not make His words empty, and the promise does not turn every trial into an easy experience."
+  ],
+  "god_plan_lines": [
+    "[Colossians 2:13–15](https://biblehub.com/bsb/colossians/2.htm) describes Christ’s triumph through the cross, joining His victory with forgiveness. The suffering now approaching belongs to the work through which He overcomes, rather than showing that His mission has failed.",
+    "",
+    "His return to the Father also leads into continuing help for His people. [Hebrews 7:23–25](https://biblehub.com/bsb/hebrews/7.htm) describes His permanent priesthood and intercession. The disciples are being prepared to depend on a living Lord whose care continues after His departure."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/16.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-sixteen-review.md"
+  }
+}

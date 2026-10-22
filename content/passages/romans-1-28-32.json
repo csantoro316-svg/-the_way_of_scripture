@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "1:28-32",
+    "label": "Romans 1:28-32",
+    "slug": "romans-1-28-32"
+  },
+  "section_title": "Why does Paul end with so many kinds of wrongdoing?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "28 Furthermore, since they did not see fit to acknowledge God, He gave them up to a depraved mind, to do what ought not to be done. 29 They have become filled with every kind of wickedness, evil, greed, and depravity. They are full of envy, murder, strife, deceit, and malice. They are gossips, 30 slanderers, God-haters, insolent, arrogant, and boastful. They invent new forms of evil; they disobey their parents. 31 They are senseless, faithless, heartless, merciless.",
+        "32 Although they know God’s righteous decree that those who do such things are worthy of death, they not only continue to do these things, but also approve of those who practice them."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul describes a third giving over: because people have not seen fit to acknowledge God, He gives them up to a depraved mind, a way of thinking that approves what ought not to be done. The description moves from false worship and disordered desires into the harm people do to one another.",
+    "",
+    "The list is deliberately broad. It includes greed, envy, murder, deceit, malice, gossip, slander, arrogance, disobedience to parents, faithlessness and lack of mercy. Sexual behavior is not the only subject of Paul’s account, and the list does not say that every person has committed every deed named.",
+    "",
+    "The final verse adds approval of wrongdoing to the practice of it. Paul describes people who know God’s judgment and nevertheless encourage what comes under that judgment. The concern reaches what a community celebrates as well as what individuals do.",
+    "",
+    "The next sentence, [Romans 2:1](https://biblehub.com/bsb/romans/2.htm), turns directly toward the judging reader. Condemning another person does not excuse someone who also practices wrongdoing. The chapter division should not hide that turn."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this list as a picture of the wide damage caused by refusing God, including familiar social sins as well as more publicly condemned acts. The movement into chapter 2 prevents the passage from becoming a way for the reader to claim innocence simply by condemning someone else."
+  ],
+  "god_plan_lines": [
+    "[Romans 3:9–24](https://biblehub.com/bsb/romans/3.htm) states where this developing account leads: Jews and Greeks alike are under sin, and God’s righteousness is made known through faith in Jesus Christ to all who believe. The exposure of wrongdoing prepares for the announcement of grace; it does not establish one group’s right to look down on another.",
+    "",
+    "The same Creator who holds people accountable provides redemption in Christ. That wider purpose gives the list its place in the letter: it helps explain the need shared by those who read it, rather than giving them only a catalog of other people’s failures."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-one-complete-review.md"
+  }
+}

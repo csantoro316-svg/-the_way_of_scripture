@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "5:13-18",
+    "label": "1 Kings 5:13-18",
+    "slug": "1-kings-5-13-18"
+  },
+  "section_title": "Who does the work of preparing the temple materials?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 Then King Solomon conscripted a labor force of 30,000 men from all Israel. 14 He sent them to Lebanon in monthly shifts of 10,000 men, so that they would spend one month in Lebanon and two months at home. And Adoniram was in charge of the forced labor. 15 Solomon had 70,000 porters and 80,000 stonecutters in the mountains, 16 not including his 3,300 foremen who supervised the workers.",
+        "17 And the king commanded them to quarry large, costly stones to lay the foundation of the temple with dressed stones. 18 So Solomon’s and Hiram’s builders, along with the Gebalites, quarried the stone and prepared the timber and stone for the construction of the temple."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Solomon conscripts thirty thousand men from Israel. They serve in Lebanon in shifts of ten thousand, spending one month there and two months at home. Adoniram supervises this forced labor.",
+    "",
+    "The account also names seventy thousand porters, eighty thousand stonecutters and thirty-three hundred foremen. Large, costly stones are quarried and dressed for the foundation.",
+    "",
+    "Solomon’s builders work with Hiram’s builders and the Gebalites to prepare the timber and stone. The temple requires a large workforce as well as a royal decision to build it."
+  ],
+  "common_interpretation_lines": [
+    "[Gill](https://biblehub.com/commentaries/gill/1_kings/5.htm) distinguishes the Israelite levy, which works in rotation, from the porters and stonecutters. He reads the latter alongside [2 Chronicles 2:17–18](https://biblehub.com/bsb/2_chronicles/2.htm), which identifies those workers as foreigners living in the land.",
+    "",
+    "[1 Kings 9:20–22](https://biblehub.com/bsb/1_kings/9.htm) also distinguishes the continuing forced labor of the remaining non-Israelite peoples from the status of Israelites. The arrangements should not all be treated as the same kind of service.",
+    "",
+    "The shifts give the Israelite men time at home, but the text still calls their work conscription and forced labor. The sacred purpose of the building and the demands made on the workers both belong in our reading."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/5.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-five-review.md"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "16:5-9",
+    "label": "1 Corinthians 16:5-9",
+    "slug": "1-corinthians-16-5-9"
+  },
+  "section_title": "Can an open door for the gospel come with opposition?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 After I go through Macedonia, however, I will come to you; for I will be going through Macedonia. 6 Perhaps I will stay with you awhile, or even spend the winter, so that you can help me on my journey, wherever I go. 7 For I do not want to see you now only in passing; I hope to spend some time with you, if the Lord permits.",
+        "8 But I will stay in Ephesus until Pentecost, 9 because a great door for effective work has opened to me, even though many oppose me."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul explains his travel hopes: he intends to pass through Macedonia before coming to Corinth, and he would like enough time with them for a substantial visit, perhaps through the winter. He hopes they can help him on the next stage of the journey.",
+    "",
+    "His plans remain subject to the Lord’s permission. These are his intentions, not a promise that every detail of his itinerary has been revealed in advance.",
+    "",
+    "For now he will remain in Ephesus until Pentecost because an important opportunity for work has opened there. There are also many opponents. Paul mentions opportunity and opposition together; difficulty has not automatically made the work pointless or closed the door."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Paul to be weighing fruitful ministry, time with the congregation and the Lord’s permission as he makes plans. [Wesley’s note on verse 9](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) explicitly observes that opposition can accompany opportunity. This is encouragement to discern faithfully, rather than a rule that every dangerous situation requires someone to remain."
+  ],
+  "god_plan_lines": [
+    "[Acts 19:8–10](https://biblehub.com/bsb/acts/19.htm) describes opposition to Paul’s teaching in Ephesus and his continuing work in another setting. The message of the Lord spread through the surrounding province of Asia.",
+    "",
+    "This gives a concrete example of the mission continuing through resistance. God’s purpose to make Christ known is not measured simply by how comfortable a journey becomes. Paul’s plans serve that purpose while remaining open to the Lord’s direction."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/16.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-sixteen-review.md"
+  }
+}

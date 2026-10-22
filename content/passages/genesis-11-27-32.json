@@ -5,24 +5,44 @@
     "label": "Genesis 11:27-32",
     "slug": "genesis-11-27-32"
   },
-  "section_title": "Terah\u2019s Descendants",
+  "section_title": "Terah’s Descendants",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "27 This is the account of Terah. Terah became the father of Abram, Nahor, and Haran. And Haran became the father of Lot. 28 During his father Terah\u2019s lifetime, Haran died in his native land, in Ur of the Chaldeans.",
-        "29 And Abram and Nahor took wives for themselves. Abram\u2019s wife was named Sarai, and Nahor\u2019s wife was named Milcah; she was the daughter of Haran, who was the father of both Milcah and Iscah. 30 But Sarai was barren; she had no children.",
+        "27 This is the account of Terah. Terah became the father of Abram, Nahor, and Haran. And Haran became the father of Lot. 28 During his father Terah’s lifetime, Haran died in his native land, in Ur of the Chaldeans.",
+        "29 And Abram and Nahor took wives for themselves. Abram’s wife was named Sarai, and Nahor’s wife was named Milcah; she was the daughter of Haran, who was the father of both Milcah and Iscah. 30 But Sarai was barren; she had no children.",
         "31 And Terah took his son Abram, his grandson Lot son of Haran, and his daughter-in-law Sarai the wife of Abram, and they set out from Ur of the Chaldeans for the land of Canaan. But when they arrived in Haran, they settled there. 32 Terah lived 205 years, and he died in Haran."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 11**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "The account now turns from a long family line to the lives of Terah's household. Haran dies while his father Terah is still alive, leaving Lot as his surviving son. Abram marries Sarai, while Nahor marries Milcah, Haran's daughter. These relationships explain why Lot travels with Abram and prepare for the relatives encountered later in Genesis.",
+    "",
+    "The brief notice that Sarai has no children matters enormously. The next chapter promises to make Abram a great nation, yet this family has no child through whom that promise could continue. Genesis introduces the difficulty before it tells us the promise, so we will watch how God meets it.",
+    "",
+    "Terah takes Abram, Sarai, and Lot from Ur of the Chaldeans toward Canaan, but they settle in Haran. Terah dies there. [Acts 7:2–4](https://biblehub.com/bsb/acts/7.htm) adds that God first appeared to Abraham in Mesopotamia before he lived in Haran. The journey therefore belongs to the beginning of God's call, although Genesis gives the words of that call in the next chapter."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Terah\u2019s Descendants** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 11** remains the first control on meaning."
+    "Christians commonly read this paragraph as the beginning of Abraham's family story, with the move toward Canaan and Sarai's inability to have children preparing for God's promise. [Wesley's notes on Genesis 11:27–32](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) connect the departure with God's call and explain the relatives' importance for the story that follows."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "god_plan_lines": [
+    "[Acts 7:2–8](https://biblehub.com/bsb/acts/7.htm) explicitly brings this journey and the promise together: God called Abraham before he lived in Haran and promised him descendants even when he had no child. God's purpose begins to take shape while the family is still traveling and the most obvious obstacle remains unresolved.",
+    "",
+    "[Hebrews 11:8–12](https://biblehub.com/bsb/hebrews/11.htm) later remembers both Abraham's journey in faith and Sarah receiving the ability to conceive because she trusted the One who promised. The lesson reaches beyond a successful journey or an unexpected birth: the future of this family rests on God's faithfulness. Their beginning prepares us to see why His promise, rather than their own resources, carries the story forward."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-18",
+    "quote_source": "https://biblehub.com/bsb/genesis/11.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-18-genesis-nations-and-babel-review.md"
+  }
 }

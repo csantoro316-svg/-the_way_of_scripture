@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "41:5-15",
+    "label": "Ezekiel 41:5-15",
+    "slug": "ezekiel-41-5-15"
+  },
+  "section_title": "How do the side rooms fit around the temple?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 Next he measured the wall of the temple to be six cubits thick, and the width of each side room around the temple was four cubits. 6 The side rooms were arranged one above another in three levels of thirty rooms each. There were ledges all around the wall of the temple to serve as supports for the side rooms, so that the supports would not be fastened into the wall of the temple itself. 7 The side rooms surrounding the temple widened at each successive level, because the structure surrounding the temple ascended by stages corresponding to the narrowing of the temple wall as it rose upward. And so a stairway went up from the lowest story to the highest, through the middle one. 8 I saw that the temple had a raised base all around it, forming the foundation of the side rooms. It was the full length of a rod, six long cubits.",
+        "9 The outer wall of the side rooms was five cubits thick, and the open area between the side rooms of the temple 10 and the outer chambers was twenty cubits wide all around the temple. 11 The side rooms opened into this area, with one entrance on the north and another on the south. The open area was five cubits wide all around. 12 Now the building that faced the temple courtyard on the west was seventy cubits wide, and the wall of the building was five cubits thick all around, with a length of ninety cubits.",
+        "13 Then he measured the temple to be a hundred cubits long, and the temple courtyard and the building with its walls were also a hundred cubits long. 14 The width of the temple courtyard on the east, including the front of the temple, was a hundred cubits. 15 Next he measured the length of the building facing the temple courtyard at the rear of the temple, including its galleries on each side; it was a hundred cubits. The outer sanctuary, the inner sanctuary, and the porticoes facing the court,"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The guide measures the walls and the side rooms surrounding the temple. The rooms rise in three levels, with thirty rooms on each level. Ledges support them without their supports being fixed into the temple wall itself.",
+    "",
+    "The upper rooms become wider as the wall narrows, and a stairway connects the levels. A raised base, open areas and entrances on the north and south form part of the arrangement.",
+    "",
+    "A separate building stands to the west. The guide then gives the larger measurements of the temple, courtyard and rear building, showing how the parts fit within the whole."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/ezekiel/41.htm) explains the widening rooms through the changing thickness of the walls and the ledges that support them. His account follows the practical arrangement of the rooms and the ways between them.",
+    "",
+    "The passage provides their structure and location without assigning each level a separate spiritual class or stage of Christian growth."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/41.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-forty-two-review.md"
+  }
+}

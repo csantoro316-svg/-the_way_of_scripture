@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "2:25-35",
+    "label": "Luke 2:25-35",
+    "slug": "luke-2-25-35"
+  },
+  "section_title": "What does Simeon see in this child?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "25 Now there was a man in Jerusalem named Simeon, who was righteous and devout. He was waiting for the consolation of Israel, and the Holy Spirit was upon him. 26 The Holy Spirit had revealed to him that he would not see death before he had seen the Lord’s Christ. 27 Led by the Spirit, he went into the temple courts. And when the parents brought in the child Jesus to do for Him what was customary under the Law, 28 Simeon took Him in his arms and blessed God, saying:",
+        "29 “Sovereign Lord, as You have promised, You now dismiss Your servant in peace. 30 For my eyes have seen Your salvation, 31 which You have prepared in the sight of all people, 32 a light for revelation to the Gentiles, and for glory to Your people Israel.”",
+        "33 The Child’s father and mother were amazed at what was spoken about Him. 34 Then Simeon blessed them and said to His mother Mary: “Behold, this Child is appointed to cause the rise and fall of many in Israel, and to be a sign that will be spoken against, 35 so that the thoughts of many hearts will be revealed— and a sword will pierce your soul as well.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Simeon is a righteous and devout man waiting for God to bring comfort and deliverance to Israel. The Spirit has promised that he will see the Lord’s Christ before he dies and leads him into the temple courts. He takes Jesus in his arms and blesses God for keeping that promise.",
+    "",
+    "His praise names the child as God’s salvation, prepared openly for the peoples: light for the Gentiles and glory for Israel. The comfort he has awaited is not confined to his own final years or to one household. God’s mercy reaches Israel and the nations.",
+    "",
+    "His words to Mary also include opposition and pain. The child will cause rising and falling, will be spoken against, and will reveal hearts. A sword will pierce Mary’s own soul. The promise of salvation does not mean Jesus and His mother will be spared suffering."
+  ],
+  "common_interpretation_lines": [
+    "Christian traditions commonly read Simeon as recognizing the promised Messiah and foretelling both salvation and opposition. The sorrow predicted for Mary is commonly connected with Jesus’ suffering and death, where John records His mother standing near the cross. ([Catechism 529](https://www.vatican.va/archive/ENG0015/__P1L.HTM); [Wesley on Luke 2:30–35](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [John 19:25–27](https://biblehub.com/bsb/john/19.htm))"
+  ],
+  "god_plan_lines": [
+    "Isaiah describes God’s servant as restoring Israel and bringing light and salvation to the nations. Acts explicitly applies that light-for-the-nations promise to the spread of the gospel. Simeon’s words belong within that scriptural purpose: Israel’s Messiah brings salvation whose reach extends to the ends of the earth. ([Isaiah 49:5–7](https://biblehub.com/bsb/isaiah/49.htm); [Acts 13:44–49](https://biblehub.com/bsb/acts/13.htm))",
+    "",
+    "The image of people responding differently to Christ also has a supported connection with Peter’s account of the living stone. Christ is precious to those who believe and a stumbling stone to those who disobey; those receiving mercy are formed into a people called to proclaim God’s goodness. This develops the theme of a response to Jesus revealing the heart. ([1 Peter 2:4–10](https://biblehub.com/bsb/1_peter/2.htm))",
+    "",
+    "Paul’s fuller discussion of Israel and the nations keeps this subject centered on mercy. He affirms a faithful remnant, warns Gentile believers against boasting, and speaks of hope for those who have stumbled. Simeon says many in Israel, and Luke has already shown faithful Israelites welcoming Jesus. The wider picture should be read with that care rather than turned into a blanket accusation against a people. ([Romans 11:1–36](https://biblehub.com/bsb/romans/11.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/2.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-two-closing-review.md"
+  }
+}

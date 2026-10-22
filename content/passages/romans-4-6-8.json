@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "4:6-8",
+    "label": "Romans 4:6-8",
+    "slug": "romans-4-6-8"
+  },
+  "section_title": "Why does David call the forgiven person blessed?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 And David speaks likewise of the blessedness of the man to whom God credits righteousness apart from works: 7 “Blessed are they whose lawless acts are forgiven, whose sins are covered. 8 Blessed is the man whose sin the Lord will never count against him.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul adds David’s voice to Abraham’s example. He introduces the words as describing the person to whom God credits righteousness apart from works, then quotes the opening of Psalm 32.",
+    "",
+    "The blessing is forgiveness: lawless acts forgiven, sins covered and sin not counted against the person. The person is blessed because God deals mercifully with real wrongdoing, rather than because the wrong never happened.",
+    "",
+    "[Psalm 32:3–5](https://biblehub.com/bsb/psalms/32.htm) continues with the burden of concealed sin, confession and God’s forgiveness. Paul’s quotation belongs to a prayer about coming honestly before God, not making wrongdoing into a reason for pride."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand these words as celebrating forgiveness given by God to people who need it. David’s testimony supports Paul’s distinction between a gift of mercy and acceptance claimed as something owed for one’s achievements."
+  ],
+  "god_plan_lines": [
+    "Abraham’s story and David’s prayer speak from different points in Israel’s history, yet Paul brings them together as witnesses to God’s gift. The Scriptures that expose sin also teach people to seek forgiveness and trust His mercy.",
+    "",
+    "This prepares the reader to understand the redemption just described in [Romans 3:24–26](https://biblehub.com/bsb/romans/3.htm). The announcement about Christ answers the need expressed in the psalm; it does not begin with the claim that people have no sins to forgive."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/4.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-four-review.md"
+  }
+}

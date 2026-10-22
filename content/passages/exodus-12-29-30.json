@@ -5,23 +5,50 @@
     "label": "Exodus 12:29-30",
     "slug": "exodus-12-29-30"
   },
-  "section_title": "The Tenth Plague: Death of the Firstborn",
+  "section_title": "What happened when the final warning was fulfilled?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "29 Now at midnight the LORD struck down every firstborn male in the land of Egypt, from the firstborn of Pharaoh, who sat on his throne, to the firstborn of the prisoner in the dungeon, as well as all the firstborn among the livestock.",
-        "30 During the night Pharaoh got up\u2014he and all his officials and all the Egyptians\u2014and there was loud wailing in Egypt; for there was no house without someone dead."
+        "29 Now at midnight the LORD struck down every firstborn male in the land of Egypt, from the firstborn of Pharaoh, who sat on his throne, to the firstborn of the prisoner in the dungeon, as well as all the firstborn among the livestock. 30 During the night Pharaoh got up—he and all his officials and all the Egyptians—and there was loud wailing in Egypt; for there was no house without someone dead."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 12**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "At midnight, the final judgment occurs as announced. The firstborn males die, from Pharaoh’s household to the household of the prisoner, and among the livestock. The narrative carries the warning of chapter 11 into its fulfillment.",
+    "",
+    "Pharaoh, his officials and the Egyptians rise during the night to a great outcry. The repeated attention to households makes the grief concrete. The next verses describe the release that follows this terrible night."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Tenth Plague: Death of the Firstborn** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 12** remains the first control on meaning."
+    "The shared reading understands the deaths as the fulfillment of God’s final warning and the judgment that brings Israel’s release. [Calvin](https://biblehub.com/commentaries/calvin/exodus/12.htm) emphasizes the announced timing and the reach from the royal household to the prisoner; [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) places the event at the turning point from bondage to departure."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[Hebrews 11:28](https://biblehub.com/bsb/hebrews/11.htm) recalls this same judgment when it describes the firstborn being spared through Passover and the application of blood by faith. The deaths and the protection of Israel’s homes form the setting of the rescue.",
+    "",
+    "The larger question of rescue from judgment continues in [Hebrews 9:27–28](https://biblehub.com/bsb/hebrews/9.htm). There, human death and judgment are set alongside Christ’s once-for-all offering to bear sins and His promised return to bring salvation. The Exodus is a particular historical deliverance; the New Testament takes the need for deliverance into the larger setting of sin, judgment and salvation through Christ."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/12.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-twelve-review.md"
+  }
 }

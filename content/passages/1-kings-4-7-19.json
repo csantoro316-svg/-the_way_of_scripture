@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "4:7-19",
+    "label": "1 Kings 4:7-19",
+    "slug": "1-kings-4-7-19"
+  },
+  "section_title": "How is the royal household supplied?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 Solomon had twelve governors over all Israel to provide food for the king and his household. Each one would arrange provisions for one month of the year, 8 and these were their names: Ben-hur in the hill country of Ephraim; 9 Ben-deker in Makaz, in Shaalbim, in Beth-shemesh, and in Elon-beth-hanan; 10 Ben-hesed in Arubboth (Socoh and all the land of Hepher belonged to him); 11 Ben-abinadab in Naphath-dor (Taphath, a daughter of Solomon, was his wife); 12 Baana son of Ahilud in Taanach, in Megiddo, and in all of Beth-shean next to Zarethan below Jezreel, from Beth-shean to Abel-meholah and on past Jokmeam; 13 Ben-geber in Ramoth-gilead (the villages of Jair son of Manasseh in Gilead belonged to him, as well as the region of Argob in Bashan with its sixty great cities with walls and bronze bars);",
+        "14 Ahinadab son of Iddo in Mahanaim; 15 Ahimaaz in Naphtali (he had married Basemath, a daughter of Solomon); 16 Baana son of Hushai in Asher and in Aloth; 17 Jehoshaphat son of Paruah in Issachar; 18 Shimei son of Ela in Benjamin; 19 Geber son of Uri in the land of Gilead, including the territories of Sihon king of the Amorites and of Og king of Bashan. There was also one governor in the land of Judah."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Twelve governors are responsible for supplying food for Solomon and his household, each for one month of the year. The list names the areas from which those provisions come.",
+    "",
+    "Two governors are also identified as sons-in-law of Solomon: Ben-abinadab is married to Taphath, and Ahimaaz to Basemath. The BSB ends the list with a further reference to a governor in Judah.",
+    "",
+    "The arrangement makes the resources of different parts of the land available to the royal household. It explains how the large daily provisions described in the next section can be maintained."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/4.htm) understands the rotation as a way to share the burden so that one part of the country is not exhausted by supplying the court.",
+    "",
+    "The [USCCB notes](https://bible.usccb.org/bible/1kings/4) place more emphasis on an unequal burden, reading Judah’s separate administration as favorable to Solomon’s own tribe. That reading looks ahead to the later division of the kingdom.",
+    "",
+    "The monthly system is clear, but its effects on the people require the wider narrative too. In [1 Kings 12:1–16](https://biblehub.com/bsb/1_kings/12.htm), the people will ask Solomon’s son to lighten the heavy burden his father placed on them. Court organization and the experience of those who support it are both part of the story."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/4.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-four-review.md"
+  }
+}

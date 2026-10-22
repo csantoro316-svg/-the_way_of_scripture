@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "10:1-12",
+    "label": "Luke 10:1-12",
+    "slug": "luke-10-1-12"
+  },
+  "section_title": "Why does Jesus send more workers ahead of Him?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 After this, the Lord appointed seventy-two others and sent them two by two ahead of Him to every town and place He was about to visit. 2 And He told them, “The harvest is plentiful, but the workers are few. Ask the Lord of the harvest, therefore, to send out workers into His harvest. 3 Go! I am sending you out like lambs among wolves. 4 Carry no purse or bag or sandals. Do not greet anyone along the road.",
+        "5 Whatever house you enter, begin by saying, ‘Peace to this house.’ 6 If a man of peace is there, your peace will rest on him; if not, it will return to you. 7 Stay at the same house, eating and drinking whatever you are offered. For the worker is worthy of his wages. Do not move around from house to house. 8 If you enter a town and they welcome you, eat whatever is set before you. 9 Heal the sick who are there and tell them, ‘The kingdom of God is near you.’",
+        "10 But if you enter a town and they do not welcome you, go into the streets and declare, 11 ‘Even the dust of your town that clings to our feet, we wipe off as a testimony against you. Yet be sure of this: The kingdom of God is near.’ 12 I tell you, it will be more bearable on that day for Sodom than for that town."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus appoints seventy-two others and sends them ahead in pairs to the places He intends to visit. This work reaches beyond the Twelve. He describes a harvest with too few workers and tells them to ask its Lord to send more.",
+    "",
+    "Their task joins care for the sick with the announcement that God’s kingdom is near. They are to travel without the supplies that would normally support them, accept a household’s hospitality and remain there rather than move from house to house. The instructions call for dependence, focus and contentment with what they receive.",
+    "",
+    "They begin by offering peace. Where a town refuses them, they are to leave a public warning, wiping off its dust while still announcing the kingdom’s nearness. Jesus ends with a sober comparison to Sodom: refusing this visit has consequences.",
+    "",
+    "Some Bible translations say seventy rather than seventy-two because the manuscripts differ. The BSB uses seventy-two here and when the group returns in verse 17. ([BibleHub BSB footnote on Luke 10:1](https://biblehub.com/bsb/luke/10.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly see an urgent mission carried out in dependence on God and through the hospitality of those who receive the message. Wesley stresses God’s role in supplying workers, while the Catholic bishops’ notes emphasize the focus required of those Jesus sends. ([Wesley on Luke 10:2](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [USCCB notes on Luke 10:1–12](https://bible.usccb.org/bible/luke/10))"
+  ],
+  "god_plan_lines": [
+    "Jesus also uses the harvest picture in John, where the work of different people comes together in gathering a crop for eternal life. Some have labored before others arrive, and both can share the joy. This helps place the seventy-two within a work larger than any one group’s contribution. ([John 4:35–38](https://biblehub.com/bsb/john/4.htm))",
+    "",
+    "Paul later describes himself and Apollos as servants with different tasks in God’s field. One plants, another waters, and God gives the growth. The need for workers remains, but the harvest belongs to God. ([1 Corinthians 3:5–9](https://biblehub.com/bsb/1_corinthians/3.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/10.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-ten-review.md"
+  }
+}

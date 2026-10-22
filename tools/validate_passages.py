@@ -143,6 +143,43 @@ def validate_optional_lines(payload: dict, key: str, path: Path, issues: list[Va
         issues.append(ValidationIssue("warning", path, f"`{key}` is empty."))
 
 
+def validate_editorial_review(payload: dict, path: Path, issues: list[ValidationIssue]) -> None:
+    review = payload.get("editorial_review")
+    if review is None:
+        return
+    if not isinstance(review, dict) or review.get("standard") != "passage-v1":
+        issues.append(ValidationIssue("error", path, "`editorial_review` must identify `passage-v1`."))
+        return
+    for key in ("reviewed_on", "quote_source", "evidence_file", "position_source"):
+        if not isinstance(review.get(key), str) or not review[key].strip():
+            issues.append(ValidationIssue("error", path, f"Reviewed passages require `editorial_review.{key}`."))
+    if not str(review.get("quote_source", "")).startswith("https://biblehub.com/bsb/"):
+        issues.append(ValidationIssue("error", path, "Reviewed BSB quotations require a BibleHub BSB verification URL."))
+    evidence = review.get("evidence_file", "")
+    if isinstance(evidence, str) and not (ROOT / evidence).is_file():
+        issues.append(ValidationIssue("error", path, "The editorial evidence file does not exist."))
+    basis = review.get("plan_basis", [])
+    if not isinstance(basis, list) or any(item not in ("a", "b", "c") for item in basis):
+        issues.append(ValidationIssue("error", path, "`plan_basis` must list only a, b, or c."))
+    else:
+        plan_lines = payload.get("god_plan_lines", [])
+        has_plan = isinstance(plan_lines, list) and any(str(line).strip() for line in plan_lines)
+        if bool(basis) != has_plan:
+            issues.append(ValidationIssue("error", path, "God's-plan prose and its inclusion basis must appear together."))
+    position = review.get("position_source")
+    if position not in ("none", "existing-study", "owner-provided", "owner-conversation"):
+        issues.append(ValidationIssue("error", path, "Position source must identify an authorized source or none."))
+    if position == "none":
+        expected = "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+        if payload.get("current_position_lines") != [expected]:
+            issues.append(ValidationIssue("error", path, "Use the exact approved no-position wording when the position source is none."))
+    elif not review.get("position_source_detail"):
+        issues.append(ValidationIssue("error", path, "A developed position must name its study or owner-provided source in the review record."))
+    versions = payload.get("versions", [])
+    if not isinstance(versions, list) or [version.get("label") for version in versions if isinstance(version, dict)] != ["BSB"]:
+        issues.append(ValidationIssue("error", path, "Reviewed public passages must quote BSB only."))
+
+
 def main() -> int:
     issues: list[ValidationIssue] = []
     seen_references: dict[tuple[str, str], Path] = {}
@@ -216,6 +253,8 @@ def main() -> int:
         validate_lines(payload, "context_lines", path, issues)
         validate_lines(payload, "common_interpretation_lines", path, issues, fallback_key="explanation_lines")
         validate_optional_lines(payload, "current_position_lines", path, issues)
+        validate_optional_lines(payload, "god_plan_lines", path, issues)
+        validate_editorial_review(payload, path, issues)
         validate_deeper_study(payload, path, study_slugs, issues)
 
     for (book, chapter), entries in sorted(chapter_ranges.items()):

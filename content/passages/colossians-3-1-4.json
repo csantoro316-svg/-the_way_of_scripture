@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Colossians",
+    "citation": "3:1-4",
+    "label": "Colossians 3:1-4",
+    "slug": "colossians-3-1-4"
+  },
+  "section_title": "How does life with the risen Christ change our direction?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Therefore, since you have been raised with Christ, strive for the things above, where Christ is seated at the right hand of God. 2 Set your minds on things above, not on earthly things. 3 For you died, and your life is now hidden with Christ in God. 4 When Christ, who is your life, appears, then you also will appear with Him in glory."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul turns from the ineffective restrictions of the previous paragraph to the believers’ life with Christ. Since they have been raised with Him, they are to seek the things above, where He is seated at God’s right hand.",
+    "",
+    "Their life is hidden with Christ in God. Its full glory is not yet visible, but Paul connects its future with Christ’s appearing: they will appear with Him in glory.",
+    "",
+    "This hope gives direction to present life. The following paragraphs explain what seeking the things above looks like through changed desires, truthful speech, forgiveness and care for others. Life with Christ reaches into the way they live now."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read these verses as connecting present life in the risen Christ with the future glory believers will share with Him. [Wesley’s notes on verses 1–4](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-colossians/) emphasize life held with Christ and its coming disclosure. The [USCCB note](https://bible.usccb.org/bible/colossians/3) likewise relates their present belonging to their future life with Him in God’s presence."
+  ],
+  "god_plan_lines": [
+    "[Romans 8:18–25](https://biblehub.com/bsb/romans/8.htm) connects future glory with the redemption of believers’ bodies and creation’s freedom from decay. It widens the horizon of this hope: the glory to be revealed belongs within God’s renewing purpose.",
+    "",
+    "[1 Corinthians 15:20–23](https://biblehub.com/bsb/1_corinthians/15.htm) ties the resurrection of those who belong to Christ to His own resurrection and His coming. The life now hidden with Him will have a public, bodily future in His victory over death."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/colossians/3.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-colossians-closing-review.md"
+  }
+}

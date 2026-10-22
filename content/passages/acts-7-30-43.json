@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "7:30-43",
+    "label": "Acts 7:30-43",
+    "slug": "acts-7-30-43"
+  },
+  "section_title": "What does Stephen show about Moses and the people’s response?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "30 After forty years had passed, an angel appeared to Moses in the flames of a burning bush in the desert near Mount Sinai. 31 When Moses saw it, he marveled at the sight. As he approached to look more closely, the voice of the Lord came to him: 32 ‘I am the God of your fathers, the God of Abraham, Isaac, and Jacob.’ Moses trembled with fear and did not dare to look. 33 Then the Lord said to him, ‘Take off your sandals, for the place where you are standing is holy ground. 34 I have indeed seen the oppression of My people in Egypt. I have heard their groaning and have come down to deliver them. Now come, I will send you back to Egypt.’",
+        "35 This Moses, whom they had rejected with the words, ‘Who made you ruler and judge?’ is the one whom God sent to be their ruler and redeemer through the angel who appeared to him in the bush. 36 He led them out and performed wonders and signs in the land of Egypt, at the Red Sea, and for forty years in the wilderness. 37 This is the same Moses who told the Israelites, ‘God will raise up for you a prophet like me from among your brothers.’ 38 He was in the assembly in the wilderness with the angel who spoke to him on Mount Sinai, and with our fathers. And he received living words to pass on to us.",
+        "39 But our fathers refused to obey him. Instead, they rejected him and in their hearts turned back to Egypt. 40 They said to Aaron, ‘Make us gods who will go before us! As for this Moses who led us out of the land of Egypt, we do not know what has happened to him.’ 41 At that time they made a calf and offered a sacrifice to the idol, rejoicing in the works of their hands. 42 But God turned away from them and gave them over to the worship of the host of heaven, as it is written in the book of the prophets: ‘Did you bring Me sacrifices and offerings forty years in the wilderness, O house of Israel? 43 You have taken along the tabernacle of Molech and the star of your god Rephan, the idols you made to worship. Therefore I will send you into exile beyond Babylon.’"
+      ]
+    }
+  ],
+  "context_lines": [
+    "After Moses’s years in Midian, God calls him from the burning bush and sends him back to Egypt. Stephen stresses the reversal: the man rejected as ruler and judge is the man God sends as ruler and redeemer. The earlier rejection does not determine God’s choice.",
+    "",
+    "Moses leads the people out, receives living words to pass on, and promises a prophet whom God will raise up. Stephen speaks respectfully of Moses and of what God gave through him. His criticism is directed at the refusal to obey.",
+    "",
+    "The word translated assembly in verse 38 is ἐκκλησία, ekklēsia (ek-klay-SEE-ah). [Thayer’s lexicon](https://biblehub.com/greek/1577.htm) lists its use for Israel’s assembly and specifically cites this verse. It is a word for a gathered people; its use here should be understood in the wilderness setting.",
+    "",
+    "The people turn back toward Egypt in their hearts, make the calf, and rejoice in what their hands have made. Stephen closes this section with the prophetic warning about false worship and exile, drawing on [Amos 5:25–27](https://biblehub.com/bsb/amos/5.htm). Possessing the law has not guaranteed obedience to the God who gave it."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read the section as defending Moses’s place in God’s work while exposing the people’s resistance. [Wesley on verses 35–43](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) emphasizes that the rejected Moses was sent by God and that the people nevertheless turned toward idols.",
+    "",
+    "The identity of the angel at the bush receives different explanations. [Calvin’s discussion of verse 30](https://biblehub.com/commentaries/calvin/acts/7.htm) and Wesley’s notes on verses 30 and 35 identify the messenger with the Son of God before His human birth.",
+    "",
+    "[Augustine, On the Trinity, book II, chapter 13](https://www.newadvent.org/fathers/130102.htm), allows the reading that the Savior is appearing, but also considers a created angel representing God. He does not treat the identity of the divine Person represented as fully settled. These are the interpreters’ own readings; the passage itself speaks of an angel and the voice of the Lord."
+  ],
+  "god_plan_lines": [
+    "The burning-bush account in [Exodus 3:2–12](https://biblehub.com/bsb/exodus/3.htm) joins God’s awareness of His people’s suffering with His sending a deliverer. Stephen highlights that the deliverer is someone the people had rejected. The pattern prepares for his accusation concerning the rejection of Jesus at the end of the speech.",
+    "",
+    "Verse 37 also repeats Moses’s promise of a coming prophet, already applied to Jesus in Acts 3:22. Hearing Moses faithfully therefore includes listening to the One he announced. Stephen presents the story as part of God’s continuing purpose, rather than a reason to set Moses against Jesus."
+  ],
+  "current_position_lines": [
+    "Who is The Angel of the Lord? identifies the messenger in the burning bush with the Son appearing before His human birth. Its discussion of Exodus 3 emphasizes that the messenger appears, the LORD speaks, and the speaker identifies Himself as the God of Abraham, Isaac and Jacob. That is the existing study’s reading of the event Stephen recounts here; Acts 7 does not separately name the angel as Jesus."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who is The Angel of the Lord?",
+      "href": "../studies/angel-of-the-lord.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/7.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-acts-seven-closing-review.md",
+    "position_source_detail": "Who is The Angel of the Lord? — Exodus3:2–6 Moses and the Burning Bush; developed identification for the same episode recountedActs7:30–35, not a new claim about every angel in Acts."
+  }
+}

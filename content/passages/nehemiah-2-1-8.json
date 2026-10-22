@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Nehemiah",
+    "citation": "2:1-8",
+    "label": "Nehemiah 2:1-8",
+    "slug": "nehemiah-2-1-8"
+  },
+  "section_title": "What does Nehemiah ask when the king notices his sadness?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Now in the month of Nisan, in the twentieth year of King Artaxerxes, when wine was set before him, I took the wine and gave it to the king. I had never been sad in his presence, 2 so the king said to me, “Why is your face sad, though you are not ill? This could only be sadness of the heart.” I was overwhelmed with fear 3 and replied to the king, “May the king live forever! Why should I not be sad when the city where my fathers are buried lies in ruins, and its gates have been destroyed by fire?”",
+        "4 “What is your request?” replied the king. So I prayed to the God of heaven 5 and answered the king, “If it pleases the king, and if your servant has found favor in your sight, I ask that you send me to Judah, to the city where my fathers are buried, so that I may rebuild it.” 6 Then the king, with the queen seated beside him, asked me, “How long will your journey take, and when will you return?” So it pleased the king to send me, and I set a time.",
+        "7 I also said to him, “If it pleases the king, may letters be given to me for the governors west of the Euphrates, so that they will grant me safe passage until I reach Judah. 8 And may I have a letter to Asaph, keeper of the king’s forest, so that he will give me timber to make beams for the gates of the citadel to the temple, for the city wall, and for the house I will occupy.” And because the gracious hand of my God was upon me, the king granted my requests."
+      ]
+    }
+  ],
+  "context_lines": [
+    "In the month of Nisan, Nehemiah serves wine to Artaxerxes. The king notices his sad face and asks what is wrong. Nehemiah is afraid, but he explains the condition of the city where his ancestors are buried.",
+    "",
+    "When the king asks what he wants, Nehemiah prays to the God of heaven and requests permission to go to Judah and rebuild. The king asks about the journey and his return, and Nehemiah gives him a time.",
+    "",
+    "He also asks for letters granting passage through the region and timber for the gates, wall and his lodging. The king grants the requests, and Nehemiah attributes the favorable answer to God’s gracious hand upon him."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/nehemiah/2.htm) and [Gill](https://biblehub.com/commentaries/gill/nehemiah/2.htm) understand the prayer in verse 4 as a brief turning to God in the midst of the conversation. It follows the longer prayer already described. Both emphasize that dependence on God is joined with a direct and practical request to the king."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 4:14–16](https://biblehub.com/bsb/hebrews/4.htm) gives the New Testament ground for approaching God confidently in need: Jesus, the great high priest, understands human weakness and has remained without sin.",
+    "",
+    "Nehemiah turns to God while facing an earthly ruler. Hebrews develops the wider invitation to seek mercy and timely help at God’s throne of grace through Jesus. The connection is access to God in need, with confidence grounded in His provision rather than in the petitioner’s status at court."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/nehemiah/2.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-nehemiah-one-two-review.md"
+  }
+}

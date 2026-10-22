@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "Ezra",
+    "citation": "5:6-17",
+    "label": "Ezra 5:6-17",
+    "slug": "ezra-5-6-17"
+  },
+  "section_title": "How do the elders explain the work to the Persian officials?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 This is the text of the letter that Tattenai the governor of the region west of the Euphrates, Shethar-bozenai, and their associates, the officials in the region, sent to King Darius. 7 The report they sent him read as follows: To King Darius: All peace. 8 Let it be known to the king that we went into the province of Judah, to the house of the great God. The people are rebuilding it with large stones and placing timbers in the walls. This work is being carried out diligently and is prospering in their hands. 9 So we questioned the elders and asked, “Who authorized you to rebuild this temple and restore this structure?” 10 We also asked for their names, so that we could write down the names of their leaders for your information.",
+        "11 And this is the answer they returned: “We are servants of the God of heaven and earth, and we are rebuilding the temple that was built many years ago, which a great king of Israel built and completed. 12 But since our fathers angered the God of heaven, He delivered them into the hand of Nebuchadnezzar king of Babylon, the Chaldean who destroyed this temple and carried away the people to Babylon. 13 In the first year of his reign, however, Cyrus king of Babylon issued a decree to rebuild this house of God. 14 He also removed from the temple of Babylon the gold and silver articles belonging to the house of God, which Nebuchadnezzar had taken and carried there from the temple in Jerusalem. King Cyrus gave these articles to a man named Sheshbazzar, whom he appointed governor 15 and instructed, ‘Take these articles, put them in the temple in Jerusalem, and let the house of God be rebuilt on its original site.’ 16 So this Sheshbazzar came and laid the foundation of the house of God in Jerusalem, and from that time until now it has been under construction, but it has not yet been completed.”",
+        "17 Now, therefore, if it pleases the king, let a search be made of the royal archives in Babylon to see if King Cyrus did indeed issue a decree to rebuild the house of God in Jerusalem. Then let the king send us his decision in this matter."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Tattenai’s report describes substantial construction being carried out diligently. It records the officials’ questions and gives the elders’ answer rather than simply repeating an accusation of rebellion.",
+    "",
+    "The elders identify themselves as servants of the God of heaven and earth. They explain that the former temple was destroyed when their ancestors provoked God’s anger, and that Cyrus later authorized rebuilding and returned its articles through Sheshbazzar.",
+    "",
+    "Their answer acknowledges both the reason for the earlier destruction and the permission under which they are working. Tattenai asks Darius to search the archives for Cyrus’s decree and send a decision."
+  ],
+  "common_interpretation_lines": [
+    "[Gill](https://biblehub.com/commentaries/gill/ezra/5.htm) notes that the officials transmit the elders’ account fairly and fully. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-ezra/) contrasts this with the misleading presentation of the earlier opposition. [Henry](https://biblehub.com/commentaries/mhc/ezra/5.htm) emphasizes being ready to explain what one is doing in God’s service and why.",
+    "",
+    "The account distinguishes an inquiry from a verdict against the builders. Tattenai asks the king to check the authorization, while the elders give an answer that can be checked against the royal records."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezra/5.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezra-five-six-review.md"
+  }
+}

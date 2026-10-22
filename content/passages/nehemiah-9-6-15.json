@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Nehemiah",
+    "citation": "9:6-15",
+    "label": "Nehemiah 9:6-15",
+    "slug": "nehemiah-9-6-15"
+  },
+  "section_title": "Why does the prayer begin with creation, Abraham and the exodus?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 You alone are the LORD. You created the heavens, the highest heavens with all their host, the earth and all that is on it, the seas and all that is in them. You give life to all things, and the host of heaven worships You. 7 You are the LORD, the God who chose Abram, who brought him out of Ur of the Chaldeans and gave him the name Abraham. 8 You found his heart faithful before You, and made a covenant with him to give the land of the Canaanites and Hittites, of the Amorites and Perizzites, of the Jebusites and Girgashites— to give it to his descendants. You have kept Your promise, because You are righteous.",
+        "9 You saw the affliction of our fathers in Egypt; You heard their cry at the Red Sea. 10 You performed signs and wonders against Pharaoh, all his officials, and all the people of his land, for You knew they had acted with arrogance against our fathers. You made a name for Yourself that endures to this day. 11 You divided the sea before them, and they crossed through it on dry ground. You hurled their pursuers into the depths like a stone into raging waters. 12 You led them with a pillar of cloud by day and a pillar of fire by night, to light for them the way in which they should travel.",
+        "13 You came down on Mount Sinai and spoke with them from heaven. You gave them just ordinances, true laws, and good statutes and commandments. 14 You revealed to them Your holy Sabbath and gave them commandments and statutes and laws through Your servant Moses. 15 In their hunger You gave them bread from heaven; in their thirst You brought them water from the rock. You told them to go in and possess the land that You had sworn to give them."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The prayer begins with God as the only Lord, Creator and giver of life. It then recalls His choosing Abram, bringing him from Ur, naming him Abraham and keeping the promise to give the land to his descendants.",
+    "",
+    "The people remember God seeing their ancestors’ affliction, delivering them through the sea and guiding them with cloud and fire. At Sinai He gives just laws and makes His Sabbath known; in the wilderness He provides food and water.",
+    "",
+    "These memories establish the prayer’s starting point: God has acted faithfully and generously. The confession that follows is measured against the goodness the people have already received."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/nehemiah/9.htm) understands the remembrance of mercy as deepening confession rather than excusing sin. [Gill](https://biblehub.com/commentaries/gill/nehemiah/9.htm) likewise emphasizes God’s creation, covenant faithfulness and care. The prayer makes God’s character visible through what He has done, before describing how the people have responded."
+  ],
+  "god_plan_lines": [
+    "The same themes of covenant, mercy and deliverance appear when Zechariah speaks about the coming salvation in [Luke 1:67–79](https://biblehub.com/bsb/luke/1.htm). He praises the God of Israel for remembering His covenant and the oath to Abraham, so that His people may serve Him without fear.",
+    "",
+    "Luke connects that hope with the coming Lord and the knowledge of salvation through forgiveness of sins. The larger story moves from recalling God’s earlier acts of rescue to announcing the salvation that comes through Christ."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/nehemiah/9.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-nehemiah-eight-nine-review.md"
+  }
+}

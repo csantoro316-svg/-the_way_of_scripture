@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "12:49-53",
+    "label": "Luke 12:49-53",
+    "slug": "luke-12-49-53"
+  },
+  "section_title": "Why does Jesus speak of fire, suffering and divided households?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "49 I have come to ignite a fire on the earth, and how I wish it were already kindled! 50 But I have a baptism to undergo, and how distressed I am until it is accomplished!",
+        "51 Do you think that I have come to bring peace to the earth? No, I tell you, but division. 52 From now on, five in one household will be divided, three against two and two against three. 53 They will be divided, father against son and son against father, mother against daughter and daughter against mother, mother-in-law against daughter-in-law and daughter-in-law against mother-in-law.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus speaks of bringing fire to the earth and of a baptism He has yet to undergo. His distress continues until that baptism is accomplished. The words look ahead to a costly part of His mission rather than describing His earlier baptism in the Jordan.",
+    "",
+    "He then challenges the expectation that His arrival will bring immediate peace among everyone. His coming brings division, reaching even into the closest family relationships.",
+    "",
+    "The household picture makes the cost personal. People bound together by family can find themselves divided over Him. The passage describes that conflict as a consequence of His mission; it does not instruct disciples to mistreat their relatives."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly connect the coming baptism with Jesus’ suffering and death, while recognizing that response to Him can divide households. The Catholic bishops’ notes make both connections. ([USCCB notes on Luke 12:49–53](https://bible.usccb.org/bible/luke/12))",
+    "",
+    "Teachers explain the fire image with different emphases. Wesley describes the spread of heavenly love; Calvin describes the gospel’s power to unsettle and change the world; the Catholic bishops’ notes speak of the kingdom’s refining and purifying work. These are explanations offered in the sources, rather than a single meaning unanimously assigned to every detail. ([Wesley on Luke 12:49](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [Calvin on Luke 12:49](https://biblehub.com/commentaries/calvin/luke/12.htm); [USCCB note on Luke 12:49–53](https://bible.usccb.org/bible/luke/12))"
+  ],
+  "god_plan_lines": [
+    "The divided-family language recalls Micah’s description of broken trust within households. Micah turns from that distress toward waiting for the God who saves. The parallel places the cost of faithfulness within the wider Scriptural experience of looking to God when close relationships become painful. ([Micah 7:5–7](https://biblehub.com/bsb/micah/7.htm))",
+    "",
+    "The New Testament also explains the peace Jesus brings: peace with God through faith, and reconciliation of divided people through His cross. Those gifts do not mean that every person will welcome Him or that all households will immediately agree. His suffering makes reconciliation possible even while response to Him exposes division. ([Romans 5:1–2](https://biblehub.com/bsb/romans/5.htm); [Ephesians 2:13–18](https://biblehub.com/bsb/ephesians/2.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/12.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-twelve-closing-review.md"
+  }
+}

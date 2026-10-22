@@ -1,0 +1,47 @@
+# Daniel 3 editorial review
+
+Baseline: suppliedPDFwholelesson3actualpages41–58read. WholemainBSB3(30),Henry/Wes3wholeexpositions,USCCB3allnotesactuallyread;Cam3ONLY1/17/18/25/28wholeentriesactuallyread. USCCBGreekadditionsnotBSBmainnoquotestaken,its3:17noteusedforfaithwithoutguaranteeddeliverance,not3:25AzariahconfusedwithBSB3:25fourthfigure. ActualBSBRev13:11–18;Rev14:9–13;Heb11:32–40;1Pet4:12–19read. ExactownerstudysearchnoneincludingAOL/PF;all6positionsopenverbatim. AOLdeeperlinkthematicfourthfigurereadingnotownerassertionitChrist. Noownerstudyedits.
+
+Shared FLAGGED FOR REVIEW: Baseline3exact585BCstatueafterJerusalemdestructionSPECULATIONanddestructiondatecommonly587/586notverifiedhere;publicnoBCdateorallgoldstatueintentiontorewriteGodprophecycertainty. No obeliskmustfromdimensions/solidgoldratherthanoverlay/mass4400tons/$204trillionstat(noindependentmaterials/currencychecks),nofixedtenratio=witness/sixsin/sevencompletionnumbercodes. No preciseinstrumentidentificationsculturaloriginsasindependentfact;USCCBnotesdispute. No Babylontempleovenexcavationsprovedactualthreefurnaceorancientrecordsdisobedientslavesthrownarchaeologywithoutprimaryreading. Nouniformdictatorpoliticsguaranteeallcounselorsenemies/entirepeopleinnatelycowardlyloyaltiesgeneralization. No descriptionDuraexactmodernlocationcertainty.
+
+No allvisibleimagevenerationevenintendedtrueGodisidolatryformalCatholicOrthodoxcontroversywithoutownprimaryresearch;notneededherebecausekingcommandsworshipasthetext. No allmuslimmissionaryprayerposturesanecdotesorblanketjudgmentpublic. NoDanieltravelwhereaboutsunknownfilledwithstory. No detailedovenadobestructure/topramps/lowerbelchingflames/soldiersdeathdescendingoralmostpainlessdeathmedicalfacts. No sevenhotterprecisemeasuredCelsiustemperatureclaim. No boundsburnedawaymechanismcertainty. NoallvisiblemanifestationsGodalwaysChristfromCol1Heb1asAIownerdoctrine. FourthfiguremiraclealonecannotproveChristratherthansentangel. No furnacehellandropessinforcedallegory/Godmustenterhelltofreeeveryonefromjudgmentclaim. NoGodcovenantensuresallfaithfulalwaysrescued(Heb11includesmartyrs). No KingdecreeforeverendsallJewishpersecution(Dan6oppositionlater),noantichristexacttimelineuniversalconsensus.
+
+## 3:1–7
+
+Plan section: included, because (b). ExplicitcloseparallelRev13imageworshipcoercedunderdeath/Rev14perseveranceandrestforthosewhodieLordaddsfinalhope.
+Position source: none.
+FLAGGED FOR REVIEW: Noidentitycurrentruler/EU/numberscoding. Statuepurposeworshipclear,imageexactsubjectCamlikelykingonlyattributed,notuniversalfact.
+
+## 3:8–12
+
+Plan section: omitted, because none apply. Accusation/contextadequate, avoidrepeatingcivilobedienceplansalreadyDaniel1.
+Position source: none.
+FLAGGED FOR REVIEW: NoDanielmustabsentbusiness/refusedlessfaithinvented. NoeveryofficialjealousautomaticmotivesbeyondBSBmaliciousaccusation.
+
+## 3:13–18
+
+Plan section: included, because (a). Heb11:34recollectsfaithoverragingfireand35–40faithfuldeath/betterresurrection. ThisestablishedNTconnectionaddsfaithbeyondsurvival.
+Position source: none.
+FLAGGED FOR REVIEW: BSB17IFGODWHOMWESERVEEXISTSnotNASBIfitbeso,actualquoteunmodified. USCCB3:17powerexerciseversusabilityexplainscommon;WesoutcomeleftGod. No universalpositiveconfessionguaranteesorunbelieversthinkGodnotexistinterpretationputinmouth.
+
+## 3:19–23
+
+Plan section: omitted, because none apply. Threatseverityandrescuecontinuationadequate.
+Position source: none.
+FLAGGED FOR REVIEW: Noprecisefurnacearchitecture/hottertemperaturethermodynamicunitsormechanismofguardsdeathsorallnonIsraelitesAbrahamcurseuniversaldoom.
+
+## 3:24–27
+
+Plan section: included, because (c). 1Pet4fierytrialSpiritgloryrestsGodfaithfulCreator/futuregloryaddsChristiansufferingpresencebeyondidentitydebate.
+Position source: none.
+FLAGGED FOR REVIEW: BSBSONOFTHEGODSnotKJVSonGod;HenryWesChristvsCamangelattributed. WesprobablyheardDAVIDspeaktypo/impossiblechronologyNOTrepeated. NoownerAOLpositioninferred. No everyChristianphysicallyunharmedguarantee.
+
+## 3:28–30
+
+Plan section: omitted, because none apply. Godhonored/servantsrestoredadequate;noplotfulfillmentadditionalinvented.
+Position source: none.
+FLAGGED FOR REVIEW: KingviolentdecreereportednotnewGodcommandreligiouscoercion. Henrynoabidingchangeattributed,notdetermineeternaldestiny.
+
+## Validation
+
+Completed: focused generation; fresh BSB; repository validation (0 errors, 470 warnings); preservation; coverage through3:30; repeat-generation idempotence; twelve mobile reader/standalone views; physical Next; Hosting dry run, deploy and fresh LIVE MATCH10. All required commands observedexit0. Prefix /tmp/scripture-daniel-three-;writerEXECUTEDdo notrerun.

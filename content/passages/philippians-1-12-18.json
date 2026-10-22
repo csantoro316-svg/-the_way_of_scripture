@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Philippians",
+    "citation": "1:12-18",
+    "label": "Philippians 1:12-18",
+    "slug": "philippians-1-12-18"
+  },
+  "section_title": "How can the gospel advance while Paul is in chains?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "12 Now I want you to know, brothers, that my circumstances have actually served to advance the gospel. 13 As a result, it has become clear throughout the whole palace guard and to everyone else that I am in chains for Christ. 14 And most of the brothers, confident in the Lord by my chains, now dare more greatly to speak the word without fear.",
+        "15 It is true that some preach Christ out of envy and rivalry, but others out of goodwill. 16 The latter do so in love, knowing that I am appointed for the defense of the gospel. 17 The former, however, preach Christ out of selfish ambition, not sincerely, supposing that they can add to the distress of my chains. 18 What then is the issue? Just this: that in every way, whether by false motives or true, Christ is preached. And in this I rejoice. Yes, and I will continue to rejoice,"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul turns from thanksgiving and prayer to news about his circumstances. His imprisonment has served the advance of the gospel. People throughout the palace guard and beyond know that he is in chains for Christ, and most of the fellow believers have become more courageous in speaking.",
+    "",
+    "He also acknowledges mixed motives among those preaching. Some act from goodwill and love, while others are moved by envy and selfish ambition and intend to add to his distress. Paul does not describe these motives as equally good.",
+    "",
+    "His reason for rejoicing is that Christ is being proclaimed. The passage distinguishes the message being made known from the personal motives of its messengers. The following paragraph will explain his hope that Christ will be honored whether he lives or dies."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read these verses as an example of gospel witness continuing despite suffering and imperfect messengers. [Wesley’s notes on verses 12–18](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-philippians/) and the [USCCB notes on verses 14–18](https://bible.usccb.org/bible/philippians/1) both distinguish the preachers’ motives while recognizing Paul’s joy that Christ is proclaimed.",
+    "",
+    "This is not the same question as whether a different gospel should be accepted. In [Galatians 1:6–9](https://biblehub.com/bsb/galatians/1.htm), Paul warns strongly against changing the gospel. Here his stated joy concerns Christ being preached, even by people whose personal motives he names as selfish."
+  ],
+  "god_plan_lines": [
+    "[2 Timothy 2:8–10](https://biblehub.com/bsb/2_timothy/2.htm) gives a close parallel: Paul suffers in chains, but God’s word cannot be chained. The focus is the saving message of the risen Jesus reaching others despite the messenger’s confinement.",
+    "",
+    "The ending of [Acts 28:23–31](https://biblehub.com/bsb/acts/28.htm) also places Paul under restraint while people come to hear him speak about God’s kingdom and Jesus Christ. These accounts show the larger purpose served by his witness. They do not require the claim that every hardship will produce the same visible result."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/philippians/1.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-philippians-one-closing-review.md"
+  }
+}

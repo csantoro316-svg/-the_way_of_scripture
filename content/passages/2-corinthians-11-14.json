@@ -5,18 +5,57 @@
     "label": "2 Corinthians 11:14",
     "slug": "2-corinthians-11-14"
   },
+  "section_title": "Can something seem like light and still deceive?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"No wonder, for even Satan disguises himself as an angel of light.\""
+      "label": "BSB",
+      "paragraphs": [
+        "14 And no wonder, for Satan himself masquerades as an angel of light."
+      ]
     }
   ],
   "context_lines": [
-    "In **2 Corinthians 11**, Paul is defending the Corinthians against false apostles by exposing the danger of spiritual deception and counterfeit appearances. The chapter warns that outward impressiveness is no guarantee of truth, because deception often comes clothed in religious form."
-  ],
-  "explanation_lines": [
-    "These two passages work together. The first says we're not supposed to dismiss everything out of hand \u2014 but we are supposed to test it. The second is a sobering reminder of what the standard for that test can't be: how something feels. Something can feel peaceful, timely, encouraging, and \"right\" and still not be from God. That means the feeling itself can never be the proof. There has to be something outside the feeling \u2014 namely, Scripture \u2014 that the experience is tested against.",
+    "This verse belongs to Paul’s warning in [2 Corinthians 11:12–15](https://thewayofscripture.com/passages/2-corinthians-11-12-15.html). He describes deceitful workers presenting themselves as apostles of Christ and explains their disguise by pointing to Satan appearing as an angel of light.",
     "",
-    "**Observation:** \"Test everything\" only works if there's a fixed standard to test against. For the Christian, that standard is Scripture \u2014 not the emotional weight of the experience itself."
-  ]
+    "The surrounding paragraph supplies the point of the comparison: apparent righteousness does not establish whose service someone is actually performing. Paul is exposing misleading claims to represent Christ.",
+    "",
+    "Verse 15 then turns to their actions and their eventual end. Reading the verses together keeps the vivid image connected to discernment and accountability."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read the image as a warning about deceptive appearances. [Wesley’s note on verse 14](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-the-corinthians/) describes an attractive disguise, and the [USCCB note on verses 13–15](https://bible.usccb.org/bible/2corinthians/11) connects it with the false workers in the surrounding paragraph."
+  ],
+  "god_plan_lines": [
+    "[1 John 4:1–6](https://biblehub.com/bsb/1_john/4.htm) also warns about false prophets and calls believers to test what they hear by the truth about Jesus and the apostolic message. It joins discernment with confidence that the One in God’s people is greater than the one in the world.",
+    "",
+    "That wider setting gives both seriousness and hope to Paul’s warning. God’s people are called to remain faithful to Christ while relying on the God who is with them. The reality of deception belongs alongside His greater power."
+  ],
+  "current_position_lines": [
+    "Our study [Should We Seek Signs From God?](https://thewayofscripture.com/studies/seek-signs.html), in its section on testing what we are told, draws on verse 14 to explain why a reassuring appearance or feeling cannot establish that something comes from God. Scripture supplies the standard by which an experience is tested. This applies the verse’s warning about disguise without making a feeling the proof of its source."
+  ],
+  "deeper_study": [
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_corinthians/11.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-second-corinthians-eleven-closing-review.md",
+    "position_source_detail": "Should We Seek Signs From God? — Testing What We’re Told; content/studies/seek_signs.md:64–76."
+  }
 }

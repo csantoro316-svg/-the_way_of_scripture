@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "18:24-28",
+    "label": "Acts 18:24-28",
+    "slug": "acts-18-24-28"
+  },
+  "section_title": "How does a gifted teacher grow through further instruction?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "24 Meanwhile a Jew named Apollos, a native of Alexandria, came to Ephesus. He was an eloquent man, well versed in the Scriptures. 25 He had been instructed in the way of the Lord and was fervent in spirit. He spoke and taught accurately about Jesus, though he knew only the baptism of John. 26 And he began to speak boldly in the synagogue. When Priscilla and Aquila heard him, they took him aside and explained to him the way of God more accurately.",
+        "27 When Apollos resolved to cross over to Achaia, the brothers encouraged him and wrote to the disciples there to welcome him. On his arrival, he was a great help to those who by grace had believed. 28 For he powerfully refuted the Jews in public debate, proving from the Scriptures that Jesus is the Christ."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Apollos, a Jewish man from Alexandria, comes to Ephesus with ability as a speaker and a strong knowledge of Scripture. He teaches accurately about Jesus and is fervent in spirit, yet he knows only John’s baptism. Luke gives him real commendation while also identifying a limit in his understanding.",
+    "",
+    "Priscilla and Aquila hear him speaking boldly in the synagogue. They take him aside and explain God’s way more accurately. Both are named in this work of instruction. Luke does not provide their full conversation or a list of every point they clarify.",
+    "",
+    "When Apollos wants to go to Achaia, the believers encourage him and write to the disciples there to welcome him. He greatly helps those who have believed through grace and uses Scripture to demonstrate publicly that Jesus is the Christ.",
+    "",
+    "The account does not record Apollos being baptized again, nor does it say he personally baptized the people Paul meets in the next chapter. His knowledge of John’s baptism is a real limitation; it does not give us a complete account of everything he knew or of where he learned it."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly see a lesson in teachability: a capable and enthusiastic teacher can still need a fuller understanding, and patient instruction can make his service more useful. Readers differ over how much Apollos knew before this conversation. [Calvin’s comments on verses 24–26](https://biblehub.com/commentaries/calvin/acts/18.htm) commend his faith while describing the need for further teaching; [Wesley’s notes on verses 25–26](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) understand him as knowing John’s preparation for the coming Messiah. These are individual interpreters’ readings, not official rulings binding every member of their traditions."
+  ],
+  "god_plan_lines": [
+    "Paul later describes their shared work in [1 Corinthians 3:5–9](https://biblehub.com/bsb/1_corinthians/3.htm): Paul plants, Apollos waters and God gives the growth. Acts shows part of how that partnership develops. A husband and wife help a teacher grow; believers commend him to another community; his gifts then strengthen people there. God builds His people through contributions that belong together, rather than through loyalty to one impressive teacher."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/18.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-eighteen-review.md"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "11:17-22",
+    "label": "1 Corinthians 11:17-22",
+    "slug": "1-corinthians-11-17-22"
+  },
+  "section_title": "How can a church gathering do more harm than good?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 In the following instructions I have no praise to offer, because your gatherings do more harm than good. 18 First of all, I hear that when you come together as a church, there are divisions among you, and in part I believe it. 19 And indeed, there must be differences among you to show which of you are approved. 20 Now then, when you come together, it is not the Lord’s Supper you eat. 21 For as you eat, each of you goes ahead without sharing his meal. While one remains hungry, another gets drunk. 22 Don’t you have your own homes in which to eat and drink? Or do you despise the church of God and humiliate those who have nothing? What can I say to you? Shall I praise you for this? No, I will not!"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul’s earlier praise gives way to a direct rebuke. The Corinthians gather as a church, but the way they eat divides and humiliates people instead of expressing the fellowship of the Lord’s Supper.",
+    "",
+    "The failure is concrete: one person goes hungry while another gets drunk. Some go ahead with their own meal without sharing. Paul asks whether they despise God’s church and shame those who have nothing. He is exposing behavior that contradicts the meaning of the meal, rather than objecting simply to people eating together.",
+    "",
+    "His statement that differences reveal who is approved does not authorize creating factions. The divisions expose the character of the people involved. The surrounding rebuke makes clear that humiliating the poor is no mark of God’s approval.",
+    "",
+    "The passage shows unequal access to food and a failure to wait or share. It does not describe the building’s floor plan, assign every person a social rank, or explain exactly how the problem began. The wrongdoing is clear without turning a possible reconstruction into recorded history."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand these verses as condemning a gathering that humiliates poorer members while others indulge themselves. [Wesley’s notes on verses 20–22](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) emphasize the failure to share, and the [USCCB introduction to verses 17–34](https://bible.usccb.org/bible/1corinthians/11) connects the abuse with neglect of the Lord’s Supper’s meaning."
+  ],
+  "god_plan_lines": [
+    "[James 2:1–9](https://biblehub.com/bsb/james/2.htm) similarly rejects honoring the rich while pushing the poor aside in the assembly. It connects the treatment of people with faith in Jesus and with the kingdom promised to those who love God. Wealth does not determine a person’s place among His people.",
+    "",
+    "[2 Corinthians 8:9](https://biblehub.com/bsb/2_corinthians/8.htm) places generosity in the setting of Christ’s own grace: He gave Himself for others’ good. The shared meal belongs to a people being shaped by that gift. Treating another believer as an unwanted guest contradicts the welcome they themselves have received through Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/11.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-eleven-closing-review.md"
+  }
+}

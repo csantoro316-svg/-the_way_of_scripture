@@ -5,25 +5,59 @@
     "label": "Exodus 7:1-7",
     "slug": "exodus-7-1-7"
   },
-  "section_title": "God Commands Moses and Aaron",
+  "section_title": "How would Moses and Aaron speak for God before Pharaoh?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 The LORD answered Moses, \u201cSee, I have made you like God to Pharaoh, and your brother Aaron will be your prophet. 2 You are to speak all that I command you, and your brother Aaron is to tell Pharaoh to let the Israelites go out of his land.",
-        "3 But I will harden Pharaoh\u2019s heart, and though I will multiply My signs and wonders in the land of Egypt, 4 Pharaoh will not listen to you.",
-        "Then I will lay My hand on Egypt, and by mighty acts of judgment I will bring the divisions of My people the Israelites out of the land of Egypt. 5 And the Egyptians will know that I am the LORD, when I stretch out My hand against Egypt and bring the Israelites out from among them.\u201d",
+        "1 The LORD answered Moses, “See, I have made you like God to Pharaoh, and your brother Aaron will be your prophet. 2 You are to speak all that I command you, and your brother Aaron is to tell Pharaoh to let the Israelites go out of his land. 3 But I will harden Pharaoh’s heart, and though I will multiply My signs and wonders in the land of Egypt, 4 Pharaoh will not listen to you. Then I will lay My hand on Egypt, and by mighty acts of judgment I will bring the divisions of My people the Israelites out of the land of Egypt. 5 And the Egyptians will know that I am the LORD, when I stretch out My hand against Egypt and bring the Israelites out from among them.”",
         "6 So Moses and Aaron did just as the LORD had commanded them. 7 Moses was eighty years old and Aaron was eighty-three when they spoke to Pharaoh."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 7**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "God answers Moses’ concern about speaking by explaining the brothers’ roles again. Moses is to speak what God commands, and Aaron will deliver that message to Pharaoh. Being made like God to Pharaoh describes the authority Moses has been given to represent Him. Aaron is called his prophet because he will speak the message entrusted to Moses.",
+    "",
+    "God also repeats that Pharaoh will not listen. The signs will multiply, judgment will fall upon Egypt, and Israel will be brought out. The declared outcome reaches beyond their freedom: the Egyptians will know that He is the LORD.",
+    "",
+    "Moses and Aaron now do as commanded. Their ages are given as eighty and eighty-three. After the repeated objections, the account turns toward their obedience and the public display of God’s power."
   ],
   "common_interpretation_lines": [
-    "A common reading of **God Commands Moses and Aaron** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "The shared reading understands Moses as God’s authorized representative and Aaron as his spokesman. [Calvin](https://biblehub.com/commentaries/calvin/exodus/7.htm), [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) and [Gill](https://biblehub.com/commentaries/gill/exodus/7.htm) all explain the language about Moses being like God through the authority and work entrusted to him.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 7** remains the first control on meaning."
+    "The difference over hardening continues here. Calvin emphasizes God actively governing the confrontation, while Wesley describes Pharaoh’s heart being allowed to harden. Their explanations agree that Pharaoh’s resistance will not prevent the deliverance God has announced."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "God says the Egyptians will know Him through His judgment and Israel’s release. Later, in [Exodus 9:14–16](https://biblehub.com/bsb/exodus/9.htm), He explains that His power will be displayed and His name proclaimed throughout the earth. The confrontation has a purpose beyond settling the immediate dispute with Pharaoh.",
+    "",
+    "[Romans 9:17–18](https://biblehub.com/bsb/romans/9.htm) explicitly uses that explanation of Pharaoh’s place in the story. Paul presents God’s power, His mercy and the making known of His name as part of His larger purpose. That New Testament connection places the coming judgments within the wider story of God making Himself known."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/7.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-seven-opening-review.md"
+  }
 }

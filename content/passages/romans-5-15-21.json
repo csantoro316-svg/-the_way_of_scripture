@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "5:15-21",
+    "label": "Romans 5:15-21",
+    "slug": "romans-5-15-21"
+  },
+  "section_title": "How does the gift through Christ exceed the damage through Adam?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 But the gift is not like the trespass. For if the many died by the trespass of the one man, how much more did God’s grace and the gift that came by the grace of the one man, Jesus Christ, abound to the many! 16 Again, the gift is not like the result of the one man’s sin: The judgment that followed one sin brought condemnation, but the gift that followed many trespasses brought justification. 17 For if, by the trespass of the one man, death reigned through that one man, how much more will those who receive the abundance of grace and of the gift of righteousness reign in life through the one man, Jesus Christ!",
+        "18 So then, just as one trespass brought condemnation for all men, so also one act of righteousness brought justification and life for all men. 19 For just as through the disobedience of the one man the many were made sinners, so also through the obedience of the one man the many will be made righteous. 20 The law came in so that the trespass would increase; but where sin increased, grace increased all the more, 21 so that, just as sin reigned in death, so also grace might reign through righteousness to bring eternal life through Jesus Christ our Lord."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul now emphasizes that the gift is not simply a matching opposite of the trespass. One sin brought judgment, but the gift answers many trespasses. Where death reigned through one man, those receiving the abundance of grace and the gift of righteousness reign in life through Jesus Christ.",
+    "",
+    "He sets condemnation and justification, disobedience and obedience, alongside one another. The language of all in verse 18 and many in verse 19 stresses the great reach of both Adam’s act and Christ’s work. Christians differ over how to understand the final scope of the life announced here.",
+    "",
+    "The law’s arrival exposes and increases transgression, but sin does not have the final word. Grace abounds beyond it. Paul ends with grace reigning through righteousness to eternal life through Jesus Christ our Lord.",
+    "",
+    "This does not turn sin into a goal. The next chapter will directly reject continuing in sin so that grace may increase. The greatness of the gift is a reason to receive and live from it, rather than manufacture more wrongdoing."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as a declaration that Christ’s saving work exceeds the ruin sin brings. Where readers differ is how the all of verse 18 relates to receiving the gift in verse 17.",
+    "",
+    "The Reformed commentator [Calvin on verse 18](https://biblehub.com/commentaries/calvin/romans/5.htm) understands the gift as offered to all, while distinguishing that offer from all people actually receiving Christ. [Wesley on verse 19](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-romans/) likewise identifies those made righteous as all who believe. These readings retain the wide offer while connecting its saving benefit with faith.",
+    "",
+    "The [Christian Universalist Association’s statement of belief](https://christianuniversalist.org/beliefs/) cites Romans 5:18 in support of the eventual restoration of every person through Christ. Its reading takes the reach of Christ’s work as finally extending to everyone affected by Adam. This is the association’s stated view, rather than a position shared by all Christian churches or a conclusion supplied here as our own."
+  ],
+  "god_plan_lines": [
+    "The movement from sin reigning in death to grace bringing eternal life belongs to the Bible’s wider story of restoration. Genesis 3 describes the curse, human death and exclusion from the tree of life. [Revelation 22:1–5](https://biblehub.com/bsb/revelation/22.htm) pictures the tree of life, the removal of the curse and God’s servants living in His presence.",
+    "",
+    "This is a thematic connection between the beginning and the promised restoration, not a claim that Romans 5 directly quotes Revelation. Christ’s obedience answers the story’s ruin with a gift greater than what sin has brought. The comparison concerns God’s victory over sin and death; it should not erase the differences of interpretation about the passage’s scope."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-five-review.md"
+  }
+}

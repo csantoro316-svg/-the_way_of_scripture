@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Nehemiah",
+    "citation": "13:10-14",
+    "label": "Nehemiah 13:10-14",
+    "slug": "nehemiah-13-10-14"
+  },
+  "section_title": "What happens when the people who serve are left without support?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 I also learned that because the portions for the Levites had not been given to them, all the Levites and singers responsible for performing the service had gone back to their own fields. 11 So I rebuked the officials and asked, “Why has the house of God been neglected?” Then I gathered the Levites and singers together and stationed them at their posts, 12 and all Judah brought a tenth of the grain, new wine, and oil into the storerooms. 13 I appointed as treasurers over the storerooms Shelemiah the priest, Zadok the scribe, and Pedaiah of the Levites, with Hanan son of Zaccur, the son of Mattaniah, to assist them, because they were considered trustworthy. They were responsible for distributing the supplies to their fellow Levites. 14 Remember me for this, O my God, and do not blot out my deeds of loving devotion for the house of my God and for its services."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Nehemiah discovers that the Levites and singers have not received their assigned portions. They have returned to their fields, leaving the service without the people needed to carry it out.",
+    "",
+    "He rebukes the officials, brings the workers back to their posts and restores the collection of the grain, wine and oil. He appoints men considered trustworthy to oversee the storerooms and distribute the supplies.",
+    "",
+    "The correction addresses both the missing resources and responsibility for handling them. Nehemiah closes with a prayer that God remember his care for the house and its services."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/nehemiah/13.htm) emphasizes that neglecting the workers has led to neglecting the work. [Gill](https://biblehub.com/commentaries/gill/nehemiah/13.htm) likewise understands the move back to the fields as a need to obtain a living. Both read Nehemiah’s prayer as an appeal to God’s gracious acceptance, rather than a claim that service has earned a debt God must pay."
+  ],
+  "god_plan_lines": [
+    "Paul makes a direct comparison between temple workers sharing in the offerings and those preaching the gospel receiving support in [1 Corinthians 9:3–18](https://biblehub.com/bsb/1_corinthians/9.htm). He affirms that right even while explaining why he has chosen to forgo it.",
+    "",
+    "The wider theme is that a community’s response to spiritual service includes material care. Paul’s example also keeps that support connected with the good of the gospel, rather than making financial advantage the purpose of the work."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/nehemiah/13.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-nehemiah-twelve-thirteen-review.md"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "22:1-7",
+    "label": "2 Samuel 22:1-7",
+    "slug": "2-samuel-22-1-7"
+  },
+  "section_title": "Why does David describe God as his rock and refuge?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 And David sang this song to the LORD on the day the LORD had delivered him from the hand of all his enemies and from the hand of Saul. 2 He said: “The LORD is my rock, my fortress, and my deliverer. 3 My God is my rock, in whom I take refuge, my shield, and the horn of my salvation. My stronghold, my refuge, and my Savior, You save me from violence. 4 I will call upon the LORD, who is worthy to be praised; so shall I be saved from my enemies.",
+        "5 For the waves of death engulfed me; the torrents of chaos overwhelmed me. 6 The cords of Sheol entangled me; the snares of death confronted me. 7 In my distress I called upon the LORD; I cried out to my God. And from His temple He heard my voice, and my cry for help reached His ears."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The narrative pauses for David’s song of deliverance. A closely related version appears as [Psalm 18](https://biblehub.com/bsb/psalms/18.htm). David looks back on rescue from his enemies, naming Saul in particular, and addresses his thanks to the LORD.",
+    "",
+    "The opening pictures gather around safety: rock, fortress, shield, stronghold and refuge. David’s confidence is personal. He has known danger and has come to depend on God for deliverance.",
+    "",
+    "He describes that danger as overwhelming water and the cords and snares of death. In distress he cries to God, and his cry is heard. The thanksgiving remembers both the fear of the crisis and the help that followed."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/22.htm) reads the chapter as thanksgiving that names particular acts of God’s mercy. Remembering the rescue gives shape to the praise.",
+    "",
+    "[Gill](https://biblehub.com/commentaries/gill/psalms/18.htm), commenting on the matching words in Psalm 18:6, understands God’s temple here as His heavenly dwelling. The reference does not require Solomon’s later temple to have already been built.",
+    "",
+    "The language of refuge helps the reader hear what rescue meant to David. His praise grows out of distress he actually experienced, rather than denying that he had been afraid."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/22.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-twenty-two-review.md"
+  }
+}

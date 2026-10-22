@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "1:1-7",
+    "label": "Romans 1:1-7",
+    "slug": "romans-1-1-7"
+  },
+  "section_title": "How does Paul introduce himself and the good news about Jesus?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Paul, a servant of Christ Jesus, called to be an apostle, and set apart for the gospel of God— 2 the gospel He promised beforehand through His prophets in the Holy Scriptures, 3 regarding His Son, who was a descendant of David according to the flesh, 4 and who through the Spirit of holiness was declared with power to be the Son of God by His resurrection from the dead: Jesus Christ our Lord.",
+        "5 Through Him and on behalf of His name, we received grace and apostleship to call all those among the Gentiles to the obedience that comes from faith. 6 And you also are among those who are called to belong to Jesus Christ. 7 To all in Rome who are loved by God and called to be saints: Grace and peace to you from God our Father and the Lord Jesus Christ."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul introduces himself as belonging to Christ Jesus, called to be an apostle and set apart for God’s gospel. Before saying much about his own plans, he explains whose message this is and whom it concerns: God’s Son, Jesus Christ our Lord.",
+    "",
+    "The word translated servant is doulos (DOO-loss), δοῦλος. It can mean a slave, and here expresses Paul’s service under Christ’s authority; see [Thayer’s entry](https://biblehub.com/greek/1401.htm). Paul’s title is therefore both humble and weighty: he serves another, and his calling to speak comes from the Lord he serves.",
+    "",
+    "The gospel was promised beforehand through the prophets. Jesus belongs to David’s family in His human ancestry, and His resurrection declares Him with power to be the Son of God. Paul already calls Him God’s Son before mentioning the resurrection; he is not introducing an ordinary man who only became God’s Son after death.",
+    "",
+    "Through Jesus, Paul has received grace and a commission that reaches the Gentiles. Its aim is the obedience that comes from faith. The Roman believers belong within this calling: they are loved by God, called to belong to Jesus and called to be saints. Paul addresses the believing community this way, then greets them with grace and peace from the Father and the Lord Jesus."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this greeting as a summary of the message Paul will explain: the promised Son has come, has risen, and calls people from the nations to faith and a life of obedience. The description of Jesus’ ancestry and resurrection holds His human life and divine sonship together; the resurrection makes His identity known in power."
+  ],
+  "god_plan_lines": [
+    "Paul himself places the gospel within God’s earlier promises. The reference to David’s family recalls the promise of an enduring royal house in [2 Samuel 7:12–16](https://biblehub.com/bsb/2_samuel/7.htm). Romans identifies Jesus, the risen Lord, as the Son at the center of this good news.",
+    "",
+    "The letter’s ending returns to the same purpose: [Romans 16:25–27](https://biblehub.com/bsb/romans/16.htm) connects the prophetic writings, the proclamation of Jesus and the obedience that comes from faith among all nations. The opening and closing belong to one story: God keeps His promises and makes His salvation known beyond Israel."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-opening-review.md"
+  }
+}

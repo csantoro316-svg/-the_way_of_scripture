@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "7:45-52",
+    "label": "John 7:45-52",
+    "slug": "john-7-45-52"
+  },
+  "section_title": "Will Jesus be heard before He is judged?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "45 Then the officers returned to the chief priests and Pharisees, who asked them, “Why didn’t you bring Him in?” 46 “Never has anyone spoken like this man!” the officers answered. 47 “Have you also been deceived?” replied the Pharisees. 48 “Have any of the rulers or Pharisees believed in Him? 49 But this crowd that does not know the law—they are under a curse.” 50 Nicodemus, who had gone to Jesus earlier and who himself was one of them, asked, 51 “Does our law convict a man without first hearing from him to determine what he has done?” 52 “Aren’t you also from Galilee?” they replied. “Look into it, and you will see that no prophet comes out of Galilee.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The officers return without arresting Jesus. Asked why, they say that no one has spoken as He does. The chief priests and Pharisees challenge whether they have been misled, appeal to the response of the rulers, and dismiss the crowd as ignorant of the law.",
+    "",
+    "Nicodemus, who previously visited Jesus, asks whether their law judges someone without first hearing him and learning what he has done. Deuteronomy calls judges to hear fairly and without partiality, including both the small and the great. ([Deuteronomy 1:16–17](https://biblehub.com/bsb/deuteronomy/1.htm))",
+    "",
+    "The reply questions whether Nicodemus is also from Galilee and asserts that no prophet comes from there. It does not answer his request for a hearing. The episode records his intervention without giving a complete account of his faith or his private motives at this moment."
+  ],
+  "common_interpretation_lines": [
+    "Christian readers commonly understand the scene as showing the need to hear Jesus fairly, rather than deciding about Him through status or pressure to agree with others. Wesley emphasizes that Nicodemus asks the authorities to apply the law they claim to know. ([Wesley on John 7:50–52](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/))"
+  ],
+  "god_plan_lines": [
+    "The Gospel later brings Nicodemus back into the story after Jesus’ death. He joins Joseph of Arimathea in caring for Jesus’ body and preparing it for burial. His question here is therefore one part of an unfolding account that eventually places him at the burial of the One being opposed. ([John 19:38–42](https://biblehub.com/bsb/john/19.htm))",
+    "",
+    "Paul includes Christ’s death for sins, burial and resurrection among the central truths of the good news. The growing opposition in this chapter leads toward those saving events, while the Gospel also shows people within the leadership acting differently from one another. God’s purpose cannot be reduced to a single reaction from an entire group. ([1 Corinthians 15:3–4](https://biblehub.com/bsb/1_corinthians/15.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/7.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-seven-closing-review.md"
+  }
+}

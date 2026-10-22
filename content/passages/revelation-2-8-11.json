@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "Revelation",
+    "citation": "2:8-11",
+    "label": "Revelation 2:8-11",
+    "slug": "revelation-2-8-11"
+  },
+  "section_title": "What hope does Jesus give a church facing death?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "8 To the angel of the church in Smyrna write: These are the words of the First and the Last, who died and returned to life. 9 I know your affliction and your poverty—though you are rich! And I am aware of the slander of those who falsely claim to be Jews, but are in fact a synagogue of Satan.",
+        "10 Do not fear what you are about to suffer. Behold, the devil is about to throw some of you into prison to test you, and you will suffer tribulation for ten days. Be faithful even unto death, and I will give you the crown of life. 11 He who has an ear, let him hear what the Spirit says to the churches. The one who overcomes will not be harmed by the second death."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Smyrna receives encouragement in suffering. Jesus introduces Himself as the One who died and returned to life. That matters for people facing prison and possible death: the One speaking to them has already passed through death and lives.",
+    "",
+    "He knows their affliction, poverty and the slander directed against them, yet calls them rich. The contrast shows that their circumstances do not tell the whole story of their standing before Him. The letter contains no rebuke of this church.",
+    "",
+    "The warning is specific: some will be imprisoned, their faith will be tested, and their suffering will last ten days. Jesus calls them to remain faithful even when doing so costs their lives. He promises the crown of life and protection from the second death. The comfort rests on His life and promise; He does not promise to prevent every imprisonment or execution.",
+    "",
+    "The severe language in verse 9 concerns the people slandering this community. It should be read within that accusation, without turning it into a description of every Jewish person."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings broadly recognize this as encouragement to remain faithful under persecution. Differences concern particular details. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-revelation-of-jesus-christ/) takes the ten days literally, as a brief persecution of this community. [John Gill](https://biblehub.com/commentaries/gill/revelation/2.htm) also considers a wider historical reading: ten Roman persecutions, or ten years of persecution represented by ten days. Those are different explanations of the number, rather than dates supplied by the letter itself.",
+    "",
+    "The identity of the slanderers is also read differently. The [USCCB notes](https://bible.usccb.org/bible/revelation/2) identify Jewish opponents of the local Christians. Gill understands people falsely claiming to be God’s people while professing Christianity. Neither identification gives grounds for assigning the letter’s accusation to an entire people across history.",
+    "",
+    "Wesley describes the crown of life as a particular reward for faithfulness unto death. Gill includes eternal life itself in the promise. The Greek word for crown, stephanos, can describe a victor’s wreath, but its range also includes honor and royal rank. [Thayer’s entry](https://biblehub.com/greek/4735.htm) reads this phrase as life given as a crown. The word alone does not settle every question about salvation and rewards."
+  ],
+  "god_plan_lines": [
+    "The promise reaches beyond whether the Christians survive the coming trial. In [Revelation 20:4–6, 11–15](https://biblehub.com/bsb/revelation/20.htm), those who belong to Christ share His life, while the second death is identified as the lake of fire. The risen Jesus can therefore offer hope that execution cannot take away. This passage connects the costly faithfulness of a small, suffering church with God’s final defeat of death and judgment of evil."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/revelation/2.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-revelation-two-rest-review.md"
+  }
+}

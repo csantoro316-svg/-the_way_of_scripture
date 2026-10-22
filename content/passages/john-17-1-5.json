@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "17:1-5",
+    "label": "John 17:1-5",
+    "slug": "john-17-1-5"
+  },
+  "section_title": "What does Jesus ask as His hour arrives?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 When Jesus had spoken these things, He lifted up His eyes to heaven and said, “Father, the hour has come. Glorify Your Son, that Your Son may glorify You. 2 For You granted Him authority over all people, so that He may give eternal life to all those You have given Him. 3 Now this is eternal life, that they may know You, the only true God, and Jesus Christ, whom You have sent.",
+        "4 I have glorified You on earth by accomplishing the work You gave Me to do. 5 And now, Father, glorify Me in Your presence with the glory I had with You before the world existed."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After speaking to the disciples about His departure, the Spirit, trouble and peace, Jesus lifts His eyes to heaven and prays. He begins with the hour that has arrived. His request for the Son’s glory has a stated purpose: that the Son may glorify the Father.",
+    "",
+    "The authority given to Him is directed toward giving eternal life to those the Father has given Him. He describes that life in terms of knowing the Father and Jesus Christ, whom the Father sent. Eternal life is more than a length of time; it is life in relationship with God through the Son.",
+    "",
+    "Jesus speaks of the work the Father gave Him as accomplished while the cross is immediately ahead. The prayer stands at the completion of that mission, not at an escape from it. He asks to be glorified in the Father’s presence with the glory He had before the world existed."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the prayer as joining the Father’s glory, the Son’s saving mission and the gift of eternal life. [Calvin on verses 3–5](https://biblehub.com/commentaries/calvin/john/17.htm) and [Wesley on verses 3–5](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) understand knowing God as a life of faith, and the glory before creation as belonging to the eternal Son. Neither reads the reference to the only true God as excluding the Son from divine life.",
+    "",
+    "They explain those given to Jesus differently. Calvin’s note on verse 2 refers to God’s chosen people, whose faith follows His gracious choice. Wesley’s note identifies them as believers and emphasizes Christ’s saving provision for all. These are distinct explanations of the gift, while both direct the reader to life received through Christ."
+  ],
+  "god_plan_lines": [
+    "The movement through suffering into glory is developed in [Hebrews 2:9–11](https://biblehub.com/bsb/hebrews/2.htm). Jesus suffers death and is crowned with glory and honor as He brings many children to glory. His request belongs to that saving work.",
+    "",
+    "The Son who makes the Father known is also the One through whom God made the universe. [Hebrews 1:1–3](https://biblehub.com/bsb/hebrews/1.htm) joins His revelation of God with creation, the cleansing of sins and His place at God’s right hand. The prayer gathers His mission into the glory He shares with the Father."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/17.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-seventeen-review.md"
+  }
+}

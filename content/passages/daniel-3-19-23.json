@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "3:19-23",
+    "label": "Daniel 3:19-23",
+    "slug": "daniel-3-19-23"
+  },
+  "section_title": "What does the king’s anger accomplish?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "19 At this, Nebuchadnezzar was filled with rage, and the expression on his face changed toward Shadrach, Meshach, and Abednego. He gave orders to heat the furnace seven times hotter than usual, 20 and he commanded some mighty men of valor in his army to tie up Shadrach, Meshach, and Abednego and throw them into the blazing fiery furnace. 21 So they were tied up, wearing robes, trousers, turbans, and other clothes, and they were thrown into the blazing fiery furnace. 22 The king’s command was so urgent and the furnace so hot that the fiery flames killed the men who carried up Shadrach, Meshach, and Abednego. 23 And these three men, Shadrach, Meshach, and Abednego, firmly bound, fell into the blazing fiery furnace."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The king orders the furnace heated seven times hotter than usual and commands strong soldiers to bind the men and throw them in. They are cast into the fire fully clothed and firmly bound.",
+    "",
+    "The heat kills the soldiers carrying out the order. The men targeted by the decree fall into the furnace, and the situation appears to leave them no means of escape.",
+    "",
+    "The details establish the severity of the threat before the rescue is described. Neither protective equipment nor an unnoticed avoidance of the fire explains what follows."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/daniel/3.htm) and [Wesley](https://biblehub.com/commentaries/wes/daniel/3.htm) emphasize God’s power to preserve the men when the king has done his worst. The deaths of the soldiers make the danger plain.",
+    "",
+    "The passage states the increased heat and its effect. It does not provide the furnace’s exact construction, a modern temperature reading or a detailed account of the soldiers’ movements."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/3.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-three-review.md"
+  }
+}

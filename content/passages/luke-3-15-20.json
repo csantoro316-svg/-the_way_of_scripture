@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "3:15-20",
+    "label": "Luke 3:15-20",
+    "slug": "luke-3-15-20"
+  },
+  "section_title": "Who is coming after John?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 The people were waiting expectantly and were all wondering in their hearts if John could be the Christ. 16 John answered all of them: “I baptize you with water, but One more powerful than I will come, the straps of whose sandals I am not worthy to untie. He will baptize you with the Holy Spirit and with fire. 17 His winnowing fork is in His hand to clear His threshing floor and to gather the wheat into His barn; but He will burn up the chaff with unquenchable fire.”",
+        "18 With these and many other exhortations, John proclaimed the good news to the people. 19 But when he rebuked Herod the tetrarch regarding his brother’s wife Herodias and all the evils he had done, 20 Herod added this to them all: He locked John up in prison."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The people wonder whether John might be the Christ. He directs them to One far greater, saying he is unworthy even to untie His sandals. John baptizes with water; the coming One will baptize with the Holy Spirit and fire.",
+    "",
+    "The next picture is a harvest being sorted: wheat gathered safely and chaff burned. The message brings together salvation and the seriousness of judgment. Luke calls John’s many exhortations good news, without removing the warnings from that message.",
+    "",
+    "Luke then records John confronting Herod over Herodias and the ruler’s other evils. Herod responds by imprisoning him. This closes the summary of John’s public ministry before Luke turns to Jesus’ baptism; it need not mean John was already in prison when he baptized Jesus. Wesley likewise treats the imprisonment as an event placed here to complete the account of John’s work. ([Wesley on Luke 3:20](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [Matthew 3:13–17](https://biblehub.com/bsb/matthew/3.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand John as directing attention away from himself to Jesus, whose work goes beyond John’s water baptism. The gathering and burning picture gives the announcement a serious warning as well as a promise.",
+    "",
+    "They differ over the fire in the baptism promise. The Catholic Catechism connects it with the Spirit’s transforming power, including the fire-like tongues at Pentecost; the USCCB notes also draw on the prophets’ images of cleansing and refining. John Walvoord instead reads it as a distinct future judgment, reasoning from the surrounding warning and the burning chaff. His is one teacher’s explanation, not the position of every Protestant. ([Catechism 696](https://www.vatican.va/archive/ENG0015/__P21.HTM); [USCCB notes on Luke 3:16](https://bible.usccb.org/bible/luke/3); [John Walvoord on baptism with fire](https://walvoord.com/article/10))"
+  ],
+  "god_plan_lines": [
+    "Jesus later recalls the distinction between John’s water baptism and the coming gift of the Holy Spirit, then promises power for witness to the ends of the earth. John’s preparatory ministry leads toward the risen Lord giving His people what they need to carry the message. ([Acts 1:4–8](https://biblehub.com/bsb/acts/1.htm))",
+    "",
+    "Paul describes that wider task as a ministry of reconciliation: God brings people to Himself through Christ and entrusts His people with the message. Those who receive new life are called to live for the One who died and rose for them. The appeal directs attention to Christ’s love and the mercy His people are entrusted to share. ([2 Corinthians 5:11–21](https://biblehub.com/bsb/2_corinthians/5.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-three-opening-review.md"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "26:1-5",
+    "label": "Matthew 26:1-5",
+    "slug": "matthew-26-1-5"
+  },
+  "section_title": "Jesus Announces His Death While the Leaders Make Their Plans",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 When Jesus had finished saying all these things, He told His disciples, 2 “You know that the Passover is two days away, and the Son of Man will be handed over to be crucified.”",
+        "3 At that time the chief priests and elders of the people assembled in the courtyard of the high priest, whose name was Caiaphas, 4 and they conspired to arrest Jesus covertly and kill Him. 5 “But not during the feast,” they said, “or there may be a riot among the people.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus has finished teaching about His return and judgment. He now brings His disciples back to what lies immediately ahead: Passover is two days away, and He will be handed over for crucifixion. The final chapters of Matthew follow His suffering, death, and resurrection.",
+    "",
+    "At the same time, the chief priests and elders gather at the home of Caiaphas, the high priest. They plan to arrest Jesus secretly and kill Him, but fear that acting during the feast could provoke a riot. Matthew places their planning beside Jesus' announcement, so the reader sees what the disciples are being told and what His opponents are arranging.",
+    "",
+    "Handed over comes from παραδίδωμι, *paradidōmi* (pah-rah-DEE-doh-mee). [Thayer's entry](https://biblehub.com/greek/3860.htm) explains its use for giving someone into another's power, including custody or execution. The same verb is used for Judas' betrayal later in the chapter. It links Jesus' announcement with the acts that will lead to His death, without making those acts morally innocent.",
+    "",
+    "The leaders hope to control the circumstances. Jesus already speaks of His approaching death. Judas' offer in verses 14–16 will give them an opportunity to act despite their concern about the crowd."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly see a contrast between Jesus' knowledge of His approaching death and the leaders' secret planning. [Wesley on 26:1–5](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) and [Walvoord on 26:1–5](https://walvoord.com/article/220) both emphasize that their plans do not prevent the death Jesus has announced."
+  ],
+  "god_plan_lines": [
+    "The New Testament explicitly connects Christ with Passover. [Exodus 12:1–14](https://biblehub.com/bsb/exodus/12.htm) describes Israel's deliverance from Egypt and the blood marking the households spared from judgment. [1 Corinthians 5:6–8](https://biblehub.com/bsb/1_corinthians/5.htm) identifies Christ as the sacrificed Passover lamb and calls His people to leave behind malice and wickedness. The setting of Jesus' death therefore belongs to a connection the New Testament itself makes, rather than a resemblance we have to invent.",
+    "",
+    "[Acts 2:22–24](https://biblehub.com/bsb/acts/2.htm) also holds together God's purpose and human responsibility: Jesus was handed over according to God's plan, those who killed Him acted lawlessly, and God raised Him from death. The conspiracy does not place His death outside God's saving work, and God's purpose does not excuse the conspiracy."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/26.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-six-opening-review.md"
+  }
+}

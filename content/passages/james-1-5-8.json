@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "James",
+    "citation": "1:5-8",
+    "label": "James 1:5-8",
+    "slug": "james-1-5-8"
+  },
+  "section_title": "What should we ask God for when we do not know how to respond?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 Now if any of you lacks wisdom, he should ask God, who gives generously to all without finding fault, and it will be given to him. 6 But he must ask in faith, without doubting, because he who doubts is like a wave of the sea, blown and tossed by the wind. 7 That man should not expect to receive anything from the Lord. 8 He is a double-minded man, unstable in all his ways."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The call to become complete, lacking nothing, leads directly to a need the readers may recognize: lacking wisdom. James tells them to ask God, whose generosity makes it possible to come honestly with that need.",
+    "",
+    "The promise concerns wisdom in the setting of trials. It is help for understanding and living faithfully through difficulty, rather than a promise that prayer will deliver whatever outcome someone imagines.",
+    "",
+    "The warning is serious: the person asking must trust God. The word translated doubting can mean [hesitating or being at variance with oneself](https://biblehub.com/greek/1252.htm). The next verse describes a [double-minded person](https://biblehub.com/greek/1374.htm), pulled in conflicting directions. James calls for steady trust in the God being asked, rather than prayer that leaves His trustworthiness continually in question."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/james/1.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-general-epistle-of-st-james/) read wisdom as God’s help for responding to trials, and faith as confidence in Him. Calvin distinguishes that confidence from never experiencing a struggle: even rooted faith can be shaken without being uprooted."
+  ],
+  "god_plan_lines": [
+    "This belongs with Jesus’ invitation to ask the Father for good gifts in [Matthew 7:7–11](https://biblehub.com/bsb/matthew/7.htm). God’s generosity makes dependent prayer possible. The wisdom sought here is part of learning to live as His children, trusting His goodness while putting His teaching into practice."
+  ],
+  "current_position_lines": [
+    "Our study [Should We Seek Signs From God?](https://thewayofscripture.com/studies/seek-signs.html) understands the promise here as wisdom: sound judgment for navigating circumstances, rather than a sign revealing a predetermined answer. It places prayer alongside Scripture and the counsel of believers as ways God guides His people. Circumstances are to be understood through Scripture, rather than treated as coded personal messages."
+  ],
+  "deeper_study": [
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/james/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-james-one-review.md",
+    "position_source_detail": "Should We Seek Signs From God? — content/studies/seek_signs.md, How Does God Actually Guide Us? (lines 132–146)."
+  }
+}

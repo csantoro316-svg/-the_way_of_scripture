@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "12:27-31",
+    "label": "1 Corinthians 12:27-31",
+    "slug": "1-corinthians-12-27-31"
+  },
+  "section_title": "How should a church value its different gifts?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "27 Now you are the body of Christ, and each of you is a member of it. 28 And in the church God has appointed first of all apostles, second prophets, third teachers, then workers of miracles, and those with gifts of healing, helping, administration, and various tongues. 29 Are all apostles? Are all prophets? Are all teachers? Do all work miracles? 30 Do all have gifts of healing? Do all speak in tongues? Do all interpret? 31 But eagerly desire the greater gifts. And now I will show you the most excellent way."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul applies the body picture directly to the Corinthians: together they are Christ’s body, and each person belongs as a member. He then names different appointments and gifts within the church, beginning with apostles, prophets and teachers.",
+    "",
+    "The repeated questions expect a negative answer. Not everyone is an apostle, prophet, teacher, miracle worker, healer, speaker in tongues or interpreter. Diversity is part of God’s arrangement, rather than a problem to be solved by making every member do the same thing.",
+    "",
+    "Paul’s ordering shows that the gifts are not interchangeable, even though the people who receive them must not be treated as disposable. His appeal to desire the greater gifts needs to be read with the common good already stated in verse 7 and the concern for building up the church developed in chapter 14.",
+    "",
+    "The last sentence opens the next chapter: Paul will show a still better way. The answer to rivalry over gifts is not simply a different ranking. Love must govern the way every gift is valued and used."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this passage to distinguish the gifts and work given to different members. [Calvin’s comment on verse 31](https://biblehub.com/commentaries/calvin/1_corinthians/12.htm) emphasizes valuing what most builds up the church rather than pursuing a display.",
+    "",
+    "The questions about tongues raise a further difference in application. [Dallas Theological Seminary’s Article XVI](https://www.dts.edu/about/doctrinal-statement/) rejects tongues as a necessary sign of the Spirit’s baptism or filling. The [Assemblies of God’s Statement of Fundamental Truths, section 8](https://ag.org/Beliefs/Statement-of-Fundamental-truths), teaches tongues as the initial sign of baptism in the Spirit while distinguishing that use from the congregational gift in this chapter. The disagreement concerns that distinction; it should not be described as the Assemblies of God overlooking Paul’s questions."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 2:19–22](https://biblehub.com/bsb/ephesians/2.htm) describes God’s household as built on the foundation of apostles and prophets, with Christ Jesus as the cornerstone. It gives those ministries a place within God’s work of forming a people in whom He dwells by the Spirit.",
+    "",
+    "That foundation serves the whole household. The picture directs attention beyond personal rank to the people being built together under Christ. Paul’s turn to love fits a community whose members belong to that shared work."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/12.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-twelve-closing-thirteen-opening-review.md"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "16:15-18",
+    "label": "1 Corinthians 16:15-18",
+    "slug": "1-corinthians-16-15-18"
+  },
+  "section_title": "Whose service should a church learn to recognize?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 You know that Stephanas and his household were the first converts in Achaia, and they have devoted themselves to the service of the saints. Now I urge you, brothers, 16 to submit to such as these, and to every fellow worker and laborer.",
+        "17 I am glad that Stephanas, Fortunatus, and Achaicus have arrived, because they have supplied what was lacking from you. 18 For they refreshed my spirit and yours as well. Show your appreciation, therefore, to such men."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul identifies the household of Stephanas as the first converts in Achaia and points to their devotion to serving the saints. He asks the Corinthians to submit to people like them and to everyone who joins in the work and labors.",
+    "",
+    "Stephanas, Fortunatus and Achaicus have brought Paul joy. Their presence has supplied what the congregation’s absence left lacking and has refreshed his spirit. He calls the Corinthians to recognize such people.",
+    "",
+    "The commendation rests on actual service, shared labor and the help these people give. This paragraph does not provide a complete system of church offices or establish a lifelong authority that automatically transfers to every congregation."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the passage as a call to respect and cooperate with people devoted to serving the church. [Wesley’s notes on verses 15–18](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) connect the appeal with their work and the refreshment they bring. Recognizing that contribution need not mean making claims about their precise office that Paul does not state here."
+  ],
+  "god_plan_lines": [
+    "In [Mark 10:42–45](https://biblehub.com/bsb/mark/10.htm), Jesus distinguishes greatness among His followers from the domination practiced by rulers. He places service at its center and points to His own giving of His life for many.",
+    "",
+    "The commendation here follows that pattern: people are recognized for giving themselves to the good of others. This is a connection in the shape of service, not a claim that their work carries the saving role of Jesus’ death."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/16.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-sixteen-review.md"
+  }
+}

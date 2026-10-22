@@ -1,0 +1,50 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "11:14-19",
+    "label": "Daniel 11:14-19",
+    "slug": "daniel-11-14-19"
+  },
+  "section_title": "Why do conquest and another marriage fail to secure the king’s plans?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 In those times many will rise up against the king of the South. Violent ones among your own people will exalt themselves in fulfillment of the vision, but they will fail. 15 Then the king of the North will come, build up a siege ramp, and capture a fortified city. The forces of the South will not stand; even their best troops will not be able to resist. 16 The invader will do as he pleases, and no one will stand against him. He will establish himself in the Beautiful Land, with destruction in his hand.",
+        "17 He will resolve to come with the strength of his whole kingdom, and will reach an agreement with the king of the South. He will give him a daughter in marriage in order to overthrow the kingdom, but his plan will not succeed or help him. 18 Then he will turn his face to the coastlands and capture many of them. But a commander will put an end to his reproach and will turn it back upon him. 19 After this, he will turn back toward the fortresses of his own land, but he will stumble and fall and be no more."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Many rise against the southern king, including violent people from Daniel’s own nation. Their attempt fails. The northern invader takes a fortified city and establishes himself in the Beautiful Land.",
+    "",
+    "He makes another agreement involving a daughter given in marriage, intending to gain control through it. That plan does not achieve what he intends.",
+    "",
+    "He then turns toward the coastlands, but a commander turns back his aggression. Returning toward his own fortresses, he falls and disappears. The passage follows power that expands through force and marriage arrangements, then meets limits it cannot overcome."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/daniel/11.htm) identifies the northern ruler as Antiochus III and the daughter as Cleopatra, whose loyalty did not serve her father’s design. He connects the reversal in the coastlands with Roman opposition. [Henry](https://biblehub.com/commentaries/mhc/daniel/11.htm) sees the succession of reversals within God’s knowledge of the nations’ affairs."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/11.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-eleven-review.md"
+  }
+}

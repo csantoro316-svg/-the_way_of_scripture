@@ -5,18 +5,51 @@
     "label": "John 16:23-24",
     "slug": "john-16-23-24"
   },
+  "section_title": "What kind of asking belongs to the joy Jesus promises?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"Truly, truly, I say to you, if you ask the Father for anything in My name, He will give it to you. Until now you have asked for nothing in My name; ask and you will receive, so that your joy may be made full.\""
+      "label": "BSB",
+      "paragraphs": [
+        "23 In that day you will no longer ask Me anything. Truly, truly, I tell you, whatever you ask the Father in My name, He will give you. 24 Until now you have not asked for anything in My name. Ask and you will receive, so that your joy may be complete."
+      ]
     }
   ],
   "context_lines": [
-    "In **John 16**, Jesus continues preparing the disciples for His death, resurrection, departure, and the coming of the Spirit. Its promises about prayer and joy are part of that transition into the new covenant reality of life in His name."
-  ],
-  "explanation_lines": [
-    "The surface reading people take from this is straightforward \u2014 ask anything, in Jesus' name, and you will receive it, and your joy will be complete. It sounds like the broadest promise in the New Testament on prayer.",
+    "These words follow Jesus’ promise that the disciples’ sorrow will turn to joy when they see Him again. Their questions about His departure belong to an understanding that is still incomplete. He points them toward life after His death and resurrection.",
     "",
-    "Two things settle it. First, \"in My name\" carries the same meaning established in John 14:13-14 \u2014 asking in alignment with His character, authority, and purposes, not a verbal formula guaranteeing delivery."
-  ]
+    "He directs them to ask the Father in His name. The promise continues what He has already taught about prayer in [John 14:12–14](https://biblehub.com/bsb/john/14.htm) and remaining in Him in [John 15:7](https://biblehub.com/bsb/john/15.htm). Asking belongs within their relationship with Him and the work He is giving them.",
+    "",
+    "The complete joy is part of this same conversation about renewed life with Jesus. It should be read beside His promise to see them again, rather than separated into a guarantee that any desired possession or outcome will produce lasting joy."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly connect prayer in Jesus’ name with trust in Him and access to the Father through Him. The Reformed [Westminster Larger Catechism, question 180](https://www.opc.org/lc.html), distinguishes that confidence from bare mention of His name. The Catholic Church’s [Catechism, paragraphs 2614–2615](https://www.vatican.va/content/catechism/en/part_four/section_one/chapter_one/article_2/in_the_fullness_of_time.index.html), places this prayer within faith, love and life in the Spirit."
+  ],
+  "god_plan_lines": [
+    "[John 20:19–22](https://biblehub.com/bsb/john/20.htm) connects the disciples’ renewed joy with the risen Jesus, His peace and His sending of them. [Ephesians 2:18](https://biblehub.com/bsb/ephesians/2.htm) describes access to the Father through Christ by one Spirit. The prayer promise belongs to this life of being brought near to God."
+  ],
+  "current_position_lines": [
+    "Our study Prayer and Faith understands asking in Jesus’ name as asking in keeping with His character, authority and purposes. It reads the promise of complete joy within Jesus’ teaching about His resurrection, the Spirit’s coming and life with Him. The promise directs us toward that life, rather than making His name a formula for obtaining whatever we already wanted."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/16.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-john-sixteen-review.md",
+    "position_source_detail": "Prayer and Faith"
+  }
 }

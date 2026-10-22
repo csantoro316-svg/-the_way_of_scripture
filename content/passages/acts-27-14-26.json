@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "27:14-26",
+    "label": "Acts 27:14-26",
+    "slug": "acts-27-14-26"
+  },
+  "section_title": "Where does Paul find hope when everyone expects the ship to be lost?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 But it was not long before a cyclone called the Northeaster swept down across the island. 15 Unable to head into the wind, the ship was caught up. So we gave way and let ourselves be driven along. 16 Passing to the lee of a small island called Cauda, we barely managed to secure the lifeboat. 17 After hoisting it up, the crew used ropes to undergird the ship. And fearing that they would run aground on the sandbars of Syrtis, they lowered the sea anchor and were driven along. 18 We were tossed so violently that the next day the men began to jettison the cargo. 19 On the third day, they threw the ship’s tackle overboard with their own hands. 20 When neither sun nor stars appeared for many days and the great storm continued to batter us, we abandoned all hope of being saved.",
+        "21 After the men had gone a long time without food, Paul stood up among them and said, “Men, you should have followed my advice not to sail from Crete. Then you would have averted this disaster and loss. 22 But now I urge you to keep up your courage, because you will not experience any loss of life, but only of the ship. 23 For just last night an angel of the God to whom I belong and whom I serve stood beside me 24 and said, ‘Do not be afraid, Paul; you must stand before Caesar. And look, God has granted you the lives of all who sail with you.’ 25 So take courage, men, for I believe God that it will happen just as He told me. 26 However, we must run aground on some island.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "A violent Northeaster catches the ship, preventing it from holding its course. The crew secures the lifeboat, braces the ship with ropes and takes measures to control the drift. As the storm continues, cargo and equipment are thrown overboard. With neither sun nor stars visible for days, hope of rescue disappears.",
+    "",
+    "After a long period without food, Paul reminds them of his earlier advice and then gives a new assurance. No life will be lost, though the ship will be. He explains why: an angel of the God to whom he belongs and whom he serves has told him that he must stand before Caesar and that God has granted the lives of those sailing with him.",
+    "",
+    "Paul urges courage because he trusts that God will do what He has said. He also says they must run aground on an island. His confidence does not depend on the storm having ended or on the ship remaining intact. The promise names both preservation and loss."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as confidence grounded in a particular word from God amid otherwise desperate circumstances. It concerns the lives of this ship’s company and Paul’s continuing commission. The account does not report that all aboard have become believers or make Paul the source of the power that preserves them."
+  ],
+  "god_plan_lines": [
+    "There is a useful parallel with [Jonah 1:1–16](https://biblehub.com/bsb/jonah/1.htm): a servant of God is at sea among endangered sailors, cargo is thrown overboard, and the servant speaks about the God he serves. [Jonah 3:1–10](https://biblehub.com/bsb/jonah/3.htm) also places that servant within God’s purpose of bringing a message to a Gentile city.",
+    "",
+    "The difference matters. Jonah initially flees his commission; Paul is continuing toward the witness promised in Rome. This is a comparison between the accounts, not a claim that Luke identifies Paul as a new Jonah or that every storm detail has a hidden counterpart. In both stories, God’s purpose reaches beyond the messenger’s own people and circumstances."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/27.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twenty-seven-review.md"
+  }
+}

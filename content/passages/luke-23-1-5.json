@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "23:1-5",
+    "label": "Luke 23:1-5",
+    "slug": "luke-23-1-5"
+  },
+  "section_title": "What accusation is brought before Pilate?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Then the whole council rose and led Jesus away to Pilate. 2 And they began to accuse Him, saying, “We found this man subverting our nation, forbidding payment of taxes to Caesar, and proclaiming Himself to be Christ, a King.” 3 So Pilate asked Him, “Are You the King of the Jews?” “You have said so,” Jesus replied.",
+        "4 Then Pilate said to the chief priests and the crowds, “I find no basis for a charge against this man.” 5 But they kept insisting, “He stirs up the people all over Judea with His teaching. He began in Galilee and has come all the way here.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The council takes Jesus to Pilate and presents accusations that concern Roman rule: stirring up the nation, opposing taxes to Caesar and claiming to be Christ, a king. The charge about taxes conflicts with Jesus’ earlier instruction to give Caesar what belongs to Caesar. ([Luke 20:20–26](https://biblehub.com/bsb/luke/20.htm))",
+    "",
+    "Pilate is the Roman governor of Judea. Josephus independently places him in the succession of Roman officials governing the region, after Valerius Gratus. The hearing therefore moves from the council’s questions about Jesus’ identity to accusations before the governing Roman authority. ([Josephus, Antiquities 18.2.2](https://penelope.uchicago.edu/josephus/ant-18.html))",
+    "",
+    "Pilate asks whether Jesus is the King of the Jews. Jesus answers that Pilate has said so. Pilate then says he finds no basis for a charge against Him. The accusers persist, emphasizing the reach of His teaching from Galilee into Judea."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly see Luke emphasizing Jesus’ innocence before the Roman authority. The USCCB’s notes trace that emphasis across Pilate’s repeated declarations, while Wesley explains that Pilate finds no attempt against Caesar in Jesus’ defense. The accusations and the governor’s finding are kept distinct. ([USCCB note on Luke 23:1–5, 13–25](https://bible.usccb.org/bible/luke/23); [Wesley on Luke 23:4](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))"
+  ],
+  "god_plan_lines": [
+    "John’s account gives more of Jesus’ answer about kingship. He explains that His kingdom does not come from this world and that His servants are not fighting to prevent His arrest. He also says that He came to bear witness to the truth. The King stands before a governor, yet the source and purpose of His kingdom extend beyond the political threat His accusers describe. ([John 18:33–38](https://biblehub.com/bsb/john/18.htm))",
+    "",
+    "Paul later points specifically to Jesus’ testimony before Pontius Pilate when charging Timothy to remain faithful until Christ appears. This hearing becomes an example of faithful witness for those who follow Him. God’s purpose advances through the King’s truthful testimony even while human authorities judge Him. ([1 Timothy 6:11–16](https://biblehub.com/bsb/1_timothy/6.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/23.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-twenty-three-opening-review.md"
+  }
+}

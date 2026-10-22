@@ -5,18 +5,52 @@
     "label": "Matthew 12:38-39",
     "slug": "matthew-12-38-39"
   },
+  "section_title": "A Demand for Another Sign",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"Then some of the scribes and Pharisees said to Him, 'Teacher, we want to see a sign from You.' But He answered and said to them, 'An evil and adulterous generation craves for a sign; and yet no sign will be given to it but the sign of Jonah the prophet.'\""
+      "label": "BSB",
+      "paragraphs": [
+        "38 Then some of the scribes and Pharisees said to Him, “Teacher, we want to see a sign from You.” 39 Jesus replied, “A wicked and adulterous generation demands a sign, but none will be given it except the sign of the prophet Jonah."
+      ]
     }
   ],
   "context_lines": [
-    "In **Matthew 12**, Jesus exposes hardened unbelief in the face of clear revelation and warns against a generation that demands signs while resisting repentance. The chapter contrasts genuine recognition of God's work with hostile spiritual blindness."
-  ],
-  "explanation_lines": [
-    "**\u1f10\u03c0\u03b9\u03b6\u03b7\u03c4\u03ad\u03c9 (*epiz\u0113te\u014d* (eh-pee-zay-TAY-oh))** \u2014 to seek out, search for, or demand. It describes an active pursuit, not a passive noticing.",
+    "This request comes after Jesus has healed people and answered the accusation that His power comes from Satan. Some scribes and Pharisees now ask for a sign. The demand belongs to that setting of resistance to works they have already seen.",
     "",
-    "The religious leaders in this story weren't asking for something unreasonable by the world's standards \u2014 they wanted proof before they would believe. Jesus doesn't respond by giving them what they asked for. He treats the request itself \u2014 \"show me something and then I'll believe\" \u2014 as the problem. That's worth sitting with, because it's the exact opposite of how a lot of popular Christian teaching frames sign-seeking today."
+    "The word for demanding a sign is ἐπιζητέω, *epizēteō* (eh-pee-zay-TEH-oh), to seek after or demand. [Thayer's entry](https://biblehub.com/greek/1934.htm) explicitly includes this saying. Jesus does not accept the demand as the condition on which His hearers may keep postponing a response.",
+    "",
+    "He names the sign of Jonah. The explanation continues immediately in verses 40–42: His own coming death and resurrection are compared with Jonah's time in the fish, and the response of outsiders is placed beside His hearers' resistance. These two verses introduce that larger answer."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a rebuke to resistant hearers demanding further proof, rather than a rejection of every sincere question about God. [Wesley on Matthew 12:38–40](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) emphasizes the signs already received and understands Jonah as pointing toward Christ. The [US Catholic bishops' notes on 12:38–42](https://bible.usccb.org/bible/matthew/12) likewise connect the demand with refusal to accept Jesus' works and explain the Jonah sign through His death and resurrection."
+  ],
+  "current_position_lines": [
+    "Should We Seek Signs From God? reads this as a warning against demanding another sign while resisting what God has already revealed. These leaders have already seen Jesus' works; the study distinguishes their demand from sincerely seeking to understand and obey Him."
+  ],
+  "deeper_study": [
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/12.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twelve-review.md",
+    "position_source_detail": "Should We Seek Signs From God? — What Scripture Actually Says / Jesus and the Request for a Sign; Matthew 12:38–39 and its immediate context only"
+  },
+  "god_plan_lines": [
+    "Jesus' answer points forward to the center of His saving work. In the following verses He connects Jonah's experience with His own coming passage through death. [Matthew 16:21](https://biblehub.com/bsb/matthew/16.htm) later speaks plainly of His suffering, death, and resurrection on the third day.",
+    "",
+    "The sign will be more than another display requested by opponents. It points to the Savior giving His life and being raised, the events Paul places at the heart of the gospel in [1 Corinthians 15:1–8](https://biblehub.com/bsb/1_corinthians/15.htm)."
   ]
 }

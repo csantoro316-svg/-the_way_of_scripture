@@ -1,0 +1,21 @@
+# Isaiah 6 passage review — 2026-10-21
+
+One retained13-versegroup, supported plan(a), exact open position. Existinggroup/URL/deeperlinks preserved, no owner study changed.
+
+## Actually read sources
+
+BaselinePDF entire6lesson53–65read; cumulative1–68readincluding7lesson66–68begun. Whole actualBibleHub BSB6(13mainverses), actualHenry6exposition, wholeWesley6. Gill6:1,3,5–10,13selected23438characters actuallyread inthreechunks. Calvin6fetchedunread/notused. BDB3722initial1000charsandwholePu’alIsa6:7subentryread, notwholeentry, no new lexicalclaimpublic. ExactBSBverse7guiltremoved/sinatoned preserved.
+
+Primaryconfessionsdirectlyread: wholeWestminsterchapter5especially5.4/5.6; whole1689Baptistchapter5especially5.4/5.6andexplicitIsa6:9–10prooftext. OfficialCatholicCCC1037directread, no claim it itself supplies detailedIsa6exegesis, notusedtoforceimaginarydifference. Wesleyactual6:9–10judgment/withdrawnSpiritpartlyalignsReformedconfessions, so no artificialcombativetraditionbreakdown. NamedconfessionsnotallBaptistpeopleautomaticallysharethem.
+
+DirectactualBSBread:John12:36–43;Matt13:10–17;Mark4:10–12;Luke8:9–10;Acts28:23–28;Rom11:1–12,17–32;2Chr26:16–23;Rev4:1–11;Heb9:11–15;Rom3:21–26. Versecomparisonsreadfully, notunsignedsummaries. OwnerstudysearchIsaiah/John12:41/seraph/UzziahnoapplicableIsa6position, Angelstudythematicallyrelatedandlinkedwithoutnewposition.
+
+## 6:1–13
+
+Plan section: included, because (a). John12:40quotesIsa6and12:41explicitJesusglory;Matt13:14–15explicitfulfilledIsaiah;Mark4/Luke8parallel;Acts28:25–27explicitIsaiahandGentiles28. Romans11partialhardening/remnant/grace/antiboast/mercyprovidesbroadercheckedcontext.
+Position source: none.
+FLAGGED FOR REVIEW: BaselineUzziahdeathsameyearRomefounded not independently verified, omitted; no precise742/740date invented. Visiontimingdoesnotsettleallchapters1–5after6chronologically; Gillopposesinitialcallonly, notsettled. Josephusclaimsunrays/earthquakecausedleprosy notindependentlycheckedandnotnarratedinIsa6, omitted; direct2Chr26contextreadwithoutnewmedicaldiagnosis. Seraphimtermexplainedheavenlyattendantsfromtext, nolexicallyunverifiedburners/fireserpentidentityorfullangelhierarchy. Threeholies/usnotcountingproofexactthreepersons; NTJohn12connectionactual. No namedfathersunfaceopticalphysicalexplanation. Coalnotliteralrecipeforburningmouth/ritualrepetition; no claimnormalcoalnoburninjuryasmedicalfact. BaselineChristphysicallypoursbloodontothisspecificaltarafterascension notstatedbyHeb9, omitted. KapharcoveretymologydoesnotproveallOTforgivenessonlytemporary/pardonnotreal; actualverse7iniquityremovedpreservedandRom3/Heb9retroactiveredemptionchecked. No exactly100%failure/noonebelievednationwide:John12:42leadersbelieved,Acts28:24somepersuaded,Rom11:1–6Paul/remnantactual. Godloophole/notallowedforgiveanyJewuntilsecondcomingnotestablishedascommonreadingandcontradictedunqualifiedbyNTinstances, excluded. Romans11giftscallingnotautomaticallyeveryindividualpromiseforlifeIsaiahmissionlaw. No entireJewishpeopleuniformlyblindornowdeservingsuffering/AIrulingcurrentgeopolitics. Hardeningdescribedasseverejudgmentafterrebellionwithoutflatteringreligioussuperiority; Paulantiboastactual.10%exactmodernpopulationprediction/notcertain10Judahkingscode. StumpBSBfelledtree notKJVleaffallandliteraltribalroadwaytopography. No claimholyseedexplicitlysingleMessiahherewithoutNTstatement; preservedremnanthope. Sourcewordingrewritteninplainlanguage, no analogical/technicalsystemimposed.
+
+## Validation
+
+All directBSB/repository(0errors/363warnings), preservation, coverage128verses through6:13, idempotence, twomobile renders and physicalNext passed. ExplicitScripture-project Hosting dryrun/deploy exited0; LIVE MATCH5 observedexit0. Prefix /tmp/scripture-isaiah-six-.

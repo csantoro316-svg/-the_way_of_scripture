@@ -1,0 +1,52 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "8:11-13",
+    "label": "Mark 8:11-13",
+    "slug": "mark-8-11-13"
+  },
+  "section_title": "The Demand for a Sign",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "11 Then the Pharisees came and began to argue with Jesus, testing Him by demanding from Him a sign from heaven. 12 Jesus sighed deeply in His spirit and said, “Why does this generation demand a sign? Truly I tell you, no sign will be given to this generation.” 13 And He left them, got back into the boat, and crossed to the other side."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After the feeding, Pharisees approach Jesus and demand a sign from heaven to test Him. Mark describes a confrontation rather than a request from someone simply seeking help. The works already narrated give this demand its setting.",
+    "",
+    "Jesus sighs deeply and refuses the demand. He asks why this generation seeks a sign, states that none will be given to it, and leaves by boat. Mark does not name a particular heavenly spectacle they want Him to perform.",
+    "",
+    "The [parallel Matthew 16:1–4](https://biblehub.com/bsb/matthew/16.htm) includes Sadducees and records an exception concerning the sign of Jonah. Mark's account contains the refusal without that exception. Keeping each account's wording visible helps us hear Mark's emphasis rather than silently adding Matthew's sentences to it."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand Jesus to be refusing a hostile test, rather than condemning every honest question or denying that His works reveal who He is. [Calvin on Mark 8:11–13](https://biblehub.com/commentaries/calvin/mark/8.htm) emphasizes resistance despite what has already been shown, while the [USCCB note](https://bible.usccb.org/bible/mark/8) explains that a sign on the challengers' terms will not be supplied."
+  ],
+  "god_plan_lines": [
+    "The wider Gospel accounts point the sign question toward Jesus' death and resurrection. In [Matthew 16:4](https://biblehub.com/bsb/matthew/16.htm), the parallel refusal names Jonah; [Matthew 12:38–42](https://biblehub.com/bsb/matthew/12.htm) records Jesus connecting Jonah's three days with what the Son of Man will undergo. The call is also to respond to the One greater than Jonah. This connection comes from Jesus' teaching in Matthew, while Mark leaves the demand here with a refusal.",
+    "",
+    "Within Mark itself, the chapter soon moves toward Jesus' declaration that He must suffer, die, and rise again ([Mark 8:31](https://biblehub.com/bsb/mark/8.htm)). God's saving purpose unfolds through that path, rather than through Jesus performing whatever proof His opponents demand."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/8.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-eight-opening-review.md"
+  }
+}

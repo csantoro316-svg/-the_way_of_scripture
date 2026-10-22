@@ -1,0 +1,49 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "10:15-19",
+    "label": "2 Samuel 10:15-19",
+    "slug": "2-samuel-10-15-19"
+  },
+  "section_title": "What happens when the Arameans gather to fight again?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 When the Arameans saw that they had been defeated by Israel, they regrouped. 16 Hadadezer sent messengers to bring more Arameans from beyond the Euphrates, and they came to Helam with Shobach the commander of Hadadezer’s army leading them. 17 When this was reported to David, he gathered all Israel, crossed the Jordan, and went to Helam. Then the Arameans arrayed themselves against David and fought against him. 18 But the Arameans fled before Israel, and David killed seven hundred charioteers and forty thousand foot soldiers. He also struck down Shobach the commander of their army, who died there. 19 When all the kings who were subject to Hadadezer saw that they had been defeated by Israel, they made peace with Israel and became subject to them. So the Arameans were afraid to help the Ammonites anymore."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The defeated Arameans regroup. Hadadezer brings additional troops from beyond the Euphrates, led by Shobach, to Helam. This time David gathers Israel, crosses the Jordan and leads the encounter.",
+    "",
+    "Israel defeats them, and Shobach dies. The BSB records seven hundred charioteers and forty thousand foot soldiers killed. The kings subject to Hadadezer make peace with Israel, and the Arameans become afraid to help the Ammonites again."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/10.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) read the defeat as part of God establishing Israel’s promised reach and overcoming opposition to David’s rule. The immediate result named here is the loss of the Ammonites’ Aramean support.",
+    "",
+    "The chapter does not yet describe the capture of the Ammonite capital. The next scene begins with a renewed campaign and the siege of Rabbah. Distinguishing the defeated allies from the remaining Ammonite stronghold helps explain why fighting continues into chapter 11."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/10.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-ten-eleven-review.md"
+  }
+}

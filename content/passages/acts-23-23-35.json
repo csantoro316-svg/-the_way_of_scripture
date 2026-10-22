@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "23:23-35",
+    "label": "Acts 23:23-35",
+    "slug": "acts-23-23-35"
+  },
+  "section_title": "Why is Paul transferred under guard to Caesarea?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "23 Then he called two of his centurions and said, “Prepare two hundred soldiers, seventy horsemen, and two hundred spearmen to go to Caesarea in the third hour of the night. 24 Provide mounts for Paul to take him safely to Governor Felix.”",
+        "25 And he wrote the following letter: 26 Claudius Lysias, To His Excellency, Governor Felix: Greetings. 27 This man was seized by the Jews, and they were about to kill him when I came with my troops to rescue him. For I had learned that he is a Roman citizen, 28 and since I wanted to understand their charges against him, I brought him down to their Sanhedrin. 29 I found that the accusation involved questions about their own law, but there was no charge worthy of death or imprisonment. 30 When I was informed that there was a plot against the man, I sent him to you at once. I also instructed his accusers to present their case against him before you.",
+        "31 So the soldiers followed their orders and brought Paul by night to Antipatris. 32 The next day they returned to the barracks and let the horsemen go on with him. 33 When the horsemen arrived in Caesarea, they delivered the letter to the governor and presented Paul to him. 34 The governor read the letter and asked what province Paul was from. Learning that he was from Cilicia, 35 he said, “I will hear your case when your accusers arrive.” Then he ordered that Paul be kept under guard in Herod’s Praetorium."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The commander orders a substantial escort ready for a night journey to Caesarea: two hundred soldiers, seventy horsemen and two hundred spearmen, with mounts for Paul. He is to be delivered safely to Governor Felix. The response removes Paul from the known ambush while keeping him in Roman custody.",
+    "",
+    "The accompanying letter identifies the commander as Claudius Lysias. He reports the rescue, the council hearing and the plot, saying the accusation concerns questions of Jewish law rather than a charge deserving death or imprisonment.",
+    "",
+    "The letter places knowledge of Paul’s citizenship alongside the initial rescue. Luke’s earlier account in Acts 21:31–33 and 22:25–29 showed the commander learning that fact later, when Paul was threatened with flogging. The official report does not include every detail of how the encounter unfolded.",
+    "",
+    "The soldiers bring Paul by night to Antipatris. The next day the horsemen continue with him to Caesarea while the others return. Felix reads the letter, asks Paul’s province and agrees to hear the case when the accusers arrive. He orders Paul kept under guard in Herod’s Praetorium, the governor’s residence.",
+    "",
+    "The transfer is protection from a murder attempt, not an acquittal or a release. Luke reports the next step of the case without explaining a complete rule of jurisdiction for every Roman province."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly see the guarded transfer as preserving Paul for further testimony while the accusations remain unresolved. The commander’s letter presents a favorable assessment of his legal position; Felix still waits to hear the accusers. Neither custody nor an official report should be confused with a final judgment on the case."
+  ],
+  "god_plan_lines": [
+    "The move to Caesarea is one stage in the continuing witness promised in Acts 23:11. Paul has not reached Rome, and he remains a prisoner, but the effort to kill him has not ended his commission. Human arrangements—an escort, a letter and a governor’s decision to hear the case—become part of the route by which the witness continues.",
+    "",
+    "God’s care for Paul accompanies an unfinished and costly task. The following hearings will give the prisoner further opportunities to speak about the hope for which he is held."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/23.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twenty-three-review.md"
+  }
+}

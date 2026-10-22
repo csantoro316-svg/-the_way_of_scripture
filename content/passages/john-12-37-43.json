@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "12:37-43",
+    "label": "John 12:37-43",
+    "slug": "john-12-37-43"
+  },
+  "section_title": "Why do signs not lead everyone to believe?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "37 Although Jesus had performed so many signs in their presence, they still did not believe in Him. 38 This was to fulfill the word of Isaiah the prophet: “Lord, who has believed our message? And to whom has the arm of the Lord been revealed?” 39 For this reason they were unable to believe. For again, Isaiah says: 40 “He has blinded their eyes and hardened their hearts, so that they cannot see with their eyes, and understand with their hearts, and turn, and I would heal them.” 41 Isaiah said these things because he saw Jesus’ glory and spoke about Him.",
+        "42 Nevertheless, many of the leaders believed in Him. But because of the Pharisees they did not confess Him, for fear that they would be put out of the synagogue. 43 For they loved praise from men more than praise from God."
+      ]
+    }
+  ],
+  "context_lines": [
+    "John reflects on the response to Jesus’ public ministry. Many signs have been performed, yet unbelief remains. He connects this with [Isaiah 53:1](https://biblehub.com/bsb/isaiah/53.htm), where the prophet asks who has believed the message and received the revelation of the LORD’s power.",
+    "",
+    "He then quotes the warning of blinded eyes and hardened hearts from [Isaiah 6:9–10](https://biblehub.com/bsb/isaiah/6.htm). John describes this as judgment, using the severe language that they were unable to believe. The signs do not turn faith into an automatic response. The words must be heard alongside the Gospel’s repeated calls to believe and its accounts of refusing the light.",
+    "",
+    "John also says that Isaiah saw Jesus’ glory and spoke about Him. In Isaiah 6, the prophet sees the Lord enthroned in holiness and receives a difficult commission. John places that vision and warning within his account of Christ, connecting Jesus with the glory Isaiah saw.",
+    "",
+    "The next words prevent us from treating every leader as having one response. Many believed, but fear of being put out of the synagogue kept them from confessing Him. John rebukes their preference for human praise over God’s praise. He records both their belief and their failure to acknowledge Him openly, without giving the later history of each person."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the hardening as a warning about persistent unbelief and God’s judgment. [Calvin on verses 39–40](https://biblehub.com/commentaries/calvin/john/12.htm), [Wesley on verse 39](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) and the [Catholic bishops’ note on verses 38–41](https://bible.usccb.org/bible/john/12) hold the warning together with people’s response to God."
+  ],
+  "god_plan_lines": [
+    "The same warning from Isaiah appears in [Acts 28:23–28](https://biblehub.com/bsb/acts/28.htm), where some hearers receive Paul’s testimony about Jesus and others resist. Paul then speaks of God’s salvation reaching the Gentiles. This shows the warning within the wider movement of the gospel beyond one people.",
+    "",
+    "That movement must not be confused with God abandoning His people. [Romans 11:1–6](https://biblehub.com/bsb/romans/11.htm) explicitly denies that conclusion and points to a people preserved by grace. Judgment, continuing mercy and the gathering of people from the nations all belong in the biblical picture."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/12.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-twelve-closing-review.md"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "2:24-30",
+    "label": "Daniel 2:24-30",
+    "slug": "daniel-2-24-30"
+  },
+  "section_title": "Why does Daniel refuse to take credit for knowing the mystery?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "24 Therefore Daniel went to Arioch, whom the king had appointed to destroy the wise men of Babylon, and said to him, “Do not execute the wise men of Babylon! Bring me before the king, and I will give him the interpretation.” 25 Arioch hastily brought Daniel before the king and said to him, “I have found a man among the exiles from Judah who will tell the king the interpretation.” 26 The king responded to Daniel, whose name was Belteshazzar, “Are you able to tell me what I saw in the dream, as well as its interpretation?”",
+        "27 Daniel answered the king, “No wise man, enchanter, medium, or magician can explain to the king the mystery of which he inquires. 28 But there is a God in heaven who reveals mysteries, and He has made known to King Nebuchadnezzar what will happen in the latter days. Your dream and the visions that came into your mind as you lay on your bed were these: 29 As you lay on your bed, O king, your thoughts turned to the future, and the Revealer of Mysteries made known to you what will happen. 30 And to me this mystery has been revealed, not because I have more wisdom than any man alive, but in order that the interpretation might be made known to the king, and that you may understand the thoughts of your mind."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Daniel asks Arioch to stop the executions and bring him before the king. When asked whether he can tell the dream and its meaning, he first names the limits of human expertise.",
+    "",
+    "There is, however, a God in heaven who reveals mysteries. He has shown the king what will happen, and has given Daniel the explanation so that the king may understand.",
+    "",
+    "The Aramaic word רָז, raz (rahz), means a secret; see [Brown–Driver–Briggs](https://biblehub.com/hebrew/7328.htm). Here the mystery is something hidden that God makes known, rather than something that must remain impossible to understand.",
+    "",
+    "Daniel explicitly denies that the revelation comes because he is wiser than everyone else. His role is to pass on what God has given, not to make himself the source of it."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/daniel/2.htm) and [Gaebelein](https://biblehub.com/commentaries/gaebelein/daniel/2.htm) emphasize Daniel directing honor to God instead of using the occasion to magnify himself. [Wesley](https://biblehub.com/commentaries/wes/daniel/2.htm) also sees him preparing the king to recognize the true God.",
+    "",
+    "The explanation will be a witness to the One who reveals, rather than a performance of Daniel’s own power."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 3:1–12](https://biblehub.com/bsb/ephesians/3.htm) describes another mystery made known by revelation: through the gospel, Gentiles share the inheritance, the body and the promise in Christ Jesus. Paul presents his ministry as a gift of grace serving that revealed purpose.",
+    "",
+    "The mysteries have different contents. Daniel explains a royal dream; Paul announces Gentiles’ shared belonging in Christ. The connection is God making His purpose known through servants, so that others can understand and share what He is doing. Paul carries that purpose to confident access to God through Christ."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/2.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-two-review.md"
+  }
+}

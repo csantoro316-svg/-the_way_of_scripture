@@ -5,16 +5,52 @@
     "label": "John 6:32-33",
     "slug": "john-6-32-33"
   },
+  "section_title": "Who gives the true bread from heaven?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "'Truly, truly, I say to you, it is not Moses who has given you the bread out of heaven, but it is My Father who gives you the true bread out of heaven. For the bread of God is that which comes down out of heaven, and gives life to the world.'"
+      "label": "BSB",
+      "paragraphs": [
+        "32 Jesus said to them, “Truly, truly, I tell you, it was not Moses who gave you the bread from heaven, but it is My Father who gives you the true bread from heaven. 33 For the bread of God is He who comes down from heaven and gives life to the world.”"
+      ]
     }
   ],
   "context_lines": [
-    "In **John 6**, Jesus moves from the feeding of the multitude into the Bread of Life discourse, where material bread becomes the doorway into deeper revelation about Himself. The chapter is intentionally interpretive: it takes a physical sign and presses the reader toward Christ as the true and lasting source of life."
+    "The crowd has asked Jesus for a sign and pointed to the manna eaten by their ancestors. Jesus places the credit for that provision with His Father and directs them toward the true bread that gives life to the world.",
+    "",
+    "He identifies that bread as Himself in the following verses. The statement belongs within His call to believe in the One sent by God. [Read John 6:22–34 in context](https://the-way-of-scripture.web.app/passages/john-6-22-34.html)."
   ],
-  "explanation_lines": [
-    "Jesus is doing something very deliberate here. He is taking the manna tradition \u2014 the very background behind the daily bread petition in the Lord's Prayer \u2014 and explicitly placing Himself as its fulfillment. The manna kept Israel's bodies alive for a season in the wilderness, but everyone who ate it still eventually died. Jesus contrasts Himself directly with that manna: He is the bread that, once eaten, results in eternal life. The manna was never meant to be the end of the story. It was a sign pointing forward to Him all along."
-  ]
+  "common_interpretation_lines": [
+    "Christian readings commonly understand Jesus as turning the crowd’s attention from another meal toward faith in the One sent by God. Calvin and Wesley both read the work named in verse 29 as believing in Christ, with that faith directing the rest of life rather than making a list of achievements the basis for receiving Him. ([Calvin on John 6:29](https://biblehub.com/commentaries/calvin/john/6.htm); [Wesley on John 6:27–29](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/))"
+  ],
+  "god_plan_lines": [
+    "Deuteronomy explains that manna taught Israel to depend on every word from God, rather than bread alone. Jesus quotes that teaching during His own wilderness temptation. The movement from food toward trusting God’s word therefore has a clear scriptural background, including Jesus’ own use of it. ([Deuteronomy 8:2–3](https://biblehub.com/bsb/deuteronomy/8.htm); [Matthew 4:1–4](https://biblehub.com/bsb/matthew/4.htm))",
+    "",
+    "Paul also reads Israel’s wilderness experience in relation to Christ. He describes their spiritual food and drink and identifies the accompanying rock with Christ. That gives a further New Testament connection between God’s earlier provision and the One who now offers lasting life. ([1 Corinthians 10:1–4](https://biblehub.com/bsb/1_corinthians/10.htm))"
+  ],
+  "current_position_lines": [
+    "Our study Prayer and Faith reads the true bread from heaven as Christ Himself, whom the Father gives for life. It connects this passage with daily dependence on Him as the source of lasting life, rather than treating bread only as material provision."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/6.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-john-six-bread-and-promise-review.md",
+    "position_source_detail": "Prayer and Faith: Section4 The Missing Link — Christ as the Living Bread; developed John6:32–58 discussion and quoted32–33/35/48–51/58. Limited to identity of bread/faith/dependence, without originating a Eucharistic or election position."
+  }
 }

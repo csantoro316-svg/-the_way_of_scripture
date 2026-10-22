@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "10:18-21",
+    "label": "Romans 10:18-21",
+    "slug": "romans-10-18-21"
+  },
+  "section_title": "What if the message has been heard but refused?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "18 But I ask, did they not hear? Indeed they did: “Their voice has gone out into all the earth, their words to the ends of the world.” 19 I ask instead, did Israel not understand? First, Moses says: “I will make you jealous by those who are not a nation; I will make you angry by a nation without understanding.” 20 And Isaiah boldly says: “I was found by those who did not seek Me; I revealed Myself to those who did not ask for Me.” 21 But as for Israel he says: “All day long I have held out My hands to a disobedient and obstinate people.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul asks whether the problem has been a failure to hear or understand. He answers by drawing on the Psalms, Moses and Isaiah. The argument belongs to his continuing concern for Israel and the place of Gentiles in God’s purpose.",
+    "",
+    "He uses the worldwide language of Psalm 19, then Moses’ warning that God would provoke jealousy through a people outside Israel’s covenant life. Isaiah supplies the contrast between God being found by those who had not sought Him and God continually holding out His hands to a resistant people.",
+    "",
+    "The final picture is an extended invitation met by resistance. Paul does not end with permission to despise Israel. His own prayer for their salvation opened the chapter, and the question of God’s faithfulness continues in chapter 11."
+  ],
+  "common_interpretation_lines": [
+    "Readers differ over the immediate reference of the hearing question. [Calvin’s comment on verse 18](https://biblehub.com/commentaries/calvin/romans/10.htm) connects it with God making Himself known to the Gentiles. [Wesley’s note](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-romans/) and the [Catholic bishops’ notes on verses 14–21](https://bible.usccb.org/bible/romans/10) emphasize Israel’s opportunity to hear. Both approaches place the discussion within God’s communication and the response it receives.",
+    "",
+    "The quotations are commonly read as showing that the arrival of Gentiles and Israel’s resistance do not take God by surprise. They should not be turned into a judgment about the motives or knowledge of every Jewish person in every time and place."
+  ],
+  "god_plan_lines": [
+    "[Deuteronomy 32:15–22](https://biblehub.com/bsb/deuteronomy/32.htm) sets the jealousy warning within Israel’s turning to other gods. Paul uses it alongside [Isaiah 65:1–2](https://biblehub.com/bsb/isaiah/65.htm), where God makes Himself known and reaches out to a disobedient people.",
+    "",
+    "These connections show the tension between God’s initiative and human resistance running through the earlier Scriptures as well as Paul’s day. The outstretched hands keep God’s invitation visible. His dealings with Israel and the nations are part of the same continuing question of mercy and faithfulness, rather than evidence that His promises have been forgotten."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/10.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-ten-review.md"
+  }
+}

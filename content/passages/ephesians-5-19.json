@@ -5,11 +5,57 @@
     "label": "Ephesians 5:19",
     "slug": "ephesians-5-19"
   },
-  "versions": [],
-  "context_lines": [
-    "Ephesians 5:19 should be read within the flow of its chapter and the larger argument of Ephesians."
+  "section_title": "How can our singing help one another?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "19 Speak to one another with psalms, hymns, and spiritual songs. Sing and make music in your hearts to the Lord,"
+      ]
+    }
   ],
-  "explanation_lines": [
-    "This distinction matters practically. A song that contains rich doctrinal content \u2014 teaching the person beside me something true about God \u2014 fulfills the *all\u0113l\u014dn* function. A song that primarily produces an emotional response in me, directed at God, may be valid as personal expression but does not by itself fulfill the edification mandate of the gathered assembly."
-  ]
+  "context_lines": [
+    "This verse is part of the description of being filled with the Spirit in 5:18–21. Paul names singing alongside thanksgiving to the Father and submission to one another out of reverence for Christ.",
+    "",
+    "Believers are to speak to one another through psalms, hymns and spiritual songs. They also sing and make music in their hearts to the Lord. Both directions belong to the verse: words shared with fellow believers and heartfelt praise to Him.",
+    "",
+    "The parallel instruction in [Colossians 3:16](https://biblehub.com/bsb/colossians/3.htm) connects teaching and admonishing one another with singing in gratitude to God. It helps explain how song can serve the life of the community."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this verse as joining heartfelt praise to the Lord with song that serves fellow believers. [Wesley’s note on verse 19](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-ephesians/) includes the voice as well as the heart in singing to the Lord. [Colossians 3:16](https://biblehub.com/bsb/colossians/3.htm) supplies the explicit parallel of teaching and admonishing one another."
+  ],
+  "god_plan_lines": [
+    "[Acts 2:42–47](https://biblehub.com/bsb/acts/2.htm) places praise within the shared life formed after the gift of the Spirit: learning, prayer, fellowship and care for those in need. Praise belongs within the life of a people gathered around Christ.",
+    "",
+    "This is a supported parallel to the song described here. The Spirit’s work gives the community reasons to thank God and ways to strengthen one another as they live together."
+  ],
+  "current_position_lines": [
+    "Our study [Worship as the Early Church Knew It](https://thewayofscripture.com/studies/worship.html) emphasizes the purpose of speaking to one another in song: communicating truth that helps others grow in faith. It distinguishes that service from a song’s emotional effect on an individual. Personal feeling by itself does not show that the gathering is being built up. The study also recognizes praise and thanksgiving directed to God."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/ephesians/5.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-ephesians-five-middle-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It, lines 420–444, especially direct Ephesians 5:19 discussion at line 430."
+  }
 }

@@ -5,18 +5,51 @@
     "label": "1 Corinthians 3:16",
     "slug": "1-corinthians-3-16"
   },
+  "section_title": "Where does God’s Spirit dwell?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"Do you not know that you are the temple of God and that the Spirit of God dwells in you?\""
+      "label": "BSB",
+      "paragraphs": [
+        "16 Do you not know that you yourselves are God’s temple, and that God’s Spirit dwells in you?"
+      ]
     }
   ],
   "context_lines": [
-    "In **1 Corinthians 3**, Paul addresses a divided church that is thinking in worldly terms about leaders and status. The chapter moves from Christ as the only true foundation to the corporate people of God as His temple, so its warnings and promises concern the church's life in Christ rather than private spirituality detached from the body."
-  ],
-  "explanation_lines": [
-    "Where once God's presence dwelt in the physical temple in Jerusalem, now He chooses to dwell in His people. This was a radical shift: worship was no longer geographically bound, but spiritually internal. This reality revolutionized worship in the early Church, which no longer needed altars or priests to mediate God's presence. Every believer is a mobile temple \u2014 a dwelling place for God. This calls for reverence not for buildings, but for the life within us. Just as the Spirit filled the tabernacle, He now fills human hearts \u2014 ordinary men and women made holy by His indwelling.",
+    "Paul has called the Corinthians God’s field and building. He now tells them that they themselves are God’s temple because His Spirit dwells among them. The immediate concern is the community being built up or harmed by its members and teachers.",
     "",
-    "Today, however, much of Christianity continues to function as though God's presence is confined to physical spaces or religious roles. In many expressions of the Catholic Church, the idea of sacred space persists through cathedrals, tabernacles, and the reserved Eucharist, reinforcing the perception that God dwells uniquely within consecrated buildings or objects. Many Protestant traditions replicate this mindset in subtler ways \u2014 elevating pulpits, platforms, or church buildings as \"God's house,\" despite affirming the priesthood of all believers. In many non-denominational settings, the trend may be expressed through elaborate stage design, emotional atmospheres, or an emphasis on \"experiencing God\" in the worship space \u2014 often inadvertently reinforcing the idea that divine encounter is tied to the building or the event. Yet the early Church gathered in homes, courtyards, and open fields \u2014 not because they lacked options, but because they knew God's dwelling had moved into them. The modern Church must recover this truth: that God does not meet us at the altar, but abides within the altar of our hearts."
-  ]
+    "The word for temple, naos (nah-OSS), ναός, is used for a sanctuary. [Thayer’s entry](https://biblehub.com/greek/3485.htm) applies it here to the community in which God’s Spirit dwells. Their holiness comes from belonging to Him, rather than from the importance of a place or a human leader."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Paul to be describing the believers together as God’s temple. [Calvin’s comment on verse 16](https://biblehub.com/commentaries/calvin/1_corinthians/3.htm) explicitly reads the community collectively as one temple, a reading that fits the chapter’s concern with building up the church."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 2:19–22](https://biblehub.com/bsb/ephesians/2.htm) describes people once separated being built together in Christ as a dwelling for God by the Spirit. [1 Peter 2:4–10](https://biblehub.com/bsb/1_peter/2.htm) similarly calls believers living stones and a holy people who declare God’s goodness.",
+    "",
+    "The temple picture gives a purpose to life together. God forms a people who belong to Him and make Him known. How they treat one another should reflect the presence of the One who dwells among them."
+  ],
+  "current_position_lines": [
+    "Our study [What Is the True Church?](https://thewayofscripture.com/studies/true-church.html) draws on this verse to locate God’s dwelling in His people. It calls for reverence expressed through daily conduct and relationships, rather than treating a building as the source of God’s presence."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-three-review.md",
+    "position_source_detail": "What Is the True Church?, We Are the Temple, lines43–53; direct3:16 community/Spirit/holy conduct application; broad historical generalizations not imported."
+  }
 }

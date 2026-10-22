@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "2:10-13",
+    "label": "Hebrews 2:10-13",
+    "slug": "hebrews-2-10-13"
+  },
+  "section_title": "How does Jesus bring others into His family and glory?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 In bringing many sons to glory, it was fitting for God, for whom and through whom all things exist, to make the author of their salvation perfect through suffering. 11 For both the One who sanctifies and those who are sanctified are of the same family. So Jesus is not ashamed to call them brothers.",
+        "12 He says: “I will proclaim Your name to My brothers; I will sing Your praises in the assembly.” 13 And again: “I will put My trust in Him.” And once again: “Here am I, and the children God has given Me.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The writer explains why suffering belonged to the way Jesus brought salvation. God’s purpose is to bring many sons to glory. Jesus goes before them as the author of their salvation, and His work reaches its intended completion through suffering.",
+    "",
+    "The word [translated make perfect](https://biblehub.com/greek/5048.htm) can mean to bring something to its goal or completion. Here it concerns Jesus’ saving mission. It does not mean He had been morally sinful and needed suffering to become good.",
+    "",
+    "The One who makes people holy identifies with those He makes holy. He is not ashamed to call them brothers. The quotations from Psalm 22 and Isaiah 8 put praise, trust and a people given by God on His lips. The Savior stands with those He brings to God."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/2.htm) understands Jesus’ being made perfect as His being prepared and set apart for His saving role through suffering. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) likewise understands the word as the completion of His work, while explicitly denying that He needed correction from sin. Both emphasize His real kinship with the people He saves.",
+    "",
+    "The phrase rendered of the same family in the BSB is brief in Greek. Calvin emphasizes a common human nature and recognizes other readings; Wesley connects it with shared humanity from Adam. These explanations emphasize Jesus’ genuine connection with us, while the passage distinguishes Him as the One who sanctifies."
+  ],
+  "god_plan_lines": [
+    "[Psalm 22:22–31](https://biblehub.com/bsb/psalms/22.htm) moves from the sufferer’s deliverance to praise in the assembly, then to the nations turning to the Lord. Hebrews itself applies the brother-and-assembly language to Jesus. His sharing in His people’s lives belongs within that larger movement from suffering to praise and the gathering of people to God.",
+    "",
+    "[Romans 8:17–30](https://biblehub.com/bsb/romans/8.htm) also joins suffering, glory and God’s purpose to form a family in which His Son is firstborn among many brothers. That shared path does not make believers additional sacrifices for sin. Jesus is the Savior who brings them through it."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-two-review.md"
+  }
+}

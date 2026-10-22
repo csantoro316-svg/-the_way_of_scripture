@@ -5,18 +5,57 @@
     "label": "Matthew 9:20-22",
     "slug": "matthew-9-20-22"
   },
+  "section_title": "Faith Reaches Out to Jesus",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"And behold, a woman who had been suffering from a hemorrhage for twelve years, came up behind Him and touched the fringe of His cloak; for she was saying to herself, 'If I only touch His garment, I will get well.' But Jesus turning and seeing her said, 'Daughter, take courage; your faith has healed you.' And at once the woman was healed.\""
+      "label": "BSB",
+      "paragraphs": [
+        "20 Suddenly a woman who had suffered from bleeding for twelve years came up behind Him and touched the fringe of His cloak. 21 She said to herself, “If only I touch His cloak, I will be healed.” 22 Jesus turned and saw her. “Take courage, daughter,” He said, “your faith has healed you.” And the woman was healed from that very hour."
+      ]
     }
   ],
   "context_lines": [
-    "In **Matthew 9**, Jesus' healing ministry reveals His authority to forgive, restore, and call sinners. Acts of healing in the chapter are repeatedly tied to faith and to the arrival of the kingdom in His person."
-  ],
-  "explanation_lines": [
-    "These two accounts are not identical, and the difference is worth naming rather than smoothing over. The woman never spoke a word to Jesus. She reasoned within herself, reached out, and touched His garment \u2014 pure faith, with no request voiced at all. The blind man's case is different: Jesus directly asked him, \"What do you want Me to do for you?\" and he answered specifically, \"I want to regain my sight.\" Here a want was actually spoken aloud, in response to Christ's own question.",
+    "This healing takes place while Jesus is on His way to the synagogue leader's daughter in [Matthew 9:18–26](https://biblehub.com/bsb/matthew/9.htm). A woman with twelve years of bleeding comes up behind Him and touches His cloak. Matthew records what she says to herself, followed by Jesus' assurance that her faith has healed her.",
     "",
-    "But notice what Jesus does not say in either case. He does not say \"because you asked correctly\" or \"because you asked at all.\" In both accounts \u2014 the one where nothing was asked, and the one where Jesus Himself drew out the request \u2014 His verdict is the same: \"your faith has made you well.\" The presence or absence of a spoken request changes nothing about what Jesus credits. Faith is what He names both times. This is consistent with Hebrews 11:6 \u2014 what pleases God is seeking Him, not the words used in seeking Him."
-  ]
+    "Her condition has a place within the Law's cleansing requirements. [Leviticus 15:25–30](https://biblehub.com/bsb/leviticus/15.htm) describes a prolonged discharge as making a woman unclean until the required cleansing after it ends. This is a statement about her condition under the Law, rather than proof that she has committed a particular sin.",
+    "",
+    "The fringe she touches is described by κράσπεδον, *kraspedon* (KRAS-peh-don), a garment's edge or tassel. [Thayer's Greek Lexicon](https://biblehub.com/greek/2899.htm) connects the word here with the tassels prescribed in [Numbers 15:37–41](https://biblehub.com/bsb/numbers/15.htm), reminders of God's commandments. Matthew says she touches Jesus' garment; he does not describe the clothing as having power apart from Him.",
+    "",
+    "The word translated healed comes from σῴζω, *sōzō* (SOH-zoh), which can mean rescue, save, or make well. [Thayer's Greek Lexicon](https://biblehub.com/greek/4982.htm) specifically lists Matthew 9:21–22 under restoration from disease. Here a real bodily healing is in view; the same word can carry a wider saving meaning in other settings.",
+    "",
+    "[Mark 5:25–34](https://biblehub.com/bsb/mark/5.htm) and [Luke 8:43–48](https://biblehub.com/bsb/luke/8.htm) add that the bleeding stops when she touches Him and that she then tells Him what has happened. Her initial approach contains no spoken request to Jesus. His response is personal: He addresses her as daughter and sends her in peace in those fuller accounts."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the encounter as a response of faith to Jesus' power and mercy, rather than healing produced independently by a garment. The Catholic [Catechism, 2616](https://www.vatican.va/content/catechism/en/part_four/section_one/chapter_one/article_2/in_the_fullness_of_time.html), includes her among those whose faith reaches Jesus without a spoken request, and [Wesley on Matthew 9:22](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) places His encouragement within her fearful approach and cleansing."
+  ],
+  "god_plan_lines": [
+    "The peace Jesus gives her in [Mark 5:34](https://biblehub.com/bsb/mark/5.htm) belongs alongside a wider theme of welcome through Him. [Romans 5:1–2](https://biblehub.com/bsb/romans/5.htm) describes peace with God and access to grace through Jesus Christ, received through faith. Her welcome gives a personal picture beside Paul's wider teaching about peace with God.",
+    "",
+    "[Titus 3:3–7](https://biblehub.com/bsb/titus/3.htm) describes God's saving mercy through new birth and renewal by the Spirit, leading to the hope of eternal life. The woman's bodily restoration provides a helpful picture beside that larger rescue: people come in need, and the gift of restored life comes from God."
+  ],
+  "current_position_lines": [
+    "On the woman's healing in verses 20–22, Prayer and Faith emphasizes that she reaches toward Jesus in trust without first voicing a request to Him. Jesus credits her faith. The study's position is that the focus belongs on trust in Him, rather than on the wording, frequency, or eloquence of a request."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/9.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-nine-completion-review.md",
+    "position_source_detail": "Prayer and Faith — section 5, Faith, Not Petition, Is What Scripture Emphasizes; Matthew 9:20–22 only"
+  }
 }

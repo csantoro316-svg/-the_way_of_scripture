@@ -5,24 +5,59 @@
     "label": "Exodus 29:1-9",
     "slug": "exodus-29-1-9"
   },
-  "section_title": "Consecration of the Priests",
+  "section_title": "How were Aaron and his sons prepared to serve?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 \u201cNow this is what you are to do to consecrate Aaron and his sons to serve Me as priests: Take a young bull and two rams without blemish, 2 along with unleavened bread, unleavened cakes mixed with oil, and unleavened wafers anointed with oil. Make them out of fine wheat flour, 3 put them in a basket, and present them in the basket, along with the bull and the two rams.",
-        "4 Then present Aaron and his sons at the entrance to the Tent of Meeting and wash them with water. 5 Take the garments and clothe Aaron with the tunic, the robe of the ephod, the ephod itself, and the breastplate. Fasten the ephod on him with its woven waistband. 6 Put the turban on his head and attach the holy diadem to the turban. 7 Then take the anointing oil and anoint him by pouring it on his head.",
-        "8 Present his sons as well and clothe them with tunics. 9 Wrap the sashes around Aaron and his sons and tie headbands on them. The priesthood shall be theirs by a permanent statute. In this way you are to ordain Aaron and his sons."
+        "1 “Now this is what you are to do to consecrate Aaron and his sons to serve Me as priests: Take a young bull and two rams without blemish, 2 along with unleavened bread, unleavened cakes mixed with oil, and unleavened wafers anointed with oil. Make them out of fine wheat flour, 3 put them in a basket, and present them in the basket, along with the bull and the two rams.",
+        "4 Then present Aaron and his sons at the entrance to the Tent of Meeting and wash them with water. 5 Take the garments and clothe Aaron with the tunic, the robe of the ephod, the ephod itself, and the breastplate. Fasten the ephod on him with its woven waistband. 6 Put the turban on his head and attach the holy diadem to the turban. 7 Then take the anointing oil and anoint him by pouring it on his head. 8 Present his sons as well and clothe them with tunics. 9 Wrap the sashes around Aaron and his sons and tie headbands on them. The priesthood shall be theirs by a permanent statute. In this way you are to ordain Aaron and his sons."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 29**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "God now gives the ceremony for setting Aaron and his sons apart as priests. A bull, two unblemished rams and a basket of unleavened bread are prepared for the offerings that follow. At the entrance to the tent, Moses washes the men, clothes them in their appointed garments and pours anointing oil on Aaron’s head.",
+    "",
+    "The washing, clothing and anointing mark their preparation for a responsibility God has given them. Aaron wears the garments described in the previous chapter, while his sons receive their tunics, sashes and headbands. The instructions are given here; their carrying out is later described in Leviticus 8.",
+    "",
+    "The Hebrew expression used for ordaining is מִלֵּא יָד, *mille yad* (mil-LAY yahd), literally to fill the hand—an idiom for installing someone in priestly office ([Brown–Driver–Briggs](https://biblehub.com/hebrew/4390.htm)). Later in this ceremony, offerings are actually placed in their hands. The appointment equips them for service before God."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Consecration of the Priests** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) and [Calvin](https://biblehub.com/commentaries/calvin/exodus/29.htm) understand the preparation as expressing the need for purity and a life set apart to God. They connect the priestly pattern with Christ and the work of God’s Spirit. The outward ceremony belongs to the service God has appointed for Israel.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 29** remains the first control on meaning."
+    "Christian traditions differ over how that priestly pattern relates to ordained ministry. The Catholic Church sees Aaron’s priesthood as preparing for Christian ordained ministry, while also affirming the priestly calling of all believers; its [Catechism, 1541–1547](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_three/article_6/ii_the_sacrament_of_holy_orders_in_the_economy_of_salvation.html), describes both as sharing in Christ’s one priesthood. It teaches that His one sacrifice is made present in the Eucharist. The [Westminster Confession, 27.4 and 29.2](https://www.opc.org/wcf.html), also recognizes ordained ministers, but rejects understanding the Supper as an offering of Christ to the Father. It describes the Supper as commemorating His completed offering and offering praise to God. These are differences in Christian application, rather than disagreement that Aaron’s family receives the office here."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The preparation offers a parallel with the way the New Testament describes God making people ready for life with Him. [Titus 3:3–8](https://biblehub.com/bsb/titus/3.htm) speaks of salvation by God’s mercy, the washing of new birth and renewal by the Spirit, leading believers to devote themselves to good deeds. [Galatians 3:26–29](https://biblehub.com/bsb/galatians/3.htm) describes those baptized into Christ as clothed with Him and joined together as heirs of the promise.",
+    "",
+    "[2 Corinthians 1:21–22](https://biblehub.com/bsb/2_corinthians/1.htm) adds that God establishes His people in Christ, anoints them and gives His Spirit as a pledge. These are broader biblical connections with cleansing, clothing and anointing. The focus is on what God gives so that His people can belong to Him and serve."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/29.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-twenty-nine-review.md"
+  }
 }

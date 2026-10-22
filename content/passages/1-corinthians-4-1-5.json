@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "4:1-5",
+    "label": "1 Corinthians 4:1-5",
+    "slug": "1-corinthians-4-1-5"
+  },
+  "section_title": "How should the church judge its teachers?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 So then, men ought to regard us as servants of Christ and stewards of the mysteries of God. 2 Now it is required of stewards that they be found faithful.",
+        "3 I care very little, however, if I am judged by you or by any human court. In fact, I do not even judge myself. 4 My conscience is clear, but that does not vindicate me. It is the Lord who judges me. 5 Therefore judge nothing before the appointed time; wait until the Lord comes. He will bring to light what is hidden in darkness and will expose the motives of men’s hearts. At that time each will receive his praise from God."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul asks the church to regard him and his fellow workers as servants of Christ, entrusted with making God’s revealed purposes known. They are not competing masters who own the people they teach.",
+    "",
+    "A steward manages something entrusted by another. The Greek word is oikonomos (oy-koh-NOH-moss), οἰκονόμος; [Thayer’s entry](https://biblehub.com/greek/3623.htm) includes a household manager and applies the picture here to teachers entrusted with God’s message. Faithfulness to that trust matters more than popularity.",
+    "",
+    "Paul does not let the Corinthians’ verdict, a human court or even his own clear conscience become the final judgment on his service. The Lord knows what people cannot yet see, including motives. Waiting for His coming means refusing to assign a final value to servants on the basis of partial knowledge. It does not prevent the correction and examination Paul himself carries out in this letter."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a call to faithful service and humility about judging another person’s hidden motives or final standing. [Calvin’s comment on verse 5](https://biblehub.com/commentaries/calvin/1_corinthians/4.htm) distinguishes premature judgments from every kind of judgment, while [Wesley’s notes on verses 3–5](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) place the final verdict with the Lord."
+  ],
+  "god_plan_lines": [
+    "In [Luke 12:42–48](https://biblehub.com/bsb/luke/12.htm), Jesus pictures a manager entrusted with care of a household. Faithful care matters when the master returns, and greater responsibility brings greater accountability.",
+    "",
+    "This is a direct parallel in the role of a steward, rather than a claim that each detail of the two passages is identical. God entrusts people with work for the good of His household. Their service looks toward His judgment, which gives both a reason for diligence and a reason to resist the search for human applause."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/4.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-four-review.md"
+  }
+}

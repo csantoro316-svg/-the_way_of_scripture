@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "1:12-13",
+    "label": "Mark 1:12-13",
+    "slug": "mark-1-12-13"
+  },
+  "section_title": "Jesus Is Tested in the Wilderness",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "12 At once the Spirit drove Jesus into the wilderness, 13 and He was there for forty days, being tempted by Satan. He was with the wild animals, and the angels ministered to Him."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Immediately after His baptism, the Spirit drives Jesus into the wilderness. He remains there for forty days, is tempted by Satan, is with the wild animals, and is served by angels. Mark places this testing directly after the Father's declaration of love and before Jesus begins preaching in Galilee.",
+    "",
+    "Tempted comes from πειράζω, *peirazō* (pay-RAH-zoh). [Thayer's lexicon](https://biblehub.com/greek/3985.htm) explains the word's range of testing and tempting, and identifies Satan's use here as an enticement to sin. The Spirit's leading and Satan's temptation have different purposes. [James 1:13–15](https://biblehub.com/bsb/james/1.htm) explains that God does not entice people to evil.",
+    "",
+    "[Matthew 4:1–11](https://the-way-of-scripture.web.app/passages/matthew-4-1-11.html) and [Luke 4:1–13](https://biblehub.com/bsb/luke/4.htm) give the exchanges that Mark leaves unreported. They describe Jesus' hunger and His answers from Scripture. Mark concentrates on the wilderness conflict and God's care through the angels, without describing the animals' behavior or naming particular temptations."
+  ],
+  "common_interpretation_lines": [
+    "Christian traditions commonly understand this as real testing in which Jesus remains faithful, showing His obedience and His ability to help people who are tempted. The Catholic [Catechism, 538–540](https://www.vatican.va/archive/ENG0015/__P1L.HTM), and [Calvin on the parallel Matthew 4:1](https://biblehub.com/commentaries/calvin/mark/1.htm), both relate the wilderness trial to His saving mission.",
+    "",
+    "The [US Catholic bishops' note on Mark 1:12–13](https://bible.usccb.org/bible/mark/1) offers two possible emphases for the wild animals: the wilderness's danger, or a picture recalling creation at peace. These are possibilities in explanatory notes, rather than an official requirement to read the animals one way. Mark says they were there; he does not say whether they threatened Jesus or lived peaceably around Him."
+  ],
+  "god_plan_lines": [
+    "The forty days invite comparison with Israel's wilderness story. [Exodus 4:22–23](https://biblehub.com/bsb/exodus/4.htm) calls Israel God's son, and [Deuteronomy 8:1–6](https://biblehub.com/bsb/deuteronomy/8.htm) recalls forty years of testing, hunger, and learning to trust His word. Jesus has just been declared God's Son and now enters the wilderness. This is a scriptural parallel, strengthened by His use of Deuteronomy in [Matthew 4:1–11](https://the-way-of-scripture.web.app/passages/matthew-4-1-11.html). He remains faithful where Israel had struggled.",
+    "",
+    "The connection reaches people facing temptation now. [Hebrews 2:14–18](https://biblehub.com/bsb/hebrews/2.htm) says that Jesus shares our humanity and, because He suffered when tempted, is able to help those being tempted. [Hebrews 4:14–16](https://biblehub.com/bsb/hebrews/4.htm) joins His sinlessness with His understanding of our weakness and invites us to seek mercy and help from Him. His testing is part of His work for us, not simply a lesson in willpower."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/1.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-one-baptism-review.md"
+  }
+}

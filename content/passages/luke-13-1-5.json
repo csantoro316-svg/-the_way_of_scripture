@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "13:1-5",
+    "label": "Luke 13:1-5",
+    "slug": "luke-13-1-5"
+  },
+  "section_title": "Does tragedy prove that its victims were worse sinners?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 At that time some of those present told Jesus about the Galileans whose blood Pilate had mixed with their sacrifices. 2 To this He replied, “Do you think that these Galileans were worse sinners than all the other Galileans, because they suffered this way? 3 No, I tell you. But unless you repent, you too will all perish.",
+        "4 Or those eighteen who were killed when the tower of Siloam collapsed on them: Do you think that they were more sinful than all the others living in Jerusalem? 5 No, I tell you. But unless you repent, you too will all perish.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Some people report to Jesus that Pilate has mixed the blood of Galileans with their sacrifices. Jesus responds by asking whether the way they suffered proves they were worse sinners than other Galileans. His answer is no.",
+    "",
+    "He brings up another tragedy: eighteen people died when the tower of Siloam fell. Again, He rejects the conclusion that those who died were more sinful than everyone else in Jerusalem.",
+    "",
+    "Both examples lead to the same warning for the hearers: they too must repent or perish. Jesus moves attention from ranking the victims to the response each listener needs to make before God.",
+    "",
+    "The passage gives these events as reported here without supplying a fuller account of the killings or the tower’s collapse. Its emphasis is on what the hearers should and should not conclude from them."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand Jesus as rejecting the assumption that exceptional suffering proves exceptional guilt. The Catholic bishops’ notes explain the tragedies as reminders of everyone’s need to repent, rather than a reason to single out the victims as worse sinners. ([USCCB note on Luke 13:1–5](https://bible.usccb.org/bible/luke/13); [Luke 13:1–5](https://biblehub.com/bsb/luke/13.htm))"
+  ],
+  "god_plan_lines": [
+    "John records a related encounter in which the disciples connect a man’s blindness with his sin or his parents’ sin. Jesus redirects them toward the work of God that will be displayed in him, then heals him. This is a parallel correction of an attempt to read a person’s standing before God directly from his suffering. ([John 9:1–7](https://biblehub.com/bsb/john/9.htm))",
+    "",
+    "Romans warns people who judge others not to imagine themselves beyond judgment. God’s kindness and patience are meant to lead them to repentance. The call Jesus gives here fits that wider purpose: the opportunity to turn to God is something to receive, rather than use to feel superior to someone else. ([Romans 2:1–5](https://biblehub.com/bsb/romans/2.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/13.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-thirteen-opening-review.md"
+  }
+}

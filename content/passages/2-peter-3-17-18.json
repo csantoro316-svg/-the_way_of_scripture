@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "2 Peter",
+    "citation": "3:17-18",
+    "label": "2 Peter 3:17-18",
+    "slug": "2-peter-3-17-18"
+  },
+  "section_title": "How do we stay steady and keep growing in Christ?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 Therefore, beloved, since you already know these things, be on your guard so that you will not be carried away by the error of the lawless and fall from your secure standing. 18 But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To Him be the glory both now and to the day of eternity. Amen."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Peter ends with both a warning and a direction for growth. His readers have been told about the danger ahead, so they should guard against being carried away by the error of lawless people. Their secure standing is something to protect.",
+    "",
+    "The closing direction is to grow in the grace and knowledge of Jesus Christ. This returns to the letter’s opening emphasis on knowing Him and receiving what He gives for a godly life. The final praise gives Christ glory now and forever."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/2_peter/3.htm) understands the warning as awakening believers to watchfulness while leaving their confidence in God’s promises intact. Growth in Christ is part of how they persevere. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-epistle-general-of-st-peter/) gives the closing call a stronger warning about the possibility of spiritual life declining toward death when growth and the putting away of sin are neglected. Both call for active growth, while differing over what a final failure to continue would mean."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 4:11–16](https://biblehub.com/bsb/ephesians/4.htm) describes Christ giving people to equip His church so that it grows toward maturity. That growth protects believers from being carried about by deceptive teaching and builds the whole body in love. Peter’s closing direction belongs within that larger purpose: people who know Christ increasingly learn to stand together under His care."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_peter/3.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-peter-three-review.md"
+  }
+}

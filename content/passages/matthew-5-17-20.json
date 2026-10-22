@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "5:17-20",
+    "label": "Matthew 5:17-20",
+    "slug": "matthew-5-17-20"
+  },
+  "section_title": "Fulfilling the Law and the Prophets",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 Do not think that I have come to abolish the Law or the Prophets. I have not come to abolish them, but to fulfill them. 18 For I tell you truly, until heaven and earth pass away, not a single jot, not a stroke of a pen, will disappear from the Law until everything is accomplished.",
+        "19 So then, whoever breaks one of the least of these commandments and teaches others to do likewise will be called least in the kingdom of heaven; but whoever practices and teaches them will be called great in the kingdom of heaven. 20 For I tell you that unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After the blessings and the call to be salt and light, Jesus explains His relationship to the Law and the Prophets. He has come to fulfill them. The following examples about anger, lust, truthfulness, retaliation, and love will show the seriousness of the righteousness He teaches.",
+    "",
+    "The Law and the Prophets point to Israel's Scriptures, not merely the regulations of one religious group. Jesus places His mission within what God has already given. His words prepare the hearers to understand His teaching as bringing that purpose to its fullness.",
+    "",
+    "Fulfill translates πληρόω, *plēroō* (play-ROH-oh). [Thayer's Greek Lexicon](https://biblehub.com/greek/4137.htm) explains its use here in terms of God's will being obeyed and His promises receiving fulfillment. The word links what God requires with what He has promised to accomplish.",
+    "",
+    "Jesus then speaks of the smallest written details. The jot points to the small Hebrew letter י, *yod* (YOHD), as [Thayer's entry on the smallest letter](https://biblehub.com/greek/2503.htm) explains. The stroke refers to a tiny mark distinguishing letters, according to [the entry on that written mark](https://biblehub.com/greek/2762.htm). His emphasis is the lasting seriousness of God's word down to its details.",
+    "",
+    "Practice and teaching belong together in verse 19. Jesus warns against weakening a command and encouraging others to do the same, and honors the one who practices and teaches it. He then says that entrance into the kingdom requires righteousness beyond that of the scribes and Pharisees. The rest of the sermon develops this concern with a life faithful to God from the heart."
+  ],
+  "common_interpretation_lines": [
+    "Historic Christian readings understand Jesus as fulfilling God's Scriptures, with obedience and grace held together. The [Catholic Catechism, paragraphs 577–582](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/article_4/paragraph_1_jesus_and_israel.html), emphasizes His perfect fulfillment and authoritative teaching, while the [Westminster Confession, chapter 19.3–7](https://www.opc.org/wcf.html), and [Methodist Articles of Religion, article VI](https://www.umc.org/en/content/articles-of-religion), distinguish continuing moral obedience from the older requirements for rituals and sacrifices."
+  ],
+  "god_plan_lines": [
+    "After His resurrection, Jesus explicitly describes His suffering, rising, and the proclamation of forgiveness as the fulfillment of Scripture. [Luke 24:25–27, 44–47](https://biblehub.com/bsb/luke/24.htm) brings Moses, the Prophets, and the Psalms together around that mission. The promise of fulfillment here reaches toward His completed work and its announcement to the nations.",
+    "",
+    "The New Testament also explains how earlier sacrifices point toward Him. [Hebrews 10:1–10](https://biblehub.com/bsb/hebrews/10.htm) calls them a shadow and identifies Jesus' self-offering as the effective act of obedience offered once for all. [Colossians 2:16–17](https://biblehub.com/bsb/colossians/2.htm) likewise directs attention from shadows to Christ. Fulfillment gives those earlier provisions their place in the story leading to Him.",
+    "",
+    "God's purpose also reaches the lives of those He saves. [Romans 3:21–26](https://biblehub.com/bsb/romans/3.htm) describes righteousness through faith in Christ, witnessed by the Law and the Prophets; [Romans 8:1–4](https://biblehub.com/bsb/romans/8.htm) connects God's action through His Son with a life directed by the Spirit. These passages hold rescue and renewed obedience together, rather than making outward religious standing sufficient."
+  ],
+  "current_position_lines": [
+    "Our study Is the Bible the Inerrant Word of God? understands Scripture as God's inspired and trustworthy word. It locates that authority in the original Hebrew and Greek texts and distinguishes them from later translation choices and human interpretations. That is the existing study's position on the authority of Scripture emphasized here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Is the Bible the Inerrant Word of God?",
+      "href": "../studies/inerrancy.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "position_source_detail": "Is the Bible the Inerrant Word of God? — Purpose and What Inerrancy Actually Means; authority/original-text position only",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-salt-and-fulfillment-review.md"
+  }
+}

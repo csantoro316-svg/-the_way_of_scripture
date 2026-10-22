@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "2 Peter",
+    "citation": "2:1-3",
+    "label": "2 Peter 2:1-3",
+    "slug": "2-peter-2-1-3"
+  },
+  "section_title": "What makes false teaching destructive?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Now there were also false prophets among the people, just as there will be false teachers among you. They will secretly introduce destructive heresies, even denying the Master who bought them—bringing swift destruction on themselves. 2 Many will follow in their depravity, and because of them the way of truth will be defamed. 3 In their greed, these false teachers will exploit you with deceptive words. The longstanding verdict against them remains in force, and their destruction does not sleep."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The warning follows the account of people speaking from God by the Holy Spirit. Just as false prophets appeared among God’s people in the past, false teachers will arise among the readers. The danger can come from within their own fellowship.",
+    "",
+    "Peter describes teaching that denies the Master who bought them. The [word for Master](https://biblehub.com/greek/1203.htm) emphasizes the authority of one to whom servants belong, and the [word for bought](https://biblehub.com/greek/59.htm) describes purchase. Their denial rejects His claim over their lives.",
+    "",
+    "The harm extends into conduct and relationships. Many follow their depravity, the way of truth is defamed, and greed turns deceptive teaching into a means of exploiting people. Peter warns that God’s verdict against such evil has not become idle."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/2_peter/2.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-epistle-general-of-st-peter/) both understand denial of the Master as reaching into conduct as well as teaching. Calvin especially connects it with turning redemption into permission for an immoral life.",
+    "",
+    "The words who bought them raise a further difference. Wesley understands Christ to have bought with His blood even people who finally perish. The Catholic [Catechism, 605](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/article_4/paragraph_2_jesus_died_crucified.html), also teaches that Christ died for every person without exception, although this does not make its whole account of salvation identical to Wesley’s.",
+    "",
+    "A Reformed reading in [Ligonier’s exposition](https://learn.ligonier.org/devotionals/false-prophets) understands being bought here as being brought into the visible church, without necessarily possessing saving faith. The [Westminster Confession, 3.6 and 8.8](https://www.opc.org/wcf.html), relates Christ’s saving redemption to those God elects and brings to salvation. This broader doctrinal difference helps explain why the same phrase receives different readings."
+  ],
+  "god_plan_lines": [
+    "[Acts 20:28–32](https://biblehub.com/bsb/acts/20.htm) joins care for the church purchased by Christ’s blood with a warning that people will arise from among its leaders and distort the truth. Paul entrusts the believers to God and the word of His grace, which builds them up and gives an inheritance.",
+    "",
+    "The warning therefore belongs within God’s care for the people He gathers through Christ. They are to be protected and built up by His truth rather than used for someone else’s gain."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_peter/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-peter-two-opening-review.md"
+  }
+}

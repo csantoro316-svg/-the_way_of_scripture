@@ -1,0 +1,8 @@
+# Acts 19 complete
+
+
+## Acts 19 complete — 2026-10-19
+
+One hundred reviewed pages cover701actualBSBversescontinuouslythrough19:41:100plans/43studypositions/57open.104sources/4unreviewedlegacy. SixfreshBSBchecksandeighttestspass;zeroerrors287knownwarnings. Source/index/standalone,preservation,canonicalnavigation,coverage,idempotence,allsix390pxreader/standalone andactualNextpass. Hostingdryrun/actualdeployexit0;tenaffectedandeightwholechapterlivefilesmatch.
+
+WholebaselinePDFreadthrough337:19A301–313/19B314–326complete;20lesson327–337through20:27read,338onwardunread. ActualBSB20notyetread;Calvin20/USCCB20fetchednotread. Unreviewedlegacy20:17/21:18/22:16/24:14. All-studysearch20findsWhoShepherdsline26explicit20:17/28,needreadfullsurroundingstudybeforeposition. Likelygroups1–6/7–12/13–16/17–27/28–38pluslegacy17. Directstudypositionsfor17–27/28–38/legacy17possible;restopen. NeedSunday/SabbathprimaryCatholic2174–2176/ReformedWCF21.7/Baptist22.7/Adventist20ifincludingactualdifferenceandprimaryLutheranAugsburg28sinceuniquedistinction. EutychusresurrectionparallelElijah/Elishareadactual1Kings17/2Kings4beforeusing. Baseline20:9secondfloorvactualBSBthird,John20logosaccountplayneedslexiconactualnotetymologyalone,exactshipplotthrowoverboardandmileage/travelspeed/motivesnotnarrated. No20draft. Telegramnormalmode;continuewithoutstopping.

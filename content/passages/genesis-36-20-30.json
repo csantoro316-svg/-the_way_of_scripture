@@ -11,7 +11,7 @@
       "label": "BSB",
       "paragraphs": [
         "20 These are the sons of Seir the Horite, who were living in the land: Lotan, Shobal, Zibeon, Anah, 21 Dishon, Ezer, and Dishan. They are the chiefs of the Horites, the descendants of Seir in the land of Edom.",
-        "22 The sons of Lotan were Hori and Hemam. Timna was Lotan\u2019s sister.",
+        "22 The sons of Lotan were Hori and Hemam. Timna was Lotan’s sister.",
         "23 These are the sons of Shobal: Alvan, Manahath, Ebal, Shepho, and Onam.",
         "24 These are the sons of Zibeon: Aiah and Anah. (This is the Anah who found the hot springs in the wilderness as he was pasturing the donkeys of his father Zibeon.)",
         "25 These are the children of Anah: Dishon and Oholibamah daughter of Anah.",
@@ -23,12 +23,25 @@
     }
   ],
   "context_lines": [
-    "In **Genesis 36**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "The family record now names the descendants of Seir the Horite, who were already living in the region associated with Edom. Their inclusion shows that the land's history did not begin with Esau's arrival. The passage names their families and chiefs alongside the preceding account of Esau's descendants.",
+    "",
+    "There are family links between the lists. Timna, identified here as Lotan's sister, appears earlier as Eliphaz's concubine and Amalek's mother. Anah and Oholibamah also appear in the surrounding family records. These connections help explain why the ancestry of Seir's people belongs in a chapter about Edom.",
+    "",
+    "The short note about Anah finding hot springs while pasturing donkeys preserves a remembered event within the genealogy. [Deuteronomy 2:12, 22](https://biblehub.com/bsb/deuteronomy/2.htm) later describes Esau's descendants displacing the Horites. Genesis here concentrates on naming the people and families involved, rather than giving a full account of that change."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Descendants of Seir** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 36** remains the first control on meaning."
+    "A common Christian reading treats this as background to Edom's settlement and its connections with the earlier inhabitants. [Wesley's note on Genesis 36:20](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) likewise reads the list alongside the later account in Deuteronomy. The main point is the relationship of these families to the land and to Esau's descendants."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/36.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-judah-and-joseph-review.md"
+  }
 }

@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "3:18-23",
+    "label": "1 Corinthians 3:18-23",
+    "slug": "1-corinthians-3-18-23"
+  },
+  "section_title": "Why stop boasting in people when all things are yours?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "18 Let no one deceive himself. If any of you thinks he is wise in this age, he should become a fool, so that he may become wise. 19 For the wisdom of this world is foolishness in God’s sight. As it is written: “He catches the wise in their craftiness.” 20 And again, “The Lord knows that the thoughts of the wise are futile.”",
+        "21 Therefore, stop boasting in men. All things are yours, 22 whether Paul or Apollos or Cephas or the world or life or death or the present or the future. All of them belong to you, 23 and you belong to Christ, and Christ belongs to God."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul warns against self-deception. Anyone who thinks himself wise by this age’s standards must be willing to be regarded as foolish in order to receive God’s wisdom. The challenge is to pride and misplaced confidence, rather than a command to stop thinking or learning.",
+    "",
+    "He draws on [Job 5:13](https://biblehub.com/bsb/job/5.htm) and [Psalm 94:11](https://biblehub.com/bsb/psalms/94.htm) to show how God exposes human cleverness and knows the limits of human thoughts. Those sources turn attention from our ability to outsmart others toward the God who knows and judges.",
+    "",
+    "Paul then reverses the Corinthians’ way of relating to their teachers. Instead of belonging to rival leaders, they receive the service of Paul, Apollos and Cephas as shared gifts. Even life, death, the present and the future are included in the assurance. They belong to Christ, and Christ belongs to God; their security and identity do not depend on winning a contest between human groups."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read these verses as ending the appeal to abandon pride in human leaders and recognize shared belonging to Christ. [Wesley’s notes on verses 21–23](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) understand the teachers as serving the believers, with present and future circumstances under God’s care, rather than granting permission to possess anything someone wants."
+  ],
+  "god_plan_lines": [
+    "[Romans 8:31–39](https://biblehub.com/bsb/romans/8.htm) gives a closely related assurance: God’s love in Christ holds His people through death, life, present circumstances and what is to come. Neither danger nor death can make Christ cease to love them.",
+    "",
+    "This connection shows how far the answer to pride in rival groups reaches. Belonging to Christ gives a hope larger than a teacher’s reputation or a congregation’s present status. Shared gratitude and trust can replace the effort to secure importance through a preferred human name."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/3.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-three-review.md"
+  }
+}

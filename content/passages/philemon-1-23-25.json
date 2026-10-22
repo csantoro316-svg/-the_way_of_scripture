@@ -5,25 +5,45 @@
     "label": "Philemon 1:23-25",
     "slug": "philemon-1-23-25"
   },
-  "section_title": "Additional Greetings",
+  "section_title": "Who joins Paul in his final greeting?",
   "versions": [
     {
       "label": "BSB",
-      "text": "Epaphras, my fellow prisoner in Christ Jesus, sends you greetings, as do Mark, Aristarchus, Demas, and Luke, my fellow workers. The grace of the Lord Jesus Christ be with your spirit."
+      "paragraphs": [
+        "23 Epaphras, my fellow prisoner in Christ Jesus, sends you greetings, 24 as do Mark, Aristarchus, Demas, and Luke, my fellow workers. 25 The grace of the Lord Jesus Christ be with your spirit."
+      ]
     }
   ],
   "context_lines": [
-    "The closing reminds the reader that this appeal stands within the shared life of gospel laborers, not merely an isolated exchange between two men."
+    "Paul closes by naming the people who send greetings with him. Epaphras is called his fellow prisoner in Christ Jesus. Mark, Aristarchus, Demas and Luke are named as fellow workers.",
+    "",
+    "The names show that the appeal comes from within a wider circle of Christian relationships. Paul ends where he began: with the grace of Jesus Christ. After such a personal request, the final blessing includes the community addressed at the start of the letter."
   ],
   "common_interpretation_lines": [
-    "Paul ends by surrounding the letter with names, fellowship, and grace. The reconciliation he seeks is not abstract. It belongs inside the actual network of believers serving Christ together.",
+    "These verses are generally read as greetings and a closing blessing. The [USCCB notes](https://bible.usccb.org/bible/philemon/1) connect the named workers with their appearances in Colossians, Acts and 2 Timothy. Those links help identify the people, but the greeting itself does not describe their later lives or the result of the appeal.",
     "",
-    "The final word is fitting: **grace**. That is the atmosphere of the whole letter, and without it the appeal Paul makes would collapse."
+    "[Calvin](https://biblehub.com/commentaries/calvin/philemon/1.htm) draws a warning about perseverance from Demas’s later desertion in [2 Timothy 4:10](https://biblehub.com/bsb/2_timothy/4.htm). That is a connection with another letter, rather than something Philemon’s closing greeting says has already happened. Here Demas is still included among Paul’s fellow workers."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
   ],
   "deeper_study": [
     {
-      "title": "The True Church According to Jesus",
+      "title": "What Is the True Church?",
       "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/philemon/1.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-philemon-closing-review.md"
+  }
 }

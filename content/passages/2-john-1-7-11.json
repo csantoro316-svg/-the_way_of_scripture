@@ -5,25 +5,35 @@
     "label": "2 John 1:7-11",
     "slug": "2-john-1-7-11"
   },
-  "section_title": "Beware of Deceivers",
+  "section_title": "When does welcoming a teacher support a lie?",
   "versions": [
     {
       "label": "BSB",
-      "text": "For many deceivers have gone out into the world, refusing to confess the coming of Jesus Christ in the flesh. Any such person is the deceiver and the antichrist. Watch yourselves, so that you do not lose what we have worked for, but that you may be fully rewarded. Anyone who runs ahead without remaining in the teaching of Christ does not have God. Whoever remains in His teaching has both the Father and the Son. If anyone comes to you but does not bring this teaching, do not receive him into your home or even greet him. Whoever greets such a person shares in his evil deeds."
+      "paragraphs": [
+        "7 For many deceivers have gone out into the world, refusing to confess the coming of Jesus Christ in the flesh. Any such person is the deceiver and the antichrist. 8 Watch yourselves, so that you do not lose what we have worked for, but that you may be fully rewarded. 9 Anyone who runs ahead without remaining in the teaching of Christ does not have God. Whoever remains in His teaching has both the Father and the Son.",
+        "10 If anyone comes to you but does not bring this teaching, do not receive him into your home or even greet him. 11 Whoever greets such a person shares in his evil deeds."
+      ]
     }
   ],
   "context_lines": [
-    "This is the warning center of the letter. John is not addressing minor disagreement, but Christological deviation tied to active deception and communal danger."
+    "The reason for the warning now becomes explicit: deceivers refuse to confess Jesus Christ’s coming in the flesh. John calls such a person the deceiver and the antichrist. In this sentence the description applies to the person promoting that denial; the passage gives no name or date for a future world ruler.",
+    "",
+    "The readers must watch themselves, hold to Christ’s teaching and seek a full reward. The person who runs ahead without remaining in that teaching does not have God. Claiming to advance beyond the received teaching is therefore no proof of spiritual maturity.",
+    "",
+    "The command against receiving or greeting such a teacher is tied to sharing in that person’s evil work. The issue is how a welcome can help teaching spread. [Third John 5–8](https://biblehub.com/bsb/3_john/1.htm) supplies the positive counterpart: supporting faithful messengers makes believers fellow workers for the truth."
   ],
   "common_interpretation_lines": [
-    "A common interpretation of this passage is that John is drawing a boundary around core apostolic Christology. The issue is not personal preference or secondary disagreement, but denial of the true coming of Christ in the flesh.",
+    "The Catholic Church and Reformed confessions affirm that Christ truly became human while remaining truly God; see [Catechism 464–465](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/artcile_3.html) and [Westminster Confession 8.2](https://www.opc.org/wcf.html). The denial described in verse 7 concerns that real coming in the flesh.",
     "",
-    "Verses 10-11 are often misunderstood as a ban on ordinary courtesy toward any non-Christian. More commonly, interpreters understand the warning as directed against granting ministry welcome, endorsement, or platform to a false teacher."
+    "Readers differ over how to understand not having God in verse 9. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-epistle-of-st-john/) treats it as not having God as one’s Father and God. The [USCCB note](https://bible.usccb.org/bible/2john/1) connects fellowship with God to holding the teaching about Christ. A Free Grace reading presented by the [Grace Evangelical Society](https://faithalone.org/radio/what-does-does-not-have-god-mean-in-2-john-9/) understands the warning as loss of fellowship and God’s support in a believer’s work, while distinguishing that from loss of eternal life. That is this organization’s reading, rather than the position of all evangelicals.",
+    "",
+    "Wesley understands the forbidden greeting as encouragement of the teacher’s work; the Grace Evangelical Society likewise distinguishes supporting a traveling teacher from ordinary conversation. The USCCB note describes a more complete avoidance of dangerous traveling teachers. These explanations differ in how widely the restriction applies, while sharing the concern that hospitality can assist deception."
+  ],
+  "god_plan_lines": [
+    "[John 1:1–5, 14–18](https://biblehub.com/bsb/john/1.htm) identifies the Word as God and describes the Word becoming flesh and making the Father known. The letter’s warning protects that revelation of who Jesus is. The truth about His real human life belongs to how God has made Himself known, rather than being an optional detail that a teacher can discard."
   ],
   "current_position_lines": [
-    "This site's current position is that **2 John 1:7-11** shows the church must have real doctrinal boundaries. Love does not require platforming or endorsing those who deny core apostolic truth about Christ.",
-    "",
-    "The command is not a ban on ordinary human kindness. It is a refusal to participate in or legitimize false teaching in the life of the church."
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
   ],
   "deeper_study": [
     {
@@ -33,6 +43,24 @@
     {
       "title": "The True Church According to Jesus",
       "href": "../studies/true-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_john/1.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-short-john-review.md"
+  }
 }

@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "8:1-8",
+    "label": "Acts 8:1-8",
+    "slug": "acts-8-1-8"
+  },
+  "section_title": "How does persecution carry the message beyond Jerusalem?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 And Saul was there, giving approval to Stephen’s death. On that day a great persecution broke out against the church in Jerusalem, and all except the apostles were scattered throughout Judea and Samaria. 2 God-fearing men buried Stephen and mourned deeply over him. 3 But Saul began to destroy the church. Going from house to house, he dragged off men and women and put them in prison.",
+        "4 Those who had been scattered preached the word wherever they went. 5 Philip went down to a city in Samaria and proclaimed the Christ to them. 6 The crowds all paid close attention to Philip’s message and to the signs they saw him perform. 7 With loud shrieks, unclean spirits came out of many who were possessed, and many of the paralyzed and lame were healed. 8 So there was great joy in that city."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Saul approves of Stephen’s death, and severe persecution breaks out against the Jerusalem church. Believers scatter through Judea and Samaria, while the apostles remain. God-fearing men bury Stephen and mourn him, while Saul enters homes and imprisons both men and women.",
+    "",
+    "Those who scatter continue proclaiming the word. Their departure is more than a change of address: the message goes with them. Philip travels to a city in Samaria and proclaims the Christ. [Acts 21:8](https://biblehub.com/bsb/acts/21.htm) later identifies this Philip as the evangelist who was one of the Seven.",
+    "",
+    "The crowds attend to his message and the signs that accompany it. People troubled by unclean spirits are delivered, and people who were paralyzed or lame are healed. The scene ends with great joy in the city, following the grief and violence described at its beginning."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the scattering as a major step in the message’s movement beyond Jerusalem, through believers who continue speaking about Jesus. [Wesley on verse 4](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) connects this account with the later continuation of the scattered believers’ witness in Acts 11:19."
+  ],
+  "god_plan_lines": [
+    "Jesus named Judea and Samaria in the commission recorded in [Acts 1:8](https://biblehub.com/bsb/acts/1.htm). Those are the very regions named in the scattering here. Opposition to the witnesses becomes part of the circumstances through which the message reaches the next places.",
+    "",
+    "The suffering remains real: Stephen is mourned, and men and women are imprisoned. The spread of the word does not make that violence good. It shows that the attempt to silence the message has not brought God’s purpose to an end."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/8.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-eight-review.md"
+  }
+}

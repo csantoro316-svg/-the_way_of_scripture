@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "9:24-34",
+    "label": "John 9:24-34",
+    "slug": "john-9-24-34"
+  },
+  "section_title": "How does the healed man answer pressure to deny what happened?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "24 So a second time they called for the man who had been blind and said, “Give glory to God! We know that this man is a sinner.” 25 He answered, “Whether He is a sinner I do not know. There is one thing I do know: I was blind, but now I see!” 26 “What did He do to you?” they asked. “How did He open your eyes?” 27 He replied, “I already told you, and you did not listen. Why do you want to hear it again? Do you also want to become His disciples?” 28 Then they heaped insults on him and said, “You are His disciple; we are disciples of Moses. 29 We know that God spoke to Moses, but we do not know where this man is from.”",
+        "30 “That is remarkable indeed!” the man said. “You do not know where He is from, and yet He opened my eyes. 31 We know that God does not listen to sinners, but He does listen to the one who worships Him and does His will. 32 Never before has anyone heard of opening the eyes of a man born blind. 33 If this man were not from God, He could do no such thing.” 34 They replied, “You were born in utter sin, and you are instructing us?” And they threw him out."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The questioners call the man back and urge him to give glory to God while declaring that Jesus is a sinner. The phrase is a serious call to tell the truth, not simply an invitation to sing praise. [Joshua 7:19–21](https://biblehub.com/bsb/joshua/7.htm) uses the same appeal when Joshua asks Achan to confess what he has done. Here the pressure is to accept the questioners’ conclusion about Jesus.",
+    "",
+    "The man keeps returning to the fact he knows: he was blind and now sees. When they ask him to repeat the details, he challenges whether they have listened and asks whether they also want to become Jesus’ disciples. They answer with insults and appeal to Moses. Their claimed knowledge of Jesus’ supposed sinfulness sits beside their admission that they do not know where He comes from.",
+    "",
+    "The man reasons that such a healing points to God’s work through Jesus. Verse 31 is part of that reasoning: God listens to the person who honors Him and does His will. It should be read within this discussion of whether Jesus is acting against God, rather than made into a rule that God never hears a sinner asking for mercy. Jesus’ own account of the repentant tax collector in [Luke 18:9–14](https://biblehub.com/bsb/luke/18.htm) shows why that broader conclusion would be mistaken.",
+    "",
+    "They end by accusing the man of having been born in utter sin and throwing him out. The accusation returns to the kind of blame Jesus rejected at the beginning. Their action removes the witness from their presence, but it does not undo his sight or answer his testimony."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly emphasize the man’s courage in holding to what Jesus has done and the questioners’ refusal to receive his testimony. On verse 31, [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) specifically distinguishes unrepentant sinners and this kind of answered prayer, while [Calvin](https://biblehub.com/commentaries/calvin/john/9.htm) stresses sincere prayer offered in faith; neither treats sinful behavior as an obstacle that people can never turn from."
+  ],
+  "god_plan_lines": [
+    "The man’s testimony anticipates a pattern seen as the gospel spreads. In [Acts 4:13–20](https://biblehub.com/bsb/acts/4.htm), Peter and John stand before authorities after a healing, face an order to stop speaking about Jesus, and hold to what they have seen and heard. This is a parallel, not a claim that the two encounters are identical.",
+    "",
+    "God’s work is made known through witnesses who do not control the response to their message. Here a man with growing knowledge of Jesus can still speak truthfully about what he has received. His testimony leads the story toward a fuller encounter with Christ, rather than ending with the authorities’ verdict."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/9.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-nine-review.md"
+  }
+}

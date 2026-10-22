@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "16:5-12",
+    "label": "Matthew 16:5-12",
+    "slug": "matthew-16-5-12"
+  },
+  "section_title": "Learning to Recognize Harmful Teaching",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 When they crossed to the other side, the disciples forgot to take bread. 6 “Watch out!” Jesus told them. “Beware of the leaven of the Pharisees and Sadducees.” 7 They discussed this among themselves and concluded, “It is because we did not bring any bread.” 8 Aware of their conversation, Jesus said, “You of little faith, why are you debating among yourselves about having no bread?",
+        "9 Do you still not understand? Do you not remember the five loaves for the five thousand, and how many basketfuls you gathered? 10 Or the seven loaves for the four thousand, and how many basketfuls you gathered? 11 How do you not understand that I was not telling you about bread? But beware of the leaven of the Pharisees and Sadducees.” 12 Then they understood that He was not telling them to beware of the leaven used in bread, but of the teaching of the Pharisees and Sadducees."
+      ]
+    }
+  ],
+  "context_lines": [
+    "On the crossing, the disciples have forgotten to take bread. Jesus warns them about the leaven of the Pharisees and Sadducees, and they assume He is talking about their missing food. Their immediate concern prevents them from understanding the warning.",
+    "",
+    "Leaven is ζύμη, *zymē* (DZOO-may), the yeast or ferment that works through dough. [Thayer's entry](https://biblehub.com/greek/2219.htm) explains its figurative use for an influence that spreads. Matthew gives the meaning here in verse 12: Jesus is warning about the groups' teaching.",
+    "",
+    "Jesus calls their faith little and reminds them of both large feedings and the baskets left over. Remembering His provision should help them see that a shortage of bread is not the point of His warning. The events they have witnessed are meant to shape how they listen to Him now.",
+    "",
+    "The passage ends with the disciples understanding. [Mark 8:14–21](https://biblehub.com/bsb/mark/8.htm) gives a related conversation that presses the same questions about seeing, hearing, and remembering. Jesus is training His followers to look beyond their immediate worry and recognize what is shaping their understanding."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a warning that harmful teaching can spread and that disciples need to understand Jesus rather than remain absorbed in immediate needs. [Wesley on Matthew 16:6–11](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) explains leaven through the spread of false teaching, and the [US Catholic bishops' notes on 16:7–12](https://bible.usccb.org/bible/matthew/16) likewise emphasize the disciples' misunderstanding and eventual recognition."
+  ],
+  "god_plan_lines": [
+    "The work of forming a faithful people includes guarding what they receive as truth. In [Galatians 5:1–13](https://biblehub.com/bsb/galatians/5.htm), Paul warns about teaching that draws people away from the freedom given through Christ. He uses the same picture of a little leaven spreading through a whole batch.",
+    "",
+    "That is a related use of the image, rather than a claim that Paul is addressing the identical group of teachers. He joins the warning with a positive purpose: faith expressing itself through love, and freedom used to serve others. Sound teaching matters because it shapes trust in Christ and the life His people share."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/16.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-sixteen-opening-review.md"
+  }
+}

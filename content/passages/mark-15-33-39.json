@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "15:33-39",
+    "label": "Mark 15:33-39",
+    "slug": "mark-15-33-39"
+  },
+  "section_title": "What does Jesus’ death reveal?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "33 From the sixth hour until the ninth hour darkness came over all the land. 34 At the ninth hour, Jesus cried out in a loud voice, “Eloi, Eloi, lema sabachthani?” which means, “My God, My God, why have You forsaken Me?” 35 When some of those standing nearby heard this, they said, “Behold, He is calling Elijah.” 36 And someone ran and filled a sponge with sour wine. He put it on a reed and held it up for Jesus to drink, saying, “Leave Him alone. Let us see if Elijah comes to take Him down.” 37 But Jesus let out a loud cry and breathed His last.",
+        "38 And the veil of the temple was torn in two from top to bottom. 39 When the centurion standing there in front of Jesus saw how He had breathed His last, he said, “Truly this man was the Son of God!”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Darkness covers the land from the sixth hour to the ninth. Jesus cries out in the opening words of Psalm 22, and Mark translates the cry for his readers. The psalm gives voice to deep suffering and the question of why God seems far away; it also continues toward an answer and praise among the nations. We should hear the real anguish of the opening without forgetting the rest of the psalm. ([Psalm 22:1–5, 19–31](https://biblehub.com/bsb/psalms/22.htm))",
+    "",
+    "Some bystanders interpret the cry as a call for Elijah. Someone offers sour wine, and the scene continues with talk of waiting to see whether Elijah will take Him down. Jesus gives a loud cry and dies. Mark then records the temple curtain tearing from top to bottom and a centurion recognizing Him as the Son of God.",
+    "",
+    "The centurion’s words answer the question running through the Gospel: who is Jesus? Mark connects his response with the way Jesus dies. It does not say that the officer can see the temple curtain from his place at the cross or give the full story of his later faith."
+  ],
+  "common_interpretation_lines": [
+    "Christian traditions generally hear genuine anguish in this prayer and connect Jesus’ suffering with salvation. The Reformed Heidelberg Catechism emphasizes suffering that delivers others from judgment, while the Catholic Catechism explains that He bears sinners’ distance from God without ceasing to be united with His Father in love. ([Heidelberg Catechism, question 44](https://www.rca.org/about/theology/creeds-and-confessions/the-heidelberg-catechism/); [Catechism 603](https://www.vatican.va/archive/ENG0015/__P1O.HTM))",
+    "",
+    "The torn curtain is often understood as marking access to God through Jesus’ death. The Catholic study notes on the parallel scene also consider a warning of judgment on the temple; they acknowledge uncertainty about the curtain’s identity rather than making the architecture certain. ([USCCB, note on Matthew 27:51–53](https://bible.usccb.org/bible/matthew/27))"
+  ],
+  "god_plan_lines": [
+    "A striking parallel joins the beginning and end of Mark’s account. At Jesus’ baptism, the heavens break open and the Father identifies His Son; at His death, the curtain tears and a Roman officer identifies Him as God’s Son. Mark uses the same Greek verb, σχίζω (schizō, SKHEE-zoh), meaning split or tear, in both scenes. The repeated wording and declarations help frame the story around the identity of the Son who gives His life. ([Mark 1:9–11](https://biblehub.com/bsb/mark/1.htm); [Thayer, σχίζω](https://biblehub.com/greek/4977.htm))",
+    "",
+    "Hebrews explains the wider saving result through the language of access: Jesus’ blood opens a new and living way into God’s presence. Those who belong to Him are called to draw near, hold firmly to hope, and encourage one another in love and good deeds. His death forms a people who can approach God together through their great priest. ([Hebrews 9:1–10](https://biblehub.com/bsb/hebrews/9.htm); [Hebrews 10:19–25](https://biblehub.com/bsb/hebrews/10.htm))"
+  ],
+  "current_position_lines": [
+    "What Does Prayer Look Like? reads Jesus’ cry as honest prayer in the midst of suffering. He brings the full weight of His experience before God without pretending that the anguish is less than it is. The study takes this as a model for bringing grief to God without treating such honesty as unfaithfulness. This supplies our position on the prayer; it does not decide every explanation of the darkness, the curtain, or how His suffering accomplishes salvation."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/15.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-mark-fifteen-closing-review.md",
+    "position_source_detail": "What Does Prayer Look Like?, section 2, My God, Why Have You Forsaken Me — Matthew 27:46 / Psalm 22:1. Same cry and event as Mark15:34; limited to prayer."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "1 Timothy",
+    "citation": "6:20-21",
+    "label": "1 Timothy 6:20-21",
+    "slug": "1-timothy-6-20-21"
+  },
+  "section_title": "What has Timothy been entrusted to guard?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "20 O Timothy, guard what has been entrusted to you. Avoid irreverent, empty chatter and the opposing arguments of so-called “knowledge,” 21 which some have professed and thus swerved away from the faith. Grace be with you all."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The letter ends with a personal appeal to Timothy to guard what has been entrusted to him. That charge gathers up the letter’s concern for faithful teaching and a life that agrees with it.",
+    "",
+    "The Greek word [paratheke](https://biblehub.com/greek/3866.htm) (par-ah-THAY-kay) means a deposit or something placed in another’s care. Timothy is responsible for preserving what he has received, rather than replacing it with impressive claims to knowledge that lead away from the faith.",
+    "",
+    "Paul ends with grace for them all. The work of guarding and teaching belongs within dependence on God’s grace, even in this firmly worded closing."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-timothy/) relates the trust to the charge already given to Timothy. [Calvin](https://biblehub.com/commentaries/calvin/1_timothy/6.htm) emphasizes the grace and gifts entrusted to him for ministry. Both read the warning as a call to preserve faithful ministry and reject empty teaching that damages the church. The charge includes a responsibility to pass on what is sound, rather than to pursue controversy for its own sake."
+  ],
+  "god_plan_lines": [
+    "[2 Timothy 1:13–14](https://biblehub.com/bsb/2_timothy/1.htm) returns to this trust, joining sound teaching with faith and love and telling Timothy to guard it with the Holy Spirit’s help. That is a direct connection within the New Testament.",
+    "",
+    "The wider purpose is the faithful passing on of the gospel. In [2 Timothy 2:1–2](https://biblehub.com/bsb/2_timothy/2.htm), Timothy is to entrust what he has heard to reliable people who can teach others. Guarding the message serves its continued life in God’s people."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_timothy/6.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-timothy-six-review.md"
+  }
+}

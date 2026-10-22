@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "2:36-46",
+    "label": "1 Kings 2:36-46",
+    "slug": "1-kings-2-36-46"
+  },
+  "section_title": "Why is Shimei executed after leaving Jerusalem?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "36 Then the king summoned Shimei and said to him, “Build a house for yourself in Jerusalem and live there, but do not go anywhere else. 37 On the day you go out and cross the Kidron Valley, know for sure that you will die; your blood will be on your own head.” 38 “The sentence is fair,” Shimei replied. “Your servant will do as my lord the king has spoken.” And Shimei lived in Jerusalem for a long time.",
+        "39 After three years, however, two of Shimei’s slaves ran away to Achish son of Maacah, king of Gath. And Shimei was told, “Look, your slaves are in Gath.” 40 So Shimei saddled his donkey and set out to Achish at Gath in search of his slaves, and he brought them back from Gath. 41 When Solomon was told that Shimei had gone from Jerusalem to Gath and had returned, 42 the king summoned Shimei and said to him, “Did I not make you swear by the LORD and warn you, ‘On the day you leave and go elsewhere, know for sure that you will die’? And you told me, ‘The sentence is fair; I will comply.’ 43 So why have you not kept your oath to the LORD and the command that I gave you?”",
+        "44 The king also said, “You know in your heart all the evil that you did to my father David. Therefore the LORD will bring your evil back upon your head. 45 But King Solomon will be blessed and David’s throne will remain secure before the LORD forever.” 46 Then the king commanded Benaiah son of Jehoiada, and he went out and struck Shimei down, and he died. Thus the kingdom was firmly established in the hand of Solomon."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Solomon requires Shimei to live in Jerusalem and not go elsewhere, warning him about leaving and crossing the Kidron Valley. Shimei accepts the terms and remains in the city.",
+    "",
+    "Three years later, two of his slaves flee to Gath. Shimei goes there and brings them back. Solomon summons him, recalls the restriction and oath, and asks why he has disobeyed.",
+    "",
+    "Solomon also recalls Shimei’s earlier treatment of David and orders his execution. Benaiah kills him. The chapter closes by saying that the kingdom is firmly established in Solomon’s hand."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) reads the restriction as general: Shimei is not to leave Jerusalem for any destination. On that reading, the named Kidron crossing does not limit the command to one route. [Gill](https://biblehub.com/commentaries/gill/1_kings/2.htm) understands the breach as disobedience to the king and violation of the oath.",
+    "",
+    "The [USCCB notes](https://bible.usccb.org/bible/1kings/2) question Solomon’s justification. They read the explicit death warning as tied to crossing the Kidron and observe that the earlier conversation does not expressly record Shimei taking an oath. They understand the old offense against David as the real reason for the execution.",
+    "",
+    "These readings differ over the force of the original warning and Solomon’s later account of it. The narrative records the removal of another threat to the throne; assessing the fairness of the act requires attention to those details."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/2.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-two-review.md"
+  }
+}

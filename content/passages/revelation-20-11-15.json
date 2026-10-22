@@ -1,0 +1,69 @@
+{
+  "reference": {
+    "book": "Revelation",
+    "citation": "20:11-15",
+    "label": "Revelation 20:11-15",
+    "slug": "revelation-20-11-15"
+  },
+  "section_title": "What is revealed at the great white throne?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "11 Then I saw a great white throne and the One seated on it. Earth and heaven fled from His presence, and no place was found for them. 12 And I saw the dead, great and small, standing before the throne. And books were opened, and one of them was the Book of Life. And the dead were judged according to their deeds, as recorded in the books. 13 The sea gave up its dead, and Death and Hades gave up their dead, and each one was judged according to his deeds.",
+        "14 Then Death and Hades were thrown into the lake of fire. This is the second death—the lake of fire. 15 And if anyone was found whose name was not written in the Book of Life, he was thrown into the lake of fire."
+      ]
+    }
+  ],
+  "context_lines": [
+    "John sees a great white throne and the One seated on it. Earth and heaven flee from His presence, and no place is found for them. The scene brings the dead, great and small alike, before the throne. Social standing gives no exemption from this judgment.",
+    "",
+    "Books are opened, including the Book of Life. The dead are judged according to their deeds, recorded in the books. John names the Book of Life but does not give titles for the other books. Both the record of deeds and the presence or absence of a name in the Book of Life belong to the description.",
+    "",
+    "The sea, Death and Hades give up their dead. Hades is the Greek name used here for the realm of the dead; [Thayer’s entry](https://biblehub.com/greek/86.htm) also notes its portrayal as a power in this verse. The vision presents Death and Hades as giving up those they held, then being thrown into the lake of fire themselves.",
+    "",
+    "The lake of fire is identified as the second death. Anyone whose name is not found written in the Book of Life is thrown into it. The chapter ends with judgment and the removal of Death and Hades; the next scene reveals a new heaven and earth where death will be no more."
+  ],
+  "common_interpretation_lines": [
+    "The main readings understand this as the final judgment, though they differ over who is standing in this particular scene. The Catholic [Catechism 1038–1040](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_three/article_12/v_the_last_judgment.html) and the Reformed [Westminster Confession 33.1](https://www.opc.org/wcf.html) describe a final judgment of all people. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-revelation-of-jesus-christ/) likewise reads John’s vision as including every age and condition.",
+    "",
+    "[Walvoord](https://swartzentrover.com/cotor/E-Books/holiness/Walvoord/Revelation/Rev_20.htm) understands those judged here as the unbelieving dead, with the righteous already raised and rewarded before the thousand years. That conclusion depends on his reading of the first resurrection and the sequence of judgments. John’s wording identifies the assembled people as the dead, great and small, and states the consequence for anyone absent from the Book of Life.",
+    "",
+    "The books are commonly understood as expressing God’s complete knowledge and the justice of His judgment. Wesley connects them with God’s knowledge, conscience and the standards God has made known. These explanations develop the picture; John’s own account emphasizes that people are judged according to their deeds and that nothing held by the sea, Death or Hades remains beyond the judgment."
+  ],
+  "god_plan_lines": [
+    "The court and opened books recall [Daniel 7:9–14](https://biblehub.com/bsb/daniel/7.htm), where judgment answers the arrogance of a beastly power and dominion belongs to the Son of Man. [John 5:24–29](https://biblehub.com/bsb/john/5.htm) connects resurrection and judgment with the Son’s authority. Revelation’s scene belongs within that larger account of God bringing human history before His judgment.",
+    "",
+    "The judgment according to deeds also appears in [Romans 2:5–11](https://biblehub.com/bsb/romans/2.htm). Paul joins it with God’s impartiality. Great and small standing before the throne gives a vivid picture of that same accountability.",
+    "",
+    "The removal of Death and Hades reaches beyond the punishment of individual wrongs. [1 Corinthians 15:20–28](https://biblehub.com/bsb/1_corinthians/15.htm) names death as the last enemy to be destroyed. Here even the powers that held the dead are brought to an end. The promise of no more death in [Revelation 21:1–4](https://biblehub.com/bsb/revelation/21.htm) follows directly from that victory."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/revelation/20.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-revelation-twenty-rest-review.md"
+  }
+}

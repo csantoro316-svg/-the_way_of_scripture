@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "11:27-30",
+    "label": "Acts 11:27-30",
+    "slug": "acts-11-27-30"
+  },
+  "section_title": "How do the Antioch believers respond to the coming famine?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "27 In those days some prophets came down from Jerusalem to Antioch. 28 One of them named Agabus stood up and predicted through the Spirit that a great famine would sweep across the whole world. (This happened under Claudius.) 29 So the disciples, each according to his ability, decided to send relief to the brothers living in Judea. 30 This they did, sending their gifts to the elders with Barnabas and Saul."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Prophets come from Jerusalem to Antioch, and Agabus predicts through the Spirit that a great famine is coming. Luke adds that it happened under Claudius. The [BSB footnote](https://biblehub.com/bsb/acts/11.htm) gives the entire Roman world as an alternative rendering of the scope of the warning.",
+    "",
+    "An independent ancient account also describes severe hunger in Judea. [Josephus, Antiquities 20.2.5 and 20.5.2](https://penelope.uchicago.edu/Josephus/ant-20.html), records famine relief supplied by Queen Helena and her son. That provides historical context for Judea’s need; it does not establish a simultaneous shortage in every part of the globe.",
+    "",
+    "The disciples decide to help according to what each can provide. Their concern becomes an actual contribution for the believers in Judea, entrusted to Barnabas and Saul for delivery to the elders. Luke puts the emphasis on the response to the warning, not on a detailed explanation of how Agabus received it."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as practical care for fellow believers: a warning about hardship leads to generous action according to each person’s means. [Wesley on verses 28–29](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) emphasizes the disciples’ response to the distress the Judean believers would face."
+  ],
+  "god_plan_lines": [
+    "The welcome of Gentile believers is becoming a relationship of shared responsibility. The Antioch community is not merely receiving news and teaching from Judea; it sends material help back to believers there.",
+    "",
+    "A similar principle appears in a later, different collection described in [Romans 15:25–27](https://biblehub.com/bsb/romans/15.htm). Paul connects Gentile participation in spiritual blessings with care for the material needs of believers in Jerusalem. That later explanation provides a useful biblical connection without identifying the two collections as the same event."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/11.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-eleven-review.md"
+  }
+}

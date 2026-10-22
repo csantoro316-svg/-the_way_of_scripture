@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "15:23-24",
+    "label": "1 Kings 15:23-24",
+    "slug": "1-kings-15-23-24"
+  },
+  "section_title": "What final note closes Asa’s reign?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "23 Now the rest of the acts of Asa, along with all his might, all his accomplishments, and the cities he built, are they not written in the Book of the Chronicles of the Kings of Judah? In his old age, however, he became diseased in his feet. 24 And Asa rested with his fathers and was buried with them in the city of his father David, and his son Jehoshaphat reigned in his place."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The narrator refers to the royal records for Asa’s other accomplishments, his strength and the cities he built. Alongside those achievements comes a personal detail: in old age he becomes diseased in his feet.",
+    "",
+    "Asa dies and is buried in the City of David. His son Jehoshaphat succeeds him. The brief notice closes a long reign without removing either its good work or its weaknesses."
+  ],
+  "common_interpretation_lines": [
+    "[Gill](https://biblehub.com/commentaries/gill/1_kings/15.htm) connects the illness with the fuller account in [2 Chronicles 16:12–14](https://biblehub.com/bsb/2_chronicles/16.htm). Chronicles says that even then Asa did not seek the LORD, but relied only on physicians.",
+    "",
+    "The concern is the absence of seeking God, continuing the issue raised by his alliance with Aram. The account does not identify the disease in medical terms or promise that a different response would necessarily have brought physical recovery."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/15.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-fifteen-review.md"
+  }
+}

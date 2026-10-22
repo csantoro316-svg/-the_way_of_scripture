@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "4:23-25",
+    "label": "Matthew 4:23-25",
+    "slug": "matthew-4-23-25"
+  },
+  "section_title": "Teaching, Healing, and Growing Crowds",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "23 Jesus went throughout Galilee, teaching in their synagogues, preaching the gospel of the kingdom, and healing every disease and sickness among the people.",
+        "24 News about Him spread all over Syria, and people brought to Him all who were ill with various diseases, those suffering acute pain, the demon-possessed, those having seizures, and the paralyzed, and He healed them. 25 Large crowds followed Him, having come from Galilee, the Decapolis, Jerusalem, Judea, and beyond the Jordan."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Matthew gathers Jesus' early Galilean ministry into three activities: teaching, announcing the good news of the kingdom, and healing. His message and acts of mercy belong together. News spreads, suffering people are brought to Him, and crowds arrive from Galilee and surrounding regions, including Jerusalem, Judea, and beyond the Jordan.",
+    "",
+    "Gospel translates εὐαγγέλιον, *euangelion* (yoo-ang-GHEL-ee-on), good news. [Thayer's Greek Lexicon](https://biblehub.com/greek/2098.htm) specifically identifies the kingdom message in Matthew 4:23. Here the good news announces God's coming rule through Jesus; the story has not yet reached His death and resurrection, through which that saving work will unfold.",
+    "",
+    "Synagogues are the Jewish gathering places where He teaches. The name comes from the Greek συναγωγή, *synagōgē* (soo-nah-go-GAY), an assembly or its meeting place, as [Thayer's Greek Lexicon](https://biblehub.com/greek/4864.htm) explains. Matthew places Jesus' teaching within the life of Israel, while the report of Him spreads outward.",
+    "",
+    "The list of suffering includes diseases, severe pain, demonic oppression, seizures, and paralysis. Matthew shows the breadth of Jesus' help, without treating all illness as the same condition. The gathering crowds lead directly into [Matthew 5:1–2](https://biblehub.com/bsb/matthew/5.htm), where Jesus begins the teaching commonly called the Sermon on the Mount."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the healings as acts of compassion and signs of Jesus' authority, joined to the announcement of God's kingdom. The [Catholic Catechism, paragraphs 547–550](https://www.vatican.va/archive/ENG0015/__P1L.HTM), describes them as signs inviting faith and liberation from evil; [Wesley's notes on Matthew 4:23–24](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) likewise read the proclamation as good news accompanied by help for suffering people."
+  ],
+  "god_plan_lines": [
+    "The same pattern returns in [Matthew 9:35–38](https://biblehub.com/bsb/matthew/9.htm): teaching, kingdom proclamation, healing, and compassion for people like sheep without a shepherd. Jesus then shares this work with His disciples in [Matthew 10:1–8](https://biblehub.com/bsb/matthew/10.htm). The opening summary therefore leads into a mission that gathers workers as well as crowds.",
+    "",
+    "The works also point beyond immediate relief. In [Matthew 11:2–6](https://biblehub.com/bsb/matthew/11.htm), Jesus answers John's question about His identity by pointing to what people hear and see: healing, restored life, and good news for the poor. These are signs of the promised rescue taking shape. Their invitation calls for a response; [Matthew 11:20–24](https://biblehub.com/bsb/matthew/11.htm) later warns towns that saw miracles without repenting."
+  ],
+  "current_position_lines": [
+    "Our study The Gospel According to Jesus understands the good news as the announcement of Jesus as Savior and King, centered on His death for sins and resurrection. It reads His teaching and acts of mercy as showing the character of the King whose saving work the Gospel announces."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/4.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-wilderness-and-galilee-review.md",
+    "position_source_detail": "The Gospel According to Jesus — Receiving the Gospel / The Fullness"
+  }
+}

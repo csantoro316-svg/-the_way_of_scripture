@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "11:38-44",
+    "label": "John 11:38-44",
+    "slug": "john-11-38-44"
+  },
+  "section_title": "What does Jesus reveal when He calls Lazarus out?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "38 Jesus, once again deeply moved, came to the tomb. It was a cave with a stone laid across the entrance. 39 “Take away the stone,” Jesus said. “Lord, by now he stinks,” said Martha, the sister of the dead man. “It has already been four days.” 40 Jesus replied, “Did I not tell you that if you believed, you would see the glory of God?”",
+        "41 So they took away the stone. Then Jesus lifted His eyes upward and said, “Father, I thank You that You have heard Me. 42 I knew that You always hear Me, but I say this for the benefit of the people standing here, so they may believe that You sent Me.” 43 After Jesus had said this, He called out in a loud voice, “Lazarus, come out!” 44 The man who had been dead came out with his hands and feet bound in strips of linen, and his face wrapped in a cloth. “Unwrap him and let him go,” Jesus told them."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus comes to the tomb still deeply moved. John describes a cave with a stone at the entrance. When Jesus orders the stone removed, Martha objects because Lazarus has been dead four days. Her concern makes clear that this is a body in a grave, not a person recovering from an ordinary sleep.",
+    "",
+    "Jesus directs her back to belief and the glory of God. After the stone is removed, He lifts His eyes and thanks the Father for hearing Him. He also explains the purpose of speaking for the witnesses: they are to believe that the Father sent Him. The prayer presents the Father and Son acting together, rather than Jesus working against an unwilling Father.",
+    "",
+    "He calls Lazarus by name and commands him to come out. Lazarus emerges with his hands and feet bound and his face wrapped in a cloth. Jesus tells those present to unwrap him and let him go. John gives these concrete details without describing every movement of his body or a complete set of burial customs.",
+    "",
+    "The sign shows the life Jesus gives in a way the witnesses can see. It does not report where Lazarus was during the four days, what he remembered, or what he later thought about returning. The next chapter does show him alive at a meal with Jesus ([John 12:1–2](https://biblehub.com/bsb/john/12.htm))."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the raising as a real sign of Jesus’ power to give life, with His prayer making clear His relationship with the Father. The [Catholic Catechism, paragraph 2604](https://www.vatican.va/content/catechism/en/part_four/section_one/chapter_one/article_2/in_the_fullness_of_time.html), [Calvin on verses 41–43](https://biblehub.com/commentaries/calvin/john/11.htm) and [Wesley on verses 41–43](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) all emphasize the thanksgiving, the Father’s hearing Him and the life given through His word."
+  ],
+  "god_plan_lines": [
+    "Jesus has already said that the dead will hear His voice and that those in the tombs will come out ([John 5:25–29](https://biblehub.com/bsb/john/5.htm)). Lazarus’s raising is a striking preview of that authority, not an account of the final resurrection of everyone.",
+    "",
+    "[1 Corinthians 15:20–26](https://biblehub.com/bsb/1_corinthians/15.htm) places the resurrection of Christ’s people within His victory over death. The sign here directs attention to the One who will enter death Himself and rise as the source of their lasting life. What Jesus gives to Lazarus points beyond this one family to God’s purpose to overcome death through His Son."
+  ],
+  "current_position_lines": [
+    "Our study Prayer and Faith reads verses 41–42 as thanksgiving spoken in settled trust in the Father, before Lazarus comes out of the tomb. The recorded words express the Son’s confidence that He is heard, and Jesus says He speaks for the witnesses so that they may believe the Father sent Him. The study treats this prayer as an expression of that trust, rather than a technique that makes the miracle happen."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/11.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-john-eleven-closing-review.md",
+    "position_source_detail": "Prayer and Faith, John 11:41–42, developed thanksgiving/already-heard/witness-purpose discussion."
+  }
+}

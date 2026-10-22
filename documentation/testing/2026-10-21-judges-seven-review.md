@@ -1,0 +1,38 @@
+# Judges 7 passage review — 2026-10-21
+
+Three retained groups1–8/9–14/15–25, all25BSBverses directlyread. Three supportedplans, no new positions. All passages link related studies. No baseline teacher/ministry on public pages; original exposition synthesized with primary checks.
+
+## Sources actually checked
+
+Baseline07-judges.pdf whole7A139–151and7B152–164actuallyread. Page1658Aintroalsoread;166+unread. UsefulleadsGodpreventsboasting,encouragesfearfulservant,confirmspriorwordthroughenemy,Christianresurrectionhope,light/jarsparallelwith2Cor4. Otherhistorical/psychologicalclaimsnotassumed.
+
+- https://biblehub.com/bsb/judges/7.htm — whole25verses actualBSBread.
+- https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-judges/ — wholechapterVII4762charactuallyread. IndividualWesleyreading,notwholeMethodistteaching. Varyingwater-testexplanationsclearlyattributed.
+- https://biblehub.com/commentaries/mhc/judges/7.htm — wholeconcisechapter8625charactuallyreadinfirst4300andrest. Jar-lightgospelcomparisonclearlyparallel,notexpressNTcitation. Cooperationapplicationactual23–25comment.
+- https://biblehub.com/commentaries/gill/judges/7.htm — actualcomments4,5,7,13read. Combinedfirstoutputtruncated5;5rereadseparatelycomplete. 4/7/13werevisiblecomplete. Gillweighsstrong/weakwarriorinterpretationsandemphasizesselection/reducednumber. Alternativehistoricalclaimsnotautomaticallyadopted.
+- https://biblehub.com/hebrew/6884.htm — wholeactualBDB2168charentryrereadseparatelyaftercombinedfirstexcerptranpastoutputlimit. Roottsaraphrefine/test,explicit7:4warriors. GeneratedTopicalnotused. Noarguingallunselectedmenwickeddross.
+- https://biblehub.com/bsb/deuteronomy/20.htm — actual1–8read, fearfulexemptionandpresencepromise.
+- https://biblehub.com/bsb/2_corinthians/4.htm — actual6–18read,light/treasureclayvessels,affliction,Jesus'resurrectionandfuturehope.
+- https://biblehub.com/bsb/2_corinthians/12.htm — actual7–10read,unremovedthornandsufficientgrace/Christpowerweakness. No medicalidentityofthe thornasserted.
+
+## Judges7:1–8
+
+Plan section: included, because(c). 2Cor12Christ'spowerweaknessandgracesufficiencywhiletrialremainsaddsbroaderpurposebeyondjustarmy-sizeboasting.
+Position source: none.
+FLAGGED FOR REVIEW: Textexplicitpurpose7:2boastingclear. Drinkingdoesnotindependentlyprove300socialoutcastsdogstatus,allothermenidolaters,elitealertnessoroppositeincompetence. Gill/Wesreadingsattributedandunknownsretained. NoallancientJewishculturelowestanimaldogsocialhistorywithoutindependentcheck. No300perfectnumbercodeor450:1figuresusingunread8:10newresearch;numberofenemynotgivenhere. BDBrefiningmetaphorrootdoesnotlicenseeverydismissedmanmorallyimpure. NoeveryshrinkingchurchnecessarilygrowsinpurityorGodalwayspreferssmallerarmies. Nohealth/mentaldiagnosisfromfear. MountGileadgeographytextdifficultyretainedBSBquote,nofixedlocalmountainidentityasindependentlyproven.
+
+## Judges7:9–14
+
+Plan section: included, because(c). 2Cor4:13–18GodraisedJesusandwillraisebelieversgroundsconfidencebeyondtemporalmilitaryvictory.
+Position source: none.
+FLAGGED FOR REVIEW: Noexactbush/boulder/tent/campfireposition,howmanyenemyheardGideonnameorexactdreamhourprivateconversationdetails. No135000equallylikelytentsprobabilitycalculation. BSBsaysofficialarmedsentriesanddreamofbarleyloaf/tent;notroyaltentspecifiedasBiblefact. BarleynecessarilyonlypoorestfoodandMidianstealsallwheattheorynotindependentverified,omitted. NoeverydreamdivinemessageorallpostChristdreamsceasedfromHeb1alone;ActscontainsNTdreams/visionsafterChristguard. NoownercessationpositionoriginatedfromgeneralSSlink. NoFatherraisedJesuswhileapostleswatchedtheactualevent:NTwitnessesrisenJesus,nopublicclaimtheywatchedtombresurrectionmoment. NoGideonneverpreviouslyworshipped/instanttearsallfearforevergonecertainty. God'sstatedencouragementkeptwithoutinventingallfearalwayssinuniversaldiagnosis.
+
+## Judges7:15–25
+
+Plan section: included, because(b)/(c). Henry'sjar/lightcomparisonwith2Cor4:6–12fairlyattributedandlabeledparallel;GodrevealsChristthroughfragileservants. NoPaulexplicitlyquotesGideonassertion.
+Position source: none.
+FLAGGED FOR REVIEW: Noindependentlyverifiedstandardonehornper100or1000commander,nodifferinglanguagesasactualnarratedcause,Ntexactmidnightor60mileBethbarahidentifiedeastBethlehemasfact. MiddlewatchwordingBSBretainedwithoutinventedclocktime. Godcausesturnswordsandmenactbothkept;notnothingGideondidatalloronlyhumanpsychology. NoFeastTrumpetsexclusiveRapturecode/eachhornGodappearance/eachtorchliteralSpiritplacement. JarsdoNOTestablishGodmustphysicallybreakeverybodybeforeuse;actual2Corpressureandnotcrushedhonored. NoanyharmimpossibleforChristianaxiom:Paulexplicitlysuffersanddieswithresurrectionhope. NosameGideonperson=Christinallshouts. NoOrebZeebnameetympredictingpersonalcharacterwithunverifiedlexicon. Allolddeeperlinksretained;nonewdoctrinalstudyedits.
+
+## Validation
+
+PASS: threeexactBSBchecks;repo0errors221existingwarnings;preservation;continuouscoverage21groups210versesthrough7:25;idempotence;six390pxreader/standaloneviews;actualNext7:1–8to7:9–14URL/title/focus/visibleheading. ExplicitprojectHostingdryrun/deployexit0;livecomparisonexit0 LIVE MATCH7. Three supportedplans,nonewpositions;globalintentionalreviewedomissions55. Logs /tmp/scripture-judges-seven-*.

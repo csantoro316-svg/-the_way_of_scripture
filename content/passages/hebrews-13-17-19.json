@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "13:17-19",
+    "label": "Hebrews 13:17-19",
+    "slug": "hebrews-13-17-19"
+  },
+  "section_title": "How do leaders and the community care for one another?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 Obey your leaders and submit to them, for they watch over your souls as those who must give an account. To this end, allow them to lead with joy and not with grief, for that would be of no advantage to you.",
+        "18 Pray for us; we are convinced that we have a clear conscience and desire to live honorably in every way. 19 And I especially urge you to pray that I may be restored to you soon."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The writer calls for obedience and submission to leaders who watch over the community’s souls. He also says they must give an account. Their responsibility and the community’s response belong together; leadership is a charge to care, rather than ownership of other people.",
+    "",
+    "The [word translated obey](https://biblehub.com/greek/3982.htm) can include listening and yielding, and the [word translated submit](https://biblehub.com/greek/5226.htm) describes giving way to authority or admonition. The call is stronger than ignoring counsel whenever it is unwelcome. It does not make leaders the source of an authority above God.",
+    "",
+    "The appeal then turns to prayer. The writer says he and his companions desire to live honorably, and asks especially to be restored to the readers soon. This is a request for a real reunion. The paragraph does not tell us the exact circumstances that have kept him away."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/13.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) read the command as a serious responsibility to receive the guidance of faithful leaders. Both also place limits around its misuse. Calvin distinguishes genuine care from having a title while harming the church. Wesley explicitly distinguishes submitting one’s will in ordinary matters from surrendering conscience or judgment.",
+    "",
+    "Calvin considers several possible circumstances behind the requested reunion, including persecution, and allows that the writer could have been free. Neither the request itself nor its wording proves imprisonment. The shared point is the community’s prayerful support for honorable service."
+  ],
+  "god_plan_lines": [
+    "[1 Peter 5:1–4](https://biblehub.com/bsb/1_peter/5.htm) places elders’ care under the Chief Shepherd and calls for willing service and example rather than domination. [Acts 5:29](https://biblehub.com/bsb/acts/5.htm) makes obedience to God the final standard when human demands conflict with Him.",
+    "",
+    "The leadership and prayer described in Hebrews serve a people being cared for under Christ. They strengthen His body’s life and faithfulness, while the leaders themselves remain accountable to Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/13.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-thirteen-review.md"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "5:29-31",
+    "label": "Daniel 5:29-31",
+    "slug": "daniel-5-29-31"
+  },
+  "section_title": "What remains of the king’s promises when his kingdom falls?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "29 Then Belshazzar gave the command, and they clothed Daniel in purple, placed a gold chain around his neck, and proclaimed him the third highest ruler in the kingdom. 30 That very night Belshazzar king of the Chaldeans was slain, 31 and Darius the Mede received the kingdom at the age of sixty-two."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Belshazzar orders the promised honors to be given to Daniel. That same night, the king is killed, and Darius the Mede receives the kingdom at the age of sixty-two.",
+    "",
+    "The contrast is sharp: the king can still announce a promotion, but he cannot preserve the rule in which that promotion has meaning. The judgment Daniel has just explained overtakes him immediately.",
+    "",
+    "The [Nabonidus Chronicle, column III](https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-7-nabonidus-chronicle/) independently records Cyrus’s forces entering Babylon without a battle in the city. Daniel brings the focus into the palace and identifies the fall of Belshazzar as the fulfillment of God’s announced judgment."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/daniel/5.htm) reads the ending as the fulfillment of the sentence Daniel announced. [Wesley](https://biblehub.com/commentaries/wes/daniel/5.htm) connects Darius with Cyrus’s conquest.",
+    "",
+    "[Cambridge](https://biblehub.com/commentaries/cambridge/daniel/5.htm) considers the identity of Darius the Mede historically unresolved and regards the portrayal as a historical confusion. Other identifications have been proposed, but the record checked here does not establish one. The passage itself names Darius without explaining his relationship to Cyrus."
+  ],
+  "god_plan_lines": [
+    "A broader parallel appears in [Revelation 18:1–8](https://biblehub.com/bsb/revelation/18.htm). There, Babylon’s luxury and confidence that she will never experience grief give way to sudden judgment. God calls His people to come out of her sins.",
+    "",
+    "Daniel records the fall of a particular ruler, while Revelation presents a larger judgment under the name Babylon. The parallel shows a repeated pattern: power and prosperity cannot make rebellion secure. God’s people are called to faithfulness within a world whose proudest powers remain accountable to Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/5.htm",
+    "plan_basis": [
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-five-review.md"
+  }
+}

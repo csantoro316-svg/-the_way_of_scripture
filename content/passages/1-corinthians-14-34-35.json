@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "14:34-35",
+    "label": "1 Corinthians 14:34-35",
+    "slug": "1-corinthians-14-34-35"
+  },
+  "section_title": "What kind of silence is Paul requiring from women?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "34 Women are to be silent in the churches. They are not permitted to speak, but must be in submission, as the law says. 35 If they wish to inquire about something, they are to ask their own husbands at home; for it is dishonorable for a woman to speak in the church."
+      ]
+    }
+  ],
+  "context_lines": [
+    "These verses instruct women to be silent in the churches, refer to submission and the law, and direct those who want to inquire to ask their own husbands at home. They occur within Paul’s discussion of orderly speech, where a tongue-speaker and a prophet have also been told to be silent in specified circumstances.",
+    "",
+    "The instruction must also be read alongside [1 Corinthians 11:5](https://biblehub.com/bsb/1_corinthians/11.htm), which describes women praying and prophesying. Readers therefore need to explain what speech is restricted here and how the passages fit together.",
+    "",
+    "The mention of husbands makes questions within marriage part of the immediate wording. It does not explain every woman’s situation or record a detailed scene of wives calling across a room. Paul also does not name a particular Old Testament verse when referring to the law. Those details should not be supplied as if they were stated."
+  ],
+  "common_interpretation_lines": [
+    "Christians differ over the scope and setting of the restriction. [Calvin’s exposition](https://biblehub.com/commentaries/calvin/1_corinthians/14.htm) understands it as excluding women from public teaching and prophecy in the church’s ordinary ordered assembly, while allowing that an unusual necessity might require a woman to speak. [Wesley’s note on verse 34](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) likewise restricts public teaching, but makes an exception for an extraordinary prompting of the Spirit.",
+    "",
+    "The Catholic declaration [Inter Insigniores, section 4](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19761015_inter-insigniores_en.html), distinguishes the official function of teaching in the assembly from the prophetic speech Paul recognizes in women. It does not read this as a ban on every spoken word by a woman.",
+    "",
+    "The Assemblies of God’s [2025 position paper on women in ministerial leadership](https://ag.org/Beliefs/Position-Papers/Women-in-Ministerial-Leadership) supports women at every level of ministry. It reads these verses as a correction of wives questioning their husbands during the gathering, rather than a universal prohibition on women’s leadership.",
+    "",
+    "A further question concerns the passage’s place in the letter. The [USCCB study note](https://bible.usccb.org/bible/1corinthians/14) discusses the proposal that verses 34–35 were added during the letter’s early transmission. This is a scholarly proposal discussed in a note, not a Catholic doctrinal ruling. The BSB includes the verses and notes that some manuscripts place them after verse 40. A change of location does not itself establish whether the proposed addition occurred."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/14.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-fourteen-closing-review.md"
+  }
+}

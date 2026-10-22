@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "7:28-29",
+    "label": "Matthew 7:28-29",
+    "slug": "matthew-7-28-29"
+  },
+  "section_title": "The Authority of Jesus’ Teaching",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "28 When Jesus had finished saying these things, the crowds were astonished at His teaching, 29 because He taught as one who had authority, and not as their scribes."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Matthew now describes the crowd's response to the Sermon. They are astonished by the authority of Jesus' teaching, which they recognize as different from that of their scribes. The narrative turns from His instructions to their impact on those who hear.",
+    "",
+    "The preceding sayings show the weight of His words. Jesus calls people to enter the way to life, warns of false prophets, speaks of those He will reject, and makes acting on His own words the wise foundation for life. The crowd's response follows those claims.",
+    "",
+    "Earlier in the Sermon, His repeated statements in [Matthew 5:21–48](https://biblehub.com/bsb/matthew/5.htm) brought His own teaching to bear on anger, desire, faithfulness, truthfulness, retaliation, and love. The closing response highlights the authority with which He has spoken throughout."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the crowd's response as recognizing authority belonging uniquely to Jesus, rather than merely admiration for an engaging speaker. [Wesley's note on Matthew 7:29](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) describes Him as the great Lawgiver, and the Catholic [Catechism, 581](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/article_4/paragraph_1_jesus_and_israel.html), connects His authority here with His divine interpretation of God's Law."
+  ],
+  "god_plan_lines": [
+    "God's purpose includes sending the One whose words must be heard. [Deuteronomy 18:15–19](https://biblehub.com/bsb/deuteronomy/18.htm) promises a prophet like Moses who will speak God's words. In [Acts 3:19–26](https://biblehub.com/bsb/acts/3.htm), Peter applies that promise to Jesus and connects His mission with blessing the families of the earth. This gives a wider setting for receiving His authoritative teaching.",
+    "",
+    "The same Gospel ends with the risen Jesus declaring authority in heaven and earth and sending disciples to teach the nations to obey His commands in [Matthew 28:18–20](https://biblehub.com/bsb/matthew/28.htm). The authority heard in the Sermon belongs within His larger mission of gathering a people who follow Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/7.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-sermon-completion-review.md"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "19:28-40",
+    "label": "Luke 19:28-40",
+    "slug": "luke-19-28-40"
+  },
+  "section_title": "Why do the disciples welcome Jesus as King?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "28 After Jesus had said this, He went on ahead, going up to Jerusalem. 29 As He approached Bethphage and Bethany at the Mount of Olives, He sent out two of His disciples, 30 saying, “Go into the village ahead of you, and as you enter it, you will find a colt tied there, on which no one has ever sat. Untie it and bring it here. 31 If anyone asks, ‘Why are you untying it?’ tell him, ‘The Lord needs it.’” 32 So those who were sent went out and found it just as Jesus had told them. 33 As they were untying the colt, its owners asked, “Why are you untying the colt?” 34 “The Lord needs it,” they answered.",
+        "35 Then they led the colt to Jesus, threw their cloaks over it, and put Jesus on it. 36 As He rode along, the people spread their cloaks on the road. 37 And as He approached the descent from the Mount of Olives, the whole multitude of disciples began to praise God joyfully in a loud voice for all the miracles they had seen: 38 “Blessed is the King who comes in the name of the Lord!” “Peace in heaven and glory in the highest!”",
+        "39 But some of the Pharisees in the crowd said to Him, “Teacher, rebuke Your disciples!” 40 “I tell you,” He answered, “if they remain silent, the very stones will cry out.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "After the parable about the ruler’s absence and return, Jesus continues toward Jerusalem. Near Bethphage and Bethany, He sends two disciples to bring a colt that has never been ridden. They find it as He described and answer its owners with the words He supplied.",
+    "",
+    "The disciples place their cloaks on the colt and help Jesus onto it. Others spread cloaks along the road. Near the descent of the Mount of Olives, the multitude of disciples praises God for the miracles they have seen and welcomes the King who comes in the Lord’s name.",
+    "",
+    "The words of welcome draw on Psalm 118. Luke also records their praise of peace in heaven and glory in the highest. When some Pharisees ask Jesus to rebuke them, He answers that if they are silent, the stones will cry out. ([Psalm 118:22–26](https://biblehub.com/bsb/psalms/118.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand this as Jesus’ royal welcome on His approach to Jerusalem. The Catholic bishops’ notes emphasize the acclamation of Him as King and the peace associated with His saving work; Wesley understands the answer about stones as declaring that God will find a way for His praise to be heard. ([USCCB notes on Luke 19:28–40](https://bible.usccb.org/bible/luke/19); [Wesley on Luke 19:38–40](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))"
+  ],
+  "god_plan_lines": [
+    "Zechariah describes Zion’s righteous, humble King arriving on a donkey, followed by a picture of peace reaching the nations. John explicitly connects Jesus’ entry with that prophecy and says the disciples understood the connection after He was glorified. John explicitly identifies the Scriptural connection. ([Zechariah 9:9–10](https://biblehub.com/bsb/zechariah/9.htm); [John 12:12–16](https://biblehub.com/bsb/john/12.htm))",
+    "",
+    "An earlier Scriptural scene also gives a useful royal parallel: Solomon rides David’s mule to his anointing and is greeted with public rejoicing. The animals and circumstances differ, but Scripture itself provides a picture of an arriving king riding a mount and receiving acclaim. ([1 Kings 1:32–40](https://biblehub.com/bsb/1_kings/1.htm))",
+    "",
+    "Jesus’ journey also leads toward the Passover. Exodus describes the unblemished lamb and the blood associated with deliverance, and Paul explicitly calls Christ the sacrificed Passover lamb. That larger connection places this welcome on the way to His saving death. ([Exodus 12:3–7](https://biblehub.com/bsb/exodus/12.htm); [1 Corinthians 5:6–8](https://biblehub.com/bsb/1_corinthians/5.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/19.htm",
+    "plan_basis": [
+      "a",
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-nineteen-closing-review.md"
+  }
+}

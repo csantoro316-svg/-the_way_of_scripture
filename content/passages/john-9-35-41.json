@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "9:35-41",
+    "label": "John 9:35-41",
+    "slug": "john-9-35-41"
+  },
+  "section_title": "What does Jesus help the healed man see next?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "35 When Jesus heard that they had thrown him out, He found the man and said, “Do you believe in the Son of Man?” 36 “Who is He, Sir?” he replied. “Tell me so that I may believe in Him.” 37 “You have already seen Him,” Jesus answered. “He is the One speaking with you.” 38 “Lord, I believe,” he said. And he worshiped Jesus.",
+        "39 Then Jesus declared, “For judgment I have come into this world, so that the blind may see and those who see may become blind.” 40 Some of the Pharisees who were with Him heard this, and they asked Him, “Are we blind too?” 41 “If you were blind,” Jesus replied, “you would not be guilty of sin. But since you claim you can see, your guilt remains.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus hears that the man has been thrown out and finds him. The healing is not the end of His care. He asks about faith in the Son of Man, identifies Himself, and receives the man’s confession and worship. The BSB reads Son of Man in verse 35; its footnote records Son of God in other manuscripts. Older commentaries using the latter wording should not silently replace the BSB text.",
+    "",
+    "The word translated worshiped is προσκυνέω, proskyneō (pros-koo-NEH-oh). [Thayer’s lexicon](https://biblehub.com/greek/4352.htm) describes bowing or showing deep honor, with the setting determining whom the person honors and what the act means. Here it follows Jesus making Himself known and the man confessing belief. John describes a personal response to Jesus, rather than giving the order of a worship service.",
+    "",
+    "Jesus then explains a deeper division revealed by His coming. The man who lacked physical sight now receives Jesus, while people confident in their own sight resist Him. Some Pharisees hear the words and ask whether they are blind too. His reply directs attention to their claimed knowledge and continuing guilt. He is not saying that a physical disability makes someone sinful or that every person who knows little is automatically free of sin."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly see the man’s response as faith and honor directed toward Jesus, with the final sayings contrasting receiving His light and resisting it. [Wesley’s notes on verses 35–41](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) emphasize teachability and the greater responsibility that comes with opportunities to know.",
+    "",
+    "Commentators differ over how fully the man understands Jesus’ identity at this moment. [John Chrysostom, Homily 59](https://www.newadvent.org/fathers/240159.htm), sees his worship as an acknowledgment of Jesus’ divine power. [Calvin on verse 38](https://biblehub.com/commentaries/calvin/john/9.htm) sees honor beyond that given to an ordinary man or prophet, while allowing that his understanding of Christ’s deity is still incomplete. Their difference concerns the man’s understanding, not whether Christ is divine."
+  ],
+  "god_plan_lines": [
+    "The healing and this meeting belong together. [Isaiah 42:5–9](https://biblehub.com/bsb/isaiah/42.htm) connects God’s Servant with light, opened eyes and release from darkness. John’s account shows restoration reaching beyond a physical change to a person recognizing and trusting Jesus.",
+    "",
+    "The rejected man is found by Christ. The story then leads directly into Jesus’ teaching about the shepherd who knows and cares for his sheep in [John 10](https://biblehub.com/bsb/john/10.htm). That connection helps us see the direction of the chapter: Jesus does not merely perform a sign and leave; He makes Himself known to the person who received it."
+  ],
+  "current_position_lines": [
+    "Our study Worship as the Early Church Knew It uses John 9:38 to describe a personal act of reverent honor rooted in faith. The man responds to Jesus making Himself known by bowing in acknowledgment of Him. The study does not treat this scene as a description of a scheduled service or a set of required meeting practices."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/9.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-john-nine-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It, John 9:38 — The Man Born Blind, developed paragraph on personal reverent acknowledgment."
+  }
+}

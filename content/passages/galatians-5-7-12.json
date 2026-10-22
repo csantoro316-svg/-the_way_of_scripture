@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Galatians",
+    "citation": "5:7-12",
+    "label": "Galatians 5:7-12",
+    "slug": "galatians-5-7-12"
+  },
+  "section_title": "What has interrupted their progress in the truth?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 You were running so well. Who has obstructed you from obeying the truth? 8 Such persuasion does not come from the One who calls you. 9 A little leaven works through the whole batch of dough. 10 I am confident in the Lord that you will take no other view. The one who is troubling you will bear the judgment, whoever he may be.",
+        "11 Now, brothers, if I am still preaching circumcision, why am I still being persecuted? In that case the offense of the cross has been abolished. 12 As for those who are agitating you, I wish they would proceed to emasculate themselves!"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul pictures the Galatians as runners whose good progress has been obstructed. The persuasion turning them aside does not come from the God who called them. Like a small amount of leaven spreading through dough, the influence can affect the whole community.",
+    "",
+    "His confidence is in the Lord: he expects them to return to the right understanding. At the same time, he says the person troubling them will bear judgment, whoever that person may be.",
+    "",
+    "Paul then asks why he would still be persecuted if he were still preaching circumcision. His suffering gives the lie to the idea that circumcision as a requirement belongs to his message. A message that removed the offense of the cross would be a different message.",
+    "",
+    "The final sentence is deliberately shocking. In the BSB, Paul wishes that those pressing circumcision would go on to emasculate themselves. His language exposes the destructive direction of their teaching and the intensity of his concern."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly see this as a warning about an influence spreading through the churches and pulling them away from the gospel. [Wesley’s notes on verses 7–11](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-galatians/) and the [USCCB notes on verses 7–12](https://bible.usccb.org/bible/galatians/5) connect the obstruction, the leaven and the persecution with the pressure to add circumcision to the message of Christ.",
+    "",
+    "The final expression has been explained differently. Wesley’s note on verse 12 takes the older wording about being cut off as removal from the church’s fellowship. The USCCB note understands a biting wish that the knife would go beyond circumcision, corresponding to the BSB’s explicit wording about emasculation."
+  ],
+  "god_plan_lines": [
+    "[1 Corinthians 1:18–25](https://biblehub.com/bsb/1_corinthians/1.htm) explains why the cross can be an offense: what some regard as foolish or a stumbling block is the place where God’s power and wisdom are made known through Christ.",
+    "",
+    "That connection gives a larger setting for Paul’s question here. The unwelcome part of his message belongs to God’s saving work through the crucified Christ. Making the message easier to accept by changing its basis would remove the very thing he has been sent to proclaim."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/galatians/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-galatians-five-review.md"
+  }
+}

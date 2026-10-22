@@ -1,0 +1,66 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "5:7-12",
+    "label": "1 Kings 5:7-12",
+    "slug": "1-kings-5-7-12"
+  },
+  "section_title": "What agreement do Solomon and Hiram reach?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 When Hiram received Solomon’s message, he rejoiced greatly and said, “Blessed be the LORD this day! He has given David a wise son over this great people!” 8 Then Hiram sent a reply to Solomon, saying: “I have received your message; I will do all you desire regarding the cedar and cypress timber. 9 My servants will haul the logs from Lebanon to the Sea, and I will float them as rafts by sea to the place you specify. There I will separate the logs, and you can take them away. And in exchange, you can meet my needs by providing my household with food.”",
+        "10 So Hiram provided Solomon with all the cedar and cypress timber he wanted, 11 and year after year Solomon would provide Hiram with 20,000 cors of wheat as food for his household, as well as 20,000 baths of pure olive oil. 12 And the LORD gave Solomon wisdom, as He had promised him. There was peace between Hiram and Solomon, and the two of them made a treaty."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Hiram rejoices at Solomon’s message and blesses the LORD for giving David a wise son. He agrees to supply cedar and cypress timber, moving the logs to the sea and floating them as rafts to the place Solomon specifies.",
+    "",
+    "In return, Solomon is to provide food for Hiram’s household. The account records yearly supplies of wheat and pure olive oil.",
+    "",
+    "The passage concludes by naming the LORD as the giver of Solomon’s wisdom and by recording peace and a treaty between the two kings. Preparation for the temple involves negotiation, supplied materials and an ongoing exchange."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/5.htm) emphasizes mutual dependence: one country supplies the skills and timber, while the other supplies food. Each has something the other needs.",
+    "",
+    "The [USCCB notes](https://bible.usccb.org/bible/1kings/5) pay closer attention to the negotiation. Hiram answers Solomon’s offer of workers’ wages with a request for provisions for his own household. They read his reply as securing terms favorable to Tyre.",
+    "",
+    "[Gill](https://biblehub.com/commentaries/gill/1_kings/5.htm) sees practical wisdom in Solomon’s preparations and the maintenance of peaceful relations. Hiram’s blessing acknowledges Israel’s God, but the account does not describe a full change in his religious allegiance."
+  ],
+  "god_plan_lines": [
+    "The benefits of the agreement cross Israel’s borders. Hiram receives provisions, Solomon receives materials and skilled help, and a foreign king voices praise for the LORD’s gift of wisdom.",
+    "",
+    "That wider outlook belongs beside God’s promise in [Genesis 12:1–3](https://biblehub.com/bsb/genesis/12.htm) that Abraham would become a blessing and that all the families of the earth would be blessed through him. The blessing was never described as being for his family alone.",
+    "",
+    "[Galatians 3:8–14](https://biblehub.com/bsb/galatians/3.htm) identifies the promise’s reach to the nations with the gospel and the blessing received through Christ by faith. This trade agreement is a limited example of benefit reaching beyond Israel; the New Testament explains the greater blessing that comes through Christ."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/5.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-five-review.md"
+  }
+}

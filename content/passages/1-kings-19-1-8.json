@@ -1,0 +1,71 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "19:1-8",
+    "label": "1 Kings 19:1-8",
+    "slug": "1-kings-19-1-8"
+  },
+  "section_title": "How does God care for Elijah when he has had enough?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Now Ahab told Jezebel everything that Elijah had done and how he had killed all the prophets with the sword. 2 So Jezebel sent a messenger to Elijah, saying, “May the gods deal with me, and ever so severely, if by this time tomorrow I have not made your life like the lives of those you killed!” 3 And Elijah was afraid and ran for his life. When he came to Beersheba in Judah, he left his servant there, 4 while he himself went a day’s journey into the wilderness. He sat down under a broom tree and prayed that he might die. “I have had enough, LORD,” he said. “Take my life, for I am no better than my fathers.”",
+        "5 Then he lay down under the broom tree and fell asleep. Suddenly an angel touched him and said, “Get up and eat.” 6 And he looked around, and there by his head was a cake of bread baked over hot coals, and a jar of water. So he ate and drank and lay down again. 7 A second time the angel of the LORD returned and touched him, saying, “Get up and eat, or the journey will be too much for you.” 8 So he got up and ate and drank. And strengthened by that food, he walked forty days and forty nights until he reached Horeb, the mountain of God."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jezebel hears what has happened to Baal’s prophets and threatens Elijah’s life. Afraid, he runs to Beersheba, leaves his servant there and goes farther into the wilderness.",
+    "",
+    "Under a broom tree he asks the LORD to take his life. The account allows his exhaustion and despair to be heard after the public confrontation on Carmel.",
+    "",
+    "An angel wakes him and provides food and water. After more sleep, the angel of the LORD returns and tells him to eat because the journey is too much for him. Strengthened by that food, Elijah travels forty days and nights to Horeb. God cares for the servant who feels he can go no further."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/19.htm) sees Elijah’s flight as a failure of confidence after his bold service on Carmel. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) explicitly resists blaming him for fleeing persecution and points to the angel’s provision as evidence of God’s care for his journey.",
+    "",
+    "These readings differ over how to assess the flight. Both recognize that the prophet’s strength is dependent on God. The text gives particular attention to the food, rest and help he receives in his weakness."
+  ],
+  "god_plan_lines": [
+    "Elijah’s forty-day wilderness journey and the care of angels have a later counterpart in [Matthew 4:1–11](https://biblehub.com/bsb/matthew/4.htm). Jesus spends forty days and nights fasting in the wilderness, remains faithful under temptation, and is ministered to by angels afterward.",
+    "",
+    "This is a parallel, with different circumstances and a different order of events. It places Elijah’s experience within a wider story of wilderness testing and God’s provision, while the account of Jesus brings the Son’s faithful obedience into view."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "The Angel of the LORD",
+      "href": "../studies/angel-of-the-lord.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/19.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-nineteen-review.md"
+  }
+}

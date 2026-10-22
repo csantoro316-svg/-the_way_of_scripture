@@ -5,35 +5,58 @@
     "label": "Isaiah 9:13-17",
     "slug": "isaiah-9-13-17"
   },
-  "section_title": "Judgment against Israel\u2019s Hypocrisy",
+  "section_title": "Why are the leaders and the people both held responsible?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "13 But the people did not return to Him who struck them;",
-        "they did not seek the LORD of Hosts.",
-        "14 So the LORD will cut off Israel\u2019s head and tail,",
-        "both palm branch and reed in a single day.",
-        "15 The head is the elder and honorable man,",
-        "and the tail is the prophet who teaches lies.",
-        "16 For those who guide this people mislead them,",
-        "and those they mislead are swallowed up.",
-        "17 Therefore the Lord takes no pleasure in their young men;",
-        "He has no compassion on their fatherless and widows.",
-        "For every one of them is godless and wicked,",
-        "and every mouth speaks folly.",
-        "Despite all this, His anger is not turned away;",
-        "His hand is still upraised."
+        "13 But the people did not return to Him who struck them; they did not seek the LORD of Hosts. 14 So the LORD will cut off Israel’s head and tail, both palm branch and reed in a single day. 15 The head is the elder and honorable man, and the tail is the prophet who teaches lies.",
+        "16 For those who guide this people mislead them, and those they mislead are swallowed up. 17 Therefore the Lord takes no pleasure in their young men; He has no compassion on their fatherless and widows. For every one of them is godless and wicked, and every mouth speaks folly. Despite all this, His anger is not turned away; His hand is still upraised."
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 9**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "The people do not return to the One who struck them or seek the Lord. The warning therefore reaches the whole community, pictured as head and tail, palm branch and reed. Verse 15 explains the head as the elder and honored man, and the tail as the prophet who teaches lies.",
+    "",
+    "Their guides lead them astray, and those who follow are swallowed up. Misleading leadership is a serious part of the failure, but the passage also describes corruption spreading through the people themselves.",
+    "",
+    "The warning becomes especially severe when it names young men, fatherless children and widows. Even the groups normally associated with strength or particular need do not escape this judgment. The stated reason is the community’s pervasive godlessness, wrongdoing and corrupt speech. The refrain again announces that the Lord’s anger has not turned away."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Judgment against Israel\u2019s Hypocrisy** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/isaiah/9.htm) and [Wesley](https://biblehub.com/commentaries/wes/isaiah/9.htm) emphasize the harm done by leaders who make people comfortable in wrongdoing. They read the loss of both high and low as a warning that rank will provide no shelter when the nation is judged.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 9** remains the first control on meaning."
+    "Wesley understands the sweeping description of wickedness as a statement about the body of the people, rather than a claim that God has no faithful person left anywhere. He also notes that fatherless children and widows are ordinarily special objects of God’s care. Their inclusion makes this particular warning more severe."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The failure of these guides belongs to Scripture’s wider concern with people being lost under harmful leadership. [John 10:1–18](https://biblehub.com/bsb/john/10.htm) presents a sharply different shepherd: Jesus knows His sheep, leads them, and lays down His life for them instead of abandoning them to danger.",
+    "",
+    "This is a contrast between the passages, not a claim that John directly quotes Isaiah 9. It shows how God’s answer goes beyond exposing failed guides: the Son gathers His people and gives His own life for their salvation."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/9.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-nine-review.md"
+  }
 }

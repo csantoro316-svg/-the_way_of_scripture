@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "19:1-9",
+    "label": "Ezekiel 19:1-9",
+    "slug": "ezekiel-19-1-9"
+  },
+  "section_title": "Why does Ezekiel sing a lament for the royal lions?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 “As for you, take up a lament for the princes of Israel 2 and say: ‘What was your mother? A lioness among the lions! She lay down among the young lions; she reared her cubs. 3 She brought up one of her cubs, and he became a young lion. After learning to tear his prey, he devoured men. 4 When the nations heard of him, he was trapped in their pit. With hooks they led him away to the land of Egypt.",
+        "5 When she saw that she had waited in vain, that her hope was lost, she took another of her cubs and made him a young lion. 6 He prowled among the lions, and became a young lion. After learning to tear his prey, he devoured men. 7 He broke down their strongholds and devastated their cities. The land and everything in it shuddered at the sound of his roaring. 8 Then the nations set out against him from the provinces on every side. They spread their net over him; he was trapped in their pit. 9 With hooks they caged him and brought him to the king of Babylon. They brought him into captivity so that his roar was heard no longer on the mountains of Israel."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Ezekiel is told to take up a lament for Israel’s princes. The royal family is pictured as a lioness raising cubs. One grows into a lion that devours people, until the nations trap it and take it to Egypt.",
+    "",
+    "The lioness raises another cub after her hope for the first is lost. This one also becomes destructive, terrifying the land and its cities. The nations trap it and bring it to Babylon, where its roar will no longer be heard on Israel’s mountains.",
+    "",
+    "The first removal corresponds to Jehoahaz’s fate in [Second Kings 23:31–37](https://biblehub.com/bsb/2_kings/23.htm): Pharaoh Neco deposes him and takes him to Egypt. The later kings’ removals by Babylon are recorded in [Second Chronicles 36:1–10](https://biblehub.com/bsb/2_chronicles/36.htm).",
+    "",
+    "The poem turns the image of royal strength into a song of loss. The rulers who seemed able to dominate others cannot prevent their own capture."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezekiel/19.htm) understands the lions as Judah’s kings, emphasizing their cruelty and oppression. [Wesley](https://biblehub.com/commentaries/wes/ezekiel/19.htm) identifies the first cub as Jehoahaz and the next as Jehoiakim.",
+    "",
+    "The second cub’s identity is read differently. The [USCCB notes](https://bible.usccb.org/bible/ezekiel/19) report a reading that identifies the two as Jehoahaz and Zedekiah, sons of the same mother. The [Cambridge commentary on verse 5](https://biblehub.com/commentaries/cambridge/ezekiel/19.htm) identifies him as Jehoiachin, whose removal to Babylon is recorded in [Second Chronicles 36:9–10](https://biblehub.com/bsb/2_chronicles/36.htm).",
+    "",
+    "The poem does not supply the second king’s name. Its main force is the downfall of destructive royal power: the nation cannot assume that another ruler of the same kind will rescue it from the judgment being announced."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/19.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-eighteen-nineteen-review.md"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "13:1-4",
+    "label": "Mark 13:1-4",
+    "slug": "mark-13-1-4"
+  },
+  "section_title": "What will happen to the temple?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 As Jesus was leaving the temple, one of His disciples said to Him, “Teacher, look at the magnificent stones and buildings!” 2 “Do you see all these great buildings?” Jesus replied. “Not one stone here will be left on another; every one will be thrown down.”",
+        "3 While Jesus was sitting on the Mount of Olives opposite the temple, Peter, James, John, and Andrew asked Him privately, 4 “Tell us, when will these things happen? And what will be the sign that they are about to be fulfilled?”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "As Jesus leaves the temple, a disciple admires its impressive stones and buildings. Jesus announces that these buildings will be torn down. The contrast is unsettling: the place that looks so solid will not endure. This follows His confrontations with the leaders and His warning about the exploitation of widows.",
+    "",
+    "Later, seated on the Mount of Olives opposite the temple, Jesus hears a private question from Peter, James, John, and Andrew. They ask when these things will happen and what sign will announce their fulfillment. Their question introduces the warnings and promises that fill the rest of the chapter.",
+    "",
+    "The Romans destroyed Jerusalem’s temple in AD 70. Josephus describes orders to demolish the temple and city, while also identifying parts of the city’s defenses that were left standing. Jesus’ words here concern the temple buildings before Him; they do not require us to claim that every stone anywhere in Jerusalem disappeared. ([USCCB, note on Mark 13:1–2](https://bible.usccb.org/bible/mark/13); [Josephus, Jewish War 7.1.1](https://penelope.uchicago.edu/josephus/war-7.html))"
+  ],
+  "common_interpretation_lines": [
+    "Christian readers commonly understand this as a prediction of the temple’s destruction, with the disciples’ questions introducing teaching that also concerns Christ’s coming. Wesley distinguishes those subjects, while readers differ over how the later parts of Jesus’ answer fit them together. ([Wesley, notes on Mark 13:1–4](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-mark/))"
+  ],
+  "god_plan_lines": [
+    "The loss of a building does not end God’s purpose to dwell with His people. In John’s Gospel, Jesus speaks about a temple being raised in three days, and John explains that He means His body. The disciples understand after His resurrection. This is a separate saying, but it helps us see why the story’s hope rests on Jesus rather than on the survival of Jerusalem’s buildings. ([John 2:13–22](https://biblehub.com/bsb/john/2.htm))",
+    "",
+    "Ephesians develops that hope further: people brought together in Christ become God’s household, with Jesus as the cornerstone and the Spirit dwelling among them. The connection concerns God’s presence with His people through Christ; it does not require assigning a hidden meaning to every feature of the temple’s destruction. ([Ephesians 2:19–22](https://biblehub.com/bsb/ephesians/2.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/13.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-thirteen-opening-review.md"
+  }
+}

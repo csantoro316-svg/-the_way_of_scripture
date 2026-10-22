@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "20:1-6",
+    "label": "Acts 20:1-6",
+    "slug": "acts-20-1-6"
+  },
+  "section_title": "Why does Paul revisit the disciples and change his route?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 When the uproar had ended, Paul sent for the disciples. And after encouraging them, he said goodbye to them and left for Macedonia. 2 After traveling through that area and speaking many words of encouragement, he arrived in Greece, 3 where he stayed three months. And when the Jews formed a plot against him as he was about to sail for Syria, he decided to go back through Macedonia.",
+        "4 Paul was accompanied by Sopater son of Pyrrhus from Berea, Aristarchus and Secundus from Thessalonica, Gaius from Derbe, Timothy, and Tychicus and Trophimus from the province of Asia. 5 These men went on ahead and waited for us in Troas. 6 And after the Feast of Unleavened Bread, we sailed from Philippi, and five days later we rejoined them in Troas, where we stayed seven days."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After the uproar in Ephesus ends, Paul encourages the disciples and leaves for Macedonia. He gives much encouragement as he travels, then spends three months in Greece. A plot against him changes his intended voyage to Syria: he returns through Macedonia instead.",
+    "",
+    "Luke names companions from Berea, Thessalonica, Derbe and the province of Asia, as well as Timothy. Some go ahead to Troas, while the narrator again uses we for the journey from Philippi after the Feast of Unleavened Bread. They rejoin the others in Troas after five days and stay for seven.",
+    "",
+    "The plot is real, but Luke does not describe its exact method or say that Paul was to be thrown overboard. The list of companions shows a mission involving people from different places; it does not supply every person’s assignment or the complete reason each travels."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly see continuing care for believers and practical wisdom in this account. Paul strengthens communities he has already visited and changes his travel arrangements when danger becomes known. Perseverance in the mission does not require ignoring a threat or refusing an available safer route."
+  ],
+  "god_plan_lines": [
+    "[Romans 15:25–27](https://biblehub.com/bsb/romans/15.htm) explains Paul’s journey to Jerusalem with material help from Macedonia and Achaia for poor believers there. Alongside the travel account, this shows the expanding mission joining communities in practical care. The work is not only a growing list of places visited: people who share in Christ’s blessings learn to support one another."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/20.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twenty-review.md"
+  }
+}

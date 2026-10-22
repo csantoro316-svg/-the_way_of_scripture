@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "1 Peter",
+    "citation": "1:10-12",
+    "label": "1 Peter 1:10-12",
+    "slug": "1-peter-1-10-12"
+  },
+  "section_title": "How does the gospel complete what the prophets were looking toward?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 Concerning this salvation, the prophets who foretold the grace to come to you searched and investigated carefully, 11 trying to determine the time and setting to which the Spirit of Christ in them was pointing when He predicted the sufferings of Christ and the glories to follow. 12 It was revealed to them that they were not serving themselves, but you, when they foretold the things now announced by those who preached the gospel to you by the Holy Spirit sent from heaven. Even angels long to look into these things."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The salvation the readers now receive had a history before their own experience of it. The prophets foretold grace to come, then searched to understand the time and setting of the sufferings of Christ and the glories that would follow.",
+    "",
+    "The Spirit of Christ worked in that earlier testimony, and the Holy Spirit is also named in the gospel’s proclamation. Peter connects the earlier promise and its later announcement, giving the readers reason to value what has reached them.",
+    "",
+    "The angels’ desire to look into these things adds a final note of wonder. The word behind look into can describe [careful, intent attention](https://biblehub.com/greek/3879.htm). The readers are hearing news of a saving work that reaches far beyond their immediate circumstances."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/1_peter/1.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-epistle-general-of-st-peter/) both read this as showing the privilege of receiving the gospel’s fuller revelation of Christ. Calvin explicitly distinguishes the prophets’ looking toward fulfillment from a claim that they themselves had no share in God’s salvation."
+  ],
+  "god_plan_lines": [
+    "Jesus gives a direct explanation of the same movement in [Luke 24:25–27, 44–49](https://biblehub.com/bsb/luke/24.htm). He connects Moses, the Prophets and the Psalms with His suffering and resurrection, then with repentance and forgiveness proclaimed to all nations. Peter’s readers stand within that announced fulfillment: what the prophets looked toward has become good news carried outward through the Holy Spirit."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_peter/1.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-peter-opening-review.md"
+  }
+}

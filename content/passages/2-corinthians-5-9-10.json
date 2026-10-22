@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "2 Corinthians",
+    "citation": "5:9-10",
+    "label": "2 Corinthians 5:9-10",
+    "slug": "2-corinthians-5-9-10"
+  },
+  "section_title": "Why does our present conduct matter if we hope to be with Christ?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "9 So we aspire to please Him, whether we are at home in this body or away from it. 10 For we must all appear before the judgment seat of Christ, that each one may receive his due for the things done in the body, whether good or bad."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul moves from his desire to be with the Lord to the ambition that governs his life: to please Him. Whether at home in the body or away from it, the relationship to Christ remains central.",
+    "",
+    "He gives a reason for taking conduct seriously. All must appear before Christ’s judgment seat and receive their due for what was done in the body, whether good or bad. The workers who teach others are included in that accountability.",
+    "",
+    "The paragraph states the reality of judgment without providing a numerical system for calculating rewards or an exact timetable of all future judgments. Hope in Christ does not make the way people live now irrelevant."
+  ],
+  "common_interpretation_lines": [
+    "Christians affirm accountability to Christ, but differ over how this judgment fits within the larger account. The Catholic [Catechism 1021–1022](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_three/article_12/i_the_particular_judgment.html) teaches a judgment at death relating each life to Christ, including entrance into heaven immediately or through purification. Its [paragraphs 1038–1040](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_three/article_12/v_the_last_judgment.html) also distinguish the final judgment following resurrection.",
+    "",
+    "The Reformed [Westminster Confession 33.1–2](https://www.opc.org/wcf.html) places all people’s account of thoughts, words and deeds within the day Christ judges the world. [Dallas Theological Seminary’s Article XVI](https://www.dts.edu/about/doctrinal-statement/) instead emphasizes believers’ rewards for faithful service at Christ’s judgment seat after He receives His people, distinguishing those rewards from salvation. Article XXI separately describes unbelievers’ final judgment.",
+    "",
+    "These are distinct accounts of timing and purpose. They share the conviction that Christ’s judgment gives present conduct lasting significance, rather than making it a matter no one will answer for."
+  ],
+  "god_plan_lines": [
+    "[John 5:22–29](https://biblehub.com/bsb/john/5.htm) explicitly places judgment in the Son’s hands and joins His authority with the coming resurrection. Those who hear His voice are called from their tombs.",
+    "",
+    "Paul’s concern therefore belongs within God’s purpose carried out through His Son, who gives life and judges. The future includes being brought before Christ; the person whose presence believers desire is also the one whose approval they seek."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_corinthians/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-corinthians-five-opening-review.md"
+  }
+}

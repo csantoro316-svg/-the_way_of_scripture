@@ -5,22 +5,57 @@
     "label": "Galatians 2:9",
     "slug": "galatians-2-9"
   },
-  "section_title": "",
-  "versions": [],
+  "section_title": "What does the right hand of fellowship express?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "9 And recognizing the grace that I had been given, James, Cephas, and John—those reputed to be pillars—gave me and Barnabas the right hand of fellowship, so that we should go to the Gentiles, and they to the circumcised."
+      ]
+    }
+  ],
   "context_lines": [
-    "Galatians 2:9 should be read within the flow of its chapter and the larger argument of Galatians."
+    "This verse belongs to Paul’s account in [Galatians 2:6–10](https://thewayofscripture.com/passages/galatians-2-6-10.html). The Jerusalem leaders recognized the grace given to him and the work God was doing through his ministry.",
+    "",
+    "Paul names James, Cephas and John as people regarded as pillars. They extended fellowship to Paul and Barnabas, recognizing their work among the Gentiles while continuing their own work among the circumcised.",
+    "",
+    "The wider paragraph speaks of the same God at work through different workers and ends with a shared concern for the poor. Fellowship here has both a gospel foundation and practical responsibilities."
   ],
   "common_interpretation_lines": [
-    "James, the Lord's brother, clearly carries real weight in Jerusalem. Paul names him among the \"pillars\" of the church (Galatians 2:9). At the Jerusalem council, James speaks last and delivers the summary judgment: \"Therefore my judgment is that we should not trouble those of the Gentiles who turn to God\" (Acts 15:19). When Paul later returns to Jerusalem, he goes to see James, and \"all the elders were present\" (Acts 21:18).",
+    "Christians commonly read the gesture as recognition of shared work in the gospel. [Wesley’s note on verse 9](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-galatians/) describes receiving Paul and Barnabas as fellow workers; the [USCCB note on verses 7–9](https://bible.usccb.org/bible/galatians/2) likewise connects the fellowship with recognition of Paul’s mission."
+  ],
+  "god_plan_lines": [
+    "[Romans 15:25–27](https://biblehub.com/bsb/romans/15.htm) describes Gentile believers contributing to poor believers in Jerusalem. Paul connects their material help with the spiritual blessings they have shared.",
     "",
-    "So did Jerusalem have a head bishop, decades before the office supposedly developed?",
-    "",
-    "Look closer at how the text actually presents it. The Jerusalem council's decision is never James acting alone \u2014 it comes from \"the apostles and the elders, with the whole church\" (Acts 15:22), and the resulting letter is sent in the name of \"the brothers, both the apostles and the elders\" (Acts 15:23). James speaks with recognized authority, but the decision and the letter are corporate. And when Paul visits in Acts 21, James is never alone \u2014 the elders are present with him, functioning as a body, every time Scripture puts James in a leadership scene."
+    "That later collection gives practical expression to the fellowship recognized here. Different areas of ministry belong within a shared faith, and that relationship includes care for one another across the distance between communities."
+  ],
+  "current_position_lines": [
+    "Our study [Who Shepherds the Church?](https://thewayofscripture.com/studies/who-shepherds-the-church.html), in its discussion of James, recognizes the real authority and standing he had among the Jerusalem believers. It reads that standing alongside the other leaders and the shared decision-making described in Acts 15 and 21. The study distinguishes recognized personal standing from a separate rank meant to be reproduced in every church."
   ],
   "deeper_study": [
     {
       "title": "Who Shepherds the Church?",
       "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/galatians/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-galatians-two-review.md",
+    "position_source_detail": "Who Shepherds the Church? — But Wasn’t James the Head of the Church?; content/studies/who_shepherds_the_church.md:64–76."
+  }
 }

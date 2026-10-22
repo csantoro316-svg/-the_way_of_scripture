@@ -1,0 +1,13 @@
+# John 18 complete and live
+
+Arrest, questioning/Peter's denials and the first Pilate hearing now have researched explanations. Annas/Caiaphas chronology is fairly attributed; independent Josephus history supports earlier appointments. All positions remain open. [Evidence](../testing/2026-10-19-john-eighteen-review.md).
+
+Three fresh BSB checks,eighttests,zeroerrors /315warnings,preservation/coverage/navigation/idempotence,390px reader/standalone/actualNext,Hostingdryrun/deployment passed. Seven affected/five whole-chapter live files match.
+
+John:106 reviewed pages /780 actual BSB verses /106 plans /43 study positions /63 open;107 sources /1 unreviewed legacy reference. Whole PDF through606read,includingall19lesson576–601and20opening602–606. Next19fourgroups1–16/17–27/28–37/38–42,allpositionsopen(noexistingstudyrefsfound);no draftyet.
+
+Actual BSB19:1–27read;28–42notyetread. Calvin19:11/25–28/30/34relevantparagraphsread;34remainder recovered but accidental missing35heading caused broad output truncation: only initial34 remainder and36/37partial visible; do not claim full36–42. Actual Thayer5055entry read at end of output: finish/accomplish19:28/30;paydifferentcontext,notreceiptproof. WholeWesleyXIXnotyetread. ActualCCC963–965read (MarymotherChurch/disciple);766primarymodernURLfailed,workingarchive__P27identifiedbutnotyetread. SourceCalvin34alsoacceptsAugustinebaptism/supperflowfromside,so do notinventallReformedrejectsacramentalimagery. Need remainingBSB/primaries/crossrefs beforedraft.
+
+Baseline errors/exclusions19: ThursdayAD28contradicts earlierWednesdayAD34and unsupportedage33claim; noexactdate/hourmethodorPassoverlambsdaybreakrule; laterfixed3+3hourscodedascurse/wrath nottext; Godheadrelationshipceased/spiritualdeathatnoon notadopted; John20:17alsoMyGod,so onlytimeclaimfalse; Niogenesdarknessrecord unverified; no medispeculation/asphyxiationuniversalmechanism; no exactwhip40lashes/secondscourging/glassclaim. SinlessJesusphysicallycouldneverdiefromwoundsunproved. No receiptpaid-in-fulllexicalproof; no allwateralwaysmercyorhellthirstprovesJesusinhell. Scapegoat differs from sacrificedgoatburnedoutsidecamp;useactualHeb13. No Joseph/NicodemusbothabsentSanhedrintextclaim,housecosttomborwealthreturned/gravecouldbereused guarantee.
+
+Baseline20opening exclusions: MarymotherJamesnotautomaticallyMarymotherJesus; SalomeMarysisterJohnmothergenealogyunproved; noauthorstatesMaryordinarytoopposelaterCatholicdoctrine; no exact2womengrouptime-line/4am/Thursburial assumption; no womenuniversallyuntrustworthy legalrule; no exactstonegeometry/weight; no resurrectionphysicsinferredsolelyfromwrappings.

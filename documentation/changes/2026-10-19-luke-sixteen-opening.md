@@ -1,0 +1,7 @@
+# Luke 16:1–13 published
+
+Two groups cover the dishonest manager, future-minded use of wealth, faithfulness and loyalty to God. Commission explanation is attributed as USCCB commentary and distinguished from Luke’s stated facts. Both positions remain open.
+
+Luke105reviewedgroups/all740BSBverses through16:13;109sources/fourlegacyunreviewed;105plans/ninestudypositions/96open. Evidence [openingreview](../testing/2026-10-19-luke-sixteen-opening-review.md). ExactBSB/eighttests/0errors348warnings/preservation/coverage/nav/idempotence/390pxreader+standalone/actualNext/Hosting/sixlivebytespassed.Nooutstandingdeployment.
+
+Continue16:14–31, suggested14–17/18/19–31. Full16B696–711read;17A712firstpageread;entirePDFthrough712read,713onwardunread.No nextdrafts. ActualBSBremainder16:14–31/Rom3:21–26/Luke24:25–27,44–47/Eph5:25–33/Gen2:21–24/Deut15:7–11/James2:14–17/John11:43–53/Matt19:3–9/1Cor7:10–16read.Thayer971and86actualread;WesleyXVIentire/USCCB16notesread. Catholic2382–86actualcacheandWestminster24.5–6/32.1–3actualreread;OCAonMarriageF225–233andUMCSocialPrinciplesDivorce147–149freshwebopened/read. Catholic633actual__P1Rread(includingpreChristdeadcondition);notnewsiteafterlifemap. No negativeviolentPhariseesforcingkingdomasconsensus,no Pharisaicdivorcefees/rich-onlydivorcehistory,no exactHadescompartmentmaporfaithcannotinvolveevidence.Lazarusstorynamingdoesnotproveidentifiableactualhistory.

@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "18:1-5",
+    "label": "Acts 18:1-5",
+    "slug": "acts-18-1-5"
+  },
+  "section_title": "How do shared work and returning companions support Paul in Corinth?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 After this, Paul left Athens and went to Corinth. 2 There he found a Jew named Aquila, a native of Pontus, who had recently come from Italy with his wife Priscilla because Claudius had ordered all the Jews to leave Rome. Paul went to visit them, 3 and he stayed and worked with them because they were tentmakers by trade, just as he was.",
+        "4 Every Sabbath he reasoned in the synagogue, trying to persuade Jews and Greeks alike. 5 And when Silas and Timothy came down from Macedonia, Paul devoted himself fully to the word, testifying to the Jews that Jesus is the Christ."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul leaves Athens for Corinth, where he meets Aquila and Priscilla. They have recently come from Italy because Claudius ordered the Jews to leave Rome. Paul stays and works with them because they share the trade of tentmaking. Luke does not tell us precisely when the couple first believed in Jesus.",
+    "",
+    "The Roman writer [Suetonius, Claudius 25.4](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Claudius*.html), also records an expulsion of Jews from Rome, connecting it with disturbances associated with someone he calls Chrestus. This supports the historical setting of the expulsion without settling every detail of the dispute or exactly what Suetonius understood about it.",
+    "",
+    "Paul reasons in the synagogue each Sabbath, seeking to persuade Jewish and Greek hearers. When Silas and Timothy arrive from Macedonia, he devotes himself fully to proclaiming the word and testifying that Jesus is the Christ—the promised Messiah.",
+    "",
+    "The description of his devotion uses **συνέχω** (*synechō*, soo-NEH-khoh). [Thayer’s entry](https://biblehub.com/greek/4912.htm) gives the sense of being closely occupied with a task in Acts 18:5. Paul’s concentration on teaching increases; the word itself does not tell us every detail of his working hours or finances."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly see practical work, hospitality and fellow workers supporting the preaching in this account. Paul works with his hands and teaches; neither activity makes the other unimportant. His example here does not by itself require every Christian teacher to follow one identical pattern of employment."
+  ],
+  "god_plan_lines": [
+    "In [2 Corinthians 11:7–9](https://biblehub.com/bsb/2_corinthians/11.htm), Paul recalls receiving help from other churches and having his needs supplied by brothers arriving from Macedonia while he was serving the Corinthians. Together with Luke’s account, this shows how one community’s generosity helps the message reach another. God’s work includes the people who welcome, work alongside and support the messenger."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/18.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-eighteen-review.md"
+  }
+}

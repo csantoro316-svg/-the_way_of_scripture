@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "14:1-6",
+    "label": "Luke 14:1-6",
+    "slug": "luke-14-1-6"
+  },
+  "section_title": "Why does Jesus ask about rescue on the Sabbath?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 One Sabbath, Jesus went to eat in the home of a leading Pharisee, and those in attendance were watching Him closely. 2 Right there before Him was a man with dropsy. 3 So Jesus asked the experts in the law and the Pharisees, “Is it lawful to heal on the Sabbath or not?” 4 But they remained silent. Then Jesus took hold of the man, healed him, and sent him on his way.",
+        "5 And He asked them, “Which of you whose son or ox falls into a pit on the Sabbath day will not immediately pull him out?” 6 And they were unable to answer these questions."
+      ]
+    }
+  ],
+  "context_lines": [
+    "One Sabbath, Jesus goes to eat at the home of a leading Pharisee, where the guests watch Him closely. A man with dropsy is there before Him. Dropsy is another name for edema, swelling caused by fluid in the body’s tissues. Luke does not name the underlying cause in this man’s case. ([MedlinePlus: edema](https://medlineplus.gov/edema.html))",
+    "",
+    "Jesus asks the experts in the law and the Pharisees whether healing on the Sabbath is lawful. They remain silent. He takes hold of the man, heals him and sends him on his way.",
+    "",
+    "Then He asks whether they would immediately rescue a son or an ox that had fallen into a pit on the Sabbath. They cannot answer. The question places His act of healing alongside the urgent rescue they would recognize in their own lives."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand Jesus as defending mercy and rescue as fitting the Sabbath. The Catholic bishops’ notes connect this scene with the preceding healing of the woman, where care for an animal exposes the inconsistency of objecting to a person’s release. ([USCCB notes on Luke 14:1–6 and Luke 13:15–16](https://bible.usccb.org/bible/luke/14); [Luke 13:10–17](https://biblehub.com/bsb/luke/13.htm))"
+  ],
+  "god_plan_lines": [
+    "Colossians describes the Sabbath and other observances as a shadow whose reality belongs to Christ. Read alongside Jesus’ healing, that connection places the day within God’s purpose that comes into view through Him. ([Colossians 2:16–17](https://biblehub.com/bsb/colossians/2.htm))",
+    "",
+    "Hebrews speaks of the rest that remains for God’s people and calls them to enter it faithfully. The rescue in this meal scene can be read within that larger theme of the good God intends for His people, rather than setting His command against His mercy. ([Hebrews 4:9–11](https://biblehub.com/bsb/hebrews/4.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/14.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-fourteen-opening-review.md"
+  }
+}

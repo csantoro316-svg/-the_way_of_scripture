@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "12:20-26",
+    "label": "John 12:20-26",
+    "slug": "john-12-20-26"
+  },
+  "section_title": "Why does Jesus compare His death with a seed?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "20 Now there were some Greeks among those who went up to worship at the feast. 21 They came to Philip, who was from Bethsaida in Galilee, and requested of him, “Sir, we want to see Jesus.” 22 Philip relayed this appeal to Andrew, and both of them went and told Jesus. 23 But Jesus replied, “The hour has come for the Son of Man to be glorified.",
+        "24 Truly, truly, I tell you, unless a kernel of wheat falls to the ground and dies, it remains only a seed. But if it dies, it bears much fruit. 25 Whoever loves his life will lose it, but whoever hates his life in this world will keep it for eternal life. 26 If anyone serves Me, he must follow Me; and where I am, My servant will be as well. If anyone serves Me, the Father will honor him."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Some people John calls Greeks have come to worship at the feast and ask Philip to help them see Jesus. Philip tells Andrew, and they bring the request to Him. John does not record the visitors’ later conversation with Jesus. Instead, he gives Jesus’ announcement that the hour has come for the Son of Man to be glorified.",
+    "",
+    "The picture of a kernel of wheat explains why death lies on that path. A seed kept alone does not produce a crop; in the picture Jesus uses, its death leads to much fruit. He is preparing His listeners to understand His death through what it will bring, rather than see it only as the loss of a teacher.",
+    "",
+    "He then speaks to those who would serve Him. Loving or hating one’s life is about what has first place: clinging to life on one’s own terms or following Him. The contrast calls for a loyalty that can be costly. It does not mean that life has no value; the promise itself is eternal life.",
+    "",
+    "The servant is called to follow where Jesus leads and is promised the Father’s honor. This joins the coming self-giving of Jesus with the life of His followers. They are not asked to produce His saving work, but to belong to Him and follow Him through the cost of serving."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read the seed as a picture of Jesus’ death bringing life to others, with His followers called to costly faithfulness. [Calvin on verses 24–26](https://biblehub.com/commentaries/calvin/john/12.htm) and [Wesley on those verses](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) share that central reading.",
+    "",
+    "Commentators differ over the visitors’ background. Wesley understands them as Gentiles seeking Israel’s God. The [Catholic bishops’ note on verse 20](https://bible.usccb.org/bible/john/12) considers them probably Gentile converts to Judaism. Calvin instead takes them as Jews living among Greek-speaking peoples. These are interpretations of the group John calls Greeks; the passage does not supply a fuller biography."
+  ],
+  "god_plan_lines": [
+    "A helpful parallel appears in [Isaiah 53:10–12](https://biblehub.com/bsb/isaiah/53.htm): the Servant gives His life, bears others’ sins and sees the outcome of His suffering. Jesus’ picture likewise looks beyond His death to the people who will receive life through Him.",
+    "",
+    "[1 Corinthians 15:35–38](https://biblehub.com/bsb/1_corinthians/15.htm) uses the image of a seed when explaining the future resurrection body. The two passages use the picture for distinct but connected purposes: Jesus gives His life so that others may live, and God will bring His people into risen life. Death does not have the final word in either picture."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/12.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-twelve-cross-review.md"
+  }
+}

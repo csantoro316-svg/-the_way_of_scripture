@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Revelation",
+    "citation": "22:20-21",
+    "label": "Revelation 22:20-21",
+    "slug": "revelation-22-20-21"
+  },
+  "section_title": "How does Revelation end?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "20 He who testifies to these things says, “Yes, I am coming soon.” Amen. Come, Lord Jesus! 21 The grace of the Lord Jesus be with all the saints. Amen."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The One who testifies repeats His promise to come soon. John answers with Amen and the prayer Come, Lord Jesus. The book closes with the grace of the Lord Jesus for all the saints.",
+    "",
+    "The final response is personal and shared: hope in Christ’s coming, prayer directed to Him and dependence on His grace. The visions leave their hearers with that promise and prayer."
+  ],
+  "common_interpretation_lines": [
+    "The closing words are broadly read as a promise of Christ’s return, a prayer for Him to come and a blessing on His people. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-revelation-of-jesus-christ/) emphasizes the church’s desire for the fulfillment of Christ’s promise. The [USCCB notes](https://bible.usccb.org/bible/revelation/22) connect the prayer with the similar appeal at the end of 1 Corinthians. Both explanations emphasize hope for Christ and His grace for His people."
+  ],
+  "god_plan_lines": [
+    "The prayer and blessing recall [1 Corinthians 16:22–24](https://biblehub.com/bsb/1_corinthians/16.htm), where a call for the Lord to come stands beside the grace of Jesus and love for His people. Revelation’s ending belongs within that wider hope and dependence.",
+    "",
+    "[Titus 2:11–14](https://biblehub.com/bsb/titus/2.htm) joins grace with waiting for Christ’s glorious appearance and living faithfully in the present. The last words of Revelation direct its hearers toward the same response: receive His grace, remain His people and look for His coming."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/revelation/22.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-revelation-twenty-two-review.md"
+  }
+}

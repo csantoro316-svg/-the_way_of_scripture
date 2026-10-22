@@ -1,0 +1,67 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "17:1-14",
+    "label": "2 Samuel 17:1-14",
+    "slug": "2-samuel-17-1-14"
+  },
+  "section_title": "Why does Absalom choose the plan that gives David time?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Furthermore, Ahithophel said to Absalom, “Let me choose twelve thousand men and set out tonight in pursuit of David. 2 I will attack him while he is weak and weary; I will throw him into a panic, and all the people with him will flee; I will strike down only the king 3 and bring all the people back to you as a bride returning to her husband. You seek the life of only one man; then all the people will be at peace.” 4 This proposal seemed good to Absalom and all the elders of Israel.",
+        "5 Then Absalom said, “Summon Hushai the Archite as well, and let us hear what he too has to say.” 6 So Hushai came to Absalom, who told him, “Ahithophel has spoken this proposal. Should we carry it out? If not, what do you say?” 7 Hushai replied, “This time the advice of Ahithophel is not sound.” 8 He continued, “You know your father and his men. They are mighty men, and as fierce as a wild bear robbed of her cubs. Moreover, your father is a man of war who will not spend the night with the troops. 9 Surely by now he is hiding in a cave or some other location. If some of your troops fall first, whoever hears of it will say, ‘There has been a slaughter among the troops who follow Absalom.’ 10 Then even the most valiant soldier with the heart of a lion will melt with fear, because all Israel knows that your father is a mighty man who has valiant men with him.",
+        "11 Instead, I advise that all Israel from Dan to Beersheba—a multitude like the sand on the seashore—be gathered to you, and that you yourself lead them into battle. 12 Then we will attack David wherever we find him, and we will descend on him like dew on the ground. And of all the men with him, not even one will remain. 13 If he retreats to a city, all Israel will bring ropes to that city, and we will drag it down to the valley until not even a pebble can be found there.” 14 Then Absalom and all the men of Israel said, “The advice of Hushai the Archite is better than that of Ahithophel.” For the LORD had purposed to thwart the good counsel of Ahithophel in order to bring disaster on Absalom."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Ahithophel proposes an immediate pursuit with twelve thousand men. He expects to find David weary, scatter his supporters and kill the king, bringing the rest back under Absalom. Absalom and the elders approve.",
+    "",
+    "Absalom nevertheless asks Hushai for advice. Hushai stresses David’s experience and the danger of attacking a fierce and hidden enemy. He urges Absalom to gather a much larger force and lead it personally, promising an overwhelming victory.",
+    "",
+    "Absalom and his supporters prefer Hushai’s advice. The narrator then gives the deeper explanation: the LORD has purposed to thwart Ahithophel’s effective counsel and bring disaster on Absalom. The delay serves David’s escape rather than the quick victory Ahithophel intended."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) understands Hushai’s proposal as a way of gaining time for David to prepare. Its promise of a great army and a victory personally led by Absalom also offers the kind of public glory that can make delay seem attractive.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/17.htm) and [Gill](https://biblehub.com/commentaries/gill/2_samuel/17.htm) emphasize the LORD’s overruling of the competing plans. Gill explains the good counsel as advice well suited to Absalom’s aim. Calling a plan effective is different from approving the murder it seeks to accomplish.",
+    "",
+    "Hushai’s confident description of David’s hiding place is part of his persuasive speech. The narrator does not independently confirm every cave, expected attack or promised result he describes."
+  ],
+  "god_plan_lines": [
+    "The chapter directly states that the contest of counselors remains within God’s purpose. The revolt does not become beyond His reach because a skilled adviser has devised a dangerous plan.",
+    "",
+    "[Ephesians 1:9–11](https://biblehub.com/bsb/ephesians/1.htm) gives the wider saving purpose its center: God brings all things together in Christ and works according to His will. That is a larger horizon than either side’s immediate struggle for a throne.",
+    "",
+    "This is a connection through Scripture’s account of God’s purpose, not a claim that Paul directly interprets this council meeting. It gives grounds for confidence in God without requiring us to approve every human scheme."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/17.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-sixteen-seventeen-review.md"
+  }
+}

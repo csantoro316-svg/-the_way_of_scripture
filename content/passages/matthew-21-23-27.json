@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "21:23-27",
+    "label": "Matthew 21:23-27",
+    "slug": "matthew-21-23-27"
+  },
+  "section_title": "The Leaders Question Jesus’ Authority",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "23 When Jesus returned to the temple courts and began to teach, the chief priests and elders of the people came up to Him. “By what authority are You doing these things?” they asked. “And who gave You this authority?” 24 “I will also ask you one question,” Jesus replied, “and if you answer Me, I will tell you by what authority I am doing these things. 25 What was the source of John’s baptism? Was it from heaven or from men?” They deliberated among themselves and said, “If we say, ‘From heaven,’ He will ask, ‘Why then did you not believe him?’ 26 But if we say, ‘From men,’ we are afraid of the people, for they all regard John as a prophet.” 27 So they answered, “We do not know.” And Jesus replied, “Neither will I tell you by what authority I am doing these things."
+      ]
+    }
+  ],
+  "context_lines": [
+    "While Jesus teaches in the temple courts, the chief priests and elders ask what authority He has and who gave it to Him. The question follows His entry, His actions in the temple, and His healings. His right to do these things is being challenged.",
+    "",
+    "Jesus answers with a question about John's baptism: did it come from heaven or from people? The leaders discuss the consequences of either answer. If they acknowledge that John's ministry came from God, they must explain why they did not believe him. If they deny it, they fear the people, who regard John as a prophet.",
+    "",
+    "They answer that they do not know, and Jesus declines to answer their original question. The next parable returns directly to their response to John. This exchange is therefore about more than the wording of a difficult question: it exposes their refusal to respond to a ministry calling them to repentance."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Jesus' question to expose the leaders' unwillingness to acknowledge God's work through John. [Wesley on 21:24–27](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) connects John's ministry with his testimony to Jesus, and the [US Catholic bishops' note on 21:27](https://bible.usccb.org/bible/matthew/21) emphasizes how their embarrassment and fear shape their refusal to answer."
+  ],
+  "god_plan_lines": [
+    "John's ministry belongs within God's witness to His Son. In [John 1:29–34](https://biblehub.com/bsb/john/1.htm), John explains that his baptizing ministry served to reveal Jesus to Israel, and he testifies to the Spirit resting on Him. The question about John therefore reaches into the preparation for recognizing Jesus.",
+    "",
+    "Jesus also speaks of the Father's witness in [John 5:36–40](https://biblehub.com/bsb/john/5.htm). His works and the Scriptures testify to Him, yet His hearers refuse to come to Him for life. The dispute in the temple belongs within that larger issue of how people respond to the One the Father has sent."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/21.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-one-review.md"
+  }
+}

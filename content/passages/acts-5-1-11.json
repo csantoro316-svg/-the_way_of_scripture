@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "5:1-11",
+    "label": "Acts 5:1-11",
+    "slug": "acts-5-1-11"
+  },
+  "section_title": "Why is the deception of Ananias and Sapphira so serious?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Now a man named Ananias, together with his wife Sapphira, also sold a piece of property. 2 With his wife’s full knowledge, he kept back some of the proceeds for himself, but brought a portion and laid it at the apostles’ feet. 3 Then Peter said, “Ananias, how is it that Satan has filled your heart to lie to the Holy Spirit and withhold some of the proceeds from the land? 4 Did it not belong to you before it was sold? And after it was sold, was it not at your disposal? How could you conceive such a deed in your heart? You have not lied to men, but to God!” 5 On hearing these words, Ananias fell down and died. And great fear came over all who heard what had happened. 6 Then the young men stepped forward, wrapped up his body, and carried him out and buried him.",
+        "7 About three hours later his wife also came in, unaware of what had happened. 8 “Tell me,” said Peter, “is this the price you and your husband got for the land?” “Yes,” she answered, “that is the price.” 9 “How could you agree to test the Spirit of the Lord?” Peter replied. “Look, the feet of the men who buried your husband are at the door, and they will carry you out also.” 10 At that instant she fell down at his feet and died. Then the young men came in and, finding her dead, carried her out and buried her beside her husband. 11 And great fear came over the whole church and all who heard about these events."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After Barnabas’s example of generosity, Luke describes a contrasting gift. Ananias sells property, keeps some of the proceeds with his wife’s knowledge, and presents a portion to the apostles. Peter exposes the deception and identifies it as lying to the Holy Spirit and to God.",
+    "",
+    "The verb used for keeping back is νοσφίζω, nosphizō (NOHS-fee-zoh). [Thayer’s lexicon](https://biblehub.com/greek/3557.htm) explains the use as secretly setting something apart for oneself, and lists Acts 5:2–3. The concealment matters. Peter expressly says the property and its proceeds had been at Ananias’s disposal.",
+    "",
+    "Ananias falls down and dies. About three hours later, Sapphira arrives without knowing what has happened. Peter asks about the price, and she confirms the false account. He describes their action as an agreement to test the Spirit of the Lord; she also falls down and dies.",
+    "",
+    "The result is great fear within the church and among those who hear. The account presents the deception as something done in God’s presence, rather than a private financial arrangement that has no bearing on the community."
+  ],
+  "common_interpretation_lines": [
+    "A common reading locates the offense in deception rather than simply in giving less than the full sale price. [Calvin on verse 4](https://biblehub.com/commentaries/calvin/acts/5.htm) emphasizes the freedom to keep the property or money, and [the USCCB’s note on verses 1–11](https://bible.usccb.org/bible/acts/5) likewise distinguishes withholding money from deceiving the community.",
+    "",
+    "Commentators differ about the couple’s standing. [Wesley on verse 1](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) takes Ananias to be an unbeliever. [Thomas Constable’s discussion following verse 11](https://soniclight.com/tcon/notes/html/acts/acts.htm) understands the couple as believers receiving severe judgment. Those conclusions go beyond a direct statement about their eternal fate in Luke’s account.",
+    "",
+    "The identification of lying to the Spirit with lying to God is also important. Calvin’s note on verse 4 and Wesley’s note on that verse both understand it as testimony to the Holy Spirit’s deity."
+  ],
+  "god_plan_lines": [
+    "The account recalls the hidden wrongdoing and judgment within God’s people in [Joshua 7:1, 10–12, 19–26](https://biblehub.com/bsb/joshua/7.htm). Thayer’s entry also notes the same verb in the Greek version of Joshua 7:1. This is a parallel of concealed wrongdoing, not a claim that Ananias’s privately owned field was subject to the same command as the goods at Jericho.",
+    "",
+    "[1 Corinthians 11:27–32](https://biblehub.com/bsb/1_corinthians/11.htm) also describes serious judgment within the church, while distinguishing the Lord’s discipline from condemnation with the world. Together these passages show that belonging to a community shaped by grace does not make dishonesty or disregard for God harmless. That wider comparison does not decide the couple’s individual eternal fate."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/5.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-five-review.md"
+  }
+}

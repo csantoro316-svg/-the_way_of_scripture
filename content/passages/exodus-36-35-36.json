@@ -5,23 +5,55 @@
     "label": "Exodus 36:35-36",
     "slug": "exodus-36-35-36"
   },
-  "section_title": "The Veil",
+  "section_title": "What does the inner veil separate?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "35 Next, he made the veil of blue, purple, and scarlet yarn, and finely spun linen, with cherubim skillfully worked into it.",
-        "36 He also made four posts of acacia wood for it and overlaid them with gold, along with gold hooks; and he cast four silver bases for the posts."
+        "35 Next, he made the veil of blue, purple, and scarlet yarn, and finely spun linen, with cherubim skillfully worked into it. 36 He also made four posts of acacia wood for it and overlaid them with gold, along with gold hooks; and he cast four silver bases for the posts."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 36**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "The workers make the inner veil from blue, purple, and scarlet yarn and finely spun linen, with cherubim worked into it. Four acacia posts overlaid with gold, supported by silver bases, hold it in place.",
+    "",
+    "This is the partition described in [Exodus 26:31–35](https://biblehub.com/bsb/exodus/26.htm), separating the Holy Place from the Most Holy Place where the ark belongs. It is different from the entrance curtain made next. Its beauty does not remove the boundary it establishes."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Veil** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 36** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) understands the veil as marking the distance and limited revelation of the old covenant compared with the nearness opened in the New Testament. He also looks toward the fuller knowledge of God that His people will enjoy with Him."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[Hebrews 10:19–25](https://biblehub.com/bsb/hebrews/10.htm) makes the connection with Christ explicit. Believers can enter the Most Holy Place by Jesus’ blood, through the living way opened through the curtain of His body. The response is to draw near in faith, hold firmly to hope, and encourage one another in love and good deeds.",
+    "",
+    "The movement is from restricted approach to confident access through Christ. That access also creates responsibility toward other people: Hebrews joins drawing near to God with gathering and encouraging His people."
+  ],
+  "current_position_lines": [
+    "As explained in [The True Church According to Jesus](https://thewayofscripture.com/studies/true-church.html), Christ’s torn veil means that every believer now has direct access to God and a calling to minister. That existing conclusion guides our application here: access to God through Christ is shared by His people."
+  ],
+  "deeper_study": [
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/exodus/36.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-21-exodus-thirty-six-review.md",
+    "position_source_detail": "The True Church According to Jesus, content/studies/true_church.md:83; direct torn-veil/access/shared-ministry conclusion, also applied to the corresponding instructions in Ex26:31–35. No additional claim about church traditions imported."
+  }
 }

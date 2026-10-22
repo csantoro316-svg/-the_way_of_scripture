@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "10:4-9",
+    "label": "Daniel 10:4-9",
+    "slug": "daniel-10-4-9"
+  },
+  "section_title": "What does Daniel see beside the Tigris?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "4 On the twenty-fourth day of the first month, as I was standing on the bank of the great river, the Tigris, 5 I lifted up my eyes, and behold, there was a certain man dressed in linen, with a belt of fine gold from Uphaz around his waist. 6 His body was like beryl, his face like the brilliance of lightning, his eyes like flaming torches, his arms and legs like the gleam of polished bronze, and his voice like the sound of a multitude.",
+        "7 Only I, Daniel, saw the vision; the men with me did not see it, but a great terror fell upon them, and they ran and hid themselves. 8 So I was left alone, gazing at this great vision. No strength remained in me; my face grew deathly pale, and I was powerless. 9 I heard the sound of his words, and as I listened, I fell into a deep sleep, with my face to the ground."
+      ]
+    }
+  ],
+  "context_lines": [
+    "On the twenty-fourth day of the first month, Daniel stands beside the Tigris. He sees a man dressed in linen with a belt of fine gold. The figure’s body, face, eyes, limbs and voice are described through brilliant light, fire, polished bronze and the sound of a multitude.",
+    "",
+    "Daniel alone sees the vision, though his companions are terrified and flee. Left alone, he loses his strength and turns pale. As he hears the voice, he falls facedown into a deep sleep.",
+    "",
+    "The description presents an overwhelming heavenly encounter. Before Daniel can receive the explanation, he must be helped to stand and listen."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/daniel/10.htm), [Wesley](https://biblehub.com/commentaries/wes/daniel/10.htm) and [Gaebelein](https://biblehub.com/commentaries/gaebelein/daniel/10.htm) understand the radiant figure as Christ appearing before His earthly life. The [USCCB notes](https://bible.usccb.org/bible/daniel/10) instead suggest Gabriel. [Cambridge](https://biblehub.com/commentaries/cambridge/daniel/10.htm) emphasizes the heavenly appearance and its similarities to Ezekiel and Revelation.",
+    "",
+    "The identity is interpreted differently; the figure’s radiance and Daniel’s overwhelming response are plain features of the account."
+  ],
+  "god_plan_lines": [
+    "[Revelation 1:12–18](https://biblehub.com/bsb/revelation/1.htm) takes up similar imagery in John’s vision of Jesus: a robe and golden sash, fiery eyes, gleaming feet and a powerful voice. John also falls as though dead and receives reassurance.",
+    "",
+    "The connection does not require treating every detail as proof of the figure’s identity in Daniel. Revelation clearly identifies the risen Jesus as the Living One who holds the keys of Death and Hades. The majesty that overwhelms the witness is joined with words of reassurance and Christ’s victory over death."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Who is The Angel of the Lord?",
+      "href": "../studies/angel-of-the-lord.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/10.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-ten-review.md"
+  }
+}

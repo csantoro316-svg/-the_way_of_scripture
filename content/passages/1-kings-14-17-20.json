@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "14:17-20",
+    "label": "1 Kings 14:17-20",
+    "slug": "1-kings-14-17-20"
+  },
+  "section_title": "What happens when Jeroboam’s wife returns home?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 Then Jeroboam’s wife got up and departed for Tirzah, and as soon as she stepped over the threshold of the house, the boy died. 18 And they buried him, and all Israel mourned for him, according to the word that the LORD had spoken through His servant Ahijah the prophet. 19 As for the rest of the acts of Jeroboam, how he waged war and how he reigned, they are indeed written in the Book of the Chronicles of the Kings of Israel. 20 And the length of Jeroboam’s reign was twenty-two years, and he rested with his fathers, and his son Nadab reigned in his place."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jeroboam’s wife returns to Tirzah. As she crosses the threshold of the house, the boy dies. He is buried, and Israel mourns for him, as Ahijah had announced.",
+    "",
+    "The narrator then closes the account of Jeroboam’s reign, referring to the Book of the Chronicles of the Kings of Israel for his other deeds and wars. He reigns twenty-two years, dies, and is succeeded by his son Nadab.",
+    "",
+    "The boy’s death and the public mourning confirm the immediate part of Ahijah’s message. The rest of the warning still stands over the dynasty Nadab inherits."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) and [Gill](https://biblehub.com/commentaries/gill/1_kings/14.htm) read the precise return and death as confirmation of the prophetic word. They distinguish the royal chronicles mentioned here from the biblical books bearing the name Chronicles.",
+    "",
+    "The account’s focus is selective: the king’s other deeds are acknowledged, while the narrative keeps the consequences of his religious choices before the reader."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/14.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-fourteen-review.md"
+  }
+}

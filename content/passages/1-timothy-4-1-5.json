@@ -1,0 +1,69 @@
+{
+  "reference": {
+    "book": "1 Timothy",
+    "citation": "4:1-5",
+    "label": "1 Timothy 4:1-5",
+    "slug": "1-timothy-4-1-5"
+  },
+  "section_title": "Why does Paul defend marriage and God’s good creation?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Now the Spirit expressly states that in later times some will abandon the faith to follow deceitful spirits and the teachings of demons, 2 influenced by the hypocrisy of liars, whose consciences are seared with a hot iron. 3 They will prohibit marriage and require abstinence from certain foods that God has created to be received with thanksgiving by those who believe and know the truth.",
+        "4 For every creation of God is good, and nothing that is received with thanksgiving should be rejected, 5 because it is sanctified by the word of God and prayer."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After describing the church’s confession of Christ, Paul warns that some will abandon the faith in later times, following deceitful spirits and demonic teachings. The influence works through people who speak falsely and whose consciences are seared.",
+    "",
+    "The teaching named here prohibits marriage and requires abstaining from foods God created to be received with thanks. Paul answers by affirming the goodness of God’s creation and its thankful reception.",
+    "",
+    "The word behind abandon is aphistemi (ah-FISS-tay-mee). [Thayer’s lexicon](https://biblehub.com/greek/868.htm) includes departure and falling away, explicitly citing this verse. The warning is serious. How it relates to a person’s earlier profession or possession of saving faith is part of the wider discussion of perseverance.",
+    "",
+    "God’s word and prayer frame the reception of His gifts. Paul’s answer to the false teaching is grateful dependence on the Creator, rather than a claim that His gifts are inherently unclean or incompatible with faithful life."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly see a warning against teachings that displace the truth and reject God’s good gifts. Their wider accounts of falling away differ: the Reformed [Westminster Confession, chapter 17](https://www.opc.org/wcf.html), affirms the final perseverance of true believers; Catholic [Catechism 162](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_three/article_1/iii_the_characteristics_of_faith.html) and Methodist [article XII](https://www.umc.org/en/content/articles-of-religion) allow a real loss of faith or departure from grace.",
+    "",
+    "Applications to celibacy and religious food rules also differ. [Calvin’s comment on verse 3](https://biblehub.com/commentaries/calvin/1_timothy/4.htm) applies the warning to compulsory religious restrictions on marriage and food. The Reformed [Westminster Confession, 22.7](https://www.opc.org/wcf.html), rejects monastic vows of lifelong celibacy.",
+    "",
+    "The Catholic [Catechism, 1618–1620](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_three/article_7/i_marriage_in_gods_plan.index.html), affirms both marriage and voluntary celibacy for God’s kingdom as good gifts from the Lord. It also commends penitential fasting in [paragraph 1438](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_two/article_4/v_the_many_forms_of_penance_in_christian_life.html). On that account, these practices express devotion rather than a judgment that creation is evil. The dispute concerns which restrictions fall under Paul’s warning, not whether God’s creation is good.",
+    "",
+    "On verse 5, [Wesley’s note](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-timothy/) understands God’s word as His creating and giving food, while the [USCCB note](https://bible.usccb.org/bible/1timothy/4) understands the phrase as invoking God’s name in blessing. Both keep prayer and grateful reception in view, with different explanations of the phrase."
+  ],
+  "god_plan_lines": [
+    "[Genesis 1:26–31](https://biblehub.com/bsb/genesis/1.htm) places humanity and its food within God’s good creation. [Genesis 2:18–25](https://biblehub.com/bsb/genesis/2.htm) similarly presents the union of man and woman as His provision. The warning here protects a thankful response to the Creator’s gifts.",
+    "",
+    "[2 Thessalonians 2:1–12](https://biblehub.com/bsb/2_thessalonians/2.htm) supplies a broader parallel in its warning about rebellion and deception. It also names Christ’s victory at His coming. God’s purpose does not end with false teaching taking hold; the returning Lord brings opposition to its end."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_timothy/4.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-timothy-four-review.md"
+  }
+}

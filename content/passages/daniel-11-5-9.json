@@ -1,0 +1,50 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "11:5-9",
+    "label": "Daniel 11:5-9",
+    "slug": "daniel-11-5-9"
+  },
+  "section_title": "Why does the royal marriage fail to secure peace?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 The king of the South will grow strong, but one of his commanders will grow even stronger and will rule his own kingdom with great authority. 6 After some years they will form an alliance, and the daughter of the king of the South will go to the king of the North to seal the agreement. But his daughter will not retain her position of power, nor will his strength endure. At that time she will be given up, along with her royal escort and her father and the one who supported her.",
+        "7 But one from her family line will rise up in his place, come against the army of the king of the North, and enter his fortress, fighting and prevailing. 8 He will take even their gods captive to Egypt, with their metal images and their precious vessels of silver and gold. For some years he will stay away from the king of the North, 9 who will invade the realm of the king of the South and then return to his own land."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The explanation turns to kings of the South and North. One ruler’s commander becomes stronger than he is, establishing another powerful kingdom.",
+    "",
+    "After some years, a daughter from the southern royal house is given in marriage to seal an agreement with the northern king. The arrangement collapses, and she and those connected with her are given up.",
+    "",
+    "A member of her family then rises to power, attacks the northern kingdom and carries its valuables and gods to Egypt. Later the northern king invades the South and returns home. The marriage agreement has become another stage in a continuing struggle, rather than an enduring peace."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/daniel/11.htm) connects the rival kingdoms with the Ptolemies and Seleucids. He identifies the daughter as Berenice and the later southern campaign with her brother avenging her fate. The [USCCB notes](https://bible.usccb.org/bible/daniel/11) also connect the failed marriage with Berenice and Antiochus II."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/11.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-eleven-review.md"
+  }
+}

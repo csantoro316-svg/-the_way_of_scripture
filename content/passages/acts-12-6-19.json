@@ -1,0 +1,68 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "12:6-19",
+    "label": "Acts 12:6-19",
+    "slug": "acts-12-6-19"
+  },
+  "section_title": "How does Peter reach the people who are praying for him?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 On the night before Herod was to bring him to trial, Peter was sleeping between two soldiers, bound with two chains, with sentries standing guard at the entrance to the prison. 7 Suddenly an angel of the Lord appeared and a light shone in the cell. He tapped Peter on the side and woke him up, saying, “Get up quickly.” And the chains fell off his wrists. 8 “Get dressed and put on your sandals,” said the angel. Peter did so, and the angel told him, “Wrap your cloak around you and follow me.” 9 So Peter followed him out, but he was unaware that what the angel was doing was real. He thought he was only seeing a vision. 10 They passed the first and second guards and came to the iron gate leading to the city, which opened for them by itself. When they had gone outside and walked the length of one block, the angel suddenly left him. 11 Then Peter came to himself and said, “Now I know for sure that the Lord has sent His angel and rescued me from Herod’s grasp and from everything the Jewish people were anticipating.”",
+        "12 And when he had realized this, he went to the house of Mary the mother of John, also called Mark, where many people had gathered together and were praying. 13 He knocked at the outer gate, and a servant girl named Rhoda came to answer it. 14 When she recognized Peter’s voice, she was so overjoyed that she forgot to open the gate, but ran inside and announced, “Peter is standing at the gate!” 15 “You are out of your mind,” they told her. But when she kept insisting it was so, they said, “It must be his angel.” 16 But Peter kept on knocking, and when they opened the door and saw him, they were astounded. 17 Peter motioned with his hand for silence, and he described how the Lord had brought him out of the prison. “Send word to James and to the brothers,” he said, and he left for another place.",
+        "18 At daybreak there was no small commotion among the soldiers as to what had become of Peter. 19 After Herod had searched for him unsuccessfully, he examined the guards and ordered that they be executed. Then he went down from Judea to Caesarea and spent some time there."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Peter is asleep between two soldiers when an angel wakes him. His chains fall, he dresses and follows the angel past the guards and through the iron gate. At first he thinks he is seeing a vision. Once outside, he realizes that the Lord has actually rescued him.",
+    "",
+    "He goes to Mary’s house, where many people are praying. Rhoda recognizes his voice at the gate, but her joy sends her running inside before she lets him in. The others initially reject her report. Peter keeps knocking until they open the gate and see him.",
+    "",
+    "Peter quiets them and explains how the Lord brought him out. He asks them to tell James and the other believers, then leaves for another place. Luke does not identify his destination. This James is distinct from the brother of John killed earlier.",
+    "",
+    "At daybreak, Herod searches for Peter, questions the guards and orders their execution. The rescue is followed by further violence from the king. Luke then places Herod in Caesarea, preparing for the next scene."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the release as God’s action rather than Peter’s skill in escaping. The praying community’s surprise does not erase its prayer; [Calvin on verse 15](https://biblehub.com/commentaries/calvin/acts/12.htm) does not treat their inability to believe Rhoda as proof that they had prayed without faith.",
+    "",
+    "The words about Peter’s angel also raise a question about angelic care. The Catholic Church’s [Catechism, paragraph 336](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_one/article_1/paragraph_5_heaven_and_earth.html), teaches that an angel stands beside each believer as a protector. Calvin’s comment on verse 15 instead says this scene does not establish a particular angel assigned to every individual, while affirming God’s protection through angels. These are a church’s teaching and an individual Reformed commentator’s reading, respectively.",
+    "",
+    "Luke reports what the people say, then shows them discovering Peter himself at the gate. Their remark is not an explanation that angels must look or sound exactly like the people they protect."
+  ],
+  "god_plan_lines": [
+    "Peter’s rescue continues his service, but it does not mean he will never face death for following Jesus. In [John 21:18–19](https://biblehub.com/bsb/john/21.htm), Jesus had already spoken about the death by which Peter would glorify God and called him to follow.",
+    "",
+    "That connection keeps the deliverance in proportion. Being brought out of prison is a real gift, while faithful service can still include suffering. The story gives grounds for trust in the Lord without making escape from every danger the measure of His care."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/12.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twelve-review.md"
+  }
+}

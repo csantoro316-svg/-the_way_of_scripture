@@ -1,0 +1,52 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "17:24-29",
+    "label": "2 Samuel 17:24-29",
+    "slug": "2-samuel-17-24-29"
+  },
+  "section_title": "Who provides for David’s exhausted people?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "24 Then David went to Mahanaim, and Absalom crossed the Jordan with all the men of Israel. 25 Absalom had appointed Amasa over the army in place of Joab. Amasa was the son of a man named Ithra, the Ishmaelite who had married Abigail, the daughter of Nahash and sister of Zeruiah the mother of Joab. 26 So the Israelites and Absalom camped in the land of Gilead.",
+        "27 When David came to Mahanaim, he was met by Shobi son of Nahash from Rabbah of the Ammonites, Machir son of Ammiel from Lo-debar, and Barzillai the Gileadite from Rogelim. 28 They brought beds, basins, and earthen vessels, as well as wheat, barley, flour, roasted grain, beans, lentils, 29 honey, curds, sheep, and cheese from the herd for David and his people to eat. For they said, “The people have become hungry, exhausted, and thirsty in the wilderness.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "David reaches Mahanaim while Absalom crosses the Jordan and camps in Gilead. Absalom has appointed Amasa to command the army in Joab’s place. The conflict is moving toward another encounter.",
+    "",
+    "At Mahanaim, Shobi, Machir and Barzillai bring beds, vessels and plentiful food for David’s people. Their reason is direct: the people are hungry, exhausted and thirsty after the wilderness journey. Before the next battle, they need somewhere to rest and something to eat."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/17.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) see encouragement in help that comes to David from outside his immediate household while his own son pursues him. Loyalty appears in ordinary provision as well as in military decisions.",
+    "",
+    "Machir is the man who had housed Mephibosheth before David brought him to Jerusalem in [2 Samuel 9:4–5](https://biblehub.com/bsb/2_samuel/9.htm). The reappearance connects this help with a person already known for caring for someone in need.",
+    "",
+    "The scene gives the names and the provisions without explaining every private motive or political bargain. The practical point remains clear: these men recognize suffering and use what they have to sustain the people who arrive."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/17.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-sixteen-seventeen-review.md"
+  }
+}

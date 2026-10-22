@@ -11,12 +11,12 @@
       "label": "BSB",
       "paragraphs": [
         "16 To the woman He said:",
-        "\u201cI will sharply increase your pain in childbirth;",
+        "“I will sharply increase your pain in childbirth;",
         "in pain you will bring forth children.",
         "Your desire will be for your husband,",
-        "and he will rule over you.\u201d",
+        "and he will rule over you.”",
         "17 And to Adam He said:",
-        "\u201cBecause you have listened to the voice of your wife",
+        "“Because you have listened to the voice of your wife",
         "and have eaten from the tree",
         "of which I commanded you not to eat,",
         "cursed is the ground because of you;",
@@ -26,21 +26,46 @@
         "and you will eat the plants of the field.",
         "19 By the sweat of your brow",
         "you will eat your bread,",
-        "until you return to the ground\u2014",
+        "until you return to the ground—",
         "because out of it were you taken.",
         "For dust you are,",
-        "and to dust you shall return.\u201d",
+        "and to dust you shall return.”",
         "20 And Adam named his wife Eve, because she would be the mother of all the living."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 3**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "The consequences now enter the most familiar parts of life: having children, sharing a marriage, growing food, and facing death. Compare this with the gifts in chapters 1–2. The calling to fill the earth and care for it continues, but pain and frustrated labor now run through those good things.",
+    "",
+    "The ground is cursed because of the man's disobedience. Work itself is not the curse—he already worked in the garden. What changes is the struggle of obtaining food from ground that also produces thorns and thistles. His return to dust answers the warning about death and recalls the material from which God formed him.",
+    "",
+    "The woman's relationship with her husband is also affected. The word תְּשׁוּקָה, *tĕšûqāh* (teh-shoo-KAH), means longing or desire. [Brown–Driver–Briggs](https://biblehub.com/hebrew/8669.htm) lists three uses: here, in Genesis 4:7, and in Song of Solomon 7:10. Those settings involve different relationships, so the word alone cannot settle whether the desire here means affection, dependence, or a wish to control. Its meaning must be weighed with the rest of the sentence.",
+    "",
+    "The section closes with the man naming his wife Eve because she will be the mother of all the living. Death has been announced, yet human life will continue. The following verses show God clothing them and sending them out of the garden."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Punishment of Mankind** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "Christians read these verses as describing the serious consequences of sin for human relationships, work, and mortality. **Where do readings differ?** [Wesley's notes on verse 16](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) treat the woman's subjection as part of the punishment that follows the fall. The Catholic [Catechism, 400](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_one/article_1/paragraph_7_the_fall.html), emphasizes the damage to the couple's original harmony, including lust and domination.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 3** remains the first control on meaning."
+    "Those readings put different emphasis on the relationship described in verse 16. Neither the announcement of painful consequences nor a theory about the word desire gives husbands permission to be cruel. The New Testament's instruction is explicit: husbands must love their wives and not treat them harshly ([Colossians 3:19](https://biblehub.com/bsb/colossians/3.htm))."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "god_plan_lines": [
+    "The struggle described here reaches beyond one family. [Romans 8:19–23](https://biblehub.com/bsb/romans/8.htm) describes creation in bondage to decay and speaks of its coming freedom alongside the redemption of God's children. The present pain of the world is not the final shape of God's purpose.",
+    "",
+    "The return to dust also helps us grasp the hope of resurrection. [1 Corinthians 15:42–49](https://biblehub.com/bsb/1_corinthians/15.htm) contrasts the body we inherit as people of the dust with the life given through Christ. God addresses the reality of death by raising His people, not by pretending the sentence in Genesis was harmless. At the Bible's close, [Revelation 22:3](https://biblehub.com/bsb/revelation/22.htm) describes a world where the curse is gone."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-18",
+    "quote_source": "https://biblehub.com/bsb/genesis/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-18-genesis-garden-and-fall-review.md"
+  }
 }

@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Jonah",
+    "citation": "3:1-4",
+    "label": "Jonah 3:1-4",
+    "slug": "jonah-3-1-4"
+  },
+  "section_title": "What does Jonah do when God sends him a second time?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Then the word of the LORD came to Jonah a second time: 2 “Get up! Go to the great city of Nineveh and proclaim to it the message that I give you.” 3 This time Jonah got up and went to Nineveh, in accordance with the word of the LORD. Now Nineveh was an exceedingly great city, requiring a three-day journey. 4 On the first day of his journey, Jonah set out into the city and proclaimed, “Forty more days and Nineveh will be overturned!”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The Lord’s word comes to Jonah a second time. The command is still to go to Nineveh and proclaim the message God gives him. This time, Jonah goes.",
+    "",
+    "The city is described as exceedingly great, requiring a three-day journey. On his first day there, Jonah announces that Nineveh will be overturned in forty days.",
+    "",
+    "The Hebrew verb הָפַךְ, haphak (hah-FAHK), can mean turn or overturn; [Brown–Driver–Briggs](https://biblehub.com/hebrew/2015.htm) identifies its use here as the overthrow of a city. The warning is serious, and the forty days place the hearers under an urgent call to respond. Jonah’s rescue has returned him to the commission he previously refused."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/jonah/3.htm) emphasizes Jonah’s renewed obedience. [Wesley](https://biblehub.com/commentaries/wes/jonah/3.htm) and [Cambridge](https://biblehub.com/commentaries/cambridge/jonah/3.htm) understand the threatened destruction in light of the opportunity to repent, which the rest of the chapter brings into view."
+  ],
+  "god_plan_lines": [
+    "A parallel of renewed service appears in [John 21:15–19](https://biblehub.com/bsb/john/21.htm). Peter, who had [denied Jesus](https://biblehub.com/bsb/mark/14.htm), is addressed by the risen Lord, entrusted with care for His sheep and called again to follow Him.",
+    "",
+    "The failures and commissions differ, but the connection is mercy that leads to renewed obedience and service. God’s purpose includes work done through servants who have themselves needed restoration. In Peter’s case, that renewed service is entrusted directly by the risen Christ."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/jonah/3.htm",
+    "plan_basis": [
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-jonah-review.md"
+  }
+}

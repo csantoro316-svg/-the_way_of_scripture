@@ -5,28 +5,47 @@
     "label": "Genesis 9:26-29",
     "slug": "genesis-9-26-29"
   },
-  "section_title": "Shem\u2019s Blessing and Noah\u2019s Death",
+  "section_title": "Shem’s Blessing and Noah’s Death",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
         "26 He also declared:",
-        "\u201cBlessed be the LORD, the God of Shem!",
+        "“Blessed be the LORD, the God of Shem!",
         "May Canaan be the servant of Shem.",
         "27 May God expand the territory of Japheth;",
         "may he dwell in the tents of Shem,",
-        "and may Canaan be his servant.\u201d",
+        "and may Canaan be his servant.”",
         "28 After the flood, Noah lived 350 years. 29 So Noah lived a total of 950 years, and then he died."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 9**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "The blessing begins by naming the LORD as the God of Shem. Japheth is to be enlarged, and the saying includes dwelling in Shem's tents. Canaan's service is repeated. These words turn our attention from the brothers' immediate actions to the families and relationships followed in the next chapters.",
+    "",
+    "The last two verses return to the pattern of the earlier family record: Noah's years are counted, and he dies. Surviving the flood did not make him immortal. The story will continue through his descendants, while the account of the man who built the ark closes with the same human ending seen in chapter 5."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Shem\u2019s Blessing and Noah\u2019s Death** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 9** remains the first control on meaning."
+    "Christians commonly understand the blessing of Shem in relation to the family through which Abraham and Israel will come, while Japheth receives enlargement and a place in relation to Shem. [Wesley's notes on verses 26–27](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) connect Shem's blessing with Abraham and the honor of belonging to God; the family connections themselves are developed in Genesis 10–11."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "god_plan_lines": [
+    "[Luke 3:23–36](https://biblehub.com/bsb/luke/3.htm) explicitly places Shem and Noah in Jesus' ancestry. The family line followed through Shem leads toward the coming of Christ, giving the blessing a place in the larger story of God's rescue.",
+    "",
+    "There is also a useful parallel with the welcome of the nations into God's household. [Ephesians 2:11–22](https://biblehub.com/bsb/ephesians/2.htm) describes people once far away being brought near through Christ and sharing one household. The comparison helps us picture the shared blessing Paul explains: people formerly outside are welcomed into one family through God's Son."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-18",
+    "quote_source": "https://biblehub.com/bsb/genesis/9.htm",
+    "plan_basis": [
+      "a",
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-18-genesis-noah-and-covenant-review.md"
+  }
 }

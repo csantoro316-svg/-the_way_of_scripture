@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "11:24-26",
+    "label": "Luke 11:24-26",
+    "slug": "luke-11-24-26"
+  },
+  "section_title": "Why is a swept house not the end of the story?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "24 When an unclean spirit comes out of a man, it passes through arid places seeking rest and does not find it. Then it says, ‘I will return to the house I left.’ 25 On its return, it finds the house swept clean and put in order. 26 Then it goes and brings seven other spirits more wicked than itself, and they go in and dwell there. And the final plight of that man is worse than the first.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "After describing the defeat of the strong guard, Jesus tells of an unclean spirit leaving a man and later returning. It finds the house swept clean and in order, then brings seven spirits more wicked than itself. The man’s final condition is worse than his first.",
+    "",
+    "The warning follows a healing that some people have refused to recognize as God’s work. A welcome change in someone’s condition is not presented as the whole answer to evil; the story ends with a return and a worse captivity.",
+    "",
+    "Matthew’s parallel account explicitly applies the warning to the wicked generation Jesus is addressing. Luke gives the picture here in the continuing exchange about His authority, the arrival of God’s kingdom and the need to respond to Him. ([Matthew 12:43–45](https://biblehub.com/bsb/matthew/12.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly recognize a warning about a worse condition after an earlier release or improvement. Calvin emphasizes the danger of rejecting the grace offered through Christ, while Wesley applies the warning to rejection and a final turning away from faith. Their explanations share the seriousness of the response without making this short picture a complete account of every question about salvation. ([Calvin on the unclean spirit](https://biblehub.com/commentaries/calvin/luke/11.htm); [Wesley on Luke 11:26](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))"
+  ],
+  "god_plan_lines": [
+    "Second Peter gives a related warning: people can escape corruption through knowledge of Jesus Christ and then become entangled again, ending in a worse condition. The shared theme is the seriousness of turning back after receiving something of God’s rescue and instruction. This is a parallel warning, rather than a claim that the two passages describe the same individuals. ([2 Peter 2:20–22](https://biblehub.com/bsb/2_peter/2.htm))",
+    "",
+    "Placed beside the preceding announcement of God’s kingdom, the story presses beyond an outwardly improved situation toward the question of receiving Jesus. God’s rescue brings people into His Son’s kingdom; a cleaned house by itself is not the same description as that relationship. ([Luke 11:20–26](https://biblehub.com/bsb/luke/11.htm); [Colossians 1:13–14](https://biblehub.com/bsb/colossians/1.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/11.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-eleven-response-review.md"
+  }
+}

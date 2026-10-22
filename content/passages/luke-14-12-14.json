@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "14:12-14",
+    "label": "Luke 14:12-14",
+    "slug": "luke-14-12-14"
+  },
+  "section_title": "Who should receive a welcome when they cannot repay it?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "12 Then Jesus said to the man who had invited Him, “When you host a dinner or a banquet, do not invite your friends or brothers or relatives or rich neighbors. Otherwise, they may invite you in return, and you will be repaid. 13 But when you host a banquet, invite the poor, the crippled, the lame, and the blind, 14 and you will be blessed. Since they cannot repay you, you will be repaid at the resurrection of the righteous.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus then speaks to the host. An invitation can remain within a circle of friends, relatives and wealthy neighbors who can return the favor. He calls the man to welcome people who cannot offer that kind of repayment.",
+    "",
+    "The poor and people with disabilities are to be invited to the banquet. Their inability to repay does not diminish the worth of welcoming them; it is central to the generosity Jesus describes.",
+    "",
+    "The promised repayment is at the resurrection of the righteous. The host is directed toward God’s future rather than the social return another invitation might bring."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly see a call to generosity beyond the expectation of return. Wesley understands it as a higher duty toward those in need rather than a ban on every meal with friends, and Calvin emphasizes giving that looks to God instead of personal advantage or popularity. ([Wesley on Luke 14:12](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [Calvin on Luke 14:14](https://biblehub.com/commentaries/calvin/luke/14.htm))"
+  ],
+  "god_plan_lines": [
+    "Paul asks the Corinthians to consider how God has called many whom the world would not regard as wise, powerful or important. Their life in Christ leaves them boasting in the Lord rather than their standing. That wider pattern helps explain a community whose welcome is not determined by what a guest can offer in return. ([1 Corinthians 1:26–31](https://biblehub.com/bsb/1_corinthians/1.htm))",
+    "",
+    "James warns against giving the rich a place of honor while humiliating the poor, connecting that behavior with the command to love one’s neighbor. Acts gives a positive picture: as the apostles testify to Jesus’ resurrection, believers share so that others’ needs are met. God’s work forms a people whose care and welcome reflect the grace they have received. ([James 2:1–9](https://biblehub.com/bsb/james/2.htm); [Acts 4:32–35](https://biblehub.com/bsb/acts/4.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/14.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-fourteen-opening-review.md"
+  }
+}

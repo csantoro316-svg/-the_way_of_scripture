@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "4:6-13",
+    "label": "1 Corinthians 4:6-13",
+    "slug": "1-corinthians-4-6-13"
+  },
+  "section_title": "Why does Paul contrast their pride with the apostles’ suffering?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 Brothers, I have applied these things to myself and Apollos for your benefit, so that you may learn from us not to go beyond what is written. Then you will not take pride in one man over another. 7 For who makes you so superior? What do you have that you did not receive? And if you did receive it, why do you boast as though you did not? 8 Already you have all you want. Already you have become rich. Without us, you have become kings. How I wish you really were kings, so that we might be kings with you!",
+        "9 For it seems to me that God has displayed us apostles at the end of the procession, like prisoners appointed for death. We have become a spectacle to the whole world, to angels as well as to men. 10 We are fools for Christ, but you are wise in Christ. We are weak, but you are strong. You are honored, but we are dishonored. 11 To this very hour we are hungry and thirsty, we are poorly clothed, we are brutally treated, we are homeless. 12 We work hard with our own hands. When we are vilified, we bless; when we are persecuted, we endure it; 13 when we are slandered, we answer gently. Up to this moment we have become the scum of the earth, the refuse of the world."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul has used himself and Apollos to teach the Corinthians not to go beyond what is written or take pride in one person over another. His question cuts through their claims to superiority: whatever they have was received. Gifts cannot honestly become a reason to act as though they made themselves important.",
+    "",
+    "His words about being satisfied, rich and kings are pointed irony. They are behaving as though they have already arrived, while the apostles who brought them the message experience weakness and public dishonor. Paul wishes they really had reached the fullness they imagine, so that the apostles could share it.",
+    "",
+    "He then describes hunger, thirst, poor clothing, mistreatment, homelessness and hard manual work. The apostles respond to abuse with blessing, endurance and gentle answers. Their hardship does not prove the message has failed, and outward comfort does not prove spiritual maturity. The contrast exposes how unreliable the church’s measures of importance have become."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Paul’s contrast as exposing pride in gifts and outward status. [Wesley’s notes on verses 7–13](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) read the Corinthians’ self-satisfaction against the apostles’ costly service, while recognizing blessing and endurance as their response to mistreatment."
+  ],
+  "god_plan_lines": [
+    "In [John 15:18–21](https://biblehub.com/bsb/john/15.htm), Jesus tells His disciples that the world’s hostility toward Him will also affect His servants. Sharing His mission does not guarantee public honor or an easy life.",
+    "",
+    "[Matthew 5:10–12](https://biblehub.com/bsb/matthew/5.htm) likewise places suffering for righteousness and for Jesus within the hope of the kingdom and God’s reward. These connections explain why present hardship cannot be the church’s test for whether someone belongs to God or serves Him faithfully."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/4.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-four-review.md"
+  }
+}

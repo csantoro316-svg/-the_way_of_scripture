@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "10:10-14",
+    "label": "Daniel 10:10-14",
+    "slug": "daniel-10-10-14"
+  },
+  "section_title": "Had God heard Daniel during the three weeks of waiting?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 Suddenly, a hand touched me and set me trembling on my hands and knees. 11 He said to me, “Daniel, you are a man who is highly precious. Consider carefully the words that I am about to say to you. Stand up, for I have now been sent to you.” And when he had said this to me, I stood up trembling. 12 “Do not be afraid, Daniel,” he said, “for from the first day that you purposed to understand and to humble yourself before your God, your words were heard, and I have come in response to them. 13 However, the prince of the kingdom of Persia opposed me for twenty-one days. Then Michael, one of the chief princes, came to help me, for I had been left there with the kings of Persia. 14 Now I have come to explain to you what will happen to your people in the latter days, for the vision concerns those days.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "A hand touches Daniel and raises him to his hands and knees. The messenger calls him highly precious and tells him to stand and consider the message.",
+    "",
+    "He then explains that Daniel’s words were heard from the first day he humbled himself and sought understanding. The delay involved opposition from the prince of Persia for twenty-one days, until Michael, one of the chief princes, came to help.",
+    "",
+    "The answer was not delayed because Daniel had been ignored. The account opens a view of conflict beyond what he could see during his mourning. The messenger has come to explain what will happen to Daniel’s people in the latter days."
+  ],
+  "common_interpretation_lines": [
+    "[Gaebelein](https://biblehub.com/commentaries/gaebelein/daniel/10.htm) understands the opposing prince as a spiritual power of darkness associated with Persia. [Cambridge](https://biblehub.com/commentaries/cambridge/daniel/10.htm) and the [USCCB notes](https://bible.usccb.org/bible/daniel/10) also understand the princes in relation to heavenly powers connected with nations.",
+    "",
+    "The identity of Michael is read differently: [Wesley](https://biblehub.com/commentaries/wes/daniel/10.htm) understands him as Christ, while the USCCB notes describe him as Israel’s patron angel. The passage calls him one of the chief princes and the helper in this conflict."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 6:10–20](https://biblehub.com/bsb/ephesians/6.htm) tells believers that their struggle is against spiritual evil rather than flesh and blood. The response is to stand in the Lord’s strength, with truth, righteousness, faith, salvation, God’s word and persevering prayer.",
+    "",
+    "Paul also asks for prayer that he may proclaim the gospel boldly. The larger connection is spiritual conflict within God’s work of making Christ known. Believers are directed toward faithful endurance, prayer and the work of making the gospel known."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/10.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-ten-review.md"
+  }
+}

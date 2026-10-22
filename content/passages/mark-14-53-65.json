@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "14:53-65",
+    "label": "Mark 14:53-65",
+    "slug": "mark-14-53-65"
+  },
+  "section_title": "Who is really standing before the council?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "53 They led Jesus away to the high priest, and all the chief priests, elders, and scribes assembled. 54 Peter followed Him at a distance, right into the courtyard of the high priest. And he sat with the officers and warmed himself by the fire. 55 Now the chief priests and the whole Sanhedrin were seeking testimony against Jesus to put Him to death, but they did not find any. 56 For many bore false witness against Jesus, but their testimony was inconsistent. 57 Then some men stood up and testified falsely against Him: 58 “We heard Him say, ‘I will destroy this man-made temple, and in three days I will build another that is made without hands.’” 59 But even their testimony was inconsistent.",
+        "60 So the high priest stood up before them and questioned Jesus, “Have You no answer? What are these men testifying against You?” 61 But Jesus remained silent and made no reply. Again the high priest questioned Him, “Are You the Christ, the Son of the Blessed One?” 62 “I am,” said Jesus, “and you will see the Son of Man sitting at the right hand of Power and coming with the clouds of heaven.”",
+        "63 At this, the high priest tore his clothes and declared, “Why do we need any more witnesses? 64 You have heard the blasphemy. What is your verdict?” And they all condemned Him as deserving of death. 65 Then some of them began to spit on Him. They blindfolded Him, struck Him with their fists, and said to Him, “Prophesy!” And the officers received Him with slaps in His face."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus is taken to the high priest, where the chief priests, elders, and scribes assemble. Peter follows at a distance and sits near the fire in the courtyard. Mark will return to his experience after showing what happens to Jesus inside.",
+    "",
+    "The council seeks testimony that will support a death sentence, but the witnesses do not agree. Even the testimony about destroying and rebuilding the temple is inconsistent. Deuteronomy requires a matter to be established by more than one witness and warns against false accusation. Mark’s own description shows the failure of the evidence without requiring us to reconstruct every later courtroom rule. ([Deuteronomy 19:15–21](https://biblehub.com/bsb/deuteronomy/19.htm))",
+    "",
+    "Jesus remains silent before the accusations, but answers when asked whether He is the Christ, the Son of the Blessed One. He affirms it and combines the language of God’s right hand with the Son of Man coming on the clouds. The high priest treats His answer as blasphemy, and the council condemns Him. The scene then turns to spitting, blindfolding, blows, and mockery. ([Psalm 110:1](https://biblehub.com/bsb/psalms/110.htm); [Daniel 7:13–14](https://biblehub.com/bsb/daniel/7.htm))"
+  ],
+  "common_interpretation_lines": [
+    "The major Christian traditions understand Jesus’ answer as affirming His identity and God-given authority, while the council rejects that claim. The Catholic study notes connect His words with Psalm 110 and Daniel 7, emphasizing His coming glory and authority as judge. ([USCCB, note on Mark 14:61–62](https://bible.usccb.org/bible/mark/14))"
+  ],
+  "god_plan_lines": [
+    "The contrast reaches beyond a courtroom verdict: the man being condemned speaks of the authority God gives Him. Daniel’s Son of Man receives an everlasting kingdom, and Psalm 110 places the Lord at God’s right hand. Hebrews connects Jesus’ endurance of the cross and its shame with His being seated at God’s right hand. The rejected One is the One God exalts. ([Daniel 7:9–14](https://biblehub.com/bsb/daniel/7.htm); [Psalm 110:1–4](https://biblehub.com/bsb/psalms/110.htm); [Hebrews 12:1–3](https://biblehub.com/bsb/hebrews/12.htm))",
+    "",
+    "Isaiah also pictures the Lord’s servant accepting blows and spitting while trusting God’s vindication. This is a supported parallel with the abuse Jesus receives here. His suffering belongs to the path by which He serves and saves, while those who trust Him are called to endure without returning abuse for abuse. ([Isaiah 50:4–9](https://biblehub.com/bsb/isaiah/50.htm); [1 Peter 2:21–25](https://biblehub.com/bsb/1_peter/2.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/14.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-fourteen-closing-review.md"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "9:14-18",
+    "label": "Romans 9:14-18",
+    "slug": "romans-9-14-18"
+  },
+  "section_title": "How does Paul answer the question of God’s fairness?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 What then shall we say? Is God unjust? Certainly not! 15 For He says to Moses: “I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.” 16 So then, it does not depend on man’s desire or effort, but on God’s mercy.",
+        "17 For the Scripture says to Pharaoh: “I raised you up for this very purpose, that I might display My power in you, and that My name might be proclaimed in all the earth.” 18 Therefore God has mercy on whom He wants to have mercy, and He hardens whom He wants to harden."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul anticipates the question raised by God’s choice: does this make God unjust? He answers emphatically that it does not. He turns to God’s words to Moses about mercy and compassion, then says that mercy does not depend on human desire or effort.",
+    "",
+    "The second example is Pharaoh. God’s dealings with him display divine power and make God’s name known beyond Egypt. Paul concludes with God’s freedom to show mercy and to harden.",
+    "",
+    "The Exodus account includes both God hardening Pharaoh’s heart and Pharaoh hardening his own heart ([Exodus 9:12, 27–35](https://biblehub.com/bsb/exodus/9.htm)). Pharaoh’s resistance and God’s action both belong to the account. The different readings below concern how those actions relate."
+  ],
+  "common_interpretation_lines": [
+    "Reformed readers such as [Calvin, commenting on verses 16–18](https://biblehub.com/commentaries/calvin/romans/9.htm), understand this as God determining whom He brings to saving faith. Calvin reads hardening as an act of divine judgment, beyond merely allowing resistance.",
+    "",
+    "[Wesley’s notes on verses 14–18](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-romans/) also deny that mercy is earned. He understands God as establishing the way mercy is received through faith, and hardening as leaving persistent unbelievers in their chosen resistance. The difference concerns God’s initiative and human response."
+  ],
+  "god_plan_lines": [
+    "Paul’s two Exodus quotations concern God making Himself known. In [Exodus 33:12–23](https://biblehub.com/bsb/exodus/33.htm), Moses seeks God’s presence and asks to see His glory; God answers by proclaiming His goodness, name and freedom to show mercy.",
+    "",
+    "In [Exodus 9:13–17](https://biblehub.com/bsb/exodus/9.htm), God says His power will be displayed and His name proclaimed throughout the earth. Paul places his discussion of mercy within that larger purpose of revealing who God is, beyond the immediate contest with Pharaoh."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/9.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-nine-review.md"
+  }
+}

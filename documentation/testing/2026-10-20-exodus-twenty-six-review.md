@@ -1,0 +1,56 @@
+# Exodus 26 editorial review
+
+Reviewed2026-10-20,passage-v1. Fiveexistinggroups/37actualBSBversesretained. Fourplans,oneintentionalomission. One applicationpositionfromexistingownerstudy;nooriginalposition. Baselineunnamedpublicly.
+
+## Sources actually read
+
+- Baseline `content/assets/reference/stephen_armstrong/old-testament/02-exodus.pdf`:whole25–26lesson387–408actuallyread beforedraft;cumulative1–408read;409+unread.
+- https://biblehub.com/bsb/exodus/26.htm — all37versesread,includingexactposts/basemetalsandcurtaincounts.
+- https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/ — entireXXVI3956charactersread inoverlappingfirst3400/restfrom3300. Explicitjoinedcurtains/churchunityparallel,covering,frames,veil/access,priestentry.
+- https://biblehub.com/commentaries/calvin/exodus/26.htm — actual9937–13200generalcurtainsbeauty/spiritualgifts/restraint;16000–18700basesallegory/ramsskinbloodquestions/veil;17658–20100completeveilparagraphread. Notallremainingchaptercredited.
+- https://biblehub.com/commentaries/gill/exodus/26.htm — actual19666–22550bases/censuscollectionthrough23opening;31272–33900veilChrist/bodyandadditionalallegories;38408+2100outerentrance;whole14entryreadseparately. His covering/righteousness/bloodassociationactuallydocumented,notintroducedastext'sexplicitmeaning.
+- https://biblehub.com/hebrew/8476.htm — fullactualBDBentryread;tahashkindofleather/skin,uncertainanimalwithmultipleproposals. BSBfineleatherpreserved;nocertainspeciesorwaterproofpropertiesclaimed.
+
+ActualBSBrangesreadatcorrespondingBibleHubchapterURLs:Ex38:25–28;Ex30:12–16;1Pet1:17–21;Heb10:19–25;Matt27:45–54;John10:7–18;John14:1–6;Eph2:11–22;1Cor3:10–15. Heb9:6–7previous25batchwhole1–10read,reused. NoBiblequotecopiedunverifiedfromPDF/study.
+
+OwnerstudiessearchedforEx26/veil/curtain/foundation/bases. `content/studies/true_church.md:83`actuallyread:explicitChrist-tornveil→everybelieverdirectaccess/sharedministry. Publicposition26:31–35limitedtoexistingconclusion. Worship/WhoShepherdsrelatedlinks,notnewdoctrineornewhistoricalclaim. BroaderfoundationtopicdoesnotbyitselfsettleEx26silver-baseposition;othergroupsnone.
+
+## Exodus26:1–6
+
+Plan section: included,because(b)/(c). Wesleyexplicitjoinedcurtains/churchunityparallel;Eph2Christreconcilesdividedpeople/buildsonedwelling. Labeledparallel,notNTcodeforeachclasp.
+Position source: none.
+FLAGGED FOR REVIEW: Noeachcolor/dimension/clasphasnecessaryhiddenidentity. Calvin/Wesactualindividualreadings,nodenominationpigeonhole. Actual10curtains/twosetsoffive/goldclaspsretained. Noexactmoderncubitconversionorimaginedblueprintclaimed. Linenbeauty/bodysymbolismnotownerposition.
+
+## Exodus26:7–14
+
+Plan section: omitted,because none apply.
+Position source: none.
+FLAGGED FOR REVIEW: Gillmaterial/righteousness/bloodanalogiesreportedfairlyinCommonwithCalvin'squestions;noindependentexplicitNTmappingoftheseouterlayersestablished. RepeatingthegeneralcarethemeorassignedmaterialmeaningswouldaddnothingbeyondCommon,soPlanomittedratherthanstretched. NoBible-wideeverygoathairsin/everyredskinbloodrule.
+
+FLAGGED FOR REVIEW: TahashspeciesuncertaininBDB;porpoise/badger/dugongnotsettled. BSBfineleatherunchanged. Physicalprotectionexplainedwithoutunverifiedwaterproofness/lifespan/hideappearanceclaim. Baselineunattractiveskin=ChristIsa53analogyisanillustration,nottext'sstatedintent;notaddedasfact. Exactfour-layerroofvscombinedskinsdebatenotsettledbyassumption. Noangelshighestrankclaimfromembroideredcherubim.
+
+## Exodus26:15–30
+
+Plan section: included,because(c). Actualsilvercollection/basesEx30/38;1Pet1redemptionbeyondsilver/goldand1Cor3ChristfoundationbroaderBiblethemes,notclaimNTinterpretsindividualbases.
+Position source: none.
+FLAGGED FOR REVIEW: Notentirestructureontwobases;twoperframe. Ex38hundredbasesinclude96frameplus4innerveil;outerentrancefiveBRONZE,notadditionalfiveSILVER. Exacttonnage/talentpoundweightsunverifiedandunused. HolyofHolies15cubicfeetPDFmistakeexcluded:15feetpersidewouldbe3375cuft,withcubitstandardstillapproximate. Noindependentlyverifiedacacianondecayclaimused.
+
+FLAGGED FOR REVIEW: Collectionequalrichpooractual,notproofnocanpayforanotherinanybiblicalsettingorhumanspurchaseChristianredemption. Peterexplicitlynotsilver/goldredeemedretained. FoundationChristcomparisonnotBibleprovenuniversal“silvermeansblood”dictionarycode. Bothsupports=twocovenants/twonatureswarnedagainstbyCalvin,notownerdoctrine. Noeverygoldsurfacealwaysdivinity/woodalwayshumanity.
+
+## Exodus26:31–35
+
+Plan section: included,because(a). Heb10directcurtain/body/newway;Matt27latertempleveiltornatdeath,notoriginalwildernessfabric.
+Position source: The True Church According to Jesus, content/studies/true_church.md:83.
+FLAGGED FOR REVIEW: ActualMatthew27:50–51placesrendingatJesusDEATH;CalvinexcerpterroneouslysayswhenHerose,corrected. NooriginalEx26clothsurvivesunchangeduntilJesusinference. Four-fingerthick/Gillhistoricalmanufacturingclaimsnotindependentlychecked,excluded. Noeverymaterial/colornecessarilyseparategrace/physicalChristbodyattribute. Hebrewsbodyconnectionexplicit;additionalallegoriesidentifiedasbeyondthat.
+
+FLAGGED FOR REVIEW: Veilfourposts/silverbases/arkinside/tableandlampoutsideactual. Noarkcannotbeextractedexceptdismantlingentirebuildingengineeringclaim. No allOTpeopleutterlywithoutanyspiritualknowledge/grace/fellowship;Heb9restrictedritualapproachdescribedwithoutthatgeneralization. Ownerpositionlimiteddirectaccess/sharedministry,notnewrulingthatallrecognizedleadersorbuildingssinful.
+
+## Exodus26:36–37
+
+Plan section: included,because(b)/(c). Baselineentrance/ChristparallelwithactualJohn10gatecontextexplicitlysheepfold;John14Fatheraccess/beingwithChristbroaderpurpose. NotNTdirectinterpretationofembroideredcurtain.
+Position source: none.
+FLAGGED FOR REVIEW: Outerentrancefiveposts/BRONZEvsinnerfour/SILVERpreserved;notoneidenticalveil. Nocherubimassertedonouterembroideredcurtainwherenotstated. Noentranceposts=apostolicnumbercode. Wesleythiefforces/defenselessnesshisto-engineeringclaimsnotindependentlyverifiedoradopted. NoGodpromiseeverychurchimmuneviolence/propertyloss. JesusBSBJohn10GATE—notcopiedbaselineDOORquote—andJohn14verified. John10sheepfoldisaparallel,notassertedJesusdirectlydecodesEx26.
+
+## Validation
+
+Passed,observedexit0:focusedBSB/repository0errors219warnings/preservation/continuouscoverage26:37;unchangedfocusedrepeatgeneration;ten390pxreader/standalonechecks(4/6headingsforintentionalomission,5/7others);actualNext26:1–6→26:7–14withtitlefocus/top188.515625px;explicit-projectHostingdry-run/deploy/live9MATCH. Cumulative71groups740actualBSBverses69plans6existing-studypositions65open;globalintentionalreviewedplanomissions53. Sole addedwarning:26:7–14god_plan_linesempty,deliberateunderoptional-sectionrule.

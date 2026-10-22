@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "13:44-46",
+    "label": "Matthew 13:44-46",
+    "slug": "matthew-13-44-46"
+  },
+  "section_title": "The Treasure and the Pearl of Great Value",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "44 The kingdom of heaven is like treasure hidden in a field. When a man found it, he hid it again, and in his joy he went and sold all he had and bought that field.",
+        "45 Again, the kingdom of heaven is like a merchant in search of fine pearls. 46 When he found one very precious pearl, he went away and sold all he had and bought it."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus gives two pictures of finding something of extraordinary value. A man discovers treasure in a field and sells what he has to buy the field. A merchant looking for fine pearls finds one especially valuable pearl and sells what he has to obtain it.",
+    "",
+    "The first story explicitly names joy. Giving up possessions follows the recognition of a greater treasure. The second begins with a search and ends with the merchant recognizing the pearl worth everything else. The situations differ, but both involve a discovery that changes what the person is willing to keep or release.",
+    "",
+    "The stories are comparisons about the kingdom, centered on the value recognized and the decisive response.",
+    "",
+    "Unlike the sower and weeds, these parables are not followed by Jesus assigning a separate meaning to every object. Readers therefore differ over whether the buyers primarily picture people receiving the kingdom or Christ giving Himself to obtain His people."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley on Matthew 13:44–45](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) reads the treasure as God's kingdom received within a person's life and the merchant as someone seeking it. The Catholic [Catechism, 546](https://www.vatican.va/archive/ENG0015/__P1L.HTM), uses these parables in describing the wholehearted choice Jesus asks of those entering the kingdom. These readings emphasize its surpassing value and the response of a disciple.",
+    "",
+    "[C. I. Scofield's 1917 notes on 13:44–46](https://bible-strong.app/commentary/en/scofield/matt/13) read the buyer as Christ, the treasure as Israel, and the pearl as the church, obtained through His self-giving. This is his particular interpretation, not a view held by all Protestants. The readings differ over who the buyer represents while both connecting the stories with the worth of what is obtained."
+  ],
+  "god_plan_lines": [
+    "Paul gives a related example of value changing a person's priorities in [Philippians 3:7–11](https://biblehub.com/bsb/philippians/3.htm). He counts former advantages as loss beside knowing Christ and sharing the life that comes through Him. He also explicitly places righteousness in faith in Christ, rather than his own achievement.",
+    "",
+    "Paul describes receiving Christ's righteousness through faith alongside his willingness to release the things he once valued. The greater treasure is bound to the Savior and His resurrection life, which gives a different measure for what is worth keeping."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/13.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-thirteen-review.md"
+  }
+}

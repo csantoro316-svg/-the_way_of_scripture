@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "22:23-33",
+    "label": "Matthew 22:23-33",
+    "slug": "matthew-22-23-33"
+  },
+  "section_title": "The God of the Living and the Resurrection",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "23 That same day the Sadducees, who say there is no resurrection, came to Jesus and questioned Him. 24 “Teacher,” they said, “Moses declared that if a man dies without having children, his brother is to marry the widow and raise up offspring for him. 25 Now there were seven brothers among us. The first one married and died without having children. So he left his wife to his brother. 26 The same thing happened to the second and third brothers, down to the seventh. 27 And last of all, the woman died. 28 In the resurrection, then, whose wife will she be of the seven? For all of them were married to her.”",
+        "29 Jesus answered, “You are mistaken because you do not know the Scriptures or the power of God. 30 In the resurrection, people will neither marry nor be given in marriage. Instead, they will be like the angels in heaven. 31 But concerning the resurrection of the dead, have you not read what God said to you: 32 ‘I am the God of Abraham, the God of Isaac, and the God of Jacob’? He is not the God of the dead, but of the living.” 33 When the crowds heard this, they were astonished at His teaching."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The Sadducees approach Jesus that same day. Matthew identifies them as people who deny resurrection. They draw on the marriage provision in [Deuteronomy 25:5–10](https://biblehub.com/bsb/deuteronomy/25.htm), which preserved a dead brother's family line, and present a case in which seven brothers successively marry the same childless widow. Their question assumes those marriages must compete in the resurrection.",
+    "",
+    "Jesus challenges their understanding of Scripture and God's power. Resurrected life does not repeat marriage as they know it: people neither marry nor are given in marriage but are like the angels in heaven. Being like angels here describes the comparison Jesus makes; He does not say that people become angels.",
+    "",
+    "Resurrection is ἀνάστασις, *anastasis* (ah-NAH-stah-siss), a rising from the dead. [Thayer's entry](https://biblehub.com/greek/386.htm) includes this passage among its uses. The issue is God's power to raise the dead, rather than a way to resolve the proposed marriages.",
+    "",
+    "Jesus then turns to [Exodus 3:6](https://biblehub.com/bsb/exodus/3.htm). God identifies Himself to Moses as the God of Abraham, Isaac, and Jacob, although their earthly lives had ended. Jesus grounds His answer in God's continuing relationship with them: He is God of the living. [Luke 20:34–38](https://biblehub.com/bsb/luke/20.htm) gives the related answer and explains that those raised to that life can no longer die."
+  ],
+  "common_interpretation_lines": [
+    "Catholic and Protestant readings commonly understand Jesus to affirm resurrection while correcting the assumption that marriage continues as in this life. [Wesley on 22:29–32](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) emphasizes God's power and the patriarchs' continuing life before Him; the [US Catholic bishops' notes on 22:23–33](https://bible.usccb.org/bible/matthew/22) likewise explain a life transformed by God's power.",
+    "",
+    "A different reading appears in the Church of Jesus Christ of Latter-day Saints' [student manual on Matthew 22:23–30](https://www.churchofjesuschrist.org/study/manual/new-testament-student-manual/introduction-to-matthew/chapter-7?lang=eng). It distinguishes marriages performed after resurrection from marriages already joined by the church's sealing ceremony. It teaches that a marriage sealed by the required authority can endure beyond death, drawing on Doctrine and Covenants 132 as well as its reading of Jesus' answer."
+  ],
+  "god_plan_lines": [
+    "God's promises reach beyond the limits of a human lifetime. [Genesis 17:7–8](https://biblehub.com/bsb/genesis/17.htm) joins His covenant with Abraham's descendants, their promised inheritance, and His commitment to be their God. [Hebrews 11:8–19](https://biblehub.com/bsb/hebrews/11.htm) describes Abraham, Isaac, and Jacob living by faith before receiving all they hoped for, looking toward God's prepared city. It also describes Abraham trusting God's power to raise the dead. These passages help place Jesus' answer within God's faithfulness to His people, without supplying a detailed timetable for the resurrection.",
+    "",
+    "The New Testament places that hope firmly in Christ. [1 Corinthians 15:12–26](https://biblehub.com/bsb/1_corinthians/15.htm) connects His resurrection with the future raising of those who belong to Him and the final defeat of death. The power the Sadducees failed to recognize is central to God's purpose through His Son."
+  ],
+  "current_position_lines": [
+    "Our existing study, [Who is The Angel of the Lord?](https://the-way-of-scripture.web.app/studies/angel-of-the-lord.html), identifies the One who appears and speaks from the burning bush in Exodus 3 as the Son before His human birth. It notes that Jesus quotes this very scene when answering the Sadducees. That is the study's conclusion about the Exodus passage; Jesus' immediate point here is God's relationship with the living and the reality of resurrection."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who is The Angel of the Lord?",
+      "href": "../studies/angel-of-the-lord.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/22.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-two-review.md",
+    "position_source_detail": "Who is The Angel of the Lord?, Exodus 3:2–6 section and explicit Matthew 22:32 connection (content/studies/angel_of_the_lord.md:69–77). Narrowly identifies the burning-bush speaker; does not create a new site position on resurrection, marriage, or its timetable."
+  }
+}

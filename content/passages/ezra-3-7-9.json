@@ -1,0 +1,49 @@
+{
+  "reference": {
+    "book": "Ezra",
+    "citation": "3:7-9",
+    "label": "Ezra 3:7-9",
+    "slug": "ezra-3-7-9"
+  },
+  "section_title": "How is the rebuilding work organized?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 They gave money to the masons and carpenters, and food and drink and oil to the people of Sidon and Tyre to bring cedar logs from Lebanon to Joppa by sea, as authorized by Cyrus king of Persia. 8 In the second month of the second year after they had arrived at the house of God in Jerusalem, Zerubbabel son of Shealtiel, Jeshua son of Jozadak, and the rest of their associates including the priests, the Levites, and all who had returned to Jerusalem from the captivity, began the work. They appointed Levites twenty years of age or older to supervise the construction of the house of the LORD. 9 So Jeshua and his sons and brothers, Kadmiel and his sons (descendants of Yehudah), and the sons of Henadad and their sons and brothers—all Levites—joined together to supervise those working on the house of God."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The people pay masons and carpenters and provide food, drink and oil to people from Sidon and Tyre in exchange for cedar from Lebanon. The timber is to come by sea to Joppa under Cyrus’s authorization.",
+    "",
+    "The work begins in the second month of the second year after their arrival. Zerubbabel, Jeshua and the returning community appoint Levites aged twenty and above to supervise it. Several families share that responsibility.",
+    "",
+    "The cedar arrangements recall Solomon’s preparations in [1 Kings 5:1–12](https://biblehub.com/bsb/1_kings/5.htm). The returnees are beginning again with materials, payments and people assigned to oversee the work."
+  ],
+  "common_interpretation_lines": [
+    "[Gill](https://biblehub.com/commentaries/gill/ezra/3.htm) reads the arrangements as preparation for the foundation and rebuilding, while [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-ezra/) emphasizes the supervisors’ task of encouraging the work forward. Shared participation is guided by named supervisors."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezra/3.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezra-three-four-review.md"
+  }
+}

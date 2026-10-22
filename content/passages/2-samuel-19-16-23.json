@@ -1,0 +1,50 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "19:16-23",
+    "label": "2 Samuel 19:16-23",
+    "slug": "2-samuel-19-16-23"
+  },
+  "section_title": "Why does David spare Shimei when he returns?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "16 Then Shimei son of Gera, a Benjamite from Bahurim, hurried down with the men of Judah to meet King David, 17 along with a thousand men of Benjamin, as well as Ziba the steward of the house of Saul and his fifteen sons and twenty servants. They rushed down to the Jordan before the king 18 and crossed at the ford to carry over the king’s household and to do what was good in his sight. When Shimei son of Gera crossed the Jordan, he fell down before the king 19 and said, “My lord, do not hold me guilty, and do not remember your servant’s wrongdoing on the day my lord the king left Jerusalem. May the king not take it to heart. 20 For your servant knows that I have sinned, so here I am today as the first of all the house of Joseph to come down to meet my lord the king.”",
+        "21 But Abishai son of Zeruiah said, “Shouldn’t Shimei be put to death for this, because he cursed the LORD’s anointed?” 22 And David replied, “Sons of Zeruiah, what have I to do with you, that you should be my adversaries today? Should any man be put to death in Israel today? Am I not indeed aware that today I am king over Israel?” 23 So the king said to Shimei, “You shall not die.” And the king swore an oath to him."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Shimei, who cursed David as he left Jerusalem, hurries to meet him with the men of Judah. A thousand Benjamites are present, along with Ziba and his household. They help bring the king’s household across the Jordan.",
+    "",
+    "Shimei falls before David, acknowledges his wrongdoing and asks him not to hold it against him. Abishai again calls for his death because he cursed the LORD’s anointed. David rejects that course for the day of his restoration and swears to Shimei that he will not die."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) sees both mercy and concern for reconciliation in David’s answer. Beginning his return with an execution could deepen the fear of those who had opposed him. Having received mercy himself, David has reason to show it to another.",
+    "",
+    "The account records Shimei’s confession and David’s oath. It does not give a complete view of Shimei’s heart or make every member of Benjamin responsible for his earlier actions."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/19.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-nineteen-review.md"
+  }
+}

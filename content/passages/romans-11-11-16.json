@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "11:11-16",
+    "label": "Romans 11:11-16",
+    "slug": "romans-11-11-16"
+  },
+  "section_title": "Can Israel’s stumbling be the end of the story?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "11 I ask then, did they stumble so as to fall beyond recovery? Certainly not! However, because of their trespass, salvation has come to the Gentiles to make Israel jealous. 12 But if their trespass means riches for the world, and their failure means riches for the Gentiles, how much greater riches will their fullness bring!",
+        "13 I am speaking to you Gentiles. Inasmuch as I am the apostle to the Gentiles, I magnify my ministry 14 in the hope that I may provoke my own people to jealousy and save some of them. 15 For if their rejection is the reconciliation of the world, what will their acceptance be but life from the dead? 16 If the first part of the dough is holy, so is the whole batch; if the root is holy, so are the branches."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul denies that Israel has stumbled beyond recovery. Salvation reaching the Gentiles is part of the story, but he also anticipates riches through Israel’s fullness and acceptance. He describes God’s work with one group as reaching toward the good of the other.",
+    "",
+    "He speaks directly to Gentiles about his ministry among them. Even that ministry carries a desire for his own people: he hopes to provoke them to jealousy and save some. His purpose includes their coming to faith, rather than merely keeping a general interest in a Messiah alive.",
+    "",
+    "The pictures of a holy first portion of dough and a holy root point toward the continuing significance of Israel’s beginning. The verses prepare for the olive-tree picture that follows. Paul’s confidence concerns God’s faithfulness, not an assertion that ancestry makes every individual righteous."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Paul as refusing despair about Israel while explaining the arrival of salvation among the Gentiles. Readers differ about the precise scope and timing of the future acceptance he anticipates, but his desire that some of his own people be saved is explicit. Their present unbelief is not a reason for indifference to them."
+  ],
+  "god_plan_lines": [
+    "[Acts 13:44–48](https://biblehub.com/bsb/acts/13.htm) provides a narrated parallel: opposition to Paul’s message is followed by his turning to the Gentiles, who rejoice in the word. That episode illustrates the movement Paul describes here; it does not prove that every Jewish hearer in every city responded alike.",
+    "",
+    "In Romans, the movement outward remains joined to hope for Israel. God’s work among the nations and His faithfulness to the people from whom the promises came are held together, rather than made into rival reasons for celebration."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/11.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-eleven-review.md"
+  }
+}

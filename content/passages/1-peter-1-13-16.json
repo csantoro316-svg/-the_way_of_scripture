@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "1 Peter",
+    "citation": "1:13-16",
+    "label": "1 Peter 1:13-16",
+    "slug": "1-peter-1-13-16"
+  },
+  "section_title": "How should hope change the way we live?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 Therefore prepare your minds for action. Be sober-minded. Set your hope fully on the grace to be given you at the revelation of Jesus Christ. 14 As obedient children, do not conform to the passions of your former ignorance. 15 But just as He who called you is holy, so be holy in all you do, 16 for it is written: “Be holy, because I am holy.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The hope described in the first half of the chapter now leads to action. Peter calls the readers to prepare their minds, remain sober-minded and set their hope fully on the grace to come when Jesus is revealed.",
+    "",
+    "The word behind sober-minded points to [calm, watchful self-control](https://biblehub.com/greek/3525.htm). The instruction reaches into the direction of thought and desire, rather than being limited to avoiding drunkenness.",
+    "",
+    "As obedient children, they are to leave their former passions behind and reflect the holiness of the God who called them. The call concerns all their conduct. Peter grounds it in God’s own character, quoting the earlier command to be holy because He is holy."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/1_peter/1.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-epistle-general-of-st-peter/) both understand these commands as the response of people who have received grace and now await Christ. They connect readiness and self-control with a changed life shaped by God’s holiness."
+  ],
+  "god_plan_lines": [
+    "In [Leviticus 19:1–2, 9–18](https://biblehub.com/bsb/leviticus/19.htm), the call to holiness includes leaving food for the poor, paying workers honestly, fair judgment and love of neighbor. Holiness reaches into ordinary treatment of other people.",
+    "",
+    "Jesus likewise calls His followers to reflect their Father’s character in [Matthew 5:43–48](https://biblehub.com/bsb/matthew/5.htm), including love for enemies. Read alongside Peter, that gives practical shape to living as God’s children: His character is to become visible in their conduct."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_peter/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-peter-one-closing-review.md"
+  }
+}

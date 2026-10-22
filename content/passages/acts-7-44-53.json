@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "7:44-53",
+    "label": "Acts 7:44-53",
+    "slug": "acts-7-44-53"
+  },
+  "section_title": "Why does Stephen say God cannot be contained in a house?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "44 Our fathers had the tabernacle of the Testimony with them in the wilderness. It was constructed exactly as God had directed Moses, according to the pattern he had seen. 45 And our fathers who received it brought it in with Joshua when they dispossessed the nations God drove out before them. It remained until the time of David, 46 who found favor in the sight of God and asked to provide a dwelling place for the God of Jacob. 47 But it was Solomon who built the house for Him.",
+        "48 However, the Most High does not dwell in houses made by human hands. As the prophet says: 49 ‘Heaven is My throne and the earth is My footstool. What kind of house will you build for Me, says the Lord, or where will My place of repose be? 50 Has not My hand made all these things?’",
+        "51 You stiff-necked people with uncircumcised hearts and ears! You always resist the Holy Spirit, just as your fathers did. 52 Which of the prophets did your fathers fail to persecute? They even killed those who foretold the coming of the Righteous One. And now you are His betrayers and murderers— 53 you who received the law ordained by angels, yet have not kept it.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Stephen recounts the tabernacle made according to God’s pattern, its arrival in the land, David’s desire for a dwelling place, and Solomon’s building of the temple. He recognizes that history before making the point that the Most High does not dwell in houses made by human hands.",
+    "",
+    "The quotation from Isaiah places the building alongside the God who made heaven and earth. The Creator is greater than what people can construct. The speech then turns directly to the council’s response to God: resistance to the Spirit, persecution of the prophets and betrayal of the Righteous One.",
+    "",
+    "The language of uncircumcised hearts and ears contrasts an outward religious mark with a refusal to listen. [Deuteronomy 10:16](https://biblehub.com/bsb/deuteronomy/10.htm) already joined circumcision of the heart with ceasing to be stiff-necked. Stephen applies a familiar scriptural challenge to people who claim to defend the law while failing to keep it."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Stephen as rejecting the idea that a building can contain God or guarantee the faithfulness of those who use it. [Wesley on verse 48](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) connects the point with Solomon’s own acknowledgment that even heaven cannot contain God.",
+    "",
+    "Traditions explain the place of church buildings differently. The Catholic Church’s [Catechism, paragraphs 1179–1181](https://www.vatican.va/content/catechism/en/part_two/section_one/chapter_two/article_1/iv_where_is_the_liturgy_celebrated.index.html), says new-covenant worship is not tied exclusively to one place while describing church buildings as visible signs of the church and places where the Lord’s Supper is celebrated and Christ’s real presence in that sacrament is honored.",
+    "",
+    "The Reformed [Westminster Confession, chapter 21, paragraph 6](https://www.opc.org/wcf.html), says worship is not made more acceptable by a location, while requiring care for the gathered public worship of the church. Both recognize that God is greater than a building, while understanding the significance of church buildings and worship within them differently."
+  ],
+  "god_plan_lines": [
+    "[Isaiah 66:1–2](https://biblehub.com/bsb/isaiah/66.htm), the passage Stephen quotes, goes on to describe the person God regards: humble, sorry for sin and responsive to His word. The challenge is therefore about the worshipper’s response as well as the limits of the building.",
+    "",
+    "[Ephesians 2:19–22](https://biblehub.com/bsb/ephesians/2.htm) describes God’s people being built together on Christ the cornerstone into His dwelling by the Spirit. The wider New Testament develops the theme of God’s presence through Christ and His people, rather than confining it within what human hands construct."
+  ],
+  "current_position_lines": [
+    "Worship as the Early Church Knew It directly uses Acts 7:48–50 to challenge an understanding of God’s dwelling centered on a building. The study connects this with the gathered people as God’s temple through His Spirit. Its emphasis is reverence for God’s presence among His people and a faithful response to His word, rather than treating a place as a substitute for that life."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/7.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-acts-seven-closing-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It — We Are the Temple/Stephen Declares the End of the Temple, directActs7:48–50discussion; narrowGodnotconfinedbuilding/Spiritpeopleconclusion."
+  }
+}

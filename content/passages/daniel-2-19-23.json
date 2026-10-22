@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "2:19-23",
+    "label": "Daniel 2:19-23",
+    "slug": "daniel-2-19-23"
+  },
+  "section_title": "Why does Daniel praise God before returning to the king?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "19 During the night, the mystery was revealed to Daniel in a vision, and he blessed the God of heaven 20 and declared: “Blessed be the name of God forever and ever, for wisdom and power belong to Him. 21 He changes the times and seasons; He removes kings and establishes them. He gives wisdom to the wise and knowledge to the discerning. 22 He reveals the deep and hidden things; He knows what lies in darkness, and light dwells with Him. 23 To You, O God of my fathers, I give thanks and praise, because You have given me wisdom and power. And now You have made known to me what we have requested, for You have made known to us the dream of the king.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The mystery is revealed to Daniel in a night vision. Before reporting to the king, he blesses the God of heaven and gives thanks for the answer.",
+    "",
+    "His praise reaches beyond his immediate rescue. Wisdom and power belong to God; He changes times and seasons, removes kings and establishes them, and makes hidden things known.",
+    "",
+    "Daniel includes his friends in the thanksgiving by speaking of what they requested and what God made known to them. The answer belongs within God’s care for the petitioners and His authority over history."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/daniel/2.htm) emphasizes Daniel’s gratitude for mercy that saves lives. [Cambridge](https://biblehub.com/commentaries/cambridge/daniel/2.htm) connects the changing of times with the rise and fall of rulers and notes Daniel’s acknowledgment of God as the source of wisdom.",
+    "",
+    "The praise recognizes that the king who appears to control their lives is himself subject to God."
+  ],
+  "god_plan_lines": [
+    "[Acts 17:24–31](https://biblehub.com/bsb/acts/17.htm) also speaks of the Creator determining nations’ appointed times and boundaries. Paul gives a purpose for this: people are to seek Him, the God who gives life and is near to them.",
+    "",
+    "Paul then announces the call to repentance and the coming judgment through the Man God has appointed, with Jesus’ resurrection as assurance. The larger purpose is more than arranging a succession of rulers. God makes Himself known and calls the nations to respond to Him through Christ."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/2.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-two-review.md"
+  }
+}

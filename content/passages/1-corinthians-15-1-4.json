@@ -5,25 +5,58 @@
     "label": "1 Corinthians 15:1-4",
     "slug": "1-corinthians-15-1-4"
   },
-  "section_title": "",
+  "section_title": "What is the good news on which Christian hope rests?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"Now I want to make clear for you, brothers and sisters, the gospel I preached to you, which you received, on which you have taken your stand and by which you are being saved, if you hold firmly to the word I preached to you \u2014 unless you believed in vain. For I passed on to you as of first importance what I also received: that Christ died for our sins according to the Scriptures, that he was buried, that he was raised on the third day according to the Scriptures.\""
+      "label": "BSB",
+      "paragraphs": [
+        "1 Now, brothers, I want to remind you of the gospel I preached to you, which you received, and in which you stand firm. 2 By this gospel you are saved, if you hold firmly to the word I preached to you. Otherwise, you have believed in vain. 3 For what I received I passed on to you as of first importance: that Christ died for our sins according to the Scriptures, 4 that He was buried, that He was raised on the third day according to the Scriptures,"
+      ]
     }
   ],
   "context_lines": [
-    "1 Corinthians 15:1-4 should be read within the flow of its chapter and the larger argument of 1 Corinthians."
+    "Paul turns to the resurrection by reminding the Corinthians of the gospel they received. Later in the chapter he will address some among them who deny the resurrection of the dead. He begins with the message that brought them to faith and on which they stand.",
+    "",
+    "Gospel translates euangelion (yoo-an-GHEL-ee-on), εὐαγγέλιον, meaning good news; see [Thayer’s entry](https://biblehub.com/greek/2098.htm). Paul gives its central content here: Christ died for our sins, was buried, and was raised on the third day, according to the Scriptures. The announcement concerns what God has done through Christ, rather than merely advice about improving our lives.",
+    "",
+    "The burial affirms the reality of His death; the resurrection announces that death did not have the final word. Both belong to what Paul delivered as of first importance. His explanation will continue with the people to whom the risen Christ appeared.",
+    "",
+    "The call to hold firmly to the message is part of the reminder. Paul does not separate being saved through this good news from continuing in the truth he preached. His warning about believing in vain asks the Corinthians to take the content of their faith seriously."
   ],
   "common_interpretation_lines": [
-    "Four facts. Of first importance. Not peripheral. Not one consideration among many. *Of first importance.*",
+    "Christians commonly recognize Christ’s death for sins, burial and resurrection as central to the gospel. They differ over how to understand the warning about holding firmly.",
     "",
-    "Christ died for our sins. He was buried. He was raised on the third day. This fulfilled Scripture."
+    "[Calvin’s comment on verse 2](https://biblehub.com/commentaries/calvin/1_corinthians/15.htm) treats abandoning this fundamental teaching as exposing a shallow or unstable understanding. The Reformed [Westminster Confession 17](https://www.opc.org/wcf.html) gives the wider teaching that those truly accepted in Christ will be preserved to the end.",
+    "",
+    "[Wesley’s note on verse 2](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) emphasizes salvation reaching its completion as believers continue in faith. [Methodist Article XII](https://www.umc.org/en/content/articles-of-religion) allows that people may fall from grace and be restored. The Catholic [Catechism 162](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_three/article_1/iii_the_characteristics_of_faith.index.html) likewise describes faith as God’s free gift that can be lost and must be nourished to persevere. These broader teachings inform the differing readings; this one sentence should not be made to carry each tradition’s entire account of salvation."
+  ],
+  "god_plan_lines": [
+    "In [Luke 24:44–47](https://biblehub.com/bsb/luke/24.htm), the risen Jesus explains that the Scriptures point to His suffering and resurrection on the third day, followed by repentance for the forgiveness of sins being proclaimed to all nations.",
+    "",
+    "Paul’s summary belongs within that stated purpose. The death and resurrection are not isolated marvels; they stand at the center of God’s promised saving work and the message now carried to the nations. The Corinthians received that announcement, and their hope depends on the Christ it proclaims."
+  ],
+  "current_position_lines": [
+    "In [The Gospel According to Jesus](https://thewayofscripture.com/studies/the-gospel-according-to-jesus.html), we take this passage as a direct statement of the gospel’s core: Christ died for our sins, was buried, and was raised on the third day in fulfillment of Scripture. This is the saving announcement of what God has done through Jesus, not simply a program for becoming a better person. Our statement here concerns that core message."
   ],
   "deeper_study": [
     {
       "title": "The Gospel According to Jesus",
       "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/15.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-fifteen-opening-review.md",
+    "position_source_detail": "The Gospel According to Jesus — content/studies/the_gospel_according_to_jesus.md lines 33–49, The Core, direct 1 Corinthians 15:1–4 interpretation; limited to gospel content, not a new ruling on the conditional clause."
+  }
 }

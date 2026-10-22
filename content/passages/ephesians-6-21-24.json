@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "Ephesians",
+    "citation": "6:21-24",
+    "label": "Ephesians 6:21-24",
+    "slug": "ephesians-6-21-24"
+  },
+  "section_title": "How does Paul encourage the church as he closes?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "21 Tychicus, the beloved brother and faithful servant in the Lord, will tell you everything, so that you also may know about me and what I am doing. 22 I have sent him to you for this very purpose, that you may know about us, and that he may encourage your hearts.",
+        "23 Peace to the brothers and love with faith from God the Father and the Lord Jesus Christ. 24 Grace to all who love our Lord Jesus Christ with an undying love."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After asking for prayer, Paul explains that Tychicus will bring news about him and his circumstances. He calls him a beloved brother and faithful servant in the Lord, and says his visit will encourage their hearts.",
+    "",
+    "The letter ends with peace, love with faith, and grace. Paul names God the Father and the Lord Jesus Christ as the source of these gifts and closes with grace for those who love Christ with an undying love.",
+    "",
+    "The practical sharing of news belongs beside the blessing. The readers are to know how Paul is doing, and he wants them encouraged in the life they share in the Lord."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as personal encouragement and a closing blessing. The [USCCB note on verses 21–24](https://bible.usccb.org/bible/ephesians/6) identifies Tychicus as the bearer of news and points to the parallel in Colossians 4:7–8. [Wesley’s notes](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-ephesians/) connect the news with encouragement and the final blessing with continuing faithfulness to Christ. The shared emphasis is care for the community and the grace that sustains it."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/ephesians/6.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-ephesians-six-closing-review.md"
+  }
+}

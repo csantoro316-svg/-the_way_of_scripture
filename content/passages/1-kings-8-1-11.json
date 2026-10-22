@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "8:1-11",
+    "label": "1 Kings 8:1-11",
+    "slug": "1-kings-8-1-11"
+  },
+  "section_title": "What happens when the ark enters the temple?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 At that time Solomon assembled before him in Jerusalem the elders of Israel—all the tribal heads and family leaders of the Israelites—to bring up the ark of the covenant of the LORD from Zion, the City of David. 2 And all the men of Israel came together to King Solomon at the feast in the seventh month, the month of Ethanim. 3 When all the elders of Israel had arrived, the priests took up the ark, 4 and they brought up the ark of the LORD and the Tent of Meeting with all its sacred furnishings. So the priests and Levites carried them up. 5 There, before the ark, King Solomon and the whole congregation of Israel who had assembled with him sacrificed so many sheep and oxen that they could not be counted or numbered.",
+        "6 Then the priests brought the ark of the covenant of the LORD to its place in the inner sanctuary of the temple, the Most Holy Place, beneath the wings of the cherubim. 7 For the cherubim spread their wings over the place of the ark and overshadowed the ark and its poles. 8 The poles extended far enough that their ends were visible from the Holy Place in front of the inner sanctuary, but not from outside the Holy Place; and they are there to this day. 9 There was nothing in the ark except the two stone tablets that Moses had placed in it at Horeb, where the LORD had made a covenant with the Israelites after they had come out of the land of Egypt.",
+        "10 And when the priests came out of the Holy Place, the cloud filled the house of the LORD 11 so that the priests could not stand there to minister because of the cloud. For the glory of the LORD filled the house of the LORD."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The temple is ready, and Solomon gathers Israel’s leaders to bring the ark from the City of David to its new place. Priests and Levites also bring the Tent of Meeting and its sacred furnishings. Sacrifices accompany the gathering.",
+    "",
+    "The priests place the ark in the Most Holy Place, beneath the wings of the large cherubim. Its carrying poles remain with it. Inside are the two stone tablets Moses placed there at Horeb, the reminder of the covenant God made with Israel after bringing them out of Egypt.",
+    "",
+    "When the priests come out, a cloud fills the temple. They cannot continue their service because the glory of the LORD fills the house. The account moves from what the builders have completed to what God Himself does."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) and [Gill](https://biblehub.com/commentaries/gill/1_kings/8.htm) understand the cloud as a sign of God’s presence and His acceptance of the house dedicated to Him. The furnishings alone do not account for the significance of this moment; God makes His presence known.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/8.htm) draws a further comparison between the cloud and the limits of what people can presently see of God’s glory. That is a lesson he draws from the scene. The narrative itself identifies the cloud with the LORD’s glory and describes its effect on the priests."
+  ],
+  "god_plan_lines": [
+    "This scene closely parallels the completion of the tabernacle in [Exodus 40:34–35](https://biblehub.com/bsb/exodus/40.htm). There, too, a cloud covers the place of worship, the LORD’s glory fills it, and even Moses cannot enter. The temple continues the story of God dwelling among the people He brought out of Egypt.",
+    "",
+    "That theme reaches beyond either building. [Revelation 21:3–4](https://biblehub.com/bsb/revelation/21.htm) describes God dwelling with His people in the new creation, where death and mourning are gone. This is a connection across the Bible’s story: God’s purpose includes His people living in His presence."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/8.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-eight-opening-review.md"
+  }
+}

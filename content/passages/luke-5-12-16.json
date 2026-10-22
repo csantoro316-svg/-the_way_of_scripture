@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "5:12-16",
+    "label": "Luke 5:12-16",
+    "slug": "luke-5-12-16"
+  },
+  "section_title": "What happens when a man asks Jesus to make him clean?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "12 While Jesus was in one of the towns, a man came along who was covered with leprosy. When he saw Jesus, he fell facedown and begged Him, “Lord, if You are willing, You can make me clean.” 13 Jesus reached out His hand and touched the man. “I am willing,” He said. “Be clean!” And immediately the leprosy left him. 14 “Do not tell anyone,” Jesus instructed him. “But go, show yourself to the priest and present the offering Moses prescribed for your cleansing, as a testimony to them.”",
+        "15 But the news about Jesus spread all the more, and great crowds came to hear Him and to be healed of their sicknesses. 16 Yet He frequently withdrew to the wilderness to pray."
+      ]
+    }
+  ],
+  "context_lines": [
+    "A man covered with leprosy falls facedown before Jesus and asks to be made clean. He trusts Jesus’ ability while placing the request in His hands. Jesus touches him, declares His willingness, and the disease immediately leaves.",
+    "",
+    "The language of cleansing has a place in the Law of Moses. Leviticus gives priests responsibility for examining certain skin conditions and describes the cleansing process for a person who has recovered. Jesus directs the man to the priest and the prescribed offering as a testimony. The healing has already happened; the priest’s examination does not cause it. ([Leviticus 13:45–46](https://biblehub.com/bsb/leviticus/13.htm); [Leviticus 14:1–9](https://biblehub.com/bsb/leviticus/14.htm))",
+    "",
+    "News continues to spread, and crowds gather both to hear Jesus and to seek healing. Luke closes the scene by telling us that Jesus frequently withdraws to pray. His growing public ministry includes time away from the crowds with the Father."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly see both the man’s humble trust and Jesus’ willingness and power to restore him. The priestly instructions are read in connection with the Law’s provision for cleansing, while the wider Christian teaching on healing recognizes that earnest prayer does not always bring recovery from every illness now. ([Calvin on the parallel Matthew 8:2–4](https://biblehub.com/commentaries/calvin/luke/5.htm); [Catechism 1505–1508](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_two/article_5/i_its_foundations_in_the_economy_of_salvation.index.html))"
+  ],
+  "god_plan_lines": [
+    "Jesus later includes the cleansing of lepers among the works His messengers should report when John asks whether He is the One who was to come. This healing therefore belongs to the evidence Jesus Himself gives about His mission. It brings real help to a suffering person while showing the promised restoration arriving through Him. ([Matthew 11:2–6](https://biblehub.com/bsb/matthew/11.htm))",
+    "",
+    "Isaiah describes God coming to save, with the blind seeing, the lame restored, and the redeemed returning in joy. This man’s cleansing is part of that wider pattern of restoration. The connection concerns God’s saving work; it does not require treating every detail of the man’s disease as a hidden symbol for sin. ([Isaiah 35:3–10](https://biblehub.com/bsb/isaiah/35.htm))"
+  ],
+  "current_position_lines": [
+    "Worship as the Early Church Knew It discusses this man’s approach in Matthew 8:2 as a personal plea expressed through physical humility and recognition of Jesus’ divine authority. Luke likewise describes him falling facedown before making his request. This is our position on his humble approach; a fuller position on the healing and the priestly instructions remains open."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/5.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-luke-five-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It — Matthew 8:2, The Leper’s Approach"
+  }
+}

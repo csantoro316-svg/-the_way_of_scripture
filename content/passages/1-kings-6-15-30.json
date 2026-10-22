@@ -1,0 +1,71 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "6:15-30",
+    "label": "1 Kings 6:15-30",
+    "slug": "1-kings-6-15-30"
+  },
+  "section_title": "What is inside the temple’s Most Holy Place?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 He lined the interior walls with cedar paneling from the floor of the temple to the ceiling, and he covered the floor with cypress boards. 16 He partitioned off the twenty cubits at the rear of the temple with cedar boards from floor to ceiling to form within the temple an inner sanctuary, the Most Holy Place. 17 And the main hall in front of this room was forty cubits long. 18 The cedar paneling inside the temple was carved with gourds and open flowers. Everything was cedar; not a stone could be seen. 19 Solomon also prepared the inner sanctuary within the temple to set the ark of the covenant of the LORD there. 20 The inner sanctuary was twenty cubits long, twenty cubits wide, and twenty cubits high. He overlaid the inside with pure gold, and he also overlaid the altar of cedar. 21 So Solomon overlaid the inside of the temple with pure gold, and he extended gold chains across the front of the inner sanctuary, which was overlaid with gold. 22 So he overlaid with gold the whole interior of the temple, until everything was completely finished. He also overlaid with gold the entire altar that belonged to the inner sanctuary.",
+        "23 In the inner sanctuary he made two cherubim, each ten cubits high, out of olive wood. 24 One wing of the first cherub was five cubits long, and the other wing was five cubits long as well. So the full wingspan was ten cubits. 25 The second cherub also measured ten cubits; both cherubim had the same size and shape, 26 and the height of each cherub was ten cubits. 27 And he placed the cherubim inside the innermost room of the temple. Since their wings were spread out, the wing of the first cherub touched one wall, while the wing of the second cherub touched the other wall, and in the middle of the room their wingtips touched. 28 He also overlaid the cherubim with gold. 29 Then he carved the walls all around the temple, in both the inner and outer sanctuaries, with carved engravings of cherubim, palm trees, and open flowers. 30 And he overlaid the temple floor with gold in both the inner and outer sanctuaries."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Cedar lines the walls, and cypress boards cover the floor. A room twenty cubits long is set apart at the rear as the Most Holy Place, with a forty-cubit main hall in front of it.",
+    "",
+    "The inner room is a cube, twenty cubits in each direction, prepared to receive the ark of the covenant. Gold covers the interior surfaces. Two large cherubim made of olive wood stand there, each ten cubits high, with wings spread across the room and meeting in the middle.",
+    "",
+    "Cherubim, palm trees and open flowers are carved into the walls, and gold covers the floor. The account gives particular attention to the room prepared for the ark and to the care with which it is set apart."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) and [Gill](https://biblehub.com/commentaries/gill/1_kings/6.htm) distinguish these large wooden cherubim from the smaller gold cherubim made with the ark’s mercy seat. They are additional figures in the inner room.",
+    "",
+    "Wesley understands the figures as representing God’s heavenly attendants, rather than objects to be worshipped. The honor of the place is directed toward the God whose covenant ark is to be brought there.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/6.htm) reads the temple in relation to the wider biblical teaching about Christ and God’s people as His dwelling. Such connections should be supported from Scripture rather than assigned to every measurement or material separately."
+  ],
+  "god_plan_lines": [
+    "The separated inner room helps us understand the biblical concern with approaching a holy God. [Hebrews 9:1–8](https://biblehub.com/bsb/hebrews/9.htm), describing the tabernacle arrangement that preceded the temple, explains that access to the Most Holy Place was restricted.",
+    "",
+    "[Hebrews 10:19–22](https://biblehub.com/bsb/hebrews/10.htm) then calls believers to draw near with confidence through Jesus and His blood. The larger movement is from restricted access to the way Christ opens for His people.",
+    "",
+    "Jesus also speaks of the temple of His own body in [John 2:19–22](https://biblehub.com/bsb/john/2.htm). The connection is centered on Him: the temple’s holiness and the hope of drawing near to God help readers grasp the significance of His death and resurrection. The text does not require a separate prediction hidden in each piece of gold or wood."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/6.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-six-review.md"
+  }
+}

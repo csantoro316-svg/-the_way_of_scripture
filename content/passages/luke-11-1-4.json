@@ -1,0 +1,68 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "11:1-4",
+    "label": "Luke 11:1-4",
+    "slug": "luke-11-1-4"
+  },
+  "section_title": "How does Jesus teach His disciples to pray?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 One day in a place where Jesus had just finished praying, one of His disciples requested, “Lord, teach us to pray, just as John taught his disciples.”",
+        "2 So Jesus told them, “When you pray, say: ‘Father, hallowed be Your name. Your kingdom come. 3 Give us each day our daily bread. 4 And forgive us our sins, for we also forgive everyone who sins against us. And lead us not into temptation.’”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "After Jesus finishes praying, a disciple asks Him to teach them, as John taught his own disciples. Jesus responds with words they can bring to the Father. Luke’s account is shorter than the prayer in Matthew; the passage text here follows Luke without adding Matthew’s phrases.",
+    "",
+    "The prayer begins with God’s name and kingdom, then brings daily bread, forgiveness and protection from temptation before Him. Its repeated language of us and our includes others in these requests.",
+    "",
+    "To hallow God’s name is to honor it as holy. The Greek verb is ἁγιάζω, hagiazō (hah-gee-AH-zoh), which Thayer’s lexicon explains here as acknowledging or treating as holy. The request asks that God receive the honor due Him. ([Thayer, Greek 37](https://biblehub.com/greek/37.htm))",
+    "",
+    "Forgiveness received and forgiveness extended belong together in the prayer. The final petition brings human weakness before the Father rather than treating resistance to temptation as something the disciples can manage alone."
+  ],
+  "common_interpretation_lines": [
+    "Christian traditions broadly receive this prayer as instruction in approaching God as Father, honoring Him and depending on Him. They commonly use it both to shape other prayers and as words that can themselves be prayed sincerely: the Westminster Larger Catechism explicitly allows both, as does Wesley’s note on Luke 11:2. ([Westminster Larger Catechism 186–190](https://www.opc.org/lc.html); [Wesley on Luke 11:1–2](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))",
+    "",
+    "There are differences in how the bread petition is explained. The Reformed Westminster Larger Catechism emphasizes the material provision needed for life, received with contentment. The Catholic Church’s Compendium includes that need and also hunger for God’s word, the Holy Spirit and Christ received in the Lord’s Supper. These descriptions need not mean that every member of either tradition places the same emphasis on each part. ([Westminster Larger Catechism 193](https://www.opc.org/lc.html); [Catholic Compendium 592–593](https://press.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_en.html))",
+    "",
+    "The Greek word behind daily, ἐπιούσιος, epiousios (eh-pee-OO-see-os), has a debated formation. Thayer discusses readings involving needed sustenance or food for the coming day. The word alone does not settle every theological meaning Christians find in the petition. ([Thayer, Greek 1967](https://biblehub.com/greek/1967.htm))"
+  ],
+  "god_plan_lines": [
+    "Galatians connects calling God Father with His saving work: He sends His Son to redeem and bring people into His family, then sends the Spirit of His Son into their hearts. The relationship expressed in this prayer belongs within that work of redemption and adoption. ([Galatians 4:4–7](https://biblehub.com/bsb/galatians/4.htm))",
+    "",
+    "Romans adds that the Spirit helps believers in their weakness and intercedes according to God’s will when they do not know how to pray. God’s people depend on Him even in learning to address Him. ([Romans 8:26–27](https://biblehub.com/bsb/romans/8.htm))"
+  ],
+  "current_position_lines": [
+    "Prayer and Faith understands this prayer as a pattern of dependence on God, with His purposes governing the requests. It reads daily bread as dependence on Christ, the living bread, drawing that connection from John 6. That is the study’s interpretation, rather than a meaning proved by the Greek word alone. What Does Prayer Look Like? also emphasizes honest prayer governed by surrender to the Father’s will."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/11.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-luke-eleven-prayer-review.md",
+    "position_source_detail": "Prayer and Faith, section 2 and daily-bread/John 6 sections; What Does Prayer Look Like?, Gethsemane and surrender sections. No imported historical or lexical claims from those studies."
+  }
+}

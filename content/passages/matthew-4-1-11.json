@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "4:1-11",
+    "label": "Matthew 4:1-11",
+    "slug": "matthew-4-1-11"
+  },
+  "section_title": "Jesus Resists the Tempter",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Then Jesus was led by the Spirit into the wilderness to be tempted by the devil. 2 After fasting forty days and forty nights, He was hungry. 3 The tempter came to Him and said, “If You are the Son of God, tell these stones to become bread.” 4 But Jesus answered, “It is written: ‘Man shall not live on bread alone, but on every word that comes from the mouth of God.’”",
+        "5 Then the devil took Him to the holy city and set Him on the pinnacle of the temple. 6 “If You are the Son of God,” he said, “throw Yourself down. For it is written: ‘He will command His angels concerning You, and they will lift You up in their hands, so that You will not strike Your foot against a stone.’” 7 Jesus replied, “It is also written: ‘Do not put the Lord your God to the test.’”",
+        "8 Again, the devil took Him to a very high mountain and showed Him all the kingdoms of the world and their glory. 9 “All this I will give You,” he said, “if You will fall down and worship me.” 10 “Away from Me, Satan!” Jesus told him. “For it is written: ‘Worship the Lord your God and serve Him only.’” 11 Then the devil left Him, and angels came and ministered to Him."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Immediately after the Father's declaration at His baptism, Jesus is led by the Spirit into the wilderness. After forty days and nights of fasting, He is hungry, and the devil challenges Him as the Son of God. The question running through the encounters is how the Son will exercise His calling: in trust and obedience to His Father, or on the tempter's terms.",
+    "",
+    "The Greek verb for being tempted is πειράζω, *peirazō* (pay-RAH-zoh). [Thayer's Greek Lexicon](https://biblehub.com/greek/3985.htm) includes testing someone's character and, in this context, enticing someone to sin. Matthew distinguishes the Spirit's leading from the devil's attempts to draw Jesus into disobedience. [James 1:13–15](https://biblehub.com/bsb/james/1.htm) likewise distinguishes God from the enticement to evil.",
+    "",
+    "The first offer targets His hunger: turn stones into bread. Jesus answers from [Deuteronomy 8:2–3](https://biblehub.com/bsb/deuteronomy/8.htm), where Israel's hunger and manna taught dependence on God's word. His answer places that dependence ahead of the tempter's proposed display of power.",
+    "",
+    "At the temple, the devil quotes the promise of angelic protection in [Psalm 91:11–12](https://biblehub.com/bsb/psalms/91.htm) and urges Jesus to throw Himself down. Jesus answers with [Deuteronomy 6:16](https://biblehub.com/bsb/deuteronomy/6.htm), the warning against testing God. A promise of care becomes an invitation to force a demonstration; Jesus keeps the promise within the wider call to trust God.",
+    "",
+    "The last offer is the kingdoms of the world in exchange for bowing before the devil. Jesus again answers from [Deuteronomy 6:13–14](https://biblehub.com/bsb/deuteronomy/6.htm), directing worship and service to God alone. He rejects the offer, commands Satan to leave, and receives the ministry of angels.",
+    "",
+    "Matthew ends with the kingdoms, while [Luke 4:1–13](https://biblehub.com/bsb/luke/4.htm) ends with the temple. The accounts present the same three challenges in different orders. Matthew does not identify the high mountain or give the means by which every kingdom is shown."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand these encounters as Jesus' faithful resistance to temptation and an example of trusting God's word. The [Catholic Catechism, paragraphs 538–540](https://www.vatican.va/archive/ENG0015/__P1L.HTM), connects His victory with Adam and Israel; [Wesley's notes on Matthew 4:4–10](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) likewise emphasize His obedience to the Father and answers from Scripture."
+  ],
+  "god_plan_lines": [
+    "Jesus' answers deliberately return to Israel's wilderness experience. [Deuteronomy 8:2–5](https://biblehub.com/bsb/deuteronomy/8.htm) describes forty years of testing, hunger, provision, and God's fatherly care. Matthew's forty-day setting and three Deuteronomy answers form a clear parallel: the Son remains faithful in the very matters where God's people had been tested.",
+    "",
+    "There is also a wider contrast with Adam. [Romans 5:15–19](https://biblehub.com/bsb/romans/5.htm) sets Adam's disobedience beside Christ's obedience, and [1 Corinthians 15:45–49](https://biblehub.com/bsb/1_corinthians/15.htm) calls Christ the last Adam. Together, they explain why His faithful human life matters beyond the example it gives us. His obedience belongs to God's rescue of humanity from sin and death.",
+    "",
+    "His experience also gives His people confidence to seek help. [Hebrews 4:14–16](https://biblehub.com/bsb/hebrews/4.htm) describes Jesus as tested as we are, yet without sin, and invites us to approach God for mercy and grace. The account leads us to rely on a Savior who knows testing and offers help in our weakness."
+  ],
+  "current_position_lines": [
+    "Our study Worship as the Early Church Knew It understands the final temptation as a demand for allegiance. Bowing before Satan would acknowledge his authority; Jesus answers that worship and service belong to God alone. The study treats this as personal submission and obedience, rather than a description of a church service."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/4.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-wilderness-and-galilee-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It — Matthew 4:9–10, allegiance and exclusive service to God"
+  }
+}

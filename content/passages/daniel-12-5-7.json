@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "12:5-7",
+    "label": "Daniel 12:5-7",
+    "slug": "daniel-12-5-7"
+  },
+  "section_title": "How is the limit of the time of trouble confirmed?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 Then I, Daniel, looked and saw two others standing there, one on this bank of the river and one on the opposite bank. 6 One of them said to the man dressed in linen, who was above the waters of the river, “How long until the fulfillment of these wonders?” 7 And the man dressed in linen, who was above the waters of the river, raised his right hand and his left hand toward heaven, and I heard him swear by Him who lives forever, saying, “It will be for a time, and times, and half a time. When the power of the holy people has finally been shattered, all these things will be completed.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Daniel sees two others standing on opposite banks of the river. One asks the linen-clothed man above the waters how long it will be until the wonders are fulfilled.",
+    "",
+    "The man raises both hands toward heaven and swears by the One who lives forever. The answer is a time, times and half a time, ending when the power of the holy people has been shattered.",
+    "",
+    "The oath gives solemn assurance that the terrible events have an appointed limit. The question about how long is answered by appeal to the living God, whose authority outlasts the powers causing the distress."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/daniel/12.htm) understands the period as three and a half years and identifies the man above the river as Christ. [Cambridge](https://biblehub.com/commentaries/cambridge/daniel/12.htm) connects the period with Antiochus’s persecution. [Gaebelein](https://biblehub.com/commentaries/gaebelein/daniel/12.htm) places the chapter’s great distress within a future final tribulation.",
+    "",
+    "The readings differ over the setting and speaker’s identity, while treating the oath as confirmation that God has set the limit."
+  ],
+  "god_plan_lines": [
+    "[Revelation 10:1–11](https://biblehub.com/bsb/revelation/10.htm) takes up the raised hand and oath by the One who lives forever. Its mighty angel announces that the mystery of God proclaimed to the prophets will be fulfilled.",
+    "",
+    "The shared language connects Daniel’s question about the appointed end with Revelation’s announcement that God’s purpose is moving toward completion. John is then commissioned to prophesy concerning peoples, nations, languages and kings. What God made known through His prophets remains part of the larger testimony He brings to fulfillment."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/12.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-twelve-review.md"
+  }
+}

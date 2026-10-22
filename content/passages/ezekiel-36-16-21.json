@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "36:16-21",
+    "label": "Ezekiel 36:16-21",
+    "slug": "ezekiel-36-16-21"
+  },
+  "section_title": "How did Israel’s exile profane the Lord’s name?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "16 Again the word of the LORD came to me, saying, 17 “Son of man, when the people of Israel lived in their land, they defiled it by their own ways and deeds. Their behavior before Me was like the uncleanness of a woman’s impurity. 18 So I poured out My wrath upon them because of the blood they had shed on the land, and because they had defiled it with their idols. 19 I dispersed them among the nations, and they were scattered throughout the lands. I judged them according to their ways and deeds. 20 And wherever they went among the nations, they profaned My holy name, because it was said of them, ‘These are the people of the LORD, yet they had to leave His land.’ 21 But I had concern for My holy name, which the house of Israel had profaned among the nations to which they had gone."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The Lord explains why Israel was scattered. Their ways and deeds defiled the land through bloodshed and idolatry, and He judged them according to that conduct.",
+    "",
+    "The comparison with a woman’s impurity draws on the language of ritual uncleanness to describe the people’s defilement. The wrongdoing named is their violence and idol worship.",
+    "",
+    "Exile then brought dishonor to the name associated with them. The nations could say that these were the Lord’s people, yet they had been forced out of His land. The Lord declares His concern for His holy name among those nations."
+  ],
+  "common_interpretation_lines": [
+    "The [USCCB notes](https://bible.usccb.org/bible/ezekiel/36) explain the problem as the impression that God could not protect His people. [Cambridge](https://biblehub.com/commentaries/cambridge/ezekiel/36.htm) likewise connects the exile with the nations’ misunderstanding of His power and His rule over His own people.",
+    "",
+    "[Wesley](https://biblehub.com/commentaries/wes/ezekiel/36.htm) also emphasizes the people’s wrongdoing and the dishonor it brings. The passage holds together the justice of the exile and the need for the nations to know the Lord truly."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/36.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-thirty-five-six-review.md"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "reference": {
+    "book": "Philippians",
+    "citation": "4:4-7",
+    "label": "Philippians 4:4-7",
+    "slug": "philippians-4-4-7"
+  },
+  "section_title": "Where can we bring our worries?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "4 Rejoice in the Lord always. I will say it again: Rejoice! 5 Let your gentleness be apparent to all. The Lord is near.",
+        "6 Be anxious for nothing, but in everything, by prayer and petition, with thanksgiving, present your requests to God. 7 And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul calls the believers to rejoice in the Lord and let their gentleness be seen by everyone. The joy he describes is rooted in the Lord, amid the difficulties the letter has already acknowledged.",
+    "",
+    "He adds that the Lord is near. The [USCCB note](https://bible.usccb.org/bible/philippians/4) understands this most likely as His approaching return, while also noting the reading that emphasizes His present nearness. The preceding chapter has explicitly looked toward His coming.",
+    "",
+    "Paul closes the letter with instructions for a community facing disagreement and difficulty. He has called them to rejoice in the Lord and show gentleness to everyone. He now tells them to bring their concerns to God.",
+    "",
+    "The invitation is broad: in everything, they are to pray, make requests and give thanks. Paul directs their worries toward the One they can approach, rather than telling them to hide those worries or pretend nothing is wrong.",
+    "",
+    "The promise is that God’s peace will guard their hearts and minds in Christ Jesus. The Greek verb is phroureo (froo-REH-oh). [Thayer’s lexicon](https://biblehub.com/greek/5432.htm) explains its use for guarding or protecting, including this figurative use in verse 7. The picture is protection for their inner life.",
+    "",
+    "The passage promises that peace without saying every requested change will occur. Paul has already described genuine sorrow, danger and suffering in this letter. Prayer belongs within those experiences."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read these verses as a call to a life marked by joy in the Lord, gentleness toward others and prayerful dependence on God. [Wesley’s notes on verses 5–7](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-philippians/) connect gentleness with the Lord’s nearness and encourage bringing concerns to Him freely. The promised protection is God’s peace guarding the heart and mind; Paul does not promise that every request will receive the outcome desired."
+  ],
+  "god_plan_lines": [
+    "In [John 14:25–31](https://biblehub.com/bsb/john/14.htm), Jesus promises His disciples the Holy Spirit and gives them His peace as He prepares them for His departure. He distinguishes that gift from what the world gives. This is a close parallel: peace comes from belonging to Him even as trouble lies ahead.",
+    "",
+    "That gift belongs within God’s work of bringing people into life with His Son. It looks forward to the completed hope described in [Philippians 3:20–21](https://biblehub.com/bsb/philippians/3.htm), where the returning Savior transforms His people’s bodies. Present peace and future rescue have the same Lord at their center."
+  ],
+  "current_position_lines": [
+    "In [What Does Prayer Look Like?](https://thewayofscripture.com/studies/what-does-prayer-look-like.html), we understand this passage as an invitation to bring our requests to God with thanksgiving. The promise attached to those requests is His peace guarding our hearts and minds in Christ. It does not promise the particular outcome we ask for."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/philippians/4.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-philippians-four-opening-review.md",
+    "position_source_detail": "What Does Prayer Look Like?, section 6, lines 128–132: requests are invited; the attached promise is peace rather than a particular requested outcome."
+  }
+}

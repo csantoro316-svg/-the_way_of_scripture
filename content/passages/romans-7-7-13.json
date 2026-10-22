@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "7:7-13",
+    "label": "Romans 7:7-13",
+    "slug": "romans-7-7-13"
+  },
+  "section_title": "If the law is good, why does it expose so much sin?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 What then shall we say? Is the law sin? Certainly not! Indeed, I would not have been mindful of sin if not for the law. For I would not have been aware of coveting if the law had not said, “Do not covet.” 8 But sin, seizing its opportunity through the commandment, produced in me every kind of covetous desire. For apart from the law, sin is dead. 9 Once I was alive apart from the law; but when the commandment came, sin sprang to life and I died. 10 So I discovered that the very commandment that was meant to bring life actually brought death. 11 For sin, seizing its opportunity through the commandment, deceived me and through the commandment put me to death.",
+        "12 So then, the law is holy, and the commandment is holy, righteous, and good. 13 Did that which is good, then, become death to me? Certainly not! But in order that sin might be exposed as sin, it produced death in me through what was good, so that through the commandment sin might become utterly sinful."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul anticipates an objection to what he has said about release from the law: is the law itself sin? He firmly rejects that conclusion. The commandment makes wrongdoing known, as the prohibition against coveting makes sinful desire visible.",
+    "",
+    "The example comes from [Exodus 20:17](https://biblehub.com/bsb/exodus/20.htm). It reaches beyond a public act into what a person wants. Sin seizes the commandment as an opportunity and produces the very desire it forbids.",
+    "",
+    "Paul describes this in the first person: the commandment comes, sin springs to life, and what should point toward life exposes death. Christians discuss the identity and experience of this speaker in different ways, especially in the next passage. The conclusion here is clear: the law is holy, righteous and good.",
+    "",
+    "It is sin that deceives and brings death through what is good. The commandment exposes how serious sin is, including its ability to turn good instruction into an occasion for disobedience."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read these verses as a defense of God’s law and an exposure of sin’s power. The law makes wrongdoing known but does not, by that knowledge alone, supply the power to overcome it. Blaming the good commandment would miss Paul’s distinction between the instruction and the sin that exploits it."
+  ],
+  "god_plan_lines": [
+    "[Galatians 3:19–24](https://biblehub.com/bsb/galatians/3.htm) asks a related question about the law’s purpose. It explains that the law does not oppose God’s promise, yet cannot itself impart life. Its role leads toward Christ and the promise received through faith.",
+    "",
+    "This places the exposure of sin within God’s larger saving purpose. The instruction that makes the need known is not the enemy of the rescue. Paul’s story moves toward the One who can give the life the law itself cannot supply."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/7.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-seven-review.md"
+  }
+}

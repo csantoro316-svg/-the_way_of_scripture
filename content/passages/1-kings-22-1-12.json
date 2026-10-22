@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "22:1-12",
+    "label": "1 Kings 22:1-12",
+    "slug": "1-kings-22-1-12"
+  },
+  "section_title": "Does a united answer mean the prophets are speaking for God?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Then three years passed without war between Aram and Israel. 2 However, in the third year, Jehoshaphat king of Judah went down to visit the king of Israel, 3 who said to his servants, “Do you not know that Ramoth-gilead is ours, but we have failed to take it from the hand of the king of Aram?” 4 So he asked Jehoshaphat, “Will you go with me to fight against Ramoth-gilead?” Jehoshaphat answered the king of Israel, “I am as you are, my people are your people, and my horses are your horses.” 5 But Jehoshaphat also said to the king of Israel, “Please inquire first for the word of the LORD.”",
+        "6 So the king of Israel assembled the prophets, about four hundred men, and asked them, “Should I go to war against Ramoth-gilead, or should I refrain?” “Go up,” they replied, “and the Lord will deliver it into the hand of the king.” 7 But Jehoshaphat asked, “Is there not still a prophet of the LORD here of whom we can inquire?” 8 The king of Israel answered, “There is still one man through whom we can inquire of the LORD, but I hate him because he never prophesies anything good for me, but only bad. He is Micaiah son of Imlah.” “The king should not say that!” Jehoshaphat replied. 9 So the king of Israel called one of his officials and said, “Bring Micaiah son of Imlah at once.”",
+        "10 Dressed in royal attire, the king of Israel and Jehoshaphat king of Judah were sitting on their thrones at the threshing floor by the entrance of the gate of Samaria, with all the prophets prophesying before them. 11 Now Zedekiah son of Chenaanah had made for himself iron horns and declared, “This is what the LORD says: ‘With these you shall gore the Arameans until they are finished off.’” 12 And all the prophets were prophesying the same, saying, “Go up to Ramoth-gilead and triumph, for the LORD will deliver it into the hand of the king.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "After three years without war between Aram and Israel, Ahab raises the question of recovering Ramoth-gilead. Jehoshaphat, king of Judah, agrees to join him but also asks that they first seek the LORD’s word.",
+    "",
+    "About four hundred prophets promise success. Jehoshaphat nevertheless asks for a prophet of the LORD. Ahab names Micaiah son of Imlah, then explains his dislike: Micaiah brings him bad news rather than the good news he wants.",
+    "",
+    "The kings sit in royal dress at Samaria’s gate while the prophets repeat their assurances. Zedekiah adds a visible sign, iron horns, claiming that Ahab will gore the Arameans. The scene brings together agreement, ceremony and confidence before the reader has heard the message Micaiah will give."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/22.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) emphasize the danger of fitting a religious message to the wishes of a ruler. Jehoshaphat’s request for God’s word is commendable, while his willingness to ally himself with Ahab exposes him to danger.",
+    "",
+    "[Gill](https://biblehub.com/commentaries/gill/1_kings/22.htm) likewise regards these as Ahab’s false prophets. Their agreement is part of the problem: the king is being encouraged in the course he already desires. The use of the LORD’s name does not settle whether He has spoken."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/22.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-twenty-two-review.md"
+  }
+}

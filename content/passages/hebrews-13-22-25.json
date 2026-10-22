@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "13:22-25",
+    "label": "Hebrews 13:22-25",
+    "slug": "hebrews-13-22-25"
+  },
+  "section_title": "How does the letter leave its readers?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "22 I urge you, brothers, to bear with my word of exhortation, for I have only written to you briefly. 23 Be aware that our brother Timothy has been released. If he arrives soon, I will come with him to see you. 24 Greet all your leaders and all the saints. Those from Italy send you greetings. 25 Grace be with all of you."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The writer asks the readers to bear with the word of exhortation. The letter’s teaching has been meant to be received and acted upon, not only admired from a distance.",
+    "",
+    "The news about Timothy points toward a hoped-for visit. If he arrives soon, the writer expects to come with him. The greeting from those from Italy connects the readers with other believers, without by itself identifying the writer or the place of composition.",
+    "",
+    "Leaders and all the saints are greeted, and the letter ends with grace for everyone. The practical concern and personal warmth belong beside its serious warnings and sustained teaching about Christ."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/13.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) understand the ending as an appeal to receive the exhortation, together with personal news and greetings. They do not agree on authorship: Wesley assumes Paul, while Calvin considers other possibilities. The closing details alone do not establish an author.",
+    "",
+    "The BSB says Timothy has been released. Beyond that notice, these verses do not supply an account of his detention or prove that the writer shared it. The hoped-for visit expresses a continuing relationship with the readers."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/13.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-thirteen-review.md"
+  }
+}

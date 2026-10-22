@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "8:16-18",
+    "label": "Luke 8:16-18",
+    "slug": "luke-8-16-18"
+  },
+  "section_title": "Why does Jesus tell us to pay attention to how we listen?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "16 No one lights a lamp and covers it with a jar or puts it under a bed. Instead, he sets it on a stand, so those who enter can see the light. 17 For there is nothing hidden that will not be disclosed, and nothing concealed that will not be made known and brought to light. 18 Pay attention, therefore, to how you listen. Whoever has will be given more, but whoever does not have, even what he thinks he has will be taken away from him.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus follows the sower’s explanation with a lamp. A person lights it and places it where those entering can see. Covering it would defeat its purpose.",
+    "",
+    "He adds that hidden things will be disclosed, then tells His hearers to pay attention to how they listen. The warning includes both receiving more and losing even what someone thinks he has. Within this sequence, hearing God’s word carries responsibility for what is received.",
+    "",
+    "The lamp picture directs attention outward: what is given is to become visible. The warning directs attention inward: the hearer must consider the reality of his response. The following scene about Jesus’ family will return once more to hearing and doing."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly connect the lamp with making the received word visible in life and witness, and the warning with a serious, continuing response. Wesley and the Catholic bishops’ notes both follow that connection between hearing, fruitfulness and light for others. ([Wesley on Luke 8:16–18](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [USCCB note on Luke 8:16–18](https://bible.usccb.org/bible/luke/8))"
+  ],
+  "god_plan_lines": [
+    "Paul calls believers light in the Lord and tells them to live as children of light, bearing fruit in goodness, righteousness and truth. This is a wider thematic connection with the lamp: God’s work in His people is to become visible in the way they live. ([Ephesians 5:8–14](https://biblehub.com/bsb/ephesians/5.htm))",
+    "",
+    "The disclosure of what is hidden also has a place in the New Testament’s future hope and accountability. Paul says that when the Lord comes He will bring hidden things to light and expose the motives of hearts. The connection adds weight to Jesus’ warning about the difference between what a hearer really has and what he merely thinks he has. ([1 Corinthians 4:1–5](https://biblehub.com/bsb/1_corinthians/4.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/8.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-eight-opening-review.md"
+  }
+}

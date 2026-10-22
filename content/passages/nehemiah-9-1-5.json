@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "Nehemiah",
+    "citation": "9:1-5",
+    "label": "Nehemiah 9:1-5",
+    "slug": "nehemiah-9-1-5"
+  },
+  "section_title": "How does the gathering change from celebration to confession?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 On the twenty-fourth day of the same month, the Israelites gathered together, fasting and wearing sackcloth, with dust on their heads. 2 Those of Israelite descent separated themselves from all the foreigners, and they stood and confessed their sins and the iniquities of their fathers. 3 While they stood in their places, they read from the Book of the Law of the LORD their God for a quarter of the day, and they spent another quarter of the day in confession and worship of the LORD their God.",
+        "4 And the Levites—Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani—stood on the raised platform and cried out in a loud voice to the LORD their God. 5 Then the Levites—Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah—said, “Stand up and bless the LORD your God from everlasting to everlasting: Blessed be Your glorious name, and may it be exalted above all blessing and praise."
+      ]
+    }
+  ],
+  "context_lines": [
+    "On the twenty-fourth day of the month, after the feast, the Israelites gather with fasting, sackcloth and dust on their heads. They separate themselves from the foreigners and confess both their own sins and those of their fathers.",
+    "",
+    "They spend a quarter of the day reading the Law and another quarter confessing and worshiping. The Levites cry out to God and call the people to bless His name.",
+    "",
+    "The pattern has a foundation in [Leviticus 26:39–45](https://biblehub.com/bsb/leviticus/26.htm), which speaks of confession, humbled hearts and God remembering His covenant after His people have suffered because of their unfaithfulness. The gathering looks honestly at sin while turning toward the God whose faithfulness has preserved them."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/nehemiah/9.htm) emphasizes how Scripture directs prayer by bringing both sin and God’s mercy into view. [Gill](https://biblehub.com/commentaries/gill/nehemiah/9.htm) links the mourning with the end of the festival and reads the separation in light of the concern about foreign marriages. The verse itself states the separation and confession without detailing a new set of individual marriage cases."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/nehemiah/9.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-nehemiah-eight-nine-review.md"
+  }
+}

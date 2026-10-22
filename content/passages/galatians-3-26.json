@@ -5,20 +5,55 @@
     "label": "Galatians 3:26",
     "slug": "galatians-3-26"
   },
+  "section_title": "How do we become God’s children in Christ?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"For you are all sons of God through faith in Christ Jesus.\""
+      "label": "BSB",
+      "paragraphs": [
+        "26 You are all sons of God through faith in Christ Jesus."
+      ]
     }
   ],
   "context_lines": [
-    "In **Galatians 3**, Paul argues fiercely that justification and sonship come through faith in Christ rather than works of the law. The chapter connects promise, faith, union with Christ, and covenant identity, so its baptism language belongs inside Paul's gospel argument about belonging to Christ."
+    "This verse follows Paul’s explanation of the law as a guardian leading toward Christ. He now describes the believers’ standing as sons of God through faith in Christ Jesus.",
+    "",
+    "[The full paragraph, Galatians 3:26–29](https://thewayofscripture.com/passages/galatians-3-26-29.html), connects that standing with baptism into Christ, shared belonging across human boundaries and inheritance according to Abraham’s promise."
   ],
-  "explanation_lines": [
-    "Sonship \u2014 the saved relationship with God \u2014 is established in verse 26 through faith. Baptism in verse 27 describes what follows: clothing yourself with Christ. Putting Him on. The believer is now equipped and commissioned to walk as Christ calls. **Faith saves. Baptism clothes.**",
+  "common_interpretation_lines": [
+    "Christians commonly read this as locating belonging to God’s family in faith in Christ. [Wesley’s note on verse 26](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-galatians/) connects sonship with the change from guardianship, and the [USCCB note on verses 23–29](https://bible.usccb.org/bible/galatians/3) places the statement within the promise and inheritance described throughout the paragraph."
+  ],
+  "god_plan_lines": [
+    "[Romans 8:14–17](https://biblehub.com/bsb/romans/8.htm) connects being God’s children with the Spirit’s witness, calling God Father and being heirs with Christ. That shared inheritance reaches through present suffering toward glory with Him.",
     "",
-    "The debt \u2014 the wages of sin (Romans 6:23) \u2014 is cancelled at faith through the sacrifice of Christ. This is the forgiveness of the debt: *aphesis* \u2014 a releasing. Heaven is secured. The Holy Spirit indwells. None of this waits for baptism.",
-    "",
-    "Already quoted in Section III: *\"you are all sons of God through faith in Christ Jesus. For all of you who were baptized into Christ have clothed yourselves with Christ.\"* Read in sequence, these verses separate salvation and baptism as distinct realities. Sonship is through faith \u2014 verse 26. Clothing with Christ occurs at baptism \u2014 verse 27. The saved relationship precedes and produces the baptism that clothes the believer for new life."
-  ]
+    "The family language here therefore carries a future as well as a present hope. Those who belong to Christ share the promise and a life directed toward what God has prepared for His children."
+  ],
+  "current_position_lines": [
+    "Our study [Baptism](https://thewayofscripture.com/studies/baptism.html) reads verses 26–27 as distinguishing sonship through faith from being clothed with Christ in baptism. Its position is that faith establishes the saved relationship with God, and water baptism follows as the appointed act in which the believer puts on Christ for a new life of obedience. The study sums up that distinction as faith saving and baptism clothing the believer with Christ."
+  ],
+  "deeper_study": [
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/galatians/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-galatians-three-closing-review.md",
+    "position_source_detail": "Baptism — It Is Not the Mechanism of Salvation, content/studies/baptism.md:72–84; direct3:26 quotation; related26–27 discussion54–60/128–132."
+  }
 }

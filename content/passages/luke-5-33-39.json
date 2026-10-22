@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "5:33-39",
+    "label": "Luke 5:33-39",
+    "slug": "luke-5-33-39"
+  },
+  "section_title": "Why do Jesus’ disciples feast while others fast?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "33 Then they said to Him, “John’s disciples and those of the Pharisees frequently fast and pray, but Yours keep on eating and drinking.” 34 Jesus replied, “Can you make the guests of the bridegroom fast while He is with them? 35 But the time will come when the bridegroom will be taken from them; then they will fast.”",
+        "36 He also told them a parable: “No one tears a piece of cloth from a new garment and sews it on an old one. If he does, he will tear the new garment as well, and the patch from the new will not match the old. 37 And no one pours new wine into old wineskins. If he does, the new wine will burst the skins, the wine will spill, and the wineskins will be ruined. 38 Instead, new wine is poured into new wineskins. 39 And no one after drinking old wine wants new, for he says, ‘The old is better.’”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The question about fasting follows the meal at Levi’s house. The questioners contrast the fasting and prayers of John’s disciples and the Pharisees’ disciples with the eating and drinking of Jesus’ followers.",
+    "",
+    "Jesus compares His presence with a bridegroom’s presence at a wedding. That is a reason for joy; a time for fasting will come when the bridegroom is taken away. He does not make fasting meaningless. He explains why the disciples’ present circumstances matter.",
+    "",
+    "He then gives two pictures of things that do not fit together: a piece torn from a new garment to patch an old one, and new wine poured into old wineskins. Luke adds the saying about someone who has drunk old wine preferring it to new. These pictures continue the discussion about how people receive what Jesus brings; they should be read within that setting."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly recognize Jesus as the bridegroom and connect His being taken away with His coming death. The pictures of clothing and wineskins receive different explanations.",
+    "",
+    "The Catholic bishops’ notes on the parallel Matthew passage emphasize the newness of Jesus’ teaching and the gospel’s reach beyond the existing forms of religious life. Calvin, a historical Reformed teacher, instead reads the pictures as Jesus protecting His still-weak disciples from a demanding discipline they are not ready to bear. These are interpretations in explanatory notes and a teacher’s commentary, rather than a claim that every Catholic or Reformed Christian holds one reading. ([USCCB notes on Matthew 9:15–17](https://bible.usccb.org/bible/matthew/9); [Calvin on Matthew 9:16–17 and Luke 5:39](https://biblehub.com/commentaries/calvin/luke/5.htm))",
+    "",
+    "On the final saying, Wesley explains the preference for old wine as the difficulty of letting go of accustomed ideas. The bishops’ note on Luke likewise sees satisfaction with the familiar as a reason some resist what Jesus offers. ([Wesley on Luke 5:39](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [USCCB note on Luke 5:39](https://bible.usccb.org/bible/luke/5))"
+  ],
+  "god_plan_lines": [
+    "The bridegroom’s coming removal points forward to the suffering that Luke will later narrate. At the final Passover meal, Jesus speaks of His coming suffering and gives the cup as the new covenant in His blood. That later scene states plainly how His death will bring the promised covenant into effect. ([Luke 22:14–20](https://biblehub.com/bsb/luke/22.htm))",
+    "",
+    "Hebrews describes Jesus as the mediator of the better covenant and recalls God’s promise to write His laws on His people’s hearts and forgive their sins. This helps place the newness Jesus brings within the Bible’s larger story. The promised change includes inward renewal and forgiveness, rather than freedom to disregard what pleases God. ([Hebrews 8:6–13](https://biblehub.com/bsb/hebrews/8.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-five-review.md"
+  }
+}

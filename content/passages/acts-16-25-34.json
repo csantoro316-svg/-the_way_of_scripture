@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "16:25-34",
+    "label": "Acts 16:25-34",
+    "slug": "acts-16-25-34"
+  },
+  "section_title": "How does a night in prison become a household’s hearing of the gospel?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "25 About midnight Paul and Silas were praying and singing hymns to God, and the other prisoners were listening to them. 26 Suddenly a strong earthquake shook the foundations of the prison. At once all the doors flew open and everyone’s chains came loose. 27 When the jailer woke up and saw the prison doors open, he drew his sword and was about to kill himself, presuming that the prisoners had escaped. 28 But Paul called out in a loud voice, “Do not harm yourself! We are all here!”",
+        "29 Calling for lights, the jailer rushed in and fell trembling before Paul and Silas. 30 Then he brought them out and asked, “Sirs, what must I do to be saved?” 31 They replied, “Believe in the Lord Jesus and you will be saved, you and your household.” 32 Then Paul and Silas spoke the word of the Lord to him and to everyone in his house. 33 At that hour of the night, the jailer took them and washed their wounds. And without delay, he and all his household were baptized. 34 Then he brought them into his home and set a meal before them. So he and all his household rejoiced that they had come to believe in God."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul and Silas pray and sing hymns while the other prisoners listen. An earthquake opens the doors and loosens the chains. The jailer wakes, assumes the prisoners have escaped and prepares to kill himself, but Paul calls out that everyone is still there.",
+    "",
+    "The jailer asks what he must do to be saved. Paul and Silas direct him to believe in the Lord Jesus and then speak the word of the Lord to him and everyone in his house. The promise to the household is followed by the household’s hearing; it is not presented as one person’s faith automatically replacing every other person’s response.",
+    "",
+    "The jailer washes their wounds, and he and his household are baptized without delay. He brings them food, and the household rejoices in believing God. The man who had secured them in confinement is now caring for their injuries and welcoming them at his table."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the answer to the jailer as directing him to Jesus rather than to an achievement that earns salvation. [Wesley on verse 31](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) reads the household’s salvation in connection with believing, and [Calvin on verse 31](https://biblehub.com/commentaries/calvin/acts/16.htm) emphasizes that Paul and Silas also teach the message about the One in whom they are to believe.",
+    "",
+    "Household baptism is also read differently. The Catholic [Catechism, paragraph 1252](https://www.vatican.va/archive/ENG0015/__P3K.HTM), notes the possibility that infants were included in apostolic household baptisms. The Reformed [Westminster Confession, chapter 28, paragraph 4](https://www.opc.org/wcf.html), includes the children of believers among those to be baptized. The [1689 Baptist Confession, chapter 29, paragraph 2](https://www.the1689confession.com/1689/chapter-29), limits baptism to those who profess repentance, faith and obedience. Luke does not identify the ages of the household members in this account."
+  ],
+  "god_plan_lines": [
+    "In a later imprisonment, Paul tells the Philippians that his circumstances have served the gospel’s progress in [Philippians 1:12–14](https://biblehub.com/bsb/philippians/1.htm). This earlier scene offers a related pattern: real suffering becomes the setting in which others hear about the Lord.",
+    "",
+    "[Philippians 4:4–7](https://biblehub.com/bsb/philippians/4.htm) joins joy in the Lord with prayer and God’s peace. The prison scene puts prayer and praise alongside pain, rather than making them depend on comfortable circumstances. Luke’s account still names the wounds and the care they need."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/16.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-sixteen-review.md"
+  }
+}

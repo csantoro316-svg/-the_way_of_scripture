@@ -1,0 +1,50 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "5:5-9",
+    "label": "Daniel 5:5-9",
+    "slug": "daniel-5-5-9"
+  },
+  "section_title": "Why does the feast turn into terror?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 At that moment the fingers of a human hand appeared and wrote on the plaster of the wall, near the lampstand in the royal palace. As the king watched the hand that was writing, 6 his face grew pale and his thoughts so alarmed him that his hips gave way and his knees knocked together.",
+        "7 The king called out for the enchanters, astrologers, and diviners to be brought in, and he said to these wise men of Babylon, “Whoever reads this inscription and tells me its interpretation will be clothed in purple and have a gold chain placed around his neck, and he will be made the third highest ruler in the kingdom.” 8 So all the king’s wise men came in, but they could not read the inscription or interpret it for him. 9 Then King Belshazzar became even more terrified, his face grew even more pale, and his nobles were bewildered."
+      ]
+    }
+  ],
+  "context_lines": [
+    "While the celebration is underway, the fingers of a human hand appear and write on the palace wall near the lampstand. Belshazzar sees the writing, turns pale and begins to shake.",
+    "",
+    "He summons the court’s wise men and offers royal clothing, a gold chain and the kingdom’s third-highest position to whoever can read and explain the inscription. Their inability leaves both the king and his nobles bewildered.",
+    "",
+    "The scene repeats a pattern from Nebuchadnezzar’s court: royal wealth and the assembled experts cannot produce the answer the king needs. The ruler who moments earlier dishonored God now faces a message he cannot control."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/daniel/5.htm) and [Wesley](https://biblehub.com/commentaries/wes/daniel/5.htm) see the sudden fear as the collapse of the king’s self-confidence before God. The rewards on offer cannot give the wise men the understanding they lack."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/5.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-five-review.md"
+  }
+}

@@ -10,21 +10,48 @@
     {
       "label": "BSB",
       "paragraphs": [
-        "13 Then God said to Noah, \u201cThe end of all living creatures has come before Me, because through them the earth is full of violence. Now behold, I will destroy both them and the earth.",
+        "13 Then God said to Noah, “The end of all living creatures has come before Me, because through them the earth is full of violence. Now behold, I will destroy both them and the earth.",
         "14 Make for yourself an ark of gopher wood; make rooms in the ark and coat it with pitch inside and out. 15 And this is how you are to build it: The ark is to be 300 cubits long, 50 cubits wide, and 30 cubits high. 16 You are to make a roof for the ark, finish its walls a cubit from the top, place a door in the side of the ark, and build lower, middle, and upper decks.",
-        "17 And behold, I will bring floodwaters upon the earth to destroy every creature under the heavens that has the breath of life. Everything on the earth will perish. 18 But I will establish My covenant with you, and you will enter the ark\u2014you and your sons and your wife and your sons\u2019 wives with you.",
-        "19 And you are to bring two of every living creature into the ark\u2014male and female\u2014to keep them alive with you. 20 Two of every kind of bird and animal and crawling creature will come to you to be kept alive. 21 You are also to take for yourself every kind of food that is eaten and gather it as food for yourselves and for the animals.\u201d",
+        "17 And behold, I will bring floodwaters upon the earth to destroy every creature under the heavens that has the breath of life. Everything on the earth will perish. 18 But I will establish My covenant with you, and you will enter the ark—you and your sons and your wife and your sons’ wives with you.",
+        "19 And you are to bring two of every living creature into the ark—male and female—to keep them alive with you. 20 Two of every kind of bird and animal and crawling creature will come to you to be kept alive. 21 You are also to take for yourself every kind of food that is eaten and gather it as food for yourselves and for the animals.”",
         "22 So Noah did everything precisely as God had commanded him."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 6**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "God tells Noah both what is coming and how life will be preserved. The same speech announces the end of a violent world and gives instructions for building the ark, gathering food, and keeping creatures alive. The warning is not left as a riddle for Noah to solve. He receives work to do in response to God's word.",
+    "",
+    "The dimensions, rooms, covering, entrance, and decks describe a real vessel within the account. The pitch coats it inside and out. The passage does not explain every construction method or identify the wood in terms of a modern species. Its focus is that Noah builds according to God's directions, while God promises a covenant and directs the preservation of the family and animals.",
+    "",
+    "Verse 22 gives Noah's response: he does what God commands. That conclusion belongs with the favor and integrity already described, and with the command to enter in chapter 7. We should read the building, entering, and being preserved as one connected response to God's warning and provision."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Preparing the Ark** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 6** remains the first control on meaning."
+    "Christians commonly read the ark as God's appointed means of preserving Noah's household through the judgment, with Noah's building expressing faith rather than replacing it. [Hebrews 11:7](https://biblehub.com/bsb/hebrews/11.htm) explicitly describes the preparation of the ark in those terms."
   ],
-  "deeper_study": []
+  "deeper_study": [
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    }
+  ],
+  "current_position_lines": [
+    "Our Baptism study explains the ark as the vessel God appointed to carry Noah's family safely through the water. The wood had no saving power of its own. We draw that limited point from the existing study here: the rescue depends on God's provision, with Noah responding to His instructions in faith."
+  ],
+  "god_plan_lines": [
+    "[1 Peter 3:18–22](https://biblehub.com/bsb/1_peter/3.htm) connects the days when the ark was being built and the family's passage through water with baptism through Jesus Christ's resurrection. Peter places the rescue inside a larger explanation of Christ suffering for sins to bring people to God. The connection is stated by the New Testament, not inferred from the boat's measurements.",
+    "",
+    "The ark can therefore serve as a helpful picture of rescue God provides when judgment comes. Noah does not make the flood harmless; he receives a way through it. The greater hope in Peter is centered on the risen Jesus and access to God. The story of preservation prepares us to appreciate the greater rescue Peter describes through Jesus' death and resurrection."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-18",
+    "quote_source": "https://biblehub.com/bsb/genesis/6.htm",
+    "plan_basis": [
+      "a",
+      "b"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-18-genesis-noah-and-covenant-review.md",
+    "position_source_detail": "Baptism, 1 Peter 3:21 section: ark as the vessel God appointed, not wood possessing saving power."
+  }
 }

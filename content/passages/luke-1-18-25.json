@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "1:18-25",
+    "label": "Luke 1:18-25",
+    "slug": "luke-1-18-25"
+  },
+  "section_title": "What happens when Zechariah doubts the promise?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "18 “How can I be sure of this?” Zechariah asked the angel. “I am an old man, and my wife is well along in years.” 19 “I am Gabriel,” replied the angel. “I stand in the presence of God, and I have been sent to speak to you and to bring you this good news. 20 And now you will be silent and unable to speak until the day this comes to pass, because you did not believe my words, which will be fulfilled at their proper time.”",
+        "21 Meanwhile, the people were waiting for Zechariah and wondering why he took so long in the temple. 22 When he came out and was unable to speak to them, they realized he had seen a vision in the temple. He kept making signs to them but remained unable to speak. 23 And when the days of his service were complete, he returned home. 24 After these days, his wife Elizabeth became pregnant and for five months remained in seclusion. She declared, 25 “The Lord has done this for me. In these days He has shown me favor and taken away my disgrace among the people.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Zechariah asks how he can be sure of the announcement, pointing to his own age and Elizabeth’s. The angel identifies himself as Gabriel, sent from God to bring this good news. He also gives the reason for Zechariah’s coming silence: he has not believed the message.",
+    "",
+    "The silence is both a consequence and a sign. Zechariah will be unable to speak until the promised events happen. His disbelief does not cancel the promise: Gabriel says the words will be fulfilled at their proper time. The waiting people realize he has seen a vision when he emerges unable to speak.",
+    "",
+    "After finishing his service, Zechariah goes home. Elizabeth becomes pregnant and remains in seclusion for five months. Luke records her gratitude but does not explain why she withdraws. She understands the pregnancy as God’s favor taking away her disgrace among the people. Her own words tell us what the change means to her."
+  ],
+  "common_interpretation_lines": [
+    "Christian readers commonly understand Zechariah’s silence as a response to his unbelief, with the promised pregnancy displaying God’s faithfulness and mercy. The account holds together a real failure of trust and a promise that God still brings to fulfillment. ([Wesley on Luke 1:18–25](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [USCCB notes on Luke 1:20](https://bible.usccb.org/bible/luke/1))"
+  ],
+  "god_plan_lines": [
+    "There is a supported parallel with earlier births in Israel’s story. Sarah receives the promise of a son when she and Abraham are old; Hannah brings her grief over childlessness to God and later bears Samuel. In each account a particular child has a place in the unfolding story of God’s people. Elizabeth’s pregnancy belongs to that pattern of God giving life and preparing His servants. The parallel does not turn their particular promises into a promise that every childless couple will conceive. ([Genesis 18:9–15](https://biblehub.com/bsb/genesis/18.htm); [1 Samuel 1:1–20](https://biblehub.com/bsb/1_samuel/1.htm))",
+    "",
+    "The story also moves toward restored praise. When John is born and named, Zechariah will speak again and praise God’s mercy and faithfulness. His temporary silence is part of a story that ends with testimony about the God who keeps His word. Elizabeth’s gratitude and Zechariah’s later praise draw attention to Him. ([Luke 1:57–79](https://biblehub.com/bsb/luke/1.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/1.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-one-opening-review.md"
+  }
+}

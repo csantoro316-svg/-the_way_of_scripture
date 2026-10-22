@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "9:1-5",
+    "label": "Romans 9:1-5",
+    "slug": "romans-9-1-5"
+  },
+  "section_title": "Why does Paul speak about Israel with such grief?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 I speak the truth in Christ; I am not lying, as confirmed by my conscience in the Holy Spirit. 2 I have deep sorrow and unceasing anguish in my heart. 3 For I could wish that I myself were cursed and cut off from Christ for the sake of my brothers, my own flesh and blood,",
+        "4 the people of Israel. Theirs is the adoption as sons; theirs the divine glory and the covenants; theirs the giving of the law, the temple worship, and the promises. 5 Theirs are the patriarchs, and from them proceeds the human descent of Christ, who is God over all, forever worthy of praise! Amen."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After celebrating God’s love in Christ, Paul turns to a painful question: what about his own people, Israel? He insists that his grief is genuine. His concern is so deep that he describes wishing he could be cut off from Christ for their sake.",
+    "",
+    "He then lists Israel’s gifts: adoption, divine glory, covenants, the law, worship, promises and the patriarchs. These gifts matter to the discussion that follows. Paul is asking how Israel’s present situation relates to what God has promised.",
+    "",
+    "The list reaches its high point in Christ, whose human descent comes from Israel. In the BSB wording, Paul also identifies Him as God over all. The passage holds together Christ’s Jewish ancestry and His divine identity."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand these verses as an expression of Paul’s love for his people and his recognition of Israel’s place in God’s work. His wish communicates the depth of his grief; it does not establish that someone can exchange their salvation for another person’s."
+  ],
+  "god_plan_lines": [
+    "God’s promise to Abraham included blessing for all the families of the earth ([Genesis 12:1–3](https://biblehub.com/bsb/genesis/12.htm)). Paul’s account of Christ coming from Israel places the saving work of Jesus within that long history of promise.",
+    "",
+    "The same chapter will speak of God calling people from both Jews and Gentiles (verse 24). The movement toward the nations grows from the history Paul honors here. It gives no reason to treat the Jewish people with contempt."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/9.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-nine-review.md"
+  }
+}

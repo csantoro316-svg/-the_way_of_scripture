@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "28:23-29",
+    "label": "Acts 28:23-29",
+    "slug": "acts-28-23-29"
+  },
+  "section_title": "Why do some believe Paul’s message while others turn away?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "23 So they set a day to meet with Paul, and many people came to the place he was staying. He expounded to them from morning to evening, testifying about the kingdom of God and persuading them about Jesus from the Law of Moses and the Prophets. 24 Some of them were convinced by what he said, but others refused to believe.",
+        "25 They disagreed among themselves and began to leave after Paul had made this final statement: “The Holy Spirit was right when He spoke to your fathers through Isaiah the prophet: 26 ‘Go to this people and say, “You will be ever hearing but never understanding; you will be ever seeing but never perceiving.” 27 For this people’s heart has grown callous; they hardly hear with their ears, and they have closed their eyes. Otherwise they might see with their eyes, hear with their ears, understand with their hearts, and turn, and I would heal them.’ 28 Be advised, therefore, that God’s salvation has been sent to the Gentiles, and they will listen!”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "On the appointed day, many people come to Paul’s lodging. From morning until evening he explains the kingdom of God and tries to persuade them about Jesus from the Law of Moses and the Prophets. Some are convinced; others refuse to believe. Luke records a divided response, not a rejection by every Jewish hearer.",
+    "",
+    "As they leave in disagreement, Paul quotes the Holy Spirit’s words through Isaiah about people who hear without understanding and see without perceiving. The warning includes hearts that have grown callous and eyes that have been closed. Paul then declares that God’s salvation has been sent to the Gentiles, who will listen.",
+    "",
+    "This continues a mission already visible throughout Acts. It is not the first invitation to Gentiles, and it does not mean that every Gentile will believe. The passage contrasts responses to the message without giving a verdict on every member of either people.",
+    "",
+    "The BSB places verse 29 in a footnote because it occurs in some manuscript traditions. The Scripture text above therefore runs from verse 28 to the next passage at verse 30."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read Isaiah’s warning here as a serious call to hear and respond, alongside the continuing offer of salvation beyond Israel. [Calvin on verse 28](https://biblehub.com/commentaries/calvin/acts/28.htm) also distinguishes the Gentiles’ reception of the message from a claim that all Gentiles will believe. The mixed response in verse 24 must remain part of the reading."
+  ],
+  "god_plan_lines": [
+    "Paul explicitly connects the response he encounters with [Isaiah 6:9–10](https://biblehub.com/bsb/isaiah/6.htm). A messenger can speak God’s word faithfully while hearers resist it. The warning exposes the seriousness of that response; it does not erase the people who do believe.",
+    "",
+    "[Romans 11:1–2](https://biblehub.com/bsb/romans/11.htm) guards against turning this scene into a claim that God has rejected His people: Paul himself is an Israelite. Together with the movement toward the nations in [Acts 1:8](https://biblehub.com/bsb/acts/1.htm), these passages keep both the widening witness and God’s faithfulness in view. They do not settle every question about Israel and the church."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/28.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twenty-eight-review.md"
+  }
+}

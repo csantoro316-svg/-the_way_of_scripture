@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "16:1-5",
+    "label": "Acts 16:1-5",
+    "slug": "acts-16-1-5"
+  },
+  "section_title": "Why is Timothy circumcised after the council’s decision?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Paul came to Derbe and then to Lystra, where he found a disciple named Timothy, the son of a believing Jewish woman and a Greek father. 2 The brothers in Lystra and Iconium spoke well of him. 3 Paul wanted Timothy to accompany him, so he took him and circumcised him on account of the Jews in that area, for they all knew that his father was a Greek. 4 As they went from town to town, they delivered the decisions handed down by the apostles and elders in Jerusalem for the people to obey. 5 So the churches were strengthened in the faith and grew daily in numbers."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul returns to Derbe and Lystra and finds Timothy, a disciple with a believing Jewish mother and a Greek father. Believers in Lystra and Iconium speak well of him. Paul wants him to join the work and circumcises him because the local Jews know his father was Greek.",
+    "",
+    "This happens while the travelers are carrying the Jerusalem council’s decisions for the churches to obey. Luke places the two actions alongside one another: Timothy is prepared to accompany the mission, and the council’s judgment about Gentile believers is being delivered.",
+    "",
+    "The churches become stronger in faith and increase in number. Timothy is joining work that includes teaching and strengthening existing communities as well as carrying the message farther."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly distinguish Timothy’s circumcision for the sake of the Jewish hearers from requiring circumcision for salvation. [Calvin on verse 3](https://biblehub.com/commentaries/calvin/acts/16.htm) treats the action as avoiding an obstacle to the mission rather than restoring circumcision as a condition of being accepted by God."
+  ],
+  "god_plan_lines": [
+    "In [1 Corinthians 9:19–23](https://biblehub.com/bsb/1_corinthians/9.htm), Paul explains his willingness to adapt for the sake of reaching people while remaining under Christ’s authority. Timothy’s preparation provides a concrete connection with that concern.",
+    "",
+    "The contrast with Titus in [Galatians 2:1–5](https://biblehub.com/bsb/galatians/2.htm) is useful: Titus was not compelled to be circumcised when the freedom of Gentile believers was at stake. A voluntary step for a particular mission is different from making that step a requirement of salvation."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/16.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-sixteen-review.md"
+  }
+}

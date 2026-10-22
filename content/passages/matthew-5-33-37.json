@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "5:33-37",
+    "label": "Matthew 5:33-37",
+    "slug": "matthew-5-33-37"
+  },
+  "section_title": "A Trustworthy Yes and No",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "33 Again, you have heard that it was said to the ancients, ‘Do not break your oath, but fulfill your vows to the Lord.’ 34 But I tell you not to swear at all: either by heaven, for it is God’s throne; 35 or by the earth, for it is His footstool; or by Jerusalem, for it is the city of the great King. 36 Nor should you swear by your head, for you cannot make a single hair white or black.",
+        "37 Simply let your ‘Yes’ be ‘Yes,’ and your ‘No,’ ‘No.’ Anything more comes from the evil one."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus moves from marital faithfulness to trustworthiness in speech. [Leviticus 19:12](https://biblehub.com/bsb/leviticus/19.htm) forbids swearing falsely in God's name, and [Numbers 30:1–2](https://biblehub.com/bsb/numbers/30.htm) requires a person to keep a vow made to the LORD. The concern is whether a person's words can be relied upon.",
+    "",
+    "Jesus names heaven, earth, Jerusalem, and a person's own head as things people might swear by. Each example reaches beyond the speaker's control. Heaven and earth belong to God; Jerusalem is His King's city; even the speaker's life is not something he rules. The throne and footstool imagery appears in [Isaiah 66:1–2](https://biblehub.com/bsb/isaiah/66.htm), and the description of Jerusalem recalls [Psalm 48:1–2](https://biblehub.com/bsb/psalms/48.htm). Changing the object of an oath does not place the speaker outside God's concern for truth.",
+    "",
+    "The positive direction is simple: a yes should mean yes, and a no should mean no. [James 5:12](https://biblehub.com/bsb/james/5.htm) repeats that instruction. In [Matthew 23:16–22](https://biblehub.com/bsb/matthew/23.htm), Jesus also rejects distinctions that treat an oath by the temple or altar as less binding than one by its gold or gift. His followers' ordinary words are to be dependable."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the passage as requiring honest speech and rejecting careless or deceptive oaths. They differ over whether Jesus forbids every oath, including one required in court.",
+    "",
+    "The Catholic Church understands Jesus' words to allow an oath for a serious and right purpose, such as truthful testimony in court. Its [Catechism, 2153–2155](https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_one/article_2/ii_taking_the_name_of_the_lord_in_vain.html), forbids using God's name for trivial or wrongful purposes. In the Reformed tradition, the [Westminster Confession, chapter 22.1–4](https://www.opc.org/wcf.html), likewise permits solemn oaths on just and important occasions. It requires truthfulness and rejects wording intended to mislead.",
+    "",
+    "Mennonite teaching takes the prohibition to include all oaths. [Mennonite Church USA's Confession of Faith, article 20](https://www.mennoniteusa.org/who-are-mennonites/what-we-believe/confession-of-faith/truth/), says followers of Jesus should always speak truthfully and use a legal affirmation instead of swearing an oath. An affirmation is a promise to tell the truth without invoking an oath. The difference concerns the use of oaths; both readings require the same honesty in everyday speech."
+  ],
+  "god_plan_lines": [
+    "Trustworthy speech reflects the character of the God who keeps His promises. [Hebrews 6:13–18](https://biblehub.com/bsb/hebrews/6.htm) recalls God's promise and oath to Abraham, explaining that His unchanging purpose gives His people strong encouragement. Their hope rests on the One who does not lie.",
+    "",
+    "[2 Corinthians 1:18–22](https://biblehub.com/bsb/2_corinthians/1.htm) connects God's faithfulness with His promises being fulfilled in Christ. [Ephesians 4:25](https://biblehub.com/bsb/ephesians/4.htm) then calls believers to speak truth because they belong to one another as members of one body. God's dependable word creates a people whose own words should help others trust them. These connections explain the larger purpose of truthful speech without settling the disagreement about whether Christians may take an oath."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/5.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-marriage-oaths-and-mercy-review.md"
+  }
+}

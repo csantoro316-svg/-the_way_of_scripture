@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "11:33-36",
+    "label": "Romans 11:33-36",
+    "slug": "romans-11-33-36"
+  },
+  "section_title": "Why does Paul end this discussion with praise?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "33 O, the depth of the riches of the wisdom and knowledge of God! How unsearchable are His judgments, and untraceable His ways! 34 “Who has known the mind of the Lord? Or who has been His counselor?” 35 “Who has first given to God, that God should repay him?” 36 For from Him and through Him and to Him are all things. To Him be the glory forever! Amen."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After tracing disobedience, judgment and mercy among Jews and Gentiles, Paul responds with wonder at God’s wisdom and knowledge. He has explained much, yet he does not claim to have mastered God’s ways.",
+    "",
+    "His questions deny that God depends on a human counselor or owes repayment to someone who first supplied His needs. The final statement gathers everything around Him as its source, the One through whom it exists, and its goal. Paul ends by giving God glory."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand these verses as praise offered in response to God’s saving wisdom and mercy. Humility follows from recognizing the limits of human understanding and the freedom of God’s gifts. The praise concludes a sustained explanation; it does not suggest that careful study or honest questions have no place."
+  ],
+  "god_plan_lines": [
+    "Paul draws on [Isaiah 40:12–17](https://biblehub.com/bsb/isaiah/40.htm), where the Creator needs no counselor, and [Job 41:10–11](https://biblehub.com/bsb/job/41.htm), where everything under heaven already belongs to God. The saving purpose discussed in Romans belongs to the same God who sustains creation.",
+    "",
+    "In [Acts 17:24–28](https://biblehub.com/bsb/acts/17.htm), Paul tells the people of Athens that God gives life and breath to all and has ordered the nations’ lives so that they might seek Him. That wider proclamation helps explain the fitting end to Romans 11: the God whose mercy reaches Jews and Gentiles is the source of the life of all peoples."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/11.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-eleven-review.md"
+  }
+}

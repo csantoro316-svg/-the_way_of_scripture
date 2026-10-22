@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "16:3-5",
+    "label": "Romans 16:3-5",
+    "slug": "romans-16-3-5"
+  },
+  "section_title": "Why does Paul thank Prisca and Aquila?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "3 Greet Prisca and Aquila, my fellow workers in Christ Jesus, 4 who have risked their lives for me. Not only I but all the churches of the Gentiles are grateful to them. 5 Greet also the church that meets at their house. Greet my beloved Epenetus, who was the first convert to Christ in the province of Asia."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul greets Prisca and Aquila as fellow workers in Christ who risked their lives for him. His gratitude is shared by the Gentile churches. Their service has mattered beyond a private friendship.",
+    "",
+    "He also greets the church meeting at their house and Epenetus, the first convert to Christ in Asia. The word church is ekklēsia (ek-klay-SEE-ah), ἐκκλησία, an assembly or community; see [Thayer’s entry](https://biblehub.com/greek/1577.htm). Here Paul distinguishes the gathered people from the house where they meet.",
+    "",
+    "Prisca is also called Priscilla in Acts. [Acts 18:24–26](https://biblehub.com/bsb/acts/18.htm) describes the couple helping Apollos understand God’s way more accurately. Their household and their work provide support for both people and the message they share."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read these greetings as honoring a couple’s costly partnership and a community gathering in their home. Paul gives thanks for service that includes risk, hospitality and work alongside others. The church at their house is a body of people to be greeted, not simply an address."
+  ],
+  "god_plan_lines": [
+    "[1 Corinthians 16:19](https://biblehub.com/bsb/1_corinthians/16.htm) also sends greetings from Aquila, Prisca and the church at their house. Their hospitality belongs to a wider pattern of homes supporting the life and work of believers.",
+    "",
+    "[Ephesians 2:19–22](https://biblehub.com/bsb/ephesians/2.htm) develops the larger picture of believers as God’s household and a dwelling place for Him by the Spirit, with Christ as the cornerstone. A house provides a meeting place; God is forming the people who gather into a shared life in Him."
+  ],
+  "current_position_lines": [
+    "Worship as the Early Church Knew It understands the church here as the community of believers, distinct from the building in which they meet. The house provides a place for the assembly; the people are the church. The study uses this passage to emphasize shared spiritual life and service rather than identifying the church with an address."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/16.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-romans-sixteen-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It (content/studies/worship.md, lines 336–347)"
+  }
+}

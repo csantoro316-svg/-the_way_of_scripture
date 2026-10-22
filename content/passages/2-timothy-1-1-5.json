@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "2 Timothy",
+    "citation": "1:1-5",
+    "label": "2 Timothy 1:1-5",
+    "slug": "2-timothy-1-1-5"
+  },
+  "section_title": "What holds Paul and Timothy together in difficult days?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Paul, an apostle of Christ Jesus by the will of God, according to the promise of life in Christ Jesus, 2 To Timothy, my beloved child: Grace, mercy, and peace from God the Father and Christ Jesus our Lord.",
+        "3 I thank God, whom I serve with a clear conscience as did my forefathers, as I constantly remember you night and day in my prayers. 4 Recalling your tears, I long to see you so that I may be filled with joy. 5 I am reminded of your sincere faith, which first dwelt in your grandmother Lois and your mother Eunice, and I am convinced is in you as well."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul opens with the promise of life in Christ Jesus and addresses Timothy as his beloved child. Later in the chapter he speaks of his chains in Rome. This greeting comes from a prisoner who still holds onto that promise of life.",
+    "",
+    "He remembers Timothy in prayer, longs to see him and recalls his tears. Their relationship includes deep affection as well as shared work. Paul’s thanksgiving also reaches back through Timothy’s family: sincere faith lived in his grandmother Lois and his mother Eunice before him.",
+    "",
+    "The reference to Paul’s forefathers connects his service with the God his ancestors worshiped. The letter introduces Timothy’s faith as something real and personal, with a family history behind it."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/2_timothy/1.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-timothy/) understand Paul’s thanksgiving as an expression of enduring care for Timothy and gratitude for sincere faith. The family references show faith lived across generations; they do not make family ancestry a substitute for Timothy’s own faith.",
+    "",
+    "They differ over how far Paul’s clear conscience reaches back. Wesley includes Paul’s conscientious worship before and after conversion. Calvin limits the pure conscience here to his service after the gospel changed him, while affirming that he worships the same God as his ancestors. Both recognize the continuity with Israel’s God."
+  ],
+  "god_plan_lines": [
+    "[Acts 16:1–3](https://biblehub.com/bsb/acts/16.htm) introduces Timothy as a disciple with a believing Jewish mother, whom Paul takes along in the work. The letter now shows that shared mission through the affection of a spiritual father for his child.",
+    "",
+    "Later, [2 Timothy 3:14–15](https://biblehub.com/bsb/2_timothy/3.htm) connects Timothy’s childhood knowledge of Scripture with the wisdom leading to salvation through faith in Christ. The larger purpose of teaching faith in the home is coming to know Christ, not merely keeping a family custom."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_timothy/1.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-timothy-one-review.md"
+  }
+}

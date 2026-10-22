@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "Nehemiah",
+    "citation": "6:15-19",
+    "label": "Nehemiah 6:15-19",
+    "slug": "nehemiah-6-15-19"
+  },
+  "section_title": "What changes when the wall is finished, and what trouble remains?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 So the wall was completed in fifty-two days, on the twenty-fifth of Elul. 16 When all our enemies heard about this, all the surrounding nations were afraid and disheartened, for they realized that this task had been accomplished by our God.",
+        "17 Also in those days, the nobles of Judah sent many letters to Tobiah, and Tobiah’s letters kept coming to them. 18 For many in Judah were bound by oath to him, since he was a son-in-law of Shecaniah son of Arah, and his son Jehohanan had married the daughter of Meshullam son of Berechiah. 19 Moreover, these nobles kept reporting to me Tobiah’s good deeds, and they relayed my words to him. And Tobiah sent letters to intimidate me."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The wall is completed on the twenty-fifth of Elul, after fifty-two days. The surrounding nations lose confidence because they recognize that the work has been accomplished with God’s help.",
+    "",
+    "The completion does not end every source of pressure. Nobles in Judah exchange letters with Tobiah, and many are bound to him by oath through family connections. They praise him to Nehemiah and report Nehemiah’s words back to him.",
+    "",
+    "Tobiah continues sending letters to intimidate Nehemiah. The passage sets a completed wall beside relationships within the community that still give an opponent influence."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/nehemiah/6.htm) and [Gill](https://biblehub.com/commentaries/gill/nehemiah/6.htm) emphasize God’s help in completing the wall despite sustained opposition. They also notice the continuing danger from those within Judah who favor Tobiah. Success in the building work has exposed the opponents’ failure without bringing every divided loyalty to an end."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/nehemiah/6.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-nehemiah-six-seven-review.md"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "22:1-6",
+    "label": "Luke 22:1-6",
+    "slug": "luke-22-1-6"
+  },
+  "section_title": "How does the plan to arrest Jesus take shape?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Now the Feast of Unleavened Bread, called the Passover, was approaching, 2 and the chief priests and scribes were looking for a way to put Jesus to death, for they feared the people.",
+        "3 Then Satan entered Judas Iscariot, who was one of the Twelve. 4 And Judas went to discuss with the chief priests and temple officers how he might betray Jesus to them. 5 They were delighted and agreed to give him money. 6 Judas consented, and began to look for an opportunity to betray Jesus to them in the absence of a crowd."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Luke moves from Jesus’ public teaching to preparations for His death as the Feast of Unleavened Bread, called Passover, approaches. Leviticus distinguishes the Passover observance from the following seven-day feast; Luke uses the closely connected festival names together. ([Leviticus 23:4–8](https://biblehub.com/bsb/leviticus/23.htm))",
+    "",
+    "The chief priests and scribes want to kill Jesus but fear the people. Judas, one of the Twelve, then approaches the leaders and temple officers. Luke says that Satan enters him, and also describes Judas agreeing to payment and looking for an opportunity away from the crowd.",
+    "",
+    "The Greek verb behind betray is παραδίδωμι, paradidōmi (pah-rah-DEE-doh-mee), meaning to hand someone over. Thayer specifically includes Judas’ betrayal in Luke 22:4 and 6: he is arranging to deliver Jesus into the power of those who want to seize Him. ([Thayer, Greek 3860](https://biblehub.com/greek/3860.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly recognize both the evil at work in the betrayal and Judas’ willing involvement. Wesley emphasizes Satan’s action in a heart turned toward wrongdoing; the Catholic bishops’ notes place this scene within Luke’s account of Jesus facing the powers of evil as He goes toward His death. ([Wesley on Luke 22:3](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [USCCB introduction to Luke 22–23](https://bible.usccb.org/bible/luke/22))"
+  ],
+  "god_plan_lines": [
+    "John records Jesus identifying the betrayal as a fulfillment of Scripture and telling His disciples beforehand so that what happens will strengthen their faith in Him. The betrayal is a real act of treachery within a story Jesus understands before it unfolds. ([John 13:18–21, 26–27](https://biblehub.com/bsb/john/13.htm))",
+    "",
+    "Acts later places Jesus’ death within God’s plan and foreknowledge while still describing those who kill Him as acting lawlessly. Its prayer names Herod, Pilate, Gentiles and people of Israel together, then speaks of God’s purpose being carried out. The larger picture holds human wrongdoing and God’s saving purpose together, ending in the resurrection the conspirators could not prevent. ([Acts 2:22–24](https://biblehub.com/bsb/acts/2.htm); [Acts 4:27–28](https://biblehub.com/bsb/acts/4.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/22.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-twenty-two-opening-review.md"
+  }
+}

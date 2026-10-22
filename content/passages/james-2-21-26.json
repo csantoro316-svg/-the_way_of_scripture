@@ -1,0 +1,67 @@
+{
+  "reference": {
+    "book": "James",
+    "citation": "2:21-26",
+    "label": "James 2:21-26",
+    "slug": "james-2-21-26"
+  },
+  "section_title": "What do Abraham and Rahab show about faith in action?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "21 Was not our father Abraham justified by what he did when he offered his son Isaac on the altar? 22 You see that his faith was working with his actions, and his faith was perfected by what he did. 23 And the Scripture was fulfilled that says, “Abraham believed God, and it was credited to him as righteousness,” and he was called a friend of God. 24 As you can see, a man is justified by his deeds and not by faith alone.",
+        "25 In the same way, was not even Rahab the prostitute justified by her actions when she welcomed the spies and sent them off on another route? 26 As the body without the spirit is dead, so faith without deeds is dead."
+      ]
+    }
+  ],
+  "context_lines": [
+    "James gives two examples from Israel’s Scriptures. Abraham acted when he offered Isaac, and Rahab acted when she received the messengers and sent them away safely. Their circumstances and backgrounds differ greatly, but both entrusted themselves to God in a way that affected what they did.",
+    "",
+    "The reference to Abraham brings together [Genesis 15:6](https://biblehub.com/bsb/genesis/15.htm), where his faith is credited as righteousness, and [Genesis 22](https://biblehub.com/bsb/genesis/22.htm), where that faith is tested. James says his faith worked with his actions and was perfected by them.",
+    "",
+    "Rahab’s actions are recorded in [Joshua 2](https://biblehub.com/bsb/joshua/2.htm). James closes with the body without the spirit: faith without deeds is dead. The comparison is meant to give weight to the whole discussion, not leave the readers satisfied with words alone."
+  ],
+  "common_interpretation_lines": [
+    "Traditions agree that Abraham and Rahab acted on faith. They differ over how those actions relate to being justified—being accepted or shown to be righteous.",
+    "",
+    "[Calvin](https://biblehub.com/commentaries/calvin/james/2.htm) reads Abraham’s obedience as demonstrating the righteousness he already received through faith. This fits the Reformed [Westminster Confession, 11.1–2](https://www.opc.org/wcf.html), and [1689 Baptist Confession, 11.1–2](https://www.the1689confession.com/1689/chapter-11): faith alone receives Christ’s righteousness, and living faith is accompanied by love.",
+    "",
+    "The Catholic Church sees more than evidence of an unchanged standing. The [Council of Trent, session 6, chapter 10](https://www.papalencyclicals.net/councils/trent/sixth-session.htm), cites James 2:24 in teaching that people already justified grow in the righteousness received through Christ’s grace as faith works with good deeds. Its chapter 8 says the initial gift is not earned by preceding faith or works.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-general-epistle-of-st-james/) distinguishes Abraham’s earlier acceptance through faith from his later growth in righteousness when offering Isaac. He describes obedience as the fruit of faith that also strengthens and completes it, rather than the source from which faith first receives life."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 11:17–19, 31](https://biblehub.com/bsb/hebrews/11.htm) also presents Abraham and Rahab as examples of faith. Abraham trusted God’s ability to raise the dead; Rahab received the spies instead of sharing the fate of those who refused to believe. Their actions belong within the history of people relying on God’s promises, across differences of background and standing.",
+    "",
+    "Paul draws on Abraham in [Romans 4:1–8](https://biblehub.com/bsb/romans/4.htm) to explain God’s gift of righteousness. Reading those passages beside James keeps both the promise and the response in view; the tradition differences above concern how that relationship should be explained."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who is The Angel of the Lord?",
+      "href": "../studies/angel-of-the-lord.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/james/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-james-two-review.md"
+  }
+}

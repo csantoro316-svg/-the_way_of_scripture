@@ -10,23 +10,44 @@
     {
       "label": "BSB",
       "paragraphs": [
-        "1 Now the two angels arrived at Sodom in the evening, and Lot was sitting in the gateway of the city. When Lot saw them, he got up to meet them, bowed facedown, 2 and said, \u201cMy lords, please turn aside into the house of your servant; wash your feet and spend the night. Then you can rise early and go on your way.\u201d",
-        "\u201cNo,\u201d they answered, \u201cwe will spend the night in the square.\u201d",
+        "1 Now the two angels arrived at Sodom in the evening, and Lot was sitting in the gateway of the city. When Lot saw them, he got up to meet them, bowed facedown, 2 and said, “My lords, please turn aside into the house of your servant; wash your feet and spend the night. Then you can rise early and go on your way.”",
+        "“No,” they answered, “we will spend the night in the square.”",
         "3 But Lot insisted so strongly that they followed him into his house. He prepared a feast for them and baked unleavened bread, and they ate.",
-        "4 Before they had gone to bed, all the men of the city of Sodom, both young and old, surrounded the house. 5 They called out to Lot, saying, \u201cWhere are the men who came to you tonight? Send them out to us so we can have relations with them!\u201d",
-        "6 Lot went outside to meet them, shutting the door behind him. 7 \u201cPlease, my brothers,\u201d he pleaded, \u201cdon\u2019t do such a wicked thing! 8 Look, I have two daughters who have never slept with a man. Let me bring them to you, and you can do to them as you please. But do not do anything to these men, for they have come under the protection of my roof.\u201d",
-        "9 \u201cGet out of the way!\u201d they replied. And they declared, \u201cThis one came here as a foreigner, and he is already acting like a judge! Now we will treat you worse than them.\u201d And they pressed in on Lot and moved in to break down the door.",
+        "4 Before they had gone to bed, all the men of the city of Sodom, both young and old, surrounded the house. 5 They called out to Lot, saying, “Where are the men who came to you tonight? Send them out to us so we can have relations with them!”",
+        "6 Lot went outside to meet them, shutting the door behind him. 7 “Please, my brothers,” he pleaded, “don’t do such a wicked thing! 8 Look, I have two daughters who have never slept with a man. Let me bring them to you, and you can do to them as you please. But do not do anything to these men, for they have come under the protection of my roof.”",
+        "9 “Get out of the way!” they replied. And they declared, “This one came here as a foreigner, and he is already acting like a judge! Now we will treat you worse than them.” And they pressed in on Lot and moved in to break down the door.",
         "10 But the men inside reached out, pulled Lot into the house with them, and shut the door. 11 And they struck the men at the entrance, young and old, with blindness, so that they wearied themselves trying to find the door."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 19**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "The two visitors who left Abraham now arrive in Sodom, where the account identifies them as angels. Lot meets them at the gateway and presses them to stay in his house. Like Abraham, he offers food and shelter, but the setting soon becomes dangerous: men from across the city surround the house and demand the visitors.",
+    "",
+    "Their demand is sexual. The Hebrew verb יָדַע, *yādaʿ* (yah-DAH), often means know, but [Brown–Driver–Briggs](https://biblehub.com/hebrew/3045.htm) identifies sexual relations as its use in verses 5 and 8. The threats, the surrounding mob, and the attempt to break down the door make the violence of the demand clear. They are not simply asking to become acquainted with the guests.",
+    "",
+    "Lot calls their intention wicked, yet offers his daughters in place of the visitors. Protecting one person by exposing another to assault is itself a terrible failure of protection. The angels then rescue Lot from the crowd, shut the door, and strike the attackers with blindness. The people Lot tries to protect become the ones who save him."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Lot Welcomes the Angels** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 19** remains the first control on meaning."
+    "Christians commonly read the mob's demand as an intended sexual assault and Lot's offer of his daughters as wrong, even though he is trying to protect his guests. [Wesley's note on Genesis 19:8](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) explicitly rejects doing that wrong in order to prevent another."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "god_plan_lines": [
+    "[Jude 7](https://biblehub.com/bsb/jude/1.htm) explicitly uses Sodom and the neighboring cities as examples of sexual immorality and judgment. Their conduct is treated as morally serious, with consequences beyond what the attackers expect that night.",
+    "",
+    "The wider biblical account also describes Sodom's arrogance, abundance, complacency, and neglect of the poor in [Ezekiel 16:49–50](https://biblehub.com/bsb/ezekiel/16.htm). These descriptions belong together: the violent scene here comes from a city whose life has become deeply corrupt. God's concern includes both how people use others and how they disregard those who need help."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/19.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-lot-and-isaac-review.md"
+  }
 }

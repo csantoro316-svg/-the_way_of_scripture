@@ -5,24 +5,53 @@
     "label": "Judges 8:32-35",
     "slug": "judges-8-32-35"
   },
-  "section_title": "Gideon\u2019s Death",
+  "section_title": "What does Israel forget after Gideon dies?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "32 Later, Gideon son of Joash died at a ripe old age and was buried in the tomb of his father Joash in Ophrah of the Abiezrites.",
-        "33 And as soon as Gideon was dead, the Israelites turned and prostituted themselves with the Baals, and they set up Baal-berith as their god.",
-        "34 The Israelites failed to remember the LORD their God who had delivered them from the hands of all their enemies on every side. 35 They did not show kindness to the house of Jerubbaal (that is, Gideon) for all the good things he had done for Israel."
+        "32 Later, Gideon son of Joash died at a ripe old age and was buried in the tomb of his father Joash in Ophrah of the Abiezrites. 33 And as soon as Gideon was dead, the Israelites turned and prostituted themselves with the Baals, and they set up Baal-berith as their god. 34 The Israelites failed to remember the LORD their God who had delivered them from the hands of all their enemies on every side. 35 They did not show kindness to the house of Jerubbaal (that is, Gideon) for all the good things he had done for Israel."
       ]
     }
   ],
   "context_lines": [
-    "In **Judges 8**, this section should be read within the flow of the chapter and the larger movement of Judges."
+    "Gideon dies at a ripe old age and is buried in his father’s tomb in Ophrah. Israel then turns again to the Baals and makes Baal-berith its god. The account names the central failure: the people do not remember the LORD who delivered them from their enemies.",
+    "",
+    "Their ingratitude also reaches Gideon’s household. Despite the good he had done for Israel, they do not show his family kindness. The chapter preserves both truths about him: the ephod became a snare, and his service brought genuine good. His death is followed by another departure from the God who had rescued them."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Gideon\u2019s Death** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Judges 8** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-judges/) emphasizes the people’s failure to remain faithful once the judge’s restraining presence is gone. [Henry](https://biblehub.com/commentaries/mhc/judges/8.htm) connects forgetting God with forgetting the people through whom help came. He applies the passage by urging patience when service is repaid with ingratitude and by encouraging believers to answer evil with good."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The passing of a faithful servant leaves a question the Bible’s larger story addresses: where can God’s people find care that continues beyond a human lifetime? [Hebrews 13:7–9](https://biblehub.com/bsb/hebrews/13.htm) calls believers to remember those who taught them God’s word, imitate their faith, and remain grounded in the unchanging Jesus Christ.",
+    "",
+    "[Hebrews 7:23–28](https://biblehub.com/bsb/hebrews/7.htm) makes a related contrast through the priesthood: human priests die, but Jesus lives forever and continues to intercede for those who draw near to God through Him. The lasting hope rests in the living Son, whose care does not end as the service of mortal leaders does."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/judges/8.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-judges-eight-review.md"
+  }
 }

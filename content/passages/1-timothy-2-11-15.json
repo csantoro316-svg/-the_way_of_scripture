@@ -1,0 +1,69 @@
+{
+  "reference": {
+    "book": "1 Timothy",
+    "citation": "2:11-15",
+    "label": "1 Timothy 2:11-15",
+    "slug": "1-timothy-2-11-15"
+  },
+  "section_title": "How do Christians understand Paul’s instructions about learning and teaching?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "11 A woman must learn in quietness and full submissiveness. 12 I do not permit a woman to teach or to exercise authority over a man; she is to remain quiet.",
+        "13 For Adam was formed first, and then Eve. 14 And it was not Adam who was deceived, but the woman who was deceived and fell into transgression. 15 Women, however, will be saved through childbearing, if they continue in faith, love, and holiness, with self-control."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul continues his instructions about the community’s shared life. He says that a woman must learn in quietness and submission, then states a restriction on teaching or exercising authority over a man. The [BSB footnotes](https://biblehub.com/bsb/1_timothy/2.htm) also allow wife and husband in these verses.",
+    "",
+    "The verb behind exercise authority is authenteo (ow-then-TEH-oh). [Thayer’s lexicon](https://biblehub.com/greek/831.htm) gives governing or exercising dominion over someone. Christians differ over the kind of authority Paul has in view and how widely the instruction applies. The word alone cannot answer both questions.",
+    "",
+    "Paul gives reasons from Genesis: Adam was formed first, and Eve was deceived and fell into sin. He then speaks of being saved through childbearing, joined to continuing in faith, love, holiness and self-control.",
+    "",
+    "The paragraph does not give a full account of the particular people or events behind it. The wider letter warns about false teaching. How those circumstances relate to the scope of this instruction, and how verse 15 should be understood, are questions on which Christians differ."
+  ],
+  "common_interpretation_lines": [
+    "One reading takes this as an enduring restriction on women teaching or governing men in the church. The Southern Baptist [Baptist Faith and Message, article VI](https://bfm.sbc.net/bfm2000/), cites this passage and reserves the office of pastor/elder/overseer for qualified men, while affirming that women and men are gifted for service. This describes that confession’s rule for the office; it does not state that women may never teach in any setting.",
+    "",
+    "The Catholic Church reserves sacred ordination to baptized men in the [Catechism, paragraph 1577](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_three/article_6/vi_who_can_receive_this_sacrament.html). It also recognizes women’s teaching ministry: [Antiquum Ministerium, paragraph 8](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2021/05/11/apostolic-letter-issued-motu-proprio-of-the-supreme-pontiff-fran.html), explicitly includes women in the instituted lay ministry of catechist. Its distinction between ordination and other ministry is important when describing this position.",
+    "",
+    "Another reading holds that this passage does not exclude women generally from church teaching and leadership. [CBE International’s statement, points 8–9 and its applications](https://www.cbeinternational.org/wp-content/uploads/2025/01/DefiningBiblicalGenderEquality.pdf), calls for women’s and men’s gifts to serve the whole church and reads restrictive passages within the wider teaching of Scripture. This represents a Christian equality reading across denominations. The United Methodist Church’s own [explanation of women’s ordination](https://www.umc.org/en/content/ask-the-umc-why-does-the-united-methodist-church-ordain-women) likewise affirms women’s leadership at every level; it should not be confused with a claim that every Methodist body takes the same position.",
+    "",
+    "The childbearing sentence also has different readings. [Calvin’s comments on verse 15](https://biblehub.com/commentaries/calvin/1_timothy/2.htm) describe hope of salvation through God’s grace while women faithfully endure the work and difficulties of motherhood; he expressly rejects treating childbirth as earning salvation. [Wesley’s note](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-timothy/) includes preservation through childbirth’s danger and final salvation in continuing faith. These readings differ in what saved refers to and how childbearing relates to it. The faith, love, holiness and self-control in the sentence remain part of the discussion."
+  ],
+  "god_plan_lines": [
+    "Paul explicitly brings the story of creation and human sin into the discussion, drawing on [Genesis 2:18–25](https://biblehub.com/bsb/genesis/2.htm) and [Genesis 3:1–19](https://biblehub.com/bsb/genesis/3.htm). The wider New Testament carries that story toward restoration: [Romans 5:12–19](https://biblehub.com/bsb/romans/5.htm) contrasts Adam’s disobedience and the reign of death with Christ’s obedience and God’s gift of life.",
+    "",
+    "[Galatians 3:26–29](https://biblehub.com/bsb/galatians/3.htm) identifies women and men who belong to Christ as God’s children and heirs of the promise. The larger purpose is a people receiving life in Him and learning to live in faith and holiness together. The questions about teaching roles are considered within that shared belonging."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_timothy/2.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-timothy-two-closing-review.md"
+  }
+}

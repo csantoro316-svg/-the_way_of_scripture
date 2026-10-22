@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "18:9-18",
+    "label": "2 Samuel 18:9-18",
+    "slug": "2-samuel-18-9-18"
+  },
+  "section_title": "Why does Joab kill Absalom despite the king’s command?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "9 Now Absalom was riding on his mule when he met the servants of David, and as the mule went under the thick branches of a large oak, Absalom’s head was caught fast in the tree. The mule under him kept going, so that he was suspended in midair. 10 When one of the men saw this, he told Joab, “I just saw Absalom hanging in an oak tree!” 11 “You just saw him!” Joab exclaimed. “Why did you not strike him to the ground right there? I would have given you ten shekels of silver and a warrior’s belt!” 12 The man replied, “Even if a thousand shekels of silver were weighed out into my hands, I would not raise my hand against the son of the king. For we heard the king command you and Abishai and Ittai, ‘Protect the young man Absalom for my sake.’ 13 If I had jeopardized my own life—and nothing is hidden from the king—you would have abandoned me.”",
+        "14 But Joab declared, “I am not going to wait like this with you!” And he took three spears in his hand and thrust them through the heart of Absalom while he was still alive in the oak tree. 15 And ten young men who carried Joab’s armor surrounded Absalom, struck him, and killed him. 16 Then Joab blew the ram’s horn, and the troops broke off their pursuit of Israel because Joab had restrained them. 17 They took Absalom, cast him into a large pit in the forest, and piled a huge mound of stones over him. Meanwhile, all the Israelites fled, each to his home. 18 During his lifetime, Absalom had set up for himself a pillar in the King’s Valley, for he had said, “I have no son to preserve the memory of my name.” So he gave the pillar his name, and to this day it is called Absalom’s Monument."
+      ]
+    }
+  ],
+  "context_lines": [
+    "While riding beneath a large oak, Absalom catches his head in the tree and is left suspended as the mule continues. A soldier sees him and reports it to Joab. Asked why he did not kill him, the man points to David’s public command and says that even Joab would abandon him if the king called him to account.",
+    "",
+    "Joab refuses to wait. He thrusts three spears through Absalom while he is still alive in the tree, and ten armor-bearers then strike and kill him. Joab sounds the horn to stop the pursuit. Absalom is thrown into a pit under a mound of stones.",
+    "",
+    "The account contrasts that end with the pillar Absalom had set up to preserve his own name, saying he had no son to do so. The monument he arranged for himself is different from the grave his enemies give him."
+  ],
+  "common_interpretation_lines": [
+    "The BSB says Absalom’s head catches in the tree. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) thinks his hair was probably involved, while [Gill](https://biblehub.com/commentaries/gill/2_samuel/18.htm) considers either tangled hair or the head being caught in a fork of the branches. The familiar picture of hanging by his hair is therefore a reading of the scene, not the verse’s exact wording.",
+    "",
+    "The soldier’s refusal and Joab’s response place the king’s command directly before the reader. The killing ends the immediate threat from Absalom, but it also disregards the instructions everyone heard. A successful outcome does not remove that conflict.",
+    "",
+    "The earlier description names three sons of Absalom in [2 Samuel 14:27](https://biblehub.com/bsb/2_samuel/14.htm). [Gill](https://biblehub.com/commentaries/gill/2_samuel/18.htm) explains the statement about having no son by supposing they had died. The account does not give the dates or story of their deaths, so that explanation should remain an inference."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/18.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-eighteen-review.md"
+  }
+}

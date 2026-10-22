@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "16:13-14",
+    "label": "1 Corinthians 16:13-14",
+    "slug": "1-corinthians-16-13-14"
+  },
+  "section_title": "What does courage look like when everything is done in love?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 Be on the alert. Stand firm in the faith. Be men of courage. Be strong. 14 Do everything in love."
+      ]
+    }
+  ],
+  "context_lines": [
+    "These brief instructions gather together concerns running through the letter. The Corinthians must stay alert, stand firm in the faith, act courageously and be strong. Their divisions and confusion call for steady faithfulness rather than drifting with pressure.",
+    "",
+    "The next sentence governs how that strength is expressed: everything is to be done in love. Paul has already described love’s patience, kindness and refusal to seek its own advantage in chapter 13. Courage here cannot be used to excuse contempt or harshness.",
+    "",
+    "The call addresses the congregation. The wording about men of courage in the BSB expresses the appeal to bravery; it does not turn love and steadfast faith into responsibilities belonging only to men."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read these verses together as a call to firm faith expressed through love. [Calvin’s notes on verses 13–14](https://biblehub.com/commentaries/calvin/1_corinthians/16.htm) explain both the need for strength and love’s direction of dealings with others. Firmness and care are meant to work together in the same life."
+  ],
+  "god_plan_lines": [
+    "[2 Timothy 1:7–10](https://biblehub.com/bsb/2_timothy/1.htm) also joins courage with love. Timothy is encouraged to share in suffering for the gospel through God’s power, in keeping with the purpose and grace made known through Christ, who has abolished death.",
+    "",
+    "That connection gives courage its setting. God’s saving purpose calls people to bear witness to Christ with strength and care for others, rather than to prove themselves through dominance."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/16.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-sixteen-review.md"
+  }
+}

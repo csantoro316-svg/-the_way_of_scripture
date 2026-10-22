@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Galatians",
+    "citation": "5:16-21",
+    "label": "Galatians 5:16-21",
+    "slug": "galatians-5-16-21"
+  },
+  "section_title": "What does walking by the Spirit turn us away from?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "16 So I say, walk by the Spirit, and you will not gratify the desires of the flesh. 17 For the flesh craves what is contrary to the Spirit, and the Spirit what is contrary to the flesh. They are opposed to each other, so that you do not do what you want. 18 But if you are led by the Spirit, you are not under the law.",
+        "19 The acts of the flesh are obvious: sexual immorality, impurity, and debauchery; 20 idolatry and sorcery; hatred, discord, jealousy, and rage; rivalries, divisions, factions, 21 and envy; drunkenness, orgies, and the like. I warn you, as I did before, that those who practice such things will not inherit the kingdom of God."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul now explains how the life of love is to be lived: walk by the Spirit. The Spirit and the flesh pull in opposing directions. Being led by the Spirit changes the believer’s relationship to the law and supplies a different direction for life.",
+    "",
+    "He gives concrete examples of the flesh at work. Sexual wrongdoing, false worship and sorcery appear alongside hatred, jealousy, rage, rivalry and division. The list reaches into relationships throughout the community; the problem is much wider than bodily appetites alone.",
+    "",
+    "The list ends with further examples and a warning Paul has already given them. Those who practice such things will not inherit God’s kingdom. The words carry the seriousness of the choice he is placing before his readers.",
+    "",
+    "The next paragraph describes the fruit of the Spirit. The contrast shows why freedom cannot mean indifference to conduct. Life through the Spirit is meant to change the way people live together."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as a call to follow the Spirit and turn away from the conduct Paul names. [Wesley’s notes on verses 16–21](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-galatians/) and the [USCCB notes on verses 16–25](https://bible.usccb.org/bible/galatians/5) connect the warning with the Spirit’s work in believers’ lives.",
+    "",
+    "The wider difference over perseverance also affects how the kingdom warning is explained. The Reformed [Westminster Confession, chapter 17](https://www.opc.org/wcf.html), holds together God’s preservation of the truly saved and the real possibility of serious sins that grieve the Spirit. The Methodist [Articles, article XII](https://www.umc.org/en/content/articles-of-religion), allow for departure from grace and restoration through repentance. The warning is taken seriously within both frameworks; they differ over whether final falling away can occur after genuine salvation."
+  ],
+  "god_plan_lines": [
+    "[Romans 8:9–13](https://biblehub.com/bsb/romans/8.htm) also connects the Spirit’s presence with belonging to Christ and putting the body’s sinful deeds to death. It places this changed life within the hope of the God who raised Jesus giving life to mortal bodies.",
+    "",
+    "That connection joins present obedience with God’s larger work of life and resurrection. The call to turn from the flesh belongs to the hope of sharing the life God gives through His risen Son."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/galatians/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-galatians-five-review.md"
+  }
+}

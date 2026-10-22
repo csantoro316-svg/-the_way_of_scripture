@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "12:41-44",
+    "label": "Mark 12:41-44",
+    "slug": "mark-12-41-44"
+  },
+  "section_title": "Why does Jesus draw attention to the widow’s gift?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "41 As Jesus was sitting opposite the treasury, He watched the crowd putting money into it. And many rich people put in large amounts. 42 Then one poor widow came and put in two small copper coins, which amounted to a small fraction of a denarius. 43 Jesus called His disciples to Him and said, “Truly I tell you, this poor widow has put more than all the others into the treasury. 44 For they all contributed out of their surplus, but she out of her poverty has put in all she had to live on.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus sits opposite the temple treasury and watches people give. Many wealthy people contribute large amounts. A poor widow gives two small copper coins. Jesus calls the disciples over because the small amount would not tell them what her gift had cost her.",
+    "",
+    "His comparison rests on what remains after the giving. The wealthy contribute from their surplus, while the widow gives everything she has to live on. Mark does not tell us her private thoughts or what happens to her afterward. The contrast is already striking without adding those details.",
+    "",
+    "The surrounding scenes matter too. Jesus has just condemned the exploitation of widows, and as He leaves the temple He will announce its destruction. Readers need to hear His words about this woman within that setting, alongside His recognition of the extent of her gift. ([Mark 12:38–40](https://biblehub.com/bsb/mark/12.htm); [Mark 13:1–2](https://biblehub.com/bsb/mark/13.htm))"
+  ],
+  "common_interpretation_lines": [
+    "A long-standing reading sees the widow as an example of wholehearted giving: God values devotion and sacrifice rather than the size of a donation. Calvin explains the passage this way, emphasizing her willingness to give from very limited means. ([Calvin, Mark 12:41–44](https://biblehub.com/commentaries/calvin/mark/12.htm))",
+    "",
+    "Other readers emphasize the tragedy of a poor woman surrendering her last means of support within a religious system Jesus is judging. Sung Soo Hong makes this case by connecting the scene with the warning about exploiting widows and the coming destruction of the temple. This is an individual scholar’s reading, not an official position shared by every church. The difference concerns whether Jesus is chiefly holding up her gift as an example or exposing what has happened to someone who should have been protected. ([Hong, commentary on Mark 12:38–44](https://www.workingpreacher.org/commentaries/revised-common-lectionary/ordinary-32-2/commentary-on-mark-1238-44-7))"
+  ],
+  "god_plan_lines": [
+    "There is a useful parallel between the widow’s costly gift and Jesus’ giving of Himself, though Mark does not explicitly call her an advance picture of His death. Paul makes Christ’s generosity the foundation for Christian giving: the Lord accepted poverty for our sake so that we could receive the riches of His grace. That connects generosity with God’s saving gift through His Son. ([2 Corinthians 8:8–9](https://biblehub.com/bsb/2_corinthians/8.htm))",
+    "",
+    "Paul also explains how that generosity should shape a community. Gifts are welcomed according to what people have, the aim is to meet needs without leaving others burdened, and giving is to be freely chosen. Together these passages show a people sharing what God provides and caring for those in need. The widow’s story should be read alongside that care when considering what Christian giving means. ([2 Corinthians 8:10–15](https://biblehub.com/bsb/2_corinthians/8.htm); [2 Corinthians 9:6–12](https://biblehub.com/bsb/2_corinthians/9.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/12.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-twelve-closing-review.md"
+  }
+}

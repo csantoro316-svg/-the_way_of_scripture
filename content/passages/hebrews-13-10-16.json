@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "13:10-16",
+    "label": "Hebrews 13:10-16",
+    "slug": "hebrews-13-10-16"
+  },
+  "section_title": "What sacrifices do we offer through Jesus?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 We have an altar from which those who serve at the tabernacle have no right to eat. 11 Although the high priest brings the blood of animals into the Holy Place as a sacrifice for sin, the bodies are burned outside the camp. 12 And so Jesus also suffered outside the city gate, to sanctify the people by His own blood.",
+        "13 Therefore let us go to Him outside the camp, bearing the disgrace He bore. 14 For here we do not have a permanent city, but we are looking for the city that is to come.",
+        "15 Through Jesus, therefore, let us continually offer to God a sacrifice of praise, the fruit of lips that confess His name. 16 And do not neglect to do good and to share with others, for with such sacrifices God is pleased."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The altar statement continues the contrast with reliance on the earlier sanctuary. The writer recalls a specific kind of sin offering whose blood entered the holy place and whose body was burned outside the camp. [Leviticus 6:30](https://biblehub.com/bsb/leviticus/6.htm) and [16:27](https://biblehub.com/bsb/leviticus/16.htm) describe that arrangement.",
+    "",
+    "Jesus’ suffering outside the city gate is connected with that earlier pattern. The writer then turns the comparison into a call to join Him outside the camp, bearing His disgrace. Belonging to Him matters more than keeping a secure place within the order that rejects Him.",
+    "",
+    "The lasting city is still ahead. This carries forward the hope of chapter 11 and helps explain why public rejection need not make the readers abandon Christ.",
+    "",
+    "The sacrifices now named are praise through Jesus, doing good and sharing. These responses please God. They belong alongside the letter’s repeated assurance that Christ’s one offering has dealt with sin; they do not begin a new series of offerings to make His death sufficient."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/13.htm), [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) and the [USCCB note](https://bible.usccb.org/bible/hebrews/13) direct the altar statement to Christ’s sacrifice. Wesley specifically identifies the altar with the cross. The USCCB note explicitly distinguishes it from a reference to the Eucharist, the Lord’s Supper.",
+    "",
+    "Calvin and Wesley understand the passage’s praise and generous action as the sacrifices believers offer in response. Calvin includes prayer and thanksgiving, and connects kindness toward people with service offered to God. These responses are made through Christ."
+  ],
+  "god_plan_lines": [
+    "[1 Peter 2:4–10](https://biblehub.com/bsb/1_peter/2.htm) describes people coming to Christ, the rejected living stone, and being built into a spiritual house and holy priesthood. Their spiritual sacrifices are acceptable through Jesus. That connects Christ’s rejection with the people and worship His work makes possible.",
+    "",
+    "[Revelation 21:1–5](https://biblehub.com/bsb/revelation/21.htm) carries the city theme toward God’s dwelling with His people. Bearing disgrace now is held within that lasting hope, rather than treated as an additional price that purchases forgiveness."
+  ],
+  "current_position_lines": [
+    "Our study [Worship as the Early Church Knew It](https://thewayofscripture.com/studies/worship.html) identifies the altar here with the cross of Christ. His sacrifice fulfills the earlier offerings. The study distinguishes that saving work from the grateful response of believers offering their lives in service to God; their service does not add another payment for sin."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/13.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-thirteen-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It — content/studies/worship.md:308–315, explicit Hebrews13:10 altar/cross, Christ onceoffering and distinct living response."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "Ephesians",
+    "citation": "6:5-9",
+    "label": "Ephesians 6:5-9",
+    "slug": "ephesians-6-5-9"
+  },
+  "section_title": "What does answering to the same Lord change?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 Slaves, obey your earthly masters with respect and fear and sincerity of heart, just as you would obey Christ. 6 And do this not only to please them while they are watching, but as servants of Christ, doing the will of God from your heart. 7 Serve with good will, as to the Lord and not to men, 8 because you know that the Lord will reward each one for whatever good he does, whether he is slave or free.",
+        "9 And masters, do the same for your slaves. Give up your use of threats, because you know that He who is both their Master and yours is in heaven, and there is no favoritism with Him."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul now addresses slaves and masters. He calls those who are enslaved to serve sincerely, with their attention on Christ rather than only on pleasing a master who happens to be watching.",
+    "",
+    "The promise of the Lord’s reward names both slave and free. Their earthly standing does not determine whether the Lord sees the good they do.",
+    "",
+    "Masters are then told to act from the same responsibility to Him and give up threats. Paul reminds them that the One in heaven is Master of both groups and shows no favoritism. The instructions place those exercising power under His judgment too.",
+    "",
+    "This completes the household instructions. It is important to read the whole group: the command to serve and the command to stop threatening stand together under the authority of the same Lord."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the central point as sincere service to Christ and accountability to Him on both sides of the relationship. [Wesley’s notes on verses 5–9](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-ephesians/) connect service with the Lord’s will and explain the command to masters through gentleness and humane treatment.",
+    "",
+    "The [USCCB note on the household instructions beginning at 5:21](https://bible.usccb.org/bible/ephesians/5) also emphasizes responsibility on both sides and the judgment facing slave owners in 6:9. The passage addresses slavery directly; drawing lessons about other relationships of work or authority requires keeping that original setting in view."
+  ],
+  "god_plan_lines": [
+    "[Galatians 3:26–29](https://biblehub.com/bsb/galatians/3.htm) places slave and free together in belonging to Christ and sharing the promised inheritance. That is a supported connection with the same Lord seeing and rewarding good without favoritism here.",
+    "",
+    "In [Philemon 15–17](https://biblehub.com/bsb/philemon/1.htm), Paul asks Philemon to receive Onesimus as a beloved brother and as he would receive Paul himself. This provides a concrete parallel of how belonging to Christ changes the way one person is to regard another. The other person’s dignity cannot be measured merely by their earthly status."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/ephesians/6.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-ephesians-six-opening-review.md"
+  }
+}

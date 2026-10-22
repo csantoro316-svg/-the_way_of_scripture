@@ -1,0 +1,61 @@
+# Isaiah 37–39 passage review — 2026-10-21
+
+Eight retained groups /68 actual BSB verses. Six supported plans /two intentional omissions /eight exact open positions. Existing URLs, grouping and deeper links retained. No owner study edited.
+
+## Actually read sources
+
+Entire37–39lessonPDF252–266actuallyread. It includes substantial37/38explanation but39onlypassagetextandnoticecommentaryavailableonMP3; no39baselineaudioaccess/readclaimed. CumulativeIsaiahPDF1–268actuallyread;40A267–268begun. WholeactualBSB37/38/39mainverses38+22+8actuallyread. Henry37redirectsto2Kings19;Henry39redirectsto2Kings20;thoseactualHenrycommentariesallparagraphsread. Henry38andWes38wholeexpositionsread. Wesley37/39NOexposition,notusedtoclaimtheirviews. WholeUSCCB37/38notesread;39HTTPerrorunused. Gill37selected7,9,14,20,26,29,30,35,36,38all16838chars;38selected3,5,8,17,18,21all13263chars;39selected2,7,8all5194charsreadinboundedchunks. Cambridge39ONLYverse8expositionread,notwholechapter.
+
+DirectactualBSBsupportreadActs4:23–31;Luke1:26–33;Rev19:11–21;James5:13–18;1Cor15:16–26,51–58;Matt1:11–17;2Kings20:1–11;2Chr32:24–31;2Sam7:12–16. NoapplicableownerpositionfoundstudysearchHezekiah/Isa37/38/39. Sourcehierarchyrespected: baselinespeculativehistoricalorpropheticsystemclaimsleftoffifunverified. Herodotus2.141primaryattemptUChicagopenelopeHTTPerror; noreadclaim,nomedicaldiagnosisfromit. PrimaryBritishMuseumattemptspreviousbatch403stillnotused.
+
+## 37:1–7
+
+Plan section: omitted, because none apply. Scene's prayer/trust alreadycovered;no forcedseparatetypologicalsection.
+Position source: none.
+FLAGGED FOR REVIEW: Baseline prayerdirectlyconfessesallnational/forefatherssin notexplicitwordinghereor14–20;do notinventquotation. Godspiritcanreadfear/inclination/angelasperGillactualalternatives,notlexicallysettledruachclaim. No needtopresentforeknowledge/freewilldenomdisputeswithoutprimaryconfessions;publicfocusactualpromise. Childbirthdistressmetaphornotclinicalobstetricinstructionorillnesspunishment. NoGodmustonlyactafterthisritual. No ownerposition.
+
+## 37:8–13
+
+Plan section: omitted, because none apply. RenewedthreatsceneaddsnoindependentNTconnectionbeyondprayergroupthatfollows.
+Position source: none.
+FLAGGED FOR REVIEW: BaselineTirhakahfakeattackNinevehnotstatedIsa37:9;Gillvariousproposalsnoprooflocation/falsehood. USCCBnotes691/701/Tirhakahtitle/twosiegeshypothesisnotofficialCatholicdogmaorconsensus;publicdoesnotattemptfixedchronologicalsolution. NoLibnah20mile/Lachish7.5mileunverifiedprecision. Differentrumorinterpretationsattributed,notassumeallpredictedreportedafterwithdrawal. Noallthreatsbluff/minimizeactualdanger. No ownerposition.
+
+## 37:14–20
+
+Plan section: included, because (b)/(c). Acts4Creatorprayer/threats/God'spurpose/boldwitnesscloseparallel,labeldifferentrequests/circumstances,notActsquotesIsa37.
+Position source: none.
+FLAGGED FOR REVIEW: Letterspreadnotrequiredritualforbills/medicaldocumentsandnosuggestionGoddoesn'tknowcontents. NoHezekiahdefinitelyonlyoutercourtlocationasindependenthistory. No explicitconfessionofJesuscrucifixionbyforefathershereorproofofprecisetribulationlastday/Lev26schedule. ActualprayerhonorsGodandacknowledgesmilitaryfacts,doesnotdenyrealityofrisk. No personalprayerformulaofassuredalltemporalrescue. Existingprayerstudiesrelatedlinksonly,notownerpositionaddressesHezekiah. No ownerposition.
+
+## 37:21–35
+
+Plan section: included, because (c). NamedDavidpromise2Sam7andLuke1DavidicSonlastingreigndevelopactualconnectionbeyondimmediatecityrescue.
+Position source: none.
+FLAGGED FOR REVIEW: No claims everyliteralDavidicmonarchneverceasedseateduntilChrist;Babylonexilecountersunbrokenphysicalthroneclaim. No everyhumanwarplanmorallyauthorizedbecauseprovidence. SignexacttwoSabbathyearsdisputedcommentatorproposalnotsettledhistory. Hook/bridlemetaphorexplicittext,nounverifiedspecificAssyrianprisonerartclaim. No uniformallleaders/peopleuniversalethicaldictatorshiplicense. ActualBSB37:25foreignwatersverifiedfreshnotNASBmerelywaters. ReferenceLuke1actualkingdomneverend,notAIdecidedmillennialmechanism. No ownerposition.
+
+## 37:36–38
+
+Plan section: included, because (b). Rev19:11–21overthrowopposingarmiesbyGod'saction,expresslyparallelnotidenticaleveryeventtimeline.
+Position source: none.
+FLAGGED FOR REVIEW: BaselineHerodotusprovesbubonicplaguemiceNOTverified;primaryfetchHTTPerror,omitmechanism. USCCBpossibleplagueisnotesproposal,notindependenthistoriographicalproof. Gilldisease/fireproposalsattributed,thetextitselfdoesnotspecify. No claimsSennacheribalreadyhomebeforecampdeath;text36thendepar37. No sonsmurderbecausevowtosacrificethem/Noahplankidol/EsarhaddonSargonidentityconflationunverifiedfolklore. No exact20yeargapwithoutindependentartifactcheck. Rev19riderdistinctfromIsaangel,notoriginalsitepositionidentifyingAngelwithChrist. No futurearmycountsame185000typologicalcode. No ownerposition.
+
+## 38:1–8
+
+Plan section: included, because (c). James5illness/prayer/elders/sharedcarebroadtheme,notIsaiahquotation/samepromise15years.
+Position source: none.
+FLAGGED FOR REVIEW: BaselineonlylogicalreasonGodannounceddeathpromptprayeralreadyplannednotsettledalltraditions;noinventeddenomGodchangedminddogma. No exact701/702/686/687chronologywithoutindependentverification;BSBdeliverancefuturelinkscrisisandnotesplacementfair. NoHezekiahhadnootherchildrenbecauseManassehbornlaterproveduniversality. No childlessnessgenerallyjudgmentorroyalprayerworthinessformula. Shadowphysicalmechanismnotastronomicalrotationstoppingclaim;BSBstairwayretained. Henryexplicitotherpeoplemaynotsameanswer,notallunhealedlackfaith.NoLuthercalledfoolishprayerfromGillsecondhandcitation. No ownerposition.
+
+## 38:9–22
+
+Plan section: included, because (c). 1Cor15Christresurrection/imperishability/steadfastserviceextendsbeyondtemporarilyprolongedmortalyears,notclaimHezekiahexplainsentireafterlifeschema.
+Position source: none.
+FLAGGED FOR REVIEW: Figsrecordedintextnotclinicalrecipe/recommendation/oncologicaldiagnosisorclaimfigsnevermedicinalbyallancientknowledge. HenrypracticalmeansandGillsignnotmedicineactualdifference;publicdoesnotpresentuniformmedicineclaim. SongSheolpraiseearthlylifeWes/Gillreadingexplicitlyattributed,notAIpositionsouldeathorconsciousintermediatestate. NoHebetymologyfromBDBunread. BSB38:16YOUHAVErestorednotNASBfuturepetition,includefreshmainquote. SinscastbehindmetaphorforgivenessnotGodlosesomniscience/nophysicalsicknessalwayssinpunishment. No formalchiasticlabelneededplainmovementdescribed. No temporalallfathersonbiologicalchildrenrequiredtocarryfaithmeaning. No ownerposition.
+
+## 39:1–8
+
+Plan section: included, because (c). Matt1explicitmarksBabylonexilewithingenealogyleadingChrist;namedDavidpromiseconnectsnarrative,notMatthewquotesIsa39.
+Position source: none.
+FLAGGED FOR REVIEW: PDFhasNO39commentaryexceptMP3notice,independentprimaryexplanationssupplied,noaudioactuallyreviewedclaim. Henry/Gill/Cambridge8readfinalwordsubmission/mercyinpostponement,notinventoppositereadingastheirview. Proudheart32ChroniclesverifieddirectBSB. No guessingking'sprivatethoughtbeyondtext/theenvoyssecretmilitarymission/specificallianceactuallysigned. JewelsreplenishedfromAssyriancampguessnotfact. BSB39:7eunuchretained,butnotproveDanielpersonallycastrated/royalbiologicalsonofHezekiah. No strictsarislexclaimwithoutlexicon. Noallfutureexilecausedonlythisoneactneglectingbroadercovenantcontext. No modernmoneyorpoliticalguidance. No newownerposition.
+
+## Validation
+
+Focused generation, direct BSB, repository (0 errors /377 warnings), preservation, continuous coverage, idempotence, sixteen mobile views and physical Next passed. Hosting dry run, deployment and LIVE MATCH 12 each observed exit 0. Prefix /tmp/scripture-isaiah-thirty-seven-nine-.

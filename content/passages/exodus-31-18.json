@@ -5,7 +5,7 @@
     "label": "Exodus 31:18",
     "slug": "exodus-31-18"
   },
-  "section_title": "Moses Receives the Tablets",
+  "section_title": "Why does God give Moses the commands on stone?",
   "versions": [
     {
       "label": "BSB",
@@ -15,12 +15,43 @@
     }
   ],
   "context_lines": [
-    "In **Exodus 31**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "The mountain instructions end with something Moses can carry back to Israel: two stone tablets inscribed by God. God has already spoken His commands to the people; now Moses receives their written testimony. Deuteronomy identifies the writing as the Ten Commandments and connects the tablets with the words Israel heard at the mountain ([Deuteronomy 4:9–14](https://biblehub.com/bsb/deuteronomy/4.htm); [9:9–11](https://biblehub.com/bsb/deuteronomy/9.htm)).",
+    "",
+    "The chapter closes with God giving His testimony. The next chapter turns to what the people have been doing while Moses is away. That contrast matters: the covenant is not simply an agreement Israel has devised, and the people’s response will be measured against what God has said."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Moses Receives the Tablets** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 31** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) and [Calvin](https://biblehub.com/commentaries/calvin/exodus/31.htm) understand God’s finger here as His direct power and authorship: the inscription comes from God. Both also explain the tablets as a lasting witness to His will; the verse does not describe the physical shape of God or state how the commands were divided between the two stones."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "Paul later draws an explicit contrast between stone tablets and human hearts. The Corinthians are a letter from Christ, written by the Spirit of the living God on hearts rather than stone ([2 Corinthians 3:1–6](https://biblehub.com/bsb/2_corinthians/3.htm)). He does not dismiss Sinai as something worthless: he calls its ministry glorious, then explains the greater glory of the Spirit’s life-giving work ([2 Corinthians 3:7–11](https://biblehub.com/bsb/2_corinthians/3.htm)).",
+    "",
+    "The connection shows a larger purpose than preserving instructions in writing. Through Christ, God is at work in the people who receive His word, giving life and making them a living testimony that others can read. The stone tablets belong to the unfolding story of that greater work."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/exodus/31.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-exodus-thirty-one-review.md"
+  }
 }

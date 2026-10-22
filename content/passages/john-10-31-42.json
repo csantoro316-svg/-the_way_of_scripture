@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "10:31-42",
+    "label": "John 10:31-42",
+    "slug": "john-10-31-42"
+  },
+  "section_title": "Why do some seek to stone Jesus while others believe?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "31 At this, the Jews again picked up stones to stone Him. 32 But Jesus responded, “I have shown you many good works from the Father. For which of these do you stone Me?” 33 “We are not stoning You for any good work,” said the Jews, “but for blasphemy, because You, who are a man, make Yourself out to be God.” 34 Jesus replied, “Is it not written in your Law: ‘I have said you are gods’? 35 If he called them gods to whom the word of God came—and the Scripture cannot be broken— 36 then what about the One whom the Father sanctified and sent into the world? How then can you accuse Me of blasphemy for stating that I am the Son of God?",
+        "37 If I am not doing the works of My Father, then do not believe Me. 38 But if I am doing them, even though you do not believe Me, believe the works themselves, so that you may know and understand that the Father is in Me, and I am in the Father.” 39 At this, they tried again to seize Him, but He escaped their grasp.",
+        "40 Then Jesus went back across the Jordan to the place where John had first been baptizing, and He stayed there. 41 Many came to Him and said, “Although John never performed a sign, everything he said about this man was true.” 42 And many in that place believed in Jesus."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After Jesus says that He and the Father are one, His opponents take up stones. He asks which of His good works has brought this response. They say the issue is blasphemy: in their judgment, He is a man claiming to be God. Their accusation makes the question of His identity explicit.",
+    "",
+    "Jesus answers from [Psalm 82](https://biblehub.com/bsb/psalms/82.htm), where God addresses others as gods while judging their injustice. He points out that Scripture uses the term for those to whom God’s word came, then directs attention to the One the Father has set apart and sent into the world. His reply challenges their immediate accusation; it does not withdraw His claim to be the Son of God.",
+    "",
+    "He again asks them to consider His works. They reveal the Father at work in Him and His own unity with the Father. Whatever questions His words raise, He does not ask them to ignore the evidence of what He has done. They attempt to seize Him, but He escapes; John does not describe the method.",
+    "",
+    "The closing scene moves across the Jordan, to the place associated with John’s earlier baptizing. People remember that John performed no sign, but recognize that his testimony about Jesus was true. Many believe there. The contrast is between responses to Jesus and His witness, rather than a claim that one location or social group makes faith automatic."
+  ],
+  "common_interpretation_lines": [
+    "Christian interpreters commonly understand Jesus’ reply as defending His claim through Scripture and the Father’s works. [Calvin on verses 34–38](https://biblehub.com/commentaries/calvin/john/10.htm) and [Wesley on verses 35–38](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) both distinguish His unique identity and mission from the lesser use of the title in the psalm.",
+    "",
+    "There are different readings of the figures addressed in Psalm 82. Calvin identifies them as earthly kings and judges entrusted with authority. The [Catholic bishops’ note on Psalm 82](https://bible.usccb.org/bible/psalms/82) instead understands the scene as God judging subordinate heavenly beings. These are interpretations of the psalm, not uniform positions held by every member of those traditions. John’s account states Jesus’ central point without resolving every question about the psalm’s setting: Scripture uses this language, and His claim must be considered in light of the Father who sent Him and the works He does."
+  ],
+  "god_plan_lines": [
+    "Psalm 82 ends by calling on God to judge the earth and affirming His claim over all nations. Jesus’ earlier teaching in [John 5:22–23](https://biblehub.com/bsb/john/5.htm) says that the Father has entrusted judgment to the Son. Read together, these passages place the question of Jesus’ identity within God’s wider rule and His purpose to be known and honored through the Son.",
+    "",
+    "The belief across the Jordan also brings the witness of John the Baptist back into view. His role was to point people toward Christ, not to replace Him. [John 20:30–31](https://biblehub.com/bsb/john/20.htm) explains the Gospel’s own purpose in the same direction: its recorded signs lead readers to believe that Jesus is the Christ, the Son of God, and to receive life in His name."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/10.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-ten-closing-review.md"
+  }
+}

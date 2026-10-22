@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "15:35-41",
+    "label": "1 Corinthians 15:35-41",
+    "slug": "1-corinthians-15-35-41"
+  },
+  "section_title": "How can a body that dies be raised in a different form?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "35 But someone will ask, “How are the dead raised? With what kind of body will they come?” 36 You fool! What you sow does not come to life unless it dies. 37 And what you sow is not the body that will be, but just a seed, perhaps of wheat or something else. 38 But God gives it a body as He has designed, and to each kind of seed He gives its own body.",
+        "39 Not all flesh is the same: Men have one kind of flesh, animals have another, birds another, and fish another. 40 There are also heavenly bodies and earthly bodies. But the splendor of the heavenly bodies is of one degree, and the splendor of the earthly bodies is of another. 41 The sun has one degree of splendor, the moon another, and the stars another; and star differs from star in splendor."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul voices the objection about how the dead are raised and what kind of body they will have. His sharp answer challenges the assumption that the limits of a decaying body also limit what God can do.",
+    "",
+    "He begins with a seed. What is planted does not look like the grown plant that will emerge, yet God gives each kind its own body. The comparison holds together a connection with what was planted and a remarkable change in form.",
+    "",
+    "He then points to the variety already visible in creation: different living creatures, the sun, the moon and the stars. God is not confined to producing only the kind of body the questioner currently knows.",
+    "",
+    "The examples prepare for Paul’s description of resurrection in the next verses. They are illustrations of God’s power to give life and transform, rather than a technical account of which particles must be recovered or how a body is reconstructed."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the seed and creation examples as answering doubt about God’s power to raise the dead in a changed condition. [Wesley’s notes on verses 35–41](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) and the [USCCB notes on verses 35–41](https://bible.usccb.org/bible/1corinthians/15) both emphasize the difference between what is planted and what God brings forth."
+  ],
+  "god_plan_lines": [
+    "A related picture appears in [John 12:23–26](https://biblehub.com/bsb/john/12.htm), where Jesus speaks of a grain of wheat falling into the ground and dying so it bears much fruit. He connects that image with His approaching glorification and the life of those who follow Him.",
+    "",
+    "This is a parallel in the picture used, not a claim that Paul is quoting that conversation or explaining biological mechanics. Both passages turn attention toward life God brings through what looks like an ending. Resurrection belongs within the saving work of the Son whose death bears fruit for others."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/15.htm",
+    "plan_basis": [
+      "a",
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-fifteen-closing-review.md"
+  }
+}

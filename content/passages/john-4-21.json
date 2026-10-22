@@ -5,17 +5,55 @@
     "label": "John 4:21",
     "slug": "john-4-21"
   },
-  "versions": [],
-  "context_lines": [
-    "In **John 4**, Jesus reveals Himself beyond old covenant boundaries through His encounter with the Samaritan woman and His teaching about true worship. The chapter shifts attention away from sacred geography and toward worship shaped by truth and the Spirit."
+  "section_title": "Must we go to one sacred place to reach the Father?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "21 “Believe Me, woman,” Jesus replied, “a time is coming when you will worship the Father neither on this mountain nor in Jerusalem."
+      ]
+    }
   ],
-  "explanation_lines": [
-    "**Restored reading:** *\"...neither in this mountain nor in Jerusalem will you bow in reverence to the Father... the true reverent ones will honor the Father in spirit and truth...\"*",
+  "context_lines": [
+    "The woman has asked Jesus to settle the question of worship on the Samaritan mountain or in Jerusalem. He announces that worship of the Father will no longer be confined to either place.",
     "",
-    "This passage is frequently used to define what Christian worship gatherings should look like \u2014 but that reading misses Jesus' actual point. The Samaritan woman asked about *location* (Gerizim vs. Jerusalem), and Jesus answers that question: the age of geographically-bound sacred obligation is ending. *Proskune\u014d* here addresses the *abolition of sacred geography*, not the shape of the Christian assembly. It describes a posture of the heart \u2014 not a scheduled corporate event.",
+    "The following verses explain His answer through worship in spirit and truth, and His identity as the Messiah. This verse should be read with that explanation. [Read John 4:16–26 in context](https://the-way-of-scripture.web.app/passages/john-4-16-26.html)."
+  ],
+  "common_interpretation_lines": [
+    "Christian traditions commonly read these verses as opening worship of the Father beyond the rival claims of Gerizim and Jerusalem, through the Spirit and the truth God reveals. The Catholic Catechism and Westminster Confession both affirm that worship is no longer tied to one exclusive location, while continuing to recognize gathered worship. ([Catechism §§1179–1180](https://www.vatican.va/content/catechism/en/part_two/section_one/chapter_two/article_1/iv_where_is_the_liturgy_celebrated.index.html); [Westminster Confession 21.6](https://www.opc.org/wcf.html))"
+  ],
+  "god_plan_lines": [
+    "Jesus says that salvation comes from the Jews. Paul later identifies Israel’s covenants, promises and patriarchs, and the Messiah’s human descent from Israel. The welcome extended to the Samaritan woman belongs within God’s faithfulness to those promises. ([Romans 9:4–5](https://biblehub.com/bsb/romans/9.htm))",
     "",
-    "With Jesus, everything changes. The first obligation \u2014 the geographic gathering at a sacred location \u2014 is explicitly abolished (John 4:21: *\"neither in this mountain nor in Jerusalem\"*). The appointed place is no more. The second obligation \u2014 the orientation of the whole life toward God in allegiance and service \u2014 is not abolished but deepened and expanded beyond anything the old covenant contained. The believer now bears in their own body the presence that once required a journey to Jerusalem.",
-    "",
-    "Before there was a Church, there was a covenant. And before Greek, there was Hebrew \u2014 the sacred language in which God first revealed His heart for worship. The words used in Hebrew for \"worship\" are not abstract or emotional. They are physical, embodied, and relational. They speak of bowing low in surrender and rising up in service. And just like in Greek, the English word \"worship\" oversimplifies them \u2014 obscuring the deeper meaning God intended."
-  ]
+    "Ephesians describes people once far apart being reconciled through Christ’s cross, with access to the Father by one Spirit. Together they become God’s dwelling. Hebrews likewise invites believers to draw near through the way Jesus opens by His blood. These passages give the wider picture of the access to the Father Jesus announces here. ([Ephesians 2:13–22](https://biblehub.com/bsb/ephesians/2.htm); [Hebrews 10:19–22](https://biblehub.com/bsb/hebrews/10.htm))"
+  ],
+  "current_position_lines": [
+    "Our studies Worship as the Early Church Knew It and What Is the True Church? read John 4:21–24 as ending the requirement to approach God at one sacred location. They understand true worship as a life turned toward the Father, led by His Spirit and aligned with His revealed truth. The passage addresses that relationship and access to God, rather than prescribing the format of a Christian gathering."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/4.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-john-four-opening-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It: John 4:21–24 — The Samaritan Woman and Sacred Geography; Jesus Ends the Sacred Geography. What Is the True Church?: Worship is in Spirit and Truth. Position limited to these developed conclusions, without importing their other historical or denominational claims."
+  }
 }

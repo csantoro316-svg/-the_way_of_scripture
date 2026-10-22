@@ -5,13 +5,57 @@
     "label": "Revelation 22:18-19",
     "slug": "revelation-22-18-19"
   },
-  "versions": [],
-  "context_lines": [
-    "Revelation 22:18-19 should be read within the flow of its chapter and the larger argument of Revelation."
+  "section_title": "Why must these words be preserved faithfully?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "18 I testify to everyone who hears the words of prophecy in this book: If anyone adds to them, God will add to him the plagues described in this book. 19 And if anyone takes away from the words of this book of prophecy, God will take away his share in the tree of life and the holy city, which are described in this book."
+      ]
+    }
   ],
-  "explanation_lines": [
-    "Revelation 22:18-19 should be read first within its own scriptural setting rather than as an isolated slogan.",
+  "context_lines": [
+    "The warning is addressed to everyone who hears the prophecy in this book. Adding to it brings the plagues described in it; taking away its words brings the removal of a share in the tree of life and the holy city.",
     "",
-    "Where this passage is brought into conversation with other texts, its force should still be governed by its immediate chapter flow and the larger argument of the book."
-  ]
+    "The warning matches the actions and their consequences: adding brings added plagues, and removing brings removal from the promised blessings. Its immediate subject is the book of prophecy John has delivered. The words are to be received and passed on faithfully."
+  ],
+  "common_interpretation_lines": [
+    "The readings agree that the warning protects the integrity of the prophecy. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-revelation-of-jesus-christ/) also applies its force to the wider New Testament, comparing the warning with Moses’ protection of the law. That wider application should be distinguished from the immediate wording about this book.",
+    "",
+    "[Walvoord](https://swartzentrover.com/cotor/E-Books/holiness/Walvoord/Revelation/Rev_22.htm) understands deliberate tampering as evidence of unbelief, rather than the loss of salvation by someone truly born of God. Wesley stresses the removal of blessings expressed in the warning. The consequence is serious in either account; the passage should be read alongside the rest of Scripture when considering how it relates to perseverance in faith."
+  ],
+  "god_plan_lines": [
+    "The warning recalls [Deuteronomy 4:1–2](https://biblehub.com/bsb/deuteronomy/4.htm), where Israel is told not to add to or subtract from God’s commands so that they may keep them. [Proverbs 30:5–6](https://biblehub.com/bsb/proverbs/30.htm) likewise joins trust in God’s word with a warning against adding to it.",
+    "",
+    "These connections place Revelation’s closing warning within a recurring biblical responsibility: people receive God’s message rather than make themselves its author. The prophecy’s invitation, comfort and warning are all part of what its hearers are charged to preserve."
+  ],
+  "current_position_lines": [
+    "Our [study Returning to the Word](https://thewayofscripture.com/studies/returning-to-the-word.html), also reflected in [Is the Bible the Inerrant Word of God?](https://thewayofscripture.com/studies/inerrancy.html), treats this warning as part of Scripture’s recurring call not to add to or subtract from what God has said. We apply that principle here by keeping the prophecy’s words intact and testing our explanations against what they actually say."
+  ],
+  "deeper_study": [
+    {
+      "title": "Returning to the Word",
+      "href": "../studies/returning-to-the-word.html"
+    },
+    {
+      "title": "Is the Bible the Inerrant Word of God?",
+      "href": "../studies/inerrancy.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/revelation/22.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-revelation-twenty-two-review.md",
+    "position_source_detail": "Returning to the Word — content/studies/returning_to_the_word.md:50–58, directly citing Revelation22:18–19; Is the Bible the Inerrant Word of God? — content/studies/inerrancy.md:26–38. Position limited to faithful handling, not a new salvation/perseverance or canon conclusion."
+  }
 }

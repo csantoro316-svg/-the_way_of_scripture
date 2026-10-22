@@ -5,17 +5,62 @@
     "label": "Matthew 6:25-34",
     "slug": "matthew-6-25-34"
   },
-  "versions": [],
-  "context_lines": [
-    "In **Matthew 6**, part of the Sermon on the Mount, Jesus contrasts hypocritical religion with true life before the Father. The chapter moves through giving, prayer, fasting, treasure, anxiety, and kingdom-seeking, so every individual saying must be read inside that unified call to trust the Father and seek His will first."
+  "section_title": "Trusting the Father's Care",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "25 Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes? 26 Look at the birds of the air: They do not sow or reap or gather into barns, and yet your heavenly Father feeds them. Are you not much more valuable than they? 27 Who of you by worrying can add a single hour to his life?",
+        "28 And why do you worry about clothes? Consider how the lilies of the field grow: They do not labor or spin. 29 Yet I tell you that not even Solomon in all his glory was adorned like one of these. 30 If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the furnace, will He not much more clothe you, O you of little faith?",
+        "31 Therefore do not worry, saying, ‘What shall we eat?’ or ‘What shall we drink?’ or ‘What shall we wear?’ 32 For the Gentiles strive after all these things, and your heavenly Father knows that you need them. 33 But seek first the kingdom of God and His righteousness, and all these things will be added unto you. 34 Therefore do not worry about tomorrow, for tomorrow will worry about itself. Today has enough trouble of its own."
+      ]
+    }
   ],
-  "explanation_lines": [
-    "Here is the problem that has to be addressed honestly. Only fifteen verses after modeling a prayer that asks God for \"daily bread,\" Jesus appears to say something very different \u2014 that His followers should not even be asking for food, drink, or clothing in the first place, because the Father already knows what they need.",
+  "context_lines": [
+    "Jesus turns from serving God instead of money to the worries that can make that loyalty difficult. Food, drink, and clothing are real needs. His illustrations begin with the greater gifts already received: life and the body. He then points to the Father's care for birds and the beauty of flowers.",
     "",
-    "*Read the full passage in your Bible (Matthew 6:25-34). Key verses are quoted below to walk through the argument.*",
+    "The word for being anxious is μεριμνάω, *merimnaō* (meh-rim-NAH-oh). [Thayer's Greek Lexicon](https://biblehub.com/greek/3309.htm) explains its use here as being troubled with cares. The surrounding examples show the concern: attention consumed by sustaining life, clothing the body, and securing tomorrow.",
     "",
-    "If the two passages are read at face value, side by side, there does seem to be real tension here. One passage models asking God for provision; the other tells us not to ask about provision at all, because the Father already knows and will take care of it. The resolution is not as simple as \"pray for it, then stop worrying while you wait\" \u2014 that reading makes verses 25-34 oddly redundant, since it takes Jesus fifteen verses and an extended illustration about birds and wildflowers to say something that could have been said far more briefly if that were really the only point.",
+    "Birds and flowers help His hearers consider the Father's care. Jesus says people matter more to Him than these things do. Worry cannot extend a person's life, and even Solomon's splendor does not equal the flowers' beauty. The questions press His hearers toward trusting the Father who knows them.",
     "",
-    "There is a meaningful clue in the Greek verb Jesus repeats in this passage."
-  ]
+    "Jesus then contrasts a life occupied with securing these things with seeking God's kingdom and righteousness first. The reason He gives is personal: their heavenly Father knows what they need. His rule and what is right before Him are to direct their priorities.",
+    "",
+    "The closing words bring attention back to today. Tomorrow has its own concerns, and today already has trouble to face. Jesus calls His followers to meet the present day in trust, instead of adding the whole imagined weight of the future to it."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this passage as calling for trust in the Father's care and giving His kingdom first place, rather than allowing material needs to dominate life. [Wesley's notes on Matthew 6:25–34](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) and the Catholic [Catechism, 305–306](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_one/article_1/paragraph_4_the_creator.html), both place the teaching within confidence in God's care; the Catechism also explains that He works through the actions of His creatures."
+  ],
+  "god_plan_lines": [
+    "The Father's care reaches its deepest expression in His gift of the Son. [Romans 8:31–39](https://biblehub.com/bsb/romans/8.htm) connects confidence in God's generosity with Christ's death, resurrection, and continuing prayer for His people. God's love has acted decisively for His people.",
+    "",
+    "The same passage names distress, persecution, famine, and danger as hardships that cannot separate them from that love. Paul also describes his own hunger and exposure in [2 Corinthians 11:27](https://biblehub.com/bsb/2_corinthians/11.htm). Trust in the Father therefore reaches through hardship; His saving care is larger than the ease of a particular day.",
+    "",
+    "God's care also takes visible shape in the generosity of His people. [2 Corinthians 9:6–15](https://biblehub.com/bsb/2_corinthians/9.htm) describes His grace supplying good works, meeting needs, and producing thanksgiving. People who trust the Father are drawn into caring for one another as His saving work creates a generous community."
+  ],
+  "current_position_lines": [
+    "Our study Prayer and Faith understands this passage as reordering the whole life toward God's kingdom and will. It places confidence in the Father's knowledge and provision, rather than treating prayer as a method of securing a preferred outcome.",
+    "",
+    "Our companion study What Does Prayer Look Like? makes clear that asking is not itself sinful. Its emphasis is that growing trust releases control of circumstances and gives greater attention to God's purposes. Both studies understand seeking Him as the governing direction of life and prayer."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/6.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-treasure-and-trust-review.md",
+    "position_source_detail": "Prayer and Faith — Matthew 6:25–34; What Does Prayer Look Like? — final discussion of asking, surrender, and kingdom-seeking"
+  }
 }

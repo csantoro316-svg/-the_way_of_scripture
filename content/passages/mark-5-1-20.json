@@ -1,0 +1,66 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "5:1-20",
+    "label": "Mark 5:1-20",
+    "slug": "mark-5-1-20"
+  },
+  "section_title": "Restored and Sent Home to Tell of God’s Mercy",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 On the other side of the sea, they arrived in the region of the Gerasenes. 2 As soon as Jesus got out of the boat, He was met by a man with an unclean spirit, who was coming from the tombs. 3 This man had been living in the tombs and could no longer be restrained, even with chains. 4 Though he was often bound with chains and shackles, he had broken the chains and shattered the shackles. Now there was no one with the strength to subdue him. 5 Night and day in the tombs and in the mountains he kept crying out and cutting himself with stones.",
+        "6 When the man saw Jesus from a distance, he ran and fell on his knees before Him. 7 And he shouted in a loud voice, “What do You want with me, Jesus, Son of the Most High God? I beg You before God not to torture me!” 8 For Jesus had already declared, “Come out of this man, you unclean spirit!” 9 “What is your name?” Jesus asked. “My name is Legion,” he replied, “for we are many.” 10 And he begged Jesus repeatedly not to send them out of that region.",
+        "11 There on the nearby hillside a large herd of pigs was feeding. 12 So the demons begged Jesus, “Send us to the pigs, so that we may enter them.” 13 He gave them permission, and the unclean spirits came out and went into the pigs, and the herd of about two thousand rushed down the steep bank into the sea and drowned in the water.",
+        "14 Those tending the pigs ran off and reported this in the town and countryside, and the people went out to see what had happened. 15 When they came to Jesus, they saw the man who had been possessed by the legion of demons sitting there, clothed and in his right mind; and they were afraid. 16 Those who had seen it described what had happened to the demon-possessed man and also to the pigs. 17 And the people began to beg Jesus to leave their region.",
+        "18 As He was getting into the boat, the man who had been possessed by the demons begged to go with Him. 19 But Jesus would not allow him. “Go home to your own people,” He said, “and tell them how much the Lord has done for you, and what mercy He has shown you.” 20 So the man went away and began to proclaim throughout the Decapolis how much Jesus had done for him. And everyone was amazed."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After the crossing, Jesus arrives in the region of the Gerasenes and meets a man living among the tombs. Mark describes his suffering and isolation: no one can restrain him, and he cries out and cuts himself with stones. The encounter begins where other people's efforts have failed.",
+    "",
+    "The voice addressing Jesus identifies Him as the Son of the Most High God and begs not to be tormented. Asked his name, the reply is Legion, because they are many. The Greek λεγιών, *legiōn* (leh-gee-OHN), is a borrowed military word for a body of soldiers; [Thayer's lexicon](https://biblehub.com/greek/3003.htm) notes that its size varied. Mark's explanation emphasizes many spirits, rather than giving an exact count of six thousand.",
+    "",
+    "The spirits ask to enter a herd of pigs. Jesus permits it, and the herd of about two thousand rushes down the bank and drowns. The spirits act under His permission. Mark reports what happens without explaining every reason Jesus allows the herd's destruction.",
+    "",
+    "Those tending the pigs report the event. The people find the man sitting, clothed, and in his right mind, yet ask Jesus to leave. [Luke 8:35–37](https://biblehub.com/bsb/luke/8.htm) explicitly connects their request with great fear. The text tells us about the loss of the pigs, but does not reduce every person's response to a calculation about money.",
+    "",
+    "The restored man wants to accompany Jesus. Instead, Jesus sends him home to tell his own people of the Lord's mercy. Mark then describes him announcing what Jesus has done throughout the Decapolis. His changed life becomes a message for the people around him. The [parallel Matthew 8:28–34](https://biblehub.com/bsb/matthew/8.htm) describes two men; Mark follows the story of this one in detail."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly see Jesus' authority over evil spirits and His mercy restoring a person to life among others. [Calvin on Mark 5:9 and Luke 8:38–39](https://biblehub.com/commentaries/calvin/mark/5.htm) and the [US Catholic bishops' notes on Mark 5:9,19](https://bible.usccb.org/bible/mark/5) emphasize the many spirits overcome and the restored man's task of making God's kindness known."
+  ],
+  "god_plan_lines": [
+    "Earlier, Jesus describes overcoming a strong man before taking what he holds ([Mark 3:22–27](https://biblehub.com/bsb/mark/3.htm)). This encounter shows that freeing work in a person's life. [1 John 3:8](https://biblehub.com/bsb/1_john/3.htm) states the larger purpose directly: the Son of God appeared to destroy the devil's works. The man's restoration belongs to that conflict and victory.",
+    "",
+    "God's mercy also produces a witness. [Psalm 66:16–20](https://biblehub.com/bsb/psalms/66.htm) calls others to hear what God has done for the speaker. Jesus gives this man a similarly personal message: tell what the Lord has done and the mercy He has shown. Mark's movement from the Lord's work in verse 19 to Jesus' work in verse 20 draws attention to God's saving action through Him.",
+    "",
+    "The man is sent back to people who have asked Jesus to depart. Even there, the account does not end with silence. The person they knew in suffering can now speak to them about the mercy he has received."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-five-review.md"
+  }
+}

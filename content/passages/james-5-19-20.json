@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "James",
+    "citation": "5:19-20",
+    "label": "James 5:19-20",
+    "slug": "james-5-19-20"
+  },
+  "section_title": "What is at stake when someone wanders from the truth?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "19 My brothers, if one of you should wander from the truth and someone should bring him back, 20 consider this: Whoever turns a sinner from the error of his way will save his soul from death and cover over a multitude of sins."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The letter closes with responsibility for one another. If someone wanders from the truth, another person may help bring that sinner back. James presents this as a work of rescue, not an opportunity for superiority.",
+    "",
+    "The language of saving a soul from death and covering sins gives restoration its seriousness. The conclusion returns to the letter’s concern that truth be lived, with believers caring about the direction of one another’s lives."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/james/5.htm) reads this as rescue from eternal death through God’s use of another believer’s help. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-general-epistle-of-st-james/) likewise emphasizes the soul’s value and sins no longer remembered in condemnation. The [USCCB note](https://bible.usccb.org/bible/james/5) describes forgiveness and return to the life of grace.",
+    "",
+    "A distinct Free Grace reading, represented by [Keith Pesce](https://faithalone.org/grace-in-focus-articles/saved-from-what/), understands the rescue as preserving a believer’s earthly life from sin’s deadly consequences. These readings differ over the death in view, while sharing the call to help a wandering person return."
+  ],
+  "god_plan_lines": [
+    "[Galatians 6:1–2](https://biblehub.com/bsb/galatians/6.htm) describes restoration carried out gently by people who remember their own vulnerability. The saving work belongs to God, yet care within Christ’s people can be one of the means by which a sinner is brought back. James ends by directing his readers toward that active concern for one another."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/james/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-james-five-review.md"
+  }
+}

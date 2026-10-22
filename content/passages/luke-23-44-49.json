@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "23:44-49",
+    "label": "Luke 23:44-49",
+    "slug": "luke-23-44-49"
+  },
+  "section_title": "How does Jesus entrust Himself to the Father as He dies?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "44 It was now about the sixth hour, and darkness came over all the land until the ninth hour. 45 The sun was darkened, and the veil of the temple was torn down the middle. 46 Then Jesus called out in a loud voice, “Father, into Your hands I commit My Spirit.” And when He had said this, He breathed His last.",
+        "47 When the centurion saw what had happened, he gave glory to God, saying, “Surely this was a righteous man.” 48 And when all the people who had gathered for this spectacle saw what had happened, they returned home beating their breasts. 49 But all those who knew Jesus, including the women who had followed Him from Galilee, stood at a distance watching these things."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Darkness covers the land from about noon until three in the afternoon, and the temple curtain is torn down the middle. These signs frame Jesus’ final prayer and death. The BSB’s footnote explains the sixth and ninth hours using those times. ([BSB text and footnotes](https://biblehub.com/bsb/luke/23.htm))",
+    "",
+    "Jesus calls out loudly and entrusts His Spirit to the Father, using the words of Psalm 31:5. After saying this, He breathes His last. His final address continues the trust expressed in His prayer in the garden. ([Psalm 31:1–5](https://biblehub.com/bsb/psalms/31.htm))",
+    "",
+    "The centurion gives glory to God and declares Jesus righteous. The crowd leaves beating their breasts, while those who knew Him, including the women from Galilee, watch from a distance. Luke closes the scene with these differing responses to His death."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand this as the real death of the innocent Jesus, who entrusts Himself to the Father. Wesley points to the Father receiving His Spirit, and the Westminster Confession includes His suffering, death and burial in its account of His saving work. ([Wesley on Luke 23:46–47](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [Westminster Confession 8.4](https://www.opc.org/wcf.html))"
+  ],
+  "god_plan_lines": [
+    "Hebrews explains that Jesus’ blood opens the way for His people to draw near to God, using the image of a way through the curtain of His body. That is the New Testament’s own connection between His self-offering and access to God. The torn curtain at His death can be read alongside that teaching about cleansing, a great priest and confidence to approach the Father. ([Hebrews 10:19–25](https://biblehub.com/bsb/hebrews/10.htm))",
+    "",
+    "His final prayer also stands within the scriptural pattern of entrusting life to God: Psalm 31 addresses God as refuge and Redeemer. Acts later records Stephen entrusting his spirit to the risen Lord Jesus as he dies. That is a supported parallel showing Christ’s followers depending on Him in the way His own prayer expresses trust in the Father. ([Psalm 31:1–5](https://biblehub.com/bsb/psalms/31.htm); [Acts 7:59–60](https://biblehub.com/bsb/acts/7.htm))"
+  ],
+  "current_position_lines": [
+    "Our study What Does Prayer Look Like? understands Jesus’ final prayer as surrender of Himself into the Father’s care. He entrusts His Spirit to the Father at the moment of death. The lesson concerns trust carried through suffering to the end. This is our position on the prayer in verse 46; it does not settle every detail of the surrounding signs."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/23.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-luke-twenty-three-closing-review.md",
+    "position_source_detail": "What Does Prayer Look Like? §2, The Cross — Three Prayers in Extremity, Into Your Hands I Commit My Spirit (Luke23:46)."
+  }
+}

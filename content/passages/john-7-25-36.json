@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "7:25-36",
+    "label": "John 7:25-36",
+    "slug": "john-7-25-36"
+  },
+  "section_title": "Do the people know where Jesus comes from and where He is going?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "25 Then some of the people of Jerusalem began to say, “Isn’t this the man they are trying to kill? 26 Yet here He is, speaking publicly, and they are not saying anything to Him. Have the rulers truly recognized that this is the Christ? 27 But we know where this man is from. When the Christ comes, no one will know where He is from.” 28 Then Jesus, still teaching in the temple courts, cried out, “You know Me, and you know where I am from. I have not come of My own accord, but He who sent Me is true. You do not know Him, 29 but I know Him, because I am from Him and He sent Me.” 30 So they tried to seize Him, but no one laid a hand on Him, because His hour had not yet come. 31 Many in the crowd, however, believed in Him and said, “When the Christ comes, will He perform more signs than this man?”",
+        "32 When the Pharisees heard the crowd whispering these things about Jesus, they and the chief priests sent officers to arrest Him. 33 So Jesus said, “I am with you only a little while longer, and then I am going to the One who sent Me. 34 You will look for Me, but you will not find Me; and where I am, you cannot come.” 35 At this, the Jews said to one another, “Where does He intend to go that we will not find Him? Will He go where the Jews are dispersed among the Greeks, and teach the Greeks? 36 What does He mean by saying, ‘You will look for Me, but you will not find Me,’ and, ‘Where I am, you cannot come’ ?”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Some people in Jerusalem know of the threat against Jesus and wonder why He is teaching openly without being stopped. They also question His claim because they think they know where He comes from. Jesus directs them toward the One who sent Him, whom He knows.",
+    "",
+    "An attempt to seize Him fails because His hour has not yet come. Many in the crowd nevertheless believe, asking what greater signs the Christ could perform. The chief priests and Pharisees then send officers to arrest Him.",
+    "",
+    "Jesus says He will remain only a little longer before going to the One who sent Him. His hearers puzzle over whether He means traveling to Jewish communities among the Greeks, or teaching the Greeks themselves. Their geographical questions miss His statement about returning to the Father."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand Jesus’ departure as pointing toward His return to the Father through death and resurrection. Calvin reads it as assurance that His opponents cannot prevent the mission’s completion, while Wesley contrasts their earthly guesses with His heavenly destination. ([Calvin on John 7:33](https://biblehub.com/commentaries/calvin/john/7.htm); [Wesley on John 7:33–35](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/))"
+  ],
+  "god_plan_lines": [
+    "Later in the Gospel, Jesus states the whole movement plainly: He comes from the Father into the world and returns to the Father. He also speaks of completing the work given to Him and sharing again in the glory He had before the world existed. His destination here belongs within that larger mission. ([John 16:28](https://biblehub.com/bsb/john/16.htm); [John 17:1–5](https://biblehub.com/bsb/john/17.htm))",
+    "",
+    "Acts records His ascension alongside the promise of the Spirit and a mission reaching the ends of the earth. Returning to the Father leads into the wider witness carried by His followers. The people’s question about Greeks is not itself a prediction of a journey He will make to Greece; the wider purpose is made clear in these later passages. ([Acts 1:8–11](https://biblehub.com/bsb/acts/1.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/7.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-seven-opening-review.md"
+  }
+}

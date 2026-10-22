@@ -1,0 +1,74 @@
+{
+  "reference": {
+    "book": "Ephesians",
+    "citation": "2:4-10",
+    "label": "Ephesians 2:4-10",
+    "slug": "ephesians-2-4-10"
+  },
+  "section_title": "What changes when God makes us alive with Christ?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "4 But because of His great love for us, God, who is rich in mercy, 5 made us alive with Christ even when we were dead in our trespasses. It is by grace you have been saved! 6 And God raised us up with Christ and seated us with Him in the heavenly realms in Christ Jesus, 7 in order that in the coming ages He might display the surpassing riches of His grace, demonstrated by His kindness to us in Christ Jesus.",
+        "8 For it is by grace you have been saved through faith, and this not from yourselves; it is the gift of God, 9 not by works, so that no one can boast. 10 For we are God’s workmanship, created in Christ Jesus to do good works, which God prepared in advance as our way of life."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul turns from the condition of death in sin to the God who is rich in mercy. His great love stands behind the change: He made us alive with Christ even while we were dead in our trespasses.",
+    "",
+    "The description follows the resurrection and exaltation language of 1:20. God has raised His people with Christ and seated them with Him in the heavenly realms. Their belonging to Christ changes their standing and their future.",
+    "",
+    "Paul also names God’s purpose for the coming ages: to display the riches of His grace in His kindness toward us in Christ Jesus. The life He gives is part of an unfolding display of that generosity.",
+    "",
+    "Verses 8–9 summarize salvation as a gift of grace through faith. It does not originate in the recipients’ own achievements, and works provide no basis for boasting.",
+    "",
+    "Verse 10 then describes the life God has created. The word translated workmanship is ποίημα, poiēma (POY-ay-mah), meaning something made or a work. [Thayer’s lexicon](https://biblehub.com/greek/4161.htm) identifies God as the maker in this use. His people have been created in Christ Jesus for good works He prepared as their way of life.",
+    "",
+    "Paul therefore joins the gift with its purpose. The God who gives life also prepares a life of doing good for the people He has made new."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand salvation here as God’s gift through Christ and recognize that the new life is meant to bear good works. They differ in how they describe being made right with God and the relationship between faith, renewal and those works.",
+    "",
+    "The Reformed [Westminster Confession, chapter 11](https://www.opc.org/wcf.html), describes justification as forgiveness and being counted righteous because of Christ’s obedience and work, received through faith alone. It also insists that this faith is living and acts through love.",
+    "",
+    "The Catholic [Catechism, paragraphs 1987–1993](https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_three/article_1/i_justification.index.html), describes justification as forgiveness together with inner renewal, given through Christ’s grace in baptism. It includes a response of faith and love enabled by grace, rather than treating human effort as an independent source of salvation.",
+    "",
+    "The Methodist [Articles of Religion, articles IX–X](https://www.umc.org/en/content/articles-of-religion), teach that people are accounted righteous through faith because of Christ’s merit. Good works follow from living faith and please God, while being unable to remove sins. These accounts all appeal to God’s gift through Christ, while differing in how the gift and its effects are explained."
+  ],
+  "god_plan_lines": [
+    "[Titus 3:3–8](https://biblehub.com/bsb/titus/3.htm) gives a closely related account of the change from a former life of disobedience. God saves according to His mercy, through new birth and renewal by the Holy Spirit, poured out through Jesus Christ. Those justified by His grace become heirs with the hope of eternal life.",
+    "",
+    "Titus then calls believers to devote themselves to good deeds. The connection places the gifts described in Ephesians within God’s purpose of renewing a people through His Son and Spirit, giving them a future hope and a present life of doing good."
+  ],
+  "current_position_lines": [
+    "Our studies [The Gospel According to Jesus](https://thewayofscripture.com/studies/the-gospel-according-to-jesus.html) and [Baptism](https://thewayofscripture.com/studies/baptism.html) read these verses as teaching salvation by God’s grace through faith, received as His gift rather than earned through religious effort or moral achievement. The Baptism study specifically distinguishes that saved relationship from the water baptism that follows: it understands salvation and the Spirit’s indwelling as received through faith, without waiting for baptism."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/ephesians/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-ephesians-two-middle-review.md",
+    "position_source_detail": "The Gospel According to Jesus — The Core, content/studies/the_gospel_according_to_jesus.md:33–55, direct2:8–9; Baptism — It Is Not the Mechanism of Salvation, content/studies/baptism.md:72–84, direct2:8–9 and faith/Spirit before water. Also corroborated by I Am a Disciple28–30. Limited to grace/faith/gift and baptism distinction, not a new regeneration/election chronology."
+  }
+}

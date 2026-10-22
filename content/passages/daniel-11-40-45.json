@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "11:40-45",
+    "label": "Daniel 11:40-45",
+    "slug": "daniel-11-40-45"
+  },
+  "section_title": "Who can help the conquering ruler when his end comes?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "40 At the time of the end, the king of the South will engage him in battle, but the king of the North will storm out against him with chariots, horsemen, and many ships, invading many countries and sweeping through them like a flood. 41 He will also invade the Beautiful Land, and many countries will fall. But these will be delivered from his hand: Edom, Moab, and the leaders of the Ammonites. 42 He will extend his power over many countries, and not even the land of Egypt will escape. 43 He will gain control of the treasures of gold and silver and over all the riches of Egypt, and the Libyans and Cushites will also submit to him.",
+        "44 But news from the east and the north will alarm him, and he will go out with great fury to destroy many and devote them to destruction. 45 He will pitch his royal tents between the sea and the beautiful holy mountain, but he will meet his end with no one to help him."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The closing scene describes renewed conflict involving the kings of the South and North. An invading ruler sweeps through lands, enters the Beautiful Land and gains power over Egypt’s wealth. Edom, Moab and the leading Ammonites escape his hand.",
+    "",
+    "News from the east and north alarms him, and he goes out in fury to destroy many. He pitches his royal tents between the sea and the beautiful holy mountain.",
+    "",
+    "The account ends abruptly: he meets his end, and no one helps him. The ruler who has extended his reach across countries cannot command a deliverer for himself. His conquests do not remove the limit on his own power."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/daniel/11.htm) understands the ending as God cutting off the ruler. [Gaebelein](https://biblehub.com/commentaries/gaebelein/daniel/11.htm) reads future conflicts involving the Antichrist and kings of the North and South.",
+    "",
+    "The [USCCB notes](https://bible.usccb.org/bible/daniel/11) understand the closing campaign as an expectation about Antiochus, while acknowledging that it does not match his actual death in Persia. The historical and future readings therefore handle the final campaign differently."
+  ],
+  "god_plan_lines": [
+    "A broader parallel appears in [Revelation 19:11–21](https://biblehub.com/bsb/revelation/19.htm). Kings and armies gather against the rider called the Word of God, but their assembled strength cannot save the beast and false prophet from judgment.",
+    "",
+    "This carries the theme of the conqueror’s limit into the revelation of Christ as King of kings and Lord of lords. The shared theme is the end of power that sets itself against God. In Revelation, that outcome centers on the victory of Jesus, whose authority the gathered kingdoms cannot overthrow."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/11.htm",
+    "plan_basis": [
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-eleven-review.md"
+  }
+}

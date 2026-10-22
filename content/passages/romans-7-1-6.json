@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "7:1-6",
+    "label": "Romans 7:1-6",
+    "slug": "romans-7-1-6"
+  },
+  "section_title": "How does belonging to the risen Christ change the way we serve God?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Do you not know, brothers (for I am speaking to those who know the law), that the law has authority over a man only as long as he lives? 2 For instance, a married woman is bound by law to her husband as long as he lives. But if her husband dies, she is released from the law of marriage. 3 So then, if she is joined to another man while her husband is still alive, she is called an adulteress; but if her husband dies, she is free from that law and is not an adulteress if she marries another man.",
+        "4 Therefore, my brothers, you also died to the law through the body of Christ, that you might belong to another, to Him who was raised from the dead, in order that we might bear fruit to God. 5 For when we lived according to the flesh, the sinful passions aroused by the law were at work in our bodies, bearing fruit for death. 6 But now, having died to what bound us, we have been released from the law, so that we serve in the new way of the Spirit, and not in the old way of the written code."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul continues the discussion of being under grace rather than law. Speaking to people who know the law, he uses marriage to illustrate how death ends a binding relationship. A widow is released from the bond that held while her husband lived.",
+    "",
+    "He then applies the image through Christ’s death: the believers have died to the law through His body so that they may belong to the risen Christ and bear fruit for God. The point of the release is a new belonging and fruitful service.",
+    "",
+    "The word translated released in verse 6 is katargeō (kah-tar-GEH-oh), καταργέω. In this setting [Thayer’s entry](https://biblehub.com/greek/2673.htm) gives the sense of being discharged or loosed from a relationship. Paul uses the same word in the marriage illustration in verse 2. The imagery explains release from a binding claim, rather than freedom without any new allegiance.",
+    "",
+    "Paul contrasts the former life, where sinful passions bore fruit for death, with service in the new way of the Spirit. He will next defend the law as holy and good. The problem he addresses is not solved simply by calling God’s instruction evil."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the passage as describing a changed relationship through Christ that leads to service in the Spirit. The marriage image serves that explanation: release leads to belonging to the risen Lord and bearing fruit, rather than permission to disregard God."
+  ],
+  "god_plan_lines": [
+    "[2 Corinthians 3:4–18](https://biblehub.com/bsb/2_corinthians/3.htm) also contrasts the written code with the life-giving work of the Spirit in the new covenant. Paul describes freedom and transformation into the Lord’s image as gifts from Him.",
+    "",
+    "The connection shows what the new service is for. God’s saving work does more than remove a former bond; it brings people into a life where the Spirit forms them for His purposes. The fruitfulness of belonging to Christ is part of that wider renewal."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/7.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-seven-review.md"
+  }
+}

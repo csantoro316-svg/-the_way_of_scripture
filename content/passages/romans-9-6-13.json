@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "9:6-13",
+    "label": "Romans 9:6-13",
+    "slug": "romans-9-6-13"
+  },
+  "section_title": "Has God’s promise failed?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 It is not as though God’s word has failed. For not all who are descended from Israel are Israel. 7 Nor because they are Abraham’s descendants are they all his children. On the contrary, “Through Isaac your offspring will be reckoned.” 8 So it is not the children of the flesh who are God’s children, but it is the children of the promise who are regarded as offspring. 9 For this is what the promise stated: “At the appointed time I will return, and Sarah will have a son.”",
+        "10 Not only that, but Rebecca’s children were conceived by one man, our father Isaac. 11 Yet before the twins were born or had done anything good or bad, in order that God’s plan of election might stand, 12 not by works but by Him who calls, she was told, “The older will serve the younger.” 13 So it is written: “Jacob I loved, but Esau I hated.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul denies that God’s word has failed. He distinguishes physical descent from sharing in the promise, beginning with Abraham’s family: the promised line runs through Isaac. He then points to Jacob and Esau, twins whose different roles were announced before either had done good or bad.",
+    "",
+    "The quotations come from different settings. [Genesis 25:19–26](https://biblehub.com/bsb/genesis/25.htm) speaks of two nations arising from Rebekah’s children. [Malachi 1:1–5](https://biblehub.com/bsb/malachi/1.htm) addresses Israel and contrasts God’s treatment of Jacob’s people with judgment on Edom, Esau’s people. Paul brings these family and national histories into his explanation of God’s purpose.",
+    "",
+    "His stated contrast is between works and the One who calls. The promise does not become a debt owed simply because of ancestry or achievement. How this relates to the salvation of particular people is one of the main differences in readings of the chapter."
+  ],
+  "common_interpretation_lines": [
+    "Traditions differ over how far these examples describe the eternal destiny of individuals. Reformed churches following the [Westminster Confession, chapter 3](https://www.opc.org/wcf.html), understand election as God’s free choice of individuals for salvation, by grace rather than foreseen faith or works.",
+    "",
+    "[Wesley’s notes on verses 6–13](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-romans/) emphasize the promised family line and the brothers’ nations. He does not take these examples as declarations of either man’s eternal destiny. The readings differ over what the examples establish about individual election."
+  ],
+  "god_plan_lines": [
+    "The younger child receiving the promised role fits a wider scriptural pattern in which God’s work overturns expected grounds for boasting. In [1 Corinthians 1:26–31](https://biblehub.com/bsb/1_corinthians/1.htm), Paul points to God calling the weak and overlooked, with Christ becoming their righteousness and redemption.",
+    "",
+    "This is a parallel in how God’s grace removes boasting, rather than a claim that every younger sibling has the same calling as Jacob. God’s purpose advances through His gift and calling, beyond the status people would normally prize."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/9.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-nine-review.md"
+  }
+}

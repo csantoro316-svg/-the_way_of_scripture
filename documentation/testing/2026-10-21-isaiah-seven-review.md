@@ -1,0 +1,35 @@
+# Isaiah 7 passage review — 2026-10-21
+
+Three retained groups /25actual BSBverses. Two supported plan sections /one deliberate omission. Three exact open positions; no owner study changed and existing deeper links retained.
+
+## Actually read sources
+
+BaselinePDF entire7lesson66–79read; cumulative1–80readincluding8lesson80begun. Entire actual BSB7mainverses25, actualHenry7expositionparagraphs, actualWesley7expositionparagraphs, USCCB7notes read. Gill7:3,8,9,11–16,18,20–22,24–25 selected29602charactersactuallyread inthreechunks.
+
+Whole BDB5959almah and2030harahentriesread; actual7:14and16interlinearsread. BDB5288pagecontainsobscurefirsthomonymandnotmainboydefinition; cannotuseitforprecisetoddlerageproof. No mainnaar lexicalclaimpublic. Actual2030adjectivepregnant, notinfant;7:14sonben1121not2030. Almahpronunciationcheckedheader, meaningactualBDBnotunsignedTopicalLexicon.
+
+Primarydocumentsactuallyread: officialCCC496–498 at https://www.vatican.va/archive/ENG0015/__P1K.HTM afternewpathHTTPerror; WCF8.1–4especially8.2;1689Baptist8.2;UMCofficialArticlesII andsurroundingviawebopen https://www.umc.org/en/content/articles-of-religion aftershellfetchHTTPerror. No formaldenominationmappingofnearchildidentityclaimedfromthesedocuments. Sharedvirginbirthteachingnotartificiallydivided.
+
+Directactual BSB read:Matt1:18–25;Luke1:26–38,67–75;Matt28:16–20;2Kings16:1–10;2Chr28:16–25;Deut6:16–19;Isa36:1–3. OwnerstudysearchAhaz/Immanuel/7:14/7:10foundnoapplicabledevelopedposition; relatedSignslinknotpositionauthority.
+
+## 7:1–9
+
+Plan section: included, because (c). ThreattoDavidhouseline/promisecarriedforwardLuke1Davidicthrone/holy covenant/salvation.
+Position source: none.
+FLAGGED FOR REVIEW: No precise734BC/firstbattleversussecondreconstruction/boycertaintoddleragegivenwithoutindependentverification.65yeartextpreserved, no baselinethird/fourthyear/14+51exacttimelineasfact:Gillmultiplechronologies,NABREinsertionproposalneitherbecomesBSBrewrite. NameShearjashubetymologyUSCCB/Gillnotstandardlexiconcheckedthisbatchsoomittedpublicwordclaim. No generalfaithstrongenoughproducesanyrequestedoutcome.2Kings16actualAhazappealindependentlysupportscontext; no unseenforethoughtdialogueinvented. CovenantconnectionnotguaranteeallDavidicheirsfaithful.
+
+## 7:10–16
+
+Plan section: included, because (a). Matt1:22–23explicitfulfilledquotation; Godwithus/presenceallnationsmissionMatt28:16–20addswholeGospelpurpose.
+Position source: none.
+FLAGGED FOR REVIEW: Baselineharah=infant is false, actualBDB2030pregnantandinterlinearAdj-fs; no usingthiserrorprovetwodifferentboys. Naarprecisetoddlerclaimnotestablished, BDBusualentrynotpresentonpage, nolexicalagecertainty. AlmahBDByoungwomanmaidornewlymarrieddefinitionpreserved, notGilluniversalvirgin/etymologyhiddenseclusionproof. BSBvirginquoteunalteredwhileexplainingwordrangeandMatthewwhichstatesvirginalconceptionexplicitly. Definitearticle“the”doesnotproveGen3:15earliervirginmention, notadopted. Genesis3:15womanseedalonevirginbirthlexproofnotused. ChildmoraldevelopmentnotproofbysentencealonethatJesusmustalreadyfullyknoweverythingatinfancyorothersallguilty; nochildrenclinicalmoraldiagnosis. Henry/WesShearjashubnearboyreadingattributednotsettledtext; NABREnearhistoricalsignnotCatholicdenialofvirginbirth, CCC497explicitaffirmationchecked. No fabricatednamedmother/sonorHezekiahagecertainty. OfficialconfessionsaffirmJesusbirthnoteverymember'sindividualbeliefuniform. SignfromGodversusuninvitedtestDeut6read, notblanketcommandseekprivatesignalways; SignsrelatedstudydoesnotaddressAhaznoinventedposition. Curds/honeyinfantdietuniversalhistoricalclaimnotindependentlyestablished, notused. Matt28presenceconnectionexactBSBread, noextraunverifiedquote.
+
+## 7:17–25
+
+Plan section: omitted, because none apply beyond the warning already explained without forcedseven-century/numbercode/moderngeopoliticstimetable.
+Position source: none.
+FLAGGED FOR REVIEW: EgyptAssyriabeesfliesimagerynotindependentproofexactsinglebattleinJudahwithdocumentedmarchdirections. No insectnaturalhistoryclaimallAssyriabees/armytinklingbehavior. Razorhumiliationrootedintext/primarycommentatorsandAhaztributeactualBSB, no universalactualcaptiveshavingallbodyhairremovedcustom. BSBlegshairpreserved, noeuphemismclaimwithoutlexicalcheck. Milkfoodafterdisastercontextnotpersonalprosperityguarantee. Exact1000shekelsmodernprice/rentyearconversionunverifiednotused. BaselineHezekiahmetAssyrianenvoysameplacefalse:Isa36:3namedotherofficials; Jerusalemnotcapturedlikeothercities, notstatedinpublic. NoHezekiahdivineinstructionneverrebelhistoricalclaimwithoutsource. Divinejudgmentdoesnotassignfutureethniccollectiveculpabilitycurrentpeople. No sevenhundredyears=sevennumbercode.
+
+## Validation
+
+All directBSB/repository(0errors/364warnings), preservation, coverage153verses through7:25, idempotence, sixmobile renders and physicalNext passed. ExplicitScripture-project Hosting dryrun/deploy exited0; LIVE MATCH7 observedexit0. Prefix /tmp/scripture-isaiah-seven-.

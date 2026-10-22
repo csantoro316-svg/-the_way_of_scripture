@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "11:23-26",
+    "label": "1 Corinthians 11:23-26",
+    "slug": "1-corinthians-11-23-26"
+  },
+  "section_title": "What is the Lord’s Supper meant to proclaim?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "23 For I received from the Lord what I also passed on to you: The Lord Jesus, on the night He was betrayed, took bread, 24 and when He had given thanks, He broke it and said, “This is My body, which is for you; do this in remembrance of Me.” 25 In the same way, after supper He took the cup, saying, “This cup is the new covenant in My blood; do this, as often as you drink it, in remembrance of Me.” 26 For as often as you eat this bread and drink this cup, you proclaim the Lord’s death until He comes."
+      ]
+    }
+  ],
+  "context_lines": [
+    "To correct the Corinthians, Paul returns to what he received from the Lord and passed on to them. He places the meal on the night Jesus was betrayed. The church’s practice is accountable to Jesus’ gift and instruction, not to whichever social habits its members prefer.",
+    "",
+    "Jesus takes bread, gives thanks, and identifies it with His body given for them. He gives the cup in connection with the new covenant in His blood. Both actions are to be repeated in remembrance of Him. The people’s attention is directed toward His self-giving, making their selfish meals especially out of place.",
+    "",
+    "The meal looks backward and forward: it proclaims the Lord’s death until He comes. Remembrance is therefore more than recalling a sad event. The church confesses the significance of His death while awaiting the living Lord’s return.",
+    "",
+    "Paul speaks of eating and drinking repeatedly without setting a calendar in these verses. He gives the meal’s meaning and purpose; this passage alone does not prescribe a weekly, monthly or annual schedule."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the bread and cup as instituted by Jesus to remember and proclaim His saving death while awaiting His return. They differ over how He is present and received in the meal.",
+    "",
+    "The Catholic [Catechism 1374–1377](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_3/v_the_sacramental_sacrifice_thanksgiving_memorial_presence.index.html) teaches that Christ is truly present and the bread and wine become His body and blood. [Luther’s Small Catechism](https://bookofconcord.org/small-catechism/the-sacrament-of-the-altar/) affirms receiving His true body and blood under the bread and wine. Their explanations should not be treated as identical.",
+    "",
+    "The Reformed [Westminster Confession 29.5–7](https://www.opc.org/wcf.html), [1689 Baptist Confession 30.5–7](https://www.the1689confession.com/1689/chapter-30) and [Methodist Article XVIII](https://www.umc.org/en/content/articles-of-religion) describe receiving Christ spiritually through faith rather than a change of the elements into His body and blood. Those documents teach more than simply remembering; they do not represent every individual Protestant interpretation."
+  ],
+  "god_plan_lines": [
+    "[Jeremiah 31:31–34](https://biblehub.com/bsb/jeremiah/31.htm) promises a new covenant with the house of Israel and the house of Judah, marked by God’s law written within, knowing Him, and forgiveness. Jesus explicitly connects the cup with the new covenant in His blood.",
+    "",
+    "[Hebrews 8:6–13](https://biblehub.com/bsb/hebrews/8.htm) quotes Jeremiah’s promise and identifies Jesus as the mediator of the better covenant. Paul’s account of the meal therefore points beyond a gathering’s immediate needs to God’s promised work of bringing people into a forgiven relationship with Himself. Its future horizon remains Christ’s coming."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/11.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-eleven-closing-review.md"
+  }
+}

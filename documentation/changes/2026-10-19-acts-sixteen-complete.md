@@ -1,0 +1,6 @@
+# Acts 16 complete
+
+
+Eighty reviewed pages cover598actualBSBversescontinuouslythrough16:40:80plans/34studypositions/46open.89sources/9unreviewedlegacy. SevenfreshBSBcomparisonsandeighttestspass;zeroerrors293knownwarnings. Canonicalnavigation,source/index/standalone,coverage,preservation,idempotence,390pxreaderandstandalone,actualNextpass. Hostingdryrun/actualdeployexit0;elevenaffectedandninewholechapterlivefilesmatch.
+
+WholebaselinePDFreadthrough259:all16A221–234/16B235–249and17A250–259covers17:1–15;260onwardunread. No17draft. BSB17/Calvin17/USCCB17/Thayer4691/2104fetchednotread(apartfrom24–31priorcross). Existinglegacy17:11/17/23/25. Strongpositions:BereanStandardfor10–15/legacy11;Worshipfor16–21/legacy17and22–34/legacy23/25,readexactsectionsfirst. Plannedopening1–9/10–15/legacy11,thenAthens16–21/22–34pluslegacy17/23/25. NeedprimaryauthorityfairnessifexplainingBereanScripturetesting(Catholic85–87notmagisteriumaboveWord;WCF1.10;MethodistV). BaselineBerea=Thessalonicaconfusionon259,unverifiedroadgeometry/population/professionalhecklers/bondtermsandblanketJewishmotivesnotpublicfacts. Telegramnormalmode;continuewithoutstopping.

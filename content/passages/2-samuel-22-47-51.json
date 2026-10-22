@@ -1,0 +1,68 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "22:47-51",
+    "label": "2 Samuel 22:47-51",
+    "slug": "2-samuel-22-47-51"
+  },
+  "section_title": "Why does David’s praise reach beyond Israel?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "47 The LORD lives, and blessed be my Rock! And may God, the Rock of my salvation, be exalted— 48 the God who avenges me and brings down nations beneath me, 49 who frees me from my enemies. You exalt me above my foes; You rescue me from violent men.",
+        "50 Therefore I will praise You, O LORD, among the nations; I will sing praises to Your name. 51 Great salvation He brings to His king. He shows loving devotion to His anointed, to David and his descendants forever.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The song closes by blessing the living LORD, the Rock who rescues David and gives him victory. David promises to praise Him among the nations.",
+    "",
+    "The final line remembers God’s loving devotion to His anointed king, David, and to his descendants forever. Loving devotion translates hesed, pronounced KHEH-sed. [Brown–Driver–Briggs](https://biblehub.com/hebrew/2617.htm) gives the central meaning as goodness or kindness. Here it describes God’s faithful care for David and his line.",
+    "",
+    "The ending looks back to the promise of an enduring house and kingdom in [2 Samuel 7:12–16](https://biblehub.com/bsb/2_samuel/7.htm). David’s thanksgiving reaches beyond one rescue and one lifetime."
+  ],
+  "common_interpretation_lines": [
+    "[Gill](https://biblehub.com/commentaries/gill/psalms/18.htm), on Psalm 18:49–50, reads the praise as public acknowledgment that David’s victories came from God. He also connects the closing promise to the Messiah descended from David.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/22.htm) similarly understands the song’s ultimate hope as reaching the Redeemer. These readings preserve the thanksgiving of David while looking beyond the limits of his reign."
+  ],
+  "god_plan_lines": [
+    "The New Testament itself takes up this song. In [Romans 15:7–13](https://biblehub.com/bsb/romans/15.htm), Paul quotes its promise of praise among the nations, also found in Psalm 18:49, as part of his explanation that Gentiles glorify God for His mercy.",
+    "",
+    "Paul places that praise alongside God’s faithfulness to His promises and the hope of people from the nations in the Root of Jesse. The movement is wider than conquered nations acknowledging David’s power: people from the nations come to share in praise and hope through Christ.",
+    "",
+    "That is an explicit New Testament connection. David’s song becomes part of Paul’s call for believers to welcome one another and glorify God together."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/22.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-twenty-two-review.md"
+  }
+}

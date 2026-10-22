@@ -5,26 +5,57 @@
     "label": "Judges 2:16-23",
     "slug": "judges-2-16-23"
   },
-  "section_title": "Judges Raised Up",
+  "section_title": "Why does God keep raising deliverers?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "16 Then the LORD raised up judges, who saved them from the hands of those who plundered them.",
-        "17 Israel, however, did not listen to their judges. Instead, they prostituted themselves with other gods and bowed down to them. They quickly turned from the way of their fathers, who had walked in obedience to the LORD\u2019s commandments; they did not do as their fathers had done.",
-        "18 Whenever the LORD raised up a judge for the Israelites, He was with that judge and saved them from the hands of their enemies while the judge was still alive; for the LORD was moved to pity by their groaning under those who oppressed them and afflicted them. 19 But when the judge died, the Israelites became even more corrupt than their fathers, going after other gods to serve them and bow down to them. They would not give up their evil practices and stubborn ways.",
-        "20 So the anger of the LORD burned against Israel, and He said, \u201cBecause this nation has transgressed the covenant I laid down for their fathers and has not heeded My voice, 21 I will no longer drive out before them any of the nations Joshua left when he died. 22 In this way I will test whether Israel will keep the way of the LORD by walking in it as their fathers did.\u201d",
-        "23 That is why the LORD had left those nations in place and had not driven them out immediately by delivering them into the hand of Joshua."
+        "16 Then the LORD raised up judges, who saved them from the hands of those who plundered them. 17 Israel, however, did not listen to their judges. Instead, they prostituted themselves with other gods and bowed down to them. They quickly turned from the way of their fathers, who had walked in obedience to the LORD’s commandments; they did not do as their fathers had done. 18 Whenever the LORD raised up a judge for the Israelites, He was with that judge and saved them from the hands of their enemies while the judge was still alive; for the LORD was moved to pity by their groaning under those who oppressed them and afflicted them. 19 But when the judge died, the Israelites became even more corrupt than their fathers, going after other gods to serve them and bow down to them. They would not give up their evil practices and stubborn ways.",
+        "20 So the anger of the LORD burned against Israel, and He said, “Because this nation has transgressed the covenant I laid down for their fathers and has not heeded My voice, 21 I will no longer drive out before them any of the nations Joshua left when he died. 22 In this way I will test whether Israel will keep the way of the LORD by walking in it as their fathers did.” 23 That is why the LORD had left those nations in place and had not driven them out immediately by delivering them into the hand of Joshua."
       ]
     }
   ],
   "context_lines": [
-    "In **Judges 2**, this section should be read within the flow of the chapter and the larger movement of Judges."
+    "God responds to the people’s distress by raising up judges who save them from their oppressors. The title comes from the Hebrew verb שָׁפַט, *shaphat* (shah-FAHT), meaning to judge or govern. [Brown–Driver–Briggs](https://biblehub.com/hebrew/8199.htm) includes these leaders among its examples. Their work here includes rescuing and guiding the people under God, not only hearing disputes.",
+    "",
+    "The LORD is with each judge and is moved to pity by the people’s groaning. Yet the people do not remain faithful. After a judge dies they return to other gods and become still more corrupt. The rescue is real, but the recurring pattern exposes a deeper problem than military weakness.",
+    "",
+    "The chapter closes with God leaving the remaining nations as a test of whether Israel will walk in His way. This introduces the recurring movement of the book: disobedience, oppression, compassionate deliverance, and renewed unfaithfulness. God’s mercy is present throughout the story, alongside His insistence on the covenant the people have broken."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Judges Raised Up** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Judges 2** remains the first control on meaning."
+    "[Henry](https://biblehub.com/commentaries/mhc/judges/2.htm) reads God as remaining true to both His promises and His warnings. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-judges/) likewise understands the deliverances as real mercy: God changes His dealings with the suffering people and relieves their distress. Neither reading makes the judges’ temporary success the same thing as a permanent change in everyone’s heart."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The New Testament places this period within the story that leads to Jesus. In [Acts 13:16–23](https://biblehub.com/bsb/acts/13.htm), Paul recalls the rescue from Egypt, the land, the judges, and the kings, then announces the Savior brought from David’s descendants as God promised. These temporary deliverances belong to God’s unfolding work of rescue.",
+    "",
+    "[Hebrews 11:32–40](https://biblehub.com/bsb/hebrews/11.htm) also honors faith among figures from Judges, including Gideon, Barak, Samson, and Jephthah, while pointing toward the fuller promise. The next chapter directs believers to fix their eyes on Jesus ([Hebrews 12:1–3](https://biblehub.com/bsb/hebrews/12.htm)). The Bible recognizes what God accomplished through imperfect servants and places the lasting hope in Christ."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/judges/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-judges-two-review.md"
+  }
 }

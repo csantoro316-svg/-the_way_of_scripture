@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "2 Timothy",
+    "citation": "3:6-9",
+    "label": "2 Timothy 3:6-9",
+    "slug": "2-timothy-3-6-9"
+  },
+  "section_title": "How do deceptive teachers exploit people who are vulnerable?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 They are the kind who worm their way into households and captivate vulnerable women who are weighed down with sins and led astray by various passions, 7 who are always learning but never able to come to a knowledge of the truth.",
+        "8 Just as Jannes and Jambres opposed Moses, so also these men oppose the truth. They are depraved in mind and disqualified from the faith. 9 But they will not advance much further. For just like Jannes and Jambres, their folly will be plain to everyone."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul gives a concrete example of the danger: people gain access to households and captivate vulnerable women weighed down by sins and driven by different desires. Repeated exposure to teaching is not bringing them to a settled knowledge of the truth.",
+    "",
+    "This describes the particular women being exploited, rather than declaring every woman unable to learn faithfully. The same letter has already praised the sincere faith of Lois and Eunice and acknowledged Timothy’s childhood instruction.",
+    "",
+    "The opposition is compared with Jannes and Jambres resisting Moses. Paul says that the false teachers’ folly will become plain, just as theirs did. Deception may gain a hearing, but it is not given an unlimited future."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-timothy/), [Calvin](https://biblehub.com/commentaries/calvin/2_timothy/3.htm) and the [USCCB note](https://bible.usccb.org/bible/2timothy/3) associate Jannes and Jambres with the Egyptian magicians who opposed Moses. The Exodus account does not give the magicians these names. The comparison draws attention to resistance against God’s truth and the eventual exposure of that resistance.",
+    "",
+    "Wesley and the USCCB note read the repeated learning as a failure to arrive at the truth, despite an appearance of religious interest. The concern is the hold of deception, not a condemnation of careful learning itself."
+  ],
+  "god_plan_lines": [
+    "The New Testament itself makes the connection with Moses. In [Exodus 7:8–13](https://biblehub.com/bsb/exodus/7.htm), the magicians imitate the sign, but Aaron’s staff swallows theirs. In [Exodus 8:16–19](https://biblehub.com/bsb/exodus/8.htm), they cannot reproduce what God does and acknowledge His power.",
+    "",
+    "Those events belong to God’s work of freeing His people from Egypt. Paul uses the opposition to Moses as a comparison for present resistance to the truth. The parallel points to the limits of that resistance; it does not promise that every teacher’s error will be exposed on a schedule we can set."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_timothy/3.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-timothy-three-review.md"
+  }
+}

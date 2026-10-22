@@ -1,0 +1,62 @@
+# Exodus 30 editorial review
+
+Reviewed2026-10-20,passage-v1. Fiveexistinggroups/38BSBversesretained. Allplans,nopositionoriginated. Plainquestionheadings;originalwordmeaningsverified;baselineunnamedpublicly.
+
+## Sources actually read
+
+- Baseline `content/assets/reference/stephen_armstrong/old-testament/02-exodus.pdf`:whole29–30lesson431–454read,then30:22–38continuationin31lesson455–461readbeforedraft. Cumulative1–463read,including31:1–11/firstcraftcomments462–463;464+unread.31lesson455–476notclaimedfullyread.
+- https://biblehub.com/bsb/exodus/30.htm — all38versesread;fixedcensusfee,annualaltarhornblood,basinlocation/handsfeet,andordinary-manrestrictionpreserved.
+- https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/ — entireXXX9022charactersreadin0–3900/3800–7600/7500–endoverlaps. Allfivegroups'owncommentsread. Mechanicalbasin/censerreconstruction,smell-masking,annualincenseweights,allmissingsecondTempleoil/historyclaimsnotindependentlyverifiedorused.
+- https://biblehub.com/commentaries/calvin/exodus/30.htm —2989–6900incense/atonement;8996–11400census;15404–17800plus17700–19100basin;23114–25500oil;31847–34800incensecompositionactuallyread. Gentilehistory/Davidcensusmotivationandotherhistoricalopinionsnotadopted. HisPsalm131:2citationistypo:actual141:2checkedandcorrectpubliclinkused.
+- https://biblehub.com/hebrew/3724.htm — actualBDBentireI–IVentriesread;I.ransom/priceoflife,explicitEx30:12. Homonymspitch/henna/villagenotcombinedintouniversalcoveringtheology;generatedTopicaldidsoandwasnotused.
+- https://biblehub.com/greek/5547.htm — actualThayerfirst2600charsread,includinganointed/OTuses/MessianictitleandNTbeginning. PubliconlytitleChristmeaning;noEnochdatingorotherlexiconhistoricalclaimsadopted. BDB4886/4899fetchedunreadunused;Gill30fetchedunreadunused.
+
+ActualBSBrangesreadatcorrespondingBibleHubchapterURLs:Rev5:6–10;Rev8:1–5;Luke1:5–17;Matt17:24–27;Eph5:25–27;John13:1–17;1John1:5–10;Ps141:1–4;Acts10:1–8,34–43;Acts8:14–24;Luke3:21–22;Col4:2–6. ReusedactualHeb7:23–28/1Pet1:17–21/1Tim2:1–6readprior24–29batches,withsameBibleHubBSBchapterURLs. Someareguardchecks,notallpublicreferences.
+
+OwnerstudiessearchedforEx30/incense/laver/ransom/anointingoil. Noexistingpassage-specificpositionfound. Worship357ancientquotationand385historicalConstantinetransitionnotverifiedandnotimported;relatedlinksarenotpositionauthorization. Prayer/Baptismstudiesfurtherreadingonly;nonewunbeliever-prayerpolicyoruniversalincensebanoriginated.
+
+## Exodus30:1–10
+
+Plan section: included,because(a)/(c). Luke1incense/prayer/JohnpreparesLord'scoming;Heb7Christintercedespermanentlyfromcompletedoffering.
+Position source: none.
+FLAGGED FOR REVIEW: Altarordinaryincenseservicenotabsolute“neveranythingexceptincense”:annualhornbloodexplicit30:10. NorinvalidproofChristsingleofferingfromthisaltarhavingnoburntofferings;Heb7actuallysupportssingleoffering. NoHighPriestALONEalldailyincenseassertion:Luke1ZechariahdivisionAbijahpriestchosenthatservice. Censers/coalscontinuouslyburning/transferroute/smokespecificmechanicsnotindependentlyverifiedandnotpublic.
+
+FLAGGED FOR REVIEW: VeilnotremovedatAscensionashistoricalevent;actualMatt27deathrendingpreviouslychecked. Incenseisprayerimagery,noliteralmaterialneededtophysicallycarryneedsintoGod'sawareness. ChristuniqueMediatornotabanonprayingforeachother:1Tim2:1–6actuallyincludesboth. NoontologicalabsoluteGodcannothearsinnersoranyonewhodoesnotexplicitlynameJesus:Acts10CorneliusprayersmemorialbeforePeter'smessagechecked;John9:31speakerisnarrativehealedman,notunqualifiedsystematicaxiom. Nooriginalownerpositiononthosequestionssupplied.
+
+## Exodus30:11–16
+
+Plan section: included,because(c). WeslinksMatt17templetax;JesusSonreplyand1Pet1/1Tim2greaterredemptiondevelopwiderbiblicalpurpose,notNTdirectEx30quotation.
+Position source: none.
+FLAGGED FOR REVIEW:20ANDOLDERactual,notonlyabove20excluding20. Equalrichpooramountactual;“modestsoeveryonecouldaffordeasily”unverified,omitted. Firstcensus/eachcensus/annualviewssurveyedbyWes,notnewunanimoushistoricalchronology. Matt17showscollectionandJesus'payment,notspecificdateannualtaxintroduced;noextrabiblicalhistoryasserted.
+
+FLAGGED FOR REVIEW: Kopheractualransom/lifepayment,nounnotassumedetymologicalsincoveringformula. FixedrequirementnotvoluntarysameasEx25;Calvin'sgiftlanguagekeptwithininterpretationnotrenderedoptional. NoautomaticDavidcensusplaguesolelyfailurecollectfeeclaim. MoneydoesnotpurchaseChristiansalvationandprofessionofwordsnotatonementpriceequivalent;noownernewfaith/baptismsequenceorchurchduespolicy. NoallMosaicransomlawappliesasmoderntempletax.
+
+## Exodus30:17–21
+
+Plan section: included,because(c). Eph5ChristcleansesChurch/1John1ongoinglight,confession,forgivenessandcleansingaddsbroaderlife-purpose.
+Position source: none.
+FLAGGED FOR REVIEW: Repeatedhands/feetwashingdistinguishedfromEx29ordinationwashing. Noinventedbasinsize/taps/spouts/requiredwaterflowor“neverputhandinbasin”claim. NoeveryChristianmustperformidenticalbronzeritualorGodkillsmodernpersonfornotwashinghands. Spiritualinterpretationofhands/actionsfeet/walkactuallyCalvin/Wes,notonlyphysicaldirtorautomaticbiologicalwashingofallsin.
+
+FLAGGED FOR REVIEW: Eph5actualwashingwaterthroughwordpresentedwithoutoriginatingdisputedbaptismsacramentalmechanism. 1John1actualconfessioncleansing;nooutsourcingmaintenance/churchservicesuniversallypreventssanctificationrule. John13footwashingreadasguard,butnotusedtosettleauniversalwashingceremony. Furniturecrossdiagramdependsunspecifiedcoordinates,noprovenBiblicalpredictionorpreciseallitemsratioadopted.
+
+## Exodus30:22–33
+
+Plan section: included,because(b)/(c). Christtitlelexverified;Acts10GodanointsJesus/Luke3SonandSpirit;Acts8Godgiftunpurchaseabledevelopsdivinelygivenservice.
+Position source: none.
+FLAGGED FOR REVIEW: SpicesspecificoriginsArabiaIndia/Egyptplunderincludedalltheseingredientsnotindependentlyverifiedandnotpublic. Noexactmodernchemicalspecies/dosageorpracticalmedicalfragranceadvice. OutsiderordinaryuseprohibitionreadwithauthorizedAaronicanointing30:30,notcontradictionorbananointingallhumanbodies. NoallphysicaloileverywhereautomaticallyHolySpiritcoded;NTactualSpiritanointinggiven.
+
+FLAGGED FOR REVIEW: SpiritgiftforservicenotpermissiontodiagnoseallcontemporaryTVministersasfraudsfromthisformulaalone. Acts8actualrebukefortryingbuygiftused,nofinancial/spiritualabusepolicyinvented. “Christ”anointedfromThayer,notanunsupportedtitleetymology. NoGraceunavailablebeforeChristrulefrom31intro;OTgrace/faithandHeb9:15guardstillsubstantive. NooneimposeddispensationchartasGod'splan.
+
+## Exodus30:34–38
+
+Plan section: included,because(a)/(c). Rev5explicitincenseprayers/redeemedkingdompriests;Rev8incenseandprayers/Godactsinhistoryaddsbroaderpurposebeyondrecipe.
+Position source: none.
+FLAGGED FOR REVIEW: Ingredientbotanicalidentities/galbanumsmell/volatileoilsandsaltpreservativefunctionnotindependentlyverified,norepeatedasfact. SaltactualBSBseasoningretainedwithoutuniversalall-salt-holinesscode. Formulaquantity/privateuseprohibitionsactual,notallordinaryincenseorperfumeeverprohibitedmodernChristianity. Cutoffpenaltynotautomaticallyspecifiedstoningmodewhereunsaid.
+
+FLAGGED FOR REVIEW: Wesbeatenincense=bruisedChristillustrationnotexplicitNTprediction;notneededbeyondstrongactualRevconnections. RevelationincensevisionsnotnewproceduretoforceGod'sresponsesordateHisjudgments. Noimplicittimetableoroneeschatologicalsystemimposed. PrayersofsaintsactualBiblicalwording,noforcedrulingondeparted-saintsintercessionoriginatedfromOTrecipe.
+
+## Validation
+
+Completed publication verification on 2026-10-21 local time. Focused generation, all five BibleHub BSB comparisons, repository checks (0 errors / 219 warnings), preservation checks, continuous Exodus coverage audit through 30:38, and repeat-generation idempotence passed. Ten reader/standalone views at 390px passed title, section-count, overflow, and raw-link checks. Actual Next navigation from 30:1–10 to 30:11–16 passed URL/title/focus/visible-heading checks; the recovered verification observed title focus and heading top 188.515625px. Explicit-project Hosting dry run and real deployment both completed with exit 0. Live comparison completed with exit 0: LIVE MATCH 9, covering selected pages, affected neighbors, index and reader.
+
+Cumulative Exodus: 88 reviewed groups / 888 actual BSB verses / 86 supported plan sections / 7 existing-study positions / 81 open positions. Existing intentional plan omissions remain; global reviewed intentional omissions 53. Audit artifacts: /tmp/scripture-exodus-thirty-. Writer has executed; do not rerun it. Source review was dated October 20; publication completed after local midnight.

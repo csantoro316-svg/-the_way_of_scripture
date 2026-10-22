@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "2:14-21",
+    "label": "Acts 2:14-21",
+    "slug": "acts-2-14-21"
+  },
+  "section_title": "Why does Peter turn to the prophet Joel?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 Then Peter stood up with the Eleven, lifted up his voice, and addressed the crowd: “Men of Judea and all who dwell in Jerusalem, let this be known to you, and listen carefully to my words. 15 These men are not drunk, as you suppose. It is only the third hour of the day! 16 No, this is what was spoken by the prophet Joel:",
+        "17 ‘In the last days, God says, I will pour out My Spirit on all people. Your sons and daughters will prophesy, your young men will see visions, your old men will dream dreams. 18 Even on My menservants and maidservants I will pour out My Spirit in those days, and they will prophesy. 19 I will show wonders in the heavens above and signs on the earth below, blood and fire and billows of smoke. 20 The sun will be turned to darkness, and the moon to blood, before the coming of the great and glorious Day of the Lord. 21 And everyone who calls on the name of the Lord will be saved.’"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Peter stands with the eleven and answers the crowd’s accusation of drunkenness. It is only the third hour of the day. His main explanation comes from Scripture: what they are seeing is connected with the Spirit’s promised outpouring in Joel.",
+    "",
+    "The quotation names sons and daughters, young and old, male and female servants. The gift is not described as the preserve of one age, sex or social rank. It also speaks of signs before the Day of the Lord and ends with the promise of salvation for everyone who calls on His name.",
+    "",
+    "The quotation reaches beyond the immediate sound and languages that drew the crowd. Peter places the event within God’s promises and prepares his listeners for the announcement of Jesus as Lord in the rest of the sermon."
+  ],
+  "common_interpretation_lines": [
+    "Christians agree that Peter uses Joel to explain the work of God’s Spirit. Commentators differ over how much of Joel’s prophecy is being fulfilled at Pentecost and how the remaining signs relate to later events.",
+    "",
+    "[Calvin’s discussion of verses 14–17](https://biblehub.com/commentaries/calvin/acts/2.htm) understands the Spirit’s outpouring as evidence that the Messiah has come and that the promised renewal has begun. [Wesley on verse 17](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) likewise understands the last days as the time of the Messiah, while his notes on verses 19–20 connect the signs with judgments reaching beyond that morning.",
+    "",
+    "[Thomas Constable’s notes on verses 16–21](https://soniclight.com/tcon/notes/html/acts/acts.htm) give a different explanation. He understands Peter as pointing to a similar work of the Spirit, with Joel’s complete fulfillment still associated with a future outpouring on Israel. These are the commentators’ own readings. Neither the signs nor the words about the last days should be silently dropped when considering the whole quotation."
+  ],
+  "god_plan_lines": [
+    "The closing promise connects this event with God’s purpose to bring salvation beyond one people. [Romans 10:9–13](https://biblehub.com/bsb/romans/10.htm) also uses Joel’s promise while explaining that the same Lord is Lord of Jew and Greek. Peter’s sermon begins in Jerusalem, and the wider New Testament shows the invitation extending to all who call on the Lord."
+  ],
+  "current_position_lines": [
+    "Should We Seek Signs From God? specifically recognizes Peter’s use of Joel as a passage Christians cite when discussing dreams and visions today. That study leaves the broader question open while insisting that claims of divine communication must be tested. This passage should not be used to treat every dream, impression or secondhand report as a message from God."
+  ],
+  "deeper_study": [
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-acts-two-closing-review.md",
+    "position_source_detail": "Should We Seek Signs From God? — Dreams and Visions, paragraph114 explicitly discussing Peter/Joel/Acts2; narrow testing principle, not a verdict on continuation."
+  }
+}

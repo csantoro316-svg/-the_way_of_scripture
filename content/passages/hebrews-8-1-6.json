@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "8:1-6",
+    "label": "Hebrews 8:1-6",
+    "slug": "hebrews-8-1-6"
+  },
+  "section_title": "Where does Jesus serve as our high priest?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 The point of what we are saying is this: We do have such a high priest, who sat down at the right hand of the throne of the Majesty in heaven, 2 and who ministers in the sanctuary and true tabernacle set up by the Lord, not by man.",
+        "3 And since every high priest is appointed to offer both gifts and sacrifices, it was necessary for this One also to have something to offer. 4 Now if He were on earth, He would not be a priest, since there are already priests who offer gifts according to the law. 5 The place where they serve is a copy and shadow of what is in heaven. This is why Moses was warned when he was about to build the tabernacle: “See to it that you make everything according to the pattern shown you on the mountain.” 6 Now, however, Jesus has received a much more excellent ministry, just as the covenant He mediates is better and is founded on better promises."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The writer brings the discussion of Christ’s priesthood to its main point: we have a high priest who is seated beside God and serves in the sanctuary God established. Jesus’ ministry reaches beyond the earthly priesthood described in the law of Moses.",
+    "",
+    "The tabernacle was the sanctuary Israel was instructed to build in the wilderness. Its priests, gifts and sacrifices belonged to the covenant given through Moses. Jesus came from Judah rather than Aaron’s priestly family, as chapter 7 has explained, so He did not hold that earthly office.",
+    "",
+    "The earthly sanctuary was a copy and shadow of what is in heaven. That does not make it a mistake or a human invention. [Exodus 25:8–9, 40](https://biblehub.com/bsb/exodus/25.htm) records God’s command to build it according to the pattern He showed Moses. It had a purpose that pointed beyond itself.",
+    "",
+    "Jesus serves under a better covenant, founded on better promises. A covenant is a binding relationship with commitments; here God’s promises stand at the center. Jesus mediates it: He brings people into that relationship with God. The following verses explain what makes its promises better."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/8.htm), [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) and the [USCCB notes](https://bible.usccb.org/bible/hebrews/8) understand the earthly sanctuary as pointing beyond itself to Christ’s greater ministry. The comparison does not deny that Jesus lived and died on earth; it explains why His priestly work cannot be confined to the earthly sanctuary.",
+    "",
+    "There is a difference in how they explain the true tabernacle. Calvin and the USCCB notes emphasize the heavenly sanctuary. Wesley identifies the sanctuary with heaven but tentatively suggests that the true tabernacle may refer to Christ’s humanity. Wesley presents that suggestion as a possibility, rather than a settled description of heaven’s layout."
+  ],
+  "god_plan_lines": [
+    "The sanctuary connects with a larger biblical theme: God making His home with His people. [Ephesians 2:19–22](https://biblehub.com/bsb/ephesians/2.htm) describes believers joined together in Christ as a dwelling for God through the Spirit. That is a related picture, rather than a claim that this passage calls the church the heavenly tabernacle.",
+    "",
+    "[Revelation 21:1–5, 22–27](https://biblehub.com/bsb/revelation/21.htm) carries the theme to its completion: God lives with His people, and the Lord God and the Lamb are the city’s temple. Hebrews directs hope toward the living Christ who brings people to God, while these passages show the community and lasting fellowship His work makes possible."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/8.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-eight-review.md"
+  }
+}

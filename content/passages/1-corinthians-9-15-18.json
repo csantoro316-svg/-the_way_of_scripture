@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "9:15-18",
+    "label": "1 Corinthians 9:15-18",
+    "slug": "1-corinthians-9-15-18"
+  },
+  "section_title": "What does Paul value about offering the gospel without charge?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 But I have not used any of these rights. And I am not writing this to suggest that something be done for me. Indeed, I would rather die than let anyone nullify my boast. 16 Yet when I preach the gospel, I have no reason to boast, because I am obligated to preach. Woe to me if I do not preach the gospel! 17 If my preaching is voluntary, I have a reward. But if it is not voluntary, I am still entrusted with a responsibility. 18 What then is my reward? That in preaching the gospel I may offer it free of charge, and so not use up my rights in preaching it."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul makes clear that explaining his rights is not a request to start paying him. He wants to preserve the freedom to offer the gospel without charge, and speaks strongly about the value he places on doing so.",
+    "",
+    "He cannot treat preaching itself as a special favor he has chosen to do for God. A responsibility has been entrusted to him, and he is obligated to carry it out. His question about reward leads to the particular choice he can make within that responsibility: preaching without using his full right to support.",
+    "",
+    "This continues the chapter’s distinction between holding a right and choosing to exercise it. Paul is explaining his own service among the Corinthians. The explanation does not withdraw the right to support he has just defended for those who preach."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read these verses as explaining Paul’s personal choice to offer the gospel without charge. [Wesley’s note on verse 17](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) recognizes that another preacher could serve willingly while receiving support; [Calvin’s comment](https://biblehub.com/commentaries/calvin/1_corinthians/9.htm) emphasizes Paul’s readiness to do what benefits the church rather than serving grudgingly."
+  ],
+  "god_plan_lines": [
+    "In [Matthew 10:7–10](https://biblehub.com/bsb/matthew/10.htm), Jesus sends His disciples to announce the kingdom, give freely from what they have received, and receive provision as workers. Generosity and practical support belong together in that mission.",
+    "",
+    "This is a connection in the purpose of service, rather than a requirement that every worker make exactly Paul’s financial choice. God’s gift is to reach people through servants who give themselves to His work. Paul’s decision removes a possible obstacle to that message among the people he serves."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/9.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-nine-closing-review.md"
+  }
+}

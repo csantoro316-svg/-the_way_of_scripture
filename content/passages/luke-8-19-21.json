@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "8:19-21",
+    "label": "Luke 8:19-21",
+    "slug": "luke-8-19-21"
+  },
+  "section_title": "Who does Jesus call His family?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "19 Then Jesus’ mother and brothers came to see Him, but they were unable to reach Him because of the crowd. 20 He was told, “Your mother and brothers are standing outside, wanting to see You.” 21 But He replied, “My mother and brothers are those who hear the word of God and carry it out.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus’ mother and brothers come to see Him but cannot reach Him because of the crowd. Someone tells Him they are standing outside and want to see Him.",
+    "",
+    "His answer describes His family as those who hear God’s word and carry it out. It gathers up the theme of the preceding scenes: hearing becomes a continuing response that shapes life.",
+    "",
+    "Luke has already shown Mary receiving God’s message and accepting the part entrusted to her. Jesus’ saying therefore gives a description of belonging that readers have already seen her live out. It places receiving and doing God’s word at the center of the family He is gathering. ([Luke 1:38](https://biblehub.com/bsb/luke/1.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the central saying as describing a family joined through response to God. They differ over the relationship of the brothers standing outside.",
+    "",
+    "The Catholic Church teaches that Mary remained a virgin and understands these brothers as close relatives. The Orthodox Church in America presents the tradition that they are Joseph’s children from an earlier marriage. An Orthodox Presbyterian Church answer instead reads them as children born to Mary and Joseph after Jesus, and thus His half-brothers. That church answer represents one Protestant reading, not every Protestant interpreter. ([Catechism 499–500](https://www.vatican.va/archive/ENG0015/__P1K.HTM); [OCA account of Joseph](https://www.oca.org/saints/all-lives/2013/12/29); [OPC answer on Jesus’ brothers](https://opc.org/qa.html?question_id=19))",
+    "",
+    "These different accounts of the family relationship leave the stated invitation clear: Jesus includes those who hear God’s word and live by it."
+  ],
+  "god_plan_lines": [
+    "John’s Gospel describes those who receive Christ and believe in His name as given the right to become God’s children. Their birth into that family comes from God. This is a related explanation of the larger belonging Jesus announces here. ([John 1:10–13](https://biblehub.com/bsb/john/1.htm))",
+    "",
+    "Paul describes the Spirit’s work in God’s children through adoption, calling God Father and sharing the inheritance with Christ. The family Jesus gathers reaches beyond the relatives seeking Him at this moment into that wider life with the Father. ([Romans 8:14–17](https://biblehub.com/bsb/romans/8.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/8.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-eight-opening-review.md"
+  }
+}

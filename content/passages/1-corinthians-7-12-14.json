@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "7:12-14",
+    "label": "1 Corinthians 7:12-14",
+    "slug": "1-corinthians-7-12-14"
+  },
+  "section_title": "Does a difference in faith make an existing marriage unholy?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "12 To the rest I say this (I, not the Lord): If a brother has an unbelieving wife and she is willing to live with him, he must not divorce her. 13 And if a woman has an unbelieving husband and he is willing to live with her, she must not divorce him. 14 For the unbelieving husband is sanctified through his believing wife, and the unbelieving wife is sanctified through her believing husband. Otherwise your children would be unclean, but now they are holy."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul now addresses a marriage in which one spouse believes and the other does not. If the unbelieving spouse is willing to continue living together, the believer must not end the marriage because of that difference.",
+    "",
+    "His words I, not the Lord distinguish this situation from the teaching of Jesus he has just recalled. Paul is giving direction for a question the church now faces, rather than dismissing his own instruction as unimportant.",
+    "",
+    "The language of being sanctified and holy answers concern about the household’s standing. Paul still calls the spouse unbelieving, so he is not saying the marriage automatically gives that person faith or salvation. The believer need not treat the marriage or its children as defiled simply because only one spouse has come to Christ."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a reason to preserve an existing marriage with a willing unbelieving spouse. They differ over the holiness of the children and how it relates to baptism.",
+    "",
+    "[Calvin’s comment on verse 14](https://biblehub.com/commentaries/calvin/1_corinthians/7.htm) connects their holiness with the blessing of God’s covenant and supports giving them baptism. The Reformed [Westminster Confession 28.4–5](https://www.opc.org/wcf.html) calls for baptism of infants with one or both parents believing, while denying that everyone baptized is necessarily born anew.",
+    "",
+    "The Baptist [1689 Confession 29.2](https://www.the1689confession.com/1689/chapter-29) limits baptism to those who profess repentance, faith and obedience to Christ. Baptist commentator [John Gill’s note on verse 14](https://biblehub.com/commentaries/gill/1_corinthians/7.htm) reads the holiness language here as affirming the marriage and the children’s legitimacy, rather than establishing infant baptism. That is his explanation of the verse, not a single interpretation required of every Baptist."
+  ],
+  "god_plan_lines": [
+    "[1 Peter 3:1–6](https://biblehub.com/bsb/1_peter/3.htm) also addresses wives whose husbands do not believe the word. It describes how reverent conduct and a gentle spirit can bear witness within a household.",
+    "",
+    "This connection shows a purpose beyond simply keeping a marriage intact. Faith can become visible through daily life among people close to the believer. It gives reason for hope without making one person responsible for producing another person’s faith or promising that every spouse will be converted."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/7.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-seven-middle-review.md"
+  }
+}

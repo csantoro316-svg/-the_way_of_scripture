@@ -1,0 +1,7 @@
+# Luke12:13–34 published
+
+Three groups cover the rich fool, daily trust and generous use of possessions. Greek greed explained plainly; Scripture connections include uncertain tomorrow, generosity toward future life, provision through believers sharing and Christ’s own giving. Prayer and Faith supplies only the developed Matthew6parallel position for22–31. Other positions remain open.
+
+Luke84reviewedgroups/all600BSBverses through12:34;88sources/fourlegacyunreviewed;84plans/ninestudypositions/75open. Evidence [wealth review](../testing/2026-10-19-luke-twelve-wealth-review.md). ExactBSB/eighttests/0errors348warnings/preservation/coverage/nav/idempotence/390pxreader+standalone/actualNext/Hosting/sevenlivebytespassed. Nooutstandingdeployment.
+
+Continue12:35–59. EntirePDFthrough587read;12C560–572 and12D573–585complete;13A586–587partial,588onwardunread. No nextdrafts. Proposed35–40/41–48/49–53/54–59, allpositionsnone absent exact study authority. Actual BSB whole12 andJohn13:3–5,12–17;Luke22:24–30;1Pet5:1–4;James3:1–2;Mic7:5–7;Rom5:1–2;Eph2:13–18;Heb3:12–15;2Cor6:1–2read. WesleyXII35–59read,USCCB12fullnotesread,Calvin12:49–50read. WCF17needs exactparagraphread after heading lookup failure;methodistprimaryfetchHTTPfailed. No source supports forcing exact imminent rapture timeline, every-night-watch mapping, unequal-blows-specific heavenlydiscipline schedule or Jesus’ fire only physicalearthdestruction.

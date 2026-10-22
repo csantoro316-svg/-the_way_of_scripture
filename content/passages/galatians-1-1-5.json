@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Galatians",
+    "citation": "1:1-5",
+    "label": "Galatians 1:1-5",
+    "slug": "galatians-1-1-5"
+  },
+  "section_title": "What does Paul put at the center of his greeting?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Paul, an apostle—sent not from men nor by man, but by Jesus Christ and God the Father, who raised Him from the dead— 2 and all the brothers with me, To the churches of Galatia:",
+        "3 Grace and peace to you from God our Father and the Lord Jesus Christ, 4 who gave Himself for our sins to rescue us from the present evil age, according to the will of our God and Father, 5 to whom be glory forever and ever. Amen."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul writes to the churches of Galatia with his authority and message already in view. He identifies himself as an apostle sent through Jesus Christ and God the Father, who raised Jesus from the dead. The brothers with him are included in the greeting.",
+    "",
+    "He asks for grace and peace from God the Father and the Lord Jesus Christ. He then explains Christ’s self-giving: Jesus gave Himself for our sins to rescue us from the present evil age, according to the Father’s will.",
+    "",
+    "These opening words establish what matters in the dispute that follows. Paul’s message concerns God’s gracious action through Christ, and his commission comes from the same Lord. The greeting ends by giving God glory."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read the greeting as a summary of Paul’s commission and Christ’s saving self-giving. [Wesley’s notes on verses 1–5](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-galatians/) and the [USCCB notes on verses 1–4](https://bible.usccb.org/bible/galatians/1) both connect the opening with the authority and message Paul will defend."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 1:7–10](https://biblehub.com/bsb/ephesians/1.htm) joins redemption and forgiveness through Christ with God’s purpose to bring things in heaven and on earth together in Him.",
+    "",
+    "That gives the rescue named here a wider setting. Christ’s giving Himself for our sins belongs to the Father’s saving purpose, which reaches toward the fullness of all He will accomplish through His Son."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/galatians/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-galatians-one-review.md"
+  }
+}

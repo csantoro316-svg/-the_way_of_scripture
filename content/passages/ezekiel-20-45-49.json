@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "20:45-49",
+    "label": "Ezekiel 20:45-49",
+    "slug": "ezekiel-20-45-49"
+  },
+  "section_title": "Why does Ezekiel speak of an unquenchable forest fire?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "45 Now the word of the LORD came to me, saying, 46 “Son of man, set your face toward the south, preach against it, and prophesy against the forest of the Negev. 47 Say to the forest of the Negev: Hear the word of the LORD! This is what the Lord GOD says: I am about to ignite in you a fire, and it will devour all your trees, both green and dry. The blazing flame will not be quenched, and by it every face from south to north will be scorched. 48 Then all people will see that I, the LORD, have kindled it; it will not be quenched.” 49 Then I said, “Ah, Lord GOD, they are saying of me, ‘Is he not just telling parables?’”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "A new word directs Ezekiel to prophesy against the southern forest of the Negev. The Lord will ignite a fire that consumes green and dry trees alike, scorching the land from south to north.",
+    "",
+    "The fire cannot be quenched, and all people will recognize that the Lord kindled it. The image announces a judgment whose reach and outcome cannot be controlled by the people facing it.",
+    "",
+    "Ezekiel then reports the response he receives: people dismiss him as someone telling parables. The picture has not led them to take the warning seriously.",
+    "",
+    "The following chapter names Jerusalem, its sanctuaries and the land of Israel as the objects of the warning. The forest picture prepares for that more direct explanation."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezekiel/20.htm) and [Wesley](https://biblehub.com/commentaries/wes/ezekiel/20.htm) understand the forest as the people of Judah and Jerusalem. Wesley takes the green and dry trees as showing that the disaster reaches different conditions and ranks of people.",
+    "",
+    "Henry emphasizes the refusal behind the complaint about parables. The problem is not solved by treating the warning as an interesting story. The Lord’s next words make its application more direct."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/20.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-twenty-review.md"
+  }
+}

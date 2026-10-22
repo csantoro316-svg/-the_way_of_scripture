@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "4:43-54",
+    "label": "John 4:43-54",
+    "slug": "john-4-43-54"
+  },
+  "section_title": "Can the official trust Jesus before seeing the result?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "43 After two days, Jesus left for Galilee. 44 Now He Himself had testified that a prophet has no honor in his own hometown. 45 Yet when He arrived, the Galileans welcomed Him. They had seen all the great things He had done in Jerusalem at the feast, for they had gone there as well. 46 So once again He came to Cana in Galilee, where He had turned the water into wine. And there was a royal official whose son lay sick at Capernaum. 47 When he heard that Jesus had come from Judea to Galilee, he went and begged Him to come down and heal his son, who was about to die. 48 Jesus said to him, “Unless you people see signs and wonders, you will never believe.”",
+        "49 “Sir,” the official said, “come down before my child dies.” 50 “Go,” said Jesus. “Your son will live.” The man took Jesus at His word and departed. 51 And while he was still on the way, his servants met him with the news that his boy was alive. 52 So he inquired as to the hour when his son had recovered, and they told him, “The fever left him yesterday at the seventh hour.” 53 Then the father realized that this was the very hour in which Jesus had told him, “Your son will live.” And he and all his household believed. 54 This was now the second sign that Jesus performed after coming from Judea into Galilee."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus returns to Galilee after two days in Samaria. The Gospel recalls His saying about a prophet lacking honor in his hometown, then tells how the Galileans welcome Him because they have seen His works in Jerusalem. He comes again to Cana, where He had turned water into wine.",
+    "",
+    "A royal official whose son is near death in Capernaum begs Jesus to come and heal him. Jesus speaks about people needing signs and wonders before believing. The father presses his request, and Jesus tells him to go because his son will live. The man takes Him at His word and leaves.",
+    "",
+    "On the way, his servants report the recovery. The father learns that the fever left at the same hour Jesus spoke, and he and his household believe. The Gospel calls this the second sign after Jesus’ return from Judea, linking it with the earlier sign at Cana. It has also mentioned other signs in Jerusalem, so this is not a claim that Jesus has performed only two miracles in total. ([John 2:23](https://biblehub.com/bsb/john/2.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand this as Jesus giving life through His word across a distance, and the father responding in trust before receiving confirmation. Calvin emphasizes Jesus’ patience with the man’s growing faith, while Wesley notes how examining the timing strengthens faith; neither point makes the father’s initial need for help a reason to withhold mercy. ([Calvin on John 4:50](https://biblehub.com/commentaries/calvin/john/4.htm); [Wesley on John 4:52](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/))"
+  ],
+  "god_plan_lines": [
+    "The healing prepares for the Gospel’s wider account of the Son giving life. In the next chapter Jesus speaks of those who hear His word passing from death to life, and of the dead hearing His voice and rising. The child’s recovery is a sign alongside that greater promise of life through the Son. ([John 5:24–29](https://biblehub.com/bsb/john/5.htm))",
+    "",
+    "The Gospel later states why its signs are recorded: so that readers may believe Jesus is the Christ, the Son of God, and have life in His name. This sign serves that purpose. Its place in the story gives grounds for trusting Him without turning one child’s recovery into a promise that every illness will be healed immediately. ([John 20:30–31](https://biblehub.com/bsb/john/20.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/4.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-four-closing-review.md"
+  }
+}

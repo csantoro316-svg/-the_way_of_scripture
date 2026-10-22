@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "9:36-43",
+    "label": "Acts 9:36-43",
+    "slug": "acts-9-36-43"
+  },
+  "section_title": "What does Tabitha’s return to life show?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "36 In Joppa there was a disciple named Tabitha (which is translated as Dorcas), who was always occupied with works of kindness and charity. 37 At that time, however, she became sick and died, and her body was washed and placed in an upper room. 38 Since Lydda was near Joppa, the disciples, hearing that Peter was there, sent two men to urge him, “Come to us without delay.” 39 So Peter got up and went with them. On his arrival, they took him to the upper room. All the widows stood around him, weeping and showing him the tunics and other clothing that Dorcas had made while she was still with them.",
+        "40 Then Peter sent them all out of the room. He knelt down and prayed, and turning toward her body, he said, “Tabitha, get up!” She opened her eyes, and seeing Peter, she sat up. 41 Peter took her by the hand and helped her up. Then he called the saints and widows and presented her to them alive. 42 This became known all over Joppa, and many people believed in the Lord. 43 And Peter stayed for several days in Joppa with a tanner named Simon."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Tabitha is a disciple in Joppa known for kindness and help for others. Luke gives Dorcas as the translation of her name. The Greek name **Δορκάς** (*Dorkas*, dor-KAHS) means gazelle; [Thayer’s entry](https://biblehub.com/greek/1393.htm) explains the name. Her work has a personal effect: the widows show Peter clothing she made while she was with them.",
+    "",
+    "She becomes sick and dies. Her body is washed and placed in an upstairs room, and the disciples urgently send for Peter in nearby Lydda. Luke reports the request without telling us everything they expect him to do.",
+    "",
+    "Peter sends the others out, kneels and prays. Then he tells Tabitha to get up. She opens her eyes, sits up and is presented alive to the believers and widows. News spreads through Joppa, and many believe in the Lord. Peter remains with Simon, a tanner, setting the location for the next account."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a real restoration to life through God’s power, with Peter’s prayer showing his dependence on God. Tabitha’s kindness and the community’s grief are part of the account, but Luke does not say that good works earned her return to life."
+  ],
+  "god_plan_lines": [
+    "The scene has clear biblical parallels. In [Mark 5:35–43](https://biblehub.com/bsb/mark/5.htm), Peter is present when Jesus raises Jairus’s daughter. Here he again encounters a grieving household and a command to rise. The important distinction remains: Peter kneels in prayer; he is serving the Lord whose power restores life.",
+    "",
+    "[1 Kings 17:17–24](https://biblehub.com/bsb/1_kings/17.htm) provides another parallel: Elijah prays, a dead child lives and the restored child is returned to a grieving person. These are comparisons Scripture supports, not predictions that every detail in one scene must match another. In Acts, the result is that many people in Joppa believe in the Lord."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/9.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-nine-review.md"
+  }
+}

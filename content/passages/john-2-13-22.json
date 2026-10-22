@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "2:13-22",
+    "label": "John 2:13-22",
+    "slug": "john-2-13-22"
+  },
+  "section_title": "Why does Jesus speak of His body as the temple?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 When the Jewish Passover was near, Jesus went up to Jerusalem. 14 In the temple courts He found men selling cattle, sheep, and doves, and money changers seated at their tables. 15 So He made a whip out of cords and drove all from the temple courts, both sheep and cattle. He poured out the coins of the money changers and overturned their tables. 16 To those selling doves He said, “Get these out of here! How dare you turn My Father’s house into a marketplace!” 17 His disciples remembered that it is written: “Zeal for Your house will consume Me.”",
+        "18 On account of this, the Jews demanded, “What sign can You show us to prove Your authority to do these things?” 19 Jesus answered, “Destroy this temple, and in three days I will raise it up again.” 20 “This temple took forty-six years to build,” the Jews replied, “and You are going to raise it up in three days?” 21 But Jesus was speaking about the temple of His body. 22 After He was raised from the dead, His disciples remembered that He had said this. Then they believed the Scripture and the word that Jesus had spoken."
+      ]
+    }
+  ],
+  "context_lines": [
+    "At Passover Jesus goes to Jerusalem and finds sellers of cattle, sheep and doves, along with money changers, in the temple courts. With a whip of cords He drives out the sheep and cattle, pours out the coins and overturns the tables. He tells the dove sellers to remove their goods and stop turning His Father’s house into a marketplace.",
+    "",
+    "His disciples remember the words of Psalm 69 about zeal for God’s house. The people challenging His authority ask for a sign. Jesus answers that if they destroy this temple, He will raise it up in three days. ([Psalm 69:6–9](https://biblehub.com/bsb/psalms/69.htm))",
+    "",
+    "They understand Him to mean the building and point to its forty-six years of construction. The Gospel explains that He means His own body. After His resurrection, His disciples remember His words and believe the Scripture and what He had said."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand Jesus as acting out of devotion to His Father’s house, with the saying about His body pointing toward His death and resurrection. The Catholic Catechism and Wesley’s notes reflect that central reading. ([Catechism §§584–586](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/article_4/paragraph_1_jesus_and_israel.html); [Wesley on John 2:19–22](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/))"
+  ],
+  "god_plan_lines": [
+    "The psalm remembered by the disciples joins zeal for God’s house with the suffering of someone who bears reproach for God’s sake. Paul applies the same verse’s language about bearing insults to Christ. Jesus’ devotion to the Father belongs within the wider scriptural pattern of the faithful sufferer who bears the cost of His mission. ([Psalm 69:6–9](https://biblehub.com/bsb/psalms/69.htm); [Romans 15:3](https://biblehub.com/bsb/romans/15.htm))",
+    "",
+    "The temple theme also reaches forward into the people Christ brings near to God. Ephesians describes Jews and Gentiles reconciled through the cross, with access to the Father by one Spirit, becoming a holy temple and God’s dwelling. Paul likewise calls the gathered believers God’s temple because His Spirit lives in them. These passages connect Jesus’ saving work with God making His home among a people He has brought together. ([Ephesians 2:13–22](https://biblehub.com/bsb/ephesians/2.htm); [1 Corinthians 3:16–17](https://biblehub.com/bsb/1_corinthians/3.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/2.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-two-review.md"
+  }
+}

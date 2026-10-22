@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "11:25-27",
+    "label": "Romans 11:25-27",
+    "slug": "romans-11-25-27"
+  },
+  "section_title": "What does Paul mean by all Israel being saved?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "25 I do not want you to be ignorant of this mystery, brothers, so that you will not be conceited: A hardening in part has come to Israel, until the full number of the Gentiles has come in. 26 And so all Israel will be saved, as it is written: “The Deliverer will come from Zion; He will remove godlessness from Jacob. 27 And this is My covenant with them when I take away their sins.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul explains a mystery so that Gentile believers will not become conceited. Israel’s hardening is in part, and he relates it to the full number of the Gentiles coming in. He then says that all Israel will be saved.",
+    "",
+    "His scriptural explanation focuses on a Deliverer, the removal of godlessness from Jacob, and God taking away sins in keeping with His covenant. The promised rescue concerns God’s work of deliverance and forgiveness. The verses do not provide a date or a complete schedule for future events."
+  ],
+  "common_interpretation_lines": [
+    "Christians differ over who all Israel includes and how this salvation unfolds. [Wesley’s note on verse 26](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-romans/) anticipates Israel’s coming to faith. The Catholic Church’s [Catechism 674](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/article_7/from_thence_he_will_come_agaln_to_judge_the_living_and_the_dead.html) also connects the full inclusion of the Jews in the Messiah’s salvation with Christ’s return.",
+    "",
+    "Dispensational teaching, represented by [Dallas Theological Seminary’s doctrinal statement, Article XX](https://www.dts.edu/about/doctrinal-statement/), places Israel’s restoration to its land and the fulfillment of its covenant promises within Christ’s future reign on earth. The statement itself cites Romans 11:25–27. That fuller timeline is a particular theological reading, rather than detail spelled out in these three verses.",
+    "",
+    "[Calvin’s comment on verse 26](https://biblehub.com/commentaries/calvin/romans/11.htm) understands all Israel as the completed people of God gathered from Jews and Gentiles, while also expecting Jewish people to return to faith. Reformed interpreters are not all bound to this particular explanation. These readings share confidence in God’s saving faithfulness but differ over the expression’s scope and the events it describes."
+  ],
+  "god_plan_lines": [
+    "Paul explicitly draws on [Isaiah 59:15–21](https://biblehub.com/bsb/isaiah/59.htm) and the removal of Jacob’s sin described in [Isaiah 27:6–9](https://biblehub.com/bsb/isaiah/27.htm). In Isaiah 59, God acts to bring salvation when no human rescuer is found, and His covenant promise includes His Spirit and word.",
+    "",
+    "The connection directs attention to the Deliverer’s work: dealing with godlessness and taking away sin. Whatever timeline a reader adopts, Paul explains the promised salvation through God’s covenant faithfulness and cleansing, rather than ancestry saving people apart from His action."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/11.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-eleven-review.md"
+  }
+}

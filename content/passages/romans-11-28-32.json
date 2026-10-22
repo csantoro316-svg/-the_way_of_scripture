@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "11:28-32",
+    "label": "Romans 11:28-32",
+    "slug": "romans-11-28-32"
+  },
+  "section_title": "How do disobedience and mercy meet in God’s purpose?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "28 Regarding the gospel, they are enemies on your account; but regarding election, they are loved on account of the patriarchs. 29 For God’s gifts and His call are irrevocable.",
+        "30 Just as you who formerly disobeyed God have now received mercy through their disobedience, 31 so they too have now disobeyed, in order that they too may now receive mercy through the mercy shown to you. 32 For God has consigned everyone to disobedience so that He may have mercy on everyone."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul describes Israel from two perspectives: opposition in relation to the gospel, yet being loved in relation to election on account of the patriarchs. God’s gifts and call are irrevocable. The history of promise remains important to understanding the present.",
+    "",
+    "He then places Gentiles and Israel beside one another in disobedience and mercy. Gentile believers formerly disobeyed and have now received mercy; Israel’s disobedience is also set within the prospect of mercy. Neither group has a ground for treating itself as morally self-sufficient.",
+    "",
+    "The concluding statement brings everyone under disobedience and points toward mercy for everyone. Paul moves toward praise of God’s wisdom, rather than giving either group a basis for superiority."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as an affirmation of God’s faithfulness and the shared need of Jews and Gentiles for mercy. The Catholic Church’s [Nostra Aetate, section 4](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html), draws on this chapter in refusing to present Jewish people as rejected or cursed by God.",
+    "",
+    "Christians differ over the final reach of mercy. [Calvin’s comment on verse 32](https://biblehub.com/commentaries/calvin/romans/11.htm) understands everyone in terms of both Jews and Gentiles, not a promise that every individual will be saved. Christian universalists, represented by the [Christian Universalist Association’s beliefs](https://christianuniversalist.org/beliefs/), teach that every person will ultimately be reconciled to God through Christ. That is a distinct account of salvation, not agreement across Christian traditions."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 2:1–10](https://biblehub.com/bsb/ephesians/2.htm) similarly places people’s former disobedience beside God’s rich mercy. God makes them alive with Christ and intends to display the riches of His grace and kindness in the coming ages.",
+    "",
+    "That wider setting gives mercy a purpose beyond one group gaining an advantage over another. God’s grace produces a people whose life displays His kindness and whose good works follow His gift. Paul’s account of Israel and the nations leads toward praise of that mercy."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/11.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-eleven-review.md"
+  }
+}

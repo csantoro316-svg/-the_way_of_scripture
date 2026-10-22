@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "14:19-23",
+    "label": "Romans 14:19-23",
+    "slug": "romans-14-19-23"
+  },
+  "section_title": "How can we build up another person’s faith?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "19 So then, let us pursue what leads to peace and to mutual edification. 20 Do not destroy the work of God for the sake of food. All food is clean, but it is wrong for a man to let his eating be a stumbling block. 21 It is better not to eat meat or drink wine or to do anything to cause your brother to stumble.",
+        "22 Keep your belief about such matters between yourself and God. Blessed is the one who does not condemn himself by what he approves. 23 But the one who has doubts is condemned if he eats, because his eating is not from faith; and everything that is not from faith is sin."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul tells believers to pursue peace and the building up of one another. He repeats the disproportion in tearing down God’s work for the sake of food. Giving up meat or wine is preferable to using them in a way that causes another person to stumble.",
+    "",
+    "Conviction about these matters can be held before God without being made a public test for others. The person with doubts must not borrow someone else’s confidence and act against their own belief about what is right.",
+    "",
+    "The final statement about what is not from faith belongs to this discussion of conduct and conscience. Paul is warning about choosing to do what one believes displeases God. The emphasis is honest obedience, rather than treating private certainty as permission to do anything."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a call to use freedom with concern for another person’s conscience and growth. Building up faith matters more than proving how much freedom someone has. Both careless pressure and acting against one’s own conviction can turn an otherwise permitted practice into an occasion of sin."
+  ],
+  "god_plan_lines": [
+    "[1 Corinthians 10:23–33](https://biblehub.com/bsb/1_corinthians/10.htm) similarly distinguishes what is permitted from what benefits and builds up others. Paul discusses eating with thanksgiving, taking another person’s conscience seriously and seeking the good of others.",
+    "",
+    "That passage brings eating and drinking under the wider aim of God’s glory and the good of many. The ordinary meal becomes a place where love takes concrete form: knowledge is used to help people, and freedom can be set aside so that another person is strengthened."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/14.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-fourteen-review.md"
+  }
+}

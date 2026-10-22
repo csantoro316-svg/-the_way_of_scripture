@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "Nehemiah",
+    "citation": "11:1-2",
+    "label": "Nehemiah 11:1-2",
+    "slug": "nehemiah-11-1-2"
+  },
+  "section_title": "Why are some people asked to make Jerusalem their home?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Now the leaders of the people settled in Jerusalem, and the rest of the people cast lots to bring one out of ten to live in the holy city of Jerusalem, while the remaining nine were to dwell in their own towns. 2 And the people blessed all the men who volunteered to live in Jerusalem."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The leaders settle in Jerusalem, while lots select one in ten of the other people to live there. The remaining nine stay in their own towns. This addresses the need already noted in [Nehemiah 7:4](https://biblehub.com/bsb/nehemiah/7.htm): the city has room, but too few people.",
+    "",
+    "The people also bless those who volunteer to settle in Jerusalem. A rebuilt wall needs a community living within it, and the account recognizes both the organized resettlement and the willingness of those who offer to go."
+  ],
+  "common_interpretation_lines": [
+    "[Gill](https://biblehub.com/commentaries/gill/nehemiah/11.htm) distinguishes people selected by lot from those who volunteer, and understands the move as accepting a cost for the community’s good. [Henry](https://biblehub.com/commentaries/mhc/nehemiah/11.htm) likewise stresses willingness to serve beyond personal convenience. On this reading, the blessing honors those who help meet the city’s need."
+  ],
+  "god_plan_lines": [
+    "[Romans 12:1–13](https://biblehub.com/bsb/romans/12.htm) describes a life offered to God in response to His mercy, then turns to the different gifts and practical care within Christ’s body. Giving, leading, serving and hospitality all contribute to the good of others.",
+    "",
+    "The connection is willing service that may change a person’s own arrangements for the sake of the community. Nehemiah’s account concerns settling a city; Paul’s teaching shows the wider pattern of people using what God gives them to serve one another."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/nehemiah/11.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-nehemiah-ten-eleven-review.md"
+  }
+}

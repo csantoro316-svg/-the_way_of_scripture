@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "1 Peter",
+    "citation": "1:6-9",
+    "label": "1 Peter 1:6-9",
+    "slug": "1-peter-1-6-9"
+  },
+  "section_title": "How can joy and grief exist together?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 In this you greatly rejoice, though now for a little while you may have had to suffer grief in various trials 7 so that the proven character of your faith—more precious than gold, which perishes even though refined by fire—may result in praise, glory, and honor at the revelation of Jesus Christ.",
+        "8 Though you have not seen Him, you love Him; and though you do not see Him now, you believe in Him and rejoice with an inexpressible and glorious joy, 9 now that you are receiving the goal of your faith, the salvation of your souls."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Peter does not erase the readers’ grief. They rejoice in the hope just described while suffering trials. The temporary hardship is placed beside the lasting salvation and inheritance, rather than treated as the whole measure of their future.",
+    "",
+    "The comparison with gold explains the value of tested faith. Fire proves and refines a precious metal, yet even gold perishes. Faith’s proven character looks toward praise, glory and honor when Jesus is revealed.",
+    "",
+    "These believers love Jesus although they have not seen Him. Their relationship with Him is real in the present, with joy that anticipates the salvation toward which their faith is directed."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/1_peter/1.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-epistle-general-of-st-peter/) both understand grief and joy as able to coexist in a believer’s life. Calvin explicitly says joy does not remove human feeling, while Wesley places present trials beside hope that reaches into eternity."
+  ],
+  "god_plan_lines": [
+    "In [John 20:29–31](https://biblehub.com/bsb/john/20.htm), Jesus blesses those who believe without having seen Him, and the Gospel’s written testimony is given so people may believe and have life in His name. Peter addresses just such a life of trust and love.",
+    "",
+    "The wider hope is also expressed in [Romans 8:18–25](https://biblehub.com/bsb/romans/8.htm): present suffering does not have the final word over the glory to come. Grief can therefore be honestly acknowledged while the believer continues looking toward Christ."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_peter/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-peter-opening-review.md"
+  }
+}

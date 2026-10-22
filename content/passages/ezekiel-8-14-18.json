@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "8:14-18",
+    "label": "Ezekiel 8:14-18",
+    "slug": "ezekiel-8-14-18"
+  },
+  "section_title": "Why are the worshipers turning their backs on the temple?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 Then He brought me to the entrance of the north gate of the house of the LORD, and I saw women sitting there, weeping for Tammuz. 15 “Son of man,” He said to me, “do you see this? Yet you will see even greater abominations than these.”",
+        "16 So He brought me to the inner court of the house of the LORD, and there at the entrance to the temple of the LORD, between the portico and the altar, were about twenty-five men with their backs to the temple of the LORD and their faces toward the east; and they were bowing to the east in worship of the sun. 17 “Son of man,” He said to me, “do you see this? Is it not enough for the house of Judah to commit the abominations they are practicing here, that they must also fill the land with violence and continually provoke Me to anger? Look, they are even putting the branch to their nose! 18 Therefore I will respond with wrath. I will not look on them with pity, nor will I spare them. Although they shout loudly in My ears, I will not listen to them.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "At the north gate, Ezekiel sees women mourning for Tammuz. He is then taken into the inner court, where about twenty-five men stand between the porch and the altar. With their backs toward the Lord’s temple, they face east and worship the sun.",
+    "",
+    "Tammuz is a Mesopotamian deity also known as Dumuzi. [Penn Museum’s account of Sumerian stories](https://www.penn.museum/sites/bulletin/4043/) identifies Dumuzi as a shepherd-god associated with the goddess Inanna. Ezekiel’s point is that mourning for this other god is taking place at the Lord’s house.",
+    "",
+    "The sun worshipers make the rejection visible: they turn their backs on the sanctuary to worship something God made. The Lord also charges the people with filling the land with violence. Wrong worship and wrongdoing toward others stand together in His indictment.",
+    "",
+    "The branch raised to the nose is another act of provocation. The vision ends with the Lord’s announcement that loud cries will not turn away the judgment He has declared."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezekiel/8.htm) and [Wesley](https://biblehub.com/commentaries/wes/ezekiel/8.htm) understand the scenes as increasingly serious dishonor within the sacred place. They read the men’s turned backs as a visible rejection of the Lord in favor of the sun.",
+    "",
+    "The exact meaning of the branch gesture is less clear. Henry associates it with an idolatrous custom; Wesley proposes a comparison with another form of worship. The [Cambridge commentary](https://biblehub.com/commentaries/cambridge/ezekiel/8.htm) questions a proposed Persian explanation and notes an alternative understanding as mockery. The surrounding charge is clear even though the specific gesture is uncertain: the people are provoking the Lord while the land is full of violence."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/8.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-eight-nine-review.md"
+  }
+}

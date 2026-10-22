@@ -1,0 +1,52 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "22:24-29",
+    "label": "1 Kings 22:24-29",
+    "slug": "1-kings-22-24-29"
+  },
+  "section_title": "Can silencing a prophet change the truth of his warning?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "24 Then Zedekiah son of Chenaanah went up, struck Micaiah in the face, and demanded, “Which way did the Spirit of the LORD go when He departed from me to speak with you?” 25 Micaiah replied, “You will soon see, on that day when you go and hide in an inner room.”",
+        "26 And the king of Israel declared, “Take Micaiah and return him to Amon the governor of the city and to Joash the king’s son, 27 and tell them that this is what the king says: ‘Put this man in prison and feed him only bread and water until I return safely.’” 28 But Micaiah replied, “If you ever return safely, the LORD has not spoken through me.” Then he added, “Take heed, all you people!” 29 So the king of Israel and Jehoshaphat king of Judah went up to Ramoth-gilead."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Zedekiah strikes Micaiah and challenges his claim to speak by the LORD’s Spirit. Micaiah replies that Zedekiah will discover the answer when he hides in an inner room.",
+    "",
+    "Ahab orders Micaiah imprisoned on bread and water until the king returns safely. Micaiah makes the outcome the test of his message: if Ahab returns safely, the LORD has not spoken through him.",
+    "",
+    "This recalls the concern in [Deuteronomy 18:20–22](https://biblehub.com/bsb/deuteronomy/18.htm) that a claim to speak for God must answer to whether the word comes true. Ahab and Jehoshaphat then proceed to Ramoth-gilead."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/22.htm) notes that Micaiah does not answer Zedekiah’s blow with another blow. He leaves the claim to be tested by what happens. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) likewise understands the coming danger as the event that will expose the false assurance.",
+    "",
+    "[Gill](https://biblehub.com/commentaries/gill/1_kings/22.htm) reads the imprisonment and restricted food as punishment meant to keep Micaiah suffering. The king can confine the messenger, but the narrative leaves his prediction in place for the reader to test."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/22.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-twenty-two-review.md"
+  }
+}

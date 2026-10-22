@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "9:1-6",
+    "label": "1 Corinthians 9:1-6",
+    "slug": "1-corinthians-9-1-6"
+  },
+  "section_title": "Why does Paul defend rights he has chosen not to use?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Am I not free? Am I not an apostle? Have I not seen Jesus our Lord? Are you yourselves not my workmanship in the Lord? 2 Even if I am not an apostle to others, surely I am to you. For you are the seal of my apostleship in the Lord. 3 This is my defense to those who scrutinize me:",
+        "4 Have we no right to food and to drink? 5 Have we no right to take along a believing wife, as do the other apostles and the Lord’s brothers and Cephas? 6 Or are Barnabas and I the only apostles who must work for a living?"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul has just said he would give up meat rather than harm another believer. He now uses his own ministry to show how someone can have a real right and still choose to set it aside for others’ good.",
+    "",
+    "He defends his apostleship by pointing to having seen Jesus and to the Corinthians themselves as the work of his service in the Lord. His decision to work for a living does not mean that he lacks the rights enjoyed by other apostles.",
+    "",
+    "Those rights include food and drink and taking a believing wife along, as other apostles, the Lord’s brothers and Cephas do. Cephas is Peter. Paul also names Barnabas when asking whether only they must earn their own support. The point is that declining a right does not prove someone never had it."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Paul to be defending his apostolic calling and right to support, including the needs of a wife accompanying him. His reference to married apostles is also relevant to differences in churches’ rules for ministers.",
+    "",
+    "The Catholic [Catechism 1579–1580](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_three/article_6/vi_who_can_receive_this_sacrament.html) describes Latin-rite priests as normally chosen from men committed to celibacy, while recognizing married men being ordained as priests in the Eastern churches. Bishops there are chosen from celibate men, and men already ordained do not subsequently marry.",
+    "",
+    "The [Methodist Articles, Article XXI](https://www.umc.org/en/content/articles-of-religion), teach that Christ’s ministers are not commanded by God’s law to vow singleness or abstain from marriage. These are differences in how churches order ministry; Paul’s immediate case concerns a right he can hold without exercising it."
+  ],
+  "god_plan_lines": [
+    "In [Acts 9:15–16](https://biblehub.com/bsb/acts/9.htm), the Lord identifies Paul as His chosen instrument to carry His name before Gentiles, kings and the people of Israel. His calling includes both witness and costly service.",
+    "",
+    "The community in Corinth belongs within that wider mission. Paul’s work is directed toward people coming to know Christ, rather than toward proving his importance through visible privileges. His freedom can be used to serve the people God is gathering."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/9.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-nine-opening-review.md"
+  }
+}

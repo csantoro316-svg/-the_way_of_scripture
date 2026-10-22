@@ -5,13 +5,57 @@
     "label": "Matthew 26:39",
     "slug": "matthew-26-39"
   },
-  "versions": [],
-  "context_lines": [
-    "In **Matthew 26**, the passion narrative tightens around betrayal, sorrow, submission, and the approach of the cross. Gethsemane is the setting in which Jesus' prayer reveals both the reality of His suffering and the perfection of His submission to the Father's will."
+  "section_title": "Not as I Will, but as You Will",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "39 Going a little farther, He fell facedown and prayed, “My Father, if it is possible, let this cup pass from Me. Yet not as I will, but as You will.”"
+      ]
+    }
   ],
-  "explanation_lines": [
-    "*'Not as I will, but as You will.'* \u2014 Matthew 26:39",
+  "context_lines": [
+    "This verse belongs inside Jesus' prayer in Gethsemane, after He has spoken of His overwhelming sorrow and before His arrest. [Matthew 26:36–46](https://the-way-of-scripture.web.app/passages/matthew-26-36-46.html) gives the full scene, including the disciples' sleep and Jesus' three periods of prayer.",
     "",
-    "*The understanding presented here reflects our best study of God's Word at this time. Scripture calls us to come together as the ekkl\u0113sia \u2014 the called-out assembly \u2014 and let all things be done for edification (1 Corinthians 14:26). Your thoughts, questions, and insights are not just welcome \u2014 they are part of this process. Iron sharpens iron. If the Word leads us to a deeper or clearer understanding through your contribution, this site will be updated to reflect it. Your voice matters here. This is not a finished work. It is a table we are all sitting at together.*"
-  ]
+    "Falling facedown, Jesus addresses the Father and asks whether the cup can pass from Him. He immediately places that desire under the Father's will. The prayer expresses both the reality of the suffering He faces and the obedience with which He faces it.",
+    "",
+    "Cup is ποτήριον, *potērion* (poh-TAY-ree-on). [Thayer's lexicon](https://biblehub.com/greek/4221.htm) explains its figurative use here as the suffering Christ must undergo. [John 18:11](https://biblehub.com/bsb/john/18.htm) returns to the same picture when Jesus speaks of drinking the cup given by the Father.",
+    "",
+    "The surrounding verses matter: Jesus prays again and again, always accepting the Father's will, then rises to meet His betrayer. This one sentence is not a promise that the right wording will remove every trial, or a rebuke to someone who feels genuine fear or grief."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as real human anguish joined with Jesus' willing obedience, rather than either pretend suffering or sinful rebellion. The Catholic [Catechism, 612](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/article_4/paragraph_2_jesus_died_crucified.html), and the [Westminster Confession, 8.4](https://www.opc.org/wcf.html), both affirm His willing acceptance of suffering for our salvation."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 5:7–10](https://biblehub.com/bsb/hebrews/5.htm) connects Jesus' earthly prayers, suffering, obedience, and saving work. His tears are part of His real human life, and the passage presents Him as the source of eternal salvation. The cross that He approaches is more than an example of courage; it belongs to what He does for those He saves.",
+    "",
+    "That saving work also opens a way for weak people to approach God. [Hebrews 4:14–16](https://biblehub.com/bsb/hebrews/4.htm) describes Jesus as the high priest who understands weakness without sin and directs His people to seek mercy and grace in their need. His surrender in suffering stands alongside His continuing care for those who come through Him."
+  ],
+  "current_position_lines": [
+    "What Does Prayer Look Like? reads Gethsemane as a model of honest surrender. Jesus brings the real cost of His suffering before the Father and places the outcome entirely in His hands. Expressing grief is not treated as a failure of faith.",
+    "",
+    "The study also emphasizes that Jesus prays three times. Continued asking can belong with surrender when the Father's will governs it. Prayer and Faith likewise reads this scene as prayer rooted in trust and submission to God, rather than a way to secure the outcome we choose. These studies supply our position on prayer here; they do not make every detail of Jesus' suffering a claim about what a believer will experience."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/26.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "position_source_detail": "What Does Prayer Look Like?, section 1 (content/studies/what_does_prayer_look_like.md:16–43), and Prayer and Faith, Gethsemane discussion at 249 and governing trust/submission conclusions.",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-six-gethsemane-review.md"
+  }
 }

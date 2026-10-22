@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "15:40-47",
+    "label": "Mark 15:40-47",
+    "slug": "mark-15-40-47"
+  },
+  "section_title": "Who stays to witness Jesus’ burial?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "40 And there were also women watching from a distance. Among them were Mary Magdalene, Mary the mother of James the younger and of Joses, and Salome. 41 These women had followed Jesus and ministered to Him while He was in Galilee, and there were many other women who had come up to Jerusalem with Him.",
+        "42 Now it was already evening. Since it was Preparation Day (that is, the day before the Sabbath), 43 Joseph of Arimathea, a prominent Council member who himself was waiting for the kingdom of God, boldly went to Pilate to ask for the body of Jesus. 44 Pilate was surprised to hear that Jesus was already dead, so he summoned the centurion to ask if this was so. 45 When Pilate had confirmed it with the centurion, he granted the body to Joseph. 46 So Joseph bought a linen cloth, took down the body of Jesus, wrapped it in the cloth, and placed it in a tomb that had been cut out of the rock. Then he rolled a stone against the entrance to the tomb. 47 Mary Magdalene and Mary the mother of Joseph saw where His body was placed."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Mark names women who watch from a distance and explains that they had followed and served Jesus in Galilee. Their presence carries the story from His death to His burial and, in the next chapter, to the visit to the tomb. They see where His body is placed.",
+    "",
+    "With the Sabbath approaching, Joseph of Arimathea boldly asks Pilate for Jesus’ body. He is a prominent council member waiting for God’s kingdom. Luke adds that he had not agreed with the council’s decision and action. His conduct reminds us to distinguish people within the council rather than assume every member acted alike. ([Luke 23:50–56](https://biblehub.com/bsb/luke/23.htm))",
+    "",
+    "Pilate checks with the centurion that Jesus is dead before granting the body. Joseph wraps it in linen, lays it in a rock-cut tomb, and rolls a stone across the entrance. Matthew identifies the tomb as Joseph’s own new tomb; John adds that Nicodemus helps with the burial preparations. ([Matthew 27:57–61](https://biblehub.com/bsb/matthew/27.htm); [John 19:38–42](https://biblehub.com/bsb/john/19.htm))",
+    "",
+    "The pressure of time belongs to the account’s stated setting: this is the day before the Sabbath. Deuteronomy calls for an executed person’s body not to remain hanging overnight, and John records the concern about leaving bodies on crosses during the Sabbath. These passages explain the urgency without requiring a reconstruction of every detail of the funeral. ([Deuteronomy 21:22–23](https://biblehub.com/bsb/deuteronomy/21.htm); [John 19:31](https://biblehub.com/bsb/john/19.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian traditions commonly regard the burial as testimony that Jesus truly died, with the named witnesses connecting His death and tomb. The Heidelberg Catechism explicitly explains the burial as confirmation of His real death; the Gospel accounts also draw attention to the care given to His body. ([Heidelberg Catechism, question 41](https://www.rca.org/about/theology/creeds-and-confessions/the-heidelberg-catechism/))"
+  ],
+  "god_plan_lines": [
+    "The burial belongs to the gospel Paul received and proclaimed: Christ died for sins, was buried, and was raised. Isaiah’s servant passage also speaks of a grave associated with the wicked and a rich man in death, a supported connection with the Gospel’s account of Joseph’s tomb. The story moves toward resurrection through a real death and burial. ([1 Corinthians 15:3–8](https://biblehub.com/bsb/1_corinthians/15.htm); [Isaiah 53:9](https://biblehub.com/bsb/isaiah/53.htm); [Matthew 27:57–60](https://biblehub.com/bsb/matthew/27.htm))",
+    "",
+    "Paul also connects believers’ baptism with burial and resurrection with Christ. The intended outcome is a new way of life grounded in His resurrection. The burial is therefore part of the saving story in which His people come to share, not simply an interval to pass over on the way to the empty tomb. ([Romans 6:3–5](https://biblehub.com/bsb/romans/6.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/15.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-fifteen-closing-review.md"
+  }
+}

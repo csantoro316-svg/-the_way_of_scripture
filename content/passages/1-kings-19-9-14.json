@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "19:9-14",
+    "label": "1 Kings 19:9-14",
+    "slug": "1-kings-19-9-14"
+  },
+  "section_title": "Why does God speak after the wind, earthquake and fire?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "9 There Elijah entered a cave and spent the night. And the word of the LORD came to him, saying, “What are you doing here, Elijah?” 10 “I have been very zealous for the LORD, the God of Hosts,” he replied, “but the Israelites have forsaken Your covenant, torn down Your altars, and killed Your prophets with the sword. I am the only one left, and they are seeking my life as well.” 11 Then the LORD said, “Go out and stand on the mountain before the LORD. Behold, the LORD is about to pass by.” And a great and mighty wind tore into the mountains and shattered the rocks before the LORD, but the LORD was not in the wind. After the wind there was an earthquake, but the LORD was not in the earthquake. 12 After the earthquake there was a fire, but the LORD was not in the fire. And after the fire came a still, small voice.",
+        "13 When Elijah heard it, he wrapped his face in his cloak and went out and stood at the mouth of the cave. Suddenly a voice came to him and said, “What are you doing here, Elijah?” 14 “I have been very zealous for the LORD, the God of Hosts,” he replied, “but the Israelites have forsaken Your covenant, torn down Your altars, and killed Your prophets with the sword. I am the only one left, and they are seeking my life as well.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "At Horeb, Elijah spends the night in a cave. God asks what he is doing there. Elijah describes his zeal, Israel’s rejection of the covenant and the threat to his life. He says he is the only one left.",
+    "",
+    "God tells him to stand before Him. A powerful wind, an earthquake and fire pass, but the LORD is not in those events. Afterward comes a still, small voice. Elijah covers his face and stands at the cave’s entrance.",
+    "",
+    "The question is repeated, and Elijah repeats his complaint. God has met him, and the answer that follows will address both his task and his sense of being alone."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/19.htm) hears correction in God’s question and sees the gentle voice as carrying a power the terrifying events do not. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) reads the scene as showing that God accomplishes His work in His own way, by His Spirit.",
+    "",
+    "[Gill](https://biblehub.com/commentaries/gill/1_kings/19.htm) notes that Scripture elsewhere does associate God’s presence with wind, fire and earthquake. The point here is how God chooses to meet Elijah in this scene. It cannot be made into a rule that He always speaks through one kind of experience."
+  ],
+  "god_plan_lines": [
+    "The setting recalls Moses’ encounter with God in [Exodus 33:18–23](https://biblehub.com/bsb/exodus/33.htm): the LORD passes by, and Moses is sheltered as His glory is revealed. The parallels include the mountain setting, God’s passing presence and the servant’s limited ability to behold Him.",
+    "",
+    "Later, Moses and Elijah appear together with Jesus in [Luke 9:28–36](https://biblehub.com/bsb/luke/9.htm), speaking about His coming departure at Jerusalem. The voice from the cloud directs the disciples to listen to God’s Son. These earlier servants who encountered God are brought into a scene centered on Jesus and what He will accomplish."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/19.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-nineteen-review.md"
+  }
+}

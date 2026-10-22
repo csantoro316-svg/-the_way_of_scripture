@@ -1,0 +1,46 @@
+# Acts 2:14–47 editorial review
+
+Five groups:14–21/22–36/37–41/retained legacy38/42–47. Existing-study positions:SeekSigns14–21narrowtestingprinciple;Baptism37–41and38. Other two remainopen. WholeActsPDFthrough35read,includingfull2B21–30andall2:42–47baseline31–35. Truncated29–30and35recoveredseparately. No teacher/ministry publicly named or copied outline.
+
+## Sources actually read
+
+ActualBibleHubBSBActs2:14–47allread;freshquotationchecksrequired. Joel2:28–32,Ps16:8–11,Ps110:1,Rom10:9–13,Heb10:12–14,Acts10:44–48,Heb13:15–16read directly in BSB chapter sources. Earlier cached fetch is not evidence of reading; these ranges were separately extracted and inspected.
+
+ActualCalvinActs2 https://biblehub.com/commentaries/calvin/acts/2.htm :14relevantlattercommentaryand17firstsection22500–29400read,oversized output recovered17continuation27500–30500. SpecificclaimsMessiahrevealed/Spiritrenewal/OTnotwhollydevoidSpirit checked;not entire17.38first3500charsread;42first2300;46first1600. Publicusesonlyconfirmed clauses:38repentance/forgiveness/baptismseal;42fourpractices/fellowship/communion;46ordinarymealratherthanSupper. No polemicalrhetoriccopied. ActualWesleychapterIIread in boundedpieces:opening4500chars,then4500–6500and6500–9000recoveredafteraccidentaloversized19throughendoutput;remaining27–47visibleandread. https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/ .17lastdaysMessiah,19–20futurejudgments,23purpose/sinresponsibility,27Hades/paradise,33exaltation,38Spiritfruit,42/45/46communionandsharing checked. No historicalprodigiesorastrologicalchronologyendorsed.
+
+ActualConstable2:16first5300charspluspersonalconclusionand17–21opening2000charsread https://soniclight.com/tcon/notes/html/acts/acts.htm . He personally favors similarSpiritwork/futurefullJoelIsrael;secondaryquotations ofothersnotusedastheirprimaryauthority. Publicavoidswordanalogous. NoeveryChristianfuture-kingdomreadercaricature.
+
+ActualCatholic1226–1228fullreadfrom https://www.vatican.va/archive/ENG0015/__P3I.HTM ;earlierP3Jwas1229onwardanddoesnotcontain1226. Actual1257–1261read https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_1/vi_the_necessity_of_baptism.index.html ;public1257–1259safeguardGodnotbound/sufferingdeath/desireincluded. ActualWCF28wholeand26whole read https://www.opc.org/wcf.html . Actual1689Baptist29allfourparagraphsread https://www.the1689confession.com/1689/chapter-29 . Baptistrepentantprofessors/immersiondistinctfromWestminsterinfants/pouring/sprinkling;Westminsterrealgraceconferrednotmerehumanbadge. NoLutheran/Orthodoxcatalogforcedwheretheiradditionnotindependentlyneeded.
+
+ActualThayer4342wholeentrybeforeTopical read https://biblehub.com/greek/4342.htm :persevere/constantattention specificallyActs2:42. No Greekproofthattwolatteractivitieslessfrequent.1519and2842fetchedbutnotread;no public lexicalclaim reliesonthem. Baptismstudy's eis explanation notreproducedascertainlexicalproof;freshScriptureandscope-limitedexistingconclusionused.
+
+Existingstudiesactualread: content/studies/baptism.md104–110directActs2:38discussion;the_gospel_according_to_jesus.mdReceivingGospelcontext;seek_signs.mdDreamsVisionsparagraph114directPeterJoelActs2discussion. OnlyBaptismandSeekSignsusedaspositionauthority. StudyBaptismclaimsallconversionswithinhoursandcallsapolouowashinglanguagehereareunsupported/overbroadandnotcopied;exactScripturequotecheckedfreshratherthanusingstudymislabeledBSB. GospelstudyhasFridaychronologyclaimthatconflictswithbaselineandnotneededhere;notcopiedorresolved.
+
+## Acts2:14–21
+Plan section: included, because (a)/(c):Romans10explicitJoelinvitationforJewandGreek.
+Position source: Should We Seek Signs From God?
+FLAGGED FOR REVIEW: No blanketnoneofJoelcontenthappenedclaimwhenPeterexplicitlyconnectsSpiritoutpouring. Noallelementsnecessarilyfinishedthatmorningclaim. ActualCalvin/Wesley/Constable differences attributed,notownerposition. No nowmustbedreamsandvisionsforeverybelieverorallceasedverdict. Narrowexistingstudytestclaimspositiondoesnotsettlecontinuation. No mockerscertainlylocal,preciseprayerfastingcustom,orJosephusportentsasverifiedhistory;notindependentlychecked. No allfutureTribulationmechanicssettledfromquotation. No universalismdeducedfromallwho call.
+
+## Acts2:22–36
+Plan section: included, because (a):directPs16/110applicationsplusHeb10sacrifice/exaltation/enemies.
+Position source: none.
+FLAGGED FOR REVIEW: No Godauthorofsinorperpetratorsinnocentbecauseplan claim. No everylistenerpersonallynailedHim/currentJewishcollectiveguilt. No rabbinicconsensusDavidinterpretationhistoricalclaimwithoutprimaryrabbinicresearch. No sinlessbodilyimmortalityorprecisedeathdurationmechanics. No mademeansJesusfirstbecameGodorChristonlyafterresurrectionclaim. Hadesnotautomaticallyplaceofdamned;no newdescenttheologypositionoriginated. No exacttombsitearchaeologyassertion.
+
+## Acts2:37–41
+Plan section: included, because (a)/(c):Joelpromise/widercallandActs10Spiritbeforewaterexpansion.
+Position source: Baptism.
+FLAGGED FOR REVIEW: BaselineclaimsvirtualentirenationexecutedAD70,allrejectionunforgivablesin,waterbaptismguaranteesphysicalescapeAD70,everysalvationbaptismlinkonlyJewishaudience not independentlyconfirmed;excluded. PublicdoesnotoriginateAD70waterrule. No mechanicallyrenamingeissolemeaningfromstudy;grammaraloneacknowledgedinsourcebutnotusedasunverifiedlexicalproof. No allconversionstepsalwayswithinhours. FairCatholicfaith/grace/exceptions,Reformedrealgraceandtiming,Baptistprofessors/immersion retainedwithoutstrawman. No HolySpiritgiftherealwaysonlytonguesclaim. About3000notallmenexactcount. Infantsdebatenamedactualconfessionsbutnotownerverdict.
+
+## Acts2:38 legacy
+Plan section: included, because (a)/(c):samewiderJoel/Acts10connectionwithsurroundingcontext.
+Position source: Baptism.
+FLAGGED FOR REVIEW: Same37–41limits;originalURLpreserved,onequotedversewithwholeparagraphcontext. No studyquoteusedinsteadoffreshBSB.
+
+## Acts2:42–47
+Plan section: included, because (c):Heb13praise/good/sharingasworshipconnectsSpiritcommunitylifebeyondmerelyeventdescription.
+Position source: none.
+FLAGGED FOR REVIEW: No Greekgrammarprovesprayer/Supperlessfrequentoronlytwoactivitiescontinuousclaim;actual4342supportssteadfastattention. No automaticonlyapostolicdelegatesallmiracles/historyendedatlastapostle claim;notsettledhere. No bathsmonthly/clothingcaricatureorJerusalemonlysharingallhistoricalcommunities assertion. No forcedtotalpropertyabolitionorindifferenceneedy;Wesley/WCFnuanced. No bestchurchreceivesguaranteednumericgrowthformula. No allPhariseesnecessarilyunfavorableprivatebelief.42LordSupperand46mealreadingsproperlynamedCalvin/Wesleydifference;notallmealsautomaticallyEucharistorallonlyordinary.
+
+## Validation
+
+Five fresh BSB checks/eight tests pass;zero errors313knownwarnings. Source/index/preservation/coverage/navigation/idempotence pass. Allfive390pxreader/standalonechecks pass;actualNext22–36to37–41focusedtitle188px. Dryrun/actualHostingexit0;nineaffectedlivefilesandeightwholechapterfilesmatch. Acts10reviewedpages/73actualBSBverses/10plans/3studypositions/7open;35sources/25unreviewedlegacyreferences. Minorplainlanguagepassreplacedremission/regeneratedwithforgiveness/givennewlife;checksregeneratedafterthat edit.

@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "4:27-38",
+    "label": "John 4:27-38",
+    "slug": "john-4-27-38"
+  },
+  "section_title": "What harvest does Jesus want His disciples to see?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "27 Just then His disciples returned and were surprised that He was speaking with a woman. But no one asked Him, “What do You want from her?” or “Why are You talking with her?” 28 Then the woman left her water jar, went back into the town, and said to the people, 29 “Come, see a man who told me everything I ever did. Could this be the Christ?” 30 So they left the town and made their way toward Jesus.",
+        "31 Meanwhile the disciples urged Him, “Rabbi, eat something.” 32 But He told them, “I have food to eat that you know nothing about.” 33 So the disciples asked one another, “Could someone have brought Him food?” 34 Jesus explained, “My food is to do the will of Him who sent Me and to finish His work.",
+        "35 Do you not say, ‘There are still four months until the harvest’? I tell you, lift up your eyes and look at the fields, for they are ripe for harvest. 36 Already the reaper draws his wages and gathers a crop for eternal life, so that the sower and the reaper may rejoice together. 37 For in this case the saying ‘One sows and another reaps’ is true. 38 I sent you to reap what you have not worked for; others have done the hard work, and now you have taken up their labor.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The disciples return and are surprised to find Jesus speaking with the woman, but do not question Him. She leaves her water jar, returns to town and invites the people to come and consider whether He is the Christ. They start toward Him.",
+    "",
+    "Meanwhile, the disciples urge Jesus to eat. He tells them that doing the will of the One who sent Him and finishing His work is His food. As with the earlier conversation about water, an everyday need becomes the starting point for explaining His mission.",
+    "",
+    "Jesus then speaks of fields ready for harvest, workers gathering a crop for eternal life, and sowers and reapers rejoicing together. His disciples are entering work others have already begun. The approaching townspeople put the call to notice the harvest within the immediate scene."
+  ],
+  "common_interpretation_lines": [
+    "Christian readers commonly understand the food as Jesus’ devotion to His Father’s work and the harvest as people being brought to life through His message. Calvin and Wesley both read the different workers as sharing in that mission and its joy, with the disciples benefiting from work done before them. ([Calvin on John 4:34–36](https://biblehub.com/commentaries/calvin/john/4.htm); [Wesley on John 4:34–38](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/))"
+  ],
+  "god_plan_lines": [
+    "The work Jesus comes to finish reaches beyond this encounter. Hebrews describes Christ coming to do God’s will and connects that obedience with the offering of His body. His dedication to the Father’s work here is a parallel with the obedience through which His saving mission is completed. ([Hebrews 10:5–10](https://biblehub.com/bsb/hebrews/10.htm))",
+    "",
+    "The harvest also becomes a picture for His followers’ mission. In Luke, Jesus sends workers ahead of Him and tells them to ask the Lord of the harvest for more workers. Paul describes different servants planting and watering while God gives growth. Together these passages show God drawing people to Christ through shared work that no servant owns alone. ([Luke 10:1–3](https://biblehub.com/bsb/luke/10.htm); [1 Corinthians 3:4–9](https://biblehub.com/bsb/1_corinthians/3.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/4.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-four-closing-review.md"
+  }
+}

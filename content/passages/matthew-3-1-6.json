@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "3:1-6",
+    "label": "Matthew 3:1-6",
+    "slug": "matthew-3-1-6"
+  },
+  "section_title": "John Calls Israel to Repent",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 In those days John the Baptist came, preaching in the wilderness of Judea 2 and saying, “Repent, for the kingdom of heaven is near.” 3 This is he who was spoken of through the prophet Isaiah: “A voice of one calling in the wilderness, ‘Prepare the way for the Lord, make straight paths for Him.’”",
+        "4 John wore a garment of camel’s hair, with a leather belt around his waist. His food was locusts and wild honey. 5 People went out to him from Jerusalem and all Judea and the whole region around the Jordan. 6 Confessing their sins, they were baptized by him in the Jordan River."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Matthew moves from Jesus' childhood to John preaching in the wilderness of Judea. John's message is urgent: God's kingdom is near, so the people must repent. Matthew identifies him as the voice Isaiah described, preparing the Lord's way. People come from Jerusalem, Judea, and the region around the Jordan, confess their sins, and are baptized.",
+    "",
+    "Repent is translated from μετανοέω, *metanoeō* (meh-tah-no-EH-oh). [Thayer's Greek Lexicon](https://biblehub.com/greek/3340.htm) includes a change of mind, but specifically explains this use as a change for the better that turns against past sins. John is calling for more than a different opinion. His demand for the fruit of repentance in the next passage makes the changed direction visible in people's lives.",
+    "",
+    "The kingdom of heaven concerns God's rule, not simply a place people go after death. John's announcement calls his hearers to prepare for God's approaching action. He does not begin by congratulating them on their ancestry or religious standing; he calls them to face their sins.",
+    "",
+    "John's camel-hair clothing and leather belt recall the description of Elijah in [2 Kings 1:7–8](https://biblehub.com/bsb/2_kings/1.htm). His setting and way of life place him alongside Israel's prophets. Matthew gives these concrete details without telling us how many years he lived in the wilderness or describing a childhood friendship with Jesus.",
+    "",
+    "Baptize comes from βαπτίζω, *baptizō* (bap-TID-zoh), which [Thayer's Greek Lexicon](https://biblehub.com/greek/907.htm) explains in terms of dipping, immersion, and washing. Here the washing accompanies confession and John's message of preparation. [Acts 19:1–5](https://biblehub.com/bsb/acts/19.htm) later distinguishes John's baptism from baptism into Jesus' name and explains that John directed people to believe in the One coming after him."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand John as preparing people for Jesus through repentance. They differ over what form of baptism the account supports. The [Second London Baptist Confession, chapter 29.4](https://www.the1689confession.com/1689/chapter-29), requires immersion and cites Jesus' baptism in Matthew 3:16; the [Westminster Confession, chapter 28.3](https://www.opc.org/wcf.html), accepts pouring or sprinkling without requiring immersion. These are distinct confessional positions about Christian baptism, rather than two explicit descriptions supplied by Matthew of John's every action.",
+    "",
+    "The difference also appears in comments on John himself. [Baptist commentator John Gill on Matthew 3:6](https://biblehub.com/commentaries/gill/matthew/3.htm) reads baptism in the river as immersion. [Wesley on the same verse](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) instead proposes that John cast water over people standing at the river's edge. These comments draw different conclusions from an account that names the river and the baptism without describing every movement of the washing."
+  ],
+  "god_plan_lines": [
+    "John's work belongs to a promise of God's coming help. [Isaiah 40:1–5](https://biblehub.com/bsb/isaiah/40.htm) begins with comfort for God's people and pictures a prepared road in the wilderness before the LORD's glory is revealed. Matthew identifies John with that preparing voice. The call to repentance is part of preparing people to receive the One God is sending.",
+    "",
+    "The Elijah connection is made explicit later by Jesus. [Malachi 4:5–6](https://biblehub.com/bsb/malachi/4.htm) promises a messenger who turns hearts before the day of the LORD, and [Matthew 11:10–14](https://biblehub.com/bsb/matthew/11.htm) identifies John with the promised messenger and Elijah who was to come. [Matthew 17:10–13](https://biblehub.com/bsb/matthew/17.htm) confirms that Jesus is speaking about John. His importance lies in this God-given task: he prepares the way for Jesus rather than gathering people around himself as the final answer."
+  ],
+  "current_position_lines": [
+    "Our Baptism study understands immersion in water as the intended form of baptism. It connects going down into the water and coming up again with the death-and-resurrection picture developed for believers. That is the study's position on the form and meaning of Christian baptism; it does not make every feature of John's ministry identical to the later practice of the church."
+  ],
+  "deeper_study": [
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-john-and-baptism-review.md",
+    "position_source_detail": "Baptism — Greek word, immersion and the death/resurrection picture (sections I–II)"
+  }
+}

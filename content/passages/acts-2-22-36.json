@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "2:22-36",
+    "label": "Acts 2:22-36",
+    "slug": "acts-2-22-36"
+  },
+  "section_title": "How does Peter explain Jesus’s death and resurrection?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "22 Men of Israel, listen to this message: Jesus of Nazareth was a man certified by God to you by miracles, wonders, and signs, which God did among you through Him, as you yourselves know. 23 He was delivered up by God’s set plan and foreknowledge, and you, by the hands of the lawless, put Him to death by nailing Him to the cross. 24 But God raised Him from the dead, releasing Him from the agony of death, because it was impossible for death to keep Him in its grip.",
+        "25 David says about Him: ‘I saw the Lord always before me; because He is at my right hand, I will not be shaken. 26 Therefore my heart is glad and my tongue rejoices; my body also will dwell in hope, 27 because You will not abandon my soul to Hades, nor will You let Your Holy One see decay. 28 You have made known to me the paths of life; You will fill me with joy in Your presence.’",
+        "29 Brothers, I can tell you with confidence that the patriarch David died and was buried, and his tomb is with us to this day. 30 But he was a prophet and knew that God had promised him on oath that He would place one of his descendants on his throne. 31 Foreseeing this, David spoke about the resurrection of the Christ, that He was not abandoned to Hades, nor did His body see decay. 32 God has raised this Jesus to life, to which we are all witnesses. 33 Exalted, then, to the right hand of God, He has received from the Father the promised Holy Spirit and has poured out what you now see and hear.",
+        "34 For David did not ascend into heaven, but he himself says: ‘The Lord said to my Lord, “Sit at My right hand 35 until I make Your enemies a footstool for Your feet.”’ 36 Therefore let all Israel know with certainty that God has made this Jesus, whom you crucified, both Lord and Christ!”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Peter now identifies the Jesus whom the crowd needs to understand. His ministry was accompanied by God’s signs, He was put to death, and God raised Him. Peter holds together God’s purpose and the responsibility of those involved in the crucifixion. The plan does not make their actions innocent.",
+    "",
+    "Peter quotes David’s words in Psalm 16 and explains why they point beyond David’s own experience. David died and was buried, but he spoke as a prophet of the Messiah’s resurrection. The apostles present themselves as witnesses that God has raised Jesus.",
+    "",
+    "The sermon then joins resurrection, exaltation and the gift of the Spirit. The Jesus who has been raised and exalted has poured out what the crowd sees and hears. Psalm 110 supplies the royal language of sitting at God’s right hand while awaiting the defeat of His enemies.",
+    "",
+    "The conclusion calls Israel to recognize this crucified Jesus as Lord and Christ. Peter is announcing the authority of the risen Messiah, rather than leaving the crowd to admire an unexplained miracle."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a central statement of the apostolic gospel: Jesus’s death belongs within God’s purpose, His resurrection fulfills Scripture, and His exaltation explains the outpouring of the Spirit. [Wesley on verses 23–35](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) follows those connections between Christ’s saving death, David’s promises and the risen Lord’s authority. The passage gives no basis for assigning responsibility for the crucifixion indiscriminately to Jewish people of later generations."
+  ],
+  "god_plan_lines": [
+    "Peter directly applies [Psalm 16:8–11](https://biblehub.com/bsb/psalms/16.htm) and [Psalm 110:1](https://biblehub.com/bsb/psalms/110.htm) to the Messiah’s resurrection and exaltation. The promises are not left as distant hopes; the witnesses announce that God has acted in Jesus.",
+    "",
+    "[Hebrews 10:12–14](https://biblehub.com/bsb/hebrews/10.htm) also joins Christ’s place at God’s right hand with His completed sacrifice and the future defeat of His enemies. The risen Lord’s present reign and the expectation of what God will yet bring to completion belong together."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/2.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-two-closing-review.md"
+  }
+}

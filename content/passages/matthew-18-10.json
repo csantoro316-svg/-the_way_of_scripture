@@ -1,0 +1,44 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "18:10",
+    "label": "Matthew 18:10",
+    "slug": "matthew-18-10"
+  },
+  "section_title": "Do Not Look Down on the Little Ones",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 See that you do not look down on any of these little ones. For I tell you that their angels in heaven always see the face of My Father in heaven."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After warning against leading His followers into sin, Jesus warns against looking down on any of them. The little ones belong to the same conversation that began with a child and continued with those who believe in Him. Their apparent importance to other people does not measure their worth before God.",
+    "",
+    "Jesus says their angels in heaven always see His Father's face. His point gives the disciples a reason to treat these people with care: they have heavenly attention even when others overlook them. [Hebrews 1:14](https://biblehub.com/bsb/hebrews/1.htm) also describes angels as spirits sent to serve those who will inherit salvation.",
+    "",
+    "The shepherd's search in verses 12–14 carries this concern forward. [BibleHub's BSB footnote](https://biblehub.com/bsb/matthew/18.htm) places the saying numbered verse 11 about the Son of Man saving the lost in the manuscript note, rather than in the main text. That is why the next passage begins at verse 12."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly see this as a reason to value even the least noticed believer and to trust God's care through His angels. The Catholic [Catechism, 336](https://www.vatican.va/archive/ENG0015/__P1A.HTM), describes an angel's protection and guidance beside each believer, while [Wesley on 18:10](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) emphasizes the angels' care for even the weakest believer."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/18.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-eighteen-review.md"
+  }
+}

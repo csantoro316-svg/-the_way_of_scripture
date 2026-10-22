@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "1:19-28",
+    "label": "John 1:19-28",
+    "slug": "john-1-19-28"
+  },
+  "section_title": "Who does John say he is?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "19 And this was John’s testimony when the Jews of Jerusalem sent priests and Levites to ask him, “Who are you?” 20 He did not refuse to confess, but openly declared, “I am not the Christ.” 21 “Then who are you?” they inquired. “Are you Elijah?” He said, “I am not.” “Are you the Prophet?” He answered, “No.” 22 So they said to him, “Who are you? We need an answer for those who sent us. What do you say about yourself?” 23 John replied in the words of Isaiah the prophet: “I am a voice of one calling in the wilderness, ‘Make straight the way for the Lord.’”",
+        "24 Then the Pharisees who had been sent 25 asked him, “Why then do you baptize, if you are not the Christ, nor Elijah, nor the Prophet?” 26 “I baptize with water,” John replied, “but among you stands One you do not know. 27 He is the One who comes after me, the straps of whose sandals I am not worthy to untie.” 28 All this happened at Bethany beyond the Jordan, where John was baptizing."
+      ]
+    }
+  ],
+  "context_lines": [
+    "A delegation from Jerusalem questions John about his identity and authority to baptize. He openly denies being the Christ. When asked whether he is Elijah or the Prophet, he denies those identities as well.",
+    "",
+    "The questions draw on promises in Scripture. Malachi speaks of Elijah before the Day of the Lord, and Moses speaks of a prophet like himself whom the people must hear. John answers by identifying his task with Isaiah’s voice preparing the Lord’s way. ([Malachi 4:5–6](https://biblehub.com/bsb/malachi/4.htm); [Deuteronomy 18:15–19](https://biblehub.com/bsb/deuteronomy/18.htm); [Isaiah 40:3–5](https://biblehub.com/bsb/isaiah/40.htm))",
+    "",
+    "He then points beyond his own water baptism to One already among them whom they do not know. John describes himself as unworthy even to untie His sandal straps. The scene takes place at Bethany beyond the Jordan, where John is baptizing."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly distinguish John’s denial of being Elijah himself from the Elijah-like role described in Luke: preparing a people in Elijah’s spirit and power. Wesley likewise reads the denial as John saying he is not the same man as Elijah, while identifying his mission with Isaiah’s promised voice. ([Luke 1:13–17](https://biblehub.com/bsb/luke/1.htm); [Wesley on John 1:21–23](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/))"
+  ],
+  "god_plan_lines": [
+    "Isaiah’s call to prepare the Lord’s way belongs to a passage announcing that His glory will be revealed. John explicitly identifies himself with that preparatory voice, and the next scene identifies Jesus as the One he is announcing. His ministry therefore stands within Scripture’s expectation of God coming to make Himself known to His people. ([Isaiah 40:3–5](https://biblehub.com/bsb/isaiah/40.htm); [John 1:29–34](https://biblehub.com/bsb/john/1.htm))",
+    "",
+    "The expectation of the Prophet also finds its larger answer in Jesus. Acts applies Moses’ promise of a prophet like himself to Christ and joins it with God’s purpose to bless people by turning them from wickedness. John’s answer directs attention toward the One who fulfills the promises, rather than claiming their place for himself. ([Deuteronomy 18:15–19](https://biblehub.com/bsb/deuteronomy/18.htm); [Acts 3:20–26](https://biblehub.com/bsb/acts/3.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Returning to the Word",
+      "href": "../studies/returning-to-the-word.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-one-closing-review.md"
+  }
+}

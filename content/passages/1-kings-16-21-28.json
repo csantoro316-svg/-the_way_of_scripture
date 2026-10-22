@@ -1,0 +1,52 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "16:21-28",
+    "label": "1 Kings 16:21-28",
+    "slug": "1-kings-16-21-28"
+  },
+  "section_title": "What does Omri establish, and what does he fail to change?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "21 At that time the people of Israel were divided: Half of the people supported Tibni son of Ginath as king, and half supported Omri. 22 But the followers of Omri proved stronger than those of Tibni son of Ginath. So Tibni died and Omri became king. 23 In the thirty-first year of Asa’s reign over Judah, Omri became king of Israel, and he reigned twelve years, six of them in Tirzah. 24 He bought the hill of Samaria from Shemer for two talents of silver and built a city there, calling it Samaria after the name of Shemer, who had owned the hill.",
+        "25 But Omri did evil in the sight of the LORD and acted more wickedly than all who were before him. 26 For he walked in all the ways of Jeroboam son of Nebat and in his sins, which he caused Israel to commit, provoking the LORD, the God of Israel, to anger with their worthless idols. 27 As for the rest of the acts of Omri, along with his accomplishments and the might he exercised, are they not written in the Book of the Chronicles of the Kings of Israel? 28 And Omri rested with his fathers and was buried in Samaria, and his son Ahab reigned in his place."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Israel is divided between supporters of Tibni and Omri. Omri’s supporters prevail, Tibni dies, and Omri becomes king. His twelve-year reign includes six years in Tirzah.",
+    "",
+    "Omri buys a hill from Shemer for two talents of silver and builds a city there, naming it Samaria after the former owner. He is eventually buried in that city, and his son Ahab succeeds him.",
+    "",
+    "The account recognizes his building work and might but gives a severe assessment of his devotion: he does more evil than his predecessors and continues Jeroboam’s ways. Establishing a city does not establish faithfulness to God."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) and [Gill](https://biblehub.com/commentaries/gill/1_kings/16.htm) count Omri’s reign from the earlier struggle for power, explaining the dates in terms of a contested period followed by sole rule.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/16.htm) emphasizes that power and renown can coexist with serious wrongdoing. The account measures Omri by his response to God, alongside the strength and accomplishments mentioned in his royal record."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/16.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-sixteen-review.md"
+  }
+}

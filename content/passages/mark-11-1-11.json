@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "11:1-11",
+    "label": "Mark 11:1-11",
+    "slug": "mark-11-1-11"
+  },
+  "section_title": "The Humble King Enters Jerusalem",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 As they approached Jerusalem and came to Bethphage and Bethany at the Mount of Olives, Jesus sent out two of His disciples 2 and said to them, “Go into the village ahead of you, and as soon as you enter it, you will find a colt tied there, on which no one has ever sat. Untie it and bring it here. 3 If anyone asks, ‘Why are you doing this?’ tell him, ‘The Lord needs it and will return it shortly.’” 4 So they went and found the colt outside in the street, tied at a doorway. They untied it, 5 and some who were standing there asked, “Why are you untying the colt?” 6 The disciples answered as Jesus had instructed them, and the people gave them permission.",
+        "7 Then they led the colt to Jesus and threw their cloaks over it, and He sat on it. 8 Many in the crowd spread their cloaks on the road, while others spread branches they had cut from the fields. 9 The ones who went ahead and those who followed were shouting: “Hosanna!” “Blessed is He who comes in the name of the Lord!” 10 “Blessed is the coming kingdom of our father David!” “Hosanna in the highest!” 11 Then Jesus entered Jerusalem and went into the temple courts. He looked around at everything, but since it was already late, He went out to Bethany with the Twelve."
+      ]
+    }
+  ],
+  "context_lines": [
+    "As Jesus approaches Jerusalem near Bethphage and Bethany at the Mount of Olives, He sends two disciples to fetch a colt on which no one has sat. They find it as He described, answer the people's question with His instructions, and receive permission to take it. They put their cloaks on it, and Jesus rides toward the city.",
+    "",
+    "People spread cloaks and branches on the road. Their shouts use the blessing from [Psalm 118:25–26](https://biblehub.com/bsb/psalms/118.htm) and celebrate the coming kingdom of David. [ὡσαννά (hosanna, hoh-ZAN-ah)](https://biblehub.com/greek/5614.htm) carries a Hebrew plea meaning save, we pray. The [BSB footnote](https://biblehub.com/bsb/mark/11.htm) explains how it also became a shout of praise.",
+    "",
+    "The way Jesus enters recalls the king in [Zechariah 9:9](https://biblehub.com/bsb/zechariah/9.htm), humble and riding on a donkey's colt. [John 12:12–16](https://biblehub.com/bsb/john/12.htm) explicitly connects the entry with that prophecy and says the disciples understood the connection after Jesus was glorified.",
+    "",
+    "Jesus then enters the temple courts and looks around. Since it is late, He leaves for Bethany with the Twelve. Mark gives this visit its own place before the following day's action in the temple. The arrival celebrated by the crowd leads toward the suffering He has just announced."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand the entry as a public sign of Jesus' kingship, with His humble arrival shaped by Zechariah's prophecy. [Calvin's discussion](https://biblehub.com/commentaries/calvin/mark/11.htm) emphasizes both the royal claim and its difference from displays of worldly splendor.",
+    "",
+    "Readers differ over how much the crowd's words reveal about their understanding. Calvin describes an acknowledgment of Jesus as king; the [USCCB note on Mark 11:1–11](https://bible.usccb.org/bible/mark/11) reads Mark's particular wording as greeting a prophet of the coming kingdom, stopping short of an explicit declaration that Jesus is Messiah. These are readings of the narrative, not competing official church definitions of who Christ is."
+  ],
+  "god_plan_lines": [
+    "The coming kingdom reaches back to God's promise that David's house and throne would endure ([2 Samuel 7:12–16](https://biblehub.com/bsb/2_samuel/7.htm)). Yet the king pictured in [Zechariah 9:9–10](https://biblehub.com/bsb/zechariah/9.htm) comes humbly, brings an end to instruments of war, and proclaims peace to the nations. Jesus' entry belongs within that larger promise, while His coming death shows the cost of the rescue He brings.",
+    "",
+    "A later picture offers a striking parallel: in [Revelation 7:9–17](https://biblehub.com/bsb/revelation/7.htm), people from every nation stand with palm branches and praise God and the Lamb for salvation. They have been made clean through the Lamb's blood, and He shepherds them into lasting comfort. This is not a claim that Mark's crowd already understood that whole vision. It is a wider biblical picture of the King whose victory gathers people through His self-giving life."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/11.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-eleven-opening-review.md"
+  }
+}

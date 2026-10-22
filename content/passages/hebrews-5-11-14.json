@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "5:11-14",
+    "label": "Hebrews 5:11-14",
+    "slug": "hebrews-5-11-14"
+  },
+  "section_title": "How does continued learning grow into wise judgment?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "11 We have much to say about this, but it is hard to explain, because you are dull of hearing. 12 Although by this time you ought to be teachers, you need someone to reteach you the basic principles of God’s word. You need milk, not solid food! 13 For everyone who lives on milk is still an infant, inexperienced in the message of righteousness. 14 But solid food is for the mature, who by constant use have trained their senses to distinguish good from evil."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The writer pauses the discussion of Melchizedek because his readers have become slow to listen. They have had time to grow, yet need the basics taught again. The concern is their response to what they have heard, rather than the worth of the message.",
+    "",
+    "Milk and solid food describe stages of learning. The basics are necessary, but the readers should be growing able to understand more and help others. Remaining dependent on the first lessons has left them inexperienced.",
+    "",
+    "Maturity involves practice. Their powers of judgment are trained through use to distinguish good from evil. The goal is more than accumulating information: what they learn should shape how they recognize and respond to what is right."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/5.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) read the food language as a call to progress in understanding. Calvin emphasizes that both milk and solid food are sound teaching, appropriate to the learner’s stage. Wesley likewise says the problem is living only on milk, rather than any use of it.",
+    "",
+    "Both connect maturity with practiced understanding. The [USCCB notes](https://bible.usccb.org/bible/hebrews/5) also see the passage as a rebuke intended to stir the readers to further growth. Difficult teaching is not presented as a reason to give up, and the passage does not require every believer to hold the same formal teaching office."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 4:11–16](https://biblehub.com/bsb/ephesians/4.htm) describes teaching and shared service leading the body toward maturity in Christ, with believers becoming less vulnerable to misleading teaching. That is a related picture of the growth called for here.",
+    "",
+    "[Romans 12:1–2](https://biblehub.com/bsb/romans/12.htm) joins renewed understanding with discerning God’s will and offering our lives to Him. The intended fruit of learning is a people able to live faithfully, not simply people who know more difficult terms."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-five-review.md"
+  }
+}

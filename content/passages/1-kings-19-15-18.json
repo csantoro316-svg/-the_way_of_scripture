@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "19:15-18",
+    "label": "1 Kings 19:15-18",
+    "slug": "1-kings-19-15-18"
+  },
+  "section_title": "Is Elijah really the only faithful person left?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 Then the LORD said to him, “Go back by the way you came, and go to the Desert of Damascus. When you arrive, you are to anoint Hazael as king over Aram. 16 You are also to anoint Jehu son of Nimshi as king over Israel and Elisha son of Shaphat from Abel-meholah to succeed you as prophet. 17 Then Jehu will put to death whoever escapes the sword of Hazael, and Elisha will put to death whoever escapes the sword of Jehu. 18 Nevertheless, I have reserved seven thousand in Israel—all whose knees have not bowed to Baal and whose mouths have not kissed him.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The LORD gives Elijah a further assignment: return and appoint Hazael as king of Aram, Jehu as king of Israel and Elisha as the prophet who will succeed him. God’s response includes continuing work, coming judgment and a successor.",
+    "",
+    "Then comes the correction to Elijah’s isolation: God has reserved seven thousand in Israel who have not bowed to Baal or kissed him in worship.",
+    "",
+    "Elijah does not see the whole picture. The LORD knows the people who remain faithful, and the future of His work does not depend on this one servant carrying it alone."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/19.htm) emphasizes that God’s faithful people may be hidden from the prophet’s view. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) likewise reads the answer as correcting Elijah’s belief that he alone remains.",
+    "",
+    "[Gill](https://biblehub.com/commentaries/gill/1_kings/19.htm) discusses the preservation of these worshippers in connection with the judgment to come as well as the answer to Elijah’s present complaint. The assurance stands beside the announcement of judgment: God is still preserving people for Himself."
+  ],
+  "god_plan_lines": [
+    "[Romans 11:1–6](https://biblehub.com/bsb/romans/11.htm) directly quotes Elijah’s complaint and God’s answer about the seven thousand. Paul uses the passage while denying that God has rejected His people.",
+    "",
+    "He then identifies a continuing remnant chosen by grace in his own day. The New Testament itself supplies the larger connection: widespread unfaithfulness does not mean God has lost sight of His people or that His gracious purpose has failed. Elijah’s limited view is corrected by what God has preserved."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/19.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-nineteen-review.md"
+  }
+}

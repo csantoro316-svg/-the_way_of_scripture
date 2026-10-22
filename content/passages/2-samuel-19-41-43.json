@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "19:41-43",
+    "label": "2 Samuel 19:41-43",
+    "slug": "2-samuel-19-41-43"
+  },
+  "section_title": "Why does the welcome turn into another quarrel?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "41 Soon all the men of Israel came to the king and asked, “Why did our brothers, the men of Judah, take you away secretly and bring the king and his household across the Jordan, together with all of David’s men?” 42 And all the men of Judah replied to the men of Israel, “We did this because the king is our relative. Why does this anger you? Have we ever eaten at the king’s expense or received anything for ourselves?” 43 “We have ten shares in the king,” answered the men of Israel, “so we have more claim to David than you. Why then do you despise us? Were we not the first to speak of restoring our king?” But the men of Judah spoke more fiercely than the men of Israel."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The men of Israel accuse Judah of taking the king across the Jordan without them. Judah answers that David is their relative and denies receiving special benefits. Israel claims a larger share in the king and says its people were first to speak of bringing him back.",
+    "",
+    "The narrator ends by saying that Judah answers more fiercely. Both sides claim loyalty to David, but their words expose rivalry over recognition and influence. The king is returning; the nation’s division is still present."
+  ],
+  "common_interpretation_lines": [
+    "[Gill](https://biblehub.com/commentaries/gill/2_samuel/19.htm) connects Israel’s claim of having spoken first with the discussion already recorded earlier in the chapter. It is not simply a claim the story has given no reason to consider.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/19.htm) emphasizes the harm of pride and harsh speech, while [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) links the dispute with the rebellion that follows. The closing scene qualifies the chapter’s welcome: support for the same king has not yet become patient regard for one another."
+  ],
+  "god_plan_lines": [
+    "The quarrel shows how people can speak for a common cause while competing for priority within it. Scripture’s larger purpose for God’s people includes a different way of belonging together.",
+    "",
+    "[Ephesians 4:1–6](https://biblehub.com/bsb/ephesians/4.htm) calls believers to humility, gentleness, patience and a diligent effort to preserve unity through peace. The unity is grounded in one Lord, one faith and one God, rather than in a contest over who deserves the greater share of honor.",
+    "",
+    "This is a shared theme, not a claim that Paul directly interprets Judah’s argument or that the church and the tribes have identical political arrangements. It shows why loyalty to the King should shape how His people speak to one another."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/19.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-nineteen-review.md"
+  }
+}

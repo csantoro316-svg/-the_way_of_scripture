@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "11:39-40",
+    "label": "Hebrews 11:39-40",
+    "slug": "hebrews-11-39-40"
+  },
+  "section_title": "How does God bring their story and ours together?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "39 These were all commended for their faith, yet they did not receive what was promised. 40 God had planned something better for us, so that together with us they would be made perfect."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The chapter closes by gathering all its examples into one statement. These people were commended for faith, yet they had not received the promised completion. Their lives were part of a purpose that also includes the writer and his readers.",
+    "",
+    "This does not contradict verse 33, where some gained what was promised. God truly fulfilled particular promises along the way, while the full completion remained ahead. The earlier gifts did not exhaust everything He intended.",
+    "",
+    "The phrase together with us keeps their story from becoming a separate history of spiritual achievement. God has provided something better that joins His people across generations. The next paragraph turns that shared history into a call to endure while looking to Jesus."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/11.htm), [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) and the [USCCB note](https://bible.usccb.org/bible/hebrews/11) explain the timing of this completion differently. Calvin emphasizes the fuller revelation and fulfillment brought by Christ’s coming, through which God unites the earlier faithful with later believers. Wesley looks toward the perfected life they will share together in heaven.",
+    "",
+    "The USCCB note emphasizes the earlier faithful receiving their recompense through Christ’s completed saving work, while Christians still struggling have yet to possess that fullness. These readings all connect the generations through God’s purpose, but they should not be flattened into one agreed timetable for every part of the promise."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 1:9–10](https://biblehub.com/bsb/ephesians/1.htm) describes God’s purpose to bring all things together in Christ. [Ephesians 2:14–22](https://biblehub.com/bsb/ephesians/2.htm) shows that purpose bringing Jewish and Gentile believers into one household with access to the Father.",
+    "",
+    "Hebrews places earlier and later believers within the one story God is bringing to completion. The call that follows is to run with endurance while looking to Jesus, whose own suffering and exaltation give that shared hope its center."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/11.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-eleven-closing-review.md"
+  }
+}

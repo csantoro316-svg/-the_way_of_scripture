@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "14:8-11",
+    "label": "John 14:8-11",
+    "slug": "john-14-8-11"
+  },
+  "section_title": "What does seeing Jesus show us about the Father?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "8 Philip said to Him, “Lord, show us the Father, and that will be enough for us.” 9 Jesus replied, “Philip, I have been with you all this time, and still you do not know Me? Anyone who has seen Me has seen the Father. How can you say, ‘Show us the Father’?",
+        "10 Do you not believe that I am in the Father and the Father is in Me? The words I say to you, I do not speak on My own. Instead, it is the Father dwelling in Me, performing His works. 11 Believe Me that I am in the Father and the Father is in Me—or at least believe on account of the works themselves."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Philip asks Jesus to show them the Father. The request follows Jesus’ statement that knowing Him means knowing the Father. Jesus answers by pointing Philip back to the years they have spent together: His presence has already been making the Father known.",
+    "",
+    "He explains this through His relationship with the Father. The Father is in Him, and He is in the Father. His words and works are not a separate mission carried out on His own authority. The Father dwelling in Him is at work.",
+    "",
+    "The conversation still distinguishes Jesus from the Father: Jesus speaks about the Father who dwells in Him. At the same time, it does not reduce Him to an unrelated messenger. His words and works reveal the Father in a way that calls for trust in Him. He urges them to believe what He says, or at least to consider the works that bear witness to it."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as Jesus making the Father known through His own person, words and works. [Wesley on verses 10–11](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) emphasizes His unity with the Father in being and action. [Calvin on verse 10](https://biblehub.com/commentaries/calvin/john/14.htm) concentrates on how the Father is revealed in Him, while also affirming that the passage supports Christ’s deity. Their emphases differ without making the Father and Son the same person."
+  ],
+  "god_plan_lines": [
+    "This is part of the New Testament’s larger account of God making Himself known through His Son. [Hebrews 1:1–3](https://biblehub.com/bsb/hebrews/1.htm) moves from God speaking through the prophets to speaking through the Son, who perfectly represents His nature.",
+    "",
+    "The revelation also belongs to the work of bringing people back to God. [Colossians 1:15–20](https://biblehub.com/bsb/colossians/1.htm) describes the Son as the image of the invisible God and connects His fullness with reconciliation through the blood of His cross. The One who makes the Father known is the One through whom peace is made."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who is The Angel of the Lord?",
+      "href": "../studies/angel-of-the-lord.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/14.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-fourteen-opening-review.md"
+  }
+}

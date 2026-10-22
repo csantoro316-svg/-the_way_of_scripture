@@ -5,7 +5,7 @@
     "label": "Exodus 37:6-9",
     "slug": "exodus-37-6-9"
   },
-  "section_title": "The Mercy Seat",
+  "section_title": "Why is the ark covered by a mercy seat?",
   "versions": [
     {
       "label": "BSB",
@@ -15,12 +15,45 @@
     }
   ],
   "context_lines": [
-    "In **Exodus 37**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "Bezalel makes the ark’s cover from pure gold, with two cherubim formed at its ends. Their wings overshadow the cover and their faces turn toward it. The dimensions match the length and width of the ark.",
+    "",
+    "The BSB calls this cover the mercy seat. In the original instructions, God promises to meet Moses and speak from above it, between the cherubim ([Exodus 25:17–22](https://biblehub.com/bsb/exodus/25.htm)). The description prepares us for worship before a holy God who makes a way for His people to approach Him."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Mercy Seat** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 37** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) reads the ark, mercy seat, and cherubim together as a picture of communion with a holy God through a mediator. He connects that reconciliation with Jesus Christ, while [Calvin](https://biblehub.com/commentaries/calvin/exodus/37.htm) emphasizes the care taken to make the cover as God commanded."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The New Testament gives us an important connection in its wording. [Hebrews 9:5](https://biblehub.com/bsb/hebrews/9.htm) calls the mercy seat ἱλαστήριον, *hilastērion* (hi-las-TAY-ree-on). [Thayer’s lexicon](https://biblehub.com/greek/2435.htm) explains that the word can name this cover or the means of dealing with sin. Paul uses the same word for Christ in [Romans 3:21–26](https://biblehub.com/bsb/romans/3.htm), where the BSB renders it as an atoning sacrifice.",
+    "",
+    "Readers discuss whether Paul especially has the mercy seat or the sacrifice in view. In either case, his explanation centers on God providing redemption through Jesus’ blood while demonstrating His righteousness. [Hebrews 9:11–15](https://biblehub.com/bsb/hebrews/9.htm) develops that greater work: Christ secures eternal redemption and cleanses the conscience so that His people can serve the living God."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/exodus/37.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-exodus-thirty-seven-review.md"
+  }
 }

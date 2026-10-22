@@ -1,0 +1,67 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "7:37-44",
+    "label": "John 7:37-44",
+    "slug": "john-7-37-44"
+  },
+  "section_title": "What is the living water Jesus promises?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "37 On the last and greatest day of the feast, Jesus stood up and called out in a loud voice, “If anyone is thirsty, let him come to Me and drink. 38 Whoever believes in Me, as the Scripture has said: ‘Streams of living water will flow from within him.’” 39 He was speaking about the Spirit, whom those who believed in Him were later to receive. For the Spirit had not yet been given, because Jesus had not yet been glorified.",
+        "40 On hearing these words, some of the people said, “This is truly the Prophet.” 41 Others declared, “This is the Christ.” But still others asked, “How can the Christ come from Galilee? 42 Doesn’t the Scripture say that the Christ will come from the line of David and from Bethlehem, the village where David lived?” 43 So there was division in the crowd because of Jesus. 44 Some of them wanted to seize Him, but no one laid a hand on Him."
+      ]
+    }
+  ],
+  "context_lines": [
+    "On the last and greatest day of the feast, Jesus calls thirsty people to come to Him and drink. He speaks of streams of living water flowing from within the believer. The Gospel explains that He means the Spirit, to be received after Jesus is glorified. That points ahead to His death, resurrection and return to the Father.",
+    "",
+    "The Greek word κοιλία, koilia (koy-LEE-ah), can describe the belly and can also refer to the inner person. Thayer lists John 7:38 under this figurative meaning: the heart or inward life. That helps explain the picture of life flowing from within. ([Thayer, Greek 2836](https://biblehub.com/greek/2836.htm))",
+    "",
+    "The Mishnah, a collection of Jewish teachings, describes water being brought from the pool of Siloam and poured at the altar during the feast. This gives background for the invitation, though the Gospel does not narrate each part of that ceremony or identify the exact moment when Jesus speaks. ([Mishnah Sukkah 4:9](https://www.sefaria.org/Mishnah_Sukkah.4.9?lang=bi))",
+    "",
+    "The crowd remains divided. Some identify Jesus as the Prophet or the Christ, while others question how He could qualify if He comes from Galilee. They appeal to the Messiah’s Davidic descent and Bethlehem. Some want to seize Him, but no one lays a hand on Him."
+  ],
+  "common_interpretation_lines": [
+    "Christian readers agree on the Gospel’s own explanation that the living water concerns the Spirit. The wording also leads to different readings of how that life flows.",
+    "",
+    "Wesley reads the streams as God’s life filling believers and flowing onward to others. Calvin also reads the water as flowing within believers, with the main emphasis on an enduring supply of spiritual life. ([Wesley on John 7:38](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/); [Calvin on John 7:38](https://biblehub.com/commentaries/calvin/john/7.htm))",
+    "",
+    "The USCCB’s notes also record a reading in which Jesus Himself is the source from whom the water flows, alongside the reading centered on the believer. The BSB’s wording follows the latter, as does the main reading in those notes. These are interpretations of the image within the shared account of the Spirit’s gift. ([USCCB note on John 7:38](https://bible.usccb.org/bible/john/7))"
+  ],
+  "god_plan_lines": [
+    "Isaiah invites the thirsty to come to God’s provision without payment and pictures joyful water drawn from the springs of salvation. Zechariah pictures living water flowing from Jerusalem alongside the Lord’s rule over all the earth. Jesus’ invitation belongs alongside these scriptural promises of life from God. The connections are supported parallels; the words here are not an exact quotation of one single verse. ([Isaiah 12:1–6](https://biblehub.com/bsb/isaiah/12.htm); [Isaiah 55:1–3](https://biblehub.com/bsb/isaiah/55.htm); [Zechariah 14:8–9](https://biblehub.com/bsb/zechariah/14.htm))",
+    "",
+    "Acts supplies the later connection between Jesus’ glorification and the Spirit being poured out. Peter announces that God has raised Jesus and exalted Him, and that He has received the promised Spirit from the Father and poured out what the people see and hear. The invitation at the feast looks ahead within that larger saving mission. ([Acts 2:32–33](https://biblehub.com/bsb/acts/2.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/7.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-seven-closing-review.md"
+  }
+}

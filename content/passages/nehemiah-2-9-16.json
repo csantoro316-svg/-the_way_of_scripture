@@ -1,0 +1,50 @@
+{
+  "reference": {
+    "book": "Nehemiah",
+    "citation": "2:9-16",
+    "label": "Nehemiah 2:9-16",
+    "slug": "nehemiah-2-9-16"
+  },
+  "section_title": "Why does Nehemiah inspect the walls before announcing his plan?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "9 Then I went to the governors west of the Euphrates and gave them the king’s letters. The king had also sent army officers and cavalry with me. 10 But when Sanballat the Horonite and Tobiah the Ammonite official heard about this, they were deeply disturbed that someone had come to seek the well-being of the Israelites.",
+        "11 After I had arrived in Jerusalem and had been there three days, 12 I set out at night with a few men. I did not tell anyone what my God had laid on my heart to do for Jerusalem. The only animal with me was the one on which I was riding. 13 So I went out at night through the Valley Gate toward the Well of the Serpent and the Dung Gate, and I inspected the walls of Jerusalem that had been broken down and the gates that had been destroyed by fire. 14 Then I went on to the Fountain Gate and the King’s Pool, but there was no room for the animal under me to get through; 15 so I went up the valley by night and inspected the wall. Then I headed back and reentered through the Valley Gate. 16 The officials did not know where I had gone or what I was doing, for I had not yet told the Jews or priests or nobles or officials or any other workers."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Nehemiah delivers the king’s letters to the regional governors and travels with army officers and cavalry. Sanballat and Tobiah are disturbed that someone has come to seek the Israelites’ well-being.",
+    "",
+    "After three days in Jerusalem, Nehemiah goes out at night with a few men. He has not yet told the local officials what God has laid on his heart to do. He follows a route past gates and pools, examining the broken walls and burned gates.",
+    "",
+    "At one point his animal cannot get through, so he continues his inspection by the valley and returns through the Valley Gate. The officials and prospective workers still do not know where he has gone or what he is preparing."
+  ],
+  "common_interpretation_lines": [
+    "[Gill](https://biblehub.com/commentaries/gill/nehemiah/2.htm) understands the small company and nighttime visit as a way of keeping the plan private until Nehemiah is ready. [Henry](https://biblehub.com/commentaries/mhc/nehemiah/2.htm) emphasizes that he considers the situation before asking the people to join him. The narrative clearly records the inspection and temporary secrecy, while leaving several possible reasons for the precise arrangements unstated."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/nehemiah/2.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-nehemiah-one-two-review.md"
+  }
+}

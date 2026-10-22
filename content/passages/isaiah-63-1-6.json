@@ -5,44 +5,54 @@
     "label": "Isaiah 63:1-6",
     "slug": "isaiah-63-1-6"
   },
-  "section_title": "God\u2019s Vengeance on the Nations",
+  "section_title": "Who is the mighty figure whose garments are stained red?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 Who is this coming from Edom,",
-        "from Bozrah with crimson-stained garments?",
-        "Who is this robed in splendor,",
-        "marching in the greatness of His strength?",
-        "\u201cIt is I, proclaiming vindication,",
-        "mighty to save.\u201d",
-        "2 Why are Your clothes red,",
-        "and Your garments like one who treads the winepress?",
-        "3 \u201cI have trodden the winepress alone,",
-        "and no one from the nations was with Me.",
-        "I trampled them in My anger",
-        "and trod them down in My fury;",
-        "their blood spattered My garments,",
-        "and all My clothes were stained.",
-        "4 For the day of vengeance was in My heart,",
-        "and the year of My redemption had come.",
-        "5 I looked, but there was no one to help;",
-        "I was appalled that no one assisted.",
-        "So My arm brought Me salvation,",
-        "and My own wrath upheld Me.",
-        "6 I trampled the nations in My anger;",
-        "in My wrath I made them drunk",
-        "and poured out their blood on the ground.\u201d"
+        "1 Who is this coming from Edom, from Bozrah with crimson-stained garments? Who is this robed in splendor, marching in the greatness of His strength? “It is I, proclaiming vindication, mighty to save.” 2 Why are Your clothes red, and Your garments like one who treads the winepress? 3 “I have trodden the winepress alone, and no one from the nations was with Me. I trampled them in My anger and trod them down in My fury; their blood spattered My garments, and all My clothes were stained.",
+        "4 For the day of vengeance was in My heart, and the year of My redemption had come. 5 I looked, but there was no one to help; I was appalled that no one assisted. So My arm brought Me salvation, and My own wrath upheld Me. 6 I trampled the nations in My anger; in My wrath I made them drunk and poured out their blood on the ground.”"
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 63**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "A question introduces a majestic figure coming from Edom and Bozrah in crimson-stained clothing. He identifies Himself as the One who proclaims vindication and is mighty to save. A second question asks why His garments look like those of someone treading a winepress.",
+    "",
+    "The answer turns the winepress into an image of judgment. He has trodden it alone, and the stain is the blood of the nations He has judged. No one from those nations stood with Him.",
+    "",
+    "The day of vengeance and year of redemption have arrived together. When no one supplied help, His own arm brought salvation. The passage connects rescue with His decisive action against those who oppose Him."
   ],
   "common_interpretation_lines": [
-    "A common reading of **God\u2019s Vengeance on the Nations** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "The [USCCB notes](https://bible.usccb.org/bible/isaiah/63) identify the approaching figure as the Lord and the winepress as an image of His judgment. [Henry](https://biblehub.com/commentaries/mhc/isaiah/63.htm) and [Wesley](https://biblehub.com/commentaries/wes/isaiah/63.htm) read the victorious figure through the Messiah, with Edom representing opposition to His people.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 63** remains the first control on meaning."
+    "Both Henry and Wesley emphasize that the victory comes through His own power. Henry distinguishes the blood He shed in His saving sacrifice from this picture of judgment upon His enemies. The stain here belongs to the explanation supplied by the passage itself."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[Revelation 19:11–16](https://biblehub.com/bsb/revelation/19.htm) takes up the blood-stained robe and the winepress of God’s wrath. The rider judges in righteousness, bears the name Word of God, and is identified as King of kings and Lord of lords.",
+    "",
+    "This gives Isaiah’s victory picture a clear connection with the New Testament’s presentation of Christ as judge. The One whose saving work brings redemption also confronts evil with authority. The action belongs to Him; the passage does not commission readers to take vengeance into their own hands."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/63.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-sixty-three-six-review.md"
+  }
 }

@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "10:26-29",
+    "label": "1 Kings 10:26-29",
+    "slug": "1-kings-10-26-29"
+  },
+  "section_title": "What concern is raised by Solomon’s horses and chariots?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "26 Solomon accumulated 1,400 chariots and 12,000 horses, which he stationed in the chariot cities and also with him in Jerusalem. 27 The king made silver as common in Jerusalem as stones, and cedar as abundant as sycamore in the foothills. 28 Solomon’s horses were imported from Egypt and Kue; the royal merchants purchased them from Kue. 29 A chariot could be imported from Egypt for six hundred shekels of silver, and a horse for a hundred and fifty. Likewise, they exported them to all the kings of the Hittites and to the kings of Aram."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Solomon accumulates fourteen hundred chariots and twelve thousand horses, stationing them in chariot cities and Jerusalem. The account adds another picture of abundance: silver is as common as stones and cedar as plentiful as sycamore.",
+    "",
+    "Royal merchants import horses from Egypt and Kue. The narrator gives the prices of imported chariots and horses and notes their export to Hittite and Aramean kings.",
+    "",
+    "The trade belongs beside [Deuteronomy 17:16–17](https://biblehub.com/bsb/deuteronomy/17.htm), where Israel’s king is warned against multiplying horses, returning to Egypt to obtain them and accumulating great wealth. The inventory therefore raises a question about obedience alongside its picture of success."
+  ],
+  "common_interpretation_lines": [
+    "[Gill](https://biblehub.com/commentaries/gill/1_kings/10.htm) explicitly notes the tension between importing horses from Egypt and the command in Deuteronomy. He also reads the closing verse as describing royal merchants buying and exporting the animals and chariots.",
+    "",
+    "The [USCCB notes](https://bible.usccb.org/bible/1kings/10) emphasize the way chariots and horses become another traded commodity in this account. Read with the law for Israel’s king, material and military strength cannot simply be taken as proof that every royal decision is faithful."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/10.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-ten-review.md"
+  }
+}

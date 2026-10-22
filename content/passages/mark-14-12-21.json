@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "14:12-21",
+    "label": "Mark 14:12-21",
+    "slug": "mark-14-12-21"
+  },
+  "section_title": "What does Jesus reveal at the Passover meal?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "12 On the first day of the Feast of Unleavened Bread, when the Passover lamb was to be sacrificed, Jesus’ disciples asked Him, “Where do You want us to prepare for You to eat the Passover?” 13 So He sent two of His disciples and told them, “Go into the city, and a man carrying a jug of water will meet you. Follow him, 14 and whichever house he enters, say to the owner, ‘The Teacher asks: Where is My guest room, where I may eat the Passover with My disciples?’ 15 And he will show you a large upper room, furnished and ready. Make preparations for us there.” 16 So the disciples left and went into the city, where they found everything as Jesus had described. And they prepared the Passover.",
+        "17 When evening came, Jesus arrived with the Twelve. 18 And while they were reclining and eating, Jesus said, “Truly I tell you, one of you who is eating with Me will betray Me.” 19 They began to be grieved and to ask Him one after another, “Surely not I?” 20 He answered, “It is one of the Twelve—the one who is dipping his hand into the bowl with Me. 21 The Son of Man will go just as it is written about Him, but woe to that man by whom He is betrayed! It would be better for him if he had not been born.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The disciples ask where to prepare the Passover. Jesus sends two of them with instructions that lead to a furnished upper room, and they find things as He described. Luke names the two as Peter and John. Mark does not name the householder or explain whether the meeting had been arranged in advance. ([Luke 22:7–13](https://biblehub.com/bsb/luke/22.htm))",
+    "",
+    "The Greek word πάσχα (pascha, PAHS-khah) can refer to the Passover lamb, the meal, or the festival. Those related uses help explain the language here: a lamb is sacrificed, a meal is prepared, and the disciples gather during the feast. The word itself does not resolve every question about the Gospel accounts’ calendars. ([Thayer, πάσχα](https://biblehub.com/greek/3957.htm))",
+    "",
+    "At the meal, Jesus says that one eating with Him will betray Him. The disciples grieve and question themselves. Sharing the table makes the betrayal especially painful. Jesus then holds two truths together: the Son of Man’s death accords with Scripture, and the betrayer bears grave responsibility. A place among the Twelve and at the table does not excuse what he is doing."
+  ],
+  "common_interpretation_lines": [
+    "Christian readers commonly see Jesus’ preparation and warning as showing that the betrayal does not take Him by surprise. The Catholic study notes emphasize the contrast between sharing the Passover table and betraying the One who shares it; Wesley sees the fulfilled instructions as evidence of Jesus’ knowledge and authority. ([USCCB, notes on Mark 14:18–21](https://bible.usccb.org/bible/mark/14); [Wesley, note on Mark 14:13](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-mark/))"
+  ],
+  "god_plan_lines": [
+    "Passover remembers God rescuing His people from bondage and judgment. Paul explicitly identifies Christ with the sacrificed Passover lamb and calls the church to live with sincerity and truth in light of that sacrifice. The meal’s setting therefore belongs to a scriptural story of deliverance that reaches its fulfillment through Jesus. ([Exodus 12:1–14](https://biblehub.com/bsb/exodus/12.htm); [1 Corinthians 5:6–8](https://biblehub.com/bsb/1_corinthians/5.htm))",
+    "",
+    "Peter’s preaching likewise holds God’s purpose and human responsibility together: Jesus was handed over according to God’s plan, people put Him to death, and God raised Him. The warning to the betrayer does not disappear because God brings salvation through the cross. The saving outcome is God’s victory over sin and death, not approval of the betrayal. ([Acts 2:22–24](https://biblehub.com/bsb/acts/2.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/14.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-fourteen-opening-review.md"
+  }
+}

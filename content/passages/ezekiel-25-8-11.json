@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "25:8-11",
+    "label": "Ezekiel 25:8-11",
+    "slug": "ezekiel-25-8-11"
+  },
+  "section_title": "What does Moab miss when it dismisses Judah as just another nation?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "8 This is what the Lord GOD says: ‘Because Moab and Seir said, “Look, the house of Judah is like all the other nations,” 9 therefore I will indeed expose the flank of Moab beginning with its frontier cities—Beth-jeshimoth, Baal-meon, and Kiriathaim—the glory of the land. 10 I will give it along with the Ammonites as a possession to the people of the East, so that the Ammonites will no longer be remembered among the nations. 11 So I will execute judgments on Moab, and they will know that I am the LORD.’"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Moab and Seir say that Judah is like all the other nations. In the setting of Judah’s fall, that dismissal denies that its relationship with the Lord makes any difference.",
+    "",
+    "The Lord answers by announcing the exposure of Moab’s flank, beginning with the named frontier cities. The land’s glory will not secure it against judgment.",
+    "",
+    "Moab’s fate is placed beside Ammon’s: the land will be given to the people from the East. The closing purpose answers the original dismissal. Moab will know the Lord through His judgments."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/ezekiel/25.htm) understands the taunt as denying that Judah is a people specially chosen by God. [Henry](https://biblehub.com/commentaries/mhc/ezekiel/25.htm) emphasizes the danger of relying on defenses other than the Lord’s power and promise.",
+    "",
+    "The passage distinguishes Judah’s relationship with God without denying its guilt. Judah’s defeat is not proof that the Lord has no claim on it or no authority over its neighbors."
+  ],
+  "god_plan_lines": [
+    "[Jeremiah 48:46–47](https://biblehub.com/bsb/jeremiah/48.htm) also announces captivity for Moab, then promises that the Lord will restore Moab from captivity in the latter days. That promise adds something this short judgment does not state.",
+    "",
+    "The wider picture leaves room for the Lord’s mercy beyond Israel’s borders. Mercy does not erase the wrong being judged, but judgment does not exhaust what the Lord promises."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/25.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-twenty-five-review.md"
+  }
+}

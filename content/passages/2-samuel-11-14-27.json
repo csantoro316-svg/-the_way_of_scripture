@@ -1,0 +1,73 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "11:14-27",
+    "label": "2 Samuel 11:14-27",
+    "slug": "2-samuel-11-14-27"
+  },
+  "section_title": "Can David hide murder inside the losses of war?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 The next morning David wrote a letter to Joab and sent it with Uriah. 15 In the letter he wrote: “Put Uriah at the front of the fiercest battle; then withdraw from him, so that he may be struck down and killed.” 16 So as Joab besieged the city, he assigned Uriah to a place where he knew the strongest enemy soldiers were. 17 And when the men of the city came out and fought against Joab, some of David’s servants fell, and Uriah the Hittite also died.",
+        "18 Joab sent to David a full account of the battle 19 and instructed the messenger, “When you have finished giving the king a full account of the battle, 20 if the king’s anger flares, he may ask you, ‘Why did you get so close to the city to fight? Did you not realize they would shoot from atop the wall? 21 Who struck Abimelech son of Jerubbesheth? Was it not a woman who dropped an upper millstone on him from the wall, so that he died in Thebez? Why did you get so close to the wall?’ If he asks you this, then you are to say, ‘Your servant Uriah the Hittite is dead as well.’”",
+        "22 So the messenger set out and reported to David all that Joab had sent him to say. 23 The messenger said to David, “The men overpowered us and came out against us in the field, but we drove them back to the entrance of the gate. 24 Then the archers shot at your servants from the wall, and some of the king’s servants were killed. And your servant Uriah the Hittite is dead as well.” 25 Then David told the messenger, “Say this to Joab: ‘Do not let this matter upset you, for the sword devours one as well as another. Strengthen your attack against the city and demolish it.’ Encourage him with these words.”",
+        "26 When Uriah’s wife heard that her husband was dead, she mourned for him. 27 And when the time of mourning was over, David had her brought to his house, and she became his wife and bore him a son. But the thing that David had done was evil in the sight of the LORD."
+      ]
+    }
+  ],
+  "context_lines": [
+    "David sends Joab a letter carried by Uriah himself, ordering that Uriah be placed in the fiercest fighting and left exposed so that he will die. Joab assigns him to a dangerous position. Enemy soldiers come out, and Uriah dies along with other men from David’s forces.",
+    "",
+    "Joab prepares a messenger to explain the battlefield losses. He anticipates that David might question why the troops went so close to the wall, recalling Abimelech’s death at Thebez. The messenger is to report Uriah’s death as well. David responds by minimizing the loss as something the sword does to one person as to another and urges Joab to continue the attack.",
+    "",
+    "Bathsheba mourns her husband. After the mourning, David brings her into his house, marries her, and she bears a son. The chapter’s final judgment cuts through the appearance that the matter has been settled: what David has done is evil in the LORD’s sight."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) and [Gill](https://biblehub.com/commentaries/gill/2_samuel/11.htm) understand the order as murder designed to conceal the earlier wrongdoing. Uriah’s death in a real battle does not turn David’s intended killing into an innocent wartime loss. Other soldiers also die in the operation.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/11.htm) emphasizes how one wrongdoing is used to cover another. [Gill](https://biblehub.com/commentaries/gill/2_samuel/11.htm) contrasts David’s dismissal of these deaths with his earlier sensitivity over harming Saul. The account allows the king’s moral decline to be seen instead of protecting his reputation.",
+    "",
+    "The closing verdict belongs to the LORD, not to the success or failure of the cover-up. David’s marriage to Bathsheba does not erase Uriah’s death, and the son born here is not named Solomon. The consequences and the confrontation with David follow in the next chapter."
+  ],
+  "god_plan_lines": [
+    "David uses royal authority to arrange the death of a man serving him. That gives a painful contrast with the kingship Jesus describes in [Mark 10:42–45](https://biblehub.com/bsb/mark/10.htm). Jesus warns against ruling by lording power over others and calls His followers to serve.",
+    "",
+    "He then explains His own mission as giving His life as a ransom for many. David sacrifices a servant’s life to protect himself; Jesus gives His own life to save others. This is a contrast grounded in Scripture, not a claim that Uriah’s murder was secretly a righteous act.",
+    "",
+    "The larger story therefore gives us reason to look beyond David to Christ. A king’s appointment does not make his abuse of power good. The saving King shows the proper direction of His authority through service and self-giving."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/11.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-ten-eleven-review.md"
+  }
+}

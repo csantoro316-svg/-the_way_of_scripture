@@ -5,25 +5,60 @@
     "label": "Titus 2:11-15",
     "slug": "titus-2-11-15"
   },
-  "section_title": "God's Grace Brings Salvation",
+  "section_title": "How does God’s grace teach us to live while we wait for Christ?",
   "versions": [
     {
       "label": "BSB",
-      "text": "For the grace of God has appeared, bringing salvation to everyone. It instructs us to renounce ungodliness and worldly passions, and to live sensible, upright, and godly lives in the present age, as we await the blessed hope and glorious appearance of our great God and Savior Jesus Christ. He gave Himself for us to redeem us from all lawlessness and to purify for Himself a people for His own possession, zealous for good deeds. Speak these things as you encourage and rebuke with all authority. Let no one despise you."
+      "paragraphs": [
+        "11 For the grace of God has appeared, bringing salvation to everyone. 12 It instructs us to renounce ungodliness and worldly passions, and to live sensible, upright, and godly lives in the present age, 13 as we await the blessed hope and glorious appearance of our great God and Savior Jesus Christ. 14 He gave Himself for us to redeem us from all lawlessness and to purify for Himself a people for His own possession, zealous for good deeds.",
+        "15 Speak these things as you encourage and rebuke with all authority. Let no one despise you."
+      ]
     }
   ],
   "context_lines": [
-    "Paul grounds the ethical demands of chapter 2 in the appearing of God's grace. Grace is not introduced here as permission to remain unchanged, but as the power and pattern for a transformed life."
+    "The word for at the beginning explains the instructions just given. God’s saving grace has appeared, and that grace teaches people to leave ungodliness and worldly passions behind and live rightly now.",
+    "",
+    "The verb for instructing, [paideuo](https://biblehub.com/greek/3811.htm) (pie-DYOO-oh), carries the idea of teaching and training. Grace is doing more than overlooking wrong: it forms a different way of life.",
+    "",
+    "Paul joins two horizons. Christ has given Himself to redeem and purify a people who belong to Him, eager for good work. Those people now live in hope of His glorious appearing. Titus is to teach, encourage and correct on that foundation."
   ],
   "common_interpretation_lines": [
-    "A common interpretation of this passage is that grace both saves and trains. Paul does not set salvation by grace against holiness; he presents grace itself as teaching believers how to renounce ungodliness and live rightly.",
+    "[Calvin](https://biblehub.com/commentaries/calvin/titus/2.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-titus/) both read saving grace as leading to godly living and hope, rather than permission to continue unchanged. They differ over the scope of everyone in verse 11. Calvin explicitly reads people of every rank or class, including slaves. Wesley emphasizes grace’s saving purpose and its instruction of those who do not reject it. The Catholic Church also affirms God’s desire for everyone’s salvation through knowledge of the truth ([Catechism 851](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_three/article_9/paragraph_3_the_church_is_one,_holy,_catholic,_and_apostolic.html)). These readings do not require saying that every person is finally saved.",
     "",
-    "The statement about **\"our great God and Savior Jesus Christ\"** is also widely recognized as a strong affirmation of Christ's deity within the flow of Paul's pastoral instruction."
+    "On verse 13, Wesley reads great God and Savior as referring together to Jesus Christ. Calvin considers both that reading and one distinguishing the Father and Christ in the phrase, while affirming the divine glory revealed in Christ. This is a difference over the sentence’s wording, rather than a claim that one of them denies Christ’s deity. The displayed BSB reads our great God and Savior Jesus Christ."
+  ],
+  "god_plan_lines": [
+    "The passage itself connects Christ’s self-giving, a people made His own, present good works and His future appearing. In [Exodus 19:3–6](https://biblehub.com/bsb/exodus/19.htm), God likewise brings a delivered people to Himself and calls them His treasured possession and a holy nation. This is a parallel in the purpose of deliverance: people belonging to God and living as His people.",
+    "",
+    "[1 Peter 2:9–10](https://biblehub.com/bsb/1_peter/2.htm) uses that people-and-possession language for those who have received mercy and are called to declare God’s praises. [Ephesians 2:8–10](https://biblehub.com/bsb/ephesians/2.htm) likewise joins salvation by grace with good works prepared for a new life in Christ. The work follows His saving gift; it is the life for which He has redeemed His people."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
   ],
   "deeper_study": [
     {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
       "title": "I Am a Disciple",
       "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/titus/2.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-titus-two-review.md"
+  }
 }

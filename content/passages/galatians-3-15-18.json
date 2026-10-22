@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Galatians",
+    "citation": "3:15-18",
+    "label": "Galatians 3:15-18",
+    "slug": "galatians-3-15-18"
+  },
+  "section_title": "Can the later law cancel God’s earlier promise?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 Brothers, let me put this in human terms. Even a human covenant, once it is ratified, cannot be canceled or amended. 16 The promises were spoken to Abraham and to his seed. The Scripture does not say, “and to seeds,” meaning many, but “and to your seed,” meaning One, who is Christ.",
+        "17 What I mean is this: The law that came 430 years later does not revoke the covenant previously established by God, so as to nullify the promise. 18 For if the inheritance depends on the law, then it no longer depends on a promise; but God freely granted it to Abraham through a promise."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul uses a human agreement to explain the lasting force of God’s promise. His illustration begins with a covenant already ratified, which cannot then be canceled or have new conditions added to it.",
+    "",
+    "He says the promises were spoken to Abraham and his seed, and he identifies that seed as Christ. The promise therefore reaches its fulfillment through the One Paul has been proclaiming.",
+    "",
+    "The law came 430 years later, but its later arrival does not revoke the covenant God had already established. Paul’s point concerns the continuing force of the promise.",
+    "",
+    "He concludes by distinguishing an inheritance dependent on law from one granted by promise. God freely gave it to Abraham through a promise. The arrival of the law cannot turn that gift into something secured on a different basis."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as defending God’s promise against the claim that the later law displaced it. [Wesley’s notes on verses 15–18](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-galatians/) and the [USCCB notes on verses 15–18](https://bible.usccb.org/bible/galatians/3) both connect the illustration with the inheritance given by promise and its fulfillment through Christ."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 6:13–20](https://biblehub.com/bsb/hebrews/6.htm) also returns to God’s promise to Abraham and the oath confirming it. God’s unchanging purpose becomes a reason for hope, pictured as an anchor reaching into His presence, where Jesus has entered on our behalf.",
+    "",
+    "That explicit connection shows why the certainty of God’s promise matters for believers. Their hope rests in the God who is faithful to what He has said and in the Son through whom they draw near to Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/galatians/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-galatians-three-opening-review.md"
+  }
+}

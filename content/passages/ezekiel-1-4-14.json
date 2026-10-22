@@ -1,0 +1,69 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "1:4-14",
+    "label": "Ezekiel 1:4-14",
+    "slug": "ezekiel-1-4-14"
+  },
+  "section_title": "What do the living creatures reveal about serving God?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "4 I looked and saw a whirlwind coming from the north, a great cloud with fire flashing back and forth and brilliant light all around it. In the center of the fire was a gleam like amber, 5 and within it was the form of four living creatures. And this was their appearance: They had a human form, 6 but each had four faces and four wings. 7 Their legs were straight, and the soles of their feet were like the hooves of a calf, gleaming like polished bronze.",
+        "8 Under their wings on their four sides they had human hands. All four living creatures had faces and wings, 9 and their wings were touching one another. They did not turn as they moved; each one went straight ahead. 10 The form of their faces was that of a man, and each of the four had the face of a lion on the right side, the face of an ox on the left side, and also the face of an eagle. 11 Such were their faces. Their wings were spread upward; each had two wings touching the wings of the creature on either side, and two wings covering its body.",
+        "12 Each creature went straight ahead. Wherever the spirit would go, they would go, without turning as they moved. 13 In the midst of the living creatures was the appearance of glowing coals of fire, or of torches. Fire moved back and forth between the living creatures; it was bright, and lightning flashed out of it. 14 The creatures were darting back and forth as quickly as flashes of lightning."
+      ]
+    }
+  ],
+  "context_lines": [
+    "A whirlwind approaches from the north, carrying a great cloud, flashing fire and brilliant light. Within it Ezekiel sees four living creatures with a human form, four faces and four wings. Their feet gleam like polished bronze, and human hands appear beneath their wings.",
+    "",
+    "The Hebrew word חַשְׁמַל, chashmal (khash-MAHL), describes the gleam translated amber. [Brown–Driver–Briggs](https://biblehub.com/hebrew/2830.htm) explains it as a shining substance whose exact identity is uncertain. The description clearly conveys brilliance without requiring a precise identification of the material.",
+    "",
+    "The faces are those of a man, lion, ox and eagle. Two wings of each creature touch those beside it, while two cover its body. Their coordinated movement follows the spirit without turning aside.",
+    "",
+    "Fire like burning coals moves among them, and they dart like lightning. Later, [Ezekiel 10:20–22](https://biblehub.com/bsb/ezekiel/10.htm) explicitly identifies these creatures as cherubim, connecting them with the same vision by the Kebar."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezekiel/1.htm) and [Wesley](https://biblehub.com/commentaries/wes/ezekiel/1.htm) understand the creatures as heavenly servants who act at God’s direction. They relate the faces to qualities such as understanding, strength, patient work and speed, and the wings and movement to ready obedience.",
+    "",
+    "The [USCCB notes](https://bible.usccb.org/bible/ezekiel/1) explain the four faces together as representing living creation: humanity, wild animals, livestock and birds. They also note the later Christian use of these faces as symbols for the four Gospel writers.",
+    "",
+    "These explanations give different attention to the details, while recognizing the creatures’ place in the display of God’s glory. Ezekiel’s own account emphasizes their coordinated movement and readiness to follow the spirit."
+  ],
+  "god_plan_lines": [
+    "[Revelation 4:6–11](https://biblehub.com/bsb/revelation/4.htm) takes up the living-creature imagery around God’s throne. Lion, calf, human and eagle appearances are present, and the creatures continually give glory, honor and thanks to the Creator.",
+    "",
+    "The descriptions have differences: Ezekiel gives each creature four faces and four wings, while Revelation describes four distinct appearances and six wings. The shared imagery connects the visions without making every detail identical.",
+    "",
+    "Revelation makes the direction of their service explicit in worship. Their praise joins the wider acknowledgment that all things exist by God’s will. The living creation surrounding His throne points attention toward the One it serves."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/1.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-one-review.md"
+  }
+}

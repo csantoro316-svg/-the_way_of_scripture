@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "5:1-5",
+    "label": "2 Samuel 5:1-5",
+    "slug": "2-samuel-5-1-5"
+  },
+  "section_title": "Why do all the tribes now recognize David as king?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Then all the tribes of Israel came to David at Hebron and said, “Here we are, your own flesh and blood. 2 Even in times past, while Saul was king over us, you were the one who led Israel out and brought them back. And to you the LORD said, ‘You will shepherd My people Israel, and you will be ruler over them.’” 3 So all the elders of Israel came to the king at Hebron, where King David made with them a covenant before the LORD. And they anointed him king over Israel. 4 David was thirty years old when he became king, and he reigned forty years. 5 In Hebron he reigned over Judah seven years and six months, and in Jerusalem he reigned thirty-three years over all Israel and Judah."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After the deaths of Abner and Ish-bosheth, the tribes come to David at Hebron. They appeal to their shared family identity, remember his leadership during Saul’s reign, and acknowledge the LORD’s appointment of him to shepherd Israel.",
+    "",
+    "David makes a covenant with the elders before the LORD, and they anoint him king over Israel. The recognition that began in Judah now includes the whole nation.",
+    "",
+    "The summary gives David’s age at the beginning of his kingship as thirty. He rules Judah at Hebron for seven years and six months, then all Israel and Judah from Jerusalem for thirty-three years. Thirty is his age when his rule begins, not his age after the years at Hebron."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) emphasizes the shepherd’s responsibility behind the royal title: David is to care for the people rather than use the office simply for his own glory. [Gill](https://biblehub.com/commentaries/gill/2_samuel/5.htm) likewise understands shepherding as the work of a ruler who leads and protects.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/5.htm) sees the gradual recognition of David as a time of preparation and testing. Samuel’s earlier anointing, Judah’s acknowledgment, and now the tribes’ acknowledgment are distinct stages. Delay did not mean that the original appointment had been forgotten."
+  ],
+  "god_plan_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/5.htm) draws a comparison between Israel approaching David as their own flesh and blood and Jesus sharing our humanity. [Hebrews 2:11–18](https://biblehub.com/bsb/hebrews/2.htm) states the greater reality directly: Jesus shares in humanity, calls His people brothers, and helps them through His suffering and saving work.",
+    "",
+    "The shepherd theme also reaches beyond David. In [John 10:11–18](https://biblehub.com/bsb/john/10.htm), Jesus identifies Himself as the good shepherd who knows His sheep and lays down His life for them. God’s care for His people is expressed most fully in the One who gives Himself to save them.",
+    "",
+    "These are supported connections in the larger biblical story, rather than a claim that every detail of David’s coronation predicts an event in Jesus’ life. David is called to care for the people; Christ brings that care to a depth no earthly king can match."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/5.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-five-review.md"
+  }
+}

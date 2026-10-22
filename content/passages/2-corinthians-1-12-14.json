@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "2 Corinthians",
+    "citation": "1:12-14",
+    "label": "2 Corinthians 1:12-14",
+    "slug": "2-corinthians-1-12-14"
+  },
+  "section_title": "Why does Paul ask the Corinthians to take his words plainly?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "12 For this is our boast: Our conscience testifies that we have conducted ourselves in the world, and especially in relation to you, in the holiness and sincerity that are from God—not in worldly wisdom, but in the grace of God. 13 For we do not write you anything that is beyond your ability to read and understand. And I hope that you will understand us completely, 14 as you have already understood us in part, that you may boast of us just as we will boast of you in the day of our Lord Jesus."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul turns from the danger he faced to the trust strained between him and the Corinthians. He appeals to the testimony of his conscience: he and his companions have acted with holiness and sincerity from God, relying on His grace rather than worldly wisdom.",
+    "",
+    "He says his letters are not hiding another message beyond what they can read and understand. They have understood him in part, and he hopes for fuller understanding. The appeal concerns an honest relationship, rather than a claim that every sentence of Scripture requires no study.",
+    "",
+    "Paul looks toward the day of the Lord Jesus, when they will have reason to rejoice in one another. His defense is not simply an attempt to win a personal dispute. He wants their shared life in Christ to end in joy."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as Paul’s appeal for mutual trust based on sincere conduct and open communication. [Wesley’s notes on verses 12–14](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-the-corinthians/) emphasize integrity and shared rejoicing; the [USCCB note on verses 12–14](https://bible.usccb.org/bible/2corinthians/1) likewise places the paragraph within Paul’s hope for growing understanding between himself and the church."
+  ],
+  "god_plan_lines": [
+    "[Philippians 2:14–16](https://biblehub.com/bsb/philippians/2.htm) also connects a congregation’s faithful life with Paul’s joy on the day of Christ. Holding forth the word of life matters beyond the immediate moment.",
+    "",
+    "God’s purpose includes people growing together toward that day. The lasting fruit of ministry is found in people belonging to Christ and living faithfully, giving workers and congregations reason to rejoice together."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_corinthians/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-corinthians-one-closing-review.md"
+  }
+}

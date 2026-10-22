@@ -5,13 +5,53 @@
     "label": "Matthew 16:1",
     "slug": "matthew-16-1"
   },
-  "versions": [],
-  "context_lines": [
-    "In **Matthew 16**, Jesus rebukes those who demand signs, reveals the significance of Peter's confession, and begins preparing the disciples for His suffering and death. The chapter joins discernment, messianic identity, and the necessity of the cross."
+  "section_title": "Testing Jesus with a Request for a Sign",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Then the Pharisees and Sadducees came and tested Jesus by asking Him to show them a sign from heaven."
+      ]
+    }
   ],
-  "explanation_lines": [
-    "**\u1f10\u03c0\u03b9\u03b6\u03b7\u03c4\u03ad\u03c9 (*epiz\u0113te\u014d* (eh-pee-zay-TAY-oh))** \u2014 to seek out, search for, or demand. It describes an active pursuit, not a passive noticing.",
+  "context_lines": [
+    "This verse opens a new confrontation after the feeding of four thousand. Pharisees and Sadducees come together to ask Jesus for a sign from heaven. Matthew identifies their purpose as testing Him, so the request must be read within that challenge.",
     "",
-    "The religious leaders in this story weren't asking for something unreasonable by the world's standards \u2014 they wanted proof before they would believe. Jesus doesn't respond by giving them what they asked for. He treats the request itself \u2014 \"show me something and then I'll believe\" \u2014 as the problem. That's worth sitting with, because it's the exact opposite of how a lot of popular Christian teaching frames sign-seeking today."
-  ]
+    "Jesus' reply in verses 2–4 exposes their failure to recognize what is already before them and points to the sign of Jonah. The earlier conversation in [Matthew 12:38–42](https://biblehub.com/bsb/matthew/12.htm) explains that reference through Jonah's experience, the Son of Man's coming death, and the call to respond.",
+    "",
+    "The surrounding Gospel has already described Jesus teaching, healing, and feeding crowds. The question is therefore more than whether He has done anything that calls for attention. It concerns what these challengers will accept and how they are responding to Him."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the request as a challenge to Jesus' authority, with the following refusal exposing the challengers' resistance. [Wesley's notes on Matthew 16:1–4](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) and the [US Catholic bishops' notes on 16:1–4](https://bible.usccb.org/bible/matthew/16) read it within the demand for proof and the failure to recognize the Messiah's work."
+  ],
+  "god_plan_lines": [
+    "This demand is answered by pointing toward the death and resurrection that will stand at the center of the gospel ([Matthew 12:40](https://biblehub.com/bsb/matthew/12.htm); [1 Corinthians 15:1–8](https://biblehub.com/bsb/1_corinthians/15.htm)). The significance of Jesus' work will be made known through those events and their witnesses.",
+    "",
+    "[John 20:30–31](https://biblehub.com/bsb/john/20.htm) also explains why Jesus' signs are recorded: to lead people to believe who He is and have life in His name. The Bible therefore gives signs a purpose within God's work. The challenge here is refusing that testimony while requiring another sign before responding."
+  ],
+  "current_position_lines": [
+    "In Should We Seek Signs From God?, our discussion of this verse treats the demand for proof as an expression of unbelief in its immediate setting. The leaders are testing Jesus after His works have already given them reason to listen. The study calls us to receive what God has made known rather than build a habit of demanding further signs."
+  ],
+  "deeper_study": [
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/16.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-sixteen-opening-review.md",
+    "position_source_detail": "Should We Seek Signs From God? — Jesus and the Request for a Sign; directly developed Matthew 16:1,4 and immediate context only."
+  }
 }

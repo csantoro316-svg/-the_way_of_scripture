@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "24:15-22",
+    "label": "Matthew 24:15-22",
+    "slug": "matthew-24-15-22"
+  },
+  "section_title": "An Urgent Warning to Flee from Danger",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 So when you see standing in the holy place ‘the abomination of desolation,’ spoken of by the prophet Daniel (let the reader understand), 16 then let those who are in Judea flee to the mountains. 17 Let no one on the housetop come down to retrieve anything from his house. 18 And let no one in the field return for his cloak.",
+        "19 How miserable those days will be for pregnant and nursing mothers! 20 Pray that your flight will not occur in the winter or on the Sabbath. 21 For at that time there will be great tribulation, unseen from the beginning of the world until now, and never to be seen again. 22 If those days had not been cut short, nobody would be saved. But for the sake of the elect, those days will be cut short."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus has described persecution, betrayal, and the gospel's proclamation among the nations. He now gives a warning tied to a particular place: when those in Judea see the desolating abomination standing in the holy place, they must flee to the mountains. He expressly directs the reader to Daniel.",
+    "",
+    "Abomination is βδέλυγμα, *bdelygma* (BDEH-loog-mah), something detestable. [Thayer's entry](https://biblehub.com/greek/946.htm) explains its frequent association with idolatry. [Daniel 11:31](https://biblehub.com/bsb/daniel/11.htm) and [12:11](https://biblehub.com/bsb/daniel/12.htm) connect the expression with the stopping of regular sacrifice and the defiling of the sanctuary; [Daniel 9:27](https://biblehub.com/bsb/daniel/9.htm) also joins sacrifice, abomination, and desolation. The picture is of a holy place violated and laid waste, with grave danger for those nearby.",
+    "",
+    "The flight must be immediate. People are not to return for possessions or even a cloak. Jesus names the hardship for pregnant and nursing mothers and tells His hearers to pray about winter and the Sabbath. His instructions take the difficulty of escaping seriously.",
+    "",
+    "The distress will be unlike anything before or after it. Yet the warning ends with a limit: the days are cut short for the sake of God's chosen people. [Mark 13:14–20](https://biblehub.com/bsb/mark/13.htm) gives the related warning. [Luke 21:20–24](https://biblehub.com/bsb/luke/21.htm) speaks of Jerusalem surrounded by armies and likewise tells people in Judea to flee. These related accounts help frame the different readings of the event."
+  ],
+  "common_interpretation_lines": [
+    "Christians agree that Jesus gives a serious warning rather than a reason to remain in danger. They differ over the desecration and the period He describes.",
+    "",
+    "[Wesley on 24:15–22](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) connects the warning first with the Roman attack on Jerusalem, while allowing that the words may reach further. [Calvin on 24:15–22](https://biblehub.com/commentaries/calvin/matthew/24.htm) likewise applies it to the temple's loss and Jerusalem's calamity. The [US Catholic bishops' notes on 24:15–22](https://bible.usccb.org/bible/matthew/24) connect the desecration with the Romans. These are the commentators' readings, rather than a claim that every member of their traditions resolves every detail alike.",
+    "",
+    "A future reading appears in [John Walvoord's explanation of 24:15–25](https://walvoord.com/article/218). He expects a future temple desecration before Christ's return, connecting Daniel's final week with a seven-year period and its latter half with the great tribulation. The [Dallas Theological Seminary statement, XIX](https://www.dts.edu/about/doctrinal-statement/), also teaches a future period of tribulation and cites Matthew 24:15–21. That timetable comes from reading these passages together; it is not a date or duration stated in Matthew's warning itself."
+  ],
+  "god_plan_lines": [
+    "Daniel's vision does not end with distress. [Daniel 12:1–3](https://biblehub.com/bsb/daniel/12.htm) speaks of deliverance for God's people, resurrection, and those who lead others to righteousness. Jesus' use of Daniel places this warning beside a larger hope: God's purposes reach beyond the calamity and beyond death.",
+    "",
+    "Another New Testament passage describes evil's limit in relation to Christ. [2 Thessalonians 2:1–12](https://biblehub.com/bsb/2_thessalonians/2.htm) warns about deception and a lawless opponent who exalts himself in God's temple, then announces his destruction at the Lord's coming. This is a supported connection with the themes of defilement, deception, and Christ's victory, without treating every question about the two passages' timing as settled."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/24.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-four-return-review.md"
+  }
+}

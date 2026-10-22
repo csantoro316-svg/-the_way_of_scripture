@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "2:12-16",
+    "label": "Romans 2:12-16",
+    "slug": "romans-2-12-16"
+  },
+  "section_title": "How can people be accountable without having the Law of Moses?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "12 All who sin apart from the law will also perish apart from the law, and all who sin under the law will be judged by the law. 13 For it is not the hearers of the law who are righteous before God, but it is the doers of the law who will be declared righteous.",
+        "14 Indeed, when Gentiles, who do not have the law, do by nature what the law requires, they are a law to themselves, even though they do not have the law. 15 So they show that the work of the law is written on their hearts, their consciences also bearing witness, and their thoughts either accusing or defending them 16 on the day when God will judge men’s secrets through Christ Jesus, as proclaimed by my gospel."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul distinguishes those who sin without the law from those who sin under it. Having heard the law is not the same as obeying it. The issue is what people do with what they have, rather than the prestige of possessing the written teaching.",
+    "",
+    "He points to Gentiles who do not have the law yet sometimes do what it requires. Their actions show the work of the law written on their hearts. Their consciences bear witness, and their thoughts accuse or defend them.",
+    "",
+    "The Greek word for conscience is syneidēsis (soo-NAY-day-sis), συνείδησις. [Thayer’s entry](https://biblehub.com/greek/4893.htm) describes an awareness that distinguishes moral good and bad, approving or condemning a person’s actions. In Paul’s picture, conscience is a witness to accountability; it is not a claim that every inner feeling is an infallible message from God.",
+    "",
+    "The passage looks toward the day when God judges people’s secrets through Christ Jesus. Public reputation and outward religious knowledge cannot hide the inward life. Paul includes this judgment within the gospel he proclaims."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read these verses as denying that possession of the law gives someone an automatic advantage over a person who has not received it. Readers differ over how verse 13’s promise to the doers of the law fits the letter’s teaching about faith.",
+    "",
+    "The Reformed commentator [Calvin on verse 13](https://biblehub.com/commentaries/calvin/romans/2.htm) understands Paul as stating what the law requires: someone seeking righteousness on that basis must fulfill it, which exposes the need for another source of righteousness. The Wesleyan founder [John Wesley on verses 13–14](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-romans/) emphasizes final acquittal and reward for those who do it, while describing even the Gentiles’ response as made possible by God’s prior grace. These are distinct explanations by named commentators, rather than a claim that every member of either tradition speaks identically."
+  ],
+  "god_plan_lines": [
+    "The judgment through Christ belongs with the announcement in [Acts 17:30–31](https://biblehub.com/bsb/acts/17.htm): God calls people everywhere to repent and has appointed a man through whom He will judge the world, giving assurance through the resurrection.",
+    "",
+    "That connection places conscience and accountability within a purpose reaching all nations. The judge is the risen Jesus proclaimed in the gospel, and the invitation to turn toward God is wider than the people who possess the written law."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-two-review.md"
+  }
+}

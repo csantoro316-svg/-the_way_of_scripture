@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "12:12-13",
+    "label": "1 Corinthians 12:12-13",
+    "slug": "1-corinthians-12-12-13"
+  },
+  "section_title": "What makes very different people one body?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "12 The body is a unit, though it is composed of many parts. And although its parts are many, they all form one body. So it is with Christ. 13 For in one Spirit we were all baptized into one body, whether Jews or Greeks, slave or free, and we were all given one Spirit to drink."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul compares the church with a human body: many parts belong to one whole. The comparison explains both unity and difference. To belong together, the members do not have to become identical.",
+    "",
+    "He connects that shared life with the one Spirit and one body into which all were baptized. Jews and Greeks, slaves and free people are included. Their backgrounds and social positions do not give them separate kinds of membership in Christ.",
+    "",
+    "The repeated all matters to the discussion of gifts. Paul is describing what the whole community shares before explaining the different work of its members. No particular gift becomes the condition for counting someone as part of the body in these verses."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Paul to describe the Spirit bringing believers into one people, but they differ over the relationship between this baptism and water baptism.",
+    "",
+    "The Catholic [Catechism 1267–1269](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_1/vii_the_grace_of_baptism.index.html) explicitly cites this verse for baptism making people members of Christ’s body. [Wesley’s note on verse 13](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) also connects receiving the Spirit and the community’s baptism. [Calvin’s comment](https://biblehub.com/commentaries/calvin/1_corinthians/12.htm) speaks of baptism joining believers to Christ while insisting that its effective power belongs to the Spirit, rather than the outward sign alone.",
+    "",
+    "Other evangelical readers distinguish the Spirit’s act of joining believers to Christ from the water ceremony. [Dallas Theological Seminary’s Articles XII–XIV](https://www.dts.edu/about/doctrinal-statement/) describe the Spirit baptizing all believers into one body and water baptism as testimony. The [Assemblies of God’s position paper](https://ag.org/beliefs/position-papers/baptism-in-the-holy-spirit) likewise reads this verse as incorporation into Christ at conversion, while distinguishing a further experience of empowerment that it calls baptism in the Holy Spirit. It does not teach that a believer without that further experience is outside Christ’s body."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 2:11–22](https://biblehub.com/bsb/ephesians/2.htm) describes people once divided as Jews and Gentiles brought near through Christ’s blood. Both have access to the Father through one Spirit and become members of one household.",
+    "",
+    "Paul’s one-body description fits that stated purpose of reconciliation. God is gathering people who do not share the same history or standing into a common life through His Son. Their unity is rooted in what He has done, and is meant to change how they receive one another."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/12.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-twelve-middle-review.md"
+  }
+}

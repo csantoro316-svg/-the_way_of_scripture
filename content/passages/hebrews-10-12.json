@@ -5,11 +5,53 @@
     "label": "Hebrews 10:12",
     "slug": "hebrews-10-12"
   },
-  "versions": [],
-  "context_lines": [
-    "Hebrews 10:12 should be read within the flow of its chapter and the larger argument of Hebrews."
+  "section_title": "Why does the writer emphasize that Christ sat down?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "12 But when this Priest had offered for all time one sacrifice for sins, He sat down at the right hand of God."
+      ]
+    }
   ],
-  "explanation_lines": [
-    "To rebuild any of these four in physical form was to misunderstand what the new covenant had accomplished. This framework helps explain why the early church's rejection of sacred buildings was not poverty or circumstance \u2014 it was theological conviction."
-  ]
+  "context_lines": [
+    "This verse belongs to the comparison in 10:11–18. Priests stand day after day offering sacrifices that cannot take away sins; Christ offers one sacrifice with lasting effect and sits at God’s right hand.",
+    "",
+    "The seated position joins completed sacrifice with royal honor. The next verse points toward His enemies becoming His footstool, drawing on [Psalm 110:1](https://biblehub.com/bsb/psalms/110.htm). It does not mean He has stopped caring for His people or that His continuing priestly ministry has ended."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/10.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) emphasize the contrast between repeated offerings and Christ’s sufficient sacrifice, together with the honor of His place beside God. Calvin explicitly rejects the idea that Christ is now idle.",
+    "",
+    "Christians differ over how this relates to the Lord’s Supper. The [Catholic Catechism, 1366–1367](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_3/v_the_sacramental_sacrifice_thanksgiving_memorial_presence.index.html), teaches that the one sacrifice is made present in the Eucharist, the church’s celebration of the Lord’s Supper, without another death of Christ. The [Westminster Confession, 29.1–2](https://www.opc.org/wcf.html), describes the Supper as remembrance of the one offering and rejects offering Christ there for the forgiveness of sins. Both appeal to His one sacrifice, while differing over the meaning of the church’s celebration."
+  ],
+  "god_plan_lines": [
+    "[Romans 8:34](https://biblehub.com/bsb/romans/8.htm) joins Christ’s death, resurrection, place at God’s right hand and intercession for His people. Completed sacrifice and continuing care belong together.",
+    "",
+    "[1 Corinthians 15:24–28](https://biblehub.com/bsb/1_corinthians/15.htm) looks toward the defeat of death under His reign. Christ’s seated authority directs hope toward that lasting victory."
+  ],
+  "current_position_lines": [
+    "Our study [Worship as the Early Church Knew It](https://thewayofscripture.com/studies/worship.html) identifies Christ’s sacrifice as the once-for-all offering that fulfills the earlier sacrifices. It distinguishes that saving work from believers offering their lives in grateful service, as in Romans 12:1. Our obedience responds to His completed offering; it does not make another payment for sin."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/10.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-ten-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It — content/studies/worship.md:308–315, explicit Hebrews10:12."
+  }
 }

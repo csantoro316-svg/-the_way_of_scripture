@@ -10,19 +10,39 @@
     {
       "label": "BSB",
       "paragraphs": [
-        "17 And God listened to Leah, and she conceived and bore a fifth son to Jacob. 18 Then Leah said, \u201cGod has rewarded me for giving my maidservant to my husband.\u201d So she named him Issachar.",
-        "19 Again Leah conceived and bore a sixth son to Jacob. 20 \u201cGod has given me a good gift,\u201d she said. \u201cThis time my husband will honor me, because I have borne him six sons.\u201d And she named him Zebulun.",
+        "17 And God listened to Leah, and she conceived and bore a fifth son to Jacob. 18 Then Leah said, “God has rewarded me for giving my maidservant to my husband.” So she named him Issachar.",
+        "19 Again Leah conceived and bore a sixth son to Jacob. 20 “God has given me a good gift,” she said. “This time my husband will honor me, because I have borne him six sons.” And she named him Zebulun.",
         "21 After that, Leah gave birth to a daughter and named her Dinah."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 30**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "The account says God listens to Leah, and she bears Issachar. She interprets the birth as a reward for giving her maidservant to Jacob. Her own explanation is recorded, but the narrator's emphasis is that God has heard her; it is not a general promise that repeating her arrangement earns a child.",
+    "",
+    "Leah then bears Zebulun and speaks of God's good gift. Even after six sons, she still hopes that her husband will honor her. Gratitude and an unmet longing for respect remain side by side. The births have not simply cured the family's divided affection.",
+    "",
+    "Dinah's birth is noted briefly after the sons. The account does not give a naming explanation for her here, but she will become central in chapter 34. These few verses therefore carry the family story forward while allowing us to hear how Leah understands her life within it."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Issachar, Zebulun, and Dinah** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 30** remains the first control on meaning."
+    "Christians commonly see God's care continuing toward Leah, with her words revealing both gratitude and her wish for her husband's regard. [Wesley's note on Genesis 30:17](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) also distinguishes the gift of a son from Leah's conclusion that God is rewarding the earlier arrangement with her maidservant."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "god_plan_lines": [
+    "Zebulun's name will later belong to a tribe and its territory, reaching far beyond the circumstances of his birth. [Matthew 4:13–17](https://biblehub.com/bsb/matthew/4.htm) places Jesus' ministry in the region of Zebulun and Naphtali and connects it with Isaiah's promise of light dawning on people in darkness.",
+    "",
+    "Matthew is explaining Isaiah's prophecy rather than interpreting Leah's naming of her child. Even so, the later passage lets us follow the family story into God's wider purpose: names first heard amid the troubles of Jacob's household become names associated with the announcement of God's kingdom and the coming of its light."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/30.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-jacob-household-review.md"
+  }
 }

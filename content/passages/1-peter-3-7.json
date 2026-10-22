@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "1 Peter",
+    "citation": "3:7",
+    "label": "1 Peter 3:7",
+    "slug": "1-peter-3-7"
+  },
+  "section_title": "Why must a husband’s faith show in how he treats his wife?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 Husbands, in the same way, treat your wives with consideration as a delicate vessel, and with honor as fellow heirs of the gracious gift of life, so that your prayers will not be hindered."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Peter now addresses husbands directly. They must live with consideration and give their wives honor as fellow heirs of the gracious gift of life. Their treatment of their wives belongs to their life before God, including their prayers.",
+    "",
+    "The BSB’s delicate vessel expresses a comparison using the [Greek word for weaker](https://biblehub.com/greek/772.htm). The verse does not call a wife less valuable to God: it expressly places her alongside her husband as an heir. Vulnerability is a reason for honor and care.",
+    "",
+    "The warning about hindered prayers makes the responsibility serious. A husband cannot separate devotion to God from the way he treats the person who shares his life."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/1_peter/3.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-epistle-general-of-st-peter/) both connect consideration with tender treatment and the honor due to a wife who shares in God’s gift. Both take the warning about prayer as a reason to put away marital strife, rather than treating domestic conduct as spiritually unimportant.",
+    "",
+    "The [USCCB’s note on this verse](https://bible.usccb.org/bible/1peter/3) likewise emphasizes consideration and wives’ equal reception of salvation. These readings share the central call to honor, even while Christian accounts of family leadership differ."
+  ],
+  "god_plan_lines": [
+    "[Galatians 3:26–29](https://biblehub.com/bsb/galatians/3.htm) describes those who belong to Christ as God’s children and heirs according to the promise, without making male or female a barrier to that standing. Peter’s fellow-heir language brings that shared inheritance into the home.",
+    "",
+    "The husband is therefore called to recognize in his wife someone who receives God’s gift alongside him. The family’s daily life should reflect the grace in which both share."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_peter/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-peter-three-opening-review.md"
+  }
+}

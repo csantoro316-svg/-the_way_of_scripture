@@ -5,27 +5,60 @@
     "label": "Exodus 19:16-25",
     "slug": "exodus-19-16-25"
   },
-  "section_title": "The LORD Visits Sinai",
+  "section_title": "Why did the people tremble at the mountain?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "16 On the third day, when morning came, there was thunder and lightning. A thick cloud was upon the mountain, and a very loud blast of the ram\u2019s horn went out, so that all the people in the camp trembled. 17 Then Moses brought the people out of the camp to meet with God, and they stood at the foot of the mountain.",
-        "18 Mount Sinai was completely enveloped in smoke, because the LORD had descended on it in fire. And the smoke rose like the smoke of a furnace, and the whole mountain quaked violently. 19 And as the sound of the ram\u2019s horn grew louder and louder, Moses spoke and God answered him in the thunder.",
-        "20 The LORD descended to the top of Mount Sinai and called Moses to the summit. So Moses went up, 21 and the LORD said to him, \u201cGo down and warn the people not to break through to see the LORD, lest many of them perish. 22 Even the priests who approach the LORD must consecrate themselves, or the LORD will break out against them.\u201d",
-        "23 But Moses said to the LORD, \u201cThe people cannot come up Mount Sinai, for You solemnly warned us, \u2018Put a boundary around the mountain and set it apart as holy.\u2019 \u201d",
-        "24 And the LORD replied, \u201cGo down and bring Aaron with you. But the priests and the people must not break through to come up to the LORD, or He will break out against them.\u201d",
-        "25 So Moses went down to the people and spoke to them."
+        "16 On the third day, when morning came, there was thunder and lightning. A thick cloud was upon the mountain, and a very loud blast of the ram’s horn went out, so that all the people in the camp trembled. 17 Then Moses brought the people out of the camp to meet with God, and they stood at the foot of the mountain. 18 Mount Sinai was completely enveloped in smoke, because the LORD had descended on it in fire. And the smoke rose like the smoke of a furnace, and the whole mountain quaked violently. 19 And as the sound of the ram’s horn grew louder and louder, Moses spoke and God answered him in the thunder. 20 The LORD descended to the top of Mount Sinai and called Moses to the summit. So Moses went up,",
+        "21 and the LORD said to him, “Go down and warn the people not to break through to see the LORD, lest many of them perish. 22 Even the priests who approach the LORD must consecrate themselves, or the LORD will break out against them.” 23 But Moses said to the LORD, “The people cannot come up Mount Sinai, for You solemnly warned us, ‘Put a boundary around the mountain and set it apart as holy.’” 24 And the LORD replied, “Go down and bring Aaron with you. But the priests and the people must not break through to come up to the LORD, or He will break out against them.” 25 So Moses went down to the people and spoke to them."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 19**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "On the appointed morning the mountain is covered with cloud, thunder, lightning and a loud ram’s horn. Moses brings the people to its foot to meet God. Smoke rises because the LORD has descended in fire, and the mountain shakes. The people tremble at what they see and hear.",
+    "",
+    "Moses speaks, God answers in the thunder and then calls him to the summit. His ascent follows God’s summons. The people cannot decide for themselves to follow him up the mountain simply because they want to see what is happening.",
+    "",
+    "God sends Moses back to repeat the warning. Even the priests must consecrate themselves, and verse 24 expressly includes them with the people who must not break through. Moses is to bring Aaron with him. The passage distinguishes those whom God summons from those who must remain within the boundary, and shows the care taken to warn everyone of the danger."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The LORD Visits Sinai** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 19** remains the first control on meaning."
+    "The shared reading sees the signs and boundaries as a revelation of God’s holiness and authority that calls for serious attention to His word. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) and [Calvin](https://biblehub.com/commentaries/calvin/exodus/19.htm) both connect the people’s fear with receiving God’s instruction reverently. Calvin also emphasizes that the people are brought to meet God, so the warning and the invitation belong together."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[Hebrews 12:18–24](https://biblehub.com/bsb/hebrews/12.htm) explicitly recalls Sinai’s fire, darkness, trumpet and terrifying command about touching the mountain. It then describes believers as having come to heavenly Zion, the gathered people of God and Jesus, the mediator of a new covenant. The scene at Sinai helps explain the significance of the access to God now opened through Him.",
+    "",
+    "The same passage continues with a warning to listen to the One speaking from heaven. In [Hebrews 12:25–29](https://biblehub.com/bsb/hebrews/12.htm), the promise of an unshakable kingdom calls forth gratitude and worship with reverence and awe. Approaching God through Jesus gives confidence and belonging while still calling for a faithful response to His holy word."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/19.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-nineteen-review.md"
+  }
 }

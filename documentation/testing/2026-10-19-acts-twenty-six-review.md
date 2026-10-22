@@ -1,0 +1,43 @@
+# Acts 26 editorial review
+
+Four new groups:1–11,12–18,19–23,24–32. No26existingpages orall-studyreferences;allfourpositions exactrequiredopenwording. WholebaselinePDFreadthrough397,all25–26lesson381–397complete.398onwardunread. Publicproseindependentlycomposed.
+
+## Sources actually read
+
+ActualBSB26:1–32read directly https://biblehub.com/bsb/acts/26.htm . FreshactualEph1:7–14/Col1:12–14/Luke24:25–27/44–47read. 1Tim1:12–16freshlyread22;1Cor15:12–23actualread23;Acts9:15–16whole9andrecentcrossread. Mainquotesfreshlycheckedaftergeneration. PublicparaphraseScripturequotecontentnotborrowedfrombaseline.
+
+ActualThayer2759wholeentryread https://biblehub.com/greek/2759.htm :irongoadurgesworkinganimals,sayingperilousvainresistance;spelling/translit/pronunciation/plain meaningpublic. ActualThayer37excerptaround26:18read https://biblehub.com/greek/37.htm :purified/broughtnearGodfaith,plainmeaninggivensanctified,notallChristiansmorallyperfectatinstant. ActualThayer3641excerpt26:28read https://biblehub.com/greek/3641.htm :phrasewithoutmucheffort;BSBshorttimeandolderalmostreadingsnotpretendedundisputed. LexiconopinionnotdoctrinerulingontoneorAgrippaheart.
+
+ActualCalvin26:18first1500/28first1700read https://biblehub.com/commentaries/calvin/acts/26.htm .18Godworksthroughmessenger;28allowsalmost/shorttime,reluctantassenttheory,notcertainconversion.20markerabsent,no20readingclaimed. ActualWesleyXXVI1–31allread https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/ :19graceenablesnotirresistible;28almostpersuadedreading;30finaloutcomeleftunsettled. Hisprecisemotives/Agrippaeducation/tribesdemographicclaimnotpublic. ActualUSCCB26notes2–32read https://bible.usccb.org/bible/acts/26 :goads/commission/eyes/spiritualsight/Luke24connection. ItsphraseentireChristianhistoryincontestable/publicknowledgeiscommentarynotallfactsprovedhere;notadopted.
+
+PrimaryReformedWCF10:1–4/11:1–2actuallyread https://www.opc.org/wcf.html :effectivecallrenewswill,madefreelywillingbygrace,notindependenthumanproductionfaith. PrimaryMethodistArticleVIIIactuallyreadviaofficialpagein22work https://www.umc.org/en/content/articles-of-religion :graceprecedes/enablesgoodwillandworkswillingresponse;Wesley19isexplicitverseapplicationwithinthatframework. No caricatureReformedunwillingautomatonsorWesleyanfaithwithoutgrace. Scopeisrepresentativereadingsrelevantto19,notexhaustiveeverytraditionallsoteriologycatalog. Noownerresolutionadopted.
+
+Noexistingdirectstudy25/26found;Deeperrelatedstudiesnotpositions. GreekwordcastvotepebblehistorynotusedtoinfercouncilmembershiporPaulmarried. Goadsdictionarysufficientproverb;baselineexactspikesattachedtoplowmechanismnotindependentlyverifiedandnotpublic.
+
+## Acts 26:1–11
+Plan section: included, because (a)/(c):1Tim1:12–16explicitformeropponentmercyexample;Luke24Scripture/Messiahsufferingresurrection/nationscontext.
+Position source: none.
+FLAGGED FOR REVIEW: FormalSanhedrinmembership/maritalstatusfromcastvote,exactvotingstonesprocedure/privatePauldesireaudienceprestigeunverified;omitted. No claimallJudaismwithoutdissentbelievedresurrection(23Sadduceesexplicitcounterexample). No censuslosttriberestorationhistoryorAgrippaprivatefeltthoughts. Sinceritynotjustificationpersecution.
+
+## Acts 26:12–18
+Plan section: included, because (a)/(c):Col1:12–14rescuefromdarkness/kingdomSon/forgiveness/inheritance;Eph1:7–14allthingstogetherChrist/Spiritpledgeinheritanceexplicitlargerpurpose.
+Position source: none.
+FLAGGED FOR REVIEW: Exactplowspikes/goadsconfigurationnotverified;dictionaryironurginganimalsandproverbused. No certaintyPaulongpriorinnerstruggle/secretguiltexplainedbyidiomalone. No metaphorlinkedetymologicallytodeathstingasforcedtypology. Sanctifiedplainmeaningbroughtnear/setapart/purifiednotinstantsinlessness. CommissionbeforeaudiencesnotpersonalcontrolGodpowerorimmunityallchains.
+
+## Acts 26:19–23
+Plan section: included, because (a)/(c):Luke24:25–27/44–47explicitMessiahsuffer/rise/Mosesprophets/nationsproclamationmatchesPaulmessage.
+Position source: none.
+FLAGGED FOR REVIEW: Godhelpcreditnotmechanicalruleeveryonealiveonlybecauseunfinishedtestimonyelsealreadydead. Firstresurrectioninterpretedin1Cor15hopecontextnotdenialEutychus/Elijah/Elishaearlierrestorations. No claimgooddeedsearnsalvationwithoutgrace. WCF10/MethodistVIII/Wesley19primarydifferencesfairlygiven,noownerdecisiononirresistiblegrace. No exhaustiveclaimalltraditionsfullsystemrepresented. Messagecontinuitynotallmodernteachersclaimingvisionautomaticallyapproved.
+
+## Acts 26:24–32
+Plan section: included, because (a)/(c):9:15–16commissionbeforeking/sufferinggivenconcretesettinganddesirehearerssharefaith,notonlylegalrelease.
+Position source: none.
+FLAGGED FOR REVIEW: Agrippainnerpoliticalcalculus/fearofcontradictingFestus/privateGodresponse/finalconversionornoconversionnotknown;notasserted. BaselinealmostGreektranslationimpossiblecategoricalclaimnotadopted:actualCalvinallowsit,Wesleyusesit,Thayerotheropinion,BSBquestiontime. Theirinterpretationsnotformaldenominationaldogmas. No allunbelieversmustrespondidenticallymadnessorclinicaldiagnosisFestus/Paul. FavorableassessmentnotactualreleaseorproofuniversalRomanappealrule. Paul'sdesireeveryoneexceptchainsactualtext,notpromisingallactuallyconvert.
+
+## Validation
+
+Pending fresh BSB, repository/navigation/mobile audit and publication.
+
+## Completed validation
+
+FourfreshBSBchecks/eighttestspass;zeroerrors284knownwarnings.133reviewed/929verses/132plans/52studypositions/81open;133sources/zero unreviewedlegacy. Allfour390pxreader/standalonechecks pass. ActualNext reaches26:12–18 withheadingfocusedat188.5px. Source/index/standalone,preservation,canonicalnavigation,coverage/idempotencepass. Hostingdryrun/actualdeployexit0;eightaffectedandsixwholechapterlivefilesmatch.

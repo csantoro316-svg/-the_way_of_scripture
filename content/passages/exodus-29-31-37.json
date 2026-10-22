@@ -5,7 +5,7 @@
     "label": "Exodus 29:31-37",
     "slug": "exodus-29-31-37"
   },
-  "section_title": "Food for the Priests",
+  "section_title": "Why did the priests eat a sacred meal and remain for seven days?",
   "versions": [
     {
       "label": "BSB",
@@ -16,12 +16,44 @@
     }
   ],
   "context_lines": [
-    "In **Exodus 29**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "The remaining flesh of the ordination ram is boiled in a holy place. Aaron and his sons eat it with the bread at the entrance to the tent. These are sacred portions connected with their ordination; someone outside that appointed group may not eat them. Anything left until morning is to be burned.",
+    "",
+    "The setting apart of the priests takes seven days, with a bull offered for atonement each day and the altar purified and anointed. The altar becomes most holy. The ceremony concerns both those who serve and the place where they will offer Israel’s sacrifices."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Food for the Priests** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 29** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) understands the meal as the priests receiving the benefit of the atonement and enjoying fellowship with God. He sees the seven-day period as giving weight and seriousness to their admission to service. He also connects the repeated sacrifices with the need for the better priesthood and offering of Christ, as explained in Hebrews."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The provision of food for those serving at the sanctuary becomes an explicit comparison in [1 Corinthians 9:7–18](https://biblehub.com/bsb/1_corinthians/9.htm). Paul recalls that those serving at the altar receive food from its offerings and applies that pattern to support for those who preach the gospel.",
+    "",
+    "Paul also explains why he sometimes chooses not to exercise that right: he wants to remove obstacles to the gospel. The connection brings provision and service together. God’s people can support the work, while the person serving keeps the good of others and the advance of the gospel at the center."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/29.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-twenty-nine-review.md"
+  }
 }

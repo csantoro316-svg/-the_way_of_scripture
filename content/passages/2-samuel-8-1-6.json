@@ -1,0 +1,52 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "8:1-6",
+    "label": "2 Samuel 8:1-6",
+    "slug": "2-samuel-8-1-6"
+  },
+  "section_title": "How does the account describe David’s expanding rule?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Some time later, David defeated the Philistines, subdued them, and took Metheg-ammah from the hand of the Philistines. 2 David also defeated the Moabites, made them lie down on the ground, and measured them off with a cord. He measured off with two lengths those to be put to death, and with one length those to be spared. So the Moabites became subject to David and brought him tribute.",
+        "3 David also defeated Hadadezer son of Rehob, king of Zobah, who had marched out to restore his dominion along the Euphrates River. 4 David captured from him a thousand chariots, seven thousand charioteers, and twenty thousand foot soldiers, and he hamstrung all the horses except a hundred he kept for the chariots. 5 When the Arameans of Damascus came to help King Hadadezer of Zobah, David struck down twenty-two thousand of their men. 6 Then he placed garrisons in Aram of Damascus, and the Arameans became subject to David and brought him tribute. So the LORD made David victorious wherever he went."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The chapter surveys David’s victories beyond Israel’s borders. He subdues the Philistines and takes Metheg-ammah. The parallel in [1 Chronicles 18:1](https://biblehub.com/bsb/1_chronicles/18.htm) names Gath and its villages.",
+    "",
+    "The defeat of Moab includes a grim division: people are made to lie on the ground and measured with a cord, with some put to death and others spared. Those left become subject to David and pay tribute. The violence is part of the account and should not disappear behind a general description of national success.",
+    "",
+    "David also defeats Hadadezer of Zobah and the Arameans who come to help him. He disables captured chariot horses while keeping a hundred, places garrisons in Aram of Damascus, and receives tribute. The summary credits the LORD with making David victorious."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/8.htm) understands the measuring in Moab as two parts put to death and one spared. [Gill](https://biblehub.com/commentaries/gill/2_samuel/8.htm) reports that reading and an alternative in which the full line marks the larger group spared. The [USCCB Bible notes](https://bible.usccb.org/bible/2samuel/8) also discuss the uncertainty about the proportions.",
+    "",
+    "The BSB states the division by lengths without explaining a height or age test. We should therefore avoid confidently saying that only adult men were killed while children were spared."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/8.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-eight-nine-review.md"
+  }
+}

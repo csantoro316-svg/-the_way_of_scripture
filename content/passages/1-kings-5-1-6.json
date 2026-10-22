@@ -1,0 +1,71 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "5:1-6",
+    "label": "1 Kings 5:1-6",
+    "slug": "1-kings-5-1-6"
+  },
+  "section_title": "Why can Solomon now prepare to build the LORD’s house?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Now when Hiram king of Tyre heard that Solomon had been anointed king in his father’s place, he sent envoys to Solomon; for Hiram had always been a friend of David. 2 And Solomon relayed this message to Hiram:",
+        "3 “As you are well aware, due to the wars waged on all sides against my father David, he could not build a house for the Name of the LORD his God until the LORD had put his enemies under his feet. 4 But now the LORD my God has given me rest on every side, and there is no adversary or crisis. 5 So behold, I plan to build a house for the Name of the LORD my God, according to what the LORD said to my father David: ‘I will put your son on your throne in your place, and he will build the house for My Name.’ 6 Now therefore, order that cedars of Lebanon be cut down for me. My servants will be with your servants, and I will pay your servants whatever wages you set, for you know that there are none among us as skilled in logging as the Sidonians.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Hiram king of Tyre sends envoys after hearing that Solomon has succeeded David. His friendship with David provides the setting for Solomon’s request.",
+    "",
+    "Solomon explains that David’s wars prevented him from building a house for the LORD’s Name. God has now given rest, and Solomon intends to carry out the promise that David’s son would build it.",
+    "",
+    "The word for an adversary in verse 4 is satan, pronounced sah-TAHN. [Brown–Driver–Briggs](https://biblehub.com/hebrew/7854.htm) lists this passage under the ordinary sense of a personal or national opponent. Solomon is describing the peace that makes the building work possible.",
+    "",
+    "He asks for cedars from Lebanon and the help of skilled Sidonian workers, offering to pay their wages. The earlier timber Hiram sent David had been for David’s own house, as [2 Chronicles 2:3](https://biblehub.com/bsb/2_chronicles/2.htm) makes clear. Solomon is now requesting help for the LORD’s house."
+  ],
+  "common_interpretation_lines": [
+    "[Gill](https://biblehub.com/commentaries/gill/1_kings/5.htm) understands Solomon’s rest as freedom from opposition that would hinder the work. [Henry](https://biblehub.com/commentaries/mhc/1_kings/5.htm) emphasizes using such an opportunity to proceed with what God has promised.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) sees the assistance of non-Israelites as significant in the building of the temple. Skills beyond Israel are being put to use in this work. His further comparison with God’s gathering of the nations should be distinguished from the immediate account of timber and labor."
+  ],
+  "god_plan_lines": [
+    "The desire for God to dwell among His people runs through the Bible. In [Exodus 29:45–46](https://biblehub.com/bsb/exodus/29.htm), the LORD says that He brought Israel out of Egypt so that He might dwell among them.",
+    "",
+    "The temple project belongs to that larger story. In [Ephesians 2:19–22](https://biblehub.com/bsb/ephesians/2.htm), the picture reaches people joined together in Christ: they become a holy temple and a dwelling place for God in His Spirit, with Jesus as the cornerstone.",
+    "",
+    "This is a connection across the biblical story, not an identification of each construction detail as a prediction. The enduring purpose is God dwelling with His people, and the New Testament shows how people from beyond Israel are included in that household through Christ."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/5.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-five-review.md"
+  }
+}

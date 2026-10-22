@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "22:39-46",
+    "label": "Luke 22:39-46",
+    "slug": "luke-22-39-46"
+  },
+  "section_title": "How does Jesus pray when obedience brings suffering?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "39 Jesus went out as usual to the Mount of Olives, and the disciples followed Him. 40 When He came to the place, He told them, “Pray that you will not enter into temptation.” 41 And He withdrew about a stone’s throw beyond them, where He knelt down and prayed, 42 “Father, if You are willing, take this cup from Me. Yet not My will, but Yours be done.”",
+        "43 Then an angel from heaven appeared to Him and strengthened Him. 44 And in His anguish, He prayed more earnestly, and His sweat became like drops of blood falling to the ground. 45 When Jesus rose from prayer and returned to the disciples, He found them asleep, exhausted from sorrow. 46 “Why are you sleeping?” He asked. “Get up and pray so that you will not enter into temptation.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus goes to the Mount of Olives as He usually does, and His disciples follow. Before withdrawing to pray, He tells them to pray that they will not enter into temptation. That same instruction returns at the end of the scene.",
+    "",
+    "He kneels and asks the Father to take the cup from Him if the Father is willing, while yielding His own will to the Father’s. An angel strengthens Him, and His prayer becomes more earnest in His anguish. The Greek word ἀγωνία, agōnia (ah-go-NEE-ah), describes severe inner struggle or anguish. His willing obedience carries a real cost. ([Thayer, Greek 74](https://biblehub.com/greek/74.htm))",
+    "",
+    "Luke describes His sweat becoming like drops of blood falling to the ground. He then returns to disciples who are asleep from sorrow and again calls them to get up and pray. The BSB includes verses 43–44 in the main text and notes that some manuscripts omit them. ([BSB text and footnote](https://biblehub.com/bsb/luke/22.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand this prayer as showing Jesus’ real human distress and willing obedience to the Father. The Catholic Catechism describes Him accepting His saving death in His human will; Wesley’s notes likewise take the anguish seriously and connect it with the weight of the suffering ahead. These readings share the central point that His obedience is willing and costly. ([Catechism §612](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/article_4/paragraph_2_jesus_died_crucified.html); [Wesley on Luke 22:43–44](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))"
+  ],
+  "god_plan_lines": [
+    "Hebrews describes Jesus praying with cries and tears and learning obedience through suffering, before calling Him the source of eternal salvation. Philippians similarly traces His obedience to death on the cross and His exaltation by God. His prayer in the garden belongs within that willing obedience through which He carries out His saving work. ([Hebrews 5:7–10](https://biblehub.com/bsb/hebrews/5.htm); [Philippians 2:5–11](https://biblehub.com/bsb/philippians/2.htm))",
+    "",
+    "The cup also has a wider scriptural background. Isaiah uses a cup to describe God’s judgment, while John records Jesus describing His coming suffering as the cup the Father has given Him. Isaiah’s image helps explain why the cup is so weighty; John makes the connection with the Father’s will explicit. The comparison is supported by these passages, without assigning a hidden meaning to every detail in the garden. ([Isaiah 51:17–23](https://biblehub.com/bsb/isaiah/51.htm); [John 18:10–11](https://biblehub.com/bsb/john/18.htm))",
+    "",
+    "Hebrews also says that because Jesus Himself suffered when tempted, He is able to help those who are tempted. His call to the disciples to pray therefore sits alongside the assurance that their Savior understands suffering and can help them endure it. ([Hebrews 2:17–18](https://biblehub.com/bsb/hebrews/2.htm))"
+  ],
+  "current_position_lines": [
+    "Our study What Does Prayer Look Like? draws this lesson from Matthew’s account of the same prayer: bring fear and grief honestly to the Father, while surrendering the outcome to His will. Asking is not treated as wrong; what matters is that surrender governs the request. Repeated prayer can still be faithful when it continues in that surrender. Luke’s account shows the same combination of an honest request and willing obedience."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/22.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-luke-twenty-two-garden-review.md",
+    "position_source_detail": "What Does Prayer Look Like? §1, Gethsemane — The Model of Honest Surrender; Matthew26:36–46 parallel toLuke22:39–46."
+  }
+}

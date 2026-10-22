@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "16:1-6",
+    "label": "John 16:1-6",
+    "slug": "john-16-1-6"
+  },
+  "section_title": "Why does Jesus warn the disciples about persecution?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 “I have told you these things so that you will not fall away. 2 They will put you out of the synagogues. In fact, a time is coming when anyone who kills you will think he is offering a service to God. 3 They will do these things because they have not known the Father or Me. 4 But I have told you these things so that when their hour comes, you will remember that I told you about them. I did not tell you these things from the beginning, because I was with you.",
+        "5 Now, however, I am going to Him who sent Me; yet none of you asks Me, ‘Where are You going?’ 6 Instead, your hearts are filled with sorrow because I have told you these things."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus explains why He has warned the disciples about hatred: He wants them to be prepared rather than fall away when it comes. He names rejection from the synagogues and even killing carried out by people who believe they are serving God. Religious confidence is not the same as knowing the Father and Son.",
+    "",
+    "The warning is meant to be remembered when the events occur. Jesus is preparing them for His departure, when they will face these things without His bodily presence beside them. Their grief is real, and He names it directly.",
+    "",
+    "His statement that none of them asks where He is going concerns this moment of sorrow. Peter has already asked that question in [John 13:36](https://biblehub.com/bsb/john/13.htm), and Thomas has spoken about not knowing the way in [John 14:5](https://biblehub.com/bsb/john/14.htm). Here Jesus turns their attention from the pain of His leaving toward what His return to the Father will accomplish."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this warning as preparation for faithful witness under opposition. [Calvin on verses 1–5](https://biblehub.com/commentaries/calvin/john/16.htm) emphasizes remembering Jesus’ words when trials arrive. [Wesley on verses 3–5](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) connects persecution with not knowing God and notes that Peter had asked about Jesus’ destination earlier. The passage gives the disciples reason to persevere; it does not make religious violence acceptable."
+  ],
+  "god_plan_lines": [
+    "The warning belongs to the mission Jesus is giving His followers. [Acts 1:8](https://biblehub.com/bsb/acts/1.htm) connects their witness with the power of the Spirit, so opposition is faced with God’s help rather than by their own strength alone.",
+    "",
+    "God’s saving purpose can also reach persecutors. In [1 Timothy 1:12–16](https://biblehub.com/bsb/1_timothy/1.htm), Paul describes his former violence and the mercy Christ showed him as an example of His patience. This does not lessen the evil of persecution; it shows why a warning about enemies need not end in giving up hope for them."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/16.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-sixteen-review.md"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "3:1-5",
+    "label": "2 Samuel 3:1-5",
+    "slug": "2-samuel-3-1-5"
+  },
+  "section_title": "What changes while the two royal houses remain at war?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Now the war between the house of Saul and the house of David was protracted. And David grew stronger and stronger, while the house of Saul grew weaker and weaker. 2 And sons were born to David in Hebron: His firstborn was Amnon, by Ahinoam of Jezreel; 3 his second was Chileab, by Abigail the widow of Nabal of Carmel; his third was Absalom, the son of Maacah daughter of King Talmai of Geshur; 4 his fourth was Adonijah, the son of Haggith; his fifth was Shephatiah, the son of Abital; 5 and his sixth was Ithream, by David’s wife Eglah. These sons were born to David in Hebron."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The struggle between Saul’s house and David’s house continues for a long time. David’s side grows stronger while Saul’s grows weaker. The victory at Gibeon has not brought the divided nation back together.",
+    "",
+    "The account then introduces six sons born to David in Hebron: Amnon, Chileab, Absalom, Adonijah, Shephatiah and Ithream. Each has a different mother. These are members of the family that will stand at the center of the kingdom’s later story."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/3.htm) reads the opening as the continuing advance of David’s house despite opposition. He also uses the struggle as an illustration of the conflict between grace and sin in a believer’s life. That is a lesson he draws from the story; the verse itself describes the fortunes of two royal houses.",
+    "",
+    "The growing family should also be read alongside [Deuteronomy 17:16–20](https://biblehub.com/bsb/deuteronomy/17.htm), where Israel’s king is warned against multiplying wives and turning his heart away from God. Increasing power and a larger household do not by themselves establish that every choice a king makes is wise or faithful."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/3.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-three-four-review.md"
+  }
+}

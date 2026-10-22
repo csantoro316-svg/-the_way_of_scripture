@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "14:13-21",
+    "label": "Matthew 14:13-21",
+    "slug": "matthew-14-13-21"
+  },
+  "section_title": "Jesus Feeds the Crowd",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 When Jesus heard about John, He withdrew by boat privately to a solitary place. But the crowds found out about it and followed Him on foot from the towns. 14 When He stepped ashore and saw a large crowd, He had compassion on them and healed their sick.",
+        "15 When evening came, the disciples came to Him and said, “This is a desolate place, and the hour is already late. Dismiss the crowds so they can go to the villages and buy themselves some food.” 16 “They do not need to go away,” Jesus replied. “You give them something to eat.” 17 “We have here only five loaves of bread and two fish,” they answered. 18 “Bring them here to Me,” Jesus said.",
+        "19 And He directed the crowds to sit down on the grass. Taking the five loaves and the two fish and looking up to heaven, He spoke a blessing. Then He broke the loaves and gave them to the disciples, and the disciples gave them to the people. 20 They all ate and were satisfied, and the disciples picked up twelve basketfuls of broken pieces that were left over. 21 About five thousand men were fed, besides women and children."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After hearing about John, Jesus withdraws by boat to a solitary place. The crowds follow on foot. When He sees them, He has compassion and heals their sick. Their interruption of His withdrawal becomes an occasion for care.",
+    "",
+    "The word for having compassion is σπλαγχνίζομαι, *splagchnizomai* (splahng-KHNID-zoh-my), meaning to be deeply moved with compassion. [Thayer's entry](https://biblehub.com/greek/4697.htm) includes this verse. Matthew shows that concern in what Jesus does for the people, first in healing and then in feeding them.",
+    "",
+    "As evening comes, the disciples want the crowd sent away to buy food. Jesus tells them to feed the people. They have only five loaves and two fish, which He asks them to bring to Him. He blesses and breaks the bread, gives it to the disciples, and they distribute it to the crowd.",
+    "",
+    "Everyone eats and is satisfied, with twelve baskets of pieces left over. The number given is about five thousand men, with women and children in addition. Matthew emphasizes the crowd's real need, the disciples' limited resources, and the abundance Jesus provides. He does not describe the moment-by-moment process by which the food increases."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as a miracle showing Jesus' compassion and power to provide, with the disciples serving the people through what He gives them. The story also invites reflection on His place in God's care for His people.",
+    "",
+    "The Catholic Church's [Catechism, 1335](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_3/iii_the_eucharist_in_the_economy_of_salvation.index.html), additionally sees the feeding as pointing ahead to the abundance of the Eucharist, or Lord's Supper. In this reading, Jesus' generous provision also prepares people to understand the meal He will give His disciples."
+  ],
+  "god_plan_lines": [
+    "[Mark 6:34–44](https://biblehub.com/bsb/mark/6.htm) describes the same crowd as sheep without a shepherd and has them sit on green grass. This recalls the care pictured in [Psalm 23](https://biblehub.com/bsb/psalms/23.htm): the Lord shepherds His people, leads them to pasture, and provides a table. This is a scriptural parallel that helps us see both the food and the Shepherd's care behind it.",
+    "",
+    "[John 6:1–15, 30–35](https://biblehub.com/bsb/john/6.htm) places the feeding near Passover and later connects the conversation with the manna in the wilderness. Jesus directs the people beyond the meal to the life the Father gives through Him. God's provision reaches deeper than one day's hunger: the Son Himself gives life to those who come to Him and believe."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/14.htm",
+    "plan_basis": [
+      "a",
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-fourteen-review.md"
+  }
+}

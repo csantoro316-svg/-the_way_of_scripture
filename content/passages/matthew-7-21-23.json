@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "7:21-23",
+    "label": "Matthew 7:21-23",
+    "slug": "matthew-7-21-23"
+  },
+  "section_title": "More Than Saying Lord",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "21 Not everyone who says to Me, ‘Lord, Lord,’ will enter the kingdom of heaven, but only he who does the will of My Father in heaven. 22 Many will say to Me on that day, ‘Lord, Lord, did we not prophesy in Your name, and in Your name drive out demons and perform many miracles?’ 23 Then I will tell them plainly, ‘I never knew you; depart from Me, you workers of lawlessness!’"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The warning now reaches beyond outward appearances to claims made before Jesus. The speakers call Him Lord and appeal to prophecy, exorcisms, and miracles performed in His name. Jesus contrasts those claims with doing His Father's will.",
+    "",
+    "The passage reports what the speakers say about their works. Jesus' response centers on His rejection of them and their lawlessness. The account does not separately narrate each claimed miracle or explain the source of its power.",
+    "",
+    "The word for lawlessness is ἀνομία, *anomia* (ah-noh-MEE-ah). [Thayer's Greek Lexicon](https://biblehub.com/greek/458.htm) explains it as disregard for or violation of law, and includes its use here. The contrast with the Father's will makes the moral concern clear: public religious activity can conceal a life of disobedience.",
+    "",
+    "The command to depart echoes [Psalm 6:8](https://biblehub.com/bsb/psalms/6.htm), where workers of evil are told to go away. Here Jesus Himself gives the final response to those making their appeal. The following house illustration continues the contrast between hearing His words and acting on them."
+  ],
+  "common_interpretation_lines": [
+    "Christian traditions commonly understand this as a warning that calling Jesus Lord and claiming impressive deeds do not by themselves establish a right relationship with Him. They describe the relationship between faith and obedience in different ways.",
+    "",
+    "In the Reformed tradition, the [Westminster Confession, 16.2 and 16.5](https://www.opc.org/wcf.html), calls good works the fruit and evidence of living faith, while denying that works earn forgiveness or eternal life. Its chapter 18.1 also warns about false confidence in being accepted by God.",
+    "",
+    "The Catholic [Catechism, 1815](https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_one/article_7/ii_the_theological_virtues.html), says faith without hope and love does not fully unite a person to Christ as a living member of His body. [Wesley on Matthew 7:21–23](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) stresses doing the Father's will as taught in the Sermon and applies the warning personally, even to someone whose ministry appears effective."
+  ],
+  "god_plan_lines": [
+    "Christ's saving work includes rescue from the lawlessness named here. [Titus 2:11–14](https://biblehub.com/bsb/titus/2.htm) describes God's grace training people to leave ungodliness and live rightly while awaiting Christ. It says He gave Himself to redeem people from lawlessness and make them His own, eager to do good.",
+    "",
+    "[Ephesians 2:8–10](https://biblehub.com/bsb/ephesians/2.htm) likewise joins God's gift of salvation with a new life prepared for good works. These passages show the larger purpose: the grace that brings people to Christ is meant to form a life that belongs to Him. The warning against mere claims is understood within that saving and transforming work."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/7.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-sermon-completion-review.md"
+  }
+}

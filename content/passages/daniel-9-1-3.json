@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "9:1-3",
+    "label": "Daniel 9:1-3",
+    "slug": "daniel-9-1-3"
+  },
+  "section_title": "Why does reading Jeremiah lead Daniel to pray?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 In the first year of Darius son of Xerxes, a Mede by descent, who was made ruler over the kingdom of the Chaldeans — 2 in the first year of his reign, I, Daniel, understood from the sacred books, according to the word of the LORD to Jeremiah the prophet, that the desolation of Jerusalem would last seventy years. 3 So I turned my attention to the Lord God to seek Him by prayer and petition, with fasting, sackcloth, and ashes."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The setting returns to the first year of Darius, after the fall of Babylon. Reading the sacred books, Daniel understands from Jeremiah that Jerusalem’s desolation is to last seventy years.",
+    "",
+    "[Jeremiah 25:8–14](https://biblehub.com/bsb/jeremiah/25.htm) speaks of the nations serving Babylon for seventy years and of Babylon itself being judged afterward. [Jeremiah 29:10–14](https://biblehub.com/bsb/jeremiah/29.htm) promises that God will attend to His people, hear them as they seek Him and restore them from captivity.",
+    "",
+    "Daniel responds by turning to God in prayer, fasting, sackcloth and ashes. Learning that God has promised an end to the desolation moves him to seek God earnestly. The rest of the chapter records his confession and the answer that follows."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/daniel/9.htm) and [Gaebelein](https://biblehub.com/commentaries/gaebelein/daniel/9.htm) understand God’s promise as the encouragement for Daniel’s prayer. Knowing what God has said gives him reason to appeal to Him, rather than making prayer unnecessary."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/9.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-nine-review.md"
+  }
+}

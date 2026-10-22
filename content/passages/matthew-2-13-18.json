@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "2:13-18",
+    "label": "Matthew 2:13-18",
+    "slug": "matthew-2-13-18"
+  },
+  "section_title": "Escape to Egypt and Weeping in Bethlehem",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 When the Magi had gone, an angel of the Lord appeared to Joseph in a dream. “Get up!” he said. “Take the Child and His mother and flee to Egypt. Stay there until I tell you, for Herod is going to search for the Child to kill Him.” 14 So he got up, took the Child and His mother by night, and withdrew to Egypt, 15 where he stayed until the death of Herod. This fulfilled what the Lord had spoken through the prophet: “Out of Egypt I called My Son.”",
+        "16 When Herod saw that he had been outwitted by the Magi, he was filled with rage. Sending orders, he put to death all the boys in Bethlehem and its vicinity who were two years old and under, according to the time he had learned from the Magi. 17 Then what was spoken through the prophet Jeremiah was fulfilled: 18 “A voice is heard in Ramah, weeping and great mourning, Rachel weeping for her children and refusing to be comforted, because they are no more.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "After the magi leave, an angel warns Joseph that Herod intends to kill the child. Joseph acts that night, taking Jesus and Mary to Egypt, where they remain until Herod dies. Matthew then turns from the family's escape to the children Herod has killed in Bethlehem and the surrounding area. The order targets boys two years old and younger, based on the timing Herod learned from the magi.",
+    "",
+    "Matthew connects the escape with [Hosea 11:1–4](https://biblehub.com/bsb/hosea/11.htm). Hosea is looking back on Israel's childhood as a people: God loved His son and brought him out of Egypt, yet Israel turned to idols. Matthew now applies the words about God's son to Jesus. Understanding Hosea's original reference helps us see the connection Matthew makes; the older passage was not originally a travel report about Joseph's family.",
+    "",
+    "For Bethlehem's grief, Matthew turns to [Jeremiah 31:15–17](https://biblehub.com/bsb/jeremiah/31.htm). Rachel, an ancestor of Israel, is pictured weeping for her lost children. In Jeremiah, that grief appears within a promise of return and restoration. Matthew brings the lament into this new scene of bereaved families. He does not give a count of the dead or say that their parents were being punished for personal wrongdoing.",
+    "",
+    "The passage places Joseph's obedience beside Herod's abuse of power. God's warning saves the child, but Matthew still gives space to the other families' devastating loss. The rescue is not presented as a promise that every faithful family will escape violence."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand the Egypt journey as connecting Jesus with Israel's earlier deliverance, and Rachel's weeping as language for the sorrow in Bethlehem. The [Catholic Catechism, paragraph 530](https://www.vatican.va/archive/ENG0015/__P1L.HTM), connects the account with persecution and a new exodus; [Wesley's notes on Matthew 2:15–18](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) likewise recognize the earlier Israel setting and the application to Jesus and the bereaved."
+  ],
+  "god_plan_lines": [
+    "God called Israel His firstborn son in [Exodus 4:22–23](https://biblehub.com/bsb/exodus/4.htm). By applying Hosea's son-and-Egypt language to Jesus, Matthew places God's Son within the history of the people He has come to save. Jesus shares their danger and displacement, rather than entering the story untouched by human suffering.",
+    "",
+    "There is also a clear parallel with Moses' beginnings. In [Exodus 1:15–22 and 2:1–10](https://biblehub.com/bsb/exodus/1.htm), a ruler orders Hebrew boys killed, yet the child who will later lead Israel out of slavery is preserved. Herod's attack similarly fails to destroy Jesus. The resemblance supports a comparison between the deliverers; it does not mean every detail of Moses' infancy has a matching event here.",
+    "",
+    "The sorrow is real, and so is the Bible's hope beyond it. Jeremiah's lament is followed by promised restoration, while [Revelation 21:3–4](https://biblehub.com/bsb/revelation/21.htm) looks toward God dwelling with His people and ending death and mourning. That larger hope does not tell us why each child died or turn Herod's crime into something good. It places the grief within a story whose final word is God's restored life with His people."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/2.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-magi-and-egypt-review.md"
+  }
+}

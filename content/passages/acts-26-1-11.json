@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "26:1-11",
+    "label": "Acts 26:1-11",
+    "slug": "acts-26-1-11"
+  },
+  "section_title": "Why does Paul connect Israel’s hope with his own history of persecution?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Agrippa said to Paul, “You have permission to speak for yourself.” Then Paul stretched out his hand and began his defense: 2 “King Agrippa, I consider myself fortunate to stand before you today to defend myself against all the accusations of the Jews, 3 especially since you are acquainted with all the Jewish customs and controversies. I beg you, therefore, to listen to me patiently. 4 Surely all the Jews know how I have lived from my earliest childhood among my own people, and also in Jerusalem. 5 They have known me for a long time and can testify, if they are willing, that I lived as a Pharisee, adhering to the strictest sect of our religion.",
+        "6 And now I stand on trial because of my hope in the promise that God made to our fathers, 7 the promise our twelve tribes are hoping to see fulfilled as they earnestly serve God day and night. It is because of this hope, O king, that I am accused by the Jews. 8 Why would any of you consider it incredible that God raises the dead?",
+        "9 So then, I too was convinced that I ought to do all I could to oppose the name of Jesus of Nazareth. 10 And that is what I did in Jerusalem. With authority from the chief priests I put many of the saints in prison, and when they were condemned to death, I cast my vote against them. 11 I frequently had them punished in the synagogues, and I tried to make them blaspheme. In my raging fury against them, I even went to foreign cities to persecute them."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Agrippa gives Paul permission to speak. Paul welcomes the opportunity because the king knows Jewish customs and disputes, and asks him to listen patiently. He describes his upbringing among his own people and in Jerusalem, and his life as a Pharisee.",
+    "",
+    "He places the case in relation to God’s promises to Israel and the hope of resurrection. His appeal to the twelve tribes presents the hope of the people as a whole; it is not a claim that no Jewish group has ever disagreed about resurrection. Luke has already described the Sadducean disagreement in Acts 23.",
+    "",
+    "Paul then admits how fiercely he once opposed Jesus’ name. With authority from the chief priests, he imprisoned believers, approved their condemnation to death, punished them and tried to make them blaspheme. He even pursued them beyond the country. His account gives no excuse that his sincerity made the violence right.",
+    "",
+    "His reference to casting a vote expresses his part in their condemnation. He recalls supporting the persecution, not simply observing it from a distance. His testimony emphasizes how deeply he opposed the people he now serves."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read Paul’s past as evidence of a profound change brought by encountering Jesus. Knowledge and religious zeal can be turned against the very One a person claims to serve. His former persecution prepares the hearers to understand the mercy and calling described next."
+  ],
+  "god_plan_lines": [
+    "[1 Timothy 1:12–16](https://biblehub.com/bsb/1_timothy/1.htm) explicitly presents the mercy shown to Paul as an example of Christ’s patience toward those who will believe. The former opponent is appointed to service. His story demonstrates the reach of that mercy rather than treating a violent past as beyond God’s ability to change.",
+    "",
+    "The resurrection hope also connects his personal story with God’s promises. In [Luke 24:44–47](https://biblehub.com/bsb/luke/24.htm), Jesus joins the fulfillment of Scripture, His suffering and resurrection, and the proclamation of repentance and forgiveness to the nations. Paul’s defense is moving toward that same larger account."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/26.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twenty-six-review.md"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "7:24-30",
+    "label": "Mark 7:24-30",
+    "slug": "mark-7-24-30"
+  },
+  "section_title": "The Woman Who Asked for Crumbs",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "24 Jesus left that place and went to the region of Tyre. Not wanting anyone to know He was there, He entered a house, but was unable to escape their notice. 25 Instead, a woman whose little daughter had an unclean spirit soon heard about Jesus, and she came and fell at His feet. 26 Now she was a Greek woman of Syrophoenician origin, and she kept asking Jesus to drive the demon out of her daughter.",
+        "27 “First let the children have their fill,” He said. “For it is not right to take the children’s bread and toss it to the dogs.” 28 “Yes, Lord,” she replied, “even the dogs under the table eat the children’s crumbs.” 29 Then Jesus told her, “Because of this answer, you may go. The demon has left your daughter.” 30 And she went home and found her child lying on the bed, and the demon was gone."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus goes to the region of Tyre and enters a house, seeking privacy. A woman hears He is there, comes to Him, and keeps asking Him to drive an unclean spirit from her daughter. Mark identifies her as Greek and Syrophoenician by origin, placing this encounter beyond Jesus' own Jewish community.",
+    "",
+    "Jesus answers with a household picture: the children should eat first, and their bread should not be taken and given to the dogs. The [parallel Matthew 15:21–28](https://biblehub.com/bsb/matthew/15.htm) makes the reference to Israel clear by recording His statement about being sent to Israel's lost sheep. Mark's word first is important: the picture describes a priority.",
+    "",
+    "The Greek noun [κυνάριον (kynarion, koo-NAH-ree-on)](https://biblehub.com/greek/2952.htm) means a little dog. The setting is a household table, with dogs underneath it. The word helps explain the picture, but cannot by itself tell us Jesus' tone of voice or make the distinction between children and dogs disappear.",
+    "",
+    "The woman accepts the picture and replies from within it: even the dogs receive crumbs under the table. She does not ask for the children to lose their meal. She asks for help that can reach her daughter too.",
+    "",
+    "Jesus responds to her answer by telling her that the demon has left. She goes home and finds her child on the bed, free from it. Matthew explicitly praises her great faith; Mark emphasizes her answer and the help Jesus gives without going to the child's bedside."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly see the woman's persistent faith and Jesus' mercy reaching a Gentile alongside His mission to Israel. [Calvin on Mark 7:24–30](https://biblehub.com/commentaries/calvin/mark/7.htm) emphasizes her faith through the difficult exchange, while the [USCCB notes on verses 27–28](https://bible.usccb.org/bible/mark/7) explain Israel's priority and Jesus' response to her faith."
+  ],
+  "god_plan_lines": [
+    "Mercy reaching beyond Israel fits promises already present in Scripture. [Isaiah 49:5–6](https://biblehub.com/bsb/isaiah/49.htm) describes the Servant restoring Israel and bringing God's salvation to the nations. [Romans 15:7–13](https://biblehub.com/bsb/romans/15.htm) joins Christ's confirmation of the patriarchs' promises with Gentiles glorifying God for mercy. The woman's receiving help fits that wider pattern of promise and welcome.",
+    "",
+    "[Ephesians 2:11–22](https://biblehub.com/bsb/ephesians/2.htm) describes the larger result through Christ's blood and cross: those once far away are brought near, and Jews and Gentiles have access to the Father by one Spirit. They become members of God's household. The future opened by Christ reaches beyond receiving crumbs outside a privileged group to sharing life together in Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/7.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-seven-closing-review.md"
+  }
+}

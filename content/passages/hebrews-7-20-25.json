@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "7:20-25",
+    "label": "Hebrews 7:20-25",
+    "slug": "hebrews-7-20-25"
+  },
+  "section_title": "Why can Christ’s priesthood provide lasting assurance?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "20 And none of this happened without an oath. For others became priests without an oath, 21 but Jesus became a priest with an oath by the One who said to Him: “The Lord has sworn and will not change His mind: ‘You are a priest forever.’” 22 Because of this oath, Jesus has become the guarantee of a better covenant.",
+        "23 Now there have been many other priests, since death prevented them from continuing in office. 24 But because Jesus lives forever, He has a permanent priesthood. 25 Therefore He is able to save completely those who draw near to God through Him, since He always lives to intercede for them."
+      ]
+    }
+  ],
+  "context_lines": [
+    "God’s oath confirms Christ’s priesthood, so Jesus is the guarantee of a better covenant. The promise rests on the God who will not change His mind.",
+    "",
+    "The earlier priests served in succession because death ended their service. Jesus continues forever. The word [translated permanent](https://biblehub.com/greek/531.htm) describes a priesthood that does not pass to a successor.",
+    "",
+    "The result concerns the people who approach God through Him: He can save completely because He always lives to intercede. His continuing life is not a distant fact about heaven; it is the ground of His continuing care for them."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/7.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) both understand Christ’s enduring life as the ground of His continuing priesthood and intercession. The [Catholic Catechism, paragraph 662](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/article_6/he_ascended_into_heaven_and_is_seated_at_the_right_hand_of_the_father.html), likewise teaches that He permanently exercises His priesthood in God’s presence on behalf of those approaching through Him.",
+    "",
+    "Calvin emphasizes the lasting security of His saving work; Wesley describes salvation reaching the guilt, power and consequences of sin. Their shared point is the sufficiency of the living Christ for those who come to God through Him."
+  ],
+  "god_plan_lines": [
+    "[Romans 8:31–39](https://biblehub.com/bsb/romans/8.htm) also joins Christ’s death, resurrection and intercession with assurance for His people. Their hope rests in the living Savior and God’s love, rather than a priest whose service will eventually end in death.",
+    "",
+    "[Hebrews 10:19–22](https://biblehub.com/bsb/hebrews/10.htm) develops the result: His people can draw near to God through the way Jesus has opened. The enduring priesthood serves God’s purpose of bringing people into His presence."
+  ],
+  "current_position_lines": [
+    "Our study [Who Shepherds the Church?](https://thewayofscripture.com/studies/who-shepherds-the-church.html) understands Christ’s priesthood as permanent, with no successor needed because He lives forever. Believers approach God through Him. The study therefore rejects a clergy class acting as a necessary spiritual mediator between believers and God, while retaining elders who teach, correct and care for the church."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/7.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-seven-review.md",
+    "position_source_detail": "Who Shepherds the Church? — What Changed at the Cross, lines 52–63; explicit Hebrews 7:24–25 / permanent priesthood and direct access."
+  }
+}

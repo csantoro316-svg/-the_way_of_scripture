@@ -5,24 +5,51 @@
     "label": "Judges 16:1-3",
     "slug": "judges-16-1-3"
   },
-  "section_title": "Samson Escapes Gaza",
+  "section_title": "Can great strength hide a serious weakness?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 One day Samson went to Gaza, where he saw a prostitute and went in to spend the night with her.",
-        "2 When the Gazites heard that Samson was there, they surrounded that place and lay in wait for him all night at the city gate. They were quiet throughout the night, saying, \u201cLet us wait until dawn; then we will kill him.\u201d",
-        "3 But Samson lay there only until midnight, when he got up, took hold of the doors of the city gate and both gateposts, and pulled them out, bar and all. Then he put them on his shoulders and took them to the top of the mountain overlooking Hebron."
+        "1 One day Samson went to Gaza, where he saw a prostitute and went in to spend the night with her. 2 When the Gazites heard that Samson was there, they surrounded that place and lay in wait for him all night at the city gate. They were quiet throughout the night, saying, “Let us wait until dawn; then we will kill him.” 3 But Samson lay there only until midnight, when he got up, took hold of the doors of the city gate and both gateposts, and pulled them out, bar and all. Then he put them on his shoulders and took them to the top of the mountain overlooking Hebron."
       ]
     }
   ],
   "context_lines": [
-    "In **Judges 16**, this section should be read within the flow of the chapter and the larger movement of Judges."
+    "Samson goes to Gaza, sees a prostitute, and spends the night with her. When the townspeople learn he is there, they wait at the city gate, planning to kill him at dawn. The danger comes from people who already regard him as their enemy.",
+    "",
+    "He gets up at midnight and removes the gate doors, both posts, and the bar. He carries them to the mountain overlooking Hebron. The narrator describes an extraordinary escape, without explaining how Samson learned of the ambush or how much the gate weighed. The man who can carry away a city’s defenses remains vulnerable in his own choices."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Samson Escapes Gaza** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-judges/) and [Henry](https://biblehub.com/commentaries/mhc/judges/16.htm) both read the visit to the prostitute as sin. They distinguish Samson’s extraordinary gift from the condition of his heart. His ability to escape does not make the conduct that brought him there right.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Judges 16** remains the first control on meaning."
+    "Both suggest that his departure may have involved a renewed awareness of guilt or danger. They present possibilities rather than a confession recorded in the passage. The account itself reports what he does at midnight without describing a prayer or stating his motive for getting up."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The New Testament connects sexual conduct with belonging to Christ. In [1 Corinthians 6:12–20](https://biblehub.com/bsb/1_corinthians/6.htm), Paul explains that believers’ bodies belong to the Lord, that they are joined to Christ, and that God will raise them as He raised Jesus. The call to flee sexual immorality rests on that relationship and future hope.",
+    "",
+    "That adds something beyond the contrast between physical strength and personal weakness: God’s saving work concerns the whole person. Our bodies are part of a life bought for His service, so how we use them matters."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/judges/16.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-judges-sixteen-review.md"
+  }
 }

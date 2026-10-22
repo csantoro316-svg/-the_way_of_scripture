@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "6:6-11",
+    "label": "Luke 6:6-11",
+    "slug": "luke-6-6-11"
+  },
+  "section_title": "Why does Jesus heal the man’s hand on the Sabbath?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 On another Sabbath Jesus entered the synagogue and was teaching, and a man was there whose right hand was withered. 7 Looking for a reason to accuse Jesus, the scribes and Pharisees were watching Him closely to see if He would heal on the Sabbath. 8 But Jesus knew their thoughts and said to the man with the withered hand, “Get up and stand among us.” So he got up and stood there.",
+        "9 Then Jesus said to them, “I ask you, which is lawful on the Sabbath: to do good or to do evil, to save life or to destroy it?” 10 And after looking around at all of them, He said to the man, “Stretch out your hand.” He did so, and it was restored. 11 But the scribes and Pharisees were filled with rage and began to discuss with one another what they might do to Jesus."
+      ]
+    }
+  ],
+  "context_lines": [
+    "On another Sabbath, Jesus teaches in a synagogue where a man has a withered right hand. The scribes and Pharisees watch for a healing so they can accuse Him. Jesus knows their thoughts and brings the man into the open.",
+    "",
+    "He asks whether doing good or doing evil, saving life or destroying it, is lawful on the Sabbath. His question puts the person’s need at the center of the discussion. He tells the man to stretch out his hand, and it is restored.",
+    "",
+    "The healing brings an angry response from the watchers, who begin discussing what they might do to Jesus. Luke places their response beside the good He has just done. The episode continues the previous Sabbath encounter, moving from the disciples’ need for food to a man’s need for restoration."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand Jesus as showing that mercy and care for a person fit the purpose of honoring God on the Sabbath. The healing reveals His authority while His question exposes the failure to welcome the good being done. ([Catechism 582](https://www.vatican.va/archive/ENG0015/__P1N.HTM); [USCCB note on Luke 6:1–11](https://bible.usccb.org/bible/luke/6))"
+  ],
+  "god_plan_lines": [
+    "The concern for doing good belongs to the Bible’s larger call to love one’s neighbor. James joins the command to love with a warning against withholding mercy, then gives the example of meeting a person’s need for food and clothing. That is a thematic connection: faith is to become visible in care for people. Jesus’ action here shows such care in the face of opposition. ([James 2:8–17](https://biblehub.com/bsb/james/2.htm))",
+    "",
+    "Peter later summarizes Jesus’ ministry as going about doing good and healing those oppressed by the devil, with God’s presence and the Spirit’s power. The restoration of this hand is one particular act within that saving ministry of goodness and mercy. ([Acts 10:38](https://biblehub.com/bsb/acts/10.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/6.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-six-opening-review.md"
+  }
+}

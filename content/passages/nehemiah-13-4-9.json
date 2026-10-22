@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Nehemiah",
+    "citation": "13:4-9",
+    "label": "Nehemiah 13:4-9",
+    "slug": "nehemiah-13-4-9"
+  },
+  "section_title": "Why does Nehemiah remove Tobiah’s belongings from the temple?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "4 Now before this, Eliashib the priest, a relative of Tobiah, had been put in charge of the storerooms of the house of our God 5 and had prepared for Tobiah a large room where they had previously stored the grain offerings, the frankincense, the temple articles, and the tithes of grain, new wine, and oil prescribed for the Levites, singers, and gatekeepers, along with the contributions for the priests. 6 While all this was happening, I was not in Jerusalem, because I had returned to Artaxerxes king of Babylon in the thirty-second year of his reign. Some time later I obtained leave from the king",
+        "7 to return to Jerusalem. Then I discovered the evil that Eliashib had done on behalf of Tobiah by providing him a room in the courts of the house of God. 8 And I was greatly displeased and threw all of Tobiah’s household goods out of the room. 9 Then I ordered that the rooms be purified, and I had the articles of the house of God restored to them, along with the grain offerings and frankincense."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The account looks back to something done while Nehemiah was away. Eliashib, the priest responsible for the temple storerooms and a relative of Tobiah, has prepared a large room for him. It had previously held offerings, temple articles and supplies assigned to the workers.",
+    "",
+    "Nehemiah explains that he had returned to Artaxerxes in the thirty-second year of the king’s reign and later obtained permission to come back to Jerusalem. On returning, he learns what Eliashib has done.",
+    "",
+    "Greatly displeased, Nehemiah throws Tobiah’s household goods out, orders the rooms purified and restores the temple articles, grain offerings and frankincense. The space is returned to the purpose for which it had been set apart."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/nehemiah/13.htm) and [Gill](https://biblehub.com/commentaries/gill/nehemiah/13.htm) understand Tobiah’s room as a misuse of space belonging to God’s house. Henry also draws a personal lesson about removing what sustains sin and making room for what serves God. The immediate action concerns a governor correcting the use of temple storerooms during his absence."
+  ],
+  "god_plan_lines": [
+    "There is a clear parallel with Jesus’ action in the temple courts in [John 2:13–22](https://biblehub.com/bsb/john/2.htm). Jesus drives out the trading activity and objects to His Father’s house becoming a marketplace.",
+    "",
+    "The accounts share concern for the proper use of God’s house; John does not identify Nehemiah’s action as a prediction of Jesus’ action. John then takes the theme further: Jesus speaks of the temple of His body, and His disciples understand His words after His resurrection."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/nehemiah/13.htm",
+    "plan_basis": [
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-nehemiah-twelve-thirteen-review.md"
+  }
+}

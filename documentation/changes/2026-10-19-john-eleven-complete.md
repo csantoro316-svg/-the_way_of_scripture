@@ -1,0 +1,11 @@
+# John 11 complete and live
+
+Three closing pages cover the raising of Lazarus, the preserved prayer reference and the council's decision against Jesus. The prayer positions draw narrowly from Prayer and Faith; the council page remains open. Scripture supports the wider connections with Christ's authority over death and His gathering of God's people through the cross.
+
+[Evidence](../testing/2026-10-19-john-eleven-closing-review.md). Three fresh BSB checks, eight tests, zero errors /327 warnings, preservation/coverage/navigation/idempotence,390pxreader/standalone/actualNext, Hosting dry run/deployment, seven affected and eight whole-chapter live byte checks passed.
+
+John:69reviewedpages /535actualBSBverses /69plans /28studypositions /41open;78sources /9unreviewedlegacyreferences. ContinueJohn12sixgroups1–11/12–19/20–26/27–36/37–43/44–50;noexistingchapter12legacy. WholePDFthrough410read:all11B387–405andfirstJohn12lesson406–410.411onwardunread. No next draft yet.
+
+ActualJohn12openingresearch:BSB1–19andchapter50versemarkers;Deut15:7–11/Zech9:9–10/Ps118:19–29;wholeWesleyXIIthrough26andstart27;Calvin2/3/5/9/10/17/19fulland1/4/6/7/8/12/13/14/16relevantexcerptsplus8almsending;USCCB12notes1–8through27read. CCC2449andpreceding2448enddirectlyread at https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_two/article_7/vi_love_for_the_poor.html :Jesus'poor-sayingreinforcescare,notdismissal. NoexistingdirectJohn12studypositionfoundintargetedsearch. Hosanna5614needsactuallexiconifused;CCC559wouldbeusefulprimaryforentryifread.
+
+ExcludeunverifiedchronologyWedPassover/Fridayarrival,allcrowdsidenticalatentryandcrucifixion,everybelieverabandonsJesus,nation'sautomaticfuturekingdomtimetable,precisepalmpoliticalhistoryorcoinswithoutindependentcheck. Baseline'sthree-yearPassoverlambconflictswithExodus12one-yearinstruction;don'trepeat(checkactualBSBifdiscussing). No hugepopulationnumber,specificfamilyincomeorallunbelieverscharityselfish. USCCB12:3noteappearsmistakenonMarkanointingfeet—actualMark14:3hashead;don'tcopynoteasBible. Bodytextcontrols. NoPlinyperfumeprice/nardprovenance/hairstyleshamewithoutindependentcheck. NoUSCCBrabbinicburial-versus-almsconsensuswithoutindependentprimary.

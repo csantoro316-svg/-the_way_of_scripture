@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "2 Peter",
+    "citation": "1:1-2",
+    "label": "2 Peter 1:1-2",
+    "slug": "2-peter-1-1-2"
+  },
+  "section_title": "What do believers share with the apostles?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Simon Peter, a servant and apostle of Jesus Christ, To those who through the righteousness of our God and Savior Jesus Christ have received a faith as precious as ours: 2 Grace and peace be multiplied to you through the knowledge of God and of Jesus our Lord."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The letter opens in the name of Simon Peter, a servant and apostle of Jesus Christ. The [word translated servant](https://biblehub.com/greek/1401.htm) can mean a slave belonging to another. Here it expresses his service under Christ alongside the responsibility of being His apostle.",
+    "",
+    "The recipients have received a faith as precious as that of the writer and his companions. The [word behind as precious](https://biblehub.com/greek/2472.htm) speaks of equal worth or honor. Their standing does not depend on having been present during Jesus’ earthly ministry.",
+    "",
+    "This faith is received through the righteousness of Jesus Christ, named their God and Savior. The greeting then asks for increasing grace and peace through knowing God and Jesus their Lord. Knowing Him will remain central as the letter turns to growth and warns against error."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/2_peter/1.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-epistle-general-of-st-peter/) both understand this faith as God’s gift, rather than something earned by human achievement. Calvin explains its equal worth through believers sharing the same Christ and salvation, while allowing differences in the measure of faith. Wesley emphasizes that those who have not seen Jesus share a faith as precious as that of the apostles who did.",
+    "",
+    "Both connect growing knowledge of God with grace and peace. The knowledge is directed toward the God who saves, rather than being only a collection of facts to possess."
+  ],
+  "god_plan_lines": [
+    "Jesus describes eternal life in [John 17:1–5](https://biblehub.com/bsb/john/17.htm) in terms of knowing the Father and the Son whom He sent. The knowledge sought in this greeting belongs within that saving relationship.",
+    "",
+    "[Ephesians 2:13–18](https://biblehub.com/bsb/ephesians/2.htm) describes those once far away being brought near through Christ, with Jews and Gentiles sharing access to the Father by one Spirit. This gives a wider picture of the common standing God grants through the same Savior."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_peter/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-peter-opening-review.md"
+  }
+}

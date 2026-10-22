@@ -1,0 +1,37 @@
+# Isaiah 31–33 passage review — 2026-10-21
+
+Four retained groups /53 actual BSB verses. Four supported plan sections /four exact open positions. Retain URLs, grouping and deeper links; no owner study edited.
+
+## Actually read sources
+
+Baseline30B–33 entirelesson226–238 actuallyread. Cumulative IsaiahPDF1–244 actuallyread, including34–36lesson239–244begun. Whole mainBSB31/32/33 and Henry/Wesley31/32/33 expositionsactuallyread. USCCB31notesread;32/33HTTPerrorunused. Gill31selected4,5,8,9all8056chars;32selected1,2,5,15,17,19all13001chars;33selected1,8,14,17,20,21,24all17649charsread in bounded chunks. BDB6452wholeentry/header andactual31:5interlinearread. Gillclaimwordoccursnowhereelse notadopted: entry alsoEx12:13/27; unrelatedlimpinghomonymdistinguished.
+
+DirectactualBSBsupportreadEx12:21–28/1Cor5:6–8/Luke22:24–30/Acts2:14–21,32–39/Gal5:16–26/Heb12:22–29. Wholepubliccontextfromactualchaptertexts,no KJV/NASB suppliedquoteimported. Ownerstudysearch31/32/33andselectedphrasefoundnoapplicableposition. Later WalvoordIsa32searchreturnednoactualauthorpassage; no claimbasedonsearchsnippet/secondarysummary.
+
+## 31:1–9
+
+Plan section: included, because (b). ActualpassingoververbBDB6452connects31:5andEx12rescue,1Cor5explicitChristPassoverbuildsbroaderconnection. NotclaimedPaulquotesIsa31.
+Position source: none.
+FLAGGED FOR REVIEW: No biologicalassertion lionsneverroarafterprey, unspecifiedyoungbirds/pursuit militarydetails asfact. No automaticeverylionSatan/allbirdsentirespecificpropheticclass. PassingoverBDBgenuineentrywithIsa31:5,notalllimpingrootmeaningsforcedintocontext. Baseline AssyriankingsbeyondHisinstructions/GodneededJerusalemsoSonbornthere notdirect31claims;JesusbirthBethlehemnotJerusalem. No mandatory currentdiplomacyban/humanhelpintrinsicallysinful. ActualBSB31:8forcedlaborretained,notGillnoHebfoundationdismissal;31:9rocknotrewrittenKJVhepassestonecity. No preciseheavenlybannershapeorSennacheribpersonallysawangel withoutcorroboration. ContextpointsforwardIsa37ratherthannewhistoricalclaim needingunreadindependentsource. No inventedownerposition.
+
+## 32:1–8
+
+Plan section: included, because (c). Luke22servingKingcontrastsrulersselfstyledbenefactors;kingdomandtablepromisesaddChrist's model beyondinitialidentitydispute.
+Position source: none.
+FLAGGED FOR REVIEW: BaselinekingplusprinceforcesliteralresurrectedDavidright-handmannotsupportedbyIsa32pluralprincesalone, notadopted. Ezek34Davidinterpretationrequiresitsownreviewlater. No systemallgovernmentonlyexistsbecauseallsin/allnaturalGentilesvsallJewsglorified. ExistingcommentatorsHezekiahpictureChristversusChristdirectandprincesministersactualprimaryread. Stammering notmoraldiagnosisofspecificpeoplewithspeechdisabilities. No historicHezekiahchronologycertaintyfromchapterorder. No reductionofpoor'sactualhungerthirsttoonlyspiritualmetaphor. No strictnabalspecificpersonallusionwithoutlexicon. No ownerstudypositionfrommerethemeorLuke22crossreference.
+
+## 32:9–20
+
+Plan section: included, because (b)/(c). Acts2risenChristpoursSpirit/repentance/gift,Gal5Spiritfruitpeacecontrastenvy/hostility. PeterdirectlyquotesJoel, notIsa32; futurefulfillmentdisagreementnotresolvedbyforcingPentecostidenticaleverydetail.
+Position source: none.
+FLAGGED FOR REVIEW: Baseline32:15specificZech12nationalrepentance/fixedtime notconsensus;GillfutureoutpouringfairlyattributednotallGentilesnowunfruitfulorJewishethnicstereotype. No Godpunishesallwomenforsex/appearance;literalcomplacentaddresseesandmaterialdesolationretained. No32:15verbmeansrevealclaimwithoutlexicon. No exactyearcalculationwithoutindependentchronology. Noallmentalcalmguaranteeforbelievers or modernmedicalanxietyadvice. Wesley32:19JerusalemversusGillRomeidentitynotpresentedasfixedagreedtext. No antiCatholicRomishlabeladopted. No health/safety/financialprosperityformula. No ownerpositionoriginated.
+
+## 33:1–24
+
+Plan section: included, because (c). Hebrews12Zion/Judge/Jesusmediator/unshakablekingdom/reverentworship/consumingfiredevelopsapproachtoholyGod. NotdirectIsa33quotationclaim;HebrewsfireechohasDeuteronomybackground.
+Position source: none.
+FLAGGED FOR REVIEW: BaselineopeningdestroyerSatan/AntichristnotnamedbyIsa33, notcommonconsensus. GillantiCatholicfuturebeast/papacyidentificationsnotadoptedassitedoctrine. ActualBSB33:8witnessesnotNASBcities/33:11YOURbreathnotNASBMYbreath;freshquotesmatchBSB. No fifity-squaremileplateau/shipsimpossibleprecisegeographyfromunverifiedreconstruction. Righteousconductportraitnotpurchaseforgiveness;no owner-salvationformulaoriginated. No clinicallyclaimillnessprovesunforgivensin/lackfaith;finalpromise broaderthanpresentmedicalguarantee. No violence/hearingbloodshedmeansavoidreportingcrimeorhearingvictims. Henryneverdyingsoulpremisenotcheckedagainstalltraditions,norepeatedasconsensus. NohistoricaldateofSennacheribtreatyexactsettledwithoutindependenttexts. BoundaryKingHezekiahthenChristprimaryattributed,notAIsiteposition.
+
+## Validation
+
+Focused generation, direct BSB, repository (0 errors /374 warnings), preservation, continuous coverage, idempotence, eight mobile views and physical Next passed. Hosting dry run, deployment and LIVE MATCH 8 each observed exit 0. Prefix /tmp/scripture-isaiah-thirty-one-three-.

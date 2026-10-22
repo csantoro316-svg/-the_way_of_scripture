@@ -5,18 +5,57 @@
     "label": "2 Corinthians 5:7",
     "slug": "2-corinthians-5-7"
   },
+  "section_title": "What does it mean to walk by faith rather than sight?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"for we walk by faith, not by sight.\""
+      "label": "BSB",
+      "paragraphs": [
+        "7 For we walk by faith, not by sight."
+      ]
     }
   ],
   "context_lines": [
-    "In **2 Corinthians 5**, Paul speaks about life between the present age and the coming fullness of resurrection glory. The chapter is saturated with faith, hope, reconciliation, and the unseen realities of belonging to Christ, so its famous lines must be read in that eschatological and gospel-centered frame."
-  ],
-  "explanation_lines": [
-    "A note on context: this exchange is sometimes confused with the Beatitudes of the Sermon on the Mount, but it takes place in an entirely different setting \u2014 Jesus appearing to the disciples after the resurrection, specifically addressing Thomas's demand to physically see and touch the wounds before he would believe. The principle fits alongside 2 Corinthians 5:7: both describe a faith that does not depend on first receiving physical proof or confirmation.",
+    "This brief verse belongs inside [2 Corinthians 5:6–8](https://biblehub.com/bsb/2_corinthians/5.htm). Paul contrasts present bodily life with being at home with the Lord and explains the confidence with which he awaits what he does not yet see.",
     "",
-    "**Observation:** Scripture consistently describes the normal Christian life as one of trusting what God has already revealed in His Word \u2014 not one of collecting ongoing proofs to keep that trust going. A faith that needs a new confirmation every week to stay standing is not the kind of faith these passages describe."
-  ]
+    "Walking describes the way he lives in that interval. His confidence rests on the Lord and His promise, while the fullness of being with Him is still ahead. Read in its setting, the verse is about living by that trust rather than seeing the promised future already completed.",
+    "",
+    "The wider application to trusting God matters, but it should not replace that immediate setting or turn faith into a rejection of careful thought and evidence."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the verse as present trust in the Lord before the fullness of the promised life is seen. [Wesley’s note on verse 7](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-the-corinthians/) and the [USCCB note on verses 6–9](https://bible.usccb.org/bible/2corinthians/5) both place it within the contrast between present life and being with Him."
+  ],
+  "god_plan_lines": [
+    "In [John 20:24–31](https://biblehub.com/bsb/john/20.htm), the risen Jesus meets Thomas and blesses those who have not seen and yet have believed. John then explains that the signs recorded in his Gospel are written so readers may believe and have life in Jesus’ name.",
+    "",
+    "This is a connection between trusting Christ without personally seeing Him and receiving the witness God has provided. It does not make faith belief without any basis: the written testimony points readers toward the same living Lord."
+  ],
+  "current_position_lines": [
+    "Our study [Should We Seek Signs From God?](https://thewayofscripture.com/studies/seek-signs.html) applies this verse to faith that trusts what God has revealed without requiring a stream of new physical confirmations. We connect it with Jesus’ words to Thomas in John 20:27–29. Paul’s immediate setting remains the confidence of awaiting life with the Lord; the application does not remove that context."
+  ],
+  "deeper_study": [
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_corinthians/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-second-corinthians-five-opening-review.md",
+    "position_source_detail": "Should We Seek Signs From God?, content/studies/seek_signs.md lines 54–62; existing owner application of 2 Corinthians 5:7 alongside John 20:27–29."
+  }
 }

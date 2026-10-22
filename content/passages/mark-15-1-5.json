@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "15:1-5",
+    "label": "Mark 15:1-5",
+    "slug": "mark-15-1-5"
+  },
+  "section_title": "Why does Jesus give so little answer to Pilate?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Early in the morning, the chief priests, elders, scribes, and the whole Sanhedrin devised a plan. They bound Jesus, led Him away, and handed Him over to Pilate. 2 So Pilate questioned Him, “Are You the King of the Jews?” “You have said so,” Jesus replied.",
+        "3 And the chief priests began to accuse Him of many things. 4 Then Pilate questioned Him again, “Have You no answer? Look how many charges they are bringing against You!” 5 But to Pilate’s amazement, Jesus made no further reply."
+      ]
+    }
+  ],
+  "context_lines": [
+    "At daybreak the council brings Jesus bound to Pilate. The hearing now moves from the religious leaders to the governor. Pilate asks whether He is the King of the Jews, bringing the question of His kingship into the setting of Roman judgment. ([Matthew 27:1–2](https://biblehub.com/bsb/matthew/27.htm))",
+    "",
+    "Jesus answers Pilate’s question, but gives no further reply to the many accusations from the chief priests. His silence amazes the governor. Mark does not say that Jesus has nothing to say about His identity; he has just recorded His answer and will repeatedly bring the title of king before us.",
+    "",
+    "The other Gospels give more of the surrounding exchange. Luke reports accusations about subverting the nation, taxes, and kingship. John records Jesus explaining that His kingdom does not come from this world and is not defended by His servants fighting to prevent His arrest. Those passages help us understand why the word king could mean something different to Pilate from what Jesus meant. ([Luke 23:1–5](https://biblehub.com/bsb/luke/23.htm); [John 18:28–38](https://biblehub.com/bsb/john/18.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Jesus as innocent and willingly facing the suffering ahead, rather than as unable to answer His accusers. The Reformed Heidelberg Catechism makes His condemnation under Pilate part of its explanation of the innocent Christ suffering to deliver others from judgment. ([Heidelberg Catechism, question 38](https://www.rca.org/about/theology/creeds-and-confessions/the-heidelberg-catechism/))"
+  ],
+  "god_plan_lines": [
+    "The kingdom question reaches beyond Pilate’s courtroom. Jesus tells Pilate that He came to bear witness to the truth, while Philippians describes His obedience through death followed by His exaltation. The One standing bound before a governor will be acknowledged as Lord, to the Father’s glory. ([John 18:36–37](https://biblehub.com/bsb/john/18.htm); [Philippians 2:5–11](https://biblehub.com/bsb/philippians/2.htm))",
+    "",
+    "This is the pattern of a king whose saving work passes through humble obedience. His silence in the face of accusation belongs within that willing path to the cross; it does not make the accusations true or give earthly rulers the final word about Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/15.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-fifteen-opening-review.md"
+  }
+}

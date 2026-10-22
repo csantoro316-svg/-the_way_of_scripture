@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "James",
+    "citation": "5:7-11",
+    "label": "James 5:7-11",
+    "slug": "james-5-7-11"
+  },
+  "section_title": "What can keep us steady while we wait for justice?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 Be patient, then, brothers, until the Lord’s coming. See how the farmer awaits the precious fruit of the soil—how patient he is for the fall and spring rains. 8 You, too, be patient and strengthen your hearts, because the Lord’s coming is near. 9 Do not complain about one another, brothers, so that you will not be judged. Look, the Judge is standing at the door!",
+        "10 Brothers, as an example of patience in affliction, take the prophets who spoke in the name of the Lord. 11 See how blessed we consider those who have persevered. You have heard of Job’s perseverance and have seen the outcome from the Lord. The Lord is full of compassion and mercy."
+      ]
+    }
+  ],
+  "context_lines": [
+    "James turns to the brothers and calls them to patience until the Lord’s coming. The farmer waits for a harvest that cannot be forced into immediate existence. The readers likewise need strengthened hearts while the outcome is still ahead.",
+    "",
+    "Waiting also concerns their treatment of one another. They must not turn their hardship into complaining against their brothers and sisters, forgetting that they too stand before the Judge.",
+    "",
+    "The prophets and Job show that suffering does not mean a person has been abandoned by God. James directs attention to endurance and to the Lord’s compassion and mercy in the outcome."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/james/5.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-general-epistle-of-st-james/) both understand patience as sustained hope in the Lord’s judgment and care. They differ over the immediate reference of His nearness: Calvin prefers the final deliverance at Christ’s coming, while Wesley also connects it with judgment on Jerusalem, alongside the final coming.",
+    "",
+    "Calvin also observes that Job’s endurance was not the absence of every troubled word or failure. The example encourages perseverance through weakness, rather than requiring a sufferer never to express grief."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 11:32–40](https://biblehub.com/bsb/hebrews/11.htm) places faithful people who experienced deliverance beside others who continued to suffer. Their common hope extends beyond what happened during their lifetimes.",
+    "",
+    "[Job 42:7–17](https://biblehub.com/bsb/job/42.htm) shows God correcting Job’s friends, accepting his prayer and restoring him. James draws attention to the Lord’s merciful outcome; that account does not promise every reader an identical sequence of losses and material recovery."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/james/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-james-five-review.md"
+  }
+}

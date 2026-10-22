@@ -1,0 +1,12 @@
+# Romans5 complete and published
+
+
+## Romans 5 complete — 2026-10-19
+
+27 reviewed pages cover138verses continuously through5:21:27plans/six study positions/21open. Four new groups and legacy8 published. FivefreshBSB/eighttests/zeroerrors/281knownwarnings;source-index-standalone,preservation/navigation,coverage,idempotence,five390pxreader+standalone,actualNextpass. Hostingdryrun/deployexit0;nineaffected/sevenwholechapterlivefilesmatch.
+
+Romans baseline344pages now actuallyreadthrough128:entirelesson6(117–128)complete. NeedRomans6next. BSB6only1–4read sofar;remaining/footnotesunread. Existinglegacies6:3–4/14/23. StudyBaptism1–96actuallyread(in2outputs,second74–96fillsfirsttruncation);direct3–4supportswaterbaptismasfaith-effectiveappointedact,immersionpreferred,realspiritualenactmentnotmeresymbol;forgiveness/HolySpiritalreadybyfaith. This differsfrombaselinewateronlypicture:ownerstudywinsforOurPosition,notbaseline. TrueChurch104–128read,direct6:14graceempowersholinessnotstayinsin;Gospelstudy6:23directalreadyread137,gifteternallife. Likelygroups1–4/5–11/12–14/15–23+threelegacies=7pages,positions6study/oneopen(ifgroup5–11none).
+
+Calvin6/USCCB6/Greek907/1402/Baptist29/Catholicbaptismgracefetchednotyetread. NeedwholeactualBSB6/footnotes,actualownprimarybaptismdocumentsandWCF28;MethodistXVIIalreadyvisibleprimarywebbutcheckexactbeforeclaim. Baselinereplacedsinfulspiritceasestoexist/bodyonlysourceofsin/youneverpersonallysin/tripartitespiritperfectasJesusareoneteacheranthropology,notconsensusorownerstudyposition. Don'tadoptphysicalbodyevil/notselfframe;Paulcommandsbodilyservice. OriginalGreekwordcannotproveentirebaptismmode/mechanismalone. Current3legaciesmustpreserveforstudylinks. Telegramnormal;userexplicitlydonotstop.
+
+[Evidence](../testing/2026-10-19-romans-five-review.md).

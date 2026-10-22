@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Ephesians",
+    "citation": "1:1-2",
+    "label": "Ephesians 1:1-2",
+    "slug": "ephesians-1-1-2"
+  },
+  "section_title": "Who is this letter for, and what does Paul wish for them?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Paul, an apostle of Christ Jesus by the will of God, To the saints in Ephesus, the faithful in Christ Jesus: 2 Grace and peace to you from God our Father and the Lord Jesus Christ."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul introduces himself as an apostle of Christ Jesus by the will of God. His opening identifies both the One he serves and the source of his calling.",
+    "",
+    "He addresses the saints in Ephesus, the faithful in Christ Jesus. Saints here names the people who belong to God. Their relationship with Christ is central to how Paul speaks about them throughout the letter.",
+    "",
+    "The greeting asks grace and peace for them from God the Father and the Lord Jesus Christ. The following blessing will explain the gifts of grace they have received in Christ, and the rest of the letter will show how that shared life is to be lived."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as identifying Paul’s calling and greeting God’s people in Christ. [Wesley’s note on verse 1](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-ephesians/) emphasizes that his calling comes through God’s will rather than personal merit. The [USCCB note on verses 1–2](https://bible.usccb.org/bible/ephesians/1) places the greeting within the opening form of Paul’s letters."
+  ],
+  "god_plan_lines": [
+    "[Acts 26:15–18](https://biblehub.com/bsb/acts/26.htm) records Paul recounting Jesus’ commission to him. He is sent to open people’s eyes, turning them from darkness to light so that they may receive forgiveness and an inheritance among those sanctified by faith in Christ.",
+    "",
+    "That explicit account gives a wider setting for the title apostle. Paul’s calling serves God’s purpose of bringing people to Christ, into forgiveness and shared belonging with His people. The letter’s opening addresses people already gathered into that life."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/ephesians/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-ephesians-one-opening-review.md"
+  }
+}

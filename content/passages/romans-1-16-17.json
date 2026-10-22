@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "1:16-17",
+    "label": "Romans 1:16-17",
+    "slug": "romans-1-16-17"
+  },
+  "section_title": "Why is Paul unashamed of the gospel?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "16 I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes, first to the Jew, then to the Greek. 17 For the gospel reveals the righteousness of God that comes by faith from start to finish, just as it is written: “The righteous will live by faith.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul moves from his eagerness to preach in Rome to the reason for his confidence: the gospel is God’s power for salvation to everyone who believes. It reaches the Jew first and also the Greek. The message he serves is not confined to one people.",
+    "",
+    "Verse 17 explains that the gospel reveals the righteousness of God. This concerns God’s rightness and the way people are brought into a right relationship with Him, a subject Paul will develop throughout the letter. The BSB renders the phrase about faith as by faith from start to finish; its footnote gives the more literal from faith to faith.",
+    "",
+    "Paul supports his statement from Habakkuk rather than presenting faith as a new idea unrelated to Israel’s Scriptures. The question of how people stand right before God will now shape his account of sin, grace and the work of Christ."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand these verses as a central statement of Romans: salvation comes through God’s action in Christ and is received through faith. They differ over how to describe being made right with God, often called justification.",
+    "",
+    "Where traditions differ, the Reformed [Westminster Confession 11.1–2](https://www.opc.org/wcf.html) and the [1689 Baptist Confession 11.1–2](https://www.the1689confession.com/1689/chapter-11) describe God pardoning sins and counting believers righteous because of Christ’s obedience, received through faith alone. They distinguish this acceptance from the inward growth in holiness that accompanies it. These confessions represent churches that receive them, rather than every Presbyterian or Baptist’s personal account.",
+    "",
+    "The Catholic Church teaches that justification includes forgiveness and inward renewal, given through Christ’s grace and conferred in baptism. The [Catechism, paragraphs 1987–1993](https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_three/article_2/grace_and_justification.html), describes faith and a response made possible by grace; it does not describe people making themselves right with God unaided.",
+    "",
+    "The Methodist [Articles IX–X](https://www.umc.org/en/content/articles-of-religion) say people are counted righteous through faith because of Christ, rather than because of their own works. Good works follow as the fruit of living faith. Wesley’s [note on verse 17](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-romans/) describes the whole benefit God gives through Christ for a sinner’s salvation. These accounts share the need for grace while differing in how they relate forgiveness, faith and a renewed life."
+  ],
+  "god_plan_lines": [
+    "Paul explicitly draws on [Habakkuk 2:1–4](https://biblehub.com/bsb/habakkuk/2.htm), where God calls for trust in His word while the promised fulfillment is awaited. The contrast with pride places life in dependence on God rather than self-confidence. Paul brings that scriptural witness into his explanation of the gospel.",
+    "",
+    "The invitation to Jew and Greek also carries forward the opening promise of a message for the nations. God’s faithfulness to His earlier word and His welcome of people beyond Israel belong together. The gospel’s reach does not require a different Savior or a different source of salvation for each people."
+  ],
+  "current_position_lines": [
+    "The Gospel According to Jesus draws on Romans 1:16 to identify the gospel as God’s saving announcement about Jesus, centered on His death for sins and His resurrection. Our position here is that salvation is God’s gift, received through faith in Christ, rather than an achievement earned by religious effort or moral improvement. This states that study’s conclusion; it does not settle every difference about justification described above."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-romans-opening-review.md",
+    "position_source_detail": "The Gospel According to Jesus — The Core, Romans 1:16 and Ephesians 2:8–9"
+  }
+}

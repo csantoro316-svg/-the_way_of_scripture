@@ -10,8 +10,8 @@
     {
       "label": "BSB",
       "paragraphs": [
-        "7 Jacob took with him to Egypt his sons and grandsons, and his daughters and granddaughters\u2014all his offspring.",
-        "8 Now these are the names of the sons of Israel (Jacob and his descendants) who went to Egypt: Reuben, Jacob\u2019s firstborn.",
+        "7 Jacob took with him to Egypt his sons and grandsons, and his daughters and granddaughters—all his offspring.",
+        "8 Now these are the names of the sons of Israel (Jacob and his descendants) who went to Egypt: Reuben, Jacob’s firstborn.",
         "9 The sons of Reuben: Hanoch, Pallu, Hezron, and Carmi.",
         "10 The sons of Simeon: Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul the son of a Canaanite woman.",
         "11 The sons of Levi: Gershon, Kohath, and Merari.",
@@ -23,25 +23,49 @@
         "16 The sons of Gad: Ziphion, Haggi, Shuni, Ezbon, Eri, Arodi, and Areli.",
         "17 The children of Asher: Imnah, Ishvah, Ishvi, Beriah, and their sister Serah.",
         "The sons of Beriah: Heber and Malchiel.",
-        "18 These are the sons of Jacob born to Zilpah\u2014whom Laban gave to his daughter Leah\u2014sixteen in all.",
-        "19 The sons of Jacob\u2019s wife Rachel: Joseph and Benjamin.",
+        "18 These are the sons of Jacob born to Zilpah—whom Laban gave to his daughter Leah—sixteen in all.",
+        "19 The sons of Jacob’s wife Rachel: Joseph and Benjamin.",
         "20 Manasseh and Ephraim were born to Joseph in the land of Egypt by Asenath daughter of Potiphera, priest of On.",
         "21 The sons of Benjamin: Bela, Becher, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim, and Ard.",
-        "22 These are the sons of Rachel born to Jacob\u2014fourteen in all.",
+        "22 These are the sons of Rachel born to Jacob—fourteen in all.",
         "23 The son of Dan: Hushim.",
         "24 The sons of Naphtali: Jahzeel, Guni, Jezer, and Shillem.",
-        "25 These are the sons of Jacob born to Bilhah, whom Laban gave to his daughter Rachel\u2014seven in all.",
-        "26 All those belonging to Jacob who came to Egypt\u2014his direct descendants, besides the wives of Jacob\u2019s sons\u2014numbered sixty-six persons. 27 And with the two sons who had been born to Joseph in Egypt, the members of Jacob\u2019s family who went to Egypt were seventy in all."
+        "25 These are the sons of Jacob born to Bilhah, whom Laban gave to his daughter Rachel—seven in all.",
+        "26 All those belonging to Jacob who came to Egypt—his direct descendants, besides the wives of Jacob’s sons—numbered sixty-six persons. 27 And with the two sons who had been born to Joseph in Egypt, the members of Jacob’s family who went to Egypt were seventy in all."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 46**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "The narrative names Jacob's family as it enters Egypt, arranging sons and descendants under Leah, Zilpah, Rachel, and Bilhah. These names connect the household's earlier births and conflicts with the families that will later become Israel's tribes. Dinah and Serah are also remembered within the list.",
+    "",
+    "The record includes reminders of earlier events. Er and Onan are named but identified as having died in Canaan. Manasseh and Ephraim are identified as Joseph's sons born in Egypt. The list therefore gathers the family history rather than simply naming everyone physically seated in the arriving wagons.",
+    "",
+    "The closing totals distinguish sixty-six descendants coming with Jacob, excluding his sons' wives, from the family total of seventy. Joseph's household is already in Egypt. The account gives the starting scale of a family that God has just promised to make into a great nation there.",
+    "",
+    "Readers may notice that [Acts 7:14](https://biblehub.com/bsb/acts/7.htm) gives seventy-five. The [ancient Greek form of Genesis 46](https://biblehub.com/sep/genesis/46.htm) includes additional descendants in Joseph's branch and gives that total. The biblical family record has come down in more than one textual form; the difference is visible in the texts themselves."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Those Who Went to Egypt** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "Christians commonly read the list as a record of the small family from which Israel will grow. [Wesley's note on Genesis 46:7](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) explains seventy by adding Jacob, Joseph, and Joseph's two sons to the sixty-six, emphasizing the later growth from this beginning.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 46** remains the first control on meaning."
+    "The [US Catholic bishops' note on Genesis 46:27](https://bible.usccb.org/bible/genesis/46) draws attention to difficulties in adding every name and reads seventy as expressing the family's completeness. These explanations differ in how they handle the total, while both recognize the list's place in the movement from a household to a people."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "god_plan_lines": [
+    "[Acts 7:14–17](https://biblehub.com/bsb/acts/7.htm) places the family migration within the progress of God's promise to Abraham, followed by the people's growth in Egypt. [Exodus 1:1–7](https://biblehub.com/bsb/exodus/1.htm) likewise begins with the named sons and seventy descendants, then describes the Israelites multiplying greatly.",
+    "",
+    "The family list therefore supplies the beginning against which that growth can be seen. God's promise is carried through particular people with remembered names and relationships. The later nation does not appear without a history; it grows from the household that enters Egypt in need of food and shelter."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/46.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-family-in-egypt-review.md"
+  }
 }

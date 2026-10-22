@@ -1,0 +1,50 @@
+{
+  "reference": {
+    "book": "Nehemiah",
+    "citation": "1:1-4",
+    "label": "Nehemiah 1:1-4",
+    "slug": "nehemiah-1-1-4"
+  },
+  "section_title": "Why does the news from Jerusalem move Nehemiah to tears?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 These are the words of Nehemiah son of Hacaliah: In the month of Chislev, in the twentieth year, while I was in the citadel of Susa, 2 Hanani, one of my brothers, arrived with men from Judah. So I questioned them about the remnant of the Jews who had survived the exile, and also about Jerusalem. 3 And they told me, “The remnant who survived the exile are there in the province, in great trouble and disgrace. The wall of Jerusalem is broken down, and its gates have been burned with fire.”",
+        "4 When I heard these words, I sat down and wept. I mourned for days, fasting and praying before the God of heaven."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Nehemiah is in the citadel of Susa when Hanani and other men arrive from Judah. He asks about both the Jewish people who have survived the exile and the condition of Jerusalem.",
+    "",
+    "The answer is troubling: the people are in distress and disgrace, the city wall is broken down and the gates have been burned. A return to the land has taken place, but important needs remain.",
+    "",
+    "Nehemiah sits down and weeps. His grief continues for days and becomes fasting and prayer before the God of heaven. The book begins with attention to other people’s condition before it describes the work he will undertake."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhcw/nehemiah/1.htm) emphasizes that distance and a position at court have not removed Nehemiah’s concern for his people. [Gill](https://biblehub.com/commentaries/gill/nehemiah/1.htm) likewise reads the report as the distress of a vulnerable community. His mourning and prayer show that the inquiry is more than an interest in news."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/nehemiah/1.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-nehemiah-one-two-review.md"
+  }
+}

@@ -5,28 +5,53 @@
     "label": "Exodus 23:1-9",
     "slug": "exodus-23-1-9"
   },
-  "section_title": "Justice and Mercy",
+  "section_title": "What does justice require when feelings pull the other way?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 \u201cYou shall not spread a false report. Do not join the wicked by being a malicious witness.",
-        "2 You shall not follow the crowd in wrongdoing. When you testify in a lawsuit, do not pervert justice by siding with the crowd. 3 And do not show favoritism to a poor man in his lawsuit.",
-        "4 If you encounter your enemy\u2019s stray ox or donkey, you must return it to him.",
-        "5 If you see the donkey of one who hates you fallen under its load, do not leave it there; you must help him with it.",
-        "6 You shall not deny justice to the poor in their lawsuits. 7 Stay far away from a false accusation. Do not kill the innocent or the just, for I will not acquit the guilty.",
-        "8 Do not accept a bribe, for a bribe blinds those who see and twists the words of the righteous.",
-        "9 Do not oppress a foreign resident, since you yourselves know how it feels to be foreigners; for you were foreigners in the land of Egypt."
+        "1 “You shall not spread a false report. Do not join the wicked by being a malicious witness. 2 You shall not follow the crowd in wrongdoing. When you testify in a lawsuit, do not pervert justice by siding with the crowd. 3 And do not show favoritism to a poor man in his lawsuit.",
+        "4 If you encounter your enemy’s stray ox or donkey, you must return it to him. 5 If you see the donkey of one who hates you fallen under its load, do not leave it there; you must help him with it.",
+        "6 You shall not deny justice to the poor in their lawsuits. 7 Stay far away from a false accusation. Do not kill the innocent or the just, for I will not acquit the guilty. 8 Do not accept a bribe, for a bribe blinds those who see and twists the words of the righteous. 9 Do not oppress a foreign resident, since you yourselves know how it feels to be foreigners; for you were foreigners in the land of Egypt."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 23**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "These instructions address the pressures that can bend a person’s judgment: a false report, a powerful crowd, sympathy, hostility or a bribe. A witness must tell the truth even when others are determined to get a different result. Neither poverty nor wealth changes what a just decision requires. Verse 3 forbids favoring a poor person in a lawsuit, and verse 6 forbids denying that person justice.",
+    "",
+    "Fairness also reaches beyond the courtroom. If an enemy’s animal strays or collapses under its load, Israel must help. The owner’s hostility does not cancel the obligation to return the animal or lift its burden. The passage brings truthfulness, fair judgment and practical mercy together.",
+    "",
+    "The warning about foreigners returns to Israel’s own experience: they know how it feels to live as foreigners because they lived in Egypt. That memory is to make them careful with someone else’s vulnerability, rather than give them permission to repeat the treatment they suffered."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Justice and Mercy** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 23** remains the first control on meaning."
+    "The main reading is shared: the law rejects dishonest testimony and favoritism, and requires help even for an enemy. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) emphasizes that a crowd’s approval cannot make wrongdoing right and that Israel’s experience as foreigners should lead them to understand a foreigner’s distress. The duties remain when pressure or personal feeling makes them inconvenient."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "God’s people are to reflect His goodness in the way they treat others. [Romans 12:14–21](https://biblehub.com/bsb/romans/12.htm) carries the theme of helping an enemy into Christian life: believers bless persecutors, give food and drink to an enemy in need, and overcome evil with good. Their conduct is not to be controlled by the hostility they receive.",
+    "",
+    "[James 2:1–13](https://biblehub.com/bsb/james/2.htm) likewise connects faith in Jesus with refusing favoritism toward the wealthy and dishonor toward the poor. It calls love of neighbor the royal law and insists that mercy matters in judgment. These passages develop the wider purpose behind the courtroom and animal cases: a community marked by truth, fairness and active love."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/23.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-twenty-three-review.md"
+  }
 }

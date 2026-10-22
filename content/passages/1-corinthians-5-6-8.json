@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "5:6-8",
+    "label": "1 Corinthians 5:6-8",
+    "slug": "1-corinthians-5-6-8"
+  },
+  "section_title": "Why does Paul connect their conduct with Passover?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 Your boasting is not good. Do you not know that a little leaven works through the whole batch of dough? 7 Get rid of the old leaven, that you may be a new unleavened batch, as you really are. For Christ, our Passover lamb, has been sacrificed. 8 Therefore let us keep the feast, not with the old bread, leavened with malice and wickedness, but with the unleavened bread of sincerity and of truth."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul returns to the church’s boasting and uses leaven to explain the danger. A little works through a whole batch of dough. In this setting, tolerated wrongdoing can shape the life and expectations of the community rather than remaining one person’s isolated matter.",
+    "",
+    "The picture draws on Passover and the Feast of Unleavened Bread. [Exodus 12:14–20](https://biblehub.com/bsb/exodus/12.htm) commands Israel to remove leaven and eat unleavened bread in remembering its deliverance. Paul applies the image to a community whose life has been changed by Christ’s sacrifice.",
+    "",
+    "He identifies Christ as their Passover lamb and calls them to leave behind malice and wickedness for sincerity and truth. His appeal joins identity with conduct: live as the people you have become. Grace is not a reason to celebrate what harms the community."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the old leaven as a picture of sin to be put away because of Christ’s sacrifice. [Wesley’s note on verse 8](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) especially connects keeping the feast with the Lord’s Supper; the [USCCB notes on verses 7–8](https://bible.usccb.org/bible/1corinthians/5) emphasize the community’s continuing life of purity and integrity. Both explanations connect celebration of Christ with the way His people live."
+  ],
+  "god_plan_lines": [
+    "[Exodus 12:11–20](https://biblehub.com/bsb/exodus/12.htm) places the Passover meal, the blood marking the houses and the removal of leaven within Israel’s deliverance from Egypt. Paul’s identification of Christ as the Passover lamb makes the connection to God’s saving work explicit, rather than leaving it as a resemblance suggested by a teacher.",
+    "",
+    "At the Passover meal in [Luke 22:14–20](https://biblehub.com/bsb/luke/22.htm), Jesus speaks of His body given for His disciples and the new covenant in His blood. These passages give the church’s call to sincerity and truth a deeper setting: its shared life follows a deliverance received through Christ, and should reflect the One who gave Himself for His people."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/5.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-five-review.md"
+  }
+}

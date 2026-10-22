@@ -5,27 +5,60 @@
     "label": "1 Samuel 31:1-6",
     "slug": "1-samuel-31-1-6"
   },
-  "section_title": "Saul\u2019s Overthrow and Death",
+  "section_title": "How does Saul’s reign come to an end?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 Now the Philistines fought against Israel, and the men of Israel fled before them, and many fell slain on Mount Gilboa.",
-        "2 The Philistines followed hard after Saul and his sons, and they killed Saul\u2019s sons Jonathan, Abinadab, and Malchishua. 3 When the battle intensified against Saul, the archers overtook him and wounded him critically.",
-        "4 Then Saul said to his armor-bearer, \u201cDraw your sword and run it through me, or these uncircumcised men will come and run me through and torture me!\u201d",
-        "But his armor-bearer was terrified and refused to do it. So Saul took his own sword and fell on it.",
-        "5 When his armor-bearer saw that Saul was dead, he too fell on his own sword and died with him.",
-        "6 So Saul, his three sons, his armor-bearer, and all his men died together that same day."
+        "1 Now the Philistines fought against Israel, and the men of Israel fled before them, and many fell slain on Mount Gilboa. 2 The Philistines hotly pursued Saul and his sons, and they killed Saul’s sons Jonathan, Abinadab, and Malchishua. 3 When the battle intensified against Saul, the archers overtook him and wounded him critically. 4 Then Saul said to his armor-bearer, “Draw your sword and run me through with it, or these uncircumcised men will come and run me through and torture me!” But his armor-bearer was terrified and refused to do it. So Saul took his own sword and fell on it. 5 When his armor-bearer saw that Saul was dead, he too fell on his own sword and died with him. 6 So Saul, his three sons, his armor-bearer, and all his men died together that same day."
       ]
     }
   ],
   "context_lines": [
-    "In **1 Samuel 31**, this section should be read within the flow of the chapter and the larger movement of 1 Samuel."
+    "The narrative returns to the battle at Mount Gilboa. Israel flees, and the Philistines kill Saul’s sons Jonathan, Abinadab and Malchishua. The friend who encouraged David in the wilderness dies alongside his brothers.",
+    "",
+    "Saul is critically wounded by archers. Fearing capture and torture, he asks his armor-bearer to kill him. The terrified man refuses, and Saul falls on his own sword. When the armor-bearer sees that he is dead, he also takes his own life.",
+    "",
+    "The same day brings the deaths of Saul, his three sons, his armor-bearer and the men with him. The next passage describes others fleeing, so the statement need not be expanded into a claim that no one in Israel’s whole army survived. The loss ends Saul’s reign and leaves the people facing defeat."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Saul\u2019s Overthrow and Death** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/1_samuel/31.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-samuel/) caution against deciding a person’s eternal state from the manner of death. The account describes what happens to Saul and his sons; it does not give a final verdict on their souls.",
     "",
-    "Where interpreters differ on details, the immediate setting in **1 Samuel 31** remains the first control on meaning."
+    "[Gill](https://biblehub.com/commentaries/gill/1_samuel/31.htm) takes this narration as Saul’s death by his own hand. In [2 Samuel 1:6–10](https://biblehub.com/bsb/2_samuel/1.htm), an Amalekite later claims that he finished killing Saul. Gill reads that claim as an attempt to win David’s favor, distinguishing a messenger’s account from the narration here.",
+    "",
+    "[1 Chronicles 10:13–14](https://biblehub.com/bsb/1_chronicles/10.htm) places Saul’s fall within his unfaithfulness and the transfer of kingship to David. That explanation concerns his failed rule before God; it need not make Jonathan’s earlier faithfulness meaningless or give us an unreported reason for each person’s death."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The New Testament itself places this change of kings within the story leading to Jesus. In [Acts 13:21–23](https://biblehub.com/bsb/acts/13.htm), Paul recalls God giving Israel Saul, removing him and raising up David. He then identifies Jesus as the promised Savior brought from David’s descendants.",
+    "",
+    "The book therefore ends at a transition within a purpose larger than either king. Saul’s failure is real, and David’s reign will have failures of its own. The enduring hope reaches the Savior God brings through David’s line, rather than resting in the idea that another merely human king will solve everything."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_samuel/31.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-samuel-twenty-seven-thirty-one-review.md"
+  }
 }

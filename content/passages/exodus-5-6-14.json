@@ -5,25 +5,56 @@
     "label": "Exodus 5:6-14",
     "slug": "exodus-5-6-14"
   },
-  "section_title": "Bricks and Straw",
+  "section_title": "Why did the work become harder after Moses spoke?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "6 That same day Pharaoh commanded the taskmasters of the people and their foremen: 7 \u201cYou shall no longer supply the people with straw for making bricks. They must go and gather their own straw. 8 But require of them the same quota of bricks as before; do not reduce it. For they are lazy; that is why they are crying out, \u2018Let us go and sacrifice to our God.\u2019 9 Make the work harder on the men so they will be occupied and pay no attention to these lies.\u201d",
-        "10 So the taskmasters and foremen of the people went out and said to them, \u201cThis is what Pharaoh says: \u2018I am no longer giving you straw. 11 Go and get your own straw wherever you can find it; but your workload will in no way be reduced.\u2019 \u201d",
-        "12 So the people scattered all over the land of Egypt to gather stubble for straw. 13 The taskmasters kept pressing them, saying, \u201cFulfill your quota each day, just as you did when straw was provided.\u201d",
-        "14 Then the Israelite foremen, whom Pharaoh\u2019s taskmasters had set over the people, were beaten and asked, \u201cWhy have you not fulfilled your quota of bricks yesterday or today, as you did before?\u201d"
+        "6 That same day Pharaoh commanded the taskmasters of the people and their foremen: 7 “You shall no longer supply the people with straw for making bricks. They must go and gather their own straw. 8 But require of them the same quota of bricks as before; do not reduce it. For they are lazy; that is why they are crying out, ‘Let us go and sacrifice to our God.’ 9 Make the work harder on the men so they will be occupied and pay no attention to these lies.”",
+        "10 So the taskmasters and foremen of the people went out and said to them, “This is what Pharaoh says: ‘I am no longer giving you straw. 11 Go and get your own straw wherever you can find it; but your workload will in no way be reduced.’” 12 So the people scattered all over the land of Egypt to gather stubble for straw. 13 The taskmasters kept pressing them, saying, “Fulfill your quota each day, just as you did when straw was provided.” 14 Then the Israelite foremen, whom Pharaoh’s taskmasters had set over the people, were beaten and asked, “Why have you not fulfilled your quota of bricks yesterday or today, as you did before?”"
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 5**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "Pharaoh answers the request for worship by increasing the burden. The people must now gather their own straw for making bricks while still producing the same daily number. He calls them lazy and wants the extra work to keep them from attending to Moses and Aaron’s message.",
+    "",
+    "The order leaves the Israelites searching across Egypt for stubble while the taskmasters continue demanding the full quota. When production falls short, the Israelite foremen are beaten. They are answerable for work their people have been given fewer resources to complete.",
+    "",
+    "The immediate result of God’s message is greater suffering. The promise of deliverance has been announced, but Pharaoh’s response makes the people’s situation worse. This is the pressure behind the complaints in the rest of the chapter."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Bricks and Straw** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 5** remains the first control on meaning."
+    "The shared reading sees Pharaoh deliberately using heavier labor to crush the people’s hope and turn them away from the message of deliverance. [Calvin](https://biblehub.com/commentaries/calvin/exodus/5.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) both describe the charge of laziness as a pretext for cruelty rather than a fair account of their work."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The oppression in Egypt belongs to a theme Scripture returns to: God hears people whose labor and vulnerability are exploited. [James 5:1–6](https://biblehub.com/bsb/james/5.htm) addresses those who withhold their workers’ wages and says the workers’ cries have reached the Lord. That passage announces accountability for people who use their power to enrich themselves through others’ suffering.",
+    "",
+    "James then calls believers to patience until the Lord’s coming in verses 7–8. That wider horizon helps place Israel’s distress in the larger story. The suffering is real, and the oppressor’s present control will not be the final word."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/5.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-five-review.md"
+  }
 }

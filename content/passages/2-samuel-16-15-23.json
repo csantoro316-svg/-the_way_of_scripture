@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "16:15-23",
+    "label": "2 Samuel 16:15-23",
+    "slug": "2-samuel-16-15-23"
+  },
+  "section_title": "How does Absalom make the break with David public?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 Then Absalom and all the men of Israel came to Jerusalem, and Ahithophel was with him. 16 And David’s friend Hushai the Archite went to Absalom and said to him, “Long live the king! Long live the king!” 17 “Is this the loyalty you show your friend?” Absalom replied. “Why did you not go with your friend?” 18 “Not at all,” Hushai answered. “For the one chosen by the LORD, by this people, and by all the men of Israel—his I will be, and with him I will remain. 19 Furthermore, whom should I serve if not his son? As I served in your father’s presence, so also I will serve in yours.”",
+        "20 Then Absalom said to Ahithophel, “Give me counsel. What should we do?” 21 Ahithophel replied, “Sleep with your father’s concubines, whom he has left to take care of the palace. When all Israel hears that you have become a stench to your father, then the hands of all who are with you will be strengthened.” 22 So they pitched a tent for Absalom on the roof, and he slept with his father’s concubines in the sight of all Israel. 23 Now in those days the advice of Ahithophel was like the consultation of the word of God. Such was the regard that both David and Absalom had for Ahithophel’s advice."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Absalom enters Jerusalem with Ahithophel. Hushai greets him as king, and Absalom questions why he has left his friend David. Hushai speaks of serving the one chosen by the LORD and Israel and of serving the son as he served the father. Readers already know that David has sent him to work against Ahithophel’s counsel.",
+    "",
+    "Ahithophel advises Absalom to sleep with the concubines David left to care for the palace. He explains the intended effect: an unmistakable breach with David will strengthen Absalom’s supporters. A tent is set up on the roof, and Absalom carries out the advice publicly.",
+    "",
+    "The chapter closes by describing the extraordinary trust both David and Absalom had placed in Ahithophel’s counsel. Its reputation helps explain why such a destructive proposal is followed."
+  ],
+  "common_interpretation_lines": [
+    "[Gill](https://biblehub.com/commentaries/gill/2_samuel/16.htm) understands Hushai’s answer as deliberately ambiguous and criticizes its deception. His words can be heard by Absalom as loyalty while Hushai remains committed to David. The strategy’s service to David does not make its moral questions disappear.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/16.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) read Ahithophel’s advice as an attempt to make reconciliation between father and son seem impossible, securing the commitment of Absalom’s party. The women left in the palace are being drawn into the struggle for power.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) also connects the public act with Nathan’s earlier announcement in [2 Samuel 12:11–12](https://biblehub.com/bsb/2_samuel/12.htm). That connection explains its place in the story of judgment without making the advice morally good. Being regarded like an answer from God is a description of Ahithophel’s influence, not a declaration that everything he says is God’s word."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/16.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-sixteen-seventeen-review.md"
+  }
+}

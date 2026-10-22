@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Nehemiah",
+    "citation": "2:17-20",
+    "label": "Nehemiah 2:17-20",
+    "slug": "nehemiah-2-17-20"
+  },
+  "section_title": "How does Nehemiah invite the people to share the work?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 Then I said to them, “You see the trouble we are in. Jerusalem lies in ruins, and its gates have been burned down. Come, let us rebuild the wall of Jerusalem, so that we will no longer be a disgrace.” 18 I also told them about the gracious hand of my God upon me, and what the king had said to me. “Let us start rebuilding,” they replied, and they set their hands to this good work.",
+        "19 But when Sanballat the Horonite, Tobiah the Ammonite official, and Geshem the Arab heard about this, they mocked us and ridiculed us, saying, “What is this you are doing? Are you rebelling against the king?” 20 So I answered them and said, “The God of heaven is the One who will grant us success. We, His servants, will start rebuilding, but you have no portion, right, or claim in Jerusalem.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Nehemiah puts the city’s condition before the people and invites them to rebuild together. He speaks of the trouble they are in as a shared concern and tells them about God’s gracious hand and the king’s support.",
+    "",
+    "The people respond by committing themselves to the work. Sanballat, Tobiah and Geshem then mock the undertaking and suggest that the builders are rebelling against the king.",
+    "",
+    "Nehemiah answers with confidence in the God of heaven. He identifies the builders as God’s servants who will begin the work and rejects the opponents’ claim to a share, right or standing in Jerusalem."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/nehemiah/2.htm) emphasizes that Nehemiah does not undertake the work without the people: he encourages them to act with him. [Gill](https://biblehub.com/commentaries/gill/nehemiah/2.htm) likewise reads the account of God’s help and the royal commission as encouragement for their response.",
+    "",
+    "Gill understands the opponents’ question as a threat to portray the project as rebellion. He reads Nehemiah’s answer as both confidence in God and a denial that these opponents have authority over the undertaking. The accusation is made after the account has already described the king’s permission."
+  ],
+  "god_plan_lines": [
+    "The concern for leadership that serves others continues in [Luke 22:24–27](https://biblehub.com/bsb/luke/22.htm). Jesus answers His disciples’ concern about greatness by placing Himself among them as one who serves.",
+    "",
+    "[Ephesians 4:11–16](https://biblehub.com/bsb/ephesians/4.htm) describes leaders equipping God’s people for service so that the whole body grows in love under Christ. This is a wider connection with shared service and growth: Nehemiah calls people into the rebuilding, while the New Testament describes people building one another up as Christ’s body."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/nehemiah/2.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-nehemiah-one-two-review.md"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "1 Peter",
+    "citation": "2:21-25",
+    "label": "1 Peter 2:21-25",
+    "slug": "1-peter-2-21-25"
+  },
+  "section_title": "How does Christ’s suffering change our lives?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "21 For to this you were called, because Christ also suffered for you, leaving you an example, that you should follow in His footsteps: 22 “He committed no sin, and no deceit was found in His mouth.” 23 When they heaped abuse on Him, He did not retaliate; when He suffered, He made no threats, but entrusted Himself to Him who judges justly.",
+        "24 He Himself bore our sins in His body on the tree, so that we might die to sin and live to righteousness. “By His stripes you are healed.” 25 For “you were like sheep going astray,” but now you have returned to the Shepherd and Overseer of your souls."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Christ is the example for people suffering without deserving it. He committed no sin, used no deceit and answered neither insults with insults nor suffering with threats. He entrusted Himself to the One who judges justly.",
+    "",
+    "Peter then moves beyond an example to what Christ accomplished for them. He bore their sins in His body on the cross so that they might die to sin and live to righteousness. They are not being asked to pay for their own sins through mistreatment; their new life rests on what Christ did for them.",
+    "",
+    "The language draws repeatedly on [Isaiah 53](https://biblehub.com/bsb/isaiah/53.htm): the innocent sufferer, the bearing of sins, healing through His wounds and wandering sheep. The readers have now returned to the Shepherd and Overseer who cares for their souls."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/1_peter/2.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-epistle-general-of-st-peter/) both distinguish Christ’s example from His saving work. His suffering gives a pattern of patience, while His bearing of sins brings forgiveness and a life freed from sin’s rule.",
+    "",
+    "Both connect the healing language with that rescue from sin and return to Christ. In this paragraph, the stated purpose is a righteous life under the Shepherd’s care. It does not state that every believer will immediately recover from every bodily illness."
+  ],
+  "god_plan_lines": [
+    "Peter explicitly identifies Jesus with the suffering Servant described in [Isaiah 53:4–12](https://biblehub.com/bsb/isaiah/53.htm). The Servant’s innocent suffering and bearing of others’ sins become the basis for their restored relationship with God. The connection is made by the New Testament itself.",
+    "",
+    "The closing shepherd picture also fits Jesus’ words in [John 10:11–18](https://biblehub.com/bsb/john/10.htm). The good Shepherd lays down His life for the sheep and gathers them to Himself. Christ’s death both rescues a people and calls them into a new way of living under His care."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_peter/2.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-peter-two-closing-review.md"
+  }
+}

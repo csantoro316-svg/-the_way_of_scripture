@@ -1,0 +1,66 @@
+{
+  "reference": {
+    "book": "Philippians",
+    "citation": "1:19-26",
+    "label": "Philippians 1:19-26",
+    "slug": "philippians-1-19-26"
+  },
+  "section_title": "Why can Paul hope in Christ whether he lives or dies?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "19 because I know that through your prayers and the provision of the Spirit of Jesus Christ, my distress will turn out for my deliverance. 20 I eagerly expect and hope that I will in no way be ashamed, but will have complete boldness so that now as always Christ will be exalted in my body, whether by life or by death.",
+        "21 For to me, to live is Christ, and to die is gain. 22 But if I go on living in the body, this will mean fruitful labor for me. So what shall I choose? I do not know. 23 I am torn between the two. I desire to depart and be with Christ, which is far better indeed. 24 But it is more necessary for you that I remain in the body.",
+        "25 Convinced of this, I know that I will remain and will continue with all of you for your progress and joy in the faith, 26 so that through my coming to you again your exultation in Christ Jesus will resound on account of me."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul expects the prayers of the believers and the provision of Christ’s Spirit to serve his deliverance. His stated hope is that he will not be ashamed, but that Christ will be exalted in his body, whether by life or death.",
+    "",
+    "That explains his next statement: living means Christ, and dying means gain. Continued life would bring fruitful work, while departing would mean being with Christ. His desire to be with Him stands beside his concern for the people who still need his service.",
+    "",
+    "Paul then expresses confidence that he will remain and continue with them for their progress and joy in the faith. Their growing confidence is to center on Christ. His reflection holds together personal hope, concern for others and the value of the work still before him."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Paul’s central hope as Christ being honored and the assurance that being with Him is better. [Wesley’s notes on verses 20–26](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-philippians/) describe life as knowing and following Christ and death as fuller union with Him. The [USCCB notes on verses 19–25](https://bible.usccb.org/bible/philippians/1) likewise keep Christ central in both outcomes.",
+    "",
+    "The deliverance in verse 19 receives different emphasis. Wesley relates it to Paul’s final good and glory. The USCCB notes include his expectation of release and continued service while also connecting the wording with God bringing suffering toward an ultimate good end. [Thayer’s entry for deliverance](https://biblehub.com/greek/4991.htm) includes rescue, preservation and salvation; the word alone does not require choosing only one event.",
+    "",
+    "Paul’s hope in Christ remains clear while he considers both life and death. His confidence is not expressed as a demand that God grant only the outcome he personally prefers."
+  ],
+  "god_plan_lines": [
+    "[2 Corinthians 5:6–10](https://biblehub.com/bsb/2_corinthians/5.htm) also connects being at home with the Lord, walking by faith and seeking to please Him. It provides a close parallel to Paul’s desire to be with Christ and his concern for faithful service now.",
+    "",
+    "[1 Corinthians 15:20–23, 58](https://biblehub.com/bsb/1_corinthians/15.htm) grounds the hope of God’s people in Christ’s resurrection and concludes that their labor in the Lord is not in vain. This places both the future hope and the present work within the saving victory of the risen Christ, without supplying an extra timetable here."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/philippians/1.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-philippians-one-closing-review.md"
+  }
+}

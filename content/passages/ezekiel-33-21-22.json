@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "33:21-22",
+    "label": "Ezekiel 33:21-22",
+    "slug": "ezekiel-33-21-22"
+  },
+  "section_title": "What changes when the fugitive reports Jerusalem’s fall?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "21 In the twelfth year of our exile, on the fifth day of the tenth month, a fugitive from Jerusalem came to me and reported, “The city has been taken!” 22 Now the evening before the fugitive arrived, the hand of the LORD was upon me, and He opened my mouth before the man came to me in the morning. So my mouth was opened and I was no longer mute."
+      ]
+    }
+  ],
+  "context_lines": [
+    "A fugitive arrives from Jerusalem and reports that the city has been taken. The news confirms the disaster Ezekiel had been announcing.",
+    "",
+    "The Lord’s hand had already been upon Ezekiel the previous evening. His mouth was opened before the fugitive reached him in the morning, and he was no longer mute.",
+    "",
+    "This answers the earlier sign in Ezekiel 24:25–27, which linked the arrival of a survivor with the opening of the prophet’s mouth. The confirmed loss becomes the setting for the messages that now follow."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/ezekiel/33.htm) understands the silence as a restriction concerning Israel, rather than an inability to say anything throughout the intervening messages against the nations. The [USCCB notes](https://bible.usccb.org/bible/ezekiel/33) identify the fugitive with the survivor promised in chapter 24.",
+    "",
+    "The passage connects fulfilled warning with a renewed stage of speaking. The evening opening and morning arrival should be kept in the order the text gives."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/33.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-thirty-three-four-review.md"
+  }
+}

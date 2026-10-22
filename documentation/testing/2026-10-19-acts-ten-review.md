@@ -1,0 +1,41 @@
+# Acts 10 editorial review
+
+Four groups: 1–16, 17–33, 34–43 and preserved 44–48. Two existing-study positions, Seek Signs and Baptism; two open positions. Whole baseline PDF read through 144, including all lesson 10 (135–144) and the chapter's introduction in lesson 9B. All prose is independently composed. No public teacher/ministry name or copied outline.
+
+## Sources actually checked
+
+Actual main-text BSB Acts 10 read in full, all 48 verses. Actual cross-reference passages freshly read: Acts 11:1–18; 15:7–11; Ephesians 2:11–22; Deuteronomy 10:17–19. Romans 2:12–16 and Jeremiah 31:31–34 were read to evaluate the baseline's proposed link; Romans 2 is not simply asserted to identify all conscientious Gentiles as already converted. Chapter quotations require independent fresh verification after drafting.
+
+Wesley's whole chapter X read directly at https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/ . His comments on 4 distinguish lack of faith in Christ from the reception of prayers; 35 explicitly describes acceptance through Christ without knowledge of Him; 43 emphasizes forgiveness for believers; 47 insists that the prior gift of the Spirit does not remove water baptism. His speculative exact content of Cornelius's prayer, the inner thoughts behind repetition and the baptismal formula are not made narrated facts.
+
+Actual Calvin at https://biblehub.com/commentaries/calvin/acts/10.htm : verse 2 first 2,300 characters, verse 35 first 2,500, verse 47 first 2,000. His explanation regards reverence and prayer as evidences of faith and distinguishes God's initial free acceptance from His acceptance of believers' good works. His baptism note reasons from the Spirit's gift to the sign and disputes an exclusive attachment of the Spirit to water. His combative portrayal of Catholic doctrine is not a source for the Catholic description and is not reproduced.
+
+Primary sources directly read: Westminster 10:1–4 and all 28 at https://www.opc.org/wcf.html . Catholic Catechism 847–848 at https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_three/article_9/paragraph_3_the_church_is_one,_holy,_catholic,_and_apostolic.html : salvation for those ignorant of the gospel through no fault of their own, moved by grace to seek and obey God; continuing obligation to evangelize. Catholic 1257 read again in the source cached from Acts 2 at https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_1/vi_the_necessity_of_baptism.index.html : baptism's necessity and God's freedom rather than a mechanical binding of God. Assemblies of God Fundamental Truths 7–8 directly read earlier through the web fallback at https://ag.org/Beliefs/Statement-of-Fundamental-Truths : distinct Spirit baptism, service and initial tongues. These church documents are distinguished from Wesley's personal commentary. No tradition is described from a hostile opponent's characterization.
+
+All USCCB Acts 10 notes read directly at https://bible.usccb.org/bible/acts/10 . The retellings in 11 and 15 and the vision's application to Gentile reception are supported by actual Scripture. The note's specific unit dating was not independently researched and is not used. Thayer 4381 was read at https://biblehub.com/greek/4381.htm , but a Greek term is unnecessary to explain the already clear BSB favoritism wording. Lexicon 3607 fetched but not read; no linen-cloth word claim based on it.
+
+Existing studies read directly: Seek Signs, Dreams and Visions—Especially Secondhand Reports (explicit Acts 10 example; testing while leaving the broader continuation question open). Baptism IV.2 and V.Acts2:38 (Acts 10:44–48 explicitly developed; Spirit before water and baptism still expected). The study's older quotation is not copied as verified BSB. No other directly developed chapter 10 position was found in the all-study search.
+
+## Acts 10:1–16
+Plan section: included, because (a)/(c): Acts 11:13–18 directly explains the two-sided preparation and the Gentiles' repentance leading to life.
+Position source: Should We Seek Signs From God?
+FLAGGED FOR REVIEW: The baseline connects Romans 2 and Jeremiah 31 directly with Cornelius's prior inward state; the passages were checked, but that complete theological inference is not established here. No statement that Gentiles had never previously been reached, every earlier Gentile was excluded, all Roman centurions were favorably described, or Cornelius risked punishment for prayer is independently verified. A precise military rank equivalence and unit size are not needed. The angel's actual instruction says Simon called Peter; the baseline suggestion that he was told Simon rather than Peter because of Jewish affinity is not used. Peter's hunger is narrated, but no claim that God physiologically manufactured its intensity or that a Greek construction proves it is made. The vision's application comes from Peter's explanation rather than a new owner verdict on every disputed dietary practice or all present-day visions.
+
+## Acts 10:17–33
+Plan section: included, because (b)/(c): Ephesians 2's welcome into a shared household provides a labeled wider biblical connection.
+Position source: none.
+FLAGGED FOR REVIEW: The delegation contains two servants and one soldier, not three soldiers. No invented attempt by Simon to conceal Peter is asserted. Cornelius's and Peter's private emotions are not certain from dialogue; Peter's claim to come without objection is not contradicted by imposing a sarcastic or reluctant tone. The precise Jewish legal/customary basis of the boundary is not independently established here; Peter's own reported statement is described without claiming the written Torah explicitly forbade every Gentile visit. Peter's refusal of worship is not stretched into a new ruling on every form of honor. Six accompanying brothers come from Acts 11:12, though no public arithmetic is needed.
+
+## Acts 10:34–43
+Plan section: included, because (a)/(b)/(c): Deuteronomy 10 already describes impartial justice and care for foreigners; Acts 15 directly explains Gentile cleansing by faith and salvation through Jesus' grace.
+Position source: none.
+FLAGGED FOR REVIEW: Verse 35 does not license ignoring verse 43 or declaring all religions equally saving. Different implications concerning people who lack knowledge of Christ are described with directly checked primary sources, not settled for the owner. No claim that the exact Greek phrase is a word-for-word Hebrew quotation is needed. Jesus' death is rendered with the actual BSB tree wording rather than copying the PDF's cross quotation. No invented full transcript of Peter's speech.
+
+## Acts 10:44–48
+Plan section: included, because (a)/(c): Acts 11:15–18 and 15:8–11 explicitly explain the gift as grounds for Gentile welcome.
+Position source: Baptism.
+FLAGGED FOR REVIEW: Luke identifies the circumcised witnesses as astonished at the Gentile gift; the baseline's additional claim that these Jewish believers also received a new manifestation is not explicit and is not used. Tongues are named here, unlike chapter 8; no assertion that all earlier chapter 8 signs were identical. Catholic teaching is not described as binding God's every action to water; paragraph 1257 explicitly qualifies that. No newly originated judgment about every Christian's tongues or precise sequence of reception. The existing study supports the stated narrow position; the common interpretations remain descriptive.
+
+## Validation
+
+Four fresh BSB comparisons and eight tests passed. Zero errors and 301 known warnings. Source/index/standalone quotations, continuous coverage, preservation, canonical navigation and generation idempotence passed. All four reader and standalone views passed at 390 px without overflow or literal Markdown links. Actual Next from 10:34–43 opened 10:44–48 and focused the heading about 188 px from the top. Hosting dry run and actual deployment exited successfully; eight affected and six whole-chapter live files match local bytes. Cumulative Acts: 48 reviewed pages, 383 actual verses, 48 plans, 18 study positions, 30 open positions; 65 source pages, 17 unreviewed legacy references.

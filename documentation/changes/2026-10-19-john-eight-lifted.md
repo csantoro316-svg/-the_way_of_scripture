@@ -1,0 +1,7 @@
+# John 8:21–30 live
+
+Full BSB text and researched prose explain the warning about unbelief, the Father's sending of Jesus and His coming cross. Common interpretations fairly distinguish readings of the self-identification and promised recognition. The position remains open.
+
+[Evidence](../testing/2026-10-19-john-eight-lifted-review.md). Fresh BSB, eight tests, zero errors /328 existing warnings, preservation/coverage/navigation/idempotence, 390px reader/standalone/actual Next, successful Hosting dry run/deployment and five matching live files passed.
+
+John:51 reviewed pages /366 actual BSB verses /51 plans /22 study positions /29 open;63 sources /12 unreviewed legacy references. Whole baseline through324 read (entire John8 lesson and first seven John9 pages);325 onward unread. Continue8:31–47 and48–59, preserving58. No next draft yet. Relevant primary research read in actual Calvin31/33–36/43/47 and excerpts32/39/41/44,51/52/54/56–59; entire WesleyVIII body read; BSB8:31–59/Gal3:6–9/26–29/Rom6:16–23/Exod3:13–15/Heb11:8–19; actual Thayer μένω direct8:31 reference and ἀληθῶς definition. Source I Am a Disciple? exact title I Am a Disciple was read in full; it does not develop this specific passage, so no position imported. Angel study New Testament Anchor through conclusion read directly and specifically develops8:58; supports a narrow Son-before-Abraham/Genesis18 position for coherent48–59 and legacy58. Do not copy its loosely labeled BSB quotations or unverified unrelated history/word claims.

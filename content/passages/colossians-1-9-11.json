@@ -5,18 +5,58 @@
     "label": "Colossians 1:9-11",
     "slug": "colossians-1-9-11"
   },
+  "section_title": "What does Paul ask God to grow in His people?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "(LSB) 'For this reason also, since the day we heard of it, we have not ceased to pray for you and to ask that you may be filled with the knowledge of His will in all spiritual wisdom and understanding, so that you will walk in a manner worthy of the Lord, to please Him in all respects, bearing fruit in every good work and increasing in the knowledge of God; strengthened with all power, according to His glorious might, for the attaining of all steadfastness and patience.'"
+      "label": "BSB",
+      "paragraphs": [
+        "9 For this reason, since the day we heard about you, we have not stopped praying for you and asking God to fill you with the knowledge of His will in all spiritual wisdom and understanding, 10 so that you may walk in a manner worthy of the Lord and may please Him in every way: bearing fruit in every good work, growing in the knowledge of God, 11 being strengthened with all power according to His glorious might so that you may have full endurance and patience, and joyfully"
+      ]
     }
   ],
   "context_lines": [
-    "In **Colossians 1**, Paul magnifies the supremacy of Christ and prays that believers would walk in a manner worthy of Him. The chapter ties knowledge, spiritual fruit, endurance, redemption, and Christ's cosmic lordship together into one unified vision of Christian life."
-  ],
-  "explanation_lines": [
-    "Three different letters, three different churches, three different situations \u2014 and the same pattern every time. Paul never once asks God to fix a circumstance. He asks that people would know God more deeply, love more fully, and walk in a way that honors Him.",
+    "The report of the Colossians’ faith and love moves Paul from thanksgiving into a continuing prayer for them. He asks God to fill them with the knowledge of His will, with spiritual wisdom and understanding.",
     "",
-    "**That is what Paul understood intercession to actually be for.**"
-  ]
+    "The purpose of that knowledge is a life pleasing to the Lord. Paul describes good works, growing knowledge of God, endurance and patience. Knowing and living belong together: the prayer reaches into what they do and how they persevere.",
+    "",
+    "The power he asks for is God’s power. Its stated purpose here includes patient endurance. Paul does not equate strength with escaping every difficulty; he asks for what will sustain a faithful life through it.",
+    "",
+    "The sentence continues into thanksgiving in the following verses. Paul grounds their growing life in what the Father has already done to bring them into His Son’s kingdom."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as prayer for knowledge that bears fruit in a changed life. [Wesley’s notes on verses 9–11](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-colossians/) connect understanding God’s will with conduct and patient endurance. The [USCCB note on verses 9–14](https://bible.usccb.org/bible/colossians/1) also describes the interaction between knowing God and living according to the gospel. This is an active life of dependence on Him."
+  ],
+  "god_plan_lines": [
+    "Paul describes the purpose of his teaching later in [Colossians 1:27–29](https://biblehub.com/bsb/colossians/1.htm): Christ among His people, hope of glory and people brought to maturity in Him. The prayer for knowledge and endurance serves that larger goal.",
+    "",
+    "[Romans 8:29–30](https://biblehub.com/bsb/romans/8.htm) names God’s purpose of making His people like His Son and bringing them to glory. Growth in faithful conduct is part of that work, sustained by His power and directed toward its completion."
+  ],
+  "current_position_lines": [
+    "In [What Does Prayer Look Like?](https://thewayofscripture.com/studies/what-does-prayer-look-like.html), we draw attention to what Paul asks for here: deeper knowledge of God’s will, a life that honors Him, good fruit and strength to endure. This passage gives us a positive pattern for praying for another person’s growth in Christ."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/colossians/1.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-colossians-one-opening-review.md",
+    "position_source_detail": "What Does Prayer Look Like?, Colossians 1:9–11 and surrounding comparison, lines 116–126. Positive prayer for knowledge, conduct and endurance only; no blanket claim that Paul never asks for a changed circumstance."
+  }
 }

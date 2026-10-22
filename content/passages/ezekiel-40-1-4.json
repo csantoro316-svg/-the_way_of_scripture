@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "40:1-4",
+    "label": "Ezekiel 40:1-4",
+    "slug": "ezekiel-40-1-4"
+  },
+  "section_title": "Why is Ezekiel shown another temple?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 In the twenty-fifth year of our exile, at the beginning of the year, on the tenth day of the month—in the fourteenth year after Jerusalem had been struck down—on that very day the hand of the LORD was upon me, and He took me there. 2 In visions of God He took me to the land of Israel and set me on a very high mountain, on whose southern slope was a structure that resembled a city. 3 So He took me there, and I saw a man whose appearance was like bronze. He was standing in the gateway with a linen cord and a measuring rod in his hand. 4 “Son of man,” he said to me, “look with your eyes, hear with your ears, and pay attention to everything I am going to show you, for that is why you have been brought here. Report to the house of Israel everything you see.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Fourteen years after Jerusalem was struck down, Ezekiel is taken in visions to the land of Israel. The city’s destruction has not brought the Lord’s purposes to an end. From a very high mountain, the prophet sees a structure resembling a city.",
+    "",
+    "A man with the appearance of bronze stands at the gateway holding a linen cord and a measuring rod. He will guide Ezekiel through a detailed tour of the temple area.",
+    "",
+    "Ezekiel must look, listen, pay attention and report what he sees to Israel. The vision answers the earlier loss of the temple with a picture of ordered worship and, in the chapters that follow, the return of God’s glory."
+  ],
+  "common_interpretation_lines": [
+    "Christians differ over how this final vision is fulfilled. [Gaebelein](https://biblehub.com/commentaries/gaebelein/ezekiel/40.htm) reads it as a real temple still to be built when Israel is restored. The [USCCB notes](https://bible.usccb.org/bible/ezekiel/40) understand the arrangement as an ideal picture of restored Israel and God’s holy presence, rather than expecting every detail to become a literal structure. [Wesley’s notes on 42:20](https://biblehub.com/commentaries/wes/ezekiel/42.htm) apply the temple’s extent to the church and the gathering of Gentiles and Israel.",
+    "",
+    "These are readings offered by the named interpreters, rather than uniform positions held by every member of a denomination. [Henry](https://biblehub.com/commentaries/mhc/ezekiel/40.htm) also leaves open whether the guide is the Son of God or a created angel, while Wesley identifies him with Christ. The passage describes his appearance and task without naming him."
+  ],
+  "god_plan_lines": [
+    "A close parallel appears in [Revelation 21:9–27](https://biblehub.com/bsb/revelation/21.htm). John is carried in the Spirit to a high mountain and shown a city, and an angel measures it with a rod. Both visions join careful measurement with the hope of God’s presence.",
+    "",
+    "There is also a striking difference. John sees no temple building in the new Jerusalem because the Lord God Almighty and the Lamb are its temple. Whatever reading one takes of Ezekiel’s architecture, the larger biblical hope reaches to God and the Lamb dwelling with His people and giving them light."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/40.htm",
+    "plan_basis": [
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-forty-two-review.md"
+  }
+}

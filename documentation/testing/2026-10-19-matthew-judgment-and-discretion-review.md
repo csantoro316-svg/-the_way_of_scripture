@@ -1,0 +1,44 @@
+# Matthew 7: judgment and discretion review
+
+Reviewed 2026-10-19. Status: verified and published. Two new coherent sayings, 7:1–5 and 7:6. Verse 6 is a distinct self-contained saying, rather than an arbitrary verse-by-verse subdivision. These continue sequential coverage after chapter 6. The whole chapter, book, and full goal remain incomplete.
+
+## Actual sources and synthesis
+
+Baseline 7A, PDF 273–283, and 7B, 284–293, fully read. Investigated hypocrisy, self-examination, helping another person, mercy, discernment, holiness, and outreach. The teacher's unique reading of pearls as moral advice to unbelievers was considered rather than presented as consensus. Public prose and order are independent, without naming the baseline teacher/ministry.
+
+Actual BibleHub BSB read: Matthew 7:1–6,15–20; Luke 6:37–42; Galatians 6:1–5; Romans 14:10–13; James 4:11–12; John 7:24; 1 Timothy 1:12–17; Mark 2:15–17. Main quotations assembled from actual verse markup and independently rechecked before publication. Public supporting Scripture is paraphrased. No non-BSB quotation from a Christian document is inserted into the Bible text.
+
+Actual lexicons: Thayer [2919](https://biblehub.com/greek/2919.htm), range of judging and the specific severe/unfair faultfinding use at Matthew 7:1, including the relevant later paragraph after the initial entry excerpt; [2595](https://biblehub.com/greek/2595.htm), karphos as dry stalk/twig/straw/chaff and a smaller fault; [1385](https://biblehub.com/greek/1385.htm), beam. The public krinō explanation includes Greek, transliteration, pronunciation, and context. The argument that the two objects are certainly identical wood and therefore every person's sin is quantitatively the same is not established by the entries.
+
+Primary Christian sources directly read:
+
+- [Wesley on Matthew 7:1–6](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/): full notes on knowledge/love, measured judgment, the beam and help after removing it, and discretion about sharing deep teaching/personal experience with contemptuous hearers. He expressly retains appropriate correction. His notes 7:7–13 were also visible/read in the same bounded print, but do not replace the unread next baseline lesson. No historical Jewish proverb claim is adopted without independent evidence.
+- [Catholic Catechism 2477–2478](https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_two/article_8/iii_offenses_against_truth.html): actual text on sufficient grounds, reputation, charitable interpretation, and loving correction. Additional 2479–2480 seen; no claim depends on an unexamined broader doctrine.
+- [Westminster Larger Catechism 145](https://www.opc.org/lc.html): actual full answer, including rash/harsh/partial censure, false suspicion, distorted intentions, exaggerating faults, and proper correction. Not a prohibition of all moral judgment.
+- [Didache 9](https://www.newadvent.org/fathers/0714.htm): actual thanksgiving-meal instructions and baptism restriction with explicit reference to Matthew 7:6, directly opened/read via web. Used as a particular early Christian application, not a formal modern Catholic/Orthodox/Reformed decree or the only possible meaning. Its non-BSB quotation of Matthew is not reproduced. Other adjacent chapters appeared in output, but the claim relies on chapter 9 itself. No precise composition date asserted.
+
+Existing studies searched for Matthew 7:1–5, speck/beam, and gentle restoration. No developed specific position found. The Gospel study's wider Sermon/grace discussion is appropriate further reading, not authority for a new detailed doctrine of judgment or Communion. Both exact open-position notices retained. No unrelated or invented study linked.
+
+## Per-group decisions
+
+### Matthew 7:1–5 — Seeing Clearly Before Correcting Others
+
+- Plan section: included, because (c). First Timothy 1:12–17 places received mercy within Christ's saving patience and future believers' hope; Galatians 6:1–5 joins restoration, self-examination, burdens, and the law of Christ. These add God's mercy forming a restoring community beyond simply explaining the beam illustration. Neither is claimed to quote this Matthew saying directly.
+- Position source: none.
+- FLAGGED FOR REVIEW: unsupported universal Mishnah/Pharisee legal history and claims about all their motives are omitted. The PDF's erroneous attribution of church lawsuits to 1 Corinthians 5:12 rather than distinguishing chapters 5 and 6 is not repeated. All Christians having identical numbers or severity of sins, or differences being a meaningless rounding error, is not established by the illustration or lexicons. No claim that every form of correction is prohibited, that perfect sinlessness must precede all help, or that Jesus says another person's speck can never be removed; actual verse 5 explicitly describes later help. No assumption every hearer's exact spiritual standing or all degrees of fellowship are identical. The teacher's exclusive temporal-discipline interpretation of verse 2 is not established as consensus by the primary documents, so no such limit is imposed. No new site doctrine of justification, final judgment, or assurance originated. Practical self-examination and gentleness retained from verified text and sources.
+
+### Matthew 7:6 — Treating Holy Things with Care
+
+- Plan section: omitted, because none apply. Mark 2 helps keep the warning's interpretation in context, but does not directly explain Matthew 7:6. The investigated outreach/discipleship and Communion applications do not establish an additional neutral plan connection beyond the interpretation already discussed. No hidden typology or forced mission chronology.
+- Position source: none.
+- FLAGGED FOR REVIEW: the PDF's universal equation of holy pearls with correcting every unbeliever's moral behavior is one teacher's reading; no checked independent tradition source establishes it as common, so not presented as consensus or a site position. Its current political applications, survey percentages, all Israel opposing/killing Jesus, all Gentiles being called dogs by every Jew, and blanket animal behavior/cultural claims are unverified and omitted. No declaration that every dog was wild, every pig dangerous, or all unconverted people necessarily incapable of benefiting from any truthful counsel. No claim all civic protection or moral teaching is pointless. The metaphor is not turned into a fixed ethnic or social classification. Wesley's and the Didache's differing applications are identified as their own, with no claim either speaks for every denomination. No site rule about Communion eligibility or withholding the gospel originated. No specific source identifies the pearls with only one object in the verse itself.
+
+## Validation and publication
+
+Both direct BSB checks passed. Eight regression tests and repository validation passed, with 0 errors and 381 existing warnings. Focused generation added two pages and changed only navigation on old neighbors 6:33 and 7:7–11. All old index entries, book/study metadata, and neighbor prose were preserved; 1,072 unaffected existing website files remained byte-identical. Repeat generation was idempotent across 1,077 files. Audit `/tmp/audit-scripture-matthew-judgment.py` checked source/index/standalone sections, canonical navigation, and links.
+
+Local 390px reader showed four chapter-7 choices and five editorial headings on 7:1–5. Actual Next opened 7:6 and focused its title. The latter had four headings, with the optional plan section absent, the exact open notice, and its Didache/source/Gospel links without overflow. Its common-reading screenshot was checked for plain language. Standalone and live 7:6 likewise omitted the plan heading and showed correct previous 7:1–5/next 7:7–11, the position notice, and no overflow. The empty optional source array was removed; repeat generation proved all public bytes unchanged.
+
+This session's CozPlex certificate-backed Scripture readiness had passed, with no host/account changes. Fresh explicit-project Hosting dry run and deployment succeeded. Six live files byte-matched: two new pages, two neighbors, index, and reader. Prefix `/tmp/scripture-matthew-judgment-` holds original website/index/standalone preimages, generated hashes, slugs, affected-neighbor list, BSB/check/dry-run/deploy logs, and live hash manifest. No whole generator or outstanding deployment.
+
+Matthew now has 40 reviewed groups covering all 178 sequential verses through 7:6, among 57 source records with 17 legacy records unreviewed. Chapters 1–6 and Genesis completion preserved. Next existing 7:7–11 and overlap 7:11; baseline 7C294–304 now fully read. Next 7D305–315 remains unread. Full goal active; Telegram silent mode.

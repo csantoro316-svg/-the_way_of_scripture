@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "11:27-28",
+    "label": "Luke 11:27-28",
+    "slug": "luke-11-27-28"
+  },
+  "section_title": "Who does Jesus call blessed?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "27 As Jesus was saying these things, a woman in the crowd raised her voice and said, “Blessed is the womb that bore You, and blessed are the breasts that nursed You!” 28 But He replied, “Blessed rather are those who hear the word of God and obey it.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "A woman in the crowd praises the mother who bore and nursed Jesus. He answers by directing attention to people who hear God’s word and obey it.",
+    "",
+    "The brief exchange continues the question of how people respond to Him. Admiration of Jesus and His family leads into a call that reaches everyone listening: receive God’s word and live by it.",
+    "",
+    "Luke has already described Mary accepting God’s message and Elizabeth blessing her for believing it. Hearing and believing are therefore part of Mary’s own story, not a reason to place her outside the blessing Jesus describes. ([Luke 1:38, 45](https://biblehub.com/bsb/luke/1.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly emphasize hearing God’s word and putting it into practice. The Catholic bishops’ notes explain that the saying does not reject Jesus’ mother, while Wesley likewise makes hearing and keeping the word central even for her. ([USCCB note on Luke 11:27–28](https://bible.usccb.org/bible/luke/11); [Wesley on Luke 11:27–28](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))"
+  ],
+  "god_plan_lines": [
+    "Galatians describes people becoming God’s children through faith in Christ and sharing the inheritance promised to Abraham. The blessing reaches across differences of ancestry and standing because they belong to Christ. Jesus’ invitation to hear and obey fits this wider gathering of a family around Him. ([Galatians 3:26–29](https://biblehub.com/bsb/galatians/3.htm))",
+    "",
+    "James similarly joins hearing with doing and describes the blessing of persevering in God’s word. The response Jesus calls for becomes a way of life, rather than admiration that never reaches action. ([James 1:22–25](https://biblehub.com/bsb/james/1.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/11.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-eleven-response-review.md"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "15:32-39",
+    "label": "Matthew 15:32-39",
+    "slug": "matthew-15-32-39"
+  },
+  "section_title": "Jesus Feeds Four Thousand",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "32 Then Jesus called His disciples to Him and said, “I have compassion for this crowd, because they have already been with Me three days and have nothing to eat. I do not want to send them away hungry, or they may faint along the way.” 33 The disciples replied, “Where in this desolate place could we find enough bread to feed such a large crowd?” 34 “How many loaves do you have?” Jesus asked. “Seven,” they replied, “and a few small fish.”",
+        "35 And He instructed the crowd to sit down on the ground. 36 Taking the seven loaves and the fish, He gave thanks and broke them. Then He gave them to the disciples, and the disciples gave them to the people. 37 They all ate and were satisfied, and the disciples picked up seven basketfuls of broken pieces that were left over.",
+        "38 A total of four thousand men were fed, besides women and children. 39 After Jesus had dismissed the crowds, He got into the boat and went to the region of Magadan."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus tells His disciples that He has compassion for the crowd. They have remained with Him for three days and have nothing to eat. He does not want them sent away hungry and at risk of fainting. Once again, their physical need matters to Him.",
+    "",
+    "The disciples ask where enough bread could be found in such a desolate place. They have seven loaves and a few small fish. Jesus seats the crowd, gives thanks, breaks the food, and gives it to the disciples to distribute. All eat and are satisfied.",
+    "",
+    "Seven baskets of pieces remain. The basket word here is σπυρίς, *spyris* (spoo-REES), a woven basket or hamper. [Thayer's entry](https://biblehub.com/greek/4711.htm) includes this verse. Matthew records four thousand men, besides women and children, before Jesus dismisses the crowd and leaves by boat.",
+    "",
+    "The numbers differ from the feeding in chapter 14. Jesus will later recall both feedings distinctly in [Matthew 16:9–10](https://biblehub.com/bsb/matthew/16.htm). Their similarity invites the disciples to remember what they have already seen and to trust Him as they serve another crowd."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as another account of Jesus' compassionate provision, with His disciples distributing what He gives. [Wesley on Matthew 15:32–36](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) emphasizes the length of the crowd's stay and Jesus' thanksgiving for the food. The repeated provision shows His care continuing, even when the disciples still struggle to see how the people can be fed."
+  ],
+  "god_plan_lines": [
+    "Jesus later uses the two feedings to teach more than confidence that food can be supplied. In [Matthew 16:5–12](https://biblehub.com/bsb/matthew/16.htm), the disciples think His warning about leaven concerns their missing bread. He reminds them of both crowds and their baskets of leftovers, then directs them to understand His warning about harmful teaching.",
+    "",
+    "The signs are meant to help the disciples recognize who is with them and listen to what He is saying. [Mark 8:14–21](https://biblehub.com/bsb/mark/8.htm) likewise connects remembering both meals with their need for understanding. God's provision becomes part of their preparation to serve and teach faithfully, rather than an event to marvel at and then forget."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/15.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-fifteen-review.md"
+  }
+}

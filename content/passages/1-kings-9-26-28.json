@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "9:26-28",
+    "label": "1 Kings 9:26-28",
+    "slug": "1-kings-9-26-28"
+  },
+  "section_title": "How does Solomon’s partnership with Hiram bring in more wealth?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "26 King Solomon also assembled a fleet of ships at Ezion-geber, which is near Eloth in Edom, on the shore of the Red Sea. 27 And Hiram sent his servants, sailors who knew the sea, to serve in the fleet with Solomon’s servants. 28 They sailed to Ophir and imported gold from there—420 talents—and delivered it to Solomon."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Solomon assembles a fleet at Ezion-geber, near Eloth in Edom on the Red Sea. Hiram supplies experienced sailors to work alongside Solomon’s servants.",
+    "",
+    "They sail to Ophir and bring Solomon four hundred twenty talents of gold. The episode adds sea trade to the account of the kingdom’s resources and shows the continuing partnership with Hiram despite the earlier disagreement over the towns."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/9.htm) sees the trade as part of Solomon’s prosperity, while reminding readers that wisdom is more valuable than silver and gold. The [USCCB notes](https://bible.usccb.org/bible/1kings/9) emphasize the way this part of the narrative turns attention toward the wealth and luxury of Solomon’s court.",
+    "",
+    "[Gill](https://biblehub.com/commentaries/gill/1_kings/9.htm) records several proposed locations for Ophir. The account itself does not give enough detail to choose confidently among them. The source of the shipment is named; its precise place on a modern map remains a separate question."
+  ],
+  "god_plan_lines": [
+    "The gold should be read beside the instructions for Israel’s king in [Deuteronomy 17:16–20](https://biblehub.com/bsb/deuteronomy/17.htm). A king is warned against accumulating great wealth and exalting himself above his own people. Material success still leaves the question of faithful use.",
+    "",
+    "A related concern appears in [1 Timothy 6:17–19](https://biblehub.com/bsb/1_timothy/6.htm). Those with wealth are called to place their hope in God, do good and be generous. This is a broader biblical theme, not a claim that Paul is explaining Solomon’s voyage: resources bring responsibility, while trust belongs in God."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/9.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-nine-review.md"
+  }
+}

@@ -5,23 +5,47 @@
     "label": "Judges 8:28-31",
     "slug": "judges-8-28-31"
   },
-  "section_title": "Forty Years of Peace",
+  "section_title": "What does the account tell us about Gideon’s later life?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "28 In this way Midian was subdued before the Israelites and did not raise its head again. So the land had rest for forty years in the days of Gideon, 29 and he\u2014Jerubbaal son of Joash\u2014returned home and settled down.",
-        "30 Gideon had seventy sons of his own, since he had many wives. 31 His concubine, who dwelt in Shechem, also bore him a son, and he named him Abimelech."
+        "28 In this way Midian was subdued before the Israelites and did not raise its head again. So the land had rest for forty years in the days of Gideon, 29 and he—Jerubbaal son of Joash—returned home and settled down. 30 Gideon had seventy sons of his own, since he had many wives. 31 His concubine, who dwelt in Shechem, also bore him a son, and he named him Abimelech."
       ]
     }
   ],
   "context_lines": [
-    "In **Judges 8**, this section should be read within the flow of the chapter and the larger movement of Judges."
+    "Midian remains subdued, and the land has forty years of rest during Gideon’s lifetime. The phrase about not raising its head describes Midian’s defeat. The rescue has brought a real period of peace, even though the previous verses have already identified trouble around Gideon’s ephod.",
+    "",
+    "The account then introduces his large household: many wives, seventy sons, and another son, Abimelech, born to his concubine at Shechem. A concubine held the status of a secondary wife, as the [USCCB’s scholarly note on verse 31](https://bible.usccb.org/bible/judges/8) explains. These family details prepare for the struggle over power in the next chapter; they are part of where Gideon’s story leads."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Forty Years of Peace** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Judges 8** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-judges/) understands Gideon’s return home as a life between the public service of a judge and the royal court he had declined. [Gill](https://biblehub.com/commentaries/gill/judges/8.htm) notes that the introduction of Abimelech prepares the reader for the following account. These verses report both the lasting relief from Midian and the household from which the next conflict will emerge."
   ],
-  "deeper_study": []
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/judges/8.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-judges-eight-review.md"
+  }
 }

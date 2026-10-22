@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "6:4-8",
+    "label": "Hebrews 6:4-8",
+    "slug": "hebrews-6-4-8"
+  },
+  "section_title": "Why is turning away from Christ described so seriously?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "4 It is impossible for those who have once been enlightened, who have tasted the heavenly gift, who have shared in the Holy Spirit, 5 who have tasted the goodness of the word of God and the powers of the coming age— 6 and then have fallen away—to be restored to repentance, because they themselves are crucifying the Son of God all over again and subjecting Him to open shame.",
+        "7 For land that drinks in the rain often falling on it and that produces a crop useful to those for whom it is tended receives the blessing of God. 8 But land that produces thorns and thistles is worthless, and its curse is imminent. In the end it will be burned."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The warning describes people who have received light, tasted God’s gift and word, shared in the Holy Spirit and experienced powers of the coming age. It then speaks of falling away and the impossibility of restoration to repentance, connecting that rejection with publicly shaming the Son of God.",
+    "",
+    "The word [translated fallen away](https://biblehub.com/greek/3895.htm) can describe departure from the faith. The warning is more serious than slow progress in understanding or a difficult question raised honestly. Its descriptions of participation, departure and restoration have led to significantly different Christian readings.",
+    "",
+    "The field picture gives the warning a visible form. Rain-soaked land can produce a useful crop and receive blessing, or produce thorns and face a curse and burning. Received benefits call for a fruitful response. The next paragraph turns to encouragement and expresses hope for better things among the readers."
+  ],
+  "common_interpretation_lines": [
+    "The main differences concern who is described, what falling away means, and what restoration is ruled out. [Calvin](https://biblehub.com/commentaries/calvin/hebrews/6.htm) reads this as a complete rejection of the gospel by people who have experienced real benefits without the lasting renewal God gives His elect. He distinguishes it from an ordinary fall into sin and maintains that the truly regenerate will finally be preserved.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) reads the experiences as those of people born of the Spirit. He understands the warning as a real, willful and total abandonment of faith, hope and love, with the stated impossibility of renewal. His reading differs from Calvin’s on the person’s earlier saving relationship with God.",
+    "",
+    "Catholic teaching on [repentance after baptism, Catechism 1446](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_two/article_4/vi_the_sacrament_of_penance_and_reconciliation.index.html), allows reconciliation after grave falls. That is a wider doctrinal teaching, rather than a commentary on this sentence. An influential historic reading from [Chrysostom, Homily 9 on Hebrews](https://www.newadvent.org/fathers/240209.htm), understands the impossible renewal as another baptism, while expressly allowing repentance. His reading should not be treated as the only explanation held by every Catholic or Orthodox Christian.",
+    "",
+    "A different evangelical reading, represented by [Bob Wilkin](https://faithalone.org/grace-in-focus-articles/no-second-repentance/), takes the people as genuine believers whose eternal salvation remains secure. He understands the warning as severe discipline and loss of fruitful service and reward, and the impossibility as human inability to restore an apostate before God’s intervention. This is a named Free Grace teacher’s reading, rather than the view of all evangelicals.",
+    "",
+    "These readings share an insistence that rejecting Christ is serious, but they give different accounts of the danger. The wording should be considered within the whole appeal, including the encouragement which follows."
+  ],
+  "god_plan_lines": [
+    "[John 15:1–8](https://biblehub.com/bsb/john/15.htm) also joins received care, fruitfulness and a warning about burning. It is a related picture of the importance of remaining in Christ. The parallel does not by itself settle the differences over who falls away in Hebrews.",
+    "",
+    "[Colossians 1:9–12](https://biblehub.com/bsb/colossians/1.htm) describes the positive purpose: knowledge leading to a worthy life, good works, endurance and gratitude. God’s gifts are meant to bear fruit in His people. That wider purpose gives the warning its setting without reducing its severity."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/6.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-six-review.md"
+  }
+}

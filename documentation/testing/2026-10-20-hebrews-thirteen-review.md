@@ -1,0 +1,75 @@
+# Hebrews 13 final passage review — 2026-10-20
+
+Eight chapter13 pages (plus two earlier readability-only updates in5:5–10/5:6, ten selected files total):new1–3/4–6/7–9/10–16/17–19/20–21/22–25 plusretained13:10. Sevenplansincluded,closing22–25omitted(noadditionalGod-planpointbeyondprecedingbenediction). Twoaltarpositionsfromworship.md308–315,sixopenpositions. ALL294actualbaselinePDFpagesnowread,13A266–274/13B275–284/13C285–294. No unseenpagesclaimed.
+
+## Actual sources checked
+
+Actual whole BSB13: https://biblehub.com/bsb/hebrews/13.htm . FreshPs118:5–9,Deut31:6–8,Lev6:24–30/16:26–28,Ezek34:11–16/23–24,1Pet2:4–10. Actualprior1Pet5:1–4;wholeGen18–19,Mt25,Acts5,John10,Eph2/4/5,Col2,1Tim6,Heb10readincompletedresearch. FullquotationgeneratedactualBSB,noownerstudy'smislabeledquotesorothertranslationcopied. MainBSBverse3sympatheticphrasingretained,13:17obeysubmitretained,13:23releasednotinventednarrative.
+
+Actual all substantiveCalvin13commentsread inboundedparts;selectedfootnotesnotall: https://biblehub.com/commentaries/calvin/hebrews/13.htm . Love/hospitality/prisonersbodychurch,marriageforallincludingclergy,contentmentGodpromise,earlierfaithfulteachersmaymartyrs,Christconstancyandfoodrules,altarChristoffering/specificsin-offeringanalogy,prayerpraise/generosity,faithfulrulerslimitednotmereharmfulholdersoftitles,prayerreturnnotcertainprison,risenShepherd/equipping,closingauthorshipvariousconjecturesnotPaulcertain. Historiographicethnicgeneralizationsandsectarianabusenotcopied;privatecriticismofcontemporaryChurchesnotfacts.
+
+ActualcompleteWesley13notesread: https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/ . AbrahamLot,physicalvulnerability,marriageclergy,trustGod,teachersdead,Christsteady,foodrites,altarCross,calltobearreproach,praisegoodworks,obediencewithoutrelinquishingconscience/judgment,eternalcovenant,Paulassumed. Hisall-sinofferingsneverpriestseatoverstatementnotrepeated:actualLev6:26–30differentiateseatenofferingsfrombloodbroughtinsideexception. ExactJerusalempredestructiondateandcertainPaulnotadopted.
+
+ActualcompleteUSCCB13notesread: https://bible.usccb.org/bible/hebrews/13 . Foodlawvspossiblebanquets,earlierleadersdead,ALTARexpresslynotEucharistbutChrist'ssacrifice (importantcontrastbaseline),prayer/closing/risenblessing. Totalderivedpublicsummaryunder200wordsacrossalleightselectedpages. NonBSBquotationsnotcopied. DoesnotmakeallCatholicsdenytheirworshipaltars:localverseinterpretationdistinctfromlargerdoctrine.
+
+ActualcompleteThayer3982/5226read: https://biblehub.com/greek/3982.htm ; https://biblehub.com/greek/5226.htm . Passive/middle3982specificallyHeb13:17listenobeycomplyyield,notclaimneverobeyonlybepersuaded;5226yieldauthorityadmonition.Persuasiongoddesshomographnotsemanticdefinitionforverb. ScripturalauthoritylimitsfromactualActs5/1Pet5andprimaryCalvin/Wesley,notdenialofplaincommand.
+
+ActualfreshWCF24whole: https://www.opc.org/wcf.html . 24.3marriageforall,24.5adulterydivorceinnocentremarriage,24.6certainwillfuldesertion. OldhostileCatholiclabelsnotcopied. ActualfreshCCC1579–1580from https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_three/article_6/vi_who_can_receive_this_sacrament.html :Latinnormalcelibacy/Easternmarriedpriests. ActualfreshCCC1649–1650at https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_three/article_7/v_the_goods_and_requirements_of_conjugal_love.index.html :separationpermitted,validbondretainedandnewunionnotvalidwhilefirstvalid. WrongguessedviurlHTTPerror,actualvhrefdiscoveredfromrealVaticanHTMLandbodychecked. Broaderremarriagecomparisondoesnotimposeownerdivorceposition. No currentcommuniondisciplineclaimfrom1650unqualifiedbylaterpastoraldiscussions.
+
+ActualCCC1382–1384bodyread https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_3/vi_the_paschal_banquet.index.html . BroaderCatholicaltar/LordSupperteaching,notdirect13:10exegesis;notusedtopretendlocalUSCCBnotesaysEucharist. Existingworship.md302–322actuallyread;313explicitaltar-cross,314Christoneoffering,315royalpriesthood/livingresponse. Positivenarrowownerconclusionretained;noindependentlyunverifiedallchurchbuildingsrejectedhistoryimported.
+
+## Hebrews 13:1–3
+
+Plan section: included,because(a)/(c). Mt25:35–40serviceJesusbrothersstranger/prison;1Cor12:25–27bodysharedsuffering/honor.
+Position source: none.
+FLAGGED FOR REVIEW: HospitalitycommandsnotverifiedhistoricalstoryspecificearliestcongregationinfiltratedbyJewishspiesorallcultureineveryagewasonepractice. No scriptedforcedopeningdoorunsafevisitorstobejustified;ordinarycarepositive,nopromisemiraclehosteverytime. Gen18/19actualangels,notallstrangersangelsoronlyhospitalityforbelievers.No Hebrewsliteralwordphiladelphiameansentireagapemaximwithoutlexicalverification;notneededpublic.ExactscopebodyCalvinchurch/Wesphysicaldifferentattributed;BSBmaintained. No claimonlyreligiousprisonersdeservecare/noendorsementanycrime;careforpeopleinneednotmeritpayment. Mt25leastbrothersnotglossedasuniversalsettledidentificationofeverygroupindebate.
+
+## Hebrews 13:4–6
+
+Plan section: included,because(a)/(c). Eph5:25–33Christmarriagelove,1Tim6:6–10/17–19contentmenttrustgenerosity.
+Position source: none.
+FLAGGED FOR REVIEW: Baselineonlydeathexceptionforanymarriageuniversallynotconsensus:actualWCF24exceptions/Cathvalidbondcomparisonread. Noownerrulingforspecificdivorces.No categoricalallCatholicsforbidmarriage/thinkseximmoral:actualCatholicLatin/Easterndisciplinehonored. Specificuniversalpsychologicalclaiminvoluntaryarousalallfornicationnotderivedfromthisverse/lexiconandnotused. No nolegitimateeconomicplanning/retirementonlylackfaithdiagnosis;moneylovechallengedwithoutclaimallwhoearnmorealwayscovet. Letter11suffering/privationand10confiscationcorrectfalsepromiseallfaithfulalwaysmateriallysufficient.No missingfood/housingproofabandonment,notblanketpassivitytowardinjusticeordestitution. Contemporarysocietypoliticalgeneralizationsunverifiedomitted.
+
+## Hebrews 13:7–9
+
+Plan section: included,because(a)/(c). Eph4:11–16maturity/teachings,Col2:16–23humanfoodrulesvsChrist.
+Position source: none.
+FLAGGED FOR REVIEW: OnlytwelveapostleseverspokewordofGodclaimcontradActs13prophets/Acts21daughters/1Cor14manyspeakers;notrepeated. Earlierleadersnotnecessarilyallapostles/martyrscertain,butnamedcommentatorreadings.NopromoteleaderpersonalityaboveChrist,nounquestionablepersonalopinioninerrant. Jesusconstancynotproofeverycovenantruleordietaryarrangementidenticalatalltimes. Exactstrangeteachingfoodlawsorbanquetsuncertainpublicattributed;nounfoundedmodernJewish/messianicgroupcaricatureorhealthdietsinful.Time-sensitiveculture/politicalcomparisonsnotused.Historicalcongregationalplace/dateandspokenvswrittencanonicaltimelineunverified.
+
+## Hebrews 13:10–16
+
+Plan section: included,because(a)/(c). Hebrewsitselfexplicitoutsidecamp/Jesusgateconnection;1Pet2:4–10rejectedstone/spiritualhouse/priesthoodsacrifices;Rev21:1–5city/dwellingcompletion.
+Position source: Worship as the Early Church Knew It — worship.md308–315,altarCross/onceoffering/distinctlivingresponse.
+FLAGGED FOR REVIEW: Specificno-eatofferingsLev6:30/16:27notallanimalorsinofferings;Lev6:26–29otherwiseeaten.ContrarybaselineclaimaltarnecessarilyCommunionnotconsensus:actualUSCCB13explicitlydeniesEucharistinterpretation.CalvinWesChristcrossfairnamed.Noallpriestsunbelieversbybirth (Acts6:7priestsbelieved),noblankethostilitytowardJewishpersonsorclaimallJewsGodforsaken. OutsidecampcostlyChristbelongingnotcertainsecondcomingdate/guaranteebeforeAD70authorprophecy. Praiseincludesprayerthanksgiving,notexclusionmusicorclaimonlyevangelizingvalidpraise. No forceduniversalarchitecturalorritualbanfromownerrelatedparagraph;positiveownerCrossconclusionretained.Service/generositynotatonementmissinginChrist.ExtraCath1383doctrineparatextnotdirectexegesisandnoallCatholicsabolishphysicalaltarsclaim.
+
+## Hebrews 13:10
+
+Plan section: included,because(a)/(c). Heb10:10–18oneoffering;1Pet2:4–5andHeb13:15–16spiritualresponse.
+Position source: Worship as the Early Church Knew It — worship.md313,explicit retainedverse.
+FLAGGED FOR REVIEW: Samecrosspositionlimitedandnamed,notinheritedgenericalltemplebuildingshistoricalrejectionclaimedestablished.Noeithertranslationrewrittenorphysicalcommunionrulerderivedlexically.ExactLev6exceptionstated;Wesleyall-sinofferingoverstatementnotrepeated.LegacyURLpreservednotduplicatecanonicalcoverageerror.Christsacrificebenefitnotmodernphysicalobjectcapableofsalvationbyitself.
+
+## Hebrews 13:17–19
+
+Plan section: included,because(a)/(c). 1Pet5:1–4carewithoutdomination/ChiefShepherd,Acts5:29Godfinalauthority.
+Position source: none.
+FLAGGED FOR REVIEW: ExistingWSisrelevantleadershipstudybutnotspecificverdictthisnewpassage;linknotinventedownerposition.ObeysubmitgenuineGreekrange,notwateredtooptionalpersonalagreement,nounlimitedleaderinfallibilityorownershipconscience.Leadersaccountable;Calvinfaithfulnotmerehurtfultitle/Wesconsciencenotsurrenderedverified.No qualificationleaderwon'tbejudgeabuseorfinancialcontrol.No swallowingbaselineallpersonalelderscounselcertainGodcommand.No leadersneversalariedideally/allpastorsneverofficelogic (1Pet5shepherdverb,Titus1elderoverseer)imposed.13:18alreadyclearconscience/desiredhonornotexactprayerfortone13:19requestsrestoration.WriterprisonnotprovenbyGreekreturn;Calvinallowsfree.Witnessinghardshipnotpermissiondominateothersorblamevictimforbadleaders.
+
+## Hebrews 13:20–21
+
+Plan section: included,because(a)/(c). Ezek34:11–16/23–24Godseeksflock/Davidoneshepherd;John10:11–18JesusgoodShepherd;Eph2:8–10grace/equippedworks.
+Position source: none.
+FLAGGED FOR REVIEW: ActualGodraisesShepherdnotprecisescenephysicalbloodtakenpostresurrectiontoheaven;CalvinwithbloodvsBSBthroughnotquoterewrite.OtherservantsnotsubstitutesreplacingChrist'sexclusive savingrole.No pretribtimelinerewardclassificationforcedintobenediction.God'sequippingpositivewithrealresponse,noinventedfatalisticorpelagiandogma.Noownernewsourcefortechnicalcovenanttheology. GloryChristreadingbodyCalvinalsoallowsFatherimmediategrammaticalreferent;publicstaysBSBthroughJesusChristtowhomglorywithoutwholeTrinitydispute.
+
+## Hebrews 13:22–25
+
+Plan section: omitted, because none apply.
+Position source: none.
+FLAGGED FOR REVIEW: Closingcommunityalreadydevelopedprevioussections,norepetitiveforcedplan.CertainPaulWesassumptionnotfacts;CalvinotherpossibilitiesnotproofLuke/Clement.AllGreekTimothyreleasednotdefiniteknownprisonlocation/offenseorconcurrentwriterprison.No exactlywriterItalyvsItalianvisitorsforeignknown;greetingunsettled.No noncanonicalsubscriptionwrittenbyTimothyfromItalyasBibletext.Saintsincludesbelieversnotonlycanonizedelite;basiccontextplain.Writingbrieflyrelativecontentnotinsultreadersbooklength.
+
+## Earlier readability updates
+
+Before final book publication, 5:5–10/5:6 now explain Eucharist as the church’s celebration of the Lord’s Supper and use suffering and death instead of passion. No teaching/quotation/position changed. Both original sources backed up under the current batch prefix before these edits and added to selected audit list; the original web/index snapshots predate all these changes. 13:4–6 likewise explains celibate priests as priests committed to remaining unmarried. Full-book quotation/metadata/navigation audit rerun after this wording update.
+
+## Validation
+
+PASS: focused generation and repeat-generation idempotence; BSB quotation checks; repository validation (zero errors, 231 warnings); source/index/standalone preservation; continuous whole-book coverage of 303 BSB verses in 71 reviewed pages. Twenty selected mobile views passed with no overflow or raw Markdown. Next-passage navigation passed within chapter 13 and into James. Explicit-project hosting dry run and deployment exited successfully. Fresh selected and whole-book live checks both exited 0: 14 and 75 files matched respectively. Whole-book totals: 70 plan sections, 23 study-backed positions, 48 open positions. All 294 baseline PDF pages actually read.

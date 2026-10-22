@@ -1,0 +1,6 @@
+# Acts 9 complete
+
+
+Forty-four reviewed pages cover 335 actual BSB verses continuously through Acts 9:43: 44 plan sections, 16 existing-study positions, and 28 open positions. There are 62 Acts source pages and 18 unreviewed legacy references. All six fresh BSB checks, eight tests, source/index/preservation/navigation checks, 390 px reader and standalone checks, actual Next, and generation idempotence passed. Zero errors and 303 known warnings. Hosting dry run and actual deployment exited successfully; ten affected files and eight whole-chapter live files match local bytes.
+
+Whole Acts baseline PDF read through page 144, including all lesson 10 (135–144); page 145 onward unread. Next Acts 10: groups 1–16,17–33,34–43,44–48 plus any preserved legacy references (inspect first). No chapter 10 draft. Fresh sources fetched but not yet read: BSB10, Calvin10, USCCB10, Thayer4381/3607, Romans2, Jeremiah31, Acts11. WesleyX not yet read. Baseline connections to examine: Deut10:17 impartiality, Jew/Gentile welcome, giving Spirit before water; reject unsupported blanket Gentile exclusion before this chapter and claim Jewish companions also newly received manifestations. Existing Baptism's Acts10 treatment should be freshly read. Telegram normal mode; continue without stopping.

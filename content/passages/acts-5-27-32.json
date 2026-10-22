@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "5:27-32",
+    "label": "Acts 5:27-32",
+    "slug": "acts-5-27-32"
+  },
+  "section_title": "What does obedience to God require of the apostles?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "27 They brought them in and made them stand before the Sanhedrin, where the high priest interrogated them. 28 “We gave you strict orders not to teach in this name,” he said. “Yet you have filled Jerusalem with your teaching and are determined to make us responsible for this man’s blood.” 29 But Peter and the other apostles replied, “We must obey God rather than men.",
+        "30 The God of our fathers raised up Jesus, whom you had killed by hanging Him on a tree. 31 God exalted Him to His right hand as Prince and Savior, in order to grant repentance and forgiveness of sins to Israel. 32 We are witnesses of these things, and so is the Holy Spirit, whom God has given to those who obey Him.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The high priest confronts the apostles with the council’s earlier prohibition and with the spread of their teaching throughout Jerusalem. He also objects that they are holding the authorities responsible for Jesus’s death.",
+    "",
+    "Peter and the apostles answer that they must obey God rather than men. This is the same conflict seen in the preceding chapter: a command to stop proclaiming Jesus stands against the commission they received from Him.",
+    "",
+    "Their answer becomes another announcement of the gospel. God raised the Jesus who was killed by hanging on a tree and exalted Him as Prince and Savior, bringing repentance and forgiveness to Israel. The apostles identify themselves and the Holy Spirit as witnesses. Their defense continues the message rather than retreating from it."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the apostles as giving God’s command priority when it directly conflicts with the council’s prohibition. [Calvin on verse 29](https://biblehub.com/commentaries/calvin/acts/5.htm) distinguishes that conflict from situations in which authorities are properly carrying out their responsibilities.",
+    "",
+    "Commentators emphasize different aspects of repentance as a gift. Calvin’s note on verse 31 connects it with Christ’s inward renewal through the Spirit. [Wesley on verse 31](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) expressly includes the person’s cooperation in repentance while affirming that God alone forgives sins. These are their explanations of how people respond to the saving work of the exalted Jesus."
+  ],
+  "god_plan_lines": [
+    "The language of hanging on a tree also appears in [Galatians 3:13–14](https://biblehub.com/bsb/galatians/3.htm), where Paul explains Christ bearing the law’s curse so that Abraham’s blessing reaches the Gentiles and the promised Spirit is received through faith. Peter’s address here is to Israel’s leaders; the wider New Testament shows the saving work reaching the nations.",
+    "",
+    "The Jesus who was put to death is now proclaimed as Savior, offering repentance and forgiveness even in a setting of hostility. His exaltation serves God’s saving purpose, rather than merely reversing who holds power."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-five-review.md"
+  }
+}

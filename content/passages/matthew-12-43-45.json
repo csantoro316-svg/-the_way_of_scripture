@@ -1,0 +1,44 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "12:43-45",
+    "label": "Matthew 12:43-45",
+    "slug": "matthew-12-43-45"
+  },
+  "section_title": "The Danger of an Empty House",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "43 When an unclean spirit comes out of a man, it passes through arid places seeking rest and does not find it. 44 Then it says, ‘I will return to the house I left.’ On its return, it finds the house vacant, swept clean, and put in order. 45 Then it goes and brings with it seven other spirits more wicked than itself, and they go in and dwell there. And the final plight of that man is worse than the first. So will it be with this wicked generation.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus describes an unclean spirit leaving a person, finding no rest, and returning to the place it left. The house is vacant, swept, and orderly. Its improved appearance has not made it secure against the returning spirit.",
+    "",
+    "The spirit brings seven others more wicked than itself, and the person's final condition becomes worse than the first. Jesus then applies the picture to the wicked generation He has been addressing. The setting remains the response to His ministry, including the release from evil they have witnessed and the resistance they have shown.",
+    "",
+    "The image warns that a changed outward condition is not the same as receiving God's work through Jesus. Being relieved of one evil does not make continued refusal harmless. In the related sequence in [Luke 11:24–28](https://biblehub.com/bsb/luke/11.htm), the returned-spirit saying is followed by Jesus honoring those who hear God's word and obey it. The call concerns a real response to God, rather than satisfaction with appearances."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as a warning against responding inadequately to the good Jesus brings, with a worse outcome possible after an apparent improvement. [Wesley on Matthew 12:43–45](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) applies the empty-house image to a life without God and extends its warning to people who turn away. The [US Catholic bishops' note on 12:43–45](https://bible.usccb.org/bible/matthew/12) emphasizes its application to the generation refusing Jesus. These readings focus on the response to Him, with one stressing its wider application and the other its immediate setting."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/12.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twelve-review.md"
+  }
+}

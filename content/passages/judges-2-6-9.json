@@ -5,23 +5,53 @@
     "label": "Judges 2:6-9",
     "slug": "judges-2-6-9"
   },
-  "section_title": "Joshua\u2019s Death and Burial",
+  "section_title": "Why does the account return to Joshua’s generation?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "6 After Joshua had dismissed the people, the Israelites went out to take possession of the land, each to his own inheritance. 7 And the people served the LORD throughout the days of Joshua and of the elders who outlived him, who had seen all the great works that the LORD had done for Israel.",
-        "8 And Joshua son of Nun, the servant of the LORD, died at the age of 110. 9 They buried him in the land of his inheritance, at Timnath-heres in the hill country of Ephraim, north of Mount Gaash."
+        "6 After Joshua had dismissed the people, the Israelites went out to take possession of the land, each to his own inheritance. 7 And the people served the LORD throughout the days of Joshua and of the elders who outlived him, who had seen all the great works that the LORD had done for Israel. 8 And Joshua son of Nun, the servant of the LORD, died at the age of 110. 9 They buried him in the land of his inheritance, at Timnath-heres in the hill country of Ephraim, north of Mount Gaash."
       ]
     }
   ],
   "context_lines": [
-    "In **Judges 2**, this section should be read within the flow of the chapter and the larger movement of Judges."
+    "The narrative steps back to the time when Joshua dismissed the tribes to their inheritances. That generation served the LORD during Joshua’s lifetime and during the lives of the elders who outlived him. Their firsthand knowledge of God’s mighty works belongs to the explanation of their faithfulness.",
+    "",
+    "Joshua dies at 110 and is buried in his inheritance. The book does not treat his death as an unimportant date. It marks the passing of the servant who had led the people, while the next passage introduces a generation whose relationship with God is very different."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Joshua\u2019s Death and Burial** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Judges 2** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-judges/) reads these verses as a return to earlier events, explaining how the later departure from God began. The description honors the generation that served the LORD, so the book’s account of decline should not erase their faithfulness."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "Joshua’s faithful service belongs to the larger story of God bringing His people into rest. [Hebrews 4:1–11](https://biblehub.com/bsb/hebrews/4.htm) explains that the rest associated with Joshua’s entry into the land was not the final fulfillment: God continued to speak of entering His rest afterward.",
+    "",
+    "The hope therefore reaches beyond the lifetime of one leader or possession of a territory. Hebrews calls its readers to hear God today and respond in faith. Joshua’s death helps us feel the need for what the wider biblical story promises—a lasting life with God that human leadership by itself cannot secure."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/judges/2.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-judges-two-review.md"
+  }
 }

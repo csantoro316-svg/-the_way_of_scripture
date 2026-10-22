@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "14:21-24",
+    "label": "1 Kings 14:21-24",
+    "slug": "1-kings-14-21-24"
+  },
+  "section_title": "Does having the temple keep Judah faithful?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "21 Meanwhile, Rehoboam son of Solomon reigned in Judah. He was forty-one years old when he became king, and he reigned seventeen years in Jerusalem, the city the LORD had chosen from all the tribes of Israel in which to put His Name. His mother’s name was Naamah the Ammonite. 22 And Judah did evil in the sight of the LORD, and by the sins they committed they provoked Him to jealous anger more than all their fathers had done. 23 They also built for themselves high places, sacred pillars, and Asherah poles on every high hill and under every green tree. 24 There were even male shrine prostitutes in the land. They imitated all the abominations of the nations the LORD had driven out before the Israelites."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The account turns to Rehoboam in Judah. He begins to reign at forty-one and rules seventeen years in Jerusalem, the city chosen for the LORD’s Name. His mother is Naamah the Ammonite.",
+    "",
+    "Judah nevertheless does evil in God’s sight. High places, sacred pillars and Asherah poles spread through the land, and the account also names male shrine prostitutes. The people imitate the practices of the nations previously driven out.",
+    "",
+    "The chosen city and temple remain important, but their presence has not kept the people’s devotion faithful. The southern kingdom faces the same need to obey the LORD."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/14.htm) emphasizes the limits of outward religious advantages: the temple and its ceremonies cannot by themselves change the heart. He sees the need for God’s work within the people.",
+    "",
+    "[Gill](https://biblehub.com/commentaries/gill/1_kings/14.htm) likewise treats the chosen city as making Judah’s failure more serious. The account gives no basis for treating the north as capable of failure while the south is automatically protected from it."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/14.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-fourteen-review.md"
+  }
+}

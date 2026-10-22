@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "34:1-6",
+    "label": "Ezekiel 34:1-6",
+    "slug": "ezekiel-34-1-6"
+  },
+  "section_title": "Why does God accuse Israel’s shepherds of feeding themselves?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Then the word of the LORD came to me, saying, 2 “Son of man, prophesy against the shepherds of Israel. Prophesy and tell them that this is what the Lord GOD says: ‘Woe to the shepherds of Israel, who only feed themselves! Should not the shepherds feed their flock? 3 You eat the fat, wear the wool, and butcher the fattened sheep, but you do not feed the flock.",
+        "4 You have not strengthened the weak, healed the sick, bound up the injured, brought back the strays, or searched for the lost. Instead, you have ruled them with violence and cruelty. 5 They were scattered for lack of a shepherd, and when they were scattered they became food for all the wild beasts. 6 My flock went astray on all the mountains and every high hill. They were scattered over the face of all the earth, with no one to search for them or seek them out.’"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The Lord turns to Israel’s shepherds, the leaders entrusted with the people’s care. They consume the benefits of the flock—fat, wool and slaughtered sheep—while failing to feed it.",
+    "",
+    "The neglected duties make the accusation specific: strengthen the weak, heal the sick, bind the injured, bring back strays and search for the lost. Instead, the shepherds rule with violence and cruelty.",
+    "",
+    "The scattered flock becomes prey, wandering without anyone to seek it. The Lord repeatedly calls it His flock. Those entrusted with it have been using what belongs to Him for themselves."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/ezekiel/34.htm) identifies the shepherds broadly as Israel’s rulers, including civil and religious leaders. [Cambridge](https://biblehub.com/commentaries/cambridge/ezekiel/34.htm) likewise reads the term as rulers. It should not be narrowed automatically to one modern church office.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/ezekiel/34.htm) emphasizes that rank and office do not protect those who neglect their duty and abuse their trust. The picture measures leadership by the care given to people, especially those easily ignored or harmed."
+  ],
+  "god_plan_lines": [
+    "[First Peter 5:1–4](https://biblehub.com/bsb/1_peter/5.htm) addresses the elders’ care of God’s flock. Peter opposes greed and domination, calling for willing service and an example others can follow. He places that work under the coming Chief Shepherd.",
+    "",
+    "Peter does not explicitly quote Ezekiel 34. The shared concern takes a concrete form in the church: responsibility for the flock must become care rather than a means of personal gain. The people remain God’s, and those caring for them answer to Christ."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/34.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-thirty-three-four-review.md"
+  }
+}

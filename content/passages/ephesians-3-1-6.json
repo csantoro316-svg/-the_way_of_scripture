@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Ephesians",
+    "citation": "3:1-6",
+    "label": "Ephesians 3:1-6",
+    "slug": "ephesians-3-1-6"
+  },
+  "section_title": "What has God made known about the Gentiles’ place in Christ?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 For this reason I, Paul, the prisoner of Christ Jesus for the sake of you Gentiles... 2 Surely you have heard about the stewardship of God’s grace that was given to me for you, 3 that is, the mystery made known to me by revelation, as I have already written briefly.",
+        "4 In reading this, then, you will be able to understand my insight into the mystery of Christ, 5 which was not made known to men in other generations as it has now been revealed by the Spirit to God’s holy apostles and prophets. 6 This mystery is that through the gospel the Gentiles are fellow heirs, fellow members of the body, and fellow partakers of the promise in Christ Jesus."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul begins by describing himself as Christ Jesus’ prisoner for the sake of the Gentiles. His thought pauses while he explains the responsibility God gave him; the prayer he begins to introduce resumes in verse 14.",
+    "",
+    "He describes that responsibility as a stewardship of grace given for their benefit. God made the mystery known to him by revelation, and he has already written briefly about it. He expects his readers to be able to understand his insight as they read.",
+    "",
+    "The purpose once hidden has now been revealed by the Spirit to God’s holy apostles and prophets. Paul places his own service within that shared revelation.",
+    "",
+    "Verse 6 states the content clearly: through the gospel, Gentiles are fellow heirs, members of the same body and sharers in the promise in Christ Jesus. The explanation continues the shared household and dwelling described at the end of chapter 2."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the mystery here as God’s revealed purpose of shared belonging for Jews and Gentiles through Christ. They differ over how this new disclosure relates to what was already known.",
+    "",
+    "In the Wesleyan reading, [Wesley’s note on verse 5](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-ephesians/) understands the purpose as not previously known with the same clarity or fullness. The earlier prophets pointed toward what is now more fully revealed.",
+    "",
+    "A dispensational reading, which distinguishes Israel and the church, appears in a [faculty publication from Shepherds Theological Seminary](https://shepherds.edu/dispensationalism-a-step-up-for-the-israel-of-god/). It understands the shared body of Jewish and Gentile believers as a new part of God’s purpose that had not been revealed as the church in the Old Testament. This is the account defended in that publication."
+  ],
+  "god_plan_lines": [
+    "In [Acts 15:13–18](https://biblehub.com/bsb/acts/15.htm), James responds to the report of God taking a people from among the Gentiles. He quotes the prophet Amos about the restoration of David’s fallen tent and Gentiles called by God’s name, saying the prophetic words agree with what has happened.",
+    "",
+    "That explicit New Testament use of the prophets places Gentile welcome within God’s larger purpose. The shared belonging Paul explains is part of the gathering God has made known through His word and His work in Christ."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/ephesians/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-ephesians-three-review.md"
+  }
+}

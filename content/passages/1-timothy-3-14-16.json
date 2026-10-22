@@ -1,0 +1,67 @@
+{
+  "reference": {
+    "book": "1 Timothy",
+    "citation": "3:14-16",
+    "label": "1 Timothy 3:14-16",
+    "slug": "1-timothy-3-14-16"
+  },
+  "section_title": "What holds the household of God together?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 Although I hope to come to you soon, I am writing you these things 15 in case I am delayed, so that you will know how each one must conduct himself in God’s household, which is the church of the living God, the pillar and foundation of the truth.",
+        "16 By common confession, the mystery of godliness is great: He appeared in the flesh, was vindicated by the Spirit, was seen by angels, was proclaimed among the nations, was believed in throughout the world, was taken up in glory."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul explains why he is writing: he hopes to come soon, but Timothy needs these instructions if his visit is delayed. They concern conduct in God’s household, the church of the living God.",
+    "",
+    "Calling the church the pillar and foundation of the truth describes a serious responsibility. The instructions about leaders, service and conduct belong to a community entrusted with the truth.",
+    "",
+    "Paul then centers the confession on Christ: His appearing in flesh, vindication by the Spirit, being seen by angels, proclamation among the nations, belief throughout the world and being taken up in glory. The church’s life is bound to the Lord it confesses.",
+    "",
+    "The [BSB footnote](https://biblehub.com/bsb/1_timothy/3.htm) records God appeared as a textual alternative to its main He appeared. The main passage clearly describes Christ’s appearing and glory. Identifying the variant does not require replacing the verified quotation."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read the closing confession as a summary of Christ’s person and work. They differ in how they describe the church’s authority in guarding the truth.",
+    "",
+    "The Catholic [Catechism, paragraphs 2032–2035](https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_three/article_3/i_moral_life_and_the_magisterium_of_the_church.html), uses this pillar language in explaining the church’s teaching responsibility. It affirms the pope and bishops’ teaching authority and God’s protection from error in the church’s definitive teaching of faith and morals.",
+    "",
+    "The Reformed [Westminster Confession, 25.3 and 31.2–3](https://www.opc.org/wcf.html), likewise gives the church a real teaching responsibility, but says that councils can err and their decisions must agree with God’s word. The difference concerns the authority of the church’s teaching, alongside the shared responsibility to proclaim and preserve the truth about Christ."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 1:9–10](https://biblehub.com/bsb/ephesians/1.htm) describes God’s purpose of bringing all things in heaven and on earth together in Christ. The confession here places His earthly appearing, worldwide proclamation and heavenly glory within one connected account.",
+    "",
+    "[Philippians 2:6–11](https://biblehub.com/bsb/philippians/2.htm) likewise joins Christ’s coming in human likeness and obedient death with His exaltation and the confession of His lordship to the Father’s glory. The church carries a message centered on the One through whom God accomplishes His purpose."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_timothy/3.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-timothy-four-review.md"
+  }
+}

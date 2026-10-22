@@ -5,18 +5,58 @@
     "label": "Matthew 7:7-11",
     "slug": "matthew-7-7-11"
   },
+  "section_title": "Ask the Father for What Is Good",
   "versions": [
     {
-      "label": "LSB",
-      "text": "'Ask, and it shall be given to you; seek, and you shall find; knock, and it shall be opened to you. For everyone who asks receives, and he who seeks finds, and to him who knocks it shall be opened. Or what man is there among you who, when his son asks for a loaf, will give him a stone? Or if he asks for a fish, he will not give him a snake, will he? If you then, being evil, know how to give good gifts to your children, how much more will your Father who is in heaven give what is good to those who ask Him!'"
+      "label": "BSB",
+      "paragraphs": [
+        "7 Ask, and it will be given to you; seek, and you will find; knock, and the door will be opened to you. 8 For everyone who asks receives; he who seeks finds; and to him who knocks, the door will be opened.",
+        "9 Which of you, if his son asks for bread, will give him a stone? 10 Or if he asks for a fish, will give him a snake? 11 So if you who are evil know how to give good gifts to your children, how much more will your Father in heaven give good things to those who ask Him!"
+      ]
     }
   ],
   "context_lines": [
-    "In **Matthew 7**, Jesus continues the Sermon on the Mount by calling His hearers to discernment, persistence, obedience, and a life built on His words. Promises about asking are framed by the Father's goodness and by the wider demands of kingdom life."
-  ],
-  "explanation_lines": [
-    "Verses 7-8 are the part people usually remember \u2014 ask and it will be given. But verse 11 defines the terms of the promise: the Father gives what is *good*, not necessarily what was specifically requested. \"Good\" is determined by the Father's judgment, not the asker's preference. A child may ask for something harmful, dressed up as a need. The Father's goodness is precisely what filters the request.",
+    "After teaching about judgment and discernment, Jesus encourages His hearers to ask, seek, and knock. Each action is followed by assurance of a response. The picture is of approaching the Father with confidence, and the comparison that follows explains the character of the One being approached.",
     "",
-    "Luke's version is even more pointed. Where Matthew has \"good things,\" Luke specifies the gift as the Holy Spirit. This tells us what Jesus considered the ultimate good gift to be \u2014 not material provision or circumstantial change, but the Spirit Himself. The two accounts together suggest that the asking and giving Jesus describes here is ultimately about spiritual gifts, not a blank check for personal requests."
-  ]
+    "A child asks for bread or fish. Jesus asks whether the parent would substitute a stone or snake. Even people who share human sinfulness know the difference between feeding a child and giving something harmful. The Father in heaven is more trustworthy still.",
+    "",
+    "The assurance reaches its conclusion in verse 11: the Father gives good things. The promise is understood in relation to His goodness, alongside the earlier prayer for His will in [Matthew 6:9–13](https://biblehub.com/bsb/matthew/6.htm). The person asking approaches a Father, not a device for making every preference come true.",
+    "",
+    "The related teaching in [Luke 11:5–13](https://biblehub.com/bsb/luke/11.htm) places asking, seeking, and knocking after a story about persistence, then names the Holy Spirit as the Father's gift. Matthew's following verse calls for treating others as one wishes to be treated. Trust in the Father and good conduct toward others both belong within the Sermon's call to a life directed toward God."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read these verses as encouragement to keep praying with confidence in the Father's goodness. [Wesley on Matthew 7:7–11](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/), the Reformed [Westminster Larger Catechism, questions 184–185](https://www.opc.org/lc.html), and the Catholic [Compendium, question 575](https://press.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_en.html), all direct asking toward God's will and the good He gives, rather than treating Him as a means of obtaining whatever the person wants."
+  ],
+  "god_plan_lines": [
+    "The Father's generosity includes His own Spirit. In the closely related saying in [Luke 11:9–13](https://biblehub.com/bsb/luke/11.htm), the Father gives the Holy Spirit to those who ask. That parallel helps place the promise within God's work of bringing people near and helping them live in His ways.",
+    "",
+    "[Ephesians 1:13–14](https://biblehub.com/bsb/ephesians/1.htm) describes the promised Spirit as the pledge of believers' inheritance. The word is ἀρραβών, *arrabōn* (ar-rah-BOHN). [Thayer's Greek Lexicon](https://biblehub.com/greek/728.htm) explains the picture as a deposit assuring the payment to come, and applies it to the Spirit as a foretaste of future blessing. God's gift gives present help and assurance of the future He promises."
+  ],
+  "current_position_lines": [
+    "Our study Prayer and Faith reads this promise alongside Luke 11:13, understanding the Father's highest good gift as His Spirit and the life He forms within His people. It therefore directs asking toward God's will and spiritual growth, rather than treating the passage as a guarantee of every desired outcome.",
+    "",
+    "Our companion study What Does Prayer Look Like? shares that emphasis on surrender and trust. Both studies recognize that asking is not itself sinful; the question is what governs the asking and where the person's confidence rests."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/7.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "position_source_detail": "Prayer and Faith — Does God Want You to Ask? and Matthew 7:7–11; What Does Prayer Look Like? — final discussion of asking, surrender, and Spirit",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-fathers-good-gifts-review.md"
+  }
 }

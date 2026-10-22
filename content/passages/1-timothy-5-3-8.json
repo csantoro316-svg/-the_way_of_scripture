@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "1 Timothy",
+    "citation": "5:3-8",
+    "label": "1 Timothy 5:3-8",
+    "slug": "1-timothy-5-3-8"
+  },
+  "section_title": "Who should care for widows who need help?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "3 Honor the widows who are truly widows. 4 But if a widow has children or grandchildren, they must first learn to show godliness to their own family and repay their parents, for this is pleasing in the sight of God. 5 The widow who is truly in need and left all alone puts her hope in God and continues night and day in her petitions and prayers.",
+        "6 But she who lives for pleasure is dead even while she is still alive. 7 Give these instructions to the believers, so that they will be above reproach. 8 If anyone does not provide for his own, and especially his own household, he has denied the faith and is worse than an unbeliever."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul begins his instructions about widows with honor for those truly in need. Where children or grandchildren are present, they are to learn godliness toward their own family and repay the care their parents gave them.",
+    "",
+    "The word for showing godliness is eusebeo (yoo-seh-BEH-oh). [Thayer’s lexicon](https://biblehub.com/greek/2151.htm) includes acting piously or reverently, with this verse applying it to one’s household. Faithfulness to God takes a practical form in care for family.",
+    "",
+    "The widow left alone is described as hoping in God and continuing in prayer. Paul contrasts that life with living for pleasure, then instructs the community so it may be above reproach.",
+    "",
+    "Verse 8 gives the family duty strong emphasis: neglect of one’s own household contradicts the faith professed. The paragraph brings family responsibility and the church’s care for those left without help into the same discussion."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as assigning family members a real responsibility to care for dependent relatives, while the community supports those left alone. [Wesley’s notes on verses 3–8](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-timothy/) emphasize provision and repayment of parents’ earlier care. The [USCCB notes](https://bible.usccb.org/bible/1timothy/5) likewise distinguish the family’s responsibility from the community’s care for a widow without that support. The warning concerns a failure of care, not the claim that religious activity can substitute for it."
+  ],
+  "god_plan_lines": [
+    "In [Mark 7:9–13](https://biblehub.com/bsb/mark/7.htm), Jesus challenges a use of religious dedication that leaves parents without the help they should receive. Honoring God includes honoring the family responsibilities He has given.",
+    "",
+    "[James 1:26–27](https://biblehub.com/bsb/james/1.htm) likewise connects devotion before God with care for widows and orphans in distress. The wider biblical purpose is a people whose faith shows His care through what they do for others."
+  ],
+  "current_position_lines": [
+    "In [Worship as the Early Church Knew It](https://thewayofscripture.com/studies/worship.html), we understand this as godly devotion expressed through everyday relationships: caring for aging parents and grandparents. Devotion to God includes the practical care we give at home. This passage gives that care a clear place in a faithful life."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_timothy/5.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-first-timothy-five-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It, 1 Timothy 5:4 — Godly Devotion Begins at Home, lines 193–199: eusebeo as lived-out godliness caring for aging parents, without rewriting the BSB quotation."
+  }
+}

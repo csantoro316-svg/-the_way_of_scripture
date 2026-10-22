@@ -5,26 +5,53 @@
     "label": "Exodus 4:1-5",
     "slug": "exodus-4-1-5"
   },
-  "section_title": "Moses\u2019 Staff",
+  "section_title": "How would the people know that God had sent Moses?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 Then Moses answered, \u201cWhat if they do not believe me or listen to my voice? For they may say, \u2018The LORD has not appeared to you.\u2019 \u201d",
-        "2 And the LORD asked him, \u201cWhat is that in your hand?\u201d",
-        "\u201cA staff,\u201d he replied.",
-        "3 \u201cThrow it on the ground,\u201d said the LORD. So Moses threw it on the ground, and it became a snake, and he ran from it.",
-        "4 \u201cStretch out your hand and grab it by the tail,\u201d the LORD said to Moses, who reached out his hand and caught the snake, and it turned back into a staff in his hand. 5 \u201cThis is so that they may believe that the LORD, the God of their fathers\u2014the God of Abraham, the God of Isaac, and the God of Jacob\u2014has appeared to you.\u201d"
+        "1 Then Moses answered, “What if they do not believe me or listen to my voice? For they may say, ‘The LORD has not appeared to you.’” 2 And the LORD asked him, “What is that in your hand?” “A staff,” he replied. 3 “Throw it on the ground,” said the LORD. So Moses threw it on the ground, and it became a snake, and he ran from it. 4 “Stretch out your hand and grab it by the tail,” the LORD said to Moses, who reached out his hand and caught the snake, and it turned back into a staff in his hand. 5 “This is so that they may believe that the LORD, the God of their fathers—the God of Abraham, the God of Isaac, and the God of Jacob—has appeared to you.”"
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 4**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "God has told Moses to return to Egypt, gather the elders and announce the coming deliverance. Moses now asks what will happen if they refuse to believe that the LORD has appeared to him. His concern is how they will recognize the message as coming from God.",
+    "",
+    "God begins with the staff already in Moses’ hand. At His command it becomes a snake, and Moses runs from it. At a second command Moses takes hold of its tail, and it becomes a staff again. The sign is given so the people may believe that the God of Abraham, Isaac and Jacob has appeared to him. The promise to their ancestors remains at the center of his mission."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Moses\u2019 Staff** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 4** remains the first control on meaning."
+    "The shared reading sees the sign as God confirming Moses’ calling and giving the people a reason to trust his message. [Calvin](https://biblehub.com/commentaries/calvin/exodus/4.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) both connect the miracle with the authority of the messenger God is sending."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "God confirming a messenger through signs becomes a theme across Scripture. [Acts 2:22](https://biblehub.com/bsb/acts/2.htm) describes Jesus’ miracles as works God performed through Him, and [Hebrews 2:3–4](https://biblehub.com/bsb/hebrews/2.htm) speaks of God confirming the announcement of salvation through signs and wonders.",
+    "",
+    "[John 20:30–31](https://biblehub.com/bsb/john/20.htm) gives the purpose of the signs recorded in that Gospel: that readers may believe Jesus is the Christ, the Son of God, and have life in His name. This is a shared purpose of signs within God’s work: they point people toward the message and the One who sends it."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/4.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-four-review.md"
+  }
 }

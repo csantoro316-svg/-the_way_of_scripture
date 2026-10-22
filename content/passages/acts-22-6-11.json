@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "22:6-11",
+    "label": "Acts 22:6-11",
+    "slug": "acts-22-6-11"
+  },
+  "section_title": "How does meeting Jesus change the direction of Paul’s journey?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 About noon as I was approaching Damascus, suddenly a bright light from heaven flashed around me. 7 I fell to the ground and heard a voice say to me, ‘Saul, Saul, why do you persecute Me?’ 8 ‘Who are You, Lord?’ I asked. ‘I am Jesus of Nazareth, whom you are persecuting,’ He replied. 9 My companions saw the light, but they could not understand the voice of the One speaking to me.",
+        "10 Then I asked, ‘What should I do, Lord?’ ‘Get up and go into Damascus,’ He told me. ‘There you will be told all that you have been appointed to do.’ 11 Because the brilliance of the light had blinded me, my companions led me by the hand into Damascus."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul recalls traveling toward Damascus around noon when a bright light from heaven flashes around him. He falls and hears Jesus of Nazareth ask why he is persecuting Him. The people Paul has been attacking belong to Jesus; his actions against them have been directed against their Lord.",
+    "",
+    "His companions see the light but do not understand the voice. This explains an important distinction when reading the account alongside [Acts 9:7](https://biblehub.com/bsb/acts/9.htm), where they hear the sound. They witness something happening without receiving the message in the way Paul does.",
+    "",
+    "Paul asks what he should do, and Jesus tells him to enter Damascus, where he will learn what has been appointed for him. Blinded by the light, he has to be led by the hand. He approaches the city in dependence on others, rather than arriving simply to exercise his former power against believers."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as the risen Jesus confronting and redirecting Paul. [Calvin’s comment on verse 9](https://biblehub.com/commentaries/calvin/acts/22.htm) and [Wesley’s note on verse 9](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) distinguish hearing a sound from understanding the message when comparing the accounts. Neither account makes the companions witnesses to every word and experience in precisely the same way as Paul."
+  ],
+  "god_plan_lines": [
+    "[Galatians 1:13–16](https://biblehub.com/bsb/galatians/1.htm) connects Paul’s former persecution with God’s gracious calling and the revelation of His Son for the purpose of preaching among the Gentiles. The encounter is therefore more than an individual change of mind. It redirects a life toward the wider mission that Paul will describe to this crowd."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/22.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twenty-two-review.md"
+  }
+}

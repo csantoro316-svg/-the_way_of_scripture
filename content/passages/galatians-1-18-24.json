@@ -1,0 +1,52 @@
+{
+  "reference": {
+    "book": "Galatians",
+    "citation": "1:18-24",
+    "label": "Galatians 1:18-24",
+    "slug": "galatians-1-18-24"
+  },
+  "section_title": "What happened when Paul finally visited Jerusalem?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "18 Only after three years did I go up to Jerusalem to confer with Cephas, and I stayed with him fifteen days. 19 But I saw none of the other apostles except James, the Lord’s brother. 20 I assure you before God that what I am writing to you is no lie.",
+        "21 Later I went to the regions of Syria and Cilicia. 22 I was personally unknown, however, to the churches of Judea that are in Christ. 23 They only heard the account: “The man who formerly persecuted us is now preaching the faith he once tried to destroy.” 24 And they glorified God because of me."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul continues his account of the time after his calling. After three years he went to Jerusalem to confer with Cephas, whom the BSB footnote identifies as Peter, and stayed fifteen days. He also saw James, whom he calls the Lord’s brother.",
+    "",
+    "He solemnly assures his readers before God that he is telling the truth. The details matter to his explanation of his limited early contact with the apostles in Jerusalem.",
+    "",
+    "He later went to Syria and Cilicia. The churches in Judea did not know him personally. They heard the report that the man who had persecuted them was now preaching the faith he once tried to destroy.",
+    "",
+    "Their response was to glorify God because of him. Paul’s account ends with the change in his life becoming a reason for other believers to praise God."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as an account of Paul’s early contacts with the Jerusalem leaders and the change others recognized in him. [Wesley’s notes on verses 18–24](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-galatians/) and the [USCCB note on verses 18–24](https://bible.usccb.org/bible/galatians/1) both connect the reported events with Paul’s account of his ministry."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/galatians/1.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-galatians-one-review.md"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "James",
+    "citation": "1:1-4",
+    "label": "James 1:1-4",
+    "slug": "james-1-1-4"
+  },
+  "section_title": "How can trials become a reason for hope?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 James, a servant of God and of the Lord Jesus Christ, To the twelve tribes of the Dispersion: Greetings.",
+        "2 Consider it pure joy, my brothers, when you encounter trials of many kinds, 3 because you know that the testing of your faith develops perseverance. 4 Allow perseverance to finish its work, so that you may be mature and complete, not lacking anything."
+      ]
+    }
+  ],
+  "context_lines": [
+    "James introduces himself as a servant of God and of the Lord Jesus Christ. He addresses the twelve tribes of the Dispersion, using the language of Israel living scattered abroad. The letter speaks to people who confess faith in Christ and asks what that faith looks like in everyday life.",
+    "",
+    "The writer is traditionally identified with James, the Jerusalem leader called the Lord’s brother in Galatians 1:19. The letter itself does not settle the questions about its authorship and date. The [USCCB introduction](https://bible.usccb.org/bible/james/0) describes both the traditional identification and other proposals.",
+    "",
+    "The first instruction concerns trials of many kinds. James gives a reason for joy: tested faith can develop perseverance, and perseverance is to keep working toward a mature, complete life. The word translated mature has the sense of [completion and full growth](https://biblehub.com/greek/5046.htm). The emphasis is on becoming steady in faith, rather than escaping every difficulty."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as encouragement to remain faithful through hardship, trusting God to bring growth from it. [Calvin](https://biblehub.com/commentaries/calvin/james/1.htm) explicitly allows grief alongside joy, while [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-general-epistle-of-st-james/) emphasizes giving perseverance room to complete its work."
+  ],
+  "god_plan_lines": [
+    "[1 Peter 1:3–9](https://biblehub.com/bsb/1_peter/1.htm) sets tested faith within the hope opened by Jesus’ resurrection: an unfading inheritance and salvation to be revealed. Peter speaks of grief and rejoicing together. The larger hope gives endurance a destination; it does not require pretending that suffering feels pleasant."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/james/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-james-one-review.md"
+  }
+}

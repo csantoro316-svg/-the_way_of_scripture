@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "1 Timothy",
+    "citation": "5:1-2",
+    "label": "1 Timothy 5:1-2",
+    "slug": "1-timothy-5-1-2"
+  },
+  "section_title": "What does correction look like within God’s family?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Do not rebuke an older man, but appeal to him as to a father. Treat younger men as brothers, 2 older women as mothers, and younger women as sisters, with absolute purity."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul has urged Timothy to watch his life and teaching. He now turns to the way Timothy should address different people in the community.",
+    "",
+    "An older man is to be approached as a father, younger men as brothers, older women as mothers and younger women as sisters, with purity. The family language gives Timothy a pattern of respect and care.",
+    "",
+    "The reference to older men here is part of a contrast between age groups. Later in the chapter Paul specifically discusses the elders who lead and teach. The call to respectful appeal does not remove the need for the correction and accountability he goes on to describe."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read these verses as instruction in respectful, family-like treatment of believers. [Wesley’s note on verse 1](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-timothy/) relates the tone of correction to Timothy’s youth. The [USCCB notes](https://bible.usccb.org/bible/1timothy/5) likewise place the advice within the community’s life and care. The instruction changes how Timothy addresses people, rather than telling him to ignore conduct that needs attention."
+  ],
+  "god_plan_lines": [
+    "In [Mark 3:31–35](https://biblehub.com/bsb/mark/3.htm), Jesus describes those who do God’s will as His brother, sister and mother. This supplies a close parallel to the family relationships Paul names within the believing community.",
+    "",
+    "[Ephesians 2:19–22](https://biblehub.com/bsb/ephesians/2.htm) describes those brought near through Christ as God’s household and a dwelling for His Spirit. Respectful care belongs within the life of that new family."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_timothy/5.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-timothy-five-review.md"
+  }
+}

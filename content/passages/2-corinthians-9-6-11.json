@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "2 Corinthians",
+    "citation": "9:6-11",
+    "label": "2 Corinthians 9:6-11",
+    "slug": "2-corinthians-9-6-11"
+  },
+  "section_title": "What kind of harvest does generous giving produce?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 Remember this: Whoever sows sparingly will also reap sparingly, and whoever sows generously will also reap generously. 7 Each one should give what he has decided in his heart to give, not out of regret or compulsion. For God loves a cheerful giver. 8 And God is able to make all grace abound to you, so that in all things, at all times, having all that you need, you will abound in every good work.",
+        "9 As it is written: “He has scattered abroad His gifts to the poor; His righteousness endures forever.” 10 Now He who supplies seed to the sower and bread for food will supply and multiply your store of seed and will increase the harvest of your righteousness. 11 You will be enriched in every way to be generous on every occasion, and through us your generosity will produce thanksgiving to God."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul uses sowing and harvesting to explain generosity. A person who sows sparingly reaps sparingly; a person who sows generously reaps generously. He immediately joins that picture to the giver’s own decision: each person should give what they have decided in their heart, freely and cheerfully.",
+    "",
+    "The Greek word translated cheerful is ἱλαρός, hilaros (hi-lah-ROS). [Thayer’s lexicon](https://biblehub.com/greek/2431.htm) describes someone joyful and ready to act. Here it points to willing gladness in giving. Paul has already encouraged preparing the gift, so cheerfulness can accompany a thoughtful decision.",
+    "",
+    "His confidence rests in God’s ability to supply what His people need so they can abound in good work. Paul quotes [Psalm 112:9](https://biblehub.com/bsb/psalms/112.htm), where generosity to the poor belongs to a life that fears and trusts the Lord.",
+    "",
+    "God supplies both seed for sowing and bread for food. Paul expects His provision to increase the harvest of righteousness and enable further generosity. The passage names the purpose of being enriched: having more to share, with thanksgiving to God flowing from the help received.",
+    "",
+    "The picture includes real provision and real needs. Its direction is outward, toward the good that generosity makes possible. Paul describes that harvest in terms of righteous living, continued giving and gratitude to God."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand God’s provision here as enabling generous service. [Wesley’s notes on verses 6–11](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-the-corinthians/) emphasize opportunities to help and the good effects of love for God and others. The [USCCB note on verses 8–10](https://bible.usccb.org/bible/2corinthians/9) similarly connects God’s generosity with meeting needs and growth in righteousness."
+  ],
+  "god_plan_lines": [
+    "The seed and bread language recalls [Isaiah 55:10–11](https://biblehub.com/bsb/isaiah/55.htm). There, God describes rain bringing growth and food as a picture of His word accomplishing His purpose. The shared language forms a biblical parallel: God is the One who supplies life and fruitfulness.",
+    "",
+    "The connection places the collection within a larger pattern: God gives, and His gifts bear fruit through His people. The harvest described here includes righteous action and thanksgiving, as the resources He provides become help for others."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_corinthians/9.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-corinthians-nine-review.md"
+  }
+}

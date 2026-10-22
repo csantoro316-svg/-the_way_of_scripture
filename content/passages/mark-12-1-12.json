@@ -1,0 +1,69 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "12:1-12",
+    "label": "Mark 12:1-12",
+    "slug": "mark-12-1-12"
+  },
+  "section_title": "The Rejected Son and the Cornerstone",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Then Jesus began to speak to them in parables: “A man planted a vineyard. He put a wall around it, dug a wine vat, and built a watchtower. Then he rented it out to some tenants and went away on a journey. 2 At harvest time, he sent a servant to the tenants to collect his share of the fruit of the vineyard. 3 But they seized the servant, beat him, and sent him away empty-handed. 4 Then he sent them another servant, and they struck him over the head and treated him shamefully. 5 He sent still another, and this one they killed. He sent many others; some they beat and others they killed.",
+        "6 Finally, having one beloved son, he sent him to them. ‘They will respect my son,’ he said. 7 But the tenants said to one another, ‘This is the heir. Come, let us kill him, and the inheritance will be ours.’ 8 So they seized the son, killed him, and threw him out of the vineyard. 9 What then will the owner of the vineyard do? He will come and kill those tenants and give the vineyard to others.",
+        "10 Have you never read this Scripture: ‘The stone the builders rejected has become the cornerstone. 11 This is from the Lord, and it is marvelous in our eyes’?” 12 At this, the leaders sought to arrest Jesus, for they knew that He had spoken this parable against them. But fearing the crowd, they left Him and went away."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After the leaders challenge His authority, Jesus tells a story about a vineyard owner and the people entrusted with its care. The owner prepares the vineyard, rents it out, and sends servants to collect his share at harvest. The tenants beat, humiliate, or kill the messengers instead of giving what is due.",
+    "",
+    "The vineyard's wall, wine vat, and tower recall [Isaiah 5:1–7](https://biblehub.com/bsb/isaiah/5.htm). There God identifies the vineyard as Israel and looks for justice and righteousness, but finds bloodshed and distress. Jesus' story places particular attention on the tenants' refusal to honor the owner.",
+    "",
+    "Finally the owner sends his beloved son. The tenants recognize him as the heir, kill him, and throw him out of the vineyard. Jesus asks what the owner will do and answers with judgment on those tenants and the vineyard being given to others. The son stands apart from the earlier messengers: he is the beloved heir.",
+    "",
+    "Jesus then quotes [Psalm 118:22–23](https://biblehub.com/bsb/psalms/118.htm), moving from the murdered son to the rejected stone that God makes the cornerstone. The rejection does not give the builders the last word. God's action gives the rejected one the central place.",
+    "",
+    "The leaders understand that the parable is directed against them. They want to arrest Jesus but fear the crowd. Mark gives their recognition explicitly, so the warning should not be turned into an accusation against every Jewish person. The people opposing Jesus, His disciples, and the prophets whose words He uses all belong within Israel's story."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand the owner as God, the servants as His messengers, and the beloved son as Jesus. The [USCCB notes on Mark 12:1–12](https://bible.usccb.org/bible/mark/12) identify the tenants with Israel's religious leaders and the new recipients with the people of the new Israel; [Calvin's discussion](https://biblehub.com/commentaries/calvin/mark/12.htm) likewise emphasizes leaders' responsibility as stewards rather than owners and the judgment their rejection brings."
+  ],
+  "god_plan_lines": [
+    "The prophets' concern for faithful leadership forms part of this larger picture. [Ezekiel 34:1–6](https://biblehub.com/bsb/ezekiel/34.htm) condemns shepherds who feed themselves while neglecting the weak, injured, and scattered flock. The vineyard parable similarly exposes the misuse of a responsibility received from God, reaching its climax in the rejection of His Son.",
+    "",
+    "The New Testament explicitly applies the cornerstone passage to Jesus' resurrection and saving work. In [Acts 4:8–12](https://biblehub.com/bsb/acts/4.htm), Peter identifies the rejected stone as the Jesus whom God raised and proclaims salvation in His name. The opposition pictured here becomes part of the story through which God brings rescue, rather than defeating His purpose.",
+    "",
+    "[1 Peter 2:4–10](https://biblehub.com/bsb/1_peter/2.htm) carries the picture into the community gathered around Him. Christ is the living stone; those who come to Him are built into a spiritual house and become a people who proclaim God's goodness. The larger outcome is a people shaped around the Son others rejected, called to bear witness to the mercy they have received."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/12.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-twelve-opening-review.md"
+  }
+}

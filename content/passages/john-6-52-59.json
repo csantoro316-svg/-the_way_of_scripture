@@ -1,0 +1,70 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "6:52-59",
+    "label": "John 6:52-59",
+    "slug": "john-6-52-59"
+  },
+  "section_title": "What does it mean to receive life through Jesus’ flesh and blood?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "52 At this, the Jews began to argue among themselves, “How can this man give us His flesh to eat?” 53 So Jesus said to them, “Truly, truly, I tell you, unless you eat the flesh and drink the blood of the Son of Man, you have no life in you. 54 Whoever eats My flesh and drinks My blood has eternal life, and I will raise him up at the last day. 55 For My flesh is real food, and My blood is real drink.",
+        "56 Whoever eats My flesh and drinks My blood remains in Me, and I in him. 57 Just as the living Father sent Me and I live because of the Father, so also the one who feeds on Me will live because of Me. 58 This is the bread that came down from heaven. Unlike your fathers, who ate the manna and died, the one who eats this bread will live forever.” 59 Jesus said this while teaching in the synagogue in Capernaum."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus’ statement that His flesh gives life leads to a dispute among His hearers about how He can give them His flesh to eat. He continues by speaking of eating His flesh and drinking His blood as necessary for life.",
+    "",
+    "He connects that receiving with eternal life, resurrection and remaining in Him while He remains in the person who receives Him. As the Son lives because of the living Father, the one who feeds on Him lives because of Him.",
+    "",
+    "The contrast with manna remains central: the ancestors ate it and died, while the one receiving this bread will live forever. The Gospel locates this teaching in the synagogue at Capernaum."
+  ],
+  "common_interpretation_lines": [
+    "Christian readers understand these words as a call to receive life from Christ through His self-giving. Where traditions differ is how the language of eating and drinking relates to Communion, also called the Lord’s Supper or Eucharist.",
+    "",
+    "The Catholic Church reads the discourse as an announcement of the Eucharist and teaches that the bread and wine become Christ’s body and blood, with the whole Christ truly present. ([Catechism §1336](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_3/iii_the_eucharist_in_the_economy_of_salvation.html); [Catechism §§1374–1376](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_3/v_the_sacramental_sacrifice_thanksgiving_memorial_presence.html))",
+    "",
+    "The Lutheran Formula of Concord explains John 6 as receiving Christ through faith, which happens through hearing the gospel and also in Communion. Lutheran teaching separately affirms that Christ’s true body and blood are received in and under the bread and wine. ([Formula of Concord VII.61–65](https://bookofconcord.org/solid-declaration/the-holy-supper/); [Large Catechism, Altar §§8–14](https://bookofconcord.cph.org/en/large-catechism/part_5/))",
+    "",
+    "Calvin reads John 6 as receiving Christ continually through faith, rather than as referring directly to the Communion rite. The Westminster and Baptist confessions nevertheless teach that believers truly receive spiritual nourishment from Christ in the meal; their account is more than simply recalling a distant event. ([Calvin on John 6:53](https://biblehub.com/commentaries/calvin/john/6.htm); [Westminster Confession 29.5–7](https://www.opc.org/wcf.html); [Baptist Confession 30.1, 7](https://www.the1689confession.com/1689/chapter-30))",
+    "",
+    "Wesley connects the words directly with Christ’s suffering and receiving Him through faith, and only remotely, if at all, with the Lord’s Supper. This is his interpretation of the passage, rather than a denial that Christians should share the meal. ([Wesley on John 6:51–53](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/))"
+  ],
+  "god_plan_lines": [
+    "Hebrews describes Christ entering God’s presence by His own blood, securing redemption and cleansing the conscience so that people may serve the living God. His flesh and blood given for life belong alongside that wider account of His self-offering. ([Hebrews 9:11–14](https://biblehub.com/bsb/hebrews/9.htm))",
+    "",
+    "Paul connects the shared cup and bread with participation in Christ and with many believers becoming one body. He also says that the meal proclaims the Lord’s death until He comes. The gift of life through Christ therefore reaches into a people joined to Him and to one another, remembering His death while awaiting His return. ([1 Corinthians 10:16–17](https://biblehub.com/bsb/1_corinthians/10.htm); [1 Corinthians 11:23–26](https://biblehub.com/bsb/1_corinthians/11.htm))"
+  ],
+  "current_position_lines": [
+    "Our study Prayer and Faith reads Jesus as the living bread to whom the manna pointed. The manna sustained life for a time; Christ Himself gives lasting life. The study connects receiving that life with faith and continued dependence on Him."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/6.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-john-six-closing-review.md",
+    "position_source_detail": "Prayer and Faith: Section4 The Missing Link — Christ as the Living Bread; direct developed John6:32–58/48–51/58 discussion. Narrow Christ-as-life/bread/faith/dependence conclusion, not a new ruling on drawing, perseverance or Eucharistic presence."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "20:45-47",
+    "label": "Luke 20:45-47",
+    "slug": "luke-20-45-47"
+  },
+  "section_title": "What should make us cautious about a religious leader?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "45 In the hearing of all the people, Jesus said to His disciples, 46 “Beware of the scribes. They like to walk around in long robes, and they love the greetings in the marketplaces, the chief seats in the synagogues, and the places of honor at banquets. 47 They defraud widows of their houses, and for a show make lengthy prayers. These men will receive greater condemnation.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "With everyone listening, Jesus turns to His disciples and warns them about scribes who seek public honor. He lists impressive clothing, prominent greetings and preferred places in synagogues and at banquets.",
+    "",
+    "The warning then moves from the honor they seek to the harm they do: widows lose their homes through their wrongdoing, while lengthy prayers become a public show. Religious standing and visible devotion are being used alongside exploitation.",
+    "",
+    "Jesus says these men will receive greater condemnation. The warning concerns how people entrusted with religious influence behave toward God and toward those vulnerable to their power."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly recognize a warning against pride, exploitation and using religion to impress others. Jesus’ description tests outward standing against actual conduct, especially the treatment of widows; the warning follows the chapter’s confrontations with leaders who have resisted His teaching. ([Luke 20:45–47](https://biblehub.com/bsb/luke/20.htm); [USCCB notes on Luke 20](https://bible.usccb.org/bible/luke/20))"
+  ],
+  "god_plan_lines": [
+    "James describes care for widows and orphans in distress as part of pure religion before God. That gives the wider positive picture behind this warning: devotion to Him should be visible in care for the people being harmed here. ([James 1:26–27](https://biblehub.com/bsb/james/1.htm))",
+    "",
+    "First Peter calls elders to care for God’s flock willingly, without greed or domination, and to lead by example as they await the Chief Shepherd. This is a supported connection with the kind of leadership Jesus’ followers are to practice instead of the pattern He condemns. ([1 Peter 5:1–4](https://biblehub.com/bsb/1_peter/5.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/20.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-twenty-closing-review.md"
+  }
+}

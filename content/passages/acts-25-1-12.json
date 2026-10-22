@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "25:1-12",
+    "label": "Acts 25:1-12",
+    "slug": "acts-25-1-12"
+  },
+  "section_title": "Why does Paul appeal to Caesar rather than return to Jerusalem?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Three days after his arrival in the province, Festus went up from Caesarea to Jerusalem, 2 where the chief priests and Jewish leaders presented their case against Paul. They urged Festus 3 to grant them a concession against Paul by summoning him to Jerusalem, because they were preparing an ambush to kill him along the way. 4 But Festus replied, “Paul is being held in Caesarea, and I myself am going there soon. 5 So if this man has done anything wrong, let some of your leaders come down with me and accuse him there.”",
+        "6 After spending no more than eight or ten days with them, Festus went down to Caesarea. The next day he sat on the judgment seat and ordered that Paul be brought in. 7 When Paul arrived, the Jews who had come down from Jerusalem stood around him, bringing many serious charges that they could not prove. 8 Then Paul made his defense: “I have committed no offense against the law of the Jews or against the temple or against Caesar.” 9 But Festus, wishing to do the Jews a favor, said to Paul, “Are you willing to go up to Jerusalem to stand trial before me on these charges?”",
+        "10 Paul replied, “I am standing before the judgment seat of Caesar, where I ought to be tried. I have done nothing wrong to the Jews, as you yourself know very well. 11 If, however, I am guilty of anything worthy of death, I do not refuse to die. But if there is no truth to their accusations against me, no one has the right to hand me over to them. I appeal to Caesar!” 12 Then Festus conferred with his council and replied, “You have appealed to Caesar. To Caesar you will go!”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Felix has left Paul imprisoned after two years, and Festus now takes charge. Three days after arriving in the province, the new governor goes to Jerusalem. The chief priests and leaders ask him to bring Paul there, while planning an ambush to kill him on the way. Luke explains the danger behind the request.",
+    "",
+    "Festus first keeps the case in Caesarea and invites the accusers to come there. At the hearing, they bring serious charges they cannot prove. Paul denies wrongdoing against the Jewish law, the temple or Caesar. Festus then asks whether he is willing to be tried before him in Jerusalem, wishing to do the Jewish leaders a favor.",
+    "",
+    "Paul says he is already before Caesar’s judgment seat, where he ought to be tried. He is willing to face a proper judgment if guilty of a capital offense, but refuses to be handed over on accusations he denies are true. He appeals to Caesar. After consulting his council, Festus accepts the appeal and says he will go to Caesar.",
+    "",
+    "The scene identifies both a continued threat and a practical response. It does not tell us exactly why Paul had not appealed earlier or provide a complete history of the Roman right of appeal. His willingness to accept a valid judgment is not a confession that the present charges are true."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read the appeal as a lawful means of protection that serves Paul’s continuing witness. [Calvin’s comment on verse 11](https://biblehub.com/commentaries/calvin/acts/25.htm) explicitly treats the use of courts and legal protection as compatible with trust in God. Readiness to suffer and willingness to use an available remedy can belong together."
+  ],
+  "god_plan_lines": [
+    "The Lord’s promise in [Acts 23:11](https://biblehub.com/bsb/acts/23.htm) is that Paul will testify in Rome as he has in Jerusalem. The two years of delay have not erased that purpose. The appeal now sets the case toward the destination already named, through an ordinary public proceeding rather than an escape from all custody.",
+    "",
+    "The episode keeps both parts of the story in view: there are human attempts to kill or retain control of Paul, and there is a commission that continues through them. The promise supports his courage without making every official choice wise or just."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/25.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twenty-five-review.md"
+  }
+}

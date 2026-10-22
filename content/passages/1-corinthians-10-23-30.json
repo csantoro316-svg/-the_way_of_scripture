@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "10:23-30",
+    "label": "1 Corinthians 10:23-30",
+    "slug": "1-corinthians-10-23-30"
+  },
+  "section_title": "When should freedom give way to concern for someone else?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "23 “Everything is permissible,” but not everything is beneficial. “Everything is permissible,” but not everything is edifying. 24 No one should seek his own good, but the good of others. 25 Eat anything sold in the meat market without raising questions of conscience, 26 for, “The earth is the Lord’s, and the fullness thereof.” 27 If an unbeliever invites you to a meal and you want to go, eat anything set before you without raising questions of conscience.",
+        "28 But if someone tells you, “This food was offered to idols,” then do not eat it, for the sake of the one who told you and for the sake of conscience— 29 the other one’s conscience, I mean, not your own. For why should my freedom be determined by someone else’s conscience? 30 If I partake in the meal with thankfulness, why am I denounced because of that for which I give thanks?"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul returns to the claim that everything is permissible and asks two further questions: is it helpful, and does it build others up? Seeking another person’s good changes how freedom is used. The preceding ban on idol worship still stands; this is not permission to do whatever someone can defend.",
+    "",
+    "His practical instructions distinguish ordinary food from participation in worship. Buy what is sold at the meat market without investigating its history. If an unbeliever invites you to eat and you want to go, accept the food without raising questions of conscience. The earth belongs to the Lord, so an idol does not own part of His creation.",
+    "",
+    "The situation changes when someone specifically identifies the food as having been offered to idols. Paul says not to eat for that person’s sake. The food has not become a different substance; the meaning of eating it in front of this person has changed. Paul does not identify the person closely enough to turn the example into a detailed story about a particular host, shopkeeper or fellow Christian.",
+    "",
+    "The final questions preserve a distinction: someone else’s conscience does not determine the truth about my freedom, yet I can willingly limit my conduct for that person’s good. Thankfulness for God’s gifts belongs alongside care for people. Freedom is something to use lovingly, rather than a right that must always be exercised."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly distinguish the food itself from the effect of eating it in a particular situation. [Wesley’s notes on verses 25–30](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) explain both permission to eat without investigation and restraint for another person’s conscience. His note on verse 29 also recognizes that another person’s conviction does not become the standard that decides the believer’s freedom."
+  ],
+  "god_plan_lines": [
+    "Paul grounds ordinary eating in [Psalm 24:1–2](https://biblehub.com/bsb/psalms/24.htm): the earth and its fullness belong to its Creator. Food does not become an idol’s property because people have used it in false worship.",
+    "",
+    "[1 Timothy 4:1–5](https://biblehub.com/bsb/1_timothy/4.htm) likewise sets God’s good creation against religious teaching that forbids receiving His gifts. Those gifts are to be received with thanksgiving. Together, these passages show how ordinary life can acknowledge the Creator: receive what He gives gratefully, and use that freedom with concern for the people He has placed around us."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/10.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-ten-closing-review.md"
+  }
+}

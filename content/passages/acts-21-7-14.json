@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "21:7-14",
+    "label": "Acts 21:7-14",
+    "slug": "acts-21-7-14"
+  },
+  "section_title": "How do Paul and his companions respond to the warning about his arrest?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 When we had finished our voyage from Tyre, we landed at Ptolemais, where we greeted the brothers and stayed with them for a day. 8 Leaving the next day, we went on to Caesarea and stayed at the home of Philip the evangelist, who was one of the Seven. 9 He had four unmarried daughters who prophesied. 10 After we had been there several days, a prophet named Agabus came down from Judea. 11 Coming over to us, he took Paul’s belt, bound his own feet and hands, and said, “The Holy Spirit says: ‘In this way the Jews of Jerusalem will bind the owner of this belt and hand him over to the Gentiles.’”",
+        "12 When we heard this, we and the people there pleaded with Paul not to go up to Jerusalem. 13 Then Paul answered, “Why are you weeping and breaking my heart? I am ready not only to be bound, but also to die in Jerusalem for the name of the Lord Jesus.” 14 When he would not be dissuaded, we quieted down and said, “The Lord’s will be done.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "After greeting believers at Ptolemais, the travelers reach Caesarea and stay with Philip the evangelist, one of the Seven introduced in Acts 6. Luke notes that Philip has four unmarried daughters who prophesy, without giving their messages here. Their mention does not explain the later warning as a message from them.",
+    "",
+    "Agabus comes from Judea, takes Paul’s belt and binds his own hands and feet with it. He announces that the Holy Spirit says the owner will be bound in Jerusalem and handed over to Gentiles. His action gives the coming danger a visible form.",
+    "",
+    "Paul’s companions and the local believers plead with him not to go. He tells them their weeping is breaking his heart, but says he is ready to be imprisoned and even to die for Jesus’ name. They stop trying to persuade him and entrust the outcome to the Lord’s will.",
+    "",
+    "Agabus’s quoted message predicts what will happen; it does not contain an explicit command to abandon the journey. That observation matters when comparing this scene with the wording at Tyre. It does not mean a warning from God should simply be ignored or that seeking safety is always wrong."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a costly decision made amid affection, grief and a warning of suffering. [Wesley on verses 13–14](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) understands Paul’s determination as Christian resolve rather than stubbornness. The companions’ final response expresses trust in the Lord’s will; the text does not call their love for Paul selfish or say that all concern for physical safety is unbelief."
+  ],
+  "god_plan_lines": [
+    "The prayerful acceptance of the Lord’s will recalls Jesus’ prayer in [Luke 22:42](https://biblehub.com/bsb/luke/22.htm). This is a parallel in surrender to God under the prospect of suffering. Paul’s suffering is service to Jesus, not another sacrifice that saves people as Jesus’ death does.",
+    "",
+    "[Acts 9:15–16](https://biblehub.com/bsb/acts/9.htm) had already connected Paul’s calling to bear Jesus’ name with suffering for that name. The warnings prepare him and the communities around him for a mission that continues through hardship, rather than promising an untroubled journey."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/21.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twenty-one-review.md"
+  }
+}

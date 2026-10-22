@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "18:31-34",
+    "label": "Luke 18:31-34",
+    "slug": "luke-18-31-34"
+  },
+  "section_title": "Why does Jesus speak of suffering on the way to Jerusalem?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "31 Then Jesus took the Twelve aside and said to them, “Look, we are going up to Jerusalem, and everything the prophets have written about the Son of Man will be fulfilled. 32 He will be delivered over to the Gentiles and will be mocked and insulted and spit upon. 33 They will flog Him and kill Him, and on the third day He will rise again.” 34 But the disciples did not understand any of these things. The meaning was hidden from them, and they did not comprehend what He was saying."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus takes the Twelve aside as they approach Jerusalem. He tells them that what the prophets have written about the Son of Man will be fulfilled, then describes being handed over to the Gentiles, mocked, insulted, spit upon, flogged and killed. He also says that He will rise on the third day.",
+    "",
+    "Luke emphasizes the disciples’ lack of understanding: they do not grasp these things, and the meaning is hidden from them. The announcement gives the reader a clear view of where Jesus’ journey leads even while His closest followers do not yet understand it.",
+    "",
+    "The saying belongs alongside the earlier predictions of His suffering in Luke 9. Here the details become more explicit, and resurrection is included in the outcome He announces. ([Luke 9:22, 43–45](https://biblehub.com/bsb/luke/9.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand this as Jesus’ deliberate announcement of His suffering, death and resurrection in fulfillment of Scripture. The Catholic bishops’ notes emphasize prophetic fulfillment; Wesley connects the disciples’ confusion with their expectations of the Messiah’s kingdom. ([USCCB notes on Luke 18:31–34](https://bible.usccb.org/bible/luke/18); [Wesley on Luke 18:34](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))"
+  ],
+  "god_plan_lines": [
+    "After the resurrection, Luke records Jesus opening the disciples’ understanding of Scripture and explaining His suffering, resurrection and the proclamation of repentance and forgiveness to all nations. That later scene directly addresses the lack of understanding recorded here and shows how the journey to Jerusalem belongs within the worldwide announcement of salvation. ([Luke 24:44–48](https://biblehub.com/bsb/luke/24.htm))",
+    "",
+    "Peter later declares that God fulfilled the prophets’ witness to the Messiah’s suffering. Paul places Christ’s death for sins, burial and third-day resurrection at the center of the gospel he received and passed on. The events predicted here become the message the apostles proclaim. ([Acts 3:17–19](https://biblehub.com/bsb/acts/3.htm); [1 Corinthians 15:1–8](https://biblehub.com/bsb/1_corinthians/15.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/18.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-eighteen-closing-review.md"
+  }
+}

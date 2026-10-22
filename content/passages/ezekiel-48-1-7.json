@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "48:1-7",
+    "label": "Ezekiel 48:1-7",
+    "slug": "ezekiel-48-1-7"
+  },
+  "section_title": "Which tribes receive the northern portions?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 “Now these are the names of the tribes: At the northern frontier, Dan will have one portion bordering the road of Hethlon to Lebo-hamath and running on to Hazar-enan on the border of Damascus with Hamath to the north, and extending from the east side to the west side. 2 Asher will have one portion bordering the territory of Dan from east to west. 3 Naphtali will have one portion bordering the territory of Asher from east to west. 4 Manasseh will have one portion bordering the territory of Naphtali from east to west. 5 Ephraim will have one portion bordering the territory of Manasseh from east to west. 6 Reuben will have one portion bordering the territory of Ephraim from east to west. 7 Judah will have one portion bordering the territory of Reuben from east to west."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The northern allotments are named in order: Dan, Asher, Naphtali, Manasseh, Ephraim, Reuben and Judah. Each portion runs from east to west beside the next.",
+    "",
+    "Manasseh and Ephraim receive separate portions in keeping with Joseph’s double share in 47:13. [Genesis 48:3–7](https://biblehub.com/bsb/genesis/48.htm) records Jacob receiving Joseph’s two sons as his own, and [First Chronicles 5:1–2](https://biblehub.com/bsb/1_chronicles/5.htm) distinguishes Joseph’s birthright from the rulership associated with Judah.",
+    "",
+    "The Lord does give the names and arrangement of the tribes. The account moves from the outer boundaries to the people receiving their places within them."
+  ],
+  "common_interpretation_lines": [
+    "[Cambridge](https://biblehub.com/commentaries/cambridge/ezekiel/48.htm) reads these as the tribes north of the holy district, beginning with Dan at the northern edge. [Henry](https://biblehub.com/commentaries/mhc/ezekiel/48.htm) understands the whole chapter as the ordered portions belonging to the tribes, while also drawing Christian applications from the vision.",
+    "",
+    "The tribal list is part of the restoration picture: the people are assigned an inheritance rather than remaining scattered without a place."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/48.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-forty-six-eight-review.md"
+  }
+}

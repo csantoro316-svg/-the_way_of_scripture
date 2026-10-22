@@ -1,0 +1,52 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "2:46-49",
+    "label": "Daniel 2:46-49",
+    "slug": "daniel-2-46-49"
+  },
+  "section_title": "What does the king acknowledge, and what happens to the four friends?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "46 At this, King Nebuchadnezzar fell on his face, paid homage to Daniel, and ordered that an offering and incense be presented to him. 47 The king said to Daniel, “Your God is truly the God of gods and Lord of kings, the Revealer of Mysteries, since you were able to reveal this mystery.”",
+        "48 Then the king promoted Daniel and gave him many generous gifts. He made him ruler over the entire province of Babylon and chief administrator over all the wise men of Babylon. 49 And at Daniel’s request, the king appointed Shadrach, Meshach, and Abednego to manage the province of Babylon, while Daniel remained in the king’s court."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The king falls before Daniel and orders an offering and incense for him. He then acknowledges Daniel’s God as God of gods, Lord of kings and the revealer of mysteries.",
+    "",
+    "Daniel receives gifts and authority over the province of Babylon and its wise men. At his request, Shadrach, Meshach and Abednego also receive administrative responsibilities, while he remains at the royal court.",
+    "",
+    "The men threatened with execution have been preserved and placed in service. The king’s acknowledgment answers Daniel’s earlier insistence: the knowledge came from God."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/daniel/2.htm) believes Daniel must have prevented the offering, although no refusal is recorded. [Cambridge](https://biblehub.com/commentaries/cambridge/daniel/2.htm) instead understands the homage as honor reaching God through Daniel as His representative. The account itself moves directly from the king’s action to his acknowledgment of Daniel’s God.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/daniel/2.htm) cautions that recognizing divine power is not the same as choosing to serve God. The king’s words are significant, but this scene does not by itself give a complete account of his later faithfulness."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/2.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-two-review.md"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "8:22-26",
+    "label": "Mark 8:22-26",
+    "slug": "mark-8-22-26"
+  },
+  "section_title": "From Blurred Sight to Seeing Clearly",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "22 When they arrived at Bethsaida, some people brought a blind man and begged Jesus to touch him. 23 So He took the blind man by the hand and led him out of the village. Then He spit on the man’s eyes and placed His hands on him. “Can you see anything?” He asked. 24 The man looked up and said, “I can see the people, but they look like trees walking around.” 25 Once again Jesus placed His hands on the man’s eyes, and when he opened them his sight was restored, and he could see everything clearly. 26 Jesus sent him home and said, “Do not go back into the village.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "At Bethsaida, people bring a blind man to Jesus and ask Him to touch him. Jesus takes him by the hand and leads him out of the village. As in the healing of the man with hearing and speech difficulties, He gives personal attention away from the crowd.",
+    "",
+    "After Jesus spits on his eyes and places His hands on him, the man can see people but cannot see them clearly: they look like trees walking around. Jesus places His hands on his eyes again, and his sight becomes clear. Mark deliberately records both stages of the recovery rather than describing an immediate complete cure.",
+    "",
+    "Jesus sends him home with an instruction not to return to the village. The passage does not state why He chooses this setting or this manner of healing. The [BSB footnote](https://biblehub.com/bsb/mark/8.htm) records a longer instruction in other manuscripts; the Scripture above follows the BSB's main text.",
+    "",
+    "The setting in the chapter matters. Just before this, Jesus asks disciples who have eyes why they do not see. Just after it, Peter identifies Him as the Christ but resists His teaching about suffering and death ([Mark 8:27–33](https://biblehub.com/bsb/mark/8.htm)). That sequence helps explain why readers connect the man's growing sight with the disciples' growing understanding."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings recognize the unusual two-stage healing while differing in emphasis about its purpose. [Calvin on Mark 8:22–26](https://biblehub.com/commentaries/calvin/mark/8.htm) emphasizes Jesus' freedom to heal in different ways; the [USCCB note](https://bible.usccb.org/bible/mark/8) reports a reading in which the gradual recovery pictures the disciples' gradual recognition of His identity. These are explanations of the narrative, not a fixed medical or spiritual procedure the passage commands."
+  ],
+  "god_plan_lines": [
+    "Restored sight recalls [Isaiah 35:4–6](https://biblehub.com/bsb/isaiah/35.htm), where God's coming to save includes opened eyes. Jesus points to restored sight among the works that answer the question of whether He is the expected One ([Matthew 11:2–6](https://biblehub.com/bsb/matthew/11.htm)). This healing belongs to that wider picture of His saving work.",
+    "",
+    "The disciples' understanding also has a future. After His resurrection, Jesus opens their minds to understand Scripture and explains His suffering, resurrection, and the proclamation of repentance and forgiveness to the nations ([Luke 24:44–49](https://biblehub.com/bsb/luke/24.htm)). That later account gives a supported parallel to movement from partial sight toward clarity. It does not turn each touch here into a required stage that every person's faith must follow."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/8.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-eight-opening-review.md"
+  }
+}

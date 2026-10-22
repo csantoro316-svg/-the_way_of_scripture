@@ -1,0 +1,49 @@
+{
+  "reference": {
+    "book": "2 Corinthians",
+    "citation": "2:12-13",
+    "label": "2 Corinthians 2:12-13",
+    "slug": "2-corinthians-2-12-13"
+  },
+  "section_title": "Why did Paul leave Troas when there was an opportunity to preach?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "12 Now when I went to Troas to preach the gospel of Christ and a door stood open for me in the Lord, 13 I had no peace in my spirit, because I did not find my brother Titus there. So I said goodbye to them and went on to Macedonia."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul resumes his account of traveling. At Troas he found an open door for the gospel of Christ. Even so, he had no peace in his spirit because he did not find Titus there, and he left for Macedonia.",
+    "",
+    "The reason Titus mattered becomes clearer in [2 Corinthians 7:5–9](https://biblehub.com/bsb/2_corinthians/7.htm). His arrival brought comfort and news about the Corinthians’ response. Paul’s concern was bound up with people and their relationship, not simply a choice between places to preach.",
+    "",
+    "These verses record an opportunity alongside unresolved concern. They do not call Paul’s departure a sin or turn the phrase open door into a rule that a worker must stay in one place regardless of other responsibilities."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Paul’s unrest as concern about Titus and the Corinthians, read together with the later account of their meeting. [Wesley’s notes on verses 12–13](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-the-corinthians/) and the [USCCB note on verses 12–13](https://bible.usccb.org/bible/2corinthians/2) both make that connection. The narrative itself does not give a complete rule for deciding between competing ministry needs."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_corinthians/2.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-corinthians-two-review.md"
+  }
+}

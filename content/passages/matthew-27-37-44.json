@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "27:37-44",
+    "label": "Matthew 27:37-44",
+    "slug": "matthew-27-37-44"
+  },
+  "section_title": "The King Is Mocked for Refusing to Save Himself",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "37 Above His head they posted the written charge against Him: THIS IS JESUS, THE KING OF THE JEWS. 38 Two robbers were crucified with Him, one on His right and the other on His left. 39 And those who passed by heaped abuse on Him, shaking their heads 40 and saying, “You who are going to destroy the temple and rebuild it in three days, save Yourself! If You are the Son of God, come down from the cross!”",
+        "41 In the same way, the chief priests, scribes, and elders mocked Him, saying, 42 “He saved others, but He cannot save Himself. He is the King of Israel! Let Him come down now from the cross, and we will believe in Him. 43 He trusts in God. Let God deliver Him now if He wants Him. For He said, ‘I am the Son of God.’ ” 44 In the same way, even the robbers who were crucified with Him berated Him."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The written charge above Jesus identifies Him as King of the Jews. Two robbers are crucified beside Him. The title that Pilate has questioned and the soldiers have mocked now stands over His cross as passersby and religious leaders challenge His identity.",
+    "",
+    "Robber is λῃστής, *lēstēs* (lays-TACE). [Thayer's entry](https://biblehub.com/greek/3027.htm) describes a robber or plunderer, distinguishing it from someone who steals secretly. Matthew uses the word for the two men, but does not identify them as Barabbas' associates or give their individual charges.",
+    "",
+    "Those passing by repeat the accusation about destroying and rebuilding the temple, and demand that Jesus save Himself by coming down. The chief priests, scribes, and elders likewise say they will believe if He comes down. They also question whether God will rescue the One who has claimed to be His Son.",
+    "",
+    "Their challenge echoes the language of the earlier temptation in [Matthew 4:3–7](https://biblehub.com/bsb/matthew/4.htm): if He is God's Son, He should demonstrate it on the challenger's terms. In Matthew's account the men crucified beside Him also join the insults. [Luke 23:39–43](https://biblehub.com/bsb/luke/23.htm) records a different response from one of them: acknowledging Jesus' innocence and asking to be remembered in His kingdom."
+  ],
+  "common_interpretation_lines": [
+    "Christian readers commonly see irony in the demand that Jesus save Himself: His willing death is central to the salvation He brings to others. [Walvoord on 27:37–44](https://walvoord.com/article/221) emphasizes His obedience to the Father rather than a lack of power, while [Calvin on 27:43](https://biblehub.com/commentaries/calvin/matthew/27.htm) warns against assuming God's love is absent whenever help does not arrive immediately.",
+    "",
+    "Readers differ over how to relate Matthew's plural description of the robbers to Luke's repentant criminal. [Chrysostom, Homily 87 on Matthew](https://www.newadvent.org/fathers/200187.htm), understands both men as mocking at first, with one later changing his response. [Augustine, Harmony of the Gospels, III.16](https://www.newadvent.org/fathers/1602316.htm), and Calvin on 27:44 understand the plural as a general description that can refer to the conduct of one member of the pair. These are ways of reading the accounts together. The Gospels do not give a detailed timetable for these responses."
+  ],
+  "god_plan_lines": [
+    "The mockery closely recalls [Psalm 22:6–8](https://biblehub.com/bsb/psalms/22.htm): a despised sufferer, heads shaken at him, and a challenge for God to rescue the one who trusts Him. Jesus will soon pray the opening words of this same psalm. The connection lets Scripture's earlier account of suffering and trust help us recognize what the crowd's insults fail to understand.",
+    "",
+    "His place among condemned men also fits [Isaiah 53:12](https://biblehub.com/bsb/isaiah/53.htm). Jesus explicitly applies the servant's being counted among transgressors to Himself in [Luke 22:37](https://biblehub.com/bsb/luke/22.htm). The servant pours out His life and bears others' sins; the humiliation is part of the saving work, rather than proof that His mission has failed.",
+    "",
+    "Luke's account then gives a personal glimpse of mercy within that suffering. In [Luke 23:39–43](https://biblehub.com/bsb/luke/23.htm), the condemned man acknowledges his own guilt and Jesus' innocence, appeals to Him, and receives a promise of being with Him in Paradise. [John 6:35–40](https://biblehub.com/bsb/john/6.htm) likewise joins coming to Jesus with His welcome and the promise of life. The King who will not escape His own cross still receives someone who turns to Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/27.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-seven-insults-review.md"
+  }
+}

@@ -5,22 +5,59 @@
     "label": "Acts 15:23",
     "slug": "acts-15-23"
   },
-  "section_title": "",
-  "versions": [],
+  "section_title": "Who sends the letter, and whom does it address?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "23 and sent them with this letter: The apostles and the elders, your brothers, To the brothers among the Gentiles in Antioch, Syria, and Cilicia: Greetings."
+      ]
+    }
+  ],
   "context_lines": [
-    "Acts 15:23 should be read within the flow of its chapter and the larger argument of Acts."
+    "The apostles and elders, with the whole church, choose Judas Barsabbas and Silas to accompany Barnabas and Paul. Their letter addresses Gentile believers in Antioch, Syria and Cilicia. It explains that the unsettling teachers had gone out without the senders’ authorization.",
+    "",
+    "The letter honors Barnabas and Paul as people who have risked their lives for Jesus. Judas and Silas will confirm its message in person. The decision is attributed to the Holy Spirit and the gathered leaders, and the four requirements are stated without imposing circumcision.",
+    "",
+    "When the letter is read in Antioch, the believers rejoice at its encouragement. Judas and Silas also speak at length to strengthen them. The visitors are sent back in peace, while Paul and Barnabas remain with others to teach and preach.",
+    "",
+    "The BSB’s main text moves from verse 33 to verse 35. Its [footnote](https://biblehub.com/bsb/acts/15.htm) records a reading about Silas remaining that some manuscripts include as verse 34. That wording is not part of the main quotation on this page."
   ],
   "common_interpretation_lines": [
-    "Look closer at how the text actually presents it. The Jerusalem council's decision is never James acting alone \u2014 it comes from \"the apostles and the elders, with the whole church\" (Acts 15:22), and the resulting letter is sent in the name of \"the brothers, both the apostles and the elders\" (Acts 15:23). James speaks with recognized authority, but the decision and the letter are corporate. And when Paul visits in Acts 21, James is never alone \u2014 the elders are present with him, functioning as a body, every time Scripture puts James in a leadership scene.",
+    "Christians commonly read the greeting as identifying both the responsible senders and the Gentile believers to whom the decision is addressed. The language of brothers places them within the same fellowship rather than treating them as outsiders awaiting circumcision."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 4:1–6](https://biblehub.com/bsb/ephesians/4.htm) calls believers to preserve the Spirit’s unity in peace, grounded in one body and one Lord. The council’s decision takes practical form through a letter, trusted messengers, teaching and the removal of an unauthorized burden.",
     "",
-    "There's also no process anywhere in Scripture for appointing a successor to \"head of Jerusalem\" the way there's an explicit process for appointing elders (Acts 14:23, Titus 1:5). If this were an office, we'd expect the text to show the office continuing past James. It doesn't. What we see instead looks like recognized personal standing \u2014 likely tied to James being a resurrection witness (1 Corinthians 15:7) and the Lord's own brother \u2014 operating within a plural eldership that never disappears around him.",
-    "",
-    "That distinction matters, and it's an old and good one: respect for someone's maturity, wisdom, and demonstrated knowledge is not the same thing as installing them into a title that becomes an office others are formally appointed into. Every culture recognizes that some elders carry more weight than others because of experience or character. Scripture doesn't erase that. What it never does is turn James's personal standing into a title, a rank, or a hierarchy replicated in every church he never even visited."
+    "That unity concerns people who are now addressed as brothers across the Jewish and Gentile boundary. The response in Antioch is joy and encouragement: clarity about the gospel helps the community continue its life and witness together."
+  ],
+  "current_position_lines": [
+    "Who Shepherds the Church? points to the whole church sharing in the decision in verse 22 and to the apostles and elders sending the letter in verse 23. It reads these as shared responsibility among recognized leaders and the community. The study therefore describes James’s contribution as part of that common work, rather than the whole decision being his solitary act."
   ],
   "deeper_study": [
     {
       "title": "Who Shepherds the Church?",
       "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/15.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-acts-fifteen-review.md",
+    "position_source_detail": "Who Shepherds the Church? — But Wasn’t James the Head of the Church?; directly develops Acts15:22–23 corporate decision and letter."
+  }
 }

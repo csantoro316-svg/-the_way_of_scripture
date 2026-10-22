@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "28:11-16",
+    "label": "Acts 28:11-16",
+    "slug": "acts-28-11-16"
+  },
+  "section_title": "How do fellow believers strengthen Paul as he reaches Rome?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "11 After three months we set sail in an Alexandrian ship that had wintered in the island. It had the Twin Brothers as a figurehead. 12 Putting in at Syracuse, we stayed there three days. 13 From there we weighed anchor and came to Rhegium. After one day, a south wind came up, and on the second day we arrived at Puteoli. 14 There we found some brothers who invited us to spend the week with them. And so we came to Rome. 15 The brothers there had heard about us and traveled as far as the Forum of Appius and the Three Taverns to meet us. When Paul saw them, he was encouraged and gave thanks to God. 16 When we arrived in Rome, Paul was permitted to stay by himself, with a soldier to guard him."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After three months, the travelers leave on an Alexandrian ship that has wintered at Malta. Its figurehead bears the Twin Brothers, Castor and Pollux. Ancient sailors associated these figures with protection at sea: [Homeric Hymn 33](https://www.theoi.com/Text/HomericHymns3.html) describes them as rescuers of ships in storms. This explains the image’s background; Luke does not say that the travelers are protected by these figures.",
+    "",
+    "They sail through Syracuse and Rhegium to Puteoli, where believers invite them to stay a week. News of their arrival reaches Rome, and believers come as far as the Forum of Appius and the Three Taverns to meet them. Paul sees them, thanks God and takes courage.",
+    "",
+    "In Rome Paul is allowed to live in private quarters, with a soldier guarding him. He has reached the city, but he is still a prisoner. The welcome does not amount to an acquittal or tell us the outcome of his appeal."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly see the believers’ welcome as practical fellowship that gives Paul courage for what lies ahead. The account presents a messenger who needs encouragement as well as giving it. His arrival fulfills the promised journey to Rome while leaving his legal situation unresolved."
+  ],
+  "god_plan_lines": [
+    "In [Romans 1:11–12](https://biblehub.com/bsb/romans/1.htm), Paul expresses his desire to see the Roman believers so that they may strengthen one another through their faith. Here their welcome strengthens him before Luke describes his teaching in the city. Encouragement runs both ways.",
+    "",
+    "The arrival also brings the promise of [Acts 23:11](https://biblehub.com/bsb/acts/23.htm) into view: Paul will testify in Rome. The story will show that witness taking place under guard. Luke does not go on to narrate the appearance before Caesar mentioned in [Acts 27:24](https://biblehub.com/bsb/acts/27.htm)."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/28.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twenty-eight-review.md"
+  }
+}

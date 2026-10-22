@@ -1,0 +1,42 @@
+# Revelation 14 passage review — 2026-10-20
+
+Three groups cover20actualBSBverses. WholebaselinePDF270–286lesson14read,cumulative1–286read. WholeactualBSB14/Wesley14(9742chars)/USCCB14notes/Walvoord14originalreproduction33486charsread. Gill14fetched64493UNREADnotused. ActualThayer536read. ActualBSB Hebrews12:22–24/James1:18/Isaiah21:9/51:17/63:1–6/Joel3:12–14read. ActualCCC1033–1037andwholeWCF33read. OfficialSDAwebsitebelief27andmainbody7–105readviaweb;direct403. SamueleBacchiocchiDialogueoriginalbody7–59readviaweb;direct403. Neitherfetchcreditedasreading.
+
+Sources:
+- https://biblehub.com/bsb/revelation/14.htm
+- https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-revelation-of-jesus-christ/
+- https://bible.usccb.org/bible/revelation/14
+- https://swartzentrover.com/cotor/E-Books/holiness/Walvoord/Revelation/Rev_14.htm
+- https://biblehub.com/greek/536.htm
+- https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_three/article_12/iv_hell.html
+- https://www.opc.org/wcf.html
+- https://adventist.org/beliefs/official/millennium-and-the-end-of-sin
+- https://www.dialogue.adventist.org/469/hell-eternal-torment-or-annihilation
+
+Public/private derived per copyrightedsourceunder200words,noverbatim. BSB/WesleyPD. Baselineprivateclaimsnotpromotedasconsensus. No baseline namepublic. Positionnoneall3:relatedstudiesdonotsettlepassageidentities,chronologyorfinalpunishment.
+
+## Revelation 14:1–5
+
+Plan section: included, because (b)/(c). ActualHeb12Zion/heaven/assembly/Jesus andJames1firstfruits give widerbiblicalbelonging/consecrationthemes;notforcingonegeographicfulfillment.
+Position source: none.
+FLAGGED FOR REVIEW: 144000identity/locationandvirginityliteral-symbolic differencescheckedinownprimaries. No automaticallmartyredmidpointconclusion;redeemedfromearthdoesnotlexicallymeandead. FirstfruitstermThayer536supportsconsecration/firstportion/transferredexcellence,notamandatorymartyrdomtimetable. Source“all144000firstbestmartyrs”notdirecttext. Sealingremovedatmidpointnotstated;sourceoilwine=entireIsraelprotectednotexplicit. No requirement everyvirginunmarriedmaleisangelicperfection;nomarriageinherentlydefilingteachingoriginated. BSBbothLambandFathernamepreservedratherthanoldcommentaryFatheronly.
+
+## Revelation 14:6–13
+
+Plan section: included, because (b)/(c). ActualIsa21Babylonfall/Isa51cupjudgmentparallel;Creator’suniversalcallandfaithfulrestdeveloplargerpurposetheme.
+Position source: none.
+FLAGGED FOR REVIEW: RealfinalpunishmentdifferencefairlyrepresentedthroughofficialCatholic/Reformed/SDAprimarydocumentsandBacchiocchi’sown14:11reading. Neitherreadingreducedtobelievingnojudgment;neithercaricaturedemotionfalse/emotionalteacheradopted. HisquotationofStottnotcreditedasfreshreadingStottoriginalbook,publicattributesBacchiocchiwhoendorsesit. Noownereternaltorment/annihilation/universalismpositioninvented. ActualBSBtorment/fire/no-rest/foreversmokekeptuncensored. Sourcehellsufferingbecausecontinuingsinfulnatureisoneargument,notexplicit14explanation.
+
+FLAGGED FOR REVIEW: Angel-humanmessengerreadingversusfutureliteralreadingdistinguished;contextrecordsactualangelsscene. Sourceallfutureconversionsendexactmidpoint/nohumanwitnessleftnotstated. No claim God’soneangelgospelsettleseveryquestionaboutunreachedpeople,rendersevangelismirrelevant,orprovesownerdeterminism. Eternalgospelnotforcedtonewmethodsalvationnorbaselinealoneconsensus. BabylonexplicitfallkeptwithoutalreadydecidingrebuiltphysicalBabyloncertain. Contemporarygeographicclaimsnotindependentlyverified. BlesseddeathinLorddoesnotpromoteseekingdeath;noownernaturalbodybelieversnevergovernKingdominference.
+
+## Revelation 14:14–20
+
+Plan section: included, because (b)/(c). Joel3sickle/ripeharvest/winepressandIsa63winepress/blood/vengeanceactualread,labeledbiblicalparallels.
+Position source: none.
+FLAGGED FOR REVIEW: Wesleyangel-versusChristreadingdirectlyverified;firstharvestsaved-versusjudgmentrealdifference. BaselinestephanosneverkinglycrowncontradictedbyactualpriorThayer4735,notlexicalproofagainstChrist. Angelannouncingtimecouldbedelegatedmessage,notlogicalproofgreaterthanSon. “Another”doesnotaloneestablishfirstfigureanangel. No fixedownerfirstharvestalltribulationmartyrdom. BSBcapitalizationpreservedwithoutpretendingitsettlesinterpretation.
+
+FLAGGED FOR REVIEW: Winepressoutsidecityactualtext;Kidronwaveblood4.5feet/200miles/62billioncubicfeet/300billionhumanbodies/flashfloodhydraulicsunverifiedphysicalmodel,notpublished. Exactmodernbattlefieldnotnamedhere. ActualBSB1600stadiaretained,no200mileconversionmadeasexact. No claim bloodliterallyflowsatfixeddensityoroneassuredriverdepth. Visionseveritystatedwithoutpressingvolumetricforecast. God’sjusticebelongsHim,notreaderpermissionforpersonalviolence.
+
+## Validation
+
+Allpassed:focusedgeneration,freshBSBverification,repo0errors220warnings,independentpreservation,continuouscoverage through14:20 (38reviewedpages/249actualBSBverses/37plans/5existing-studypositions/33open),byte-identicalregeneration,six390pxreader/standalone checks exacttitles/5or7sections/nooverflow/norawMarkdown. ActualNext14:1–5→14:6–13 confirmed URL/title/focus/top188.171875. Actualexplicit-projectdry-run/deployment/live7filebyteauditexit0,allMATCH. Twolegacy22pagesretainedunreviewed;intentionalplanomissionsremain25.

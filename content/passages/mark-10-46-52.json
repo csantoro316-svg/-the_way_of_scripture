@@ -1,0 +1,69 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "10:46-52",
+    "label": "Mark 10:46-52",
+    "slug": "mark-10-46-52"
+  },
+  "section_title": "Bartimaeus Receives Sight and Follows",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "46 Next, they came to Jericho. And as Jesus and His disciples were leaving Jericho with a large crowd, a blind beggar named Bartimaeus, the son of Timaeus, was sitting beside the road. 47 When he heard that it was Jesus of Nazareth, he began to cry out, “Jesus, Son of David, have mercy on me!” 48 Many people admonished him to be silent, but he cried out all the louder, “Son of David, have mercy on me!” 49 Jesus stopped and said, “Call him.” So they called the blind man. “Take courage!” they said. “Get up! He is calling for you.” 50 Throwing off his cloak, Bartimaeus jumped up and came to Jesus.",
+        "51 “What do you want Me to do for you?” Jesus asked. “Rabboni,” said the blind man, “let me see again.” 52 “Go,” said Jesus, “your faith has healed you.” And immediately he received his sight and followed Jesus along the road."
+      ]
+    }
+  ],
+  "context_lines": [
+    "As Jesus leaves Jericho with His disciples and a large crowd, a blind beggar named Bartimaeus hears that He is passing. He calls out to Jesus as the Son of David and asks for mercy. Many try to silence him, but he calls all the more. Jesus stops and asks for him to be brought.",
+    "",
+    "The crowd's words change from rebuke to encouragement. Bartimaeus throws off his cloak, gets up, and comes to Jesus. Mark gives these movements without saying that the cloak was his only possession or that he never retrieved it.",
+    "",
+    "Jesus asks what he wants Him to do, echoing His question to James and John in verse 36. Their request concerned places of honor; Bartimaeus asks to see again. Jesus credits his faith, and he immediately receives sight and follows Him along the road. The response brings healing and following together.",
+    "",
+    "The title preserved in verse 51 is [ῥαββουνί (rabbouni, rah-boo-NEE)](https://biblehub.com/greek/4462.htm), an Aramaic form of respectful address for a teacher, written here in Greek. Bartimaeus approaches Jesus with trust and a plainly stated need.",
+    "",
+    "The related accounts present details differently: [Matthew 20:29–34](https://biblehub.com/bsb/matthew/20.htm) names two blind men as Jesus leaves Jericho, while [Luke 18:35–43](https://biblehub.com/bsb/luke/18.htm) describes a blind man as He approaches Jericho. Mark concentrates on the named Bartimaeus. These observations can be acknowledged without claiming that a particular reconstruction of the route has been proved."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly emphasize persistent trust in Jesus, His mercy, and the healed man's response in following Him. [Calvin on Mark 10:52](https://biblehub.com/commentaries/calvin/mark/10.htm) understands the faith in relation to Bartimaeus recognizing the promised Messiah, rather than confidence in a healing technique. He also reads the rescue as reaching beyond bodily sight to the man's relationship with God."
+  ],
+  "god_plan_lines": [
+    "The cry to the Son of David places the encounter within Israel's hope. [Jeremiah 23:5–6](https://biblehub.com/bsb/jeremiah/23.htm) promises a righteous king from David's line, and [Romans 1:1–4](https://biblehub.com/bsb/romans/1.htm) identifies the gospel's promised Son as David's descendant, revealed in resurrection power. The man the crowd tries to silence addresses Jesus with a title that reaches into that larger promise.",
+    "",
+    "The restored sight also fits the prophetic picture of God's rescue in [Isaiah 35:4–10](https://biblehub.com/bsb/isaiah/35.htm), where blind eyes are opened and the redeemed return with joy. Jesus explicitly includes recovery of sight in His mission in [Luke 4:16–21](https://biblehub.com/bsb/luke/4.htm). This healing is a concrete work of the promised Savior as He goes toward the death and resurrection through which He brings His saving mission to fulfillment.",
+    "",
+    "Bartimaeus then joins Him on the road. His response offers a narrative contrast with the wealthy man's sorrowful departure earlier in the chapter. The connection concerns responding to Jesus; it does not make physical blindness a measure of a person's spiritual condition."
+  ],
+  "current_position_lines": [
+    "In Prayer and Faith, section 5, we use Mark 10:51–52 to distinguish the need Bartimaeus speaks from the faith Jesus credits. He asks plainly for sight in response to Jesus' question, and Jesus names his faith when healing him. Our point is that trust rests in Jesus, rather than in finding a particular form of words. The account includes both a spoken request and faith; it should be allowed to show both."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/10.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-mark-ten-closing-review.md",
+    "position_source_detail": "Prayer and Faith — section 5; explicit Mark10:51–52 request/faith distinction. No new prayer formula or universal healing guarantee."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "8:7-13",
+    "label": "Hebrews 8:7-13",
+    "slug": "hebrews-8-7-13"
+  },
+  "section_title": "What makes the new covenant different?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 For if that first covenant had been without fault, no place would have been sought for a second. 8 But God found fault with the people and said: “Behold, the days are coming, declares the Lord, when I will make a new covenant with the house of Israel and with the house of Judah. 9 It will not be like the covenant I made with their fathers when I took them by the hand to lead them out of the land of Egypt, because they did not abide by My covenant, and I disregarded them, declares the Lord.",
+        "10 For this is the covenant I will make with the house of Israel after those days, declares the Lord. I will put My laws in their minds and inscribe them on their hearts. And I will be their God, and they will be My people. 11 No longer will each one teach his neighbor or his brother, saying, ‘Know the Lord,’ because they will all know Me, from the least of them to the greatest. 12 For I will forgive their iniquities and will remember their sins no more.”",
+        "13 By speaking of a new covenant, He has made the first one obsolete; and what is obsolete and aging will soon disappear."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The writer explains the better promises by quoting [Jeremiah 31:31–34](https://biblehub.com/bsb/jeremiah/31.htm). Long before Hebrews was written, God had promised a new covenant with the house of Israel and the house of Judah. The promise itself showed that the covenant made at the exodus would not be the final arrangement.",
+    "",
+    "The failure includes the people’s unfaithfulness: they did not remain in God’s covenant. The answer God promises reaches inward. He will put His laws in their minds and hearts, make them His people, give them knowledge of Him and forgive their sins. This is more than a new set of outward requirements.",
+    "",
+    "From the least to the greatest, knowing God will belong to the people of the covenant. The promise is not reserved for a religious elite. Nor does it make learning Scripture or encouraging one another unnecessary: this same letter has called for teaching and growth in 5:11–14 and daily encouragement in 3:13.",
+    "",
+    "The closing contrast concerns the old and new covenants. It does not call Israel itself obsolete. Jeremiah’s words still name Israel and Judah, and [Romans 11:1–2, 25–29](https://biblehub.com/bsb/romans/11.htm) warns against treating God’s people as simply rejected. A complete account of Israel’s future requires more than this paragraph alone."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/8.htm), [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) and the [USCCB notes](https://bible.usccb.org/bible/hebrews/8) agree that Jeremiah’s promise explains the new covenant’s greatness: God gives knowledge of Himself, inward renewal and forgiveness. Calvin and Wesley also explain that knowing God does not abolish the church’s work of teaching.",
+    "",
+    "Calvin emphasizes that faithful people before Christ already received God’s grace and forgiveness; the contrast should not erase their faith. Wesley likewise sees continuity in the heart of God’s promise, alongside its clearer revelation, wider reach and confirmation through Christ’s death.",
+    "",
+    "The final verse has a difference of timing. Wesley connects the old arrangement’s approaching disappearance with the destruction of the temple. The USCCB note reads the approaching disappearance from Jeremiah’s earlier standpoint: announcing a new covenant already marked the first as passing away. These are readings of the verse’s perspective, rather than a disagreement that Christ brings the promised new covenant."
+  ],
+  "god_plan_lines": [
+    "At the Last Supper, Jesus connects the new covenant with His own blood in [Luke 22:19–20](https://biblehub.com/bsb/luke/22.htm). Jeremiah’s promise is therefore joined to Christ’s willing death, rather than left as an unexplained hope for a better future.",
+    "",
+    "[Hebrews 10:15–18](https://biblehub.com/bsb/hebrews/10.htm) returns to these same promises and draws a further conclusion: forgiveness means another offering for sin is unnecessary. God’s plan brings inward renewal and forgiveness together through Christ’s completed offering. The promise does not ask people to make their own sacrifice sufficient."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/8.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-eight-review.md"
+  }
+}

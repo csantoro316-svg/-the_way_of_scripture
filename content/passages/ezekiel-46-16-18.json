@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "46:16-18",
+    "label": "Ezekiel 46:16-18",
+    "slug": "ezekiel-46-16-18"
+  },
+  "section_title": "What limits apply to the prince’s gifts and inheritance?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "16 This is what the Lord GOD says: ‘If the prince gives a gift to any of his sons as an inheritance, it will belong to his descendants. It will become their property by inheritance. 17 But if he gives a gift from his inheritance to one of his servants, it will belong to that servant until the year of freedom; then it will revert to the prince. His inheritance belongs only to his sons; it shall be theirs. 18 The prince must not take any of the inheritance of the people by evicting them from their property. He is to provide an inheritance for his sons from his own property, so that none of My people will be displaced from his property.’”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The prince may give property from his own inheritance to his sons, and it becomes theirs. A gift to a servant is held until the year of freedom, when it returns to the prince.",
+    "",
+    "The firm limit is that he must not enlarge his family’s holdings by taking the people’s inheritance. He is to provide for his sons from his own property.",
+    "",
+    "The Lord states the reason: none of His people is to be displaced from his possession. Royal generosity must not be paid for by evicting someone else."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/ezekiel/46.htm) and the [USCCB notes](https://bible.usccb.org/bible/ezekiel/46) understand the year of freedom through the Jubilee. [Cambridge](https://biblehub.com/commentaries/cambridge/ezekiel/46.htm) also discusses the possibility of the seventh-year release known from Jeremiah.",
+    "",
+    "These readings differ over the release year, while agreeing that the gift to a servant does not permanently remove that property from the prince’s family. The command against taking the people’s land remains explicit."
+  ],
+  "god_plan_lines": [
+    "[First Timothy 6:6–19](https://biblehub.com/bsb/1_timothy/6.htm) places wealth within a wider call to contentment and trust in God. Those with riches are to do good, be generous and be ready to share, rather than putting their hope in possessions.",
+    "",
+    "Ezekiel restrains a ruler from enriching his family at others’ expense. Paul teaches Christ’s people how to use what they have for good. Together these themes direct attention from acquiring more power over others to responsible care with what God has provided."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/46.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-forty-six-eight-review.md"
+  }
+}

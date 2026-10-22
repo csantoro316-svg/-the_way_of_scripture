@@ -5,23 +5,53 @@
     "label": "Hebrews 1:1-2",
     "slug": "hebrews-1-1-2"
   },
-  "section_title": "",
+  "section_title": "How has God made Himself known through His Son?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"In the past God spoke to our ancestors through the prophets at many times and in various ways, but in these last days he has spoken to us by his Son, whom he appointed heir of all things, and through whom also he made the universe.\""
+      "label": "BSB",
+      "paragraphs": [
+        "1 On many past occasions and in many different ways, God spoke to our fathers through the prophets. 2 But in these last days He has spoken to us by His Son, whom He appointed heir of all things, and through whom He made the universe."
+      ]
     }
   ],
   "context_lines": [
-    "Hebrews 1:1-2 should be read within the flow of its chapter and the larger argument of Hebrews."
+    "Hebrews begins directly with God speaking. It does not open with the writer’s name or the usual greetings. The [USCCB introduction](https://bible.usccb.org/bible/hebrews/0) explains that its author and exact audience remain disputed. The text itself will give us the ground for following its message.",
+    "",
+    "The opening sets past and present alongside each other. God spoke through the prophets on many occasions and in different ways. Now He has spoken through His Son. The earlier words were truly from God; the contrast concerns the fullness of what has now been made known.",
+    "",
+    "The Son is both the appointed heir of everything and the One through whom God made the universe. He is more than the latest person in a line of messengers. The story that begins with creation reaches its goal in Him."
   ],
   "common_interpretation_lines": [
-    "The many ways God spoke \u2014 including through the *Malak Yahweh* \u2014 are now complete. In these last days He has spoken through His Son, who has come in flesh, died, risen, and ascended. The temporary appearances of the pre-incarnate Son gave way to the permanent reality of the Incarnate Son."
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/1.htm), [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) and the [Catholic Catechism, paragraph 65](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_1/iii_christ_jesus_mediator_and_fullness_of_all_revelation.index.html), share the central reading: God’s revelation reaches its fullness in His Son. The earlier prophets are honored as God’s messengers, while Christ has a standing beyond theirs. The last-days language identifies the age opened by His coming; it does not supply a date for His return."
+  ],
+  "god_plan_lines": [
+    "[John 1:1–18](https://biblehub.com/bsb/john/1.htm) likewise joins creation through the Word with the Son’s making the Father known. [Luke 24:25–27, 44–47](https://biblehub.com/bsb/luke/24.htm) shows Jesus explaining how the Law, Prophets and Psalms lead to His suffering, resurrection and the message proclaimed to the nations. God’s earlier words belong within that unfolding purpose.",
+    "",
+    "[Ephesians 1:9–10](https://biblehub.com/bsb/ephesians/1.htm) describes God’s purpose to bring all things together in Christ. The Son through whom everything was made is also the heir toward whom the story moves. This connects the opening with the wider purpose of Scripture, rather than treating earlier revelation as a collection of unrelated messages."
+  ],
+  "current_position_lines": [
+    "Our study [Who is The Angel of the Lord?](https://thewayofscripture.com/studies/angel-of-the-lord.html) reads these verses as the movement from God’s earlier ways of making Himself known to the Son’s permanent coming in human flesh. It connects that movement with the Son’s earlier appearances, while recognizing the incarnation as the fuller revelation toward which they point."
   ],
   "deeper_study": [
     {
       "title": "Who is The Angel of the Lord?",
       "href": "../studies/angel-of-the-lord.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-one-review.md",
+    "position_source_detail": "Who is The Angel of the Lord? — The New Testament Anchor / Why the Malak Yahweh Disappears, lines 107–133."
+  }
 }

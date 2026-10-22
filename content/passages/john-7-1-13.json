@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "7:1-13",
+    "label": "John 7:1-13",
+    "slug": "john-7-1-13"
+  },
+  "section_title": "Why does Jesus go to the feast in His own time?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 After this, Jesus traveled throughout Galilee. He did not want to travel in Judea, because the Jews there were trying to kill Him. 2 However, the Jewish Feast of Tabernacles was near. 3 So Jesus’ brothers said to Him, “Leave here and go to Judea, so that Your disciples there may see the works You are doing. 4 For no one who wants to be known publicly acts in secret. Since You are doing these things, show Yourself to the world.” 5 For even His own brothers did not believe in Him.",
+        "6 Therefore Jesus told them, “Although your time is always at hand, My time has not yet come. 7 The world cannot hate you, but it hates Me, because I testify that its works are evil. 8 Go up to the feast on your own. I am not going up to this feast, because My time has not yet come.” 9 Having said this, Jesus remained in Galilee. 10 But after His brothers had gone up to the feast, He also went—not publicly, but in secret.",
+        "11 So the Jews were looking for Him at the feast and asking, “Where is He?” 12 Many in the crowds were whispering about Him. Some said, “He is a good man.” But others replied, “No, He deceives the people.” 13 Yet no one would speak publicly about Him for fear of the Jews."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus remains active in Galilee while facing a threat to His life in Judea. As the Feast of Tabernacles approaches, His brothers urge Him to go where His works will be seen publicly. The Gospel says that they do not yet believe in Him.",
+    "",
+    "The feast is also called the Feast of Booths. Leviticus describes the people living in temporary shelters to remember how God made Israel dwell in booths after bringing them out of Egypt. It is also a joyful harvest celebration. ([Leviticus 23:33–43](https://biblehub.com/bsb/leviticus/23.htm); [Deuteronomy 16:13–17](https://biblehub.com/bsb/deuteronomy/16.htm))",
+    "",
+    "Jesus says that His time has not come. The BSB’s main text says He is not going up to this feast; its footnote records the reading not yet in other manuscripts. The account then shows Him remaining behind and later going privately, after His brothers have left. ([BSB footnote on John 7:8](https://biblehub.com/bsb/john/7.htm))",
+    "",
+    "At the feast, people are divided about Him. Some call Him good and others say He misleads people. Fear of the authorities keeps the discussion quiet. The scene presents different responses within a Jewish setting, rather than one view held by every Jewish person."
+  ],
+  "common_interpretation_lines": [
+    "Christian readers commonly understand Jesus as refusing to let others set His course. Commentators differ over the emphasis of His time: Calvin understands the immediate reference as when to begin the journey, while the USCCB’s note connects it with the larger theme of His death and resurrection. ([Calvin on John 7:6](https://biblehub.com/commentaries/calvin/john/7.htm); [USCCB note on John 7:6](https://bible.usccb.org/bible/john/7))",
+    "",
+    "Readers also differ over the family relationship meant by His brothers. The Catholic Church teaches that these are close relatives, rather than other children of Mary. The Orthodox tradition reflected in the Orthodox Church in America’s life of Joseph understands them as Joseph’s children from a previous marriage. ([Catechism §§499–500](https://www.vatican.va/archive/ENG0015/__P1K.HTM); [OCA, Joseph the Betrothed](https://www.oca.org/saints/lives/1951/12/30/85-holy-righteous-joseph-the-betrothed))",
+    "",
+    "A published Orthodox Presbyterian Church answer reads them as Mary and Joseph’s later children, making them Jesus’ half-brothers. Protestant readers do not all agree: Wesley identifies cousins here, and Calvin understands the term as including wider relatives. The OPC answer is a church-published explanation, while Wesley and Calvin give their own interpretations. ([OPC Q&A](https://opc.org/qa.html?question_id=19); [Wesley on John 7:3](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/); [Calvin on John 7:3](https://biblehub.com/commentaries/calvin/john/7.htm))"
+  ],
+  "god_plan_lines": [
+    "The feast’s memory of life in temporary shelters can be read alongside the wider scriptural theme of God making His home with His people. This Gospel has already said that the Word becomes flesh and dwells among us. Jesus’ presence at the feast belongs within that larger story of God coming near through the Son. This is a thematic parallel, rather than a claim that John assigns a hidden meaning to every feast detail. ([John 1:14](https://biblehub.com/bsb/john/1.htm))",
+    "",
+    "Revelation carries the hope forward to God dwelling with His people, wiping away tears and ending death. The purpose reaches beyond one journey to a feast: life with God in the renewed creation. ([Revelation 21:1–4](https://biblehub.com/bsb/revelation/21.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/7.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-seven-opening-review.md"
+  }
+}

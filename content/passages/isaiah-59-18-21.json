@@ -5,34 +5,60 @@
     "label": "Isaiah 59:18-21",
     "slug": "isaiah-59-18-21"
   },
-  "section_title": "The Covenant of the Redeemer",
+  "section_title": "What does the coming Redeemer promise to Jacob?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "18 So He will repay according to their deeds:",
-        "fury to His enemies,",
-        "retribution to His foes,",
-        "and recompense to the islands.",
-        "19 So shall they fear the name of the LORD",
-        "where the sun sets,",
-        "and His glory where it rises.",
-        "For He will come like a raging flood,",
-        "driven by the breath of the LORD.",
-        "20 \u201cThe Redeemer will come to Zion,",
-        "to those in Jacob who turn from transgression,\u201d",
-        "declares the LORD.",
-        "21 \u201cAs for Me, this is My covenant with them,\u201d says the LORD. \u201cMy Spirit will not depart from you, and My words that I have put in your mouth will not depart from your mouth or from the mouths of your children and grandchildren, from now on and forevermore,\u201d says the LORD."
+        "18 So He will repay according to their deeds: fury to His enemies, retribution to His foes, and recompense to the islands. 19 So shall they fear the name of the LORD where the sun sets, and His glory where it rises. For He will come like a raging flood, driven by the breath of the LORD.",
+        "20 “The Redeemer will come to Zion, to those in Jacob who turn from transgression,” declares the LORD. 21 “As for Me, this is My covenant with them,” says the LORD. “My Spirit will not depart from you, and My words that I have put in your mouth will not depart from your mouth or from the mouths of your children and grandchildren, from now on and forevermore,” says the LORD."
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 59**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "The Lord’s intervention brings repayment according to deeds, reaching even the islands. His name will be feared from west to east, and His coming is compared to a raging flood driven by His breath.",
+    "",
+    "A Redeemer is promised to Zion and to those in Jacob who turn from transgression. Rescue is joined to a turning from sin, rather than an assurance that wrongdoing can continue unchanged.",
+    "",
+    "The covenant declaration promises the continuing presence of His Spirit and His words among the people and their descendants. The chapter that began with sin creating a barrier ends with His pledge of an enduring relationship."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Covenant of the Redeemer** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/isaiah/59.htm) and [Wesley](https://biblehub.com/commentaries/wes/isaiah/59.htm) identify the Redeemer with Christ. They connect the promise with His saving work and understand the Spirit and word as essential to the continuing life of His people.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 59** remains the first control on meaning."
+    "Wesley explicitly points to Paul’s use of the passage in Romans 11. Henry emphasizes that rescue and the Spirit’s work belong together, and that claims about the Spirit must be tested by Scripture. Both read the ending as God securing what human efforts could not supply."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[Romans 11:25–32](https://biblehub.com/bsb/romans/11.htm) directly draws on the promise of the Deliverer and the removal of ungodliness from Jacob. Paul places it in his discussion of Israel, the Gentiles, God’s covenant and the taking away of sins.",
+    "",
+    "He warns Gentile believers against conceit and speaks of God’s gifts and call as irrevocable. His explanation holds both groups within the story of disobedience and mercy, giving the promised rescue a place in God’s wider saving purpose.",
+    "",
+    "The connection supplied by Paul concerns the Deliverer, the removal of sin and God’s faithfulness. It invites confidence in His mercy rather than superiority over the people whose story Paul is explaining."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/59.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-fifty-seven-nine-review.md"
+  }
 }

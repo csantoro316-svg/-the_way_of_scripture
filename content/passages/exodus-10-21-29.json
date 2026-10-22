@@ -5,27 +5,59 @@
     "label": "Exodus 10:21-29",
     "slug": "exodus-10-21-29"
   },
-  "section_title": "The Ninth Plague: Darkness",
+  "section_title": "What did the darkness reveal about Pharaoh’s remaining demands?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "21 Then the LORD said to Moses, \u201cStretch out your hand toward heaven, so that darkness may spread over the land of Egypt\u2014a palpable darkness.\u201d",
-        "22 So Moses stretched out his hand toward heaven, and total darkness covered all the land of Egypt for three days. 23 No one could see anyone else, and for three days no one left his place. Yet all the Israelites had light in their dwellings.",
-        "24 Then Pharaoh summoned Moses and said, \u201cGo, worship the LORD. Even your little ones may go with you; only your flocks and herds must stay behind.\u201d",
-        "25 But Moses replied, \u201cYou must also provide us with sacrifices and burnt offerings to present to the LORD our God. 26 Even our livestock must go with us; not a hoof will be left behind, for we will need some of them to worship the LORD our God, and we will not know how we are to worship the LORD until we arrive.\u201d",
-        "27 But the LORD hardened Pharaoh\u2019s heart, and he was unwilling to let them go. 28 \u201cDepart from me!\u201d Pharaoh said to Moses. \u201cMake sure you never see my face again, for on the day you see my face, you will die.\u201d",
-        "29 \u201cAs you say,\u201d Moses replied, \u201cI will never see your face again.\u201d"
+        "21 Then the LORD said to Moses, “Stretch out your hand toward heaven, so that darkness may spread over the land of Egypt—a palpable darkness.” 22 So Moses stretched out his hand toward heaven, and total darkness covered all the land of Egypt for three days. 23 No one could see anyone else, and for three days no one left his place. Yet all the Israelites had light in their dwellings.",
+        "24 Then Pharaoh summoned Moses and said, “Go, worship the LORD. Even your little ones may go with you; only your flocks and herds must stay behind.” 25 But Moses replied, “You must also provide us with sacrifices and burnt offerings to present to the LORD our God. 26 Even our livestock must go with us; not a hoof will be left behind, for we will need some of them to worship the LORD our God, and we will not know how we are to worship the LORD until we arrive.” 27 But the LORD hardened Pharaoh’s heart, and he was unwilling to let them go. 28 “Depart from me!” Pharaoh said to Moses. “Make sure you never see my face again, for on the day you see my face, you will die.” 29 “As you say,” Moses replied, “I will never see your face again.”"
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 10**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "God commands Moses to stretch out his hand, and darkness covers Egypt for three days. It is described as darkness that could be felt. People cannot see one another or leave their places, while the Israelites have light in their dwellings.",
+    "",
+    "Light also mattered in Egypt’s religious life. The [Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/545713) describes ancient scarabs bearing inscriptions that sought the protection of the sun god Re. That background gives another dimension to the judgment: Egypt’s religious confidence offers no escape from the darkness God sends.",
+    "",
+    "Pharaoh makes a further offer. The families may go, including the children, but the flocks and herds must remain. Moses insists that the animals must go too, since they will need them for the worship God commands. The terms of that worship are for God to determine.",
+    "",
+    "The LORD hardens Pharaoh’s heart, and he refuses. Pharaoh then threatens Moses with death if he sees him again. Moses accepts that this confrontation is reaching its end. The next chapter brings the announcement of the final judgment."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Ninth Plague: Darkness** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 10** remains the first control on meaning."
+    "The shared reading understands the darkness as an extraordinary act of God exposing Egypt’s helplessness and distinguishing Israel’s situation. [Calvin](https://biblehub.com/commentaries/calvin/exodus/10.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) both connect the judgment and Israel’s light with God’s power and care, while the final exchange shows Pharaoh continuing to resist the full release of the people."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "A later parallel appears in [Revelation 16:10–11](https://biblehub.com/bsb/revelation/16.htm), where the beast’s kingdom is plunged into darkness. Its people suffer and curse God, yet still do not repent. Darkness again appears within judgment upon a power that opposes God.",
+    "",
+    "The parallel includes the response as well as the darkness itself. In Egypt, Pharaoh’s control is exposed as powerless to prevent the judgment, but his refusal continues. Revelation likewise shows that suffering under judgment does not by itself produce repentance. Both accounts direct attention to God’s authority over kingdoms that resist Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/10.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-ten-review.md"
+  }
 }

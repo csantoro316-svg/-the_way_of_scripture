@@ -5,26 +5,52 @@
     "label": "1 Samuel 13:1-7",
     "slug": "1-samuel-13-1-7"
   },
-  "section_title": "War with the Philistines",
+  "section_title": "What happens when the Philistines answer Jonathan’s attack?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 Saul was thirty years old when he became king, and he reigned over Israel forty-two years. 2 He chose for himself three thousand men of Israel: Two thousand were with Saul at Michmash and in the hill country of Bethel, and a thousand were with Jonathan in Gibeah of Benjamin. And the rest of the troops he sent away, each to his own home.",
-        "3 Then Jonathan attacked the Philistine outpost at Geba, and the Philistines heard about it. So Saul blew the ram\u2019s horn throughout the land, saying, \u201cLet the Hebrews hear!\u201d",
-        "4 And all Israel heard the news: \u201cSaul has attacked an outpost of the Philistines, and now Israel has become a stench to the Philistines!\u201d Then the people were summoned to join Saul at Gilgal.",
-        "5 Now the Philistines assembled to fight against Israel with three thousand chariots, six thousand horsemen, and troops as numerous as the sand on the seashore. They went up and camped at Michmash, east of Beth-aven.",
-        "6 Seeing that they were in danger because their troops were hard-pressed, the men of Israel hid in caves and thickets, among the rocks, and in cellars and cisterns. 7 Some Hebrews even crossed the Jordan into the land of Gad and Gilead. Saul, however, remained at Gilgal, and all his troops were quaking in fear."
+        "1 Saul was thirty years old when he became king, and he reigned over Israel forty-two years. 2 He chose for himself three thousand men of Israel: Two thousand were with Saul at Michmash and in the hill country of Bethel, and a thousand were with Jonathan in Gibeah of Benjamin. And the rest of the troops he sent away, each to his own home. 3 Then Jonathan attacked the Philistine outpost at Geba, and the Philistines heard about it. So Saul blew the ram’s horn throughout the land, saying, “Let the Hebrews hear!” 4 And all Israel heard the news: “Saul has attacked an outpost of the Philistines, and now Israel has become a stench to the Philistines!” Then the people were summoned to join Saul at Gilgal.",
+        "5 Now the Philistines assembled to fight against Israel with three thousand chariots, six thousand horsemen, and troops as numerous as the sand on the seashore. They went up and camped at Michmash, east of Beth-aven. 6 Seeing that they were in danger because their troops were hard-pressed, the men of Israel hid in caves and thickets, among the rocks, and in cellars and cisterns. 7 Some Hebrews even crossed the Jordan into the land of Gad and Gilead. Saul, however, remained at Gilgal, and all his troops were quaking in fear."
       ]
     }
   ],
   "context_lines": [
-    "In **1 Samuel 13**, this section should be read within the flow of the chapter and the larger movement of 1 Samuel."
+    "Saul retains three thousand men, dividing them between himself and Jonathan, and sends the rest home. Jonathan attacks a Philistine outpost at Geba. The news spreads as Saul summons Israel to Gilgal, with the attack being reported under the king’s name.",
+    "",
+    "The Philistines assemble at Michmash with chariots, horsemen and an immense body of troops. The BSB gives three thousand chariots and six thousand horsemen. Faced with that force, Israelites hide in caves, thickets and other shelters; some cross the Jordan. Saul stays at Gilgal with people who are trembling.",
+    "",
+    "The opening age and reign figures require care. The [BSB footnotes](https://biblehub.com/bsb/1_samuel/13.htm) identify differences in the underlying textual witnesses, while [Acts 13:21](https://biblehub.com/bsb/acts/13.htm) gives forty years for Saul’s reign. The BSB wording is reproduced above, but this paragraph does not establish an exact date for every event in Saul’s early rule."
   ],
   "common_interpretation_lines": [
-    "A common reading of **War with the Philistines** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-samuel/) reads the crisis as exposing the limits of confidence in a human king: the people still need God’s help. [Henry](https://biblehub.com/commentaries/mhc/1_samuel/13.htm) similarly emphasizes the fear and desertion surrounding Saul. Their readings keep the military danger connected with the larger question of Israel’s trust.",
     "",
-    "Where interpreters differ on details, the immediate setting in **1 Samuel 13** remains the first control on meaning."
+    "Translations and older commentaries differ over the opening chronology and the number of chariots. The [USCCB study notes](https://bible.usccb.org/bible/1samuel/13) identify the textual difficulty in verse 1 and the three-thousand reading in some Greek manuscripts. These are questions about the wording transmitted, rather than a necessary division between church traditions. The quotations here follow the checked BSB, without silently replacing its numbers with those of an older commentary."
   ],
-  "deeper_study": []
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_samuel/13.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-samuel-thirteen-review.md"
+  }
 }

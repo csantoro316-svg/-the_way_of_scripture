@@ -5,25 +5,56 @@
     "label": "Judges 9:50-57",
     "slug": "judges-9-50-57"
   },
-  "section_title": "Abimelech\u2019s Punishment",
+  "section_title": "How does Abimelech’s rule end?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "50 Then Abimelech went to Thebez, encamped against it, and captured it. 51 But there was a strong tower inside the city, and all the men, women, and leaders of the city fled there. They locked themselves in and went up to the roof of the tower.",
-        "52 When Abimelech came to attack the tower, he approached its entrance to set it on fire. 53 But a woman dropped an upper millstone on Abimelech\u2019s head, crushing his skull. 54 He quickly called his armor-bearer, saying, \u201cDraw your sword and kill me, lest they say of me, \u2018A woman killed him.\u2019 \u201d",
-        "So Abimelech\u2019s armor-bearer ran his sword through him, and he died. 55 And when the Israelites saw that Abimelech was dead, they all went home.",
+        "50 Then Abimelech went to Thebez, encamped against it, and captured it. 51 But there was a strong tower inside the city, and all the men, women, and leaders of the city fled there. They locked themselves in and went up to the roof of the tower. 52 When Abimelech came to attack the tower, he approached its entrance to set it on fire. 53 But a woman dropped an upper millstone on Abimelech’s head, crushing his skull. 54 He quickly called his armor-bearer, saying, “Draw your sword and kill me, lest they say of me, ‘A woman killed him.’” So Abimelech’s armor-bearer ran his sword through him, and he died. 55 And when the Israelites saw that Abimelech was dead, they all went home.",
         "56 In this way God repaid the wickedness that Abimelech had done to his father in murdering his seventy brothers. 57 And God also brought all the wickedness of the men of Shechem back upon their own heads. So the curse of Jotham son of Jerubbaal came upon them."
       ]
     }
   ],
   "context_lines": [
-    "In **Judges 9**, this section should be read within the flow of the chapter and the larger movement of Judges."
+    "Abimelech next captures Thebez, but the people take refuge in a strong tower. As he approaches to burn its entrance, a woman drops an upper millstone on his head. Mortally injured, he asks his armor-bearer to kill him so that people will not say a woman killed him. The armor-bearer does so, and the army disperses.",
+    "",
+    "His attempt to control his reputation does not erase what happened. The later account in [Second Samuel 11:18–21](https://biblehub.com/bsb/2_samuel/11.htm) remembers the woman and the millstone when discussing the danger of approaching a city wall.",
+    "",
+    "The chapter ends with the narrator’s explanation: God repays Abimelech’s wickedness against his father’s household and brings Shechem’s wickedness back upon its leaders. Jotham’s curse has come upon them. The destruction they helped set in motion has reached both parties."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Abimelech\u2019s Punishment** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Judges 9** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-judges/) and [Gill](https://biblehub.com/commentaries/gill/judges/9.htm) notice the fitting reversal: Abimelech killed his brothers on a stone and receives a fatal blow from a stone. [Henry](https://biblehub.com/commentaries/mhc/judges/9.htm) emphasizes the end of power gained through wickedness. These readings follow the narrator’s explicit conclusion that God has judged the shared crime, rather than merely describing an unlucky end to a military campaign."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The judgment of a violent ruler belongs to a wider biblical assurance that power does not place anyone beyond God’s justice. [Acts 17:24–31](https://biblehub.com/bsb/acts/17.htm) announces the Creator’s rule over all nations, calls everyone to repentance, and declares a coming day when He will judge the world through the One He raised from the dead.",
+    "",
+    "Judges records a particular judgment within history. The New Testament points toward judgment through the risen Jesus that reaches the whole world. The hope is not that every wrong will receive an identical visible repayment immediately, but that God’s justice is larger than any ruler’s ability to escape or control the account of his life."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/judges/9.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-judges-nine-review.md"
+  }
 }

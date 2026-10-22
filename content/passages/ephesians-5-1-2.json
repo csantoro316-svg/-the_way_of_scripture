@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Ephesians",
+    "citation": "5:1-2",
+    "label": "Ephesians 5:1-2",
+    "slug": "ephesians-5-1-2"
+  },
+  "section_title": "What does it mean to love as God’s children?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Be imitators of God, therefore, as beloved children, 2 and walk in love, just as Christ loved us and gave Himself up for us as a fragrant sacrificial offering to God."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The word therefore carries forward the call to forgive as God forgave in Christ (4:32). Paul now calls believers to imitate God as children who are loved by Him. God’s love is the starting point for their response.",
+    "",
+    "Walking in love describes the way they are to live. Christ supplies the pattern: He loved us and gave Himself for us. Paul describes His self-giving as an offering and sacrifice pleasing to God.",
+    "",
+    "This short passage connects the practical kindness and forgiveness of chapter 4 with the warnings that follow. Loving others belongs with turning from conduct that uses or harms them."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a call to reflect the Father’s love through the pattern of Christ’s self-giving. [Wesley’s note on verse 1](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-ephesians/) and the [USCCB note](https://bible.usccb.org/bible/ephesians/5) connect imitating God with forgiving and loving others. The passage grounds that love in what Christ has already done for His people."
+  ],
+  "god_plan_lines": [
+    "The pleasing-aroma language has a clear scriptural background. [Exodus 29:15–18](https://biblehub.com/bsb/exodus/29.htm) describes a burnt offering to the Lord with that language. Ephesians explicitly applies sacrificial language to Christ’s gift of Himself. This is a connection the passage makes, rather than a claim that every detail of that offering supplies a separate symbol here.",
+    "",
+    "[2 Corinthians 5:14–15](https://biblehub.com/bsb/2_corinthians/5.htm) connects Christ’s death with His people living for the One who died and rose for them. His saving work gives direction to their life: received love becomes the reason for loving service."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/ephesians/5.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-ephesians-five-opening-review.md"
+  }
+}

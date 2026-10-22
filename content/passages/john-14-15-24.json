@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "14:15-24",
+    "label": "John 14:15-24",
+    "slug": "john-14-15-24"
+  },
+  "section_title": "How will Jesus remain with the people who love Him?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 If you love Me, you will keep My commandments. 16 And I will ask the Father, and He will give you another Advocate to be with you forever— 17 the Spirit of truth. The world cannot receive Him, because it neither sees Him nor knows Him. But you do know Him, for He abides with you and will be in you.",
+        "18 I will not leave you as orphans; I will come to you. 19 In a little while the world will see Me no more, but you will see Me. Because I live, you also will live. 20 On that day you will know that I am in My Father, and you are in Me, and I am in you. 21 Whoever has My commandments and keeps them is the one who loves Me. The one who loves Me will be loved by My Father, and I will love him and reveal Myself to him.”",
+        "22 Judas (not Iscariot) asked Him, “Lord, why are You going to reveal Yourself to us and not to the world?” 23 Jesus replied, “If anyone loves Me, he will keep My word. My Father will love him, and We will come to him and make Our home with him. 24 Whoever does not love Me does not keep My words. The word that you hear is not My own, but it is from the Father who sent Me."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus connects love for Him with keeping His commandments. He then promises the disciples another Advocate, the Spirit of truth, who will remain with them forever. His approaching departure will not leave them without help.",
+    "",
+    "The word Advocate is παράκλητος, paraklētos (pah-rah-KLAY-toss). [Thayer’s lexicon](https://biblehub.com/greek/3875.htm) describes someone called to another’s aid and explains its use here as a helper who strengthens the disciples and leads them into a deeper understanding of the truth. The role includes more than making them feel better.",
+    "",
+    "Jesus promises not to leave them as orphans. Their life will be bound to His life, and they will come to know His presence with them. Judas, explicitly distinguished from Iscariot, asks why Jesus will reveal Himself to them rather than to the world. Jesus answers by returning to love, obedience and the Father and Son making their home with the believer.",
+    "",
+    "The scene holds together the Father who gives, the Son who asks and the Spirit who comes. It also holds together the promise of God’s presence and a practical response to Jesus’ words. The disciples are being prepared for a life of receiving His help and following His teaching."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the promised Spirit as God’s continuing presence and help for Jesus’ followers, with love for Jesus expressed in obedience. [Wesley on verses 15–20](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) connects the promise with the disciples’ life after the resurrection and, especially, Pentecost. [Calvin on verses 16–20](https://biblehub.com/commentaries/calvin/john/14.htm) emphasizes Christ’s presence by the Spirit and the continuing life His people receive from Him. These readings see the promise reaching beyond the hours of the meal.",
+    "",
+    "Obedience is closely joined to love here; it is not presented as an isolated achievement. Calvin’s note on verse 21 also warns against concluding that people first earn God’s love, appealing to God’s prior love in [Romans 5:10](https://biblehub.com/bsb/romans/5.htm) and [1 John 4:10](https://biblehub.com/bsb/1_john/4.htm)."
+  ],
+  "god_plan_lines": [
+    "The promise of the Spirit continues a biblical theme of God changing His people from within. [Ezekiel 36:25–27](https://biblehub.com/bsb/ezekiel/36.htm) speaks of cleansing, a new heart and God’s Spirit enabling obedience. This is a supported connection with the promise here, not a claim that every detail of Ezekiel’s setting disappears.",
+    "",
+    "[Romans 8:9–17](https://biblehub.com/bsb/romans/8.htm) develops life by the indwelling Spirit as belonging to Christ and living as God’s children. Jesus’ promise not to leave His disciples as orphans fits that larger purpose: His people receive His presence and learn to live as children of the Father."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/14.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-fourteen-closing-review.md"
+  }
+}

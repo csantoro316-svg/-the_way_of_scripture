@@ -1,0 +1,21 @@
+# Mark 6:14–29 editorial review
+
+Baseline lesson 6C, PDF pages 324–336, read in full. Retained the flashback, Herod's conflicted response, the marriage protest, pressure from his public promise, the cost of faithful witness, and the connection with Jesus' suffering. Original prose; no copied lesson structure or anecdotes.
+
+Direct BSB main-text checks: Mark 6:14–30; Matthew 14:1–12; Leviticus 18:16 and 20:21; Mark 9:11–13; Matthew 17:10–13; Mark 15:9–15,42–47; Luke 23:8–12. Mark 10:42–45 directly checked earlier in this continuing review. Speakers' identity guesses distinguished from Mark's own account. Current BSB perplexed retained rather than importing an older translation's did many things.
+
+Independent history: Josephus, Antiquities 18.5.1–2, directly read. Antipas identification and imprisonment/execution supported. Josephus emphasizes political fear; Mark supplies marriage protest and banquet narrative. Josephus attributes the divine-punishment interpretation of the military defeat to some Jews; it is not stated publicly as a proven cause. Translator's bracketed dates are not original Josephus. No new lexical claim is needed.
+
+Primary interpretive documents: Calvin's Mark 6 harmony, including Matthew 14:9/Mark 6:26, and Wesley's Mark 6 notes directly read; USCCB Mark 6 notes also read. Shared moral reading stated briefly. Commentators' agreement is not represented as a binding declaration by every church. No denominational difference note forced onto this passage.
+
+## Mark 6:14–29
+
+Plan section: included, because (a)/(b)/(c). Jesus connects John's Elijah role and mistreatment with His own suffering in Mark 9 and explicitly in Matthew 17. The ruler/pressure/death/burial connection with Mark 15 is labeled a parallel. Mark 10:45 distinguishes Jesus' saving ransom from merely another messenger's death.
+
+Position source: none. Related Gospel and Disciple studies do not supply an owner position on this whole passage.
+
+FLAGGED FOR REVIEW: Omitted claims about exactly 400 years without any prophetic word, John's precise age or imprisonment duration, a settled calendar, Herod's drunkenness, the dance's sexual details, the girl's exact age or clothing, and a fully preplanned dance conspiracy: not established by this text or independently checked sources. Mark does not name the dancer; the first Salome hit in Josephus concerns another woman, so no identification is adopted. No reconstructed Herodian family tree, exact first-husband identification beyond Mark's wording, or imported Calvin historical error. No banquet location inferred from Josephus's prison location. No universal claim about wicked birthdays or banquets; no unverified Antigone phrase history. No technical legal oath category or revocation procedure presented as established law. No assertion that John alone had courage, no invented private conversations or national response. No diagnosis of Herodias as demon-possessed or certainty about her private motives beyond the account. No permanent verdict that Herod could never repent, or psychology claiming every emotion is conscience. No stolen anecdotes. No Josephus divine-punishment claim treated as demonstrated history, and no editorial date quoted as Josephus's own. No Calvin speculation about fear of divorce rather than revenge asserted as fact. No private ranking of Herod's motives beyond Mark's explicit oaths and guests. No belief that John rose presented as actual resurrection, and no universal Jewish reincarnation doctrine. No atoning role assigned to John's death; Jesus gives His own ransom purpose. No forced matching of every Passion detail or blanket ethnic guilt.
+
+## Validation
+
+Completed: direct BSB verification; eight tests; repository validation 0 errors / 356 legacy warnings; selected source/index/HTML agreement; unrelated prose preservation; all 33 reviewed Mark navigation entries and 221 unique verses continuously through 6:29. Reader and standalone fit at 390px with all sections; actual Previous returned to 6:7–13 with title focus/top 188.5px. Idempotence passed across 1,251 website files. Hosting dry run and release finished; all five live files matched local bytes. Prefix `/tmp/scripture-mark-six-john-`.

@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "13:10-17",
+    "label": "Matthew 13:10-17",
+    "slug": "matthew-13-10-17"
+  },
+  "section_title": "Hearing, Understanding, and the Gift of Revelation",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 Then the disciples came to Jesus and asked, “Why do You speak to the people in parables?” 11 He replied, “The knowledge of the mysteries of the kingdom of heaven has been given to you, but not to them. 12 Whoever has will be given more, and he will have an abundance. Whoever does not have, even what he has will be taken away from him. 13 This is why I speak to them in parables: ‘Though seeing, they do not see; though hearing, they do not hear or understand.’",
+        "14 In them the prophecy of Isaiah is fulfilled: ‘You will be ever hearing but never understanding; you will be ever seeing but never perceiving. 15 For this people’s heart has grown callous; they hardly hear with their ears, and they have closed their eyes. Otherwise they might see with their eyes, hear with their ears, understand with their hearts, and turn, and I would heal them.’",
+        "16 But blessed are your eyes because they see, and your ears because they hear. 17 For truly I tell you, many prophets and righteous men longed to see what you see but did not see it, and to hear what you hear but did not hear it."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The disciples ask why Jesus speaks to the crowds in parables. He answers in terms of a gift: knowledge of the kingdom's mysteries has been given to them. He also describes people who see and hear without understanding, and warns that even what they have can be taken away.",
+    "",
+    "The word translated mysteries is μυστήριον, *mystērion* (moos-TAY-ree-on), something hidden that God makes known. [Thayer's entry](https://biblehub.com/greek/3466.htm) connects its New Testament use with God's purposes revealed through Christ, and includes this verse. The disciples are receiving understanding of what God is doing through Jesus.",
+    "",
+    "Jesus quotes [Isaiah 6:9–10](https://biblehub.com/bsb/isaiah/6.htm), where hearing and seeing fail to become a real response to God. Matthew's quotation describes calloused hearts and closed eyes. God's gift of understanding and the hearers' resistance both appear in His answer.",
+    "",
+    "He then blesses the disciples for seeing and hearing what earlier prophets and righteous people longed for. Their privilege lies in being present as God's promise unfolds through Him. Receiving that gift carries a call to listen, rather than a reason to take understanding for granted."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings hold together God's gift of understanding and the seriousness of refusing what He reveals, while placing different emphasis on how those relate. [Wesley on Matthew 13:11–16](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) emphasizes people failing to use the light they have received and closing their eyes to it.",
+    "",
+    "The Reformed [Westminster Confession, 10.1–2](https://www.opc.org/wcf.html), emphasizes God's word and Spirit renewing the heart and will so that people freely come to Christ. The Catholic [Catechism, 546](https://www.vatican.va/archive/ENG0015/__P1L.HTM), emphasizes the choice demanded by the parables and becoming a disciple to understand the kingdom. These explanations affirm the need for God's gift, while describing His work and the listener's response in different ways."
+  ],
+  "god_plan_lines": [
+    "Isaiah's words also appear in the continuing mission after Jesus' resurrection. In [Acts 28:23–28](https://biblehub.com/bsb/acts/28.htm), Paul explains Jesus from the Law and the Prophets. Some are persuaded and others refuse to believe; he then quotes the same warning about hearing without understanding.",
+    "",
+    "Paul goes on to announce that God's salvation has been sent to the Gentiles. The repeated prophecy places these responses within the wider story of the message reaching new hearers. It is a warning to receive God's word, not a reason to assume that every member of a people responds identically."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/13.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-thirteen-review.md"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "2 Corinthians",
+    "citation": "7:13-16",
+    "label": "2 Corinthians 7:13-16",
+    "slug": "2-corinthians-7-13-16"
+  },
+  "section_title": "How did the Corinthians restore confidence and joy?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 On account of this, we are encouraged. In addition to our own encouragement, we were even more delighted by the joy of Titus. For his spirit has been refreshed by all of you. 14 Indeed, I was not embarrassed by anything I had boasted to him about you. But just as everything we said to you was true, so our boasting to Titus has proved to be true as well. 15 And his affection for you is even greater when he remembers that you were all obedient as you welcomed him with fear and trembling. 16 I rejoice that I can have complete confidence in you."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul describes the effect of the Corinthians’ response on Titus and on himself. Their own encouragement is increased by seeing Titus’s joy, because his spirit has been refreshed by them.",
+    "",
+    "Paul had spoken confidently about them to Titus. Their response has shown that confidence to be well placed, rather than leaving him embarrassed by an empty boast. Truth in what he said and truth in their response now belong together.",
+    "",
+    "Titus remembers their welcome and obedience, expressed with fear and trembling, and his affection for them grows. The phrase communicates the seriousness of their reception; the passage does not present terror of a messenger as the goal of Christian fellowship.",
+    "",
+    "The section ends with Paul rejoicing in renewed confidence. It is the fruit of a changed relationship after a painful episode, rather than a promise that every conflict will end immediately or that people can predict another person’s choices infallibly."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as joy over a relationship restored and confidence confirmed by the congregation’s response. The [USCCB note on verses 13–16](https://bible.usccb.org/bible/2corinthians/7) draws together the encouragement, love and relief experienced by Titus and Paul. Their shared joy is the closing note of this account."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_corinthians/7.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-corinthians-seven-review.md"
+  }
+}

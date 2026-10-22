@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "10:1-4",
+    "label": "Matthew 10:1-4",
+    "slug": "matthew-10-1-4"
+  },
+  "section_title": "The Twelve Are Called and Sent",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 And calling His twelve disciples to Him, Jesus gave them authority over unclean spirits, so that they could drive them out and heal every disease and sickness.",
+        "2 These are the names of the twelve apostles: first Simon, called Peter, and his brother Andrew; James son of Zebedee, and his brother John; 3 Philip and Bartholomew; Thomas and Matthew the tax collector; James son of Alphaeus, and Thaddaeus; 4 Simon the Zealot, and Judas Iscariot, who betrayed Jesus."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus has just told His disciples to ask the Lord of the harvest for workers in [Matthew 9:35–38](https://biblehub.com/bsb/matthew/9.htm). He now calls the twelve and gives them authority to bring the same kind of help people have received through His ministry. The workers depend on authority He gives, rather than a power they possess independently.",
+    "",
+    "Matthew calls them apostles. The Greek word is ἀπόστολος, *apostolos* (ah-POS-toh-los), a delegate or messenger sent with a commission. [Thayer's Greek Lexicon](https://biblehub.com/greek/652.htm) explains both that general meaning and its particular use for the twelve chosen by Jesus. Here the title prepares for their being sent in the next verses.",
+    "",
+    "[Mark 3:13–19](https://biblehub.com/bsb/mark/3.htm) describes their appointment to be with Jesus and to be sent out to preach. [Luke 6:12–16](https://biblehub.com/bsb/luke/6.htm) places His choice of the twelve after a night of prayer. Together these accounts show that their mission grows out of being called to Him and learning from Him.",
+    "",
+    "The list names brothers, distinguishes two men named James and two named Simon, and identifies Matthew as the tax collector. Simon Peter heads the list. [John 1:40–42](https://biblehub.com/bsb/john/1.htm) describes Andrew bringing Simon to Jesus and Jesus giving him the name Cephas, translated as Peter. These are people with names and relationships, not simply an unnamed group of messengers.",
+    "",
+    "Judas Iscariot is included, with the betrayal already named. That detail looks ahead to the later Passion account. Matthew does not introduce the twelve as men whose future conduct will always match the responsibility given to them."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the twelve as men specially chosen and authorized by Jesus to share His mission. [Wesley on Matthew 10:1](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) describes them as chosen from His followers, and the Catholic [Compendium of the Catechism, 109](https://press.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_en.html), likewise describes Jesus choosing the twelve and sharing His mission and authority with them."
+  ],
+  "god_plan_lines": [
+    "The number twelve connects this calling with God's purposes for Israel. In [Matthew 19:27–30](https://biblehub.com/bsb/matthew/19.htm), Jesus explicitly connects His followers' twelve thrones with the twelve tribes in the renewal of all things. The calling here belongs within that larger promise, rather than the creation of an arbitrary group size.",
+    "",
+    "Their role also reaches into the gathering of God's people through Christ. [Ephesians 2:19–22](https://biblehub.com/bsb/ephesians/2.htm) describes people welcomed into God's household, built on the foundation of apostles and prophets, with Jesus Himself as the cornerstone. The apostolic calling therefore reaches beyond a single journey: their witness serves the gathering of God's people around Christ."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/10.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-first-mission-review.md"
+  }
+}

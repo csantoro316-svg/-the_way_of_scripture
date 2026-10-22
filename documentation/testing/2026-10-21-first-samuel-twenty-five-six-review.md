@@ -1,0 +1,64 @@
+# 1 Samuel25–26 passage review — 2026-10-21
+
+Scope: seven retained groups25:1/2–17/18–38/39–44 and26:1–12/13–20/21–25, all69verses. Whole baseline lesson25pages255–269 andlesson26pages270–282actuallyread;PDF283+unread. Ownerexplicit25/26/Abigail/Nabal/Abishaisearch noaddressingposition; allnone. Existingdeeperlinkspreserved, noownerstudyedits.
+
+Actualsources: BSB25all44+26all25;Luke12:13–21;1Pet3:18;James1:2–5;John4:19–24;Deut17:16–20. WholeWesXXV+XXVI;wholeHenry25read intwo contiguousboundedpieces(0:6800/6800:end),Henry26whole. CompleteGill25:24,29,37,39,43 and26:10,12,19,21. BDB5036whole1769chars and5037whole328, actualentries; no unsignedTopicalLexicon. ActualUSCCB25notes;26HTTPErrornotreadorused.
+
+## 1 Samuel25:1
+
+Plan section: omitted, because none apply. Brief death/mourning/transition sufficientlyexplained; noforced chronology-based Messiah-delay system.
+Position source: none.
+FLAGGED FOR REVIEW: ExactSamuel12+18=30-yearrule/30fixedsovereigntynumber not independently established. NoassertedgeneralconsensusSamuelwrotefirst24chapters, unknownfuneralattendance/preciseDavidmood orParanSinairoute. MourningfaithfulserviceactualWes/Henry, nojudgmentallbereavedmustweepvisibly.
+
+## 1 Samuel25:2–17
+
+Plan section: included, because (b)/(c). LabeledNabal/richfoolparallel groundedLuke12Jesus'greed/life/richtowardGodteaching;noJesusdirectlynamesNabalclaim.
+Position source: none.
+FLAGGED FOR REVIEW: BDBnabalethical/religiousinsensibilitynotIQ;propernameentrypopularnameexplanation25:25checked. NoGodordainedbirthnameprophecycertainty orAbigailetymclaimunchecked. No3kfixedcode, exactlandwealthinheritedCalebcauseorBillGatescomparison.
+FLAGGED FOR REVIEW: Sheep-shearingfeastdescribedactualnarrative;noeverynightuniversalcustom/deathforinsultusuallegalpenalty/mileageorprecisealllostsheeprecovered assertion. Servantconfirmsprotection;noexpresscontractemploymentinvented.
+FLAGGED FOR REVIEW: NabalinsultsDavidfugitivestatus;notproofeveryIsraeliteknowsSamuelanointing orformallegalthronedispute. Nabalharshnessdoesnotjustifyhouseholdmassacre.
+
+## 1 Samuel25:18–38
+
+Plan section: included, because (b)/(c). BaselinecostlyinterventioncorrelationcheckedagainstactualWes/Gillbearingblameexplanationand1Pet3:18righteousChristforunrighteous. Clearlylabeledparallel, Abigailnotkilled/notactualsavingatonement;Jesus'workdistinct. GodrestrainsDavid throughwisehumanhelp.
+Position source: none.
+FLAGGED FOR REVIEW: BSB25:22MayGodpunishDavidconditionaloath, notGodfinishslaughterifDavidfails. Oathdoesnotmakewrongactionright;Wes25:33actualreading. NoimaginedinstructionGodordainedDavidrevenge.
+FLAGGED FOR REVIEW: Pluraldonkeys/servantsaheadactual;noAbigailaloneoneanimalallcapacitycalculation/foodinsufficient/certainservantwouldbekilled. Noanachronisticlifeinsurancejokeoruniversalhusbandpermissionrule. Emergencylife-savingactionreadincontext.
+FLAGGED FOR REVIEW: BundleimageUSCCB/Wes/Gillkeepingvaluablessafe;baselinecertain shepherdtwobundlesfood+stones not independently verified, omitted. No fixedstone/donkeymatchingJesusentrytypology. Metaphornotmechanicalprophecy.
+FLAGGED FOR REVIEW: Nabalheartfailsasstoneactual;noexactheartattack/stroke/emotionalfrightdiagnosisnorallnumbnessmoralhardening. Abouttennotrestrictednine-to-tenandno9judgment/10testimonycode. Nabal/nebelwinebagpun unverifiedandnotneeded, omitted.
+FLAGGED FOR REVIEW: DavidcreditsGodforAbigail, butnot everyconvictionorcriticismprovesGodsentmessenger. Nodeterministicperformanceguaranteeorallvictimsmustinterposebeforeviolence.
+
+## 1 Samuel25:39–44
+
+Plan section: omitted, because none apply. Gratitude/marriages/dynastywarningexplainedwithoutforcingAbigailmarriage=churchbrideoradditionalreprisalconnection.
+Position source: none.
+FLAGGED FOR REVIEW: Wes39callsDavidresponsehumaninfirmity;Gill39distinguishesgratitudeGodjusticefromprivatejoyindeath. Actualdifferenceattributed,notnewownerverdict.
+FLAGGED FOR REVIEW: Henryhonorableproposal/AbigailsharingtrialsandGill43polygamycritiquecontextualizedwithactualDeut17warning. No claimDavidcertainlyalreadylustdriven, Abigailcoerced/nochosenagency, widowinheritancecertainlysonsorwaitdurationinvented. Nouniversaldenominationjudgmentfromindividualcommentators.
+FLAGGED FOR REVIEW: SaulPaltiMichaltransactionactual, butcourtlypoliticalmotiveandMichallateruniversalsnarepsychologyunreportedhere. No automaticclaimSaulactlawfullydissolvedmarriage.
+
+## 1 Samuel26:1–12
+
+Plan section: included, because (c). Repeatedpressure/trust/developingwisdomgroundedJames1testing/perseverance/maturity/prayer;nofixedretestscheduleorperformancepayoff.
+Position source: none.
+FLAGGED FOR REVIEW: DavidasksAhimelechHittite,NOTAhimelechpriestwhowaskilled;BSBretained. NoexactAbnerassignednightwatchorAbishaifatherdeath/obscureparentreasoninvented. Nohereditarybraverygenealogyclaimneeded.
+FLAGGED FOR REVIEW: DeepLORDsleepactual;notordinarysedation/unnamedspecialpreviousrevelationasfact. ActualDaviDtakesitemsretainedwithoutunreportedAbishairefusalorpsychology. Noall3000archeologicalencampmentmeasurement.
+FLAGGED FOR REVIEW: Sauldeathalternativesreasonwaitnotmedicalprediction. Noaxiomallpresentpastorspoliticians=Saulanointedimmuneaccountabilityorpermissiontoremainviolentdanger. Comparison24conscienceversus26faithfulnessnotproofallDavid24speechrebelliousaudacity;actual24speechalreadyfairlyrendered.
+
+## 1 Samuel26:13–20
+
+Plan section: included, because (c). Sharedworship/belonging/exclusionthemeextendedthroughJesusJohn4worshipFatherinspirittruthbeyondcompetinglocations. NotdirectversepredictionorclaimGodunablehearoutsideIsrael.
+Position source: none.
+FLAGGED FOR REVIEW: DavidAbnerdeathworthyaccusationactualbutuniversalancientdeathpenaltyforguardfailureunverified. Noassertedexecutionoccurred, exacttimeearlymorning/distanceorSaulinescapablepursuitcertain.
+FLAGGED FOR REVIEW: GodstirredIFconditionalnotdefinitesecretsinrevelation. Wes/Henry/Gillofferingpeacereadingsrepresented. Godpresenteverywherenotlimitedtotabernacle;Davidprayersthroughflightalreadyshowaccess.
+FLAGGED FOR REVIEW: Goothersgodsunderstoodeffectofexclusion, notactualquotedcommandhistoryinvented. Noallforeignpeoplesevilbyethnicity. Sharedworshipmatterswithoutmodernpoliticallandtheologyimposed.
+
+## 1 Samuel26:21–25
+
+Plan section: omitted, because none apply. Confession/returnedspear/trustinLord/partingexplainedininterpretation, widerconnectionwouldrepeat24endingand26earlierplans.
+Position source: none.
+FLAGGED FOR REVIEW: Wes21sincereconfessionGodtouchedheart/nofurtherrecordedpursuitversusHenry/Gilldoubtlastingrepentanceactualprimarydifferencefairlyrepresented. NoSauldefinitivelysaved/damnedownerverdictorallwordsnecessarilyfake. Davidgoesonwaynotsameassafeaccesscourt.
+FLAGGED FOR REVIEW: Nosatisfactionalllessonspassedmeansneversinsagain;nextchaptershouldbeassessedonitsowntext. Nopublicbaselineidentityorcloseimitation, noownerpositionoriginated.
+
+## Validation
+
+Passed exact BSB, repository (0errors237warnings), preservation, continuous coverage through26:25, idempotence, all fourteen mobile views including omitted sections, actual Next26:13–20→21–25 with title focus/top188.5, dry run, deployment and LIVE MATCH11 (exit0). Cumulative61groups718verses50plans4positions57open; global intentional omissions72. Logs /tmp/scripture-first-samuel-twenty-five-six-.

@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "2 Peter",
+    "citation": "1:8-11",
+    "label": "2 Peter 1:8-11",
+    "slug": "2-peter-1-8-11"
+  },
+  "section_title": "Why does growth in faith matter?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "8 For if you possess these qualities and continue to grow in them, they will keep you from being ineffective and unproductive in your knowledge of our Lord Jesus Christ. 9 But whoever lacks these traits is nearsighted to the point of blindness, having forgotten that he has been cleansed from his past sins.",
+        "10 Therefore, brothers, strive to make your calling and election sure. For if you practice these things you will never stumble, 11 and you will receive a lavish reception into the eternal kingdom of our Lord and Savior Jesus Christ."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The qualities just listed are to be present and increasing. Peter connects them with fruitful knowledge of Jesus Christ. The person who lacks them is described as blind or shortsighted, having forgotten the cleansing of past sins.",
+    "",
+    "He therefore calls the readers to make their calling and election sure. The encouragement includes a promise about not stumbling as they practice these things and a lavish reception into Christ’s eternal kingdom. Both the seriousness of the call and the generosity of the promise belong to the paragraph.",
+    "",
+    "The passage does not leave knowing Christ at the level of words alone. It asks what is growing from that knowledge and directs the readers toward the kingdom of the Lord and Savior who called them."
+  ],
+  "common_interpretation_lines": [
+    "Traditions differ over how the warning and assurance relate. [Calvin](https://biblehub.com/commentaries/calvin/2_peter/1.htm) reads holy living as evidence of God’s calling and election, rather than their cause. The Reformed [Westminster Confession, 17.1–3 and 18.2–4](https://www.opc.org/wcf.html), teaches that God preserves true believers to the end while their assurance may be strengthened or shaken; good works are part of the evidence of grace.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-epistle-general-of-st-peter/) reads the warning as addressed to people who can cast away benefits they have received, and the promise as assurance against finally falling while they continue in this diligence. The Catholic [Catechism, 162](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_three/article_1/iii_the_characteristics_of_faith.html), likewise teaches that faith is God’s gift, can be lost and must be nourished through a life of faith and love.",
+    "",
+    "A different Free Grace reading appears in [Bob Wilkin’s explanation](https://faithalone.org/grace-in-focus-articles/has-this-passage-ever-bothered-you-3/). He understands making the calling sure as demonstrating it to others, with assurance resting on Christ’s promise. He relates the lavish reception to reward for faithfulness, while holding that all believers enter the kingdom. This is an individual reading, rather than a shared conclusion of all Protestant churches."
+  ],
+  "god_plan_lines": [
+    "In [John 15:1–8](https://biblehub.com/bsb/john/15.htm), Jesus connects fruitfulness with remaining in Him and His words. The Father is glorified as His disciples bear fruit. Growth serves that larger purpose, beyond answering questions about one’s own standing.",
+    "",
+    "Peter’s promise also keeps the destination in view: the eternal kingdom of Jesus Christ. The life being cultivated now belongs to the Savior whose people are called to live with Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_peter/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-peter-growth-review.md"
+  }
+}

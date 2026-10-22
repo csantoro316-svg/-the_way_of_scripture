@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "16:29-34",
+    "label": "1 Kings 16:29-34",
+    "slug": "1-kings-16-29-34"
+  },
+  "section_title": "How does Ahab deepen Israel’s departure from God?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "29 In the thirty-eighth year of Asa’s reign over Judah, Ahab son of Omri became king of Israel, and he reigned in Samaria twenty-two years. 30 However, Ahab son of Omri did evil in the sight of the LORD, more than all who were before him. 31 And as if it were not enough for him to walk in the sins of Jeroboam son of Nebat, he even married Jezebel the daughter of Ethbaal king of the Sidonians, and he then proceeded to serve and worship Baal. 32 First, Ahab set up an altar for Baal in the temple of Baal that he had built in Samaria. 33 Then he set up an Asherah pole. Thus Ahab did more to provoke the LORD, the God of Israel, to anger than all the kings of Israel before him.",
+        "34 In Ahab’s days, Hiel the Bethelite rebuilt Jericho. At the cost of Abiram his firstborn he laid its foundation, and at the cost of Segub his youngest he set up its gates, according to the word that the LORD had spoken through Joshua son of Nun."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Ahab son of Omri reigns twenty-two years in Samaria and exceeds his predecessors in evil. He marries Jezebel, daughter of Ethbaal king of the Sidonians, and proceeds to worship Baal.",
+    "",
+    "He builds a temple and altar for Baal in Samaria and sets up an Asherah pole. The account presents this as a further step beyond Jeroboam’s sin, provoking the LORD more than the earlier kings had done.",
+    "",
+    "A final notice records Hiel rebuilding Jericho at the cost of his sons Abiram and Segub. The narrator expressly connects those losses with the word God had spoken through Joshua."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/16.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) distinguish Ahab’s worship of other gods from the earlier attempt to worship Israel’s God through the calves. The new king does not merely preserve the existing departure; he deepens it.",
+    "",
+    "Wesley and [Gill](https://biblehub.com/commentaries/gill/1_kings/16.htm) read Hiel’s losses as the fulfillment of Joshua’s warning. The account places this disregard of an earlier word alongside the king’s disregard of the LORD. It records the cost to Hiel’s sons without describing the manner of their deaths."
+  ],
+  "god_plan_lines": [
+    "The earlier word is found in [Joshua 6:26](https://biblehub.com/bsb/joshua/6.htm), which specifically warns of the cost to the firstborn and youngest son of the person who rebuilds Jericho. Kings explicitly identifies the connection.",
+    "",
+    "[Hebrews 11:30](https://biblehub.com/bsb/hebrews/11.htm) recalls the other side of Jericho’s story: its walls fell through faith as the people followed God’s direction. Read together, these passages present a meaningful contrast between responding to God in faith and pressing ahead against His warning."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/16.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-sixteen-review.md"
+  }
+}

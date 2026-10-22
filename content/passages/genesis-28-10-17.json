@@ -5,24 +5,47 @@
     "label": "Genesis 28:10-17",
     "slug": "genesis-28-10-17"
   },
-  "section_title": "Jacob\u2019s Ladder",
+  "section_title": "Jacob’s Ladder",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
         "10 Meanwhile Jacob left Beersheba and set out for Haran. 11 On reaching a certain place, he spent the night there because the sun had set. And taking one of the stones from that place, he put it under his head and lay down to sleep.",
-        "12 And Jacob had a dream about a ladder that rested on the earth with its top reaching up to heaven, and God\u2019s angels were going up and down the ladder. 13 And there at the top the LORD was standing and saying, \u201cI am the LORD, the God of your father Abraham and the God of Isaac. I will give you and your descendants the land on which you now lie. 14 Your descendants will be like the dust of the earth, and you will spread out to the west and east and north and south. All the families of the earth will be blessed through you and your offspring. 15 Look, I am with you, and I will watch over you wherever you go, and I will bring you back to this land. For I will not leave you until I have done what I have promised you.\u201d",
-        "16 When Jacob woke up, he thought, \u201cSurely the LORD is in this place, and I was unaware of it.\u201d 17 And he was afraid and said, \u201cHow awesome is this place! This is none other than the house of God; this is the gate of heaven!\u201d"
+        "12 And Jacob had a dream about a ladder that rested on the earth with its top reaching up to heaven, and God’s angels were going up and down the ladder. 13 And there at the top the LORD was standing and saying, “I am the LORD, the God of your father Abraham and the God of Isaac. I will give you and your descendants the land on which you now lie. 14 Your descendants will be like the dust of the earth, and you will spread out to the west and east and north and south. All the families of the earth will be blessed through you and your offspring. 15 Look, I am with you, and I will watch over you wherever you go, and I will bring you back to this land. For I will not leave you until I have done what I have promised you.”",
+        "16 When Jacob woke up, he said, “Surely the LORD is in this place, and I was unaware of it.” 17 And he was afraid and said, “How awesome is this place! This is none other than the house of God; this is the gate of heaven!”"
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 28**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "Jacob leaves Beersheba for Haran and stops for the night when the sun sets. Away from home and with an uncertain future ahead, he lies down with a stone beneath his head. The account's focus then moves from his vulnerable circumstances to what God reveals while he sleeps.",
+    "",
+    "In the dream, a ladder reaches from earth to heaven, with God's angels ascending and descending. The LORD identifies Himself as the God of Abraham and Isaac, promises Jacob the land and many descendants, and renews the blessing for all families through him and his offspring.",
+    "",
+    "God also addresses the journey itself: He will be with Jacob, watch over him wherever he goes, and bring him back. Jacob is leaving the land, but he is not moving beyond God's presence or care. This assurance comes before Jacob makes any vow in response.",
+    "",
+    "On waking, Jacob recognizes the LORD's presence and responds with awe. He calls the place God's house and heaven's gate. His surprise gives way to reverence: a place where he expected only a night's rest has become the place of a personal encounter with the God of his fathers."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Jacob\u2019s Ladder** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 28** remains the first control on meaning."
+    "Christians commonly understand the dream as assurance that God is with Jacob and that heaven is not closed to him. [Wesley's notes on Genesis 28:12–17](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) explain God's care through the angels and also connect the vision with Christ as the way between God and humanity."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "god_plan_lines": [
+    "Jesus takes up the vision's language in [John 1:51](https://biblehub.com/bsb/john/1.htm), speaking of heaven opened and God's angels ascending and descending on the Son of Man. The movement Jacob saw between earth and heaven is now centered on Jesus. Jesus brings the image into His teaching about Himself, showing His central place in God's dealings with His people.",
+    "",
+    "The promise to Jacob also looks outward to all families of the earth. [Galatians 3:8–9](https://biblehub.com/bsb/galatians/3.htm) identifies the earlier promise of blessing through Abraham with the good news of Gentiles being brought into blessing through faith. Jacob receives a promise that protects him on a difficult journey while serving a purpose much larger than his personal safety."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/28.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-isaac-and-bethel-review.md"
+  }
 }

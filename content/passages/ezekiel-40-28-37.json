@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "40:28-37",
+    "label": "Ezekiel 40:28-37",
+    "slug": "ezekiel-40-28-37"
+  },
+  "section_title": "What changes as Ezekiel enters the inner court?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "28 Next he brought me into the inner court through the south gate, and he measured the south gate; it had the same measurements as the others. 29 Its gate chambers, side pillars, and portico had the same measurements as the others. Both the gateway and its portico had windows all around; it was fifty cubits long and twenty-five cubits wide. 30 (The porticoes around the inner court were twenty-five cubits long and five cubits deep.) 31 Its portico faced the outer court, and its side pillars were decorated with palm trees. Eight steps led up to it.",
+        "32 And he brought me to the inner court on the east side, and he measured the gateway; it had the same measurements as the others. 33 Its gate chambers, side pillars, and portico had the same measurements as the others. Both the gateway and its portico had windows all around. It was fifty cubits long and twenty-five cubits wide. 34 Its portico faced the outer court, and its side pillars were decorated with palm trees on each side. Eight steps led up to it.",
+        "35 Then he brought me to the north gate and measured it. It had the same measurements as the others, 36 as did its gate chambers, side pillars, and portico. It also had windows all around. It was fifty cubits long and twenty-five cubits wide. 37 Its portico faced the outer court, and its side pillars were decorated with palm trees on each side. Eight steps led up to it."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The guide brings Ezekiel into the inner court through the south gate, then measures the east and north gates. Their chambers and overall dimensions follow the earlier pattern.",
+    "",
+    "Two details distinguish these gateways from the outer ones. Their covered entrances face the outer court, and eight steps lead up to them rather than seven. The guide is taking Ezekiel toward the place where the altar stands.",
+    "",
+    "The repetition lets the reader follow an ordered approach: outer gate, outer court, inner gate and inner court. The architecture has direction rather than being a collection of unrelated measurements."
+  ],
+  "common_interpretation_lines": [
+    "The [USCCB notes](https://bible.usccb.org/bible/ezekiel/40) emphasize the reversed direction of the inner gateways’ covered entrances. [Wesley](https://biblehub.com/commentaries/wes/ezekiel/40.htm) identifies this inner court with the priests’ area next to the temple.",
+    "",
+    "The gates continue the same carefully arranged design as the outer entrances. The text does not explain the eighth step as a hidden code for a particular stage of salvation."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/40.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-forty-two-review.md"
+  }
+}

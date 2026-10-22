@@ -5,53 +5,62 @@
     "label": "Isaiah 66:7-14",
     "slug": "isaiah-66-7-14"
   },
-  "section_title": "Rejoice with Jerusalem",
+  "section_title": "Can God bring joy where His people have known only grief?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "7 \u201cBefore she was in labor, she gave birth;",
-        "before she was in pain, she delivered a boy.",
-        "8 Who has heard of such as this?",
-        "Who has seen such things?",
-        "Can a country be born in a day",
-        "or a nation be delivered in an instant?",
-        "Yet as soon as Zion was in labor,",
-        "she gave birth to her children.",
-        "9 Shall I bring a baby to the point of birth and not deliver it?\u201d",
-        "says the LORD.",
-        "\u201cOr will I who deliver close the womb?\u201d",
-        "says your God.",
-        "10 Be glad for Jerusalem and rejoice over her,",
-        "all who love her.",
-        "Rejoice greatly with her,",
-        "all who mourn over her,",
-        "11 so that you may nurse and be satisfied",
-        "at her comforting breasts;",
-        "you may drink deeply and delight yourselves",
-        "in her glorious abundance.",
-        "12 For this is what the LORD says:",
-        "\u201cI will extend peace to her like a river,",
-        "and the wealth of nations like a flowing stream;",
-        "you will nurse and be carried on her arm,",
-        "and bounced upon her knees.",
-        "13 As a mother comforts her son,",
-        "so will I comfort you,",
-        "and you will be consoled over Jerusalem.\u201d",
-        "14 When you see, you will rejoice,",
-        "and you will flourish like grass;",
-        "then the hand of the LORD will be revealed to His servants,",
-        "but His wrath will be shown to His enemies."
+        "7 “Before she was in labor, she gave birth; before she was in pain, she delivered a boy. 8 Who has heard of such as this? Who has seen such things? Can a country be born in a day or a nation be delivered in an instant? Yet as soon as Zion was in labor, she gave birth to her children. 9 Shall I bring a baby to the point of birth and not deliver it?” says the LORD. “Or will I who deliver close the womb?” says your God.",
+        "10 Be glad for Jerusalem and rejoice over her, all who love her. Rejoice greatly with her, all who mourn over her, 11 so that you may nurse and be satisfied at her comforting breasts; you may drink deeply and delight yourselves in her glorious abundance. 12 For this is what the LORD says: “I will extend peace to her like a river, and the wealth of nations like a flowing stream; you will nurse and be carried on her arm, and bounced upon her knees. 13 As a mother comforts her son, so will I comfort you, and you will be consoled over Jerusalem.” 14 When you see, you will rejoice, and you will flourish like grass; then the hand of the LORD will be revealed to His servants, but His wrath will be shown to His enemies."
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 66**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "The image of childbirth expresses a startling change for Zion: a birth arrives before the expected labor and pain. The questions about a country born in a day and a nation delivered in an instant underline how surprising the event is.",
+    "",
+    "The Lord asks whether He would bring the process to the point of birth without completing it. The promise depends on His ability to finish what He has begun.",
+    "",
+    "Those who love Jerusalem and have mourned for her are called to share her joy. The city is pictured as a mother who nourishes and carries her children, while peace and the wealth of nations flow toward her.",
+    "",
+    "The Lord then speaks of His own comfort as a mother comforting her son. Renewed life and gladness will reveal His hand toward His servants, while His enemies face His wrath."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Rejoice with Jerusalem** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/isaiah/66.htm) and [Wesley](https://biblehub.com/commentaries/wes/isaiah/66.htm) connect the sudden birth with the rapid gathering of people through the gospel. The coming of Christ, the Spirit’s work and the spread of the message bring a new community into view.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 66** remains the first control on meaning."
+    "Wesley also sees the promise of peace as reaching toward a further turning of Jews to God. Both treat the maternal pictures as expressions of tender comfort and the joy shared by those who care for God’s people.",
+    "",
+    "The emphasis is on what the Lord can bring to completion. The people’s former grief does not set the limit of what He can make them become."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "There is a close parallel in [John 16:16–22](https://biblehub.com/bsb/john/16.htm). Jesus tells His disciples that their grief will become joy, comparing it to a woman whose pain gives way to joy when her child is born.",
+    "",
+    "Jesus does not explicitly quote Isaiah 66 there. He uses the same movement from anguish to joy to explain that the disciples will see Him again and rejoice. The parallel connects the promise of renewed joy with His own work and His continuing relationship with those who belong to Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/66.htm",
+    "plan_basis": [
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-sixty-three-six-review.md"
+  }
 }

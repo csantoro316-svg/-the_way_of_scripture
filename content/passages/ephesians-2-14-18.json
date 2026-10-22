@@ -1,0 +1,69 @@
+{
+  "reference": {
+    "book": "Ephesians",
+    "citation": "2:14-18",
+    "label": "Ephesians 2:14-18",
+    "slug": "ephesians-2-14-18"
+  },
+  "section_title": "How does Christ make peace between people and with God?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 For He Himself is our peace, who has made the two one and has torn down the dividing wall of hostility 15 by abolishing in His flesh the law of commandments and decrees. He did this to create in Himself one new man out of the two, thus making peace 16 and reconciling both of them to God in one body through the cross, by which He put to death their hostility.",
+        "17 He came and preached peace to you who were far away and peace to those who were near. 18 For through Him we both have access to the Father by one Spirit."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul identifies Christ Himself as the peace of Jewish and Gentile believers. He has made the two one and torn down the dividing wall of hostility.",
+    "",
+    "The wall picture may recall the barrier within Jerusalem’s temple. [Josephus, Jewish War 5.5.2](https://penelope.uchicago.edu/josephus/war-5.html#S5.2), describes a stone partition with warnings against foreigners entering the inner sanctuary. That historical background helps explain the image of restricted approach; Paul’s concern is the hostility Christ has ended through His cross.",
+    "",
+    "He connects that peace with the law of commandments and decrees abolished in Christ’s flesh. The purpose is one new humanity from the two groups and reconciliation of both to God in one body.",
+    "",
+    "The cross therefore addresses both directions of the division. Those once separated from each other are brought together, and both are reconciled to God.",
+    "",
+    "Paul then speaks of Christ announcing peace to those far away and those near. Through Him, both groups have access to the Father by one Spirit. Their shared approach to God rests in the work of the Son and the presence of the Spirit."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand these verses as describing reconciliation with God and the unity of Jewish and Gentile believers through Christ. [Wesley’s notes on verses 14–18](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-ephesians/) and the [USCCB notes on verses 11–22](https://bible.usccb.org/bible/ephesians/2) both recognize the shared body and access to the Father.",
+    "",
+    "Christians explain the law’s continuing place differently. Wesley’s note on verse 15 emphasizes the ceremonial commandments that separated the groups. The Reformed [Westminster Confession, chapter 19](https://www.opc.org/wcf.html), distinguishes ceremonies fulfilled in Christ from moral commands that continue to guide believers. [Dallas Theological Seminary, article V](https://www.dts.edu/about/doctrinal-statement/), treats Mosaic and present Christian responsibilities as distinct. These accounts differ over continuing instruction, while agreeing that Gentiles are welcomed through Christ’s saving work."
+  ],
+  "god_plan_lines": [
+    "Paul’s language about peace for those far and near recalls [Isaiah 57:14–19](https://biblehub.com/bsb/isaiah/57.htm). In that passage, God promises to revive the humble and contrite, restore comfort and announce peace with healing.",
+    "",
+    "[Isaiah 56:3–8](https://biblehub.com/bsb/isaiah/56.htm) also promises welcome to foreigners who join themselves to the LORD. God’s house is to be a house of prayer for all nations, and He promises to gather others alongside those already gathered.",
+    "",
+    "These connections place the shared access described here within God’s larger purpose of gathering people into His presence. Ephesians identifies Christ’s cross and the one Spirit as central to that welcome, bringing Jewish and Gentile believers together before the Father."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/ephesians/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-ephesians-two-closing-review.md"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "11:29-32",
+    "label": "Luke 11:29-32",
+    "slug": "luke-11-29-32"
+  },
+  "section_title": "Why does Jesus point to Jonah and the Queen of the South?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "29 As the crowds were increasing, Jesus said, “This is a wicked generation. It demands a sign, but none will be given it except the sign of Jonah. 30 For as Jonah was a sign to the Ninevites, so the Son of Man will be a sign to this generation.",
+        "31 The Queen of the South will rise at the judgment with the men of this generation and condemn them; for she came from the ends of the earth to hear the wisdom of Solomon, and now One greater than Solomon is here. 32 The men of Nineveh will stand at the judgment with this generation and condemn it; for they repented at the preaching of Jonah, and now One greater than Jonah is here."
+      ]
+    }
+  ],
+  "context_lines": [
+    "As the crowd grows, Jesus addresses its demand for a sign. He calls the generation wicked and says that the sign it will receive is the sign of Jonah. Just as Jonah became a sign to the Ninevites, the Son of Man will be a sign to this generation.",
+    "",
+    "Jesus then names two responses from Scripture. The Queen of the South traveled to hear Solomon’s wisdom, and Nineveh repented at Jonah’s preaching. Their responses will expose the failure of the people now receiving someone greater.",
+    "",
+    "Jonah’s account says that the Ninevites believed God and turned from their evil ways after hearing his proclamation. First Kings describes the queen’s encounter with Solomon’s wisdom and her praise of the Lord. Jesus uses those accounts to challenge the response to what is present in Him. ([Jonah 3:1–10](https://biblehub.com/bsb/jonah/3.htm); [1 Kings 10:1–9](https://biblehub.com/bsb/1_kings/10.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand Jesus as calling for repentance and a response to His greater wisdom and authority. The Catholic bishops’ notes emphasize Jonah’s preaching in Luke, while pointing out that Matthew explicitly connects Jonah’s time in the fish with the Son of Man’s time in the earth. Those are distinct emphases in the two Gospel accounts. ([USCCB note on Luke 11:29–32](https://bible.usccb.org/bible/luke/11); [Matthew 12:38–42](https://biblehub.com/bsb/matthew/12.htm))"
+  ],
+  "god_plan_lines": [
+    "Jesus Himself makes the larger connection: Jonah and Solomon point beyond their own ministries toward the greater One now before the crowd. The response of people outside Israel also becomes a witness at the judgment. These are connections stated by Jesus, rather than hidden meanings assigned to details by a later teacher. ([Luke 11:29–32](https://biblehub.com/bsb/luke/11.htm))",
+    "",
+    "Matthew’s account adds the explicit comparison between Jonah’s three days and nights in the fish and the Son of Man’s time in the heart of the earth. Read alongside Luke’s emphasis on repentance, the comparison places the sign within Jesus’ coming death and resurrection. ([Matthew 12:39–42](https://biblehub.com/bsb/matthew/12.htm))"
+  ],
+  "current_position_lines": [
+    "Should We Seek Signs From God? examines the parallel demand in Matthew 12 and understands it as resistance to what God has already made known. The study distinguishes that demand from every sincere request for guidance: the issue here is making trust conditional on another sign despite the witness already received."
+  ],
+  "deeper_study": [
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/11.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-luke-eleven-response-review.md",
+    "position_source_detail": "Should We Seek Signs From God?, Jesus and the Request for a Sign section, directly develops Matthew12:38–39 parallel and distinguishes hardened demands from every request for guidance."
+  }
+}

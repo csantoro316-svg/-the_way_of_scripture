@@ -5,25 +5,55 @@
     "label": "John 3:16",
     "slug": "john-3-16"
   },
-  "section_title": "",
+  "section_title": "What does God give because He loves the world?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.\""
+      "label": "BSB",
+      "paragraphs": [
+        "16 For God so loved the world that He gave His one and only Son, that everyone who believes in Him shall not perish but have eternal life."
+      ]
     }
   ],
   "context_lines": [
-    "In **John 3**, John's Gospel brings together new birth, the Spirit, faith, and witness to Christ. Even narrative details in the chapter should be read within that wider testimony to what it means to receive life from above."
+    "This verse belongs to Jesus’ conversation with Nicodemus about new birth and the Son of Man being lifted up. It explains the love behind the gift of the Son and promises eternal life to everyone who believes in Him.",
+    "",
+    "The next verses explain that the Son comes to save, while unbelief leaves people under condemnation. Reading the verse in that setting keeps God’s love, the gift of His Son and the response of faith together. [Read John 3:16–21 in context](https://the-way-of-scripture.web.app/passages/john-3-16-21.html)."
   ],
   "common_interpretation_lines": [
-    "The gospel in a single sentence. God \u2014 the source. Love \u2014 the motive. The Son \u2014 the means. Belief \u2014 the response. Eternal life \u2014 the gift.",
+    "Christian traditions share the central reading that salvation begins in God’s love, comes through His Son and is received through faith. The passage holds together the promise of life and the seriousness of rejecting the Son.",
     "",
-    "This is the good news. This is the *euangelion*. This is the gospel according to Jesus."
+    "Where traditions differ is how they explain the reach of Christ’s saving work and why people come to faith. The Catholic Church teaches that Christ died for every human being without exception. Wesley likewise reads world as all people, including those who reject God’s love. ([Catechism §§604–605](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/article_4/paragraph_2_jesus_died_crucified.html); [Wesley on John 3:16](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/))",
+    "",
+    "The Westminster Confession describes Christ’s saving work as securing redemption for those God has chosen. Calvin’s commentary nevertheless reads this verse as an invitation to everyone without exception, while saying that God opens the eyes of those He has chosen to believe. Reformed readers therefore should not all be described as replacing world with only the chosen in this verse. ([Westminster Confession 3.6; 8.5, 8](https://www.opc.org/wcf.html); [Calvin on John 3:16](https://biblehub.com/commentaries/calvin/john/3.htm))"
+  ],
+  "god_plan_lines": [
+    "Paul describes the same movement from God’s love toward people who need rescue: Christ dies for the ungodly while they are still sinners, bringing reconciliation and the hope of being saved through His life. God’s love acts toward people before they have made themselves worthy. ([Romans 5:6–11](https://biblehub.com/bsb/romans/5.htm))",
+    "",
+    "Ephesians places forgiveness through Christ’s blood within God’s stated purpose to bring all things in heaven and on earth together in Christ. The gift of the Son belongs within that wider purpose of restoration under Him. That wider hope should be read alongside this passage’s own distinction between faith and unbelief. ([Ephesians 1:7–10](https://biblehub.com/bsb/ephesians/1.htm))"
+  ],
+  "current_position_lines": [
+    "Our study The Gospel According to Jesus reads John 3:16 as a summary of the good news: God acts out of love, gives His Son and promises life to everyone who believes in Him. The study calls people to turn from sin and trust Jesus as Lord."
   ],
   "deeper_study": [
     {
       "title": "The Gospel According to Jesus",
       "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-john-three-opening-review.md",
+    "position_source_detail": "The Gospel According to Jesus: developed John 3:16 discussion, especially Have You Been Saved?; limited to God’s gift and the response of repentance and faith, without adding a position on the extent of the atonement."
+  }
 }

@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "1:10-17",
+    "label": "1 Corinthians 1:10-17",
+    "slug": "1-corinthians-1-10-17"
+  },
+  "section_title": "Why is following a favorite teacher dividing the church?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 I appeal to you, brothers, in the name of our Lord Jesus Christ, that all of you agree together, so that there may be no divisions among you and that you may be united in mind and conviction. 11 My brothers, some from Chloe’s household have informed me that there are quarrels among you. 12 What I mean is this: Individuals among you are saying, “I follow Paul,” “I follow Apollos,” “I follow Cephas,” or “I follow Christ.” 13 Is Christ divided? Was Paul crucified for you? Were you baptized into the name of Paul?",
+        "14 I thank God that I did not baptize any of you except Crispus and Gaius, 15 so no one can say that you were baptized into my name. 16 Yes, I also baptized the household of Stephanas; beyond that I do not remember if I baptized anyone else. 17 For Christ did not send me to baptize, but to preach the gospel, not with words of wisdom, lest the cross of Christ be emptied of its power."
+      ]
+    }
+  ],
+  "context_lines": [
+    "People from Chloe’s household have reported quarrels. Some believers identify themselves by Paul, Apollos or Cephas, who is Peter; another slogan claims Christ. Paul calls them back to agreement in the name of their shared Lord rather than allowing these names to become rival loyalties.",
+    "",
+    "His questions put the issue plainly. Christ cannot be divided among competing groups. Paul did not die for them, and they were not baptized into his name. Gratitude for a teacher is different from treating that person as the source of salvation or the basis for looking down on other believers.",
+    "",
+    "Paul recalls baptizing Crispus, Gaius and the household of Stephanas, then says he does not remember others. His central commission was to preach the gospel. Because he actually baptized people, the contrast in verse 17 does not mean baptism was forbidden to him. It brings the focus back to Christ’s cross rather than the reputation of the person speaking or baptizing."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Paul to be correcting rival loyalties that damage the church’s unity, while distinguishing his main preaching assignment from the work of baptizing. [Calvin’s comment on verse 17](https://biblehub.com/commentaries/calvin/1_corinthians/1.htm) and [Wesley’s note](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) both read the contrast as a matter of his principal task, rather than a rejection of baptism."
+  ],
+  "god_plan_lines": [
+    "In [John 17:20–23](https://biblehub.com/bsb/john/17.htm), Jesus prays for those who will believe through His disciples’ message to be one. He connects their unity with the world recognizing that the Father sent Him.",
+    "",
+    "That prayer adds a purpose beyond avoiding unpleasant quarrels. The church’s shared life should bear witness to Christ. Turning His servants into competing centers of loyalty obscures the One whose message they carry."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-first-corinthians-one-review.md"
+  }
+}

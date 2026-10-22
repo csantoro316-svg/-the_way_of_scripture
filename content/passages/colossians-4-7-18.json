@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "Colossians",
+    "citation": "4:7-18",
+    "label": "Colossians 4:7-18",
+    "slug": "colossians-4-7-18"
+  },
+  "section_title": "What does the closing tell us about serving Christ together?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 Tychicus will tell you all the news about me. He is a beloved brother, a faithful minister, and a fellow servant in the Lord. 8 I have sent him to you for this very purpose, that you may know about us, and that he may encourage your hearts. 9 With him I am sending Onesimus, our faithful and beloved brother, who is one of you. They will tell you about everything here.",
+        "10 My fellow prisoner Aristarchus sends you greetings, as does Mark the cousin of Barnabas. You have already received instructions about him: If he comes to you, welcome him. 11 Jesus, who is called Justus, also sends greetings. These are the only Jews among my fellow workers for the kingdom of God, and they have been a comfort to me. 12 Epaphras, who is one of you and a servant of Christ Jesus, sends you greetings. He is always wrestling in prayer for you, so that you may stand mature and fully assured in the full will of God. 13 For I testify about him that he goes to great pains for you and for those at Laodicea and Hierapolis. 14 Luke, the beloved physician, and Demas send you greetings.",
+        "15 Greet the brothers in Laodicea, as well as Nympha and the church that meets at her house. 16 After this letter has been read among you, make sure that it is also read in the church of the Laodiceans, and that you in turn read the letter from Laodicea. 17 Tell Archippus: “See to it that you complete the ministry you have received in the Lord.” 18 This greeting is in my own hand—Paul. Remember my chains. Grace be with you."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Tychicus and Onesimus will bring news and encouragement. Paul calls both valued servants and brothers in the Lord, and identifies Onesimus as one of the Colossians.",
+    "",
+    "The greetings name fellow workers who have supported him. Epaphras continues the concern described at the start of the letter, laboring in prayer for their maturity and confidence in God’s will. Paul also commends his care for neighboring communities.",
+    "",
+    "The greetings extend to Nympha and the church meeting in her house. Paul asks that this letter be read in Laodicea and that the Colossians also read the letter from there. The identity of that other letter is not established here.",
+    "",
+    "Archippus is reminded to complete the ministry he received in the Lord. Paul closes with a greeting in his own hand, a request to remember his chains and a blessing of grace. These are people connected by shared service, prayer, hospitality and the message they receive together."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this closing as a picture of fellowship and shared service across connected communities. [Wesley’s notes on verses 12 and 17](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-colossians/) emphasize maturity and ministry as service. The [USCCB notes on the closing](https://bible.usccb.org/bible/colossians/4) likewise identify the personal greetings and encouragement. The letter supplies names and responsibilities without giving a complete biography or office description for each person."
+  ],
+  "god_plan_lines": [
+    "[Philemon 8–21](https://biblehub.com/bsb/philemon/1.htm) fills out the significance of calling Onesimus a beloved brother. Paul appeals for him to be received in a new relationship of love and fellowship. The new humanity described earlier in Colossians takes shape in particular people and costly acts of welcome.",
+    "",
+    "[Ephesians 2:13–22](https://biblehub.com/bsb/ephesians/2.htm) describes people brought near through Christ and built together as God’s household. The Jewish coworkers named here, the wider community of believers and the churches sharing the letter belong within that larger purpose of life together in Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/colossians/4.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-colossians-closing-review.md"
+  }
+}

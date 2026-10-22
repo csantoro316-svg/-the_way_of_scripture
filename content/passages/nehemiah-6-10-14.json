@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Nehemiah",
+    "citation": "6:10-14",
+    "label": "Nehemiah 6:10-14",
+    "slug": "nehemiah-6-10-14"
+  },
+  "section_title": "How does Nehemiah recognize counsel that would lead him into sin?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 Later, I went to the house of Shemaiah son of Delaiah, the son of Mehetabel, who was confined to his house. He said: “Let us meet at the house of God inside the temple. Let us shut the temple doors because they are coming to kill you— by night they are coming to kill you!” 11 But I replied, “Should a man like me run away? Should one like me go into the temple to save his own life? I will not go!” 12 I realized that God had not sent him, but that he had uttered this prophecy against me because Tobiah and Sanballat had hired him. 13 He had been hired to intimidate me so that I would sin by doing as he suggested, so they could give me a bad name in order to discredit me. 14 O my God, remember Tobiah and Sanballat for what they have done, and also Noadiah the prophetess and the other prophets who tried to intimidate me."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Shemaiah urges Nehemiah to hide inside the temple and shut its doors, claiming that men are coming to kill him that night. Nehemiah refuses to flee or enter the temple to save his life.",
+    "",
+    "He recognizes that God has not sent the message: Tobiah and Sanballat have hired Shemaiah to frighten him into sin and provide grounds to discredit him. Nehemiah asks God to remember their actions, together with those of Noadiah and the other prophets who sought to intimidate him.",
+    "",
+    "The threat comes wrapped in a claim of prophetic insight and an offer of safety. Nehemiah judges the proposed action rather than accepting the message simply because someone presents it as a warning from God."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/nehemiah/6.htm) and [Gill](https://biblehub.com/commentaries/gill/nehemiah/6.htm) read Shemaiah’s proposal as a religious trap. Gill connects the proposed entrance into the sanctuary with the restriction on unauthorized approach in [Numbers 18:1–7](https://biblehub.com/bsb/numbers/18.htm). On that reading, the refuge being offered would involve crossing a boundary God had established.",
+    "",
+    "The narrative itself identifies the intended result: fear, sin and damage to Nehemiah’s reputation. A claim to speak for God does not make the advice trustworthy."
+  ],
+  "god_plan_lines": [
+    "Testing claims to speak for God remains a concern in the New Testament. [1 John 4:1–6](https://biblehub.com/bsb/1_john/4.htm) tells believers to test the spirits because false prophets have gone out into the world, and connects that testing with the truth about Jesus Christ.",
+    "",
+    "[1 Thessalonians 5:19–22](https://biblehub.com/bsb/1_thessalonians/5.htm) joins openness to prophecy with examining everything and holding to what is good. The broader theme is a people who listen carefully and test what they hear, so that a religious claim does not turn them away from faithfulness to God."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/nehemiah/6.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-nehemiah-six-seven-review.md"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "1:46-56",
+    "label": "Luke 1:46-56",
+    "slug": "luke-1-46-56"
+  },
+  "section_title": "Why does Mary praise God for lifting up the humble?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "46 Then Mary said: “My soul magnifies the Lord, 47 and my spirit rejoices in God my Savior! 48 For He has looked with favor on the humble state of His servant. From now on all generations will call me blessed. 49 For the Mighty One has done great things for me. Holy is His name. 50 His mercy extends to those who fear Him, from generation to generation.",
+        "51 He has performed mighty deeds with His arm; He has scattered those who are proud in the thoughts of their hearts. 52 He has brought down rulers from their thrones, but has exalted the humble. 53 He has filled the hungry with good things, but has sent the rich away empty. 54 He has helped His servant Israel, remembering to be merciful, 55 as He promised to our fathers, to Abraham and his descendants forever.” 56 Mary stayed with Elizabeth for about three months and then returned home."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Mary answers Elizabeth’s blessing with praise directed to God. She rejoices in Him as her Savior and acknowledges what He has done for His lowly servant. The reason future generations will call her blessed is the Mighty One’s work for her.",
+    "",
+    "Her praise then reaches beyond her own experience. She speaks of mercy across generations, the proud being scattered, rulers brought down, the humble lifted up, and the hungry filled. The song takes ordinary measures of importance—power, rank, and wealth—and places them under God’s judgment and mercy.",
+    "",
+    "The final lines identify God’s help for Israel with His promise to Abraham and his descendants. This is praise for the God who remembers His word. Mary stays with Elizabeth about three months and then returns home; Luke does not explicitly say whether she remains for John’s birth."
+  ],
+  "common_interpretation_lines": [
+    "Christian traditions commonly hear a song of gratitude for God’s mercy, His care for the humble, and His faithfulness to Israel. Mary’s own blessing belongs within that larger praise, rather than making her the source of the saving work. ([Calvin on Luke 1:46–49](https://biblehub.com/commentaries/calvin/luke/1.htm); [USCCB notes on Luke 1:46–55](https://bible.usccb.org/bible/luke/1))",
+    "",
+    "Her description of God as her Savior enters a real difference about Mary. Wesley understands her as sharing the same need for rescue from sin as other believers. Catholic teaching also affirms her need for Christ as Savior, while explaining her salvation as His grace preserving her from original sin from the start. Both readings call her saved by God; they differ over how that salvation applies to her. ([Wesley on Luke 1:47](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [Catechism 491–492](https://www.vatican.va/archive/ENG0015/__P1K.HTM))"
+  ],
+  "god_plan_lines": [
+    "There is a strong scriptural parallel with Hannah’s song after Samuel’s birth. Hannah likewise praises God’s holiness and salvation, the breaking of human pride, and His lifting of the poor. The resemblance places Mary’s praise within Israel’s long story of God working through people whom the powerful overlook. Her words about mercy for those who fear Him also echo Psalm 103. These are supported connections between the songs, not a claim that every detail is identical. ([1 Samuel 2:1–10](https://biblehub.com/bsb/1_samuel/2.htm); [Psalm 103:1–18](https://biblehub.com/bsb/psalms/103.htm))",
+    "",
+    "Paul later explains how the blessing promised to Abraham reaches the nations through Christ. Those who belong to Christ become heirs of the promise, receiving the Spirit through faith. Mary’s praise for God remembering Abraham thus belongs to a saving purpose that reaches beyond one household to people from the nations. ([Galatians 3:6–14, 26–29](https://biblehub.com/bsb/galatians/3.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/1.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-one-mary-review.md"
+  }
+}

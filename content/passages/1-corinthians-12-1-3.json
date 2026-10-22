@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "12:1-3",
+    "label": "1 Corinthians 12:1-3",
+    "slug": "1-corinthians-12-1-3"
+  },
+  "section_title": "How can we recognize the Spirit’s work?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Now about spiritual gifts, brothers, I do not want you to be uninformed. 2 You know that when you were pagans, you were influenced and led astray to mute idols. 3 Therefore I inform you that no one who is speaking by the Spirit of God says, “Jesus be cursed,” and no one can say, “Jesus is Lord,” except by the Holy Spirit."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul introduces the subject of spiritual gifts, which continues through chapters 13 and 14. Before discussing particular gifts, he reminds the Corinthians of the difference between their former worship of idols and their present confession of Jesus.",
+    "",
+    "Being led toward mute idols had not brought them to the truth. Paul now gives a clear test of speech attributed to God’s Spirit: the Spirit does not lead someone to curse Jesus. A genuine confession of Jesus as Lord, by contrast, depends on the Holy Spirit.",
+    "",
+    "The point is not that an unbeliever’s mouth cannot form the words, or that quoting a curse while explaining the passage is itself evidence of evil. Paul is speaking about what people truly confess and the Spirit behind it. The direction of their allegiance to Jesus matters more than how impressive their speech sounds.",
+    "",
+    "This prepares the church to assess gifts without confusing spiritual display with faithfulness to Christ. The following discussion will ask how those gifts serve His people, rather than treating a striking experience as sufficient proof of its source."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as directing attention to Jesus rather than trusting every claim of spiritual inspiration. [Wesley’s note on verse 3](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) understands the confession as truly receiving Jesus as Lord, and the [USCCB note on verses 2–3](https://bible.usccb.org/bible/1corinthians/12) explains that the Spirit’s work cannot contradict allegiance to Him."
+  ],
+  "god_plan_lines": [
+    "In [John 16:12–15](https://biblehub.com/bsb/john/16.htm), Jesus tells His disciples that the Spirit of truth will guide them and glorify Him. The Spirit’s work continues the revelation of the Son, rather than drawing people away from Him.",
+    "",
+    "Paul’s test belongs within that purpose. Spiritual gifts are part of a life turned toward the Lord whom the Spirit makes known. Before asking what an experience can do for us, the passage asks whether it honors the Jesus at the center of God’s saving work."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/12.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-twelve-opening-review.md"
+  }
+}

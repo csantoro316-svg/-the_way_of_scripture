@@ -5,13 +5,55 @@
     "label": "Luke 23:46",
     "slug": "luke-23-46"
   },
-  "versions": [],
-  "context_lines": [
-    "In **Luke 23**, Jesus is on the cross and approaching death, yet He continues to speak and act in perfect trust toward the Father. The chapter's sayings from the cross reveal both the depth of suffering and the steadfastness of Christ's obedience."
+  "section_title": "What does Jesus’ final prayer show about trust?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "46 Then Jesus called out in a loud voice, “Father, into Your hands I commit My Spirit.” And when He had said this, He breathed His last."
+      ]
+    }
   ],
-  "explanation_lines": [
-    "His final words are not a request at all. They are pure release \u2014 Himself, placed entirely into the Father's hands, with nothing held back and nothing left to ask for.",
+  "context_lines": [
+    "This verse is part of Luke 23:44–49, after the darkness and tearing of the temple curtain. Jesus calls out loudly to the Father, commits His Spirit into His hands and breathes His last. ([Read the surrounding passage](https://the-way-of-scripture.web.app/passages/luke-23-44-49.html))",
     "",
-    "**Intercession without control. Anguish without demand. Surrender without condition.** These three prayers, spoken in the worst hours of His life, are the same prayer Gethsemane modeled \u2014 just carried all the way through to the end."
-  ]
+    "His words draw from Psalm 31:5, a prayer to the Lord as refuge, deliverer and faithful God. Luke records Jesus continuing to address God as Father at the point of death. ([Psalm 31:1–5](https://biblehub.com/bsb/psalms/31.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian readers commonly understand the words as an expression of willing trust in the Father at death. Wesley connects the Father receiving Jesus’ Spirit with Jesus Himself receiving the spirits of His faithful people. ([Wesley on Luke 23:46](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))"
+  ],
+  "god_plan_lines": [
+    "The prayer brings the trust of Psalm 31 into Jesus’ own suffering. The psalm calls on God as a secure refuge and places life in His hands. Jesus draws on that prayer as He carries His obedience through death. ([Psalm 31:1–5](https://biblehub.com/bsb/psalms/31.htm))",
+    "",
+    "Acts records Stephen entrusting his spirit to the Lord Jesus while he is being killed. This is a clear parallel with Jesus’ final prayer: those who belong to Him can place themselves in His care as they face death. The One who entrusted Himself to the Father is now addressed as the risen Lord who receives His servant. ([Acts 7:54–60](https://biblehub.com/bsb/acts/7.htm))"
+  ],
+  "current_position_lines": [
+    "Our study What Does Prayer Look Like? understands Jesus’ final prayer as surrender of Himself into the Father’s care. He entrusts His Spirit to the Father at the moment of death. The lesson concerns trust carried through suffering to the end."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/23.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-luke-twenty-three-closing-review.md",
+    "position_source_detail": "What Does Prayer Look Like? §2, The Cross — Three Prayers in Extremity, Into Your Hands I Commit My Spirit (Luke23:46)."
+  }
 }

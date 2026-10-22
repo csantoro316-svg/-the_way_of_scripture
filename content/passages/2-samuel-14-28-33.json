@@ -1,0 +1,49 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "14:28-33",
+    "label": "2 Samuel 14:28-33",
+    "slug": "2-samuel-14-28-33"
+  },
+  "section_title": "How does Absalom force an audience with the king?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "28 Now Absalom lived in Jerusalem two years without seeing the face of the king. 29 Then he sent for Joab to send him to the king, but Joab refused to come to him. So Absalom sent a second time, but Joab still would not come. 30 Then Absalom said to his servants, “Look, Joab’s field is next to mine, and he has barley there. Go and set it on fire!” And Absalom’s servants set the field on fire. 31 Then Joab came to Absalom’s house and demanded, “Why did your servants set my field on fire?” 32 “Look,” said Absalom, “I sent for you and said, ‘Come here. I want to send you to the king to ask: Why have I come back from Geshur? It would be better for me if I were still there.’ So now, let me see the king’s face, and if there is iniquity in me, let him kill me.” 33 So Joab went and told the king, and David summoned Absalom, who came to him and bowed facedown before him. Then the king kissed Absalom."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Absalom lives in Jerusalem for two years without seeing David. Twice he sends for Joab to seek an audience with the king, and twice Joab refuses to come. Absalom then orders his servants to burn Joab’s neighboring barley field.",
+    "",
+    "The fire brings Joab to his house. Absalom demands to know why he was brought back from Geshur only to remain excluded, and asks either to see the king or be put to death if he is guilty. Joab conveys the message, David summons Absalom, and Absalom bows before him. The king kisses him."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/14.htm) criticizes the pressure Absalom uses to gain what he wants. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) also sees a son pressing his own justification rather than plainly confessing his wrongdoing. The success of the demand does not make burning Joab’s field a good example.",
+    "",
+    "[Gill](https://biblehub.com/commentaries/gill/2_samuel/14.htm) understands David’s kiss as a sign of reconciliation. That is an important change from exclusion, but the account records no confession by Absalom and gives no assurance that every conflict between father and son has ended."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/14.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-fourteen-review.md"
+  }
+}

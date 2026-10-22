@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "17:1-9",
+    "label": "Acts 17:1-9",
+    "slug": "acts-17-1-9"
+  },
+  "section_title": "Why does the message about Jesus divide the hearers in Thessalonica?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 When they had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was a Jewish synagogue. 2 As was his custom, Paul went into the synagogue, and on three Sabbaths he reasoned with them from the Scriptures, 3 explaining and proving that the Christ had to suffer and rise from the dead. “This Jesus I am proclaiming to you is the Christ,” he declared. 4 Some of the Jews were persuaded and joined Paul and Silas, along with a large number of God-fearing Greeks and quite a few leading women.",
+        "5 The Jews, however, became jealous. So they brought in some troublemakers from the marketplace, formed a mob, and sent the city into an uproar. They raided Jason’s house in search of Paul and Silas, hoping to bring them out to the people. 6 But when they could not find them, they dragged Jason and some other brothers before the city officials, shouting, “These men who have turned the world upside down have now come here, 7 and Jason has welcomed them into his home. They are all defying Caesar’s decrees, saying that there is another king, named Jesus!” 8 On hearing this, the crowd and city officials were greatly disturbed. 9 And they collected bond from Jason and the others and then released them."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After passing through Amphipolis and Apollonia, Paul and Silas arrive in Thessalonica. Paul goes to the synagogue, as is his custom, and reasons from Scripture on three Sabbaths. His explanation centers on the Messiah’s necessary suffering and resurrection, identifying Jesus as that Messiah.",
+    "",
+    "Some Jewish hearers are persuaded, along with many God-fearing Greeks and leading women. Luke records this response before describing the jealous opposition. The account does not divide everyone neatly into believing Gentiles and unbelieving Jews.",
+    "",
+    "Troublemakers are gathered from the marketplace, a mob forms and Jason’s house is raided in search of Paul and Silas. When they cannot be found, Jason and other believers are brought before the city officials. The accusation turns the proclamation of Jesus as king into a charge of defying Caesar.",
+    "",
+    "The crowd and officials are disturbed, and bond is collected from Jason and the others before they are released. Luke does not specify the exact amount or all the conditions attached to it. The hospitality Jason has offered now exposes him to the conflict surrounding his guests."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read Paul’s reasoning as an explanation of why the crucified and risen Jesus fulfills the hope of the Messiah. The political charge is the opponents’ accusation, not a statement that the message is a plan to overthrow the city by force."
+  ],
+  "god_plan_lines": [
+    "In [1 Thessalonians 2:1–2](https://biblehub.com/bsb/1_thessalonians/2.htm), Paul recalls the mistreatment in Philippi and the courage God gave to speak in Thessalonica despite strong opposition. The letter connects the suffering in the previous city with the continuing witness here.",
+    "",
+    "[1 Thessalonians 1:5–10](https://biblehub.com/bsb/1_thessalonians/1.htm) describes the wider result: people who turn to the living God become an example, and the message sounds out from them. The trouble described by Luke is not the whole story of what God brings from the visit."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/17.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-seventeen-opening-review.md"
+  }
+}

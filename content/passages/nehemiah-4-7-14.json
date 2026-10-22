@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "Nehemiah",
+    "citation": "4:7-14",
+    "label": "Nehemiah 4:7-14",
+    "slug": "nehemiah-4-7-14"
+  },
+  "section_title": "What changes when mockery becomes a threat of attack?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 When Sanballat and Tobiah, together with the Arabs, Ammonites, and Ashdodites, heard that the repair to the walls of Jerusalem was progressing and that the gaps were being closed, they were furious, 8 and all of them conspired to come and fight against Jerusalem and create a hindrance. 9 So we prayed to our God and posted a guard against them day and night.",
+        "10 Meanwhile, the people of Judah said: “The strength of the laborer fails, and there is so much rubble that we will never be able to rebuild the wall.” 11 And our enemies said, “Before they know or see a thing, we will come into their midst, kill them, and put an end to the work.” 12 At that time the Jews who lived nearby came and told us ten times over, “Wherever you turn, they will attack us.”",
+        "13 So I stationed men behind the lowest sections of the wall, at the vulnerable areas. I stationed them by families with their swords, spears, and bows. 14 After I had made an inspection, I stood up and said to the nobles, the officials, and the rest of the people, “Do not be afraid of them. Remember the Lord, who is great and awesome, and fight for your brothers, your sons and your daughters, your wives and your homes.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "As the gaps in the wall close, the opponents conspire to fight against Jerusalem and disrupt the work. The people pray and post a guard day and night.",
+    "",
+    "Pressure also appears within the workforce. The laborers are exhausted and the rubble seems overwhelming. Repeated warnings from Jews living near the opponents add urgency to the threat.",
+    "",
+    "Nehemiah stations families with weapons at vulnerable sections of the wall. He tells the people to remember the great and awesome Lord and to defend their brothers, children, spouses and homes. His response addresses their fear as well as the exposed places in the defenses."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/nehemiah/4.htm) and [Gill](https://biblehub.com/commentaries/gill/nehemiah/4.htm) emphasize prayer together with watchfulness and practical measures. Turning to God does not prevent Nehemiah from posting guards or organizing the people. The account treats their weariness and the danger as real needs requiring a response."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/nehemiah/4.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-nehemiah-three-five-review.md"
+  }
+}

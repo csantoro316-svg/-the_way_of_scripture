@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "3:21-22",
+    "label": "Luke 3:21-22",
+    "slug": "luke-3-21-22"
+  },
+  "section_title": "What is revealed as Jesus is baptized?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "21 When all the people were being baptized, Jesus was baptized too. And as He was praying, heaven was opened, 22 and the Holy Spirit descended on Him in a bodily form like a dove. And a voice came from heaven: “You are My beloved Son; in You I am well pleased.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus is baptized among the people, and Luke draws attention to His praying. Heaven opens, the Spirit descends in a bodily form like a dove, and the voice from heaven identifies Him as the beloved Son in whom the Father delights.",
+    "",
+    "The Father’s words confirm the identity announced before His birth. The child promised to Mary as the Son of God now stands at the beginning of His public ministry. Luke will next trace His family line and then describe His testing in the wilderness. ([Luke 1:31–35](https://biblehub.com/bsb/luke/1.htm))",
+    "",
+    "The other Gospels add details that help explain the event. Matthew records John’s hesitation and Jesus’ answer about fulfilling righteousness; John explains that the Spirit descending and remaining was the sign given to identify the One who baptizes with the Holy Spirit. These accounts help us understand the baptism as an act of obedience and a revelation of His identity. ([Matthew 3:13–17](https://biblehub.com/bsb/matthew/3.htm); [John 1:29–34](https://biblehub.com/bsb/john/1.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian traditions commonly understand the baptism as revealing Jesus as the beloved Son and marking the beginning of His mission, with the Father speaking and the Spirit descending upon Him. Catholic and Reformed teaching recognize the Father, Son, and Spirit as distinct persons of the one God; the scene is read within that confession and Jesus’ willing obedience to the Father. ([Catechism 535–536](https://www.vatican.va/archive/ENG0015/__P1L.HTM); [Westminster 2.3](https://www.opc.org/wcf.html))"
+  ],
+  "god_plan_lines": [
+    "The Father’s declaration has supported scriptural parallels with the royal Son in Psalm 2 and the servant in Isaiah 42, in whom God delights and upon whom He puts His Spirit. Luke does not introduce the voice as a formal quotation of either passage. Together these themes help explain the coming ministry as the work of God’s King and His chosen servant, bringing justice and light to the nations. ([Psalm 2:6–9](https://biblehub.com/bsb/psalms/2.htm); [Isaiah 42:1–7](https://biblehub.com/bsb/isaiah/42.htm))",
+    "",
+    "The connection becomes explicit in the accounts of Jesus’ ministry. At Nazareth He identifies His work through Isaiah’s announcement of the Spirit’s anointing for good news and release. Peter later summarizes His ministry as God anointing Him with the Holy Spirit and power, leading into His death, resurrection, and the proclamation of forgiveness to those who believe. The baptism opens onto that saving mission. ([Luke 4:16–21](https://biblehub.com/bsb/luke/4.htm); [Acts 10:34–43](https://biblehub.com/bsb/acts/10.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Baptism",
+      "href": "../studies/baptism.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/3.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-three-closing-review.md"
+  }
+}

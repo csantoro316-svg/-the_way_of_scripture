@@ -5,18 +5,50 @@
     "label": "John 15:7",
     "slug": "john-15-7"
   },
+  "section_title": "How does remaining in Jesus shape what we ask?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "'If you abide in Me, and My words abide in you, ask whatever you wish, and it will be done for you.'"
+      "label": "BSB",
+      "paragraphs": [
+        "7 If you remain in Me and My words remain in you, ask whatever you wish, and it will be done for you."
+      ]
     }
   ],
   "context_lines": [
-    "In **John 15**, Jesus uses the vine and branches to teach abiding, fruitfulness, obedience, love, and dependence on Him. Requests in this chapter are framed by ongoing union with Christ, not by detached human wishing."
-  ],
-  "explanation_lines": [
-    "To abide in Christ means to follow His example, to live as He would have you live, to do as He would have you do. In other words, to abide in Him is to live according to His will. That is exactly the condition 1 John 5:14-15 already gave us \u2014 ask according to His will, and He hears you. John 15:7 is saying the same thing in different words: abide in Him, and your asking will already be shaped by His will, because that is what abiding means.",
+    "The promise comes within the vine-and-branches teaching. Jesus has called the disciples to remain in Him because a branch cannot produce fruit apart from the vine. He now connects asking with that relationship.",
     "",
-    "In short, abiding in Christ is not a posture you adopt so you can still ask for the job, the money, the car, or anything else you already wanted \u2014 just with \"if it's Your will\" attached at the end. That is not abiding; that is the same self-directed asking wearing religious language. Genuine abiding does not produce a list of personal requests with a disclaimer. It produces a person who is no longer asking for those things in the first place, because their wants have actually been replaced by His."
-  ]
+    "There are two linked conditions: the disciples remain in Him, and His words remain in them. Their asking grows within a life being shaped by what He has taught. The promise is followed by the Father’s glory in their fruitfulness.",
+    "",
+    "This continues the connection between prayer and His mission in [John 14:12–14](https://biblehub.com/bsb/john/14.htm). Jesus’ action and the Father’s glory belong together. Remaining in Him concerns the whole direction of their life, including their requests."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the promise in connection with its stated conditions. [Calvin on verse 7](https://biblehub.com/commentaries/calvin/john/15.htm) explains that Jesus’ words shape the desires of those who remain in Him, rather than approving every passing wish. [Wesley on verse 7](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) describes prayer as both fruit of faith and a means of further fruitfulness. These explanations place asking within an ongoing life of faith."
+  ],
+  "god_plan_lines": [
+    "[Colossians 1:9–12](https://biblehub.com/bsb/colossians/1.htm) provides a related pattern: Paul asks for believers to know God’s will so that they may live worthily, bear fruit, grow in knowledge and give thanks. Prayer serves the growth of people whose life reflects the God they belong to."
+  ],
+  "current_position_lines": [
+    "Our study Prayer and Faith understands this promise through its stated conditions: remaining in Christ and His words remaining in us. As His teaching shapes our life, it also shapes our desires and our asking. The study connects this with asking according to God’s will in 1 John 5:14–15, rather than treating the verse as a guarantee for plans formed independently of Him."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/15.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-john-fifteen-opening-review.md",
+    "position_source_detail": "Prayer and Faith"
+  }
 }

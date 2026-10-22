@@ -5,29 +5,53 @@
     "label": "1 Timothy 6:16",
     "slug": "1-timothy-6-16"
   },
-  "section_title": "",
+  "section_title": "Why does Paul praise God as the source of immortal life?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"who alone is immortal and who lives in unapproachable light, whom no one has seen or can see. To him be honor and might forever. Amen.\""
+      "label": "BSB",
+      "paragraphs": [
+        "16 He alone is immortal and dwells in unapproachable light. No one has ever seen Him, nor can anyone see Him. To Him be honor and eternal dominion! Amen."
+      ]
     }
   ],
   "context_lines": [
-    "1 Timothy 6:16 should be read within the flow of its chapter and the larger argument of 1 Timothy."
+    "This verse closes Paul’s charge to Timothy in 6:11–16. Timothy is to persevere until Christ appears at the time God appoints. Praise for God’s unmatched rule, immortal life and unapproachable light brings the charge to its conclusion.",
+    "",
+    "The verse should stay connected with that encouragement. Timothy’s life and future rest with the God whose power is greater than the pressures he faces."
   ],
   "common_interpretation_lines": [
-    "The Father is never seen. He dwells in unapproachable light. No one has seen Him or can see Him. And yet the Old Testament is full of people seeing God \u2014 encountering Him visibly, physically, face to face.",
+    "Major Christian readings agree that God is the source of life. [Calvin](https://biblehub.com/commentaries/calvin/1_timothy/6.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-timothy/) understand His unique immortality to mean that He has life in Himself; whatever life creatures have comes from Him.",
     "",
-    "The resolution is precise: every visible appearance of God in the Old Testament is the second person of the Trinity \u2014 the eternal Son, appearing in human-like form before the Incarnation. He is the one who makes the invisible God visible and knowable. This is exactly what John 1:18 says: no one has seen God, but the Son has made Him known. He has been making Him known since the beginning.",
+    "Where traditions differ is what happens to a person at death. The Catholic Church teaches that the soul survives bodily death and will be reunited with the body at the resurrection ([Catechism 366](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_one/article_1/paragraph_6_man.index.html)). The Reformed [Westminster Confession 32.1–2](https://www.opc.org/wcf.html) likewise teaches conscious life after death and a future bodily resurrection. Seventh-day Adventists instead teach that death is an unconscious state until resurrection, when God gives eternal life to His redeemed ([Belief 26](https://institucional.adventistas.org/en/our-beliefs/26-death-and-resurrection/)). These readings all depend on God giving life; they differ over the soul’s condition between death and resurrection."
+  ],
+  "god_plan_lines": [
+    "[John 1:18](https://biblehub.com/bsb/john/1.htm) connects the unseen God with the Son who makes Him known. [Colossians 1:15–20](https://biblehub.com/bsb/colossians/1.htm) likewise describes the Son as the image of the invisible God and places creation and reconciliation through Him together.",
     "",
-    "Every time you read \"the Angel of the LORD\" in your Old Testament, you are reading about the pre-incarnate Christ \u2014 present, active, and making the Father known long before Bethlehem.",
-    "",
-    "*The understanding presented here reflects our best study of God's Word at this time. Scripture calls us to come together as the ekkl\u0113sia \u2014 the called-out assembly \u2014 and let all things be done for edification. (1 Corinthians 14:26) Your thoughts, questions, and insights are not just welcome \u2014 they are part of this process. Iron sharpens iron. If the Word leads us to a deeper or clearer understanding through your contribution, this site will be updated to reflect it. Your voice matters here. This is not a finished work. It is a table we are all sitting at together.*"
+    "These passages give a wider setting for knowing the God whom human sight cannot reach. God makes Himself known through His Son, and [2 Timothy 1:9–10](https://biblehub.com/bsb/2_timothy/1.htm) connects life and immortality with Christ’s appearing and the gospel."
+  ],
+  "current_position_lines": [
+    "In [Who is The Angel of the Lord?](https://thewayofscripture.com/studies/angel-of-the-lord.html), we understand the unseen One in this passage as the Father. Read alongside John 1:18, this helps explain how people in the Old Testament could encounter God visibly: our study identifies those appearances with the eternal Son, who makes the Father known. This is the position developed in that study, rather than a conclusion supplied by the word light on its own."
   ],
   "deeper_study": [
     {
       "title": "Who is The Angel of the Lord?",
       "href": "../studies/angel-of-the-lord.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_timothy/6.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-first-timothy-six-review.md",
+    "position_source_detail": "Who is The Angel of the Lord?, The New Testament Anchor and Summary, lines 107–117 and 139–144."
+  }
 }

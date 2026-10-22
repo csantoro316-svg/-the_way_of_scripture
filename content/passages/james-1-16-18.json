@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "James",
+    "citation": "1:16-18",
+    "label": "James 1:16-18",
+    "slug": "james-1-16-18"
+  },
+  "section_title": "What does God bring into our lives?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "16 Do not be deceived, my beloved brothers. 17 Every good and perfect gift is from above, coming down from the Father of the heavenly lights, with whom there is no change or shifting shadow. 18 He chose to give us birth through the word of truth, that we would be a kind of firstfruits of His creation."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After describing desire giving birth to sin and death, James turns to another kind of birth. God chose to give His people birth through the word of truth. His giving brings life, rather than the evil that the previous verses refused to attribute to Him.",
+    "",
+    "The Father of the heavenly lights is contrasted with change and shifting shadow. James directs attention to God’s dependable goodness: His character does not swing between generosity and an intent to lure people into evil.",
+    "",
+    "The firstfruits image draws on the [first portion of a harvest offered to God](https://biblehub.com/greek/536.htm). Calling believers a kind of firstfruits places their new life within His purposes for His creation, rather than treating it as a merely private improvement."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/james/1.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-general-epistle-of-st-james/) understand the birth as the new life God gives through the gospel. Both emphasize that His goodness and initiative stand behind it; the image of firstfruits describes a people set apart for Him."
+  ],
+  "god_plan_lines": [
+    "[1 Peter 1:22–25](https://biblehub.com/bsb/1_peter/1.htm) also connects new birth with God’s living, enduring word and calls the resulting people to sincere love. James’ image can be read alongside the wider hope in [Romans 8:18–25](https://biblehub.com/bsb/romans/8.htm): God’s children await bodily redemption, and creation itself awaits freedom from decay. That is a supported connection in theme, rather than a timetable supplied by James for every stage of creation’s renewal."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/james/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-james-one-review.md"
+  }
+}

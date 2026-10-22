@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "12:1-7",
+    "label": "Ezekiel 12:1-7",
+    "slug": "ezekiel-12-1-7"
+  },
+  "section_title": "Why does Ezekiel pack his bags and dig through a wall?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Then the word of the LORD came to me, saying, 2 “Son of man, you are living in a rebellious house. They have eyes to see but do not see, and ears to hear but do not hear, for they are a rebellious house. 3 Therefore, son of man, pack your bags for exile. In broad daylight, set out from your place and go to another as they watch. Perhaps they will understand, though they are a rebellious house.",
+        "4 Bring out your baggage for exile by day, as they watch. Then in the evening, as they watch, go out like those who go into exile. 5 As they watch, dig through the wall and carry your belongings out through it. 6 And as they watch, lift your bags to your shoulder and take them out at dusk; cover your face so that you cannot see the land. For I have made you a sign to the house of Israel.” 7 So I did as I was commanded. I brought out my bags for exile by day, and in the evening I dug through the wall by hand. I took my belongings out at dusk, carrying them on my shoulder as they watched."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After the temple vision, the Lord gives Ezekiel another message to act out. He describes the people as having eyes and ears but refusing to see and hear. Their problem is their rebellion, even after the warnings already given.",
+    "",
+    "Ezekiel must bring out baggage for exile in daylight where people can watch. At dusk, he is to dig through a wall, carry his belongings through it on his shoulder and cover his face so that he cannot see the land.",
+    "",
+    "The Lord makes the purpose clear: Ezekiel is a sign to Israel. Perhaps the people will understand when the warning is placed before their eyes. The prophet reports that he does exactly what he was commanded.",
+    "",
+    "The action comes before the fuller explanation in the next passage. Ezekiel obeys the instruction he has received while the watchers are left asking what it means."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezekiel/12.htm) and [Wesley](https://biblehub.com/commentaries/wes/ezekiel/12.htm) read the departure as a sign of the captivity still coming upon Jerusalem. It depicts the loss of home and the attempt to leave under threat, rather than an ordinary journey.",
+    "",
+    "Wesley emphasizes that the people are capable of understanding but refuse to do so. The visible sign is another effort to confront that refusal. It gives the warning a form they can watch, even though seeing the action does not guarantee that they will accept its meaning."
+  ],
+  "god_plan_lines": [
+    "[First Corinthians 4:9–13](https://biblehub.com/bsb/1_corinthians/4.htm) describes the apostles being put on public display while enduring weakness, hunger, mistreatment and dishonor. [Second Corinthians 6:1–10](https://biblehub.com/bsb/2_corinthians/6.htm) likewise connects faithful service with endurance, truthful speech, patience and love amid hardship.",
+    "",
+    "Paul is not identifying the apostles with Ezekiel’s particular sign. The connection is the cost of carrying God’s message: faithfulness may require public discomfort and sacrifice before an audience that does not welcome it. God’s saving work is served through such endurance, rather than through a guarantee of comfort or applause."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/12.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-twelve-review.md"
+  }
+}

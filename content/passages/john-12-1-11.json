@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "12:1-11",
+    "label": "John 12:1-11",
+    "slug": "john-12-1-11"
+  },
+  "section_title": "Why does Jesus connect Mary’s gift with His burial?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Six days before the Passover, Jesus came to Bethany, the hometown of Lazarus, whom He had raised from the dead. 2 So they hosted a dinner for Jesus there. Martha served, and Lazarus was among those reclining at the table with Him. 3 Then Mary took about a pint of expensive perfume, made of pure nard, and she anointed Jesus’ feet and wiped them with her hair. And the house was filled with the fragrance of the perfume.",
+        "4 But one of His disciples, Judas Iscariot, who was going to betray Him, asked, 5 “Why wasn’t this perfume sold for three hundred denarii and the money given to the poor?” 6 Judas did not say this because he cared about the poor, but because he was a thief. As keeper of the money bag, he used to take from what was put into it. 7 “Leave her alone,” Jesus replied. “She has kept this perfume in preparation for the day of My burial. 8 The poor you will always have with you, but you will not always have Me.”",
+        "9 Meanwhile a large crowd of Jews learned that Jesus was there. And they came not only because of Him, but also to see Lazarus, whom He had raised from the dead. 10 So the chief priests made plans to kill Lazarus as well, 11 for on account of him many of the Jews were deserting them and believing in Jesus."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus returns to Bethany six days before Passover. At the dinner, Martha serves and Lazarus sits with Him. Mary pours costly perfume on Jesus’ feet and wipes them with her hair. The man who had been in the tomb is now at the table, while Jesus speaks about His own approaching burial.",
+    "",
+    "Judas objects that the perfume could have been sold for three hundred denarii and the money given to the poor. The amount signals its value: in [Matthew 20:1–2](https://biblehub.com/bsb/matthew/20.htm), a worker agrees to one denarius for a day’s labor. John tells us why Judas raises the objection: he has been stealing from the group’s money bag. This is a motive the Gospel explicitly supplies, not a reason to assume every concern for poor people is dishonest.",
+    "",
+    "Jesus defends Mary and connects the perfume with His burial. His words about always having the poor do not cancel the call to help them. [Deuteronomy 15:7–11](https://biblehub.com/bsb/deuteronomy/15.htm) joins the continuing presence of poverty with a command to be generous. Jesus draws attention to the particular opportunity before Mary and the limited time remaining before His death.",
+    "",
+    "The scene ends with another response to Lazarus’s raising. People come to see both him and Jesus, and many believe in Jesus because of him. The chief priests therefore plan to kill Lazarus as well. His restored life has become a public witness that they want to remove."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Mary’s act as honoring Jesus and anticipating His burial, as [Wesley’s note on verse 7](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) explains. His words about the poor preserve the duty of generosity; that continuing duty is affirmed in [Calvin’s explanation of verse 8](https://biblehub.com/commentaries/calvin/john/12.htm) and the [Catholic Catechism, paragraph 2449](https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_two/article_7/vi_love_for_the_poor.html)."
+  ],
+  "god_plan_lines": [
+    "Jesus interprets the gift in light of the death that is drawing near. The dinner places restored life and coming burial in the same scene, helping us see that His mission has moved toward its decisive cost.",
+    "",
+    "[1 Corinthians 15:3–4](https://biblehub.com/bsb/1_corinthians/15.htm) places Christ’s death for sins, His burial and His resurrection together at the heart of the gospel. Mary’s act belongs to the approach to that burial. The One who has brought Lazarus out of a grave will Himself enter death and rise, bringing a hope greater than a temporary return to ordinary life."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/12.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-twelve-opening-review.md"
+  }
+}

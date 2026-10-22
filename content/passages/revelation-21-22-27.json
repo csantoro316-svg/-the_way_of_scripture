@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Revelation",
+    "citation": "21:22-27",
+    "label": "Revelation 21:22-27",
+    "slug": "revelation-21-22-27"
+  },
+  "section_title": "Why is there no temple in the city?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "22 But I saw no temple in the city, because the Lord God Almighty and the Lamb are its temple. 23 And the city has no need of sun or moon to shine on it, because the glory of God illuminates the city, and the Lamb is its lamp. 24 By its light the nations will walk, and into it the kings of the earth will bring their glory.",
+        "25 Its gates will never be shut at the end of the day, because there will be no night there. 26 And into the city will be brought the glory and honor of the nations. 27 But nothing unclean will ever enter it, nor anyone who practices an abomination or a lie, but only those whose names are written in the Lamb’s Book of Life."
+      ]
+    }
+  ],
+  "context_lines": [
+    "John sees no temple in the city because the Lord God Almighty and the Lamb are its temple. Their presence defines its worship. The city also has no need of sun or moon to illuminate it: God’s glory gives light, and the Lamb is its lamp.",
+    "",
+    "The nations walk by that light, and the kings bring their glory into the city. Its gates remain open, with no night there. The honor of the nations is brought in, so the scene includes both the city and peoples coming into it.",
+    "",
+    "The open gates belong with holiness. Nothing unclean, no one who practices abomination or falsehood, enters. Entrance belongs to those whose names are written in the Lamb’s Book of Life. This returns to the distinction made at the judgment and to the earlier blessing on those who belong to the Lamb."
+  ],
+  "common_interpretation_lines": [
+    "The main readings understand the absence of a temple as a statement about God’s presence with His people. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-revelation-of-jesus-christ/) emphasizes God filling and sanctifying the city. The [USCCB notes](https://bible.usccb.org/bible/revelation/21) connect the image with Christ’s presence throughout the church. The emphasis is on access to God, His light and the holiness of the people who live with Him."
+  ],
+  "god_plan_lines": [
+    "The nations, kings, open gates and light recall [Isaiah 60:1–5, 11 and 19–22](https://biblehub.com/bsb/isaiah/60.htm). There the LORD’s glory rises over His people, nations come to the light, and God becomes their everlasting light. Revelation gathers these promises into its description of the Lamb’s city.",
+    "",
+    "Jesus’ teaching in [John 4:21–24](https://biblehub.com/bsb/john/4.htm) looks beyond worship tied to one mountain or Jerusalem and toward worship of the Father in spirit and truth. The city with God and the Lamb as its temple gives a final picture of fellowship centered on God Himself."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/revelation/21.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-revelation-twenty-one-review.md"
+  }
+}

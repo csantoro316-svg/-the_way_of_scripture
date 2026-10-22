@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "12:12-19",
+    "label": "John 12:12-19",
+    "slug": "john-12-12-19"
+  },
+  "section_title": "What kind of king enters Jerusalem on a donkey?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "12 The next day the great crowd that had come to the feast heard that Jesus was coming to Jerusalem. 13 They took palm branches and went out to meet Him, shouting: “Hosanna!” “Blessed is He who comes in the name of the Lord!” “Blessed is the King of Israel!” 14 Finding a young donkey, Jesus sat on it, as it is written: 15 “Do not be afraid, O Daughter of Zion. See, your King is coming, seated on the colt of a donkey.” 16 At first His disciples did not understand these things, but after Jesus was glorified they remembered what had been done to Him, and they realized that these very things had also been written about Him.",
+        "17 Meanwhile, many people who had been with Jesus when He called Lazarus from the tomb and raised him from the dead continued to testify. 18 That is also why the crowd went out to meet Him, because they heard that He had performed this sign. 19 Then the Pharisees said to one another, “You can see that this is doing you no good. Look how the whole world has gone after Him!”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The next day, people who have come for the feast hear that Jesus is approaching Jerusalem. They take palm branches to meet Him and greet Him as the King of Israel. The testimony about Lazarus’s raising helps explain their response: some have witnessed the sign, and others have heard about it.",
+    "",
+    "The cry ὡσαννά, hōsanna (hoh-zan-NAH), preserves a Hebrew plea for salvation. [Thayer’s lexicon](https://biblehub.com/greek/5614.htm) connects it with the prayer in [Psalm 118:25–26](https://biblehub.com/bsb/psalms/118.htm). Here the crowd uses it while welcoming Jesus as King. Their words are more than a general cheer for a popular teacher.",
+    "",
+    "Jesus rides a young donkey, and John directly connects this with what was written about Zion’s coming king. [Zechariah 9:9–10](https://biblehub.com/bsb/zechariah/9.htm) describes a humble king arriving on a donkey and goes on to speak of peace for the nations. This is a royal arrival with a character different from conquest by war.",
+    "",
+    "The disciples do not understand the meaning at first. After Jesus is glorified, they remember the Scripture and recognize how it relates to what happened. The story therefore distinguishes taking part in an event from grasping its full meaning. The Pharisees’ final complaint that the whole world has gone after Him expresses their alarm; it is not a count of every person’s faith."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read the entry as Jesus presenting Himself as the promised King in humility, with the Scripture becoming clearer to His disciples afterward. The [Catholic Catechism, paragraphs 559–560](https://www.vatican.va/archive/ENG0015/__P1L.HTM), [Calvin on verses 12–16](https://biblehub.com/commentaries/calvin/john/12.htm) and [Wesley on verses 15–16](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) share that central understanding."
+  ],
+  "god_plan_lines": [
+    "John identifies the arrival with Scripture’s promised king, but the path ahead leads to the cross. A few verses later Jesus describes His coming death as the way much fruit will be produced and people will be drawn to Him ([John 12:23–33](https://biblehub.com/bsb/john/12.htm)). His kingship and His self-giving belong together.",
+    "",
+    "Zechariah’s vision also reaches beyond Jerusalem to peace among the nations. [Ephesians 2:13–18](https://biblehub.com/bsb/ephesians/2.htm) explains how Christ makes peace through His cross and brings Jews and Gentiles into shared access to the Father. The humble arrival belongs within that wider saving purpose, rather than ending with the crowd’s immediate welcome."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/12.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-twelve-opening-review.md"
+  }
+}

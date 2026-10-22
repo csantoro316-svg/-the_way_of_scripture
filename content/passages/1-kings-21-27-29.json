@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "21:27-29",
+    "label": "1 Kings 21:27-29",
+    "slug": "1-kings-21-27-29"
+  },
+  "section_title": "What does God do when Ahab humbles himself?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "27 When Ahab heard these words, he tore his clothes, put on sackcloth, and fasted. He lay down in sackcloth and walked around meekly. 28 Then the word of the LORD came to Elijah the Tishbite, saying: 29 “Have you seen how Ahab has humbled himself before Me? Because he has humbled himself before Me, I will not bring the calamity during his days, but I will bring it upon his house in the days of his son.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Ahab responds to the warning by tearing his clothes, putting on sackcloth and fasting. He lies in sackcloth and goes about meekly.",
+    "",
+    "The LORD draws Elijah’s attention to that response. Because Ahab has humbled himself before Him, the announced calamity upon his house will come in his son’s days rather than his own.",
+    "",
+    "The closing word is a postponement of the royal house’s judgment. God takes notice of Ahab’s humbling even after the severe assessment of his life."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) describes the humbling as real but not lasting and sees God’s response as evidence of His readiness to show mercy. [Henry](https://biblehub.com/commentaries/mhc/1_kings/21.htm) and [Gill](https://biblehub.com/commentaries/gill/1_kings/21.htm) judge it to be outward or incomplete, rather than a thorough change of heart.",
+    "",
+    "The difference concerns how deeply and enduringly Ahab’s response reaches. All recognize the reprieve stated in the passage. The text reports God acknowledging his humbling and delaying the judgment; it does not announce that every earlier consequence has been canceled."
+  ],
+  "god_plan_lines": [
+    "[Romans 2:4–6](https://biblehub.com/bsb/romans/2.htm) explains that God’s kindness, patience and tolerance are meant to lead people to repentance. It also warns against a hardened response that stores up judgment.",
+    "",
+    "This broader teaching helps explain the significance of a reprieve. Mercy calls for a changed response to God; delay is not a reason to dismiss His judgment or continue the wrong. Ahab’s humbling and the word of postponement keep both mercy and accountability before the reader."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/21.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-twenty-one-review.md"
+  }
+}

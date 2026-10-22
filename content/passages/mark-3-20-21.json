@@ -1,0 +1,44 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "3:20-21",
+    "label": "Mark 3:20-21",
+    "slug": "mark-3-20-21"
+  },
+  "section_title": "The Crowds and His Family’s Concern",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "20 Then Jesus went home, and once again a crowd gathered, so that He and His disciples could not even eat. 21 When His family heard about this, they went out to take custody of Him, saying, “He is out of His mind.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus returns home, and the crowd gathers so densely that He and His disciples cannot even eat. The pressure of ministry now reaches into the ordinary need for a meal. Mark does not identify the house's owner in these verses.",
+    "",
+    "His family hears about it and sets out to take custody of Him, saying that He is out of His mind. This is their judgment of Him, not Mark's judgment. The account shows that people close to Jesus can misunderstand what He is doing.",
+    "",
+    "Their journey introduces a story that resumes in [Mark 3:31–35](https://biblehub.com/bsb/mark/3.htm), when His mother and brothers arrive. Between those moments Mark tells of the scribes' accusation and Jesus' reply. Both scenes concern responses to Jesus, though the family concern and the claim that His power comes from Satan are different responses."
+  ],
+  "common_interpretation_lines": [
+    "Christian interpreters commonly connect this family scene with the relatives' arrival in verses 31–35 and with the question of truly understanding Jesus. [Calvin on Mark 3:20–21](https://biblehub.com/commentaries/calvin/mark/3.htm) and the [US Catholic bishops' note on 3:20–35](https://bible.usccb.org/bible/mark/3) read the passage as misunderstanding among His relatives; the text does not separately report every family member's thoughts."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/3.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-three-closing-review.md"
+  }
+}

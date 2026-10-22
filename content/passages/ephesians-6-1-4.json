@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Ephesians",
+    "citation": "6:1-4",
+    "label": "Ephesians 6:1-4",
+    "slug": "ephesians-6-1-4"
+  },
+  "section_title": "How should children and parents treat one another?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Children, obey your parents in the Lord, for this is right. 2 “Honor your father and mother” (which is the first commandment with a promise), 3 “that it may go well with you and that you may have a long life on the earth.”",
+        "4 Fathers, do not provoke your children to wrath; instead, bring them up in the discipline and instruction of the Lord."
+      ]
+    }
+  ],
+  "context_lines": [
+    "These instructions continue the discussion of household relationships begun in chapter 5. Children are addressed directly and told to obey their parents in the Lord. Paul then quotes the command to honor father and mother, including its promise of well-being and long life.",
+    "",
+    "Fathers are also addressed directly. They must not provoke their children to wrath, but bring them up in the Lord’s discipline and instruction. The command to children stands beside an obligation on those who raise them.",
+    "",
+    "The Lord is central to both instructions. Children’s conduct is related to Him, and their upbringing is to be shaped by His teaching. Paul treats the home as part of the community’s life in Christ."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as joining children’s respect and obedience with parents’ responsibility to teach and care for them. [Wesley’s notes on verses 1–4](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-ephesians/) limit obedience to what is lawful and describe upbringing through Christian teaching with tenderness. The Catholic [Catechism, paragraphs 2217 and 2222–2223](https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_two/article_4/iii_the_duties_of_family_members.html), likewise rejects morally wrong commands and emphasizes respect, good example and care.",
+    "",
+    "The continuing duty to honor parents is distinguished from a child’s obedience while dependent on them; the Catechism explains that distinction in paragraphs 2217–2218. Applications of the long-life promise also receive different emphasis. Wesley’s note on verse 3 gives it a spiritual dimension under the gospel. The promise is a reason to value honoring parents, rather than a timetable by which readers can calculate a particular child’s lifespan."
+  ],
+  "god_plan_lines": [
+    "[Deuteronomy 6:4–9](https://biblehub.com/bsb/deuteronomy/6.htm) places love for the Lord and teaching His words within the ordinary rhythms of home: sitting, walking, lying down and rising. This is a supported parallel to bringing children up in the Lord’s instruction.",
+    "",
+    "The larger theme is the passing on of the knowledge of God across generations. Family care and teaching belong within that purpose. Ephesians places responsibility on those who teach as well as those who are learning."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/ephesians/6.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-ephesians-six-opening-review.md"
+  }
+}

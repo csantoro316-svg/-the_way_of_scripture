@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "1 Peter",
+    "citation": "2:18-20",
+    "label": "1 Peter 2:18-20",
+    "slug": "1-peter-2-18-20"
+  },
+  "section_title": "Does God see those who suffer unfairly?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "18 Servants, submit yourselves to your masters with all respect, not only to those who are good and gentle, but even to those who are unreasonable. 19 For if anyone endures the pain of unjust suffering because he is conscious of God, this is to be commended. 20 How is it to your credit if you are beaten for doing wrong and you endure it? But if you suffer for doing good and you endure it, this is commendable before God."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Peter addresses household servants, including enslaved people. The [Greek word](https://biblehub.com/greek/3610.htm) identifies service within a household; this is not simply a description of a modern job. He speaks to people who may be beaten and who do not control how their masters treat them.",
+    "",
+    "The instruction includes masters who are harsh. The [word behind that description](https://biblehub.com/greek/4646.htm) can mean crooked or unfair. Peter names the treatment as unjust, rather than pretending that a master’s power makes every action right.",
+    "",
+    "He distinguishes suffering for wrongdoing from suffering while doing good. The latter can be endured with an awareness of God, whose judgment of the servant’s conduct matters more than the master’s approval. The following verses place Christ’s own unjust suffering before them."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/1_peter/2.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-epistle-general-of-st-peter/) understand this as a call to faithful conduct under unjust treatment because the believer seeks to please God. Both connect it with Christ’s patient response in the next paragraph.",
+    "",
+    "Calvin expressly limits human obedience by God’s authority. The passage speaks to sufferers about their conduct; it gives no instruction authorizing masters to mistreat them. Elsewhere, [1 Corinthians 7:21–23](https://biblehub.com/bsb/1_corinthians/7.htm) tells enslaved believers to take the opportunity for freedom when it is available."
+  ],
+  "god_plan_lines": [
+    "Peter will connect this endurance directly with Christ, who suffered without wrongdoing and entrusted Himself to the righteous Judge. God sees people whose suffering others overlook, and their faithfulness is not measured by the powerful person’s verdict.",
+    "",
+    "[Romans 12:17–21](https://biblehub.com/bsb/romans/12.htm) likewise joins doing good with refusing personal vengeance and trusting God’s judgment. The aim is to overcome evil with good, while leaving judgment in God’s hands."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_peter/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-peter-two-closing-review.md"
+  }
+}

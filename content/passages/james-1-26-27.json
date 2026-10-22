@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "James",
+    "citation": "1:26-27",
+    "label": "James 1:26-27",
+    "slug": "james-1-26-27"
+  },
+  "section_title": "What does a life of faith look like to God?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "26 If anyone considers himself religious and yet does not bridle his tongue, he deceives his heart and his religion is worthless. 27 Pure and undefiled religion before our God and Father is this: to care for orphans and widows in their distress, and to keep oneself from being polluted by the world."
+      ]
+    }
+  ],
+  "context_lines": [
+    "James ends the chapter by testing a person’s view of his or her own religion against everyday conduct. An uncontrolled tongue can expose self-deception beneath a religious appearance.",
+    "",
+    "Care for orphans and widows means responding to people in distress, while keeping unstained by the world concerns the character of one’s own life. These instructions put outward mercy and personal integrity together.",
+    "",
+    "The examples bring the earlier command to do the word into ordinary relationships. James is not offering a way to replace faith with a list of charitable accomplishments. He is showing the inconsistency of claiming devotion to God while disregarding what He asks."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/james/1.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-general-epistle-of-st-james/) read this as practical mercy, disciplined speech and a life kept from evil. Calvin explicitly treats widows and orphans as examples of people needing help, rather than an exhaustive list of everyone Christians should care for."
+  ],
+  "god_plan_lines": [
+    "Care for vulnerable people continues an established theme in Scripture. [Deuteronomy 10:17–19](https://biblehub.com/bsb/deuteronomy/10.htm) describes God defending the fatherless and widow and loving the foreigner, then calls His people to reflect His care. James places that same kind of visible mercy beside the confession of faith in Jesus."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/james/1.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-james-one-review.md"
+  }
+}

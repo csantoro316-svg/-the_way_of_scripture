@@ -10,22 +10,42 @@
     {
       "label": "BSB",
       "paragraphs": [
-        "22 At that time Abimelech and Phicol the commander of his army said to Abraham, \u201cGod is with you in all that you do. 23 Now, therefore, swear to me here before God that you will not deal falsely with me or my children or descendants. Show to me and to the country in which you reside the same kindness that I have shown to you.\u201d",
-        "24 And Abraham replied, \u201cI swear it.\u201d",
-        "25 But when Abraham complained to Abimelech about a well that Abimelech\u2019s servants had seized, 26 Abimelech replied, \u201cI do not know who has done this. You did not tell me, so I have not heard about it until today.\u201d",
-        "27 So Abraham brought sheep and cattle and gave them to Abimelech, and the two men made a covenant. 28 Abraham separated seven ewe lambs from the flock, 29 and Abimelech asked him, \u201cWhy have you set apart these seven ewe lambs?\u201d",
-        "30 He replied, \u201cYou are to accept the seven ewe lambs from my hand as my witness that I dug this well.\u201d 31 So that place was called Beersheba, because it was there that the two of them swore an oath. 32 After they had made the covenant at Beersheba, Abimelech and Phicol the commander of his army got up and returned to the land of the Philistines.",
+        "22 At that time Abimelech and Phicol the commander of his army said to Abraham, “God is with you in all that you do. 23 Now, therefore, swear to me here before God that you will not deal falsely with me or my children or descendants. Show to me and to the country in which you reside the same kindness that I have shown to you.”",
+        "24 And Abraham replied, “I swear it.”",
+        "25 But when Abraham complained to Abimelech about a well that Abimelech’s servants had seized, 26 Abimelech replied, “I do not know who has done this. You did not tell me, so I have not heard about it until today.”",
+        "27 So Abraham brought sheep and cattle and gave them to Abimelech, and the two men made a covenant. 28 Abraham separated seven ewe lambs from the flock, 29 and Abimelech asked him, “Why have you set apart these seven ewe lambs?”",
+        "30 He replied, “You are to accept the seven ewe lambs from my hand as my witness that I dug this well.” 31 So that place was called Beersheba, because it was there that the two of them swore an oath. 32 After they had made the covenant at Beersheba, Abimelech and Phicol the commander of his army got up and returned to the land of the Philistines.",
         "33 And Abraham planted a tamarisk tree in Beersheba, and there he called upon the name of the LORD, the Eternal God. 34 And Abraham resided in the land of the Philistines for a long time."
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 21**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "Abimelech and his commander Phicol approach Abraham because they recognize that God is with him. Abimelech asks for honest and kind treatment of himself and his descendants, recalling the kindness he has shown Abraham. After the deception in chapter 20, the request to avoid false dealing has particular force.",
+    "",
+    "Abraham agrees, but also raises the seizure of a well by Abimelech's servants. Abimelech says he had not known about it. They make a covenant, and Abraham sets apart seven ewe lambs as a witness that he dug the well. The agreement joins peaceful relations with a concrete acknowledgment of the disputed resource. The place is called Beersheba because the two swear an oath there.",
+    "",
+    "Abraham plants a tamarisk and calls upon the LORD as the Eternal God. The Hebrew title is אֵל עוֹלָם, *ʾēl ʿōlām* (ayl oh-LAHM). [Brown–Driver–Briggs](https://biblehub.com/hebrew/5769.htm) cites Genesis 21:33 among uses of the word for God's enduring existence. Abraham's agreement concerns a well and generations of neighbors; his worship looks to the God whose life reaches beyond them."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Covenant at Beersheba** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 21** remains the first control on meaning."
+    "Christians commonly read the treaty as a peaceful settlement protecting truthful relations and Abraham's claim to the well. [Wesley's notes on Genesis 21:31–33](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) connect the place-name with the oath and Abraham's worship with his continuing life as a stranger in the land."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 11:8–10](https://biblehub.com/bsb/hebrews/11.htm) describes Abraham living by faith as a stranger in the promised land while looking for the city God would build. This agreement shows the ordinary shape of that waiting: caring for a household's needs, addressing a dispute, keeping peace, and worshiping God. The promise does not make daily responsibilities unimportant.",
+    "",
+    "The title Eternal God also connects with [Isaiah 40:28–31](https://biblehub.com/bsb/isaiah/40.htm), where the everlasting Creator gives strength to the weary who wait for Him. God's enduring life gives His people a hope larger than the span of one treaty or one generation. Abraham can secure an agreement with a neighbor while continuing to place his deeper trust in God."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/genesis/21.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-genesis-lot-and-isaac-review.md"
+  }
 }

@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "5:17-26",
+    "label": "Acts 5:17-26",
+    "slug": "acts-5-17-26"
+  },
+  "section_title": "Why are the apostles sent back to the temple after their release?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "17 Then the high priest and all his associates, who belonged to the party of the Sadducees, were filled with jealousy. They went out 18 and arrested the apostles and put them in the public jail. 19 But during the night an angel of the Lord opened the doors of the jail and brought them out, saying, 20 “Go, stand in the temple courts and tell the people the full message of this new life.” 21 At daybreak the apostles entered the temple courts as they had been told and began to teach the people. When the high priest and his associates arrived, they convened the Sanhedrin—the full assembly of the elders of Israel—and sent to the jail for the apostles.",
+        "22 But on arriving at the jail, the officers did not find them there. So they returned with the report: 23 “We found the jail securely locked, with the guards posted at the doors; but when we opened them, we found no one inside.” 24 When the captain of the temple guard and the chief priests heard this account, they were perplexed as to what was happening. 25 Then someone came in and announced, “Look, the men you put in jail are standing in the temple courts teaching the people!” 26 At that point, the captain went with the officers and brought the apostles—but not by force, for fear the people would stone them."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The high priest and his Sadducee associates react with jealousy and have the apostles arrested. During the night an angel opens the prison doors and brings them out. The release comes with an instruction: return to the temple courts and tell the people the full message of this new life.",
+    "",
+    "The apostles obey at daybreak. When the council sends for them, the officers find the prison locked and guarded but empty. The missing prisoners are then reported to be teaching openly in the temple.",
+    "",
+    "The captain and officers bring them back without force because they fear the people’s reaction. Luke’s account contrasts the attempt to confine the messengers with their return to the very work they had been forbidden to do."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the release as God’s intervention in support of the apostles’ mission, with obedience to the renewed command following immediately. [Wesley on verse 20](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) understands the message of this life as the words that show the way to eternal life."
+  ],
+  "god_plan_lines": [
+    "Later, [Acts 12:7–10](https://biblehub.com/bsb/acts/12.htm) will describe another angelic release, this time of Peter. These events show God preserving witnesses for the work before them; they do not make imprisonment or death impossible for His servants.",
+    "",
+    "[2 Timothy 2:8–9](https://biblehub.com/bsb/2_timothy/2.htm) expresses the wider point from a prisoner’s circumstances: Paul is chained, but God’s word is not. Here the attempt to stop the message is followed by the apostles teaching it in public again."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-five-review.md"
+  }
+}

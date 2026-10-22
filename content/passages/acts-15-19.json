@@ -5,22 +5,65 @@
     "label": "Acts 15:19",
     "slug": "acts-15-19"
   },
-  "section_title": "",
-  "versions": [],
+  "section_title": "What is James’s judgment about the Gentile believers?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "19 It is my judgment, therefore, that we should not cause trouble for the Gentiles who are turning to God."
+      ]
+    }
+  ],
   "context_lines": [
-    "Acts 15:19 should be read within the flow of its chapter and the larger argument of Acts."
+    "The assembly listens while Barnabas and Paul describe God’s work among Gentiles. James then recalls Peter’s account of God taking a people for His name from among the nations. He brings the discussion to the words of the prophets, quoting Amos about the restoration of David’s fallen tent and Gentiles who bear God’s name.",
+    "",
+    "The quotation’s wording differs from the BSB’s main text of [Amos 9:11–12](https://biblehub.com/bsb/amos/9.htm), which speaks of the remnant of Edom. The [BSB footnote in Acts](https://biblehub.com/bsb/acts/15.htm) points to the connection with the ancient Greek translation of the Old Testament. James’s stated point is that the Gentile welcome agrees with Scripture.",
+    "",
+    "His judgment is that Gentiles turning to God should not be troubled with the demand under discussion. He proposes a letter directing them to abstain from food polluted by idols, sexual immorality, strangled meat and blood. He also mentions the longstanding reading of Moses in the synagogues.",
+    "",
+    "The speech connects a clear welcome with instructions about the communities’ life together. The letter in the next passage will communicate the decision, rather than leaving Antioch dependent on an uncertain report of the meeting."
   ],
   "common_interpretation_lines": [
-    "James, the Lord's brother, clearly carries real weight in Jerusalem. Paul names him among the \"pillars\" of the church (Galatians 2:9). At the Jerusalem council, James speaks last and delivers the summary judgment: \"Therefore my judgment is that we should not trouble those of the Gentiles who turn to God\" (Acts 15:19). When Paul later returns to Jerusalem, he goes to see James, and \"all the elders were present\" (Acts 21:18).",
+    "Christians commonly see James using Scripture to support the Gentile welcome. They differ over how the restoration of David’s fallen tent relates to the present church and the future.",
     "",
-    "So did Jerusalem have a head bishop, decades before the office supposedly developed?",
+    "[Calvin on verse 16](https://biblehub.com/commentaries/calvin/acts/15.htm) reads the prophecy as bringing Jews and Gentiles into one family under David’s kingdom. [Wesley on verse 16](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) connects the restored tent with Christ’s enduring spiritual kingdom. Both find the present Gentile welcome within that promised work.",
     "",
-    "Look closer at how the text actually presents it. The Jerusalem council's decision is never James acting alone \u2014 it comes from \"the apostles and the elders, with the whole church\" (Acts 15:22), and the resulting letter is sent in the name of \"the brothers, both the apostles and the elders\" (Acts 15:23). James speaks with recognized authority, but the decision and the letter are corporate. And when Paul visits in Acts 21, James is never alone \u2014 the elders are present with him, functioning as a body, every time Scripture puts James in a leadership scene."
+    "[Thomas Constable on verses 15–17](https://soniclight.com/tcon/notes/html/acts/acts.htm) instead understands Amos as describing a future restoration under the Messiah and James as showing that the current Gentile welcome is consistent with it. These are different commentators’ readings of the prophecy, rather than a claim that every member of a tradition gives the same explanation.",
+    "",
+    "Church leadership is another point of difference. The Catholic Church’s [Catechism, paragraphs 880–882](https://www.vatican.va/archive/ENG0015/__P2A.HTM), teaches that Peter heads the apostles as a united body and that his office continues in the pope alongside the bishops. The Reformed [Westminster Confession, chapter 31, paragraphs 2–3](https://www.opc.org/wcf.html), receives council decisions according to their agreement with Scripture and says councils after the apostles can err. [Wesley on verse 23](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) reads the shared decision and letter as evidence against Peter being the sole chief judge. These differences concern how the council’s example relates to authority in the church."
+  ],
+  "god_plan_lines": [
+    "James explicitly brings the Gentile response into conversation with [Amos 9:11–12](https://biblehub.com/bsb/amos/9.htm). The nations called by God’s name are not outside His announced purpose. That is the connection James uses in deciding how to receive them.",
+    "",
+    "The appeal also joins what God is doing with what He has said. Reports of signs and conversions are heard, and the prophets are brought into the discussion. The larger purpose is a people belonging to God, rather than Gentiles having to erase their national origin before they may turn to Him."
+  ],
+  "current_position_lines": [
+    "Who Shepherds the Church? directly examines James’s judgment in verse 19 alongside the decision and letter in verses 22–23. The study recognizes his real standing while emphasizing the shared action of the apostles, elders and whole church. It understands his role here as recognized leadership within that body of elders, rather than an office of supreme rank passed on above them."
   ],
   "deeper_study": [
     {
       "title": "Who Shepherds the Church?",
       "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/15.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-acts-fifteen-review.md",
+    "position_source_detail": "Who Shepherds the Church? — But Wasn’t James the Head of the Church?; directly develops Acts15:19/22/23 as recognized personal standing and corporate decision/letter, within plural eldership."
+  }
 }

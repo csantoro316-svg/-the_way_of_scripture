@@ -1,0 +1,7 @@
+# Matthew6: fasting for the Father
+
+Published2026-10-19. New6:16–18 explains fastingwithoutpublicdisplay,connectsdevotionwithmercyinIsaiah58,andplacesfastingwithinChrist'smissionandtheearlygospelmission. CommonreadingsuseprimaryChristian sources;positionremainsopen. ExistingWorshipstudylinkedforitsActs13discussion.
+
+BSBcheck,eighttests,validation(0errors/387warnings),sourcealignment,links,canonicalnavigationandidempotencepassed. All1,070unaffectedexistingwebsitefilesandneighborprosepreserved. Local/mobile/standalone/actual-next/livechecks,Hostingdryrun/deployandfivelivebytecomparisonspassed. Evidence:`documentation/testing/2026-10-19-matthew-hidden-fasting-review.md`.
+
+Matthew34reviewedgroupscoverall156versesthrough6:18;54sources/20legacyunreviewed. Nexttreasure/anxietytocompletechapter6. FullPDF-backedgoalactive;Telegramsilentmodecontinues.

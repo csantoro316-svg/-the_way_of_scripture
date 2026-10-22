@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "12:22-31",
+    "label": "Luke 12:22-31",
+    "slug": "luke-12-22-31"
+  },
+  "section_title": "What does Jesus ask His disciples to seek instead of worrying?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "22 Then Jesus said to His disciples, “Therefore I tell you, do not worry about your life, what you will eat, or about your body, what you will wear. 23 For life is more than food, and the body more than clothes. 24 Consider the ravens: They do not sow or reap, they have no storehouse or barn; yet God feeds them. How much more valuable you are than the birds! 25 Who of you by worrying can add a single hour to his life? 26 So if you cannot do such a small thing, why do you worry about the rest?",
+        "27 Consider how the lilies grow: They do not labor or spin. Yet I tell you, not even Solomon in all his glory was adorned like one of these. 28 If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the furnace, how much more will He clothe you, O you of little faith! 29 And do not be concerned about what you will eat or drink. Do not worry about it. 30 For the Gentiles of the world strive after all these things, and your Father knows that you need them. 31 But seek His kingdom, and these things will be added unto you."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus turns to the disciples and applies the warning about possessions to worry over daily life. Food and clothing matter, but life and the body are greater than the things that sustain and cover them.",
+    "",
+    "He points to ravens fed by God without barns and to flowers clothed more beautifully than Solomon without making their own garments. The comparisons direct attention toward God’s care and the disciples’ value to Him.",
+    "",
+    "Worry cannot add even an hour to a person’s life. Jesus asks why they should let it govern the rest of their needs. Their Father already knows what they need; He calls them to seek His kingdom, with provision entrusted to Him.",
+    "",
+    "The teaching moves from the farmer’s stored-up security to the disciple’s daily trust. The question is what will command their attention and direct their lives."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly see a call to trust the Father and give His kingdom priority over anxious pursuit of provision. Calvin distinguishes this from abandoning every ordinary responsibility, while Wesley points to the greater inheritance the Father gives His people. ([Calvin on Luke 12:22–32](https://biblehub.com/commentaries/calvin/luke/12.htm); [Wesley on Luke 12:22–32](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))"
+  ],
+  "god_plan_lines": [
+    "Hebrews joins freedom from the love of money and contentment with God’s promise not to abandon His people. The larger ground for trust is His presence and faithfulness. ([Hebrews 13:5–6](https://biblehub.com/bsb/hebrews/13.htm))",
+    "",
+    "Philippians gives a practical picture of that care. Paul has learned contentment in both hunger and plenty, while the Philippians share in his need through their gifts. He acknowledges their generosity and God’s provision together. Trust in the Father can take shape through His people caring for one another, rather than requiring that every faithful person escape all hardship. ([Philippians 4:10–19](https://biblehub.com/bsb/philippians/4.htm))"
+  ],
+  "current_position_lines": [
+    "Prayer and Faith develops the parallel teaching in Matthew 6:25–34 as a reordering of what a person seeks: God’s kingdom rather than provision as life’s controlling pursuit. The study emphasizes trust in the Father’s knowledge and care, with surrender governing prayer and the direction of life. This is its developed application of the parallel, rather than a new rule here about every occupation or financial decision."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/12.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-luke-twelve-wealth-review.md",
+    "position_source_detail": "Prayer and Faith, section3 Matthew6:25–34, seek-first/provision discussion, directly developed parallel to Luke12:22–31; no unverified lexical or historical assertions imported."
+  }
+}

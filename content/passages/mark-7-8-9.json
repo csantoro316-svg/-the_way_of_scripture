@@ -5,25 +5,55 @@
     "label": "Mark 7:8-9",
     "slug": "mark-7-8-9"
   },
-  "section_title": "",
+  "section_title": "God's Command and Human Tradition",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"You have let go of the commands of God and are holding on to human traditions.\" And he continued, \"You have a fine way of setting aside the commands of God in order to observe your own traditions!\""
+      "label": "BSB",
+      "paragraphs": [
+        "8 You have disregarded the commandment of God to keep the tradition of men.” 9 He went on to say, “You neatly set aside the command of God to maintain your own tradition."
+      ]
     }
   ],
   "context_lines": [
-    "Mark 7:8-9 should be read within the flow of its chapter and the larger argument of Mark."
+    "These words belong to Jesus' reply about the disciples eating without ceremonially washing their hands. The leaders appeal to the tradition of the elders; Jesus has just applied Isaiah's warning about lips honoring God while hearts remain far away.",
+    "",
+    "He immediately explains His charge through the Corban example in [Mark 7:10–13](https://biblehub.com/bsb/mark/7.htm). A declaration that resources are devoted to God is used to prevent help for a parent, although God commands children to honor their parents. The tradition's effect on actual obedience is the issue.",
+    "",
+    "The contrast is therefore a practical one: does the rule help people do what God says, or provide a way around it? This short reference should be read with the full exchange in verses 1–13."
   ],
   "common_interpretation_lines": [
-    "The religious leaders Jesus was addressing were not careless people. They were serious, devoted, learned men who had inherited a vast tradition of interpretation and practice. The problem was that the tradition had accumulated layer upon layer over centuries until it had effectively replaced the thing it was meant to serve. They were holding the tradition. They had let go of the command.",
+    "Christians commonly understand Jesus to be condemning human rules that set aside God's commands. The difference between traditions concerns how to recognize teaching received with divine authority, rather than whether disobeying God is acceptable.",
     "",
-    "This pattern did not end in the first century. It is the default trajectory of any human institution \u2014 including the church. The word *ekkl\u0113sia* becomes \"church.\" The assembly of believers becomes a building. The priesthood of all believers becomes a clergy class. The Lord's Supper becomes a ritual sacrifice. Each step is small enough to seem reasonable. Each generation inherits what the previous one established. And after enough generations, the tradition is so deeply embedded that questioning it feels like heresy \u2014 even when the text has been saying something different all along."
+    "The Reformed [Westminster Confession, 1.6 and 1.10](https://www.opc.org/wcf.html), and the [1689 Baptist Confession, 1.6 and 1.10](https://www.the1689confession.com/1689/chapter-1), make Scripture the final test for church teaching and reject additions from human traditions. They also allow practical arrangements for church life under Scripture's guidance. The Methodist [Articles of Religion, V and XXII](https://www.umc.org/en/content/articles-of-religion), say that nothing can be required as necessary for salvation unless taught or proved from Scripture, while allowing church customs that do not contradict God's word.",
+    "",
+    "The Catholic Church distinguishes apostolic Tradition, received from Christ and the apostles, from later customs that can change. Its [Catechism, 80–83](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/artcile_2/ii_the_relationship_between_tradition_and_sacred_scripture.html), receives Scripture and apostolic Tradition together; [paragraph 86](https://www.vatican.va/archive/ENG0015/__PM.HTM) says the Church's teaching office serves God's word. Catholic teaching therefore reads Jesus' rebuke as a condemnation of corrupt human practices, rather than a rejection of apostolic Tradition."
+  ],
+  "god_plan_lines": [
+    "The wider exchange explicitly reaches back to [Isaiah 29:13](https://biblehub.com/bsb/isaiah/29.htm). God's concern includes the heart behind worship and the obedience it produces. [James 1:22–27](https://biblehub.com/bsb/james/1.htm) carries that concern forward by joining hearing the word with doing it, including care for people in need. Religious practice is meant to express a response to God rather than shelter us from His commands."
+  ],
+  "current_position_lines": [
+    "In The Berean Standard, our discussion of Mark 7:8–9 identifies the danger as tradition becoming the authority and displacing what God actually says. Useful customs are not the problem in themselves; they must remain open to examination against Scripture."
   ],
   "deeper_study": [
     {
       "title": "The Berean Standard",
       "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/7.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-mark-seven-opening-review.md",
+    "position_source_detail": "The Berean Standard — The Tradition of Men, Mark 7:8–9; narrow Scripture-test and useful-customs distinction only."
+  }
 }

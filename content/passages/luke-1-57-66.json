@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "1:57-66",
+    "label": "Luke 1:57-66",
+    "slug": "luke-1-57-66"
+  },
+  "section_title": "Why is the child named John?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "57 When the time came for Elizabeth to have her child, she gave birth to a son. 58 Her neighbors and relatives heard that the Lord had shown her great mercy, and they rejoiced with her. 59 On the eighth day, when they came to circumcise the child, they were going to name him after his father Zechariah. 60 But his mother replied, “No! He shall be called John.”",
+        "61 They said to her, “There is no one among your relatives who bears this name.” 62 So they made signs to his father to find out what he wanted to name the child. 63 Zechariah asked for a tablet and wrote, “His name is John.” And they were all amazed. 64 Immediately Zechariah’s mouth was opened and his tongue was released, and he began to speak, praising God. 65 All their neighbors were filled with awe, and people throughout the hill country of Judea were talking about these events. 66 And all who heard this wondered in their hearts and asked, “What then will this child become?” For the Lord’s hand was with him."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Elizabeth gives birth to the son Gabriel promised. Her neighbors and relatives share her joy because they recognize the Lord’s mercy toward her. The account moves from a promise given privately in the temple to events known throughout the surrounding community.",
+    "",
+    "On the eighth day, the child is circumcised. The family expects him to be called Zechariah, but Elizabeth insists on John. When they ask his father, Zechariah writes that John is his name. He accepts the name God gave through Gabriel, and his speech is immediately restored. ([Luke 1:13, 20](https://biblehub.com/bsb/luke/1.htm))",
+    "",
+    "The first use Luke records of his restored voice is praise to God. The neighbors respond with awe and wonder about the child’s future. Their question prepares for Zechariah’s prophecy, which explains John’s part in God’s saving work."
+  ],
+  "common_interpretation_lines": [
+    "Christian traditions commonly read the naming and restored speech as fulfillment of Gabriel’s announcement, with Zechariah now acting on the word he had doubted. The community’s joy and awe draw attention to God’s mercy and the work ahead for this child. ([Wesley on Luke 1:60–66](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [USCCB notes on Luke 1:57–66](https://bible.usccb.org/bible/luke/1))"
+  ],
+  "god_plan_lines": [
+    "John’s circumcision places him within Israel’s covenant story. God had given Abraham circumcision as the covenant sign, including the instruction about the eighth day. The forerunner of Jesus comes from within the people who received those promises; his birth does not begin an unrelated story. ([Genesis 17:9–14](https://biblehub.com/bsb/genesis/17.htm))",
+    "",
+    "The neighbors wonder what John will become. Later, John will describe his own calling as going ahead of Christ, comparing his joy to that of a bridegroom’s friend. The extraordinary attention surrounding his birth leads toward a ministry that directs attention to Jesus. ([John 3:22–30](https://biblehub.com/bsb/john/3.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-one-closing-review.md"
+  }
+}

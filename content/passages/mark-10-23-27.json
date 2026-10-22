@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "10:23-27",
+    "label": "Mark 10:23-27",
+    "slug": "mark-10-23-27"
+  },
+  "section_title": "What Only God Can Do",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "23 Then Jesus looked around and said to His disciples, “How hard it is for the rich to enter the kingdom of God!” 24 And the disciples were amazed at His words. But Jesus said to them again, “Children, how hard it is to enter the kingdom of God! 25 It is easier for a camel to pass through the eye of a needle than for a rich man to enter the kingdom of God.”",
+        "26 They were even more astonished and said to one another, “Who then can be saved?” 27 Jesus looked at them and said, “With man this is impossible, but not with God. For all things are possible with God.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "After the wealthy man leaves, Jesus tells the disciples how hard it is for the rich to enter God's kingdom. They are astonished, and He repeats the difficulty before describing a camel passing through the eye of a needle. Their next question shows the subject: who can be saved?",
+    "",
+    "The word for needle is [ῥαφίς (rhaphis, hrah-FEES)](https://biblehub.com/greek/4476.htm), a sewing needle. The image sets a large animal against a tiny opening. Jesus brings the hearers to a human impossibility and then directs their hope to what God can do.",
+    "",
+    "Verse 24 in the BSB main text speaks of the difficulty of entering God's kingdom without adding a qualification about trusting in riches. The [BSB footnote](https://biblehub.com/bsb/mark/10.htm) records that longer wording in other manuscripts. The passage as a whole begins with wealth and reaches a question about salvation more broadly.",
+    "",
+    "Jesus' answer is about God's ability to save. Its setting gives meaning to the statement that all things are possible with God. The disciples are being led beyond confidence in a person's resources to dependence on God for the life they cannot secure for themselves."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand the camel-and-needle comparison as showing that human resources cannot bring salvation and that hope must rest in God. [Wesley's notes on Mark 10:24–25](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-mark/) emphasize the hold of trusting in riches; the [USCCB notes on verses 23–27](https://bible.usccb.org/bible/mark/10) emphasize the false security of wealth, power, and merit and God's saving gift."
+  ],
+  "god_plan_lines": [
+    "[Titus 3:3–8](https://biblehub.com/bsb/titus/3.htm) explains how God's saving ability meets human need: His kindness appears, He saves according to His mercy, and the Holy Spirit brings new birth and renewal through Jesus Christ. The result is people made right with God by grace and given the hope of eternal life. That gives substance to the hope Jesus sets before the astonished disciples.",
+    "",
+    "The wider New Testament also shows what this means for wealthy believers. [1 Timothy 6:17–19](https://biblehub.com/bsb/1_timothy/6.htm) tells them to put their hope in God, become generous, and share readily. Wealth is to become a means of serving others within the life God gives. Neither having money nor giving it away can take God's place as the source of salvation."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/10.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-ten-wealth-review.md"
+  }
+}

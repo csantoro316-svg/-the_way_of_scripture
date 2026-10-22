@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "31:15-18",
+    "label": "Ezekiel 31:15-18",
+    "slug": "ezekiel-31-15-18"
+  },
+  "section_title": "Why do the trees of Eden appear among the dead?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 This is what the Lord GOD says: ‘On the day it was brought down to Sheol, I caused mourning. I covered the deep because of it; I held back its rivers; its abundant waters were restrained. I made Lebanon mourn for it, and all the trees of the field fainted because of it. 16 I made the nations quake at the sound of its downfall, when I cast it down to Sheol with those who descend to the Pit. Then all the trees of Eden, the choicest and best of Lebanon, all the well-watered trees, were consoled in the earth below. 17 They too descended with it to Sheol, to those slain by the sword. As its allies they had lived in its shade among the nations. 18 Who then is like you in glory and greatness among the trees of Eden? You also will be brought down to the depths of the earth to be with the trees of Eden. You will lie among the uncircumcised, with those slain by the sword. This is Pharaoh and all his multitude, declares the Lord GOD.’”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The fall of the cedar is described as a descent to Sheol. Waters are restrained, Lebanon mourns, and the trees faint. The language gives the collapse a significance that reaches beyond the tree itself.",
+    "",
+    "The Hebrew word שְׁאוֹל, sheol (sheh-OHL), names the realm of the dead in [Brown–Driver–Briggs](https://biblehub.com/hebrew/7585.htm), which specifically includes these verses. The great tree is now among those who have gone down to the Pit.",
+    "",
+    "The trees of Eden in the earth below are consoled at its arrival, and its allies share its descent. The final line turns the warning directly onto Pharaoh and his multitude: impressive glory does not give them a different end."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/ezekiel/31.htm) and [Cambridge](https://biblehub.com/commentaries/cambridge/ezekiel/31.htm) understand the trees as rulers or states. Their consolation belongs to the scene among the dead: another mighty power has shared their humiliation.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/ezekiel/31.htm) emphasizes how many fall when the great fall, and the need to learn humility from their end. The garden picture is being used to describe these powers; it does not require treating each tree as a separately identified angel."
+  ],
+  "god_plan_lines": [
+    "[Romans 5:12–21](https://biblehub.com/bsb/romans/5.htm) addresses the wider reign of death through Adam, then sets against it the gift that comes through Jesus Christ. Those who receive God’s abundant grace and gift of righteousness reign in life through Him.",
+    "",
+    "Paul does not explicitly interpret Ezekiel’s trees. His teaching adds the larger answer to the death that earthly greatness cannot escape: God’s saving purpose is not exhausted by bringing proud rulers down. Through Christ, grace brings righteousness and eternal life."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/31.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-thirty-one-two-review.md"
+  }
+}

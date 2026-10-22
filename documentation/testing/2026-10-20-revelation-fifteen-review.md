@@ -1,0 +1,36 @@
+# Revelation 15 passage review — 2026-10-20
+
+One natural group coversall8actualBSBverses. WholebaselinePDFlesson15–16pages287–304READ,cumulative1–304read. Lessonalso16:1–16;16:17–21nextlesson17starts305,notyetread. WholeactualBSB15/Wesley15(4983chars)/USCCB15notes/Walvoord15originalreproduction15967charsread. Gill15fetched30362UNREADnotused. ActualThayer5357read. FreshactualBSB Exodus15:1–18;Deut32:3–4,35–36;Ex40:34–35;1Kings8:10–11;Heb7:25;9:23–24read. No wholecrossreferencechapterreadingclaimed.
+
+Sources:
+- https://biblehub.com/bsb/revelation/15.htm
+- https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-revelation-of-jesus-christ/
+- https://bible.usccb.org/bible/revelation/15
+- https://swartzentrover.com/cotor/E-Books/holiness/Walvoord/Revelation/Rev_15.htm
+- https://biblehub.com/greek/5357.htm
+- https://biblehub.com/bsb/exodus/15.htm
+- https://biblehub.com/bsb/deuteronomy/32.htm
+- https://biblehub.com/bsb/exodus/40.htm
+- https://biblehub.com/bsb/1_kings/8.htm
+- https://biblehub.com/bsb/hebrews/7.htm
+- https://biblehub.com/bsb/hebrews/9.htm
+
+Public/private derived copyrightedperpageunder200words,noverbatim;BSB/WesleyPD. No baseline namepublic.
+
+## Revelation 15:1–8
+
+Plan section: included, because (a)/(b)/(c). NTexplicitlynamesMosesandLamb;actualEx15rescue-song/Deut32justiceandcompassionparallels;Ex40/1Kings8glory-filledsanctuaryparallel/Heb9earthly-heavenlysanctuaryexplanation. No imposedendtimecovenantscheme.
+Position source: none.
+FLAGGED FOR REVIEW: Songone/twoandExodus/Deuteronomyemphasescheckedinownprimaries. Sharedworship/resistanceexplainedbrieflywithoutinventeddenominationaldivision. ActualBSBbesideseanotstandonitsurface;kingofnationsnotolderkingofsaints;linenratherthanforcingtextvariantstones. Singersidentifiedasvictorsoverbeast,notprecisecensusprooffull144000allkilled. No guaranteeexactmusicalinstrumentrosterorallharpsdistributedtoseparateeliteclass.
+
+FLAGGED FOR REVIEW: FinalplaguescompletiondoesnotmeanGodneverjudgesagaininlaterRevelation20. Chronologicalbowl-within-trumpet-within-sealrelationshiprecognizedasinterpretation,notowneruniversalmandatorychart. Signs canportrayrealentities;notallversevisuallysymbolicthereforeeveryindividualunreal. FialebroadshallowbowlactualThayer,notbowlcapacitynecessarilylargerthancuporGreekworditselfescalationproof. No inventedtemplescreenmanufactureorpriestsuniformdetailsbeyondactualtext.
+
+FLAGGED FOR REVIEW: Baseline15:8nooneenterstemple→FatherbarsJesus→intercessionceases→nonewfaith3.5years is an inferencechain, not explicittext. ActualHeb7:25alwayslivestointercede/9:24appearsbeforeGodforHispeople checked;noAIdeclarationChristceasespriesthoodorFatherstopsofferinggrace. OldTestamentsmokeparallelneedsnouniqueJesus-specificban. No claimJesusabsentfromFatherthereforefaithimpossible aspublicdoctrine. Scripture’s actualnooneentryuntilcompletionretained.
+
+FLAGGED FOR REVIEW: NationatoningthroughtribulationsufferingandallsevenyearssolelyGod’scovenantalobligationagainstethnicIsraelaresourceinterpretationnotownerposition. No automaticallOrthodoxJewsonegroupandsalvationsongothergroupfromtext. SatanoriginalguardofheavenlymercyseatnotassertedbyRev15/Ezek28explicitly;notpublished. God’sgloryneverreturnstoIsraelanywaybeforefuturemillenniumrequiresbroaderincarnationdiscussion,notimported. No speculativeatrocitypredictionsinvolvingchildrenaddedforemotionalforce. No resurrectionchronologyordateoriginated.
+
+FLAGGED FOR REVIEW for upcoming16: Baselineskinsoresmalignantthereforeliteralwickednessnotmedicaldiagnosis. Alloceansbloodstopswatervapor/rain/navigationunverifiedscience. Sunexpelstonguesflametoearthnotexplicit;darknessonthebeastthronenotautomaticallywholeearthallGodwithdrawn. Kingsfromeastdefinitely7subordinateAntichristkings/headquartersphysicalBabylonrouteassumptionnotexplicit16. FrogsuncleanOTsymbolandHarMegiddodefinitionneedlex/geographicactualsourcesifused. SourceLaodiceathiefwarningactualRev3:3isSardis;16:15referencecheckbeforepublic. Stage5warrouteisaninterpretationnotuniversalmap.
+
+## Validation
+
+Allpassed:focusedgeneration,freshBSBverification,repo0errors220warnings,independentpreservation,continuouscoverage through15:8 (39reviewedpages/257actualBSBverses/38plans/5existing-studypositions/34open),byte-identicalregeneration,two390pxreader/standalone checks exacttitle/5or7sections/nooverflow/norawMarkdown. ActualNext14:14–20→15:1–8 confirmed URL/title/focus/top188.171875. Actualexplicit-projectdry-run/deployment/live5filebyteauditexit0,allMATCH. Twolegacy22pagesretainedunreviewed;intentionalplanomissionsremain25.

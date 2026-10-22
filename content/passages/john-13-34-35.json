@@ -5,18 +5,55 @@
     "label": "John 13:34-35",
     "slug": "john-13-34-35"
   },
+  "section_title": "What makes this command to love new?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"A new commandment I give to you, that you love one another, even as I have loved you, that you also love one another. By this all men will know that you are My disciples, if you have love for one another.\""
+      "label": "BSB",
+      "paragraphs": [
+        "34 A new commandment I give you: Love one another. As I have loved you, so you also must love one another. 35 By this everyone will know that you are My disciples, if you love one another.”"
+      ]
     }
   ],
   "context_lines": [
-    "In **John 13**, Jesus prepares His disciples for His departure by washing their feet, exposing betrayal, and commanding them to love one another. The chapter frames Christian identity around the pattern and love of Christ Himself."
-  ],
-  "explanation_lines": [
-    "Love is the identifying mark \u2014 not doctrine alone, not external success, not rituals. The early church shocked the Roman world by its sacrificial love: feeding widows, rescuing abandoned infants, and calling slaves brothers. Jesus' command goes deeper than sentiment \u2014 it demands a self-giving, patient, forgiving, inconvenient love. This love does not merely react; it initiates, serves, and sacrifices. When believers embody this love, the world recognizes something divine.",
+    "This command comes during Jesus’ final meal with His disciples, after He washes their feet and Judas leaves. Jesus has just told them that He will soon depart. He now tells them how they are to live with one another when He is no longer present with them in the same way.",
     "",
-    "Today, however, love is often reduced to politeness, public image, or selective charity \u2014 far removed from the radical, relational love Jesus described. In the Catholic Church, institutional expressions of love \u2014 charities, hospitals, relief efforts \u2014 are widespread, yet often impersonal and bureaucratic, disconnected from the daily lives of ordinary believers. In many Protestant denominations, love is too often filtered through theological agreement \u2014 extended warmly to those who share the same doctrines, but withheld or weaponized against those who differ. Among non-denominational churches, love can be confused with friendliness, surface-level community, or emotional warmth during services, while genuine burden-bearing and accountability remain rare. In all camps, love has become something we claim to feel, rather than something we choose to do \u2014 especially when it's costly. The early Church's love was not efficient, polished, or programmed \u2014 it was messy, personal, and constant."
-  ]
+    "They are to love as He has loved them. The measure is the care they have received from Him, shown in His service and brought to its fullest expression in His coming death. Their relationship with Jesus is to become visible in their relationships with each other.",
+    "",
+    "The command concerns love within the company of disciples. It does not cancel love for neighbors or enemies: [Leviticus 19:18, 34](https://biblehub.com/bsb/leviticus/19.htm) commands care for neighbor and foreigner, and [Luke 6:27–36](https://biblehub.com/bsb/luke/6.htm) records Jesus’ teaching to love enemies. Here He stresses the witness of a community learning His way of love."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this command as a defining mark of following Jesus: His followers are to love one another in a way shaped by His own love. The command is not an invitation to claim superiority over other people; it calls disciples to make His love visible in their life together.",
+    "",
+    "Calling the command new does not mean that God had never required love before. [Leviticus 19:18, 34](https://biblehub.com/bsb/leviticus/19.htm) already commands love for the neighbor and the foreigner. Here Jesus makes His own love the pattern for the disciples. [Calvin on verse 34](https://biblehub.com/commentaries/calvin/john/13.htm) emphasizes the renewed force of a command that must remain before them; [Wesley on verse 34](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) emphasizes loving to the degree and in the manner Jesus has loved. The Catholic Church’s [Catechism, paragraphs 1823–1827](https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_one/article_7/ii_the_theological_virtues.html), likewise describes Christ’s love as the source and pattern of Christian love. These explanations share the central point rather than presenting opposing commands."
+  ],
+  "god_plan_lines": [
+    "In [John 15:9–13](https://biblehub.com/bsb/john/15.htm), Jesus connects the Father’s love for Him, His love for the disciples and their love for one another. He then speaks of the greatest love as laying down one’s life for one’s friends. Their care is a response to God’s love, not an attempt to invent it.",
+    "",
+    "Jesus’ later prayer in [John 17:20–23](https://biblehub.com/bsb/john/17.htm) also connects the unity of believers with the world recognizing that the Father sent Him. The command prepares His followers to bear that witness together."
+  ],
+  "current_position_lines": [
+    "Our studies What Is the True Church? and I Am a Disciple identify love for one another as a visible mark of belonging to Jesus. This means patient, forgiving, self-giving care in practice. A claim to follow Him is meant to be recognizable in how we treat people, not simply in the name we use for ourselves."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/13.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-john-thirteen-closing-review.md",
+    "position_source_detail": "What Is the True Church?; I Am a Disciple"
+  }
 }

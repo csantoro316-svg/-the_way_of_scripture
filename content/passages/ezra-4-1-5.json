@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Ezra",
+    "citation": "4:1-5",
+    "label": "Ezra 4:1-5",
+    "slug": "ezra-4-1-5"
+  },
+  "section_title": "Why do the leaders refuse the offer of help?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 When the enemies of Judah and Benjamin heard that the exiles were building a temple for the LORD, the God of Israel, 2 they approached Zerubbabel and the heads of the families, saying, “Let us build with you because, like you, we seek your God and have been sacrificing to Him since the time of King Esar-haddon of Assyria, who brought us here.” 3 But Zerubbabel, Jeshua, and the other heads of the families of Israel replied, “You have no part with us in building a house for our God, since we alone must build it for the LORD, the God of Israel, as Cyrus king of Persia has commanded us.”",
+        "4 Then the people of the land set out to discourage the people of Judah and make them afraid to build. 5 They hired counselors against them to frustrate their plans throughout the reign of Cyrus king of Persia and down to the reign of Darius king of Persia."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The narrator introduces the visitors as enemies of Judah and Benjamin. They offer to help build, saying that they seek the same God and have sacrificed to Him since an Assyrian king brought them into the region.",
+    "",
+    "Zerubbabel, Jeshua and the family heads refuse to share the project. They appeal to their commission to build the LORD’s house under Cyrus’s command. The visitors then work to discourage and frighten the builders, hiring counselors to frustrate the work.",
+    "",
+    "For background, [2 Kings 17:24–41](https://biblehub.com/bsb/2_kings/17.htm) describes people settled in Samaria who worshiped the LORD alongside their own gods. That account helps explain why a claim to worship the same God need not mean agreement about worship."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezra/4.htm), [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-ezra/) and [Gill](https://biblehub.com/commentaries/gill/ezra/4.htm) understand the offered partnership in light of the visitors’ mixed worship and the hostility that follows. They read the refusal as protecting the assigned work, rather than as a rejection of help merely because help comes from outside Judah. The narrative itself begins by identifying these particular visitors as opponents."
+  ],
+  "god_plan_lines": [
+    "This conflict is not the Bible’s final word about Samaria. Jesus speaks with a Samaritan woman about the Father seeking worshipers in spirit and truth in [John 4:9,19–26](https://biblehub.com/bsb/john/4.htm). In [Acts 8:4–17,25](https://biblehub.com/bsb/acts/8.htm), Samaritans receive the message of Christ, and Peter and John later preach in Samaritan villages.",
+    "",
+    "The wider story therefore holds together the need for true worship and the welcome extended through the gospel. Ezra’s account of particular opponents is not a permanent judgment that people from Samaria can never belong among God’s people."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezra/4.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezra-three-four-review.md"
+  }
+}

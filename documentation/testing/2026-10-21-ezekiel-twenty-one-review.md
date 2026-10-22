@@ -1,0 +1,45 @@
+# Ezekiel 21 passage review — 2026-10-21
+
+Five new groups /32 actual BSB verses /two supported plans /three intentional omissions /five exact open positions. No owner study edits. Plain-language editorial review completed.
+
+## Sources actually read
+
+SuppliedEzekielPDFpages1–316inclusive.Whole21lesson301–313read(includes20:45–49).22lesson314–316first3pagesread,317+unreadatdrafting.WholemainBSB21(32)/HenryWes21actualcompleteexpositionsread.USCCB21allactualnotesreadusesHebrewnumbering(+5comparedBSB).Cambridge21ONLY10/13/27/30actualread.No21ownerpositionstudysearch.No newpubliclexclaim.
+
+ActualBSBsupportLuke21:20–24/Heb12:25–29/Gen49:8–12/Luke1:30–33/Rev19:11–16read.Luke21andGen49notneededpublic.Prior17actual2Chron36oathbyGodandBSB21:23allegiancetokingadequate.
+
+Independentculturalprimary:MetropolitanMuseumhttps://www.metmuseum.org/art/collection/search/328932 directWEBmain0–46actuallyread,ownartifactaccountliveromensforsuccessarmy.Artifact86.11.378bLATE1stmillenniumexplicitlyNOTNebuchadnezzar'sownartifact,publiclaterillustrationonly.BritishMuseumliver92668directweb/HTTPboth403;searchdescriptiononly,NOTusedasdirectreadverifiedsource.No technicaltermquota:readerlearnspracticeinplainwords.
+
+## 21:1–7
+
+Plan section: omitted, because none apply. GriefwarningalreadyexplainedCommon; noforcedrepeatedlamentplan.
+Position source: none.
+FLAGGED FOR REVIEW: PubliccalamitycaninvolverighteousandwickedactualWes3,notautomaticallrighteousdiedorallprotectedfromanyharm.Mosesnationaljudgmentonlyexplanationallhumanssufferingnotuniversalrule.NoallJewsremoved(no2Kings25poorremain)/allcitiesliterallynoneleftarcheologicalassertion.NoGodspeakingpermissioneverymessengerself-appointedcondemnation.Noownerposition.
+
+## 21:8–17
+
+Plan section: included, because (c).Heb12:25–29Godspeaks/shakenhumansecurity/unshakablekingdomaddslargerhopebeyondswordpoem.NotexplicitEzekquote.
+Position source: none.
+FLAGGED FOR REVIEW: BSB10/13scepterfollowed;Camactualdifficulttextdebate(chastisementrodvsroyalscepter)brieflyexplained,notonelexicalcertainty.CommonWesjudgmentkingkingdomnotentirePsalm2interpretationunverifiedasallchurchconsensus.Baselineverse13mustNebuchadnezzarthenPersiarodstops/chiasticcenterdefinitetestswhethernoofficialsleadexilenotproved,omitted.No21:14mathematicaldoublethirdattackexactratiohuman casualties.Noapplausegloatingoverdead.Noownerposition.
+
+## 21:18–24
+
+Plan section: omitted, because none apply. Guilt/exposedconfidencealreadyexplained,noforcedgenericprovidenceNT.
+Position source: none.
+FLAGGED FOR REVIEW: Metlaterartifactownaccountdirectchecked,notexactcampaignobject.British403notclaimedactualview.Noancientmapsdidn'texist/roadsnotsignposted/universaltrails/historyclaim.Babylonchooseswhichcityattack,notlostwithoutmaps.NoforkdefiniteDamascusuncheckedlocation.NoNecromancyhouseholdidolsautomaticallyactualdeadancestorsdemonsanswerassertion.Wes21perhapsdevilnotsettledfact.Noallthreepracticesdemonstratedeffectiveguidance.No exactarrowritualquiverstepsgivenasindependentlyverified,publicBiblemethodsplain.BSB23swornallegiancekingfollowednotbaselineallonlycovenantGodprotection.Noownerposition.
+
+## 21:25–27
+
+Plan section: included, because (c).Luke1:30–33DavidicJesusking/Rev19:11–16righteousjudgeKingkingsaddsNTidentityauthority beyondcrownremoval.NotexplicitEzekquote.
+Position source: none.
+FLAGGED FOR REVIEW: ActualHenryWesCam27Messiahreadingfairlyattributed;noformalallchurchuniformtiming.BSBassignedrightjudgmentpreservednotNASBsimplifiedkingonly.Gen49BSBShilohreadbutnoHebrewrepointinglexclaimaddedfromCampossibility.No allHerodfamily'notJewish'ethniclegalhistorysimplification.NoMaccabeanschronologyunreviewed.No unbrokenDavidkinglineallhistoryguarantee/newmillennialtimetableownerposition.Noownerposition.
+
+## 21:28–32
+
+Plan section: omitted, because none apply. Ammonjudgmentdirectlyexplained,noforcedbroadthemealreadycovered.
+Position source: none.
+FLAGGED FOR REVIEW: BSB30return swordimperativeversusWesolderquestiontranslation;publicdoesnotmisquoteorforceBabylonswordneverreturnfromWes.Baseline29AmmonstandsnecksIsraelvsWesfallsamongslainnotsettledexclusiveextra.NobaselineAmmonattackedPersiansmorebrutal/latercenturiesforgotdatesverified;nohistoricalexecutiondateadded.Noallnationinherentlyeviloreverydescendantenemy.NoLotgenealogyspecificmoralcondemnationofethnicity.Noallfuturechapters25+onlyunfulfilledmillennium.Noownerposition.
+
+## Validation
+
+Passed focused generation, direct BSB verification of all five groups, repository validation (0 errors, 412 warnings), preservation and cumulative coverage (72 groups,512 verses through21:32), unchanged repeat generation, ten mobile reader/standalone views and physical Next click, Hosting dry run/deployment, and LIVE MATCH9 observed exit0. Prefix /tmp/scripture-ezekiel-twenty-one-. Writer executed, do not rerun.

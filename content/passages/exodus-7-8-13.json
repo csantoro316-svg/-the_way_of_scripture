@@ -5,25 +5,58 @@
     "label": "Exodus 7:8-13",
     "slug": "exodus-7-8-13"
   },
-  "section_title": "Aaron\u2019s Staff",
+  "section_title": "Why did the magicians’ imitation not settle the question?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "8 The LORD said to Moses and Aaron, 9 \u201cWhen Pharaoh tells you, \u2018Perform a miracle,\u2019 you are to say to Aaron, \u2018Take your staff and throw it down before Pharaoh,\u2019 and it will become a serpent.\u201d",
-        "10 So Moses and Aaron went to Pharaoh and did just as the LORD had commanded. Aaron threw his staff down before Pharaoh and his officials, and it became a serpent.",
-        "11 But Pharaoh called the wise men and sorcerers and magicians of Egypt, and they also did the same things by their magic arts. 12 Each one threw down his staff, and it became a serpent. But Aaron\u2019s staff swallowed up the other staffs.",
-        "13 Still, Pharaoh\u2019s heart was hardened, and he would not listen to them, just as the LORD had said."
+        "8 The LORD said to Moses and Aaron, 9 “When Pharaoh tells you, ‘Perform a miracle,’ you are to say to Aaron, ‘Take your staff and throw it down before Pharaoh,’ and it will become a serpent.” 10 So Moses and Aaron went to Pharaoh and did just as the LORD had commanded. Aaron threw his staff down before Pharaoh and his officials, and it became a serpent. 11 But Pharaoh called the wise men and sorcerers and magicians of Egypt, and they also did the same things by their magic arts. 12 Each one threw down his staff, and it became a serpent. But Aaron’s staff swallowed up the other staffs. 13 Still, Pharaoh’s heart was hardened, and he would not listen to them, just as the LORD had said."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 7**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "God prepares Moses and Aaron for Pharaoh to demand a miracle. They follow His instructions, and Aaron’s staff becomes a serpent before Pharaoh and his officials. The Hebrew word here, tannin, can describe several kinds of formidable creatures; [Brown–Driver–Briggs](https://biblehub.com/hebrew/8577.htm) lists its use in these verses as serpent.",
+    "",
+    "Pharaoh calls his wise men, sorcerers and magicians, who do the same by their magic arts. The account then gives the decisive difference: Aaron’s staff swallows theirs. The rivals’ apparent success does not erase the superiority displayed through Aaron.",
+    "",
+    "Even after that, Pharaoh refuses to listen. His response is the one God had already announced. The story is moving from the demand for a sign toward the judgments that will follow."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Aaron\u2019s Staff** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "Readers differ over how the magicians’ imitation worked. The Baptist commentator [Gill](https://biblehub.com/commentaries/gill/exodus/7.htm) understands it as an illusion. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) suggests that evil angels may have substituted real serpents for the staffs. [Calvin](https://biblehub.com/commentaries/calvin/exodus/7.htm) considers deception probable but also allows that God may have permitted an actual change. These are the teachers’ explanations of a method the passage does not spell out.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 7** remains the first control on meaning."
+    "Their readings share the central outcome: the imitation fails to match the power shown through Aaron, yet Pharaoh still refuses God’s command."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[2 Timothy 3:8–9](https://biblehub.com/bsb/2_timothy/3.htm) names Jannes and Jambres as men who opposed Moses and compares them with people who oppose the truth. Their example becomes a warning about deception, along with an assurance that such opposition has limits and its folly will be exposed.",
+    "",
+    "That connection also fits the test given in [Deuteronomy 13:1–4](https://biblehub.com/bsb/deuteronomy/13.htm): even a sign that comes to pass does not authorize someone to lead people after other gods. The message must be tested by what God has said. The signs in Pharaoh’s court belong within that larger lesson about recognizing God’s truth amid competing claims."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/7.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-seven-opening-review.md"
+  }
 }

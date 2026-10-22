@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "5:6-11",
+    "label": "Romans 5:6-11",
+    "slug": "romans-5-6-11"
+  },
+  "section_title": "How does Christ’s death show God’s love before people deserve it?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 For at just the right time, while we were still powerless, Christ died for the ungodly. 7 Very rarely will anyone die for a righteous man, though for a good man someone might possibly dare to die. 8 But God proves His love for us in this: While we were still sinners, Christ died for us.",
+        "9 Therefore, since we have now been justified by His blood, how much more shall we be saved from wrath through Him! 10 For if, when we were enemies of God, we were reconciled to Him through the death of His Son, how much more, having been reconciled, shall we be saved through His life! 11 Not only that, but we also rejoice in God through our Lord Jesus Christ, through whom we have now received reconciliation."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul grounds confidence in what God has already done. Christ died for the ungodly while they were still powerless. Human beings may sometimes give their lives for someone they regard as good, but God demonstrates His love through Christ’s death for sinners.",
+    "",
+    "The reasoning then moves from what God did for enemies to what believers can expect as people reconciled to Him. If reconciliation came through His Son’s death, Paul says, how much more will they be saved through His life. Hope rests in the living Christ as well as His death.",
+    "",
+    "Reconciliation means a broken relationship being restored. The Greek word katallagē (kah-tah-lah-GAY), καταλλαγή, carries that sense of reconciliation or restoration to favor; see [Thayer’s entry](https://biblehub.com/greek/2643.htm). Paul presents it as something received through Jesus, rather than a relationship repaired by making oneself worthy first.",
+    "",
+    "This leads to rejoicing in God Himself. The account is not of a reluctant God whom people finally persuade to love them. His love is already at work toward them while they are sinners."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand these verses as a strong statement of God’s initiative in salvation and a foundation for trust in His continuing care. Christ’s death precedes the sinner’s claim to worthiness, and His risen life grounds the hope that follows reconciliation."
+  ],
+  "god_plan_lines": [
+    "[Romans 8:31–34](https://biblehub.com/bsb/romans/8.htm) returns to this reasoning: God gave His Son, God justifies, and the Christ who died and rose intercedes for His people. The saving work is carried forward by the living Lord, rather than ending with His death.",
+    "",
+    "This also reveals the character of the love believers are called to reflect. The Gospel According to Jesus connects Romans 5:8 with Jesus’ command to love enemies: the King gives Himself for people while they are still His enemies. The command grows from the character already displayed in His saving work."
+  ],
+  "current_position_lines": [
+    "The Gospel According to Jesus uses Romans 5:8 to explain that God did not wait for people to become worthy before Christ died for them. Our position is that salvation begins in God’s love and mercy toward sinners, and that Jesus’ command to love enemies reflects the character He has already shown in giving Himself for them."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-romans-five-review.md",
+    "position_source_detail": "The Gospel According to Jesus — The Fullness and Have You Been Saved? (Romans 5:8)"
+  }
+}

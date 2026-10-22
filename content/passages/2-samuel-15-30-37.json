@@ -1,0 +1,67 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "15:30-37",
+    "label": "2 Samuel 15:30-37",
+    "slug": "2-samuel-15-30-37"
+  },
+  "section_title": "How does David respond to betrayal on the Mount of Olives?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "30 But David continued up the Mount of Olives, weeping as he went up. His head was covered, and he was walking barefoot. And all the people with him covered their heads and went up, weeping as they went. 31 Now someone told David: “Ahithophel is among the conspirators with Absalom.” So David pleaded, “O LORD, please turn the counsel of Ahithophel into foolishness!”",
+        "32 When David came to the summit, where he used to worship God, Hushai the Archite was there to meet him with his robe torn and dust on his head. 33 David said to him, “If you go on with me, you will be a burden to me. 34 But you can thwart the counsel of Ahithophel for me if you return to the city and say to Absalom: ‘I will be your servant, my king; in the past I was your father’s servant, but now I will be your servant.’ 35 Will not Zadok and Abiathar the priests be there with you? Report to them everything you hear from the king’s palace. 36 Indeed, their two sons, Ahimaaz son of Zadok and Jonathan son of Abiathar, are there with them. Send them to me with everything you hear.” 37 So David’s friend Hushai arrived in Jerusalem just as Absalom was entering the city."
+      ]
+    }
+  ],
+  "context_lines": [
+    "David climbs the Mount of Olives weeping, barefoot and with his head covered. His companions also weep. When he learns that Ahithophel has joined Absalom, he asks the LORD to turn the counselor’s advice into foolishness.",
+    "",
+    "At the summit Hushai meets him with torn clothing and dust on his head. David sends him back to Jerusalem, telling him to offer his service to Absalom so that he can counter Ahithophel’s counsel. The priests and their sons will help send reports. Hushai enters the city as Absalom arrives."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/15.htm) reads the prayer as an appeal against Ahithophel’s counsel rather than an attack on his person. David then takes practical steps toward the outcome he has requested by sending Hushai back.",
+    "",
+    "That strategy is not praised without qualification by every commentator. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) criticizes the deceptive offer of service David tells Hushai to make. [Henry](https://biblehub.com/commentaries/mhc/2_samuel/15.htm) likewise observes the imperfect mixture in David’s conduct and contrasts it with Christ’s perfect response to treachery. The narrative’s unfolding help for David does not require us to call every tactic faultless."
+  ],
+  "god_plan_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-samuel/) notes the shared setting of David’s crossing the Kidron and Jesus’ journey toward His suffering. [John 18:1–4](https://biblehub.com/bsb/john/18.htm) places Jesus across that valley with His disciples as Judas brings those who will arrest Him.",
+    "",
+    "[Luke 22:39–46](https://biblehub.com/bsb/luke/22.htm) also places Jesus on the Mount of Olives, praying in anguish and submitting His will to the Father. The geographical and personal parallels make a meaningful comparison: betrayal, sorrow and prayer appear in both accounts.",
+    "",
+    "The difference is just as important to the comparison. David’s story includes consequences of his own failures; Jesus faces His saving work in innocence. This is a supported parallel, not a claim that every person in David’s escape represents someone in Jesus’ story. It directs our attention to the faithful Son of David whose obedience remains whole under betrayal."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/15.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-fifteen-review.md"
+  }
+}

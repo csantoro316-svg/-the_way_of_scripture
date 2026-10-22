@@ -1,0 +1,13 @@
+# John 7:37–52 live
+
+Two pages cover living water, the Spirit’s gift and the response to the attempted arrest. The Mishnah’s own water-ceremony description supplies narrow independent background; no precise unrecorded moment is invented. Greek inner-life wording and differing stream-source readings are explained plainly. Nicodemus’s request for a hearing is connected with his later place at Jesus’ burial. Both positions remain open.
+
+[Evidence](../testing/2026-10-19-john-seven-closing-review.md). Fresh BSB, eight tests, zero errors /330 existing warnings, preservation/coverage/navigation/idempotence and390pxreader/standalone/actualNext passed. Hosting dry run/deploy exited zero;sixlivefilesmatch.
+
+John:48reviewedpages /335actualBSBverses /48plans /21studypositions /27open;61sources /13legacyreferences. Next preserved7:53–8:11crosschapterpage completes7andbegins8. WholePDFthrough291read;292onwardunread;no crosschapterdraftyet.
+
+Crosschapterresearchactuallyread: BSB7:53and8:1–11;Lev20:10/Deut17:5–7/22:22–24;Rom3:21–26;Calvin8:3/6/7/11;WesleybodyVIII5–11plus12–16advance;USCCB7:53–8:11and8:1/5/6/7notes;Francis2016MisericordiaetMisera1–3inpart. Sharedmercy/callrepentancecanbepresentedwithoutinventingciviljurisdictionorwritingcontent. ActualCalvin7versusWesley7differonprecisequalificationoffirststone:Calvinchallengehypocrisygeneralinnocencebutnotuniversalbanonjudges;Wesleyguiltysame/relatedsinwitnessrole. Popeletter’sprivate-motiveembellishmentsnottobeadoptedasnarrativefact. Noadditionalmanuscriptstatisticsororiginal-authortheoryverified;publiccanstaywithactualBSBfootnoteandtransparentlimitedstatement.
+
+ExistingIsThereaSourceofTruth?wholeopeningthroughVariantsparagraphread;itsdeveloped7:53–8:11paragraphsupportsnarrowpositionthatmanuscriptdifferencesareworthnotingandgracetowardsinnersisestablishedelsewhere.Itdoesnotsettleoriginalauthor/Luke-scrolltheory;donotcopyunverifiedhistoricalstatsorclaimautographssurvive. Exactstudytitlerendersauto link;extendtemporaryselectedauditallowlistaccordingly.
+
+TemporaryauditpreparationnowallowsIsThereaSourceofTruth?andcumulativeJohncoverageparsercanhandlecrosschapterrangesusingactualchaptercounts. Theseare/tmphelpers,notrepositoryimplementationchanges. FreshcrossBSBcheckerprepared/tmp/verify-john-cross-bsb.pyexpectsquotationlabels7:53then8:1–11andindependentlyfetchesbothchapters;notyetrunbecausecrosssourceundrafted. Draftmustbackupoldsource/snapshotweb/indexbeforemutationandincludequote_sourcesforbothBibleHubchapters. Continuewithfullfocusedchecks/mobile/liveverification.

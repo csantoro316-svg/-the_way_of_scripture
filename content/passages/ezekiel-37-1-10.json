@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "37:1-10",
+    "label": "Ezekiel 37:1-10",
+    "slug": "ezekiel-37-1-10"
+  },
+  "section_title": "Can these dry bones come to life?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 The hand of the LORD was upon me, and He brought me out by His Spirit and set me down in the middle of the valley, and it was full of bones. 2 He led me all around among them, and I saw a great many bones on the floor of the valley, and indeed, they were very dry. 3 Then He asked me, “Son of man, can these bones come to life?” “O Lord GOD,” I replied, “only You know.”",
+        "4 And He said to me, “Prophesy concerning these bones and tell them, ‘Dry bones, hear the word of the LORD! 5 This is what the Lord GOD says to these bones: I will cause breath to enter you, and you will come to life. 6 I will attach tendons to you and make flesh grow upon you and cover you with skin. I will put breath within you so that you will come to life. Then you will know that I am the LORD.’”",
+        "7 So I prophesied as I had been commanded. And as I prophesied, there was suddenly a noise, a rattling, and the bones came together, bone to bone. 8 As I looked on, tendons appeared on them, flesh grew, and skin covered them; but there was no breath in them. 9 Then He said to me, “Prophesy to the breath; prophesy, son of man, and tell the breath that this is what the Lord GOD says: Come from the four winds, O breath, and breathe into these slain, so that they may live!” 10 So I prophesied as He had commanded me, and the breath entered them, and they came to life and stood on their feet—a vast army."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The Lord’s Spirit sets Ezekiel in a valley full of very dry bones. When asked whether they can live, Ezekiel places the answer with the Lord rather than with what he can see.",
+    "",
+    "He is told to speak the Lord’s word to the bones. They come together, and tendons, flesh and skin cover them, but there is still no breath. A second command brings the breath, and they stand as a vast living company.",
+    "",
+    "The Hebrew word רוּחַ, ruach (ROO-akh), can mean breath, wind or spirit; see [Brown–Driver–Briggs](https://biblehub.com/hebrew/7307.htm). The chapter moves among these related meanings as the Lord’s Spirit brings a vision in which breath enters the dead. The words in English help show different parts of the same life-giving picture.",
+    "",
+    "The explanation follows in verses 11–14. The vision first makes Ezekiel see what the Lord can do where every visible sign suggests that hope has ended."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezekiel/37.htm) and [Wesley](https://biblehub.com/commentaries/wes/ezekiel/37.htm) emphasize that created power cannot accomplish this restoration of life: it is the work of God. The [USCCB notes](https://bible.usccb.org/bible/ezekiel/37) explain the breath, wind and Spirit language as central to the vision’s movement from hopelessness to life."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/37.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-thirty-seven-review.md"
+  }
+}

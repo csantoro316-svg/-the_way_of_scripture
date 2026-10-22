@@ -5,39 +5,54 @@
     "label": "Isaiah 9:18-21",
     "slug": "isaiah-9-18-21"
   },
-  "section_title": "Judgment against Israel\u2019s Unrepentance",
+  "section_title": "How does wickedness turn a people against itself?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "18 For wickedness burns like a fire",
-        "that consumes the thorns and briers",
-        "and kindles the forest thickets",
-        "which roll upward in billows of smoke.",
-        "19 By the wrath of the LORD of Hosts",
-        "the land is scorched,",
-        "and the people are fuel for the fire.",
-        "No man even spares his brother.",
-        "20 They carve out what is on the right,",
-        "but they are still hungry;",
-        "they eat what is on the left,",
-        "but they are still not satisfied.",
-        "Each one devours the flesh of his own offspring.",
-        "21 Manasseh devours Ephraim,",
-        "and Ephraim Manasseh;",
-        "together they turn against Judah.",
-        "Despite all this, His anger is not turned away;",
-        "His hand is still upraised."
+        "18 For wickedness burns like a fire that consumes the thorns and briers and kindles the forest thickets, which roll upward in billows of smoke. 19 By the wrath of the LORD of Hosts the land is scorched, and the people are fuel for the fire. No man even spares his brother.",
+        "20 They carve out what is on the right, but they are still hungry; they eat what is on the left, but they are still not satisfied. Each one devours the flesh of his own offspring. 21 Manasseh devours Ephraim, and Ephraim Manasseh; together they turn against Judah. Despite all this, His anger is not turned away; His hand is still upraised."
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 9**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "Wickedness spreads like fire from thorns and briers into the forest. The picture then includes the wrath of the Lord: the land is scorched and the people themselves become fuel. Human wrongdoing and God’s judgment meet in the destruction described here.",
+    "",
+    "The violence reaches the closest relationships. No one spares his brother; grabbing and eating bring no satisfaction, and the language even speaks of devouring one’s own offspring. The closing verse names Manasseh and Ephraim consuming one another, then joining against Judah.",
+    "",
+    "This is a community destroying itself from within while also turning against its neighbor. The repeated words about the Lord’s anger leave the warning unresolved: the damage has not brought the people back to Him."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Judgment against Israel\u2019s Unrepentance** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/isaiah/9.htm) and [Gill](https://biblehub.com/commentaries/gill/isaiah/9.htm) emphasize the fighting and plundering through which people consume their own relatives and neighbors. Gill connects the devouring language with the conflict between Manasseh and Ephraim in the final verse.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 9** remains the first control on meaning."
+    "The [NABRE notes](https://bible.usccb.org/bible/isaiah/9) also identify civil conflict in the northern kingdom as the setting of the warning. Across these readings, the fire and devouring images expose how wrongdoing destroys the bonds that should hold a people together."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "A related warning appears in [Galatians 5:13–26](https://biblehub.com/bsb/galatians/5.htm). Paul warns believers that biting and devouring one another can end in mutual destruction. The verbal picture resembles Isaiah’s warning, though Paul does not identify it as a quotation.",
+    "",
+    "Paul also sets out a different way of life: people called to freedom in Christ are to serve one another in love and walk by the Spirit. Love, patience, kindness and self-control replace the rivalries that consume a community. The connection carries the theme from the ruin caused by sin to the life God produces among His people."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/9.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-nine-review.md"
+  }
 }

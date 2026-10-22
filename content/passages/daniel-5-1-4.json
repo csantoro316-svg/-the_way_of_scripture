@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "5:1-4",
+    "label": "Daniel 5:1-4",
+    "slug": "daniel-5-1-4"
+  },
+  "section_title": "What makes the king’s feast an act of defiance?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Later, King Belshazzar held a great feast for a thousand of his nobles, and he drank wine with them. 2 Under the influence of the wine, Belshazzar gave orders to bring in the gold and silver vessels that Nebuchadnezzar his father had taken from the temple in Jerusalem, so that the king could drink from them, along with his nobles, his wives, and his concubines. 3 Thus they brought in the gold vessels that had been taken from the temple, the house of God in Jerusalem, and the king drank from them, along with his nobles, his wives, and his concubines. 4 As they drank the wine, they praised their gods of gold and silver, bronze and iron, wood and stone."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Belshazzar holds a feast for a thousand nobles. Under the influence of wine, he orders the vessels taken from God’s temple in Jerusalem to be brought out. The guests drink from them while praising gods made from metal, wood and stone.",
+    "",
+    "The vessels connect the scene with the beginning of Daniel, when they were carried away from Jerusalem. Here the king turns them into drinking cups for a celebration of other gods. Daniel will later explain why this is defiance against the Lord of heaven.",
+    "",
+    "An inscription by Nabonidus names Belshazzar as his eldest son; see the [Nabonidus Cylinder from Ur](https://www.livius.org/sources/content/nabonidus-cylinder-from-ur/). Another ancient account says Nabonidus entrusted kingship to his eldest son while he traveled to Tayma; see [column II of the Verse Account](https://www.livius.org/sources/content/anet/verse-account-of-nabonidus/). These records help explain Belshazzar’s ruling role alongside his father."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/daniel/5.htm) and [Wesley](https://biblehub.com/commentaries/wes/daniel/5.htm) understand the use of the temple vessels as a deliberate insult to God, rather than simply a lavish meal.",
+    "",
+    "Wesley calls Belshazzar Nebuchadnezzar’s grandson. [Cambridge](https://biblehub.com/commentaries/cambridge/daniel/5.htm) treats that family relationship as uncertain, while the [USCCB notes](https://bible.usccb.org/bible/daniel/5) identify Nabonidus as his father. The surviving Ur inscription establishes the relationship to Nabonidus; it does not establish a family link to Nebuchadnezzar."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/5.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-five-review.md"
+  }
+}

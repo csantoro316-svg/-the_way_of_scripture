@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "15:9-15",
+    "label": "1 Kings 15:9-15",
+    "slug": "1-kings-15-9-15"
+  },
+  "section_title": "What does Asa change when he becomes king?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "9 In the twentieth year of Jeroboam’s reign over Israel, Asa became king of Judah, 10 and he reigned in Jerusalem forty-one years. His grandmother’s name was Maacah daughter of Abishalom. 11 And Asa did what was right in the eyes of the LORD, as his father David had done. 12 He banished the male shrine prostitutes from the land and removed all the idols that his fathers had made. 13 He also removed his grandmother Maacah from her position as queen mother because she had made a detestable Asherah pole. Asa chopped down the pole and burned it in the Kidron Valley.",
+        "14 The high places were not removed, but Asa’s heart was fully devoted to the LORD all his days. 15 And he brought into the house of the LORD the silver and gold and the articles that he and his father had dedicated."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Asa reigns forty-one years in Jerusalem and receives a different assessment from his father: he does what is right in the LORD’s sight. He removes idols and male shrine prostitutes from the land.",
+    "",
+    "The changes reach his own household. He removes his grandmother Maacah from her position as queen mother because of the Asherah pole she has made, then cuts it down and burns it. He also brings the dedicated silver, gold and articles into the LORD’s house.",
+    "",
+    "The account includes a limit: the high places are not removed. Even with that unfinished work, it describes Asa’s heart as fully devoted to the LORD."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/15.htm) emphasizes that reform begins at home. Asa’s family relationship does not prevent him from acting against worship that dishonors God.",
+    "",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) and [Gill](https://biblehub.com/commentaries/gill/1_kings/15.htm) distinguish high places used for worship of the LORD from those dedicated to foreign gods. They use that distinction to read Kings alongside [2 Chronicles 14:2–5](https://biblehub.com/bsb/2_chronicles/14.htm), which describes Asa removing foreign worship and high places.",
+    "",
+    "That is an explanation they offer for the accounts’ different statements. Kings itself records both the remaining high places and Asa’s wholehearted devotion, holding a favorable assessment together with a limit to the reform."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/15.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-fifteen-review.md"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "13:26-32",
+    "label": "1 Kings 13:26-32",
+    "slug": "1-kings-13-26-32"
+  },
+  "section_title": "Why does the old prophet bury him and ask to share his tomb?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "26 When the prophet who had brought him back from his journey heard this, he said, “It is the man of God who disobeyed the command of the LORD. Therefore the LORD has delivered him to the lion, and it has mauled him and killed him, according to the word that the LORD had spoken to him.” 27 Then the old prophet instructed his sons, “Saddle the donkey for me.” So they saddled it, 28 and he went and found the body lying in the road, with the donkey and the lion standing beside it. The lion had not eaten the body or mauled the donkey. 29 So the old prophet lifted up the body of the man of God, laid it on the donkey, and brought it back to his own city to mourn for him and bury him.",
+        "30 Then he laid the body in his own tomb, and they lamented over him, “Oh, my brother!” 31 After he had buried him, the prophet said to his sons, “When I die, you must bury me in the tomb where the man of God is buried. Lay my bones beside his bones, 32 for the message that he cried out by the word of the LORD against the altar in Bethel and against all the shrines on the high places in the cities of Samaria will surely come to pass.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The old prophet recognizes the reported death as the fulfillment of the warning spoken at his table. He goes to the road and finds the body still beside the lion and donkey. The lion has eaten neither the man nor the donkey.",
+    "",
+    "He carries the body back, mourns over the man and lays him in his own tomb. He then instructs his sons to bury his bones beside the man’s bones when he dies.",
+    "",
+    "His reason points back to the original message: the word against Bethel’s altar and the high-place shrines will certainly come true. Burial and grief do not erase that announcement."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) and [Gill](https://biblehub.com/commentaries/gill/1_kings/13.htm) see the lion’s unusual restraint as a sign that this death belongs to the announced judgment, rather than simply an ordinary attack for food.",
+    "",
+    "Gill connects the request for shared burial with the later preservation of both men’s bones in [2 Kings 23:17–18](https://biblehub.com/bsb/2_kings/23.htm). The old prophet’s confidence in the warning is clear. The text describes his mourning and his words without separately narrating every motive behind them."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/13.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-thirteen-review.md"
+  }
+}

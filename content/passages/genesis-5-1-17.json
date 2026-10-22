@@ -10,8 +10,8 @@
     {
       "label": "BSB",
       "paragraphs": [
-        "1 This is the book of the generations of Adam. In the day that God created man, He made him in His own likeness. 2 Male and female He created them, and He blessed them. And in the day they were created, He called them \u201cman.\u201d",
-        "3 When Adam was 130 years old, he had a son in his own likeness, after his own image;and he named him Seth. 4 And after he had become the father of Seth, Adam lived 800 years and had other sons and daughters. 5 So Adam lived a total of 930 years, and then he died.",
+        "1 This is the book of the generations of Adam. In the day that God created man, He made him in His own likeness. 2 Male and female He created them, and He blessed them. And in the day they were created, He called them “man.”",
+        "3 When Adam was 130 years old, he had a son in his own likeness, after his own image; and he named him Seth. 4 And after he had become the father of Seth, Adam lived 800 years and had other sons and daughters. 5 So Adam lived a total of 930 years, and then he died.",
         "6 When Seth was 105 years old, he became the father of Enosh. 7 And after he had become the father of Enosh, Seth lived 807 years and had other sons and daughters. 8 So Seth lived a total of 912 years, and then he died.",
         "9 When Enosh was 90 years old, he became the father of Kenan. 10 And after he had become the father of Kenan, Enosh lived 815 years and had other sons and daughters. 11 So Enosh lived a total of 905 years, and then he died.",
         "12 When Kenan was 70 years old, he became the father of Mahalalel. 13 And after he had become the father of Mahalalel, Kenan lived 840 years and had other sons and daughters. 14 So Kenan lived a total of 910 years, and then he died.",
@@ -20,12 +20,33 @@
     }
   ],
   "context_lines": [
-    "In **Genesis 5**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "Chapter 4 followed Cain's descendants and ended with Seth and Enosh. Chapter 5 now traces the family line from Adam toward Noah. It repeatedly gives a father's age at a son's birth, mentions other children, and records his total years and death. This is a selected line within a larger family, not a claim that each man had only the one child named.",
+    "",
+    "The opening recalls God making humanity in His likeness, creating male and female, and blessing them. It then describes Seth in Adam's likeness and image. The Hebrew דְּמוּת, *dĕmût* (deh-MOOT), means likeness or resemblance, and צֶלֶם, *ṣelem* (TSEH-lem), means image or likeness ([Brown–Driver–Briggs, 1823](https://biblehub.com/hebrew/1823.htm); [6754](https://biblehub.com/hebrew/6754.htm)). Their use here connects the generations; the words do not themselves divide human appearance from a separate spiritual substance.",
+    "",
+    "The repeated deaths carry us back to the warning and sentence in the garden. Long lives do not erase that ending. At the same time, births continue. The chapter holds the continuation of God's blessing and the reality of death together, preparing us to notice Enoch's very different ending in verse 24."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Descendants of Adam** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 5** remains the first control on meaning."
+    "Christians commonly read the list as the continuation of Adam's family under the reality of death, with the chosen line leading toward Noah and eventually Jesus. [Wesley's introduction to chapter 5](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) makes that connection with Luke's account of Jesus' ancestry; the repeated deaths keep the list from being merely a record of impressive ages."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "god_plan_lines": [
+    "[Luke 3:36–38](https://biblehub.com/bsb/luke/3.htm) includes these early generations in Jesus' ancestry, connecting the Savior with the humanity whose beginning Genesis describes. The lists therefore serve more than curiosity about the past: they locate Jesus within the family history of people who need deliverance from sin and death.",
+    "",
+    "Human dignity also remains important after the fall. [Genesis 9:6](https://biblehub.com/bsb/genesis/9.htm) grounds the value of human life in God's image, and [James 3:9–10](https://biblehub.com/bsb/james/3.htm) condemns cursing people made in God's likeness. The damage caused by sin is real, but it gives us no permission to treat another person's life as worthless."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-18",
+    "quote_source": "https://biblehub.com/bsb/genesis/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-18-genesis-cain-to-noah-review.md"
+  }
 }

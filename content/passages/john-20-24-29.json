@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "20:24-29",
+    "label": "John 20:24-29",
+    "slug": "john-20-24-29"
+  },
+  "section_title": "What does Jesus teach Thomas about believing?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "24 Now Thomas called Didymus, one of the Twelve, was not with the disciples when Jesus came. 25 So the other disciples told him, “We have seen the Lord!” But he replied, “Unless I see the nail marks in His hands, and put my finger where the nails have been, and put my hand into His side, I will never believe.”",
+        "26 Eight days later, His disciples were once again inside with the doors locked, and Thomas was with them. Jesus came and stood among them and said, “Peace be with you.” 27 Then Jesus said to Thomas, “Put your finger here and look at My hands. Reach out your hand and put it into My side. Stop doubting and believe.” 28 Thomas replied, “My Lord and my God!” 29 Jesus said to him, “Because you have seen Me, you have believed; blessed are those who have not seen and yet have believed.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Thomas was absent when Jesus appeared to the gathered disciples. He refuses their report unless he can personally see the nail marks and touch Jesus’s wounds. His demand sets the scene for the next appearance.",
+    "",
+    "Eight days later, Jesus comes again while Thomas is present. He addresses the very conditions Thomas had named and calls him to believe. Thomas answers Jesus as his Lord and his God. John does not say whether Thomas actually touches the wounds.",
+    "",
+    "Jesus then blesses those who believe without seeing Him. That includes readers who will encounter the testimony in this Gospel rather than standing in the room with Thomas. The next two verses explain why John has written these signs down."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read Thomas’s response as a confession addressed to the risen Jesus, and Jesus’s blessing as encouragement for later believers. [Wesley on verse 28](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) identifies the confession of Jesus as God; [Calvin on verse 29](https://biblehub.com/commentaries/calvin/john/20.htm) emphasizes trusting God’s word without requiring personal sight of the risen Lord. John’s written testimony gives later readers something definite to hear and consider."
+  ],
+  "god_plan_lines": [
+    "The Gospel began by identifying the Word as God in [John 1:1–5](https://the-way-of-scripture.web.app/passages/john-1-1-5.html). Near its close, Thomas addresses the risen Jesus as his God. The opening announcement and this personal confession belong together.",
+    "",
+    "[1 Peter 1:8–9](https://biblehub.com/bsb/1_peter/1.htm) describes believers who love Jesus without having seen Him and rejoice as they receive the goal of their faith. The blessing here reaches beyond the first witnesses to the people who will believe their testimony."
+  ],
+  "current_position_lines": [
+    "Should We Seek Signs From God? uses this exchange to explain that ordinary Christian faith rests on what God has revealed, without needing repeated personal signs to keep believing. Thomas’s demand to see and touch is not a requirement every believer must meet. John also supplies written testimony in verses 30–31, so this does not mean refusing evidence or discouraging honest questions."
+  ],
+  "deeper_study": [
+    {
+      "title": "Should We Seek Signs From God?",
+      "href": "../studies/seek-signs.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/20.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-john-twenty-review.md",
+    "position_source_detail": "Should We Seek Signs From God? — Faith That Doesn’t Require Proof; direct discussion of John20:27–29."
+  }
+}

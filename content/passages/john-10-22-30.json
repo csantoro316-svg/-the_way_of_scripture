@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "10:22-30",
+    "label": "John 10:22-30",
+    "slug": "john-10-22-30"
+  },
+  "section_title": "What does Jesus promise the sheep in His care?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "22 At that time the Feast of Dedication took place in Jerusalem. It was winter, 23 and Jesus was walking in the temple courts in Solomon’s Colonnade. 24 So the Jews gathered around Him and demanded, “How long will You keep us in suspense? If You are the Christ, tell us plainly.” 25 “I already told you,” Jesus replied, “but you did not believe. The works I do in My Father’s name testify on My behalf. 26 But because you are not My sheep, you refuse to believe.",
+        "27 My sheep listen to My voice; I know them, and they follow Me. 28 I give them eternal life, and they will never perish. No one can snatch them out of My hand. 29 My Father who has given them to Me is greater than all. No one can snatch them out of My Father’s hand. 30 I and the Father are one.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "John now gives a new setting: the Feast of Dedication in Jerusalem, in winter. This is Hanukkah, commemorating the temple’s rededication after its desecration. [Josephus, Antiquities 12.7.6–7](https://earlyjewishwritings.com/text/josephus/ant12.html), describes the restored sacrifices and the annual eight-day celebration. John places Jesus in Solomon’s Colonnade, where people press Him to say plainly whether He is the Christ.",
+    "",
+    "Jesus points to what He has already said and to the works He does in the Father’s name. He then contrasts His questioners with His sheep. His sheep listen to His voice, are known by Him and follow Him. The discussion therefore concerns both His identity and the response to Him, rather than information about Him alone.",
+    "",
+    "His promise is strong: He gives His sheep eternal life, and no one can snatch them from His hand or the Father’s. The Greek verb ἁρπάζω, harpazō (har-PAH-zoh), means to seize or carry away by force; [Thayer’s lexicon](https://biblehub.com/greek/726.htm) directly cites verses 28–29. The assurance rests on the power and care of the Father and Son. Questions about how this relates to continuing faith need the wider teaching of Scripture, not just a dictionary definition.",
+    "",
+    "Jesus closes by saying that He and the Father are one. In this setting, their united care for the sheep is unmistakable. The words also lead directly into the next exchange about His relationship with God, where His opponents accuse Him of making Himself God. We should read the promise and that response together."
+  ],
+  "common_interpretation_lines": [
+    "Christians read these verses as a strong assurance of Christ’s care, but differ over how His sheep come to believe and whether a believer can finally fall away.",
+    "",
+    "Reformed churches following the [Westminster Confession, chapters 10 and 17](https://www.opc.org/wcf.html), understand God’s call as bringing those He has chosen to faith, freely and willingly through His grace. Those truly called and renewed will be preserved to the end, even though they may fall into serious sin. [Calvin’s explanation of verses 26–28](https://biblehub.com/commentaries/calvin/john/10.htm) reads the passage in that way.",
+    "",
+    "[Wesley’s notes on verses 26–29](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) emphasize the refusal to follow Jesus and understand His promise in connection with continuing to believe, love and follow Him. Methodist [Article XII](https://www.umc.org/en/content/articles-of-religion) allows falling from grace and being restored by grace. The Catholic Church teaches that grace begins with God and calls for a free response ([Catechism 1996–2002](https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_three/article_2/ii_grace.html)); it also teaches that the gift of faith can be lost ([Catechism 162](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_three/article_1/iii_the_characteristics_of_faith.html)). These positions affirm dependence on God’s grace while differing from the Reformed account of final preservation.",
+    "",
+    "On verse 30, Wesley and the [Catholic Catechism, paragraph 590](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/article_4/paragraph_1_jesus_and_israel.html), connect the saying with Christ’s divine identity. Calvin focuses its immediate meaning on the Father and Son acting together in power and protection. That is a difference over this saying’s emphasis; Calvin also affirms Christ’s deity in his explanation of verse 36."
+  ],
+  "god_plan_lines": [
+    "The shepherd’s care belongs within God’s larger purpose to bring His people into lasting life with Him. [Ezekiel 37:21–28](https://biblehub.com/bsb/ezekiel/37.htm) joins the promise of one shepherd with peace and God dwelling among His people. Jesus’ promise reaches beyond surviving a single threat to receiving eternal life in His care.",
+    "",
+    "[Romans 8:31–39](https://biblehub.com/bsb/romans/8.htm) gives another view of that assurance: Christ has died, has been raised and intercedes for His people, and no created power can separate them from God’s love in Him. The security of the flock rests on the saving work of the One who holds them, rather than on their ability to overpower every enemy."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/10.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-ten-closing-review.md"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "17:7-10",
+    "label": "Luke 17:7-10",
+    "slug": "luke-17-7-10"
+  },
+  "section_title": "Does doing our duty put God in our debt?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 Which of you whose servant comes in from plowing or shepherding in the field will say to him, ‘Come at once and sit down to eat’? 8 Instead, won’t he tell him, ‘Prepare my meal and dress yourself to serve me while I eat and drink, and afterward you may eat and drink’? 9 Does he thank the servant because he did what he was told?",
+        "10 So you also, when you have done everything commanded of you, should say, ‘We are unworthy servants; we have only done our duty.’”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus continues His answer with a servant who returns from field work and still has a meal to prepare. The master does not treat the servant’s required work as an extraordinary favor that places him under an obligation.",
+    "",
+    "Jesus applies the picture to His disciples: even after doing everything commanded, they have done their duty. Obedience is not a way to make God owe them something.",
+    "",
+    "The BSB’s unworthy servants translates ἀχρεῖος, achreios (ah-KHRAY-oss). Thayer explains its use here as the servant’s humble acknowledgment that he has done only what was required. The emphasis is on having no claim to special credit, rather than a statement that people have no value to God. ([Thayer, Greek 888](https://biblehub.com/greek/888.htm))"
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly see a call to humility: obedience cannot turn God’s generosity into a debt. Traditions differ in how they explain the place of good works and reward within that shared emphasis.",
+    "",
+    "Reformed churches following the Westminster Confession explicitly use this saying to teach that even our best works cannot earn forgiveness or eternal life. They also teach that God accepts believers’ sincere works through Christ and graciously rewards them. ([Westminster Confession 16.5–6](https://www.opc.org/wcf.html))",
+    "",
+    "The Catholic Church teaches that no one has an independent claim on God or can earn the initial grace of forgiveness. It also teaches that, after God’s gracious initiative, actions done in Christ’s love can have merit: God grants them a real share in His promised reward, including eternal life. The Catechism attributes this to His grace rather than unaided human achievement. ([Catechism §§2007–2011](https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_three/article_2/iii_merit.html))",
+    "",
+    "Wesley similarly stresses that service gives God no benefit He needs, yet says God graciously gives good works value and rewards them according to His promise. ([Wesley on Luke 17:9–10](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))"
+  ],
+  "god_plan_lines": [
+    "Ephesians places good works after God’s merciful rescue: people are saved by grace and made alive with Christ, then created in Him for a life of good works. Paul also asks the Corinthians what they possess that they did not receive. Together these passages describe fruitful service as a response to God’s generosity, with no room for boasting over others. ([Ephesians 2:1–10](https://biblehub.com/bsb/ephesians/2.htm); [1 Corinthians 4:6–7](https://biblehub.com/bsb/1_corinthians/4.htm))",
+    "",
+    "The servant image does not exhaust what Jesus says about God’s generosity. Earlier in Luke, He pictures a master who himself serves the servants he finds ready. Read together, these sayings preserve both the disciple’s humble duty and the surprising generosity of the Lord. ([Luke 12:35–38](https://biblehub.com/bsb/luke/12.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/17.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-seventeen-opening-review.md"
+  }
+}

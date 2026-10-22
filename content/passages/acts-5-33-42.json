@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "5:33-42",
+    "label": "Acts 5:33-42",
+    "slug": "acts-5-33-42"
+  },
+  "section_title": "Why do the apostles leave the council rejoicing?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "33 When the Council members heard this, they were enraged, and they resolved to put the apostles to death. 34 But a Pharisee named Gamaliel, a teacher of the law who was honored by all the people, stood up in the Sanhedrin and ordered that the men be put outside for a short time. 35 “Men of Israel,” he said, “consider carefully what you are about to do to these men. 36 Some time ago Theudas rose up, claiming to be somebody, and about four hundred men joined him. He was killed, all his followers were dispersed, and it all came to nothing. 37 After him, Judas the Galilean appeared in the days of the census and drew away people after him. He too perished, and all his followers were scattered. 38 So in the present case I advise you: Leave these men alone. Let them go! For if their purpose or endeavor is of human origin, it will fail. 39 But if it is from God, you will not be able to stop them. You may even find yourselves fighting against God.”",
+        "40 At this, they yielded to Gamaliel. They called the apostles in and had them flogged. Then they ordered them not to speak in the name of Jesus, and released them. 41 The apostles left the Sanhedrin, rejoicing that they had been counted worthy of suffering disgrace for the Name. 42 Every day, in the temple courts and from house to house, they did not stop teaching and proclaiming the good news that Jesus is the Christ."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The council reacts with anger and considers killing the apostles. Gamaliel, a respected Pharisee and teacher of the law, has them taken outside while he counsels caution. He recalls movements that collapsed after their leaders died and warns that the council may find itself fighting God.",
+    "",
+    "The council follows his advice in allowing the apostles to live, yet still has them flogged and repeats the ban on speaking in Jesus’s name. The outcome is a release with real suffering, rather than an acceptance of their message.",
+    "",
+    "The apostles leave rejoicing that they have been counted worthy to suffer disgrace for Jesus’s name. They continue teaching in the temple and in homes, announcing that Jesus is the Christ. The council’s repeated prohibition has not brought the mission to an end."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley on verse 38](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) understands Gamaliel’s caution as useful in an unclear case, while distinguishing it from the need to respond to what is already plainly good or evil. His advice is being considered as counsel in this situation, rather than a complete test of whether every successful movement comes from God.",
+    "",
+    "Christians commonly understand the apostles’ rejoicing as joy in belonging to Christ through persecution. [Calvin on verse 41](https://biblehub.com/commentaries/calvin/acts/5.htm) emphasizes that this joy does not mean they are unable to feel pain or shame; their confidence in the cause they serve gives them strength to continue."
+  ],
+  "god_plan_lines": [
+    "The response recalls [Matthew 5:10–12](https://biblehub.com/bsb/matthew/5.htm), where Jesus blesses those persecuted for righteousness and for His sake, and calls them to rejoice. Their disgrace before the council is understood in the light of belonging to Him.",
+    "",
+    "[1 Peter 4:12–16](https://biblehub.com/bsb/1_peter/4.htm) later joins suffering for Christ’s name with blessing and the Spirit’s presence. It also distinguishes suffering as a Christian from suffering for wrongdoing. The apostles’ joy here belongs to faithful witness, rather than to pain for its own sake."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-five-review.md"
+  }
+}

@@ -5,29 +5,55 @@
     "label": "Titus 3:12-15",
     "slug": "titus-3-12-15"
   },
-  "section_title": "Final Remarks and Greetings",
+  "section_title": "How can the church put good works into practice?",
   "versions": [
     {
       "label": "BSB",
-      "text": "As soon as I send Artemas or Tychicus to you, make every effort to come to me at Nicopolis, because I have decided to winter there. Do your best to equip Zenas the lawyer and Apollos, so that they will have everything they need. And our people must also learn to devote themselves to good works in order to meet the pressing needs of others, so that they will not be unfruitful. All who are with me send you greetings. Greet those who love us in the faith. Grace be with all of you."
+      "paragraphs": [
+        "12 As soon as I send Artemas or Tychicus to you, make every effort to come to me at Nicopolis, because I have decided to winter there. 13 Do your best to equip Zenas the lawyer and Apollos, so that they will have everything they need.",
+        "14 And our people must also learn to devote themselves to good works in order to meet the pressing needs of others, so that they will not be unfruitful. 15 All who are with me send you greetings. Greet those who love us in the faith. Grace be with all of you."
+      ]
     }
   ],
   "context_lines": [
-    "Titus closes with travel plans, provision for co-laborers, and final greetings. Even the letter's practical ending reinforces Paul's pattern: doctrine, mission, fellowship, and tangible support belong together."
+    "Paul closes with practical arrangements. When Artemas or Tychicus is sent, Titus is to come to him at Nicopolis, where Paul intends to spend the winter. He is also to equip Zenas and Apollos for their journey so that they have what they need.",
+    "",
+    "The request becomes an instruction for the community as a whole: learn to devote themselves to good works that meet pressing needs. Fruitfulness takes a concrete form in providing help, rather than remaining an idea discussed in the gathering.",
+    "",
+    "The letter ends with greetings from those with Paul, love shared in the faith and grace for them all. The teaching about God’s saving kindness has led back to a people learning to show kindness in practice."
   ],
   "common_interpretation_lines": [
-    "A common reading of this conclusion is that ordinary logistical details are part of faithful ministry rather than distractions from it. The gospel moves through real people, real needs, and real generosity.",
+    "[Calvin](https://biblehub.com/commentaries/calvin/titus/3.htm) reads the request as an opportunity for believers to exercise generosity instead of remaining unfruitful. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-titus/) likewise connects their learning with Titus’s instruction and example and the need to help Zenas and Apollos. The practical provision is part of living out the teaching.",
     "",
-    "The call to devote themselves to good works is often seen as the letter's closing refrain, showing that Titus ends where it has been aiming all along: truth producing fruitful lives."
+    "Wesley understands Artemas or Tychicus as taking over Titus’s work while he visits Paul. The passage names the alternatives but does not say which one was ultimately sent."
+  ],
+  "god_plan_lines": [
+    "[Philippians 4:14–20](https://biblehub.com/bsb/philippians/4.htm) describes practical giving as partnership in gospel work and fruit in the givers’ lives. The help requested here belongs within that same pattern of people using their resources to support others in the mission.",
+    "",
+    "[Ephesians 4:28](https://biblehub.com/bsb/ephesians/4.htm) also connects honest work with having something to share with someone in need. God’s renewed people learn a different use for their resources: meeting needs becomes part of the life they share in Christ."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
   ],
   "deeper_study": [
     {
-      "title": "I Am a Disciple",
-      "href": "../studies/i-am-a-disciple.html"
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
     },
     {
-      "title": "The True Church According to Jesus",
-      "href": "../studies/true-church.html"
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/titus/3.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-titus-three-review.md"
+  }
 }

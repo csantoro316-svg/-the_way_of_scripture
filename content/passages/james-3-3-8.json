@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "James",
+    "citation": "3:3-8",
+    "label": "James 3:3-8",
+    "slug": "james-3-3-8"
+  },
+  "section_title": "How can such a small part of us cause so much harm?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "3 When we put bits into the mouths of horses to make them obey us, we can guide the whole animal. 4 Consider ships as well. Although they are so large and are driven by strong winds, they are steered by a very small rudder wherever the pilot is inclined. 5 In the same way, the tongue is a small part of the body, but it boasts of great things. Consider how small a spark sets a great forest ablaze.",
+        "6 The tongue also is a fire, a world of wickedness among the parts of the body. It pollutes the whole person, sets the course of his life on fire, and is itself set on fire by hell. 7 All kinds of animals, birds, reptiles, and creatures of the sea are being tamed and have been tamed by man, 8 but no man can tame the tongue. It is a restless evil, full of deadly poison."
+      ]
+    }
+  ],
+  "context_lines": [
+    "A horse’s bit and a ship’s rudder show how something small can direct something much larger. James uses those examples to explain the tongue’s influence, then turns to a spark that sets a forest ablaze. Words can set consequences in motion far beyond the moment they are spoken.",
+    "",
+    "The fire image grows more severe: the tongue pollutes the whole person and is itself set on fire by hell. The description gives destructive speech a moral and spiritual seriousness, rather than dismissing it as an unfortunate habit.",
+    "",
+    "People have tamed all kinds of animals, yet cannot tame the tongue. Calling it a restless evil emphasizes how persistently it escapes control. The passage exposes the need for more than confidence in one’s own restraint; it does not excuse the harm caused."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/james/3.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-general-epistle-of-st-james/) read the images as showing the tongue’s far-reaching power for evil. Wesley explicitly adds that controlling it requires God’s help; neither understands the difficulty as permission to stop resisting harmful speech."
+  ],
+  "god_plan_lines": [
+    "[Galatians 5:22–25](https://biblehub.com/bsb/galatians/5.htm) includes gentleness and self-control in the fruit of the Spirit and calls believers to walk in step with Him. Read beside James, that gives a positive direction to the warning: God’s work is meant to shape what comes out of a person’s mouth, as well as other parts of life."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/james/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-james-three-review.md"
+  }
+}

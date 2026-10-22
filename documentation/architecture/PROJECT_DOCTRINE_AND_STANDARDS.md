@@ -59,6 +59,8 @@ The BSB renders *ἐκκλησία* (*ekklēsia*) as "church" — the same trans
 
 ## Document Standards
 
+New passage writing also follows the owner's [Passage Editorial Standard](PASSAGE_EDITORIAL_STANDARD.md): verify BSB quotations and source claims, describe traditions from their own documents, and do not originate a site position. A baseline teacher's interpretation is not consensus or an authorized site conclusion.
+
 ### Structure
 
 - Every document is written in real explanatory prose — full paragraphs that introduce the question or tension before Scripture appears
@@ -88,6 +90,7 @@ The BSB renders *ἐκκλησία* (*ekklēsia*) as "church" — the same trans
 - Real, direct, powerful language — never mechanical, technical, or reaching for cleverness
 - No contrastive strawman phrasing unless Scripture itself raises the contrast
 - Plain language over academic or theological jargon
+- Research thoroughly and explain it as you would to an interested reader with no theological training. Explain the idea itself; omit academic labels when they add nothing. Preserve the reasoning and sources while making every section easy to follow.
 - No hedging on established positions; acknowledge genuine tensions honestly rather than smoothing them over
 
 ### Internal Consistency
@@ -164,7 +167,8 @@ Every document closes with the following statement (formatted in italics):
 
 ### Documents Completed
 
-- The Way of Scripture (homepage introduction)
+- The Way of Scripture (homepage starting point)
+- Returning to the Word (guided opening study)
 - Prayer and Faith
 - What Does Prayer Look Like
 - Should We Seek Signs From God
@@ -173,13 +177,13 @@ Every document closes with the following statement (formatted in italics):
 - Baptism
 - Is the Bible the Inerrant Word of God
 - I Am a Disciple
-- Featured Passages (12 passages — pending markdown build)
+- Passages reader for currently available library passages
 
 ### Documents Planned
 
 - Majority Text vs. Codex Sinaiticus (companion to inerrancy document)
 - Ephesians 6:18 and Hebrews 4:16 (additions to prayer documents)
-- Full passage library (all referenced passages with study notes)
+- Complete Bible passage library with section-level study notes
 
 ### Site Features
 

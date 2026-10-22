@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "26:24-32",
+    "label": "Acts 26:24-32",
+    "slug": "acts-26-24-32"
+  },
+  "section_title": "What does Paul want for the people who have heard his defense?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "24 At this stage of Paul’s defense, Festus exclaimed in a loud voice, “You are insane, Paul! Your great learning is driving you to madness!” 25 But Paul answered, “I am not insane, most excellent Festus; I am speaking words of truth and sobriety. 26 For the king knows about these matters, and I can speak freely to him. I am confident that none of this has escaped his notice, because it was not done in a corner. 27 King Agrippa, do you believe the prophets? I know you do.” 28 Then Agrippa said to Paul, “Can you persuade me in such a short time to become a Christian?” 29 “Short time or long,” Paul replied, “I wish to God that not only you but all who hear me this day may become what I am, except for these chains.”",
+        "30 Then the king and the governor rose, along with Bernice and those seated with them. 31 On their way out, they said to one another, “This man has done nothing worthy of death or imprisonment.” 32 And Agrippa said to Festus, “This man could have been released if he had not appealed to Caesar.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Festus interrupts, accusing Paul of being driven mad by learning. Paul answers respectfully that he is speaking truth with a clear mind. He turns to Agrippa’s knowledge of the events and asks about his belief in the prophets. The question presses the relationship between the Scriptures and the testimony Agrippa has heard.",
+    "",
+    "Agrippa asks whether Paul can persuade him to become a Christian in such a short time. Paul’s answer embraces both short and long: he wishes that everyone listening might become what he is, apart from his chains. His desire is for their faith and freedom, not merely a favorable opinion of his defense.",
+    "",
+    "The king, governor, Bernice and others leave the gathering and say Paul has done nothing deserving death or imprisonment. Agrippa tells Festus that he could have been released if he had not appealed to Caesar. Luke records this assessment while the appeal and the journey it will entail remain in place.",
+    "",
+    "The scene does not report Agrippa becoming a Christian. It ends with a judgment about Paul’s legal position, which is different from the personal response to Jesus Paul desires for his hearers."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly see Paul’s answer as an appeal for the good of all his listeners, including people who hold power over him. Readers differ over Agrippa’s tone and how to understand his question.",
+    "",
+    "[Calvin on verse 28](https://biblehub.com/commentaries/calvin/acts/26.htm) allows a reading about being persuaded nearly or in a short time; [Wesley’s note on verse 28](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-acts-of-the-apostles/) emphasizes being almost persuaded. [Thayer’s entry for the phrase](https://biblehub.com/greek/3641.htm) offers the sense of persuading with little effort, while the BSB presents a question about shortness of time. These differences do not establish a certain account of Agrippa’s inner state. Luke reports the reply and Paul’s wish for everyone, without recording a conversion."
+  ],
+  "god_plan_lines": [
+    "The calling described in [Acts 9:15–16](https://biblehub.com/bsb/acts/9.htm) has brought Paul before a king with the message of Jesus, and his answer shows the purpose of that witness: he wants the hearers themselves to share in the life he has received. The audience is not merely a means of obtaining a release.",
+    "",
+    "The contrast between his chains and his desire for their good shows a mission that continues under restraint. Their favorable legal opinion does not complete the task he longs to see fulfilled. The testimony points beyond the prisoner’s case to a response to the risen Lord."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/26.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twenty-six-review.md"
+  }
+}

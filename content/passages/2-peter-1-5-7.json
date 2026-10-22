@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "2 Peter",
+    "citation": "1:5-7",
+    "label": "2 Peter 1:5-7",
+    "slug": "2-peter-1-5-7"
+  },
+  "section_title": "What character should grow from our faith?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 For this very reason, make every effort to add to your faith virtue; and to virtue, knowledge; 6 and to knowledge, self-control; and to self-control, perseverance; and to perseverance, godliness; 7 and to godliness, brotherly kindness; and to brotherly kindness, love."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The call to make every effort follows God’s gift of power and promises in verses 3–4. The readers are to respond to what He has supplied by cultivating the character that fits their faith.",
+    "",
+    "Peter names virtue, knowledge, self-control, perseverance, godliness, brotherly kindness and love. The [word for self-control](https://biblehub.com/greek/1466.htm) concerns governing one’s desires and passions. [Perseverance](https://biblehub.com/greek/5281.htm) means remaining steady in faith and purpose through trials.",
+    "",
+    "The movement reaches beyond knowing what is right to living it toward God and other people. Knowledge belongs with self-control, endurance and love. The next sentence will speak of these qualities being present and continuing to grow together."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/2_peter/1.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-epistle-general-of-st-peter/) both call for active effort in response to God’s gifts. Calvin treats the qualities as companions of living faith rather than a rigid staircase. Wesley sees a fitting order in which the qualities strengthen one another, while distinguishing that order from a timetable in which each must be completed before the next begins.",
+    "",
+    "The Reformed [Westminster Confession, 16.2–3](https://www.opc.org/wcf.html), also joins good works with dependence on Christ’s Spirit and expressly calls for diligence. The instruction to act is therefore not a point on which Reformed teaching simply denies human responsibility."
+  ],
+  "god_plan_lines": [
+    "[Galatians 5:22–25](https://biblehub.com/bsb/galatians/5.htm) describes love, patience, kindness and self-control as fruit of the Spirit. Those who live by the Spirit are also called to walk in step with Him. God’s gift and a changed way of living belong together.",
+    "",
+    "This places Peter’s list within God’s work of forming people who reflect Him. The growth is seen in how they govern their desires, endure difficulties and love others, rather than only in how much they can say about their faith."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_peter/1.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-peter-growth-review.md"
+  }
+}

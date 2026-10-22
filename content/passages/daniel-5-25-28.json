@@ -1,0 +1,49 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "5:25-28",
+    "label": "Daniel 5:25-28",
+    "slug": "daniel-5-25-28"
+  },
+  "section_title": "What does the writing on the wall mean?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "25 Now this is the inscription that was written: MENE, MENE, TEKEL, PARSIN. 26 And this is the interpretation of the message: MENE means that God has numbered the days of your reign and brought it to an end. 27 TEKEL means that you have been weighed on the scales and found deficient. 28 PERES means that your kingdom has been divided and given over to the Medes and Persians.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Daniel reads the inscription and gives its meaning. God has numbered the king’s reign and brought it to an end; the king has been weighed and found deficient; his kingdom is being given to the Medes and Persians.",
+    "",
+    "The message uses a play on words. The Aramaic terms also belong to the language of weights: מְנֵא, mene (meh-NAY), names a mina, and פְּרֵס, peres (peh-RACE), probably a half-mina; see [Brown–Driver–Briggs on mene](https://biblehub.com/hebrew/4484.htm) and [peres](https://biblehub.com/hebrew/6537.htm). Daniel explains the words through numbering, weighing and dividing.",
+    "",
+    "The meaning is therefore much more than a puzzling list. The king’s rule has a limit, his conduct has been judged, and the power he possessed is passing to others."
+  ],
+  "common_interpretation_lines": [
+    "The [USCCB notes](https://bible.usccb.org/bible/daniel/5) and [Cambridge](https://biblehub.com/commentaries/cambridge/daniel/5.htm) explain the weight terms and the play on words in Daniel’s interpretation. Both also note the connection between the final term and the name of the Persians. The explanation in verses 26–28 gives the message its force."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/5.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-five-review.md"
+  }
+}

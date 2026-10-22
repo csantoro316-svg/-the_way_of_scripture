@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "8:15-19",
+    "label": "Daniel 8:15-19",
+    "slug": "daniel-8-15-19"
+  },
+  "section_title": "Why does Daniel need Gabriel to explain the vision?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 While I, Daniel, was watching the vision and trying to understand it, there stood before me one having the appearance of a man. 16 And I heard the voice of a man calling from between the banks of the Ulai: “Gabriel, explain the vision to this man.” 17 As he came near to where I stood, I was terrified and fell facedown. “Son of man,” he said to me, “understand that the vision concerns the time of the end.” 18 While he was speaking with me, I fell into a deep sleep, with my face to the ground. Then he touched me, helped me to my feet, 19 and said, “Behold, I will make known to you what will happen in the latter time of wrath, because it concerns the appointed time of the end."
+      ]
+    }
+  ],
+  "context_lines": [
+    "As Daniel seeks understanding, a figure appears before him and a voice commands Gabriel to explain the vision. Daniel falls facedown in fear as Gabriel approaches.",
+    "",
+    "Gabriel tells him that the vision concerns the time of the end. Daniel falls into a deep sleep, but the messenger touches him and helps him stand. He is to learn what will occur in the latter time of wrath, at the appointed end.",
+    "",
+    "The explanation comes to a man who is overwhelmed by what he has seen. Daniel’s role is to receive and preserve what God makes known, including events that lie beyond his immediate experience."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/daniel/8.htm) understands the appointed end here in relation to the end of Antiochus’s oppression. [Gaebelein](https://biblehub.com/commentaries/gaebelein/daniel/8.htm) sees the language also pointing beyond Antiochus toward a final period of trouble before Christ’s return.",
+    "",
+    "The difference concerns how far the vision reaches. Both readings recognize that the end is appointed by God rather than decided by the persecuting ruler."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/8.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-eight-review.md"
+  }
+}

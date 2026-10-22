@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "15:7-13",
+    "label": "Romans 15:7-13",
+    "slug": "romans-15-7-13"
+  },
+  "section_title": "Why does welcoming one another belong to God’s larger purpose?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 Accept one another, then, just as Christ accepted you, in order to bring glory to God. 8 For I tell you that Christ has become a servant of the circumcised on behalf of God’s truth, to confirm the promises made to the patriarchs, 9 so that the Gentiles may glorify God for His mercy. As it is written: “Therefore I will praise You among the Gentiles; I will sing hymns to Your name.”",
+        "10 Again, it says: “Rejoice, O Gentiles, with His people.” 11 And again: “Praise the Lord, all you Gentiles, and extol Him, all you peoples.” 12 And once more, Isaiah says: “The Root of Jesse will appear, One who will arise to rule over the Gentiles; in Him the Gentiles will put their hope.” 13 Now may the God of hope fill you with all joy and peace as you believe in Him, so that you may overflow with hope by the power of the Holy Spirit."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul gives the standard for welcome: receive one another as Christ has received them, bringing glory to God. He then connects Christ’s service to the circumcised with God’s faithfulness to the patriarchs and the Gentiles’ praise for His mercy.",
+    "",
+    "The quotations bring Israel and the nations into the same horizon of praise. Paul is explaining why fellowship across their differences belongs within what God has promised and accomplished through Christ.",
+    "",
+    "He ends by asking the God of hope to fill them with joy and peace as they believe, so that hope overflows through the Spirit’s power. These gifts are sought from God for a community learning to live out its shared welcome."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as joining mutual acceptance with God’s faithfulness and mercy in Christ. Jews and Gentiles are brought into praise of the same God. The prayer for joy, peace and hope keeps their life together dependent on His work, rather than merely on their ability to avoid disagreement."
+  ],
+  "god_plan_lines": [
+    "The sequence of quotations makes the wider purpose explicit. [Psalm 18:46–50](https://biblehub.com/bsb/psalms/18.htm) speaks of praising God among the nations; [Deuteronomy 32:43](https://biblehub.com/bsb/deuteronomy/32.htm) calls the nations to rejoice with His people; and [Psalm 117](https://biblehub.com/bsb/psalms/117.htm) summons all peoples to praise Him for His love and faithfulness.",
+    "",
+    "[Isaiah 11:1–10](https://biblehub.com/bsb/isaiah/11.htm) describes the Spirit-endowed ruler from Jesse’s line, His righteous rule and the nations seeking Him. Paul places Gentile hope in Christ within that promise. A community welcoming both Jews and Gentiles gives local expression to the wide praise these Scriptures anticipate."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/15.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-fifteen-review.md"
+  }
+}

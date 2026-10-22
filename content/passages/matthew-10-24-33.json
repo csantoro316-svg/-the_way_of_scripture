@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "10:24-33",
+    "label": "Matthew 10:24-33",
+    "slug": "matthew-10-24-33"
+  },
+  "section_title": "Courage Under the Father’s Care",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "24 A disciple is not above his teacher, nor a servant above his master. 25 It is enough for a disciple to be like his teacher, and a servant like his master. If the head of the house has been called Beelzebul, how much more the members of his household!",
+        "26 So do not be afraid of them. For there is nothing concealed that will not be disclosed, and nothing hidden that will not be made known. 27 What I tell you in the dark, speak in the daylight; what is whispered in your ear, proclaim from the housetops. 28 Do not be afraid of those who kill the body but cannot kill the soul. Instead, fear the One who can destroy both soul and body in hell.",
+        "29 Are not two sparrows sold for a penny? Yet not one of them will fall to the ground apart from the will of your Father. 30 And even the very hairs of your head are all numbered. 31 So do not be afraid; you are worth more than many sparrows.",
+        "32 Therefore everyone who confesses Me before men, I will also confess him before My Father in heaven. 33 But whoever denies Me before men, I will also deny him before My Father in heaven."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus explains opposition through the relationship between a disciple and teacher, or a servant and master. His messengers should expect treatment like His own. If He is accused of being aligned with evil, members of His household can expect similar slander. The accusation recalls [Matthew 9:34](https://biblehub.com/bsb/matthew/9.htm) and is developed further in [Matthew 12:24](https://biblehub.com/bsb/matthew/12.htm).",
+    "",
+    "He then repeatedly tells them not to fear. The assurance that concealed things will be disclosed leads directly to the command to speak openly what He has taught them. Opposition must not turn His message into something they keep permanently hidden.",
+    "",
+    "The contrast between body and soul puts human threats in perspective. People may kill the body, but their power has a limit. Jesus directs His followers toward reverence for God's final authority over the whole person. The warning about judgment is serious, even as He calls them away from fear of human opponents.",
+    "",
+    "The sparrows and numbered hairs reveal the care of that same Father. His attention reaches what might seem small or easily overlooked, and His disciples matter to Him. This is not a promise that danger will never touch them; the earlier verses have already described it. It is assurance that they are neither forgotten nor worthless to God.",
+    "",
+    "The closing sayings join public allegiance to Jesus with His response before the Father. Acknowledging Him carries a promise; denying Him carries a warning. The related teaching in [Luke 12:4–9](https://biblehub.com/bsb/luke/12.htm) likewise brings together human threats, God's judgment, His detailed care, and the Son of Man's response to those who confess or deny Him."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a call to acknowledge Jesus openly, fear God above human opponents, and trust the Father's care. [Wesley on Matthew 10:28–32](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) joins reverence for God with confidence in His care, and the Catholic [Catechism, 1816](https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_one/article_7/ii_the_theological_virtues.html), applies Jesus' confession-and-denial sayings to living faith, public witness, and following Him through persecution."
+  ],
+  "god_plan_lines": [
+    "Jesus' promise before the Father points beyond the present conflict to His saving relationship with His people. [Romans 8:31–39](https://biblehub.com/bsb/romans/8.htm) grounds their confidence in God giving His own Son, raising Him, and receiving His intercession on their behalf. Christ's care rests on what He has done and continues to do for them.",
+    "",
+    "Paul includes danger, persecution, and death among the things that cannot separate His people from God's love in Christ. That gives a wider setting for the sparrow picture: God's care is not measured only by whether a threat ends immediately. His saving love holds them through suffering and death."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/10.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-ten-completion-review.md"
+  }
+}

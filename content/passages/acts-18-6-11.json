@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "18:6-11",
+    "label": "Acts 18:6-11",
+    "slug": "acts-18-6-11"
+  },
+  "section_title": "Why does Paul keep speaking after opposition in Corinth?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 But when they opposed and insulted him, he shook out his garments and told them, “Your blood be on your own heads! I am innocent of it. From now on I will go to the Gentiles.” 7 So Paul left the synagogue and went next door to the house of Titus Justus, a worshiper of God. 8 Crispus, the synagogue leader, and his whole household believed in the Lord. And many of the Corinthians who heard the message believed and were baptized.",
+        "9 One night the Lord spoke to Paul in a vision: “Do not be afraid; keep on speaking; do not be silent. 10 For I am with you and no one will lay a hand on you, because I have many people in this city.” 11 So Paul stayed for a year and a half, teaching the word of God among the Corinthians."
+      ]
+    }
+  ],
+  "context_lines": [
+    "When opponents resist and insult him, Paul shakes out his garments and declares that they bear responsibility for rejecting his testimony. He turns his attention toward the Gentiles and moves the teaching next door, to the house of Titus Justus, a worshiper of God.",
+    "",
+    "This is not a rejection of every Jewish person. Crispus, the synagogue leader, believes with his household, and many Corinthians hear, believe and are baptized. Later Paul recalls personally baptizing Crispus in [1 Corinthians 1:14–17](https://biblehub.com/bsb/1_corinthians/1.htm).",
+    "",
+    "The Lord speaks to Paul in a night vision, telling him not to fear or fall silent. The promise is personal and specific: the Lord is with him, will protect him here and has many people in this city. Paul remains for a year and a half, teaching God’s word.",
+    "",
+    "Paul later describes coming to Corinth in weakness, fear and trembling in [1 Corinthians 2:1–5](https://biblehub.com/bsb/1_corinthians/2.htm). His need for encouragement does not mean Luke is accusing him of faithlessness or a failed preaching technique."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read the vision as reassurance that Paul should continue the work despite opposition. The promise that God has many people in the city gives him reason to keep speaking and teaching. It is a promise in this particular mission, not an assurance that every believer in every place will escape physical harm."
+  ],
+  "god_plan_lines": [
+    "In [1 Corinthians 2:1–5](https://biblehub.com/bsb/1_corinthians/2.htm), Paul explains that the Corinthians’ faith should rest on God’s power rather than a speaker’s impressive skill. The frightened messenger is sustained, people believe and a community is taught. God’s purposes advance through a servant who needs help, not through a hero who has no weakness."
+  ],
+  "current_position_lines": [
+    "Worship as the Early Church Knew It discusses Titus Justus in Acts 18:7 as a person whose reverence for God matters more than the kind of building in which believers meet. His home becomes a place for the message and fellowship. The study places the emphasis on people who honor God, rather than a structure imagined to be sacred in itself."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/18.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-acts-eighteen-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It: direct Acts18:7, A Home Marked by Awe."
+  }
+}

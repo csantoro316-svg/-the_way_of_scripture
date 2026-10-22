@@ -1,6 +1,6 @@
 # Website Style Standard
 
-Updated: 2026-06-29
+Updated: 2026-10-18
 
 ## Purpose
 
@@ -58,7 +58,7 @@ The homepage may carry more visual identity than interior pages, but it should s
 
 ### Banner Use
 
-The homepage banner is appropriate as a top-of-page visual masthead.
+The homepage banner is appropriate as an early visual masthead after the opening introduction.
 
 Usage rule:
 
@@ -71,16 +71,15 @@ The banner should create tone and orientation, not carry the main reading experi
 
 ### Homepage Structure
 
-Recommended homepage order:
+Homepage order:
 
 1. top navigation
-2. banner masthead
-3. short mission/introduction block
-4. featured studies
-5. featured passages
-6. simple explanation of how to use the site
+2. opening statement of the site's purpose and the meaning of its name
+3. a small text link asking what changes when we go back to the text; it opens the separate site-approach page
+4. shallow banner masthead
+5. one Foundations invitation linking directly to Study 1, Returning to the Word
 
-As the site evolves, additional homepage sections may be added, but they should remain content-driven.
+The fuller site-focused explanation lives at `apps/web/why-we-return-to-the-text.html`, where it ends with a path into Study 1. The original teaching introduction is now Study 1 of the guided path; its former standalone URL redirects to that study. The Garden and translation-history teaching examples stay in Study 1. Keep one clear start action on the homepage rather than repeating it throughout the page.
 
 ## Interior Page Standard
 
@@ -117,7 +116,21 @@ The homepage already moved away from this pattern, and the same rule applies eve
 
 If supporting navigation or relationship data is needed, integrate it into the main content flow or a lower full-width section rather than a right rail.
 
+The Studies page presents all 14 studies as one ordered path in a single reading column. A secondary Explore by topic view groups the same studies by topic and filters those groups without changing the guided order. Individual study pages show a compact step marker in the hero and previous/continue links below the article body. On narrow screens, those links and topic cards stack vertically. Returning to the Word begins the path, The Berean Standard follows, and The Angel of the Lord follows the Gospel as Step 6.
+
 Content panels should use the full available reading width so long-form explanations and Scripture discussion are not artificially cramped.
+
+### Passage Reader
+
+The canonical Passages page uses a full-width reading column on desktop and mobile. The passage/article surface stays in normal page flow: every page scroll must move its content immediately. A tall navigation menu must never determine the reader's scroll length or hold the passage in place.
+
+Only the compact reading toolbar is sticky. It contains Book, Chapter, and Passage selectors for available library passages plus a Browse Library button. Selected headings must land below the toolbar, including after responsive resizing. Previous/next links remain at the end of the passage.
+
+The complete navigation tree opens in a modal drawer at every screen size. While open, the drawer scrolls independently and the background page is locked; closing or selecting a destination restores normal page scrolling. Keep an accessible Close button visible, support Escape/backdrop dismissal, contain keyboard focus in the drawer, and return focus to the opener on dismissal or the selected heading on navigation. Expanding the complete menu must not increase the reading page's height.
+
+The passage-section guide appears once above the reader as a collapsed “About these sections” disclosure. The Passages navigation link opens this reader directly.
+
+This replaces the earlier shared-browse layout with two sticky columns, which could keep a passage stationary while a longer menu scrolled past it.
 
 ### Full-Width Card Rule
 
@@ -126,7 +139,7 @@ Every card-like surface on the site must let its content use the full available 
 This applies to:
 
 - homepage intro cards
-- featured study and featured passage cards
+- study and passage cards
 - study and passage hero cards
 - study body panels
 - feedback panels

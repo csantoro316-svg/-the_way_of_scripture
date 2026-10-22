@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "4:28-33",
+    "label": "Daniel 4:28-33",
+    "slug": "daniel-4-28-33"
+  },
+  "section_title": "What happens when the king takes the glory for himself?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "28 All this happened to King Nebuchadnezzar. 29 Twelve months later, as he was walking on the roof of the royal palace of Babylon, 30 the king exclaimed, “Is this not Babylon the Great, which I myself have built as a royal residence by the might of my power and for the glory of my majesty?”",
+        "31 While the words were still in the king’s mouth, a voice came from heaven: “It is decreed to you, King Nebuchadnezzar, that the kingdom has departed from you. 32 You will be driven away from mankind to live with the beasts of the field, and you will feed on grass like an ox. And seven times will pass you by, until you acknowledge that the Most High rules over the kingdom of mankind and gives it to whom He wishes.” 33 At that moment the sentence against Nebuchadnezzar was fulfilled. He was driven away from mankind. He ate grass like an ox, and his body was drenched with the dew of heaven, until his hair grew like the feathers of an eagle and his nails like the claws of a bird."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Twelve months later, Nebuchadnezzar walks on the palace roof and boasts that he has built Babylon by his own power and for his own glory.",
+    "",
+    "While he is still speaking, a voice from heaven announces that his kingdom has departed from him. The warning is fulfilled: he is driven away, eats grass like an ox and lives exposed to the dew, his hair and nails growing unkempt.",
+    "",
+    "The story presents the reversal the dream announced. The king who claimed greatness as his own achievement loses the position and ordinary life he took for granted. The experience has an appointed purpose: he must acknowledge the rule of the Most High."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/daniel/4.htm) and [Wesley](https://biblehub.com/commentaries/wes/daniel/4.htm) understand the king’s downfall as judgment on pride and forgetfulness of God. The boast about his own greatness stands immediately before the announcement that he has lost it.",
+    "",
+    "The warning and its fulfillment make the same point: the king’s authority is a gift, and he is accountable to the One who gave it."
+  ],
+  "god_plan_lines": [
+    "A related account appears in [Acts 12:20–24](https://biblehub.com/bsb/acts/12.htm). Herod receives a crowd’s praise that his voice is divine, fails to give glory to God and is struck down. The account then records God’s word continuing to spread.",
+    "",
+    "The outcomes differ: Nebuchadnezzar is later restored, while Herod dies. Both accounts place a ruler’s apparent greatness under God’s authority. The New Testament also shows that a ruler’s power cannot make the advance of God’s word depend upon him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/4.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-four-review.md"
+  }
+}

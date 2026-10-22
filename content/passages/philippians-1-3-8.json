@@ -1,0 +1,67 @@
+{
+  "reference": {
+    "book": "Philippians",
+    "citation": "1:3-8",
+    "label": "Philippians 1:3-8",
+    "slug": "philippians-1-3-8"
+  },
+  "section_title": "Why does Paul thank God for their partnership?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "3 I thank my God every time I remember you. 4 In every prayer for all of you, I always pray with joy, 5 because of your partnership in the gospel from the first day until now, 6 being confident of this, that He who began a good work in you will carry it on to completion until the day of Christ Jesus.",
+        "7 It is right for me to feel this way about all of you, since I have you in my heart. For in my chains and in my defense and confirmation of the gospel, you are all partners in grace with me. 8 God is my witness how I long for all of you with the affection of Christ Jesus."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul remembers the Philippians with gratitude and prays for them with joy. He gives a reason: their partnership in the gospel from the first day until now. The Greek word is koinōnia (koy-nohn-EE-ah). [Thayer’s lexicon](https://biblehub.com/greek/2842.htm) includes sharing, participation and fellowship, and directly connects this use with the bond between Christians.",
+    "",
+    "Their partnership is practical. Later, [Philippians 4:14–18](https://biblehub.com/bsb/philippians/4.htm) describes gifts sent for Paul’s needs and their sharing in his affliction. Here he calls them partners in grace during his chains and his defense and confirmation of the gospel.",
+    "",
+    "His confidence looks beyond the present: God began a good work among them and will carry it to completion until the day of Christ Jesus. Paul places their continuing life and service within God’s work.",
+    "",
+    "The paragraph also shows personal affection. Paul has them in his heart and longs for them with the affection of Christ Jesus. Shared gospel work includes care for the people involved."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Paul’s gratitude as a response to genuine gospel partnership and his confidence as resting in God’s faithful work. The [USCCB notes on verses 3–11](https://bible.usccb.org/bible/philippians/1) connect their partnership, Paul’s affection and preparation for Christ’s return.",
+    "",
+    "Christians differ in how they relate this confidence to final perseverance. The Reformed [Westminster Confession, chapter 17](https://www.opc.org/wcf.html), teaches that those truly called and sanctified will be preserved to final salvation. [Wesley’s comments on verses 6–7](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-philippians/) also affirm God’s work toward completion, while grounding Paul’s confidence about these readers in their actual sharing in grace and his affections for them.",
+    "",
+    "The Wesleyan [Methodist Articles of Religion, article XII](https://www.umc.org/en/content/articles-of-religion), allow that people who have received the Spirit can depart from grace and be restored through grace. The Catholic [Catechism, paragraph 2016](https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_three/article_2/iv_christian_holiness.html), describes final perseverance as a grace for which believers rightly hope. These are distinct accounts of perseverance; the passage’s emphasis on God’s work and the readers’ continuing partnership should both remain in view."
+  ],
+  "god_plan_lines": [
+    "[Acts 16:13–15, 25–34](https://biblehub.com/bsb/acts/16.htm) gives concrete beginnings for this community: Lydia and her household receive the message, and later the jailer and his household hear it in the aftermath of Paul and Silas’s imprisonment. Hospitality, witness and care appear together in the account.",
+    "",
+    "[Philippians 4:14–18](https://biblehub.com/bsb/philippians/4.htm) then shows the community supporting Paul’s gospel work. This is a supported connection across the story: people reached by the gospel become participants in its continuing spread. Their giving is one visible part of that partnership."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/philippians/1.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-philippians-one-opening-review.md"
+  }
+}

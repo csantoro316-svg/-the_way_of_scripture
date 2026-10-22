@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Galatians",
+    "citation": "3:1-5",
+    "label": "Galatians 3:1-5",
+    "slug": "galatians-3-1-5"
+  },
+  "section_title": "How did they receive the Spirit in the first place?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 O foolish Galatians! Who has bewitched you? Before your very eyes Jesus Christ was clearly portrayed as crucified. 2 I would like to learn just one thing from you: Did you receive the Spirit by works of the law, or by hearing with faith? 3 Are you so foolish? After starting in the Spirit, are you now finishing in the flesh?",
+        "4 Have you suffered so much for nothing, if it really was for nothing? 5 Does God lavish His Spirit on you and work miracles among you because you practice the law, or because you hear and believe?"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul presses the question raised by the previous chapter: what place can works of the law have in a life received through Christ? He reminds the Galatians how clearly Jesus Christ had been presented to them as crucified.",
+    "",
+    "He asks them to consider their own experience. Did they receive the Spirit by doing the works of the law, or by hearing with faith? His next question follows from the first: having started in the Spirit, are they now trying to finish in the flesh?",
+    "",
+    "He also asks whether all they have suffered has been for nothing. The possibility makes the stakes of their change of direction clear.",
+    "",
+    "The final question returns to God’s present generosity: He supplies His Spirit and works miracles among them. Paul asks again whether this comes through practicing the law or through hearing and believing. Their own experience is part of his appeal to hold to the gospel they received."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read these questions as recalling the Spirit received through the gospel heard with faith. [Wesley’s notes on verses 1–5](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-galatians/) and the [USCCB notes on verses 1–5](https://bible.usccb.org/bible/galatians/3) both connect the appeal to their experience with the need to continue depending on God’s Spirit."
+  ],
+  "god_plan_lines": [
+    "[Romans 8:9–11](https://biblehub.com/bsb/romans/8.htm) describes the Spirit of God dwelling in Christ’s people and connects His presence with the power of the God who raised Jesus from the dead.",
+    "",
+    "That wider setting shows how much is at stake in the gift Paul names. The Spirit belongs to God’s work of giving life through His risen Son, with hope that reaches to life for mortal bodies. The Galatians are being called to continue in the life God has begun among them."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/galatians/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-galatians-three-opening-review.md"
+  }
+}

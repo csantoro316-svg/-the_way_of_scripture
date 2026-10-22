@@ -5,25 +5,57 @@
     "label": "Exodus 4:10-17",
     "slug": "exodus-4-10-17"
   },
-  "section_title": "The Appointment of Aaron",
+  "section_title": "What if Moses did not feel able to speak?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "10 \u201cPlease, Lord,\u201d Moses replied, \u201cI have never been eloquent, neither in the past nor since You have spoken to Your servant, for I am slow of speech and tongue.\u201d",
-        "11 And the LORD said to him, \u201cWho gave man his mouth? Or who makes the mute or the deaf, the sighted or the blind? Is it not I, the LORD? 12 Now go! I will help you as you speak, and I will teach you what to say.\u201d",
-        "13 But Moses replied, \u201cPlease, Lord, send someone else.\u201d",
-        "14 Then the anger of the LORD burned against Moses, and He said, \u201cIs not Aaron the Levite your brother? I know that he can speak well, and he is now on his way to meet you. When he sees you, he will be glad in his heart. 15 You are to speak to him and put the words in his mouth. I will help both of you to speak, and I will teach you what to do. 16 He will speak to the people for you. He will be your spokesman, and it will be as if you were God to him. 17 But take this staff in your hand so you can perform signs with it.\u201d"
+        "10 “Please, Lord,” Moses replied, “I have never been eloquent, neither in the past nor since You have spoken to Your servant, for I am slow of speech and tongue.” 11 And the LORD said to him, “Who gave man his mouth? Or who makes the mute or the deaf, the sighted or the blind? Is it not I, the LORD? 12 Now go! I will help you as you speak, and I will teach you what to say.”",
+        "13 But Moses replied, “Please, Lord, send someone else.” 14 Then the anger of the LORD burned against Moses, and He said, “Is not Aaron the Levite your brother? I know that he can speak well, and he is now on his way to meet you. When he sees you, he will be glad in his heart. 15 You are to speak to him and put the words in his mouth. I will help both of you to speak, and I will teach you what to do. 16 He will speak to the people for you. He will be your spokesman, and it will be as if you were God to him. 17 But take this staff in your hand so you can perform signs with it.”"
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 4**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "Moses turns from the people’s possible unbelief to his own difficulty speaking. The Hebrew description of his mouth and tongue uses a word meaning heavy, which [Brown–Driver–Briggs](https://biblehub.com/hebrew/3515.htm) explains here as slow or difficult speech. Moses says the difficulty has remained even since God began speaking with him.",
+    "",
+    "God answers as the Creator of the mouth, hearing and sight. He tells Moses to go and promises to help him speak and teach him what to say. Moses then asks God to send someone else, and the LORD becomes angry.",
+    "",
+    "Even then, God provides Aaron to speak for him. Moses will give Aaron the words, Aaron will address the people, and God will help them both. The comparison between Moses and God in verse 16 describes how the message passes through Moses to Aaron. Moses is to take the staff as well; the calling and the signs remain his responsibility."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Appointment of Aaron** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 4** remains the first control on meaning."
+    "The shared reading understands Moses’ final request as an attempt to be excused from the task. [Calvin](https://biblehub.com/commentaries/calvin/exodus/4.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) both emphasize that God’s promised help answers his weakness, while his continuing refusal brings God’s displeasure. Aaron’s assistance allows the work to go forward."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The exchange has a close parallel in [Jeremiah 1:6–9](https://biblehub.com/bsb/jeremiah/1.htm). Jeremiah says he does not know how to speak; God sends him, promises His presence and gives him words. In both callings, the messenger’s confidence rests on the God who sends him.",
+    "",
+    "[1 Corinthians 2:1–5](https://biblehub.com/bsb/1_corinthians/2.htm) brings that theme into the preaching of Christ. Paul recalls coming in weakness and fear, so that the Corinthians’ faith would rest on God’s power. Across these settings, God’s message reaches people through servants who depend on Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/exodus/4.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-exodus-four-review.md"
+  }
 }

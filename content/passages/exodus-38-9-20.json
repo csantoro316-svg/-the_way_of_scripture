@@ -5,7 +5,7 @@
     "label": "Exodus 38:9-20",
     "slug": "exodus-38-9-20"
   },
-  "section_title": "The Courtyard",
+  "section_title": "How does the courtyard complete the place of worship?",
   "versions": [
     {
       "label": "BSB",
@@ -17,12 +17,43 @@
     }
   ],
   "context_lines": [
-    "In **Exodus 38**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "The workers make the courtyard’s linen curtains, posts, bases, hooks, and bands, with a separate embroidered curtain for its entrance. The south and north sides are each a hundred cubits long; the shorter sides complete the enclosure. The entrance and surrounding curtains have the same stated height.",
+    "",
+    "This follows the instructions in [Exodus 27:9–19](https://biblehub.com/bsb/exodus/27.htm). The court surrounds the tent and the area where the altar and basin will stand. Its curtains mark the bounds of this appointed place of worship, while the pegs and other fittings complete a structure made to move with Israel."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Courtyard** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 38** remains the first control on meaning."
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-book-of-moses-called-exodus/) treats the movable enclosure as part of a temporary arrangement that looks toward a wider welcome for the nations. [Gill](https://biblehub.com/commentaries/gill/exodus/38.htm) emphasizes its immediate function as the open court where the people gather, distinct from the rooms within the tent."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "The wider welcome Wesley sees finds clear expression in [Ephesians 2:11–22](https://biblehub.com/bsb/ephesians/2.htm). People formerly far away are brought near through Christ’s blood. Jews and Gentiles are reconciled to God in one body, with access to the Father by one Spirit.",
+    "",
+    "This is a broader connection with God’s purpose, rather than a claim that Paul is describing these particular linen curtains. The sanctuary’s marked spaces help us appreciate the importance of approach; the gospel announces a people brought together into God’s household through Christ."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/exodus/38.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-exodus-thirty-eight-review.md"
+  }
 }

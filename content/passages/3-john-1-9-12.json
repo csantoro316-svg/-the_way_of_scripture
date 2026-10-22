@@ -5,25 +5,33 @@
     "label": "3 John 1:9-12",
     "slug": "3-john-1-9-12"
   },
-  "section_title": "Diotrephes and Demetrius",
+  "section_title": "Whose example should we follow when a leader wants control?",
   "versions": [
     {
       "label": "BSB",
-      "text": "I have written to the church about this, but Diotrephes, who loves to be first, will not accept our instruction. So if I come, I will call attention to his malicious slander against us. And unsatisfied with that, he refuses to welcome the brothers and forbids those who want to do so, even putting them out of the church. Beloved, do not imitate what is evil, but what is good. The one who does good is of God; the one who does evil has not seen God. Demetrius has received a good testimony from everyone, and from the truth itself. We also testify for him, and you know that our testimony is true."
+      "paragraphs": [
+        "9 I have written to the church about this, but Diotrephes, who loves to be first, will not accept our instruction. 10 So if I come, I will call attention to his malicious slander against us. And unsatisfied with that, he refuses to welcome the brothers and forbids those who want to do so, even putting them out of the church.",
+        "11 Beloved, do not imitate what is evil, but what is good. The one who does good is of God; the one who does evil has not seen God. 12 Demetrius has received a good testimony from everyone, and from the truth itself. We also testify for him, and you know that our testimony is true."
+      ]
     }
   ],
   "context_lines": [
-    "This is the conflict center of the letter. John contrasts selfish control with faithful witness and shows that leadership in the church can be tested by whether it serves the truth or exalts itself."
+    "Diotrephes provides a sharp contrast to Gaius. He loves to be first, rejects the elder’s instruction, speaks maliciously against him and refuses the visiting brothers. He also blocks those who want to receive them and puts them out of the church.",
+    "",
+    "The elder plans to call attention to this conduct if he comes. He then tells Gaius to imitate good rather than evil. The contrast concerns actual conduct: the one doing good is of God, while the one doing evil has not seen God.",
+    "",
+    "Demetrius receives a good testimony from others, from the truth itself and from the elder. He offers a positive example after the warning about Diotrephes. The letter commends his reputation without explicitly telling us his office or saying that he carried it."
   ],
   "common_interpretation_lines": [
-    "A common interpretation of Diotrephes is that he represents domineering leadership that refuses apostolic accountability. The problem is not merely a difficult personality, but a pattern of pride, exclusion, and resistance to truth.",
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-third-epistle-of-st-john/) and the [USCCB notes](https://bible.usccb.org/bible/3john/1) see Diotrephes as exercising authority in the community and understand verse 11 as warning against following his conduct. Wesley suggests he may have been its pastor. The USCCB introduction discusses several possible reasons for the conflict. Those reconstructions do not change what the letter states about his slander and exclusion of others.",
     "",
-    "By contrast, Demetrius is usually read as a model of credible Christian character. John sets the two men side by side so readers can see how the fruit of a person's life confirms or exposes their claims."
+    "Wesley understands not having seen God as being a stranger to Him. The warning directs readers to recognize the seriousness of evil conduct and follow the good example commended to them. It gives no procedure here for determining every individual’s final standing before God."
+  ],
+  "god_plan_lines": [
+    "In [Mark 10:42–45](https://biblehub.com/bsb/mark/10.htm), Jesus answers the desire for greatness by calling His followers to serve. He points to His own service and the giving of His life. [Philippians 2:1–11](https://biblehub.com/bsb/philippians/2.htm) likewise grounds care for others in Christ’s humility. These passages explain why a church leader’s desire to be first conflicts with the pattern Christ gives His people."
   ],
   "current_position_lines": [
-    "This site's current position is that **3 John 1:9-12** is one of the clearest warnings against self-exalting church leadership in the New Testament. Diotrephes does not model strength; he models the corruption that comes when a man loves to be first.",
-    "",
-    "Leadership in the church is validated by truth, hospitality, and character, not by control. That is why Demetrius stands as the positive counterexample."
+    "Our studies [Who Shepherds the Church?](https://thewayofscripture.com/studies/who-shepherds-the-church.html) and [The True Church According to Jesus](https://thewayofscripture.com/studies/true-church.html) describe recognized leadership as mature, accountable service among believers. We read the warning about Diotrephes in line with that conclusion: wanting to be first and controlling others conflicts with the kind of care these studies describe."
   ],
   "deeper_study": [
     {
@@ -33,6 +41,25 @@
     {
       "title": "Worship as the Early Church Knew It",
       "href": "../studies/worship.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/3_john/1.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-short-john-review.md",
+    "position_source_detail": "Who Shepherds the Church? lines16–40sameelder/overseer/shepherdcare and plural leadership; The True Church According to Jesus line83character-based servant roles, not presiding over people. No originated final-salvation verdict or universal discipline procedure."
+  }
 }

@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "13:24-30",
+    "label": "Matthew 13:24-30",
+    "slug": "matthew-13-24-30"
+  },
+  "section_title": "Waiting for the Harvest",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "24 Jesus put before them another parable: “The kingdom of heaven is like a man who sowed good seed in his field. 25 But while everyone was asleep, his enemy came and sowed weeds among the wheat, and slipped away. 26 When the wheat sprouted and bore grain, then the weeds also appeared.",
+        "27 The owner’s servants came to him and said, ‘Sir, didn’t you sow good seed in your field? Where then did the weeds come from?’ 28 ‘An enemy did this,’ he replied. So the servants asked him, ‘Do you want us to go and pull them up?’ 29 ‘No,’ he said, ‘if you pull the weeds now, you might uproot the wheat with them. 30 Let both grow together until the harvest. At that time I will tell the harvesters: First collect the weeds and tie them in bundles to be burned; then gather the wheat into my barn.’”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Another farming story introduces an enemy's work. A landowner sows good seed, but an enemy sows weeds among the wheat while people sleep. When both grow, the servants ask how the unwanted plants appeared and whether they should remove them.",
+    "",
+    "The word for weeds is ζιζάνιον, *zizanion* (zee-ZAH-nee-on). [Thayer's entry](https://biblehub.com/greek/2215.htm) identifies it with darnel, a weed that resembles wheat. That resemblance helps explain the difficulty in the picture, while the landowner's stated concern is the risk of uprooting wheat with the weeds.",
+    "",
+    "He names the enemy as the source of the trouble and refuses the proposed immediate removal. Both are to grow until harvest, when the proper separation will take place. Patience does not mean there will never be a judgment; it governs the time before that judgment.",
+    "",
+    "Jesus gives His own explanation in verses 36–43: the field is the world, the enemy is the devil, and the harvest is the end of the age. The story should be read alongside that explanation. The seed imagery is being used differently from the first parable, where the seed represented the message."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a warning against trying to carry out God's final separation ahead of His appointed time. [Wesley on Matthew 13:24–28](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) applies the mixed crop to people who appear to belong to the Christian community and the danger of mistaken removal. The [US Catholic bishops' note on 13:24–30](https://bible.usccb.org/bible/matthew/13) emphasizes patience and the call to repentance before God's judgment. These applications to the community of believers should be kept alongside Jesus' own identification of the field as the world."
+  ],
+  "god_plan_lines": [
+    "God's patience before judgment is a wider biblical theme. [2 Peter 3:8–13](https://biblehub.com/bsb/2_peter/3.htm) joins His patience and desire for repentance with the certainty of a coming day and the promise of a new creation where righteousness dwells. Waiting is not the abandonment of His promise.",
+    "",
+    "[Romans 2:3–5](https://biblehub.com/bsb/romans/2.htm) likewise says that His kindness leads toward repentance while warning against a hard heart. The time before the harvest calls for receiving mercy and responding to God. Final judgment belongs to Him, and His present patience has a saving purpose."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/13.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-thirteen-review.md"
+  }
+}

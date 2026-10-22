@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "19:10-12",
+    "label": "Matthew 19:10-12",
+    "slug": "matthew-19-10-12"
+  },
+  "section_title": "Singleness for the Kingdom",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 His disciples said to Him, “If this is the case between a man and his wife, it is better not to marry.” 11 “Not everyone can accept this word,” He replied, “but only those to whom it has been given. 12 For there are eunuchs who were born that way; others were made that way by men; and still others live like eunuchs for the sake of the kingdom of heaven. The one who can accept this should accept it.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The disciples respond to Jesus' teaching about marriage by saying that it is better not to marry. Jesus says that not everyone can accept this, but only those to whom it is given. He then describes people who do not enter ordinary married life for different reasons.",
+    "",
+    "The word eunuch is εὐνοῦχος, *eunouchos* (yoo-NOO-khos). [Thayer's entry](https://biblehub.com/greek/2135.htm) distinguishes its uses in this verse: a condition from birth, being made a eunuch by others, and voluntarily abstaining from marriage. Jesus includes people who live this way for the kingdom of heaven.",
+    "",
+    "His final invitation is addressed to the person who can accept it. The teaching makes room for a life devoted to the kingdom through singleness alongside the seriousness of marriage He has just explained."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the final example as willingly remaining unmarried to serve God's kingdom. [Wesley on 19:11–12](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) describes a gift for serving God without the distractions of marriage, and the Catholic [Catechism, 1618–1620](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_three/article_7/i_marriage_in_gods_plan.index.html), likewise describes a call to follow Christ in this way while affirming marriage's goodness."
+  ],
+  "god_plan_lines": [
+    "[1 Corinthians 7:7–9, 32–35](https://biblehub.com/bsb/1_corinthians/7.htm) explains how different gifts can serve the same Lord. Paul values the freedom an unmarried person has to attend to the Lord's work, while also recognizing marriage. His aim is undivided devotion to God.",
+    "",
+    "God's family includes people whose lives take different forms. [Ephesians 2:18–22](https://biblehub.com/bsb/ephesians/2.htm) describes believers together as His household, built around Christ and joined by the Spirit. A person's place in that family rests in Christ, and both married and unmarried believers share in its life and service."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/19.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-nineteen-review.md"
+  }
+}

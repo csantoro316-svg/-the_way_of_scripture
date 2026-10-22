@@ -1,0 +1,52 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "5:10-16",
+    "label": "Daniel 5:10-16",
+    "slug": "daniel-5-10-16"
+  },
+  "section_title": "Why is Daniel called into the banquet hall?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 Hearing the outcry of the king and his nobles, the queen entered the banquet hall. “O king, may you live forever!” she said. “Do not let your thoughts terrify you, or your face grow pale. 11 There is a man in your kingdom who has the spirit of the holy gods in him. In the days of your father he was found to have insight, intelligence, and wisdom like that of the gods. Your father, King Nebuchadnezzar, appointed him chief of the magicians, enchanters, astrologers, and diviners. Your own father, the king, 12 did this because Daniel, the one he named Belteshazzar, was found to have an extraordinary spirit, as well as knowledge, understanding, and the ability to interpret dreams, explain riddles, and solve difficult problems. Summon Daniel, therefore, and he will give you the interpretation.”",
+        "13 So Daniel was brought before the king, who asked him, “Are you Daniel, one of the exiles my father the king brought from Judah? 14 I have heard that the spirit of the gods is in you, and that you have insight, intelligence, and extraordinary wisdom. 15 Now the wise men and enchanters were brought before me to read this inscription and interpret it for me, but they could not give its interpretation. 16 But I have heard about you, that you are able to give interpretations and solve difficult problems. Therefore, if you can read this inscription and give me its interpretation, you will be clothed in purple and have a gold chain placed around your neck, and you will be made the third highest ruler in the kingdom.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The queen hears the disturbance and tells Belshazzar about Daniel’s service under Nebuchadnezzar. She remembers his insight and his ability to explain dreams and difficult problems.",
+    "",
+    "When Daniel arrives, Belshazzar identifies him as one of the exiles from Judah. The king repeats what he has heard about Daniel and offers the same rewards if he can explain the writing.",
+    "",
+    "The queen’s recommendation reconnects the present crisis with what God had already made known in the earlier king’s reign. Daniel is brought in because the wisdom remembered from that time is needed again."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/daniel/5.htm) and [Cambridge](https://biblehub.com/commentaries/cambridge/daniel/5.htm) understand the queen as a queen mother or senior royal woman, distinguished from the wives already at the feast. Her exact identity is not given in the passage.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/daniel/5.htm) emphasizes the contrast between seeking an answer to a frightening mystery and seeking instruction about how to live before God."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/5.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-five-review.md"
+  }
+}

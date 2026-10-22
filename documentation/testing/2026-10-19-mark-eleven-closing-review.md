@@ -1,0 +1,37 @@
+# Mark 11 closing editorial review
+
+Baseline11B625–635and11C636–647fullyread. Retained fig-tree/templeframe,Godasobjectoffaith,God'swill,forgiveness,John'sauthority/preparation/witness,andhumanresponse. Plainoriginalprose;noidentity/anecdotes/copiedoutline.
+
+ActualBSBMark11:20–33/footnotes,1John5:13–15,James4:1–3,Eph4:29–32,John1:6–13/29–34,Luke7:24–30,Rom8:14–17/26–28,John14:12–17,Acts13:23–33read. Mark1:2–11and14:32–36checkedincompletedreviews. Thayer4102actualentry generalfaith/trust and specificMark11:22clause read; means trust in God. Public word script/transliteration/pronunciation/plainmeaning present. No CJB translation overriding BSB or grammatical jargon as substitute for explanation.
+
+Primarydocumentsactuallyread: Catechism2610–2611and2734–2741;Westminster21.3;1689Baptist22.3;WesleyChapterXI;USCCB11:27–33;Calvin11:27–33harmony full argument. OfficialKCM Australia articles HowtoPraythePrayerofFaith and HowtoPrayforAnyProblem read in full (articlebodies,notjustsnippets). They explicitly self-identifyWordofFaith,teachspeaking/believingreceiving/actingbeforevisiblechange,andalsorequireagreementwithGod'sWord;qualificationfairlyretained. No blanketclaimallcharismaticsorallPentecostals. No comparativeverdict in common section. First guessedCatholicprayerURLarticle1failed,correctarticle2retrievedandread.
+
+Ownerposition: PrayerandFaithdiscussionofMark11:24read directly,includingprecedingfig-treecontext. Only existingcontextualtrust/God'spurposeandGethsemane/thorncomparisonused. Existingstudy'sbroaderclaimsozoalwaysspiritual,mislabelledBSBquotationsandgrammaticaloverreacharenotimported. CanonicalquoteassembledfromactualBibleHubBSB. Legacy24URLretainedandmislabelledLSBquoteupdated.
+
+## Mark 11:20–25
+
+Plan section: included, because (c). Romans8adoption/Spirithelpsweakprayeraccordingtodivinewill;Eph4forgivenessinChristshapingcommunalrelationshipsaddthelargerFather/Son/Spiritsetting.
+
+Position source: Prayer and Faith, discussion of Mark11:24; existing-study.
+
+FLAGGED FOR REVIEW: ExactTuesday12Nisan,preciseMountOlivesaltitude/DeadSea15milesandwhichmountainJesuspointsatnotindependentlyverified,omitted. Mountainmetaphornotusedtoforcegeologicaleventortemporaltemple-removalcalendar. Source'sCJBdifferentrenderingnotestablishedbysyntaxalone;actualThayerMark11:22trustinGodused. No claimlackofdesiredresultalwaysmeanswrongmotives,lackoffaithorunforgiveness. NorallGod'sresponsestoprideexclusivelycrushing. Baseline'treecurseonlyforage'notusedaslexicalproofafullrestorationchronology. No universal400yrabsenceofallpropheticvoices. Verse26footnote-onlyinactualBSB;notaddedtomaintext. Exactelabeteaoristdoesnotaloneproveeveryfutureoutcomealreadysettledinwayownerstudyasserts;publicdoesnotrepeatthatgrammarproof. No inventedprivatePeterquestionorassumptionallapostlesdesiredrawpower. Confidenceandactualpray/askwordspreserved,noterasedbyownerpositionparaphrase.
+
+## Mark 11:24
+
+Plan section: included, because (c). John14asking/Christ'sreturntoFather/glory/SpiritandRomans8Spirit'shelpaccordingGod'swillplacepromiseinGod'scontinuingwork.
+
+Position source: Prayer and Faith, discussion of Mark11:24; existing-study.
+
+FLAGGED FOR REVIEW: LegacyLSB-labelledwordingnotusedasBSB. Aoristverbformnotdescribedasautomaticproofatemporalorpsychologicalmechanism;owner'ssupportedcontextualconclusionseparatefromthatclaim. KCMnotmisrepresentedassayingallpersonalwishesregardlessGod'sWord,orallcharismaticsuniform. No unrestrictedguaranteeforfundraising,healingorfinancialclaimsoriginated. NoeditedBiblicalpromiseinwhichJesusdoesnotinvitetoprayer. No claimPaulandJesusprayersweredeniestobeestablishedonlybysilence:existingstudy'scomparisonattributednarrowly.
+
+## Mark 11:27–33
+
+Plan section: included, because (a)/(c). John1explicitGod-sentwitness/Lamb/Son/childrenandActs13Johnpreparation/Jesusrejection/resurrection/promisefulfillmentdevelopauthorityquestion'slargersalvationsetting.
+
+Position source: none.
+
+FLAGGED FOR REVIEW: Exactofficialsagecredential/firstcenturyordinationrules,allchiefpriestsasoneparty/alleldersanotherandtotalruleforchangingtraditionnotindependentlychecked,omitted. ExactprivateplotlanguagebeyondMark'sreporteddiscussionnotinvented. BaptismquestionconcernsJohn'sministry,notanewsiteformulaaboutregeneration. No allJewishleadersorallJewsassigneduniformrefusal. Mark'sactualchiefpriests/scribes/eldersretained. No precise400yrsilenceclaimorHerodfearmotivereconstruction;John'sbiblicalmissionreadfromactualsources. Calvin'swidersacramentalpolemicsnotcopiedorconvertedtoownerposition. John'switnesspointsawayfromhimselftoJesus;noequatingJohnwiththeLight.
+
+## Validation
+
+Three fresh BSB checks,eighttestsandrepositoryvalidationpassed(0errors/351legacywarnings). Source/index/HTML and all71reviewedMarknavigationblockschecked;1,279unrelatedfilesandneighborprosepreserved. Chapter11complete:32actualBSBverses,sixreviewedgroupsincludingoverlapping24;26footnote-only. 390pxreader/standalone,actualNextURL/titlefocus,nooverflow,idempotenceacross1,285files,Hostingdryrun/releasepassed. Sevenbatchlivefilesandeightwholechapterlivefilesmatched. Mark71reviewedgroups/454actualBSBverses. Prefix `/tmp/scripture-mark-eleven-closing-`.

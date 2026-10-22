@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "7:31-37",
+    "label": "Mark 7:31-37",
+    "slug": "mark-7-31-37"
+  },
+  "section_title": "Jesus Opens Ears and Restores Speech",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "31 Then Jesus left the region of Tyre and went through Sidon to the Sea of Galilee and into the region of the Decapolis. 32 Some people brought to Him a man who was deaf and hardly able to speak, and they begged Jesus to place His hand on him. 33 So Jesus took him aside privately, away from the crowd, and put His fingers into the man’s ears. Then He spit and touched the man’s tongue. 34 And looking up to heaven, He sighed deeply and said to him, “Ephphatha!” (which means, “Be opened!” ). 35 Immediately the man’s ears were opened and his tongue was released, and he began to speak plainly.",
+        "36 Jesus ordered them not to tell anyone. But the more He ordered them, the more widely they proclaimed it. 37 The people were utterly astonished and said, “He has done all things well! He makes even the deaf hear and the mute speak!”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus travels from the region of Tyre through Sidon toward the Sea of Galilee and the Decapolis. Some people bring Him a man who is deaf and has difficulty speaking, asking Jesus to place His hand on him. Mark does not identify the man's nationality or say how long he has had these difficulties.",
+    "",
+    "Jesus takes him away from the crowd and deals with him personally. He puts His fingers into the man's ears, spits, and touches his tongue. Looking to heaven, He sighs deeply and speaks. Mark records these actions without prescribing them as a method everyone must repeat.",
+    "",
+    "The word [ἐφφαθά (ephphatha, ef-fah-THAH)](https://biblehub.com/greek/2188.htm) preserves an Aramaic command, which Mark translates for his readers as be opened. The man's hearing is restored immediately and he speaks plainly. The account focuses on the change Jesus brings about.",
+    "",
+    "Jesus orders them not to tell anyone, but they keep spreading the news. Their amazement is understandable, yet the contrast remains between His instruction and their response. The crowd's praise brings the scene to its close: they recognize the good He has done in restoring hearing and speech."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly see Jesus' compassion and authority in this personal healing. [Calvin on Mark 7:32–36](https://biblehub.com/commentaries/calvin/mark/7.htm) understands His actions as outward signs through which He makes His help known, while [Wesley on verse 33](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-mark/) cautions against requiring Jesus to heal by the method people expect."
+  ],
+  "god_plan_lines": [
+    "The language of restored hearing and speech closely recalls [Isaiah 35:4–6](https://biblehub.com/bsb/isaiah/35.htm), where God's coming to save is accompanied by opened ears and a voice restored to joy. There is even a word connection: [Thayer's entry for μογιλάλος (mogilalos, moh-gee-LAH-los)](https://biblehub.com/greek/3424.htm), meaning speaking with difficulty, identifies its use in Mark 7:32 and the ancient Greek translation of Isaiah 35:6. This is a strong scriptural parallel to what Jesus does here.",
+    "",
+    "Jesus Himself points to restored sight, hearing, and life when answering whether He is the expected One ([Matthew 11:2–6](https://biblehub.com/bsb/matthew/11.htm)). The healing therefore belongs to the larger question of His identity and God's saving work. Isaiah's picture goes on to people returning with lasting joy, with sorrow fleeing away; the individual restoration is part of a much larger hope."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/7.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-seven-closing-review.md"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "17:5-6",
+    "label": "Luke 17:5-6",
+    "slug": "luke-17-5-6"
+  },
+  "section_title": "How can faith as small as a seed meet such a demanding call?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 The apostles said to the Lord, “Increase our faith!” 6 And the Lord answered, “If you have faith the size of a mustard seed, you can say to this mulberry tree, ‘Be uprooted and planted in the sea,’ and it will obey you."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After the command to forgive repeatedly, the apostles ask the Lord to increase their faith. Jesus answers with a mustard seed and an extraordinary image: a mulberry tree uprooted and planted in the sea.",
+    "",
+    "The contrast is between something very small and something beyond ordinary human ability. In this setting, the apostles’ sense of inadequacy meets Jesus’ call to trust Him. The saying does not describe a technique for measuring faith or give a procedure for transplanting trees."
+  ],
+  "common_interpretation_lines": [
+    "Wesley reads even a small measure of true faith as sufficient for duties that otherwise seem too hard. Calvin likewise understands the tree-and-mountain imagery as emphasizing God’s power, while cautioning that faith seeks what God promises rather than every wish a person can imagine. These readings emphasize dependence on God, without treating the saying as an unrestricted promise that any desired outcome must occur. ([Wesley on Luke 17:5–6](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/); [Calvin on Luke 17:5–6 and the Matthew parallel](https://biblehub.com/commentaries/calvin/luke/17.htm))"
+  ],
+  "god_plan_lines": [
+    "Philippians calls believers to live in obedience because God is at work in both their willing and their doing. That is a supported connection with the apostles’ difficulty here: obedience to God need not rest on confidence in our own strength. The same letter points to His work within His people as they pursue His good purpose. ([Philippians 2:12–13](https://biblehub.com/bsb/philippians/2.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/17.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-seventeen-opening-review.md"
+  }
+}

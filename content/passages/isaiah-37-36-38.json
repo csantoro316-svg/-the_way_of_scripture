@@ -5,23 +5,57 @@
     "label": "Isaiah 37:36-38",
     "slug": "isaiah-37-36-38"
   },
-  "section_title": "Jerusalem Delivered from the Assyrians",
+  "section_title": "What becomes of the king who said the Lord could not save?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "36 Then the angel of the LORD went out and struck down 185,000 men in the camp of the Assyrians. When the people got up the next morning, there were all the dead bodies!",
-        "37 So Sennacherib king of Assyria broke camp and withdrew. He returned to Nineveh and stayed there. 38 One day, while he was worshiping in the temple of his god Nisroch, his sons Adrammelech and Sharezer put him to the sword and escaped to the land of Ararat. And his son Esar-haddon reigned in his place."
+        "36 Then the angel of the LORD went out and struck down 185,000 men in the camp of the Assyrians. When the people got up the next morning, there were all the dead bodies! 37 So Sennacherib king of Assyria broke camp and withdrew. He returned to Nineveh and stayed there. 38 One day, while he was worshiping in the temple of his god Nisroch, his sons Adrammelech and Sharezer put him to the sword and escaped to the land of Ararat. And his son Esar-haddon reigned in his place."
       ]
     }
   ],
   "context_lines": [
-    "In **Isaiah 37**, this section should be read within the flow of the chapter and the larger movement of Isaiah."
+    "The promised reversal arrives through the angel of the Lord, who strikes down 185,000 in the Assyrian camp. The account presents the dead bodies in the morning as the decisive answer to the threat against Jerusalem.",
+    "",
+    "Sennacherib withdraws to Nineveh. The story then moves to his death while worshiping in the temple of Nisroch: two of his sons kill him and flee to Ararat, and another son, Esar-haddon, succeeds him.",
+    "",
+    "The contrast with the earlier boast is sharp. The king who treated the Lord like the powerless gods of conquered peoples cannot protect his own life in his god’s temple. The withdrawal and death also answer the word announced through Isaiah in verses 6–7."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Jerusalem Delivered from the Assyrians** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry’s explanation of the parallel account](https://biblehub.com/commentaries/mhc/2_kings/19.htm) reads the outcome as the exposure of human strength before God and an encouragement to trust His word. [Gill](https://biblehub.com/commentaries/gill/isaiah/37.htm) likewise emphasizes the defeat by an angel rather than a victorious Judean army.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Isaiah 37** remains the first control on meaning."
+    "Gill records different explanations of the manner of death in the camp, including disease and fire. The biblical account itself names the angel’s action without specifying a medical mechanism.",
+    "",
+    "The story’s emphasis is the fulfillment of God’s announced answer. Sennacherib’s threat does not determine Jerusalem’s fate, and the ruler’s own end stands in contrast with the confidence of his earlier words."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "[Revelation 19:11–21](https://biblehub.com/bsb/revelation/19.htm) provides a supported parallel in its picture of rulers and armies unable to overcome the One called Faithful and True, the Word of God and King of kings.",
+    "",
+    "The scenes are not identical: Isaiah describes the Assyrian camp and an angel of the Lord, while Revelation describes the rider and the gathered powers opposing Him. Their shared direction is the overthrow of proud force by God’s action, rather than salvation achieved by a stronger human coalition.",
+    "",
+    "That places Jerusalem’s rescue beside the Bible’s larger hope that the powers opposing God cannot defeat His purpose. It does not require making every detail of the Assyrian campaign a prediction of a separate future event."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/isaiah/37.htm",
+    "plan_basis": [
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-isaiah-thirty-seven-nine-review.md"
+  }
 }

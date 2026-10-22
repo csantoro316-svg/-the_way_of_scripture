@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "31:1-9",
+    "label": "Ezekiel 31:1-9",
+    "slug": "ezekiel-31-1-9"
+  },
+  "section_title": "What does the picture of a towering cedar say to Egypt?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 In the eleventh year, on the first day of the third month, the word of the LORD came to me, saying, 2 “Son of man, say to Pharaoh king of Egypt and to his multitude: ‘Who can be compared to your greatness? 3 Look at Assyria, a cedar in Lebanon, with beautiful branches that shaded the forest. It towered on high; its top was among the clouds. 4 The waters made it grow; the deep springs made it tall, directing their streams all around its base and sending their channels to all the trees of the field.",
+        "5 Therefore it towered higher than all the trees of the field. Its branches multiplied, and its boughs grew long as it spread them out because of the abundant waters. 6 All the birds of the air nested in its branches, and all the beasts of the field gave birth beneath its boughs; all the great nations lived in its shade. 7 It was beautiful in its greatness, in the length of its limbs, for its roots extended to abundant waters. 8 The cedars in the garden of God could not rival it; the cypresses could not compare with its branches, nor the plane trees match its boughs. No tree in the garden of God could compare with its beauty. 9 I made it beautiful with its many branches, the envy of all the trees of Eden, which were in the garden of God.’"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The Lord asks Pharaoh and his multitude whom they can be compared with in greatness. The BSB then names Assyria and pictures it as a magnificent cedar in Lebanon, rising above the other trees.",
+    "",
+    "Its growth depends on abundant waters. Birds nest in its branches, animals give birth beneath it, and great nations live in its shade. The tree represents an impressive power that gathers others under its protection.",
+    "",
+    "The beauty is described through the garden of God and the trees of Eden. The Lord says that He made the tree beautiful. The picture prepares a question for Egypt: if such greatness was received rather than self-created, what right does it give a ruler to consider himself secure?"
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezekiel/31.htm) and [Wesley](https://biblehub.com/commentaries/wes/ezekiel/31.htm) read the cedar as Assyria, whose greatness becomes a warning to Egypt. The [USCCB notes](https://bible.usccb.org/bible/ezekiel/31) likewise understand the passage as a comparison with Assyria’s fall.",
+    "",
+    "[Cambridge](https://biblehub.com/commentaries/cambridge/ezekiel/31.htm) takes a different view of the opening wording, reading it as the name of a tree and understanding the cedar to picture Pharaoh directly. The readings differ over the starting comparison, while agreeing that the magnificent tree portrays a power whose pride and fall must be faced."
+  ],
+  "god_plan_lines": [
+    "A supported parallel, with a different outcome, appears in [Mark 4:30–34](https://biblehub.com/bsb/mark/4.htm). Jesus compares God’s kingdom to a mustard seed that grows large branches where birds can nest in its shade.",
+    "",
+    "The shared sheltering-tree picture does not make the kingdoms identical. Ezekiel’s great power will collapse through pride; Jesus describes God’s kingdom growing from a small beginning. The comparison turns attention from the size of an earthly empire toward the kingdom God brings."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/31.htm",
+    "plan_basis": [
+      "b"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-thirty-one-two-review.md"
+  }
+}

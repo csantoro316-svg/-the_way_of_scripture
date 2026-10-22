@@ -5,18 +5,58 @@
     "label": "2 Corinthians 12:7-9",
     "slug": "2-corinthians-12-7-9"
   },
+  "section_title": "What answer did Paul receive when he asked for relief?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"Because of the surpassing greatness of the revelations, for this reason, to keep me from exalting myself, there was given to me a thorn in the flesh, a messenger of Satan to torment me \u2014 to keep me from exalting myself! Concerning this I implored the Lord three times that it might leave me. And He has said to me, 'My grace is sufficient for you, for power is perfected in weakness.'\""
+      "label": "BSB",
+      "paragraphs": [
+        "7 or because of these surpassingly great revelations. So to keep me from becoming conceited, I was given a thorn in my flesh, a messenger of Satan, to torment me. 8 Three times I pleaded with the Lord to take it away from me.",
+        "9 But He said to me, “My grace is sufficient for you, for My power is perfected in weakness.” Therefore I will boast all the more gladly in my weaknesses, so that the power of Christ may rest on me."
+      ]
     }
   ],
   "context_lines": [
-    "In **2 Corinthians 12**, Paul moves from revelations to weakness, showing that divine power is displayed not through self-exaltation but through dependence on God's grace. The chapter reframes suffering and unanswered requests through the lens of God's purpose rather than human preference."
-  ],
-  "explanation_lines": [
-    "This passage is instructive precisely because Paul is not a marginal example of weak faith \u2014 he is the apostle through whom much of the New Testament was written. He prayed for relief from real suffering, specifically and repeatedly, three times. God said no all three times. The reason was not arbitrary: the thorn served a purpose in Paul's life \u2014 keeping him from pride \u2014 that its removal would have undone. Paul could not see that purpose from where he stood. God could. The denial turned out to be the greater gift, and Paul received it as such rather than pressing for a different answer.",
+    "This passage follows Paul’s restrained account of revelations from the Lord. The first words continue his explanation of why he avoids being credited too highly. He then describes a thorn that keeps him from conceit, calling it a messenger of Satan that torments him.",
     "",
-    "This is the deeper point Paul's thorn forces us to confront. If true faith means trusting that God already has a plan we cannot see and are not entitled to see, then repeatedly asking Him to change that plan is itself a sign our faith has not caught up to what we claim to believe. Paul knew how he was meant to live; he did not know God's specific plan for his suffering, and that not-knowing is the point. We are given what we need to know about walking with God \u2014 not what is coming, not why, not what He is doing through it. To keep asking Him to alter what we cannot see is to quietly admit we do not yet trust the One who can. Paul stopped asking \u2014 not because he ran out of words, but because he understood the asking itself stood between him and the grace already given."
-  ]
+    "He pleads with the Lord three times for it to be taken away. The account records the Lord’s response about sufficient grace and power perfected in weakness.",
+    "",
+    "Paul responds by welcoming Christ’s power resting on him in his weakness. [The fuller paragraph, 2 Corinthians 12:7–10](https://thewayofscripture.com/passages/2-corinthians-12-7-10.html), places that response among the hardships he endures for Christ."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as Christ sustaining Paul when the thorn remains. [Wesley’s notes on verses 8–9](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-second-epistle-to-the-corinthians/) and the [USCCB notes on verses 8–9](https://bible.usccb.org/bible/2corinthians/12) connect the repeated prayer with the answer of sufficient grace. The exact identity of the thorn remains uncertain."
+  ],
+  "god_plan_lines": [
+    "[2 Corinthians 4:7–12](https://biblehub.com/bsb/2_corinthians/4.htm) describes the life of Jesus being revealed through His vulnerable servants. Their weakness makes clear that the power comes from God, and their costly ministry brings life to others.",
+    "",
+    "That wider setting helps explain why Paul values Christ’s power resting on him. God’s work through him continues amid weakness, serving people through the gospel. The grace described here sustains him in that calling."
+  ],
+  "current_position_lines": [
+    "Our study [What Does Prayer Look Like?](https://thewayofscripture.com/studies/what-does-prayer-look-like.html), in its section on Paul’s thorn, understands this as an answer that supplies grace while the suffering remains. Its position is that hardship does not prove God is absent or inattentive. We can trust His care even when the answer takes a different form from the relief we asked for."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_corinthians/12.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-second-corinthians-twelve-opening-review.md",
+    "position_source_detail": "What Does Prayer Look Like? — Paul’s Thorn, content/studies/what_does_prayer_look_like.md:74–82; limited to sufficient grace in unremoved suffering and trust in God’s care."
+  }
 }

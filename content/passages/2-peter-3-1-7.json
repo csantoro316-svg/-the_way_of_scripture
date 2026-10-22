@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "2 Peter",
+    "citation": "3:1-7",
+    "label": "2 Peter 3:1-7",
+    "slug": "2-peter-3-1-7"
+  },
+  "section_title": "Does the passing of time mean Christ will not return?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Beloved, this is now my second letter to you. Both of them are reminders to stir you to wholesome thinking 2 by recalling what was foretold by the holy prophets and commanded by our Lord and Savior through your apostles.",
+        "3 Most importantly, you must understand that in the last days scoffers will come, scoffing and following their own evil desires. 4 “Where is the promise of His coming?” they will ask. “Ever since our fathers fell asleep, everything continues as it has from the beginning of creation.”",
+        "5 But they deliberately overlook the fact that long ago by God’s word the heavens existed and the earth was formed out of water and by water, 6 through which the world of that time perished in the flood. 7 And by that same word, the present heavens and earth are reserved for fire, being kept for the day of judgment and destruction of ungodly men."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After warning about corrupt teachers, Peter returns to the purpose of his letters: helping his readers remember what they have received. The words of the prophets and the Lord’s command through the apostles give them a foundation for clear thinking.",
+    "",
+    "The scoffers challenge the promise of Christ’s coming. They point to the continuing course of the world as though the passing of generations proved that God will never intervene. Peter connects their scoffing with following their own desires.",
+    "",
+    "Peter answers from creation and the flood. [Genesis 1:1–10](https://biblehub.com/bsb/genesis/1.htm) describes God speaking, separating the waters and bringing dry land into view. [Genesis 7:17–24](https://biblehub.com/bsb/genesis/7.htm) records the flood’s judgment. The world’s continued existence depends on God’s word; it gives no guarantee against His future judgment."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/2_peter/3.htm), [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-second-epistle-general-of-st-peter/) and the [USCCB’s study notes](https://bible.usccb.org/bible/2peter/3) agree that Peter answers the denial of Christ’s return by recalling God’s past action. The passage calls readers to trust God’s promise rather than assume that familiar conditions will continue forever.",
+    "",
+    "The fathers in verse 4 are understood differently. Calvin and Wesley connect them with earlier ancestors; the USCCB note understands the first Christian generation. Both readings recognize the same objection: people have died and time has passed, yet the promised coming has not occurred."
+  ],
+  "god_plan_lines": [
+    "Jesus Himself draws the connection between Noah’s day and His coming in [Matthew 24:36–44](https://biblehub.com/bsb/matthew/24.htm). People went about ordinary life without recognizing the approaching judgment. Jesus uses that history to call His followers to readiness. Peter’s appeal to the flood belongs to that same warning: God’s past judgment helps readers take the promised coming seriously."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "Is the Bible the Inerrant Word of God?",
+      "href": "../studies/inerrancy.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/2_peter/3.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-second-peter-three-review.md"
+  }
+}

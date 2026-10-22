@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "7:11-17",
+    "label": "Luke 7:11-17",
+    "slug": "luke-7-11-17"
+  },
+  "section_title": "Why does Jesus stop the funeral at Nain?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "11 Soon afterward, Jesus went to a town called Nain. His disciples went with Him, accompanied by a large crowd. 12 As He approached the town gate, He saw a dead man being carried out, the only son of his mother, and she was a widow. And a large crowd from the town was with her. 13 When the Lord saw her, He had compassion on her and said, “Do not weep.”",
+        "14 Then He went up and touched the coffin, and those carrying it stood still. “Young man,” He said, “I tell you, get up!” 15 And the dead man sat up and began to speak! Then Jesus gave him back to his mother. 16 A sense of awe swept over all of them, and they glorified God. “A great prophet has appeared among us!” they said. “God has visited His people!” 17 And the news about Jesus spread throughout Judea and all the surrounding region."
+      ]
+    }
+  ],
+  "context_lines": [
+    "As Jesus approaches Nain with His disciples and a crowd, another crowd is leaving with a funeral. The dead man is his mother’s only son, and she is a widow. Luke draws attention to her loss before describing what Jesus does.",
+    "",
+    "Jesus sees her and has compassion. He tells her not to weep, touches the coffin and speaks to the young man. Luke records no request for a miracle from the mother and sets no test of her faith before Jesus acts.",
+    "",
+    "The word translated coffin is σορός, soros (soh-ROSS). Thayer identifies its use here as the funeral bier or couch used to carry the dead. It helps us picture the bearers stopping when Jesus reaches out. ([Thayer, G4673](https://biblehub.com/greek/4673.htm))",
+    "",
+    "The man sits up and speaks, and Jesus gives him back to his mother. The crowd responds with awe and praise, recognizing a great prophet and God’s visitation among His people. The report spreads through Judea and the surrounding region."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand this as a real restoration to life that reveals Jesus’ power and His compassion for the bereaved mother. The Catholic bishops’ notes highlight its echo of Elijah restoring a widow’s son and its preparation for Jesus’ later answer that the dead are raised. ([USCCB note on Luke 7:11–17](https://bible.usccb.org/bible/luke/7); [Luke 7:22](https://biblehub.com/bsb/luke/7.htm))"
+  ],
+  "god_plan_lines": [
+    "The parallel with Elijah is especially close: a widow loses her son, the son lives again, and he is returned to his mother. In Kings, Elijah cries to the Lord and the Lord restores the child’s life; here Jesus commands the young man to get up. Elisha’s restoration of the Shunammite woman’s son gives another related Old Testament scene. These are supported parallels that help explain the crowd’s recognition of a prophet. ([1 Kings 17:17–24](https://biblehub.com/bsb/1_kings/17.htm); [2 Kings 4:32–37](https://biblehub.com/bsb/2_kings/4.htm))",
+    "",
+    "The New Testament carries the hope beyond this return to ordinary life. Jesus speaks of a coming hour when those in their graves will hear His voice and come out. The event at Nain displays the authority of the One whose voice Scripture places at the center of the future resurrection. ([John 5:24–29](https://biblehub.com/bsb/john/5.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/7.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-seven-opening-review.md"
+  }
+}

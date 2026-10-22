@@ -5,22 +5,49 @@
     "label": "Romans 5:8",
     "slug": "romans-5-8"
   },
-  "section_title": "",
-  "versions": [],
+  "section_title": "When did God show His love for sinners?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "8 But God proves His love for us in this: While we were still sinners, Christ died for us."
+      ]
+    }
+  ],
   "context_lines": [
-    "Romans 5:8 should be read within the flow of its chapter and the larger argument of Romans."
+    "Paul has described Christ dying for the ungodly while they were still powerless. This verse identifies that death as the demonstration of God’s love. People do not first make themselves worthy and then become the objects of His concern.",
+    "",
+    "The following verses connect Christ’s death with reconciliation and His life with the hope of salvation. Read [Romans 5:6–11](https://the-way-of-scripture.web.app/passages/romans-5-6-11.html) to follow the whole movement from enemies to reconciliation and rejoicing in God."
   ],
   "common_interpretation_lines": [
-    "When Jesus says love your enemies, He is not adding a requirement to the gospel. He is showing you what the King is like \u2014 the One who loved His enemies enough to die for them while they were still His enemies (Romans 5:8).",
-    "",
-    "When He says forgive seventy times seven, He is not giving a new rule. He is revealing the heart of the One who has forgiven an infinite debt that you and I could never repay.",
-    "",
-    "When He says blessed are the poor in spirit, blessed are the meek, blessed are the merciful \u2014 He is describing the people who have understood the gospel well enough that it has begun to reshape them from the inside out."
+    "Christians commonly understand this verse as a direct statement of God’s initiating love, displayed in Christ’s self-giving for people who are still sinners. It grounds hope in what He has done, rather than a claim that the recipients had already become worthy of His gift."
+  ],
+  "god_plan_lines": [
+    "The verse shows the character of the God who provides the rescue. [Romans 5:9–11](https://biblehub.com/bsb/romans/5.htm) carries that love into reconciliation and confidence through the living Christ. The gift addresses hostility by bringing people into a restored relationship, rather than waiting for them to repair it unaided."
+  ],
+  "current_position_lines": [
+    "The Gospel According to Jesus uses Romans 5:8 to explain that God’s love toward sinners precedes their worthiness. Our position is that Christ died for sinners and that salvation is a gift of mercy, rather than a reward for making oneself acceptable first. His self-giving also reveals the love behind His command to love enemies."
   ],
   "deeper_study": [
     {
       "title": "The Gospel According to Jesus",
       "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
     }
-  ]
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-romans-five-review.md",
+    "position_source_detail": "The Gospel According to Jesus — The Fullness and Have You Been Saved? (Romans 5:8)"
+  }
 }

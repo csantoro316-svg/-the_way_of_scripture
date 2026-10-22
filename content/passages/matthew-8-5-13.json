@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "8:5-13",
+    "label": "Matthew 8:5-13",
+    "slug": "matthew-8-5-13"
+  },
+  "section_title": "Trusting the Authority of Jesus’ Word",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 When Jesus had entered Capernaum, a centurion came and pleaded with Him, 6 “Lord, my servant lies at home, paralyzed and in terrible agony.” 7 “I will go and heal him,” Jesus replied.",
+        "8 The centurion answered, “Lord, I am not worthy to have You come under my roof. But just say the word, and my servant will be healed. 9 For I myself am a man under authority, with soldiers under me. I tell one to go, and he goes, and another to come, and he comes. I tell my servant to do something, and he does it.” 10 When Jesus heard this, He marveled and said to those following Him, “Truly I tell you, I have not found anyone in Israel with such great faith.",
+        "11 I say to you that many will come from the east and the west to share the banquet with Abraham, Isaac, and Jacob in the kingdom of heaven. 12 But the sons of the kingdom will be thrown into the outer darkness, where there will be weeping and gnashing of teeth.” 13 Then Jesus said to the centurion, “Go! As you have believed, so will it be done for you.” And his servant was healed at that very hour."
+      ]
+    }
+  ],
+  "context_lines": [
+    "In Capernaum, an army officer asks Jesus to heal his servant, who is paralyzed and suffering terribly. The officer is a centurion, with soldiers under his command. Jesus offers to go, but the man says that a word from Him will be enough. His confidence in Jesus' authority is joined with a striking sense of his own unworthiness.",
+    "",
+    "The officer explains through his own experience: he serves under authority and gives orders that others obey. He trusts that Jesus' command can likewise bring the healing about without a visit to the house. Jesus marvels at his faith, contrasts it with what He has found in Israel, and heals the servant at that very hour.",
+    "",
+    "[Luke 7:1–10](https://biblehub.com/bsb/luke/7.htm) gives further details. The centurion sends Jewish elders, who speak of his love for their nation and his help in building their synagogue. He then sends friends with the message that he is unworthy and that Jesus need only speak. Matthew presents the exchange directly between the centurion and Jesus; Luke describes the messengers carrying his request. Luke's account makes the different voices clear: the elders appeal to the man's worthiness, while his own message confesses unworthiness.",
+    "",
+    "Jesus' words then widen the scene from one household to the kingdom of heaven. Many will come from east and west to share a banquet with Abraham, Isaac, and Jacob, while people who expected a place will be shut out. The Gentile officer's faith stands beside a warning that belonging to the people who first received the promises cannot replace responding to Jesus.",
+    "",
+    "The outer darkness, weeping, and gnashing of teeth make that exclusion a grave warning. The passage does not identify every person excluded or lay out a complete timetable for the banquet. Its immediate contrast is between this unexpected faith and confidence that an expected place in the kingdom is already secure."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as an example of humble faith in Jesus' authority, a welcome for people from the nations, and a warning against assuming a place in God's kingdom is already secure. [Wesley on Matthew 8:9–12](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) connects the welcome of distant peoples with Abraham's promised blessing, and the Catholic [Catechism, 543](https://www.vatican.va/archive/ENG0015/__P1L.HTM), likewise describes the kingdom as first announced to Israel and open to people of all nations who receive Jesus' word."
+  ],
+  "god_plan_lines": [
+    "Jesus names Abraham, Isaac, and Jacob when describing the welcome of people from east and west. [Galatians 3:6–14](https://biblehub.com/bsb/galatians/3.htm) explains the wider purpose of Abraham's promise: God announced blessing for the nations, and that blessing comes to Gentiles through Christ. Paul connects it with Christ redeeming people from the curse and with receiving the promised Spirit through faith. The centurion's welcome fits that larger movement of blessing beyond Israel.",
+    "",
+    "The banquet also has an earlier scriptural parallel. [Isaiah 25:6–9](https://biblehub.com/bsb/isaiah/25.htm) describes God's feast for all peoples, the removal of disgrace, and the swallowing up of death. Read alongside Jesus' words, it shows how much is at stake in the welcome He describes: God's purpose reaches beyond one restored servant toward a people gathered into His salvation."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/8.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-cleansing-and-centurion-review.md"
+  }
+}

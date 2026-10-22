@@ -5,13 +5,52 @@
     "label": "Matthew 2:11",
     "slug": "matthew-2-11"
   },
-  "versions": [],
-  "context_lines": [
-    "Matthew 2:11 should be read within the flow of its chapter and the larger argument of Matthew."
+  "section_title": "The Magi Honor Jesus",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "11 On coming to the house, they saw the Child with His mother Mary, and they fell down and worshiped Him. Then they opened their treasures and presented Him with gifts of gold and frankincense and myrrh."
+      ]
+    }
   ],
-  "explanation_lines": [
-    "**Restored reading:** *\"...they fell down and bowed in homage before Him.\"*",
+  "context_lines": [
+    "This verse is the meeting the magi have been seeking since they arrived in Jerusalem. Herod has asked them to report the child's location, while the star has led them to the house. They see Jesus with Mary, bow before Him, and present gold, frankincense, and myrrh. The next verse sends them home by another route after a warning in a dream.",
     "",
-    "The Magi were foreign dignitaries following celestial signs \u2014 not disciples who knew Jesus as the Son of God. Their act was one of royal homage, recognizing a future king, not religious adoration in the sense of recognizing Him as Savior. This reflects *proskune\u014d* in its cultural usage as a status-based gesture, not Christian worship."
-  ]
+    "The Greek verb translated worshiped is προσκυνέω, *proskyneō* (pros-koo-NEH-oh). It describes bowing or falling down in reverence. [Thayer's Greek Lexicon](https://biblehub.com/greek/4352.htm) includes both homage to someone of high rank and worship directed to God. The word's range makes the surrounding account important: these visitors have come seeking the King of the Jews.",
+    "",
+    "Matthew describes a house and a child, without giving the child's precise age or the length of the family's stay in Bethlehem. The account names three gifts, not three visitors. Its immediate contrast is between the honor given here and Herod's murderous response in the following passage."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly see the visitors as an early sign that Jesus' coming matters beyond Israel. The [Catholic Catechism, paragraph 528](https://www.vatican.va/archive/ENG0015/__P1L.HTM), describes their adoration of Jesus and the welcome of the nations; [Wesley's notes on Matthew 2:1–2](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) emphasize Gentile visitors paying homage to Israel's king. The Catholic teaching presents the visit within the revelation of Jesus as Son of God and Savior; Wesley's comment on the gesture stresses the honor shown to a monarch.",
+    "",
+    "The gifts have also been read in more than one way. [Irenaeus, Against Heresies 3.9.2](https://www.newadvent.org/fathers/0103309.htm), connects gold with kingship, frankincense with His being God, and myrrh with Jesus' death and burial. [Wesley's note on 2:11](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) instead emphasizes valuable gifts suitable for a person of importance and suggests they provided help for the journey to Egypt. These are interpretations of the gifts' significance; Matthew names the gifts without explaining the visitors' intended meaning."
+  ],
+  "god_plan_lines": [
+    "The visitors' gifts and bowed posture recall [Psalm 72:10–17](https://biblehub.com/bsb/psalms/72.htm), where distant rulers bring tribute and the nations receive blessing through the king. [Isaiah 60:3–6](https://biblehub.com/bsb/isaiah/60.htm) similarly pictures nations coming to the light with gold and frankincense. These are parallels that help explain the scene's place in the larger biblical story; they do not establish the visitors' titles or everything they personally understood.",
+    "",
+    "Matthew's Gospel later makes the welcome of people from east and west explicit in [Matthew 8:10–11](https://biblehub.com/bsb/matthew/8.htm), and ends with the mission to all nations in [Matthew 28:18–20](https://biblehub.com/bsb/matthew/28.htm). This visit offers an early glimpse of honor coming to Israel's Messiah from beyond Israel."
+  ],
+  "current_position_lines": [
+    "Our study Worship as the Early Church Knew It understands the magi's action as royal homage: they bow before the child they have come to honor as King of the Jews. It does not read this scene as a statement that they already recognized Him as Savior. The study emphasizes an act of personal submission before the king, rather than a description of a gathered church service."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html",
+      "description": "How Scripture describes bowing, allegiance, and service, including the magi in Matthew 2:11."
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/2.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-magi-and-egypt-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It — Matthew 2:11"
+  }
 }

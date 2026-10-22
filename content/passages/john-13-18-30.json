@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "13:18-30",
+    "label": "John 13:18-30",
+    "slug": "john-13-18-30"
+  },
+  "section_title": "Why does Jesus speak about betrayal before it happens?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "18 I am not speaking about all of you; I know whom I have chosen. But this is to fulfill the Scripture: ‘The one who shares My bread has lifted up his heel against Me.’ 19 I am telling you now before it happens, so that when it comes to pass, you will believe that I am He. 20 Truly, truly, I tell you, whoever receives the one I send receives Me, and whoever receives Me receives the One who sent Me.”",
+        "21 After Jesus had said this, He became troubled in spirit and testified, “Truly, truly, I tell you, one of you will betray Me.” 22 The disciples looked at one another, perplexed as to which of them He meant. 23 One of His disciples, the one whom Jesus loved, was reclining at His side. 24 So Simon Peter motioned to him to ask Jesus which one He was talking about. 25 Leaning back against Jesus, he asked, “Lord, who is it?” 26 Jesus answered, “It is the one to whom I give this morsel after I have dipped it.” Then He dipped the morsel and gave it to Judas son of Simon Iscariot.",
+        "27 And when Judas had taken the morsel, Satan entered into him. Then Jesus said to Judas, “What you are about to do, do quickly.” 28 But no one at the table knew why Jesus had said this to him. 29 Since Judas kept the money bag, some thought that Jesus was telling him to buy what was needed for the feast, or to give something to the poor. 30 As soon as he had received the morsel, Judas went out into the night."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus distinguishes His words to the disciples from the response of the betrayer. He quotes [Psalm 41:9](https://biblehub.com/bsb/psalms/41.htm), where a close companion who shares bread turns against the speaker. He explains why He tells them beforehand: when it happens, they are to believe in who He is. The betrayal will not mean that His mission has taken Him by surprise.",
+    "",
+    "He is troubled as He announces that one of them will betray Him. The disciples are perplexed. Peter motions to the disciple described as the one Jesus loved, who is reclining near Him, to ask whom He means. Jesus gives a dipped morsel to Judas as the identifying sign. The Gospel does not provide a complete seating plan or identify everyone’s age.",
+    "",
+    "John says that Satan enters Judas, and Jesus tells him to act quickly. The others do not understand why He says this; some think Judas is being sent to buy supplies or give money to the poor because he keeps the money bag. Judas leaves, and John closes the scene by noting that it is night.",
+    "",
+    "The account presents real evil and real responsibility. [Luke 22:21–22](https://biblehub.com/bsb/luke/22.htm) holds together the Son of Man’s determined path and the warning against the man who betrays Him. The fact that God knows what Judas will do does not make his betrayal innocent."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read the prediction as showing Jesus’ knowledge of what is coming and preparing the disciples to keep trusting Him. The place of Judas within the chosen group is explained in different ways.",
+    "",
+    "[Calvin on verse 18](https://biblehub.com/commentaries/calvin/john/13.htm) connects the choosing with God’s saving purpose and the preservation of those who truly belong to Christ. [Wesley on verse 18](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) refers to Jesus choosing the Twelve, one of whom will betray Him. Both acknowledge the warning and the fulfillment of Scripture; they place different emphasis on what the choosing means in this saying."
+  ],
+  "god_plan_lines": [
+    "The appeal to Psalm 41 places the betrayal within the Scripture Jesus is fulfilling. It is a painful part of His road to the cross, not the end of the Father’s purpose. [Acts 2:23–24](https://biblehub.com/bsb/acts/2.htm) later describes His death as occurring within God’s plan while also holding those who killed Him responsible.",
+    "",
+    "The movement toward death will overturn the enemy’s work. [Hebrews 2:14–15](https://biblehub.com/bsb/hebrews/2.htm) describes Jesus sharing our humanity so that through death He defeats the one who holds its power and frees people from its fear. The darkness of this scene belongs to the approach to that victory."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/13.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-thirteen-opening-review.md"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "Revelation",
+    "citation": "1:9-11",
+    "label": "Revelation 1:9-11",
+    "slug": "revelation-1-9-11"
+  },
+  "section_title": "Who receives this vision, and who needs to hear it?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "9 I, John, your brother and partner in the tribulation and kingdom and perseverance that are in Jesus, was on the island of Patmos because of the word of God and my testimony about Jesus. 10 On the Lord’s day I was in the Spirit, and I heard behind me a loud voice like a trumpet, 11 saying, “Write on a scroll what you see and send it to the seven churches: to Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and Laodicea.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "John identifies himself as a brother and partner with his readers in the tribulation, kingdom and perseverance found in Jesus. He is on Patmos because of God’s word and his testimony about Jesus. His introduction joins him to the people who will hear the message.",
+    "",
+    "On the Lord’s day, while in the Spirit, he hears a voice like a trumpet. The command is to write what he sees on a scroll and send it to seven named churches. The revelation is given to be shared with communities, rather than kept as a private experience.",
+    "",
+    "The seven destinations are Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia and Laodicea. The instruction prepares for the messages to those churches in the following chapters."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-revelation-of-jesus-christ/) and the [USCCB note](https://bible.usccb.org/bible/revelation/1) understand the Lord’s day as Sunday, connected with Christ’s resurrection. The [Greek adjective](https://biblehub.com/greek/2960.htm) means belonging to the Lord; its form does not itself mean an unusually spiritual day.",
+    "",
+    "Both sources recognize John as receiving a vision for the churches. John names himself and describes his circumstances here, while the identification with the apostle and the precise date involve historical questions beyond these verses. The tribulation he shares with the churches is already part of their experience; this sentence does not itself supply a timetable for the final events."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/revelation/1.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-revelation-one-review.md"
+  }
+}

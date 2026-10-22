@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "8:18-22",
+    "label": "Matthew 8:18-22",
+    "slug": "matthew-8-18-22"
+  },
+  "section_title": "What Following Jesus Will Cost",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "18 When Jesus saw a large crowd around Him, He gave orders to cross to the other side of the sea. 19 And one of the scribes came to Him and said, “Teacher, I will follow You wherever You go.” 20 Jesus replied, “Foxes have dens and birds of the air have nests, but the Son of Man has no place to lay His head.”",
+        "21 Another of His disciples requested, “Lord, first let me go and bury my father.” 22 But Jesus told him, “Follow Me, and let the dead bury their own dead.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "As Jesus prepares to cross the sea, two conversations bring the question of following Him into focus. A scribe offers to go wherever He goes. Jesus answers with a comparison: animals have their shelters, but He has no place to lay His head. The offer to follow must face the unsettled life that following will involve.",
+    "",
+    "Jesus calls Himself the Son of Man. The title will later appear in His teaching about suffering and coming glory, including [Matthew 16:24–27](https://biblehub.com/bsb/matthew/16.htm). Here it accompanies a statement about His lack of a secure resting place. The person whom disciples follow does not promise them comfort simply through association with Him.",
+    "",
+    "Another disciple asks to bury his father first. Jesus' answer is deliberately striking: the dead are to bury their own dead, while this man is to follow Him. The first use of dead is commonly understood as describing people spiritually unresponsive to God, while the second refers to those who have physically died. The saying sets the call to follow Jesus above the competing claim being made.",
+    "",
+    "Matthew does not say whether the father has already died, whether the request concerns a later burial, or whether the man wishes to remain at home until his father's death. Those possibilities should not be turned into a known biography. [Luke 9:57–62](https://biblehub.com/bsb/luke/9.htm) gives related sayings and explicitly joins the call with proclaiming God's kingdom. The point is the urgency and priority of following Jesus."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read these sayings as a call to accept the cost of following Jesus and give His call first place. [Wesley on Matthew 8:20–22](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) warns against following for earthly advantage, while the Catholic [Catechism, 520](https://www.vatican.va/archive/ENG0015/__P1L.HTM), describes Christ's poverty and hardships as part of the example His disciples are called to follow."
+  ],
+  "god_plan_lines": [
+    "The cost belongs within Jesus' own path of suffering and glory. In [Matthew 16:24–27](https://biblehub.com/bsb/matthew/16.htm), He again calls disciples to follow Him, now speaking of taking up a cross, losing life for His sake, and the Son of Man coming in glory. The lack of earthly security in this encounter is not the end of His story or theirs.",
+    "",
+    "There is also a useful parallel with Abraham's life of faith. [Hebrews 11:8–16](https://biblehub.com/bsb/hebrews/11.htm) describes him leaving in obedience, living in tents, and looking toward the city God prepares. Hebrews does not directly explain these two conversations, but the parallel helps show how obedience can involve giving up present security because God's promise reaches further than the present life."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/8.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-chapter-eight-completion-review.md"
+  }
+}

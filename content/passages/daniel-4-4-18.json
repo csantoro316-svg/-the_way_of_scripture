@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "4:4-18",
+    "label": "Daniel 4:4-18",
+    "slug": "daniel-4-4-18"
+  },
+  "section_title": "What does the king see in the dream of the great tree?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "4 I, Nebuchadnezzar, was at ease in my house and flourishing in my palace. 5 I had a dream, and it frightened me; while I was in my bed, the images and visions in my mind alarmed me. 6 So I issued a decree that all the wise men of Babylon be brought before me to interpret the dream for me. 7 When the magicians, enchanters, astrologers, and diviners came in, I told them the dream, but they could not interpret it for me. 8 But at last, into my presence came Daniel (whose name is Belteshazzar after the name of my god, and in whom is the spirit of the holy gods). And I told him the dream: 9 “O Belteshazzar, chief of the magicians, I know that the spirit of the holy gods is in you and that no mystery baffles you. So explain to me the visions I saw in my dream, and their interpretation.",
+        "10 In these visions of my mind as I was lying in bed, I saw this come to pass: There was a tree in the midst of the land, and its height was great. 11 The tree grew large and strong; its top reached the sky, and it was visible to the ends of the earth. 12 Its leaves were beautiful, its fruit was abundant, and upon it was food for all. Under it the beasts of the field found shelter, in its branches the birds of the air nested, and from it every creature was fed.",
+        "13 As I lay on my bed, I also saw in the visions of my mind a watcher, a holy one, coming down from heaven. 14 He called out in a loud voice: ‘Cut down the tree and chop off its branches; strip off its leaves and scatter its fruit. Let the beasts flee from under it, and the birds from its branches. 15 But leave the stump with its roots in the ground, with a band of iron and bronze around it, in the tender grass of the field. Let him be drenched with the dew of heaven and graze with the beasts on the grass of the earth. 16 Let his mind be changed from that of a man, and let him be given the mind of a beast till seven times pass him by. 17 This decision is the decree of the watchers, the verdict declared by the holy ones, so that the living will know that the Most High rules over the kingdom of mankind and gives it to whom He wishes, setting over it the lowliest of men.’",
+        "18 This is the dream that I, King Nebuchadnezzar, saw. Now, Belteshazzar, tell me the interpretation, because none of the wise men of my kingdom can interpret it for me. But you are able, because the spirit of the holy gods is in you.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "While comfortable in his palace, Nebuchadnezzar has another frightening dream. This time he tells it to the wise men, but they cannot explain it. He then turns to Daniel.",
+    "",
+    "The dream shows a vast tree supplying food and shelter to creatures throughout the land. A holy watcher comes down from heaven and commands that it be cut down, leaving the stump and roots bound with iron and bronze.",
+    "",
+    "The description turns from the tree to a man: his mind is to become like a beast’s, and seven times are to pass over him. The stated purpose is that people know the Most High rules over human kingdoms and gives authority to whom He wishes.",
+    "",
+    "The Aramaic word עִיר, ir (eer), means a wakeful one and is used here for an angel; see [Brown–Driver–Briggs](https://biblehub.com/hebrew/5894.htm). The watcher brings a heavenly decree, which Daniel identifies in verse 24 as the decree of the Most High."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/daniel/4.htm) understands the watcher as an angel carrying out God’s judgment, and [Cambridge](https://biblehub.com/commentaries/cambridge/daniel/4.htm) also explains the term as a wakeful heavenly being. The messenger’s role belongs under the Most High’s rule.",
+    "",
+    "Both Wesley and Cambridge understand the seven times as seven years. The BSB retains times in the passage itself; the interpretation’s central purpose is the humbling of the king until he recognizes who rules."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/4.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-four-review.md"
+  }
+}

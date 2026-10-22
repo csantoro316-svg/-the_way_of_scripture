@@ -1,0 +1,70 @@
+{
+  "reference": {
+    "book": "Philippians",
+    "citation": "2:1-11",
+    "label": "Philippians 2:1-11",
+    "slug": "philippians-2-1-11"
+  },
+  "section_title": "How does Christ show us the way of humility?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Therefore if you have any encouragement in Christ, if any comfort from His love, if any fellowship with the Spirit, if any affection and compassion, 2 then make my joy complete by being like-minded, having the same love, being united in spirit and purpose. 3 Do nothing out of selfish ambition or empty pride, but in humility consider others more important than yourselves. 4 Each of you should look not only to your own interests, but also to the interests of others.",
+        "5 Let this mind be in you which was also in Christ Jesus: 6 Who, existing in the form of God, did not consider equality with God something to be grasped, 7 but emptied Himself, taking the form of a servant, being made in human likeness. 8 And being found in appearance as a man, He humbled Himself and became obedient to death— even death on a cross.",
+        "9 Therefore God exalted Him to the highest place and gave Him the name above all names, 10 that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, 11 and every tongue confess that Jesus Christ is Lord, to the glory of God the Father."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul has called the Philippians to stand together for the gospel. He now appeals to the encouragement, love, fellowship and compassion they share in Christ. He asks them to make his joy complete through unity of love and purpose.",
+    "",
+    "That unity has practical demands. They are to leave behind selfish ambition and empty pride, consider others more important than themselves and attend to others’ interests alongside their own. Paul then directs them to the mind of Christ.",
+    "",
+    "The movement of verses 6–8 is downward: Christ, existing in the form of God, empties Himself, takes the form of a servant and humbles Himself in obedience as far as death on a cross. His self-giving supplies the pattern for how they treat one another.",
+    "",
+    "The movement of verses 9–11 is upward: God exalts Him, and every knee bows and every tongue confesses Jesus Christ as Lord, to the Father’s glory. Paul brings the community’s ordinary relationships into view of the One they confess as Lord."
+  ],
+  "common_interpretation_lines": [
+    "Catholic, Reformed and Wesleyan readings commonly understand Christ’s humility as real self-giving in human life while affirming His divinity. The Catholic [Catechism, paragraphs 464–469](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/artcile_3.html), the Reformed [Westminster Confession, 8.2](https://www.opc.org/wcf.html), and [Wesley’s comments on verses 6–7](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-philippians/) affirm that He became truly human while remaining truly God. His taking a servant’s place is read within that confession.",
+    "",
+    "The wording about equality in verse 6 is explained in more than one way. Wesley emphasizes equality as Christ’s rightful possession; the [BSB footnote](https://biblehub.com/bsb/philippians/2.htm) also offers the sense of something to be exploited, emphasizing His refusal to use His status for selfish advantage. In the paragraph, both questions lead into His freely taking the servant’s place and obeying to the cross.",
+    "",
+    "The [USCCB notes on verses 1–11](https://bible.usccb.org/bible/philippians/2) emphasize the connection between this account of Christ and the community’s life together. The doctrinal confession and the practical call belong together: people who share life in Him are to serve one another."
+  ],
+  "god_plan_lines": [
+    "In [Isaiah 45:20–25](https://biblehub.com/bsb/isaiah/45.htm), the Lord calls the ends of the earth to turn to Him for salvation and declares that every knee will bow before Him. Philippians draws on that language in describing every knee bowing at Jesus’ name and every tongue confessing Him as Lord.",
+    "",
+    "This is a strong scriptural connection between the call to the nations and the honor given to Christ. The Father’s glory is the stated goal of the confession. The One who took the servant’s place and went to the cross is the One whose lordship is acknowledged throughout creation.",
+    "",
+    "[John 17:1–5](https://biblehub.com/bsb/john/17.htm) also connects Jesus’ completion of the Father’s work with His glorification and the glory He shared with the Father before the world existed. These passages place His humility and exaltation within the Father’s saving purpose, giving depth to the call for His people to follow His pattern of care."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/philippians/2.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-philippians-two-opening-review.md"
+  }
+}

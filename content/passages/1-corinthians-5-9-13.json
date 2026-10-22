@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "5:9-13",
+    "label": "1 Corinthians 5:9-13",
+    "slug": "1-corinthians-5-9-13"
+  },
+  "section_title": "Who is the church responsible for correcting?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "9 I wrote you in my letter not to associate with sexually immoral people. 10 I was not including the sexually immoral of this world, or the greedy and swindlers, or idolaters. In that case you would have to leave this world. 11 But now I am writing you not to associate with anyone who claims to be a brother but is sexually immoral or greedy, an idolater or a verbal abuser, a drunkard or a swindler. With such a man do not even eat.",
+        "12 What business of mine is it to judge those outside the church? Are you not to judge those inside? 13 God will judge those outside. “Expel the wicked man from among you.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul clarifies an instruction from an earlier letter. He did not mean the Corinthians should cut off all contact with sexually immoral people, the greedy, swindlers or idolaters in the world. Doing that would require leaving the world altogether.",
+    "",
+    "His instruction concerns someone who claims to be a brother while persisting in conduct incompatible with that claim. The list includes sexual immorality, greed, idolatry, verbal abuse, drunkenness and swindling. The concern is wider than one kind of sexual sin, and Paul says the community must not continue ordinary fellowship as though nothing is wrong.",
+    "",
+    "Paul distinguishes the church’s responsibility for those inside from God’s judgment of those outside. He closes with language used in [Deuteronomy 17:7](https://biblehub.com/bsb/deuteronomy/17.htm) about removing evil from the community. The action he commands here is removal from fellowship, not the civil penalty described in that earlier setting."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as distinguishing accountability within the church from withdrawal from everyone outside it. [Calvin’s comment on verse 12](https://biblehub.com/commentaries/calvin/1_corinthians/5.htm) specifically treats the issue as the church’s responsibility to exercise discipline, while [Wesley’s notes on verses 10–13](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) retain ordinary contact with outsiders and distinguish it from fellowship with a professing member living in the conduct Paul names."
+  ],
+  "god_plan_lines": [
+    "In [John 17:14–18](https://biblehub.com/bsb/john/17.htm), Jesus prays for His disciples to be kept from evil while being sent into the world. He does not ask the Father to take them out of it.",
+    "",
+    "That connection places the church’s distinct way of life alongside its mission. God’s people need not choose between tolerating serious wrongdoing within their fellowship and avoiding everyone who does not share their faith. Their calling includes both faithfulness to Christ and presence among the people to whom He sends them."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-five-review.md"
+  }
+}

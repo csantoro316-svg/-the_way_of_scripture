@@ -1,0 +1,68 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "8:31-47",
+    "label": "John 8:31-47",
+    "slug": "john-8-31-47"
+  },
+  "section_title": "What kind of freedom does Jesus give?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "31 So He said to the Jews who had believed Him, “If you continue in My word, you are truly My disciples. 32 Then you will know the truth, and the truth will set you free.” 33 “We are Abraham’s descendants,” they answered. “We have never been slaves to anyone. How can You say we will be set free?” 34 Jesus replied, “Truly, truly, I tell you, everyone who sins is a slave to sin. 35 A slave does not remain in the house forever, but a son remains forever. 36 So if the Son sets you free, you will be free indeed.",
+        "37 I know you are Abraham’s descendants, but you are trying to kill Me because My word has no place within you. 38 I speak of what I have seen in the presence of the Father, and you do what you have heard from your father.” 39 “Abraham is our father,” they replied. “If you were children of Abraham,” said Jesus, “you would do the works of Abraham. 40 But now you are trying to kill Me, a man who has told you the truth that I heard from God. Abraham never did such a thing. 41 You are doing the works of your father.” “We are not illegitimate children,” they declared. “Our only Father is God Himself.”",
+        "42 Jesus said to them, “If God were your Father, you would love Me, for I have come here from God. I have not come on My own, but He sent Me. 43 Why do you not understand what I am saying? It is because you are unable to accept My message. 44 You belong to your father, the devil, and you want to carry out his desires. He was a murderer from the beginning, refusing to uphold the truth, because there is no truth in him. When he lies, he speaks his native language, because he is a liar and the father of lies. 45 But because I speak the truth, you do not believe Me! 46 Which of you can prove Me guilty of sin? If I speak the truth, why do you not believe Me? 47 Whoever belongs to God hears the words of God. The reason you do not hear is that you do not belong to God.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus tells those who have believed Him to continue in His word. Following Him means letting His teaching shape life over time. The Greek word μένω, menō (MEN-oh), means to remain or stay; [Thayer’s lexicon](https://biblehub.com/greek/3306.htm) specifically connects its use in verse 31 with holding firmly to something. This is more than hearing a message once and moving on.",
+    "",
+    "The promise of freedom brings an objection from people who appeal to their descent from Abraham. Jesus explains the slavery He means: being ruled by sin. Their claim about never having been slaves does not answer that problem. In the picture of a household, a slave has no lasting place, while a son remains. The lasting freedom they need comes from the Son.",
+    "",
+    "Jesus acknowledges their physical descent from Abraham in verse 37, then asks whether their conduct resembles Abraham’s. They seek to kill a man who has told them God’s truth. Abraham did not respond that way. The question becomes whether their actions match the spiritual relationship they claim, first with Abraham and then with God.",
+    "",
+    "The words about the devil are severe, and Jesus gives His reason: His opponents want to carry out murderous desires and reject the truth. The charge concerns their response to Him and the desires they follow. It is not a claim that their ancestry is literally from the devil; Jesus has just acknowledged their descent from Abraham. Jesus and His own disciples are also Jewish.",
+    "",
+    "By verse 47, the issue is hearing God’s words in the sense of accepting them, not simply having functioning ears. The passage asks whether a claimed relationship with God shows itself in receiving the One He sent. It also brings the promise of freedom back to its source: the Son, whose word they are resisting."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the promised freedom as deliverance from sin through Christ, rather than merely political independence or freedom to do whatever one wants. [Calvin’s commentary on verses 34–36](https://biblehub.com/commentaries/calvin/john/8.htm) and [Wesley’s notes on verses 32–37](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) both connect it with the Son’s saving work and a changed relationship with God.",
+    "",
+    "One question concerns who is speaking as the exchange becomes hostile. Wesley identifies the reply in verse 33 with other people nearby, rather than those who believed. Calvin says the identification is uncertain, but favors a reply from opponents within a mixed crowd. The [Catholic bishops’ Bible note on verse 31](https://bible.usccb.org/bible/john/8) instead points to a difficult transition in the way the account is presented. These explanations caution against assuming that every person mentioned in this scene has the same faith or motives; the demand to continue in Jesus’ word remains clear."
+  ],
+  "god_plan_lines": [
+    "The promise to Abraham is not set aside when Jesus challenges His opponents’ appeal to ancestry. [Galatians 3:6–9](https://biblehub.com/bsb/galatians/3.htm) explains that the promise of blessing for the nations looked ahead to God justifying people by faith. Verses 26–29 then connect belonging to Christ with being God’s children and heirs of Abraham’s promise. The larger purpose is a family gathered through Christ, crossing the boundaries of ancestry and social status.",
+    "",
+    "The freedom Jesus offers is also freedom for a changed life. [Romans 6:16–23](https://biblehub.com/bsb/romans/6.htm) describes release from slavery to sin leading to service to God and eternal life in Christ. This adds a needed direction to the word freedom: God rescues people from sin’s mastery so that they can live in relationship with Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/8.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-eight-complete-review.md"
+  }
+}

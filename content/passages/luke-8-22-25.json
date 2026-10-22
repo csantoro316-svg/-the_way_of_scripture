@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "8:22-25",
+    "label": "Luke 8:22-25",
+    "slug": "luke-8-22-25"
+  },
+  "section_title": "Who is Jesus, that even the wind and water obey Him?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "22 One day Jesus said to His disciples, “Let us cross to the other side of the lake.” So He got into a boat with them and set out. 23 As they sailed, He fell asleep, and a windstorm came down on the lake, so that the boat was being swamped, and they were in great danger. 24 The disciples went and woke Him, saying, “Master, Master, we are perishing!” Then Jesus got up and rebuked the wind and the raging waters, and they subsided, and all was calm. 25 “Where is your faith?” He asked. Frightened and amazed, they asked one another, “Who is this? He commands even the winds and the water, and they obey Him!”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus tells the disciples to cross the lake, and they set out together. He falls asleep during the journey. A windstorm comes down on the lake, the boat is swamped, and Luke describes them as being in great danger.",
+    "",
+    "The disciples wake Him with their fear that they are perishing. Jesus gets up and rebukes the wind and raging water. They subside, and the lake becomes calm.",
+    "",
+    "He then asks where their faith is. The disciples’ fear is joined by amazement at His authority, and they ask who He is that the wind and water obey Him. Following the teaching about hearing God’s word, the account shows the power of His word in a situation they cannot control."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly see Jesus’ authority over creation and a call to trust Him in danger. Calvin distinguishes the fear that overwhelms trust from every ordinary experience of fear, keeping the encounter from becoming a claim that faithful people never feel alarm. ([Calvin on Matthew 8:25–26 and Luke 8:22–25](https://biblehub.com/commentaries/calvin/luke/8.htm); [Luke 8:24–25](https://biblehub.com/bsb/luke/8.htm))"
+  ],
+  "god_plan_lines": [
+    "Psalm 107 gives a close Scriptural parallel: sailors face a storm, cry to the Lord, and are brought into calm as He stills the waves. Luke’s account places that kind of authority in Jesus’ command. The parallel helps readers understand the weight of the disciples’ question about who He is. ([Psalm 107:23–32](https://biblehub.com/bsb/psalms/107.htm))",
+    "",
+    "The Bible’s larger hope includes creation itself being set free from its bondage to decay as God’s children receive their promised glory. The Lord whose word commands the waters belongs at the center of that wider hope of restoration. His people still face suffering while they wait for it. ([Romans 8:18–23](https://biblehub.com/bsb/romans/8.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/8.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-eight-closing-review.md"
+  }
+}

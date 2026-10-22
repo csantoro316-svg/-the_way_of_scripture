@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "1 Corinthians",
+    "citation": "10:1-5",
+    "label": "1 Corinthians 10:1-5",
+    "slug": "1-corinthians-10-1-5"
+  },
+  "section_title": "Why does Paul bring up Israel’s journey through the wilderness?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 I do not want you to be unaware, brothers, that our forefathers were all under the cloud, and that they all passed through the sea. 2 They were all baptized into Moses in the cloud and in the sea. 3 They all ate the same spiritual food 4 and drank the same spiritual drink; for they drank from the spiritual rock that accompanied them, and that rock was Christ. 5 Nevertheless, God was not pleased with most of them, for they were struck down in the wilderness."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul has just described his own need for self-control. Now he turns to Israel’s history to show why the Corinthians should take that need seriously. An impressive beginning and shared blessings did not keep Israel from becoming unfaithful.",
+    "",
+    "The repeated word all matters. The people shared God’s protection in the cloud, passage through the sea, food and water. [Exodus 14:19–31](https://biblehub.com/bsb/exodus/14.htm), [16:12–18](https://biblehub.com/bsb/exodus/16.htm) and [17:1–7](https://biblehub.com/bsb/exodus/17.htm) describe those gifts. Being baptized into Moses connects the people’s passage through the cloud and sea with their shared relationship to the leader God had appointed. Paul is drawing a comparison, rather than saying Exodus describes a Christian baptism ceremony.",
+    "",
+    "Calling the food and drink spiritual does not mean they were imaginary. The people really ate and drank; God supplied what they could not supply for themselves. Paul then identifies Christ with the spiritual rock that accompanied them. His emphasis is on the source of their provision. The Exodus account describes water coming from a rock, but does not say that a physical rock traveled behind the people.",
+    "",
+    "Yet most of that generation did not enter the promised land. [Numbers 14:26–35](https://biblehub.com/bsb/numbers/14.htm) connects their deaths in the wilderness with their rebellion. That is Paul’s warning to a church tempted to treat its privileges as protection from the consequences of disobedience."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Israel’s experience here as a warning against relying on outward privileges while disregarding God. [Wesley’s notes on verses 1–5](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-first-epistle-to-the-corinthians/) and the [USCCB notes](https://bible.usccb.org/bible/1corinthians/10) also connect the sea and the spiritual food and drink with Christian baptism and the Lord’s Supper. That shared comparison does not settle the differences between churches over what those practices accomplish."
+  ],
+  "god_plan_lines": [
+    "Paul himself makes the connection to Christ: Israel’s life-giving provision was not separate from Him. The connection reaches back before His earthly ministry and places the wilderness story within the work of the same Lord whom the Corinthians now confess.",
+    "",
+    "In [John 6:31–35](https://biblehub.com/bsb/john/6.htm), Jesus moves from the manna given in the wilderness to the lasting life He gives as the bread of life. God’s purpose reaches beyond keeping people alive for another day: He calls them to receive life through His Son. The earlier provision helps readers understand the gift; it also makes refusing the Giver all the more serious."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_corinthians/10.htm",
+    "plan_basis": [
+      "a"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-corinthians-ten-opening-review.md"
+  }
+}

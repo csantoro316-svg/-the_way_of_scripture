@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "1 Peter",
+    "citation": "5:5-7",
+    "label": "1 Peter 5:5-7",
+    "slug": "1-peter-5-5-7"
+  },
+  "section_title": "How can humility and trust help us carry our cares?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "5 Young men, in the same way, submit yourselves to your elders. And all of you, clothe yourselves with humility toward one another, because, “God opposes the proud, but gives grace to the humble.” 6 Humble yourselves, therefore, under God’s mighty hand, so that in due time He may exalt you. 7 Cast all your anxiety on Him, because He cares for you."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Peter addresses young men about submission to their elders, then turns to everyone: all are to clothe themselves with humility toward one another. The saying about God opposing the proud and giving grace to the humble recalls [Proverbs 3:34](https://biblehub.com/bsb/proverbs/3.htm).",
+    "",
+    "Humility before other people is joined with humility under God’s mighty hand. The promise of being lifted up comes in His time, rather than through grasping at status or control.",
+    "",
+    "The readers are also invited to cast all their anxiety on Him because He cares for them. Trust rests in His concern for them, not in pretending that the pressures they face are small."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/1_peter/5.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-epistle-general-of-st-peter/) understand elders in verse 5 as those older in years. The [USCCB’s notes](https://bible.usccb.org/bible/1peter/5) read the passage within the community’s relationship to its pastoral leaders and also note a possible ministry-related sense for the younger members. The immediate instruction to everyone still requires humility across the whole community.",
+    "",
+    "Calvin explicitly says that giving cares to God does not mean becoming unfeeling or abandoning responsibility. It is trust that steadies faith. Wesley applies the invitation to every kind of need and pressure."
+  ],
+  "god_plan_lines": [
+    "[Psalm 55:22](https://biblehub.com/bsb/psalms/55.htm) also calls people to place their burden on the Lord who sustains them. Peter’s instruction continues that life of dependence on God’s care.",
+    "",
+    "[Philippians 4:4–7](https://biblehub.com/bsb/philippians/4.htm) connects gentleness and prayer about every concern with God’s peace guarding hearts and minds in Christ. Entrusting cares to God belongs within the life and peace He gives His people."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_peter/5.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-peter-five-review.md"
+  }
+}

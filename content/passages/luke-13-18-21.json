@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "13:18-21",
+    "label": "Luke 13:18-21",
+    "slug": "luke-13-18-21"
+  },
+  "section_title": "How can such small beginnings lead to a kingdom?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "18 Then Jesus asked, “What is the kingdom of God like? To what can I compare it? 19 It is like a mustard seed that a man tossed into his garden. It grew and became a tree, and the birds of the air nested in its branches.”",
+        "20 Again He asked, “To what can I compare the kingdom of God? 21 It is like leaven that a woman took and mixed into three measures of flour, until all of it was leavened.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "After the woman’s healing and the crowd’s rejoicing, Jesus asks what God’s kingdom is like. He gives two everyday pictures of a beginning whose outcome is much larger.",
+    "",
+    "A mustard seed grows into a tree where birds nest. A woman mixes leaven into flour until all of it is leavened. Each comparison draws attention from an initially small or hidden presence toward its far-reaching result.",
+    "",
+    "These pictures describe the kingdom Jesus is announcing through His teaching and works. What is before the crowd does not have to look impressive at its beginning to accomplish what God intends."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly see the kingdom’s growth from small beginnings in these two comparisons. Calvin emphasizes God’s power beyond the unimpressive first appearance, and the Catholic bishops’ notes connect the beginning with Jesus’ preaching and healing ministry. ([Calvin on the mustard seed and leaven](https://biblehub.com/commentaries/calvin/luke/13.htm); [USCCB note on Luke 13:18–21](https://bible.usccb.org/bible/luke/13))"
+  ],
+  "god_plan_lines": [
+    "Ezekiel gives a related picture: God plants a tender shoot that becomes a great cedar, with birds of every kind finding shelter in its branches. He declares His power to make the low tree tall. This is a supported parallel to God bringing a great outcome from what begins small. ([Ezekiel 17:22–24](https://biblehub.com/bsb/ezekiel/17.htm))",
+    "",
+    "Acts traces the message outward. Jesus commissions witness from Jerusalem to the ends of the earth, and the book closes with Paul in Rome welcoming people and proclaiming God’s kingdom. The story shows the message reaching far beyond the places where Jesus first taught it. ([Acts 1:8](https://biblehub.com/bsb/acts/1.htm); [Acts 28:30–31](https://biblehub.com/bsb/acts/28.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/13.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-thirteen-closing-review.md"
+  }
+}

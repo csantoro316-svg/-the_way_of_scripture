@@ -5,30 +5,53 @@
     "label": "Exodus 35:4-9",
     "slug": "exodus-35-4-9"
   },
-  "section_title": "Offerings for the Tabernacle",
+  "section_title": "What does God ask the people to bring?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "4 Moses also told the whole congregation of Israel, \u201cThis is what the LORD has commanded: 5 Take from among you an offering to the LORD. Let everyone whose heart is willing bring an offering to the LORD:",
-        "gold, silver, and bronze;",
-        "6 blue, purple, and scarlet yarn;",
-        "fine linen and goat hair;",
-        "7 ram skins dyed red and fine leather;",
-        "acacia wood;",
-        "8 olive oil for the light;",
-        "spices for the anointing oil and for the fragrant incense;",
-        "9 and onyx stones and gemstones to be mounted on the ephod and breastpiece."
+        "4 Moses also told the whole congregation of Israel, “This is what the LORD has commanded: 5 Take from among you an offering to the LORD. Let everyone whose heart is willing bring an offering to the LORD: gold, silver, and bronze; 6 blue, purple, and scarlet yarn; fine linen and goat hair; 7 ram skins dyed red and fine leather; acacia wood; 8 olive oil for the light; spices for the anointing oil and for the fragrant incense; 9 and onyx stones and gemstones to be mounted on the ephod and breastpiece."
       ]
     }
   ],
   "context_lines": [
-    "In **Exodus 35**, this section should be read within the flow of the chapter and the larger movement of Exodus."
+    "Moses calls for the materials needed to make the dwelling and carry out its service: metals, yarn, linen, skins, wood, oil, spices, and gemstones. The list comes from the earlier instructions; the people are contributing toward a defined task rather than a collection with no stated purpose.",
+    "",
+    "The invitation is directed to those whose hearts are willing. The Hebrew adjective נָדִיב, *nadiv* (nah-DEEV), can mean willing or generous; [Brown–Driver–Briggs](https://biblehub.com/hebrew/5081.htm) specifically lists the willing-heart expression in this verse. The command to make the dwelling is clear, while the contributions are invited as willing gifts."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Offerings for the Tabernacle** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Exodus 35** remains the first control on meaning."
+    "[Calvin](https://biblehub.com/commentaries/calvin/exodus/35.htm) emphasizes that the offerings were not extracted by force or necessity. He understands the willing heart as consistent with God’s grace at work within a person, rather than as a gift wrung from an unwilling donor."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "Paul connects generosity with the grace believers have received through Christ. In [2 Corinthians 8:1–15](https://biblehub.com/bsb/2_corinthians/8.htm), the Macedonian churches give willingly, and Jesus’ self-giving becomes the reason for generosity. Paul also says an eager gift is accepted according to what a person has; his goal is to meet needs rather than burden one group to relieve another.",
+    "",
+    "This gives a wider setting for willing contributions. God’s people share what they have because they have received His grace, so that others are served. The value of the response is not reduced to whether everyone can bring the same costly materials."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/exodus/35.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-exodus-thirty-five-review.md"
+  }
 }

@@ -1,0 +1,44 @@
+# Second Samuel 10–11 passage review — 2026-10-21
+
+Sixnewgroups46BSBverses. Entire baseline lesson115–131actuallyread;wholePDF1–131read,132+unread. WholeBSB10/11/WesX+XI/Henry10+11actualread. Gill10:4,12+11:4,11,15,25,27completecommentsread. USCCB10notesactualread;11HTTPerrornotused. ActualJames1:13–15/Gal6:1–5/Mark10:42–45BSBchecked. BobDeffinbaugh's ownBible.orgDavidandBathshebaarticle directlyread relevant154–174,179–185andpurificationfootnote208–212;authorverified218–223. No need to import his universalancientwomenlegalassertions or speculativeprivacy/motives. Public modernsummaryunder70words, noverbatimquotation. No owner10/11/Bathsheba/Uriahaddressingreferencesfound. No ownerstudyeditsornewposition. Individualreadingsnotformaldenominationaldefinitions. Baselinewording/name/structure notpubliclycopied.
+
+## 10:1–5
+
+Plan section: omitted, because none apply. Kindnessandhumiliationinterpretedwithoutforcedmessengers=apostles/Jewishnationalcondemnationparallel.
+Position source: none.
+FLAGGED FOR REVIEW: Halfbeardactualnotheadshaving. No universalallshavingillegalJewishlawclaim/nakednessgarmentunderwearreconstructionwithoutindependentcheck. No inventedNahashsamepersonlifeexpectancydatingcertainty. Davidhumiliationcareactual;Jerichonotasserteduninhabitedbecausewallrebuildinglater. Advisers'spychargeclearlytheirsnotnarratorconfirmed,Davidpurposekindnessactual.
+
+## 10:6–14
+
+Plan section: included, because (c). HenrymutualstrengthapplicationgroundedactualGal6:1–5gentlerestoration/burdens/responsibility;limitedsharedtheme,nochurchmilitarymandate.
+Position source: none.
+FLAGGED FOR REVIEW: NarratordoesnotdescribeDavidinquiryNOTproofneverprayed/faithdeclined. JoabactualinvokesLORD12. Notreturnafterretreatautomaticallydefeat/failure;laterconflictstillongoing. NoalldelegationabdicatingGodgivencall. GeographyMedeba/RabbahdisputedUSCCB10notes, omitexactroute/pincerdirectionassumption. Numbers20k+1k+12kretainedBSB;noinferredexactDavidforce/halfsplitwhenchoseselectedandrestonly.
+
+## 10:15–19
+
+Plan section: omitted, because none apply. Outcomeandolderpromiseinterpretationalreadyexplainedwithoutrepeatingbattletypology.
+Position source: none.
+FLAGGED FOR REVIEW: BSB18footnotNASBbaselinehorsemen40000. ShobachnamedBSB. ArameansregroupvsAmmonitescitynotreversed. NoDavidtaughtJoablesson/Joabreturnprovesfailurepsychology. Noeveryenemyendtimeequalscurrentnationmodernpolitics. Citycapturelaterthanthissceneactual11:1siege;noallAmmonitesalreadysubduedforeverclaim.
+
+## 11:1–5
+
+Plan section: included, because (c). ActualJames1desire/sin/deathandGodnottempter;God'sappointingDavidnotapprovalofdestructiveacts.
+Position source: none.
+FLAGGED FOR REVIEW: BaselineclaimsBathshebaintentionallyteasedking/knewhecouldsee/lackresistanceprovesguiltunverifiedandnottextstated. FairCommonactuallycitesGill+WesconsentinferenceandBobDeffinbaughchallengingguilt/seductionandabuseofpower. No unreported Bathshebaintentions or categorical physicalforce reconstruction as narratorfact. NotformalCatholic/Reformed/Wesleyanofficialstatement. No hidden ownerpositionaboutconsent.
+FLAGGED FOR REVIEW: BSB4HADJUSTpurifiednotbaselineaftersexritualwashingoffsetsin. No Davidownedmikvah/fertilitytimingmedicalguarantee/menstruatingexactmomentdiagnosis. No insomnia/hotweather/roofarchitecturehistoricalclaimwithoutindependentcheck. NoGodneededspareDavidbecauseSolomonmustbornorautomaticallyguaranteesmercyifconfessedcounterfactual. No specificAugustinequotationwithoutdirectcheck. NochiasticstructureproofGodcausedsin.
+
+## 11:6–13
+
+Plan section: omitted, because none apply. UriahloyaltyandDavidconcealmentexplainedwithoutmakingeveryrefusalaspecificNTprediction.
+Position source: none.
+FLAGGED FOR REVIEW: UriahknowsadulteryonlyspeculationGillattributednotfact. Arkfieldlocationambiguous,notassertedinventedsecondarkcontainerorallhistoryfixed. No BathshebaalsotriedpersuadeUriahunreportedactfromGill. No universalphysicaldrunkpersonautomaticallyconsenting/modernclinicalguidance. DavidgetsUriahdrunkactual;reasonconcealmentWesreadingattributed. No evencivilmaritalsexitselfsin:contrastisUriahsolidaritynotcondemnationofhisownmarriage.
+
+## 11:14–27
+
+Plan section: included, because (b)/(c). DavidusesauthoritytosacrificeservantversusactualMark10:42–45Christserves/givesHisownlife;labeledcontrast,notNTdirectinterpretationofmurder.
+Position source: none.
+FLAGGED FOR REVIEW: Joabcomplicityactualplacementmessage,notallwithdrawalcombatstepsreportedcompletedwordforword. OtherIsraelitemendieactual17,24,notonlyUriah. Uriahcarriedletteractualnotconclusiveproofcannotreadorknewcontents. MessengerconditionalDavidwrathnotreportedactualangryreaction. AbimelechThebezactualJudges9alreadycompleted;noinventednewbattlemanual. No exact7dayor90daymourningrequirementunverified. BaselineidentifieschildasSolomonINCORRECTthissonunnamedand12laterdifferentSolomon. BathshebarealmourningactualnotnecessarilyknewDavidmurderplot. Finaldivineverdictnotundoablebymarriage/publicconcealment. NoonlyDavidspiritualsecurityformulafromindividualHenrycommentasalltraditionconsensus.
+
+## Validation
+
+Passed direct BSB verification, repository checks (0errors /256warnings), preservation, continuous coverage through11:27, idempotence, twelve mobile views, actual Next10:1–5→6–14 with heading focus/top187.5, Hosting dry run, deployment and LIVE MATCH10(exit0). Cumulative32groups264verses16plans32open; intentional omissions globally91. Prefix /tmp/scripture-second-samuel-ten-eleven-.

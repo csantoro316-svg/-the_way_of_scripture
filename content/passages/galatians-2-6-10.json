@@ -1,0 +1,64 @@
+{
+  "reference": {
+    "book": "Galatians",
+    "citation": "2:6-10",
+    "label": "Galatians 2:6-10",
+    "slug": "galatians-2-6-10"
+  },
+  "section_title": "What did the Jerusalem leaders recognize in Paul’s ministry?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "6 But as for the highly esteemed—whatever they were makes no difference to me; God does not show favoritism—those leaders added nothing to me. 7 On the contrary, they saw that I had been entrusted to preach the gospel to the uncircumcised, just as Peter had been to the circumcised. 8 For the One who was at work in Peter’s apostleship to the circumcised was also at work in my apostleship to the Gentiles.",
+        "9 And recognizing the grace that I had been given, James, Cephas, and John—those reputed to be pillars—gave me and Barnabas the right hand of fellowship, so that we should go to the Gentiles, and they to the circumcised. 10 They only asked us to remember the poor, the very thing I was eager to do."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul says the recognized leaders added nothing to him. Their reputation does not determine God’s judgment of a person. What follows explains the agreement they reached about the work God had entrusted to them.",
+    "",
+    "They recognized his commission to preach to the uncircumcised, just as Peter had been commissioned to the circumcised. Paul points to the same God at work in both ministries. The distinction concerns the people they are sent to reach.",
+    "",
+    "James, Cephas and John, whom Paul calls pillars, recognized the grace given to him and extended fellowship to him and Barnabas. Their agreement affirmed the different fields of work within a shared gospel.",
+    "",
+    "They also asked that the poor be remembered, something Paul was already eager to do. Care for people in need belongs beside the recognition of ministry and fellowship."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as recognition of God’s work through Paul and agreement in the gospel across different fields of ministry. [Wesley’s notes on verses 6–10](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-galatians/) and the [USCCB notes on verses 7–10](https://bible.usccb.org/bible/galatians/2) both emphasize the shared work and fellowship. The latter also explains that these areas of work did not exclude either apostle from speaking to the other group."
+  ],
+  "god_plan_lines": [
+    "[Romans 15:25–27](https://biblehub.com/bsb/romans/15.htm) describes Gentile believers contributing to poor believers in Jerusalem. Paul connects their material help with the spiritual blessings they have shared.",
+    "",
+    "That later collection gives practical expression to the fellowship recognized here. Different areas of ministry belong within a shared faith, and that relationship includes care for one another across the distance between communities."
+  ],
+  "current_position_lines": [
+    "Our study [Who Shepherds the Church?](https://thewayofscripture.com/studies/who-shepherds-the-church.html), in its discussion of James, recognizes the real authority and standing he had among the Jerusalem believers. It reads that standing alongside the other leaders and the shared decision-making described in Acts 15 and 21. The study distinguishes recognized personal standing from a separate rank meant to be reproduced in every church."
+  ],
+  "deeper_study": [
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/galatians/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-galatians-two-review.md",
+    "position_source_detail": "Who Shepherds the Church? — But Wasn’t James the Head of the Church?; content/studies/who_shepherds_the_church.md:64–76; direct Galatians2:9 discussion of James’s standing and shared leadership."
+  }
+}

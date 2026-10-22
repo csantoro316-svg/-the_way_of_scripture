@@ -1,0 +1,49 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "8:20-22",
+    "label": "Daniel 8:20-22",
+    "slug": "daniel-8-20-22"
+  },
+  "section_title": "Which kingdoms does Gabriel identify?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "20 The two-horned ram that you saw represents the kings of Media and Persia. 21 The shaggy goat represents the king of Greece, and the large horn between his eyes is the first king. 22 The four horns that replaced the broken one represent four kingdoms that will rise from that nation but will not have the same power."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Gabriel gives direct names for the main symbols. The ram’s two horns are the kings of Media and Persia. The goat represents Greece, and its large horn represents the first king.",
+    "",
+    "The four horns that replace the broken one are four kingdoms that arise from the same nation, though without the first king’s power.",
+    "",
+    "This explanation anchors the vision in a succession of earthly kingdoms. It also shows the limits of their greatness: one power is overcome, and the next ruler’s dominion does not remain intact after him."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/daniel/8.htm), [Wesley](https://biblehub.com/commentaries/wes/daniel/8.htm) and [Gaebelein](https://biblehub.com/commentaries/gaebelein/daniel/8.htm) agree on the basic identification: Media and Persia are overcome by the Greek power associated with Alexander, followed by divisions of his empire."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/8.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-eight-review.md"
+  }
+}

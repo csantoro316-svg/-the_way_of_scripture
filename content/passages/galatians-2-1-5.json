@@ -1,0 +1,63 @@
+{
+  "reference": {
+    "book": "Galatians",
+    "citation": "2:1-5",
+    "label": "Galatians 2:1-5",
+    "slug": "galatians-2-1-5"
+  },
+  "section_title": "Why was Titus’s freedom so important?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Fourteen years later I went up again to Jerusalem, accompanied by Barnabas. I took Titus along also. 2 I went in response to a revelation and set before them the gospel that I preach among the Gentiles. But I spoke privately to those recognized as leaders, for fear that I was running or had already run in vain. 3 Yet not even Titus, who was with me, was compelled to be circumcised, even though he was a Greek.",
+        "4 This issue arose because some false brothers had come in under false pretenses to spy on our freedom in Christ Jesus, in order to enslave us. 5 We did not give in to them for a moment, so that the truth of the gospel would remain with you."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul continues the account of his ministry by describing a later visit to Jerusalem with Barnabas and Titus. He says he went in response to a revelation and privately set before the recognized leaders the gospel he preached among the Gentiles.",
+    "",
+    "His concern was that his work might be frustrated or come to nothing. The question involved the message being proclaimed and the place of Gentile believers within the community. Titus, a Greek, was not compelled to be circumcised.",
+    "",
+    "Paul describes false brothers entering under false pretenses to spy on their freedom in Christ and bring them into slavery. He says he did not yield, so that the truth of the gospel would remain with the Galatians.",
+    "",
+    "Titus’s case makes the issue concrete. A Gentile believer was among them, and the pressure to require circumcision was resisted. Paul presents that outcome as part of his defense of the gospel he had brought."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a defense of the gospel and Gentile believers’ freedom from a requirement to be circumcised. [Wesley’s notes on verses 1–5](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-galatians/) and the [USCCB notes on verses 1–5](https://bible.usccb.org/bible/galatians/2) both connect Titus’s case with preserving the message Paul preached."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 2:11–18](https://biblehub.com/bsb/ephesians/2.htm) describes people once far away being brought near through Christ, with Jews and Gentiles joined in one body and sharing access to the Father through one Spirit.",
+    "",
+    "That explicit purpose gives the dispute about Titus a wider setting. The question concerns the place of people God is bringing together through His Son. The gospel announces a shared life in Christ across the boundary the dispute threatens to impose."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/galatians/2.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-galatians-two-review.md"
+  }
+}

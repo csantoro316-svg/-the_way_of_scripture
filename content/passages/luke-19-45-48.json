@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "19:45-48",
+    "label": "Luke 19:45-48",
+    "slug": "luke-19-45-48"
+  },
+  "section_title": "What has happened to God’s house of prayer?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "45 Then Jesus entered the temple courts and began to drive out those who were selling there. 46 He declared to them, “It is written: ‘My house will be a house of prayer.’ But you have made it ‘a den of robbers.’”",
+        "47 Jesus was teaching at the temple every day, but the chief priests, scribes, and leaders of the people were intent on killing Him. 48 Yet they could not find a way to do so, because all the people hung on His words."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus enters the temple courts and drives out those selling there. He explains His action with two passages of Scripture: the house of prayer from Isaiah and the den of robbers from Jeremiah.",
+    "",
+    "Isaiah’s setting includes foreigners joining themselves to the Lord and being welcomed in His house of prayer. Jeremiah confronts people who oppress others and commit wrong, then treat the temple as a place where they can claim safety while continuing unchanged. These passages give Jesus’ action a setting deeper than disruption in a busy marketplace. ([Isaiah 56:6–8](https://biblehub.com/bsb/isaiah/56.htm); [Jeremiah 7:3–14](https://biblehub.com/bsb/jeremiah/7.htm))",
+    "",
+    "Jesus then teaches in the temple every day. The chief priests, scribes and leading people want to kill Him, but cannot find a way because the people are listening intently. The next chapter opens with a challenge to His authority in this same setting."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand this action as a defense of God’s purpose for His house and a confrontation with its misuse. The Catholic bishops’ notes also emphasize Jesus’ authority and the temple becoming the setting for His teaching in Jerusalem. ([USCCB notes on Luke 19:45–48](https://bible.usccb.org/bible/luke/19))"
+  ],
+  "god_plan_lines": [
+    "John’s temple account connects Jesus’ challenge to the temple’s misuse with a saying about raising the temple again in three days. John explicitly explains that Jesus means His body, and that the disciples understand after His resurrection. This is a connection supplied by another Gospel, rather than an extra saying inserted into Luke’s scene. ([John 2:13–22](https://biblehub.com/bsb/john/2.htm))",
+    "",
+    "Ephesians describes people once separated being brought near through Christ, with access to the Father by one Spirit. Together they become a holy temple and a dwelling place for God. This wider picture carries the purpose of fellowship with God into the shared life of His people, with Christ as their cornerstone. ([Ephesians 2:13–22](https://biblehub.com/bsb/ephesians/2.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/19.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-nineteen-closing-review.md"
+  }
+}

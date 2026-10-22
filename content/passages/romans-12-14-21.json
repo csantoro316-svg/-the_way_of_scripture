@@ -1,0 +1,68 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "12:14-21",
+    "label": "Romans 12:14-21",
+    "slug": "romans-12-14-21"
+  },
+  "section_title": "How can good overcome evil?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "14 Bless those who persecute you. Bless and do not curse. 15 Rejoice with those who rejoice; weep with those who weep. 16 Live in harmony with one another. Do not be proud, but associate with the lowly. Do not be conceited.",
+        "17 Do not repay anyone evil for evil. Carefully consider what is right in the eyes of everybody. 18 If it is possible on your part, live at peace with everyone. 19 Do not avenge yourselves, beloved, but leave room for God’s wrath. For it is written: “Vengeance is Mine; I will repay, says the Lord.” 20 On the contrary, “If your enemy is hungry, feed him; if he is thirsty, give him a drink. For in so doing, you will heap burning coals on his head.” 21 Do not be overcome by evil, but overcome evil with good."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul extends the call to sincere love into difficult relationships. Believers are to bless persecutors, share in others’ joy and grief, live in harmony and associate with the lowly. Humility changes whose company they seek and how they respond to others’ lives.",
+    "",
+    "He then forbids repaying evil with evil and calls for peace wherever it is possible on their part. That qualification recognizes that one person cannot control everyone else’s conduct. The responsibility is to pursue what is good without making retaliation the answer to harm.",
+    "",
+    "The final commands put revenge in God’s hands and replace it with concrete kindness: feed a hungry enemy and give a thirsty enemy a drink. Paul draws on Deuteronomy and Proverbs before gathering the passage into the call to overcome evil with good. His instruction concerns how believers act, even when the other person remains hostile."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand the passage as rejecting personal revenge and calling for active kindness toward enemies. Seeking peace and showing compassion belong together with trusting God to judge rightly.",
+    "",
+    "The burning-coals image receives different explanations. [Calvin’s comment on verse 20](https://biblehub.com/commentaries/calvin/romans/12.htm) understands kindness as either softening an enemy or troubling the enemy’s conscience. [Wesley’s notes on verses 20–21](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-romans/) also emphasize overcoming opposition through kindness. These explanations keep attention on doing good; the passage does not promise that every enemy will respond in the same way."
+  ],
+  "god_plan_lines": [
+    "Paul’s instruction shares the pattern of Jesus’ teaching in [Matthew 5:43–48](https://biblehub.com/bsb/matthew/5.htm): love enemies and pray for persecutors, reflecting the Father’s generosity toward the righteous and unrighteous. [Luke 6:27–36](https://biblehub.com/bsb/luke/6.htm) likewise connects kindness to enemies with being merciful as the Father is merciful.",
+    "",
+    "The Old Testament quotations already place justice and kindness together: vengeance belongs to God ([Deuteronomy 32:35–36](https://biblehub.com/bsb/deuteronomy/32.htm)), while the enemy’s hunger calls for a meal ([Proverbs 25:21–22](https://biblehub.com/bsb/proverbs/25.htm)). Life shaped by God’s mercy does not need to copy the evil it encounters. It can entrust judgment to Him and seek another person’s good."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/12.htm",
+    "plan_basis": [
+      "a",
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-twelve-closing-review.md"
+  }
+}

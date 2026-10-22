@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "Luke",
+    "citation": "6:1-5",
+    "label": "Luke 6:1-5",
+    "slug": "luke-6-1-5"
+  },
+  "section_title": "Why does Jesus defend His disciples eating grain on the Sabbath?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 One Sabbath Jesus was passing through the grainfields, and His disciples began to pick the heads of grain, rub them in their hands, and eat them. 2 But some of the Pharisees asked, “Why are you doing what is unlawful on the Sabbath?”",
+        "3 Jesus replied, “Have you not read what David did when he and his companions were hungry? 4 He entered the house of God, took the consecrated bread and gave it to his companions, and ate what is lawful only for the priests to eat.” 5 Then Jesus declared, “The Son of Man is Lord of the Sabbath.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "As Jesus and His disciples pass through grainfields on a Sabbath, the disciples pick heads of grain, rub them in their hands, and eat. Some Pharisees object that this is unlawful on the Sabbath. The immediate question concerns Sabbath observance; the Law already permits someone to pluck grain by hand in a neighbor’s field. ([Deuteronomy 23:24–25](https://biblehub.com/bsb/deuteronomy/23.htm))",
+    "",
+    "Jesus answers with David’s hunger and the consecrated bread given to him by the priest. Leviticus assigns that bread to Aaron and his sons, and Jesus Himself acknowledges the restriction to priests. He brings the account of David’s need into the present discussion and then declares His authority as Lord of the Sabbath. ([1 Samuel 21:1–6](https://biblehub.com/bsb/1_samuel/21.htm); [Leviticus 24:5–9](https://biblehub.com/bsb/leviticus/24.htm))",
+    "",
+    "The answer asks His hearers to consider the Scriptural example and the identity of the One standing before them. The dispute continues on another Sabbath in the following scene, where the question of doing good becomes explicit."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly connect this defense of the disciples with concern for human need and Jesus’ authority over the Sabbath. The Catholic Catechism expresses the shared principle that serving God and neighbor belongs within honoring Sabbath rest. ([Catechism 582](https://www.vatican.va/archive/ENG0015/__P1N.HTM); [USCCB note on Luke 6:1–11](https://bible.usccb.org/bible/luke/6))"
+  ],
+  "god_plan_lines": [
+    "Paul later places Sabbath observance within the larger relationship between the things that point ahead and Christ, to whom they point. His teaching helps readers see why Jesus’ identity matters in this encounter: the discussion concerns the Lord to whom the sacred day ultimately points. This is a later New Testament connection, not a claim that Luke’s five verses answer every question about Christian worship days. ([Colossians 2:16–19](https://biblehub.com/bsb/colossians/2.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/6.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-luke-six-opening-review.md"
+  }
+}

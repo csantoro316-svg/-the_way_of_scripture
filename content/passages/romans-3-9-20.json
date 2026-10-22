@@ -1,0 +1,60 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "3:9-20",
+    "label": "Romans 3:9-20",
+    "slug": "romans-3-9-20"
+  },
+  "section_title": "Why does Paul bring everyone under the same charge of sin?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "9 What then? Are we any better? Not at all. For we have already made the charge that Jews and Greeks alike are all under sin. 10 As it is written: “There is no one righteous, not even one. 11 There is no one who understands, no one who seeks God. 12 All have turned away, they have together become worthless; there is no one who does good, not even one.”",
+        "13 “Their throats are open graves; their tongues practice deceit.” “The venom of vipers is on their lips.” 14 “Their mouths are full of cursing and bitterness.” 15 “Their feet are swift to shed blood; 16 ruin and misery lie in their wake, 17 and the way of peace they have not known.” 18 “There is no fear of God before their eyes.”",
+        "19 Now we know that whatever the law says, it says to those who are under the law, so that every mouth may be silenced and the whole world held accountable to God. 20 Therefore no one will be justified in His sight by works of the law. For the law merely brings awareness of sin."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul returns to the question of superiority. Jews and Greeks alike are under sin. The gifts entrusted to Israel do not establish a separate standard of innocence for those who receive them.",
+    "",
+    "He brings together passages from the Psalms and Isaiah. The sequence describes failure to seek God, destructive speech, violence, the absence of peace and a lack of reverence for Him. [Psalm 14:1–3](https://biblehub.com/bsb/psalms/14.htm) and [Isaiah 59:7–8](https://biblehub.com/bsb/isaiah/59.htm) are among the sources identified in the BSB footnotes.",
+    "",
+    "The references to throats, tongues, lips, mouths, feet and eyes make the spread of wrongdoing concrete. Sin affects how people think, speak, act and treat one another. Paul is not allowing the reader to stand outside the charge by finding someone with a worse record.",
+    "",
+    "He then says that the law speaks to those under it, silencing every mouth and holding the whole world accountable. Here the scriptural testimony includes the Psalms and Prophets he has just cited. Works of the law cannot establish a person’s righteousness before God; the law brings awareness of sin. The next passage announces what God has done in response."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this passage as establishing the shared need for God’s grace: neither Jew nor Gentile can claim a righteousness that makes Christ unnecessary. The scriptural charges expose sin rather than provide a ladder on which one people can climb above another."
+  ],
+  "god_plan_lines": [
+    "Israel’s own Scriptures supply the testimony that silences boasting. The law and prophets do not merely identify failures among outsiders; they also speak to the people who receive them. That prepares for Paul’s announcement that God’s righteousness is available through faith in Christ without distinction.",
+    "",
+    "[Ephesians 2:1–10](https://biblehub.com/bsb/ephesians/2.htm) follows a related movement from sin and death to God’s mercy, life with Christ and salvation as a gift. It ends with people created in Christ for good works. Exposing sin serves the larger announcement of a life God gives and renews."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/3.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-three-review.md"
+  }
+}

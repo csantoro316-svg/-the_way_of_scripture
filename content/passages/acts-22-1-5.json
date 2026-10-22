@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "22:1-5",
+    "label": "Acts 22:1-5",
+    "slug": "acts-22-1-5"
+  },
+  "section_title": "Why does Paul begin his defense with his former zeal and persecution?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 “Brothers and fathers, listen now to my defense before you.” 2 When they heard him speak to them in Hebrew, they became even more quiet. Then Paul declared, 3 “I am a Jew, born in Tarsus of Cilicia, but raised in this city. I was educated at the feet of Gamaliel in strict conformity to the law of our fathers. I was just as zealous for God as any of you are today. 4 I persecuted this Way even to the death, detaining both men and women and throwing them into prison, 5 as the high priest and the whole Council can testify about me. I even obtained letters from them to their brothers in Damascus, and I was on my way to apprehend these people and bring them to Jerusalem to be punished."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul stands on the steps under Roman protection, addressing the crowd that has just tried to kill him. He asks them to hear his defense and speaks in Hebrew. He identifies himself as a Jew born in Tarsus but raised in Jerusalem, taught under Gamaliel and deeply committed to the ancestral law.",
+    "",
+    "His opening establishes something he has shared with his hearers: zeal for God. He also admits that his zeal once drove him to persecute the Way, imprisoning men and women and pursuing believers to Damascus. His former authority can be checked with the high priest and council.",
+    "",
+    "This is not a claim that his violence was right because he was sincere. It prepares the hearers to understand how sharply his encounter with Jesus changed his direction. The story begins with the former persecutor acknowledging what he had done."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read the opening as a respectful appeal to shared background followed by an honest account of serious wrongdoing. Religious knowledge and zeal do not by themselves prove that a person is serving God rightly. Paul’s earlier conduct becomes part of his testimony to mercy rather than a record that earns him approval."
+  ],
+  "god_plan_lines": [
+    "[1 Timothy 1:12–16](https://biblehub.com/bsb/1_timothy/1.htm) explicitly describes the former persecutor receiving mercy and becoming an example of Christ’s patience toward future believers. Paul’s past is not hidden, but neither is it the final word about him. His service displays God’s ability to turn an enemy of the message into its witness."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/22.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twenty-two-review.md"
+  }
+}

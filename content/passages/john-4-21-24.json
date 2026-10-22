@@ -5,18 +5,55 @@
     "label": "John 4:21-24",
     "slug": "john-4-21-24"
   },
+  "section_title": "Why is worship no longer bound to one place?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"Jesus said to her, 'Woman, believe Me, an hour is coming when neither in this mountain nor in Jerusalem will you worship the Father. You worship what you do not know; we worship what we know, for salvation is from the Jews. But an hour is coming, and now is, when the true worshipers will worship the Father in spirit and truth; for such people the Father seeks to be His worshipers. God is spirit, and those who worship Him must worship in spirit and truth.'\""
+      "label": "BSB",
+      "paragraphs": [
+        "21 “Believe Me, woman,” Jesus replied, “a time is coming when you will worship the Father neither on this mountain nor in Jerusalem. 22 You worship what you do not know; we worship what we do know, for salvation is from the Jews. 23 But a time is coming and has now come when the true worshipers will worship the Father in spirit and in truth, for the Father is seeking such as these to worship Him. 24 God is Spirit, and His worshipers must worship Him in spirit and in truth.”"
+      ]
     }
   ],
   "context_lines": [
-    "In **John 4**, Jesus reveals Himself beyond old covenant boundaries through His encounter with the Samaritan woman and His teaching about true worship. The chapter shifts attention away from sacred geography and toward worship shaped by truth and the Spirit."
-  ],
-  "explanation_lines": [
-    "Jesus abolished the debate over worship location by revealing a deeper truth: worship is not about where but how. To worship \"in spirit\" means being moved and led by the Holy Spirit, not mere formality. To worship \"in truth\" means coming sincerely and in alignment with God's revealed Word. The early Christians worshiped in simplicity: singing hymns, breaking bread, reading letters aloud. There were no performance-driven services, only hearts opened wide to heaven. Today, true worship must return to this: Spirit-filled, Scripture-grounded, God-centered.",
+    "The Samaritan woman has asked whether worship belongs on her community’s mountain or in Jerusalem. Jesus answers that the Father is seeking people who worship in spirit and truth, and that the time for this is already coming.",
     "",
-    "Today, worship has often been redefined by external atmosphere, emotional intensity, and personal preference. In the Catholic Church, worship is centered on liturgical repetition and sacramental ritual \u2014 often so scripted that the heart is disengaged, even as the mouth recites. While intended to point to reverence, it can become mechanical and disconnected \u2014 words spoken without the heart engaged. In many Protestant traditions, especially high church models, worship may cling to formalism, rigid order, or theological performance, where truth is prioritized, but spirit is muted. On the other end, non-denominational churches often emphasize emotional expression \u2014 dim lights, loud music, rising hands \u2014 but sometimes at the expense of doctrinal substance or spiritual depth. Worship becomes an experience to consume rather than a life to offer. Across all traditions, form has too often replaced fire, and presentation has eclipsed presence."
-  ]
+    "His answer holds two things together: salvation comes from the Jews, and access to the Father will not remain confined to the rival locations. The conversation then leads to His identifying Himself as the Messiah. [Read John 4:16–26 in context](https://the-way-of-scripture.web.app/passages/john-4-16-26.html)."
+  ],
+  "common_interpretation_lines": [
+    "Christian traditions commonly read these verses as opening worship of the Father beyond the rival claims of Gerizim and Jerusalem, through the Spirit and the truth God reveals. The Catholic Catechism and Westminster Confession both affirm that worship is no longer tied to one exclusive location, while continuing to recognize gathered worship. ([Catechism §§1179–1180](https://www.vatican.va/content/catechism/en/part_two/section_one/chapter_two/article_1/iv_where_is_the_liturgy_celebrated.index.html); [Westminster Confession 21.6](https://www.opc.org/wcf.html))"
+  ],
+  "god_plan_lines": [
+    "Jesus says that salvation comes from the Jews. Paul later identifies Israel’s covenants, promises and patriarchs, and the Messiah’s human descent from Israel. The welcome extended to the Samaritan woman belongs within God’s faithfulness to those promises. ([Romans 9:4–5](https://biblehub.com/bsb/romans/9.htm))",
+    "",
+    "Ephesians describes people once far apart being reconciled through Christ’s cross, with access to the Father by one Spirit. Together they become God’s dwelling. Hebrews likewise invites believers to draw near through the way Jesus opens by His blood. These passages give the wider picture of the access to the Father Jesus announces here. ([Ephesians 2:13–22](https://biblehub.com/bsb/ephesians/2.htm); [Hebrews 10:19–22](https://biblehub.com/bsb/hebrews/10.htm))"
+  ],
+  "current_position_lines": [
+    "Our studies Worship as the Early Church Knew It and What Is the True Church? read John 4:21–24 as ending the requirement to approach God at one sacred location. They understand true worship as a life turned toward the Father, led by His Spirit and aligned with His revealed truth. The passage addresses that relationship and access to God, rather than prescribing the format of a Christian gathering."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/4.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-john-four-opening-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It: John 4:21–24 — The Samaritan Woman and Sacred Geography; Jesus Ends the Sacred Geography. What Is the True Church?: Worship is in Spirit and Truth. Position limited to these developed conclusions, without importing their other historical or denominational claims."
+  }
 }

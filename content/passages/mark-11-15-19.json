@@ -1,0 +1,65 @@
+{
+  "reference": {
+    "book": "Mark",
+    "citation": "11:15-19",
+    "label": "Mark 11:15-19",
+    "slug": "mark-11-15-19"
+  },
+  "section_title": "A House of Prayer for All Nations",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "15 When they arrived in Jerusalem, Jesus entered the temple courts and began to drive out those who were buying and selling there. He overturned the tables of the money changers and the seats of those selling doves. 16 And He would not allow anyone to carry merchandise through the temple courts. 17 Then Jesus began to teach them, and He declared, “Is it not written: ‘My house will be called a house of prayer for all the nations’? But you have made it ‘a den of robbers.’”",
+        "18 When the chief priests and scribes heard this, they looked for a way to kill Him. For they were afraid of Him, because the whole crowd was astonished at His teaching. 19 And when evening came, Jesus and His disciples went out of the city."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus enters the temple courts and drives out buyers and sellers, overturning the money changers' tables and the seats of those selling doves. He also stops people carrying merchandise through the courts. He then teaches about the purpose of God's house.",
+    "",
+    "His explanation joins [Isaiah 56:7](https://biblehub.com/bsb/isaiah/56.htm), about a house of prayer for all nations, with [Jeremiah 7:11](https://biblehub.com/bsb/jeremiah/7.htm), about a den of robbers. Isaiah speaks of foreigners welcomed by God. Jeremiah challenges people who practice injustice and then treat the temple as a place that makes them safe from judgment.",
+    "",
+    "The temple complex had different courts and access restrictions. [Josephus, Jewish War 5.5.2](https://www.gutenberg.org/files/2850/2850-h/2850-h.htm), describes a stone barrier with notices forbidding foreigners from entering the inner sanctuary. This helps illuminate the importance of Jesus' words about all nations, while Mark identifies the setting broadly as the temple courts.",
+    "",
+    "Jesus' accusation therefore reaches beyond the fact that goods change hands. Jeremiah's background brings the conduct of worshipers and their treatment of others into view. Mark does not provide a price list or say that every transaction involved a particular fraudulent fee.",
+    "",
+    "The chief priests and scribes seek a way to kill Him. They fear Him because the crowd is astonished at His teaching. Jesus and the disciples leave the city that evening. The confrontation sits within the fig-tree sequence and leads into further challenges about His authority."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly understand this as Jesus defending the holiness and purpose of God's house and exposing its misuse. [Wesley on Mark 11:16–18](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-mark/) emphasizes the regard due to a place dedicated to God. Reading Jesus' two prophetic references together also keeps prayer, justice, and the welcome of the nations within view."
+  ],
+  "god_plan_lines": [
+    "The promise Jesus cites is larger than the removal of a market. In [Isaiah 56:3–8](https://biblehub.com/bsb/isaiah/56.htm), God welcomes foreigners who join themselves to Him and promises to gather still others beside those already gathered. His house is a place where people once afraid of exclusion can find a name, belonging, and joyful worship.",
+    "",
+    "[Ephesians 2:11–22](https://biblehub.com/bsb/ephesians/2.htm) explains how people once far away are brought near through Christ's blood. Jew and Gentile are reconciled to God through the cross, have access to the Father by one Spirit, and are built together into a dwelling for God. This is a wider connection with the purpose Jesus defends: His saving work gathers people into shared access to God, rather than leaving worship as a privilege to be guarded for one's own advantage."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The True Church According to Jesus",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/mark/11.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-mark-eleven-opening-review.md"
+  }
+}

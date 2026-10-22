@@ -5,26 +5,62 @@
     "label": "1 Samuel 28:1-6",
     "slug": "1-samuel-28-1-6"
   },
-  "section_title": "The Philistines Gather against Israel",
+  "section_title": "What happens when both David and Saul face the coming battle?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "1 Now in those days the Philistines gathered their forces for warfare against Israel. So Achish said to David, \u201cYou must understand that you and your men are to go out to battle with me.\u201d",
-        "2 David replied, \u201cThen you will come to know what your servant can do.\u201d",
-        "\u201cVery well,\u201d said Achish. \u201cI will make you my bodyguard for life.\u201d",
-        "3 Now by this time Samuel had died, and all Israel had mourned for him and buried him in Ramah, his own city. And Saul had removed the mediums and spiritists from the land.",
-        "4 The Philistines came together and camped at Shunem, while Saul gathered all Israel and camped at Gilboa. 5 When Saul saw the Philistine army, he was afraid and trembled violently. 6 He inquired of the LORD, but the LORD did not answer him by dreams or Urim or prophets."
+        "1 Now in those days the Philistines gathered their forces for warfare against Israel. So Achish said to David, “You must understand that you and your men are to go out to battle with me.” 2 David replied, “Then you will come to know what your servant can do.” “Very well,” said Achish. “I will make you my bodyguard for life.”",
+        "3 Now by this time Samuel had died, and all Israel had mourned for him and buried him in Ramah, his own city. And Saul had removed the mediums and spiritists from the land. 4 The Philistines gathered together and camped at Shunem, while Saul gathered all Israel and camped at Gilboa. 5 When Saul saw the Philistine army, he was afraid and trembled violently. 6 He inquired of the LORD, but the LORD did not answer him by dreams or Urim or prophets."
       ]
     }
   ],
   "context_lines": [
-    "In **1 Samuel 28**, this section should be read within the flow of the chapter and the larger movement of 1 Samuel."
+    "The Philistines gather to fight Israel, and Achish tells David that he and his men must march with him. David gives an answer Achish takes as willingness to serve, and the king promises to make him his lifelong bodyguard. The arrangement that offered shelter now requires loyalty in a war against David’s own people.",
+    "",
+    "The scene then turns to Saul. Samuel is dead, and Saul has removed mediums and spiritists from the land. The Philistines camp at Shunem while Saul gathers Israel at Gilboa. Seeing their army, he is terrified.",
+    "",
+    "Saul asks the LORD for guidance, but receives no answer through dreams, Urim or prophets. The chapter places two crises beside each other: David is caught in the obligations of his refuge, and Saul cannot obtain the direction he seeks."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Philistines Gather against Israel** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "[Henry](https://biblehub.com/commentaries/mhc/1_samuel/28.htm) describes David’s position as a dilemma involving loyalty to Achish and loyalty to Israel. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-samuel/) reads his answer as deliberately ambiguous. Neither the king’s confidence nor David’s wording tells the reader exactly what David intends to do in battle.",
     "",
-    "Where interpreters differ on details, the immediate setting in **1 Samuel 28** remains the first control on meaning."
+    "[Henry](https://biblehub.com/commentaries/mhc/1_samuel/28.htm) connects Saul’s distress with his earlier refusal to heed God’s word. The silence is part of the relationship the narrative has traced, rather than evidence that Saul has never asked God a question before.",
+    "",
+    "The account names the means by which no answer comes. It does not explain the workings of the Urim here or identify a new priest or replacement set of objects serving Saul."
   ],
-  "deeper_study": []
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_samuel/28.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-samuel-twenty-seven-thirty-one-review.md"
+  }
 }

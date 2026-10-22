@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "41:1-4",
+    "label": "Ezekiel 41:1-4",
+    "slug": "ezekiel-41-1-4"
+  },
+  "section_title": "What is the Most Holy Place?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Then the man brought me into the outer sanctuary and measured the side pillars to be six cubits wide on each side. 2 The width of the entrance was ten cubits, and the sides of the entrance were five cubits on each side. He also measured the length of the outer sanctuary to be forty cubits, and the width to be twenty cubits. 3 And he went into the inner sanctuary and measured the side pillars at the entrance to be two cubits wide. The entrance was six cubits wide, and the walls on each side were seven cubits wide. 4 Then he measured the room adjacent to the inner sanctuary to be twenty cubits long and twenty cubits wide. And he said to me, “This is the Most Holy Place.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The guide measures the temple’s outer sanctuary, forty cubits long and twenty cubits wide. He then goes inward and measures the entrance and the room identified as the Most Holy Place.",
+    "",
+    "The Most Holy Place is twenty cubits square. The movement from the courts into the sanctuary reaches its innermost room here.",
+    "",
+    "The guide goes into this inner area; Ezekiel is given its measurements and told what it is. The description focuses on the room’s holiness and place within the sanctuary, rather than supplying a new explanation for every dimension."
+  ],
+  "common_interpretation_lines": [
+    "[Cambridge](https://biblehub.com/commentaries/cambridge/ezekiel/41.htm) notes that the guide enters the Most Holy Place while Ezekiel does not, and [Wesley](https://biblehub.com/commentaries/wes/ezekiel/41.htm) emphasizes its square shape. [Henry](https://biblehub.com/commentaries/mhc/ezekiel/41.htm) draws a lesson from the progress of the tour: attention to what God has already taught prepares people to understand more.",
+    "",
+    "These explanations begin with the distinction between the outer sanctuary and the innermost holy room."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 9:1–14, 24–28](https://biblehub.com/bsb/hebrews/9.htm) explains the earlier sanctuary’s restricted approach to the Most Holy Place and then turns to Christ. He enters by His own blood, securing eternal redemption, and appears for His people in God’s presence.",
+    "",
+    "This is a connection through the sanctuary theme, rather than a claim that Hebrews identifies Ezekiel’s measurements with a heavenly floor plan. The larger purpose is access to God through Christ, whose offering cleanses the conscience so that His people may serve the living God."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/41.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-forty-two-review.md"
+  }
+}

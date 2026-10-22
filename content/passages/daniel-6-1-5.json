@@ -1,0 +1,56 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "6:1-5",
+    "label": "Daniel 6:1-5",
+    "slug": "daniel-6-1-5"
+  },
+  "section_title": "What can Daniel’s opponents find against him?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Now it pleased Darius to appoint 120 satraps to rule throughout the kingdom, 2 and over them three administrators, including Daniel, to whom these satraps were accountable so that the king would not suffer loss. 3 Soon, by his extraordinary spirit, Daniel distinguished himself among the administrators and satraps. So the king planned to set him over the whole kingdom.",
+        "4 Thus the administrators and satraps sought a charge against Daniel concerning the kingdom, but they could find no charge or corruption, because he was trustworthy, and no negligence or corruption was found in him. 5 Finally these men said, “We will never find any charge against this Daniel unless we find something against him concerning the law of his God.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Under the new ruler, Daniel is one of three administrators overseeing the kingdom’s officials. He distinguishes himself so clearly that Darius plans to put him over the whole kingdom.",
+    "",
+    "The other officials search for grounds to accuse him in his work. They find neither corruption nor negligence: Daniel is trustworthy. Their conclusion is that the only way to bring a charge against him is through his loyalty to his God.",
+    "",
+    "The conflict begins with a faithful man doing his ordinary responsibilities well. His opponents decide to make that faithfulness itself the means of trapping him."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/daniel/6.htm) and [Wesley](https://biblehub.com/commentaries/wes/daniel/6.htm) emphasize Daniel’s integrity in public service. His opponents’ scrutiny exposes their hostility while showing that they have no genuine charge against his conduct."
+  ],
+  "god_plan_lines": [
+    "[1 Peter 2:11–17](https://biblehub.com/bsb/1_peter/2.htm) calls believers living as foreigners and exiles to honorable conduct among people who may accuse them of wrongdoing. Their good deeds are meant to lead others to glorify God.",
+    "",
+    "This carries the pattern beyond Daniel’s service in a foreign court. God’s people bear witness through the way they live and serve, even when doing right does not remove hostility. Peter brings together honoring the king and fearing God, placing public responsibility within a greater loyalty to Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/6.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-six-review.md"
+  }
+}

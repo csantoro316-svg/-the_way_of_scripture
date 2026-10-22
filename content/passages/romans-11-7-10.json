@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "Romans",
+    "citation": "11:7-10",
+    "label": "Romans 11:7-10",
+    "slug": "romans-11-7-10"
+  },
+  "section_title": "What does Paul mean by the others being hardened?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 What then? What Israel was seeking, it failed to obtain, but the elect did. The others were hardened, 8 as it is written: “God gave them a spirit of stupor, eyes that could not see, and ears that could not hear, to this very day.” 9 And David says: “May their table become a snare and a trap, a stumbling block and a retribution to them. 10 May their eyes be darkened so they cannot see, and their backs be bent forever.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul contrasts the elect, who have obtained what Israel sought, with others who were hardened. This continues the earlier discussion of righteousness, grace and unbelief. It does not describe every Israelite as unbelieving; the preceding verses have expressly identified a remnant.",
+    "",
+    "He draws on Moses and Isaiah for the picture of people seeing and hearing without understanding. He then quotes David’s prayer that his opponents’ table become a trap and their eyes be darkened. These are serious words of judgment, placed within a chapter that also speaks of God’s ability to bring people back."
+  ],
+  "common_interpretation_lines": [
+    "The main difference follows the discussion of mercy and hardening in chapter 9. [Calvin’s comment on verse 7](https://biblehub.com/commentaries/calvin/romans/11.htm) emphasizes God’s election as the reason for the distinction. [Wesley’s notes on verses 7–8](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-romans/) emphasize persistent resistance followed by God giving people over to it. Both take hardening seriously as judgment; they differ over how God’s choice and human response relate."
+  ],
+  "god_plan_lines": [
+    "[Deuteronomy 29:2–6](https://biblehub.com/bsb/deuteronomy/29.htm) distinguishes witnessing God’s acts from truly understanding them. [Isaiah 29:9–14](https://biblehub.com/bsb/isaiah/29.htm) places spiritual blindness alongside worship that honors God with words while the heart remains far away.",
+    "",
+    "Yet Isaiah’s chapter also looks toward a day when the deaf hear, the blind see and the humble rejoice in God (verses 18–19). That wider setting keeps judgment beside the possibility of God’s restoring work. Romans 11 likewise goes on to speak of renewed faith and being grafted in again; this passage should be read within that larger movement."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/romans/11.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-romans-eleven-review.md"
+  }
+}

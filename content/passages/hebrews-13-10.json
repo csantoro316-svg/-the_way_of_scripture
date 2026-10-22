@@ -5,11 +5,53 @@
     "label": "Hebrews 13:10",
     "slug": "hebrews-13-10"
   },
-  "versions": [],
-  "context_lines": [
-    "Hebrews 13:10 should be read within the flow of its chapter and the larger argument of Hebrews."
+  "section_title": "What is the altar the writer says we have?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 We have an altar from which those who serve at the tabernacle have no right to eat."
+      ]
+    }
   ],
-  "explanation_lines": [
-    "To rebuild any of these four in physical form was to misunderstand what the new covenant had accomplished. This framework helps explain why the early church's rejection of sacred buildings was not poverty or circumstance \u2014 it was theological conviction."
-  ]
+  "context_lines": [
+    "This verse belongs to 13:9–16. The writer contrasts strength through grace with reliance on food observances, then speaks of the altar and the earlier tabernacle service.",
+    "",
+    "The next verses explain the connection through sin offerings whose blood entered the sanctuary and whose bodies were burned outside the camp. Jesus likewise suffered outside the gate. The contrast concerns participation in His sacrifice, rather than a claim that a Christian object can replace the need for Him.",
+    "",
+    "The comparison concerns the specific offerings described in [Leviticus 6:30](https://biblehub.com/bsb/leviticus/6.htm) and [16:27](https://biblehub.com/bsb/leviticus/16.htm). It should not be expanded into a claim that priests never ate any sin offering; Leviticus 6:26–29 describes offerings they did eat."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/13.htm), [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) and the [USCCB note](https://bible.usccb.org/bible/hebrews/13) understand the altar in relation to Christ’s sacrifice, with Wesley naming the cross directly. The USCCB note does not identify the verse with the Eucharist. In these readings, the contrast directs people to the benefits of Christ’s offering rather than reliance on the earlier sanctuary service."
+  ],
+  "god_plan_lines": [
+    "[Hebrews 10:10–18](https://biblehub.com/bsb/hebrews/10.htm) explains why Christ’s one offering does not need to be supplemented by another offering for sin. That is the wider setting for what believers have in Him.",
+    "",
+    "[1 Peter 2:4–5](https://biblehub.com/bsb/1_peter/2.htm) then describes the spiritual sacrifices offered by God’s people through Jesus. Hebrews itself names praise, generosity and doing good in 13:15–16. God’s purpose brings a people into grateful service through the sacrifice Christ has already made."
+  ],
+  "current_position_lines": [
+    "Our study [Worship as the Early Church Knew It](https://thewayofscripture.com/studies/worship.html) identifies the altar here with the cross of Christ. His sacrifice fulfills the earlier offerings. The study distinguishes that saving work from the grateful response of believers offering their lives in service to God; their service does not add another payment for sin."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/13.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-thirteen-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It — content/studies/worship.md:313, explicit retained Hebrews13:10 altar/cross."
+  }
 }

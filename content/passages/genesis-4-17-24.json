@@ -12,25 +12,46 @@
       "paragraphs": [
         "17 And Cain had relations with his wife, and she conceived and gave birth to Enoch. Then Cain built a city and named it after his son Enoch.",
         "18 Now to Enoch was born Irad, and Irad was the father of Mehujael, and Mehujael was the father of Methusael, and Methusael was the father of Lamech. 19 And Lamech married two women, one named Adah and the other Zillah.",
-        "20 Adah gave birth to Jabal; he was the father of those who dwell in tents and raise livestock. 21 And his brother\u2019s name was Jubal; he was the father of all who play the harp and flute.",
+        "20 Adah gave birth to Jabal; he was the father of those who dwell in tents and raise livestock. 21 And his brother’s name was Jubal; he was the father of all who play the harp and flute.",
         "22 And Zillah gave birth to Tubal-cain, a forger of every implement of bronze and iron. And the sister of Tubal-cain was Naamah.",
         "23 Then Lamech said to his wives:",
-        "\u201cAdah and Zillah, hear my voice;",
+        "“Adah and Zillah, hear my voice;",
         "wives of Lamech, listen to my speech.",
         "For I have slain a man for wounding me,",
         "a young man for striking me.",
         "24 If Cain is avenged sevenfold,",
-        "then Lamech seventy-sevenfold.\u201d"
+        "then Lamech seventy-sevenfold.”"
       ]
     }
   ],
   "context_lines": [
-    "In **Genesis 4**, this section should be read within the flow of the chapter and the larger movement of Genesis."
+    "After Cain's departure, Genesis follows his descendants. A city takes his son's name, and the family develops herding, music, and metalworking. The passage records growing human skill alongside growing violence. It does not say that tents, instruments, or tools are evil in themselves, or that technical progress repairs a person's relationship with God.",
+    "",
+    "Lamech takes two wives, then addresses them in a boast about killing someone who wounded him. He appeals to God's earlier protection of Cain but magnifies vengeance for himself. The contrast with chapter 2's marriage and chapter 4's restraint on retaliation matters: Lamech makes his own power the answer to injury.",
+    "",
+    "Several names here also appear, or resemble names, in the next family list. This Lamech belongs to Cain's line; the Lamech in chapter 5 is Noah's father. Keeping the families distinct prevents us from reading the boast of this man into the story of the other. The next two verses return to Adam and Eve and another line of descendants."
   ],
   "common_interpretation_lines": [
-    "A common reading of **The Descendants of Cain** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
-    "",
-    "Where interpreters differ on details, the immediate setting in **Genesis 4** remains the first control on meaning."
+    "This is commonly read as the growth of human culture without a matching cure for sin: skills advance while Lamech openly celebrates retaliation. [Wesley's notes on verses 19–24](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-moses-called-genesis/) contrast his multiple wives with the first marriage and describe his boast as a misuse of the protection given to Cain."
   ],
-  "deeper_study": []
+  "deeper_study": [],
+  "god_plan_lines": [
+    "There is a striking parallel in the way Jesus teaches forgiveness. Lamech enlarges a sevenfold claim of vengeance to seventy-sevenfold; in [Matthew 18:21–35](https://biblehub.com/bsb/matthew/18.htm), Jesus answers Peter's question about forgiving seven times with a far greater measure of forgiveness. The BSB renders the answer as seventy-seven times and notes the alternative calculation of seventy times seven. Either way, the direction is the opposite of Lamech's boast.",
+    "",
+    "This is a comparison between the passages, not an explicit statement by Matthew that Jesus is quoting Lamech. The lesson fits the kingdom Jesus describes: people who have received mercy must show mercy. [Romans 12:17–21](https://biblehub.com/bsb/romans/12.htm) carries the same call into Christian life by forbidding personal revenge and urging believers to overcome evil with good."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-18",
+    "quote_source": "https://biblehub.com/bsb/genesis/4.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-18-genesis-cain-to-noah-review.md"
+  }
 }

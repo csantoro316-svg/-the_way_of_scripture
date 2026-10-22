@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "1 Kings",
+    "citation": "3:1-5",
+    "label": "1 Kings 3:1-5",
+    "slug": "1-kings-3-1-5"
+  },
+  "section_title": "What kind of beginning does Solomon make?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Later, Solomon formed an alliance with Pharaoh king of Egypt by marrying his daughter. Solomon brought her to the City of David until he had finished building his palace and the house of the LORD, as well as the wall around Jerusalem. 2 The people, however, were still sacrificing on the high places because a house for the Name of the LORD had not yet been built. 3 And Solomon loved the LORD and walked in the statutes of his father David, except that he sacrificed and burned incense on the high places.",
+        "4 Now the king went to Gibeon to sacrifice there, for it was the great high place. Solomon offered a thousand burnt offerings on the altar there. 5 One night at Gibeon the LORD appeared to Solomon in a dream, and God said, “Ask, and I will give it to you!”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Solomon forms an alliance with Egypt by marrying Pharaoh’s daughter. She lives in the City of David while his palace, the LORD’s house and Jerusalem’s wall are being completed.",
+    "",
+    "The narrator says that Solomon loves the LORD and follows David’s statutes, while also noting his sacrifices and incense at the high places. The temple has not yet been built.",
+    "",
+    "Solomon goes to Gibeon, the great high place, and offers a thousand burnt offerings. [2 Chronicles 1:3–6](https://biblehub.com/bsb/2_chronicles/1.htm) explains that the Tent of Meeting and its bronze altar are there. At night, God appears to Solomon in a dream and invites him to ask for a gift."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/1_kings/3.htm) criticizes Solomon’s choice of a foreign wife. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-book-of-kings/) and [Gill](https://biblehub.com/commentaries/gill/1_kings/3.htm) instead suppose that Pharaoh’s daughter first adopted Israel’s faith. The narrative itself records the alliance and marriage without describing her conversion.",
+    "",
+    "Wesley also criticizes the wider use of high places, since the tabernacle already provided an appointed place for sacrifice. Gill distinguishes Gibeon’s importance by the presence of that tabernacle and its altar.",
+    "",
+    "These details make the opening more than a simple account of success. Solomon’s love for the LORD is affirmed, while choices about marriage and worship remain matters the reader must follow through the rest of his reign."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/1_kings/3.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-first-kings-three-review.md"
+  }
+}

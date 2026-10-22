@@ -5,27 +5,59 @@
     "label": "Judges 4:17-24",
     "slug": "judges-4-17-24"
   },
-  "section_title": "Jael Kills Sisera",
+  "section_title": "Why does Sisera’s escape end at Jael’s tent?",
   "versions": [
     {
       "label": "BSB",
       "paragraphs": [
-        "17 Meanwhile, Sisera had fled on foot to the tent of Jael, the wife of Heber the Kenite, because there was peace between Jabin king of Hazor and the house of Heber the Kenite. 18 Jael went out to greet Sisera and said to him, \u201cCome in, my lord. Come in with me. Do not be afraid.\u201d So he entered her tent, and she covered him with a blanket.",
-        "19 Sisera said to her, \u201cPlease give me a little water to drink, for I am thirsty.\u201d So she opened a container of milk, gave him a drink, and covered him again.",
-        "20 \u201cStand at the entrance to the tent,\u201d he said, \u201cand if anyone comes and asks you, \u2018Is there a man here?\u2019 say, \u2018No.\u2019 \u201d",
-        "21 But as he lay sleeping from exhaustion, Heber\u2019s wife Jael took a tent peg, grabbed a hammer, and went silently to Sisera. She drove the peg through his temple and into the ground, and he died.",
-        "22 When Barak arrived in pursuit of Sisera, Jael went out to greet him and said to him, \u201cCome, and I will show you the man you are seeking.\u201d So he went in with her, and there lay Sisera dead, with a tent peg through his temple.",
+        "17 Meanwhile, Sisera had fled on foot to the tent of Jael, the wife of Heber the Kenite, because there was peace between Jabin king of Hazor and the house of Heber the Kenite. 18 Jael went out to greet Sisera and said to him, “Come in, my lord. Come in with me. Do not be afraid.” So he entered her tent, and she covered him with a blanket. 19 Sisera said to her, “Please give me a little water to drink, for I am thirsty.” So she opened a container of milk, gave him a drink, and covered him again. 20 “Stand at the entrance to the tent,” he said, “and if anyone comes and asks you, ‘Is there a man here?’ say, ‘No.’”",
+        "21 But as he lay sleeping from exhaustion, Heber’s wife Jael took a tent peg, grabbed a hammer, and went silently to Sisera. She drove the peg through his temple and into the ground, and he died. 22 When Barak arrived in pursuit of Sisera, Jael went out to greet him and said to him, “Come, and I will show you the man you are seeking.” So he went in with her, and there lay Sisera dead, with a tent peg through his temple.",
         "23 On that day God subdued Jabin king of Canaan before the Israelites. 24 And the hand of the Israelites grew stronger and stronger against Jabin king of Canaan until they destroyed him."
       ]
     }
   ],
   "context_lines": [
-    "In **Judges 4**, this section should be read within the flow of the chapter and the larger movement of Judges."
+    "Sisera seeks shelter with Jael because Jabin and Heber’s household are at peace. Jael welcomes him, covers him, and gives him milk when he asks for water. He asks her to stand at the entrance and deny that anyone is there. Exhausted, he falls asleep.",
+    "",
+    "Jael then kills him with a tent peg and hammer. When Barak arrives in pursuit, she shows him the body. Deborah’s announcement that Sisera would fall into a woman’s hand is fulfilled through Jael, outside the battle Barak has been fighting.",
+    "",
+    "The chapter closes by returning to the wider rescue: God subdues Jabin, and the Israelites press their advantage until his power is destroyed. Sisera’s death is a decisive part of that victory, while the final verses describe continued action against the king."
   ],
   "common_interpretation_lines": [
-    "A common reading of **Jael Kills Sisera** is that it should be interpreted in light of the chapter's full narrative movement rather than as an isolated proof text.",
+    "Readers often ask how to understand Jael’s welcome followed by her killing of Sisera. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-book-of-judges/) recognizes the difficulty of promising safety and then attacking. He considers the possibility that she first intended to shelter Sisera and afterward received divine direction to kill him. [Henry](https://biblehub.com/commentaries/mhc/judges/4.htm) and [Gill](https://biblehub.com/commentaries/gill/judges/4.htm) also suggest an initial welcome followed by a divine prompting. The text records her actions but does not explicitly narrate such an instruction or a change of intention.",
     "",
-    "Where interpreters differ on details, the immediate setting in **Judges 4** remains the first control on meaning."
+    "Within the book, her action contributes to the defeat of Israel’s oppressor, and Deborah’s song calls her blessed ([Judges 5:24–27](https://biblehub.com/bsb/judges/5.htm)). That praise is an important part of how Judges presents her. The question of exactly when she formed her plan remains open in the account."
   ],
-  "deeper_study": []
+  "god_plan_lines": [
+    "Later Scripture remembers this rescue as a witness to the LORD’s rule. [Psalm 83:9–18](https://biblehub.com/bsb/psalms/83.htm) recalls Sisera, Jabin, and the Kishon while praying for God to confront those threatening His people. The prayer also asks that people seek His name and know that He alone is Most High over all the earth.",
+    "",
+    "That purpose reaches beyond relief for one nation. In [Revelation 15:3–4](https://biblehub.com/bsb/revelation/15.htm), the song of Moses and the Lamb praises God’s just ways and looks toward the nations worshiping Him because His righteous acts have been revealed. These passages place God’s judgments within the larger theme of His name being known and honored throughout the earth."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "Worship",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/judges/4.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-judges-four-review.md"
+  }
 }

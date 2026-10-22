@@ -20,6 +20,7 @@ def main() -> int:
     commands = [
         ["python3", "-m", "py_compile", "tools/generate_study_pages.py"],
         ["python3", "-m", "py_compile", "tools/validate_passages.py"],
+        ["python3", "tools/test_passage_editorial.py"],
         ["python3", "tools/validate_passages.py"],
     ]
     for cmd in commands:

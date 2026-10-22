@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "Ephesians",
+    "citation": "3:20-21",
+    "label": "Ephesians 3:20-21",
+    "slug": "ephesians-3-20-21"
+  },
+  "section_title": "Why does Paul end his prayer with praise?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "20 Now to Him who is able to do immeasurably more than all we ask or imagine, according to His power that is at work within us, 21 to Him be the glory in the church and in Christ Jesus throughout all generations, forever and ever. Amen."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul closes the prayer of verses 14–19 by praising the God to whom he has been praying. God is able to do immeasurably more than all we ask or imagine, through the power already at work within His people.",
+    "",
+    "The praise belongs in the setting of the requests for spiritual strength, Christ’s presence, love and fullness. Paul’s confidence rests in God’s ability to accomplish His work among them.",
+    "",
+    "He gives glory to God in the church and in Christ Jesus throughout every generation, forever. The praise closes this part of the letter before chapter 4 turns toward living in a manner worthy of their calling."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand this as praise that expresses confidence in God’s power and gives Him glory through Christ and the church. [Wesley’s notes on verses 20–21](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-st-pauls-epistle-to-the-ephesians/) connect the praise with confidence in the great things Paul has just prayed for. The [USCCB notes on verses 14–21](https://bible.usccb.org/bible/ephesians/3) likewise identify these verses as the prayer’s closing praise."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Does Prayer Look Like?",
+      "href": "../studies/what-does-prayer-look-like.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/ephesians/3.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-ephesians-three-review.md"
+  }
+}

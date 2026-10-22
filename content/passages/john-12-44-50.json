@@ -1,0 +1,59 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "12:44-50",
+    "label": "John 12:44-50",
+    "slug": "john-12-44-50"
+  },
+  "section_title": "Why does receiving Jesus mean receiving the Father?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "44 Then Jesus cried out, “Whoever believes in Me does not believe in Me alone, but in the One who sent Me. 45 And whoever sees Me sees the One who sent Me. 46 I have come into the world as a light, so that no one who believes in Me should remain in darkness.",
+        "47 As for anyone who hears My words and does not keep them, I do not judge him. For I have not come to judge the world, but to save the world. 48 There is a judge for the one who rejects Me and does not receive My words: The word that I have spoken will judge him on the last day. 49 I have not spoken on My own, but the Father who sent Me has commanded Me what to say and how to say it. 50 And I know that His command leads to eternal life. So I speak exactly what the Father has told Me to say.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "John brings this section of Jesus’ public teaching to its close with a call to believe. The words gather themes heard throughout the Gospel: the Father has sent the Son, Jesus brings light, and His message leads to life. John does not give a new date or location for this declaration.",
+    "",
+    "Jesus directs belief in Himself toward the Father who sent Him. To see Him is to see the Father made known through Him. The point is not simply that He is one teacher with a message worth considering, but that His words and work reveal the One who sent Him.",
+    "",
+    "He says that He has come to save the world, then warns that rejecting His words has consequences on the last day. Read verses 47 and 48 together: the saving purpose of His coming does not cancel judgment. The word being offered as life will also expose the refusal to receive Him.",
+    "",
+    "The passage ends where it began, with the Father and Son together in this mission. Jesus speaks what the Father has commanded, and that command leads to eternal life. The invitation is therefore to receive the life God makes known through His Son."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly distinguish the saving purpose of Jesus’ coming from the judgment faced by those who reject His words. [Calvin on verses 47–48](https://biblehub.com/commentaries/calvin/john/12.htm) and [Wesley on verses 44–50](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/) read the message as an invitation to life that also carries responsibility for the response."
+  ],
+  "god_plan_lines": [
+    "The Gospel began by describing the Word who was with God, became flesh and made the Father known ([John 1:1–18](https://biblehub.com/bsb/john/1.htm)). This closing call shows the purpose of that coming in direct terms: through the Son, people are brought out of darkness and into life with God.",
+    "",
+    "[Ephesians 1:9–10](https://biblehub.com/bsb/ephesians/1.htm) describes God’s purpose to bring all things together in Christ. Jesus’ message belongs to that larger work of making the Father known and gathering people into life with Him."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/12.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-twelve-closing-review.md"
+  }
+}

@@ -5,13 +5,49 @@
     "label": "Acts 18:7",
     "slug": "acts-18-7"
   },
-  "versions": [],
-  "context_lines": [
-    "Acts 18:7 should be read within the flow of its chapter and the larger argument of Acts."
+  "section_title": "What makes Titus Justus’s home a place for the message?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 So Paul left the synagogue and went next door to the house of Titus Justus, a worshiper of God."
+      ]
+    }
   ],
-  "explanation_lines": [
-    "**Restored reading:** *\"...one who stood in awe of God...\"*",
+  "context_lines": [
+    "After opposition in the synagogue, Paul moves next door to the house of Titus Justus, described as a worshiper of God. The location changes, but the teaching continues. The following verse reports belief by Crispus and his household and by many Corinthians.",
     "",
-    "Justus's reverence wasn't tied to location \u2014 it came from within. His home became a center of Christian fellowship not because it was sacred in structure, but because it was inhabited by one who stood in awe of God. *Sebomai* teaches that reverence makes any place sacred \u2014 if the heart is truly bowed."
-  ]
+    "Justus’s description points to reverence for God. The account makes a private home part of the setting in which people hear the message; it does not describe a special construction or ceremony that turns the building into a dwelling God needs."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this move as the opening of another place for teaching after synagogue opposition. Hospitality and reverence help make room for the message; the passage does not require that all believers meet in the same kind of building."
+  ],
+  "god_plan_lines": [
+    "The house next door becomes part of the continuing witness in Corinth. The following vision promises the Lord’s presence and further work in the city, and Paul remains to teach. [1 Corinthians 3:5–9](https://biblehub.com/bsb/1_corinthians/3.htm) later describes the Corinthians themselves as God’s field and building: the lasting work concerns the people He brings to faith and helps to grow."
+  ],
+  "current_position_lines": [
+    "Worship as the Early Church Knew It directly discusses Acts 18:7. It emphasizes Justus’s reverence for God and the way his home becomes a setting for Christian fellowship. The focus is on people who honor God, rather than on a building regarded as sacred in itself."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/18.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-acts-eighteen-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It: direct Acts18:7, A Home Marked by Awe."
+  }
 }

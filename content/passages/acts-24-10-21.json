@@ -1,0 +1,71 @@
+{
+  "reference": {
+    "book": "Acts",
+    "citation": "24:10-21",
+    "label": "Acts 24:10-21",
+    "slug": "acts-24-10-21"
+  },
+  "section_title": "How does Paul join his defense with his hope in God?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 When the governor motioned for Paul to speak, he began his response: “Knowing that you have been a judge over this nation for many years, I gladly make my defense. 11 You can verify for yourself that no more than twelve days ago I went up to Jerusalem to worship. 12 Yet my accusers did not find me debating with anyone in the temple or riling up a crowd in the synagogues or in the city. 13 Nor can they prove to you any of their charges against me.",
+        "14 I do confess to you, however, that I worship the God of our fathers according to the Way, which they call a sect. I believe everything that is laid down by the Law and written in the Prophets, 15 and I have the same hope in God that they themselves cherish, that there will be a resurrection of both the righteous and the wicked. 16 In this hope, I strive always to maintain a clear conscience before God and man.",
+        "17 After several years, then, I returned to Jerusalem to bring alms to my people and to present offerings. 18 At the time they found me in the temple, I was ceremonially clean and was not inciting a crowd or an uproar. But there are some Jews from the province of Asia 19 who ought to appear before you and bring charges, if they have anything against me. 20 Otherwise, let these men state for themselves any crime they found in me when I stood before the Sanhedrin, 21 unless it was this one thing I called out as I stood in their presence: ‘It is concerning the resurrection of the dead that I am on trial before you today.’”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Paul points to the short interval since he went to Jerusalem and denies that his accusers found him stirring up crowds in the temple, synagogues or city. He challenges them to prove their charges. His defense addresses conduct that can be examined, not only his opinion of himself.",
+    "",
+    "He freely acknowledges following the Way, while insisting that he worships the God of his fathers and believes what is laid down in the Law and written in the Prophets. He holds the hope of a resurrection of both the righteous and the wicked and seeks a clear conscience before God and people.",
+    "",
+    "The worship word is **λατρεύω** (*latreuō*, lah-TREH-oo-oh), to render religious service or worship. [Thayer’s entry](https://biblehub.com/greek/3000.htm) includes Acts 24:14 in its broad use for serving God. Paul’s declaration concerns his allegiance and service, in a defense that also speaks of his beliefs, hope and conduct.",
+    "",
+    "He explains that he came with help for his people and offerings, and was found in the temple purified, without a crowd or uproar. The people from Asia who first accused him are not present to state their case. He asks those who are present to name the wrongdoing found at the council, apart from his declaration about resurrection.",
+    "",
+    "[Acts 21:27–29](https://biblehub.com/bsb/acts/21.htm) has already explained that the charge about Trophimus grew from seeing him with Paul in the city and assuming he entered the temple. That context helps explain Paul’s demand that the original accusers appear and state their case."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Paul as confessing faithfulness to Israel’s God and Scriptures while rejecting the claim that following Jesus makes him a criminal. The resurrection of both righteous and wicked brings accountability before God into the defense. This passage affirms that hope without setting out a detailed timetable of every event at the end."
+  ],
+  "god_plan_lines": [
+    "[John 5:28–29](https://biblehub.com/bsb/john/5.htm) speaks of the dead hearing the Son’s voice and coming out to resurrection, with both life and judgment in view. Paul’s hope concerns God’s final dealing with people, not simply success or vindication in the present hearing.",
+    "",
+    "In [2 Corinthians 5:9–11](https://biblehub.com/bsb/2_corinthians/5.htm), Paul connects the coming judgment with seeking to please Christ and persuading others. That helps explain why the hope of resurrection shapes his conscience here. The future God promises has consequences for how he serves and lives now."
+  ],
+  "current_position_lines": [
+    "Worship as the Early Church Knew It directly discusses Acts 24:14 as Paul’s declaration of loyal service to God, expressed through his obedience and ministry. Returning to the Word also uses this verse in explaining the early name the Way and the site’s emphasis on following Christ through a life grounded in Scripture. Together, these studies place the emphasis on faithful service and a lived response to God’s word, rather than a label by itself."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "Returning to the Word",
+      "href": "../studies/returning-to-the-word.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/acts/24.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-acts-twenty-four-review.md",
+    "position_source_detail": "Worship as the Early Church Knew It: direct Acts24:14, Paul’s Declaration; Returning to the Word: The Way, direct24:14."
+  }
+}

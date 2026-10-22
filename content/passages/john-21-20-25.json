@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "21:20-25",
+    "label": "John 21:20-25",
+    "slug": "john-21-20-25"
+  },
+  "section_title": "Why does Jesus tell Peter to keep following Him?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "20 Peter turned and saw the disciple whom Jesus loved following them. He was the one who had leaned back against Jesus at the supper to ask, “Lord, who is going to betray You?” 21 When Peter saw him, he asked, “Lord, what about him?” 22 Jesus answered, “If I want him to remain until I return, what is that to you? You follow Me!” 23 Because of this, the rumor spread among the brothers that this disciple would not die. However, Jesus did not say that he would not die, but only, “If I want him to remain until I return, what is that to you?”",
+        "24 This is the disciple who testifies to these things and who has written them down. And we know that his testimony is true. 25 There are many more things that Jesus did. If all of them were written down, I suppose that not even the world itself would have space for the books that would be written."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After hearing about his own future, Peter asks about the disciple Jesus loved. Jesus directs him back to his own calling. The other disciple’s future is in the Lord’s hands; Peter is to follow Jesus.",
+    "",
+    "A rumor spreads that this disciple will not die. John carefully corrects it: Jesus did not make that promise. He spoke conditionally about what He might choose. The difference between what was said and what people assumed matters, even among the first believers.",
+    "",
+    "The closing verses identify this disciple as the witness behind the written account and affirm that his testimony is true. They also acknowledge that the book records only part of what Jesus did. The Gospel ends with confidence in its testimony and wonder at a life larger than any single written account."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly understand Jesus’s answer as a call to faithful discipleship without making another person’s future the condition for one’s own obedience. [Calvin on verse 22](https://biblehub.com/commentaries/calvin/john/21.htm) distinguishes proper care for others from curiosity that distracts a person from their calling.",
+    "",
+    "The correction in verse 23 is generally read as a warning against turning Jesus’s conditional words into a definite prediction. His return remains part of the hope in the saying, but the verse does not promise that the beloved disciple will survive until then. The closing statement about the world and its books expresses the greatness of Jesus’s works, rather than asking readers to calculate literal shelf space."
+  ],
+  "god_plan_lines": [
+    "This ending returns to the purpose stated in [John 20:30–31](https://the-way-of-scripture.web.app/passages/john-20-30-31.html). The account is selective, yet its testimony points readers to life through believing in Jesus. God’s work is greater than the book’s contents, while what has been written gives readers a real witness to trust.",
+    "",
+    "The corrected rumor also shows why faithful expectation of Christ’s return must attend carefully to His words. Hope in His purposes and obedience to His call belong together; neither requires knowing the timetable or another disciple’s whole future."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/21.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-twenty-one-review.md"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "11:1-12",
+    "label": "Ezekiel 11:1-12",
+    "slug": "ezekiel-11-1-12"
+  },
+  "section_title": "Can the city protect leaders who reject God’s word?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Then the Spirit lifted me up and brought me to the gate of the house of the LORD that faces east. And there at the entrance of the gate were twenty-five men. Among them I saw Jaazaniah son of Azzur and Pelatiah son of Benaiah, who were leaders of the people. 2 And the LORD said to me, “Son of man, these are the men who plot evil and give wicked counsel in this city. 3 They are saying, ‘Is not the time near to build houses? The city is the cooking pot, and we are the meat.’ 4 Therefore prophesy against them; prophesy, O son of man!”",
+        "5 And the Spirit of the LORD fell upon me and told me to declare that this is what the LORD says: “That is what you are thinking, O house of Israel; and I know the thoughts that arise in your minds. 6 You have multiplied those you killed in this city and filled its streets with the dead. 7 Therefore this is what the Lord GOD says: The slain you have laid within this city are the meat, and the city is the pot; but I will remove you from it.",
+        "8 You fear the sword, so I will bring the sword against you, declares the Lord GOD. 9 I will bring you out of the city and deliver you into the hands of foreigners, and I will execute judgments against you. 10 You will fall by the sword, and I will judge you even to the borders of Israel. Then you will know that I am the LORD. 11 The city will not be a pot for you, nor will you be the meat within it. I will judge you even to the borders of Israel. 12 Then you will know that I am the LORD. For you have neither followed My statutes nor practiced My ordinances, but you have conformed to the ordinances of the nations around you.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The Spirit brings Ezekiel to the east gate, where twenty-five men have gathered. Two leaders are named: Jaazaniah son of Azzur and Pelatiah son of Benaiah. The Lord identifies the group as men who plot evil and give wicked counsel.",
+    "",
+    "In the BSB, their words ask whether the time is near to build houses, then compare the city to a cooking pot and themselves to the meat inside. The picture expresses confidence that they belong safely within the city.",
+    "",
+    "The Lord turns their saying against them. The slain whose deaths they have multiplied are the meat that remains within the city; these leaders will be brought out. The sword they fear will reach them, and judgment will extend to Israel’s borders.",
+    "",
+    "The reason is stated plainly: they have followed the practices of surrounding nations instead of the Lord’s statutes. The protection they imagine cannot cancel their responsibility for what they have done."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/ezekiel/11.htm) reads the pot as the leaders’ claim that the city walls will protect them. [Wesley](https://biblehub.com/commentaries/wes/ezekiel/11.htm) likewise understands their counsel as defiance of the announced danger, even though fear is present beneath their confidence.",
+    "",
+    "The wording about building houses is understood differently in translations. The [Cambridge commentary on verse 3](https://biblehub.com/commentaries/cambridge/ezekiel/11.htm) discusses both a statement that the time to build is not near and the question reflected in the BSB. Across those readings, the Lord’s answer overturns the claim of safety within the city: the leaders will be brought out to face judgment."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/11.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-ten-eleven-review.md"
+  }
+}

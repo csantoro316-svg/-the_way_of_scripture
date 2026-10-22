@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "13:4-6",
+    "label": "Hebrews 13:4-6",
+    "slug": "hebrews-13-4-6"
+  },
+  "section_title": "How do faithfulness and contentment shape our lives?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "4 Marriage should be honored by all and the marriage bed kept undefiled, for God will judge the sexually immoral and adulterers.",
+        "5 Keep your lives free from the love of money and be content with what you have, for God has said: “Never will I leave you, never will I forsake you.” 6 So we say with confidence: “The Lord is my helper; I will not be afraid. What can man do to me?”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "The instructions turn to marriage and money. Marriage is to be honored, with faithfulness in sexual conduct. The warning about God’s judgment gives those relationships moral weight; they are not merely private preferences.",
+    "",
+    "The readers are also called to freedom from the love of money and to contentment. The reason given is God’s promise not to abandon His people. Confidence rests on His presence, rather than on being able to accumulate enough to control every risk.",
+    "",
+    "The promise recalls [Deuteronomy 31:6–8](https://biblehub.com/bsb/deuteronomy/31.htm), and the confession of help draws on [Psalm 118:6–7](https://biblehub.com/bsb/psalms/118.htm). These Scriptures supply assurance for trust. The surrounding letter, with its accounts of confiscated property and suffering, does not make that assurance a promise that faithful people never face material need."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/13.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) both emphasize the honor of marriage and the call to trust God rather than love money. Both also apply the marriage statement to clergy, rejecting the idea that marriage is inherently beneath a minister’s calling.",
+    "",
+    "The Catholic Church’s discipline differs here: the [Catechism, 1579–1580](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_three/article_6/vi_who_can_receive_this_sacrament.html), describes the Latin Church’s normal choice of priests committed to remaining unmarried, while recognizing married priests in Eastern Catholic churches. That is not a teaching that marriage itself is immoral.",
+    "",
+    "Christians also differ over divorce and remarriage in applying marriage’s permanence. The [Catholic Catechism, 1649–1650](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_three/article_7/v_the_goods_and_requirements_of_conjugal_love.index.html), permits separation in some circumstances but does not recognize a new marriage while the first valid marriage remains. The Reformed [Westminster Confession, 24.5–6](https://www.opc.org/wcf.html), allows divorce for adultery or certain cases of willful desertion, and remarriage after lawful divorce. Hebrews’ brief instruction does not itself set out all those cases."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 5:25–33](https://biblehub.com/bsb/ephesians/5.htm) connects marriage with Christ’s faithful love for the church. Honoring marriage belongs within a life shaped by that love, rather than using another person for one’s own satisfaction.",
+    "",
+    "[1 Timothy 6:6–10, 17–19](https://biblehub.com/bsb/1_timothy/6.htm) likewise connects contentment and trust in God with generosity. Freedom from money’s rule makes room to use what one has for the good of others."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/13.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-thirteen-review.md"
+  }
+}

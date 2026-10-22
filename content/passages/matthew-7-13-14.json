@@ -1,0 +1,54 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "7:13-14",
+    "label": "Matthew 7:13-14",
+    "slug": "matthew-7-13-14"
+  },
+  "section_title": "The Way That Leads to Life",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "13 Enter through the narrow gate. For wide is the gate and broad is the way that leads to destruction, and many enter through it. 14 But small is the gate and narrow the way that leads to life, and only a few find it."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Jesus now calls for a response to His teaching. Two gates and two ways lead to different destinations: destruction or life. The instruction is to enter through the narrow gate. Hearing the Sermon brings a choice about the direction of one's life.",
+    "",
+    "The broad route attracts many, while the way to life is narrow and found by few. The size of the crowd does not remove the need to heed Jesus. His warning makes the destination of the way more important than its ease or popularity.",
+    "",
+    "The description of the narrow way uses a form of θλίβω, *thlibō* (THLEE-boh), to press or constrain. [Thayer's Greek Lexicon](https://biblehub.com/greek/2346.htm) explains its use here as a compressed or restricted way. The picture presents a demanding route, rather than an unrestricted path chosen for convenience.",
+    "",
+    "The contrasts that follow continue the call to discern and respond: good and bad fruit, religious claims and doing the Father's will, hearing Jesus' words and acting on them. The two ways introduce that closing appeal."
+  ],
+  "common_interpretation_lines": [
+    "Christians commonly read this as a serious call to follow the way of Christ rather than drifting with the crowd toward destruction. [Wesley's note on Matthew 7:13](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-matthew/) connects the narrow way with the holiness taught in the Sermon, and the Catholic [Catechism, 1696](https://www.vatican.va/content/catechism/en/part_three.html), applies the two ways to following Christ and the moral choices of a life directed toward Him."
+  ],
+  "god_plan_lines": [
+    "Elsewhere Jesus describes Himself as the way to the Father. In [John 14:6–7](https://biblehub.com/bsb/john/14.htm), access to the Father comes through Him. In [John 10:7–10](https://biblehub.com/bsb/john/10.htm), He uses the related picture of a gate through which people enter and receive life. These related pictures place the call to enter within God's larger purpose of rescue through Christ.",
+    "",
+    "[Hebrews 10:19–25](https://biblehub.com/bsb/hebrews/10.htm) explains that Jesus' blood opens a new and living way into God's presence. It joins that welcome with holding to hope, encouraging others, and stirring one another toward love and good deeds. The way God opens through His Son leads into a life of trust and perseverance."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/7.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-sermon-completion-review.md"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "8:7-14",
+    "label": "2 Samuel 8:7-14",
+    "slug": "2-samuel-8-7-14"
+  },
+  "section_title": "What does David do with the wealth that comes from victory?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 And David took the gold shields that belonged to the officers of Hadadezer and brought them to Jerusalem. 8 And from Betah and Berothai, cities of Hadadezer, King David took a large amount of bronze. 9 When King Toi of Hamath heard that David had defeated the entire army of Hadadezer, 10 he sent his son Joram to greet King David and bless him for fighting and defeating Hadadezer, who had been at war with Toi. Joram brought with him articles of silver and gold and bronze,",
+        "11 and King David dedicated these to the LORD, along with the silver and gold he had dedicated from all the nations he had subdued— 12 from Edom and Moab, from the Ammonites and Philistines and Amalekites, and from the spoil of Hadadezer son of Rehob, king of Zobah. 13 And David made a name for himself when he returned from striking down eighteen thousand Edomites in the Valley of Salt. 14 He placed garrisons throughout Edom, and all the Edomites were subject to David. So the LORD made David victorious wherever he went."
+      ]
+    }
+  ],
+  "context_lines": [
+    "David brings Hadadezer’s gold shields to Jerusalem and takes bronze from two of his cities. Toi of Hamath, who had also been at war with Hadadezer, sends his son Joram with congratulations and gifts of silver, gold and bronze.",
+    "",
+    "David dedicates these gifts to the LORD along with wealth from the peoples he has subdued. The survey then records victory over eighteen thousand Edomites in the Valley of Salt and garrisons throughout Edom. Once again, it credits the LORD with David’s success."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/8.htm) connects the dedicated wealth with preparations for the temple. The parallel in [1 Chronicles 18:8](https://biblehub.com/bsb/1_chronicles/18.htm) specifically says that Solomon used the captured bronze for temple furnishings. David’s part in the work extends beyond what he builds during his own lifetime.",
+    "",
+    "[1 Chronicles 18:12–13](https://biblehub.com/bsb/1_chronicles/18.htm) names Abishai in the Edomite victory that this passage credits to David. The [USCCB Bible notes](https://bible.usccb.org/bible/2samuel/8) also note the different attribution. A royal summary can credit a king with his forces’ achievement without saying he personally delivered every blow.",
+    "",
+    "Toi’s gift is presented as a response to the defeat of a common opponent. The passage does not describe the terms of a separate covenant or tell us the private motives behind every diplomatic gesture."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/8.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-eight-nine-review.md"
+  }
+}

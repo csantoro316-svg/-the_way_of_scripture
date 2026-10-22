@@ -54,4 +54,4 @@ The owner granted the existing operator, `local-cloud-operator@memory-genie-ai.i
 
 CozPlex can perform repository work and authorized Hosting deployments independently of CozDev. Use its local `mg-cloud-firebase` wrapper with `--project the-way-of-scripture` and follow the cloud runbook. The separate Firebase project/account remains in place; no recurring interactive Firebase login is required by this route.
 
-The Prayer and Faith HTML revision currently differs from its Markdown source. Follow `documentation/changes/2026-10-18-prayer-and-faith-git-backup.md` before regenerating pages.
+The saved Prayer and Faith asking revision has been reconciled into its Markdown source. Generator translation debt remains open; use `python3 tools/generate_study_pages.py --navigation-only` for navigation refreshes that must preserve current content. See `documentation/architecture/CONTENT_EXECUTION_STANDARD.md` before full regeneration.

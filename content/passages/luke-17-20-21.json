@@ -5,18 +5,50 @@
     "label": "Luke 17:20-21",
     "slug": "luke-17-20-21"
   },
+  "section_title": "Is God’s kingdom only something still to arrive?",
   "versions": [
     {
-      "label": "LSB",
-      "text": "\"Now having been questioned by the Pharisees as to when the kingdom of God was coming, He answered them and said, 'The kingdom of God is not coming with signs to be observed; nor will they say, \"Look, here it is!\" or, \"There it is!\" For behold, the kingdom of God is in your midst.'\""
+      "label": "BSB",
+      "paragraphs": [
+        "20 When asked by the Pharisees when the kingdom of God would come, Jesus replied, “The kingdom of God will not come with observable signs. 21 Nor will people say, ‘Look, here it is,’ or ‘There it is.’ For you see, the kingdom of God is in your midst.”"
+      ]
     }
   ],
   "context_lines": [
-    "In **Luke 17**, Jesus teaches about stumbling, forgiveness, faith, gratitude, and the coming of the kingdom. His words about the kingdom must be read against false expectations of spectacle and external signs alone."
-  ],
-  "explanation_lines": [
-    "Jesus rejected the notion that the kingdom would come with observable pomp or political takeover. Instead, He taught that the kingdom was a spiritual reality, alive within those who receive Him. The early Christians understood this not as escapism but as a reorientation: true power, peace, and authority reside in hearts aligned with God's reign. To live under His rule is to manifest the kingdom in our choices, relationships, and community. The world may still rebel, but within the believer, God reigns.",
+    "The Pharisees ask when God’s kingdom will come. Jesus answers that it will not arrive in a way they can locate by announcing that it is over here or over there. His answer directs their attention to the kingdom already in their midst.",
     "",
-    "In contrast, many modern churches still relate to the kingdom of God as if it were primarily an external structure \u2014 a political cause, a church program, or a measurable movement. In Catholicism, the Church itself is often presented as the visible manifestation of the kingdom on earth, with ecclesial authority and sacramental systems acting as its governing framework. Protestant denominations, while rejecting Rome's institutional claims, frequently build competing kingdoms through denominational expansion, influence in culture wars, or alignment with political ideologies. Even non-denominational churches, though unbound by formal systems, often equate the kingdom with visible growth \u2014 more attendees, more campuses, more \"impact.\" This mirrors the very thing Jesus warned against: looking for the kingdom \"here\" or \"there,\" rather than recognizing that it begins within the humble, surrendered heart. The early Church had no worldly platform or power, yet it turned the world upside down \u2014 not by building kingdoms, but by being one under the invisible rule of Christ. We must return to this inward reign if we hope to bear lasting fruit."
-  ]
+    "The Greek expression uses ἐντός, entos (en-TOSS), meaning within or inside. Thayer recognizes that the wording can describe an inward reality, but understands this context as in your midst. The BSB uses that wording and gives within you as a footnote alternative. Because Jesus is addressing Pharisees, readers must consider who is being addressed as well as the word’s possible meanings. ([Thayer, Greek 1787](https://biblehub.com/greek/1787.htm))",
+    "",
+    "Jesus next turns to the disciples and speaks about the coming day of the Son of Man. Keeping those next verses in view prevents the present kingdom from being used to erase everything He says about what is still ahead. ([Luke 17:22–37](https://the-way-of-scripture.web.app/passages/luke-17-22-37.html))"
+  ],
+  "common_interpretation_lines": [
+    "The difference here concerns how the kingdom is present, rather than whether God reigns. The Catholic bishops’ notes prefer among you, pointing to Jesus’ preaching and healing ministry. Wesley allows within or among, then emphasizes the inward reign of God in a true believer. These are identifiable readings in those sources, rather than a rule that every Catholic or Methodist explains the phrase in exactly the same way. ([USCCB notes on Luke 17:20–21](https://bible.usccb.org/bible/luke/17); [Wesley on Luke 17:20–21](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/))"
+  ],
+  "god_plan_lines": [
+    "Colossians describes believers as already rescued from darkness and brought into the kingdom of God’s Son. Acts also records the risen Jesus directing His followers away from knowledge of the Father’s timetable and toward Spirit-empowered witness, while promising His return. These passages hold together belonging to Christ now, a task to carry out, and a future still in God’s hands. ([Colossians 1:12–14](https://biblehub.com/bsb/colossians/1.htm); [Acts 1:6–11](https://biblehub.com/bsb/acts/1.htm))"
+  ],
+  "current_position_lines": [
+    "What Is the True Church?, in its section The Kingdom is Within Us, understands this passage as a call to live under Christ’s rule from the heart. The study emphasizes surrender, obedience, mercy and faithfulness as expressions of that reign, rather than measuring the kingdom by a religious organization’s size, influence or outward display."
+  ],
+  "deeper_study": [
+    {
+      "title": "What Is the True Church?",
+      "href": "../studies/true-church.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/luke/17.htm",
+    "plan_basis": [
+      "c"
+    ],
+    "position_source": "existing-study",
+    "evidence_file": "documentation/testing/2026-10-19-luke-seventeen-closing-review.md",
+    "position_source_detail": "What Is the True Church? — The Kingdom is Within Us; inward rule expressed in surrender, obedience, mercy and faithfulness, rather than institutional size or display."
+  }
 }

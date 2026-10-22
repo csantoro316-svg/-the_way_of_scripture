@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "11:23-27",
+    "label": "Hebrews 11:23-27",
+    "slug": "hebrews-11-23-27"
+  },
+  "section_title": "Why did Moses choose the people of God over Egypt’s treasures?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "23 By faith Moses’ parents hid him for three months after his birth, because they saw that he was a beautiful child, and they were unafraid of the king’s edict.",
+        "24 By faith Moses, when he was grown, refused to be called the son of Pharaoh’s daughter. 25 He chose to suffer oppression with God’s people rather than to experience the fleeting enjoyment of sin. 26 He valued disgrace for Christ above the treasures of Egypt, for he was looking ahead to his reward. 27 By faith Moses left Egypt, not fearing the king’s anger; he persevered because he saw Him who is invisible."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The account of Moses begins with his parents’ faith. They protected him for three months despite the king’s command. Hebrews then turns to Moses as an adult, choosing identification with God’s oppressed people over the privileges of Pharaoh’s household.",
+    "",
+    "The contrast concerns what he valued. Passing enjoyment and Egypt’s treasures were weighed against disgrace for Christ and the reward ahead. Hebrews reads Moses’ solidarity with God’s people in relation to Christ, long before Jesus’ earthly life.",
+    "",
+    "The reference to leaving Egypt has prompted discussion because [Exodus 2:14–15](https://biblehub.com/bsb/exodus/2.htm) describes Moses being afraid and fleeing, while the later exodus shows him confronting Pharaoh and leading Israel out. The readings below explain the difference.",
+    "",
+    "He persevered as seeing the invisible God. That recalls the chapter’s opening concern with what cannot presently be seen: faith gave God’s reality more weight than the king’s anger."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/11.htm) and [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) understand Moses’ departure in verse 27 as the later departure with Israel. Calvin considers the earlier flight before favoring the later event; Wesley explicitly distinguishes the earlier occasion when Moses feared Pharaoh. The [USCCB note](https://bible.usccb.org/bible/hebrews/11) instead highlights the difference between Hebrews’ reason for leaving and the flight described in Exodus 2.",
+    "",
+    "They also explain disgrace for Christ with different emphases. Calvin speaks of the suffering shared by Christ’s people and their Head. Wesley understands Moses as acting in expectation of the coming Messiah. Both connect his costly choice with God’s purpose, rather than treating suffering as valuable merely because it hurts."
+  ],
+  "god_plan_lines": [
+    "[Acts 7:35–37](https://biblehub.com/bsb/acts/7.htm) places Moses within the larger story of God sending a deliverer and recalls his promise of a prophet like him. [Hebrews 3:1–6](https://biblehub.com/bsb/hebrews/3.htm) distinguishes Moses’ faithful service in God’s house from Christ’s authority over it as Son.",
+    "",
+    "Moses belongs within that movement toward Christ. His example calls readers to value belonging to God’s people when it carries a cost, while recognizing the greater One to whom their faith now looks."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/11.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-eleven-closing-review.md"
+  }
+}

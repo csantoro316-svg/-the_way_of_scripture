@@ -1,0 +1,57 @@
+{
+  "reference": {
+    "book": "John",
+    "citation": "6:60-71",
+    "label": "John 6:60-71",
+    "slug": "john-6-60-71"
+  },
+  "section_title": "Where else would the disciples find words of eternal life?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "60 On hearing it, many of His disciples said, “This is a difficult teaching. Who can accept it?” 61 Aware that His disciples were grumbling about this teaching, Jesus asked them, “Does this offend you? 62 Then what will happen if you see the Son of Man ascend to where He was before? 63 The Spirit gives life; the flesh profits nothing. The words I have spoken to you are spirit and they are life. 64 However, there are some of you who do not believe.” (For Jesus had known from the beginning which of them did not believe and who would betray Him.) 65 Then Jesus said, “This is why I told you that no one can come to Me unless the Father has granted it to him.”",
+        "66 From that time on many of His disciples turned back and no longer walked with Him. 67 So Jesus asked the Twelve, “Do you want to leave too?” 68 Simon Peter replied, “Lord, to whom would we go? You have the words of eternal life. 69 We believe and know that You are the Holy One of God.” 70 Jesus answered them, “Have I not chosen you, the Twelve? Yet one of you is a devil!” 71 He was speaking about Judas, the son of Simon Iscariot. For although Judas was one of the Twelve, he was later to betray Jesus."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Many disciples find the teaching difficult to accept. Jesus asks whether it offends them, speaks of the Son of Man ascending to where He was before, and says that the Spirit gives life. He also says that some do not believe, and the Gospel notes His knowledge of unbelief and the coming betrayal.",
+    "",
+    "When many turn back, Jesus asks the Twelve whether they also want to leave. Peter answers that Jesus has the words of eternal life and confesses Him as the Holy One of God.",
+    "",
+    "Jesus then reminds them that He has chosen the Twelve while warning that one of them is a devil. The Gospel identifies the coming betrayer as Judas. Being among the closest followers does not make that warning unnecessary."
+  ],
+  "common_interpretation_lines": [
+    "Christian readers commonly understand Peter’s answer as a confession of trust in Jesus, set beside the departure of others and the warning about Judas. Calvin and Wesley both treat the answer as a confession of faith, while distinguishing membership among the Twelve from a guarantee of faithfulness. ([Calvin on John 6:68–70](https://biblehub.com/commentaries/calvin/john/6.htm); [Wesley on John 6:68–70](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-john/))"
+  ],
+  "god_plan_lines": [
+    "First Peter describes new birth through God’s living and enduring word, the message proclaimed in the gospel. That is a scriptural parallel to Jesus’ words giving life through the Spirit: God brings people to life through a message that outlasts human weakness. ([1 Peter 1:22–25](https://biblehub.com/bsb/1_peter/1.htm))",
+    "",
+    "The warning about betrayal also looks toward the cross. In Acts, Peter describes Jesus being handed over according to God’s purpose and foreknowledge, while holding those who killed Him responsible, and then announces God raising Him from death. Betrayal and opposition do not overturn the saving purpose fulfilled through the crucified and risen Son. ([Acts 2:22–24](https://biblehub.com/bsb/acts/2.htm))"
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/john/6.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-john-six-closing-review.md"
+  }
+}

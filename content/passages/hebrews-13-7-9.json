@@ -1,0 +1,62 @@
+{
+  "reference": {
+    "book": "Hebrews",
+    "citation": "13:7-9",
+    "label": "Hebrews 13:7-9",
+    "slug": "hebrews-13-7-9"
+  },
+  "section_title": "What keeps faith steady when teachers and circumstances change?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "7 Remember your leaders who spoke the word of God to you. Consider the outcome of their way of life and imitate their faith. 8 Jesus Christ is the same yesterday and today and forever. 9 Do not be carried away by all kinds of strange teachings, for it is good for the heart to be strengthened by grace and not by foods of no value to those devoted to them."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The readers are to remember leaders who brought God’s word to them and consider the outcome of their lives. They are directed to imitate faith, rather than treat a title or personality as the source of truth.",
+    "",
+    "Jesus Christ’s constancy stands at the center of the paragraph. Teachers may pass from the scene, but He remains. That steadiness gives the warning against strange teachings its setting.",
+    "",
+    "The particular contrast is between a heart strengthened by grace and reliance on foods. The passage does not identify every rule being promoted. It challenges the idea that such observances can supply the spiritual strength found in God’s grace."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/hebrews/13.htm), [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-epistle-to-the-hebrews/) and the [USCCB notes](https://bible.usccb.org/bible/hebrews/13) understand the remembered leaders as earlier teachers whose faithful lives had reached their end. Calvin especially considers martyrdom while allowing a broader reference to faithful perseverance.",
+    "",
+    "Calvin and Wesley connect the food teaching with Jewish ceremonial observances. The USCCB note considers food laws and also the possibility of sacrificial meals. The exact practice is discussed, while the main contrast remains grace rather than dependence on food observance for spiritual strength."
+  ],
+  "god_plan_lines": [
+    "[Ephesians 4:11–16](https://biblehub.com/bsb/ephesians/4.htm) connects sound teaching with a body growing into maturity, rather than being carried about by changing doctrines. Christ’s gifts serve the community’s stability in Him.",
+    "",
+    "[Colossians 2:16–23](https://biblehub.com/bsb/colossians/2.htm) also weighs food regulations and human rules against holding to Christ. Together these passages direct growth toward the living Head, rather than searching for an additional system that supplies what He lacks."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/hebrews/13.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-hebrews-thirteen-review.md"
+  }
+}

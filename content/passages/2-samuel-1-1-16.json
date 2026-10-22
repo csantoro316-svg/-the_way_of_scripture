@@ -1,0 +1,73 @@
+{
+  "reference": {
+    "book": "2 Samuel",
+    "citation": "1:1-16",
+    "label": "2 Samuel 1:1-16",
+    "slug": "2-samuel-1-1-16"
+  },
+  "section_title": "Why doesn’t David reward the messenger who brings Saul’s crown?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 After the death of Saul, David returned from the slaughter of the Amalekites and stayed in Ziklag two days. 2 On the third day a man with torn clothes and dust on his head arrived from Saul’s camp. When he came to David, he fell to the ground to pay him homage. 3 “Where have you come from?” David asked. “I have escaped from the Israelite camp,” he replied. 4 “What was the outcome?” David asked. “Please tell me.” “The troops fled from the battle,” he replied. “Many of them fell and died. And Saul and his son Jonathan are also dead.” 5 Then David asked the young man who had brought him the report, “How do you know that Saul and his son Jonathan are dead?” 6 “I happened to be on Mount Gilboa,” he replied, “and there was Saul, leaning on his spear, with the chariots and the cavalry closing in on him. 7 When he turned around and saw me, he called out to me, and I answered, ‘Here I am!’ 8 ‘Who are you?’ he asked. So I told him, ‘I am an Amalekite.’ 9 Then he begged me, ‘Stand over me and kill me, for agony has seized me, but my life still lingers.’ 10 So I stood over him and killed him, because I knew that after he had fallen he could not survive. And I took the crown that was on his head and the band that was on his arm, and I have brought them here to my lord.”",
+        "11 Then David took hold of his own clothes and tore them, and all the men who were with him did the same. 12 They mourned and wept and fasted until evening for Saul and his son Jonathan, and for the people of the LORD and the house of Israel, because they had fallen by the sword. 13 And David inquired of the young man who had brought him the report, “Where are you from?” “I am the son of a foreigner,” he answered. “I am an Amalekite.” 14 So David asked him, “Why were you not afraid to lift your hand to destroy the LORD’s anointed?” 15 Then David summoned one of the young men and said, “Go, execute him!” So the young man struck him down, and he died. 16 For David had said to the Amalekite, “Your blood be on your own head because your own mouth has testified against you, saying, ‘I killed the LORD’s anointed.’”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Second Samuel continues the story where First Samuel ends. Saul has died in the battle against the Philistines, while David has returned from recovering the families taken from Ziklag. After two days there, David receives a man from Saul’s camp with torn clothes and dust on his head.",
+    "",
+    "The man reports Israel’s defeat and the deaths of Saul and Jonathan. When David asks how he knows, he claims that Saul begged him to end his life and that he did so. He brings Saul’s crown and arm band. This is the messenger’s account; [1 Samuel 31:1–6](https://biblehub.com/bsb/1_samuel/31.htm) has already described Saul dying after falling on his own sword.",
+    "",
+    "David and his men tear their clothes, weep and fast until evening for Saul, Jonathan and Israel’s fallen people. The news could remove the man who pursued David, but David receives it as a national and personal loss.",
+    "",
+    "He then questions the messenger, who identifies himself as the son of a foreigner, an Amalekite. David asks why he did not fear killing the LORD’s anointed, the king God had appointed, and orders his execution. He bases the sentence on the man’s own claim to have killed Saul. The crown brings the messenger no reward."
+  ],
+  "common_interpretation_lines": [
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/1.htm) reads David’s mourning as sincere and his response as public justice taking priority over private advantage. David’s future kingship does not make Saul’s death something he must celebrate.",
+    "",
+    "[Gill’s earlier comment on Saul’s death](https://biblehub.com/commentaries/gill/1_samuel/31.htm) treats the Amalekite’s later claim as a false story meant to gain David’s favor. Here [Gill](https://biblehub.com/commentaries/gill/2_samuel/1.htm) again understands the crown and arm band as an appeal to Saul’s successor. On that reading, the messenger has badly misjudged what David values.",
+    "",
+    "[Henry](https://biblehub.com/commentaries/mhc/2_samuel/1.htm) judges the sentence by the man’s confession to killing the king. [Gill](https://biblehub.com/commentaries/gill/2_samuel/1.htm) discusses the execution as an exceptional act of royal authority rather than an ordinary rule that any confession automatically warrants death. Those are explanations of David’s judgment in this scene, not instructions for a modern court or private person."
+  ],
+  "god_plan_lines": [
+    "David’s grief makes room for the life of someone who has repeatedly harmed him. His calling to become king does not require delight in his pursuer’s death. The scene shows a future ruler sharing the suffering of his people instead of treating their loss only as his own opportunity.",
+    "",
+    "In [Matthew 5:43–48](https://biblehub.com/bsb/matthew/5.htm), Jesus carries the wider theme into love for enemies and prayer for persecutors, reflecting the Father’s care for both righteous and unrighteous people. The comparison concerns David’s refusal to reduce Saul to an enemy whose death is good news.",
+    "",
+    "This parallel does not make every part of David’s judgment an example to copy. It points to the place of mercy and shared grief within the character of God’s people, a calling Jesus makes explicit."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Prayer and Faith",
+      "href": "../studies/prayer-and-faith.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/2_samuel/1.htm",
+    "plan_basis": [
+      "b",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-second-samuel-one-review.md"
+  }
+}

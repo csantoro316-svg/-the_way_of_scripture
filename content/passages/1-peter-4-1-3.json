@@ -1,0 +1,58 @@
+{
+  "reference": {
+    "book": "1 Peter",
+    "citation": "4:1-3",
+    "label": "1 Peter 4:1-3",
+    "slug": "1-peter-4-1-3"
+  },
+  "section_title": "What does living for God change?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 Therefore, since Christ suffered in His body, arm yourselves with the same resolve, because anyone who has suffered in his body is done with sin. 2 Consequently, he does not live out his remaining time on earth for human passions, but for the will of God. 3 For you have spent enough time in the past carrying out the same desires as the Gentiles: living in debauchery, lust, drunkenness, orgies, carousing, and detestable idolatry."
+      ]
+    }
+  ],
+  "context_lines": [
+    "Christ’s suffering now becomes the starting point for a change in the readers’ purpose. The [word translated arm yourselves](https://biblehub.com/greek/3695.htm) pictures equipping oneself. They are to face life with the same resolve, ready to do God’s will even when that brings suffering.",
+    "",
+    "The statement about being done with sin is followed by its practical direction: use the remaining time for God’s will rather than human passions. The contrast is between the old way of life and the new purpose that belongs to following Christ.",
+    "",
+    "Peter says they have already spent enough time in the former life. He names uncontrolled desires, drunkenness, sexual excess and idolatry. The appeal is to leave that course behind, rather than keep postponing obedience."
+  ],
+  "common_interpretation_lines": [
+    "[Calvin](https://biblehub.com/commentaries/calvin/1_peter/4.htm) connects being done with sin with sharing in Christ’s death so that sin no longer rules one’s life. [Wesley](https://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-first-epistle-general-of-st-peter/) likewise relates it to being made inwardly like Christ in His suffering and delivered from sin. Both direct the reader toward a changed life lived for God.",
+    "",
+    "The following instruction to live differently is part of their explanation. This is more than enduring pain as an isolated experience; it concerns the purpose and conduct of the life that remains."
+  ],
+  "god_plan_lines": [
+    "[Romans 6:6–14](https://biblehub.com/bsb/romans/6.htm) connects Christ’s death and resurrection with freedom from sin’s rule. Those brought from death to life are to offer themselves to God rather than let sin reign.",
+    "",
+    "This gives a wider setting for Peter’s appeal. Christ’s saving work is meant to produce a new direction in daily life, including the choices a believer makes when obedience becomes costly."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-20",
+    "quote_source": "https://biblehub.com/bsb/1_peter/4.htm",
+    "plan_basis": [
+      "a",
+      "c"
+    ],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-20-first-peter-four-review.md"
+  }
+}

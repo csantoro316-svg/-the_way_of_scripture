@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "44:10-14",
+    "label": "Ezekiel 44:10-14",
+    "slug": "ezekiel-44-10-14"
+  },
+  "section_title": "What consequences follow the Levites’ unfaithfulness?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "10 Surely the Levites who wandered away from Me when Israel went astray, and who wandered away from Me after their idols, will bear the consequences of their iniquity. 11 Yet they shall be ministers in My sanctuary, having charge of the gates of the temple and ministering there. They shall slaughter the burnt offerings and other sacrifices for the people and stand before them to minister to them. 12 Because they ministered before their idols and became a stumbling block of iniquity to the house of Israel, therefore I swore with an uplifted hand concerning them that they would bear the consequences of their iniquity, declares the Lord GOD. 13 They must not approach Me to serve Me as priests or come near any of My holy things or the most holy things. They will bear the shame of the abominations they have committed. 14 Yet I will appoint them to keep charge of all the work for the temple and everything to be done in it."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The Lord addresses Levites who followed Israel into idolatry and helped others stumble. Their position had not protected them from responsibility for leading the people astray.",
+    "",
+    "They will still have work in the temple: caring for its gates, slaughtering offerings for the people and carrying out its service. But they may not approach the Lord as priests or come near the most holy things.",
+    "",
+    "The distinction holds together continued service and real consequences. The work remaining to them does not erase the seriousness of what they had done."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/ezekiel/44.htm) and the [USCCB notes](https://bible.usccb.org/bible/ezekiel/44) understand this as a reduction in priestly responsibility because of earlier wrongdoing. The Levites remain involved in the sanctuary’s work while being restricted from its closest priestly service.",
+    "",
+    "The passage distinguishes responsibilities within the temple. It does not pronounce the eternal destiny of every individual descended from a particular family."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "Who Shepherds the Church?",
+      "href": "../studies/who-shepherds-the-church.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/44.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-forty-four-five-review.md"
+  }
+}

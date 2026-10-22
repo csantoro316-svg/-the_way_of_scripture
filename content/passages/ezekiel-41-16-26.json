@@ -1,0 +1,52 @@
+{
+  "reference": {
+    "book": "Ezekiel",
+    "citation": "41:16-26",
+    "label": "Ezekiel 41:16-26",
+    "slug": "ezekiel-41-16-26"
+  },
+  "section_title": "What decorates the sanctuary, and what stands before the Lord?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "16 as well as the thresholds and the beveled windows and the galleries all around with their three levels opposite the threshold, were overlaid with wood on all sides. They were paneled from the ground to the windows, and the windows were covered. 17 In the space above the outside of the entrance to the inner sanctuary on all the walls, spaced evenly around the inner and outer sanctuary, 18 were alternating carved cherubim and palm trees. Each cherub had two faces: 19 the face of a man was toward the palm tree on one side, and the face of a young lion was toward the palm tree on the other side. They were carved all the way around the temple. 20 Cherubim and palm trees were carved on the wall of the outer sanctuary from the floor to the space above the entrance.",
+        "21 The outer sanctuary had a rectangular doorframe, and the doorframe of the sanctuary was similar. 22 There was an altar of wood three cubits high and two cubits square. Its corners, base, and sides were of wood. And the man told me, “This is the table that is before the LORD.” 23 Both the outer sanctuary and the inner sanctuary had double doors, 24 and each door had two swinging panels. There were two panels for one door and two for the other. 25 Cherubim and palm trees like those on the walls were carved on the doors of the outer sanctuary, and there was a wooden canopy outside, on the front of the portico. 26 There were beveled windows and palm trees on the sidewalls of the portico. The side rooms of the temple also had canopies."
+      ]
+    }
+  ],
+  "context_lines": [
+    "The sanctuary is paneled with wood and decorated with alternating cherubim and palm trees. Each carved cherub has two faces: a human face toward one palm tree and a young lion’s face toward the other.",
+    "",
+    "An altar of wood stands inside, three cubits high and two cubits square. The guide identifies it as the table before the Lord. Double doors with swinging panels also bear cherubim and palm-tree carvings.",
+    "",
+    "The account attends to beauty as well as dimensions. These are carved figures in the sanctuary’s design, distinct from the living creatures Ezekiel described in his earlier visions."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/ezekiel/41.htm) identifies the wooden altar as an incense altar. [Cambridge](https://biblehub.com/commentaries/cambridge/ezekiel/41.htm) instead considers it likely to be the table for the bread offered before the Lord. The guide calls it a table, but the passage does not give a fuller description of its use here.",
+    "",
+    "The difference concerns the furnishing’s function. Neither reading requires assigning a hidden meaning to every face or palm-tree carving."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "Worship as the Early Church Knew It",
+      "href": "../studies/worship.html"
+    },
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/ezekiel/41.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-ezekiel-forty-two-review.md"
+  }
+}

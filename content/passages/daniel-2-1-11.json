@@ -1,0 +1,53 @@
+{
+  "reference": {
+    "book": "Daniel",
+    "citation": "2:1-11",
+    "label": "Daniel 2:1-11",
+    "slug": "daniel-2-1-11"
+  },
+  "section_title": "Why can’t the king’s advisers meet his demand?",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "1 In the second year of his reign, Nebuchadnezzar had dreams that troubled his spirit, and sleep escaped him. 2 So the king gave orders to summon the magicians, enchanters, sorcerers, and astrologers to explain his dreams. When they came and stood before the king, 3 he said to them, “I have had a dream, and my spirit is anxious to understand it.”",
+        "4 Then the astrologers answered the king in Aramaic, “O king, may you live forever! Tell your servants the dream, and we will give the interpretation.” 5 The king replied to the astrologers, “My word is final: If you do not tell me the dream and its interpretation, you will be cut into pieces and your houses will be reduced to rubble. 6 But if you tell me the dream and its interpretation, you will receive from me gifts and rewards and great honor. So tell me the dream and its interpretation.”",
+        "7 They answered a second time, “Let the king tell the dream to his servants, and we will give the interpretation.” 8 The king replied, “I know for sure that you are stalling for time because you see that my word is final. 9 If you do not tell me the dream, there is only one decree for you. You have conspired to speak before me false and fraudulent words, hoping the situation will change. Therefore tell me the dream, and I will know that you can give me its interpretation.” 10 The astrologers answered the king, “No one on earth can do what the king requests! No king, however great and powerful, has ever asked anything like this of any magician, enchanter, or astrologer. 11 What the king requests is so difficult that no one can tell it to him except the gods, whose dwelling is not with mortals.”"
+      ]
+    }
+  ],
+  "context_lines": [
+    "Nebuchadnezzar’s dreams leave him troubled and unable to sleep. He summons those expected to explain such matters, but demands more than an interpretation: they must also tell him the dream itself.",
+    "",
+    "The advisers ask him to describe it first. He suspects that they are stalling and preparing a false answer, so he insists that telling the dream will demonstrate their ability to interpret it.",
+    "",
+    "They finally admit that no human being can supply what he asks. In their account, only the gods could know it, and those gods do not dwell with mortals. Their admission prepares for the contrast with the God who will make the mystery known to Daniel."
+  ],
+  "common_interpretation_lines": [
+    "[Wesley](https://biblehub.com/commentaries/wes/daniel/2.htm) and [Gaebelein](https://biblehub.com/commentaries/gaebelein/daniel/2.htm) understand the king as having forgotten the dream. [Cambridge](https://biblehub.com/commentaries/cambridge/daniel/2.htm) reads his statement in verse 5 as a firm decree rather than a lost memory. The BSB likewise gives his words as a final decision.",
+    "",
+    "The shared point is the demand for both dream and interpretation. The text does not simply show the advisers failing to explain a dream already supplied to them."
+  ],
+  "god_plan_lines": [],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Berean Standard",
+      "href": "../studies/the-berean-standard.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-21",
+    "quote_source": "https://biblehub.com/bsb/daniel/2.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-21-daniel-two-review.md"
+  }
+}

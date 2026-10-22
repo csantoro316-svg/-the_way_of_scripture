@@ -1,0 +1,48 @@
+{
+  "reference": {
+    "book": "Matthew",
+    "citation": "27:55-56",
+    "label": "Matthew 27:55-56",
+    "slug": "matthew-27-55-56"
+  },
+  "section_title": "The Women Who Remained Near the Cross",
+  "versions": [
+    {
+      "label": "BSB",
+      "paragraphs": [
+        "55 And many women were there, watching from a distance. They had followed Jesus from Galilee to minister to Him. 56 Among them were Mary Magdalene, Mary the mother of James and Joseph, and the mother of Zebedee’s sons."
+      ]
+    }
+  ],
+  "context_lines": [
+    "After describing the soldiers' response, Matthew turns to women watching from a distance. They had followed Jesus from Galilee and served Him. He names Mary Magdalene, Mary the mother of James and Joseph, and the mother of Zebedee's sons. These are followers whose service began before the crucifixion.",
+    "",
+    "[Luke 8:1–3](https://biblehub.com/bsb/luke/8.htm) gives a wider picture of women who accompanied Jesus and supported His ministry from their own resources. Matthew's account here leads into their continued presence: Mary Magdalene and the other Mary watch the burial in [27:61](https://the-way-of-scripture.web.app/passages/matthew-27-57-61.html) and return to the tomb in [28:1](https://biblehub.com/bsb/matthew/28.htm). They connect the account of His death with what happens at His tomb.",
+    "",
+    "Matthew's list is not a statement that no other follower was nearby. [Luke 23:49](https://biblehub.com/bsb/luke/23.htm) mentions those who knew Him standing at a distance, and [John 19:25–27](https://biblehub.com/bsb/john/19.htm) describes Jesus' mother and the disciple He loved near the cross."
+  ],
+  "common_interpretation_lines": [
+    "Christian readings commonly recognize these women as faithful followers whose presence matters to the account of Jesus' death, burial, and empty tomb. [Calvin on 27:55](https://biblehub.com/commentaries/calvin/matthew/27.htm) emphasizes their devotion and witness, while the [US Catholic bishops' note on 27:55–56](https://bible.usccb.org/bible/matthew/27) highlights the same women's appearance at the burial and the tomb afterward; no denominational breakdown is needed here."
+  ],
+  "current_position_lines": [
+    "We don't have a position on this passage yet. When our study reaches a conclusion the text supports, it will appear here."
+  ],
+  "deeper_study": [
+    {
+      "title": "I Am a Disciple",
+      "href": "../studies/i-am-a-disciple.html"
+    },
+    {
+      "title": "The Gospel According to Jesus",
+      "href": "../studies/the-gospel-according-to-jesus.html"
+    }
+  ],
+  "editorial_review": {
+    "standard": "passage-v1",
+    "reviewed_on": "2026-10-19",
+    "quote_source": "https://biblehub.com/bsb/matthew/27.htm",
+    "plan_basis": [],
+    "position_source": "none",
+    "evidence_file": "documentation/testing/2026-10-19-matthew-twenty-seven-closing-review.md"
+  }
+}
